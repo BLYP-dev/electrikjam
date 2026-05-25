@@ -14,8 +14,11 @@ categories:
   - "Guitar News"
 categorySlugs: 
   - "news"
+categoryPaths: 
+  - "/category/news/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg"
 featuredImageAlt: "Squier Classic Vibe '60s Jazzmaster Electric Guitar"
 seo: 

@@ -14,8 +14,11 @@ categories:
   - "Guitar Strings"
 categorySlugs: 
   - "guitar-strings"
+categoryPaths: 
+  - "/category/gear/accessories/guitar-strings/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/12/The-Best-Guitar-Strings-for-Any-Tuning-From-Standard-To-Drop-A.jpg"
 featuredImageAlt: "The Best Guitar Strings for Any Tuning (From Standard To Drop A...)"
 seo: 

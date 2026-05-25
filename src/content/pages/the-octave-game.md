@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImageAlt: ""
 seo: 
   title: "The Octave Game: Fretboard Fluency In 5 Minutes A Day!"

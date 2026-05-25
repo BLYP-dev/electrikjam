@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImageAlt: ""
 seo: 
   title: "Extended Range Guitars: The Ultimate Beginner's Guide"

@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImageAlt: ""
 seo: 
   title: "New Guitar? Here's The ONLY Setup Checklist You'll Ever Need"

@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImageAlt: ""
 seo: 
   title: "Solid-Body Electric Guitars: The Definitive Guide"

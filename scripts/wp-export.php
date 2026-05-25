@@ -15,20 +15,53 @@ function ej_term_payload($post_id, $taxonomy) {
         return [];
     }
 
-    return array_values(array_map(function ($term) {
-        return [
-            'id' => $term->term_id,
-            'name' => html_entity_decode($term->name, ENT_QUOTES | ENT_HTML5, 'UTF-8'),
-            'slug' => $term->slug,
-            'taxonomy' => $term->taxonomy,
-            'link' => get_term_link($term),
-        ];
-    }, $terms));
+    return array_values(array_map('ej_format_term', $terms));
+}
+
+function ej_format_term($term) {
+    $link = get_term_link($term);
+    $path = is_wp_error($link) ? '' : wp_parse_url($link, PHP_URL_PATH);
+    return [
+        'id' => $term->term_id,
+        'name' => html_entity_decode($term->name, ENT_QUOTES | ENT_HTML5, 'UTF-8'),
+        'slug' => $term->slug,
+        'taxonomy' => $term->taxonomy,
+        'parent' => (int) $term->parent,
+        'description' => html_entity_decode(term_description($term), ENT_QUOTES | ENT_HTML5, 'UTF-8'),
+        'path' => $path,
+        'link' => is_wp_error($link) ? '' : $link,
+        'seo' => [
+            'title' => ej_term_meta_first($term->term_id, ['wpseo_title', 'rank_math_title']),
+            'description' => ej_term_meta_first($term->term_id, ['wpseo_desc', 'rank_math_description']),
+            'canonical' => ej_term_meta_first($term->term_id, ['wpseo_canonical', 'rank_math_canonical_url']),
+        ],
+    ];
+}
+
+function ej_all_terms($taxonomy) {
+    $terms = get_terms([
+        'taxonomy' => $taxonomy,
+        'hide_empty' => false,
+    ]);
+    if (is_wp_error($terms) || empty($terms)) {
+        return [];
+    }
+    return array_values(array_map('ej_format_term', $terms));
 }
 
 function ej_meta_first($post_id, $keys) {
     foreach ($keys as $key) {
         $value = get_post_meta($post_id, $key, true);
+        if ($value !== '') {
+            return $value;
+        }
+    }
+    return '';
+}
+
+function ej_term_meta_first($term_id, $keys) {
+    foreach ($keys as $key) {
+        $value = get_term_meta($term_id, $key, true);
         if ($value !== '') {
             return $value;
         }
@@ -93,6 +126,8 @@ $payload = [
     'home' => home_url('/'),
     'siteurl' => site_url('/'),
     'permalinkStructure' => get_option('permalink_structure'),
+    'categories' => ej_all_terms('category'),
+    'tags' => ej_all_terms('post_tag'),
     'posts' => ej_query_posts('post', $post_limit),
     'pages' => ej_query_posts('page', $page_limit),
 ];

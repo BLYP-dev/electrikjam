@@ -14,10 +14,14 @@ categories:
   - "Electric Guitars"
 categorySlugs: 
   - "electric-guitars"
+categoryPaths: 
+  - "/category/reviews/electric-guitars/"
 tags: 
   - "Gibson Guitars"
 tagSlugs: 
   - "gibson"
+tagPaths: 
+  - "/tag/gibson/"
 featuredImage: "/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-reviews.jpg"
 featuredImageAlt: "Gibson Les Paul Standard '60s reviews"
 seo: 

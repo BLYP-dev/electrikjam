@@ -12,8 +12,10 @@ author: "Christoper Horton"
 authorSlug: "chris"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImageAlt: ""
 seo: 
   title: "Fender Stratocaster Reviews (All Models & Variations)"

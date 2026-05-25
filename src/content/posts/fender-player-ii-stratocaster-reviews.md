@@ -14,10 +14,14 @@ categories:
   - "Electric Guitars"
 categorySlugs: 
   - "electric-guitars"
+categoryPaths: 
+  - "/category/reviews/electric-guitars/"
 tags: 
   - "Fender Stratocaster Model"
 tagSlugs: 
   - "fender-stratocaster-model"
+tagPaths: 
+  - "/tag/fender-stratocaster-model/"
 featuredImage: "/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg"
 featuredImageAlt: "Fender Player II stratocaster reviews"
 seo: 

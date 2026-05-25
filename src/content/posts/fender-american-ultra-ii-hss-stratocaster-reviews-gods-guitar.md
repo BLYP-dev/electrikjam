@@ -14,10 +14,14 @@ categories:
   - "Electric Guitars"
 categorySlugs: 
   - "electric-guitars"
+categoryPaths: 
+  - "/category/reviews/electric-guitars/"
 tags: 
   - "Fender Stratocaster Model"
 tagSlugs: 
   - "fender-stratocaster-model"
+tagPaths: 
+  - "/tag/fender-stratocaster-model/"
 featuredImage: "/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1.jpg"
 featuredImageAlt: "Fender American Ultra II HSS Stratocaster Reviews"
 seo: 

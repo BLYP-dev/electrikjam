@@ -14,10 +14,14 @@ categories:
   - "Amps"
 categorySlugs: 
   - "amps"
+categoryPaths: 
+  - "/category/amps/"
 tags: 
   - "Boss Katana"
 tagSlugs: 
   - "boss-katana"
+tagPaths: 
+  - "/tag/boss-katana/"
 featuredImage: "/wp-content/uploads/2024/05/boss-katana-3-what-to-expect-1.png"
 featuredImageAlt: "boss katana 3 what to expect (1)"
 seo: 

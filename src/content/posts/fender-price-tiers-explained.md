@@ -14,10 +14,14 @@ categories:
   - "Tutorials"
 categorySlugs: 
   - "tutorials"
+categoryPaths: 
+  - "/category/tutorials/"
 tags: 
   - "Fender Guitars & Gear"
 tagSlugs: 
   - "fender"
+tagPaths: 
+  - "/tag/fender/"
 featuredImage: "/wp-content/uploads/2022/03/Untitled-design-5.png"
 featuredImageAlt: "Fender price tiers"
 seo: 

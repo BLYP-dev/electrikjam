@@ -19,6 +19,7 @@ const exportFile = process.env.WP_EXPORT_FILE;
 
 if (exportFile) {
   const payload = JSON.parse(await readFile(exportFile, 'utf8'));
+  await writeTaxonomyData(payload.categories || [], payload.tags || []);
   await Promise.all([
     ...(payload.posts || []).map((post) => writeExportEntry(post, 'post')),
     ...(payload.pages || []).map((page) => writeExportEntry(page, 'page')),
@@ -34,6 +35,7 @@ if (exportFile) {
   const categoryMap = new Map(categories.map((term) => [term.id, term]));
   const tagMap = new Map(tags.map((term) => [term.id, term]));
   const userMap = new Map(users.map((user) => [user.id, user]));
+  await writeTaxonomyData(categories, tags);
 
   const [posts, pages] = await Promise.all([
     fetchJson(`${apiRoot}/posts?per_page=${postLimit}&_embed=1&orderby=date&order=desc`),
@@ -92,8 +94,10 @@ async function writeRestEntry(item, type, maps) {
     authorSlug: author?.slug || '',
     categories: categoryTerms.map((term) => decodeEntities(term.name)),
     categorySlugs: categoryTerms.map((term) => term.slug),
+    categoryPaths: categoryTerms.map((term) => termPath(term, 'category')),
     tags: tagTerms.map((term) => decodeEntities(term.name)),
     tagSlugs: tagTerms.map((term) => term.slug),
+    tagPaths: tagTerms.map((term) => termPath(term, 'tag')),
     featuredImage: localMediaPath(media?.source_url),
     featuredImageAlt: decodeEntities(media?.alt_text || media?.title?.rendered || ''),
     seo,
@@ -120,8 +124,10 @@ async function writeExportEntry(item, type) {
     authorSlug: item.author?.slug || '',
     categories: (item.categories || []).map((term) => decodeEntities(term.name)),
     categorySlugs: (item.categories || []).map((term) => term.slug),
+    categoryPaths: (item.categories || []).map((term) => termPath(term, 'category')),
     tags: (item.tags || []).map((term) => decodeEntities(term.name)),
     tagSlugs: (item.tags || []).map((term) => term.slug),
+    tagPaths: (item.tags || []).map((term) => termPath(term, 'tag')),
     featuredImage: localMediaPath(item.featuredImage),
     featuredImageAlt: decodeEntities(item.featuredImageAlt || ''),
     seo: {
@@ -131,6 +137,39 @@ async function writeExportEntry(item, type) {
     },
   };
   await writeTextFile(outputPath, `---\n${toYaml(frontmatter)}---\n\n${sanitizeImportedHtml(item.content || '')}\n`);
+}
+
+async function writeTaxonomyData(categories, tags) {
+  const data = {
+    categories: normalizeTerms(categories, 'category'),
+    tags: normalizeTerms(tags, 'tag'),
+  };
+  await writeTextFile(projectPath('src', 'data', 'taxonomies.json'), `${JSON.stringify(data, null, 2)}\n`);
+}
+
+function normalizeTerms(terms, type) {
+  return terms.map((term) => {
+    const path = termPath(term, type);
+    return {
+      id: term.id,
+      name: decodeEntities(term.name || term.slug || path),
+      slug: term.slug || slugify(path),
+      taxonomy: term.taxonomy || type,
+      parent: term.parent || 0,
+      path,
+      description: decodeEntities(stripHtml(term.description || '')),
+      seo: {
+        title: decodeEntities(term.seo?.title || term.name || ''),
+        description: decodeEntities(term.seo?.description || stripHtml(term.description || '')),
+        canonical: normalizeLiveUrl(term.seo?.canonical) || new URL(path, LIVE_ORIGIN).toString(),
+      },
+    };
+  });
+}
+
+function termPath(term, type) {
+  if (term?.path || term?.link) return normalizePath(term.path || term.link);
+  return normalizePath(`/${type === 'category' ? 'category' : 'tag'}/${term?.slug || ''}/`);
 }
 
 function safeFileName(item) {

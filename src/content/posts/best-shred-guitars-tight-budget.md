@@ -14,10 +14,14 @@ categories:
   - "Electric Guitars"
 categorySlugs: 
   - "electric-guitars"
+categoryPaths: 
+  - "/category/reviews/electric-guitars/"
 tags: 
   - "Budget Guitars"
 tagSlugs: 
   - "budget-guitars"
+tagPaths: 
+  - "/tag/budget-guitars/"
 featuredImage: "/wp-content/uploads/2024/11/7-EPIC-SHRED-GUITARS-FOR-ANYONE-ON-A-TIGHT-BUDGET.jpg"
 featuredImageAlt: "7 EPIC SHRED GUITARS FOR ANYONE ON A TIGHT BUDGET"
 seo: 

@@ -14,10 +14,14 @@ categories:
   - "DAW Platforms"
 categorySlugs: 
   - "daw-platforms"
+categoryPaths: 
+  - "/category/daws/daw-platforms/"
 tags: 
   - "Cubase"
 tagSlugs: 
   - "cubase"
+tagPaths: 
+  - "/tag/cubase/"
 featuredImage: "/wp-content/uploads/2023/07/is-cubase-free.png"
 featuredImageAlt: "is cubase free"
 seo: 

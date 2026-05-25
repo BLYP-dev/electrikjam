@@ -12,8 +12,10 @@ author: "Christoper Horton"
 authorSlug: "chris"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImageAlt: ""
 seo: 
   title: "Fender Guitars For Metal: The Ultimate Beginner's Guide"

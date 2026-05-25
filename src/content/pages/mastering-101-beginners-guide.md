@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/04/Mastering-101.png"
 featuredImageAlt: "Mastering 101"
 seo: 

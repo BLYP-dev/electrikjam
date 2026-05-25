@@ -14,8 +14,11 @@ categories:
   - "Guitars"
 categorySlugs: 
   - "guitars"
+categoryPaths: 
+  - "/category/gear/guitars/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2020/12/cort-duality.jpg"
 featuredImageAlt: "cort guitars"
 seo: 

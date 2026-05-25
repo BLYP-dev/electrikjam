@@ -14,10 +14,14 @@ categories:
   - "Guitar Technique"
 categorySlugs: 
   - "guitar-technique"
+categoryPaths: 
+  - "/category/tutorials/guitar-technique/"
 tags: 
   - "Music Theory"
 tagSlugs: 
   - "music-theory"
+tagPaths: 
+  - "/tag/music-theory/"
 featuredImage: "/wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar-.png"
 featuredImageAlt: "EASY Way To Play An F Chord on Guitar"
 seo: 

@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals.png"
 featuredImageAlt: "Best Black Friday Guitar Deals"
 seo: 

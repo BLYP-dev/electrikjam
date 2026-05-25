@@ -14,10 +14,14 @@ categories:
   - "Latest Schecter News"
 categorySlugs: 
   - "schecter-news"
+categoryPaths: 
+  - "/category/news/schecter-news/"
 tags: 
   - "Synyster Gates"
 tagSlugs: 
   - "synyster-gates"
+tagPaths: 
+  - "/tag/synyster-gates/"
 featuredImage: "/wp-content/uploads/2024/11/Schecter-and-Synyster-Gates-Unveil-the-Custom-7-TR-Headless-Signature-Guitar.jpg"
 featuredImageAlt: "Schecter and Synyster Gates Unveil the Custom-7 TR Headless Signature Guitar"
 seo: 

@@ -14,10 +14,14 @@ categories:
   - "Music Theory"
 categorySlugs: 
   - "music-theory"
+categoryPaths: 
+  - "/category/tutorials/music-theory/"
 tags: 
   - "Music Theory"
 tagSlugs: 
   - "music-theory"
+tagPaths: 
+  - "/tag/music-theory/"
 featuredImage: "/wp-content/uploads/2023/10/49-EPIC-Chord-Progressions.png"
 featuredImageAlt: "49 EPIC Chord Progressions"
 seo: 

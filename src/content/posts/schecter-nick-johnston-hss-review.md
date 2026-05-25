@@ -16,10 +16,15 @@ categories:
 categorySlugs: 
   - "electric-guitars"
   - "reviews"
+categoryPaths: 
+  - "/category/reviews/electric-guitars/"
+  - "/category/reviews/"
 tags: 
   - "Schecter Guitars"
 tagSlugs: 
   - "schecter"
+tagPaths: 
+  - "/tag/schecter/"
 featuredImage: "/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg"
 featuredImageAlt: "me and my Schecter Nick Johnston HSS"
 seo: 

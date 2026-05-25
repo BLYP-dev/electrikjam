@@ -14,8 +14,11 @@ categories:
   - "Latest Squier News"
 categorySlugs: 
   - "squier-news"
+categoryPaths: 
+  - "/category/news/squier-news/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white.jpg"
 featuredImageAlt: "squier affinity strat hss olympic white"
 seo: 

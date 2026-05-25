@@ -14,8 +14,11 @@ categories:
   - "Ibanez"
 categorySlugs: 
   - "ibanez"
+categoryPaths: 
+  - "/category/gear/guitars/ibanez/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/12/ibanez-gio-series-guitars-buying-guide.jpg"
 featuredImageAlt: "ibanez gio series guitars buying guide"
 seo: 

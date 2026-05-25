@@ -16,8 +16,12 @@ categories:
 categorySlugs: 
   - "guitar-setup-maintenance"
   - "tutorials"
+categoryPaths: 
+  - "/category/tutorials/guitar-setup-maintenance/"
+  - "/category/tutorials/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2022/05/22-frets-Vs-24-frets.png"
 featuredImageAlt: "22 frets vs 24 frets"
 seo: 

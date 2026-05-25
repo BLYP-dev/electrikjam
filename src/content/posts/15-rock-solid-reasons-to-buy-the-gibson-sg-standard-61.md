@@ -14,8 +14,11 @@ categories:
   - "Latest Gibson News"
 categorySlugs: 
   - "gibson-news"
+categoryPaths: 
+  - "/category/news/gibson-news/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish.jpg"
 featuredImageAlt: "Gibson SG Standard '61 color and finish"
 seo: 

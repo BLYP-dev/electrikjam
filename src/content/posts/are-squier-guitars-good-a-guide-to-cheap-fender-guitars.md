@@ -14,12 +14,17 @@ categories:
   - "Squier"
 categorySlugs: 
   - "squier"
+categoryPaths: 
+  - "/category/gear/guitars/squier/"
 tags: 
   - "Fender Guitars & Gear"
   - "Squier"
 tagSlugs: 
   - "fender"
   - "squier"
+tagPaths: 
+  - "/tag/fender/"
+  - "/tag/squier/"
 featuredImage: "/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Custom-Telecaster-SH-Electric-Guitar.jpg"
 featuredImageAlt: "are squier guitars good? Yes, so long as you know what to look for"
 seo: 

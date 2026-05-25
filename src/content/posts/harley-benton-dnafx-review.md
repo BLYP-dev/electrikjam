@@ -14,10 +14,14 @@ categories:
   - "Pedals & Effects"
 categorySlugs: 
   - "pedals-effects"
+categoryPaths: 
+  - "/category/reviews/pedals-effects/"
 tags: 
   - "Budget Guitars"
 tagSlugs: 
   - "budget-guitars"
+tagPaths: 
+  - "/tag/budget-guitars/"
 featuredImage: "/wp-content/uploads/2025/12/Harley-Benton-DNAfx.jpg"
 featuredImageAlt: "Harley Benton DNAfx"
 seo: 

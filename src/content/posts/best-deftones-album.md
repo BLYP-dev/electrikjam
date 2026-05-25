@@ -14,10 +14,14 @@ categories:
   - "Classic Albums"
 categorySlugs: 
   - "classic-albums"
+categoryPaths: 
+  - "/category/music/classic-albums/"
 tags: 
   - "Deftones"
 tagSlugs: 
   - "deftones"
+tagPaths: 
+  - "/tag/deftones/"
 featuredImage: "/wp-content/uploads/2025/08/best-deftones-albums.jpg"
 featuredImageAlt: "best deftones albums"
 seo: 

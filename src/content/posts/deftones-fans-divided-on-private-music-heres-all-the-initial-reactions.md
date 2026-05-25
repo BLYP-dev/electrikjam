@@ -14,10 +14,14 @@ categories:
   - "News"
 categorySlugs: 
   - "news-music"
+categoryPaths: 
+  - "/category/music/news-music/"
 tags: 
   - "Deftones"
 tagSlugs: 
   - "deftones"
+tagPaths: 
+  - "/tag/deftones/"
 featuredImage: "/wp-content/uploads/2025/08/deftones-private-music-review-1.jpg"
 featuredImageAlt: "deftones private music review (1)"
 seo: 

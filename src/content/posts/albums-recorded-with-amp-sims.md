@@ -14,8 +14,11 @@ categories:
   - "Amp Sims"
 categorySlugs: 
   - "amp-sims"
+categoryPaths: 
+  - "/category/tutorials/software/amp-sims/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/12/metal-albums-made-with-amp-sims.jpg"
 featuredImageAlt: "metal albums made with amp sims"
 seo: 

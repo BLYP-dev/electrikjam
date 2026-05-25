@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/06/Music-Theory-For-Guitarists-The-Basics.png"
 featuredImageAlt: "Music Theory For Guitarists The Basics"
 seo: 

@@ -14,8 +14,11 @@ categories:
   - "Deals"
 categorySlugs: 
   - "deals"
+categoryPaths: 
+  - "/category/news/deals/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2025/08/Fender-American-Professional-II.jpg"
 featuredImageAlt: "Fender American Professional II"
 seo: 

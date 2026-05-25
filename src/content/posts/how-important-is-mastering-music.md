@@ -14,8 +14,11 @@ categories:
   - "Mastering"
 categorySlugs: 
   - "mastering"
+categoryPaths: 
+  - "/category/music-production/mastering/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png"
 featuredImageAlt: "How Important is Mastering Music"
 seo: 

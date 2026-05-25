@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515.webp"
 featuredImageAlt: "ELECTRIKJAM CONTACT"
 seo: 

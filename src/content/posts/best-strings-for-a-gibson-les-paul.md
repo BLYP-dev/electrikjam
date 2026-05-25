@@ -14,6 +14,8 @@ categories:
   - "Guitar Accessories"
 categorySlugs: 
   - "guitar-accessories-gear"
+categoryPaths: 
+  - "/category/reviews/guitar-accessories-gear/"
 tags: 
   - "Epiphone Guitars"
   - "Gibson Guitars"
@@ -22,6 +24,10 @@ tagSlugs:
   - "epiphone"
   - "gibson"
   - "strings"
+tagPaths: 
+  - "/tag/epiphone/"
+  - "/tag/gibson/"
+  - "/tag/strings/"
 featuredImage: "/wp-content/uploads/2022/02/0001-20942746952.webp"
 featuredImageAlt: "best epiphone les paul"
 seo: 

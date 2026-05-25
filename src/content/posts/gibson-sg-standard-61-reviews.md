@@ -14,10 +14,14 @@ categories:
   - "Electric Guitars"
 categorySlugs: 
   - "electric-guitars"
+categoryPaths: 
+  - "/category/reviews/electric-guitars/"
 tags: 
   - "Gibson Guitars"
 tagSlugs: 
   - "gibson"
+tagPaths: 
+  - "/tag/gibson/"
 featuredImage: "/wp-content/uploads/2025/12/Gibson-SG-Standard-61-reviews-is-it-any-good.jpg"
 featuredImageAlt: "Gibson SG Standard '61 reviews is it any good"
 seo: 

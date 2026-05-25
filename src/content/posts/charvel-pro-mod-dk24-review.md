@@ -16,8 +16,12 @@ categories:
 categorySlugs: 
   - "electric-guitars"
   - "reviews"
+categoryPaths: 
+  - "/category/reviews/electric-guitars/"
+  - "/category/reviews/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png"
 featuredImageAlt: "Charvel pro mod dk24 review"
 seo: 

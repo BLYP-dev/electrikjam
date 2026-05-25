@@ -14,12 +14,17 @@ categories:
   - "Latest Gibson News"
 categorySlugs: 
   - "gibson-news"
+categoryPaths: 
+  - "/category/news/gibson-news/"
 tags: 
   - "Donald Trump"
   - "Gibson Guitars"
 tagSlugs: 
   - "donald-trump"
   - "gibson"
+tagPaths: 
+  - "/tag/donald-trump/"
+  - "/tag/gibson/"
 featuredImage: "/wp-content/uploads/2024/11/american-eagle-series-donald-trump-MAGA-guitar.jpg"
 featuredImageAlt: "american eagle series donald trump MAGA guitar"
 seo: 

@@ -12,8 +12,10 @@ author: "Richard"
 authorSlug: "electrikjam"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar.png"
 featuredImageAlt: "Choosing-Your-First-Electric-Guitar"
 seo: 

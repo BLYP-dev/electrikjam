@@ -14,8 +14,11 @@ categories:
   - "Fender News"
 categorySlugs: 
   - "fender-news"
+categoryPaths: 
+  - "/category/news/fender-news/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/11/Fender-American-Ultra-II-series.jpg"
 featuredImageAlt: "Fender American Ultra II series"
 seo: 

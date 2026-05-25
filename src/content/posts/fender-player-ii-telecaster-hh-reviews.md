@@ -14,10 +14,14 @@ categories:
   - "Electric Guitars"
 categorySlugs: 
   - "electric-guitars"
+categoryPaths: 
+  - "/category/reviews/electric-guitars/"
 tags: 
   - "Fender Guitars & Gear"
 tagSlugs: 
   - "fender"
+tagPaths: 
+  - "/tag/fender/"
 featuredImage: "/wp-content/uploads/2025/12/Fender-Player-II-Telecaster-HH-reviews.jpg"
 featuredImageAlt: "Fender Player II Telecaster HH reviews"
 seo: 

@@ -14,8 +14,11 @@ categories:
   - "News"
 categorySlugs: 
   - "news-music"
+categoryPaths: 
+  - "/category/music/news-music/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2024/03/The-15-Richest-Metal-Bands-.png"
 featuredImageAlt: "The 15 Richest Metal Bands"
 seo: 

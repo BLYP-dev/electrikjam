@@ -14,10 +14,14 @@ categories:
   - "Amp Sim News"
 categorySlugs: 
   - "amp-sim-news"
+categoryPaths: 
+  - "/category/news/amp-sim-news/"
 tags: 
   - "Neural DSP"
 tagSlugs: 
   - "neural-dsp"
+tagPaths: 
+  - "/tag/neural-dsp/"
 featuredImage: "/wp-content/uploads/2024/10/neural-dsp.jpg"
 featuredImageAlt: "Neural Capture Version 2"
 seo: 

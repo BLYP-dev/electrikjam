@@ -14,10 +14,14 @@ categories:
   - "Fender"
 categorySlugs: 
   - "fender"
+categoryPaths: 
+  - "/category/gear/guitars/fender/"
 tags: 
   - "Fender Guitars & Gear"
 tagSlugs: 
   - "fender"
+tagPaths: 
+  - "/tag/fender/"
 featuredImage: "/wp-content/uploads/2025/12/Fender-Player-II-Stratocaster-vs.-American-Ultra-II-Stratocaster.jpg"
 featuredImageAlt: "Fender Player II Stratocaster vs. American Ultra II Stratocaster"
 seo: 

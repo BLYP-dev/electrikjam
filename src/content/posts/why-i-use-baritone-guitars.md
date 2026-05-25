@@ -14,8 +14,11 @@ categories:
   - "Guitars"
 categorySlugs: 
   - "guitars"
+categoryPaths: 
+  - "/category/gear/guitars/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2023/04/Baritone-Guitar-Tuning.png"
 featuredImageAlt: "Baritone Guitar Tuning"
 seo: 

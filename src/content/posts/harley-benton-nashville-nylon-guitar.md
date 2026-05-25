@@ -14,8 +14,11 @@ categories:
   - "Latest Harley Benton News"
 categorySlugs: 
   - "harley-benton-news"
+categoryPaths: 
+  - "/category/news/harley-benton-news/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2025/04/The-Harley-Benton-Nashville-Nylon-%E2%80%93-Back-In-Black-Insane-Value-For-Money.jpg"
 featuredImageAlt: "The Harley Benton Nashville Nylon – Back In Black, Insane Value For Money"
 seo: 

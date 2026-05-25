@@ -14,10 +14,14 @@ categories:
   - "Guitar Accessories"
 categorySlugs: 
   - "guitar-accessories-gear"
+categoryPaths: 
+  - "/category/reviews/guitar-accessories-gear/"
 tags: 
   - "Strings"
 tagSlugs: 
   - "strings"
+tagPaths: 
+  - "/tag/strings/"
 featuredImage: "/wp-content/uploads/2022/10/Expensive-guitar-strings.png"
 featuredImageAlt: "expensive guitar strings"
 seo: 

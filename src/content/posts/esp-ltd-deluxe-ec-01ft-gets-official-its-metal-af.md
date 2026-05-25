@@ -14,10 +14,14 @@ categories:
   - "ESP News"
 categorySlugs: 
   - "esp-news"
+categoryPaths: 
+  - "/category/news/esp-news/"
 tags: 
   - "ESP LTD Deluxe EC-01FT"
 tagSlugs: 
   - "esp-ltd-deluxe-ec-01ft"
+tagPaths: 
+  - "/tag/esp-ltd-deluxe-ec-01ft/"
 featuredImage: "/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT.jpg"
 featuredImageAlt: "ESP LTD Deluxe EC-01FT"
 seo: 

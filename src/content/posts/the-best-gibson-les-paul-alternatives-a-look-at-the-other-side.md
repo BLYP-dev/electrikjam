@@ -14,10 +14,14 @@ categories:
   - "Gibson Guitars"
 categorySlugs: 
   - "gibson"
+categoryPaths: 
+  - "/category/gear/guitars/gibson/"
 tags: 
   - "Gibson Guitars"
 tagSlugs: 
   - "gibson"
+tagPaths: 
+  - "/tag/gibson/"
 featuredImage: "/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish.jpg"
 featuredImageAlt: "Gibson SG Standard '61 color and finish"
 seo: 

@@ -12,8 +12,10 @@ author: "Christoper Horton"
 authorSlug: "chris"
 categories: []
 categorySlugs: []
+categoryPaths: []
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImageAlt: ""
 seo: 
   title: "Which Fender Is The Best Value For Money? My 2 Cents"

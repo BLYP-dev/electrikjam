@@ -14,8 +14,11 @@ categories:
   - "Fender News"
 categorySlugs: 
   - "fender-news"
+categoryPaths: 
+  - "/category/news/fender-news/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2025/12/6n5iM8GgGmoH3Gvdcc3UvC-1200-80.jpg.webp"
 featuredImageAlt: "Fender Releases Tom Morello's Iconic \"Arm The Homeless\" Guitar Replica, It's A MIM Too"
 seo: 

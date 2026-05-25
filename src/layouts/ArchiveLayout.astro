@@ -4,15 +4,16 @@ import { excerptText, type SiteEntry } from '../utils/site';
 
 interface Props {
   title: string;
+  seoTitle?: string;
   description: string;
   path: string;
   entries: SiteEntry[];
 }
 
-const { title, description, path, entries } = Astro.props;
+const { title, seoTitle, description, path, entries } = Astro.props;
 ---
 
-<BaseLayout title={title} description={description} path={path}>
+<BaseLayout title={seoTitle || title} description={description} path={path}>
   <section class="container section">
     <p class="eyebrow">Archive</p>
     <h1>{title}</h1>

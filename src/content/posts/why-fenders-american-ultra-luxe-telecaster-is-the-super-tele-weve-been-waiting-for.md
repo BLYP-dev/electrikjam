@@ -14,10 +14,14 @@ categories:
   - "Fender"
 categorySlugs: 
   - "fender"
+categoryPaths: 
+  - "/category/gear/guitars/fender/"
 tags: 
   - "Fender Guitars & Gear"
 tagSlugs: 
   - "fender"
+tagPaths: 
+  - "/tag/fender/"
 featuredImage: "/wp-content/uploads/2025/08/American-Ultra-Luxe-Vintage-Telecaster.jpg"
 featuredImageAlt: "American Ultra Luxe Vintage Telecaster"
 seo: 

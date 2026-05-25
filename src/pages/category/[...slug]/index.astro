@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+import ArchiveLayout from '../../../layouts/ArchiveLayout.astro';
+import taxonomies from '../../../data/taxonomies.json';
+import { archivePath, normalizePath, sortByDateDesc } from '../../../utils/site';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const archiveMap = new Map();
+
+  for (const category of taxonomies.categories || []) {
+    archiveMap.set(category.path, {
+      slug: category.path.replace(/^\/category\/|\/$/g, ''),
+      name: category.name,
+      path: category.path,
+      description: category.seo?.description || category.description || `Articles filed under ${category.name}.`,
+      seoTitle: category.seo?.title || category.name,
+      entries: [],
+    });
+  }
+
+  for (const post of posts) {
+    post.data.categories.forEach((name, index) => {
+      const path = post.data.categoryPaths[index] || archivePath('category', post.data.categorySlugs[index]);
+      const normalizedPath = normalizePath(path);
+      if (!archiveMap.has(normalizedPath)) {
+        archiveMap.set(normalizedPath, {
+          slug: normalizedPath.replace(/^\/category\/|\/$/g, ''),
+          name: name || post.data.categorySlugs[index],
+          path: normalizedPath,
+          description: `Articles filed under ${name || post.data.categorySlugs[index]}.`,
+          seoTitle: name || post.data.categorySlugs[index],
+          entries: [],
+        });
+      }
+      archiveMap.get(normalizedPath).entries.push(post);
+    });
+  }
+
+  return Array.from(archiveMap.values()).map((archive) => ({
+    params: { slug: archive.slug },
+    props: archive,
+  }));
+}
+
+const { name, path, description, seoTitle, entries } = Astro.props;
+---
+
+<ArchiveLayout
+  title={name}
+  seoTitle={seoTitle}
+  description={description}
+  path={path}
+  entries={sortByDateDesc(entries)}
+/>

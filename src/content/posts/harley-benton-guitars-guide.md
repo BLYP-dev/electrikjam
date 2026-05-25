@@ -14,10 +14,14 @@ categories:
   - "Harley Benton"
 categorySlugs: 
   - "harley-benton"
+categoryPaths: 
+  - "/category/gear/guitars/harley-benton/"
 tags: 
   - "Budget Guitars"
 tagSlugs: 
   - "budget-guitars"
+tagPaths: 
+  - "/tag/budget-guitars/"
 featuredImage: "/wp-content/uploads/2022/11/harley-benton-guitars-guide.png"
 featuredImageAlt: "harley benton guitars guide"
 seo: 

@@ -14,8 +14,11 @@ categories:
   - "Fender"
 categorySlugs: 
   - "fender"
+categoryPaths: 
+  - "/category/gear/guitars/fender/"
 tags: []
 tagSlugs: []
+tagPaths: []
 featuredImage: "/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series.jpg"
 featuredImageAlt: "Fender American Ultra Luxe Vintage Series"
 seo: 

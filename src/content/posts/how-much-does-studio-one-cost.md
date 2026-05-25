@@ -14,10 +14,14 @@ categories:
   - "DAW Platforms"
 categorySlugs: 
   - "daw-platforms"
+categoryPaths: 
+  - "/category/daws/daw-platforms/"
 tags: 
   - "Studio One"
 tagSlugs: 
   - "studio-one"
+tagPaths: 
+  - "/tag/studio-one/"
 featuredImage: "/wp-content/uploads/2023/09/How-much-does-Studio-One-cost.png"
 featuredImageAlt: "How much does Studio One cost?"
 seo: 

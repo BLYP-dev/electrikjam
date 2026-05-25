@@ -14,10 +14,14 @@ categories:
   - "Guitar Tunings"
 categorySlugs: 
   - "guitar-tunings"
+categoryPaths: 
+  - "/category/tutorials/guitar-tunings/"
 tags: 
   - "Guitar Tuning"
 tagSlugs: 
   - "guitar-tuning"
+tagPaths: 
+  - "/tag/guitar-tuning/"
 featuredImage: "/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A.png"
 featuredImageAlt: "New Queens of The Stone Age Album"
 seo: 
