@@ -98,7 +98,7 @@ async function writeRestEntry(item, type, maps) {
     featuredImageAlt: decodeEntities(media?.alt_text || media?.title?.rendered || ''),
     seo,
   };
-  const body = item.content?.rendered || '';
+  const body = sanitizeImportedHtml(item.content?.rendered || '');
   await writeTextFile(outputPath, `---\n${toYaml(frontmatter)}---\n\n${body}\n`);
 }
 
@@ -130,7 +130,7 @@ async function writeExportEntry(item, type) {
       canonical: normalizeLiveUrl(item.seo?.canonical) || new URL(path, LIVE_ORIGIN).toString(),
     },
   };
-  await writeTextFile(outputPath, `---\n${toYaml(frontmatter)}---\n\n${localizeBodyMedia(item.content || '')}\n`);
+  await writeTextFile(outputPath, `---\n${toYaml(frontmatter)}---\n\n${sanitizeImportedHtml(item.content || '')}\n`);
 }
 
 function safeFileName(item) {
@@ -184,6 +184,57 @@ function localizeBodyMedia(html) {
     .replace(/http:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, '/wp-content/uploads')
     .replace(/https:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, '/wp-content/uploads')
     .replace(/http:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, '/wp-content/uploads');
+}
+
+function sanitizeImportedHtml(html) {
+  return stripInjectedVerdictBlocks(localizeBodyMedia(html));
+}
+
+function stripInjectedVerdictBlocks(html) {
+  const marker = '<div style="max-width: 850px;';
+  let output = '';
+  let cursor = 0;
+
+  while (cursor < html.length) {
+    const start = html.indexOf(marker, cursor);
+    if (start === -1) {
+      output += html.slice(cursor);
+      break;
+    }
+
+    const end = findBalancedDivEnd(html, start);
+    const block = end === -1 ? '' : html.slice(start, end);
+    const looksLikeInjectedCard =
+      block.includes('>Verdict<') &&
+      (block.includes('Electrikjam Verdict') ||
+        block.includes('Key Technical Specifications') ||
+        block.includes('Pickup Switching Breakdown'));
+
+    if (end !== -1 && looksLikeInjectedCard) {
+      output += html.slice(cursor, start).replace(/\n{5,}$/g, '\n\n');
+      cursor = end;
+    } else {
+      output += html.slice(cursor, start + marker.length);
+      cursor = start + marker.length;
+    }
+  }
+
+  return output.replace(/\n{5,}/g, '\n\n\n');
+}
+
+function findBalancedDivEnd(html, start) {
+  const tagPattern = /<\/?div\b[^>]*>/gi;
+  tagPattern.lastIndex = start;
+  let depth = 0;
+  for (const match of html.matchAll(tagPattern)) {
+    if (match[0].startsWith('</')) {
+      depth -= 1;
+      if (depth === 0) return match.index + match[0].length;
+    } else {
+      depth += 1;
+    }
+  }
+  return -1;
 }
 
 function toYaml(value, indent = 0) {

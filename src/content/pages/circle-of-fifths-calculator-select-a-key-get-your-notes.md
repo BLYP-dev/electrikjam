@@ -151,8 +151,6 @@ seo:
 </script>
 
 
-
-
 <h2 class="wp-block-heading"><strong>🎼 How To Use The Interactive Circle of Fifths</strong></h2>
 
 

@@ -540,9 +540,6 @@ Locking tuners are a must for any gigging musician, and Cort’s staggered set h
 Obviously, Muse fans will be all over this but you don’t have to be a Bellamy fanboy to appreciate what’s going on here. If you need a solid rock guitar that looks slick, feels great, and doesn’t flinch under pressure, this one’s worth a serious look. Is it better than an entry-level PRS? Probably not, although it is damn close and I think its unusual enough to stand out from the crowd. I also kind of reminds me of an Abasi guitar as well. Not a bad thing.</div></details>
 
 
-
-
-
 <hr class="wp-block-separator has-text-color has-base-color has-alpha-channel-opacity has-base-background-color has-background is-style-separator-thin"/>
 </div>
 </div>

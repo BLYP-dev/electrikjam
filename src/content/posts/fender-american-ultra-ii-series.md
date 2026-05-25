@@ -312,8 +312,6 @@ seo:
 </style>
 
 
-
-
 <div class="custom-snippet-div"></p>
 
 
