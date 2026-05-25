@@ -23,6 +23,7 @@ const {
 
 const pageTitle = title === SITE_NAME ? title : `${title} | ${SITE_NAME}`;
 const canonical = canonicalUrl(path);
+const socialImage = image?.startsWith('/') ? new URL(image, canonical).toString() : image;
 ---
 
 <title>{pageTitle}</title>
@@ -34,11 +35,11 @@ const canonical = canonicalUrl(path);
 <meta property="og:title" content={pageTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonical} />
-{image && <meta property="og:image" content={image} />}
-<meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+{socialImage && <meta property="og:image" content={socialImage} />}
+<meta name="twitter:card" content={socialImage ? 'summary_large_image' : 'summary'} />
 <meta name="twitter:title" content={pageTitle} />
 <meta name="twitter:description" content={description} />
-{image && <meta name="twitter:image" content={image} />}
+{socialImage && <meta name="twitter:image" content={socialImage} />}
 {
   schema && (
     <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />

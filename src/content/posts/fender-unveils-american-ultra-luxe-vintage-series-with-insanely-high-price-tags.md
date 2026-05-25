@@ -16,7 +16,7 @@ categorySlugs:
   - "fender"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series.jpg"
+featuredImage: "/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series.jpg"
 featuredImageAlt: "Fender American Ultra Luxe Vintage Series"
 seo: 
   title: "Fender Unveils American Ultra Luxe Vintage Series With Insanely High Price Tags"
@@ -105,7 +105,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="303" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-1024x303.jpg" alt="" class="wp-image-17856" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-1024x303.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-600x177.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-300x89.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-768x227.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-1536x454.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM.jpg 1838w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="303" src="/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-1024x303.jpg" alt="" class="wp-image-17856" title="" srcset="/wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-1024x303.jpg 1024w, /wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-600x177.jpg 600w, /wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-300x89.jpg 300w, /wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-768x227.jpg 768w, /wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM-1536x454.jpg 1536w, /wp-content/uploads/2025/08/Screenshot-2025-08-12-8.13.25-PM.jpg 1838w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

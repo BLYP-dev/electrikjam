@@ -50,7 +50,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-1b11d160 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized has-custom-border"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="border-radius:100px;aspect-ratio:1;object-fit:cover;width:60px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized has-custom-border"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="border-radius:100px;aspect-ratio:1;object-fit:cover;width:60px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -65,7 +65,7 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-stretch is-style-default is-layout-flow wp-block-column-is-layout-flow">
 <div class="wp-block-group is-style-column-box-shadow has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="border-radius:10px">
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-1024x683.png" alt="Octave game" class="wp-image-15703" style="border-radius:10px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/08/OCTAVE-GAME-1024x683.png" alt="Octave game" class="wp-image-15703" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/08/OCTAVE-GAME-1024x683.png 1024w, /wp-content/uploads/2024/08/OCTAVE-GAME-600x400.png 600w, /wp-content/uploads/2024/08/OCTAVE-GAME-300x200.png 300w, /wp-content/uploads/2024/08/OCTAVE-GAME-768x512.png 768w, /wp-content/uploads/2024/08/OCTAVE-GAME.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ seo:
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-1024x683.png" alt="Octave game" class="wp-image-15703" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/08/OCTAVE-GAME.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/08/OCTAVE-GAME-1024x683.png" alt="Octave game" class="wp-image-15703" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/08/OCTAVE-GAME-1024x683.png 1024w, /wp-content/uploads/2024/08/OCTAVE-GAME-600x400.png 600w, /wp-content/uploads/2024/08/OCTAVE-GAME-300x200.png 300w, /wp-content/uploads/2024/08/OCTAVE-GAME-768x512.png 768w, /wp-content/uploads/2024/08/OCTAVE-GAME.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/08/Untitled-design-1-1024x683.png" alt="Octave game" class="wp-image-15702" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/08/Untitled-design-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/08/Untitled-design-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/08/Untitled-design-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/08/Untitled-design-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/08/Untitled-design-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Steal This Image</strong>!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/08/Untitled-design-1-1024x683.png" alt="Octave game" class="wp-image-15702" title="" srcset="/wp-content/uploads/2024/08/Untitled-design-1-1024x683.png 1024w, /wp-content/uploads/2024/08/Untitled-design-1-600x400.png 600w, /wp-content/uploads/2024/08/Untitled-design-1-300x200.png 300w, /wp-content/uploads/2024/08/Untitled-design-1-768x512.png 768w, /wp-content/uploads/2024/08/Untitled-design-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Steal This Image</strong>!</figcaption></figure>
 
 
 

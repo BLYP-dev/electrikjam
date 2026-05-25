@@ -18,7 +18,7 @@ tags:
   - "Neural DSP"
 tagSlugs: 
   - "neural-dsp"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/10/neural-dsp.jpg"
+featuredImage: "/wp-content/uploads/2024/10/neural-dsp.jpg"
 featuredImageAlt: "Neural Capture Version 2"
 seo: 
   title: "Neural Capture V2: What It Does, Why It Matters For Quad Cortex Users"

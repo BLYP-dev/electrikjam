@@ -16,7 +16,7 @@ categorySlugs:
   - "news"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg"
+featuredImage: "/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg"
 featuredImageAlt: "Squier Classic Vibe '60s Jazzmaster Electric Guitar"
 seo: 
   title: "The Best New Guitars Launched in June 2025: A Killer Month for Players"
@@ -53,7 +53,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard.jpg" alt="Fender Standard Telecaster" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard.jpg" alt="Fender Standard Telecaster" title=""></figure>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1.jpg" alt="Fender Jack White Triplecaster" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1.jpg" alt="Fender Jack White Triplecaster" title=""></figure>
 
 
 
@@ -113,7 +113,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition.jpg" alt="Epiphone LP Quilt" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition.jpg" alt="Epiphone LP Quilt" title=""></figure>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S.jpg" alt="Schecter Demon-6 FR-S" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S.jpg" alt="Schecter Demon-6 FR-S" title=""></figure>
 
 
 
@@ -189,7 +189,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst.jpg" alt="Gibson LP Double Trouble" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst.jpg" alt="Gibson LP Double Trouble" title=""></figure>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar.jpg" alt="PRS SE Studio Standard" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar.jpg" alt="PRS SE Studio Standard" title=""></figure>
 
 
 
@@ -261,7 +261,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg" alt="Squier Jazzmaster" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg" alt="Squier Jazzmaster" title=""></figure>
 
 
 
@@ -279,7 +279,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Custom-Telecaster-SH-Electric-Guitar.jpg" alt="Squier SH Tele" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Custom-Telecaster-SH-Electric-Guitar.jpg" alt="Squier SH Tele" title=""></figure>
 
 
 
@@ -313,7 +313,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar.jpg" alt="Jackson LM-87" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar.jpg" alt="Jackson LM-87" title=""></figure>
 
 
 
@@ -335,7 +335,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition.jpg" alt="EVH SA-126" title=""></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition.jpg" alt="EVH SA-126" title=""></figure>
 
 
 

@@ -10,7 +10,8 @@
     "preview": "astro preview",
     "import:wordpress": "node scripts/import-wordpress.mjs",
     "audit:urls": "node scripts/audit-urls.mjs",
-    "compare:parity": "node scripts/compare-parity.mjs"
+    "compare:parity": "node scripts/compare-parity.mjs",
+    "media:collect": "node scripts/collect-wordpress-media.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.11",

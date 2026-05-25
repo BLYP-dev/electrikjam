@@ -18,7 +18,7 @@ tags:
   - "Boss Katana"
 tagSlugs: 
   - "boss-katana"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/05/boss-katana-3-what-to-expect-1.png"
+featuredImage: "/wp-content/uploads/2024/05/boss-katana-3-what-to-expect-1.png"
 featuredImageAlt: "boss katana 3 what to expect (1)"
 seo: 
   title: "BOSS Katana Sneaky Amps: What You Need To Know & How To Use Them Properly"
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana-1024x768.jpg" alt="Boss katana sneaky amps" class="wp-image-6673" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/My-Boss-Katana.jpg 1653w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>My Katana Is Afraid Of Surgery</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2022/01/My-Boss-Katana-1024x768.jpg" alt="Boss katana sneaky amps" class="wp-image-6673" title="" srcset="/wp-content/uploads/2022/01/My-Boss-Katana-1024x768.jpg 1024w, /wp-content/uploads/2022/01/My-Boss-Katana-600x450.jpg 600w, /wp-content/uploads/2022/01/My-Boss-Katana-300x225.jpg 300w, /wp-content/uploads/2022/01/My-Boss-Katana-768x576.jpg 768w, /wp-content/uploads/2022/01/My-Boss-Katana-1536x1152.jpg 1536w, /wp-content/uploads/2022/01/My-Boss-Katana-510x382.jpg 510w, /wp-content/uploads/2022/01/My-Boss-Katana-1080x810.jpg 1080w, /wp-content/uploads/2022/01/My-Boss-Katana.jpg 1653w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>My Katana Is Afraid Of Surgery</em></strong></figcaption></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-1024x683.jpg" alt="Boss Gt1000 Core" class="wp-image-1576" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>The Boss GT-1000</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/12/gt-1000core_hero-1024x683.jpg" alt="Boss Gt1000 Core" class="wp-image-1576" title="" srcset="/wp-content/uploads/2020/12/gt-1000core_hero-1024x683.jpg 1024w, /wp-content/uploads/2020/12/gt-1000core_hero-600x400.jpg 600w, /wp-content/uploads/2020/12/gt-1000core_hero-300x200.jpg 300w, /wp-content/uploads/2020/12/gt-1000core_hero-768x512.jpg 768w, /wp-content/uploads/2020/12/gt-1000core_hero-1536x1024.jpg 1536w, /wp-content/uploads/2020/12/gt-1000core_hero.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>The Boss GT-1000</em></strong></figcaption></figure>
 
 
 
@@ -249,7 +249,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Sneaky-amps-1024x576.png" alt="boss Katana sneaky amps" class="wp-image-6676" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Sneaky-amps-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Sneaky-amps-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Sneaky-amps-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Sneaky-amps-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Sneaky-amps-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Sneaky-amps-1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Sneaky-amps.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>The Sneaky Amps Will Be Loaded Automatically In The First Slot</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/01/Sneaky-amps-1024x576.png" alt="boss Katana sneaky amps" class="wp-image-6676" title="" srcset="/wp-content/uploads/2022/01/Sneaky-amps-1024x576.png 1024w, /wp-content/uploads/2022/01/Sneaky-amps-600x338.png 600w, /wp-content/uploads/2022/01/Sneaky-amps-300x169.png 300w, /wp-content/uploads/2022/01/Sneaky-amps-768x432.png 768w, /wp-content/uploads/2022/01/Sneaky-amps-1536x864.png 1536w, /wp-content/uploads/2022/01/Sneaky-amps-1080x608.png 1080w, /wp-content/uploads/2022/01/Sneaky-amps.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>The Sneaky Amps Will Be Loaded Automatically In The First Slot</em></strong></figcaption></figure>
 
 
 
@@ -351,7 +351,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Katana-floorboard-1024x576.png" alt="boss katana sneaky amps" class="wp-image-6677" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Katana-floorboard-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Katana-floorboard-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Katana-floorboard-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Katana-floorboard-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Katana-floorboard-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Katana-floorboard-1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Katana-floorboard.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>WOW!</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/01/Katana-floorboard-1024x576.png" alt="boss katana sneaky amps" class="wp-image-6677" title="" srcset="/wp-content/uploads/2022/01/Katana-floorboard-1024x576.png 1024w, /wp-content/uploads/2022/01/Katana-floorboard-600x338.png 600w, /wp-content/uploads/2022/01/Katana-floorboard-300x169.png 300w, /wp-content/uploads/2022/01/Katana-floorboard-768x432.png 768w, /wp-content/uploads/2022/01/Katana-floorboard-1536x864.png 1536w, /wp-content/uploads/2022/01/Katana-floorboard-1080x608.png 1080w, /wp-content/uploads/2022/01/Katana-floorboard.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>WOW!</em></strong></figcaption></figure>
 
 
 

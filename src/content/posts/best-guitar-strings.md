@@ -16,7 +16,7 @@ categorySlugs:
   - "guitar-strings"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/12/The-Best-Guitar-Strings-for-Any-Tuning-From-Standard-To-Drop-A.jpg"
+featuredImage: "/wp-content/uploads/2024/12/The-Best-Guitar-Strings-for-Any-Tuning-From-Standard-To-Drop-A.jpg"
 featuredImageAlt: "The Best Guitar Strings for Any Tuning (From Standard To Drop A...)"
 seo: 
   title: "The Best Guitar Strings for Any Tuning (Standard To Drop A)"
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-1024x683.jpg" alt="" class="wp-image-16847" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-1024x683.jpg" alt="" class="wp-image-16847" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-1024x683.jpg 1024w, /wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-600x400.jpg 600w, /wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-300x200.jpg 300w, /wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-768x512.jpg 768w, /wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -181,7 +181,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-1024x683.jpg" alt="" class="wp-image-16848" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-1024x683.jpg" alt="" class="wp-image-16848" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-1024x683.jpg 1024w, /wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-600x400.jpg 600w, /wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-300x200.jpg 300w, /wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-768x512.jpg 768w, /wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-1024x683.jpg" alt="" class="wp-image-16849" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-1024x683.jpg" alt="" class="wp-image-16849" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-1024x683.jpg 1024w, /wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-600x400.jpg 600w, /wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-300x200.jpg 300w, /wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom-768x512.jpg 768w, /wp-content/uploads/2024/12/DAddario-EXL140-Light-TopHeavy-Bottom.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -269,7 +269,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-1024x683.jpg" alt="" class="wp-image-16850" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-1024x683.jpg" alt="" class="wp-image-16850" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-1024x683.jpg 1024w, /wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-600x400.jpg 600w, /wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-300x200.jpg 300w, /wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom-768x512.jpg 768w, /wp-content/uploads/2024/12/Ernie-Ball-3215-Nickel-Skinny-TopHeavy-Bottom.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -319,7 +319,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Back when QOTSA were good, <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="271256">Josh Homme tuned all the way down to C Standard.</a></strong> Nowadays, he&#8217;s more of a Standard Tuning guy.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" style="border-radius:20px" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Back when QOTSA were good, <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="271256">Josh Homme tuned all the way down to C Standard.</a></strong> Nowadays, he&#8217;s more of a Standard Tuning guy.</figcaption></figure>
 
 
 

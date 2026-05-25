@@ -16,7 +16,7 @@ categorySlugs:
   - "ibanez"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/12/ibanez-gio-series-guitars-buying-guide.jpg"
+featuredImage: "/wp-content/uploads/2024/12/ibanez-gio-series-guitars-buying-guide.jpg"
 featuredImageAlt: "ibanez gio series guitars buying guide"
 seo: 
   title: "Ibanez GIO Series Buying Guide: The Affordable Shredder..."
@@ -57,7 +57,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG570-headstock-1024x683.png" alt="" class="has-border-color has-primary-border-color wp-image-13679" style="border-width:2px;border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG570-headstock-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG570-headstock-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG570-headstock-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG570-headstock-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG570-headstock.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Ibanez-RG570-headstock-1024x683.png" alt="" class="has-border-color has-primary-border-color wp-image-13679" style="border-width:2px;border-radius:20px" title="" srcset="/wp-content/uploads/2023/11/Ibanez-RG570-headstock-1024x683.png 1024w, /wp-content/uploads/2023/11/Ibanez-RG570-headstock-600x400.png 600w, /wp-content/uploads/2023/11/Ibanez-RG570-headstock-300x200.png 300w, /wp-content/uploads/2023/11/Ibanez-RG570-headstock-768x512.png 768w, /wp-content/uploads/2023/11/Ibanez-RG570-headstock.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -113,7 +113,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-1024x683.jpg" alt="" class="wp-image-16882" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-1024x683.jpg" alt="" class="wp-image-16882" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-1024x683.jpg 1024w, /wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-600x400.jpg 600w, /wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-300x200.jpg 300w, /wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good-768x512.jpg 768w, /wp-content/uploads/2024/12/are-ibanez-gio-series-guitars-any-good.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="340" src="https://www.electrikjam.com/wp-content/uploads/2024/12/GRG-Series-1024x340.png" alt="" class="wp-image-16881" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/GRG-Series-1024x340.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRG-Series-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRG-Series-300x100.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRG-Series-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRG-Series-1536x510.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRG-Series.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="340" src="/wp-content/uploads/2024/12/GRG-Series-1024x340.png" alt="" class="wp-image-16881" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/GRG-Series-1024x340.png 1024w, /wp-content/uploads/2024/12/GRG-Series-600x199.png 600w, /wp-content/uploads/2024/12/GRG-Series-300x100.png 300w, /wp-content/uploads/2024/12/GRG-Series-768x255.png 768w, /wp-content/uploads/2024/12/GRG-Series-1536x510.png 1536w, /wp-content/uploads/2024/12/GRG-Series.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="340" src="https://www.electrikjam.com/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-1024x340.png" alt="" class="wp-image-16880" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-1024x340.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-300x100.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-1536x510.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="340" src="/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-1024x340.png" alt="" class="wp-image-16880" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-1024x340.png 1024w, /wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-600x199.png 600w, /wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-300x100.png 300w, /wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-768x255.png 768w, /wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05-1536x510.png 1536w, /wp-content/uploads/2024/12/p_region_GRGA120_BKN_2Y_05.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="340" src="https://www.electrikjam.com/wp-content/uploads/2024/12/GRX-Series-1024x340.png" alt="" class="wp-image-16879" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/GRX-Series-1024x340.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRX-Series-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRX-Series-300x100.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRX-Series-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRX-Series-1536x510.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/12/GRX-Series.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="340" src="/wp-content/uploads/2024/12/GRX-Series-1024x340.png" alt="" class="wp-image-16879" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/GRX-Series-1024x340.png 1024w, /wp-content/uploads/2024/12/GRX-Series-600x199.png 600w, /wp-content/uploads/2024/12/GRX-Series-300x100.png 300w, /wp-content/uploads/2024/12/GRX-Series-768x255.png 768w, /wp-content/uploads/2024/12/GRX-Series-1536x510.png 1536w, /wp-content/uploads/2024/12/GRX-Series.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="340" src="https://www.electrikjam.com/wp-content/uploads/2024/12/GSA-Series-1024x340.png" alt="" class="wp-image-16878" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/GSA-Series-1024x340.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/GSA-Series-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/GSA-Series-300x100.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/GSA-Series-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/GSA-Series-1536x510.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/12/GSA-Series.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="340" src="/wp-content/uploads/2024/12/GSA-Series-1024x340.png" alt="" class="wp-image-16878" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/GSA-Series-1024x340.png 1024w, /wp-content/uploads/2024/12/GSA-Series-600x199.png 600w, /wp-content/uploads/2024/12/GSA-Series-300x100.png 300w, /wp-content/uploads/2024/12/GSA-Series-768x255.png 768w, /wp-content/uploads/2024/12/GSA-Series-1536x510.png 1536w, /wp-content/uploads/2024/12/GSA-Series.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="365" src="https://www.electrikjam.com/wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-1024x365.png" alt="" class="wp-image-16883" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-1024x365.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-600x214.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-300x107.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-768x274.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en.png 1079w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="365" src="/wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-1024x365.png" alt="" class="wp-image-16883" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-1024x365.png 1024w, /wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-600x214.png 600w, /wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-300x107.png 300w, /wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en-768x274.png 768w, /wp-content/uploads/2024/12/ps_main_eg_mikro_guitar_en.png 1079w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -307,7 +307,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-1024x683.png" alt="" class="wp-image-15827" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-1024x683.png" alt="" class="wp-image-15827" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-1024x683.png 1024w, /wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-600x400.png 600w, /wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-300x200.png 300w, /wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle-768x512.png 768w, /wp-content/uploads/2024/09/Ibanez-GIO-GRG121SP-blue-sparkle.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -447,7 +447,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale.jpg" alt="best signature guitars" class="wp-image-5337" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale.jpg" alt="best signature guitars" class="wp-image-5337" title="" srcset="/wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale.jpg 1000w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-300x300.jpg 300w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-100x100.jpg 100w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-600x600.jpg 600w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-150x150.jpg 150w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-sale-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 

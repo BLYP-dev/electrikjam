@@ -35,7 +35,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e088cbc5 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized has-custom-border"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="border-radius:100px;aspect-ratio:1;object-fit:cover;width:30px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized has-custom-border"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="border-radius:100px;aspect-ratio:1;object-fit:cover;width:30px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -133,7 +133,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-1024x683.png" alt="What Are The Three Types Of Electric Guitars?" class="wp-image-10909" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-1024x683.png" alt="What Are The Three Types Of Electric Guitars?" class="wp-image-10909" title="" srcset="/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-1024x683.png 1024w, /wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-600x400.png 600w, /wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-300x200.png 300w, /wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-768x512.png 768w, /wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-1024x683.png" alt="Queens of the Stone Age Cancel Entire European Tour..." class="wp-image-15570" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-1024x683.png" alt="Queens of the Stone Age Cancel Entire European Tour..." class="wp-image-15570" title="" srcset="/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-1024x683.png 1024w, /wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-600x400.png 600w, /wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-300x200.png 300w, /wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-768x512.png 768w, /wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -867,7 +867,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="577" src="https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-1024x577.png" alt="the electrikjam podcast" class="wp-image-14338" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-1024x577.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-768x433.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-1536x865.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast.png 1640w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/02/the-electrikjam-podcast-1024x577.png" alt="the electrikjam podcast" class="wp-image-14338" title="" srcset="/wp-content/uploads/2024/02/the-electrikjam-podcast-1024x577.png 1024w, /wp-content/uploads/2024/02/the-electrikjam-podcast-600x338.png 600w, /wp-content/uploads/2024/02/the-electrikjam-podcast-300x169.png 300w, /wp-content/uploads/2024/02/the-electrikjam-podcast-768x433.png 768w, /wp-content/uploads/2024/02/the-electrikjam-podcast-1536x865.png 1536w, /wp-content/uploads/2024/02/the-electrikjam-podcast.png 1640w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -878,7 +878,7 @@ seo:
 <div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-container-core-group-is-layout-23cc8a20 wp-block-group-is-layout-constrained">
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-5016e1a0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;https://www.electrikjam.com/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
 </div>
 
 
@@ -920,7 +920,7 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-5016e1a0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;https://www.electrikjam.com/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
 </div>
 
 
@@ -966,7 +966,7 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-5016e1a0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;https://www.electrikjam.com/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
 </div>
 
 

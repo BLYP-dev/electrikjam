@@ -16,7 +16,7 @@ categorySlugs:
   - "squier-news"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white.jpg"
+featuredImage: "/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white.jpg"
 featuredImageAlt: "squier affinity strat hss olympic white"
 seo: 
   title: "Squier’s Affinity Strat is The PERFECT Black Friday Steal – Sub-$200!"
@@ -45,7 +45,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-1024x683.jpg" alt="" class="wp-image-16777" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-1024x683.jpg" alt="" class="wp-image-16777" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-1024x683.jpg 1024w, /wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-600x400.jpg 600w, /wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-300x200.jpg 300w, /wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal-768x512.jpg 768w, /wp-content/uploads/2024/11/squier-affinity-strat-hss-olympic-white-deal.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

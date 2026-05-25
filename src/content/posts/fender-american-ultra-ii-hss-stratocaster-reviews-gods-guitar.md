@@ -18,7 +18,7 @@ tags:
   - "Fender Stratocaster Model"
 tagSlugs: 
   - "fender-stratocaster-model"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1.jpg"
+featuredImage: "/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1.jpg"
 featuredImageAlt: "Fender American Ultra II HSS Stratocaster Reviews"
 seo: 
   title: "Fender American Ultra II HSS Stratocaster Reviews: God's Guitar..."
@@ -121,7 +121,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1024x683.jpg" alt="Fender American Ultra II HSS Stratocaster worth it" class="wp-image-18192" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1024x683.jpg" alt="Fender American Ultra II HSS Stratocaster worth it" class="wp-image-18192" title="" srcset="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-768x512.jpg 768w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -153,7 +153,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-1024x683.jpg" alt="Fender American Ultra II HSS Stratocaster pickups" class="wp-image-18191" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-1024x683.jpg" alt="Fender American Ultra II HSS Stratocaster pickups" class="wp-image-18191" title="" srcset="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups-768x512.jpg 768w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -237,7 +237,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-1024x683.jpg" alt="" class="wp-image-18190" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-1024x683.jpg" alt="" class="wp-image-18190" title="" srcset="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock-768x512.jpg 768w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-headstock.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -257,7 +257,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-1024x683.jpg" alt="" class="wp-image-18189" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-1024x683.jpg" alt="" class="wp-image-18189" title="" srcset="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1-768x512.jpg 768w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-worth-it-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

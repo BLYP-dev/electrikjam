@@ -16,7 +16,7 @@ categorySlugs:
   - "guitars"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/cort-duality.jpg"
+featuredImage: "/wp-content/uploads/2020/12/cort-duality.jpg"
 featuredImageAlt: "cort guitars"
 seo: 
   title: "Are Cort Guitars Any Good? Yes! Especially For METAL..."
@@ -57,7 +57,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="331" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-MBM-1-1024x331.jpeg" alt="" class="wp-image-18472" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-MBM-1-1024x331.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-MBM-1-600x194.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-MBM-1-300x97.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-MBM-1-768x248.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-MBM-1.jpeg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="331" src="/wp-content/uploads/2020/12/Cort-MBM-1-1024x331.jpeg" alt="" class="wp-image-18472" title="" srcset="/wp-content/uploads/2020/12/Cort-MBM-1-1024x331.jpeg 1024w, /wp-content/uploads/2020/12/Cort-MBM-1-600x194.jpeg 600w, /wp-content/uploads/2020/12/Cort-MBM-1-300x97.jpeg 300w, /wp-content/uploads/2020/12/Cort-MBM-1-768x248.jpeg 768w, /wp-content/uploads/2020/12/Cort-MBM-1.jpeg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="734" height="418" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-KX300-OPCB-1.jpg" alt="" class="wp-image-1668" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-KX300-OPCB-1.jpg 734w, https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-KX300-OPCB-1-600x342.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Cort-KX300-OPCB-1-300x171.jpg 300w" sizes="(max-width: 734px) 100vw, 734px" /><figcaption class="wp-element-caption">Th KX300</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="734" height="418" src="/wp-content/uploads/2020/12/Cort-KX300-OPCB-1.jpg" alt="" class="wp-image-1668" title="" srcset="/wp-content/uploads/2020/12/Cort-KX300-OPCB-1.jpg 734w, /wp-content/uploads/2020/12/Cort-KX300-OPCB-1-600x342.jpg 600w, /wp-content/uploads/2020/12/Cort-KX300-OPCB-1-300x171.jpg 300w" sizes="(max-width: 734px) 100vw, 734px" /><figcaption class="wp-element-caption">Th KX300</figcaption></figure>
 
 
 
@@ -181,7 +181,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="740" height="493" src="https://www.electrikjam.com/wp-content/uploads/2020/12/x300.png" alt="" class="wp-image-1666" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/x300.png 740w, https://www.electrikjam.com/wp-content/uploads/2020/12/x300-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/x300-300x200.png 300w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption class="wp-element-caption">X300 Series</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="740" height="493" src="/wp-content/uploads/2020/12/x300.png" alt="" class="wp-image-1666" title="" srcset="/wp-content/uploads/2020/12/x300.png 740w, /wp-content/uploads/2020/12/x300-600x400.png 600w, /wp-content/uploads/2020/12/x300-300x200.png 300w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption class="wp-element-caption">X300 Series</figcaption></figure>
 
 
 
@@ -201,7 +201,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="740" height="493" src="https://www.electrikjam.com/wp-content/uploads/2020/12/x500.png" alt="" class="wp-image-1667" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/x500.png 740w, https://www.electrikjam.com/wp-content/uploads/2020/12/x500-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/x500-300x200.png 300w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption class="wp-element-caption">The Cort X500 series</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="740" height="493" src="/wp-content/uploads/2020/12/x500.png" alt="" class="wp-image-1667" title="" srcset="/wp-content/uploads/2020/12/x500.png 740w, /wp-content/uploads/2020/12/x500-600x400.png 600w, /wp-content/uploads/2020/12/x500-300x200.png 300w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption class="wp-element-caption">The Cort X500 series</figcaption></figure>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="800" height="547" src="https://www.electrikjam.com/wp-content/uploads/2020/12/x700-blue.jpg" alt="" class="wp-image-1665" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/x700-blue.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2020/12/x700-blue-600x410.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/x700-blue-300x205.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/x700-blue-768x525.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="547" src="/wp-content/uploads/2020/12/x700-blue.jpg" alt="" class="wp-image-1665" title="" srcset="/wp-content/uploads/2020/12/x700-blue.jpg 800w, /wp-content/uploads/2020/12/x700-blue-600x410.jpg 600w, /wp-content/uploads/2020/12/x700-blue-300x205.jpg 300w, /wp-content/uploads/2020/12/x700-blue-768x525.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 

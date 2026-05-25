@@ -94,7 +94,7 @@ async function writeRestEntry(item, type, maps) {
     categorySlugs: categoryTerms.map((term) => term.slug),
     tags: tagTerms.map((term) => decodeEntities(term.name)),
     tagSlugs: tagTerms.map((term) => term.slug),
-    featuredImage: media?.source_url || undefined,
+    featuredImage: localMediaPath(media?.source_url),
     featuredImageAlt: decodeEntities(media?.alt_text || media?.title?.rendered || ''),
     seo,
   };
@@ -122,7 +122,7 @@ async function writeExportEntry(item, type) {
     categorySlugs: (item.categories || []).map((term) => term.slug),
     tags: (item.tags || []).map((term) => decodeEntities(term.name)),
     tagSlugs: (item.tags || []).map((term) => term.slug),
-    featuredImage: normalizeLiveUrl(item.featuredImage),
+    featuredImage: localMediaPath(item.featuredImage),
     featuredImageAlt: decodeEntities(item.featuredImageAlt || ''),
     seo: {
       title: decodeEntities(item.seo?.title || item.title || ''),
@@ -130,7 +130,7 @@ async function writeExportEntry(item, type) {
       canonical: normalizeLiveUrl(item.seo?.canonical) || new URL(path, LIVE_ORIGIN).toString(),
     },
   };
-  await writeTextFile(outputPath, `---\n${toYaml(frontmatter)}---\n\n${normalizeBodyUrls(item.content || '')}\n`);
+  await writeTextFile(outputPath, `---\n${toYaml(frontmatter)}---\n\n${localizeBodyMedia(item.content || '')}\n`);
 }
 
 function safeFileName(item) {
@@ -163,6 +163,27 @@ function normalizeBodyUrls(html) {
   return html
     .replace(/https:\/\/staging-electrikjam\.kinsta\.cloud/g, LIVE_ORIGIN)
     .replace(/http:\/\/staging-electrikjam\.kinsta\.cloud/g, LIVE_ORIGIN);
+}
+
+function localMediaPath(url) {
+  if (!url) return undefined;
+  try {
+    const parsed = new URL(url, LIVE_ORIGIN);
+    if (parsed.pathname.startsWith('/wp-content/uploads/')) {
+      return parsed.pathname;
+    }
+    return normalizeLiveUrl(url);
+  } catch {
+    return url;
+  }
+}
+
+function localizeBodyMedia(html) {
+  return normalizeBodyUrls(html)
+    .replace(/https:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, '/wp-content/uploads')
+    .replace(/http:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, '/wp-content/uploads')
+    .replace(/https:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, '/wp-content/uploads')
+    .replace(/http:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, '/wp-content/uploads');
 }
 
 function toYaml(value, indent = 0) {

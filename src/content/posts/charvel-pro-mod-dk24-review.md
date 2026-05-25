@@ -18,7 +18,7 @@ categorySlugs:
   - "reviews"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png"
+featuredImage: "/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png"
 featuredImageAlt: "Charvel pro mod dk24 review"
 seo: 
   title: "Charvel Pro Mod DK24 Review: The #1 Guitar For Versatility?"
@@ -174,7 +174,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-1024x683.png" alt="Charvel Pro Mod DK24" class="wp-image-9400" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-1024x683.png" alt="Charvel Pro Mod DK24" class="wp-image-9400" title="" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-768x512.png 768w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -326,7 +326,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-1024x683.png" alt="Charvel pro Mod dk24" class="wp-image-9401" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-1024x683.png" alt="Charvel pro Mod dk24" class="wp-image-9401" title="" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-768x512.png 768w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -412,7 +412,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-1024x683.png" alt="Charvel Pro Mod DK24 Gotoh" class="wp-image-9402" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-1024x683.png" alt="Charvel Pro Mod DK24 Gotoh" class="wp-image-9402" title="" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-768x512.png 768w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -446,7 +446,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-1024x683.png" alt="Charvel Pro Mod DK24 " class="wp-image-9406" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-1024x683.png" alt="Charvel Pro Mod DK24 " class="wp-image-9406" title="" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram-768x512.png 768w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-pickup-switching-diagram.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

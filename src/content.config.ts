@@ -25,7 +25,7 @@ const contentSchema = z.object({
   categorySlugs: z.array(z.string()).default([]),
   tags: z.array(z.string()).default([]),
   tagSlugs: z.array(z.string()).default([]),
-  featuredImage: z.string().url().optional(),
+  featuredImage: z.string().optional(),
   featuredImageAlt: z.string().optional(),
   seo: seoSchema,
 });

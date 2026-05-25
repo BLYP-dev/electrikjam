@@ -8,6 +8,7 @@ Static-first Astro migration for `www.electrikjam.com`, staged on Cloudflare Pag
 - `npm run build` validates and builds the static site into `dist/`.
 - `npm run import:wordpress` imports WordPress REST content.
 - `WP_EXPORT_FILE=wordpress-export.json npm run import:wordpress` imports a WP-CLI JSON export.
+- `npm run media:collect` writes a list of referenced WordPress upload files for targeted media sync.
 - `npm run audit:urls` writes `url-inventory.csv`.
 - `npm run compare:parity` writes `parity-report.csv`.
 

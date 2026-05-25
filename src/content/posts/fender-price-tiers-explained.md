@@ -18,7 +18,7 @@ tags:
   - "Fender Guitars & Gear"
 tagSlugs: 
   - "fender"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-5.png"
+featuredImage: "/wp-content/uploads/2022/03/Untitled-design-5.png"
 featuredImageAlt: "Fender price tiers"
 seo: 
   title: "Fender Price Tiers: All The Models, Series & Price Changes (2025 Edition)"
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-1024x683.jpg" alt="Squier Classic Vibe &#039;60s Jazzmaster Electric Guitar" class="wp-image-17271" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-1024x683.jpg" alt="Squier Classic Vibe &#039;60s Jazzmaster Electric Guitar" class="wp-image-17271" title="" srcset="/wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-600x400.jpg 600w, /wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-300x200.jpg 300w, /wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-768x512.jpg 768w, /wp-content/uploads/2025/06/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -145,7 +145,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Standard-series-1024x683.jpg" alt="" class="wp-image-17867" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Standard-series-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Standard-series-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Standard-series-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Standard-series-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Standard-series.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-Standard-series-1024x683.jpg" alt="" class="wp-image-17867" title="" srcset="/wp-content/uploads/2025/08/Fender-Standard-series-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-Standard-series-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-Standard-series-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-Standard-series-768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-Standard-series.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-1024x683.jpg" alt="Fender Standard Telecaster Maple Fingerboard" class="wp-image-17297" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-1024x683.jpg" alt="Fender Standard Telecaster Maple Fingerboard" class="wp-image-17297" title="" srcset="/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-600x400.jpg 600w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-300x200.jpg 300w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-768x512.jpg 768w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -257,7 +257,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-1024x683.jpg" alt="" class="wp-image-17868" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-1024x683.jpg" alt="" class="wp-image-17868" title="" srcset="/wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars-768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-Deluxe-Series-Guitars.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -337,7 +337,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-1024x683.jpg" alt="" class="wp-image-17869" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-1024x683.jpg" alt="" class="wp-image-17869" title="" srcset="/wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars-768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-Vintera-Series-Guitars.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -477,7 +477,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-1024x683.jpg" alt="" class="wp-image-17870" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-1024x683.jpg" alt="" class="wp-image-17870" title="" srcset="/wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars-768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-Player-Plus-Series-Guitars.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -585,7 +585,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-1024x683.jpg" alt="" class="wp-image-17871" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-HM-Strat-Reissue.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-1024x683.jpg" alt="" class="wp-image-17871" title="" srcset="/wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-HM-Strat-Reissue-768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-HM-Strat-Reissue.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -737,7 +737,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Performer-1024x683.jpg" alt="" class="wp-image-17872" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Performer-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Performer-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Performer-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Performer-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Performer.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-American-Performer-1024x683.jpg" alt="" class="wp-image-17872" title="" srcset="/wp-content/uploads/2025/08/Fender-American-Performer-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-American-Performer-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-American-Performer-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-American-Performer-768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-American-Performer.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -775,7 +775,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Professional-II-1024x683.jpg" alt="" class="wp-image-17873" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Professional-II-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Professional-II-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Professional-II-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Professional-II-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Professional-II.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-American-Professional-II-1024x683.jpg" alt="" class="wp-image-17873" title="" srcset="/wp-content/uploads/2025/08/Fender-American-Professional-II-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-American-Professional-II-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-American-Professional-II-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-American-Professional-II-768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-American-Professional-II.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -821,7 +821,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-II--1024x683.jpg" alt="" class="wp-image-17874" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-II--1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-II--600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-II--300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-II--768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-II-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-American-Ultra-II--1024x683.jpg" alt="" class="wp-image-17874" title="" srcset="/wp-content/uploads/2025/08/Fender-American-Ultra-II--1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-American-Ultra-II--600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-American-Ultra-II--300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-American-Ultra-II--768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -875,7 +875,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png" alt="best fender guitar for metal" class="wp-image-7161" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png" alt="best fender guitar for metal" class="wp-image-7161" title="" srcset="/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png 1024w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-600x400.png 600w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-300x200.png 300w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-768x512.png 768w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -991,7 +991,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-1024x683.png" alt="Fender American Ultra Stratocaster" class="wp-image-10943" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-1024x683.png" alt="Fender American Ultra Stratocaster" class="wp-image-10943" title="" srcset="/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1029,7 +1029,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-1024x683.jpg" alt="Fender American Ultra Luxe Vintage Series" class="wp-image-17854" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-1024x683.jpg" alt="Fender American Ultra Luxe Vintage Series" class="wp-image-17854" title="" srcset="/wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series-768x512.jpg 768w, /wp-content/uploads/2025/08/Fender-American-Ultra-Luxe-Vintage-Series.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1085,7 +1085,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-1024x683.jpg" alt="Fender Jack White Triplecaster Telecaster (1)" class="wp-image-17294" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-1024x683.jpg" alt="Fender Jack White Triplecaster Telecaster (1)" class="wp-image-17294" title="" srcset="/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-600x400.jpg 600w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-300x200.jpg 300w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-768x512.jpg 768w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

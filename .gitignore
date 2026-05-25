@@ -6,4 +6,5 @@ node_modules/
 wordpress-export.json
 url-inventory.csv
 parity-report.csv
+.wordpress-media-files.txt
 npm-debug.log*

@@ -18,7 +18,7 @@ tags:
   - "Budget Guitars"
 tagSlugs: 
   - "budget-guitars"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/11/7-EPIC-SHRED-GUITARS-FOR-ANYONE-ON-A-TIGHT-BUDGET.jpg"
+featuredImage: "/wp-content/uploads/2024/11/7-EPIC-SHRED-GUITARS-FOR-ANYONE-ON-A-TIGHT-BUDGET.jpg"
 featuredImageAlt: "7 EPIC SHRED GUITARS FOR ANYONE ON A TIGHT BUDGET"
 seo: 
   title: "7 Totally Epic Shred Guitars For Anyone On A Tight Budget"
@@ -89,7 +89,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Jackson-JS32-1024x683.jpg" alt="" class="wp-image-16787" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Jackson-JS32-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Jackson-JS32-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Jackson-JS32-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Jackson-JS32-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Jackson-JS32.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Jackson-JS32-1024x683.jpg" alt="" class="wp-image-16787" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Jackson-JS32-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Jackson-JS32-600x400.jpg 600w, /wp-content/uploads/2024/11/Jackson-JS32-300x200.jpg 300w, /wp-content/uploads/2024/11/Jackson-JS32-768x512.jpg 768w, /wp-content/uploads/2024/11/Jackson-JS32.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-RG450DXB-1024x683.jpg" alt="" class="wp-image-16788" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-RG450DXB-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-RG450DXB-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-RG450DXB-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-RG450DXB-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-RG450DXB.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Ibanez-RG450DXB-1024x683.jpg" alt="" class="wp-image-16788" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Ibanez-RG450DXB-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Ibanez-RG450DXB-600x400.jpg 600w, /wp-content/uploads/2024/11/Ibanez-RG450DXB-300x200.jpg 300w, /wp-content/uploads/2024/11/Ibanez-RG450DXB-768x512.jpg 768w, /wp-content/uploads/2024/11/Ibanez-RG450DXB.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -301,7 +301,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Schecter-C-1-Platinum-1024x683.jpg" alt="" class="wp-image-16789" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Schecter-C-1-Platinum-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Schecter-C-1-Platinum-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Schecter-C-1-Platinum-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Schecter-C-1-Platinum-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Schecter-C-1-Platinum.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Schecter-C-1-Platinum-1024x683.jpg" alt="" class="wp-image-16789" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Schecter-C-1-Platinum-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Schecter-C-1-Platinum-600x400.jpg 600w, /wp-content/uploads/2024/11/Schecter-C-1-Platinum-300x200.jpg 300w, /wp-content/uploads/2024/11/Schecter-C-1-Platinum-768x512.jpg 768w, /wp-content/uploads/2024/11/Schecter-C-1-Platinum.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -403,7 +403,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-TE-200-1024x683.jpg" alt="" class="wp-image-16790" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-TE-200-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-TE-200-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-TE-200-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-TE-200-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-TE-200.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/ESP-LTD-TE-200-1024x683.jpg" alt="" class="wp-image-16790" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/ESP-LTD-TE-200-1024x683.jpg 1024w, /wp-content/uploads/2024/11/ESP-LTD-TE-200-600x400.jpg 600w, /wp-content/uploads/2024/11/ESP-LTD-TE-200-300x200.jpg 300w, /wp-content/uploads/2024/11/ESP-LTD-TE-200-768x512.jpg 768w, /wp-content/uploads/2024/11/ESP-LTD-TE-200.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -501,7 +501,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-1024x683.jpg" alt="" class="wp-image-16791" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-1024x683.jpg" alt="" class="wp-image-16791" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-600x400.jpg 600w, /wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-300x200.jpg 300w, /wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT-768x512.jpg 768w, /wp-content/uploads/2024/11/Harley-Benton-Amarok-6-BKNT.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -597,7 +597,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-S521-1024x683.jpg" alt="" class="wp-image-16792" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-S521-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-S521-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-S521-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-S521-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Ibanez-S521.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Ibanez-S521-1024x683.jpg" alt="" class="wp-image-16792" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Ibanez-S521-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Ibanez-S521-600x400.jpg 600w, /wp-content/uploads/2024/11/Ibanez-S521-300x200.jpg 300w, /wp-content/uploads/2024/11/Ibanez-S521-768x512.jpg 768w, /wp-content/uploads/2024/11/Ibanez-S521.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -703,7 +703,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Untitled-design-4-1024x683.jpg" alt="" class="wp-image-16793" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Untitled-design-4-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Untitled-design-4-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Untitled-design-4-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Untitled-design-4-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Untitled-design-4.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Untitled-design-4-1024x683.jpg" alt="" class="wp-image-16793" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Untitled-design-4-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Untitled-design-4-600x400.jpg 600w, /wp-content/uploads/2024/11/Untitled-design-4-300x200.jpg 300w, /wp-content/uploads/2024/11/Untitled-design-4-768x512.jpg 768w, /wp-content/uploads/2024/11/Untitled-design-4.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

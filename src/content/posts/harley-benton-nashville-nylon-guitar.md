@@ -16,7 +16,7 @@ categorySlugs:
   - "harley-benton-news"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/04/The-Harley-Benton-Nashville-Nylon-%E2%80%93-Back-In-Black-Insane-Value-For-Money.jpg"
+featuredImage: "/wp-content/uploads/2025/04/The-Harley-Benton-Nashville-Nylon-%E2%80%93-Back-In-Black-Insane-Value-For-Money.jpg"
 featuredImageAlt: "The Harley Benton Nashville Nylon – Back In Black, Insane Value For Money"
 seo: 
   title: "Harley Benton’s Nashville Nylon Guitar Is Back In BLACK..."
@@ -267,7 +267,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-style-media-boxed"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2025/04/USMB22-1024x565.jpg" alt="" class="wp-image-17141" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/04/USMB22-1024x565.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/04/USMB22-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/04/USMB22-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/04/USMB22-768x424.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/04/USMB22-1536x848.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2025/04/USMB22.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-style-media-boxed"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2025/04/USMB22-1024x565.jpg" alt="" class="wp-image-17141" title="" srcset="/wp-content/uploads/2025/04/USMB22-1024x565.jpg 1024w, /wp-content/uploads/2025/04/USMB22-600x331.jpg 600w, /wp-content/uploads/2025/04/USMB22-300x166.jpg 300w, /wp-content/uploads/2025/04/USMB22-768x424.jpg 768w, /wp-content/uploads/2025/04/USMB22-1536x848.jpg 1536w, /wp-content/uploads/2025/04/USMB22.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -337,7 +337,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-style-media-boxed"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2025/04/HBNashvilleBK-1024x565.jpg" alt="" class="wp-image-17142" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/04/HBNashvilleBK-1024x565.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/04/HBNashvilleBK-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/04/HBNashvilleBK-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/04/HBNashvilleBK-768x424.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/04/HBNashvilleBK-1536x848.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2025/04/HBNashvilleBK.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-style-media-boxed"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2025/04/HBNashvilleBK-1024x565.jpg" alt="" class="wp-image-17142" title="" srcset="/wp-content/uploads/2025/04/HBNashvilleBK-1024x565.jpg 1024w, /wp-content/uploads/2025/04/HBNashvilleBK-600x331.jpg 600w, /wp-content/uploads/2025/04/HBNashvilleBK-300x166.jpg 300w, /wp-content/uploads/2025/04/HBNashvilleBK-768x424.jpg 768w, /wp-content/uploads/2025/04/HBNashvilleBK-1536x848.jpg 1536w, /wp-content/uploads/2025/04/HBNashvilleBK.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -18,7 +18,7 @@ tags:
   - "Gibson Guitars"
 tagSlugs: 
   - "gibson"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-reviews-is-it-any-good.jpg"
+featuredImage: "/wp-content/uploads/2025/12/Gibson-SG-Standard-61-reviews-is-it-any-good.jpg"
 featuredImageAlt: "Gibson SG Standard '61 reviews is it any good"
 seo: 
   title: "Gibson SG Standard '61 Reviews: Is It Worth It?"
@@ -149,7 +149,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-1024x683.jpg" alt="Gibson SG Standard &#039;61 pickups" class="wp-image-18126" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-1024x683.jpg" alt="Gibson SG Standard &#039;61 pickups" class="wp-image-18126" title="" srcset="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-600x400.jpg 600w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-300x200.jpg 300w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-768x512.jpg 768w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -181,7 +181,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-1024x683.jpg" alt="Gibson SG Standard &#039;61 back" class="wp-image-18124" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-back.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-1024x683.jpg" alt="Gibson SG Standard &#039;61 back" class="wp-image-18124" title="" srcset="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-600x400.jpg 600w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-300x200.jpg 300w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-back-768x512.jpg 768w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-back.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-1024x683.jpg" alt="" class="wp-image-18123" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-1024x683.jpg" alt="" class="wp-image-18123" title="" srcset="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-600x400.jpg 600w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-300x200.jpg 300w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish-768x512.jpg 768w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -257,7 +257,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-1024x683.jpg" alt="" class="wp-image-18125" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-1024x683.jpg" alt="" class="wp-image-18125" title="" srcset="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-600x400.jpg 600w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-300x200.jpg 300w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck-768x512.jpg 768w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-neck.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

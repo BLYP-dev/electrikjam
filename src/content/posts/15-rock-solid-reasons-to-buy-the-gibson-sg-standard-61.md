@@ -16,7 +16,7 @@ categorySlugs:
   - "gibson-news"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish.jpg"
+featuredImage: "/wp-content/uploads/2025/12/Gibson-SG-Standard-61-color-and-finish.jpg"
 featuredImageAlt: "Gibson SG Standard '61 color and finish"
 seo: 
   title: "15 Rock-Solid Reasons To Buy The Gibson SG Standard '61"
@@ -45,7 +45,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-1024x683.jpg" alt="Gibson SG Standard &#039;61 pickups" class="wp-image-18126" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-1024x683.jpg" alt="Gibson SG Standard &#039;61 pickups" class="wp-image-18126" title="" srcset="/wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-600x400.jpg 600w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-300x200.jpg 300w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups-768x512.jpg 768w, /wp-content/uploads/2025/12/Gibson-SG-Standard-61-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

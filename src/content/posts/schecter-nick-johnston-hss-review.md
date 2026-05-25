@@ -20,7 +20,7 @@ tags:
   - "Schecter Guitars"
 tagSlugs: 
   - "schecter"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg"
+featuredImage: "/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg"
 featuredImageAlt: "me and my Schecter Nick Johnston HSS"
 seo: 
   title: "Schecter Nick Johnston HSS Review: The Strat I've Always Wanted..."
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" width="471" height="450" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS.jpg" alt="Schecter Nick Johnston HSS" class="wp-image-6318" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS.jpg 471w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS-300x287.jpg 300w" sizes="(max-width: 471px) 100vw, 471px" /><figcaption class="wp-element-caption"><strong>Several Colors That Are Available</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" width="471" height="450" src="/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS.jpg" alt="Schecter Nick Johnston HSS" class="wp-image-6318" title="" srcset="/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS.jpg 471w, /wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS-300x287.jpg 300w" sizes="(max-width: 471px) 100vw, 471px" /><figcaption class="wp-element-caption"><strong>Several Colors That Are Available</strong></figcaption></figure>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter-1024x768.jpg" alt="" class="wp-image-6319" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/Nick-Johnston-schecter.jpg 1746w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>My Schecter On The Left/My Girlfriend&#8217;s Fender On The Right</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/12/Nick-Johnston-schecter-1024x768.jpg" alt="" class="wp-image-6319" title="" srcset="/wp-content/uploads/2021/12/Nick-Johnston-schecter-1024x768.jpg 1024w, /wp-content/uploads/2021/12/Nick-Johnston-schecter-600x450.jpg 600w, /wp-content/uploads/2021/12/Nick-Johnston-schecter-300x225.jpg 300w, /wp-content/uploads/2021/12/Nick-Johnston-schecter-768x576.jpg 768w, /wp-content/uploads/2021/12/Nick-Johnston-schecter-1536x1152.jpg 1536w, /wp-content/uploads/2021/12/Nick-Johnston-schecter-510x382.jpg 510w, /wp-content/uploads/2021/12/Nick-Johnston-schecter-1080x810.jpg 1080w, /wp-content/uploads/2021/12/Nick-Johnston-schecter.jpg 1746w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>My Schecter On The Left/My Girlfriend&#8217;s Fender On The Right</strong></figcaption></figure>
 
 
 
@@ -324,7 +324,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png" alt="" class="wp-image-6320" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png" alt="" class="wp-image-6320" title="" srcset="/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png 1024w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-600x192.png 600w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-300x96.png 300w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-768x246.png 768w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1536x492.png 1536w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1080x346.png 1080w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

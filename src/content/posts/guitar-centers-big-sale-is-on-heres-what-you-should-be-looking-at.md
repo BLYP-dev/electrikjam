@@ -16,7 +16,7 @@ categorySlugs:
   - "deals"
 tags: []
 tagSlugs: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/08/Fender-American-Professional-II.jpg"
+featuredImage: "/wp-content/uploads/2025/08/Fender-American-Professional-II.jpg"
 featuredImageAlt: "Fender American Professional II"
 seo: 
   title: "Guitar Center’s Big Sale Is On: Here’s What You Should Be Looking At"
@@ -45,7 +45,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-3.jpg" alt="" class="wp-image-18408" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-3.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-3-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-3-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-3-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2025/12/unnamed-3.jpg" alt="" class="wp-image-18408" title="" srcset="/wp-content/uploads/2025/12/unnamed-3.jpg 600w, /wp-content/uploads/2025/12/unnamed-3-300x300.jpg 300w, /wp-content/uploads/2025/12/unnamed-3-100x100.jpg 100w, /wp-content/uploads/2025/12/unnamed-3-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-4.jpg" alt="" class="wp-image-18407" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-4.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-4-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-4-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-4-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2025/12/unnamed-4.jpg" alt="" class="wp-image-18407" title="" srcset="/wp-content/uploads/2025/12/unnamed-4.jpg 600w, /wp-content/uploads/2025/12/unnamed-4-300x300.jpg 300w, /wp-content/uploads/2025/12/unnamed-4-100x100.jpg 100w, /wp-content/uploads/2025/12/unnamed-4-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -109,7 +109,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-5-1024x683.jpg" alt="" class="wp-image-18406" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-5-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-5-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-5-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-5-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-5.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/unnamed-5-1024x683.jpg" alt="" class="wp-image-18406" title="" srcset="/wp-content/uploads/2025/12/unnamed-5-1024x683.jpg 1024w, /wp-content/uploads/2025/12/unnamed-5-600x400.jpg 600w, /wp-content/uploads/2025/12/unnamed-5-300x200.jpg 300w, /wp-content/uploads/2025/12/unnamed-5-768x512.jpg 768w, /wp-content/uploads/2025/12/unnamed-5.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-6-1024x683.jpg" alt="" class="wp-image-18405" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-6-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-6-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-6-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-6-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/unnamed-6.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/unnamed-6-1024x683.jpg" alt="" class="wp-image-18405" title="" srcset="/wp-content/uploads/2025/12/unnamed-6-1024x683.jpg 1024w, /wp-content/uploads/2025/12/unnamed-6-600x400.jpg 600w, /wp-content/uploads/2025/12/unnamed-6-300x200.jpg 300w, /wp-content/uploads/2025/12/unnamed-6-768x512.jpg 768w, /wp-content/uploads/2025/12/unnamed-6.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
