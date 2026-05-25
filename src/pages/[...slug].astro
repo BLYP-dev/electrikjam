@@ -1,0 +1,35 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+import PageLayout from '../layouts/PageLayout.astro';
+import { normalizePath, type SiteEntry } from '../utils/site';
+
+type Props = {
+  entry: SiteEntry;
+};
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const pages = await getCollection('pages');
+  return [...posts, ...pages].filter((entry) => entry.data.path !== '/').map((entry) => ({
+    params: { slug: normalizePath(entry.data.path).replace(/^\/|\/$/g, '') },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props as Props;
+const { Content } = await render(entry as CollectionEntry<'posts'> | CollectionEntry<'pages'>);
+const isPost = entry.collection === 'posts';
+---
+
+{
+  isPost ? (
+    <ArticleLayout entry={entry as CollectionEntry<'posts'>}>
+      <Content />
+    </ArticleLayout>
+  ) : (
+    <PageLayout entry={entry as CollectionEntry<'pages'>}>
+      <Content />
+    </PageLayout>
+  )
+}

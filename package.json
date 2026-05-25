@@ -1,0 +1,24 @@
+{
+  "name": "electrikjam-astro",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "import:wordpress": "node scripts/import-wordpress.mjs",
+    "audit:urls": "node scripts/audit-urls.mjs",
+    "compare:parity": "node scripts/compare-parity.mjs"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.11",
+    "@astrojs/sitemap": "^3.4.2",
+    "astro": "^5.9.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4"
+  }
+}

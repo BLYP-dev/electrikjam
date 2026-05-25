@@ -1,0 +1,34 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { excerptText, type SiteEntry } from '../utils/site';
+
+interface Props {
+  title: string;
+  description: string;
+  path: string;
+  entries: SiteEntry[];
+}
+
+const { title, description, path, entries } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} path={path}>
+  <section class="container section">
+    <p class="eyebrow">Archive</p>
+    <h1>{title}</h1>
+    <p class="lede">{description}</p>
+  </section>
+  <section class="container section">
+    <div class="grid">
+      {
+        entries.map((entry) => (
+          <article class="card">
+            <h3><a href={entry.data.path}>{entry.data.title}</a></h3>
+            <p class="meta">{entry.data.date.toLocaleDateString('en-GB', { dateStyle: 'medium' })}</p>
+            <p>{excerptText(entry)}</p>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

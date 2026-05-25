@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import ArchiveLayout from '../../../layouts/ArchiveLayout.astro';
+import { archivePath, sortByDateDesc } from '../../../utils/site';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const archiveMap = new Map();
+  for (const post of posts) {
+    post.data.categorySlugs.forEach((slug, index) => {
+      if (!archiveMap.has(slug)) {
+        archiveMap.set(slug, {
+          slug,
+          name: post.data.categories[index] || slug,
+          entries: [],
+        });
+      }
+      archiveMap.get(slug).entries.push(post);
+    });
+  }
+  return Array.from(archiveMap.values()).map((archive) => ({
+    params: { slug: archive.slug },
+    props: archive,
+  }));
+}
+
+const { slug, name, entries } = Astro.props;
+const path = archivePath('category', slug);
+---
+
+<ArchiveLayout
+  title={name}
+  description={`Articles filed under ${name}.`}
+  path={path}
+  entries={sortByDateDesc(entries)}
+/>

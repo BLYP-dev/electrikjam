@@ -1,0 +1,38 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import { excerptText, stripHtml } from '../utils/site';
+
+interface Props {
+  entry: CollectionEntry<'posts'>;
+}
+
+const { entry } = Astro.props;
+const description = entry.data.seo?.description || excerptText(entry);
+const title = entry.data.seo?.title || entry.data.title;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  path={entry.data.path}
+  image={entry.data.featuredImage}
+  type="article"
+  schema={entry.data.seo?.schema}
+>
+  <article class="narrow section">
+    <p class="eyebrow">Article</p>
+    <h1>{entry.data.title}</h1>
+    <p class="meta">
+      {entry.data.date.toLocaleDateString('en-GB', { dateStyle: 'long' })}
+      {entry.data.author && ` by ${entry.data.author}`}
+    </p>
+    {entry.data.featuredImage && (
+      <img src={entry.data.featuredImage} alt={entry.data.featuredImageAlt || entry.data.title} />
+    )}
+    {entry.data.excerpt && <p class="lede">{stripHtml(entry.data.excerpt)}</p>}
+    <div class="content">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

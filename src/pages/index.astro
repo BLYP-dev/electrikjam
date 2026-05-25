@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { excerptText, SITE_DESCRIPTION, sortByDateDesc } from '../utils/site';
+
+const posts = sortByDateDesc(await getCollection('posts')).slice(0, 12);
+---
+
+<BaseLayout title="ELECTRIKJAM" description={SITE_DESCRIPTION} path="/">
+  <section class="container hero">
+    <p class="eyebrow">Guitar gear, tested properly</p>
+    <h1>The best guitar gear and how to use it.</h1>
+    <p class="lede">
+      ElectrikJam is moving from WordPress to Astro. This staging build keeps the old URL shape while the migration is validated.
+    </p>
+  </section>
+  <section class="container section">
+    <h2>Latest Articles</h2>
+    {
+      posts.length > 0 ? (
+        <div class="grid">
+          {posts.map((post) => (
+            <article class="card">
+              <h3><a href={post.data.path}>{post.data.title}</a></h3>
+              <p class="meta">{post.data.date.toLocaleDateString('en-GB', { dateStyle: 'medium' })}</p>
+              <p>{excerptText(post)}</p>
+            </article>
+          ))}
+        </div>
+      ) : (
+        <p class="lede">Imported WordPress posts will appear here after the first content import.</p>
+      )
+    }
+  </section>
+</BaseLayout>

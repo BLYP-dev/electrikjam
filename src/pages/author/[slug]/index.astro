@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import ArchiveLayout from '../../../layouts/ArchiveLayout.astro';
+import { archivePath, sortByDateDesc } from '../../../utils/site';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const archiveMap = new Map();
+  for (const post of posts) {
+    const slug = post.data.authorSlug;
+    if (!slug) continue;
+    if (!archiveMap.has(slug)) {
+      archiveMap.set(slug, {
+        slug,
+        name: post.data.author || slug,
+        entries: [],
+      });
+    }
+    archiveMap.get(slug).entries.push(post);
+  }
+  return Array.from(archiveMap.values()).map((archive) => ({
+    params: { slug: archive.slug },
+    props: archive,
+  }));
+}
+
+const { slug, name, entries } = Astro.props;
+const path = archivePath('author', slug);
+---
+
+<ArchiveLayout
+  title={name}
+  description={`Articles written by ${name}.`}
+  path={path}
+  entries={sortByDateDesc(entries)}
+/>

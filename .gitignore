@@ -1,0 +1,9 @@
+dist/
+node_modules/
+.astro/
+.env
+.env.*
+wordpress-export.json
+url-inventory.csv
+parity-report.csv
+npm-debug.log*
