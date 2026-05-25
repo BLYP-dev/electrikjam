@@ -32,11 +32,6 @@ seo:
 <h2 class="wp-block-heading" id="htoc-charvel-pro-mod-dk24-where-have-i-been">Charvel Pro Mod DK24:<em> Where Have I Been</em>?</h2>
 
 
-
-<div class="wp-block-ht-block-toc is-style-rounded htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded" data-htoc-scrollspy="false" data-htoc-auto-collapse="true" data-htoc-mapping-headers="[false,true,true,true,true,true]"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-charvel-pro-mod-dk24-where-have-i-been">Charvel Pro Mod DK24: Where Have I Been?</a></li><li class=""><a href="#htoc-charvel-pro-mod-dk24-features-and-specs">Charvel Pro Mod DK24: Features And Specs</a></li><li class=""><a href="#htoc-charvel-pro-mod-dk24-features">Charvel Pro Mod DK24 Features</a></li><li class=""><a href="#htoc-charvel-pro-mod-dk24-testing-it-out">Charvel Pro Mod DK24: Testing It Out</a></li><li class=""><a href="#htoc-the-body">The Body:</a></li><li class=""><a href="#htoc-the-neck">The Neck:</a></li><li class=""><a href="#htoc-bridge-and-hardware">Bridge And Hardware:</a></li><li class=""><a href="#htoc-pickups-electronics-and-sound">Pickups, Electronics, And Sound</a></li><li class=""><a href="#htoc-charvel-pro-mod-dk24-wrapping-up">Charvel Pro Mod DK24: Wrapping Up</a></li></ul></div></div>
-
-
-
 <p>I guess when you&#8217;re a guitarist, it can be easy to get myopic about certain things. I mean, if you play <a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="180107"><strong>Epiphone</strong></a> for example, then you probably only really keep up with what Epiphone does as a company. I know I am that way with <a href="https://www.electrikjam.com/schecter-guitars/" target="_blank" data-type="page" data-id="6499" rel="noopener" data-lasso-id="180108"><strong>Schecte</strong>r</a>, since that&#8217;s all I play these days.</p>
 
 

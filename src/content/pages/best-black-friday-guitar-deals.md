@@ -38,11 +38,6 @@ seo:
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
 
 
-
-<div class="wp-block-ultimate-post-table-of-content ultp-block-7155b9"><div class="ultp-block-wrapper"><div class="ultp-block-toc"><div class="ultp-toc-header"><div class="ultp-toc-heading">Table of Contents</div><div class="ultp-collapsible-toggle ultp-toggle-collapsed ultp-collapsible-right"><a class="ultp-collapsible-text ultp-collapsible-open" href="javascript:;" data-lasso-id="257878">[Open]</a><a class="ultp-collapsible-text ultp-collapsible-hide" href="javascript:;" data-lasso-id="257879">[Close]</a></div></div><div class="ultp-block-toc-style1 ultp-block-toc-body" style="display:none;"><ul class="ultp-toc-lists"><li><a href="#Black_Friday_Guitar_Deals">Best Black Friday Guitar Deals</a></li><li><a href="#Guitar_Center">Guitar Center</a></li><li><a href="#Thomann">Thomann</a></li><li><a href="#ELECTRIKJAMs_Recommended_Options">ELECTRIKJAM&#8217;s Recommended Options</a></li><li><a href="#Best_Guitar_Center_Black_Friday_Deals">Best Guitar Center Black Friday Deals</a></li><li><a href="#Other_Types_of_Deals_">Other Types of Deals </a></li><li><a href="#Best_Thomann_Black_Friday_Guitar_Deals">Best Thomann Black Friday Guitar Deals</a><ul class="ultp-toc-lists"><li><a href="#Beginner_Guitar_Deals">Beginner Guitar Deals</a></li><li><a href="#Intermidiate_/_Mid-Range_Guitar_Deals">Intermidiate / Mid-Range Guitar Deals</a></li><li><a href="#High-End_Guitar_Deals">High-End Guitar Deals</a></li></ul></li></ul></div></div></div></div>
-
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
 
 

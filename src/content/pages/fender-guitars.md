@@ -30,11 +30,6 @@ seo:
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
-
-<div class="wp-block-ultimate-post-table-of-content ultp-block-9128eb"><div class="ultp-block-wrapper"><div class="ultp-block-toc"><div class="ultp-toc-header"><div class="ultp-toc-heading">Table of Contents</div><div class="ultp-collapsible-toggle ultp-toggle-collapsed ultp-collapsible-right"><a class="ultp-collapsible-text ultp-collapsible-open" href="javascript:;" data-lasso-id="258711">[Open]</a><a class="ultp-collapsible-text ultp-collapsible-hide" href="javascript:;" data-lasso-id="258712">[Close]</a></div></div><div class="ultp-block-toc-style1 ultp-block-toc-body" style="display:none;"><ul class="ultp-toc-lists"><li><a href="#Fender_Guitar_Reviews">Fender Guitar Reviews</a></li><li><a href="#Fender_Guitar_Pricing_amp;_FAQs">Fender Guitar Pricing &amp; FAQs</a></li><li><a href="#Introduction_to_Fender_Guitars">Introduction to Fender Guitars</a></li><li><a href="#Fender_Guitar_Models">Fender Guitar Models</a></li><li><a href="#Fender_Stratocaster">Fender Stratocaster</a></li><li><a href="#Fender_Telecaster">Fender Telecaster</a></li><li><a href="#Fender_Jazzmaster">Fender Jazzmaster</a></li><li><a href="#Fender_Jaguar_">Fender Jaguar </a></li><li><a href="#Fender_Mustang_">Fender Mustang </a></li><li><a href="#Fender_Duo-Sonic_">Fender Duo-Sonic </a></li><li><a href="#Fender_Meteora_Player_Plus">Fender Meteora Player Plus</a></li><li><a href="#Fender_Lead_Series">Fender Lead Series</a></li><li><a href="#Fender_Vintera_Series">Fender Vintera Series</a></li><li><a href="#Popular_Fender_Guitar_Models">Popular Fender Guitar Models</a></li><li><a href="#Fender_Guitar_Buying_Guide">Fender Guitar Buying Guide</a></li><li><a href="#Fender_Guitar_Reviews">Fender Guitar Reviews</a></li><li><a href="#Tips_for_Beginner_Fender_Guitar_Players">Tips for Beginner Fender Guitar Players</a></li><li><a href="#Latest_Fender_News_amp;_Content">Latest Fender News &amp; Content</a></li></ul></div></div></div></div>
-
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

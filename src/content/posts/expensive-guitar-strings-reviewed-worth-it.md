@@ -80,11 +80,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-ht-block-toc is-style-rounded htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded" data-htoc-scrollspy="false"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-tl-dr-are-expensive-guitar-strings-worth-it1">TL;DR – Are Expensive Guitar Strings Worth It?</a></li><li class=""><a href="#htoc-tl-dr-are-expensive-guitar-strings-worth-it">Test Results&#8230;</a></li><li class=""><a href="#htoc-expensive-guitar-strings-fact-or-fiction">Expensive Guitar Strings: Fact Or Fiction?</a></li><li class=""><a href="#htoc-setting-up-the-test-before-we-begin">Setting Up The Test: Before We Begin</a></li><li class=""><a href="#htoc-making-your-strings-sound-the-best">Making Your Strings Sound The Best:</a></li><li class=""><a href="#htoc-3-elixir-nano-web-10-46">#3 Elixir Nano-Web 10-46</a></li><li class=""><a href="#htoc-the-elixir-claims">The Elixir Claims:</a></li><li class=""><a href="#htoc-elixir-nano-web-10-46-testing-and-experience">Elixir Nano-Web 10-46: Testing And Experience</a></li><li class=""><a href="#-2-D'Addario-NYXL-10-46">#2 D&#8217;Addario NYXL 10-46</a></li><li class=""><a href="#htoc-the-nyxl-claims">The NYXL Claims:</a></li><li class=""><a href="#htoc-d-addario-nyxl-10-46-testing-and-experience">D&#8217;Addario NYXL 10-46: Testing And Experience </a></li><li class=""><a href="#-1-Ernie-Ball-Paradigm-10-46">#1 Ernie Ball Paradigm 10-46</a></li><li class=""><a href="#htoc-the-paradigm-claim">The Paradigm Claim:</a></li><li class=""><a href="#htoc-ernie-ball-paradigm-10-46-testing-and-experience">Ernie Ball Paradigm 10-46: Testing And Experience</a></li><li class=""><a href="#htoc-expensive-guitar-strings-are-they-worth-it">Expensive Guitar Strings: Are They Worth it?</a></li><li class=""><a href="#htoc-guitar-strings-faqs-for-the-road">Guitar Strings FAQs For The Road</a></li></ul></div></div>
-
-
-
 <p></div>
 
 

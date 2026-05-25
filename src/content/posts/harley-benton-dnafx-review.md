@@ -27,8 +27,6 @@ seo:
 ---
 
 
-<div class="wp-block-ht-block-toc  is-style-outline htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded" data-htoc-scrollspy="false" data-htoc-auto-collapse="true" data-htoc-mapping-headers="[false,true,true,true,true,true]"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-harley-benton-dnafx-budget-effects-that-may-surprise-you">Harley Benton DNAfx: Budget Effects That May Surprise You!</a></li><li class=""><a href="#htoc-harley-benton-dnafx-features-and-specs">Harley Benton DNAfx: Features and Specs</a></li><li class=""><a href="#htoc-harley-benton-dnafx-the-verdict">Harley Benton DNAfx: The Verdict</a></li></ul></div></div>
-
 
 
 <p><strong>We have been taking a look at Harley Benton Guitars lately, and seeing what the <a href="https://www.electrikjam.com/best-budget-guitars/" data-lasso-id="37752">budget guitar brand</a> has to offer. How is the flagship Harley Benton DNAfx? Today we take a look, and see if it&#8217;s worth it.</strong></p>

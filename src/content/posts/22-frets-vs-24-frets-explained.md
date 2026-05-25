@@ -86,11 +86,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-ht-block-toc is-style-rounded htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded" data-htoc-scrollspy="false" data-htoc-auto-collapse="true" data-htoc-mapping-headers="[false,true,true,true,true,true]"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-tl-dr-22-frets-vs-24-frets">TL;DR: Difference between 22 frets and 24 frets on the electric guitar</a></li><li class=""><a href="#htoc-22-frets-vs-24-frets-does-it-matter">22 Frets vs 24 Frets: Does It Matter?</a></li><li class=""><a href="#htoc-22-frets-vs-24-frets-why-would-you-need-24-frets">Why Would You Need 24 Frets?</a></li><li class=""><a href="#htoc-22-frets-vs-24-frets-the-sounds">The Sound Differences</a></li><li class=""><a href="#htoc-so-what-does-this-all-mean-regarding-22-frets-vs-24-frets">So what does this all mean regarding 22 frets VS 24 frets?</a></li><li class=""><a href="#htoc-22-frets-vs-24-frets-testing-and-results">Testing And Results</a></li><li class=""><a href="#htoc-22-frets-vs-24-frets-the-test-results">The Test Results</a></li><li class=""><a href="#htoc-22-frets-vs-24-frets-tonal-differences">Tonal Differences</a></li><li class=""><a href="#htoc-22-frets-vs-24-frets-final-thoughts">Final Thoughts&#8230;</a></li><li class=""><a href="#htoc-faqs-for-the-road">FAQs For The Road&#8230;</a></li></ul></div></div>
-
-
-
 <h2 class="wp-block-heading" id="htoc-22-frets-vs-24-frets-does-it-matter">22 Frets vs 24 Frets: Does It Matter?</h2>
 
 

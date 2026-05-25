@@ -34,11 +34,6 @@ seo:
 <h2 class="wp-block-heading" id="htoc-schecter-nick-johnston-hss-a-classic-redefined">Schecter Nick Johnston HSS: A Classic Redefined!</h2>
 
 
-
-<div class="wp-block-ht-block-toc is-style-rounded htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded" data-htoc-scrollspy="false" data-htoc-auto-collapse="true" data-htoc-mapping-headers="[false,true,true,true,true,true]"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-schecter-nick-johnston-hss-a-classic-redefined">Schecter Nick Johnston HSS: A Classic Redefined!</a></li><li class=""><a href="#htoc-schecter-nick-johnston-hss-features-and-specs">Schecter Nick Johnston HSS: Features And Specs</a></li><li class=""><a href="#htoc-schecter-nick-johnston-hss-the-verdict">Schecter Nick Johnston HSS: The Verdict</a></li></ul></div></div>
-
-
-
 <p>It may seem like a silly statement, and may seem like an arbitrary thing to say but I am going to say it;<strong> Every professional guitarist, no matter what level you are at, needs a &#8220;S&#8221; type guitar. </strong>It doesn&#8217;t matter if you play the heaviest of Death Metal, you<em> need</em> a Strat style guitar. There are a lot of reasons for this, and that topic can be a whole article, and <a data-lasso-id="39781" href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener"><strong>we covered</strong> </a>this before.</p>
 
 

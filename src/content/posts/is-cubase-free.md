@@ -27,8 +27,6 @@ seo:
 ---
 
 
-<div class="wp-block-ht-block-toc is-style-rounded htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-tl-dr-what-you-ll-learn">🧠 TL;DR — What You’ll Learn:</a></li><li class=""><a href="#htoc-is-any-version-of-cubase-free">IS ANY VERSION OF CUBASE FREE?</a></li><li class=""><a href="#htoc-cubase-pricing-which-flavor-fits-your-budget">CUBASE PRICING: WHICH FLAVOR FITS YOUR BUDGET?</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-cubase-editions-comparison">🎛️ Cubase Editions Comparison</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-cubase-elements">🥉 Cubase Elements</a></li><li class=""><a href="#htoc-cubase-artist">🥈 Cubase Artist (Best For Most Just Getting Started)</a></li><li class=""><a href="#htoc-cubase-pro">🥇 Cubase Pro</a></li></ul></li></ul></li><li class=""><a href="#htoc-why-isn-t-cubase-free-anyway">🤔 WHY ISN’T CUBASE FREE, ANYWAY?</a></li><li class=""><a href="#htoc-who-s-using-cubase">WHO’S USING CUBASE?</a></li><li class=""><a href="#htoc-wrapping-it-up">WRAPPING IT UP…</a></li></ul></div></div>
-
 
 
 <div class="custom-snippet-div"></p>

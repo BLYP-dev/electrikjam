@@ -27,8 +27,6 @@ seo:
 ---
 
 
-<div class="wp-block-ht-block-toc  is-style-outline htoc htoc--position-wide toc-list-style-plain" data-htoc-state="closed"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-the-synyster-gates-custom-7-tr-headless-is-here-and-it-is-glorious">The Synyster Gates Custom-7 TR Headless Is Here And It Is Glorious&#8230;</a></li><li class=""><a href="#htoc-let-s-talk-specs">Let’s Talk Specs</a></li><li class=""><a href="#htoc-hardware-and-signature-touches">Hardware and Signature Touches</a></li><li class=""><a href="#htoc-lefties-rejoice">Lefties, Rejoice!</a></li><li class=""><a href="#htoc-price-and-availability">Price and Availability</a></li><li class=""><a href="#htoc-wrapping-up">Wrapping Up&#8230;</a></li></ul></div></div>
-
 
 
 <p>The wait is over for fans of Avenged Sevenfold and Synyster Gates, as Schecter has officially launched the much-anticipated <strong>Synyster Gates Custom-7 TR Headless</strong> guitar. </p>

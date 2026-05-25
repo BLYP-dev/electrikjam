@@ -25,8 +25,6 @@ seo:
 ---
 
 
-<div class="wp-block-ht-block-toc is-style-rounded htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded" data-htoc-scrollspy="false" data-htoc-auto-collapse="true" data-htoc-mapping-headers="[false,true,true,true,true,true]"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-cort-guitars-a-long-history-of-quality">Cort Guitars: A Long History of Quality</a></li><li class=""><a href="#htoc-cort-mbm-1">Cort MBM-1</a></li><li class=""><a href="#htoc-the-kx-series-kx300">The KX Series: KX300</a></li><li class=""><a href="#htoc-x-series-300-amp-500-models">X Series: 300 &amp; 500 Models</a></li><li class=""><a href="#htoc-the-x-series-x700-duality">The X Series: X700 Duality</a></li><li class=""><a href="#htoc-but-wait-they-have-extended-range-too">But Wait! They Have Extended Range TOO!</a></li><li class=""><a href="#htoc-cort-guitars-why-don-t-you-hear-more-about-them">Cort Guitars: Why Don&#8217;t You Hear More About Them?</a></li></ul></div></div>
-
 
 
 <h2 class="wp-block-heading" id="htoc-cort-guitars-a-long-history-of-quality">Cort Guitars: A Long History of Quality</h2>

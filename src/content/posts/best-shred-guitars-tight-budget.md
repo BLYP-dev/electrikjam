@@ -72,11 +72,6 @@ seo:
 <p>Out of all the shred-focussed guitars we’ve tested since 2020, the following are the best overall options for playability, tone, specs, and value for money.&nbsp;</p>
 
 
-
-<div class="wp-block-ht-block-toc  is-style-outline htoc htoc--position-wide toc-list-style-plain" data-htoc-state="closed" data-htoc-scrollspy="false"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-best-affordable-shred-guitars">Best Affordable Shred Guitars</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-how-it-works-on-mobile">Recommendations</a></li><li class=""><a href="#1.-Jackson-JS-Series-Dinky-JS32">1. Jackson JS Series Dinky JS32</a></li><li class=""><a href="#Ibanez-RG450DXB">2. Ibanez RG450DXB</a></li><li class=""><a href="#Schecter-C-1-Platinum">3. Schecter C-1 Platinum</a></li><li class=""><a href="#ESP-LTD-TE-200">4. ESP LTD TE-200</a></li><li class=""><a href="#Harley-Benton-Amarok-6-BKNT">5. Harley Benton Amarok-6 BKNT</a></li><li class=""><a href="#Ibanez-S521">6. Ibanez S521</a></li><li class=""><a href="#Schecter-Hellraiser-C-1-FR">7. Schecter Hellraiser C-1 FR (Used)</a></li></ul></li><li class=""><a href="#htoc-electrikjam-s-recommendation">Which Shredder Guitar Is Right For You? </a></li></ul></div></div>
-
-
-
 <p></div>
 
 

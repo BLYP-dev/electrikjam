@@ -108,11 +108,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-ht-block-toc is-style-rounded htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded" data-htoc-scrollspy="false"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-tl-dr-should-you-buy-a-squier-guitar">TL;DR – Should You Buy a Squier Guitar?</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-why-squier-guitars-are-worth-it">✅ Why Squier Guitars Are Worth It:</a></li><li class=""><a href="#htoc-what-to-keep-in-mind">⚠️ What to Keep in Mind:</a></li><li class=""><a href="#htoc-final-take">🧠 Final Take:</a></li></ul></li><li class=""><a href="#htoc-is-squier-made-by-fender">Is Squier Made By Fender?</a></li><li class=""><a href="#htoc-squier-guitars-vs-fender-guitars-what-s-the-difference">Squier Guitars vs Fender Guitars: What’s The Difference?</a></li><li class=""><a href="#htoc-squier-guitar-pros-why-you-d-buy-one">Squier Guitar PROS –&nbsp;Why You’d Buy One</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-1-loads-of-selection">1. Loads of Selection</a></li><li class=""><a href="#htoc-2-great-prices">2. Great Prices</a></li><li class=""><a href="#htoc-3-the-ideal-beginner-s-guitar">3. The Ideal Beginner’s Guitar</a></li></ul></li><li class=""><a href="#htoc-squier-guitar-cons-things-to-keep-in-mind">Squier Guitar CONS –&nbsp;Things To Keep In Mind</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-1-they-re-not-built-to-last">1. They’re Not Built To Last</a></li><li class=""><a href="#htoc-2-they-don-t-hold-their-tune">2. They Don’t Hold Their Tune</a></li><li class=""><a href="#htoc-3-the-sound-can-be-a-little-iffy">3. The Sound Can Be A Little Iffy…</a></li></ul></li></ul></div></div>
-
-
-
 <div class="custom-snippet-div"></p>
 
 

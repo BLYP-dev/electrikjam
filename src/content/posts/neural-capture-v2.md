@@ -27,8 +27,6 @@ seo:
 ---
 
 
-<div class="wp-block-ht-block-toc is-style-rounded htoc htoc--position-wide toc-list-style-plain" data-htoc-state="expanded" data-htoc-scrollspy="false" data-htoc-auto-collapse="true" data-htoc-mapping-headers="[false,true,true,true,true,true]"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-capture-v1-vs-v2-quick-breakdown">Capture V1 vs. V2 – Quick Breakdown</a></li><li class=""><a href="#htoc-so-what-is-neural-capture-v2">So What Is Neural Capture V2?</a></li><li class=""><a href="#htoc-why-it-actually-matters">Why It Actually Matters</a></li><li class=""><a href="#htoc-how-do-you-use-it">How Do You Use It?</a></li><li class=""><a href="#htoc-why-this-is-the-next-step-in-digital-guitar-rigs">Why This Is the Next Step in Digital Guitar Rigs</a></li><li class=""><a href="#htoc-bottom-line">Bottom Line</a></li><li class=""><a href="#htoc-faq-you-man">FAQ You, Man!</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-want-tone-that-slaps-so-hard-it-files-for-restraining-orders">Want Tone That Slaps So Hard It Files for Restraining Orders?</a></li></ul></li></ul></div></div>
-
 
 
 <h2 class="wp-block-heading" id="htoc-capture-v1-vs-v2-quick-breakdown">Capture V1 vs. V2 – Quick Breakdown</h2>

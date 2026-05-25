@@ -187,7 +187,7 @@ function localizeBodyMedia(html) {
 }
 
 function sanitizeImportedHtml(html) {
-  return stripInjectedVerdictBlocks(localizeBodyMedia(html));
+  return stripPluginTocBlocks(stripInjectedVerdictBlocks(localizeBodyMedia(html)));
 }
 
 function stripInjectedVerdictBlocks(html) {
@@ -217,6 +217,52 @@ function stripInjectedVerdictBlocks(html) {
       output += html.slice(cursor, start + marker.length);
       cursor = start + marker.length;
     }
+  }
+
+  return output.replace(/\n{5,}/g, '\n\n\n');
+}
+
+function stripPluginTocBlocks(html) {
+  return stripDivBlocksByClass(html, [
+    'wp-block-ht-block-toc',
+    'wp-block-ultimate-post-table-of-content',
+  ]);
+}
+
+function stripDivBlocksByClass(html, classNames) {
+  let output = '';
+  let cursor = 0;
+
+  while (cursor < html.length) {
+    const start = html.indexOf('<div', cursor);
+    if (start === -1) {
+      output += html.slice(cursor);
+      break;
+    }
+
+    const openEnd = html.indexOf('>', start);
+    if (openEnd === -1) {
+      output += html.slice(cursor);
+      break;
+    }
+
+    const openingTag = html.slice(start, openEnd + 1);
+    const shouldStrip = classNames.some((className) => openingTag.includes(className));
+    if (!shouldStrip) {
+      output += html.slice(cursor, openEnd + 1);
+      cursor = openEnd + 1;
+      continue;
+    }
+
+    const end = findBalancedDivEnd(html, start);
+    if (end === -1) {
+      output += html.slice(cursor, openEnd + 1);
+      cursor = openEnd + 1;
+      continue;
+    }
+
+    output += html.slice(cursor, start).replace(/\n{5,}$/g, '\n\n');
+    cursor = end;
   }
 
   return output.replace(/\n{5,}/g, '\n\n\n');

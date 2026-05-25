@@ -32,11 +32,6 @@ seo:
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
 
 
-
-<div class="wp-block-ht-block-toc  is-style-outline htoc htoc--position-wide toc-list-style-plain" data-htoc-state="closed"><span class="htoc__title"><span class="ht_toc_title">Table of Contents</span><span class="htoc__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#444"><path d="M15 7H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path><path d="M15 1H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1zM15 13H1c-.6 0-1 .4-1 1s.4 1 1 1h14c.6 0 1-.4 1-1s-.4-1-1-1z"></path></g></svg></span></span><div class="htoc__itemswrap"><ul class="ht_toc_list"><li class=""><a href="#htoc-12-albums-recorded-with-amp-sims">12 Albums Recorded With Amp Sims</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-1-spiritbox-eternal-blue">1. Spiritbox – Eternal Blue</a></li><li class=""><a href="#htoc-2-scar-symmetry-the-singularity-phase-ii-xenotaph">2. Scar Symmetry – The Singularity (Phase II – Xenotaph)</a></li><li class=""><a href="#htoc-3-intervals-circadian">3. Intervals – Circadian</a></li><li class=""><a href="#htoc-4-invent-animate-heavener">4. Invent Animate – Heavener</a></li><li class=""><a href="#htoc-5-thornhill-the-hollywood-death-star">5. Thornhill – The Hollywood Death Star</a></li><li class=""><a href="#htoc-6-steel-panther-on-the-prowl">6. Steel Panther – On the Prowl</a></li><li class=""><a href="#htoc-7-resolve-between-me-and-the-machine">7. Resolve – Between Me and The Machine</a></li><li class=""><a href="#htoc-8-novelists-fr-d-j-vu">8. Novelists FR – Déjà Vu</a></li><li class=""><a href="#htoc-9-bleed-from-within-shrine">9. Bleed From Within – Shrine</a></li><li class=""><a href="#htoc-10-twelve-foot-ninja-silent-machine">10. Twelve Foot Ninja – Silent Machine</a></li><li class=""><a href="#htoc-11-chimp-spanner-all-roads-lead-here">11. Chimp Spanner – All Roads Lead Here</a></li><li class=""><a href="#htoc-12-animals-as-leaders-self-titled">12. Animals as Leaders – Self-Titled</a></li></ul></li><li class=""><a href="#htoc-wrapping-up">Wrapping Up&#8230;</a><ul class="ht_toc_child_list"><li class=""><a href="#htoc-things-to-keep-in-mind">FAQs For The Road&#8230;</a></li></ul></li></ul></div></div>
-
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
 
 
