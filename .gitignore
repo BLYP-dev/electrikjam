@@ -7,4 +7,5 @@ wordpress-export.json
 url-inventory.csv
 parity-report.csv
 .wordpress-media-files.txt
+.wordpress-media-files-relative.txt
 npm-debug.log*

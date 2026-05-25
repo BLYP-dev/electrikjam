@@ -13,15 +13,21 @@ import {
   toCsv,
   writeTextFile,
 } from './lib.mjs';
+import { readFile } from 'node:fs/promises';
 
 const limit = Number(process.env.AUDIT_LIMIT || 200);
-const urls = (await discoverSitemapUrls(LIVE_ORIGIN)).slice(0, limit);
-const rows = [];
+const exportFile = process.env.WP_EXPORT_FILE;
+const rows = exportFile
+  ? await inventoryFromExport(exportFile)
+  : [];
 
-for (const oldUrl of urls) {
-  const row = await auditUrl(oldUrl);
-  rows.push(row);
-  console.log(`${row.status_code} ${row.path}`);
+if (!exportFile) {
+  const urls = (await discoverSitemapUrls(LIVE_ORIGIN)).slice(0, limit);
+  for (const oldUrl of urls) {
+    const row = await auditUrl(oldUrl);
+    rows.push(row);
+    console.log(`${row.status_code} ${row.path}`);
+  }
 }
 
 const columns = [
@@ -40,6 +46,51 @@ const columns = [
 
 await writeTextFile(projectPath('url-inventory.csv'), toCsv(rows, columns));
 console.log(`Wrote url-inventory.csv with ${rows.length} rows.`);
+
+async function inventoryFromExport(path) {
+  const payload = JSON.parse(await readFile(path, 'utf8'));
+  const contentRows = [...(payload.posts || []), ...(payload.pages || [])].map((item) => {
+    const urlPath = normalizePath(item.path || item.url);
+    return {
+      old_url: new URL(urlPath, LIVE_ORIGIN).toString(),
+      path: urlPath,
+      type: item.type === 'page' ? 'page' : 'post',
+      status_code: 200,
+      title: item.seo?.title || item.title || '',
+      h1: item.title || '',
+      canonical: item.seo?.canonical || new URL(urlPath, LIVE_ORIGIN).toString(),
+      meta_description: item.seo?.description || stripHtml(item.excerpt || ''),
+      word_count: stripHtml(item.content || '').split(/\s+/).filter(Boolean).length,
+      internal_links_count: new Set(extractLinks(item.content || '', LIVE_ORIGIN).filter((url) => new URL(url).origin === LIVE_ORIGIN)).size,
+      notes: 'from_wordpress_export',
+    };
+  });
+
+  const taxonomyRows = [
+    ...(payload.categories || []).map((term) => taxonomyRow(term, 'category')),
+    ...(payload.tags || []).map((term) => taxonomyRow(term, 'tag')),
+  ];
+
+  const allRows = [...contentRows, ...taxonomyRows];
+  return limit > 0 ? allRows.slice(0, limit) : allRows;
+}
+
+function taxonomyRow(term, type) {
+  const urlPath = normalizePath(term.path || term.link);
+  return {
+    old_url: new URL(urlPath, LIVE_ORIGIN).toString(),
+    path: urlPath,
+    type,
+    status_code: 200,
+    title: term.seo?.title || term.name || '',
+    h1: term.name || '',
+    canonical: term.seo?.canonical || new URL(urlPath, LIVE_ORIGIN).toString(),
+    meta_description: term.seo?.description || stripHtml(term.description || ''),
+    word_count: stripHtml(term.description || '').split(/\s+/).filter(Boolean).length,
+    internal_links_count: 0,
+    notes: 'from_wordpress_export',
+  };
+}
 
 async function auditUrl(oldUrl) {
   try {

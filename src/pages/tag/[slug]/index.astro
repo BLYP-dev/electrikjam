@@ -1,36 +1,54 @@
 ---
 import { getCollection } from 'astro:content';
 import ArchiveLayout from '../../../layouts/ArchiveLayout.astro';
-import { archivePath, sortByDateDesc } from '../../../utils/site';
+import taxonomies from '../../../data/taxonomies.json';
+import { archivePath, normalizePath, sortByDateDesc } from '../../../utils/site';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
   const archiveMap = new Map();
+
+  for (const tag of taxonomies.tags || []) {
+    archiveMap.set(tag.path, {
+      slug: tag.slug,
+      name: tag.name,
+      path: tag.path,
+      description: tag.seo?.description || tag.description || `Articles tagged ${tag.name}.`,
+      seoTitle: tag.seo?.title || tag.name,
+      entries: [],
+    });
+  }
+
   for (const post of posts) {
     post.data.tagSlugs.forEach((slug, index) => {
-      if (!archiveMap.has(slug)) {
-        archiveMap.set(slug, {
+      const path = normalizePath(post.data.tagPaths[index] || archivePath('tag', slug));
+      if (!archiveMap.has(path)) {
+        archiveMap.set(path, {
           slug,
           name: post.data.tags[index] || slug,
+          path,
+          description: `Articles tagged ${post.data.tags[index] || slug}.`,
+          seoTitle: post.data.tags[index] || slug,
           entries: [],
         });
       }
-      archiveMap.get(slug).entries.push(post);
+      archiveMap.get(path).entries.push(post);
     });
   }
+
   return Array.from(archiveMap.values()).map((archive) => ({
     params: { slug: archive.slug },
     props: archive,
   }));
 }
 
-const { slug, name, entries } = Astro.props;
-const path = archivePath('tag', slug);
+const { name, path, description, seoTitle, entries } = Astro.props;
 ---
 
 <ArchiveLayout
   title={name}
-  description={`Articles tagged ${name}.`}
+  seoTitle={seoTitle}
+  description={description}
   path={path}
   entries={sortByDateDesc(entries)}
 />

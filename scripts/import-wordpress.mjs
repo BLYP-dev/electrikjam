@@ -219,6 +219,8 @@ function localMediaPath(url) {
 
 function localizeBodyMedia(html) {
   return normalizeBodyUrls(html)
+    .replace(/https:\/\/mk0electrikjamnqkoxh\.kinstacdn\.com\/wp-content\/uploads/g, '/wp-content/uploads')
+    .replace(/http:\/\/mk0electrikjamnqkoxh\.kinstacdn\.com\/wp-content\/uploads/g, '/wp-content/uploads')
     .replace(/https:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, '/wp-content/uploads')
     .replace(/http:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, '/wp-content/uploads')
     .replace(/https:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, '/wp-content/uploads')
@@ -266,6 +268,7 @@ function stripInjectedVerdictBlocks(html) {
 function stripPluginTocBlocks(html) {
   return stripDivBlocksByClass(html, [
     'wp-block-ht-block-toc',
+    'wp-block-rank-math-toc-block',
     'wp-block-ultimate-post-table-of-content',
   ]);
 }
@@ -298,7 +301,9 @@ function stripStyledComparisonBlocks(html) {
     const block = end === -1 ? '' : html.slice(start, end);
     const looksLikeComparisonCard =
       block.includes('background-color: #f0f0f0; border-radius: 8px; padding: 20px;') &&
-      block.includes('Key Differences:');
+      (block.includes('Key Differences:') ||
+        block.includes('A Comprehensive Comparison') ||
+        block.includes('Battle of the Icons'));
 
     if (end !== -1 && looksLikeComparisonCard) {
       output += html.slice(cursor, start).replace(/\n{5,}$/g, '\n\n');
