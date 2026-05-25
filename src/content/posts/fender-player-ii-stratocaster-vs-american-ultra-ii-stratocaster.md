@@ -53,13 +53,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster/" style="background-color:#ff3399"><strong>Check Latest Deals For This Guitar</strong></a></div>
-</div>
-
-
-
 <h3 class="wp-block-heading">Choose the <strong>Fender American Ultra II Stratocaster</strong> if…</h3>
 
 
@@ -77,10 +70,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/fender-american-ultra-ii-hss-stratocaster/" style="background-color:#ff3399"><strong>Check Latest Deals For This Guitar</strong></a></div>
-</div>
 </div>
 
 

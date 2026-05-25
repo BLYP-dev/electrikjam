@@ -42,10 +42,6 @@ seo:
 
 
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-lasso-id="266485">Best Epiphone Guitar Guide</a></div>
-</div>
-
 
 
 <p class="has-link-color has-small-font-size wp-elements-6db0589da5bd8ae4355b95babd61578c"><strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="4472" data-lasso-id="266486">The One We Recommend</a></strong></p>
@@ -519,14 +515,6 @@ seo:
 <p class="has-text-align-center has-main-color has-text-color">This <strong><span style="text-decoration: underline;">step-by-step framework</span></strong> is the exact process I use to master music professionally. It is the <strong><span style="text-decoration: underline;">culmination of 20+ years of experience</span></strong>, condensed down into a single, easy to follow workflow</p>
 
 
-
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-f2baa792 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--medium)" data-lasso-id="266495">GET YOUR COPY NOW</a></div>
-
-
-
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" href="https://www.electrikjam.com/mastering-101-beginners-guide/" style="background-color:#64648254;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--medium)" data-lasso-id="266496">LEARN MORE</a></div>
-</div>
 </div>
 </div>
 

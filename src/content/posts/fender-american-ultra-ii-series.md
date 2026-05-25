@@ -348,10 +348,6 @@ seo:
 <p><strong>What’s the difference between the Ultra and Ultra II?</strong><br>The Ultra II refines the original with better pickups, more ergonomic body contours, and upgraded materials like Graph Tech nuts.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="margin-top:25px">
-<div class="wp-block-button"><a class="wp-block-button__link has-primary-color has-tertiary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/category/news/fender-news/" data-lasso-id="270512">Latest Fender News</a></div>
-</div>
 </div>
 
 

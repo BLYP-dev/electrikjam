@@ -699,9 +699,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-334a2726 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink wp-container-content-9cfa9a5a is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/home-recording-guide/"><strong>Home Studio Recording Gear</strong></a></div>
-</div>
+
 </div>
 </div>
 

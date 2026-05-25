@@ -40,10 +40,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://x.com/ELECTRIKJAM1" data-lasso-id="268837" target="_blank" rel="noopener noreferrer nofollow">Follow ELECTRIKJAM on X</a></div>
-</div>
 </div>
 </div>
 </section>
@@ -482,10 +478,6 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268267" target="_blank" rel="noopener noreferrer nofollow">JOIN FOR FREE</a></div>
-</div>
-
 
 
 <p class="has-secondary-color has-text-color has-link-color has-small-font-size wp-elements-572f7d4627330b94783cf5bcf2d15e25">Unsubscribe any time.</p>
@@ -528,10 +520,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-c8b6bfc8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268840" target="_blank" rel="noopener noreferrer nofollow">GET SMARTER ABOUT GUITARS</a></div>
-</div>
 </div>
 
 

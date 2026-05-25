@@ -43,9 +43,7 @@ seo:
 
 
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="260602"><strong>The Best Electric Guitar String Guide</strong></a></div>
-</div>
+
 </div>
 
 
@@ -612,7 +610,7 @@ seo:
 <div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--x-large)"><nav class="alignwide wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-core-query-pagination-is-layout-b2891da8 wp-block-query-pagination-is-layout-flex" aria-label="Pagination">
 
 
-<a href="?query-1-page=2" class="is-style-wp-block-button__link wp-block-query-pagination-next has-background has-primary-background-color">Next Page</a>
+
 </nav></div>
 </div>
 </div>

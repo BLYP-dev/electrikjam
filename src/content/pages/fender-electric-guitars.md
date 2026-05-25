@@ -40,9 +40,7 @@ seo:
 
 
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-button-light is-style-button-light--19"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/fender-player-ii-stratocaster-reviews/"><strong>Our Go-To Fender Guitar Right Now</strong></a></div>
-</div>
+
 </div>
 
 
@@ -193,10 +191,6 @@ seo:
 <h2 class="wp-block-heading has-main-color has-text-color has-link-color has-large-font-size wp-elements-8ddd5b625740370c7abff56804556487" id="htoc-latest-fender-guitar-reviews"><strong>Latest Fender Guitar Reviews</strong></h2>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-secondary-button is-style-secondary-button--20"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/recommended-gear/"><strong>Best Gear Guide</strong></a></div>
-</div>
 </div>
 
 
@@ -528,9 +522,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-334a2726 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink wp-container-content-9cfa9a5a is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/best-electric-guitars/" style="background-color:#ff3399"><strong>Best Electrc Guitars To Buy</strong></a></div>
-</div>
+
 </div>
 </div>
 

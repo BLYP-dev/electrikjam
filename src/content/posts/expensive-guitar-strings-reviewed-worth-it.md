@@ -73,10 +73,6 @@ seo:
 <p id="htoc-each-set-delivered-on-its-promises-if-you-play-often-record-regularly-or-have-acidic-sweat-that-kills-strings-fast-these-premium-sets-are-absolutely-worth-trying">Each set delivered on its promises. If you play often, record regularly, or have acidic sweat that kills strings fast, these premium sets are absolutely worth trying.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">🏆 <strong>Editor&#8217;s Choice: Ernie Ball Paradigm</strong></a></div>
-</div>
 </div>
 
 

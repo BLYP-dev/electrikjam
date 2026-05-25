@@ -69,13 +69,6 @@ seo:
 <figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" width="471" height="450" src="/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS.jpg" alt="Schecter Nick Johnston HSS" class="wp-image-6318" title="" srcset="/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS.jpg 471w, /wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS-300x287.jpg 300w" sizes="(max-width: 471px) 100vw, 471px" /><figcaption class="wp-element-caption"><strong>Several Colors That Are Available</strong></figcaption></figure>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/schecter-guitar-research-nick-johnston-traditional-hss/" style="background-color:#ff3399"><strong>Check Latest Prices &amp; Offers</strong></a></div>
-</div>
-
-
-
 <p>I know what you&#8217;re thinking right now, looking at that picture above. <em>This thing looks just like a Fender Strat</em>. So what is the difference? And better yet, could the differences<em> really </em>be big enough for it to<em> matter</em>? The answer to these questions lie not in the appearance, but in the subtle differences in the features. The <a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-lasso-id="158757">Schecter</a> has a lot going on &#8220;behind the scenes&#8221; that you will not notice until you&#8217;ve played one&#8230;</p>
 
 
@@ -229,13 +222,6 @@ seo:
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png" alt="" class="wp-image-6320" title="" srcset="/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png 1024w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-600x192.png 600w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-300x96.png 300w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-768x246.png 768w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1536x492.png 1536w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1080x346.png 1080w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/schecter-guitar-research-nick-johnston-traditional-hss/" style="background-color:#ff3399"><strong>Check Latest Prices &amp; Offers</strong></a></div>
-</div>
-
-
-
 <h2 class="wp-block-heading" id="htoc-schecter-nick-johnston-hss-the-verdict">Schecter Nick Johnston HSS: The Verdict</h2>
 
 
@@ -258,8 +244,4 @@ seo:
 <p>So if you are looking for something traditional, with modern twists, then this Schecter might be right up your alley. Schecter also makes a 3 single coil version of this guitar, if the humbucker is not your style. Those share all of the same features. and the quality is just unbelievable. The reasonable price is just a bonus. </p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/schecter-guitar-research-nick-johnston-traditional-hss/" style="background-color:#ff3399"><strong>Check Latest Prices &amp; Offers</strong></a></div>
-</div>
 

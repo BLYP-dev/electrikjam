@@ -298,10 +298,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-c8b6bfc8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background wp-element-button" href="https://www.electrikjam.com/buying-guides/"><strong>View All Gear Buying Guides</strong></a></div>
-</div>
 </div>
 
 
@@ -522,10 +518,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-c8b6bfc8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background wp-element-button" href="https://www.electrikjam.com/artist-gear-guides/"><strong>View All Gear Guides</strong></a></div>
-</div>
 </div>
 
 
@@ -755,10 +747,6 @@ seo:
 <h2 class="wp-block-heading has-main-color has-text-color has-link-color has-large-font-size wp-elements-67e820a0ec93c65aa5acd0ef38de2a8d"><strong>Recommended Gear Guides </strong></h2>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-secondary-button is-style-secondary-button--27"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/recommended-gear/"><strong>Best Gear Guide</strong></a></div>
-</div>
 </div>
 
 
@@ -1119,10 +1107,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-c8b6bfc8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-main-background-color has-text-color has-background wp-element-button" href="https://www.electrikjam.com/best-electric-guitars/" data-lasso-id="269157"><strong>THE BEST GUITAR GUIDE</strong></a></div>
-</div>
 </div>
 
 
@@ -1311,10 +1295,6 @@ seo:
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
 
 
-
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-main-background-color has-background wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="269170" target="_blank" rel="noopener noreferrer nofollow"><strong>SUBSCRIBE</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -1500,14 +1480,6 @@ seo:
 <p class="has-text-align-center has-main-color has-text-color">This <strong><span style="text-decoration: underline;">step-by-step framework</span></strong> is the exact process I use to master music professionally. It is the <strong><span style="text-decoration: underline;">culmination of 20+ years of experience</span></strong>, condensed down into a single, easy to follow workflow</p>
 
 
-
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-f2baa792 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--medium)" data-lasso-id="265116">GET YOUR COPY NOW</a></div>
-
-
-
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" href="https://www.electrikjam.com/mastering-101-beginners-guide/" style="background-color:#64648254;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--medium)" data-lasso-id="265117">LEARN MORE</a></div>
-</div>
 </div>
 </div>
 </div></div>

@@ -43,9 +43,7 @@ seo:
 
 
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" target="_blank" rel="noopener" data-lasso-id="264238"><strong>GET YOUR COPY TODAY</strong></a></div>
-</div>
+
 </div>
 
 
@@ -129,10 +127,6 @@ seo:
 <p class="has-small-font-size"><strong>Learn the exact process used by professional mastering engineers, laid out in a simple to follow step-by-step framework.</strong></p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 lemonsqueezy-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="264231"><strong>GET YOUR COPY TODAY</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -279,10 +273,6 @@ seo:
 <p class="has-small-font-size"><strong>Learn the exact process used by professional mastering engineers, laid out in a simple to follow step-by-step framework.</strong></p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 lemonsqueezy-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265140"><strong>GET YOUR COPY TODAY</strong></a></div>
-</div>
 </div>
 </div>
 </div>

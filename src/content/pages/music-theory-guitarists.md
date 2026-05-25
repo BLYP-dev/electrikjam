@@ -43,9 +43,7 @@ seo:
 
 
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/email-landing-page/" data-lasso-id="266336">CONNECT WITH ME</a></div>
-</div>
+
 </div>
 
 
@@ -213,10 +211,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/email-landing-page/" data-lasso-id="266337">JOIN FOR FREE →</a></div>
-</div>
 </div>
 </div>
 </div>

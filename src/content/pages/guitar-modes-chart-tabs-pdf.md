@@ -58,9 +58,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="269539" target="_blank" rel="noopener noreferrer nofollow">Join 2k+ Readers</a></div>
-</div>
+
 </div>
 </div>
 

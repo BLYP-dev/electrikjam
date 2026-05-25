@@ -187,10 +187,6 @@ seo:
 <p id="htoc-q-is-the-left-handed-version-exactly-the-same-as-the-right-handed-model-a-yes-the-left-handed-version-offers-the-same-specs-and-features-as-its-right-handed-counterpart"><strong>Q: Is the left-handed version exactly the same as the right-handed model?</strong><br>A: Yes, the left-handed version offers the same specs and features as its right-handed counterpart.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="margin-top:25px">
-<div class="wp-block-button"><a class="wp-block-button__link has-primary-color has-tertiary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/category/news/schecter-news/" data-lasso-id="270562"><strong>Latest Schecter News &amp; Headlines</strong></a></div>
-</div>
 </div>
 
 

@@ -37,10 +37,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-c8b6bfc8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="269086" target="_blank" rel="noopener noreferrer nofollow"><strong>QUESTIONS? Get In Touch!</strong></a></div>
-</div>
 </div>
 
 
@@ -420,10 +416,6 @@ seo:
 <p>Perfect for absolute beginners or anyone interested in learning guitar. <strong><a href="https://www.electrikjam.com/best-electric-guitars/best-budget-guitars/" data-lasso-id="269087">These budget / affordable electric guitars seriously impressed us</a></strong> with their playability, tone, and general quality…</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-x-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/best-electric-guitars/best-budget-guitars/" data-lasso-id="269088"><strong>VIEW RECOMMENDATIONS</strong></a></div>
-</div>
 </div>
 </div>
 
@@ -442,10 +434,6 @@ seo:
 <p>You’ve learnt the basics, and now you want a better instrument. Exciting times. <strong><a href="https://www.electrikjam.com/best-electric-guitars/best-mid-range-electric-guitars/" data-lasso-id="269089">These guitars all offer exceptional playability and specs</a></strong> built for studio work and life on the road.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-x-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/best-electric-guitars/best-mid-range-electric-guitars/" data-lasso-id="269090"><strong>VIEW RECOMMENDATIONS</strong></a></div>
-</div>
 </div>
 </div>
 
@@ -464,10 +452,6 @@ seo:
 <p>The high-end, the big leagues. The pro-level options. These are the best of the best right now when it comes to overall fit and finish, playability, pickups, and tuning stability. But they ain’t cheap…</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-x-small-font-size has-custom-font-size wp-element-button"><strong>VIEW RECOMMENDATIONS</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -484,10 +468,6 @@ seo:
 <p>For those of you that want to chug and djent, an extended range guitar or (better yet) a baritone electric guitar is just what the doctor ordered. Here’s all the best options from the last 12 months</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-x-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="269091"><strong>VIEW RECOMMENDATIONS</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -611,10 +591,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/epiphone-les-paul-custom-2/" data-lasso-id="269134"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -682,10 +658,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color has-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/epiphone-les-paul-custom-2/" data-lasso-id="269137"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </section>
 
@@ -747,10 +719,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/fender-player-series-ii/" data-lasso-id="269138"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -818,10 +786,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color has-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/fender-player-series-ii/" data-lasso-id="269141"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </section>
 
@@ -887,10 +851,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/schecter-nick-johnston-series/" data-lasso-id="269142"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -958,10 +918,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color has-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/schecter-nick-johnston-series/" data-lasso-id="269145"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </section>
 
@@ -1019,10 +975,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/prs-se-dgt/" data-lasso-id="269146"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -1094,10 +1046,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color has-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/prs-se-dgt/" data-lasso-id="269149"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </section>
 
@@ -1155,10 +1103,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/squier-contemporary-telecaster/" data-lasso-id="269150"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -1226,10 +1170,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color has-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/squier-contemporary-telecaster/" data-lasso-id="269153"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </section>
 </div></div>
@@ -1485,10 +1425,6 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="269077" target="_blank" rel="noopener noreferrer nofollow"><strong>JOIN FOR FREE</strong></a></div>
-</div>
-
 
 
 <p class="has-secondary-color has-text-color has-link-color has-small-font-size wp-elements-572f7d4627330b94783cf5bcf2d15e25">Unsubscribe any time.</p>

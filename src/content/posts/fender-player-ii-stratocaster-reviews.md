@@ -69,10 +69,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster/" style="background-color:#ff3399"><strong>CHECK LATEST PRICES &amp; MODELS</strong></a></div>
-</div>
 </div>
 
 
@@ -347,8 +343,4 @@ seo:
 <p>You get a high-performance Strat that instantly feels like an old friend and can handle any genre you throw at it. This is the new gold standard for the modern, accessible Fender.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster/" style="background-color:#ff3399"><strong>CHECK LATEST PRICES FOR THIS GUITAR</strong></a></div>
-</div>
 

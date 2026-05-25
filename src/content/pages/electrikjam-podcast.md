@@ -39,9 +39,7 @@ seo:
 
 
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://open.spotify.com/show/3lzBEYsSsbCSUeQEpQs9RH" data-lasso-id="261140" target="_blank" rel="noopener noreferrer nofollow">SUBSCRIBE ON SPOTIFY</a></div>
-</div>
+
 </div>
 
 

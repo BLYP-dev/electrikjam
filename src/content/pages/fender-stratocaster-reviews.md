@@ -155,10 +155,6 @@ seo:
 <p><strong>These budget / affordable electric guitars seriously impressed us</strong> with their playability, tone, and general quality…</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-x-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/best-electric-guitars/best-budget-guitars/"><strong>VIEW RECOMMENDATIONS</strong></a></div>
-</div>
 </div>
 </div>
 
@@ -177,10 +173,6 @@ seo:
 <p>Exciting times. <strong>These guitars all offer exceptional playability and specs</strong> built for studio work and life on the road.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-x-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/best-electric-guitars/best-mid-range-electric-guitars/"><strong>VIEW RECOMMENDATIONS</strong></a></div>
-</div>
 </div>
 </div>
 
@@ -199,10 +191,6 @@ seo:
 <p>These are the best of the best right now when it comes to overall fit and finish, playability, pickups, and tuning stability. </p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-x-small-font-size has-custom-font-size wp-element-button"><strong>VIEW RECOMMENDATIONS</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -219,10 +207,6 @@ seo:
 <p>For those of you that want to chug and djent, an extended range guitar or (better yet) a baritone electric guitar is just what the doctor ordered. Here’s all the best options from the last 12 months</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-x-small-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/best-baritone-guitars-for-metal/"><strong>VIEW RECOMMENDATIONS</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -516,9 +500,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-334a2726 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink wp-container-content-9cfa9a5a is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/home-recording-guide/"><strong>Home Studio Recording Gear</strong></a></div>
-</div>
+
 </div>
 </div>
 

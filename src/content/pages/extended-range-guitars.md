@@ -167,10 +167,6 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268267" target="_blank" rel="noopener noreferrer nofollow">JOIN FOR FREE</a></div>
-</div>
-
 
 
 <p class="has-secondary-color has-text-color has-link-color has-small-font-size wp-elements-572f7d4627330b94783cf5bcf2d15e25">Unsubscribe any time.</p>
@@ -268,10 +264,6 @@ seo:
 <p>Meanwhile, higher-end models like the <strong><a href="https://www.electrikjam.com/the-top-5-extended-range-guitars-for-2021-going-low/" data-type="post" data-id="2358" data-lasso-id="268506">Strandberg Boden 8</a></strong> offer ergonomic design and cutting-edge features for serious musicians pushing the boundaries of their craft.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/djent-101/" data-lasso-id="268507">Learn All About DJENT </a></div>
-</div>
 </div>
 </div>
 
@@ -316,10 +308,6 @@ seo:
 <p>Whether you’re hammering out crushing metal riffs or navigating intricate jazz progressions, ERGs deliver the sound and versatility you need to explore new musical territories.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/guitar-tuning/" data-lasso-id="268508">Learn About Extended Range Guitar Tunings</a></div>
-</div>
 </div>
 </div>
 
@@ -352,10 +340,6 @@ seo:
 <p><strong>Stephen Carpenter</strong>, from <strong>Deftones</strong>, took his heavy, downtuned riffs to the next level by incorporating 7- and 8-string guitars into his music, giving Deftones&#8217; sound an even deeper, more powerful resonance.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-lasso-id="268509">Our Favorite Extended Range Guitar Right Now</a></div>
-</div>
 </div>
 </div>
 
@@ -418,10 +402,6 @@ seo:
 <p>Whether you’re diving into djent, progressive metal, or just want a fuller, heavier tone, 7-string guitars offer endless creative possibilities while keeping things grounded enough for you to experiment with ease.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="268510">7 String Guitars: Everything You Need To Know</a></div>
-</div>
 </div>
 </div>
 
@@ -470,10 +450,6 @@ seo:
 <p>If you’re ready to push the limits of what a guitar can do, an 8-string is the perfect tool to take your music to the next level.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/cheap-8-string-guitar/" data-lasso-id="268512">This Budget-Friendly 8-String Guitar is A Monster</a></div>
-</div>
 </div>
 </div>
 
@@ -518,10 +494,6 @@ seo:
 <p>Whether you’re crafting heavy, down-tuned riffs for metal or exploring avant-garde, experimental styles, a 9-string guitar gives you the tools to create sounds that stand out and push guitar playing into uncharted territory.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-lasso-id="268513">Check Out Steph Carpenter From Deftones 9-String ESP</a></div>
-</div>
 </div>
 </div>
 
@@ -562,10 +534,6 @@ seo:
 <p>Whether you’re locking in with the bass on rhythm sections or crafting slow, heavy riffs, a baritone guitar gives you that extra depth and darkness to make your music hit harder.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="268515">Guide To Baritone Electric Guitars</a></div>
-</div>
 </div>
 </div>
 </section>
@@ -639,10 +607,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons ollie-no-shrink is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fc4fd283 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-budget-guitars/" data-lasso-id="268518"><strong>The Top-Rated Budget Guitars Right Now</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -709,10 +673,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons ollie-no-shrink is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fc4fd283 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/the-top-5-extended-range-guitars-for-2021-going-low/" data-lasso-id="268519">The Best Extended Range Guitars Right Now</a></div>
-</div>
 </div>
 </div>
 </div>
@@ -835,10 +795,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-lasso-id="268522">Read More</a></div>
-</div>
 </div>
 </div>
 
@@ -859,10 +815,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-electric-guitar-tuners/" data-lasso-id="268523">Read More</a></div>
-</div>
 </div>
 </div>
 
@@ -883,10 +835,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-picks-for-metal/" data-lasso-id="268524">Read More</a></div>
-</div>
 </div>
 </div>
 </div>
@@ -909,10 +857,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="268525">Read More</a></div>
-</div>
 </div>
 </div>
 
@@ -933,10 +877,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/are-expensive-guitar-cables-worth-it-top-5-cables/" data-lasso-id="268526">Read More</a></div>
-</div>
 </div>
 </div>
 
@@ -957,10 +897,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/the-best-gig-bags/" data-lasso-id="268527">Read More</a></div>
-</div>
 </div>
 </div>
 </div>
@@ -979,10 +915,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-primary-color has-tertiary-background-color has-text-color has-background has-link-color wp-element-button" href="https://open.spotify.com/show/3lzBEYsSsbCSUeQEpQs9RH?si=2f97cb6e8a354542" data-lasso-id="268528" target="_blank" rel="noopener noreferrer nofollow"><strong>SUBSCRIBE TO THE PODCAST</strong></a></div>
-</div>
 </div>
 
 
@@ -1151,10 +1083,6 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268267" target="_blank" rel="noopener noreferrer nofollow">JOIN FOR FREE</a></div>
-</div>
-
 
 
 <p class="has-secondary-color has-text-color has-link-color has-small-font-size wp-elements-572f7d4627330b94783cf5bcf2d15e25">Unsubscribe any time.</p>

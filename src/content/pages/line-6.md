@@ -42,10 +42,6 @@ seo:
 
 
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/line-6-guide/" data-lasso-id="266449">Line 6 N00b&#8217;s Guide</a></div>
-</div>
-
 
 
 <p class="has-link-color has-small-font-size wp-elements-42fd7f94e231fad42b7f23bd29612c54"><strong><a href="https://www.electrikjam.com/line-6-helix-lt-reviews/" data-type="post" data-id="4472" data-lasso-id="266450">The One We Recommend</a></strong></p>

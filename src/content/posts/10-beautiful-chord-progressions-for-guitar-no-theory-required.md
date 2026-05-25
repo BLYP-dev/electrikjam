@@ -485,10 +485,6 @@ seo:
 <p class="has-small-font-size" id="htoc-learn-the-exact-process-used-by-professional-mastering-engineers-laid-out-in-a-simple-to-follow-step-by-step-framework"><strong>Learn the exact process used by professional mastering engineers, laid out in a simple to follow step-by-step framework.</strong></p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 lemonsqueezy-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/-p646887146"><strong>GET YOUR COPY TODAY</strong></a></div>
-</div>
 </div>
 </div>
 </div>

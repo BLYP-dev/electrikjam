@@ -226,10 +226,6 @@ seo:
 <p><strong>3. What makes the Seymour Duncan Custom 14 different from other pickups?</strong><br>The triple ceramic magnets and hybrid DNA give it a wide tonal range, making it suitable for everything from crushing riffs to articulate leads.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/category/news/esp-news/" data-lasso-id="270953"><strong>LATEST ESP NEWS</strong></a></div>
-</div>
 </div>
 </div>
 

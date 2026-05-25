@@ -318,13 +318,6 @@ seo:
 <p id="htoc-the-tone-alnico-soapbars11">That said, I’ve been running it with the stock 14–68 strings and haven’t had major tuning issues. The resonance from the string-through design is noticeable too. It’s got that classic Tele body feel, just… beefier.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/squier-classic-vibe-baritone-custom-telecaster/"><strong>CHECK PRICES FOR THIS GUITAR</strong></a></div>
-</div>
-
-
-
 <h2 class="wp-block-heading" id="htoc-the-push-the-boat-out-pick-danelectro-56-baritone">The “Push The Boat Out” Pick: Gretsch G5260T Electromatic Jet Baritone with Bigsby</h2>
 
 
@@ -384,13 +377,6 @@ seo:
 
 <li>Both pickups together give you a massive, mix-filling sound without any of the mud you’d expect from a baritone at this price.</li>
 </ul>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/gretsch-guitars-g5260t-electromatic-jet-baritone-with-bigsby-black/"><strong>CHECK PRICES FOR THIS GUITAR</strong></a></div>
-</div>
-
 
 
 <h2 class="wp-block-heading" id="htoc-final-verdict">Final Verdict</h2>
@@ -455,9 +441,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-334a2726 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink wp-container-content-9cfa9a5a is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/best-electric-guitars/"><strong>ALL RECOMMENDED GUITARS</strong></a></div>
-</div>
+
 </div>
 </div>
 

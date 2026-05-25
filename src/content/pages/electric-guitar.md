@@ -160,10 +160,6 @@ seo:
 <p>These guys thought, &#8220;Hey, what if we could make a guitar that plugs into an amplifier?&#8221; And boom! The electric guitar was born. From the 1950s Fender Telecaster to the iconic Gibson Les Paul, electric guitars have been shaping the sound of music for decades.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-lasso-id="268172">The Full &amp; Complete History of The Electric Guitar</a></div>
-</div>
 </div>
 </div>
 
@@ -206,10 +202,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/electric-guitar-types/" data-lasso-id="268173">The Different Types of Electric Guitar Explained</a></div>
-</div>
 </div>
 </div>
 
@@ -264,10 +256,6 @@ seo:
 <p>And that&#8217;s just the beginning! Add some effects pedals into the mix, and you can create everything from subtle echoes to face-melting distortion.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button">IN DETAIL: How Electric Guitars Work – Pickups, Knobs &amp; Electronics</a></div>
-</div>
 </div>
 </div>
 
@@ -300,10 +288,6 @@ seo:
 <p>Back when I started –&nbsp;back in the early-90s –&nbsp;a $150 electric was hardly even useful as firewood.&nbsp;</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-budget-guitars/" data-lasso-id="268175">The Best Budget (Beginner) Electric Guitars Right Now</a></div>
-</div>
 </div>
 </div>
 </section>
@@ -356,10 +340,6 @@ seo:
 <p>Think of guitars like the Fender Stratocaster or the Gibson Les Paul. These are the go-to axes for many players, from beginners to pros. They&#8217;re like the Swiss Army knives of the guitar world &#8211; they can do it all!</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button">Guide To Solid Body Electric Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -398,10 +378,6 @@ seo:
 <p>Famous models include the Gibson ES-335 &#8211; it&#8217;s been used by everyone from Chuck Berry to Dave Grohl. Pretty good company, right?</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button">Guide To Semi-Hollow Body Electric Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -444,10 +420,6 @@ seo:
 <p>The Gibson ES-175 is a classic example &#8211; it&#8217;s been the weapon of choice for jazz legends like Pat Metheny. But you can use it for rock and metal too; Josh Homme recorded Songs For The Deaf on the Epiphone version (it costs like $300). </p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button">Guide To Hollow Body Electric Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -482,10 +454,6 @@ seo:
 <p>These guitars aren&#8217;t just for metal, though. They can add depth and complexity to any style of music.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/extended-range-guitars/" data-lasso-id="268176">Guide To Extended Range Electric Guitars</a></div>
-</div>
 </div>
 </div>
 </section>
@@ -559,10 +527,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons ollie-no-shrink is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fc4fd283 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-budget-guitars/" data-lasso-id="268177"><strong>The Top-Rated Budget Guitars Right Now</strong></a></div>
-</div>
 </div>
 </div>
 </div>
@@ -629,10 +593,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons ollie-no-shrink is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fc4fd283 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/guitar-maintenance-101/" data-lasso-id="268178">The Beginner&#8217;s Guide To Guitar Maintenance</a></div>
-</div>
 </div>
 </div>
 </div>
@@ -699,10 +659,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons ollie-no-shrink is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fc4fd283 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/guitar-tuning/" data-lasso-id="268184">Explore Alternate Guitar Tunings</a></div>
-</div>
 </div>
 </div>
 </div>
@@ -809,10 +765,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-lasso-id="268188">Read More</a></div>
-</div>
 </div>
 </div>
 
@@ -833,10 +785,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-electric-guitar-tuners/" data-lasso-id="268189">Read More</a></div>
-</div>
 </div>
 </div>
 
@@ -857,10 +805,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-picks-for-metal/" data-lasso-id="268190">Read More</a></div>
-</div>
 </div>
 </div>
 </div>
@@ -883,10 +827,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="268191">Read More</a></div>
-</div>
 </div>
 </div>
 
@@ -907,10 +847,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/are-expensive-guitar-cables-worth-it-top-5-cables/" data-lasso-id="268192">Read More</a></div>
-</div>
 </div>
 </div>
 
@@ -931,10 +867,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-main-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/the-best-gig-bags/" data-lasso-id="268193">Read More</a></div>
-</div>
 </div>
 </div>
 </div>
@@ -1181,10 +1113,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-primary-color has-tertiary-background-color has-text-color has-background has-link-color wp-element-button" href="https://open.spotify.com/show/3lzBEYsSsbCSUeQEpQs9RH?si=2f97cb6e8a354542" data-lasso-id="268197" target="_blank" rel="noopener noreferrer nofollow"><strong>SUBSCRIBE TO THE PODCAST</strong></a></div>
-</div>
 </div>
 
 

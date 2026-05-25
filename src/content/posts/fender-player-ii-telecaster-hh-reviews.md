@@ -92,10 +92,6 @@ seo:
 <p>The general mood is one of <strong>surprise and excitement</strong>, with players consistently saying the Player II line is a significant step up from previous import Fenders, delivering a pro-level feel that rivals its American cousins.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/fender-player-ii-telecaster-hh/" style="background-color:#ff3399"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 </div>
 

@@ -79,13 +79,6 @@ seo:
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-1024x683.png" alt="Charvel Pro Mod DK24" class="wp-image-9400" title="" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features-768x512.png 768w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Features.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-main-color has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/charvel-pro-mod-dk24/" style="background-color:#33ff99"><strong>CHECK PRICES</strong></a></div>
-</div>
-
-
-
 <p>There is a lot going on with the Charvel Pro Mod DK24, and it takes a little bit of inspiration from just about every brand that Fender owns. The body is the Jackson &#8220;Dinky&#8221; shape, but the headstock and knobs are all Fender. On the other hand, you have EVH electronics, Charvel compound radius, and a Gotoh 510 bridge.</p>
 
 
@@ -231,13 +224,6 @@ seo:
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-1024x683.png" alt="Charvel pro Mod dk24" class="wp-image-9401" title="" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel-768x512.png 768w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-heel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-main-color has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/charvel-pro-mod-dk24/" style="background-color:#33ff99"><strong>CHECK PRICES</strong></a></div>
-</div>
-
-
-
 <h2 class="wp-block-heading" id="htoc-the-neck">The Neck:</h2>
 
 
@@ -317,13 +303,6 @@ seo:
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-1024x683.png" alt="Charvel Pro Mod DK24 Gotoh" class="wp-image-9402" title="" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up-768x512.png 768w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-Gotoh-Close-Up.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-main-color has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/charvel-pro-mod-dk24/" style="background-color:#33ff99"><strong>CHECK PRICES</strong></a></div>
-</div>
-
-
-
 <h2 class="wp-block-heading" id="htoc-pickups-electronics-and-sound">Pickups, Electronics, And Sound</h2>
 
 
@@ -363,13 +342,6 @@ seo:
 <figure class="wp-block-embed is-type-rich is-provider-soundcloud wp-block-embed-soundcloud"><div class="wp-block-embed__wrapper">
 <iframe title="Charvel DK24 Demo by Christopher Horton" width="500" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1363146355&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500"></iframe>
 </div></figure>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-main-color has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/charvel-pro-mod-dk24/" style="background-color:#33ff99"><strong>CHECK PRICES</strong></a></div>
-</div>
-
 
 
 <p><strong><em>Demo: Clean sounds in series and parallel. The I show that the Gotoh 510 can totally dive bomb and keep up with the best trems out there! Totally surprising sound, and the pickups are hot.</em></strong> But as you hear, these sound like REAL single coils, not a coil tap.</p>
@@ -412,12 +384,6 @@ seo:
 
 
 <p>The press material we were sent mentioned the word &#8220;progressive&#8221; <em>a lot</em>. I can see the Charvel Pro Mod DK24 appealing to people that do progressive music, or experimental music that blurs genres. You have so many tones at your disposal, and professional &#8220;mods&#8221; that set this guitar apart.</p>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-main-color has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/charvel-pro-mod-dk24/" style="background-color:#33ff99"><strong>CHECK PRICES</strong></a></div>
-</div>
 
 
 <div id="rank-math-faq" class="rank-math-block">

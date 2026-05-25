@@ -81,10 +81,6 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/fender-american-ultra-ii-hss-stratocaster/" style="background-color:#ff3399"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 
 
@@ -285,8 +281,4 @@ seo:
 <p>If you can stretch your funds, the <strong><a href="https://www.electrikjam.com/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" data-type="new-guitar-releases" data-id="17879">Fender American Ultra II HSS Stratocaster is one of the best investments</a></strong> you&#8217;ll make this year. </p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-background has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/fender-american-ultra-ii-hss-stratocaster/" style="background-color:#ff3399"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 

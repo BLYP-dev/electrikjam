@@ -95,10 +95,6 @@ seo:
 <p>The general mood is one of <strong>relief and satisfaction</strong>. Players feel Gibson successfully delivered an authentic, gig-worthy, and inspiring Les Paul built to true vintage specifications.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/gibson-les-paul-standard-60s/" style="background-color:#ff3399"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 
 
@@ -394,8 +390,4 @@ seo:
 <p>Also, if you need modern coil-splitting and phase switches, look toward the more versatile, slightly cheaper Les Paul Classic or something from <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880">Epiphone (we love its Gibson Inspired Les Paul)</a></strong></p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-background has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/gibson-les-paul-standard-60s/" style="background-color:#ff3399"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 

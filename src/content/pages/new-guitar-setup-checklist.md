@@ -37,10 +37,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-c8b6bfc8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background wp-element-button" href="https://embeds.beehiiv.com/62f20127-e1f6-4b0f-805b-3de6fafdfacb" data-lasso-id="269123" target="_blank" rel="noopener noreferrer nofollow"><strong>GET THIS CHECKLIST TO GO</strong> ✅ </a></div>
-</div>
 </div>
 
 
@@ -134,10 +130,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://embeds.beehiiv.com/62f20127-e1f6-4b0f-805b-3de6fafdfacb" data-lasso-id="269127" target="_blank" rel="noopener noreferrer nofollow"><strong>JOIN THE ELECTRIKJAM MAILER – IT&#8217;S FREE</strong></a></div>
-</div>
 </section>
 
 
@@ -305,13 +297,6 @@ seo:
         </div>
     </div>
 </div>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://embeds.beehiiv.com/62f20127-e1f6-4b0f-805b-3de6fafdfacb" data-lasso-id="269128" target="_blank" rel="noopener noreferrer nofollow"><strong>GET THIS CHECKLIST TO GO</strong> ✅ </a></div>
-</div>
-
 
 
 <p></p>

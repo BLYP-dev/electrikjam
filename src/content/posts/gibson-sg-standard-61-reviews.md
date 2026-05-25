@@ -105,10 +105,6 @@ seo:
 <p id="htoc-the-general-mood-is-one-of-dedicated-adoration-with-players-viewing-the-sg-61-as-the-definitive-authentic-and-fastest-playing-sg-currently-available-a-lightweight-powerhouse-built-for-pure-stage-rock">The general mood is one of <strong>dedicated adoration</strong>, with players viewing the SG &#8217;61 as the definitive, authentic, and fastest-playing SG currently available, a lightweight powerhouse built for pure stage rock.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://www.electrikjam.com/recommends/gibson-sg-standard-61/" style="background-color:#ff3399"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
 </div>
 
 
@@ -341,9 +337,5 @@ seo:
 </ul>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-background has-medium-font-size has-custom-font-size wp-element-button" href="https://www.electrikjam.com/recommends/gibson-sg-standard-61/" style="background-color:#ff3399"><strong>CHECK PRICES FOR THIS GUITAR</strong></a></div>
-</div>
 </div>
 

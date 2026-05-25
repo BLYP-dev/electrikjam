@@ -262,13 +262,6 @@ seo:
 </ol>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/harley-benton-sc-custom-iii-vbk/"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
-
-
-
 <p></div>
 
 
@@ -330,13 +323,6 @@ seo:
 </ol>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/harley-benton-fusion-t-emg-ht-roasted-sbk/"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
-
-
-
 <p></div>
 
 
@@ -396,13 +382,6 @@ seo:
 
 <li id="htoc-reliable-consistent-and-dependable-performance"><strong>Reliable:</strong> Consistent and dependable performance.</li>
 </ol>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/harley-benton-r-446/"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
-
 
 
 <p></div>

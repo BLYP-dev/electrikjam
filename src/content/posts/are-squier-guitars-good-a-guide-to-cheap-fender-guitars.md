@@ -101,10 +101,6 @@ seo:
 <p id="htoc-if-you-re-new-to-guitar-or-buying-for-someone-just-starting-out-a-squier-is-a-no-brainer-it-s-the-best-entry-point-into-the-fender-style-guitar-world-play-it-hard-learn-your-chops-and-upgrade-when-you-re-ready-just-don-t-expect-miracles-at-this-price-and-you-won-t-be-disappointed1">Need advice on which model to get? Read my <a href="https://www.electrikjam.com/buying-guides/squier-guitars/" data-type="buying-guides" data-id="17553"><strong>Squier Buying Guide</strong></a>; it covers everything you need to know before you pull the trigger on one. </p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/buying-guides/squier-guitars/"><strong>Read Squier Guitar Buying Guide (All Models Detailed)</strong></a></div>
-</div>
 </div>
 
 

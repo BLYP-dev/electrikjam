@@ -187,7 +187,9 @@ function localizeBodyMedia(html) {
 }
 
 function sanitizeImportedHtml(html) {
-  return stripPluginTocBlocks(stripInjectedVerdictBlocks(localizeBodyMedia(html)));
+  return stripStyledComparisonBlocks(
+    stripPluginButtonBlocks(stripPluginTocBlocks(stripInjectedVerdictBlocks(localizeBodyMedia(html))))
+  );
 }
 
 function stripInjectedVerdictBlocks(html) {
@@ -227,6 +229,52 @@ function stripPluginTocBlocks(html) {
     'wp-block-ht-block-toc',
     'wp-block-ultimate-post-table-of-content',
   ]);
+}
+
+function stripPluginButtonBlocks(html) {
+  const withoutButtonDivs = stripDivBlocksByClass(html, [
+    'wp-block-buttons',
+    'wp-block-button',
+  ]);
+  return stripAnchorElementsByClass(withoutButtonDivs, ['wp-block-button__link']);
+}
+
+function stripStyledComparisonBlocks(html) {
+  const marker = '<div style="font-family: Arial, sans-serif; max-width: 800px;';
+  let output = '';
+  let cursor = 0;
+
+  while (cursor < html.length) {
+    const start = html.indexOf(marker, cursor);
+    if (start === -1) {
+      output += html.slice(cursor);
+      break;
+    }
+
+    const end = findBalancedDivEnd(html, start);
+    const block = end === -1 ? '' : html.slice(start, end);
+    const looksLikeComparisonCard =
+      block.includes('background-color: #f0f0f0; border-radius: 8px; padding: 20px;') &&
+      block.includes('Key Differences:');
+
+    if (end !== -1 && looksLikeComparisonCard) {
+      output += html.slice(cursor, start).replace(/\n{5,}$/g, '\n\n');
+      cursor = end;
+    } else {
+      output += html.slice(cursor, start + marker.length);
+      cursor = start + marker.length;
+    }
+  }
+
+  return output.replace(/\n{5,}/g, '\n\n\n');
+}
+
+function stripAnchorElementsByClass(html, classNames) {
+  return html
+    .replace(/<a\b[^>]*class="[^"]*"[^>]*>[\s\S]*?<\/a>/gi, (anchor) =>
+      classNames.some((className) => anchor.includes(className)) ? '' : anchor
+    )
+    .replace(/\n{5,}/g, '\n\n\n');
 }
 
 function stripDivBlocksByClass(html, classNames) {

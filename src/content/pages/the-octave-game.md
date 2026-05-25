@@ -41,10 +41,6 @@ seo:
 <p class="has-secondary-color has-text-color has-link-color has-base-font-size wp-elements-22f79025aac9e81cffc26ac4992a04cf"><strong>Learning the notes on the fretboard is usually a roadblock for most players. The Octave Game is something I have devised for students to learn the fretboard the easy way!</strong></p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#Learning:_Preparation_amp;_Science"><strong>PLAY THE GAME</strong></a></div>
-</div>
 </div>
 
 

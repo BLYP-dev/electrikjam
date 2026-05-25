@@ -51,9 +51,7 @@ seo:
 
 
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/loop-experience-18-db-sound-reduction-loop-earplugs/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260402" data-lasso-name="Loop Experience">Our Pick? The Experience Plus</a></div>
-</div>
+
 </div>
 
 
@@ -303,10 +301,6 @@ seo:
 <p class="has-small-font-size">Shield your ears with up to 23dB noise reduction without losing sound quality. Ideal for musicians at every level. </p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 lemonsqueezy-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/loop-experience-18-db-sound-reduction-loop-earplugs/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260406" data-lasso-name="Loop Experience">VIEW LATEST DEALS</a></div>
-</div>
 </div>
 </div>
 </div>
@@ -379,10 +373,6 @@ seo:
 <p class="has-small-font-size">Shield your ears with up to 23dB noise reduction without losing sound quality. Ideal for musicians at every level. </p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 lemonsqueezy-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/loop-experience-18-db-sound-reduction-loop-earplugs/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260407" data-lasso-name="Loop Experience">VIEW LATEST DEALS</a></div>
-</div>
 </div>
 </div>
 </div>

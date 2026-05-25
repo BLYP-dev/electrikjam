@@ -37,10 +37,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-c8b6bfc8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268235" target="_blank" rel="noopener noreferrer nofollow">GET SMARTER ABOUT GUITARS</a></div>
-</div>
 </div>
 
 
@@ -117,10 +113,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-container-core-buttons-is-layout-c8b6bfc8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268236" target="_blank" rel="noopener noreferrer nofollow">CONNECT WITH US</a></div>
-</div>
 </div>
 
 
@@ -148,10 +140,6 @@ seo:
 <p>The Strat&#8217;s bright, contoured sound has been favored by artists like Jimi Hendrix and Eric Clapton, while the Les Paul is known for its rich, warm tones, making it a go-to for players like Slash and Jimmy Page.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/solid-body-electric-guitars/" data-lasso-id="268237">Learn More About Solid Body Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -180,10 +168,6 @@ seo:
 <p>While hollow body guitars can be prone to feedback at high volumes, semi-hollow options like the Fender Telecaster Thinline strike a balance, offering warmth with less feedback risk, making them versatile across genres.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/semi-hollow-body-guitars/" data-lasso-id="268238">Learn More About Semi-Hollow Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -212,10 +196,6 @@ seo:
 <p>Brands like Taylor and Martin dominate this space, offering both built-in preamps and EQ controls to shape the sound as needed.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" data-lasso-id="268239">Learn More About Acoustic-Electric Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -236,10 +216,6 @@ seo:
 <p>These guitars have found a home in metal and progressive rock, where players need that extra low-end power. Ibanez has been a leader in this space with models like the RG series, used by musicians who want to push the limits of what a guitar can do.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/extended-range-guitars/" data-lasso-id="268240">Learn More About Extended Range Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -260,10 +236,6 @@ seo:
 <p>Eddie Van Halen loved using them, and they continue to be a practical option for those looking to break into guitar playing without the full-sized challenge.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/3-4-guitar/" data-lasso-id="268241">Learn More About 3/4 Sized Guitars</a></div>
-</div>
 </div>
 </div>
 </section>
@@ -302,10 +274,6 @@ seo:
 <p>The Telecaster, Fender’s first commercially successful electric guitar, is known for its simplicity and reliability. The sharp, cutting tone makes it a favorite in country music, but it’s also been embraced by rock artists like Keith Richards and Bruce Springsteen</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/fender-guitars/" data-lasso-id="268242">Learn More About Fender Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -334,10 +302,6 @@ seo:
 <p>The SG, on the other hand, is lighter and has a more aggressive edge. With its distinctive double cutaways, it’s fast and accessible, ideal for players like Angus Young of AC/DC and Tony Iommi of Black Sabbath, who helped define the sound of heavy metal with this model.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="268243">Learn More About Gibson Guitars</a></div>
-</div>
 </div>
 </div>
 
@@ -366,10 +330,6 @@ seo:
 <p>Meanwhile, Rickenbacker guitars, with their jangly sound and unique design, played a key role in the British Invasion, favored by bands like The Beatles and The Byrds.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="268244">Learn More About Gretsch &amp; Rickenbacker</a></div>
-</div>
 </div>
 </div>
 
@@ -390,10 +350,6 @@ seo:
 <p>ESP guitars, popular with players like Kirk Hammett of Metallica, are designed to handle the heaviest riffs and fastest solos, often featuring extended-range options for more sonic depth.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="268245">Learn More About Ibanez</a></div>
-</div>
 </div>
 </div>
 
@@ -418,10 +374,6 @@ seo:
 <p>Guitarists like Carlos Santana and Mark Tremonti have favored PRS for their balanced sound and aesthetic appeal.</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.electrikjam.com/guitar-brands/prs-guitars/" data-lasso-id="268246">Learn More About PRS Guitars</a></div>
-</div>
 </div>
 </div>
 </section>
@@ -446,10 +398,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268247" target="_blank" rel="noopener noreferrer nofollow">GET SMARTER ABOUT GUITAR</a></div>
-</div>
 </div>
 </div>
 </section>
@@ -657,10 +605,6 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268253" target="_blank" rel="noopener noreferrer nofollow">JOIN FOR FREE</a></div>
-</div>
-
 
 
 <p class="has-secondary-color has-text-color has-link-color has-small-font-size wp-elements-572f7d4627330b94783cf5bcf2d15e25">Unsubscribe any time.</p>
@@ -848,10 +792,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-container-core-buttons-is-layout-28c8f699 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://x.com/ELECTRIKJAM1" data-lasso-id="268255" target="_blank" rel="noopener noreferrer nofollow">Follow ELECTRIKJAM on X</a></div>
-</div>
 </div>
 </div>
 </section>
@@ -1007,10 +947,6 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://electrikjam.beehiiv.com/subscribe" data-lasso-id="268266" target="_blank" rel="noopener noreferrer nofollow">JOIN FOR FREE</a></div>
-</div>
-
 
 
 <p class="has-secondary-color has-text-color has-link-color has-small-font-size wp-elements-572f7d4627330b94783cf5bcf2d15e25">Unsubscribe any time.</p>

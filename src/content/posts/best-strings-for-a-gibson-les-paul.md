@@ -61,10 +61,6 @@ seo:
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-separator-thin"/>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/ernie-ball-paradigm/">🏆 <strong>Editor&#8217;s Choice: Ernie Ball Paradigm</strong></a></div>
-</div>
 </div>
 
 
@@ -186,13 +182,6 @@ seo:
 <p>Why Ernie Ball? Like I mentioned earlier, this is just a personal favorite. I find that they are pretty consistent when it comes to quality and longevity. Plus they come in a cool neon pack!</p>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/recommends/ernie-ball-paradigm/">🏆 <strong>Editor&#8217;s Choice: Ernie Ball Paradigm</strong></a></div>
-</div>
-
-
-
 <h3 class="wp-block-heading">2 D&#8217;Addario 10-46</h3>
 
 
@@ -210,13 +199,6 @@ seo:
 
 
 <p>I switched to D&#8217;Addario a few years ago because of availability. It had nothing to do with the brand or the strings themselves! The choice is up to you.</p>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://amzn.to/4mJh6Qj" target="_blank" rel="noopener noreferrer nofollow"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
-
 
 
 <p></div>
@@ -248,13 +230,6 @@ seo:
 
 
 <p>This is also the only set on the list that is in the 9-42 range when it comes to gauge. That is because Elixir seems to have a different feel and tension when you use them on a <a data-lasso-id="179" href="https://www.electrikjam.com/types-of-guitars-guide/">Gibson Les Paul</a>.</p>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://amzn.to/4oCU67n" target="_blank" rel="noreferrer noopener nofollow"><strong>CHECK LATEST PRICES</strong></a></div>
-</div>
-
 
 
 <p></div>

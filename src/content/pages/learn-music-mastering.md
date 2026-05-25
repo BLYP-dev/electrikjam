@@ -50,13 +50,6 @@ seo:
 </div></figure>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/"><strong>Buy The Step-By-Step Guide Now</strong></a></div>
-</div>
-
-
-
 <h2 class="wp-block-heading" id="htoc-tired-of-mixes-that-sound-weak-on-spotify-learn-the-final-crucial-step-of-music-production-without-spending-a-dollar-on-plugins">Tired of mixes that sound weak on Spotify? Learn the final, crucial step of music production without spending a dollar on plugins.</h2>
 
 
@@ -223,9 +216,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-334a2726 wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-c8b6bfc8 wp-block-group-is-layout-flex">
-<div class="wp-block-buttons ollie-no-shrink wp-container-content-9cfa9a5a is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button" href="https://www.electrikjam.com/home-recording-guide/"><strong>Home Recording Tips &amp; Tricks</strong></a></div>
-</div>
+
 </div>
 </div>
 

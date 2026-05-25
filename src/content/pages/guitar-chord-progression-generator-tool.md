@@ -247,10 +247,6 @@ seo:
 </div>
 
 
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-primary-color has-base-background-color has-text-color has-background wp-element-button" href="https://www.electrikjam.com/email-landing-page/" data-lasso-id="264037">JOIN THE COMMUNITY FOR FREE</a></div>
-</div>
 </div>
 </div>
 
