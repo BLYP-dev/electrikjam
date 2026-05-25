@@ -69,9 +69,7 @@ seo:
 <p class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text"><span class="prefix">Best For: </span><span class="value">Metal &amp; Shred</span></p></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-r-446/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -108,9 +106,7 @@ seo:
 <p class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text"><span class="prefix">Best For: </span><span class="value">Metal, Rock &amp; Thrash</span></p></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-fusion-t-emg-ht-roasted-sbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -147,9 +143,7 @@ seo:
 <p class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text"><span class="prefix">Best For: </span><span class="value">Metal, Rock</span></p></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-sc-custom-iii-vbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1086,9 +1080,7 @@ seo:
 <p class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text"><span class="prefix">Best For: </span><span class="value">Metal &amp; Shred</span></p></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-r-446/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1125,9 +1117,7 @@ seo:
 <p class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text"><span class="prefix">Best For: </span><span class="value">Metal, Rock &amp; Thrash</span></p></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-fusion-t-emg-ht-roasted-sbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1164,9 +1154,7 @@ seo:
 <p class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text"><span class="prefix">Best For: </span><span class="value">Metal, Rock</span></p></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-sc-custom-iii-vbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 

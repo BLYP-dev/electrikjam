@@ -65,9 +65,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The Fender American Ultra II Stratocaster HSS is Fender’s new flagship “modern Strat,” designed for players who want maximum versatility, flawless build quality, and next-level comfort without losing the classic Fender soul. Built in Corona, California, it features cutting-edge hardware, stainless steel frets, noiseless pickups, and refined ergonomics that make it a true top-tier workhorse for the stage or studio.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-american-ultra-ii-stratocaster-hss/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -100,9 +98,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The R-446 is the sleeper hit in Harley Benton’s metal lineup. Great neck, versatile tones, and a price that leaves room in your budget for upgrades—it’s the kind of guitar that grows with you.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-r-446/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -135,9 +131,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">Honestly? This guitar plays like a mid-tier Schecter, something like the Sun Valley Super Shredder, but at less than half the price. If you covered up the headstock and handed it to me blindfolded, I’d swear it was a $1,000+ guitar from Schecter or Charvel.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-fusion-t-emg-ht-roasted-sbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -170,9 +164,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">This is one of the best Harley Benton guitars for metal because of the blend of classic looks, with modern features. You&#8217;ll be hard-pressed to find a guitar with EMG pickups, and the bells and whistles that make this guitar stage ready for under $500. And yet, this is exactly what the Harley Benton SC Custom VBK delivers&#8230;</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-sc-custom-iii-vbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -205,9 +197,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The Jackson JS22 Dinky is built for speed demons on a budget. From the compound-radius fingerboard to the hot ceramic humbuckers, this thing screams metal but also cleans up better than you’d expect. If you like thin necks, low action, and high-output growl, this Dinky gets you there fast without draining your wallet.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/jackson-dinky-js22-2/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -240,9 +230,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The Fender Standard Telecaster with Maple Fingerboard is one of those guitars that just works. Whether you’re stepping into the Tele world for the first time or need a reliable backup for your gig rig, this 2025 model delivers the goods. With classic looks, modern playability, and that unmistakable Tele twang, it’s easy to see why this continues to be a go-to for players across the spectrum.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-standard-telecaster-maple-fingerboard/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -275,9 +263,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The Fender Jack White Triplecaster Telecaster is what happens when a classic Tele gets dragged through a Third Man Records time vortex. Built as a true signature for Jack White’s genre-bending style, this limited-edition guitar fuses old-school Tele craftsmanship with wild electronics, unique visuals, and some seriously experimental firepower. If you want a traditional Tele, this ain’t it. If you want inspiration in solid-body form? You’ve found it.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-jack-white-triplecaster-telecaster/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -310,9 +296,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The Epiphone Les Paul Custom Quilt Limited-Edition brings serious flair to the SE Les Paul lineup in 2025. With its jaw-dropping quilted mahogany top, gold hardware, and ProBucker electronics, this is Epiphone doing premium with just the right amount of flash. And while it looks like a collector’s piece, it’s built to be played. Loudly.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/epiphone-les-paul-custom-quilt-limited-edition/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -345,9 +329,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The Schecter Demon-6 FR-S is an aggressive, modern metal guitar designed for speed, punch, and tuning stability. It features active pickups, a Floyd Rose locking trem, and a slick satin black finish—all aimed at delivering pro-level features for players on a budget. Whether you’re a beginner diving into metal or a more advanced player looking for a reliable backup axe, this one brings the heat without torching your wallet.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/schecter-guitar-research-demon-6-fr-s/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -380,9 +362,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The PRS SE Studio Standard is PRS’s latest move in making their premium features more accessible to everyday players. Released in 2025, this model combines the flexibility of the Studio lineup with a streamlined, no-nonsense design that nails tone, comfort, and reliability. Whether you&#8217;re a live performer, a recording musician, or just want a serious upgrade without emptying your wallet, this SE model hits all the right notes.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/prs-se-studio-standard/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 
@@ -415,9 +395,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The Jackson Pro Series Signature Lee Malia LM-87 is a guitar that dares to be different. Inspired by the cult-favorite Surfcaster body shape but dialed in for the heavy tones of Bring Me The Horizon, this offset axe brings vintage style and modern aggression under one slick open-pore finish. Whether you&#8217;re riffing through down-tuned breakdowns or exploring ambient cleans, the LM-87 proves it’s more than just a signature model—it&#8217;s a serious player’s tool.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/jackson-pro-series-signature-lee-malia-lm-87/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES FOR THIS GUITAR</strong></a>
-			</div>
+			
 		
 
 

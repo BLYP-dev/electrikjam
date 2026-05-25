@@ -87,9 +87,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">The G5260T comes loaded with Gretsch mini-humbuckers, and no, they’re not just a marketing gimmick. These things are often compared to Broad’Tron-style pickups meaning they’re hotter than vintage Filter’Trons but still cleaner than full-size humbuckers.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/gretsch-guitars-g5260t-electromatic-jet-baritone-with-bigsby-black/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -122,9 +120,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-base-font-size">Our go-to option and quite frankly, one of the best value-for-money guitars on the market right now is the Squier Classic Vibe Baritone Custom Telecaster. Yes, it&#8217;s NOT a Fender but this guitar is beloved by all who come across it. I&#8217;ve seen it used in studios in LA and Atlanta on big records with bands you will know.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/squier-classic-vibe-baritone-custom-telecaster/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 

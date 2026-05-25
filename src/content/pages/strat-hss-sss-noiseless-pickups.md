@@ -505,9 +505,7 @@ seo:
 
 <p class="field-the_electrikjam_verdict wp-block-acf-field-blocks-acf-text has-small-font-size"><span class="value">They gave us the fast radius, the premium tuners, and the rolled edges that make a neck truly comfortable. Fender listened, basically. It punches well above its weight class. You get a high-performance Strat that feels like an old friend and handles any genre you throw at it. This is the new standard.</span></p>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -536,9 +534,7 @@ seo:
 
 <p class="field-the_electrikjam_verdict wp-block-acf-field-blocks-acf-text has-small-font-size"><span class="value">I have rarely seen a professional studio without at least one good MIM Stratocaster on the guitar rack, and that tells you something. It doesn&#039;t matter if you are a bare-bones beginner, or a seasoned pro. I think the Fender Player Stratocaster is worth the price, and the new models are leaps and bounds better than what we had 20 years ago.</span></p>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -567,9 +563,7 @@ seo:
 
 <p class="field-the_electrikjam_verdict wp-block-acf-field-blocks-acf-text has-small-font-size"><span class="value">This is an expensive guitar that is built for professional or professional aspiring players. If you have your own recording studio setup, either in your bedroom or your garage or an actual building, and you need a do-it-all workhorse that can handle anything, this is the guitar you need.</span></p>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-american-ultra-ii-hss-stratocaster/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 

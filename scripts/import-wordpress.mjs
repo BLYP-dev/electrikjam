@@ -235,8 +235,12 @@ function stripPluginButtonBlocks(html) {
   const withoutButtonDivs = stripDivBlocksByClass(html, [
     'wp-block-buttons',
     'wp-block-button',
+    'wp-block-acf-field-blocks-acf-button',
   ]);
-  return stripAnchorElementsByClass(withoutButtonDivs, ['wp-block-button__link']);
+  return stripAnchorElementsByClass(withoutButtonDivs, [
+    'wp-block-button__link',
+    'wp-block-acf-field-blocks-acf-button__link',
+  ]);
 }
 
 function stripStyledComparisonBlocks(html) {

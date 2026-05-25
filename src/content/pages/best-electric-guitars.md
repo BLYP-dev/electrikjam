@@ -210,9 +210,7 @@ It’s not a metal monster. It’s not a one-trick pony either. What it is is on
 If you&#8217;re building a rig around dark surf, drone, fuzz, or ambient noise? This thing belongs on your shortlist.</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/gretsch-guitars-g5260t-electromatic-jet-baritone-with-bigsby-black/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -281,9 +279,7 @@ The vintage-style 3-saddle bridge keeps things snappy, but yeah intonation isn&#
 That said, I’ve been running it with the stock 14–68 strings and haven’t had major tuning issues. The resonance from the string-through design is noticeable too. It’s got that classic Tele body feel, just… beefier.</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/squier-classic-vibe-baritone-custom-telecaster/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -328,9 +324,7 @@ That said, I’ve been running it with the stock 14–68 strings and haven’t h
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Why We Like This Guitar</summary></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-american-ultra-ii-stratocaster-hss/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -375,9 +369,7 @@ That said, I’ve been running it with the stock 14–68 strings and haven’t h
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Why We Like This Guitar</summary></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-r-446/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -422,9 +414,7 @@ That said, I’ve been running it with the stock 14–68 strings and haven’t h
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Why We Like This Guitar</summary></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-fusion-t-emg-ht-roasted-sbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -469,9 +459,7 @@ That said, I’ve been running it with the stock 14–68 strings and haven’t h
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Why We Like This Guitar</summary></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-sc-custom-iii-vbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -595,9 +583,7 @@ The Jackson JS22 Dinky is a shredder’s dream on a budget. No, it’s not going
 </ul></div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/jackson-dinky-js22-2/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -668,9 +654,7 @@ So, if you&#8217;re thinking about getting a strat, here&#8217;s why this guitar
 </ul></div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/squier-sonic-stratocaster-hss-maple-fingerboard/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -750,9 +734,7 @@ Whether you&#8217;re building your first rig or adding a trusty Tele to the mix,
 The Fender Standard Telecaster (Maple Fingerboard) proves you don’t need to spend big to get classic tone, comfort, and a timeless look. It’s a true workhorse that performs way above its price tag. While it’s not loaded with boutique specs, it feels like a real Fender because it is—and it sounds like one, too. For players who want that legendary Tele vibe without breaking the bank, this one’s a no-brainer.</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-standard-telecaster-maple-fingerboard/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -843,9 +825,7 @@ The Fender Jack White Triplecaster Telecaster is bold, bizarre, and brilliant. I
 &nbsp;</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/fender-jack-white-triplecaster-telecaster/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -927,9 +907,7 @@ The Epiphone Les Paul Custom Quilt Limited-Edition is one of those guitars that 
 &nbsp;</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/epiphone-les-paul-custom-quilt-limited-edition/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1013,9 +991,7 @@ If you’re into bands like Lamb of God, Trivium, or Slipknot, and you need a gu
 The Schecter Demon-6 FR-S is proof that metal players don’t need to drop a grand to get serious features. With high-output active pickups, a Floyd Rose system, and a neck built for speed, this guitar is a killer choice for beginners or intermediate players ready to step up their game. Just be prepared to do a little setup work and you’ll have a monster in your hands.</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/schecter-guitar-research-demon-6-fr-s/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1094,9 +1070,7 @@ There are a few reasons this isn’t just another Les Paul:<br />
 The Gibson Les Paul Standard &#8217;60s Double Trouble is a limited-run masterpiece that keeps everything great about a Standard ’60s Les Paul, while adding rare vintage nods and just enough custom flair to make it special. It plays like a dream, sounds bold and expressive, and looks like a guitar someone would write a whole album on. If you want a collectible guitar that doesn’t belong in a glass case, this one checks all the boxes.</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/gibson-les-paul-standard-60s-double-trouble/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1170,9 +1144,7 @@ This guitar is a win for anyone who needs one instrument that does a little bit 
 </ul></div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/prs-se-studio-standard/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1252,9 +1224,7 @@ If you’ve ever wanted to jump into the Jazzmaster pool without spending a gran
 </ul></div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/squier-classic-vibe-60s-jazzmaster-2/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1326,9 +1296,7 @@ The Squier Classic Vibe &#8217;60s Custom Telecaster SH is a reminder that great
 If you’re looking for a Tele that does a little more than twang, this one’s got you covered—and it looks sharp doing it.</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/squier-classic-vibe-60s-custom-telecaster-sh/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1402,9 +1370,7 @@ The Jackson Pro Series Lee Malia LM-87 hits the sweet spot between nostalgia and
 This guitar wasn’t made just for Bring Me The Horizon fans. It was made for anyone who wants to play heavy and think outside the box.</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/jackson-pro-series-signature-lee-malia-lm-87/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -1474,9 +1440,7 @@ The EVH SA-126 Special Limited-Edition is one of those rare guitars that really 
 &nbsp;</div></details>
 
 
-			<div class="has-custom-width wp-block-acf-field-blocks-acf-button__width-100 has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/evh-sa-126-special-limited-edition/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK LATEST PRICES</strong></a>
-			</div>
+			
 		
 
 

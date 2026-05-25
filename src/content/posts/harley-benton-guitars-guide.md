@@ -63,9 +63,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text">The R-446 is the sleeper hit in Harley Benton’s metal lineup. Great neck, versatile tones, and a price that leaves room in your budget for upgrades—it’s the kind of guitar that grows with you.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-r-446/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES FOR THIS MODEL</strong></a>
-			</div>
+			
 		
 
 
@@ -96,9 +94,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text">Honestly? This guitar plays like a mid-tier Schecter, something like the Sun Valley Super Shredder, but at less than half the price. If you covered up the headstock and handed it to me blindfolded, I’d swear it was a $1,000+ guitar from Schecter or Charvel.</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-fusion-t-emg-ht-roasted-sbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES FOR THIS MODEL</strong></a>
-			</div>
+			
 		
 
 
@@ -129,9 +125,7 @@ seo:
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text">This is one of the best Harley Benton guitars for metal because of the blend of classic looks, with modern features. You&#8217;ll be hard-pressed to find a guitar with EMG pickups, and the bells and whistles that make this guitar stage ready for under $500. And yet, this is exactly what the Harley Benton SC Custom VBK delivers&#8230;</div>
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/harley-benton-sc-custom-iii-vbk/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES FOR THIS MODEL</strong></a>
-			</div>
+			
 		
 
 

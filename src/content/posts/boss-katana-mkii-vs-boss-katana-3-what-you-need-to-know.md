@@ -216,9 +216,7 @@ seo:
 </ul></div></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/boss-katana-mini-x/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -257,9 +255,7 @@ seo:
 ✅ Footswitch compatible (GA-FC / GA-FC EX)</div></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/boss-katana-gen-3-100w-1x12-guitar-combo-amplifier-black/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -299,9 +295,7 @@ seo:
 ✅ Bloom voicing for dynamic tone shaping</div></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/boss-katana-artist-gen-3-100w/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
@@ -341,9 +335,7 @@ seo:
 ✅ Footswitch-ready (full support on EX version)</div></details>
 
 
-			<div class="has-text-align-left wp-block-acf-field-blocks-acf-button">
-				<a href="https://www.electrikjam.com/recommends/boss-katana-gen-3-50w-1x12-guitar-combo-amplifier-black/" class="wp-block-acf-field-blocks-acf-button__link wp-element-button has-text-align-left has-background has-narrow-font-family" style="background-color:#ff3399;" target="_self"><strong>CHECK PRICES</strong></a>
-			</div>
+			
 		
 
 
