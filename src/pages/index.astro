@@ -479,22 +479,47 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     }
 
     .latest-card {
+      flex-direction: column;
       gap: 12px;
-      padding: 12px;
+      min-height: 0;
+      padding: 18px 12px 14px;
     }
 
     .latest-card__image {
-      flex-basis: 104px;
-      width: 104px;
-      max-width: 104px;
+      flex-basis: auto;
+      width: 100%;
+      max-width: none;
+      aspect-ratio: 16 / 9;
+    }
+
+    .latest-card h3 {
+      font-size: clamp(1.5rem, 8vw, 2.2rem);
+      line-height: 0.98;
+    }
+
+    .latest-card .stamp {
+      margin-bottom: 8px;
+      font-size: 0.78rem;
     }
 
     .latest-card p:last-child {
-      display: none;
+      display: block;
+      margin-top: 10px;
+      font-size: 0.96rem;
+      line-height: 1.45;
+    }
+
+    .count {
+      top: -13px;
+      left: 14px;
     }
 
     .section-heading {
       display: block;
+    }
+
+    .section-heading h2 {
+      font-size: clamp(2.75rem, 14vw, 4rem);
     }
   }
 </style>
