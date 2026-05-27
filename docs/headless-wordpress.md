@@ -23,13 +23,15 @@ If `WP_EXPORT_URL` or `WP_EXPORT_FILE` is configured, the sync step imports fres
 Set these in Cloudflare Pages when the WordPress export endpoint is installed:
 
 ```text
-WP_EXPORT_URL=https://cms.electrikjam.com/wp-json/electrikjam/v1/export
+WP_EXPORT_URL=https://www.electrikjam.com/wp-json/electrikjam/v1/export
 WP_EXPORT_TOKEN=<secret token>
 WP_IMPORT_LIMIT=-1
 WP_PAGE_IMPORT_LIMIT=-1
 WP_MEDIA_MODE=remote
-WP_MEDIA_ORIGIN=https://cms.electrikjam.com
+WP_MEDIA_ORIGIN=https://www.electrikjam.com
 ```
+
+Before launch, move the WordPress CMS to a dedicated origin hostname such as `cms.electrikjam.com`, then update `WP_EXPORT_URL` and `WP_MEDIA_ORIGIN` to that hostname. Do this before `www.electrikjam.com` points to Cloudflare Pages.
 
 Use `WP_MEDIA_MODE=local` only when media is synced into `public/wp-content/uploads` before the build.
 
@@ -54,6 +56,14 @@ The build sends the token as:
 ```text
 Authorization: Bearer <secret token>
 ```
+
+If Cloudflare bot protection challenges this endpoint, add a Cloudflare WAF/Custom Rule that skips bot/challenge protections only for:
+
+```text
+URI Path equals /wp-json/electrikjam/v1/export
+```
+
+Keep the WordPress token requirement in place. Do not broadly bypass protections for all of `/wp-json/`.
 
 ## Deployment Flow
 
