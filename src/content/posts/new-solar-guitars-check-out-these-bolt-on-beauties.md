@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/Solar.jpg"
+featuredImage: "/wp-content/uploads/2020/11/Solar.jpg"
 featuredImageAlt: "New Solar Guitars"
 seo: 
   title: "New Solar Guitars: Check Out These 2020 Bolt-On Beauties!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="821" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-no-evertune-821x1024.jpg" alt="" class="wp-image-1447" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-no-evertune-821x1024.jpg 821w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-no-evertune-600x749.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-no-evertune-240x300.jpg 240w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-no-evertune-768x958.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-no-evertune-1231x1536.jpg 1231w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-no-evertune.jpg 1440w" sizes="(max-width: 821px) 100vw, 821px" /><figcaption>Chugging Noises Intensify</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="821" height="1024" src="/wp-content/uploads/2020/11/Solar-Bolt-no-evertune-821x1024.jpg" alt="" class="wp-image-1447" title="" srcset="/wp-content/uploads/2020/11/Solar-Bolt-no-evertune-821x1024.jpg 821w, /wp-content/uploads/2020/11/Solar-Bolt-no-evertune-600x749.jpg 600w, /wp-content/uploads/2020/11/Solar-Bolt-no-evertune-240x300.jpg 240w, /wp-content/uploads/2020/11/Solar-Bolt-no-evertune-768x958.jpg 768w, /wp-content/uploads/2020/11/Solar-Bolt-no-evertune-1231x1536.jpg 1231w, /wp-content/uploads/2020/11/Solar-Bolt-no-evertune.jpg 1440w" sizes="(max-width: 821px) 100vw, 821px" /><figcaption>Chugging Noises Intensify</figcaption></figure>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="821" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-Orange-821x1024.jpg" alt="" class="wp-image-1448" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-Orange-821x1024.jpg 821w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-Orange-600x749.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-Orange-240x300.jpg 240w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-Orange-768x958.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-Orange-1231x1536.jpg 1231w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Bolt-Orange.jpg 1440w" sizes="(max-width: 821px) 100vw, 821px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="821" height="1024" src="/wp-content/uploads/2020/11/Solar-Bolt-Orange-821x1024.jpg" alt="" class="wp-image-1448" title="" srcset="/wp-content/uploads/2020/11/Solar-Bolt-Orange-821x1024.jpg 821w, /wp-content/uploads/2020/11/Solar-Bolt-Orange-600x749.jpg 600w, /wp-content/uploads/2020/11/Solar-Bolt-Orange-240x300.jpg 240w, /wp-content/uploads/2020/11/Solar-Bolt-Orange-768x958.jpg 768w, /wp-content/uploads/2020/11/Solar-Bolt-Orange-1231x1536.jpg 1231w, /wp-content/uploads/2020/11/Solar-Bolt-Orange.jpg 1440w" sizes="(max-width: 821px) 100vw, 821px" /></figure>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="821" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Floyd-821x1024.jpg" alt="" class="wp-image-1452" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Floyd-821x1024.jpg 821w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Floyd-600x749.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Floyd-240x300.jpg 240w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Floyd-768x958.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Floyd-1231x1536.jpg 1231w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-Floyd.jpg 1440w" sizes="(max-width: 821px) 100vw, 821px" /><figcaption>Solar With Floyd Rose</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="821" height="1024" src="/wp-content/uploads/2020/11/Solar-Floyd-821x1024.jpg" alt="" class="wp-image-1452" title="" srcset="/wp-content/uploads/2020/11/Solar-Floyd-821x1024.jpg 821w, /wp-content/uploads/2020/11/Solar-Floyd-600x749.jpg 600w, /wp-content/uploads/2020/11/Solar-Floyd-240x300.jpg 240w, /wp-content/uploads/2020/11/Solar-Floyd-768x958.jpg 768w, /wp-content/uploads/2020/11/Solar-Floyd-1231x1536.jpg 1231w, /wp-content/uploads/2020/11/Solar-Floyd.jpg 1440w" sizes="(max-width: 821px) 100vw, 821px" /><figcaption>Solar With Floyd Rose</figcaption></figure>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="817" height="582" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar.jpg" alt="New Solar Guitars" class="wp-image-1444" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar.jpg 817w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-600x427.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-300x214.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-768x547.jpg 768w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="817" height="582" src="/wp-content/uploads/2020/11/Solar.jpg" alt="New Solar Guitars" class="wp-image-1444" title="" srcset="/wp-content/uploads/2020/11/Solar.jpg 817w, /wp-content/uploads/2020/11/Solar-600x427.jpg 600w, /wp-content/uploads/2020/11/Solar-300x214.jpg 300w, /wp-content/uploads/2020/11/Solar-768x547.jpg 768w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
 
 
 
@@ -150,7 +150,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="819" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-bolt-on-819x1024.jpg" alt="New Solar Guitars" class="wp-image-1450" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-bolt-on-819x1024.jpg 819w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-bolt-on-600x750.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-bolt-on-240x300.jpg 240w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-bolt-on-768x960.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-bolt-on-1229x1536.jpg 1229w, https://www.electrikjam.com/wp-content/uploads/2020/11/Solar-bolt-on.jpg 1440w" sizes="(max-width: 819px) 100vw, 819px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="819" height="1024" src="/wp-content/uploads/2020/11/Solar-bolt-on-819x1024.jpg" alt="New Solar Guitars" class="wp-image-1450" title="" srcset="/wp-content/uploads/2020/11/Solar-bolt-on-819x1024.jpg 819w, /wp-content/uploads/2020/11/Solar-bolt-on-600x750.jpg 600w, /wp-content/uploads/2020/11/Solar-bolt-on-240x300.jpg 240w, /wp-content/uploads/2020/11/Solar-bolt-on-768x960.jpg 768w, /wp-content/uploads/2020/11/Solar-bolt-on-1229x1536.jpg 1229w, /wp-content/uploads/2020/11/Solar-bolt-on.jpg 1440w" sizes="(max-width: 819px) 100vw, 819px" /></figure>
 
 
 

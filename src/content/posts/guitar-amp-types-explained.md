@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-amps"
 tagPaths: 
   - "/tag/guitar-amps/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types.png"
+featuredImage: "/wp-content/uploads/2022/08/Guitar-amp-types.png"
 featuredImageAlt: "guitar amp types"
 seo: 
   title: "Guitar Amp Types Explained: The #1 Guide To Combos, Stacks, And Beyond!"
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-diagram-1024x683.png" alt="Guitar amp types" class="wp-image-8751" width="842" height="561" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-diagram-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-diagram-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-diagram-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-diagram-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-diagram.png 1200w" sizes="(max-width: 842px) 100vw, 842px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/08/Guitar-amp-types-diagram-1024x683.png" alt="Guitar amp types" class="wp-image-8751" width="842" height="561" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-types-diagram-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-types-diagram-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-types-diagram-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-types-diagram-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-types-diagram.png 1200w" sizes="(max-width: 842px) 100vw, 842px" /></figure>
 
 
 
@@ -287,7 +287,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-combos-1024x683.png" alt="guitar amp types" class="wp-image-8752" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-combos-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-combos-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-combos-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-combos-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-combos.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-types-combos-1024x683.png" alt="guitar amp types" class="wp-image-8752" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-types-combos-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-types-combos-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-types-combos-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-types-combos-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-types-combos.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -347,7 +347,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-stacks-1024x683.png" alt="guitar amp types" class="wp-image-8753" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-stacks-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-stacks-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-stacks-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-stacks-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-stacks.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-types-stacks-1024x683.png" alt="guitar amp types" class="wp-image-8753" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-types-stacks-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-types-stacks-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-types-stacks-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-types-stacks-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-types-stacks.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -435,7 +435,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-FRFR-1024x683.png" alt="Guitar amp types" class="wp-image-8754" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-FRFR-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-FRFR-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-FRFR-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-FRFR-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-types-FRFR.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-types-FRFR-1024x683.png" alt="Guitar amp types" class="wp-image-8754" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-types-FRFR-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-types-FRFR-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-types-FRFR-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-types-FRFR-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-types-FRFR.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

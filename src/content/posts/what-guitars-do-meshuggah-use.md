@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg"
+featuredImage: "/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg"
 featuredImageAlt: "what-guitars-do-meshuggah-use"
 seo: 
   title: "What Guitars Do Meshuggah Use?"
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IBANEZ-M8M.jpg" alt="" class="wp-image-850" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IBANEZ-M8M.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/IBANEZ-M8M-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/IBANEZ-M8M-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/IBANEZ-M8M-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IBANEZ-M8M-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/IBANEZ-M8M-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><strong>Mårten Hagström | Meshuggah | <a href="https://www.ibanez.com/usa/artists/detail/79.html" data-lasso-id="206" target="_blank" rel="noopener noreferrer nofollow">Image Source</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2020/10/IBANEZ-M8M.jpg" alt="" class="wp-image-850" title="" srcset="/wp-content/uploads/2020/10/IBANEZ-M8M.jpg 1000w, /wp-content/uploads/2020/10/IBANEZ-M8M-300x300.jpg 300w, /wp-content/uploads/2020/10/IBANEZ-M8M-100x100.jpg 100w, /wp-content/uploads/2020/10/IBANEZ-M8M-600x600.jpg 600w, /wp-content/uploads/2020/10/IBANEZ-M8M-150x150.jpg 150w, /wp-content/uploads/2020/10/IBANEZ-M8M-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><strong>Mårten Hagström | Meshuggah | <a href="https://www.ibanez.com/usa/artists/detail/79.html" data-lasso-id="206" target="_blank" rel="noopener noreferrer nofollow">Image Source</a></strong></figcaption></figure>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg" alt="" class="wp-image-849" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><strong>Fredrik Thordendal | Meshuggah | <a href="https://www.ibanez.com/usa/artists/detail/202.html" data-lasso-id="210" target="_blank" rel="noopener noreferrer nofollow">Image Source</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg" alt="" class="wp-image-849" title="" srcset="/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg 1000w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-300x300.jpg 300w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-100x100.jpg 100w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-600x600.jpg 600w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-150x150.jpg 150w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><strong>Fredrik Thordendal | Meshuggah | <a href="https://www.ibanez.com/usa/artists/detail/202.html" data-lasso-id="210" target="_blank" rel="noopener noreferrer nofollow">Image Source</a></strong></figcaption></figure>
 
 
 

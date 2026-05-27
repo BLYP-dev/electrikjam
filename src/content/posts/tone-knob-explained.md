@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-18.png"
+featuredImage: "/wp-content/uploads/2022/04/Untitled-design-18.png"
 featuredImageAlt: "Tone Knob"
 seo: 
   title: "Your Guitar's Tone Knob Explained: What It Is, And How To Use It Like A PRO!"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-19-1024x683.png" alt="tone knob diagram" class="wp-image-7881" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-19-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-19-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-19-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-19-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-19.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>A tone knob/volume diagram for electric guitar with two humbuckers</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-19-1024x683.png" alt="tone knob diagram" class="wp-image-7881" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-19-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-19-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-19-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-19-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-19.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>A tone knob/volume diagram for electric guitar with two humbuckers</strong></figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-20-1024x683.png" alt="tone knob low pass example" class="wp-image-7882" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-20-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-20-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-20-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-20-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-20.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A Low Pass Filter In Action</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-20-1024x683.png" alt="tone knob low pass example" class="wp-image-7882" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-20-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-20-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-20-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-20-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-20.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A Low Pass Filter In Action</figcaption></figure>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-21-1024x683.png" alt="tone knob capacitor" class="wp-image-7883" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-21-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-21-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-21-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-21-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-21.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>An orange tone capacitor soldered to the tone pot</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-21-1024x683.png" alt="tone knob capacitor" class="wp-image-7883" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-21-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-21-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-21-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-21-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-21.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>An orange tone capacitor soldered to the tone pot</strong></figcaption></figure>
 
 
 

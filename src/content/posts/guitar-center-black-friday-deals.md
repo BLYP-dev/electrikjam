@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale.png"
+featuredImage: "/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale.png"
 featuredImageAlt: "Guitar Center Black Friday Sale"
 seo: 
   title: "Guitar Center Black Friday Deals – It’s ALREADY STARTED!"
@@ -80,7 +80,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-1024x853.png" alt="Guitar Center Black Friday Sale" class="wp-image-5637 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-1024x853.png" alt="Guitar Center Black Friday Sale" class="wp-image-5637 size-full" title="" srcset="/wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-1024x853.png 1024w, /wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-600x500.png 600w, /wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-300x250.png 300w, /wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-768x640.png 768w, /wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale-1080x900.png 1080w, /wp-content/uploads/2021/11/Guitar-Center-Black-Friday-Sale.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>Guitar Center Black Friday 2021</strong></h3>
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/Scales-How-to.png"
+featuredImage: "/wp-content/uploads/2023/02/Scales-How-to.png"
 featuredImageAlt: "How do you practice scales?"
 seo: 
   title: "How Do You Practice Scales? The 2 Important Scales And HOW To Play Them!"
@@ -102,7 +102,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/how-do-you-play-scales-1024x683.png" alt="How do you practice scales?" class="wp-image-10604" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/how-do-you-play-scales-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/how-do-you-play-scales-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/how-do-you-play-scales-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/how-do-you-play-scales-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/how-do-you-play-scales.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/how-do-you-play-scales-1024x683.png" alt="How do you practice scales?" class="wp-image-10604" title="" srcset="/wp-content/uploads/2023/02/how-do-you-play-scales-1024x683.png 1024w, /wp-content/uploads/2023/02/how-do-you-play-scales-600x400.png 600w, /wp-content/uploads/2023/02/how-do-you-play-scales-300x200.png 300w, /wp-content/uploads/2023/02/how-do-you-play-scales-768x512.png 768w, /wp-content/uploads/2023/02/how-do-you-play-scales.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Minor-Pentatonic-In-A.png" alt="how do you practice scales?" class="wp-image-10605" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Minor-Pentatonic-In-A.png 987w, https://www.electrikjam.com/wp-content/uploads/2023/02/Minor-Pentatonic-In-A-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Minor-Pentatonic-In-A-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Minor-Pentatonic-In-A-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2023/02/Minor-Pentatonic-In-A.png" alt="how do you practice scales?" class="wp-image-10605" title="" srcset="/wp-content/uploads/2023/02/Minor-Pentatonic-In-A.png 987w, /wp-content/uploads/2023/02/Minor-Pentatonic-In-A-600x265.png 600w, /wp-content/uploads/2023/02/Minor-Pentatonic-In-A-300x133.png 300w, /wp-content/uploads/2023/02/Minor-Pentatonic-In-A-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2023/02/The-Major-Scale-In-C.png" alt="How do you practice scales?" class="wp-image-10606" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/The-Major-Scale-In-C.png 987w, https://www.electrikjam.com/wp-content/uploads/2023/02/The-Major-Scale-In-C-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/The-Major-Scale-In-C-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/The-Major-Scale-In-C-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption class="wp-element-caption"><strong>The Major Scale: Dorian Mode</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2023/02/The-Major-Scale-In-C.png" alt="How do you practice scales?" class="wp-image-10606" title="" srcset="/wp-content/uploads/2023/02/The-Major-Scale-In-C.png 987w, /wp-content/uploads/2023/02/The-Major-Scale-In-C-600x265.png 600w, /wp-content/uploads/2023/02/The-Major-Scale-In-C-300x133.png 300w, /wp-content/uploads/2023/02/The-Major-Scale-In-C-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption class="wp-element-caption"><strong>The Major Scale: Dorian Mode</strong></figcaption></figure>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Melodic-Minor-In-C.png" alt="how do you practice scales?" class="wp-image-10607" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Melodic-Minor-In-C.png 987w, https://www.electrikjam.com/wp-content/uploads/2023/02/Melodic-Minor-In-C-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Melodic-Minor-In-C-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Melodic-Minor-In-C-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption class="wp-element-caption"><strong>The Melodic Minor Scale</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2023/02/Melodic-Minor-In-C.png" alt="how do you practice scales?" class="wp-image-10607" title="" srcset="/wp-content/uploads/2023/02/Melodic-Minor-In-C.png 987w, /wp-content/uploads/2023/02/Melodic-Minor-In-C-600x265.png 600w, /wp-content/uploads/2023/02/Melodic-Minor-In-C-300x133.png 300w, /wp-content/uploads/2023/02/Melodic-Minor-In-C-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption class="wp-element-caption"><strong>The Melodic Minor Scale</strong></figcaption></figure>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-1024x683.png" alt="How do you practice scales with a metronome?" class="wp-image-10608" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-1024x683.png" alt="How do you practice scales with a metronome?" class="wp-image-10608" title="" srcset="/wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-1024x683.png 1024w, /wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-600x400.png 600w, /wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-300x200.png 300w, /wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome-768x512.png 768w, /wp-content/uploads/2023/02/How-do-you-practice-scales-with-a-metronome.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

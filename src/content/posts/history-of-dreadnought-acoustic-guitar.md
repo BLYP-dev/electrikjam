@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar.png"
+featuredImage: "/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar.png"
 featuredImageAlt: "History of The Dreadnought Acoustic Guitar"
 seo: 
   title: "A Brief History of The Dreadnought Acoustic Guitar – AKA \"The Big Gun\""
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-1024x683.png" alt="" class="wp-image-13814" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-1024x683.png" alt="" class="wp-image-13814" title="" srcset="/wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-1024x683.png 1024w, /wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-600x400.png 600w, /wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-300x200.png 300w, /wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar-768x512.png 768w, /wp-content/uploads/2024/01/Dreadnought-Acoustic-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-body-shape-1024x683.png" alt="" class="wp-image-13816" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-body-shape-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-body-shape-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-body-shape-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-body-shape-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-body-shape.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/Dreadnought-body-shape-1024x683.png" alt="" class="wp-image-13816" title="" srcset="/wp-content/uploads/2024/01/Dreadnought-body-shape-1024x683.png 1024w, /wp-content/uploads/2024/01/Dreadnought-body-shape-600x400.png 600w, /wp-content/uploads/2024/01/Dreadnought-body-shape-300x200.png 300w, /wp-content/uploads/2024/01/Dreadnought-body-shape-768x512.png 768w, /wp-content/uploads/2024/01/Dreadnought-body-shape.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -277,7 +277,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-1024x683.png" alt="" class="wp-image-13815" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-1024x683.png" alt="" class="wp-image-13815" title="" srcset="/wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-1024x683.png 1024w, /wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-600x400.png 600w, /wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-300x200.png 300w, /wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar-768x512.png 768w, /wp-content/uploads/2024/01/johnny-cash-Dreadnought-Acoustic-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -335,7 +335,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-golden-era-1024x683.png" alt="" class="wp-image-13817" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-golden-era-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-golden-era-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-golden-era-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-golden-era-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/Dreadnought-golden-era.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/Dreadnought-golden-era-1024x683.png" alt="" class="wp-image-13817" title="" srcset="/wp-content/uploads/2024/01/Dreadnought-golden-era-1024x683.png 1024w, /wp-content/uploads/2024/01/Dreadnought-golden-era-600x400.png 600w, /wp-content/uploads/2024/01/Dreadnought-golden-era-300x200.png 300w, /wp-content/uploads/2024/01/Dreadnought-golden-era-768x512.png 768w, /wp-content/uploads/2024/01/Dreadnought-golden-era.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -427,7 +427,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45--1024x683.png" alt="" class="wp-image-13818" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/martin-d-45--1024x683.png" alt="" class="wp-image-13818" title="" srcset="/wp-content/uploads/2024/01/martin-d-45--1024x683.png 1024w, /wp-content/uploads/2024/01/martin-d-45--600x400.png 600w, /wp-content/uploads/2024/01/martin-d-45--300x200.png 300w, /wp-content/uploads/2024/01/martin-d-45--768x512.png 768w, /wp-content/uploads/2024/01/martin-d-45-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

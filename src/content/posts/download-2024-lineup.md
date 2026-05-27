@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/11/DOWNLOAD-2024.png"
+featuredImage: "/wp-content/uploads/2023/11/DOWNLOAD-2024.png"
 featuredImageAlt: "DOWNLOAD 2024 lineup"
 seo: 
   title: "DOWNLOAD 2024 Lineup: 80 Bands + One, Massive Surprise Act"

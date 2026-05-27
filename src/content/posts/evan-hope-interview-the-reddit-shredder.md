@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/image0-scaled-e1602431511317.jpeg"
+featuredImage: "/wp-content/uploads/2020/10/image0-scaled-e1602431511317.jpeg"
 featuredImageAlt: "image0"
 seo: 
   title: "Evan Hope Interview: The Reddit Shredder"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><video controls src="https://www.electrikjam.com/wp-content/uploads/2020/10/DASH_720.mp4"></video></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><video controls src="/wp-content/uploads/2020/10/DASH_720.mp4"></video></figure><div class="wp-block-media-text__content">
 <p class="has-large-font-size">Evan Shreds</p>
 </div></div>
 
@@ -66,7 +66,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/strnd8-1024x768.jpg" alt="" class="wp-image-782" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/strnd8-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/strnd8-scaled-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/strnd8-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/strnd8-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/strnd8-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/strnd8-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption> <strong>Strandberg Boden 8 String</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/strnd8-1024x768.jpg" alt="" class="wp-image-782" title="" srcset="/wp-content/uploads/2020/10/strnd8-1024x768.jpg 1024w, /wp-content/uploads/2020/10/strnd8-scaled-600x450.jpg 600w, /wp-content/uploads/2020/10/strnd8-300x225.jpg 300w, /wp-content/uploads/2020/10/strnd8-768x576.jpg 768w, /wp-content/uploads/2020/10/strnd8-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/strnd8-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption> <strong>Strandberg Boden 8 String</strong></figcaption></figure>
 
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Jesse-Michel-1024x576.jpg" alt="" class="wp-image-783" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Jesse-Michel-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Jesse-Michel-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Jesse-Michel-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Jesse-Michel-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Jesse-Michel.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Jesse Michel: Credit <a href="https://www.kieselguitars.com/" data-lasso-id="163" target="_blank" rel="noopener noreferrer nofollow">Kiesel Guitars</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/Jesse-Michel-1024x576.jpg" alt="" class="wp-image-783" title="" srcset="/wp-content/uploads/2020/10/Jesse-Michel-1024x576.jpg 1024w, /wp-content/uploads/2020/10/Jesse-Michel-600x338.jpg 600w, /wp-content/uploads/2020/10/Jesse-Michel-300x169.jpg 300w, /wp-content/uploads/2020/10/Jesse-Michel-768x432.jpg 768w, /wp-content/uploads/2020/10/Jesse-Michel.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Jesse Michel: Credit <a href="https://www.kieselguitars.com/" data-lasso-id="163" target="_blank" rel="noopener noreferrer nofollow">Kiesel Guitars</a></figcaption></figure>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><video controls src="https://www.electrikjam.com/wp-content/uploads/2020/10/DASH_1080.mp4"></video></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><video controls src="/wp-content/uploads/2020/10/DASH_1080.mp4"></video></figure><div class="wp-block-media-text__content">
 <p class="has-large-font-size">The Daily Shred&#8230;</p>
 </div></div>
 

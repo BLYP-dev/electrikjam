@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-spyder.png"
+featuredImage: "/wp-content/uploads/2021/11/Line-6-spyder.png"
 featuredImageAlt: "Line 6 spyder"
 seo: 
   title: "Are Line 6 Guitar Amps Bad? Taking A Look In 2021!"
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-spider-family.png" alt="are line 6 guitar amps bad" class="wp-image-5663" width="839" height="357" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-spider-family.png 700w, https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-spider-family-600x255.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-spider-family-300x128.png 300w" sizes="(max-width: 839px) 100vw, 839px" /><figcaption><strong><em>Am I A Joke To You?</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/Line-6-spider-family.png" alt="are line 6 guitar amps bad" class="wp-image-5663" width="839" height="357" title="" srcset="/wp-content/uploads/2021/11/Line-6-spider-family.png 700w, /wp-content/uploads/2021/11/Line-6-spider-family-600x255.png 600w, /wp-content/uploads/2021/11/Line-6-spider-family-300x128.png 300w" sizes="(max-width: 839px) 100vw, 839px" /><figcaption><strong><em>Am I A Joke To You?</em></strong></figcaption></figure>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/line-6-firehawk-1500-back.jpg" alt="" class="wp-image-5664" width="840" height="253" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/line-6-firehawk-1500-back.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2021/11/line-6-firehawk-1500-back-600x181.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/line-6-firehawk-1500-back-300x91.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/line-6-firehawk-1500-back-768x232.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><em>Inputs/Outputs On The Higher Models Are Actually Nice!</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/line-6-firehawk-1500-back.jpg" alt="" class="wp-image-5664" width="840" height="253" title="" srcset="/wp-content/uploads/2021/11/line-6-firehawk-1500-back.jpg 900w, /wp-content/uploads/2021/11/line-6-firehawk-1500-back-600x181.jpg 600w, /wp-content/uploads/2021/11/line-6-firehawk-1500-back-300x91.jpg 300w, /wp-content/uploads/2021/11/line-6-firehawk-1500-back-768x232.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><em>Inputs/Outputs On The Higher Models Are Actually Nice!</em></strong></figcaption></figure>
 
 
 

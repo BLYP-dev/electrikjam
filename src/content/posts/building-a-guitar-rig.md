@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/gigging-on-a-budget/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/07/Jimmy-page-building-a-guitar-rig.png"
+featuredImage: "/wp-content/uploads/2022/07/Jimmy-page-building-a-guitar-rig.png"
 featuredImageAlt: "Building a guitar rig"
 seo: 
   title: "Gigging On A Budget: Building A Guitar Rig For $1500 or LESS!"
@@ -74,7 +74,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-9-1024x683.png" alt="Fender price tiers" class="wp-image-7493" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-9-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-9-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-9-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-9-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-9.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-9-1024x683.png" alt="Fender price tiers" class="wp-image-7493" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-9-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-9-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-9-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-9-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-9.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-1024x683.png" alt="Building a guitar rig" class="wp-image-8506" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-1024x683.png" alt="Building a guitar rig" class="wp-image-8506" title="" srcset="/wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-1024x683.png 1024w, /wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-600x400.png 600w, /wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-300x200.png 300w, /wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic-768x512.png 768w, /wp-content/uploads/2022/07/Building-a-Guitar-Rig-Squier-Classic.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-15-1024x683.png" alt="Yamaha Revstar Element" class="wp-image-7175" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-15-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-15-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-15-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-15-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-15.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-15-1024x683.png" alt="Yamaha Revstar Element" class="wp-image-7175" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-15-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-15-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-15-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-15-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-15.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="737" src="https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-1024x737.png" alt="Epiphone Slash Signature Series" class="wp-image-1763" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-1024x737.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-600x432.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-300x216.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-768x553.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series.png 1148w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="737" src="/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-1024x737.png" alt="Epiphone Slash Signature Series" class="wp-image-1763" title="" srcset="/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-1024x737.png 1024w, /wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-600x432.png 600w, /wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-300x216.png 300w, /wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-768x553.png 768w, /wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series.png 1148w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="765" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Fortin-Meshuggah-Signature-50W-amplifier-1024x765.png" alt="Fortin Meshuggah Signature 50W amplifier" class="wp-image-7566" title=""><figcaption><strong>The Fortin Meshuggah Amps: NOT In our Budget!</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="765" src="/wp-content/uploads/2022/04/Fortin-Meshuggah-Signature-50W-amplifier-1024x765.png" alt="Fortin Meshuggah Signature 50W amplifier" class="wp-image-7566" title=""><figcaption><strong>The Fortin Meshuggah Amps: NOT In our Budget!</strong></figcaption></figure>
 
 
 
@@ -226,7 +226,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8412" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8412" title="" srcset="/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-1024x683.png 1024w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-600x400.png 600w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-300x200.png 300w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-768x512.png 768w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-White.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/07/L95760000001000-00-720x720-1.webp" alt="building a guitar rig" class="wp-image-8507" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/L95760000001000-00-720x720-1.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/07/L95760000001000-00-720x720-1-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/L95760000001000-00-720x720-1-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/07/L95760000001000-00-720x720-1-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/L95760000001000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/07/L95760000001000-00-720x720-1.webp" alt="building a guitar rig" class="wp-image-8507" title="" srcset="/wp-content/uploads/2022/07/L95760000001000-00-720x720-1.webp 720w, /wp-content/uploads/2022/07/L95760000001000-00-720x720-1-300x300.webp 300w, /wp-content/uploads/2022/07/L95760000001000-00-720x720-1-100x100.webp 100w, /wp-content/uploads/2022/07/L95760000001000-00-720x720-1-600x600.webp 600w, /wp-content/uploads/2022/07/L95760000001000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -278,7 +278,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Fender-Champion-100.jpg" alt="Building a guitar rig" class="wp-image-8509" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Fender-Champion-100.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/07/Fender-Champion-100-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Fender-Champion-100-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/07/Fender-Champion-100-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Fender-Champion-100-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/07/Fender-Champion-100.jpg" alt="Building a guitar rig" class="wp-image-8509" title="" srcset="/wp-content/uploads/2022/07/Fender-Champion-100.jpg 720w, /wp-content/uploads/2022/07/Fender-Champion-100-300x300.jpg 300w, /wp-content/uploads/2022/07/Fender-Champion-100-100x100.jpg 100w, /wp-content/uploads/2022/07/Fender-Champion-100-600x600.jpg 600w, /wp-content/uploads/2022/07/Fender-Champion-100-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -354,7 +354,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/07/151392000000000-00-720x720-1.webp" alt="Building a guitar rig" class="wp-image-8515" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/151392000000000-00-720x720-1.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/07/151392000000000-00-720x720-1-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/151392000000000-00-720x720-1-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/07/151392000000000-00-720x720-1-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/151392000000000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/07/151392000000000-00-720x720-1.webp" alt="Building a guitar rig" class="wp-image-8515" title="" srcset="/wp-content/uploads/2022/07/151392000000000-00-720x720-1.webp 720w, /wp-content/uploads/2022/07/151392000000000-00-720x720-1-300x300.webp 300w, /wp-content/uploads/2022/07/151392000000000-00-720x720-1-100x100.webp 100w, /wp-content/uploads/2022/07/151392000000000-00-720x720-1-600x600.webp 600w, /wp-content/uploads/2022/07/151392000000000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -374,7 +374,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/07/VOX-wah-wah.webp" alt="building a guitar rig" class="wp-image-8517" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/VOX-wah-wah.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/07/VOX-wah-wah-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/VOX-wah-wah-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/07/VOX-wah-wah-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/VOX-wah-wah-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/07/VOX-wah-wah.webp" alt="building a guitar rig" class="wp-image-8517" title="" srcset="/wp-content/uploads/2022/07/VOX-wah-wah.webp 720w, /wp-content/uploads/2022/07/VOX-wah-wah-300x300.webp 300w, /wp-content/uploads/2022/07/VOX-wah-wah-100x100.webp 100w, /wp-content/uploads/2022/07/VOX-wah-wah-600x600.webp 600w, /wp-content/uploads/2022/07/VOX-wah-wah-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 

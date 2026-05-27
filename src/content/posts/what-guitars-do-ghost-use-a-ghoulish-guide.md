@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/what-guitars-do-ghost-use.png"
+featuredImage: "/wp-content/uploads/2022/03/what-guitars-do-ghost-use.png"
 featuredImageAlt: "what guitars do ghost use"
 seo: 
   title: "What Guitars Do Ghost Use? A Ghoulish Guide…"
@@ -57,7 +57,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png" alt="15 Guitarists That Use Axe FX" class="wp-image-7106" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Nameless Ghoul Rocking The Hagström Fantomen Custom</strong> <strong>– <a href="https://www.electrikjam.com/hagstrom-fantomen-guitar/" data-type="lasso-urls" data-id="7276" data-lasso-id="91664" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Hagstrom Fantomen Electric Guitar">Click Here To Buy One</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png" alt="15 Guitarists That Use Axe FX" class="wp-image-7106" title="" srcset="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png 1024w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-600x400.png 600w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-300x200.png 300w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-768x512.png 768w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1080x720.png 1080w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Nameless Ghoul Rocking The Hagström Fantomen Custom</strong> <strong>– <a href="https://www.electrikjam.com/hagstrom-fantomen-guitar/" data-type="lasso-urls" data-id="7276" data-lasso-id="91664" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Hagstrom Fantomen Electric Guitar">Click Here To Buy One</a></strong></figcaption></figure>
 			
 		
 

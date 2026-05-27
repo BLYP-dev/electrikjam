@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/hetfield.png"
+featuredImage: "/wp-content/uploads/2022/03/hetfield.png"
 featuredImageAlt: "The One Guitar James Hetfield Could Not Live Without"
 seo: 
   title: "The Guitar James Hetfield Could Not Live Without..."

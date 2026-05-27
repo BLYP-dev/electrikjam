@@ -28,7 +28,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-2022.png"
+featuredImage: "/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-2022.png"
 featuredImageAlt: "Nick Johnston PT 2022"
 seo: 
   title: "NEW Schecter Nick Johnston PT 2022 Review: Vintage Meets Amazing Innovation!"
@@ -89,7 +89,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-1024x683.png" alt="Schecter Nick Johnston PT 20222" class="wp-image-8301" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Nick-Johnston-PT-1024x683.png" alt="Schecter Nick Johnston PT 20222" class="wp-image-8301" title="" srcset="/wp-content/uploads/2022/06/Nick-Johnston-PT-1024x683.png 1024w, /wp-content/uploads/2022/06/Nick-Johnston-PT-600x400.png 600w, /wp-content/uploads/2022/06/Nick-Johnston-PT-300x200.png 300w, /wp-content/uploads/2022/06/Nick-Johnston-PT-768x512.png 768w, /wp-content/uploads/2022/06/Nick-Johnston-PT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-1024x683.png" alt="Nick Johnston PT" class="wp-image-8302" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Nick Johnston PT Features</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-1024x683.png" alt="Nick Johnston PT" class="wp-image-8302" title="" srcset="/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-1024x683.png 1024w, /wp-content/uploads/2022/06/Nick-Johnston-PT-2022-600x400.png 600w, /wp-content/uploads/2022/06/Nick-Johnston-PT-2022-300x200.png 300w, /wp-content/uploads/2022/06/Nick-Johnston-PT-2022-768x512.png 768w, /wp-content/uploads/2022/06/Nick-Johnston-PT-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Nick Johnston PT Features</strong></figcaption></figure>
 
 
 
@@ -181,7 +181,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-1024x683.png" alt="Nick Johnston PT" class="wp-image-8303" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-Colors.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-1024x683.png" alt="Nick Johnston PT" class="wp-image-8303" title="" srcset="/wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-1024x683.png 1024w, /wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-600x400.png 600w, /wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-300x200.png 300w, /wp-content/uploads/2022/06/Nick-Johnston-PT-Colors-768x512.png 768w, /wp-content/uploads/2022/06/Nick-Johnston-PT-Colors.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -237,7 +237,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-1024x683.png" alt="Nick Johnston PT " class="wp-image-8304" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-1024x683.png" alt="Nick Johnston PT " class="wp-image-8304" title="" srcset="/wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-1024x683.png 1024w, /wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-600x400.png 600w, /wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-300x200.png 300w, /wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2-768x512.png 768w, /wp-content/uploads/2022/06/Nick-Johnston-PT-2022-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "node scripts/clear-astro-cache.mjs && astro check && astro build",
-    "build:static": "node scripts/clear-astro-cache.mjs && astro check && astro build",
+    "build": "node scripts/clear-astro-cache.mjs && astro check && node scripts/clear-astro-cache.mjs && astro build",
+    "build:static": "node scripts/clear-astro-cache.mjs && astro check && node scripts/clear-astro-cache.mjs && astro build",
     "preview": "astro preview",
     "sync:wordpress": "node scripts/sync-wordpress.mjs",
     "import:wordpress": "node scripts/import-wordpress.mjs",

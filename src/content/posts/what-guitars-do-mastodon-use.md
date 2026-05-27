@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/gibson/"
   - "/tag/mastodon/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use.png"
+featuredImage: "/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use.png"
 featuredImageAlt: "What-Guitars-Do-Mastodon-Use"
 seo: 
   title: "What Guitars Do Mastodon Use? Brent n’ Bill’s Gear Detailed…"
@@ -70,7 +70,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning.png" alt="D Standard Tuning" class="wp-image-3693" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning-768x512.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/09/D-Standard-Tuning.png" alt="D Standard Tuning" class="wp-image-3693" title="" srcset="/wp-content/uploads/2021/09/D-Standard-Tuning.png 1024w, /wp-content/uploads/2021/09/D-Standard-Tuning-600x400.png 600w, /wp-content/uploads/2021/09/D-Standard-Tuning-300x200.png 300w, /wp-content/uploads/2021/09/D-Standard-Tuning-768x512.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png" alt="" class="wp-image-4857" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png" alt="" class="wp-image-4857" title="" srcset="/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png 1024w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-600x500.png 600w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-300x250.png 300w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-768x640.png 768w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1080x900.png 1080w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

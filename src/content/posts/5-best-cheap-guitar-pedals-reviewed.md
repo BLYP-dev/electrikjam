@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/BEST-CHEAP-GUITAR-PEDALS.png"
+featuredImage: "/wp-content/uploads/2022/10/BEST-CHEAP-GUITAR-PEDALS.png"
 featuredImageAlt: "best cheap guitar pedals review"
 seo: 
   title: "The 5 Best Cheap Guitar Pedals Reviewed: All Under $60!"
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-1024x683.png" alt="cheap guitar pedals" class="wp-image-9437" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-1024x683.png" alt="cheap guitar pedals" class="wp-image-9437" title="" srcset="/wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-600x400.png 600w, /wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-300x200.png 300w, /wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper-768x512.png 768w, /wp-content/uploads/2022/10/Best-cheap-guitar-pedals-looper.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-1024x683.png" alt="cheap guitar pedals" class="wp-image-9439" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-1024x683.png" alt="cheap guitar pedals" class="wp-image-9439" title="" srcset="/wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-1024x683.png 1024w, /wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-600x400.png 600w, /wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-300x200.png 300w, /wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals-768x512.png 768w, /wp-content/uploads/2022/10/Outlaw-best-cheap-guitar-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-1024x683.png" alt="best cheap guitar pedals" class="wp-image-9441" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-1024x683.png" alt="best cheap guitar pedals" class="wp-image-9441" title="" srcset="/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-600x400.png 600w, /wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-300x200.png 300w, /wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie-768x512.png 768w, /wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-NUX-Brownie.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-1024x683.png" alt="cheap guitar pedals" class="wp-image-9440" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-1024x683.png" alt="cheap guitar pedals" class="wp-image-9440" title="" srcset="/wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-600x400.png 600w, /wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-300x200.png 300w, /wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR-768x512.png 768w, /wp-content/uploads/2022/10/Best-Cheap-Guitar-pedals-MXR.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -307,7 +307,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/NANO-NO-1024x683.png" alt="cheap guitar pedals to avoid" class="wp-image-9442" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/NANO-NO-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/NANO-NO-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/NANO-NO-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/NANO-NO-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/NANO-NO.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/NANO-NO-1024x683.png" alt="cheap guitar pedals to avoid" class="wp-image-9442" title="" srcset="/wp-content/uploads/2022/10/NANO-NO-1024x683.png 1024w, /wp-content/uploads/2022/10/NANO-NO-600x400.png 600w, /wp-content/uploads/2022/10/NANO-NO-300x200.png 300w, /wp-content/uploads/2022/10/NANO-NO-768x512.png 768w, /wp-content/uploads/2022/10/NANO-NO.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -339,7 +339,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-1024x683.png" alt="cheap guitar pedals" class="wp-image-9443" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-1024x683.png" alt="cheap guitar pedals" class="wp-image-9443" title="" srcset="/wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-1024x683.png 1024w, /wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-600x400.png 600w, /wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-300x200.png 300w, /wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus-768x512.png 768w, /wp-content/uploads/2022/10/NUX-best-cheap-guitar-pedals-chorus.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420.jpg"
+featuredImage: "/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420.jpg"
 featuredImageAlt: "Cort Multi-Scale"
 seo: 
   title: "Cort Multi-Scale Guitars: New, Beautiful Models for 2021!"
@@ -37,7 +37,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="750" src="https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew5.jpg" alt="Cort Multi-scale" class="wp-image-1798" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew5.jpg 500w, https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew5-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption>&#8220;Whoa&#8221;</figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="750" src="/wp-content/uploads/2021/01/KX507MultiScaleglamnew5.jpg" alt="Cort Multi-scale" class="wp-image-1798" title="" srcset="/wp-content/uploads/2021/01/KX507MultiScaleglamnew5.jpg 500w, /wp-content/uploads/2021/01/KX507MultiScaleglamnew5-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption>&#8220;Whoa&#8221;</figcaption></figure>
 			
 		
 
@@ -75,7 +75,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="420" height="420" src="https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1.jpg" alt="" class="wp-image-1800" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1.jpg 420w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1-150x150.jpg 150w" sizes="(max-width: 420px) 100vw, 420px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="420" height="420" src="/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1.jpg" alt="" class="wp-image-1800" title="" srcset="/wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1.jpg 420w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1-300x300.jpg 300w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1-100x100.jpg 100w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails2_420x420-1-150x150.jpg 150w" sizes="(max-width: 420px) 100vw, 420px" /></figure>
 			
 		
 
@@ -101,7 +101,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="420" height="420" src="https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420.jpg" alt="" class="wp-image-1801" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420.jpg 420w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420-150x150.jpg 150w" sizes="(max-width: 420px) 100vw, 420px" /><figcaption>Individual Bridge system</figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="420" height="420" src="/wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420.jpg" alt="" class="wp-image-1801" title="" srcset="/wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420.jpg 420w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420-300x300.jpg 300w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420-100x100.jpg 100w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails5_420x420-150x150.jpg 150w" sizes="(max-width: 420px) 100vw, 420px" /><figcaption>Individual Bridge system</figcaption></figure>
 			
 		
 
@@ -123,7 +123,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="420" height="420" src="https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420.jpg" alt="" class="wp-image-1802" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420.jpg 420w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420-150x150.jpg 150w" sizes="(max-width: 420px) 100vw, 420px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="420" height="420" src="/wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420.jpg" alt="" class="wp-image-1802" title="" srcset="/wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420.jpg 420w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420-300x300.jpg 300w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420-100x100.jpg 100w, /wp-content/uploads/2021/01/thumb-X700mutilitydetails6_420x420-150x150.jpg 150w" sizes="(max-width: 420px) 100vw, 420px" /></figure>
 			
 		
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="740" height="493" src="https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew1.jpg" alt="" class="wp-image-1803" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew1.jpg 740w, https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew1-300x200.jpg 300w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption>&#8220;Whoa. Again&#8221;</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="740" height="493" src="/wp-content/uploads/2021/01/KX507MultiScaleglamnew1.jpg" alt="" class="wp-image-1803" title="" srcset="/wp-content/uploads/2021/01/KX507MultiScaleglamnew1.jpg 740w, /wp-content/uploads/2021/01/KX507MultiScaleglamnew1-600x400.jpg 600w, /wp-content/uploads/2021/01/KX507MultiScaleglamnew1-300x200.jpg 300w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption>&#8220;Whoa. Again&#8221;</figcaption></figure>
 
 
 
@@ -165,7 +165,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="613" src="https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew6.jpg" alt="" class="wp-image-1804" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew6.jpg 500w, https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew6-245x300.jpg 245w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="613" src="/wp-content/uploads/2021/01/KX507MultiScaleglamnew6.jpg" alt="" class="wp-image-1804" title="" srcset="/wp-content/uploads/2021/01/KX507MultiScaleglamnew6.jpg 500w, /wp-content/uploads/2021/01/KX507MultiScaleglamnew6-245x300.jpg 245w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 			
 		
 
@@ -199,7 +199,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="750" src="https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew5-1.jpg" alt="" class="wp-image-1805" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew5-1.jpg 500w, https://www.electrikjam.com/wp-content/uploads/2021/01/KX507MultiScaleglamnew5-1-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="750" src="/wp-content/uploads/2021/01/KX507MultiScaleglamnew5-1.jpg" alt="" class="wp-image-1805" title="" srcset="/wp-content/uploads/2021/01/KX507MultiScaleglamnew5-1.jpg 500w, /wp-content/uploads/2021/01/KX507MultiScaleglamnew5-1-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 			
 		
 

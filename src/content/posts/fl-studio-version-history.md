@@ -22,7 +22,7 @@ tagSlugs:
   - "fl-studio"
 tagPaths: 
   - "/tag/fl-studio/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-1.png"
+featuredImage: "/wp-content/uploads/2023/10/FL-Studio-Versions-1.png"
 featuredImageAlt: "FL Studio Version history"
 seo: 
   title: "FL Studio Version History: From Fruity Loops to Beat-Making Phenomenon!"
@@ -74,7 +74,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-1024x683.png" alt="FL Studio Version history" class="wp-image-12937" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/FL-Studio-Versions-1024x683.png" alt="FL Studio Version history" class="wp-image-12937" title="" srcset="/wp-content/uploads/2023/10/FL-Studio-Versions-1024x683.png 1024w, /wp-content/uploads/2023/10/FL-Studio-Versions-600x400.png 600w, /wp-content/uploads/2023/10/FL-Studio-Versions-300x200.png 300w, /wp-content/uploads/2023/10/FL-Studio-Versions-768x512.png 768w, /wp-content/uploads/2023/10/FL-Studio-Versions.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-21-1024x683.png" alt="FL Studio Version history" class="wp-image-12938" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-21-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-21-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-21-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-21-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/FL-Studio-Versions-21.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>FL Studio 21: The Latest and Greatest Version</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/FL-Studio-Versions-21-1024x683.png" alt="FL Studio Version history" class="wp-image-12938" title="" srcset="/wp-content/uploads/2023/10/FL-Studio-Versions-21-1024x683.png 1024w, /wp-content/uploads/2023/10/FL-Studio-Versions-21-600x400.png 600w, /wp-content/uploads/2023/10/FL-Studio-Versions-21-300x200.png 300w, /wp-content/uploads/2023/10/FL-Studio-Versions-21-768x512.png 768w, /wp-content/uploads/2023/10/FL-Studio-Versions-21.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>FL Studio 21: The Latest and Greatest Version</strong></figcaption></figure>
 
 
 

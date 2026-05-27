@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar.png"
+featuredImage: "/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar.png"
 featuredImageAlt: "Jimmy Page’s Favourite Guitar"
 seo: 
   title: "How Jimmy Page Found His Favourite Guitar of All Time"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-1024x853.png" alt="Led Zeppelin Guitar Tunings" class="wp-image-3049" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-1024x853.png" alt="Led Zeppelin Guitar Tunings" class="wp-image-3049" title="" srcset="/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-1024x853.png 1024w, /wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-600x500.png 600w, /wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-300x250.png 300w, /wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-768x640.png 768w, /wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings-1080x900.png 1080w, /wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -133,7 +133,7 @@ https://www.youtube.com/watch?v=zTbbYk0ezeM
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1024x614.jpg" alt="" class="wp-image-3321" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1024x614.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-768x461.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1080x648.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>1959 Gibson Les Paul Standard Reissue</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1024x614.jpg" alt="" class="wp-image-3321" title="" srcset="/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1024x614.jpg 1024w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-600x360.jpg 600w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-300x180.jpg 300w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-768x461.jpg 768w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1080x648.jpg 1080w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>1959 Gibson Les Paul Standard Reissue</strong></figcaption></figure>
 
 
 

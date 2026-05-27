@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review.png"
+featuredImage: "/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review.png"
 featuredImageAlt: "Glarry GJazz bass review"
 seo: 
   title: "The Glarry GJazz Bass Review: 6 Months Later..."
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-bass-1024x683.png" alt="" class="wp-image-11180" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-bass-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-bass-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-bass-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-bass-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-bass.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>My Glarry GJazz Bass Hanging Out In The Studio</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glarry-GJazz-bass-1024x683.png" alt="" class="wp-image-11180" title="" srcset="/wp-content/uploads/2023/03/Glarry-GJazz-bass-1024x683.png 1024w, /wp-content/uploads/2023/03/Glarry-GJazz-bass-600x400.png 600w, /wp-content/uploads/2023/03/Glarry-GJazz-bass-300x200.png 300w, /wp-content/uploads/2023/03/Glarry-GJazz-bass-768x512.png 768w, /wp-content/uploads/2023/03/Glarry-GJazz-bass.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>My Glarry GJazz Bass Hanging Out In The Studio</strong></figcaption></figure>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-1024x683.png" alt="Glarry GJazz bass review" class="wp-image-11179" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-1024x683.png" alt="Glarry GJazz bass review" class="wp-image-11179" title="" srcset="/wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-1024x683.png 1024w, /wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-600x400.png 600w, /wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-300x200.png 300w, /wp-content/uploads/2023/03/Glarry-Gjazz-bass-review-768x512.png 768w, /wp-content/uploads/2023/03/Glarry-Gjazz-bass-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -426,7 +426,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review.jpg" alt="Glarry GJazz Bass Review" class="wp-image-11181" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption class="wp-element-caption"><strong>Different Color Options For The Glarry GJazz Bass</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review.jpg" alt="Glarry GJazz Bass Review" class="wp-image-11181" title="" srcset="/wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review.jpg 1000w, /wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-300x300.jpg 300w, /wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-100x100.jpg 100w, /wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-600x600.jpg 600w, /wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-150x150.jpg 150w, /wp-content/uploads/2023/03/Glarry-GJazz-Bass-Review-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption class="wp-element-caption"><strong>Different Color Options For The Glarry GJazz Bass</strong></figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-3.png"
+featuredImage: "/wp-content/uploads/2022/04/Untitled-design-3.png"
 featuredImageAlt: "Music Theory"
 seo: 
   title: "Beginner Music Theory For Guitarists: The #1 Way To Improve"
@@ -62,7 +62,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-1024x683.png" alt="" class="wp-image-12799" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-1024x683.png" alt="" class="wp-image-12799" title="" srcset="/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-1024x683.png 1024w, /wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-600x400.png 600w, /wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-300x200.png 300w, /wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-768x512.png 768w, /wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/learn-guitar-chord-progressions-1024x683.png" alt="Guitar chord progressions for beginners" class="wp-image-12783" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/learn-guitar-chord-progressions-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/learn-guitar-chord-progressions-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/learn-guitar-chord-progressions-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/learn-guitar-chord-progressions-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/learn-guitar-chord-progressions.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/learn-guitar-chord-progressions-1024x683.png" alt="Guitar chord progressions for beginners" class="wp-image-12783" title="" srcset="/wp-content/uploads/2023/09/learn-guitar-chord-progressions-1024x683.png 1024w, /wp-content/uploads/2023/09/learn-guitar-chord-progressions-600x400.png 600w, /wp-content/uploads/2023/09/learn-guitar-chord-progressions-300x200.png 300w, /wp-content/uploads/2023/09/learn-guitar-chord-progressions-768x512.png 768w, /wp-content/uploads/2023/09/learn-guitar-chord-progressions.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-4-1024x683.png" alt="Beginner Music Theory" class="wp-image-7598" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-4-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-4-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-4-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-4-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-4.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-4-1024x683.png" alt="Beginner Music Theory" class="wp-image-7598" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-4-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-4-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-4-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-4-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-4.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -270,7 +270,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-5-1024x683.png" alt="Beginner Music theory" class="wp-image-7599" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-5-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-5-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-5-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-5-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-5.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-5-1024x683.png" alt="Beginner Music theory" class="wp-image-7599" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-5-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-5-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-5-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-5-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-5.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -282,7 +282,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-6-1024x683.png" alt="Beginner Music theory" class="wp-image-7600" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-6-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-6-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-6-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-6-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-6-1024x683.png" alt="Beginner Music theory" class="wp-image-7600" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-6-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-6-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-6-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-6-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -310,7 +310,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-3-1024x683.png" alt="Music Theory" class="wp-image-7597" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-3-1024x683.png" alt="Music Theory" class="wp-image-7597" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-3-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-3-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-3-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-3-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -338,7 +338,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-9-1024x683.png" alt="Beginner music theory" class="wp-image-7603" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-9-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-9-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-9-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-9-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-9.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The..<em>.Column</em> Of Fifths?</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-9-1024x683.png" alt="Beginner music theory" class="wp-image-7603" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-9-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-9-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-9-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-9-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-9.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The..<em>.Column</em> Of Fifths?</strong></figcaption></figure>
 
 
 
@@ -370,7 +370,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-7-1024x683.png" alt="beginner music theory" class="wp-image-7601" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-7-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-7-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-7-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-7-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-7-1024x683.png" alt="beginner music theory" class="wp-image-7601" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-7-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-7-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-7-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-7-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -412,7 +412,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-8-1024x683.png" alt="beginner music theory" class="wp-image-7602" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-8-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-8-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-8-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-8-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-8.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>3/4 Time Signature</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-8-1024x683.png" alt="beginner music theory" class="wp-image-7602" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-8-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-8-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-8-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-8-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-8.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>3/4 Time Signature</strong></figcaption></figure>
 
 
 

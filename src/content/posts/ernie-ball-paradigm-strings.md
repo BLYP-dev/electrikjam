@@ -22,7 +22,7 @@ tagSlugs:
   - "strings"
 tagPaths: 
   - "/tag/strings/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/electric-guitar-strings-101.png"
+featuredImage: "/wp-content/uploads/2024/02/electric-guitar-strings-101.png"
 featuredImageAlt: "electric guitar strings 101"
 seo: 
   title: "Are Ernie Ball Paradigm Strings Worth It? I Tested To Find Out"
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption class="wp-element-caption"><strong>Here They Are, Locked &amp; Loaded on My Schecter</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption class="wp-element-caption"><strong>Here They Are, Locked &amp; Loaded on My Schecter</strong></figcaption></figure>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="771" height="771" src="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg 771w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /><figcaption class="wp-element-caption"><strong>I played them live too; they did not disappoint.</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="771" height="771" src="/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="/wp-content/uploads/2020/09/christoper-horton.jpg 771w, /wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, /wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, /wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, /wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, /wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /><figcaption class="wp-element-caption"><strong>I played them live too; they did not disappoint.</strong></figcaption></figure>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><a href="https://www.electrikjam.com/guitar-center-pxf-io-kjz590/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260689" data-lasso-name="Ernie Ball Paradigm"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2024/02/ernie-ball-paradigm.webp" alt="" class="wp-image-14223" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/ernie-ball-paradigm.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/ernie-ball-paradigm-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/ernie-ball-paradigm-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2024/02/ernie-ball-paradigm-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.electrikjam.com/guitar-center-pxf-io-kjz590/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260689" data-lasso-name="Ernie Ball Paradigm"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2024/02/ernie-ball-paradigm.webp" alt="" class="wp-image-14223" title="" srcset="/wp-content/uploads/2024/02/ernie-ball-paradigm.webp 600w, /wp-content/uploads/2024/02/ernie-ball-paradigm-300x300.webp 300w, /wp-content/uploads/2024/02/ernie-ball-paradigm-100x100.webp 100w, /wp-content/uploads/2024/02/ernie-ball-paradigm-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 
 
 

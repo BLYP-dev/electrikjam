@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/fender/"
   - "/tag/jimi-hendrix/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars.png"
+featuredImage: "/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars.png"
 featuredImageAlt: "Why Jimi Hendrix ONLY Played Fender Guitars"
 seo: 
   title: "Why Jimi Hendrix ONLY Played Fender Guitars"
@@ -62,7 +62,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-1024x683.png" alt="Why Jimi Hendrix ONLY Played Fender Guitars" class="wp-image-7453" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>In order to get Jimi&#8217;s iconic sound, you&#8217;ll need two things: a Fender Strat and you&#8217;ll need to tune it down to Eb –&nbsp;AKA half a step down. This was <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101454">Jimi Hendrix&#8217;s guitar tuning of choice</a>. </strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-1024x683.png" alt="Why Jimi Hendrix ONLY Played Fender Guitars" class="wp-image-7453" title="" srcset="/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-1024x683.png 1024w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-600x400.png 600w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-300x200.png 300w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-768x512.png 768w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>In order to get Jimi&#8217;s iconic sound, you&#8217;ll need two things: a Fender Strat and you&#8217;ll need to tune it down to Eb –&nbsp;AKA half a step down. This was <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101454">Jimi Hendrix&#8217;s guitar tuning of choice</a>. </strong></figcaption></figure></div>
 
 
 

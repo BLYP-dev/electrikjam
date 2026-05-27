@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/07/pantera-reunion-tour.png"
+featuredImage: "/wp-content/uploads/2022/07/pantera-reunion-tour.png"
 featuredImageAlt: "pantera reunion tour"
 seo: 
   title: "Pantera Reunion Tour: Everything You Need To Know…"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/pantera-reunion-tour-1024x683.png" alt="pantera reunion tour" class="wp-image-8464" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/pantera-reunion-tour-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/pantera-reunion-tour-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/pantera-reunion-tour-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/pantera-reunion-tour-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/pantera-reunion-tour.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="140266">Pantera Albums RANKED In Order of HEAVINESS&#8230;</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/pantera-reunion-tour-1024x683.png" alt="pantera reunion tour" class="wp-image-8464" title="" srcset="/wp-content/uploads/2022/07/pantera-reunion-tour-1024x683.png 1024w, /wp-content/uploads/2022/07/pantera-reunion-tour-600x400.png 600w, /wp-content/uploads/2022/07/pantera-reunion-tour-300x200.png 300w, /wp-content/uploads/2022/07/pantera-reunion-tour-768x512.png 768w, /wp-content/uploads/2022/07/pantera-reunion-tour.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="140266">Pantera Albums RANKED In Order of HEAVINESS&#8230;</a></strong></figcaption></figure>
 
 
 

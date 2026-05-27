@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline.png"
+featuredImage: "/wp-content/uploads/2023/10/Fender-Telecaster-Thinline.png"
 featuredImageAlt: "Fender Telecaster Thinline"
 seo: 
   title: "Fender Telecaster Thinline: A Brief History & Why It Matters"
@@ -61,7 +61,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-1024x683.png" alt="what is Fender Telecaster Thinline " class="wp-image-13073" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-1024x683.png" alt="what is Fender Telecaster Thinline " class="wp-image-13073" title="" srcset="/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-1024x683.png 1024w, /wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-600x400.png 600w, /wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-300x200.png 300w, /wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1-768x512.png 768w, /wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-1024x683.png" alt="Fender Telecaster Thinline specs" class="wp-image-13074" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-1024x683.png" alt="Fender Telecaster Thinline specs" class="wp-image-13074" title="" srcset="/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-1024x683.png 1024w, /wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-600x400.png 600w, /wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-300x200.png 300w, /wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs-768x512.png 768w, /wp-content/uploads/2023/10/Fender-Telecaster-Thinline-specs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -213,7 +213,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, /wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -301,7 +301,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="451" src="https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up.jpg" alt="fender thinline tele" class="wp-image-13072" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up-768x433.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="451" src="/wp-content/uploads/2023/10/16204-thinline-tele-2up.jpg" alt="fender thinline tele" class="wp-image-13072" title="" srcset="/wp-content/uploads/2023/10/16204-thinline-tele-2up.jpg 800w, /wp-content/uploads/2023/10/16204-thinline-tele-2up-600x338.jpg 600w, /wp-content/uploads/2023/10/16204-thinline-tele-2up-300x169.jpg 300w, /wp-content/uploads/2023/10/16204-thinline-tele-2up-768x433.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 

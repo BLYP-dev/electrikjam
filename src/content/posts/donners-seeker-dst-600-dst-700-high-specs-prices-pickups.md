@@ -28,7 +28,7 @@ tagPaths:
   - "/tag/donner/"
   - "/tag/donner-dst-600/"
   - "/tag/donner-dst-700/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/06/Donners-Seeker-DST-600-and-DST-700.jpg.webp"
+featuredImage: "/wp-content/uploads/2024/06/Donners-Seeker-DST-600-and-DST-700.jpg.webp"
 featuredImageAlt: "Donner's Seeker DST-600 and DST-700.jpg"
 seo: 
   title: "Donner's Seeker DST-600 and DST-700: High-Spec Strats on a Budget"
@@ -113,7 +113,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" width="800" height="350" src="https://www.electrikjam.com/wp-content/uploads/2024/06/DST-600.jpg.webp" alt="" class="wp-image-15506" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/06/DST-600.jpg.webp 800w, https://www.electrikjam.com/wp-content/uploads/2024/06/DST-600.jpg-600x263.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/06/DST-600.jpg-300x131.webp 300w, https://www.electrikjam.com/wp-content/uploads/2024/06/DST-600.jpg-768x336.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="800" height="350" src="/wp-content/uploads/2024/06/DST-600.jpg.webp" alt="" class="wp-image-15506" title="" srcset="/wp-content/uploads/2024/06/DST-600.jpg.webp 800w, /wp-content/uploads/2024/06/DST-600.jpg-600x263.webp 600w, /wp-content/uploads/2024/06/DST-600.jpg-300x131.webp 300w, /wp-content/uploads/2024/06/DST-600.jpg-768x336.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" width="800" height="350" src="https://www.electrikjam.com/wp-content/uploads/2024/06/DST-700.jpg.webp" alt="" class="wp-image-15507" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/06/DST-700.jpg.webp 800w, https://www.electrikjam.com/wp-content/uploads/2024/06/DST-700.jpg-600x263.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/06/DST-700.jpg-300x131.webp 300w, https://www.electrikjam.com/wp-content/uploads/2024/06/DST-700.jpg-768x336.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="800" height="350" src="/wp-content/uploads/2024/06/DST-700.jpg.webp" alt="" class="wp-image-15507" title="" srcset="/wp-content/uploads/2024/06/DST-700.jpg.webp 800w, /wp-content/uploads/2024/06/DST-700.jpg-600x263.webp 600w, /wp-content/uploads/2024/06/DST-700.jpg-300x131.webp 300w, /wp-content/uploads/2024/06/DST-700.jpg-768x336.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 

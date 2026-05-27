@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-Guitars-and-basses-value.png"
+featuredImage: "/wp-content/uploads/2023/04/Glarry-Guitars-and-basses-value.png"
 featuredImageAlt: "Glarry guitars and basses"
 seo: 
   title: "Glarry Guitars And Basses 2023 Lineup: Quality VS Price"
@@ -125,7 +125,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GIL102-colors-1024x683.png" alt="Glarry Guitars and basses" class="wp-image-11375" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GIL102-colors-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GIL102-colors-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GIL102-colors-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GIL102-colors-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GIL102-colors.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Glarry-GIL102-colors-1024x683.png" alt="Glarry Guitars and basses" class="wp-image-11375" title="" srcset="/wp-content/uploads/2023/04/Glarry-GIL102-colors-1024x683.png 1024w, /wp-content/uploads/2023/04/Glarry-GIL102-colors-600x400.png 600w, /wp-content/uploads/2023/04/Glarry-GIL102-colors-300x200.png 300w, /wp-content/uploads/2023/04/Glarry-GIL102-colors-768x512.png 768w, /wp-content/uploads/2023/04/Glarry-GIL102-colors.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -177,7 +177,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-1024x683.png" alt="Glarry guitars and basses" class="wp-image-11376" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-1024x683.png" alt="Glarry guitars and basses" class="wp-image-11376" title="" srcset="/wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-1024x683.png 1024w, /wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-600x400.png 600w, /wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-300x200.png 300w, /wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale-768x512.png 768w, /wp-content/uploads/2023/04/Glarry-guitars-and-basses-short-scale.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-1024x683.png" alt="Glarry guitars and basses" class="wp-image-11378" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Glarry-GP-Pro-Bass.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-1024x683.png" alt="Glarry guitars and basses" class="wp-image-11378" title="" srcset="/wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-1024x683.png 1024w, /wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-600x400.png 600w, /wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-300x200.png 300w, /wp-content/uploads/2023/04/Glarry-GP-Pro-Bass-768x512.png 768w, /wp-content/uploads/2023/04/Glarry-GP-Pro-Bass.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

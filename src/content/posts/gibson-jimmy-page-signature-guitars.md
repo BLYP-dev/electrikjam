@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar.png"
+featuredImage: "/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar.png"
 featuredImageAlt: "jimmy page 1971 Gibson EDS-1275 double neck guitar"
 seo: 
   title: "Gibson Confirms Slew of Jimmy Page Signature Models For 2024"

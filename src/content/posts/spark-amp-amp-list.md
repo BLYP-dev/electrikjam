@@ -22,7 +22,7 @@ tagSlugs:
   - "spark-amp"
 tagPaths: 
   - "/tag/spark-amp/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Spark-Amp-Amp-List.png"
+featuredImage: "/wp-content/uploads/2022/04/Spark-Amp-Amp-List.png"
 featuredImageAlt: "Spark Amp Amp List"
 seo: 
   title: "Spark Amp Amp List – All The Amps & What They’re Based On"
@@ -52,7 +52,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg" alt="Spark Amp Amp List" class="wp-image-1926" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>With the Spark Amp, You Get Access To ALL The Greatest Amps and Pedals Ever Created – <a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">And It Only Costs $255!</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg" alt="Spark Amp Amp List" class="wp-image-1926" title="" srcset="/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg 1024w, /wp-content/uploads/2021/02/The-Spark-Amp-600x450.jpg 600w, /wp-content/uploads/2021/02/The-Spark-Amp-300x225.jpg 300w, /wp-content/uploads/2021/02/The-Spark-Amp-768x576.jpg 768w, /wp-content/uploads/2021/02/The-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>With the Spark Amp, You Get Access To ALL The Greatest Amps and Pedals Ever Created – <a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">And It Only Costs $255!</a></strong></figcaption></figure>
 			
 		
 
@@ -98,7 +98,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Spark-Amp-Amp-List-1024x683.png" alt="Spark Amp Amp List" class="wp-image-7861" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Spark-Amp-Amp-List-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Spark-Amp-Amp-List-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Spark-Amp-Amp-List-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Spark-Amp-Amp-List-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Spark-Amp-Amp-List.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">SAVE $40 On The Spark Amp Today – Now Just $255</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Spark-Amp-Amp-List-1024x683.png" alt="Spark Amp Amp List" class="wp-image-7861" title="" srcset="/wp-content/uploads/2022/04/Spark-Amp-Amp-List-1024x683.png 1024w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-600x400.png 600w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-300x200.png 300w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-768x512.png 768w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">SAVE $40 On The Spark Amp Today – Now Just $255</a></strong></figcaption></figure>
 			
 		
 

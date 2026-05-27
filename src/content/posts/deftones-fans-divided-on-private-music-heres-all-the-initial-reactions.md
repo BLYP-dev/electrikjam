@@ -22,7 +22,7 @@ tagSlugs:
   - "deftones"
 tagPaths: 
   - "/tag/deftones/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/08/deftones-private-music-review-1.jpg"
+featuredImage: "/wp-content/uploads/2025/08/deftones-private-music-review-1.jpg"
 featuredImageAlt: "deftones private music review (1)"
 seo: 
   title: "Deftones Fans Divided On Private Music: Here's All The Initial Reactions"
@@ -47,7 +47,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="894" height="655" src="https://www.electrikjam.com/wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_.jpg" alt="" class="wp-image-17967" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_.jpg 894w, https://www.electrikjam.com/wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_-600x440.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_-300x220.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_-768x563.jpg 768w" sizes="(max-width: 894px) 100vw, 894px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="894" height="655" src="/wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_.jpg" alt="" class="wp-image-17967" title="" srcset="/wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_.jpg 894w, /wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_-600x440.jpg 600w, /wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_-300x220.jpg 300w, /wp-content/uploads/2025/08/71dBHM6iLrL._UF8941000_QL80_-768x563.jpg 768w" sizes="(max-width: 894px) 100vw, 894px" /></figure>
 
 
 

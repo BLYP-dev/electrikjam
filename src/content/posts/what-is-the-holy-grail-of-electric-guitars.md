@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/Holy.png"
+featuredImage: "/wp-content/uploads/2023/02/Holy.png"
 featuredImageAlt: "what is the holy grail of electric guitars?"
 seo: 
   title: "What Is The Holy Grail Of Electric Guitars? The 3 Rarest Axes!"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-1024x683.png" alt="what is the holy grail of electric guitars?" class="wp-image-10709" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Holy-Grail-Guitars-1024x683.png" alt="what is the holy grail of electric guitars?" class="wp-image-10709" title="" srcset="/wp-content/uploads/2023/02/Holy-Grail-Guitars-1024x683.png 1024w, /wp-content/uploads/2023/02/Holy-Grail-Guitars-600x400.png 600w, /wp-content/uploads/2023/02/Holy-Grail-Guitars-300x200.png 300w, /wp-content/uploads/2023/02/Holy-Grail-Guitars-768x512.png 768w, /wp-content/uploads/2023/02/Holy-Grail-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/1958-Gibson-Flying-V-1024x683.png" alt="what is the holy grail of electric guitars?" class="wp-image-10710" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/1958-Gibson-Flying-V-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/1958-Gibson-Flying-V-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/1958-Gibson-Flying-V-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/1958-Gibson-Flying-V-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/1958-Gibson-Flying-V.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/1958-Gibson-Flying-V-1024x683.png" alt="what is the holy grail of electric guitars?" class="wp-image-10710" title="" srcset="/wp-content/uploads/2023/02/1958-Gibson-Flying-V-1024x683.png 1024w, /wp-content/uploads/2023/02/1958-Gibson-Flying-V-600x400.png 600w, /wp-content/uploads/2023/02/1958-Gibson-Flying-V-300x200.png 300w, /wp-content/uploads/2023/02/1958-Gibson-Flying-V-768x512.png 768w, /wp-content/uploads/2023/02/1958-Gibson-Flying-V.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-1024x683.png" alt="what is the holy grail of electric guitars?" class="wp-image-10713" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Greeny-1024x683.png" alt="what is the holy grail of electric guitars?" class="wp-image-10713" title="" srcset="/wp-content/uploads/2023/02/Greeny-1024x683.png 1024w, /wp-content/uploads/2023/02/Greeny-600x400.png 600w, /wp-content/uploads/2023/02/Greeny-300x200.png 300w, /wp-content/uploads/2023/02/Greeny-768x512.png 768w, /wp-content/uploads/2023/02/Greeny.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-2-1024x683.png" alt="What is the holy grail of electric guitar?" class="wp-image-10732" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Greeny-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Greeny-2-1024x683.png" alt="What is the holy grail of electric guitar?" class="wp-image-10732" title="" srcset="/wp-content/uploads/2023/02/Greeny-2-1024x683.png 1024w, /wp-content/uploads/2023/02/Greeny-2-600x400.png 600w, /wp-content/uploads/2023/02/Greeny-2-300x200.png 300w, /wp-content/uploads/2023/02/Greeny-2-768x512.png 768w, /wp-content/uploads/2023/02/Greeny-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

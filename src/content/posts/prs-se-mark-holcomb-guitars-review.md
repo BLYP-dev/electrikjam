@@ -28,7 +28,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/popular/"
   - "/tag/prs/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb.png"
+featuredImage: "/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb.png"
 featuredImageAlt: "PRS SE Mark Holcomb"
 seo: 
   title: "PRS SE Mark Holcomb Guitars Review: Some Changes In 2023, Same Spirit!"
@@ -81,7 +81,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-1024x683.png" alt="PRS SE Mark Holcomb" class="wp-image-10310" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-1024x683.png" alt="PRS SE Mark Holcomb" class="wp-image-10310" title="" srcset="/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-1024x683.png 1024w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-600x400.png 600w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-300x200.png 300w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New-768x512.png 768w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-New.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-1024x683.png" alt="PRS SE Mark Holcomb" class="wp-image-10313" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-1024x683.png" alt="PRS SE Mark Holcomb" class="wp-image-10313" title="" srcset="/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-1024x683.png 1024w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-600x400.png 600w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-300x200.png 300w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag-768x512.png 768w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-Gig-Bag.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-1024x683.png" alt="PRS SE Mark Holcomb" class="wp-image-10314" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-1024x683.png" alt="PRS SE Mark Holcomb" class="wp-image-10314" title="" srcset="/wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-1024x683.png 1024w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-600x400.png 600w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-300x200.png 300w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups-768x512.png 768w, /wp-content/uploads/2023/01/PRS-SE-Mark-Holcomb-pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

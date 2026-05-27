@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-Standard-Vs-Epiphone-SG-Custom_-Whats-The-Difference_.png"
+featuredImage: "/wp-content/uploads/2021/03/Epiphone-SG-Standard-Vs-Epiphone-SG-Custom_-Whats-The-Difference_.png"
 featuredImageAlt: "Epiphone SG Standard Vs Epiphone SG Custom_ What's The Difference_"
 seo: 
   title: "Epiphone SG Standard vs Epiphone SG Custom: What's The Difference?"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="713" src="https://www.electrikjam.com/wp-content/uploads/2021/03/SG-1-1024x713.jpg" alt="epiphone sg" class="wp-image-2493" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/SG-1-1024x713.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-1-600x418.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-1-300x209.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-1-768x534.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-1-1080x752.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Original &#8220;Cherry&#8221; SG</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="713" src="/wp-content/uploads/2021/03/SG-1-1024x713.jpg" alt="epiphone sg" class="wp-image-2493" title="" srcset="/wp-content/uploads/2021/03/SG-1-1024x713.jpg 1024w, /wp-content/uploads/2021/03/SG-1-600x418.jpg 600w, /wp-content/uploads/2021/03/SG-1-300x209.jpg 300w, /wp-content/uploads/2021/03/SG-1-768x534.jpg 768w, /wp-content/uploads/2021/03/SG-1-1080x752.jpg 1080w, /wp-content/uploads/2021/03/SG-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Original &#8220;Cherry&#8221; SG</figcaption></figure>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="495" src="https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Custom-2-1024x495.jpg" alt="" class="wp-image-2496" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Custom-2-1024x495.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Custom-2-600x290.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Custom-2-300x145.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Custom-2-768x371.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Custom-2-1536x742.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Custom-2-2048x989.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Custom-2-1080x522.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1041"><strong>SG Custom (Left) and SG Standard (Right)</a> </strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="495" src="/wp-content/uploads/2021/03/SG-Custom-2-1024x495.jpg" alt="" class="wp-image-2496" title="" srcset="/wp-content/uploads/2021/03/SG-Custom-2-1024x495.jpg 1024w, /wp-content/uploads/2021/03/SG-Custom-2-600x290.jpg 600w, /wp-content/uploads/2021/03/SG-Custom-2-300x145.jpg 300w, /wp-content/uploads/2021/03/SG-Custom-2-768x371.jpg 768w, /wp-content/uploads/2021/03/SG-Custom-2-1536x742.jpg 1536w, /wp-content/uploads/2021/03/SG-Custom-2-2048x989.jpg 2048w, /wp-content/uploads/2021/03/SG-Custom-2-1080x522.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1041"><strong>SG Custom (Left) and SG Standard (Right)</a> </strong></figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Epi-SG-1024x576.jpg" alt="" class="wp-image-2497" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Epi-SG-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epi-SG-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epi-SG-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epi-SG-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epi-SG-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epi-SG-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epi-SG.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1042"><strong>SG Custom (Left) and SG Standard (Right)</a> </strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/Epi-SG-1024x576.jpg" alt="" class="wp-image-2497" title="" srcset="/wp-content/uploads/2021/03/Epi-SG-1024x576.jpg 1024w, /wp-content/uploads/2021/03/Epi-SG-600x338.jpg 600w, /wp-content/uploads/2021/03/Epi-SG-300x169.jpg 300w, /wp-content/uploads/2021/03/Epi-SG-768x432.jpg 768w, /wp-content/uploads/2021/03/Epi-SG-1536x864.jpg 1536w, /wp-content/uploads/2021/03/Epi-SG-1080x608.jpg 1080w, /wp-content/uploads/2021/03/Epi-SG.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1042"><strong>SG Custom (Left) and SG Standard (Right)</a> </strong></figcaption></figure>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Neck-1024x576.png" alt="" class="wp-image-2498" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Neck-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Neck-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Neck-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Neck-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Neck-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Neck-1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/SG-Neck.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>SG Custom Neck profile</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/SG-Neck-1024x576.png" alt="" class="wp-image-2498" title="" srcset="/wp-content/uploads/2021/03/SG-Neck-1024x576.png 1024w, /wp-content/uploads/2021/03/SG-Neck-600x338.png 600w, /wp-content/uploads/2021/03/SG-Neck-300x169.png 300w, /wp-content/uploads/2021/03/SG-Neck-768x432.png 768w, /wp-content/uploads/2021/03/SG-Neck-1536x864.png 1536w, /wp-content/uploads/2021/03/SG-Neck-1080x608.png 1080w, /wp-content/uploads/2021/03/SG-Neck.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>SG Custom Neck profile</figcaption></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-1024x576.png" alt="" class="wp-image-2499" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/epi-sg-3-1024x576.png" alt="" class="wp-image-2499" title="" srcset="/wp-content/uploads/2021/03/epi-sg-3-1024x576.png 1024w, /wp-content/uploads/2021/03/epi-sg-3-600x338.png 600w, /wp-content/uploads/2021/03/epi-sg-3-300x169.png 300w, /wp-content/uploads/2021/03/epi-sg-3-768x432.png 768w, /wp-content/uploads/2021/03/epi-sg-3-1536x864.png 1536w, /wp-content/uploads/2021/03/epi-sg-3-1080x608.png 1080w, /wp-content/uploads/2021/03/epi-sg-3.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

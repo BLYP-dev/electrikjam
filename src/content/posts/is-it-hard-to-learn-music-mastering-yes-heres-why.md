@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-Music-is-Hard.png"
+featuredImage: "/wp-content/uploads/2024/04/Mastering-Music-is-Hard.png"
 featuredImageAlt: "Mastering Music is Hard"
 seo: 
   title: "Is It Hard To Learn Music Mastering? Yes – Here's Why..."
@@ -54,7 +54,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png" alt="audio mastering 101" class="wp-image-14781" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png" alt="audio mastering 101" class="wp-image-14781" title="" srcset="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png 1024w, /wp-content/uploads/2024/04/audio-mastering-101-1-600x400.png 600w, /wp-content/uploads/2024/04/audio-mastering-101-1-300x200.png 300w, /wp-content/uploads/2024/04/audio-mastering-101-1-768x512.png 768w, /wp-content/uploads/2024/04/audio-mastering-101-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -82,7 +82,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png" alt="Music Mastering Cost" class="wp-image-14789" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png" alt="Music Mastering Cost" class="wp-image-14789" title="" srcset="/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png 1024w, /wp-content/uploads/2024/04/Music-Mastering-Cost-600x400.png 600w, /wp-content/uploads/2024/04/Music-Mastering-Cost-300x200.png 300w, /wp-content/uploads/2024/04/Music-Mastering-Cost-768x512.png 768w, /wp-content/uploads/2024/04/Music-Mastering-Cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-1024x683.png" alt="How To Make Your Home Recordings Sound Professional" class="wp-image-14873" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-1024x683.png" alt="How To Make Your Home Recordings Sound Professional" class="wp-image-14873" title="" srcset="/wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-1024x683.png 1024w, /wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-600x400.png 600w, /wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-300x200.png 300w, /wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional-768x512.png 768w, /wp-content/uploads/2024/04/How-To-Make-Your-Home-Recordings-Sound-Professional.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ seo:
 <div class="wp-block-group has-tertiary-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-5fbedae1 wp-block-group-is-layout-constrained" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)">
 <div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-318252f0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-<div class="wp-block-cover is-light is-style-rounded-cover wp-duotone-unset-21" style="min-height:281px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="1410" height="2250" class="wp-block-cover__image-background wp-image-14681" alt="ELECTRIKJAM Mastering 101 The Complete Beginner&#039;s Guide" src="https://www.electrikjam.com/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png 1410w, https://www.electrikjam.com/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide-600x957.png 600w" sizes="(max-width: 1410px) 100vw, 1410px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-cover is-light is-style-rounded-cover wp-duotone-unset-21" style="min-height:281px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="1410" height="2250" class="wp-block-cover__image-background wp-image-14681" alt="ELECTRIKJAM Mastering 101 The Complete Beginner&#039;s Guide" src="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%" title="" srcset="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png 1410w, /wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide-600x957.png 600w" sizes="(max-width: 1410px) 100vw, 1410px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <p class="has-text-align-center has-large-font-size"></p>
 </div></div>
 </div>

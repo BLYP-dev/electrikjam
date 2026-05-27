@@ -22,7 +22,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-MF-TILT.jpg"
+featuredImage: "/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-MF-TILT.jpg"
 featuredImageAlt: "APOCALYPSE E-1 RED REIGN MF TILT"
 seo: 
   title: "New Schecter Red Reign E Series: 2021 Just Keeps Getting Better!"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="394" src="https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-1024x394.png" alt="schecter red reign" class="wp-image-3030" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-1024x394.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-600x231.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-300x116.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-768x296.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-1536x591.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-1080x416.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="394" src="/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-1024x394.png" alt="schecter red reign" class="wp-image-3030" title="" srcset="/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-1024x394.png 1024w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-600x231.png 600w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-300x116.png 300w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-768x296.png 768w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-1536x591.png 1536w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT-1080x416.png 1080w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-TILT.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-1024x683.jpg" alt="" class="wp-image-3032" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter Red Reign Backside</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-1024x683.jpg" alt="" class="wp-image-3032" title="" srcset="/wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-1024x683.jpg 1024w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-600x400.jpg 600w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-300x200.jpg 300w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-768x512.jpg 768w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-1536x1024.jpg 1536w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-2048x1365.jpg 2048w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-1080x720.jpg 1080w, /wp-content/uploads/2021/05/APOCALYPSE-E-1-RED-REIGN-BODY-BACK-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter Red Reign Backside</figcaption></figure>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-1024x683.jpg" alt="" class="wp-image-3033" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-1024x683.jpg" alt="" class="wp-image-3033" title="" srcset="/wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-1024x683.jpg 1024w, /wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-600x400.jpg 600w, /wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-300x200.jpg 300w, /wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-768x512.jpg 768w, /wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-1536x1024.jpg 1536w, /wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-2048x1365.jpg 2048w, /wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-1080x720.jpg 1080w, /wp-content/uploads/2021/05/APOCALYPSE-E-7-RED-REIGN-PICKUP-CLOSE-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

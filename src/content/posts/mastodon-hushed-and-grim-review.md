@@ -22,7 +22,7 @@ tagSlugs:
   - "mastodon"
 tagPaths: 
   - "/tag/mastodon/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/mastodon-hushed-and-grim-review.png"
+featuredImage: "/wp-content/uploads/2021/10/mastodon-hushed-and-grim-review.png"
 featuredImageAlt: "mastodon hushed and grim review"
 seo: 
   title: "Mastodon Hushed and Grim Review: The New Magnum Opus?"
@@ -73,7 +73,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="400" height="400" src="https://www.electrikjam.com/wp-content/uploads/2024/02/tYLWarXo_400x400.jpg" alt="Richard Goodwin ELECTRIKJAM" class="wp-image-14003" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/tYLWarXo_400x400.jpg 400w, https://www.electrikjam.com/wp-content/uploads/2024/02/tYLWarXo_400x400-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/tYLWarXo_400x400-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2024/02/tYLWarXo_400x400-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="400" height="400" src="/wp-content/uploads/2024/02/tYLWarXo_400x400.jpg" alt="Richard Goodwin ELECTRIKJAM" class="wp-image-14003" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2024/02/tYLWarXo_400x400.jpg 400w, /wp-content/uploads/2024/02/tYLWarXo_400x400-300x300.jpg 300w, /wp-content/uploads/2024/02/tYLWarXo_400x400-100x100.jpg 100w, /wp-content/uploads/2024/02/tYLWarXo_400x400-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
 
 
 
@@ -161,7 +161,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="500" src="https://www.electrikjam.com/wp-content/uploads/2021/11/mastodon-hushed-and-grim-review.webp" alt="" class="wp-image-5367" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/mastodon-hushed-and-grim-review.webp 1000w, https://www.electrikjam.com/wp-content/uploads/2021/11/mastodon-hushed-and-grim-review-600x300.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/mastodon-hushed-and-grim-review-300x150.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/mastodon-hushed-and-grim-review-768x384.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="500" src="/wp-content/uploads/2021/11/mastodon-hushed-and-grim-review.webp" alt="" class="wp-image-5367" title="" srcset="/wp-content/uploads/2021/11/mastodon-hushed-and-grim-review.webp 1000w, /wp-content/uploads/2021/11/mastodon-hushed-and-grim-review-600x300.webp 600w, /wp-content/uploads/2021/11/mastodon-hushed-and-grim-review-300x150.webp 300w, /wp-content/uploads/2021/11/mastodon-hushed-and-grim-review-768x384.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -301,7 +301,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="315" src="https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021.jpg" alt="[REVIEW] Mastodon’s HUSHED AND GRIM – Its Best Work Yet? " class="wp-image-3985" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021-300x158.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="315" src="/wp-content/uploads/2021/09/new-mastodon-album-2021.jpg" alt="[REVIEW] Mastodon’s HUSHED AND GRIM – Its Best Work Yet? " class="wp-image-3985" title="" srcset="/wp-content/uploads/2021/09/new-mastodon-album-2021.jpg 600w, /wp-content/uploads/2021/09/new-mastodon-album-2021-300x158.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -449,7 +449,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-1024x683.png" alt="brent hinds guitar" class="wp-image-14751" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/brent-hinds-guitar-1024x683.png" alt="brent hinds guitar" class="wp-image-14751" title="" srcset="/wp-content/uploads/2023/02/brent-hinds-guitar-1024x683.png 1024w, /wp-content/uploads/2023/02/brent-hinds-guitar-600x400.png 600w, /wp-content/uploads/2023/02/brent-hinds-guitar-300x200.png 300w, /wp-content/uploads/2023/02/brent-hinds-guitar-768x512.png 768w, /wp-content/uploads/2023/02/brent-hinds-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

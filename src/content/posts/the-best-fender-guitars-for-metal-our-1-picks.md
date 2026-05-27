@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/fender/"
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal.png"
+featuredImage: "/wp-content/uploads/2021/03/best-fender-guitar-for-metal.png"
 featuredImageAlt: "best fender guitar for metal"
 seo: 
   title: "The Best Fender Guitars For Metal: Our Top 3 Picks!"
@@ -58,7 +58,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt-1024x640.jpg" alt="fender guitars for metal" class="wp-image-2534" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt-1024x640.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt-600x375.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt-300x188.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt-768x480.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt-1536x960.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt-400x250.jpg 400w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt-1080x675.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-alt.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="/wp-content/uploads/2021/03/Fender-alt-1024x640.jpg" alt="fender guitars for metal" class="wp-image-2534" title="" srcset="/wp-content/uploads/2021/03/Fender-alt-1024x640.jpg 1024w, /wp-content/uploads/2021/03/Fender-alt-600x375.jpg 600w, /wp-content/uploads/2021/03/Fender-alt-300x188.jpg 300w, /wp-content/uploads/2021/03/Fender-alt-768x480.jpg 768w, /wp-content/uploads/2021/03/Fender-alt-1536x960.jpg 1536w, /wp-content/uploads/2021/03/Fender-alt-400x250.jpg 400w, /wp-content/uploads/2021/03/Fender-alt-1080x675.jpg 1080w, /wp-content/uploads/2021/03/Fender-alt.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-HSS-1024x334.jpg" alt="" class="wp-image-2533" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-HSS-1024x334.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-HSS-600x196.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-HSS-300x98.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-HSS-768x251.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-HSS-1536x501.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-HSS-2048x668.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-HSS-1080x352.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="/wp-content/uploads/2021/03/Fender-HSS-1024x334.jpg" alt="" class="wp-image-2533" title="" srcset="/wp-content/uploads/2021/03/Fender-HSS-1024x334.jpg 1024w, /wp-content/uploads/2021/03/Fender-HSS-600x196.jpg 600w, /wp-content/uploads/2021/03/Fender-HSS-300x98.jpg 300w, /wp-content/uploads/2021/03/Fender-HSS-768x251.jpg 768w, /wp-content/uploads/2021/03/Fender-HSS-1536x501.jpg 1536w, /wp-content/uploads/2021/03/Fender-HSS-2048x668.jpg 2048w, /wp-content/uploads/2021/03/Fender-HSS-1080x352.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-1024x334.jpg" alt="" class="wp-image-2537" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-1024x334.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-600x196.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-300x98.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-768x250.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-1536x500.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-2048x667.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-1080x352.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="/wp-content/uploads/2021/03/Fender-tom-morello-1024x334.jpg" alt="" class="wp-image-2537" title="" srcset="/wp-content/uploads/2021/03/Fender-tom-morello-1024x334.jpg 1024w, /wp-content/uploads/2021/03/Fender-tom-morello-600x196.jpg 600w, /wp-content/uploads/2021/03/Fender-tom-morello-300x98.jpg 300w, /wp-content/uploads/2021/03/Fender-tom-morello-768x250.jpg 768w, /wp-content/uploads/2021/03/Fender-tom-morello-1536x500.jpg 1536w, /wp-content/uploads/2021/03/Fender-tom-morello-2048x667.jpg 2048w, /wp-content/uploads/2021/03/Fender-tom-morello-1080x352.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="336" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-Jim-Root-1024x336.jpg" alt="" class="wp-image-2540" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-Jim-Root-1024x336.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-Jim-Root-600x197.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-Jim-Root-300x99.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-Jim-Root-768x252.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-Jim-Root-1536x504.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-Jim-Root-2048x672.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-Jim-Root-1080x355.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="336" src="/wp-content/uploads/2021/03/Fender-Jim-Root-1024x336.jpg" alt="" class="wp-image-2540" title="" srcset="/wp-content/uploads/2021/03/Fender-Jim-Root-1024x336.jpg 1024w, /wp-content/uploads/2021/03/Fender-Jim-Root-600x197.jpg 600w, /wp-content/uploads/2021/03/Fender-Jim-Root-300x99.jpg 300w, /wp-content/uploads/2021/03/Fender-Jim-Root-768x252.jpg 768w, /wp-content/uploads/2021/03/Fender-Jim-Root-1536x504.jpg 1536w, /wp-content/uploads/2021/03/Fender-Jim-Root-2048x672.jpg 2048w, /wp-content/uploads/2021/03/Fender-Jim-Root-1080x355.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

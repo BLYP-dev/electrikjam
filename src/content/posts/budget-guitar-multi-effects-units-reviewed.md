@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/UNDER-500-budget-guitar-multi-effects.png"
+featuredImage: "/wp-content/uploads/2022/10/UNDER-500-budget-guitar-multi-effects.png"
 featuredImageAlt: "budget guitar multi effects"
 seo: 
   title: "The #1 Budget Guitar Multi Effects Units Reviewed: TONS Of Tones!"
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9467" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9467" title="" srcset="/wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-1024x683.png 1024w, /wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-600x400.png 600w, /wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-300x200.png 300w, /wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects-768x512.png 768w, /wp-content/uploads/2022/10/Zoom-G6-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9469" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9469" title="" srcset="/wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-1024x683.png 1024w, /wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-600x400.png 600w, /wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-300x200.png 300w, /wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects-768x512.png 768w, /wp-content/uploads/2022/10/Headrush-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9470" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9470" title="" srcset="/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-1024x683.png 1024w, /wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-600x400.png 600w, /wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-300x200.png 300w, /wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-768x512.png 768w, /wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9471" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9471" title="" srcset="/wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-1024x683.png 1024w, /wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-600x400.png 600w, /wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-300x200.png 300w, /wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects-768x512.png 768w, /wp-content/uploads/2022/10/BOSS-GT-1-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

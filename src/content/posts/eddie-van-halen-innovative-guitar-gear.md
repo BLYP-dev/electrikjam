@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-10.png"
+featuredImage: "/wp-content/uploads/2022/04/Untitled-design-10.png"
 featuredImageAlt: "Eddie Van Halen Gear"
 seo: 
   title: "Eddie Van Halen Guitar: All The Models, Myths, & Legends"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-12-1024x683.png" alt="Eddie Van Halen" class="wp-image-7694" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-12-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-12-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-12-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-12-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-12.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Original, From 1977</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-12-1024x683.png" alt="Eddie Van Halen" class="wp-image-7694" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-12-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-12-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-12-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-12-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-12.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Original, From 1977</figcaption></figure>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-13-1024x683.png" alt="Eddie Van Halen" class="wp-image-7695" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-13-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-13-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-13-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-13-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-13.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-13-1024x683.png" alt="Eddie Van Halen" class="wp-image-7695" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-13-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-13-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-13-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-13-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-13.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-14-1024x683.png" alt="Eddie Van Halen" class="wp-image-7697" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-14-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-14-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-14-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-14-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-14.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Music Man Axis</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-14-1024x683.png" alt="Eddie Van Halen" class="wp-image-7697" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-14-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-14-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-14-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-14-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-14.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Music Man Axis</strong></figcaption></figure>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/04/EVH-WOLFG-BLACK.jpg" alt="" class="wp-image-7777" width="838" height="297" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/EVH-WOLFG-BLACK.jpg 700w, https://www.electrikjam.com/wp-content/uploads/2022/04/EVH-WOLFG-BLACK-600x213.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/EVH-WOLFG-BLACK-300x106.jpg 300w" sizes="(max-width: 838px) 100vw, 838px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/04/EVH-WOLFG-BLACK.jpg" alt="" class="wp-image-7777" width="838" height="297" title="" srcset="/wp-content/uploads/2022/04/EVH-WOLFG-BLACK.jpg 700w, /wp-content/uploads/2022/04/EVH-WOLFG-BLACK-600x213.jpg 600w, /wp-content/uploads/2022/04/EVH-WOLFG-BLACK-300x106.jpg 300w" sizes="(max-width: 838px) 100vw, 838px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-top.png"
+featuredImage: "/wp-content/uploads/2023/04/Analog-guitar-gear-top.png"
 featuredImageAlt: "analog guitar gear"
 seo: 
   title: "Analog Guitar Gear: 5 Reasons You SHOULDN'T Go Digital"
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-gear-2-1024x683.png" alt="analog guitar gear" class="wp-image-11348" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-gear-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-gear-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-gear-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-gear-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-gear-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Analog-gear-2-1024x683.png" alt="analog guitar gear" class="wp-image-11348" title="" srcset="/wp-content/uploads/2023/04/Analog-gear-2-1024x683.png 1024w, /wp-content/uploads/2023/04/Analog-gear-2-600x400.png 600w, /wp-content/uploads/2023/04/Analog-gear-2-300x200.png 300w, /wp-content/uploads/2023/04/Analog-gear-2-768x512.png 768w, /wp-content/uploads/2023/04/Analog-gear-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-comparison-1024x683.png" alt="analog guitar gear" class="wp-image-11352" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-comparison-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-comparison-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-comparison-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-comparison-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-comparison.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Analog-guitar-gear-comparison-1024x683.png" alt="analog guitar gear" class="wp-image-11352" title="" srcset="/wp-content/uploads/2023/04/Analog-guitar-gear-comparison-1024x683.png 1024w, /wp-content/uploads/2023/04/Analog-guitar-gear-comparison-600x400.png 600w, /wp-content/uploads/2023/04/Analog-guitar-gear-comparison-300x200.png 300w, /wp-content/uploads/2023/04/Analog-guitar-gear-comparison-768x512.png 768w, /wp-content/uploads/2023/04/Analog-guitar-gear-comparison.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-amps-1024x683.png" alt="analog guitar gear" class="wp-image-11353" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-amps-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-amps-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-amps-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-amps-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Analog-guitar-gear-amps-1024x683.png" alt="analog guitar gear" class="wp-image-11353" title="" srcset="/wp-content/uploads/2023/04/Analog-guitar-gear-amps-1024x683.png 1024w, /wp-content/uploads/2023/04/Analog-guitar-gear-amps-600x400.png 600w, /wp-content/uploads/2023/04/Analog-guitar-gear-amps-300x200.png 300w, /wp-content/uploads/2023/04/Analog-guitar-gear-amps-768x512.png 768w, /wp-content/uploads/2023/04/Analog-guitar-gear-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -291,7 +291,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-top-1024x683.png" alt="analog guitar gear" class="wp-image-11347" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-top-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-top-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-top-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-top-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Analog-guitar-gear-top.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Analog-guitar-gear-top-1024x683.png" alt="analog guitar gear" class="wp-image-11347" title="" srcset="/wp-content/uploads/2023/04/Analog-guitar-gear-top-1024x683.png 1024w, /wp-content/uploads/2023/04/Analog-guitar-gear-top-600x400.png 600w, /wp-content/uploads/2023/04/Analog-guitar-gear-top-300x200.png 300w, /wp-content/uploads/2023/04/Analog-guitar-gear-top-768x512.png 768w, /wp-content/uploads/2023/04/Analog-guitar-gear-top.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

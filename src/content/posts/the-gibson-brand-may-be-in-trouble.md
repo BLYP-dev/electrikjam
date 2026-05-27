@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-Brand-issues.png"
+featuredImage: "/wp-content/uploads/2023/05/Gibson-Brand-issues.png"
 featuredImageAlt: "Gibson Brand"
 seo: 
   title: "The Gibson Brand May Be in Trouble-Here's 3 Reasons Why"
@@ -122,7 +122,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-1024x683.png" alt="Gibson Brand trouble" class="wp-image-12057" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-1024x683.png" alt="Gibson Brand trouble" class="wp-image-12057" title="" srcset="/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-1024x683.png 1024w, /wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-600x400.png 600w, /wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-300x200.png 300w, /wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-768x512.png 768w, /wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -198,7 +198,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-problems-1024x683.png" alt="Gibson brand" class="wp-image-12058" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-problems-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-problems-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-problems-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-problems-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-problems.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Gibson-brand-problems-1024x683.png" alt="Gibson brand" class="wp-image-12058" title="" srcset="/wp-content/uploads/2023/05/Gibson-brand-problems-1024x683.png 1024w, /wp-content/uploads/2023/05/Gibson-brand-problems-600x400.png 600w, /wp-content/uploads/2023/05/Gibson-brand-problems-300x200.png 300w, /wp-content/uploads/2023/05/Gibson-brand-problems-768x512.png 768w, /wp-content/uploads/2023/05/Gibson-brand-problems.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -250,7 +250,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-1024x683.png" alt="Gibson brand issues" class="wp-image-12064" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-1024x683.png" alt="Gibson brand issues" class="wp-image-12064" title="" srcset="/wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-1024x683.png 1024w, /wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-600x400.png 600w, /wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-300x200.png 300w, /wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk-768x512.png 768w, /wp-content/uploads/2023/05/Gibson-brand-issues-signature-slash-kirk.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -412,7 +412,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-lawsuits-1024x683.png" alt="Gibson brand" class="wp-image-12065" width="840" height="560" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-lawsuits-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-lawsuits-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-lawsuits-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-lawsuits-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-brand-lawsuits.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption class="wp-element-caption"><strong>Gibson SG and Dean Gran Sport Guitars</strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2023/05/Gibson-brand-lawsuits-1024x683.png" alt="Gibson brand" class="wp-image-12065" width="840" height="560" title="" srcset="/wp-content/uploads/2023/05/Gibson-brand-lawsuits-1024x683.png 1024w, /wp-content/uploads/2023/05/Gibson-brand-lawsuits-600x400.png 600w, /wp-content/uploads/2023/05/Gibson-brand-lawsuits-300x200.png 300w, /wp-content/uploads/2023/05/Gibson-brand-lawsuits-768x512.png 768w, /wp-content/uploads/2023/05/Gibson-brand-lawsuits.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption class="wp-element-caption"><strong>Gibson SG and Dean Gran Sport Guitars</strong></figcaption></figure>
 
 
 
@@ -530,7 +530,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-Firebird-X.jpg" alt="gibson brand issues" class="wp-image-12066" width="840" height="464" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-Firebird-X.jpg 770w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-Firebird-X-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-Firebird-X-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Gibson-Firebird-X-768x424.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/05/Gibson-Firebird-X.jpg" alt="gibson brand issues" class="wp-image-12066" width="840" height="464" title="" srcset="/wp-content/uploads/2023/05/Gibson-Firebird-X.jpg 770w, /wp-content/uploads/2023/05/Gibson-Firebird-X-600x331.jpg 600w, /wp-content/uploads/2023/05/Gibson-Firebird-X-300x166.jpg 300w, /wp-content/uploads/2023/05/Gibson-Firebird-X-768x424.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /></figure>
 
 
 

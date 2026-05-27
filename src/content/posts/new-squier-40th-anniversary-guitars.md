@@ -28,7 +28,7 @@ tagPaths:
   - "/tag/budget-guitars/"
   - "/tag/fender/"
   - "/tag/squier/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary.jpg"
+featuredImage: "/wp-content/uploads/2022/01/Squier-40th-Anniversary.jpg"
 featuredImageAlt: "Squier-40th-Anniversary"
 seo: 
   title: "New Squier 40th Anniversary Guitars: Awesome PRO Guitars On A Budget?"
@@ -69,7 +69,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-JV-Series.jpg" alt="" class="wp-image-6716" width="820" height="308" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-JV-Series.jpg 820w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-JV-Series-600x225.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-JV-Series-300x113.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-JV-Series-768x288.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" /><figcaption class="wp-element-caption"><strong><em>An Original Squier JV From 1983</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/01/Squier-JV-Series.jpg" alt="" class="wp-image-6716" width="820" height="308" title="" srcset="/wp-content/uploads/2022/01/Squier-JV-Series.jpg 820w, /wp-content/uploads/2022/01/Squier-JV-Series-600x225.jpg 600w, /wp-content/uploads/2022/01/Squier-JV-Series-300x113.jpg 300w, /wp-content/uploads/2022/01/Squier-JV-Series-768x288.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" /><figcaption class="wp-element-caption"><strong><em>An Original Squier JV From 1983</em></strong></figcaption></figure>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-1024x381.jpg" alt="squier 40th anniversary " class="wp-image-6721" width="855" height="318" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-1024x381.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-600x223.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-300x112.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-768x286.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-1536x572.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-1080x402.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue.jpg 1988w" sizes="(max-width: 855px) 100vw, 855px" /><figcaption class="wp-element-caption"><strong><em>Squier 40th Anniversary In Lake Placid Blue</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-1024x381.jpg" alt="squier 40th anniversary " class="wp-image-6721" width="855" height="318" title="" srcset="/wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-1024x381.jpg 1024w, /wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-600x223.jpg 600w, /wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-300x112.jpg 300w, /wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-768x286.jpg 768w, /wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-1536x572.jpg 1536w, /wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue-1080x402.jpg 1080w, /wp-content/uploads/2022/01/Squier-40th-Anniversary-Stratocaster-blue.jpg 1988w" sizes="(max-width: 855px) 100vw, 855px" /><figcaption class="wp-element-caption"><strong><em>Squier 40th Anniversary In Lake Placid Blue</em></strong></figcaption></figure>
 
 
 
@@ -249,7 +249,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-telecaster-1024x396.jpg" alt="squier 40th anniversary" class="wp-image-6722" width="861" height="332" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-telecaster-1024x396.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-telecaster-600x232.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-telecaster-300x116.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-telecaster-768x297.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-telecaster-1536x593.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-telecaster-1080x417.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Squier-40th-telecaster.jpg 1998w" sizes="(max-width: 861px) 100vw, 861px" /><figcaption class="wp-element-caption"><strong><em>Squier 40th Anniversary Telecaster</em></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/01/Squier-40th-telecaster-1024x396.jpg" alt="squier 40th anniversary" class="wp-image-6722" width="861" height="332" title="" srcset="/wp-content/uploads/2022/01/Squier-40th-telecaster-1024x396.jpg 1024w, /wp-content/uploads/2022/01/Squier-40th-telecaster-600x232.jpg 600w, /wp-content/uploads/2022/01/Squier-40th-telecaster-300x116.jpg 300w, /wp-content/uploads/2022/01/Squier-40th-telecaster-768x297.jpg 768w, /wp-content/uploads/2022/01/Squier-40th-telecaster-1536x593.jpg 1536w, /wp-content/uploads/2022/01/Squier-40th-telecaster-1080x417.jpg 1080w, /wp-content/uploads/2022/01/Squier-40th-telecaster.jpg 1998w" sizes="(max-width: 861px) 100vw, 861px" /><figcaption class="wp-element-caption"><strong><em>Squier 40th Anniversary Telecaster</em></strong></figcaption></figure>
 
 
 
@@ -327,7 +327,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-1024x367.jpg" alt="" class="wp-image-6728" width="860" height="308" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-1024x367.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-600x215.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-300x108.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-768x275.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-1536x551.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-1080x387.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster.jpg 1996w" sizes="(max-width: 860px) 100vw, 860px" /><figcaption class="wp-element-caption"><strong><em>Squier 40th Anniversary Jazzmaster</em></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-1024x367.jpg" alt="" class="wp-image-6728" width="860" height="308" title="" srcset="/wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-1024x367.jpg 1024w, /wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-600x215.jpg 600w, /wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-300x108.jpg 300w, /wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-768x275.jpg 768w, /wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-1536x551.jpg 1536w, /wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster-1080x387.jpg 1080w, /wp-content/uploads/2022/01/squier-40th-anniversary-jazzmaster.jpg 1996w" sizes="(max-width: 860px) 100vw, 860px" /><figcaption class="wp-element-caption"><strong><em>Squier 40th Anniversary Jazzmaster</em></strong></figcaption></figure>
 
 
 

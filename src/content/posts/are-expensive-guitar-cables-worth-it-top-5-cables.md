@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/eff8d7cb-studio-cables.jpg"
+featuredImage: "/wp-content/uploads/2021/01/eff8d7cb-studio-cables.jpg"
 featuredImageAlt: "eff8d7cb-studio-cables"
 seo: 
   title: "Are Expensive Guitar Cables Worth it? OUR Top 5 Guitar Cables."
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="600" height="338" src="https://www.electrikjam.com/wp-content/uploads/2021/01/D91_28_191_0004_600.jpg" alt="expensive guitar cables" class="wp-image-1744" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/D91_28_191_0004_600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/D91_28_191_0004_600-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2021/01/D91_28_191_0004_600.jpg" alt="expensive guitar cables" class="wp-image-1744" title="" srcset="/wp-content/uploads/2021/01/D91_28_191_0004_600.jpg 600w, /wp-content/uploads/2021/01/D91_28_191_0004_600-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="977" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/01/Lava-Cable-977x1024.jpg" alt="" class="wp-image-1745" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/Lava-Cable-977x1024.jpg 977w, https://www.electrikjam.com/wp-content/uploads/2021/01/Lava-Cable-600x629.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/Lava-Cable-286x300.jpg 286w, https://www.electrikjam.com/wp-content/uploads/2021/01/Lava-Cable-768x805.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/Lava-Cable.jpg 1004w" sizes="(max-width: 977px) 100vw, 977px" /><figcaption>Lava Cable </figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="977" height="1024" src="/wp-content/uploads/2021/01/Lava-Cable-977x1024.jpg" alt="" class="wp-image-1745" title="" srcset="/wp-content/uploads/2021/01/Lava-Cable-977x1024.jpg 977w, /wp-content/uploads/2021/01/Lava-Cable-600x629.jpg 600w, /wp-content/uploads/2021/01/Lava-Cable-286x300.jpg 286w, /wp-content/uploads/2021/01/Lava-Cable-768x805.jpg 768w, /wp-content/uploads/2021/01/Lava-Cable.jpg 1004w" sizes="(max-width: 977px) 100vw, 977px" /><figcaption>Lava Cable </figcaption></figure>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="625" height="833" src="https://www.electrikjam.com/wp-content/uploads/2021/01/Musicians-Gear.jpg" alt="" class="wp-image-1746" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/Musicians-Gear.jpg 625w, https://www.electrikjam.com/wp-content/uploads/2021/01/Musicians-Gear-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/Musicians-Gear-225x300.jpg 225w" sizes="(max-width: 625px) 100vw, 625px" /><figcaption><a href="https://www.guitarcenter.com/Musicians-Gear/?source=4WWRWXGG&amp;gclid=CjwKCAiAi_D_BRApEiwASslbJ9HhiG_jkmH64dnaUeCvNibFkArkTBw0wVO5G3klbOP1BdgUtp9NvBoCudoQAvD_BwE" class="rank-math-link" data-lasso-id="664" target="_blank" rel="noopener noreferrer nofollow">Guitar Center</a> Brand</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="625" height="833" src="/wp-content/uploads/2021/01/Musicians-Gear.jpg" alt="" class="wp-image-1746" title="" srcset="/wp-content/uploads/2021/01/Musicians-Gear.jpg 625w, /wp-content/uploads/2021/01/Musicians-Gear-600x800.jpg 600w, /wp-content/uploads/2021/01/Musicians-Gear-225x300.jpg 225w" sizes="(max-width: 625px) 100vw, 625px" /><figcaption><a href="https://www.guitarcenter.com/Musicians-Gear/?source=4WWRWXGG&amp;gclid=CjwKCAiAi_D_BRApEiwASslbJ9HhiG_jkmH64dnaUeCvNibFkArkTBw0wVO5G3klbOP1BdgUtp9NvBoCudoQAvD_BwE" class="rank-math-link" data-lasso-id="664" target="_blank" rel="noopener noreferrer nofollow">Guitar Center</a> Brand</figcaption></figure>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/01/IMG_20201001_095047594-1024x768.jpg" alt="" class="wp-image-1747" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/IMG_20201001_095047594-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/IMG_20201001_095047594-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/IMG_20201001_095047594-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/IMG_20201001_095047594-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/IMG_20201001_095047594.jpg 1110w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The &#8220;Control&#8221; Guitar</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/01/IMG_20201001_095047594-1024x768.jpg" alt="" class="wp-image-1747" title="" srcset="/wp-content/uploads/2021/01/IMG_20201001_095047594-1024x768.jpg 1024w, /wp-content/uploads/2021/01/IMG_20201001_095047594-600x450.jpg 600w, /wp-content/uploads/2021/01/IMG_20201001_095047594-300x225.jpg 300w, /wp-content/uploads/2021/01/IMG_20201001_095047594-768x576.jpg 768w, /wp-content/uploads/2021/01/IMG_20201001_095047594.jpg 1110w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The &#8220;Control&#8221; Guitar</figcaption></figure>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/01/Untitled-1024x576.jpg" alt="" class="wp-image-1748" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/Untitled-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/Untitled-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/Untitled-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/Untitled-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/Untitled-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/Untitled.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Feel free to zoom in.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/01/Untitled-1024x576.jpg" alt="" class="wp-image-1748" title="" srcset="/wp-content/uploads/2021/01/Untitled-1024x576.jpg 1024w, /wp-content/uploads/2021/01/Untitled-600x338.jpg 600w, /wp-content/uploads/2021/01/Untitled-300x169.jpg 300w, /wp-content/uploads/2021/01/Untitled-768x432.jpg 768w, /wp-content/uploads/2021/01/Untitled-1536x864.jpg 1536w, /wp-content/uploads/2021/01/Untitled.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Feel free to zoom in.</figcaption></figure>
 
 
 
@@ -193,7 +193,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="354" height="400" src="https://www.electrikjam.com/wp-content/uploads/2021/01/ibanez-guitar-cable.jpg" alt="" class="wp-image-1749" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/ibanez-guitar-cable.jpg 354w, https://www.electrikjam.com/wp-content/uploads/2021/01/ibanez-guitar-cable-266x300.jpg 266w" sizes="(max-width: 354px) 100vw, 354px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="354" height="400" src="/wp-content/uploads/2021/01/ibanez-guitar-cable.jpg" alt="" class="wp-image-1749" title="" srcset="/wp-content/uploads/2021/01/ibanez-guitar-cable.jpg 354w, /wp-content/uploads/2021/01/ibanez-guitar-cable-266x300.jpg 266w" sizes="(max-width: 354px) 100vw, 354px" /></figure>
 			
 		
 
@@ -213,7 +213,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="615" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/01/harley-benton-cable.jpg" alt="" class="wp-image-1751" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/harley-benton-cable.jpg 615w, https://www.electrikjam.com/wp-content/uploads/2021/01/harley-benton-cable-600x585.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/harley-benton-cable-300x293.jpg 300w" sizes="(max-width: 615px) 100vw, 615px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="615" height="600" src="/wp-content/uploads/2021/01/harley-benton-cable.jpg" alt="" class="wp-image-1751" title="" srcset="/wp-content/uploads/2021/01/harley-benton-cable.jpg 615w, /wp-content/uploads/2021/01/harley-benton-cable-600x585.jpg 600w, /wp-content/uploads/2021/01/harley-benton-cable-300x293.jpg 300w" sizes="(max-width: 615px) 100vw, 615px" /></figure>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="989" src="https://www.electrikjam.com/wp-content/uploads/2021/01/fender-cable-1024x989.jpg" alt="" class="wp-image-1753" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/fender-cable-1024x989.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/fender-cable-600x580.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/fender-cable-300x290.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/fender-cable-768x742.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/fender-cable.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="989" src="/wp-content/uploads/2021/01/fender-cable-1024x989.jpg" alt="" class="wp-image-1753" title="" srcset="/wp-content/uploads/2021/01/fender-cable-1024x989.jpg 1024w, /wp-content/uploads/2021/01/fender-cable-600x580.jpg 600w, /wp-content/uploads/2021/01/fender-cable-300x290.jpg 300w, /wp-content/uploads/2021/01/fender-cable-768x742.jpg 768w, /wp-content/uploads/2021/01/fender-cable.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar-1024x1024.png" alt="" class="wp-image-1755" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar-1024x1024.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar-600x600.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar-768x768.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar-1536x1536.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/ernie-ball-guitar.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/01/ernie-ball-guitar-1024x1024.png" alt="" class="wp-image-1755" title="" srcset="/wp-content/uploads/2021/01/ernie-ball-guitar-1024x1024.png 1024w, /wp-content/uploads/2021/01/ernie-ball-guitar-300x300.png 300w, /wp-content/uploads/2021/01/ernie-ball-guitar-100x100.png 100w, /wp-content/uploads/2021/01/ernie-ball-guitar-600x600.png 600w, /wp-content/uploads/2021/01/ernie-ball-guitar-150x150.png 150w, /wp-content/uploads/2021/01/ernie-ball-guitar-768x768.png 768w, /wp-content/uploads/2021/01/ernie-ball-guitar-1536x1536.png 1536w, /wp-content/uploads/2021/01/ernie-ball-guitar.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2021/01/daddario.jpg" alt="" class="wp-image-1757" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/daddario.jpg 500w, https://www.electrikjam.com/wp-content/uploads/2021/01/daddario-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/daddario-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/daddario-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2021/01/daddario.jpg" alt="" class="wp-image-1757" title="" srcset="/wp-content/uploads/2021/01/daddario.jpg 500w, /wp-content/uploads/2021/01/daddario-300x300.jpg 300w, /wp-content/uploads/2021/01/daddario-100x100.jpg 100w, /wp-content/uploads/2021/01/daddario-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 			
 		
 

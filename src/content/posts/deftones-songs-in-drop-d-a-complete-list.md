@@ -22,7 +22,7 @@ tagSlugs:
   - "deftones"
 tagPaths: 
   - "/tag/deftones/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/07/Deftones-Songs-In-Drop-D.png"
+featuredImage: "/wp-content/uploads/2021/07/Deftones-Songs-In-Drop-D.png"
 featuredImageAlt: "Deftones Songs In Drop D"
 seo: 
   title: "Deftones Songs In Drop D: A Complete List"
@@ -60,7 +60,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="837" src="https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="837" src="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

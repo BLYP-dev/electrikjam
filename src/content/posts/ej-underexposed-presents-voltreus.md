@@ -22,7 +22,7 @@ tagSlugs:
   - "underexposed"
 tagPaths: 
   - "/tag/underexposed/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/Voltreus-2.jpg"
+featuredImage: "/wp-content/uploads/2021/12/Voltreus-2.jpg"
 featuredImageAlt: "Voltreus"
 seo: 
   title: "EJ Underexposed Presents: Voltreus"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="959" height="958" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Voltreus.jpg" alt="" class="wp-image-6342" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Voltreus.jpg 959w, https://www.electrikjam.com/wp-content/uploads/2021/12/Voltreus-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Voltreus-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Voltreus-600x599.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Voltreus-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/12/Voltreus-768x767.jpg 768w" sizes="(max-width: 959px) 100vw, 959px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="959" height="958" src="/wp-content/uploads/2021/12/Voltreus.jpg" alt="" class="wp-image-6342" title="" srcset="/wp-content/uploads/2021/12/Voltreus.jpg 959w, /wp-content/uploads/2021/12/Voltreus-300x300.jpg 300w, /wp-content/uploads/2021/12/Voltreus-100x100.jpg 100w, /wp-content/uploads/2021/12/Voltreus-600x599.jpg 600w, /wp-content/uploads/2021/12/Voltreus-150x150.jpg 150w, /wp-content/uploads/2021/12/Voltreus-768x767.jpg 768w" sizes="(max-width: 959px) 100vw, 959px" /></figure>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="960" height="640" src="https://www.electrikjam.com/wp-content/uploads/2021/12/voltreus-band.jpg" alt="underexposed" class="wp-image-6343" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/voltreus-band.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2021/12/voltreus-band-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/voltreus-band-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/voltreus-band-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em><a href="https://www.electrikjam.com/voltreus-release-1st-new-single-2022/" data-lasso-id="128960"><strong>Voltreus</a> Killing It, Live</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="640" src="/wp-content/uploads/2021/12/voltreus-band.jpg" alt="underexposed" class="wp-image-6343" title="" srcset="/wp-content/uploads/2021/12/voltreus-band.jpg 960w, /wp-content/uploads/2021/12/voltreus-band-600x400.jpg 600w, /wp-content/uploads/2021/12/voltreus-band-300x200.jpg 300w, /wp-content/uploads/2021/12/voltreus-band-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em><a href="https://www.electrikjam.com/voltreus-release-1st-new-single-2022/" data-lasso-id="128960"><strong>Voltreus</a> Killing It, Live</strong></em></figcaption></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="685" src="https://www.electrikjam.com/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-1024x685.jpg" alt="" class="wp-image-6344" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-1024x685.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-600x401.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-300x201.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-768x514.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-1080x722.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="685" src="/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-1024x685.jpg" alt="" class="wp-image-6344" title="" srcset="/wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-1024x685.jpg 1024w, /wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-600x401.jpg 600w, /wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-300x201.jpg 300w, /wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-768x514.jpg 768w, /wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n-1080x722.jpg 1080w, /wp-content/uploads/2021/12/269686052_453317796237321_6173902455716148284_n.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

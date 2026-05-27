@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/is-cubase-free.png"
+featuredImage: "/wp-content/uploads/2023/07/is-cubase-free.png"
 featuredImageAlt: "is cubase free"
 seo: 
   title: "Is Cubase Free? No, Here's What To Do Instead..."

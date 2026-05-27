@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/epiphone/"
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/0001-20942746952.webp"
+featuredImage: "/wp-content/uploads/2022/02/0001-20942746952.webp"
 featuredImageAlt: "best epiphone les paul"
 seo: 
   title: "The Best Epiphone Les Paul Models 2022: Our #1 Picks..."
@@ -122,7 +122,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-1024x1024.jpg" alt="" class="wp-image-885" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Epiphone Studio LT</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-1024x1024.jpg" alt="" class="wp-image-885" title="" srcset="/wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-300x300.jpg 300w, /wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-100x100.jpg 100w, /wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-600x600.jpg 600w, /wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-150x150.jpg 150w, /wp-content/uploads/2020/10/epiphone-les-paul-studio-lt-768x768.jpg 768w, /wp-content/uploads/2020/10/epiphone-les-paul-studio-lt.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Epiphone Studio LT</figcaption></figure>
 
 
 
@@ -150,7 +150,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Les-Paul-Jr.jpg" alt="" class="wp-image-891" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Les-Paul-Jr.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-Paul-Jr-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-Paul-Jr-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-Paul-Jr-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-Paul-Jr-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-Paul-Jr-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Epi Les Paul JR</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2020/10/Les-Paul-Jr.jpg" alt="" class="wp-image-891" title="" srcset="/wp-content/uploads/2020/10/Les-Paul-Jr.jpg 1000w, /wp-content/uploads/2020/10/Les-Paul-Jr-300x300.jpg 300w, /wp-content/uploads/2020/10/Les-Paul-Jr-100x100.jpg 100w, /wp-content/uploads/2020/10/Les-Paul-Jr-600x600.jpg 600w, /wp-content/uploads/2020/10/Les-Paul-Jr-150x150.jpg 150w, /wp-content/uploads/2020/10/Les-Paul-Jr-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Epi Les Paul JR</figcaption></figure>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-classic-768x1024.jpg" alt="" class="wp-image-893" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-classic-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-classic-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-classic-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-classic-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-classic.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Les Paul Classic</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/Les-paul-classic-768x1024.jpg" alt="" class="wp-image-893" title="" srcset="/wp-content/uploads/2020/10/Les-paul-classic-768x1024.jpg 768w, /wp-content/uploads/2020/10/Les-paul-classic-600x800.jpg 600w, /wp-content/uploads/2020/10/Les-paul-classic-225x300.jpg 225w, /wp-content/uploads/2020/10/Les-paul-classic-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/Les-paul-classic.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Les Paul Classic</figcaption></figure>
 
 
 
@@ -226,7 +226,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/MUSE-1024x1024.jpg" alt="" class="wp-image-895" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/MUSE-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/MUSE-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/MUSE-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/MUSE-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/MUSE-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/MUSE-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/MUSE.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Les Paul Muse</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/MUSE-1024x1024.jpg" alt="" class="wp-image-895" title="" srcset="/wp-content/uploads/2020/10/MUSE-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/MUSE-300x300.jpg 300w, /wp-content/uploads/2020/10/MUSE-100x100.jpg 100w, /wp-content/uploads/2020/10/MUSE-600x600.jpg 600w, /wp-content/uploads/2020/10/MUSE-150x150.jpg 150w, /wp-content/uploads/2020/10/MUSE-768x768.jpg 768w, /wp-content/uploads/2020/10/MUSE.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Les Paul Muse</figcaption></figure>
 
 
 
@@ -262,7 +262,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Modern-768x1024.jpg" alt="" class="wp-image-897" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Modern-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Modern-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Modern-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/Modern-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/Modern.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>The New MODERN</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/Modern-768x1024.jpg" alt="" class="wp-image-897" title="" srcset="/wp-content/uploads/2020/10/Modern-768x1024.jpg 768w, /wp-content/uploads/2020/10/Modern-600x800.jpg 600w, /wp-content/uploads/2020/10/Modern-225x300.jpg 225w, /wp-content/uploads/2020/10/Modern-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/Modern.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>The New MODERN</figcaption></figure>
 
 
 
@@ -327,7 +327,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, /wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, /wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, /wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, /wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, /wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>Learn More About Epiphone Guitars: Best New Models, Buying Guides &amp; Tone Tips</strong></h3>
 
 

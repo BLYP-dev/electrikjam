@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings.png"
+featuredImage: "/wp-content/uploads/2021/06/Led-Zeppelin-Guitar-Tunings.png"
 featuredImageAlt: "Led Zeppelin Guitar Tunings"
 seo: 
   title: "Led Zeppelin Guitar Tunings: All of Page's Alternate Tunings"

@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/04/Can-You-Use-Fender-Mustang-Micro-With-A-Bass_-.png"
+featuredImage: "/wp-content/uploads/2021/04/Can-You-Use-Fender-Mustang-Micro-With-A-Bass_-.png"
 featuredImageAlt: "Can-You-Use-Fender-Mustang-Micro-With-A-Bass_-"
 seo: 
   title: "Can You Use Fender Mustang Micro With A Bass?"
@@ -43,7 +43,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="886" height="620" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro.png" alt="Fender-Mustang-Micro" class="wp-image-2702" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro.png 886w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-600x420.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-300x210.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-768x537.png 768w" sizes="(max-width: 886px) 100vw, 886px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="886" height="620" src="/wp-content/uploads/2021/04/Fender-Mustang-Micro.png" alt="Fender-Mustang-Micro" class="wp-image-2702" title="" srcset="/wp-content/uploads/2021/04/Fender-Mustang-Micro.png 886w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-600x420.png 600w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-300x210.png 300w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-768x537.png 768w" sizes="(max-width: 886px) 100vw, 886px" /></figure>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="900" height="758" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-3.png" alt="" class="wp-image-2704" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-3.png 900w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-3-600x505.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-3-300x253.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-3-768x647.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="900" height="758" src="/wp-content/uploads/2021/04/Fender-Mustang-Micro-3.png" alt="" class="wp-image-2704" title="" srcset="/wp-content/uploads/2021/04/Fender-Mustang-Micro-3.png 900w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-3-600x505.png 600w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-3-300x253.png 300w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-3-768x647.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="723" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-2-1024x723.png" alt="Fender-Mustang-Micro-2" class="wp-image-2701" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-2-1024x723.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-2-600x424.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-2-300x212.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-2-768x542.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-2-1080x763.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fender-Mustang-Micro-2.png 1232w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="723" src="/wp-content/uploads/2021/04/Fender-Mustang-Micro-2-1024x723.png" alt="Fender-Mustang-Micro-2" class="wp-image-2701" title="" srcset="/wp-content/uploads/2021/04/Fender-Mustang-Micro-2-1024x723.png 1024w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-2-600x424.png 600w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-2-300x212.png 300w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-2-768x542.png 768w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-2-1080x763.png 1080w, /wp-content/uploads/2021/04/Fender-Mustang-Micro-2.png 1232w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

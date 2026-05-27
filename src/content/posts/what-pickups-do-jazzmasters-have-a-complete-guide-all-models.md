@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.png"
+featuredImage: "/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.png"
 featuredImageAlt: "What Pickup Do Jazzmasters Have"
 seo: 
   title: "What Pickups Do Jazzmasters Have? A Complete Guide (All Models)"
@@ -65,7 +65,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="951" height="655" src="https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.jpg" alt="" class="wp-image-4548" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.jpg 951w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-600x413.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-300x207.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-768x529.jpg 768w" sizes="(max-width: 951px) 100vw, 951px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="951" height="655" src="/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.jpg" alt="" class="wp-image-4548" title="" srcset="/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.jpg 951w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-600x413.jpg 600w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-300x207.jpg 300w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-768x529.jpg 768w" sizes="(max-width: 951px) 100vw, 951px" /></figure>
 
 
 
@@ -109,7 +109,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1024x853.png" alt="What Pickup Do Jazzmasters Have" class="wp-image-4547" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1024x853.png" alt="What Pickup Do Jazzmasters Have" class="wp-image-4547" title="" srcset="/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1024x853.png 1024w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-600x500.png 600w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-300x250.png 300w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-768x640.png 768w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1080x900.png 1080w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="550" src="https://www.electrikjam.com/wp-content/uploads/2021/09/jim-root-jazzmaster-v4.jpg" alt="" class="wp-image-4549" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/jim-root-jazzmaster-v4.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2021/09/jim-root-jazzmaster-v4-600x330.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/jim-root-jazzmaster-v4-300x165.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/jim-root-jazzmaster-v4-768x422.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="550" src="/wp-content/uploads/2021/09/jim-root-jazzmaster-v4.jpg" alt="" class="wp-image-4549" title="" srcset="/wp-content/uploads/2021/09/jim-root-jazzmaster-v4.jpg 1000w, /wp-content/uploads/2021/09/jim-root-jazzmaster-v4-600x330.jpg 600w, /wp-content/uploads/2021/09/jim-root-jazzmaster-v4-300x165.jpg 300w, /wp-content/uploads/2021/09/jim-root-jazzmaster-v4-768x422.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 

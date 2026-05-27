@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/Converge-x-Chelsea-Wolfe.jpg"
+featuredImage: "/wp-content/uploads/2021/10/Converge-x-Chelsea-Wolfe.jpg"
 featuredImageAlt: "Converge x Chelsea Wolfe"
 seo: 
   title: "Converge x Chelsea Wolfe Join Forces For Bloodmoon: I Album"
@@ -100,7 +100,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg" alt="Chelsea-Wolfe" class="wp-image-955" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg" alt="Chelsea-Wolfe" class="wp-image-955" title="" srcset="/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg 1024w, /wp-content/uploads/2020/10/Chelsea-Wolfe-600x338.jpg 600w, /wp-content/uploads/2020/10/Chelsea-Wolfe-300x169.jpg 300w, /wp-content/uploads/2020/10/Chelsea-Wolfe-768x432.jpg 768w, /wp-content/uploads/2020/10/Chelsea-Wolfe.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -129,7 +129,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-black-color has-luminous-vivid-amber-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img decoding="async" width="908" height="740" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56.png" alt="" class="wp-image-4734 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56.png 908w, https://www.electrikjam.com/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56-600x489.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56-300x244.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56-768x626.png 768w" sizes="(max-width: 908px) 100vw, 908px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-black-color has-luminous-vivid-amber-background-color has-text-color has-background"><figure class="wp-block-media-text__media"><img decoding="async" width="908" height="740" src="/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56.png" alt="" class="wp-image-4734 size-full" title="" srcset="/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56.png 908w, /wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56-600x489.png 600w, /wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56-300x244.png 300w, /wp-content/uploads/2021/10/Screenshot-2021-10-01-at-12.39.56-768x626.png 768w" sizes="(max-width: 908px) 100vw, 908px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>METAL SOUNDS BETTER ON VINYL</strong></h3>
 
 

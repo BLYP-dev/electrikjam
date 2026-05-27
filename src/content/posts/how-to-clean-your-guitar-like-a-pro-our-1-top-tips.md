@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/09/Guitar-cleaning.jpg"
+featuredImage: "/wp-content/uploads/2020/09/Guitar-cleaning.jpg"
 featuredImageAlt: "Guitar cleaning"
 seo: 
   title: "How To Clean Your Guitar (Like a Pro): Our #1 Top Tips"
@@ -139,7 +139,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Music-Nomad-1024x591.jpg" alt="" class="wp-image-657" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Music-Nomad-1024x591.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Music-Nomad-600x346.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Music-Nomad-300x173.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Music-Nomad-768x443.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Music-Nomad.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Music Nomad Polish Set</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Music-Nomad-1024x591.jpg" alt="" class="wp-image-657" width="1000" title="" srcset="/wp-content/uploads/2020/09/Music-Nomad-1024x591.jpg 1024w, /wp-content/uploads/2020/09/Music-Nomad-600x346.jpg 600w, /wp-content/uploads/2020/09/Music-Nomad-300x173.jpg 300w, /wp-content/uploads/2020/09/Music-Nomad-768x443.jpg 768w, /wp-content/uploads/2020/09/Music-Nomad.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Music Nomad Polish Set</figcaption></figure>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/dunlop-65-1024x1024.jpg" alt="" class="wp-image-658" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/dunlop-65-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/dunlop-65-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/dunlop-65-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/dunlop-65-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/dunlop-65-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/dunlop-65-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/dunlop-65.jpg 1218w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Dunlop 65 Guitar Polish Set</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/dunlop-65-1024x1024.jpg" alt="" class="wp-image-658" width="1000" title="" srcset="/wp-content/uploads/2020/09/dunlop-65-1024x1024.jpg 1024w, /wp-content/uploads/2020/09/dunlop-65-300x300.jpg 300w, /wp-content/uploads/2020/09/dunlop-65-100x100.jpg 100w, /wp-content/uploads/2020/09/dunlop-65-600x600.jpg 600w, /wp-content/uploads/2020/09/dunlop-65-150x150.jpg 150w, /wp-content/uploads/2020/09/dunlop-65-768x768.jpg 768w, /wp-content/uploads/2020/09/dunlop-65.jpg 1218w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Dunlop 65 Guitar Polish Set</figcaption></figure>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-polish-829x1024.jpg" alt="" class="wp-image-659" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-polish-829x1024.jpg 829w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-polish-600x741.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-polish-243x300.jpg 243w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-polish-768x948.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-polish-1244x1536.jpg 1244w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-polish.jpg 1402w" sizes="(max-width: 829px) 100vw, 829px" /><figcaption>Ernie Ball USA Polish</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/ernie-ball-polish-829x1024.jpg" alt="" class="wp-image-659" width="1000" title="" srcset="/wp-content/uploads/2020/09/ernie-ball-polish-829x1024.jpg 829w, /wp-content/uploads/2020/09/ernie-ball-polish-600x741.jpg 600w, /wp-content/uploads/2020/09/ernie-ball-polish-243x300.jpg 243w, /wp-content/uploads/2020/09/ernie-ball-polish-768x948.jpg 768w, /wp-content/uploads/2020/09/ernie-ball-polish-1244x1536.jpg 1244w, /wp-content/uploads/2020/09/ernie-ball-polish.jpg 1402w" sizes="(max-width: 829px) 100vw, 829px" /><figcaption>Ernie Ball USA Polish</figcaption></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/String-fuel.jpg" alt="" class="wp-image-660" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/String-fuel.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/09/String-fuel-600x340.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/String-fuel-300x170.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/String-fuel-768x435.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Music Nomad String Fuel</figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/String-fuel.jpg" alt="" class="wp-image-660" width="1000" title="" srcset="/wp-content/uploads/2020/09/String-fuel.jpg 1000w, /wp-content/uploads/2020/09/String-fuel-600x340.jpg 600w, /wp-content/uploads/2020/09/String-fuel-300x170.jpg 300w, /wp-content/uploads/2020/09/String-fuel-768x435.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Music Nomad String Fuel</figcaption></figure>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret-1024x1024.jpg" alt="" class="wp-image-661" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/GHS-fast-fret.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>GHS Fast Fret Set</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/GHS-fast-fret-1024x1024.jpg" alt="" class="wp-image-661" width="1000" title="" srcset="/wp-content/uploads/2020/09/GHS-fast-fret-1024x1024.jpg 1024w, /wp-content/uploads/2020/09/GHS-fast-fret-300x300.jpg 300w, /wp-content/uploads/2020/09/GHS-fast-fret-100x100.jpg 100w, /wp-content/uploads/2020/09/GHS-fast-fret-600x600.jpg 600w, /wp-content/uploads/2020/09/GHS-fast-fret-150x150.jpg 150w, /wp-content/uploads/2020/09/GHS-fast-fret-768x768.jpg 768w, /wp-content/uploads/2020/09/GHS-fast-fret-1536x1536.jpg 1536w, /wp-content/uploads/2020/09/GHS-fast-fret.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>GHS Fast Fret Set</figcaption></figure>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Guitar-cleaning-1-1024x768.jpg" alt="" class="wp-image-663" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Guitar-cleaning-1-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Guitar-cleaning-1-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Guitar-cleaning-1-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Guitar-cleaning-1-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Guitar-cleaning-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Strings Off!</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Guitar-cleaning-1-1024x768.jpg" alt="" class="wp-image-663" width="1000" title="" srcset="/wp-content/uploads/2020/09/Guitar-cleaning-1-1024x768.jpg 1024w, /wp-content/uploads/2020/09/Guitar-cleaning-1-600x450.jpg 600w, /wp-content/uploads/2020/09/Guitar-cleaning-1-300x225.jpg 300w, /wp-content/uploads/2020/09/Guitar-cleaning-1-768x576.jpg 768w, /wp-content/uploads/2020/09/Guitar-cleaning-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Strings Off!</figcaption></figure>
 
 
 
@@ -327,7 +327,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Cleaning-fretboard-1024x576.jpeg" alt="" class="wp-image-664" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Cleaning-fretboard-1024x576.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Cleaning-fretboard-scaled-600x338.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Cleaning-fretboard-300x169.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Cleaning-fretboard-768x432.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Cleaning-fretboard-1536x864.jpeg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Cleaning-fretboard-2048x1152.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Time to Address The Grime!</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Cleaning-fretboard-1024x576.jpeg" alt="" class="wp-image-664" width="1000" title="" srcset="/wp-content/uploads/2020/09/Cleaning-fretboard-1024x576.jpeg 1024w, /wp-content/uploads/2020/09/Cleaning-fretboard-scaled-600x338.jpeg 600w, /wp-content/uploads/2020/09/Cleaning-fretboard-300x169.jpeg 300w, /wp-content/uploads/2020/09/Cleaning-fretboard-768x432.jpeg 768w, /wp-content/uploads/2020/09/Cleaning-fretboard-1536x864.jpeg 1536w, /wp-content/uploads/2020/09/Cleaning-fretboard-2048x1152.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Time to Address The Grime!</figcaption></figure>
 
 
 

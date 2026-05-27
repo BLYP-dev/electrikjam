@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/darkglass-side-e1612337469160.jpg"
+featuredImage: "/wp-content/uploads/2020/11/darkglass-side-e1612337469160.jpg"
 featuredImageAlt: "darkglass side"
 seo: 
   title: "Darkglass Element Review: A Pedal Unlike No Other..."
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/darkglass_element-1024x1024.jpg" alt="Darkglass Element" class="wp-image-1381" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/darkglass_element-1024x1024.jpg" alt="Darkglass Element" class="wp-image-1381" title=""></figure>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="903" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Suite2020-cab-sims-903x1024.png" alt="" class="wp-image-1385" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Suite2020-cab-sims-903x1024.png 903w, https://www.electrikjam.com/wp-content/uploads/2020/11/Suite2020-cab-sims-600x680.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Suite2020-cab-sims-265x300.png 265w, https://www.electrikjam.com/wp-content/uploads/2020/11/Suite2020-cab-sims-768x871.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Suite2020-cab-sims-1355x1536.png 1355w, https://www.electrikjam.com/wp-content/uploads/2020/11/Suite2020-cab-sims.png 1704w" sizes="(max-width: 903px) 100vw, 903px" /><figcaption>TONS of Impulse and Mic options.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="903" height="1024" src="/wp-content/uploads/2020/11/Suite2020-cab-sims-903x1024.png" alt="" class="wp-image-1385" title="" srcset="/wp-content/uploads/2020/11/Suite2020-cab-sims-903x1024.png 903w, /wp-content/uploads/2020/11/Suite2020-cab-sims-600x680.png 600w, /wp-content/uploads/2020/11/Suite2020-cab-sims-265x300.png 265w, /wp-content/uploads/2020/11/Suite2020-cab-sims-768x871.png 768w, /wp-content/uploads/2020/11/Suite2020-cab-sims-1355x1536.png 1355w, /wp-content/uploads/2020/11/Suite2020-cab-sims.png 1704w" sizes="(max-width: 903px) 100vw, 903px" /><figcaption>TONS of Impulse and Mic options.</figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="714" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture0-1024x714.png" alt="" class="wp-image-1386" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture0-1024x714.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture0-600x418.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture0-300x209.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture0-768x536.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture0-1536x1071.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture0.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="714" src="/wp-content/uploads/2020/11/Element-Picture0-1024x714.png" alt="" class="wp-image-1386" title="" srcset="/wp-content/uploads/2020/11/Element-Picture0-1024x714.png 1024w, /wp-content/uploads/2020/11/Element-Picture0-600x418.png 600w, /wp-content/uploads/2020/11/Element-Picture0-300x209.png 300w, /wp-content/uploads/2020/11/Element-Picture0-768x536.png 768w, /wp-content/uploads/2020/11/Element-Picture0-1536x1071.png 1536w, /wp-content/uploads/2020/11/Element-Picture0.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="714" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture1-1024x714.png" alt="" class="wp-image-1387" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture1-1024x714.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture1-600x418.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture1-300x209.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture1-768x536.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture1-1536x1071.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="714" src="/wp-content/uploads/2020/11/Element-Picture1-1024x714.png" alt="" class="wp-image-1387" title="" srcset="/wp-content/uploads/2020/11/Element-Picture1-1024x714.png 1024w, /wp-content/uploads/2020/11/Element-Picture1-600x418.png 600w, /wp-content/uploads/2020/11/Element-Picture1-300x209.png 300w, /wp-content/uploads/2020/11/Element-Picture1-768x536.png 768w, /wp-content/uploads/2020/11/Element-Picture1-1536x1071.png 1536w, /wp-content/uploads/2020/11/Element-Picture1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="714" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture2-1024x714.png" alt="" class="wp-image-1388" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture2-1024x714.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture2-600x418.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture2-300x209.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture2-768x536.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture2-1536x1071.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Element-Picture2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Maybe the best way?</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="714" src="/wp-content/uploads/2020/11/Element-Picture2-1024x714.png" alt="" class="wp-image-1388" title="" srcset="/wp-content/uploads/2020/11/Element-Picture2-1024x714.png 1024w, /wp-content/uploads/2020/11/Element-Picture2-600x418.png 600w, /wp-content/uploads/2020/11/Element-Picture2-300x209.png 300w, /wp-content/uploads/2020/11/Element-Picture2-768x536.png 768w, /wp-content/uploads/2020/11/Element-Picture2-1536x1071.png 1536w, /wp-content/uploads/2020/11/Element-Picture2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Maybe the best way?</em></figcaption></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/darkglass-side-1-1024x1024.jpg" alt="" class="wp-image-1391" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/darkglass-side-1-1024x1024.jpg" alt="" class="wp-image-1391" title=""></figure>
 
 
 <p>The Element is a great deal for anyone looking for a simple solution for practice, or recording. The ability to download just about any impulse response allows you to make this pedal usable for many different amps and instruments.</p>

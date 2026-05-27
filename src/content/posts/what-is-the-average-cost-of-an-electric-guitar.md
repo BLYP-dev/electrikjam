@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/Average-cost-of-electric-guitar.png"
+featuredImage: "/wp-content/uploads/2023/02/Average-cost-of-electric-guitar.png"
 featuredImageAlt: "What is the average cost on an electric guitar?"
 seo: 
   title: "What Is The Average Cost Of An Electric Guitar? 3 Things To Consider."
@@ -114,7 +114,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-1024x683.png" alt="What is the average cost of an electric guitar?" class="wp-image-10821" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-1024x683.png" alt="What is the average cost of an electric guitar?" class="wp-image-10821" title="" srcset="/wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-1024x683.png 1024w, /wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-600x400.png 600w, /wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-300x200.png 300w, /wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map-768x512.png 768w, /wp-content/uploads/2023/02/Average-cost-of-electric-guitar-map.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Average-guitar-cost-1024x683.png" alt="What Is The Average Cost Of An Electric Guitar? " class="wp-image-10822" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Average-guitar-cost-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Average-guitar-cost-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Average-guitar-cost-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Average-guitar-cost-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Average-guitar-cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Average-guitar-cost-1024x683.png" alt="What Is The Average Cost Of An Electric Guitar? " class="wp-image-10822" title="" srcset="/wp-content/uploads/2023/02/Average-guitar-cost-1024x683.png 1024w, /wp-content/uploads/2023/02/Average-guitar-cost-600x400.png 600w, /wp-content/uploads/2023/02/Average-guitar-cost-300x200.png 300w, /wp-content/uploads/2023/02/Average-guitar-cost-768x512.png 768w, /wp-content/uploads/2023/02/Average-guitar-cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/Winter-STORM-Pedal.png"
+featuredImage: "/wp-content/uploads/2023/02/Winter-STORM-Pedal.png"
 featuredImageAlt: "David Ross Winter Storm"
 seo: 
   title: "The David Ross Winter Storm Review: An Awesome 3 In 1 Pedal!"
@@ -80,7 +80,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-1024x683.png" alt="David Ross Winter Storm" class="wp-image-10532" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-1024x683.png" alt="David Ross Winter Storm" class="wp-image-10532" title="" srcset="/wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-1024x683.png 1024w, /wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-600x400.png 600w, /wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-300x200.png 300w, /wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal-768x512.png 768w, /wp-content/uploads/2023/02/David-Ross-Winter-Storm-Pedal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1.jpeg" alt="David Ross Winter Storm pedal" class="wp-image-10534" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1-600x300.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1-300x150.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1-768x384.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1.jpeg" alt="David Ross Winter Storm pedal" class="wp-image-10534" title="" srcset="/wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1.jpeg 1024w, /wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1-600x300.jpeg 600w, /wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1-300x150.jpeg 300w, /wp-content/uploads/2023/02/2022-1-4-Winter-Storm-Tech-Specs-61db6fca0ee5eb0faa71a709-1024x512-1-768x384.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Winter-storm-pedal-2-1024x683.png" alt="Winter Storm" class="wp-image-10535" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Winter-storm-pedal-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Winter-storm-pedal-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Winter-storm-pedal-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Winter-storm-pedal-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Winter-storm-pedal-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Winter-storm-pedal-2-1024x683.png" alt="Winter Storm" class="wp-image-10535" title="" srcset="/wp-content/uploads/2023/02/Winter-storm-pedal-2-1024x683.png 1024w, /wp-content/uploads/2023/02/Winter-storm-pedal-2-600x400.png 600w, /wp-content/uploads/2023/02/Winter-storm-pedal-2-300x200.png 300w, /wp-content/uploads/2023/02/Winter-storm-pedal-2-768x512.png 768w, /wp-content/uploads/2023/02/Winter-storm-pedal-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

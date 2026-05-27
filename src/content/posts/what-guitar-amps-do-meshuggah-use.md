@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use.png"
+featuredImage: "/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use.png"
 featuredImageAlt: "What Guitar Amp Does Meshuggah Use"
 seo: 
   title: "What Guitar Amps Do Meshuggah Use? A Guide For Djenters…"
@@ -65,7 +65,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="765" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Fortin-Meshuggah-Signature-50W-amplifier-1024x765.png" alt="Fortin Meshuggah Signature 50W amplifier" class="wp-image-7566" title=""><figcaption>&#8220;<strong>The best of the best! Mr. Mike Fortin! Thank you for building us these exquisite machines of torture! There are just no words to describe how pleased we are with them! It’s like having the whole arsenal of amps used on ‘The Violent Sleep of Reason record built into one head – and we have three!!! ???? Mind blown!</strong>&#8221; <strong>– Fredrik Thordendal</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="765" src="/wp-content/uploads/2022/04/Fortin-Meshuggah-Signature-50W-amplifier-1024x765.png" alt="Fortin Meshuggah Signature 50W amplifier" class="wp-image-7566" title=""><figcaption>&#8220;<strong>The best of the best! Mr. Mike Fortin! Thank you for building us these exquisite machines of torture! There are just no words to describe how pleased we are with them! It’s like having the whole arsenal of amps used on ‘The Violent Sleep of Reason record built into one head – and we have three!!! ???? Mind blown!</strong>&#8221; <strong>– Fredrik Thordendal</strong></figcaption></figure>
 			
 		
 

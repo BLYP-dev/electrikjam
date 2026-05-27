@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately.jpg"
+featuredImage: "/wp-content/uploads/2020/12/Start-Recording-Immediately.jpg"
 featuredImageAlt: "Start-Recording-Immediately"
 seo: 
   title: "Must Have For Recording Guitar: The 4 Essentials For PRO Results!"
@@ -60,7 +60,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/studio.jpg" alt="must have for recording guitar" class="wp-image-2804" width="848" height="476" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/studio.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2021/04/studio-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/studio-300x169.jpg 300w" sizes="(max-width: 848px) 100vw, 848px" /><figcaption><em><strong>You Do Not Need All Of This Stuff!</strong></em></figcaption></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/studio.jpg" alt="must have for recording guitar" class="wp-image-2804" width="848" height="476" title="" srcset="/wp-content/uploads/2021/04/studio.jpg 640w, /wp-content/uploads/2021/04/studio-600x338.jpg 600w, /wp-content/uploads/2021/04/studio-300x169.jpg 300w" sizes="(max-width: 848px) 100vw, 848px" /><figcaption><em><strong>You Do Not Need All Of This Stuff!</strong></em></figcaption></figure></div>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="728" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-1024x728.jpg" alt="" class="wp-image-1197" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-1024x728.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-600x426.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-300x213.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-768x546.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Focusrite Scarlett Interface</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="728" src="/wp-content/uploads/2020/11/Focusrite-Scarlett-212-1024x728.jpg" alt="" class="wp-image-1197" title="" srcset="/wp-content/uploads/2020/11/Focusrite-Scarlett-212-1024x728.jpg 1024w, /wp-content/uploads/2020/11/Focusrite-Scarlett-212-600x426.jpg 600w, /wp-content/uploads/2020/11/Focusrite-Scarlett-212-300x213.jpg 300w, /wp-content/uploads/2020/11/Focusrite-Scarlett-212-768x546.jpg 768w, /wp-content/uploads/2020/11/Focusrite-Scarlett-212.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Focusrite Scarlett Interface</strong></em></figcaption></figure>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Reaper-Daw-1024x576.jpg" alt="" class="wp-image-4881" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Reaper-Daw-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Reaper-Daw-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Reaper-Daw-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Reaper-Daw-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Reaper-Daw-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Reaper-Daw.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>A screenshot of Reaper</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/10/Reaper-Daw-1024x576.jpg" alt="" class="wp-image-4881" title="" srcset="/wp-content/uploads/2021/10/Reaper-Daw-1024x576.jpg 1024w, /wp-content/uploads/2021/10/Reaper-Daw-600x338.jpg 600w, /wp-content/uploads/2021/10/Reaper-Daw-300x169.jpg 300w, /wp-content/uploads/2021/10/Reaper-Daw-768x432.jpg 768w, /wp-content/uploads/2021/10/Reaper-Daw-1080x608.jpg 1080w, /wp-content/uploads/2021/10/Reaper-Daw.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>A screenshot of Reaper</strong></em></figcaption></figure>
 
 
 

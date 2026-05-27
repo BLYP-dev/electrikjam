@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/FUZZ-overload.jpg"
+featuredImage: "/wp-content/uploads/2020/10/FUZZ-overload.jpg"
 featuredImageAlt: "FUZZ overload"
 seo: 
   title: "Best Guitar Pedals For Doom Metal: 5 Fuzz Goliaths!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="526" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Fuzz-Collage.jpg" alt="" class="wp-image-1155" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Fuzz-Collage.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fuzz-Collage-600x316.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fuzz-Collage-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fuzz-Collage-768x404.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="526" src="/wp-content/uploads/2020/10/Fuzz-Collage.jpg" alt="" class="wp-image-1155" title="" srcset="/wp-content/uploads/2020/10/Fuzz-Collage.jpg 1000w, /wp-content/uploads/2020/10/Fuzz-Collage-600x316.jpg 600w, /wp-content/uploads/2020/10/Fuzz-Collage-300x158.jpg 300w, /wp-content/uploads/2020/10/Fuzz-Collage-768x404.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg" alt="" class="wp-image-1157" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125578">Big Muff Pi Pedal</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg" alt="" class="wp-image-1157" title="" srcset="/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Big-Muff-Pi-300x300.jpg 300w, /wp-content/uploads/2020/10/Big-Muff-Pi-100x100.jpg 100w, /wp-content/uploads/2020/10/Big-Muff-Pi-600x600.jpg 600w, /wp-content/uploads/2020/10/Big-Muff-Pi-150x150.jpg 150w, /wp-content/uploads/2020/10/Big-Muff-Pi-768x768.jpg 768w, /wp-content/uploads/2020/10/Big-Muff-Pi-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/Big-Muff-Pi.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125578">Big Muff Pi Pedal</a></figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="747" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Darkglass-747x1024.jpg" alt="" class="wp-image-1159" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Darkglass-747x1024.jpg 747w, https://www.electrikjam.com/wp-content/uploads/2020/10/Darkglass-600x823.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Darkglass-219x300.jpg 219w, https://www.electrikjam.com/wp-content/uploads/2020/10/Darkglass-768x1053.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Darkglass.jpg 1050w" sizes="(max-width: 747px) 100vw, 747px" /><figcaption>Duality Engine</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="747" height="1024" src="/wp-content/uploads/2020/10/Darkglass-747x1024.jpg" alt="" class="wp-image-1159" title="" srcset="/wp-content/uploads/2020/10/Darkglass-747x1024.jpg 747w, /wp-content/uploads/2020/10/Darkglass-600x823.jpg 600w, /wp-content/uploads/2020/10/Darkglass-219x300.jpg 219w, /wp-content/uploads/2020/10/Darkglass-768x1053.jpg 768w, /wp-content/uploads/2020/10/Darkglass.jpg 1050w" sizes="(max-width: 747px) 100vw, 747px" /><figcaption>Duality Engine</figcaption></figure>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="957" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Proco-Rat-1024x957.jpg" alt="" class="wp-image-1161" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Proco-Rat-1024x957.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Proco-Rat-600x561.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Proco-Rat-300x281.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Proco-Rat-768x718.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Proco-Rat-1536x1436.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Proco-Rat.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Infamous Rat</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="957" src="/wp-content/uploads/2020/10/Proco-Rat-1024x957.jpg" alt="" class="wp-image-1161" title="" srcset="/wp-content/uploads/2020/10/Proco-Rat-1024x957.jpg 1024w, /wp-content/uploads/2020/10/Proco-Rat-600x561.jpg 600w, /wp-content/uploads/2020/10/Proco-Rat-300x281.jpg 300w, /wp-content/uploads/2020/10/Proco-Rat-768x718.jpg 768w, /wp-content/uploads/2020/10/Proco-Rat-1536x1436.jpg 1536w, /wp-content/uploads/2020/10/Proco-Rat.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Infamous Rat</figcaption></figure>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-1024x1024.jpg" alt="" class="wp-image-1164" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/JHS-FUZZ-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>JHS Fuzz</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/JHS-FUZZ-1024x1024.jpg" alt="" class="wp-image-1164" title="" srcset="/wp-content/uploads/2020/10/JHS-FUZZ-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/JHS-FUZZ-300x300.jpg 300w, /wp-content/uploads/2020/10/JHS-FUZZ-100x100.jpg 100w, /wp-content/uploads/2020/10/JHS-FUZZ-600x600.jpg 600w, /wp-content/uploads/2020/10/JHS-FUZZ-150x150.jpg 150w, /wp-content/uploads/2020/10/JHS-FUZZ-768x768.jpg 768w, /wp-content/uploads/2020/10/JHS-FUZZ-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/JHS-FUZZ-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>JHS Fuzz</figcaption></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="746" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Carcosa-Fuzz-746x1024.jpg" alt="" class="wp-image-1166" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Carcosa-Fuzz-746x1024.jpg 746w, https://www.electrikjam.com/wp-content/uploads/2020/10/Carcosa-Fuzz-600x824.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Carcosa-Fuzz-219x300.jpg 219w, https://www.electrikjam.com/wp-content/uploads/2020/10/Carcosa-Fuzz-768x1054.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Carcosa-Fuzz.jpg 947w" sizes="(max-width: 746px) 100vw, 746px" /><figcaption>This thing is TERRIFYING</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="746" height="1024" src="/wp-content/uploads/2020/10/Carcosa-Fuzz-746x1024.jpg" alt="" class="wp-image-1166" title="" srcset="/wp-content/uploads/2020/10/Carcosa-Fuzz-746x1024.jpg 746w, /wp-content/uploads/2020/10/Carcosa-Fuzz-600x824.jpg 600w, /wp-content/uploads/2020/10/Carcosa-Fuzz-219x300.jpg 219w, /wp-content/uploads/2020/10/Carcosa-Fuzz-768x1054.jpg 768w, /wp-content/uploads/2020/10/Carcosa-Fuzz.jpg 947w" sizes="(max-width: 746px) 100vw, 746px" /><figcaption>This thing is TERRIFYING</figcaption></figure>
 
 
 

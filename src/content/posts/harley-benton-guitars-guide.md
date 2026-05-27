@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide.png"
+featuredImage: "/wp-content/uploads/2022/11/harley-benton-guitars-guide.png"
 featuredImageAlt: "harley benton guitars guide"
 seo: 
   title: "Harley Benton Guitars: The Ultimate Buyer's Guide & The Best Models"
@@ -52,7 +52,7 @@ seo:
 <div class="wp-block-query alignfull is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-17758 new-guitar-releases type-new-guitar-releases status-publish has-post-thumbnail hentry brand-of-guitar-harley-benton number-of-strings-six-strings type-of-guitar-solid-body price-tier-beginner">
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-R-446.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Harley Benton R-446" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-R-446.jpg 1200w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-R-446-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-R-446-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-R-446-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-R-446-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/08/Harley-Benton-R-446.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Harley Benton R-446" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/08/Harley-Benton-R-446.jpg 1200w, /wp-content/uploads/2025/08/Harley-Benton-R-446-600x400.jpg 600w, /wp-content/uploads/2025/08/Harley-Benton-R-446-300x200.jpg 300w, /wp-content/uploads/2025/08/Harley-Benton-R-446-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Harley-Benton-R-446-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure>
 
 <p style="font-style:normal;font-weight:700;" class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="value">Metal &amp; Shred</span></p></div>
 
@@ -83,7 +83,7 @@ seo:
 </li><li class="wp-block-post post-17753 new-guitar-releases type-new-guitar-releases status-publish has-post-thumbnail hentry brand-of-guitar-harley-benton number-of-strings-six-strings type-of-guitar-solid-body price-tier-beginner">
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Harley Benton Fusion-T HT EMG" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG.jpg 1200w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Harley Benton Fusion-T HT EMG" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG.jpg 1200w, /wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG-600x400.jpg 600w, /wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG-300x200.jpg 300w, /wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Harley-Benton-Fusion-T-HT-EMG-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure>
 
 <p style="font-style:normal;font-weight:700;" class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="value">Metal, Rock &amp; Thrash</span></p></div>
 
@@ -114,7 +114,7 @@ seo:
 </li><li class="wp-block-post post-17745 new-guitar-releases type-new-guitar-releases status-publish has-post-thumbnail hentry brand-of-guitar-harley-benton number-of-strings-six-strings type-of-guitar-solid-body price-tier-beginner">
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Harley Benton SC Custom VBK" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK.jpg 1200w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Harley Benton SC Custom VBK" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK.jpg 1200w, /wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK-600x400.jpg 600w, /wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK-300x200.jpg 300w, /wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Harley-Benton-SC-Custom-VBK-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure>
 
 <p style="font-style:normal;font-weight:700;" class="field-what_is_it_best_for wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="value">Metal, Rock</span></p></div>
 
@@ -195,7 +195,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-Guitars-types-1024x683.png" alt="Harley Benton guitars types" class="wp-image-9850" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-Guitars-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-Guitars-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-Guitars-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-Guitars-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-Guitars-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/harley-Benton-Guitars-types-1024x683.png" alt="Harley Benton guitars types" class="wp-image-9850" title="" srcset="/wp-content/uploads/2022/11/harley-Benton-Guitars-types-1024x683.png 1024w, /wp-content/uploads/2022/11/harley-Benton-Guitars-types-600x400.png 600w, /wp-content/uploads/2022/11/harley-Benton-Guitars-types-300x200.png 300w, /wp-content/uploads/2022/11/harley-Benton-Guitars-types-768x512.png 768w, /wp-content/uploads/2022/11/harley-Benton-Guitars-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -361,7 +361,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png" alt="Harley Benton TE-70 RW Deluxe Series" class="wp-image-11876" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png" alt="Harley Benton TE-70 RW Deluxe Series" class="wp-image-11876" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -443,7 +443,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-1024x683.png" alt="Harley Benton Guitars" class="wp-image-9851" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-1024x683.png" alt="Harley Benton Guitars" class="wp-image-9851" title="" srcset="/wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-1024x683.png 1024w, /wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-600x400.png 600w, /wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-300x200.png 300w, /wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end-768x512.png 768w, /wp-content/uploads/2022/11/Harley-Benton-Guitars-high-end.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -621,7 +621,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="356" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-1024x356.jpg" alt="Harley Benton Guitars" class="wp-image-9856" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-1024x356.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-600x208.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-300x104.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-768x267.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="356" src="/wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-1024x356.jpg" alt="Harley Benton Guitars" class="wp-image-9856" title="" srcset="/wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-1024x356.jpg 1024w, /wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-600x208.jpg 600w, /wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-300x104.jpg 300w, /wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO-768x267.jpg 768w, /wp-content/uploads/2022/11/Harley-Benton-Guitars-LOGO.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -679,7 +679,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-1024x683.png" alt="harley benton guitars" class="wp-image-9863" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-1024x683.png" alt="harley benton guitars" class="wp-image-9863" title="" srcset="/wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-1024x683.png 1024w, /wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-600x400.png 600w, /wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-300x200.png 300w, /wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic-768x512.png 768w, /wp-content/uploads/2022/11/harley-Benton-electric-or-acoustic.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -711,7 +711,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-1024x683.png" alt="harley benton guitars shapes" class="wp-image-9857" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-1024x683.png" alt="harley benton guitars shapes" class="wp-image-9857" title="" srcset="/wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-1024x683.png 1024w, /wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-600x400.png 600w, /wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-300x200.png 300w, /wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes-768x512.png 768w, /wp-content/uploads/2022/11/Harley-Benton-Guitar-shapes.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -831,7 +831,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-1024x683.png" alt="Harley Benton Guitars" class="wp-image-9858" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-1024x683.png" alt="Harley Benton Guitars" class="wp-image-9858" title="" srcset="/wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-1024x683.png 1024w, /wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-600x400.png 600w, /wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-300x200.png 300w, /wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar-768x512.png 768w, /wp-content/uploads/2022/11/Harley-Benton-Flying-V-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -851,7 +851,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-1024x683.png" alt="Harley Benton Guitars Amarok 6" class="wp-image-9859" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-1024x683.png" alt="Harley Benton Guitars Amarok 6" class="wp-image-9859" title="" srcset="/wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-1024x683.png 1024w, /wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-600x400.png 600w, /wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-300x200.png 300w, /wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6-768x512.png 768w, /wp-content/uploads/2022/11/harley-Benton-guitars-Amarok-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1063,7 +1063,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-1024x683.png" alt="harley benton guitars" class="wp-image-9862" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-1024x683.png" alt="harley benton guitars" class="wp-image-9862" title="" srcset="/wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-1024x683.png 1024w, /wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-600x400.png 600w, /wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-300x200.png 300w, /wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives-768x512.png 768w, /wp-content/uploads/2022/11/harley-Benton-guitars-comparasion-alternatives.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1159,7 +1159,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Best-buys-1024x683.png" alt="Harley Benton Best Buys" class="wp-image-9864" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Best-buys-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Best-buys-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Best-buys-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Best-buys-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Harley-Benton-Best-buys.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>SC-1000 (left), Amarok Series (middle), Fusion III (right)</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Harley-Benton-Best-buys-1024x683.png" alt="Harley Benton Best Buys" class="wp-image-9864" title="" srcset="/wp-content/uploads/2022/11/Harley-Benton-Best-buys-1024x683.png 1024w, /wp-content/uploads/2022/11/Harley-Benton-Best-buys-600x400.png 600w, /wp-content/uploads/2022/11/Harley-Benton-Best-buys-300x200.png 300w, /wp-content/uploads/2022/11/Harley-Benton-Best-buys-768x512.png 768w, /wp-content/uploads/2022/11/Harley-Benton-Best-buys.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>SC-1000 (left), Amarok Series (middle), Fusion III (right)</strong></figcaption></figure>
 
 
 

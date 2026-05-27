@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3.png"
+featuredImage: "/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3.png"
 featuredImageAlt: "Akai Professional MPK mini mk3"
 seo: 
   title: "Akai Professional MPK Mini MK3 Review: All Killer, No Filler?"
@@ -140,7 +140,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-1024x683.png" alt="Akai Professional MPK mini mk3 Joystick" class="wp-image-12707" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-1024x683.png" alt="Akai Professional MPK mini mk3 Joystick" class="wp-image-12707" title="" srcset="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-1024x683.png 1024w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-600x400.png 600w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-300x200.png 300w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick-768x512.png 768w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-Joystick.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-1024x683.png" alt="Akai Professional MPK mini mk3 review" class="wp-image-12706" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-1024x683.png" alt="Akai Professional MPK mini mk3 review" class="wp-image-12706" title="" srcset="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-1024x683.png 1024w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-600x400.png 600w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-300x200.png 300w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review-768x512.png 768w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -302,7 +302,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png" alt="Akai Professional MPK mini mk3" class="wp-image-12699" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png" alt="Akai Professional MPK mini mk3" class="wp-image-12699" title="" srcset="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png 1024w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-600x400.png 600w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-300x200.png 300w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-768x512.png 768w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -366,7 +366,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-cost-price-1024x683.png" alt="Ableton Live cost" class="wp-image-12578" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-cost-price-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-cost-price-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-cost-price-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-cost-price-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-cost-price.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Ableton-Live-cost-price-1024x683.png" alt="Ableton Live cost" class="wp-image-12578" title="" srcset="/wp-content/uploads/2023/08/Ableton-Live-cost-price-1024x683.png 1024w, /wp-content/uploads/2023/08/Ableton-Live-cost-price-600x400.png 600w, /wp-content/uploads/2023/08/Ableton-Live-cost-price-300x200.png 300w, /wp-content/uploads/2023/08/Ableton-Live-cost-price-768x512.png 768w, /wp-content/uploads/2023/08/Ableton-Live-cost-price.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -394,7 +394,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-1024x683.png" alt="Akai Professional MPK mini mk3 front and back IO" class="wp-image-12708" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-1024x683.png" alt="Akai Professional MPK mini mk3 front and back IO" class="wp-image-12708" title="" srcset="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-1024x683.png 1024w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-600x400.png 600w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-300x200.png 300w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO-768x512.png 768w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-front-and-back-IO.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -430,7 +430,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="480" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Akais-MPC-Beats-software-1024x480.png" alt="" class="wp-image-12705" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Akais-MPC-Beats-software-1024x480.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akais-MPC-Beats-software-600x281.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akais-MPC-Beats-software-300x141.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akais-MPC-Beats-software-768x360.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akais-MPC-Beats-software-1536x720.png 1536w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akais-MPC-Beats-software.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="480" src="/wp-content/uploads/2023/09/Akais-MPC-Beats-software-1024x480.png" alt="" class="wp-image-12705" title="" srcset="/wp-content/uploads/2023/09/Akais-MPC-Beats-software-1024x480.png 1024w, /wp-content/uploads/2023/09/Akais-MPC-Beats-software-600x281.png 600w, /wp-content/uploads/2023/09/Akais-MPC-Beats-software-300x141.png 300w, /wp-content/uploads/2023/09/Akais-MPC-Beats-software-768x360.png 768w, /wp-content/uploads/2023/09/Akais-MPC-Beats-software-1536x720.png 1536w, /wp-content/uploads/2023/09/Akais-MPC-Beats-software.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

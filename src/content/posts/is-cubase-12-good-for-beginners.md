@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-cover.png"
+featuredImage: "/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-cover.png"
 featuredImageAlt: "Is Cubase 12 Good for Beginners"
 seo: 
   title: "Is Cubase 12 Good for Beginners? Unlocking the Creative Potential of Your Home Studio"
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-1024x683.png" alt="Is Cubase 12 Good for Beginners" class="wp-image-12398" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-1024x683.png" alt="Is Cubase 12 Good for Beginners" class="wp-image-12398" title="" srcset="/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-1024x683.png 1024w, /wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-600x400.png 600w, /wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-300x200.png 300w, /wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-768x512.png 768w, /wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -186,7 +186,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-1024x683.png" alt="Is Cubase 12 Good for Beginners" class="wp-image-12399" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-1024x683.png" alt="Is Cubase 12 Good for Beginners" class="wp-image-12399" title="" srcset="/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-1024x683.png 1024w, /wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-600x400.png 600w, /wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-300x200.png 300w, /wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2-768x512.png 768w, /wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -362,7 +362,7 @@ seo:
 <div id="faq-question-1689871486449" class="rank-math-list-item">
 <h3 class="rank-math-question ">Is Cubase 12 Good for Beginners?</h3>
 <div class="rank-math-answer ">
-<img decoding="async" width="150" height="150" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-150x150.png" class="alignright" alt="Is Cubase 12 Good for Beginners" title="">
+<img decoding="async" width="150" height="150" src="/wp-content/uploads/2023/07/Is-Cubase-12-Good-for-Beginners-1-150x150.png" class="alignright" alt="Is Cubase 12 Good for Beginners" title="">
 <p>Cubase 12 is undoubtedly an excellent choice for beginners embarking on their musical journey in home studios. With its user-friendly interface, powerful features, and included plugins, Cubase 12 empowers beginners to produce professional-sounding songs without feeling overwhelmed.</p>
 
 </div>

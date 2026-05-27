@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/Theory-for-guitarists.png"
+featuredImage: "/wp-content/uploads/2022/05/Theory-for-guitarists.png"
 featuredImageAlt: "theory for guitarists"
 seo: 
   title: "Minor Scale & 6th Mode Explained: Beginner's Guide..."
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png" alt="basic music theory" class="wp-image-8177" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png" alt="basic music theory" class="wp-image-8177" title="" srcset="/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png 1024w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-600x400.png 600w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-300x200.png 300w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-768x512.png 768w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists.png" alt="Theory for guitarists" class="wp-image-8195" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption><strong>C Minor Pentatonic</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists.png" alt="Theory for guitarists" class="wp-image-8195" title="" srcset="/wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists.png 987w, /wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists-600x265.png 600w, /wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists-300x133.png 300w, /wp-content/uploads/2022/05/C-Minor-Pentatonic-theory-for-guitarists-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption><strong>C Minor Pentatonic</strong></figcaption></figure>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists.png" alt="theory for guitarists" class="wp-image-8196" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists.png" alt="theory for guitarists" class="wp-image-8196" title="" srcset="/wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists.png 987w, /wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists-600x265.png 600w, /wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists-300x133.png 300w, /wp-content/uploads/2022/05/C-Natural-Minor-theory-for-guitarists-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret-.png" alt="theory for guitarists" class="wp-image-8201" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret-.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret--600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret--300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret--768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret-.png" alt="theory for guitarists" class="wp-image-8201" title="" srcset="/wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret-.png 987w, /wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret--600x265.png 600w, /wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret--300x133.png 300w, /wp-content/uploads/2022/05/C-Minor-Natural_3rd-Fret--768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists.png" alt="theory for guitarists" class="wp-image-8197" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists.png" alt="theory for guitarists" class="wp-image-8197" title="" srcset="/wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists.png 987w, /wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists-600x265.png 600w, /wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists-300x133.png 300w, /wp-content/uploads/2022/05/C-Harmonic-Minor-theory-for-guitarists-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists.png" alt="theory for guitarists " class="wp-image-8199" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption><strong>Melodic Minor In C</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists.png" alt="theory for guitarists " class="wp-image-8199" title="" srcset="/wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists.png 987w, /wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists-600x265.png 600w, /wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists-300x133.png 300w, /wp-content/uploads/2022/05/C-Melodic-Minor-Theory-for-guitarists-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption><strong>Melodic Minor In C</strong></figcaption></figure>
 
 
 
@@ -299,7 +299,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Theory-for-guitarists-1024x683.png" alt="theory for guitarists" class="wp-image-8194" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Theory-for-guitarists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Theory-for-guitarists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Theory-for-guitarists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Theory-for-guitarists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Theory-for-guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Theory-for-guitarists-1024x683.png" alt="theory for guitarists" class="wp-image-8194" title="" srcset="/wp-content/uploads/2022/05/Theory-for-guitarists-1024x683.png 1024w, /wp-content/uploads/2022/05/Theory-for-guitarists-600x400.png 600w, /wp-content/uploads/2022/05/Theory-for-guitarists-300x200.png 300w, /wp-content/uploads/2022/05/Theory-for-guitarists-768x512.png 768w, /wp-content/uploads/2022/05/Theory-for-guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

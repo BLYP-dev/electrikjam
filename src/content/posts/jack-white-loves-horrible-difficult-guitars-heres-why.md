@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/Jack-White-Guitar.png"
+featuredImage: "/wp-content/uploads/2022/05/Jack-White-Guitar.png"
 featuredImageAlt: "Jack White Guitar"
 seo: 
   title: "Jack White LOVES Horrible, Difficult Guitars – Here’s Why…"
@@ -57,7 +57,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="731" src="https://www.electrikjam.com/wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline.jpg" alt="1964 Montgomery Ward JB Hutto Airline" class="wp-image-8095" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline-600x428.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline-300x214.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline-768x548.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Airline guitars were manufactured by Valco in the &#8217;50s and &#8217;60s, and many closely resemble other Valco-made guitars from brands including National and Supro</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="731" src="/wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline.jpg" alt="1964 Montgomery Ward JB Hutto Airline" class="wp-image-8095" title="" srcset="/wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline.jpg 1024w, /wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline-600x428.jpg 600w, /wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline-300x214.jpg 300w, /wp-content/uploads/2022/05/1964-Montgomery-Ward-JB-Hutto-Airline-768x548.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Airline guitars were manufactured by Valco in the &#8217;50s and &#8217;60s, and many closely resemble other Valco-made guitars from brands including National and Supro</strong></figcaption></figure>
 			
 		
 
@@ -83,7 +83,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Jack-White-Guitar-1024x683.png" alt="Jack White Guitar" class="wp-image-8094" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Jack-White-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Jack-White-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Jack-White-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Jack-White-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Jack-White-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Jack-White-Guitar-1024x683.png" alt="Jack White Guitar" class="wp-image-8094" title="" srcset="/wp-content/uploads/2022/05/Jack-White-Guitar-1024x683.png 1024w, /wp-content/uploads/2022/05/Jack-White-Guitar-600x400.png 600w, /wp-content/uploads/2022/05/Jack-White-Guitar-300x200.png 300w, /wp-content/uploads/2022/05/Jack-White-Guitar-768x512.png 768w, /wp-content/uploads/2022/05/Jack-White-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

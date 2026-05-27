@@ -22,7 +22,7 @@ tagSlugs:
   - "mastodon"
 tagPaths: 
   - "/tag/mastodon/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Setlist.png"
+featuredImage: "/wp-content/uploads/2021/11/Mastodon-Setlist.png"
 featuredImageAlt: "Mastodon Setlist"
 seo: 
   title: "Mastodon Setlist For Upcoming 2021 Tour REVEALED…"
@@ -133,7 +133,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Setlist-1024x853.png" alt="Mastodon Setlist" class="wp-image-5706" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Setlist-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Setlist-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Setlist-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Setlist-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Setlist-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Setlist.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/11/Mastodon-Setlist-1024x853.png" alt="Mastodon Setlist" class="wp-image-5706" title="" srcset="/wp-content/uploads/2021/11/Mastodon-Setlist-1024x853.png 1024w, /wp-content/uploads/2021/11/Mastodon-Setlist-600x500.png 600w, /wp-content/uploads/2021/11/Mastodon-Setlist-300x250.png 300w, /wp-content/uploads/2021/11/Mastodon-Setlist-768x640.png 768w, /wp-content/uploads/2021/11/Mastodon-Setlist-1080x900.png 1080w, /wp-content/uploads/2021/11/Mastodon-Setlist.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

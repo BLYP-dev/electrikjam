@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update.png"
+featuredImage: "/wp-content/uploads/2022/11/Line-6-3.5-update.png"
 featuredImageAlt: "Line 6 3.50 Update"
 seo: 
   title: "Line 6 3.50 Update Explained: Everything You NEED To Know!"
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-1024x683.png" alt="line 6 3.50 update cab sim" class="wp-image-9684" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-1024x683.png" alt="line 6 3.50 update cab sim" class="wp-image-9684" title="" srcset="/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-3.5-update-Cabs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -195,7 +195,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-1024x683.png" alt="Line 6 3.5 update" class="wp-image-9685" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-the-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-1024x683.png" alt="Line 6 3.5 update" class="wp-image-9685" title="" srcset="/wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-3.5-update-the-amps-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-3.5-update-the-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-1024x683.png" alt="" class="wp-image-9686" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-1024x683.png" alt="" class="wp-image-9686" title="" srcset="/wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-3.5-update-Effects-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -299,7 +299,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-1024x683.png" alt="Line 6 3.5 Update" class="wp-image-9683" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-3.5-update-1024x683.png" alt="Line 6 3.5 Update" class="wp-image-9683" title="" srcset="/wp-content/uploads/2022/11/Line-6-3.5-update-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-3.5-update-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-3.5-update-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-3.5-update-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-3.5-update.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/Mono-M80.jpg"
+featuredImage: "/wp-content/uploads/2022/01/Mono-M80.jpg"
 featuredImageAlt: "Mono M80"
 seo: 
   title: "The Best Gig Bags: 5 Awesome Ways To Travel On ANY Budget"
@@ -80,7 +80,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="775" height="400" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Mono-m80-MAIN.jpg" alt="best gig bags" class="wp-image-6569" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Mono-m80-MAIN.jpg 775w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mono-m80-MAIN-600x310.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mono-m80-MAIN-300x155.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mono-m80-MAIN-768x396.jpg 768w" sizes="(max-width: 775px) 100vw, 775px" /><figcaption><strong><em>MONO M80 Guitar Sleeve</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="775" height="400" src="/wp-content/uploads/2022/01/Mono-m80-MAIN.jpg" alt="best gig bags" class="wp-image-6569" title="" srcset="/wp-content/uploads/2022/01/Mono-m80-MAIN.jpg 775w, /wp-content/uploads/2022/01/Mono-m80-MAIN-600x310.jpg 600w, /wp-content/uploads/2022/01/Mono-m80-MAIN-300x155.jpg 300w, /wp-content/uploads/2022/01/Mono-m80-MAIN-768x396.jpg 768w" sizes="(max-width: 775px) 100vw, 775px" /><figcaption><strong><em>MONO M80 Guitar Sleeve</em></strong></figcaption></figure>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="480" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Road-runner-avenue-1024x480.jpg" alt="" class="wp-image-6571" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Road-runner-avenue-1024x480.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Road-runner-avenue-600x281.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Road-runner-avenue-300x141.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Road-runner-avenue-768x360.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Road-runner-avenue-1536x720.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Road-runner-avenue-1080x506.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Road-runner-avenue.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong><a href="https://roadrunnercases.com/rr3eg-electric-guitar-gig-bag/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="49233">Roadrunner</a> Avenue In Black</strong></em> (Photo Credit)</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="480" src="/wp-content/uploads/2022/01/Road-runner-avenue-1024x480.jpg" alt="" class="wp-image-6571" title="" srcset="/wp-content/uploads/2022/01/Road-runner-avenue-1024x480.jpg 1024w, /wp-content/uploads/2022/01/Road-runner-avenue-600x281.jpg 600w, /wp-content/uploads/2022/01/Road-runner-avenue-300x141.jpg 300w, /wp-content/uploads/2022/01/Road-runner-avenue-768x360.jpg 768w, /wp-content/uploads/2022/01/Road-runner-avenue-1536x720.jpg 1536w, /wp-content/uploads/2022/01/Road-runner-avenue-1080x506.jpg 1080w, /wp-content/uploads/2022/01/Road-runner-avenue.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong><a href="https://roadrunnercases.com/rr3eg-electric-guitar-gig-bag/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="49233">Roadrunner</a> Avenue In Black</strong></em> (Photo Credit)</figcaption></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="512" src="https://www.electrikjam.com/wp-content/uploads/2022/01/gator-4g-series-1024x512.jpg" alt="" class="wp-image-6574" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/gator-4g-series-1024x512.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/gator-4g-series-600x300.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/gator-4g-series-300x150.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/gator-4g-series-768x384.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/gator-4g-series-1080x540.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/gator-4g-series.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2022/01/gator-4g-series-1024x512.jpg" alt="" class="wp-image-6574" title="" srcset="/wp-content/uploads/2022/01/gator-4g-series-1024x512.jpg 1024w, /wp-content/uploads/2022/01/gator-4g-series-600x300.jpg 600w, /wp-content/uploads/2022/01/gator-4g-series-300x150.jpg 300w, /wp-content/uploads/2022/01/gator-4g-series-768x384.jpg 768w, /wp-content/uploads/2022/01/gator-4g-series-1080x540.jpg 1080w, /wp-content/uploads/2022/01/gator-4g-series.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -209,7 +209,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Coffin-Case-agony-1024x683.jpg" alt="" class="wp-image-6581" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Coffin-Case-agony-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Coffin-Case-agony-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Coffin-Case-agony-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Coffin-Case-agony-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Coffin-Case-agony-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Coffin-Case-agony-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Coffin-Case-agony.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Phot Credit:<a href="https://www.themusiczoo.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="51409"> Music Zoo</a></em></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/01/Coffin-Case-agony-1024x683.jpg" alt="" class="wp-image-6581" title="" srcset="/wp-content/uploads/2022/01/Coffin-Case-agony-1024x683.jpg 1024w, /wp-content/uploads/2022/01/Coffin-Case-agony-600x400.jpg 600w, /wp-content/uploads/2022/01/Coffin-Case-agony-300x200.jpg 300w, /wp-content/uploads/2022/01/Coffin-Case-agony-768x512.jpg 768w, /wp-content/uploads/2022/01/Coffin-Case-agony-1536x1024.jpg 1536w, /wp-content/uploads/2022/01/Coffin-Case-agony-1080x720.jpg 1080w, /wp-content/uploads/2022/01/Coffin-Case-agony.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Phot Credit:<a href="https://www.themusiczoo.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="51409"> Music Zoo</a></em></strong></figcaption></figure>
 			
 		
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-1-COLLAGE.jpg" alt="" class="wp-image-6587" width="830" height="830" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-1-COLLAGE.jpg 830w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-1-COLLAGE-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-1-COLLAGE-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-1-COLLAGE-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-1-COLLAGE-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-1-COLLAGE-768x768.jpg 768w" sizes="(max-width: 830px) 100vw, 830px" /><figcaption><em><strong>BOSS Gig Bag</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/01/Boss-1-COLLAGE.jpg" alt="" class="wp-image-6587" width="830" height="830" title="" srcset="/wp-content/uploads/2022/01/Boss-1-COLLAGE.jpg 830w, /wp-content/uploads/2022/01/Boss-1-COLLAGE-300x300.jpg 300w, /wp-content/uploads/2022/01/Boss-1-COLLAGE-100x100.jpg 100w, /wp-content/uploads/2022/01/Boss-1-COLLAGE-600x600.jpg 600w, /wp-content/uploads/2022/01/Boss-1-COLLAGE-150x150.jpg 150w, /wp-content/uploads/2022/01/Boss-1-COLLAGE-768x768.jpg 768w" sizes="(max-width: 830px) 100vw, 830px" /><figcaption><em><strong>BOSS Gig Bag</strong></em></figcaption></figure>
 
 
 
@@ -294,7 +294,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="756" height="756" src="https://www.electrikjam.com/wp-content/uploads/2022/01/top-pocket_900x-COLLAGE.jpg" alt="" class="wp-image-6596" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/top-pocket_900x-COLLAGE.jpg 756w, https://www.electrikjam.com/wp-content/uploads/2022/01/top-pocket_900x-COLLAGE-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/top-pocket_900x-COLLAGE-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/top-pocket_900x-COLLAGE-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/top-pocket_900x-COLLAGE-150x150.jpg 150w" sizes="(max-width: 756px) 100vw, 756px" /><figcaption><em><strong>The GigBlade!</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="756" height="756" src="/wp-content/uploads/2022/01/top-pocket_900x-COLLAGE.jpg" alt="" class="wp-image-6596" title="" srcset="/wp-content/uploads/2022/01/top-pocket_900x-COLLAGE.jpg 756w, /wp-content/uploads/2022/01/top-pocket_900x-COLLAGE-300x300.jpg 300w, /wp-content/uploads/2022/01/top-pocket_900x-COLLAGE-100x100.jpg 100w, /wp-content/uploads/2022/01/top-pocket_900x-COLLAGE-600x600.jpg 600w, /wp-content/uploads/2022/01/top-pocket_900x-COLLAGE-150x150.jpg 150w" sizes="(max-width: 756px) 100vw, 756px" /><figcaption><em><strong>The GigBlade!</strong></em></figcaption></figure>
 
 
 
@@ -335,7 +335,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Gator-Gig-Bag-Economy.webp" alt="" class="wp-image-6590" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Gator-Gig-Bag-Economy.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Gator-Gig-Bag-Economy-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Gator-Gig-Bag-Economy-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Gator-Gig-Bag-Economy-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Gator-Gig-Bag-Economy-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong><em>Gator Economy Gig Bag</em></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Gator-Gig-Bag-Economy.webp" alt="" class="wp-image-6590" title="" srcset="/wp-content/uploads/2022/01/Gator-Gig-Bag-Economy.webp 720w, /wp-content/uploads/2022/01/Gator-Gig-Bag-Economy-300x300.webp 300w, /wp-content/uploads/2022/01/Gator-Gig-Bag-Economy-100x100.webp 100w, /wp-content/uploads/2022/01/Gator-Gig-Bag-Economy-600x600.webp 600w, /wp-content/uploads/2022/01/Gator-Gig-Bag-Economy-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong><em>Gator Economy Gig Bag</em></strong></figcaption></figure>
 			
 		
 
@@ -372,7 +372,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="830" height="830" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-1-COLLAGE.jpg" alt="" class="wp-image-6584" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-1-COLLAGE.jpg 830w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-1-COLLAGE-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-1-COLLAGE-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-1-COLLAGE-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-1-COLLAGE-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-1-COLLAGE-768x768.jpg 768w" sizes="(max-width: 830px) 100vw, 830px" /><figcaption><strong><em>The Fender FE Series</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="830" height="830" src="/wp-content/uploads/2022/01/Fender-1-COLLAGE.jpg" alt="" class="wp-image-6584" title="" srcset="/wp-content/uploads/2022/01/Fender-1-COLLAGE.jpg 830w, /wp-content/uploads/2022/01/Fender-1-COLLAGE-300x300.jpg 300w, /wp-content/uploads/2022/01/Fender-1-COLLAGE-100x100.jpg 100w, /wp-content/uploads/2022/01/Fender-1-COLLAGE-600x600.jpg 600w, /wp-content/uploads/2022/01/Fender-1-COLLAGE-150x150.jpg 150w, /wp-content/uploads/2022/01/Fender-1-COLLAGE-768x768.jpg 768w" sizes="(max-width: 830px) 100vw, 830px" /><figcaption><strong><em>The Fender FE Series</em></strong></figcaption></figure>
 
 
 

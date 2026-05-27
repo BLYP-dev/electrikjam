@@ -22,7 +22,7 @@ tagSlugs:
   - "prs"
 tagPaths: 
   - "/tag/prs/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS-.png"
+featuredImage: "/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS-.png"
 featuredImageAlt: "Why John Mayer Ditched Fender For PRS"
 seo: 
   title: "Why John Mayer DITCHED Fender For PRS"
@@ -108,7 +108,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--1024x683.png" alt="Why John Mayer Ditched Fender For PRS" class="wp-image-7616" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>&#8220;It&#8217;s good to have artists be able to call the guy who runs the company. I couldn&#8217;t do that really at Fender because it&#8217;s musical chairs &#8211; you don’t know who to call. I get to call the guy whose name is on the guitar and we get to build stuff together&#8221; – John Mayer</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--1024x683.png" alt="Why John Mayer Ditched Fender For PRS" class="wp-image-7616" title="" srcset="/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--1024x683.png 1024w, /wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--600x400.png 600w, /wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--300x200.png 300w, /wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--768x512.png 768w, /wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>&#8220;It&#8217;s good to have artists be able to call the guy who runs the company. I couldn&#8217;t do that really at Fender because it&#8217;s musical chairs &#8211; you don’t know who to call. I get to call the guy whose name is on the guitar and we get to build stuff together&#8221; – John Mayer</strong></figcaption></figure>
 			
 		
 
@@ -134,7 +134,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="730" height="411" src="https://www.electrikjam.com/wp-content/uploads/2022/04/PRS-SILVER-SKY.jpg" alt="PRS SILVER SKY" class="wp-image-7617" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/PRS-SILVER-SKY.jpg 730w, https://www.electrikjam.com/wp-content/uploads/2022/04/PRS-SILVER-SKY-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/PRS-SILVER-SKY-300x169.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="730" height="411" src="/wp-content/uploads/2022/04/PRS-SILVER-SKY.jpg" alt="PRS SILVER SKY" class="wp-image-7617" title="" srcset="/wp-content/uploads/2022/04/PRS-SILVER-SKY.jpg 730w, /wp-content/uploads/2022/04/PRS-SILVER-SKY-600x338.jpg 600w, /wp-content/uploads/2022/04/PRS-SILVER-SKY-300x169.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" /></figure>
 			
 		
 

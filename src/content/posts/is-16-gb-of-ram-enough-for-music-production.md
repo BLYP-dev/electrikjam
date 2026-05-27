@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/caught-in-joy-ptVBlniJi50-unsplash-1-scaled.jpg"
+featuredImage: "/wp-content/uploads/2020/11/caught-in-joy-ptVBlniJi50-unsplash-1-scaled.jpg"
 featuredImageAlt: "caught-in-joy-ptVBlniJi50-unsplash"
 seo: 
   title: "8 or 16 GB of Ram: Which Is Enough For Music Production?"
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="534" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Fuck-You-Income-Boys-1024x534.jpg" alt="16 gigs" class="wp-image-2643" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Fuck-You-Income-Boys-1024x534.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fuck-You-Income-Boys-600x313.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fuck-You-Income-Boys-300x157.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fuck-You-Income-Boys-768x401.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fuck-You-Income-Boys-1080x563.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fuck-You-Income-Boys.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A Computer RAM card</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="534" src="/wp-content/uploads/2021/03/Fuck-You-Income-Boys-1024x534.jpg" alt="16 gigs" class="wp-image-2643" title="" srcset="/wp-content/uploads/2021/03/Fuck-You-Income-Boys-1024x534.jpg 1024w, /wp-content/uploads/2021/03/Fuck-You-Income-Boys-600x313.jpg 600w, /wp-content/uploads/2021/03/Fuck-You-Income-Boys-300x157.jpg 300w, /wp-content/uploads/2021/03/Fuck-You-Income-Boys-768x401.jpg 768w, /wp-content/uploads/2021/03/Fuck-You-Income-Boys-1080x563.jpg 1080w, /wp-content/uploads/2021/03/Fuck-You-Income-Boys.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A Computer RAM card</figcaption></figure>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="739" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-1024x739.png" alt="" class="wp-image-1211" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-1024x739.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-600x433.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-300x216.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-768x554.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-1536x1108.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="739" src="/wp-content/uploads/2020/11/Reaper-ses-8-1024x739.png" alt="" class="wp-image-1211" title="" srcset="/wp-content/uploads/2020/11/Reaper-ses-8-1024x739.png 1024w, /wp-content/uploads/2020/11/Reaper-ses-8-600x433.png 600w, /wp-content/uploads/2020/11/Reaper-ses-8-300x216.png 300w, /wp-content/uploads/2020/11/Reaper-ses-8-768x554.png 768w, /wp-content/uploads/2020/11/Reaper-ses-8-1536x1108.png 1536w, /wp-content/uploads/2020/11/Reaper-ses-8.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-1024x576.png" alt="" class="wp-image-2655" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/REAPER-1024x576.png" alt="" class="wp-image-2655" title="" srcset="/wp-content/uploads/2021/03/REAPER-1024x576.png 1024w, /wp-content/uploads/2021/03/REAPER-600x338.png 600w, /wp-content/uploads/2021/03/REAPER-300x169.png 300w, /wp-content/uploads/2021/03/REAPER-768x432.png 768w, /wp-content/uploads/2021/03/REAPER-1536x864.png 1536w, /wp-content/uploads/2021/03/REAPER-1080x608.png 1080w, /wp-content/uploads/2021/03/REAPER.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="485" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg" alt="" class="wp-image-1656" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-600x284.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-300x142.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-768x364.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1536x728.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="485" src="/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg" alt="" class="wp-image-1656" title="" srcset="/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg 1024w, /wp-content/uploads/2020/12/Start-Recording-Immediately-600x284.jpg 600w, /wp-content/uploads/2020/12/Start-Recording-Immediately-300x142.jpg 300w, /wp-content/uploads/2020/12/Start-Recording-Immediately-768x364.jpg 768w, /wp-content/uploads/2020/12/Start-Recording-Immediately-1536x728.jpg 1536w, /wp-content/uploads/2020/12/Start-Recording-Immediately.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

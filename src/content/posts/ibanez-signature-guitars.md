@@ -22,7 +22,7 @@ tagSlugs:
   - "ibanez"
 tagPaths: 
   - "/tag/ibanez/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023.png"
+featuredImage: "/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023.png"
 featuredImageAlt: "Ibanez Signature Guitars A Complete Overview [2023]"
 seo: 
   title: "Ibanez Signature Guitars: A Complete Overview [2023]"
@@ -70,7 +70,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG-Series-1024x683.png" alt="Ibanez RG Series" class="wp-image-13439" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-RG-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Ibanez-RG-Series-1024x683.png" alt="Ibanez RG Series" class="wp-image-13439" title="" srcset="/wp-content/uploads/2023/11/Ibanez-RG-Series-1024x683.png 1024w, /wp-content/uploads/2023/11/Ibanez-RG-Series-600x400.png 600w, /wp-content/uploads/2023/11/Ibanez-RG-Series-300x200.png 300w, /wp-content/uploads/2023/11/Ibanez-RG-Series-768x512.png 768w, /wp-content/uploads/2023/11/Ibanez-RG-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1867,7 +1867,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-headstock-1024x683.png" alt="" class="wp-image-13444" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-headstock-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-headstock-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-headstock-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-headstock-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-headstock.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Ibanez-headstock-1024x683.png" alt="" class="wp-image-13444" title="" srcset="/wp-content/uploads/2023/11/Ibanez-headstock-1024x683.png 1024w, /wp-content/uploads/2023/11/Ibanez-headstock-600x400.png 600w, /wp-content/uploads/2023/11/Ibanez-headstock-300x200.png 300w, /wp-content/uploads/2023/11/Ibanez-headstock-768x512.png 768w, /wp-content/uploads/2023/11/Ibanez-headstock.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

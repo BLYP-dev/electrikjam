@@ -22,7 +22,7 @@ tagSlugs:
   - "josh-homme"
 tagPaths: 
   - "/tag/josh-homme/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour.png"
+featuredImage: "/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour.png"
 featuredImageAlt: "Queens of the Stone Age Cancel Entire European Tour..."
 seo: 
   title: "Queens of the Stone Age Cancel Entire European Tour"
@@ -61,7 +61,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-1024x853.png" alt="New Queens of The Stone Age Album" class="wp-image-4500" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-1024x853.png" alt="New Queens of The Stone Age Album" class="wp-image-4500" title="" srcset="/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-1024x853.png 1024w, /wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-600x500.png 600w, /wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-300x250.png 300w, /wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-768x640.png 768w, /wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A-1080x900.png 1080w, /wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

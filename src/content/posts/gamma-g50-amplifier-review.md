@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-Amplifier.png"
+featuredImage: "/wp-content/uploads/2023/04/Gamma-G50-Amplifier.png"
 featuredImageAlt: "Gamma G50"
 seo: 
   title: "GAMMA G50 Amplifier Review: A Stunning Pedal Platform For Gigging"
@@ -86,7 +86,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/GAMMA-G50-Amp-1024x683.png" alt="GAMMA G50 Amp" class="wp-image-11637" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/GAMMA-G50-Amp-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/GAMMA-G50-Amp-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/GAMMA-G50-Amp-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/GAMMA-G50-Amp-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/GAMMA-G50-Amp.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/GAMMA-G50-Amp-1024x683.png" alt="GAMMA G50 Amp" class="wp-image-11637" title="" srcset="/wp-content/uploads/2023/04/GAMMA-G50-Amp-1024x683.png 1024w, /wp-content/uploads/2023/04/GAMMA-G50-Amp-600x400.png 600w, /wp-content/uploads/2023/04/GAMMA-G50-Amp-300x200.png 300w, /wp-content/uploads/2023/04/GAMMA-G50-Amp-768x512.png 768w, /wp-content/uploads/2023/04/GAMMA-G50-Amp.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-Speaker-1024x683.png" alt="Gamma G50 " class="wp-image-11638" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-Speaker-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-Speaker-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-Speaker-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-Speaker-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-Speaker.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Gamma-G50-Speaker-1024x683.png" alt="Gamma G50 " class="wp-image-11638" title="" srcset="/wp-content/uploads/2023/04/Gamma-G50-Speaker-1024x683.png 1024w, /wp-content/uploads/2023/04/Gamma-G50-Speaker-600x400.png 600w, /wp-content/uploads/2023/04/Gamma-G50-Speaker-300x200.png 300w, /wp-content/uploads/2023/04/Gamma-G50-Speaker-768x512.png 768w, /wp-content/uploads/2023/04/Gamma-G50-Speaker.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-1024x683.png" alt="Gamma G50" class="wp-image-11639" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-G50.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Gamma-G50-1024x683.png" alt="Gamma G50" class="wp-image-11639" title="" srcset="/wp-content/uploads/2023/04/Gamma-G50-1024x683.png 1024w, /wp-content/uploads/2023/04/Gamma-G50-600x400.png 600w, /wp-content/uploads/2023/04/Gamma-G50-300x200.png 300w, /wp-content/uploads/2023/04/Gamma-G50-768x512.png 768w, /wp-content/uploads/2023/04/Gamma-G50.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

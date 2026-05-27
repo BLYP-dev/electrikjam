@@ -16,7 +16,7 @@ categoryPaths: []
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs.png"
+featuredImage: "/wp-content/uploads/2024/02/loop-earplugs.png"
 featuredImageAlt: "loop earplugs"
 seo: 
   title: "Loop Earplugs"
@@ -63,7 +63,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-1024x683.png" alt="loop earplugs" class="wp-image-14136" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/loop-earplugs-1024x683.png" alt="loop earplugs" class="wp-image-14136" title="" srcset="/wp-content/uploads/2024/02/loop-earplugs-1024x683.png 1024w, /wp-content/uploads/2024/02/loop-earplugs-600x400.png 600w, /wp-content/uploads/2024/02/loop-earplugs-300x200.png 300w, /wp-content/uploads/2024/02/loop-earplugs-768x512.png 768w, /wp-content/uploads/2024/02/loop-earplugs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -284,7 +284,7 @@ seo:
 <div class="wp-block-group has-tertiary-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-5fbedae1 wp-block-group-is-layout-constrained" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)">
 <div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-318252f0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-<div class="wp-block-cover is-light is-style-rounded-cover wp-duotone-unset-75" style="min-height:281px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="1200" height="800" class="wp-block-cover__image-background wp-image-14136" alt="loop earplugs" src="https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs.png" data-object-fit="cover" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs.png 1200w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-cover is-light is-style-rounded-cover wp-duotone-unset-75" style="min-height:281px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="1200" height="800" class="wp-block-cover__image-background wp-image-14136" alt="loop earplugs" src="/wp-content/uploads/2024/02/loop-earplugs.png" data-object-fit="cover" title="" srcset="/wp-content/uploads/2024/02/loop-earplugs.png 1200w, /wp-content/uploads/2024/02/loop-earplugs-600x400.png 600w, /wp-content/uploads/2024/02/loop-earplugs-300x200.png 300w, /wp-content/uploads/2024/02/loop-earplugs-1024x683.png 1024w, /wp-content/uploads/2024/02/loop-earplugs-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <p class="has-text-align-center has-large-font-size"></p>
 </div></div>
 </div>
@@ -317,7 +317,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-benefits-1024x683.png" alt="" class="wp-image-14134" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-benefits-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-benefits-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-benefits-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-benefits-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-benefits.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/loop-earplugs-benefits-1024x683.png" alt="" class="wp-image-14134" title="" srcset="/wp-content/uploads/2024/02/loop-earplugs-benefits-1024x683.png 1024w, /wp-content/uploads/2024/02/loop-earplugs-benefits-600x400.png 600w, /wp-content/uploads/2024/02/loop-earplugs-benefits-300x200.png 300w, /wp-content/uploads/2024/02/loop-earplugs-benefits-768x512.png 768w, /wp-content/uploads/2024/02/loop-earplugs-benefits.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -329,7 +329,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="771" height="771" src="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg 771w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="771" height="771" src="/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="/wp-content/uploads/2020/09/christoper-horton.jpg 771w, /wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, /wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, /wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, /wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, /wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></figure>
 
 
 
@@ -356,7 +356,7 @@ seo:
 <div class="wp-block-group has-tertiary-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-5fbedae1 wp-block-group-is-layout-constrained" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)">
 <div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-318252f0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-<div class="wp-block-cover is-light is-style-rounded-cover wp-duotone-unset-76" style="min-height:281px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="1200" height="800" class="wp-block-cover__image-background wp-image-14136" alt="loop earplugs" src="https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs.png" data-object-fit="cover" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs.png 1200w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/loop-earplugs-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-cover is-light is-style-rounded-cover wp-duotone-unset-76" style="min-height:281px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="1200" height="800" class="wp-block-cover__image-background wp-image-14136" alt="loop earplugs" src="/wp-content/uploads/2024/02/loop-earplugs.png" data-object-fit="cover" title="" srcset="/wp-content/uploads/2024/02/loop-earplugs.png 1200w, /wp-content/uploads/2024/02/loop-earplugs-600x400.png 600w, /wp-content/uploads/2024/02/loop-earplugs-300x200.png 300w, /wp-content/uploads/2024/02/loop-earplugs-1024x683.png 1024w, /wp-content/uploads/2024/02/loop-earplugs-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <p class="has-text-align-center has-large-font-size"></p>
 </div></div>
 </div>

@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-maintenance-learning-at-home.png"
+featuredImage: "/wp-content/uploads/2023/05/Guitar-maintenance-learning-at-home.png"
 featuredImageAlt: "Guitar maintenance"
 seo: 
   title: "Guitar Maintenance 101: Do It Yourself VS Taking It To A Tech"
@@ -130,7 +130,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-Maintenance-workbench-1024x683.png" alt="Guitar Maintenance" class="wp-image-12214" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-Maintenance-workbench-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-Maintenance-workbench-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-Maintenance-workbench-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-Maintenance-workbench-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-Maintenance-workbench.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Guitar-Maintenance-workbench-1024x683.png" alt="Guitar Maintenance" class="wp-image-12214" title="" srcset="/wp-content/uploads/2023/05/Guitar-Maintenance-workbench-1024x683.png 1024w, /wp-content/uploads/2023/05/Guitar-Maintenance-workbench-600x400.png 600w, /wp-content/uploads/2023/05/Guitar-Maintenance-workbench-300x200.png 300w, /wp-content/uploads/2023/05/Guitar-Maintenance-workbench-768x512.png 768w, /wp-content/uploads/2023/05/Guitar-Maintenance-workbench.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -250,7 +250,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-maintenance-tools-1024x683.png" alt="Guitar maintenance tools" class="wp-image-12217" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-maintenance-tools-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-maintenance-tools-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-maintenance-tools-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-maintenance-tools-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Guitar-maintenance-tools.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Guitar-maintenance-tools-1024x683.png" alt="Guitar maintenance tools" class="wp-image-12217" title="" srcset="/wp-content/uploads/2023/05/Guitar-maintenance-tools-1024x683.png 1024w, /wp-content/uploads/2023/05/Guitar-maintenance-tools-600x400.png 600w, /wp-content/uploads/2023/05/Guitar-maintenance-tools-300x200.png 300w, /wp-content/uploads/2023/05/Guitar-maintenance-tools-768x512.png 768w, /wp-content/uploads/2023/05/Guitar-maintenance-tools.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

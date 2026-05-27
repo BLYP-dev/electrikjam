@@ -22,7 +22,7 @@ tagSlugs:
   - "positive-grid"
 tagPaths: 
   - "/tag/positive-grid/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/Positive-Grid-Spark-Link.png"
+featuredImage: "/wp-content/uploads/2024/02/Positive-Grid-Spark-Link.png"
 featuredImageAlt: "Positive Grid Spark Link"
 seo: 
   title: "Positive Grid Spark Link: A Quick Overview + What It Does"
@@ -54,7 +54,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="773" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Frame_1948-1024x773.jpg" alt="" class="wp-image-14311" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Frame_1948-1024x773.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Frame_1948-600x453.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Frame_1948-300x227.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Frame_1948-768x580.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Frame_1948-1536x1160.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2024/02/Frame_1948.jpg 1700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="773" src="/wp-content/uploads/2024/02/Frame_1948-1024x773.jpg" alt="" class="wp-image-14311" title="" srcset="/wp-content/uploads/2024/02/Frame_1948-1024x773.jpg 1024w, /wp-content/uploads/2024/02/Frame_1948-600x453.jpg 600w, /wp-content/uploads/2024/02/Frame_1948-300x227.jpg 300w, /wp-content/uploads/2024/02/Frame_1948-768x580.jpg 768w, /wp-content/uploads/2024/02/Frame_1948-1536x1160.jpg 1536w, /wp-content/uploads/2024/02/Frame_1948.jpg 1700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-1024x576.jpg" alt="" class="wp-image-14313" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-1024x576.jpg" alt="" class="wp-image-14313" title="" srcset="/wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-1024x576.jpg 1024w, /wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-600x338.jpg 600w, /wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-300x169.jpg 300w, /wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf-768x432.jpg 768w, /wp-content/uploads/2024/02/xhpaiBbgqYvvnxKokrLFqf.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -170,7 +170,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Positive-Grid-Spark-Link-1024x683.png" alt="Positive Grid Spark Link" class="wp-image-14314" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Positive-Grid-Spark-Link-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Positive-Grid-Spark-Link-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Positive-Grid-Spark-Link-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Positive-Grid-Spark-Link-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Positive-Grid-Spark-Link.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Positive-Grid-Spark-Link-1024x683.png" alt="Positive Grid Spark Link" class="wp-image-14314" title="" srcset="/wp-content/uploads/2024/02/Positive-Grid-Spark-Link-1024x683.png 1024w, /wp-content/uploads/2024/02/Positive-Grid-Spark-Link-600x400.png 600w, /wp-content/uploads/2024/02/Positive-Grid-Spark-Link-300x200.png 300w, /wp-content/uploads/2024/02/Positive-Grid-Spark-Link-768x512.png 768w, /wp-content/uploads/2024/02/Positive-Grid-Spark-Link.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

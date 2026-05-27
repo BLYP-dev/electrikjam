@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page.jpg"
+featuredImage: "/wp-content/uploads/2020/12/boss-front-page.jpg"
 featuredImageAlt: "boss front page"
 seo: 
   title: "BOSS Tone Bender TB2W: An Epic 2020 Collaboration For Fuzzed-Out Doom!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/12/boss-splash-1024x768.jpeg" alt="Boss Tone Bender" class="wp-image-1548" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/boss-splash-1024x768.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-splash-600x450.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-splash-300x225.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-splash-768x576.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-splash.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/12/boss-splash-1024x768.jpeg" alt="Boss Tone Bender" class="wp-image-1548" title="" srcset="/wp-content/uploads/2020/12/boss-splash-1024x768.jpeg 1024w, /wp-content/uploads/2020/12/boss-splash-600x450.jpeg 600w, /wp-content/uploads/2020/12/boss-splash-300x225.jpeg 300w, /wp-content/uploads/2020/12/boss-splash-768x576.jpeg 768w, /wp-content/uploads/2020/12/boss-splash.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="700" height="700" src="https://www.electrikjam.com/wp-content/uploads/2020/12/sola-sound.jpg" alt="" class="wp-image-1551" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/sola-sound.jpg 700w, https://www.electrikjam.com/wp-content/uploads/2020/12/sola-sound-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/sola-sound-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/12/sola-sound-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/sola-sound-150x150.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption>Vintage Tone Benders</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="700" height="700" src="/wp-content/uploads/2020/12/sola-sound.jpg" alt="" class="wp-image-1551" title="" srcset="/wp-content/uploads/2020/12/sola-sound.jpg 700w, /wp-content/uploads/2020/12/sola-sound-300x300.jpg 300w, /wp-content/uploads/2020/12/sola-sound-100x100.jpg 100w, /wp-content/uploads/2020/12/sola-sound-600x600.jpg 600w, /wp-content/uploads/2020/12/sola-sound-150x150.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption>Vintage Tone Benders</figcaption></figure>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-1024x640.jpg" alt="" class="wp-image-1549" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-1024x640.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-600x375.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-300x188.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-768x480.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-1536x960.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="/wp-content/uploads/2020/12/boss-front-page-1-1024x640.jpg" alt="" class="wp-image-1549" title="" srcset="/wp-content/uploads/2020/12/boss-front-page-1-1024x640.jpg 1024w, /wp-content/uploads/2020/12/boss-front-page-1-600x375.jpg 600w, /wp-content/uploads/2020/12/boss-front-page-1-300x188.jpg 300w, /wp-content/uploads/2020/12/boss-front-page-1-768x480.jpg 768w, /wp-content/uploads/2020/12/boss-front-page-1-1536x960.jpg 1536w, /wp-content/uploads/2020/12/boss-front-page-1.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://www.electrikjam.com/wp-content/uploads/2020/12/boss-3-1024x538.jpg" alt="" class="wp-image-1550" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/boss-3-1024x538.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-3-600x315.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-3-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-3-768x403.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2020/12/boss-3-1024x538.jpg" alt="" class="wp-image-1550" title="" srcset="/wp-content/uploads/2020/12/boss-3-1024x538.jpg 1024w, /wp-content/uploads/2020/12/boss-3-600x315.jpg 600w, /wp-content/uploads/2020/12/boss-3-300x158.jpg 300w, /wp-content/uploads/2020/12/boss-3-768x403.jpg 768w, /wp-content/uploads/2020/12/boss-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

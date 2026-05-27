@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/How-do-i-pick-a-guitar-scale-to-play.png"
+featuredImage: "/wp-content/uploads/2023/07/How-do-i-pick-a-guitar-scale-to-play.png"
 featuredImageAlt: "How do i pick a guitar scale to play"
 seo: 
   title: "How Do I Pick a Guitar Scale to Play?"
@@ -145,7 +145,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/AMajor-scale-1-1024x683.png" alt="How Do I pick a guitar scale to play?" class="wp-image-12320" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/AMajor-scale-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/AMajor-scale-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/AMajor-scale-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/AMajor-scale-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/AMajor-scale-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/AMajor-scale-1-1024x683.png" alt="How Do I pick a guitar scale to play?" class="wp-image-12320" title="" srcset="/wp-content/uploads/2023/07/AMajor-scale-1-1024x683.png 1024w, /wp-content/uploads/2023/07/AMajor-scale-1-600x400.png 600w, /wp-content/uploads/2023/07/AMajor-scale-1-300x200.png 300w, /wp-content/uploads/2023/07/AMajor-scale-1-768x512.png 768w, /wp-content/uploads/2023/07/AMajor-scale-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -225,7 +225,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-1024x683.png" alt="How do I pick a guitar scale to play?" class="wp-image-12321" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Slash is an absolute master of blending pentatonic scales with minor/major scales.</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Slash-Playing-guitar-1024x683.png" alt="How do I pick a guitar scale to play?" class="wp-image-12321" title="" srcset="/wp-content/uploads/2023/07/Slash-Playing-guitar-1024x683.png 1024w, /wp-content/uploads/2023/07/Slash-Playing-guitar-600x400.png 600w, /wp-content/uploads/2023/07/Slash-Playing-guitar-300x200.png 300w, /wp-content/uploads/2023/07/Slash-Playing-guitar-768x512.png 768w, /wp-content/uploads/2023/07/Slash-Playing-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Slash is an absolute master of blending pentatonic scales with minor/major scales.</strong></figcaption></figure>
 
 
 

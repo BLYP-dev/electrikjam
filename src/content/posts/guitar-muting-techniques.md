@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques.png"
+featuredImage: "/wp-content/uploads/2022/02/Guitar-Muting-Techniques.png"
 featuredImageAlt: "Guitar Muting Techniques"
 seo: 
   title: "3 Essential Guitar Muting Techniques That'll Blow Your Mind"
@@ -49,7 +49,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques-1024x853.png" alt="Guitar Muting Techniques" class="wp-image-6778" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2022/02/Guitar-Muting-Techniques-1024x853.png" alt="Guitar Muting Techniques" class="wp-image-6778" title="" srcset="/wp-content/uploads/2022/02/Guitar-Muting-Techniques-1024x853.png 1024w, /wp-content/uploads/2022/02/Guitar-Muting-Techniques-600x500.png 600w, /wp-content/uploads/2022/02/Guitar-Muting-Techniques-300x250.png 300w, /wp-content/uploads/2022/02/Guitar-Muting-Techniques-768x640.png 768w, /wp-content/uploads/2022/02/Guitar-Muting-Techniques-1080x900.png 1080w, /wp-content/uploads/2022/02/Guitar-Muting-Techniques.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -95,19 +95,19 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2022/02/right-hand-Muting-Techniques-1024x768.jpg" alt="" class="wp-image-6771" title=""><figcaption><strong>Using The Right Hand To Mute The E, A, D, and G Strings</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2022/02/right-hand-Muting-Techniques-1024x768.jpg" alt="" class="wp-image-6771" title=""><figcaption><strong>Using The Right Hand To Mute The E, A, D, and G Strings</strong></figcaption></figure>
 			
 		
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="912" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Technique-tips-1024x912.jpg" alt="Guitar Muting Techniques" class="wp-image-6769" title=""><figcaption><strong>Muting The E, A, and D Strings</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="912" src="/wp-content/uploads/2022/02/Guitar-Muting-Technique-tips-1024x912.jpg" alt="Guitar Muting Techniques" class="wp-image-6769" title=""><figcaption><strong>Muting The E, A, and D Strings</strong></figcaption></figure>
 			
 		
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2022/02/right-hand-Muting-Techniques-1024x768.jpg" alt="" class="wp-image-6771" title=""><figcaption><strong>Muting The E, A, D, G, and B Strings</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2022/02/right-hand-Muting-Techniques-1024x768.jpg" alt="" class="wp-image-6771" title=""><figcaption><strong>Muting The E, A, D, G, and B Strings</strong></figcaption></figure>
 			
 		
 
@@ -149,7 +149,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/02/left-hand-Guitar-Muting-Techniques-768x1024.jpg" alt="left hand Guitar Muting Techniques" class="wp-image-6772" title=""><figcaption><strong>E Power Chord w/ Left-Hand Muting – The Finger You Fret With Rests Across The D, G, B, and E Strings</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2022/02/left-hand-Guitar-Muting-Techniques-768x1024.jpg" alt="left hand Guitar Muting Techniques" class="wp-image-6772" title=""><figcaption><strong>E Power Chord w/ Left-Hand Muting – The Finger You Fret With Rests Across The D, G, B, and E Strings</strong></figcaption></figure>
 			
 		
 
@@ -159,7 +159,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Muting-Techniques-tutorial-768x1024.jpg" alt="Guitar Muting Techniques tutorial" class="wp-image-6773" title=""><figcaption><strong>Doing A Run On The D String w/ Left-Hand Muting – The Fingers Are Flatter, Resting On The Strings – G, B, and E – That I&#8217;m Not Playing</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2022/02/Guitar-Muting-Techniques-tutorial-768x1024.jpg" alt="Guitar Muting Techniques tutorial" class="wp-image-6773" title=""><figcaption><strong>Doing A Run On The D String w/ Left-Hand Muting – The Fingers Are Flatter, Resting On The Strings – G, B, and E – That I&#8217;m Not Playing</strong></figcaption></figure>
 			
 		
 

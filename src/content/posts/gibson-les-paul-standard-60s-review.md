@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-reviews.jpg"
+featuredImage: "/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-reviews.jpg"
 featuredImageAlt: "Gibson Les Paul Standard '60s reviews"
 seo: 
   title: "Gibson Les Paul Standard '60s Review: Is It Worth It?"
@@ -173,7 +173,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--1024x683.jpg" alt="" class="wp-image-18112" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--1024x683.jpg" alt="" class="wp-image-18112" title="" srcset="/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--600x400.jpg 600w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--300x200.jpg 300w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups--768x512.jpg 768w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-Pickups-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -233,7 +233,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-1024x683.jpg" alt="Gibson Les Paul Standard &#039;60s colors and finish" class="wp-image-18110" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-1024x683.jpg" alt="Gibson Les Paul Standard &#039;60s colors and finish" class="wp-image-18110" title="" srcset="/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-600x400.jpg 600w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-300x200.jpg 300w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish-768x512.jpg 768w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-colors-and-finish.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -327,7 +327,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--1024x683.jpg" alt="" class="wp-image-18111" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--1024x683.jpg" alt="" class="wp-image-18111" title="" srcset="/wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--600x400.jpg 600w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--300x200.jpg 300w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile--768x512.jpg 768w, /wp-content/uploads/2025/12/Gibson-Les-Paul-Standard-60s-back-profile-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

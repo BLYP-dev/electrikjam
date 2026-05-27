@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/Bob-Ludwig-on-Mastering.png"
+featuredImage: "/wp-content/uploads/2024/04/Bob-Ludwig-on-Mastering.png"
 featuredImageAlt: "Bob Ludwig on Mastering"
 seo: 
   title: "Bob Ludwig on Mastering: 12 Quotes Every Student Must Read"
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-1024x768.jpg" alt="bob-ludwig" class="wp-image-14780" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2024/04/bob-ludwig-1024x768.jpg" alt="bob-ludwig" class="wp-image-14780" title="" srcset="/wp-content/uploads/2024/04/bob-ludwig-1024x768.jpg 1024w, /wp-content/uploads/2024/04/bob-ludwig-600x450.jpg 600w, /wp-content/uploads/2024/04/bob-ludwig-300x225.jpg 300w, /wp-content/uploads/2024/04/bob-ludwig-768x576.jpg 768w, /wp-content/uploads/2024/04/bob-ludwig-1536x1152.jpg 1536w, /wp-content/uploads/2024/04/bob-ludwig.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png" alt="Music Mastering Cost" class="wp-image-14789" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png" alt="Music Mastering Cost" class="wp-image-14789" title="" srcset="/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png 1024w, /wp-content/uploads/2024/04/Music-Mastering-Cost-600x400.png 600w, /wp-content/uploads/2024/04/Music-Mastering-Cost-300x200.png 300w, /wp-content/uploads/2024/04/Music-Mastering-Cost-768x512.png 768w, /wp-content/uploads/2024/04/Music-Mastering-Cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="636" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png" alt="" class="wp-image-14686" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-techniques-600x373.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-techniques-300x186.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-techniques-768x477.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-techniques-1536x955.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-techniques-2048x1273.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="636" src="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png" alt="" class="wp-image-14686" title="" srcset="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png 1024w, /wp-content/uploads/2024/04/Mastering-techniques-600x373.png 600w, /wp-content/uploads/2024/04/Mastering-techniques-300x186.png 300w, /wp-content/uploads/2024/04/Mastering-techniques-768x477.png 768w, /wp-content/uploads/2024/04/Mastering-techniques-1536x955.png 1536w, /wp-content/uploads/2024/04/Mastering-techniques-2048x1273.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png" alt="audio mastering 101" class="wp-image-14781" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/audio-mastering-101-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265705">Learn The Basics of Mastering In A Week</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png" alt="audio mastering 101" class="wp-image-14781" title="" srcset="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png 1024w, /wp-content/uploads/2024/04/audio-mastering-101-1-600x400.png 600w, /wp-content/uploads/2024/04/audio-mastering-101-1-300x200.png 300w, /wp-content/uploads/2024/04/audio-mastering-101-1-768x512.png 768w, /wp-content/uploads/2024/04/audio-mastering-101-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265705">Learn The Basics of Mastering In A Week</a></strong></figcaption></figure>
 
 
 

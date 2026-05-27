@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook.png"
+featuredImage: "/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook.png"
 featuredImageAlt: "How To Connect Guitar To MacBook"
 seo: 
   title: "How To Connect Guitar To MacBook (The Easy Way)"
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="800" height="426" src="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3.jpg" alt="" class="wp-image-2725" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3-600x320.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3-300x160.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3-768x409.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="800" height="426" src="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3.jpg" alt="" class="wp-image-2725" title="" srcset="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3.jpg 800w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3-600x320.jpg 600w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3-300x160.jpg 300w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-3-768x409.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-41 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="698" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1.jpg" alt="" data-id="2726" data-full-url="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1.jpg" data-link="https://www.electrikjam.com/?attachment_id=2726" class="wp-image-2726" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1.jpg 698w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1-600x516.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1-300x258.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="800" height="591" src="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook.jpg" alt="" data-id="2727" data-full-url="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook.jpg" data-link="https://www.electrikjam.com/?attachment_id=2727" class="wp-image-2727" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-600x443.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-300x222.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-768x567.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-41 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="698" height="600" src="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1.jpg" alt="" data-id="2726" data-full-url="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1.jpg" data-link="https://www.electrikjam.com/?attachment_id=2726" class="wp-image-2726" title="" srcset="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1.jpg 698w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1-600x516.jpg 600w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-1-300x258.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="800" height="591" src="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook.jpg" alt="" data-id="2727" data-full-url="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook.jpg" data-link="https://www.electrikjam.com/?attachment_id=2727" class="wp-image-2727" title="" srcset="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook.jpg 800w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-600x443.jpg 600w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-300x222.jpg 300w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-768x567.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></li></ul></figure>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="651" src="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-1024x651.png" alt="" class="wp-image-2728" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-1024x651.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-600x382.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-300x191.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-768x488.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-1080x687.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5.png 1302w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="651" src="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-1024x651.png" alt="" class="wp-image-2728" title="" srcset="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-1024x651.png 1024w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-600x382.png 600w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-300x191.png 300w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-768x488.png 768w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5-1080x687.png 1080w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-5.png 1302w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="673" src="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-1024x673.png" alt="" class="wp-image-2729" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-1024x673.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-600x395.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-300x197.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-768x505.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-1080x710.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4.png 1092w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="673" src="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-1024x673.png" alt="" class="wp-image-2729" title="" srcset="/wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-1024x673.png 1024w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-600x395.png 600w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-300x197.png 300w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-768x505.png 768w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4-1080x710.png 1080w, /wp-content/uploads/2021/04/How-To-Connect-Guitar-To-MacBook-4.png 1092w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

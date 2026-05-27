@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-amps-COVER.png"
+featuredImage: "/wp-content/uploads/2022/09/NUX-Mighty-amps-COVER.png"
 featuredImageAlt: "Nux mighty amps"
 seo: 
   title: "NUX Mighty Amps Review: 3 AWESOME Models For Beginners!"
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-40-1024x683.png" alt="NuX Mighty Amps 40" class="wp-image-8950" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-40-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-40-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-40-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-40-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-40.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/NUX-Mighty-Amps-40-1024x683.png" alt="NuX Mighty Amps 40" class="wp-image-8950" title="" srcset="/wp-content/uploads/2022/09/NUX-Mighty-Amps-40-1024x683.png 1024w, /wp-content/uploads/2022/09/NUX-Mighty-Amps-40-600x400.png 600w, /wp-content/uploads/2022/09/NUX-Mighty-Amps-40-300x200.png 300w, /wp-content/uploads/2022/09/NUX-Mighty-Amps-40-768x512.png 768w, /wp-content/uploads/2022/09/NUX-Mighty-Amps-40.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-1024x683.png" alt="Nux Mighty amps app" class="wp-image-8951" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/NUX-Mighty-Amps-APP.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-1024x683.png" alt="Nux Mighty amps app" class="wp-image-8951" title="" srcset="/wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-1024x683.png 1024w, /wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-600x400.png 600w, /wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-300x200.png 300w, /wp-content/uploads/2022/09/NUX-Mighty-Amps-APP-768x512.png 768w, /wp-content/uploads/2022/09/NUX-Mighty-Amps-APP.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/NuX-Mighty-Amps-8-1024x683.png" alt="Nux Mighty Amps" class="wp-image-8952" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/NuX-Mighty-Amps-8-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/NuX-Mighty-Amps-8-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/NuX-Mighty-Amps-8-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/NuX-Mighty-Amps-8-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/NuX-Mighty-Amps-8.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/NuX-Mighty-Amps-8-1024x683.png" alt="Nux Mighty Amps" class="wp-image-8952" title="" srcset="/wp-content/uploads/2022/09/NuX-Mighty-Amps-8-1024x683.png 1024w, /wp-content/uploads/2022/09/NuX-Mighty-Amps-8-600x400.png 600w, /wp-content/uploads/2022/09/NuX-Mighty-Amps-8-300x200.png 300w, /wp-content/uploads/2022/09/NuX-Mighty-Amps-8-768x512.png 768w, /wp-content/uploads/2022/09/NuX-Mighty-Amps-8.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

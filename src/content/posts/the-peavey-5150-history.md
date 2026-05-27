@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-15.png"
+featuredImage: "/wp-content/uploads/2022/04/Untitled-design-15.png"
 featuredImageAlt: "Peavey 5150"
 seo: 
   title: "Eddie Van Halen Created The Peavey 5150 – Here's How..."
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="900" height="687" src="https://www.electrikjam.com/wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl.jpg" alt="Peavey 5150" class="wp-image-7791" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl-600x458.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl-300x229.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl-768x586.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption><strong>The Original Peavey 5150</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="900" height="687" src="/wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl.jpg" alt="Peavey 5150" class="wp-image-7791" title="" srcset="/wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl.jpg 900w, /wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl-600x458.jpg 600w, /wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl-300x229.jpg 300w, /wp-content/uploads/2022/04/peavey-5150-120-watt-guitar-amp-head-xl-768x586.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption><strong>The Original Peavey 5150</strong></figcaption></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-16-1024x683.png" alt="peavey 5150" class="wp-image-7796" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-16-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-16-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-16-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-16-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-16.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Peavey 5150 Combo</figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-16-1024x683.png" alt="peavey 5150" class="wp-image-7796" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-16-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-16-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-16-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-16-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-16.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Peavey 5150 Combo</figcaption></figure>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Peavey-5150-e1640729841213.webp" alt="Peavey 5150 II" class="wp-image-7797" width="837" height="516" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Peavey-5150-e1640729841213.webp 612w, https://www.electrikjam.com/wp-content/uploads/2022/04/Peavey-5150-e1640729841213-600x370.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Peavey-5150-e1640729841213-300x185.webp 300w" sizes="(max-width: 837px) 100vw, 837px" /><figcaption>The Redesigned 5150 II</figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/04/Peavey-5150-e1640729841213.webp" alt="Peavey 5150 II" class="wp-image-7797" width="837" height="516" title="" srcset="/wp-content/uploads/2022/04/Peavey-5150-e1640729841213.webp 612w, /wp-content/uploads/2022/04/Peavey-5150-e1640729841213-600x370.webp 600w, /wp-content/uploads/2022/04/Peavey-5150-e1640729841213-300x185.webp 300w" sizes="(max-width: 837px) 100vw, 837px" /><figcaption>The Redesigned 5150 II</figcaption></figure>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="393" src="https://www.electrikjam.com/wp-content/uploads/2022/04/6505plus__83116-1024x393.webp" alt="peavey 5150 6505" class="wp-image-7798" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/6505plus__83116-1024x393.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/6505plus__83116-600x230.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/6505plus__83116-300x115.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/6505plus__83116-768x295.webp 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/6505plus__83116.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The New 6505</figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="393" src="/wp-content/uploads/2022/04/6505plus__83116-1024x393.webp" alt="peavey 5150 6505" class="wp-image-7798" title="" srcset="/wp-content/uploads/2022/04/6505plus__83116-1024x393.webp 1024w, /wp-content/uploads/2022/04/6505plus__83116-600x230.webp 600w, /wp-content/uploads/2022/04/6505plus__83116-300x115.webp 300w, /wp-content/uploads/2022/04/6505plus__83116-768x295.webp 768w, /wp-content/uploads/2022/04/6505plus__83116.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The New 6505</figcaption></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-17-1024x683.png" alt="peavey 5150" class="wp-image-7799" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-17-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-17-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-17-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-17-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-17.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The EVH 5150 III</figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-17-1024x683.png" alt="peavey 5150" class="wp-image-7799" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-17-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-17-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-17-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-17-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-17.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The EVH 5150 III</figcaption></figure>
 
 
 

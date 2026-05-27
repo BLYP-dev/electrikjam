@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/squier/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review.png"
+featuredImage: "/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review.png"
 featuredImageAlt: "Squier Contemporary Telecaster review"
 seo: 
   title: "Squier Contemporary Telecaster Review: The Metal Monster"
@@ -80,7 +80,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -292,7 +292,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-1024x683.png" alt="Squier Contemporary Telecaster review" class="wp-image-14183" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-1024x683.png" alt="Squier Contemporary Telecaster review" class="wp-image-14183" title="" srcset="/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-1024x683.png 1024w, /wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-600x400.png 600w, /wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-300x200.png 300w, /wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-768x512.png 768w, /wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -338,7 +338,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Telecaster.jpg" alt="Squier Contemporary telecaster" class="wp-image-6278" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Telecaster.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Telecaster-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Telecaster-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Telecaster-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Telecaster-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><em><strong>Squier Contemporary Telecaster In Pearl White Finish</strong></em></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Squier-Contemporary-Telecaster.jpg" alt="Squier Contemporary telecaster" class="wp-image-6278" title="" srcset="/wp-content/uploads/2021/12/Squier-Contemporary-Telecaster.jpg 720w, /wp-content/uploads/2021/12/Squier-Contemporary-Telecaster-300x300.jpg 300w, /wp-content/uploads/2021/12/Squier-Contemporary-Telecaster-100x100.jpg 100w, /wp-content/uploads/2021/12/Squier-Contemporary-Telecaster-600x600.jpg 600w, /wp-content/uploads/2021/12/Squier-Contemporary-Telecaster-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><em><strong>Squier Contemporary Telecaster In Pearl White Finish</strong></em></figcaption></figure>
 
 
 
@@ -428,7 +428,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="337" src="https://www.electrikjam.com/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-1024x337.jpg" alt="" class="wp-image-6281" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-1024x337.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-600x198.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-300x99.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-768x253.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-1536x506.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-2048x674.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-1080x356.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Gunmetal Metallic Finish</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="337" src="/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-1024x337.jpg" alt="" class="wp-image-6281" title="" srcset="/wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-1024x337.jpg 1024w, /wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-600x198.jpg 600w, /wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-300x99.jpg 300w, /wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-768x253.jpg 768w, /wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-1536x506.jpg 1536w, /wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-2048x674.jpg 2048w, /wp-content/uploads/2021/12/squier-contemporary-telecaster-gunmetal-1080x356.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Gunmetal Metallic Finish</figcaption></figure>
 
 
 
@@ -464,7 +464,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-1024x575.png" alt="" class="wp-image-6282" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-1024x575.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-600x337.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-300x168.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-768x431.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-1536x862.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-1080x606.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em><strong>Shoreline Gold Finish</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-1024x575.png" alt="" class="wp-image-6282" title="" srcset="/wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-1024x575.png 1024w, /wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-600x337.png 600w, /wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-300x168.png 300w, /wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-768x431.png 768w, /wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-1536x862.png 1536w, /wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold-1080x606.png 1080w, /wp-content/uploads/2021/12/Squier-Contemporary-telecaster-gold.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em><strong>Shoreline Gold Finish</strong></em></figcaption></figure>
 
 
 

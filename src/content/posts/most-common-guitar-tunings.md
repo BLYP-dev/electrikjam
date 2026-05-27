@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings.png"
+featuredImage: "/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings.png"
 featuredImageAlt: "Most Common Guitar Tunings"
 seo: 
   title: "The 7 Most Common Guitar Tunings Used In Music"
@@ -56,7 +56,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-1024x853.png" alt="Most Common Guitar Tunings" class="wp-image-5249" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-1024x853.png" alt="Most Common Guitar Tunings" class="wp-image-5249" title="" srcset="/wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-1024x853.png 1024w, /wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-600x500.png 600w, /wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-300x250.png 300w, /wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-768x640.png 768w, /wp-content/uploads/2021/10/Most-Common-Guitar-Tunings-1080x900.png 1080w, /wp-content/uploads/2021/10/Most-Common-Guitar-Tunings.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -158,7 +158,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="537" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Drop-A-tuning-1024x537.png" alt="Drop A tuning" class="wp-image-5248" title=""></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="537" src="/wp-content/uploads/2021/10/Drop-A-tuning-1024x537.png" alt="Drop A tuning" class="wp-image-5248" title=""></figure>
 			
 		
 
@@ -188,7 +188,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="503" src="https://www.electrikjam.com/wp-content/uploads/2021/10/open-g-tuning-1024x503.png" alt="open g tuning" class="wp-image-5247" title=""></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="503" src="/wp-content/uploads/2021/10/open-g-tuning-1024x503.png" alt="open g tuning" class="wp-image-5247" title=""></figure>
 			
 		
 

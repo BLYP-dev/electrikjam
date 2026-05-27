@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/7-String-Guitar-Tuning.png"
+featuredImage: "/wp-content/uploads/2023/10/7-String-Guitar-Tuning.png"
 featuredImageAlt: "7 String Guitar Tuning"
 seo: 
   title: "7 String Guitar Tuning: A Complete Beginner's Guide"
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-1024x683.png" alt="" class="wp-image-13026" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/7-string-standard-tuning-1024x683.png" alt="" class="wp-image-13026" title="" srcset="/wp-content/uploads/2023/10/7-string-standard-tuning-1024x683.png 1024w, /wp-content/uploads/2023/10/7-string-standard-tuning-600x400.png 600w, /wp-content/uploads/2023/10/7-string-standard-tuning-300x200.png 300w, /wp-content/uploads/2023/10/7-string-standard-tuning-768x512.png 768w, /wp-content/uploads/2023/10/7-string-standard-tuning.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-1024x683.png" alt="7-String-Guitars-The-Ultimate-Beginners-Guide-2023" class="wp-image-13034" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-1024x683.png" alt="7-String-Guitars-The-Ultimate-Beginners-Guide-2023" class="wp-image-13034" title="" srcset="/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-1024x683.png 1024w, /wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-600x400.png 600w, /wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-300x200.png 300w, /wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023-768x512.png 768w, /wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -332,7 +332,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="https://www.electrikjam.com/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-1024x585.webp" alt="The Influence of Genre on Tuning" class="wp-image-13043" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-1024x585.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-600x343.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-300x171.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-768x439.webp 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-1536x878.webp 1536w, https://www.electrikjam.com/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning.webp 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-1024x585.webp" alt="The Influence of Genre on Tuning" class="wp-image-13043" title="" srcset="/wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-1024x585.webp 1024w, /wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-600x343.webp 600w, /wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-300x171.webp 300w, /wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-768x439.webp 768w, /wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning-1536x878.webp 1536w, /wp-content/uploads/2023/10/The-Influence-of-Genre-on-Tuning.webp 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

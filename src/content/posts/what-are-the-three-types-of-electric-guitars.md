@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/TYPES.png"
+featuredImage: "/wp-content/uploads/2023/02/TYPES.png"
 featuredImageAlt: "What are the three electric guitar types?"
 seo: 
   title: "What Are The Three Types Of Electric Guitars? The 3 MAIN Players!"
@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Different-guitar-types-1024x683.png" alt="What are the three electric guitar types?" class="wp-image-10908" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Different-guitar-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Different-guitar-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Different-guitar-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Different-guitar-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Different-guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Different-guitar-types-1024x683.png" alt="What are the three electric guitar types?" class="wp-image-10908" title="" srcset="/wp-content/uploads/2023/02/Different-guitar-types-1024x683.png 1024w, /wp-content/uploads/2023/02/Different-guitar-types-600x400.png 600w, /wp-content/uploads/2023/02/Different-guitar-types-300x200.png 300w, /wp-content/uploads/2023/02/Different-guitar-types-768x512.png 768w, /wp-content/uploads/2023/02/Different-guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-1024x683.png" alt="What Are The Three Types Of Electric Guitars? " class="wp-image-10909" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-1024x683.png" alt="What Are The Three Types Of Electric Guitars? " class="wp-image-10909" title="" srcset="/wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-1024x683.png 1024w, /wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-600x400.png 600w, /wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-300x200.png 300w, /wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types-768x512.png 768w, /wp-content/uploads/2023/02/Semi-Hollow-Body-Guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Hollow-body-guitar-type-1024x683.png" alt="What Are The Three Types Of Electric Guitars? " class="wp-image-10910" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Hollow-body-guitar-type-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Hollow-body-guitar-type-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Hollow-body-guitar-type-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Hollow-body-guitar-type-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Hollow-body-guitar-type.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Hollow-body-guitar-type-1024x683.png" alt="What Are The Three Types Of Electric Guitars? " class="wp-image-10910" title="" srcset="/wp-content/uploads/2023/02/Hollow-body-guitar-type-1024x683.png 1024w, /wp-content/uploads/2023/02/Hollow-body-guitar-type-600x400.png 600w, /wp-content/uploads/2023/02/Hollow-body-guitar-type-300x200.png 300w, /wp-content/uploads/2023/02/Hollow-body-guitar-type-768x512.png 768w, /wp-content/uploads/2023/02/Hollow-body-guitar-type.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "ibanez"
 tagPaths: 
   - "/tag/ibanez/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson.png"
+featuredImage: "/wp-content/uploads/2022/09/Ibanez-VS-Jackson.png"
 featuredImageAlt: "Ibanez VS Jackson"
 seo: 
   title: "Ibanez VS Jackson: Comparing The #1 Brands For Shred!"
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-1024x683.png" alt="Ibanez VS Jackson" class="wp-image-9047" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Original Concept For The Jackson Rhoads</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-1024x683.png" alt="Ibanez VS Jackson" class="wp-image-9047" title="" srcset="/wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-1024x683.png 1024w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-600x400.png 600w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-300x200.png 300w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades-768x512.png 768w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-Rhoades.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Original Concept For The Jackson Rhoads</strong></figcaption></figure>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-1024x683.png" alt="Ibanez VS Jackson" class="wp-image-9045" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Ibanez-VS-Jackson-1024x683.png" alt="Ibanez VS Jackson" class="wp-image-9045" title="" srcset="/wp-content/uploads/2022/09/Ibanez-VS-Jackson-1024x683.png 1024w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-600x400.png 600w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-300x200.png 300w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-768x512.png 768w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-1024x683.png" alt="Ibanez VS Jackson" class="wp-image-9048" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-1024x683.png" alt="Ibanez VS Jackson" class="wp-image-9048" title="" srcset="/wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-1024x683.png 1024w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-600x400.png 600w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-300x200.png 300w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL-768x512.png 768w, /wp-content/uploads/2022/09/Ibanez-VS-Jackson-ALL.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

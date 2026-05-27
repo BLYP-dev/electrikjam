@@ -41,7 +41,7 @@ await run('node', ['scripts/import-wordpress.mjs'], {
     WP_EXPORT_FILE: file,
     WP_IMPORT_LIMIT: process.env.WP_IMPORT_LIMIT || '-1',
     WP_PAGE_IMPORT_LIMIT: process.env.WP_PAGE_IMPORT_LIMIT || '-1',
-    WP_MEDIA_MODE: process.env.WP_MEDIA_MODE || 'remote',
+    WP_MEDIA_MODE: process.env.WP_MEDIA_MODE || 'local',
   },
   maxBuffer: 20 * 1024 * 1024,
 });

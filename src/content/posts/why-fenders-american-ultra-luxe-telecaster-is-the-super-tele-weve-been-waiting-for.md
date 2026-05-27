@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/08/American-Ultra-Luxe-Vintage-Telecaster.jpg"
+featuredImage: "/wp-content/uploads/2025/08/American-Ultra-Luxe-Vintage-Telecaster.jpg"
 featuredImageAlt: "American Ultra Luxe Vintage Telecaster"
 seo: 
   title: "Why Fender’s American Ultra Luxe Telecaster Is The \"Super Tele\" We've Been Waiting For..."
@@ -49,7 +49,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="https://www.electrikjam.com/wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-1024x334.avif" alt="" class="wp-image-17886" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-1024x334.avif 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-600x196.avif 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-300x98.avif 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-768x250.avif 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster.avif 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="/wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-1024x334.avif" alt="" class="wp-image-17886" title="" srcset="/wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-1024x334.avif 1024w, /wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-600x196.avif 600w, /wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-300x98.avif 300w, /wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster-768x250.avif 768w, /wp-content/uploads/2025/08/American-Ultra-Luxe-Telecaster.avif 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -85,7 +85,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="813" src="https://www.electrikjam.com/wp-content/uploads/2025/08/097a7330_e1b5695652-1024x813.jpg" alt="" class="wp-image-17894" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/097a7330_e1b5695652-1024x813.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/097a7330_e1b5695652-600x476.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/097a7330_e1b5695652-300x238.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/097a7330_e1b5695652-768x610.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/097a7330_e1b5695652-1536x1219.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2025/08/097a7330_e1b5695652.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="813" src="/wp-content/uploads/2025/08/097a7330_e1b5695652-1024x813.jpg" alt="" class="wp-image-17894" title="" srcset="/wp-content/uploads/2025/08/097a7330_e1b5695652-1024x813.jpg 1024w, /wp-content/uploads/2025/08/097a7330_e1b5695652-600x476.jpg 600w, /wp-content/uploads/2025/08/097a7330_e1b5695652-300x238.jpg 300w, /wp-content/uploads/2025/08/097a7330_e1b5695652-768x610.jpg 768w, /wp-content/uploads/2025/08/097a7330_e1b5695652-1536x1219.jpg 1536w, /wp-content/uploads/2025/08/097a7330_e1b5695652.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -173,7 +173,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/08/highlight_fen_0118250802_feature_01.avif" alt="" class="wp-image-17888" title=""></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="/wp-content/uploads/2025/08/highlight_fen_0118250802_feature_01.avif" alt="" class="wp-image-17888" title=""></figure>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2025/08/highlight_fen_0118250802_feature_05.avif" alt="" class="wp-image-17889" title=""></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="/wp-content/uploads/2025/08/highlight_fen_0118250802_feature_05.avif" alt="" class="wp-image-17889" title=""></figure>
 
 
 

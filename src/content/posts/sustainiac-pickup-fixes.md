@@ -22,7 +22,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/Sustainiac-install.webp"
+featuredImage: "/wp-content/uploads/2021/12/Sustainiac-install.webp"
 featuredImageAlt: "Sustainiac install"
 seo: 
   title: "Sustainiac Pickup Fixes: The #1 Guide To Troubleshooting This Amazing Pickup!"
@@ -93,7 +93,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="898" height="335" src="https://www.electrikjam.com/wp-content/uploads/2021/12/kenny-hickey-c1.jpg" alt="" class="wp-image-6300" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/kenny-hickey-c1.jpg 898w, https://www.electrikjam.com/wp-content/uploads/2021/12/kenny-hickey-c1-600x224.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/kenny-hickey-c1-300x112.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/kenny-hickey-c1-768x287.jpg 768w" sizes="(max-width: 898px) 100vw, 898px" /><figcaption><em><strong>Kenny Hickey Schecter Model</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="898" height="335" src="/wp-content/uploads/2021/12/kenny-hickey-c1.jpg" alt="" class="wp-image-6300" title="" srcset="/wp-content/uploads/2021/12/kenny-hickey-c1.jpg 898w, /wp-content/uploads/2021/12/kenny-hickey-c1-600x224.jpg 600w, /wp-content/uploads/2021/12/kenny-hickey-c1-300x112.jpg 300w, /wp-content/uploads/2021/12/kenny-hickey-c1-768x287.jpg 768w" sizes="(max-width: 898px) 100vw, 898px" /><figcaption><em><strong>Kenny Hickey Schecter Model</strong></em></figcaption></figure>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-hellraiser-1024x682.jpg" alt="" class="wp-image-6294" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-hellraiser-1024x682.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-hellraiser-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-hellraiser-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-hellraiser-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-hellraiser-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-hellraiser.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Schecter Hellraiser With Sustainiac Pickup In The Neck Position</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/wp-content/uploads/2021/12/Schecter-hellraiser-1024x682.jpg" alt="" class="wp-image-6294" title="" srcset="/wp-content/uploads/2021/12/Schecter-hellraiser-1024x682.jpg 1024w, /wp-content/uploads/2021/12/Schecter-hellraiser-600x400.jpg 600w, /wp-content/uploads/2021/12/Schecter-hellraiser-300x200.jpg 300w, /wp-content/uploads/2021/12/Schecter-hellraiser-768x512.jpg 768w, /wp-content/uploads/2021/12/Schecter-hellraiser-1080x720.jpg 1080w, /wp-content/uploads/2021/12/Schecter-hellraiser.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Schecter Hellraiser With Sustainiac Pickup In The Neck Position</em></strong></figcaption></figure>
 
 
 
@@ -165,7 +165,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/12/My-Hellraiser-768x1024.jpg" alt="Sustainiac pickup fixes" class="wp-image-6296" width="840" height="1120" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/My-Hellraiser-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/My-Hellraiser-rotated-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/My-Hellraiser-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2021/12/My-Hellraiser-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2021/12/My-Hellraiser-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/My-Hellraiser-1080x1440.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/My-Hellraiser-rotated.jpg 1723w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><strong>My Height For My Personal Guitars</strong></em></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2021/12/My-Hellraiser-768x1024.jpg" alt="Sustainiac pickup fixes" class="wp-image-6296" width="840" height="1120" title="" srcset="/wp-content/uploads/2021/12/My-Hellraiser-768x1024.jpg 768w, /wp-content/uploads/2021/12/My-Hellraiser-rotated-600x800.jpg 600w, /wp-content/uploads/2021/12/My-Hellraiser-225x300.jpg 225w, /wp-content/uploads/2021/12/My-Hellraiser-1152x1536.jpg 1152w, /wp-content/uploads/2021/12/My-Hellraiser-1536x2048.jpg 1536w, /wp-content/uploads/2021/12/My-Hellraiser-1080x1440.jpg 1080w, /wp-content/uploads/2021/12/My-Hellraiser-rotated.jpg 1723w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><strong>My Height For My Personal Guitars</strong></em></figcaption></figure></div>
 
 
 
@@ -177,7 +177,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-769x1024.jpg" alt="Sustainiac Pickup Fixes" class="wp-image-6297" width="840" height="1119" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-769x1024.jpg 769w, https://www.electrikjam.com/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-rotated-600x799.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-768x1023.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-1080x1439.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-rotated.jpg 1143w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><em>Inside The Back Cover Of My Hellraiser</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-769x1024.jpg" alt="Sustainiac Pickup Fixes" class="wp-image-6297" width="840" height="1119" title="" srcset="/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-769x1024.jpg 769w, /wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-rotated-600x799.jpg 600w, /wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-225x300.jpg 225w, /wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-768x1023.jpg 768w, /wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-1080x1439.jpg 1080w, /wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-rotated.jpg 1143w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><em>Inside The Back Cover Of My Hellraiser</em></strong></figcaption></figure>
 
 
 
@@ -265,7 +265,7 @@ seo:
 <div id="faq-question-1640033380408" class="rank-math-list-item">
 <h3 class="rank-math-question ">Harmonic Mode/Blend Mode Does Not Work On My Sustainiac Pickup?</h3>
 <div class="rank-math-answer ">
-<img decoding="async" width="150" height="150" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-150x150.jpg" class="alignright" alt="Sustainiac Pickup Fixes" title="">
+<img decoding="async" width="150" height="150" src="/wp-content/uploads/2021/12/Inside-my-Scecter-Sustainiac-150x150.jpg" class="alignright" alt="Sustainiac Pickup Fixes" title="">
 <p>This is usually easily fixable. Locate the Sustainiac circuit board in the back of the control cavity of your guitar. The harmonic value control is usually at the bottom/top on the unit. Turn clockwise to adjust the value higher.</p>
 
 </div>

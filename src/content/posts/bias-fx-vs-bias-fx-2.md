@@ -22,7 +22,7 @@ tagSlugs:
   - "positive-grid"
 tagPaths: 
   - "/tag/positive-grid/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/BIAS-FX-2-vs-BIAS-FX.png"
+featuredImage: "/wp-content/uploads/2023/02/BIAS-FX-2-vs-BIAS-FX.png"
 featuredImageAlt: "BIAS FX 2 vs BIAS FX"
 seo: 
   title: "BIAS FX vs BIAS FX 2 – What’s The Difference?"
@@ -132,7 +132,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2023/02/BIAS-FX-2-review.webp" alt="" class="wp-image-10654" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/BIAS-FX-2-review.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/BIAS-FX-2-review-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/BIAS-FX-2-review-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2023/02/BIAS-FX-2-review-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2023/02/BIAS-FX-2-review.webp" alt="" class="wp-image-10654" title="" srcset="/wp-content/uploads/2023/02/BIAS-FX-2-review.webp 600w, /wp-content/uploads/2023/02/BIAS-FX-2-review-300x300.webp 300w, /wp-content/uploads/2023/02/BIAS-FX-2-review-100x100.webp 100w, /wp-content/uploads/2023/02/BIAS-FX-2-review-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="696" src="https://www.electrikjam.com/wp-content/uploads/2021/01/is-bias-fx-worth-it-1024x696.png" alt="Save 50% on Positive Grid’s EPIC BIAS FX 2" class="wp-image-1735" title=""></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="696" src="/wp-content/uploads/2021/01/is-bias-fx-worth-it-1024x696.png" alt="Save 50% on Positive Grid’s EPIC BIAS FX 2" class="wp-image-1735" title=""></figure>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="624" src="https://www.electrikjam.com/wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-1024x624.jpg" alt="" class="wp-image-10660" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-1024x624.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-600x365.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-300x183.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-768x468.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="624" src="/wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-1024x624.jpg" alt="" class="wp-image-10660" title="" srcset="/wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-1024x624.jpg 1024w, /wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-600x365.jpg 600w, /wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-300x183.jpg 300w, /wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png-768x468.jpg 768w, /wp-content/uploads/2023/02/section_01_dynamic_engine_kv-png.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1024x576.jpg" alt="" class="wp-image-2696" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1024x576.jpg" alt="" class="wp-image-2696" title="" srcset="/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1024x576.jpg 1024w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX-600x338.jpg 600w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX-300x169.jpg 300w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX-768x432.jpg 768w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX-1080x608.jpg 1080w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

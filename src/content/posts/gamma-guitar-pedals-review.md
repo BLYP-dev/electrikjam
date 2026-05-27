@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals.png"
+featuredImage: "/wp-content/uploads/2023/04/Gamma-Guitar-pedals.png"
 featuredImageAlt: "Gamma Guitar pedals"
 seo: 
   title: "Gamma Guitar Pedals Review: 6 Fantastic Budget Stomp Boxes From The Gods!"
@@ -102,7 +102,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-1024x683.png" alt="Gamma Guitar pedals" class="wp-image-11546" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Gamma-Guitar-pedals-1024x683.png" alt="Gamma Guitar pedals" class="wp-image-11546" title="" srcset="/wp-content/uploads/2023/04/Gamma-Guitar-pedals-1024x683.png 1024w, /wp-content/uploads/2023/04/Gamma-Guitar-pedals-600x400.png 600w, /wp-content/uploads/2023/04/Gamma-Guitar-pedals-300x200.png 300w, /wp-content/uploads/2023/04/Gamma-Guitar-pedals-768x512.png 768w, /wp-content/uploads/2023/04/Gamma-Guitar-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-1024x683.png" alt="Gamma guitar pedals lineup" class="wp-image-11551" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-1024x683.png" alt="Gamma guitar pedals lineup" class="wp-image-11551" title="" srcset="/wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-1024x683.png 1024w, /wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-600x400.png 600w, /wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-300x200.png 300w, /wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup-768x512.png 768w, /wp-content/uploads/2023/04/Gamma-guitar-pedals-lineup.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -250,7 +250,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-1024x683.png" alt="Gamma Guitar pedals " class="wp-image-11552" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-1024x683.png" alt="Gamma Guitar pedals " class="wp-image-11552" title="" srcset="/wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-1024x683.png 1024w, /wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-600x400.png 600w, /wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-300x200.png 300w, /wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES-768x512.png 768w, /wp-content/uploads/2023/04/Gamma-Guitar-pedals-HADES.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

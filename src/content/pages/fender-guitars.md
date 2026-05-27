@@ -16,7 +16,7 @@ categoryPaths: []
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Guitars.png"
+featuredImage: "/wp-content/uploads/2023/04/Fender-Guitars.png"
 featuredImageAlt: "Fender Guitars"
 seo: 
   title: "Fender Guitars: The Ultimate Beginner's Guide 2024"
@@ -132,7 +132,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png" alt="Fender Player Stratocaster HSS" class="wp-image-10886" style="width:512px;height:342px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png" alt="Fender Player Stratocaster HSS" class="wp-image-10886" style="width:512px;height:342px" title="" srcset="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png 1024w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-600x400.png 600w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-300x200.png 300w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-768x512.png 768w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-1024x683.png" alt="Fender Player Telecaster Reviews" class="wp-image-8288" style="width:512px;height:342px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-1024x683.png" alt="Fender Player Telecaster Reviews" class="wp-image-8288" style="width:512px;height:342px" title="" srcset="/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-1024x683.png 1024w, /wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-600x400.png 600w, /wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-300x200.png 300w, /wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-768x512.png 768w, /wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1024x853.png" alt="What Pickup Do Jazzmasters Have" class="wp-image-4547" style="width:512px;height:427px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1024x853.png" alt="What Pickup Do Jazzmasters Have" class="wp-image-4547" style="width:512px;height:427px" title="" srcset="/wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1024x853.png 1024w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-600x500.png 600w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-300x250.png 300w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-768x640.png 768w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have-1080x900.png 1080w, /wp-content/uploads/2021/09/What-Pickup-Do-Jazzmasters-Have.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="703" src="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-3-1024x703.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3943" style="width:512px;height:352px" title=""></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="703" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-3-1024x703.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3943" style="width:512px;height:352px" title=""></figure>
 
 
 
@@ -300,7 +300,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="614" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg" alt="best brands for lefties" class="wp-image-6801" style="width:512px;height:307px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--768x461.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1080x648.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain-.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="614" src="/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg" alt="best brands for lefties" class="wp-image-6801" style="width:512px;height:307px" title="" srcset="/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg 1024w, /wp-content/uploads/2022/02/Kurt-Cobain--600x360.jpg 600w, /wp-content/uploads/2022/02/Kurt-Cobain--300x180.jpg 300w, /wp-content/uploads/2022/02/Kurt-Cobain--768x461.jpg 768w, /wp-content/uploads/2022/02/Kurt-Cobain--1080x648.jpg 1080w, /wp-content/uploads/2022/02/Kurt-Cobain-.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -342,7 +342,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Duo-Sonic--1024x1024.jpeg" alt="Fender Duo-Sonic" class="wp-image-11533" style="width:512px;height:512px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Duo-Sonic--1024x1024.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Duo-Sonic--300x300.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Duo-Sonic--100x100.jpeg 100w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Duo-Sonic--600x600.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Duo-Sonic--150x150.jpeg 150w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Duo-Sonic--768x768.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Duo-Sonic-.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/04/Fender-Duo-Sonic--1024x1024.jpeg" alt="Fender Duo-Sonic" class="wp-image-11533" style="width:512px;height:512px" title="" srcset="/wp-content/uploads/2023/04/Fender-Duo-Sonic--1024x1024.jpeg 1024w, /wp-content/uploads/2023/04/Fender-Duo-Sonic--300x300.jpeg 300w, /wp-content/uploads/2023/04/Fender-Duo-Sonic--100x100.jpeg 100w, /wp-content/uploads/2023/04/Fender-Duo-Sonic--600x600.jpeg 600w, /wp-content/uploads/2023/04/Fender-Duo-Sonic--150x150.jpeg 150w, /wp-content/uploads/2023/04/Fender-Duo-Sonic--768x768.jpeg 768w, /wp-content/uploads/2023/04/Fender-Duo-Sonic-.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -384,7 +384,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1024x683.png" alt="Fender Meteora" class="wp-image-7511" style="width:512px;height:342px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-1024x683.png" alt="Fender Meteora" class="wp-image-7511" style="width:512px;height:342px" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -426,7 +426,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-1024x1024.webp" alt="Fender Lead Series" class="wp-image-11534" style="width:512px;height:512px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-1024x1024.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-150x150.webp 150w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-768x768.webp 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-1024x1024.webp" alt="Fender Lead Series" class="wp-image-11534" style="width:512px;height:512px" title="" srcset="/wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-1024x1024.webp 1024w, /wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-300x300.webp 300w, /wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-100x100.webp 100w, /wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-600x600.webp 600w, /wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-150x150.webp 150w, /wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855-768x768.webp 768w, /wp-content/uploads/2023/04/Fender-Lead-Series-e1681387283855.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -468,7 +468,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1022" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-1022x1024.png" alt="Fender Vintera Series" class="wp-image-11535" style="width:511px;height:512px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-1022x1024.png 1022w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-600x601.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-768x769.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-1533x1536.png 1533w, https://www.electrikjam.com/wp-content/uploads/2023/04/Fender-Vintera-Series-2045x2048.png 2045w" sizes="(max-width: 1022px) 100vw, 1022px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1022" height="1024" src="/wp-content/uploads/2023/04/Fender-Vintera-Series-1022x1024.png" alt="Fender Vintera Series" class="wp-image-11535" style="width:511px;height:512px" title="" srcset="/wp-content/uploads/2023/04/Fender-Vintera-Series-1022x1024.png 1022w, /wp-content/uploads/2023/04/Fender-Vintera-Series-300x300.png 300w, /wp-content/uploads/2023/04/Fender-Vintera-Series-100x100.png 100w, /wp-content/uploads/2023/04/Fender-Vintera-Series-600x601.png 600w, /wp-content/uploads/2023/04/Fender-Vintera-Series-150x150.png 150w, /wp-content/uploads/2023/04/Fender-Vintera-Series-768x769.png 768w, /wp-content/uploads/2023/04/Fender-Vintera-Series-1533x1536.png 1533w, /wp-content/uploads/2023/04/Fender-Vintera-Series-2045x2048.png 2045w" sizes="(max-width: 1022px) 100vw, 1022px" /></figure>
 
 
 
@@ -530,7 +530,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png" alt="History of the Fender Stratocaster" class="wp-image-10899" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png" alt="History of the Fender Stratocaster" class="wp-image-10899" title="" srcset="/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

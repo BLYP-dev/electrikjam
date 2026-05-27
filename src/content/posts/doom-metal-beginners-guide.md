@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/Doom-Metal-A-Total-Beginners-Guide%E2%80%A6-scaled-e1603448401311.jpg"
+featuredImage: "/wp-content/uploads/2020/10/Doom-Metal-A-Total-Beginners-Guide%E2%80%A6-scaled-e1603448401311.jpg"
 featuredImageAlt: "doom metal"
 seo: 
   title: "Doom Metal: A Total Beginner’s Guide…"
@@ -56,7 +56,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="707" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Doom-Metal-A-Total-Beginners-Guide…-1024x707.jpg" alt="" class="wp-image-1046" title=""><figcaption><strong>BLACK SABBATH | CIRCA 1970s</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="707" src="/wp-content/uploads/2020/10/Doom-Metal-A-Total-Beginners-Guide…-1024x707.jpg" alt="" class="wp-image-1046" title=""><figcaption><strong>BLACK SABBATH | CIRCA 1970s</strong></figcaption></figure>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Tony-Iommi-Fingers-1024x682.png" alt="" class="wp-image-1047" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Tony-Iommi-Fingers-1024x682.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tony-Iommi-Fingers-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tony-Iommi-Fingers-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tony-Iommi-Fingers-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tony-Iommi-Fingers.png 1048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Tony Iommi&#8217;s Fingers –&nbsp;<strong><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="283">Check Out His Custom Epiphone SG Here</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/wp-content/uploads/2020/10/Tony-Iommi-Fingers-1024x682.png" alt="" class="wp-image-1047" title="" srcset="/wp-content/uploads/2020/10/Tony-Iommi-Fingers-1024x682.png 1024w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-600x400.png 600w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-300x200.png 300w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-768x512.png 768w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers.png 1048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Tony Iommi&#8217;s Fingers –&nbsp;<strong><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="283">Check Out His Custom Epiphone SG Here</a></strong></figcaption></figure>
 
 
 
@@ -199,7 +199,7 @@ https://www.youtube.com/watch?v=WioN8dx5nAk
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="480" src="https://www.electrikjam.com/wp-content/uploads/2020/10/MELVINS.png" alt="" class="wp-image-1048" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/MELVINS.png 500w, https://www.electrikjam.com/wp-content/uploads/2020/10/MELVINS-300x288.png 300w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption><strong>MELVINS</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="480" src="/wp-content/uploads/2020/10/MELVINS.png" alt="" class="wp-image-1048" title="" srcset="/wp-content/uploads/2020/10/MELVINS.png 500w, /wp-content/uploads/2020/10/MELVINS-300x288.png 300w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption><strong>MELVINS</strong></figcaption></figure>
 			
 		
 
@@ -220,7 +220,7 @@ https://www.youtube.com/watch?v=WioN8dx5nAk
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/dylan-carlson-1024x755.png" alt="" class="wp-image-1049" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/dylan-carlson-1024x755.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/dylan-carlson-600x442.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/dylan-carlson-300x221.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/dylan-carlson-768x566.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/dylan-carlson.png 1262w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>DYLAN CARLSON</strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/dylan-carlson-1024x755.png" alt="" class="wp-image-1049" width="1000" title="" srcset="/wp-content/uploads/2020/10/dylan-carlson-1024x755.png 1024w, /wp-content/uploads/2020/10/dylan-carlson-600x442.png 600w, /wp-content/uploads/2020/10/dylan-carlson-300x221.png 300w, /wp-content/uploads/2020/10/dylan-carlson-768x566.png 768w, /wp-content/uploads/2020/10/dylan-carlson.png 1262w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>DYLAN CARLSON</strong></figcaption></figure>
 
 
 

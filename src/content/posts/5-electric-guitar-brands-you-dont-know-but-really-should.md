@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/agile.jpg"
+featuredImage: "/wp-content/uploads/2021/02/agile.jpg"
 featuredImageAlt: "agile"
 seo: 
   title: "5 Awesome Electric Guitar Brands You Don't Know, But Really Should!"
@@ -71,7 +71,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="740" height="734" src="https://www.electrikjam.com/wp-content/uploads/2020/12/cort-duality.jpg" alt="cort guitars" class="wp-image-1663" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/cort-duality.jpg 740w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-duality-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-duality-600x595.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-duality-300x298.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-duality-150x150.jpg 150w" sizes="(max-width: 740px) 100vw, 740px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="740" height="734" src="/wp-content/uploads/2020/12/cort-duality.jpg" alt="cort guitars" class="wp-image-1663" title="" srcset="/wp-content/uploads/2020/12/cort-duality.jpg 740w, /wp-content/uploads/2020/12/cort-duality-100x100.jpg 100w, /wp-content/uploads/2020/12/cort-duality-600x595.jpg 600w, /wp-content/uploads/2020/12/cort-duality-300x298.jpg 300w, /wp-content/uploads/2020/12/cort-duality-150x150.jpg 150w" sizes="(max-width: 740px) 100vw, 740px" /></figure>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="501" src="https://www.electrikjam.com/wp-content/uploads/2021/02/GOC.jpg" alt="electric guitar brands" class="wp-image-1940" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/GOC.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-600x470.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-300x235.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="501" src="/wp-content/uploads/2021/02/GOC.jpg" alt="electric guitar brands" class="wp-image-1940" title="" srcset="/wp-content/uploads/2021/02/GOC.jpg 640w, /wp-content/uploads/2021/02/GOC-600x470.jpg 600w, /wp-content/uploads/2021/02/GOC-300x235.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-Seraph-1024x768.jpg" alt="" class="wp-image-1941" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-Seraph-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-Seraph-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-Seraph-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-Seraph-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-Seraph-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/02/GOC-Seraph.jpg 1632w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>GOC Seraph</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/02/GOC-Seraph-1024x768.jpg" alt="" class="wp-image-1941" title="" srcset="/wp-content/uploads/2021/02/GOC-Seraph-1024x768.jpg 1024w, /wp-content/uploads/2021/02/GOC-Seraph-600x450.jpg 600w, /wp-content/uploads/2021/02/GOC-Seraph-300x225.jpg 300w, /wp-content/uploads/2021/02/GOC-Seraph-768x576.jpg 768w, /wp-content/uploads/2021/02/GOC-Seraph-1536x1152.jpg 1536w, /wp-content/uploads/2021/02/GOC-Seraph.jpg 1632w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>GOC Seraph</figcaption></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="947" height="447" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Kiesel.jpg" alt="" class="wp-image-1942" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Kiesel.jpg 947w, https://www.electrikjam.com/wp-content/uploads/2021/02/Kiesel-600x283.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Kiesel-300x142.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Kiesel-768x363.jpg 768w" sizes="(max-width: 947px) 100vw, 947px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="947" height="447" src="/wp-content/uploads/2021/02/Kiesel.jpg" alt="" class="wp-image-1942" title="" srcset="/wp-content/uploads/2021/02/Kiesel.jpg 947w, /wp-content/uploads/2021/02/Kiesel-600x283.jpg 600w, /wp-content/uploads/2021/02/Kiesel-300x142.jpg 300w, /wp-content/uploads/2021/02/Kiesel-768x363.jpg 768w" sizes="(max-width: 947px) 100vw, 947px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="947" height="447" src="https://www.electrikjam.com/wp-content/uploads/2021/02/kiesel-2.jpg" alt="" class="wp-image-1943" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/kiesel-2.jpg 947w, https://www.electrikjam.com/wp-content/uploads/2021/02/kiesel-2-600x283.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/kiesel-2-300x142.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/kiesel-2-768x363.jpg 768w" sizes="(max-width: 947px) 100vw, 947px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="947" height="447" src="/wp-content/uploads/2021/02/kiesel-2.jpg" alt="" class="wp-image-1943" title="" srcset="/wp-content/uploads/2021/02/kiesel-2.jpg 947w, /wp-content/uploads/2021/02/kiesel-2-600x283.jpg 600w, /wp-content/uploads/2021/02/kiesel-2-300x142.jpg 300w, /wp-content/uploads/2021/02/kiesel-2-768x363.jpg 768w" sizes="(max-width: 947px) 100vw, 947px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="719" height="283" src="https://www.electrikjam.com/wp-content/uploads/2021/02/ravelle-fernandes-elite.jpg" alt="" class="wp-image-1944" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/ravelle-fernandes-elite.jpg 719w, https://www.electrikjam.com/wp-content/uploads/2021/02/ravelle-fernandes-elite-600x236.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/ravelle-fernandes-elite-300x118.jpg 300w" sizes="(max-width: 719px) 100vw, 719px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="719" height="283" src="/wp-content/uploads/2021/02/ravelle-fernandes-elite.jpg" alt="" class="wp-image-1944" title="" srcset="/wp-content/uploads/2021/02/ravelle-fernandes-elite.jpg 719w, /wp-content/uploads/2021/02/ravelle-fernandes-elite-600x236.jpg 600w, /wp-content/uploads/2021/02/ravelle-fernandes-elite-300x118.jpg 300w" sizes="(max-width: 719px) 100vw, 719px" /></figure>
 
 
 
@@ -195,7 +195,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="950" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Burny-les-paul-1024x950.jpg" alt="" class="wp-image-1945" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Burny-les-paul-1024x950.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Burny-les-paul-600x556.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Burny-les-paul-300x278.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Burny-les-paul-768x712.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Burny-les-paul.jpg 1252w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Burny Les Paul Style Guitar</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="950" src="/wp-content/uploads/2021/02/Burny-les-paul-1024x950.jpg" alt="" class="wp-image-1945" title="" srcset="/wp-content/uploads/2021/02/Burny-les-paul-1024x950.jpg 1024w, /wp-content/uploads/2021/02/Burny-les-paul-600x556.jpg 600w, /wp-content/uploads/2021/02/Burny-les-paul-300x278.jpg 300w, /wp-content/uploads/2021/02/Burny-les-paul-768x712.jpg 768w, /wp-content/uploads/2021/02/Burny-les-paul.jpg 1252w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Burny Les Paul Style Guitar</figcaption></figure>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="732" height="500" src="https://www.electrikjam.com/wp-content/uploads/2021/02/agile.jpg" alt="" class="wp-image-1946" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/agile.jpg 732w, https://www.electrikjam.com/wp-content/uploads/2021/02/agile-600x410.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/agile-300x205.jpg 300w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="732" height="500" src="/wp-content/uploads/2021/02/agile.jpg" alt="" class="wp-image-1946" title="" srcset="/wp-content/uploads/2021/02/agile.jpg 732w, /wp-content/uploads/2021/02/agile-600x410.jpg 600w, /wp-content/uploads/2021/02/agile-300x205.jpg 300w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="883" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/02/agile-2.jpg" alt="" class="wp-image-1947" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/agile-2.jpg 883w, https://www.electrikjam.com/wp-content/uploads/2021/02/agile-2-600x408.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/agile-2-300x204.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/agile-2-768x522.jpg 768w" sizes="(max-width: 883px) 100vw, 883px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="883" height="600" src="/wp-content/uploads/2021/02/agile-2.jpg" alt="" class="wp-image-1947" title="" srcset="/wp-content/uploads/2021/02/agile-2.jpg 883w, /wp-content/uploads/2021/02/agile-2-600x408.jpg 600w, /wp-content/uploads/2021/02/agile-2-300x204.jpg 300w, /wp-content/uploads/2021/02/agile-2-768x522.jpg 768w" sizes="(max-width: 883px) 100vw, 883px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "harley-benton"
 tagPaths: 
   - "/tag/harley-benton/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups.png"
+featuredImage: "/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups.png"
 featuredImageAlt: "Harley Benton Telecaster Pickups"
 seo: 
   title: "Harley Benton Telecaster Pickups: A Complete Buyer's Guide"
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-1024x683.png" alt="Harley Benton Telecaster Pickups" class="wp-image-11814" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-1024x683.png" alt="Harley Benton Telecaster Pickups" class="wp-image-11814" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-Telecaster-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="605" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-1024x605.png" alt="Roswell TEA Alnico-5 TE Single-Coil Pickups" class="wp-image-11816" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-1024x605.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-600x354.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-300x177.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-768x454.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups.png 1192w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="605" src="/wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-1024x605.png" alt="Roswell TEA Alnico-5 TE Single-Coil Pickups" class="wp-image-11816" title="" srcset="/wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-1024x605.png 1024w, /wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-600x354.png 600w, /wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-300x177.png 300w, /wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups-768x454.png 768w, /wp-content/uploads/2023/05/Roswell-TEA-Alnico-5-TE-Single-Coil-Pickups.png 1192w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2023/05/FilterTron-Pickups-1024x722.png" alt="FilterTron Pickups" class="wp-image-11817" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/FilterTron-Pickups-1024x722.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/FilterTron-Pickups-600x423.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/FilterTron-Pickups-300x211.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/FilterTron-Pickups-768x541.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/FilterTron-Pickups.png 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2023/05/FilterTron-Pickups-1024x722.png" alt="FilterTron Pickups" class="wp-image-11817" title="" srcset="/wp-content/uploads/2023/05/FilterTron-Pickups-1024x722.png 1024w, /wp-content/uploads/2023/05/FilterTron-Pickups-600x423.png 600w, /wp-content/uploads/2023/05/FilterTron-Pickups-300x211.png 300w, /wp-content/uploads/2023/05/FilterTron-Pickups-768x541.png 768w, /wp-content/uploads/2023/05/FilterTron-Pickups.png 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -314,7 +314,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Humbucker-pickups-1024x722.png" alt="Humbucker pickups" class="wp-image-11815" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Humbucker-pickups-1024x722.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Humbucker-pickups-600x423.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Humbucker-pickups-300x211.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Humbucker-pickups-768x541.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Humbucker-pickups.png 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2023/05/Humbucker-pickups-1024x722.png" alt="Humbucker pickups" class="wp-image-11815" title="" srcset="/wp-content/uploads/2023/05/Humbucker-pickups-1024x722.png 1024w, /wp-content/uploads/2023/05/Humbucker-pickups-600x423.png 600w, /wp-content/uploads/2023/05/Humbucker-pickups-300x211.png 300w, /wp-content/uploads/2023/05/Humbucker-pickups-768x541.png 768w, /wp-content/uploads/2023/05/Humbucker-pickups.png 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

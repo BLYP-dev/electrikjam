@@ -22,7 +22,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT.jpg"
+featuredImage: "/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT.jpg"
 featuredImageAlt: "SVSS EXOTIC NS MF TILT"
 seo: 
   title: "New Schecter SVSS Exotic Models: Finally A New, Beautiful Model For 2021!"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-1024x328.png" alt="" class="wp-image-3007" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Original SVSS Model</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-1024x328.png" alt="" class="wp-image-3007" title="" srcset="/wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-1024x328.png 1024w, /wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-600x192.png 600w, /wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-300x96.png 300w, /wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-768x246.png 768w, /wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-1536x492.png 1536w, /wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT-1080x346.png 1080w, /wp-content/uploads/2021/05/SVSS-FR-S-BIRCH-GREEN-TILT.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Original SVSS Model</figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-1024x328.png" alt="schecter svss exotic" class="wp-image-3008" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>SVSS Black Limba Model</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-1024x328.png" alt="schecter svss exotic" class="wp-image-3008" title="" srcset="/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-1024x328.png 1024w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-600x192.png 600w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-300x96.png 300w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-768x246.png 768w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-1536x492.png 1536w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba-1080x346.png 1080w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-black-limba.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>SVSS Black Limba Model</figcaption></figure>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-1024x328.png" alt="" class="wp-image-3005" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>SVSS Ziricote Model</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-1024x328.png" alt="" class="wp-image-3005" title="" srcset="/wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-1024x328.png 1024w, /wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-600x192.png 600w, /wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-300x96.png 300w, /wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-768x246.png 768w, /wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-1536x492.png 1536w, /wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1-1080x346.png 1080w, /wp-content/uploads/2021/05/SVSS-EXOTIC-FVSB-TILT1.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>SVSS Ziricote Model</figcaption></figure>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-1024x683.jpg" alt="" class="wp-image-3006" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-1024x683.jpg" alt="" class="wp-image-3006" title="" srcset="/wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-1024x683.jpg 1024w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-600x400.jpg 600w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-300x200.jpg 300w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-768x512.jpg 768w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-1536x1024.jpg 1536w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-2048x1365.jpg 2048w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-1080x720.jpg 1080w, /wp-content/uploads/2021/05/SVSS-EXOTIC-NS-MF-TILT-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

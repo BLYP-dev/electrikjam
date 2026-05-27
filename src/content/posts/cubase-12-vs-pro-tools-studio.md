@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-1.png"
+featuredImage: "/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-1.png"
 featuredImageAlt: "Cubase 12 vs. Pro Tools Studio"
 seo: 
   title: "Cubase 12 vs. Pro Tools Studio: The Mainstream Powerhouses of Music Production"
@@ -90,7 +90,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-1024x683.png" alt="Cubase 12 vs. Pro Tools Studio" class="wp-image-12514" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-1024x683.png" alt="Cubase 12 vs. Pro Tools Studio" class="wp-image-12514" title="" srcset="/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-1024x683.png 1024w, /wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-600x400.png 600w, /wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-300x200.png 300w, /wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2-768x512.png 768w, /wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="900" height="495" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot.png" alt="Cubase 12 vs. Pro Tools Studio" class="wp-image-12515" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot.png 900w, https://www.electrikjam.com/wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot-600x330.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot-300x165.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot-768x422.png 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption class="wp-element-caption"><strong>Pro Tools Studio DAW User Interface: Complex At First Glance, Yet Thorough In Approach</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="900" height="495" src="/wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot.png" alt="Cubase 12 vs. Pro Tools Studio" class="wp-image-12515" title="" srcset="/wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot.png 900w, /wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot-600x330.png 600w, /wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot-300x165.png 300w, /wp-content/uploads/2023/08/Pro-Tools-Intro-screenshot-768x422.png 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption class="wp-element-caption"><strong>Pro Tools Studio DAW User Interface: Complex At First Glance, Yet Thorough In Approach</strong></figcaption></figure>
 
 
 
@@ -388,7 +388,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-1024x683.png" alt="Cubase 12 vs. Pro Tools Studio" class="wp-image-12516" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-1024x683.png" alt="Cubase 12 vs. Pro Tools Studio" class="wp-image-12516" title="" srcset="/wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-1024x683.png 1024w, /wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-600x400.png 600w, /wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-300x200.png 300w, /wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3-768x512.png 768w, /wp-content/uploads/2023/08/Cubase-12-vs.-Pro-Tools-Studio-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

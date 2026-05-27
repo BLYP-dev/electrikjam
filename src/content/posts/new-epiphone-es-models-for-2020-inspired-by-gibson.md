@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/epi-es-sunburst.jpg"
+featuredImage: "/wp-content/uploads/2020/11/epi-es-sunburst.jpg"
 featuredImageAlt: "epi-es-sunburst"
 seo: 
   title: "New Epiphone ES Models For 2020: \"Inspired By Gibson\" Line Expands!"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-ES.jpg" alt="New Epiphone ES Models" class="wp-image-1428" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-ES.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-ES-600x900.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-ES-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="/wp-content/uploads/2020/11/Epi-ES.jpg" alt="New Epiphone ES Models" class="wp-image-1428" title="" srcset="/wp-content/uploads/2020/11/Epi-ES.jpg 640w, /wp-content/uploads/2020/11/Epi-ES-600x900.jpg 600w, /wp-content/uploads/2020/11/Epi-ES-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="https://www.electrikjam.com/wp-content/uploads/2020/11/epi-es-sunburst.jpg" alt="" class="wp-image-1429" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/epi-es-sunburst.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-es-sunburst-600x900.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-es-sunburst-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="/wp-content/uploads/2020/11/epi-es-sunburst.jpg" alt="" class="wp-image-1429" title="" srcset="/wp-content/uploads/2020/11/epi-es-sunburst.jpg 640w, /wp-content/uploads/2020/11/epi-es-sunburst-600x900.jpg 600w, /wp-content/uploads/2020/11/epi-es-sunburst-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-model-comparisons-1024x768.jpg" alt="" class="wp-image-1430" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-model-comparisons-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-model-comparisons-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-model-comparisons-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-model-comparisons-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-model-comparisons.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The ES 339 and ES 335</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/11/epiphone-model-comparisons-1024x768.jpg" alt="" class="wp-image-1430" title="" srcset="/wp-content/uploads/2020/11/epiphone-model-comparisons-1024x768.jpg 1024w, /wp-content/uploads/2020/11/epiphone-model-comparisons-600x450.jpg 600w, /wp-content/uploads/2020/11/epiphone-model-comparisons-300x225.jpg 300w, /wp-content/uploads/2020/11/epiphone-model-comparisons-768x576.jpg 768w, /wp-content/uploads/2020/11/epiphone-model-comparisons.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The ES 339 and ES 335</figcaption></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg" alt="" class="wp-image-955" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Chelsea Wolfe with her Gibson</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg" alt="" class="wp-image-955" title="" srcset="/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg 1024w, /wp-content/uploads/2020/10/Chelsea-Wolfe-600x338.jpg 600w, /wp-content/uploads/2020/10/Chelsea-Wolfe-300x169.jpg 300w, /wp-content/uploads/2020/10/Chelsea-Wolfe-768x432.jpg 768w, /wp-content/uploads/2020/10/Chelsea-Wolfe.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Chelsea Wolfe with her Gibson</figcaption></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="https://www.electrikjam.com/wp-content/uploads/2020/11/epi-335.jpg" alt="" class="wp-image-1431" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/epi-335.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-335-600x900.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-335-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption>The New Epiphone ES 335</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="/wp-content/uploads/2020/11/epi-335.jpg" alt="" class="wp-image-1431" title="" srcset="/wp-content/uploads/2020/11/epi-335.jpg 640w, /wp-content/uploads/2020/11/epi-335-600x900.jpg 600w, /wp-content/uploads/2020/11/epi-335-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption>The New Epiphone ES 335</figcaption></figure>
 
 
 

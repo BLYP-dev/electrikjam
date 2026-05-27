@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-review.png"
+featuredImage: "/wp-content/uploads/2022/12/Universal-Audio-Volt-276-review.png"
 featuredImageAlt: "Universal Audio Volt 276"
 seo: 
   title: "Universal Audio Volt 276 Interface Review: Amazing, PRO Recording At Home?"
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-1024x683.png" alt="Universal Audio Volt 276" class="wp-image-10236" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-1024x683.png" alt="Universal Audio Volt 276" class="wp-image-10236" title="" srcset="/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-1024x683.png 1024w, /wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-600x400.png 600w, /wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-300x200.png 300w, /wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2-768x512.png 768w, /wp-content/uploads/2022/12/Universal-Audio-Volt-276-Review-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -227,7 +227,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/12/volt_276_feature_1.jpg" alt="Universal audio volt 276" class="wp-image-10240" width="838" height="419" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/volt_276_feature_1.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2022/12/volt_276_feature_1-600x300.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/volt_276_feature_1-300x150.jpg 300w" sizes="(max-width: 838px) 100vw, 838px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/12/volt_276_feature_1.jpg" alt="Universal audio volt 276" class="wp-image-10240" width="838" height="419" title="" srcset="/wp-content/uploads/2022/12/volt_276_feature_1.jpg 640w, /wp-content/uploads/2022/12/volt_276_feature_1-600x300.jpg 600w, /wp-content/uploads/2022/12/volt_276_feature_1-300x150.jpg 300w" sizes="(max-width: 838px) 100vw, 838px" /></figure>
 
 
 
@@ -319,7 +319,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-1024x683.png" alt="Universal Audio Volt 276" class="wp-image-10242" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-1024x683.png" alt="Universal Audio Volt 276" class="wp-image-10242" title="" srcset="/wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-1024x683.png 1024w, /wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-600x400.png 600w, /wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-300x200.png 300w, /wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins-768x512.png 768w, /wp-content/uploads/2022/12/UNiversal-Audio-Volt-276-free-plugins.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -379,7 +379,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-1024x683.png" alt="Universal Audio Volt 276" class="wp-image-10243" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-1024x683.png" alt="Universal Audio Volt 276" class="wp-image-10243" title="" srcset="/wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-1024x683.png 1024w, /wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-600x400.png 600w, /wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-300x200.png 300w, /wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle-768x512.png 768w, /wp-content/uploads/2022/12/Universal-Audio-Volt-276-Studio-Pack-Bundle.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

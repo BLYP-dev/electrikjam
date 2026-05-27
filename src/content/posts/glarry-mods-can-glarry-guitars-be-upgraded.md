@@ -28,7 +28,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods.png"
+featuredImage: "/wp-content/uploads/2023/03/Glarry-Mods.png"
 featuredImageAlt: "Glarry Mods: Can Glarry Guitars And Basses Be Upgraded With Better Parts?"
 seo: 
   title: "Glarry Mods: Can Glarry Guitars And Basses Be Upgraded With Better Parts?"
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-1024x683.png" alt="Glarry GST electric guitar glarry mods" class="wp-image-11170" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glasst-GST-Black-1-1024x683.png" alt="Glarry GST electric guitar glarry mods" class="wp-image-11170" title="" srcset="/wp-content/uploads/2023/03/Glasst-GST-Black-1-1024x683.png 1024w, /wp-content/uploads/2023/03/Glasst-GST-Black-1-600x400.png 600w, /wp-content/uploads/2023/03/Glasst-GST-Black-1-300x200.png 300w, /wp-content/uploads/2023/03/Glasst-GST-Black-1-768x512.png 768w, /wp-content/uploads/2023/03/Glasst-GST-Black-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-1024x683.png" alt="glarry mods" class="wp-image-11336" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glarry-Mods-Nut-1024x683.png" alt="glarry mods" class="wp-image-11336" title="" srcset="/wp-content/uploads/2023/03/Glarry-Mods-Nut-1024x683.png 1024w, /wp-content/uploads/2023/03/Glarry-Mods-Nut-600x400.png 600w, /wp-content/uploads/2023/03/Glarry-Mods-Nut-300x200.png 300w, /wp-content/uploads/2023/03/Glarry-Mods-Nut-768x512.png 768w, /wp-content/uploads/2023/03/Glarry-Mods-Nut.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-1024x683.png" alt="Glarry Mods" class="wp-image-11337" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-1024x683.png" alt="Glarry Mods" class="wp-image-11337" title="" srcset="/wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-1024x683.png 1024w, /wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-600x400.png 600w, /wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-300x200.png 300w, /wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups-768x512.png 768w, /wp-content/uploads/2023/03/Glarry-Guitar-Mods-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -406,7 +406,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-1024x683.png" alt="Glarry Mods: Can Glarry Guitars And Basses Be Upgraded With Better Parts?" class="wp-image-11334" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glarry-Mods-1024x683.png" alt="Glarry Mods: Can Glarry Guitars And Basses Be Upgraded With Better Parts?" class="wp-image-11334" title="" srcset="/wp-content/uploads/2023/03/Glarry-Mods-1024x683.png 1024w, /wp-content/uploads/2023/03/Glarry-Mods-600x400.png 600w, /wp-content/uploads/2023/03/Glarry-Mods-300x200.png 300w, /wp-content/uploads/2023/03/Glarry-Mods-768x512.png 768w, /wp-content/uploads/2023/03/Glarry-Mods.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

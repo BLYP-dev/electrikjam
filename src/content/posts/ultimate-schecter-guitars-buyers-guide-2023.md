@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/08/Untitled-design.jpg"
+featuredImage: "/wp-content/uploads/2023/08/Untitled-design.jpg"
 featuredImageAlt: "Schecter Buying guide"
 seo: 
   title: "The Ultimate Schecter Guitars Buyer’s Guide [2023]"
@@ -81,7 +81,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-team-factory-1024x683.png" alt="Schecter guitars" class="wp-image-10118" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-team-factory-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-team-factory-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-team-factory-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-team-factory-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-team-factory.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Modern Schecter Guitars team, The CEO, And Zakk Wylde</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Guitars-team-factory-1024x683.png" alt="Schecter guitars" class="wp-image-10118" title="" srcset="/wp-content/uploads/2022/12/Schecter-Guitars-team-factory-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Guitars-team-factory-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Guitars-team-factory-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Guitars-team-factory-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Guitars-team-factory.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Modern Schecter Guitars team, The CEO, And Zakk Wylde</strong></figcaption></figure>
 
 
 
@@ -195,7 +195,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-1024x683.png" alt="Schecter guitars" class="wp-image-10119" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-1024x683.png" alt="Schecter guitars" class="wp-image-10119" title="" srcset="/wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Guitars-90s-headstock.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitar-types-1024x683.png" alt="Schecter guitars" class="wp-image-10120" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitar-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitar-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitar-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitar-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-guitar-types-1024x683.png" alt="Schecter guitars" class="wp-image-10120" title="" srcset="/wp-content/uploads/2022/12/Schecter-guitar-types-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-guitar-types-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-guitar-types-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-guitar-types-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -345,7 +345,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitars-arist-models-1024x683.png" alt="Schecter guitars artists models" class="wp-image-10127" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitars-arist-models-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitars-arist-models-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitars-arist-models-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitars-arist-models-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-guitars-arist-models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-guitars-arist-models-1024x683.png" alt="Schecter guitars artists models" class="wp-image-10127" title="" srcset="/wp-content/uploads/2022/12/Schecter-guitars-arist-models-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-guitars-arist-models-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-guitars-arist-models-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-guitars-arist-models-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-guitars-arist-models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -431,7 +431,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-1024x683.png" alt="schecter guitars custom" class="wp-image-10130" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-custom-shop.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-1024x683.png" alt="schecter guitars custom" class="wp-image-10130" title="" srcset="/wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Guitars-custom-shop-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Guitars-custom-shop.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -523,7 +523,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-1024x683.png" alt="Schecter Guitars for beginners" class="wp-image-10163" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Schecter Guitars Omen Elite: One Of The Best Beginner Guitars</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-1024x683.png" alt="Schecter Guitars for beginners" class="wp-image-10163" title="" srcset="/wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Guitar-Omen-Elite-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Schecter Guitars Omen Elite: One Of The Best Beginner Guitars</strong></figcaption></figure>
 
 
 
@@ -669,7 +669,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1.png" alt="" class="wp-image-10165" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1-768x512.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1.png" alt="" class="wp-image-10165" title="" srcset="/wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1.png 1024w, /wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Rob-Scallon-2-1024x683-1-768x512.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -729,7 +729,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-1024x683.png" alt="Schecter Guitars" class="wp-image-10170" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Most Popular Schecter Guitars</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-1024x683.png" alt="Schecter Guitars" class="wp-image-10170" title="" srcset="/wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Guitars-Body-Shapes.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Most Popular Schecter Guitars</strong></figcaption></figure>
 
 
 
@@ -777,7 +777,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-artists-1024x683.png" alt="Schecter guitars" class="wp-image-10166" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-artists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-artists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-artists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-artists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-artists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Nick Johnston And Synyster Gates With Their Schecter Guitars</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Guitars-artists-1024x683.png" alt="Schecter guitars" class="wp-image-10166" title="" srcset="/wp-content/uploads/2022/12/Schecter-Guitars-artists-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Guitars-artists-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Guitars-artists-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Guitars-artists-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Guitars-artists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Nick Johnston And Synyster Gates With Their Schecter Guitars</strong></figcaption></figure>
 
 
 
@@ -927,7 +927,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-older-models-1024x683.png" alt="schecter guitars" class="wp-image-10167" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-older-models-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-older-models-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-older-models-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-older-models-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Guitars-older-models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Guitars-older-models-1024x683.png" alt="schecter guitars" class="wp-image-10167" title="" srcset="/wp-content/uploads/2022/12/Schecter-Guitars-older-models-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Guitars-older-models-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Guitars-older-models-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Guitars-older-models-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Guitars-older-models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -967,7 +967,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Best-Schecter-Guitars-1024x683.png" alt="Schecter Guitars" class="wp-image-10168" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Best-Schecter-Guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Best-Schecter-Guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Best-Schecter-Guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Best-Schecter-Guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Best-Schecter-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>These are the best! In order, down below.</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Best-Schecter-Guitars-1024x683.png" alt="Schecter Guitars" class="wp-image-10168" title="" srcset="/wp-content/uploads/2022/12/Best-Schecter-Guitars-1024x683.png 1024w, /wp-content/uploads/2022/12/Best-Schecter-Guitars-600x400.png 600w, /wp-content/uploads/2022/12/Best-Schecter-Guitars-300x200.png 300w, /wp-content/uploads/2022/12/Best-Schecter-Guitars-768x512.png 768w, /wp-content/uploads/2022/12/Best-Schecter-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>These are the best! In order, down below.</strong></figcaption></figure>
 
 
 
@@ -1047,7 +1047,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="330" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-1024x330.png" alt="Schecter guitars best" class="wp-image-10169" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-1024x330.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-600x194.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-300x97.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-768x248.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-1536x495.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Schecter FR-S</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="330" src="/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-1024x330.png" alt="Schecter guitars best" class="wp-image-10169" title="" srcset="/wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-1024x330.png 1024w, /wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-600x194.png 600w, /wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-300x97.png 300w, /wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-768x248.png 768w, /wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01-1536x495.png 1536w, /wp-content/uploads/2022/12/Hellraiser-C-1-FR-S.Gloss-Black-BLK.01.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Schecter FR-S</strong></figcaption></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Baritone-Guitar-Tuning.png"
+featuredImage: "/wp-content/uploads/2023/04/Baritone-Guitar-Tuning.png"
 featuredImageAlt: "Baritone Guitar Tuning"
 seo: 
   title: "Why I'm Using Baritone Guitars More and More: Tone, Tuning, and Atmosphere..."
@@ -46,7 +46,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png" alt="Danelectro Baritone" class="wp-image-11714" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png" alt="Danelectro Baritone" class="wp-image-11714" title="" srcset="/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png 1024w, /wp-content/uploads/2023/04/Danelectro-Baritone-600x400.png 600w, /wp-content/uploads/2023/04/Danelectro-Baritone-300x200.png 300w, /wp-content/uploads/2023/04/Danelectro-Baritone-768x512.png 768w, /wp-content/uploads/2023/04/Danelectro-Baritone.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-1024x683.jpg" alt="Gretsch Guitars G5260T Electromatic Jet Baritone With Bigsby Black" class="wp-image-18431" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-1024x683.jpg" alt="Gretsch Guitars G5260T Electromatic Jet Baritone With Bigsby Black" class="wp-image-18431" title="" srcset="/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-600x400.jpg 600w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-300x200.jpg 300w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-768x512.jpg 768w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-1024x683.jpg" alt="Squier Classic Vibe Baritone Custom Telecaster" class="wp-image-18426" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-1024x683.jpg" alt="Squier Classic Vibe Baritone Custom Telecaster" class="wp-image-18426" title="" srcset="/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-600x400.jpg 600w, /wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-300x200.jpg 300w, /wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-768x512.jpg 768w, /wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-1024x683.jpg" alt="what gear does stephen carpenter use" class="wp-image-17354" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-1024x683.jpg" alt="what gear does stephen carpenter use" class="wp-image-17354" title="" srcset="/wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-1024x683.jpg 1024w, /wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-600x400.jpg 600w, /wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-300x200.jpg 300w, /wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use-768x512.jpg 768w, /wp-content/uploads/2025/07/what-gear-does-stephen-carpenter-use.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -292,7 +292,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" width="480" height="366" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Jack-Nicholson-Yes-GIF.gif" alt="" class="wp-image-18451" title=""></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="480" height="366" src="/wp-content/uploads/2025/12/Jack-Nicholson-Yes-GIF.gif" alt="" class="wp-image-18451" title=""></figure>
 
 
 

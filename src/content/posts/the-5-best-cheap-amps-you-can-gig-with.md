@@ -22,7 +22,7 @@ tagSlugs:
   - "popular"
 tagPaths: 
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-9.png"
+featuredImage: "/wp-content/uploads/2022/02/Untitled-design-9.png"
 featuredImageAlt: "speaker upgrade"
 seo: 
   title: "The 5 Best Cheap Amps You Can Gig With"
@@ -63,7 +63,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="830" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-1024x830.jpg" alt="cheap amps you can gig with" class="wp-image-6355" style="width:840px;height:680px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-1024x830.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-scaled-600x486.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-300x243.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-768x622.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-1536x1245.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-2048x1660.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-1080x875.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em><strong>Fender Mustang GTX 100</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="830" src="/wp-content/uploads/2022/01/Fender-GTX100-1024x830.jpg" alt="cheap amps you can gig with" class="wp-image-6355" style="width:840px;height:680px" title="" srcset="/wp-content/uploads/2022/01/Fender-GTX100-1024x830.jpg 1024w, /wp-content/uploads/2022/01/Fender-GTX100-scaled-600x486.jpg 600w, /wp-content/uploads/2022/01/Fender-GTX100-300x243.jpg 300w, /wp-content/uploads/2022/01/Fender-GTX100-768x622.jpg 768w, /wp-content/uploads/2022/01/Fender-GTX100-1536x1245.jpg 1536w, /wp-content/uploads/2022/01/Fender-GTX100-2048x1660.jpg 2048w, /wp-content/uploads/2022/01/Fender-GTX100-1080x875.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em><strong>Fender Mustang GTX 100</strong></em></figcaption></figure>
 
 
 
@@ -326,7 +326,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Line-6-Spider-Mark-V.webp" alt="cheap amps you can gig with" class="wp-image-6614" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Line-6-Spider-Mark-V.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Line-6-Spider-Mark-V-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Line-6-Spider-Mark-V-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Line-6-Spider-Mark-V-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Line-6-Spider-Mark-V-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><strong><em>Line 6 Spyder MKV 120</em></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Line-6-Spider-Mark-V.webp" alt="cheap amps you can gig with" class="wp-image-6614" title="" srcset="/wp-content/uploads/2022/01/Line-6-Spider-Mark-V.webp 720w, /wp-content/uploads/2022/01/Line-6-Spider-Mark-V-300x300.webp 300w, /wp-content/uploads/2022/01/Line-6-Spider-Mark-V-100x100.webp 100w, /wp-content/uploads/2022/01/Line-6-Spider-Mark-V-600x600.webp 600w, /wp-content/uploads/2022/01/Line-6-Spider-Mark-V-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><strong><em>Line 6 Spyder MKV 120</em></strong></figcaption></figure>
 
 
 
@@ -392,7 +392,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-Bandit-112.webp" alt="cheap amps you can gig with" class="wp-image-6618" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-Bandit-112.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-Bandit-112-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-Bandit-112-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-Bandit-112-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-Bandit-112-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption">Peavey Bandit 112</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Peavey-Bandit-112.webp" alt="cheap amps you can gig with" class="wp-image-6618" title="" srcset="/wp-content/uploads/2022/01/Peavey-Bandit-112.webp 720w, /wp-content/uploads/2022/01/Peavey-Bandit-112-300x300.webp 300w, /wp-content/uploads/2022/01/Peavey-Bandit-112-100x100.webp 100w, /wp-content/uploads/2022/01/Peavey-Bandit-112-600x600.webp 600w, /wp-content/uploads/2022/01/Peavey-Bandit-112-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption">Peavey Bandit 112</figcaption></figure>
 
 
 
@@ -498,7 +498,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Champion-212.jpg" alt="" class="wp-image-6621" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Champion-212.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Champion-212-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Champion-212-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Champion-212-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Champion-212-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption">Fender Champion XL</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Fender-Champion-212.jpg" alt="" class="wp-image-6621" title="" srcset="/wp-content/uploads/2022/01/Fender-Champion-212.jpg 720w, /wp-content/uploads/2022/01/Fender-Champion-212-300x300.jpg 300w, /wp-content/uploads/2022/01/Fender-Champion-212-100x100.jpg 100w, /wp-content/uploads/2022/01/Fender-Champion-212-600x600.jpg 600w, /wp-content/uploads/2022/01/Fender-Champion-212-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption">Fender Champion XL</figcaption></figure>
 
 
 
@@ -592,7 +592,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-vypyr-x3.jpg" alt="" class="wp-image-6622" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-vypyr-x3.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-vypyr-x3-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-vypyr-x3-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-vypyr-x3-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Peavey-vypyr-x3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><em><strong>Peavey Vypyr X3</strong></em></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Peavey-vypyr-x3.jpg" alt="" class="wp-image-6622" title="" srcset="/wp-content/uploads/2022/01/Peavey-vypyr-x3.jpg 720w, /wp-content/uploads/2022/01/Peavey-vypyr-x3-300x300.jpg 300w, /wp-content/uploads/2022/01/Peavey-vypyr-x3-100x100.jpg 100w, /wp-content/uploads/2022/01/Peavey-vypyr-x3-600x600.jpg 600w, /wp-content/uploads/2022/01/Peavey-vypyr-x3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><em><strong>Peavey Vypyr X3</strong></em></figcaption></figure>
 
 
 
@@ -632,7 +632,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-Katana-100-MKII.webp" alt="cheap amps you can gig with" class="wp-image-6625" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-Katana-100-MKII.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-Katana-100-MKII-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-Katana-100-MKII-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-Katana-100-MKII-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Boss-Katana-100-MKII-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133457"><strong>Boss Katana</strong></a><strong> 100 In Limited Edition White</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Boss-Katana-100-MKII.webp" alt="cheap amps you can gig with" class="wp-image-6625" title="" srcset="/wp-content/uploads/2022/01/Boss-Katana-100-MKII.webp 720w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-300x300.webp 300w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-100x100.webp 100w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-600x600.webp 600w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133457"><strong>Boss Katana</strong></a><strong> 100 In Limited Edition White</strong></figcaption></figure>
 
 
 
@@ -714,7 +714,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter is-resized size-full"><img decoding="async" width="720" height="170" src="https://www.electrikjam.com/wp-content/uploads/2022/01/GAFC-Footswitch-small.jpg" alt="" class="wp-image-6629" style="width:834px;height:197px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/GAFC-Footswitch-small.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/GAFC-Footswitch-small-600x142.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/GAFC-Footswitch-small-300x71.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter is-resized size-full"><img decoding="async" width="720" height="170" src="/wp-content/uploads/2022/01/GAFC-Footswitch-small.jpg" alt="" class="wp-image-6629" style="width:834px;height:197px" title="" srcset="/wp-content/uploads/2022/01/GAFC-Footswitch-small.jpg 720w, /wp-content/uploads/2022/01/GAFC-Footswitch-small-600x142.jpg 600w, /wp-content/uploads/2022/01/GAFC-Footswitch-small-300x71.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 

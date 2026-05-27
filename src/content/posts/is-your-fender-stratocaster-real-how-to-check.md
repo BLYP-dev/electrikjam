@@ -25,7 +25,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster.png"
+featuredImage: "/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster.png"
 featuredImageAlt: "Fender American Professional Stratocaster"
 seo: 
   title: "Is Your Fender Stratocaster Real? Here's How To Check..."
@@ -77,7 +77,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-1024x683.png" alt="Fender Player Stratocaster locking tuners" class="wp-image-10885" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-1024x683.png" alt="Fender Player Stratocaster locking tuners" class="wp-image-10885" title="" srcset="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-1024x683.png 1024w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-600x400.png 600w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-300x200.png 300w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners-768x512.png 768w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-locking-tuners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER.png" alt="FENDER" class="wp-image-13289" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER.png 500w, https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/FENDER.png" alt="FENDER" class="wp-image-13289" title="" srcset="/wp-content/uploads/2023/11/FENDER.png 500w, /wp-content/uploads/2023/11/FENDER-300x300.png 300w, /wp-content/uploads/2023/11/FENDER-100x100.png 100w, /wp-content/uploads/2023/11/FENDER-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png" alt="Fender Player Stratocaster HSS" class="wp-image-10886" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png" alt="Fender Player Stratocaster HSS" class="wp-image-10886" title="" srcset="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png 1024w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-600x400.png 600w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-300x200.png 300w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-768x512.png 768w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-1024x683.png" alt="Fender Player Stratocaster HSS vs SSS" class="wp-image-10887" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-1024x683.png" alt="Fender Player Stratocaster HSS vs SSS" class="wp-image-10887" title="" srcset="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-1024x683.png 1024w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-600x400.png 600w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-300x200.png 300w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-768x512.png 768w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png" alt="History of the Fender Stratocaster" class="wp-image-10899" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png" alt="History of the Fender Stratocaster" class="wp-image-10899" title="" srcset="/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

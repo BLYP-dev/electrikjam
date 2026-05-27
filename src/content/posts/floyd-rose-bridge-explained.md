@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-CO.png"
+featuredImage: "/wp-content/uploads/2022/09/Floyd-Rose-Bridge-CO.png"
 featuredImageAlt: "Floyd Rose Bridge"
 seo: 
   title: "Floyd Rose Bridge Explained: 40 Years Of Scaring Guitarists To Death!"
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-1024x683.png" alt="Floyd Rose Bridge" class="wp-image-9075" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-history.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Eddie Van Halen With His Prototype Floyd Rose Bridge</strong>, <strong>1981</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-1024x683.png" alt="Floyd Rose Bridge" class="wp-image-9075" title="" srcset="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-1024x683.png 1024w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-600x400.png 600w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-300x200.png 300w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-history-768x512.png 768w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-history.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Eddie Van Halen With His Prototype Floyd Rose Bridge</strong>, <strong>1981</strong></figcaption></figure>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-1024x683.png" alt="Floyd Rose Bridge" class="wp-image-9076" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Thank You To <a href="http://By%20Freywa%20-%20Own%20work,%20CC%20BY-SA%203.0,%20https://commons.wikimedia.org/w/index.php?curid=14706234" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="167810">FREYWA</a> For The Diagram</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-1024x683.png" alt="Floyd Rose Bridge" class="wp-image-9076" title="" srcset="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-1024x683.png 1024w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-600x400.png 600w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-300x200.png 300w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work-768x512.png 768w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-how-does-it-work.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Thank You To <a href="http://By%20Freywa%20-%20Own%20work,%20CC%20BY-SA%203.0,%20https://commons.wikimedia.org/w/index.php?curid=14706234" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="167810">FREYWA</a> For The Diagram</strong></figcaption></figure>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-1024x683.png" alt="Floyd Rose Bridge" class="wp-image-9077" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Floyd Rose Without Enough Spring Tension</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-1024x683.png" alt="Floyd Rose Bridge" class="wp-image-9077" title="" srcset="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-1024x683.png 1024w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-600x400.png 600w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-300x200.png 300w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong-768x512.png 768w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-Wrong.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Floyd Rose Without Enough Spring Tension</strong></figcaption></figure>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-1024x683.png" alt="Floyd rose bridge VAI" class="wp-image-9078" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>You Can Be Like Steve Vai: #1 Pro</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-1024x683.png" alt="Floyd rose bridge VAI" class="wp-image-9078" title="" srcset="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-1024x683.png 1024w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-600x400.png 600w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-300x200.png 300w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai-768x512.png 768w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-Vai.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>You Can Be Like Steve Vai: #1 Pro</strong></figcaption></figure>
 
 
 

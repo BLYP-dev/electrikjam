@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series.png"
+featuredImage: "/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series.png"
 featuredImageAlt: "Epiphone Slash Signature Series"
 seo: 
   title: "The Legendary Epiphone Slash Signature Series COMING In 2021…"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="737" src="https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-1024x737.png" alt="" class="wp-image-1763" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-1024x737.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-600x432.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-300x216.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-768x553.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series.png 1148w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="737" src="/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-1024x737.png" alt="" class="wp-image-1763" title="" srcset="/wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-1024x737.png 1024w, /wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-600x432.png 600w, /wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-300x216.png 300w, /wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series-768x553.png 768w, /wp-content/uploads/2021/01/Epiphone-Slash-Signature-Series.png 1148w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, /wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, /wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, /wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, /wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, /wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>Learn More About Epiphone Guitars: Best New Models, Buying Guides &amp; Tone Tips</strong></h3>
 
 

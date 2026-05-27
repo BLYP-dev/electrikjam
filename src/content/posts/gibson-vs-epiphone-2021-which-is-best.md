@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/epi-3.jpg"
+featuredImage: "/wp-content/uploads/2020/11/epi-3.jpg"
 featuredImageAlt: "epi-3"
 seo: 
   title: "Gibson VS Epiphone 2021: Which Is Definitively Best? (Spoiler: It's Not Gibson!)"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="469" src="https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-1024x469.jpg" alt="gibson vs epiphone" class="wp-image-1234" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-1024x469.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-600x275.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-300x138.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-768x352.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="469" src="/wp-content/uploads/2020/11/epiphone-2020-lineup-1024x469.jpg" alt="gibson vs epiphone" class="wp-image-1234" title="" srcset="/wp-content/uploads/2020/11/epiphone-2020-lineup-1024x469.jpg 1024w, /wp-content/uploads/2020/11/epiphone-2020-lineup-600x275.jpg 600w, /wp-content/uploads/2020/11/epiphone-2020-lineup-300x138.jpg 300w, /wp-content/uploads/2020/11/epiphone-2020-lineup-768x352.jpg 768w, /wp-content/uploads/2020/11/epiphone-2020-lineup.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg" alt="" class="wp-image-1893" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Can you tell the difference on a solid color?</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg" alt="" class="wp-image-1893" title="" srcset="/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg 1024w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-600x400.jpg 600w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-300x200.jpg 300w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-768x512.jpg 768w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Can you tell the difference on a solid color?</figcaption></figure>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="543" src="https://www.electrikjam.com/wp-content/uploads/2021/02/tone-pros-1024x543.jpg" alt="" class="wp-image-1892" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/tone-pros-1024x543.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/tone-pros-600x318.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/tone-pros-300x159.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/tone-pros-768x407.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/tone-pros-1536x815.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/02/tone-pros.jpg 1738w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Tone Pros Locking Bridge System</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="543" src="/wp-content/uploads/2021/02/tone-pros-1024x543.jpg" alt="" class="wp-image-1892" title="" srcset="/wp-content/uploads/2021/02/tone-pros-1024x543.jpg 1024w, /wp-content/uploads/2021/02/tone-pros-600x318.jpg 600w, /wp-content/uploads/2021/02/tone-pros-300x159.jpg 300w, /wp-content/uploads/2021/02/tone-pros-768x407.jpg 768w, /wp-content/uploads/2021/02/tone-pros-1536x815.jpg 1536w, /wp-content/uploads/2021/02/tone-pros.jpg 1738w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Tone Pros Locking Bridge System</figcaption></figure>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.muddyhumbucker.com/epiphone-les-paul-special-electric-guitar/" data-lasso-id="1945" target="_blank" rel="noopener noreferrer nofollow"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul--1024x768.jpg" alt="" class="wp-image-1894" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul--1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul--600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul--300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul--768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Courtesy of <a href="https://www.muddyhumbucker.com/epiphone-les-paul-special-electric-guitar/" class="rank-math-link" data-lasso-id="761" target="_blank" rel="noopener noreferrer nofollow">Muddy Humbuckers</a></figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://www.muddyhumbucker.com/epiphone-les-paul-special-electric-guitar/" data-lasso-id="1945" target="_blank" rel="noopener noreferrer nofollow"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/02/Epiphone-Les-Paul--1024x768.jpg" alt="" class="wp-image-1894" title="" srcset="/wp-content/uploads/2021/02/Epiphone-Les-Paul--1024x768.jpg 1024w, /wp-content/uploads/2021/02/Epiphone-Les-Paul--600x450.jpg 600w, /wp-content/uploads/2021/02/Epiphone-Les-Paul--300x225.jpg 300w, /wp-content/uploads/2021/02/Epiphone-Les-Paul--768x576.jpg 768w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Courtesy of <a href="https://www.muddyhumbucker.com/epiphone-les-paul-special-electric-guitar/" class="rank-math-link" data-lasso-id="761" target="_blank" rel="noopener noreferrer nofollow">Muddy Humbuckers</a></figcaption></figure>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="753" height="598" src="https://www.electrikjam.com/wp-content/uploads/2021/02/753_epi2020heedstock.jpg" alt="" class="wp-image-1895" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/753_epi2020heedstock.jpg 753w, https://www.electrikjam.com/wp-content/uploads/2021/02/753_epi2020heedstock-600x476.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/753_epi2020heedstock-300x238.jpg 300w" sizes="(max-width: 753px) 100vw, 753px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="753" height="598" src="/wp-content/uploads/2021/02/753_epi2020heedstock.jpg" alt="" class="wp-image-1895" title="" srcset="/wp-content/uploads/2021/02/753_epi2020heedstock.jpg 753w, /wp-content/uploads/2021/02/753_epi2020heedstock-600x476.jpg 600w, /wp-content/uploads/2021/02/753_epi2020heedstock-300x238.jpg 300w" sizes="(max-width: 753px) 100vw, 753px" /></figure>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg" alt="" class="wp-image-1896" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson-600x315.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson-768x404.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Are these Gibsons? Or Epiphones?</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg" alt="" class="wp-image-1896" title="" srcset="/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg 1024w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-600x315.jpg 600w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-300x158.jpg 300w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-768x404.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Are these Gibsons? Or Epiphones?</figcaption></figure>
 
 
 

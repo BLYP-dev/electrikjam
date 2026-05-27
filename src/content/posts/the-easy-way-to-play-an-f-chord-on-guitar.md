@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar-.png"
+featuredImage: "/wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar-.png"
 featuredImageAlt: "EASY Way To Play An F Chord on Guitar"
 seo: 
   title: "How To Play F Chord on Guitar: Barre, Variations, No Barre & SUS Chords"
@@ -45,7 +45,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="444" src="https://www.electrikjam.com/wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-1024x444.png" alt="F Minor and F Major Guitar Chords" class="wp-image-6951" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-1024x444.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-600x260.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-300x130.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-768x333.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords.png 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="444" src="/wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-1024x444.png" alt="F Minor and F Major Guitar Chords" class="wp-image-6951" title="" srcset="/wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-1024x444.png 1024w, /wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-600x260.png 600w, /wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-300x130.png 300w, /wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords-768x333.png 768w, /wp-content/uploads/2022/02/F-Minor-and-F-Major-Guitar-Chords.png 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="845" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/02/easy-f-chord-no-barre-guitar-845x1024.png" alt="easy f chord no barre guitar" class="wp-image-6947" title=""></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="845" height="1024" src="/wp-content/uploads/2022/02/easy-f-chord-no-barre-guitar-845x1024.png" alt="easy f chord no barre guitar" class="wp-image-6947" title=""></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="513" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/02/F-Power-Chord.png" alt="F Power Chord" class="wp-image-6950" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/F-Power-Chord.png 513w, https://www.electrikjam.com/wp-content/uploads/2022/02/F-Power-Chord-214x300.png 214w" sizes="(max-width: 513px) 100vw, 513px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="513" height="720" src="/wp-content/uploads/2022/02/F-Power-Chord.png" alt="F Power Chord" class="wp-image-6950" title="" srcset="/wp-content/uploads/2022/02/F-Power-Chord.png 513w, /wp-content/uploads/2022/02/F-Power-Chord-214x300.png 214w" sizes="(max-width: 513px) 100vw, 513px" /></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="731" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Play-The-F-Sus-4-Chord-1024x731.png" alt="how to play The F Sus 4 Chord" class="wp-image-6948" title=""></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="731" src="/wp-content/uploads/2022/02/Play-The-F-Sus-4-Chord-1024x731.png" alt="how to play The F Sus 4 Chord" class="wp-image-6948" title=""></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="751" height="847" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Fm-Guitar-Chord.png" alt="" class="wp-image-12994" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Fm-Guitar-Chord.png 751w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fm-Guitar-Chord-600x677.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fm-Guitar-Chord-266x300.png 266w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="751" height="847" src="/wp-content/uploads/2023/10/Fm-Guitar-Chord.png" alt="" class="wp-image-12994" title="" srcset="/wp-content/uploads/2023/10/Fm-Guitar-Chord.png 751w, /wp-content/uploads/2023/10/Fm-Guitar-Chord-600x677.png 600w, /wp-content/uploads/2023/10/Fm-Guitar-Chord-266x300.png 266w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-1024x768.jpg" alt="" class="wp-image-12995" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/F-Chord-Guitar-F-Major.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-1024x768.jpg" alt="" class="wp-image-12995" title="" srcset="/wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-1024x768.jpg 1024w, /wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-600x450.jpg 600w, /wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-300x225.jpg 300w, /wp-content/uploads/2023/10/F-Chord-Guitar-F-Major-768x576.jpg 768w, /wp-content/uploads/2023/10/F-Chord-Guitar-F-Major.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="751" height="847" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Fm7-Guitar-Chord.png" alt="" class="wp-image-12996" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Fm7-Guitar-Chord.png 751w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fm7-Guitar-Chord-600x677.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fm7-Guitar-Chord-266x300.png 266w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="751" height="847" src="/wp-content/uploads/2023/10/Fm7-Guitar-Chord.png" alt="" class="wp-image-12996" title="" srcset="/wp-content/uploads/2023/10/Fm7-Guitar-Chord.png 751w, /wp-content/uploads/2023/10/Fm7-Guitar-Chord-600x677.png 600w, /wp-content/uploads/2023/10/Fm7-Guitar-Chord-266x300.png 266w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
 
 
 
@@ -241,7 +241,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="751" height="847" src="https://www.electrikjam.com/wp-content/uploads/2023/10/F-Guitar-Chord-F-Major.png" alt="" class="wp-image-12997" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/F-Guitar-Chord-F-Major.png 751w, https://www.electrikjam.com/wp-content/uploads/2023/10/F-Guitar-Chord-F-Major-600x677.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/F-Guitar-Chord-F-Major-266x300.png 266w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="751" height="847" src="/wp-content/uploads/2023/10/F-Guitar-Chord-F-Major.png" alt="" class="wp-image-12997" title="" srcset="/wp-content/uploads/2023/10/F-Guitar-Chord-F-Major.png 751w, /wp-content/uploads/2023/10/F-Guitar-Chord-F-Major-600x677.png 600w, /wp-content/uploads/2023/10/F-Guitar-Chord-F-Major-266x300.png 266w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
 
 
 
@@ -263,7 +263,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="751" height="847" src="https://www.electrikjam.com/wp-content/uploads/2023/10/F7-Guitar-Chord.png" alt="" class="wp-image-12998" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/F7-Guitar-Chord.png 751w, https://www.electrikjam.com/wp-content/uploads/2023/10/F7-Guitar-Chord-600x677.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/F7-Guitar-Chord-266x300.png 266w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="751" height="847" src="/wp-content/uploads/2023/10/F7-Guitar-Chord.png" alt="" class="wp-image-12998" title="" srcset="/wp-content/uploads/2023/10/F7-Guitar-Chord.png 751w, /wp-content/uploads/2023/10/F7-Guitar-Chord-600x677.png 600w, /wp-content/uploads/2023/10/F7-Guitar-Chord-266x300.png 266w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
 
 
 

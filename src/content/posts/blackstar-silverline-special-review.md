@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/Blackstar-Silverline-special.webp"
+featuredImage: "/wp-content/uploads/2022/01/Blackstar-Silverline-special.webp"
 featuredImageAlt: "Blackstar Silverline special"
 seo: 
   title: "Blackstar Silverline Special Review: The 50 Watt Heavy Hitter!"
@@ -65,7 +65,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-1024x448.jpg" alt="" class="wp-image-6394" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-1024x448.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-600x263.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-300x131.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-768x336.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-1536x672.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-1080x473.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>All Of The Silverline Amp Models</em></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-1024x448.jpg" alt="" class="wp-image-6394" title="" srcset="/wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-1024x448.jpg 1024w, /wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-600x263.jpg 600w, /wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-300x131.jpg 300w, /wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-768x336.jpg 768w, /wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-1536x672.jpg 1536w, /wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1-1080x473.jpg 1080w, /wp-content/uploads/2022/01/blackstar-silverline-guitar-amps-family-gal1.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>All Of The Silverline Amp Models</em></strong></figcaption></figure>
 			
 		
 
@@ -95,7 +95,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="418" src="https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-1024x418.jpg" alt="blackstar silverline special" class="wp-image-6395" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-1024x418.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-600x245.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-300x122.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-768x313.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-1536x627.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-2048x836.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-1080x441.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="418" src="/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-1024x418.jpg" alt="blackstar silverline special" class="wp-image-6395" title="" srcset="/wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-1024x418.jpg 1024w, /wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-600x245.jpg 600w, /wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-300x122.jpg 300w, /wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-768x313.jpg 768w, /wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-1536x627.jpg 1536w, /wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-2048x836.jpg 2048w, /wp-content/uploads/2022/01/blackstar-silverline-deluxe-100w-1x12-1-1080x441.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -137,7 +137,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="794" height="483" src="https://www.electrikjam.com/wp-content/uploads/2022/01/idcore-v3-architect-software.jpg" alt="" class="wp-image-6396" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/idcore-v3-architect-software.jpg 794w, https://www.electrikjam.com/wp-content/uploads/2022/01/idcore-v3-architect-software-600x365.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/idcore-v3-architect-software-300x182.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/idcore-v3-architect-software-768x467.jpg 768w" sizes="(max-width: 794px) 100vw, 794px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="794" height="483" src="/wp-content/uploads/2022/01/idcore-v3-architect-software.jpg" alt="" class="wp-image-6396" title="" srcset="/wp-content/uploads/2022/01/idcore-v3-architect-software.jpg 794w, /wp-content/uploads/2022/01/idcore-v3-architect-software-600x365.jpg 600w, /wp-content/uploads/2022/01/idcore-v3-architect-software-300x182.jpg 300w, /wp-content/uploads/2022/01/idcore-v3-architect-software-768x467.jpg 768w" sizes="(max-width: 794px) 100vw, 794px" /></figure>
 			
 		
 

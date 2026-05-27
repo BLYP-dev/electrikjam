@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/07/Solar-Guitars-Drops-GC2.6-KILLERTONE-%E2%80%93-Its-Bloody-EPIC.png"
+featuredImage: "/wp-content/uploads/2024/07/Solar-Guitars-Drops-GC2.6-KILLERTONE-%E2%80%93-Its-Bloody-EPIC.png"
 featuredImageAlt: "Solar Guitars Drops GC2.6 KILLERTONE – It's Bloody EPIC..."
 seo: 
   title: "Solar Guitars Drops GC2.6 KILLERTONE – It's Bloody EPIC..."
@@ -66,7 +66,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--1024x683.png" alt="" class="wp-image-15591" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--1024x683.png" alt="" class="wp-image-15591" title="" srcset="/wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--1024x683.png 1024w, /wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--600x400.png 600w, /wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--300x200.png 300w, /wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE--768x512.png 768w, /wp-content/uploads/2024/07/Solar-Guitars-GC2.6-KILLERTONE-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="851" src="https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-1024x851.png" alt="" class="wp-image-15585" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-1024x851.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-600x498.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-300x249.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-768x638.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11.png 1158w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="851" src="/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-1024x851.png" alt="" class="wp-image-15585" title="" srcset="/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-1024x851.png 1024w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-600x498.png 600w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-300x249.png 300w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11-768x638.png 768w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.11.png 1158w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="697" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-697x1024.png" alt="" class="wp-image-15586" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-697x1024.png 697w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-600x881.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-204x300.png 204w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-768x1128.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-1046x1536.png 1046w, https://www.electrikjam.com/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24.png 1182w" sizes="(max-width: 697px) 100vw, 697px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="697" height="1024" src="/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-697x1024.png" alt="" class="wp-image-15586" title="" srcset="/wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-697x1024.png 697w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-600x881.png 600w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-204x300.png 204w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-768x1128.png 768w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24-1046x1536.png 1046w, /wp-content/uploads/2024/07/Screenshot-2024-07-12-at-14.38.24.png 1182w" sizes="(max-width: 697px) 100vw, 697px" /></figure>
 
 
 

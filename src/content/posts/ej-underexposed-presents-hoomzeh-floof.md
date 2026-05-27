@@ -22,7 +22,7 @@ tagSlugs:
   - "underexposed"
 tagPaths: 
   - "/tag/underexposed/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/floof.jpg"
+featuredImage: "/wp-content/uploads/2021/12/floof.jpg"
 featuredImageAlt: "floof"
 seo: 
   title: "EJ Underexposed Presents: Hoomzeh \"Floof\""

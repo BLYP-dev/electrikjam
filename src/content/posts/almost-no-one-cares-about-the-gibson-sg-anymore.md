@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/epiphone/"
   - "/tag/gibson/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/No-One-Cares-About-The-SG-Anymore.png"
+featuredImage: "/wp-content/uploads/2024/04/No-One-Cares-About-The-SG-Anymore.png"
 featuredImageAlt: "No One Cares About The SG Anymore"
 seo: 
   title: "Almost No One Cares About The Gibson SG Anymore…"
@@ -69,7 +69,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-1024x683.png" alt="" class="wp-image-14200" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-1024x683.png" alt="" class="wp-image-14200" title="" srcset="/wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-1024x683.png 1024w, /wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-600x400.png 600w, /wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-300x200.png 300w, /wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive-768x512.png 768w, /wp-content/uploads/2024/02/1962-Les-Paul-SG-Custom-Classic-White-Short-Maestro-Ebony-Block-Murphy-Lab-Light-Aged-Exclusive.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png" alt="Fender Meteora vs Fender Telecaster" class="wp-image-12762" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png" alt="Fender Meteora vs Fender Telecaster" class="wp-image-12762" title="" srcset="/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png 1024w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-600x400.png 600w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-300x200.png 300w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-768x512.png 768w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -205,7 +205,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Epiphone-SG-Standard-1024x683.png" alt="Epiphone SG Standard" class="wp-image-13330" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Epiphone-SG-Standard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Epiphone-SG-Standard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Epiphone-SG-Standard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Epiphone-SG-Standard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Epiphone-SG-Standard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Epiphone-SG-Standard-1024x683.png" alt="Epiphone SG Standard" class="wp-image-13330" title="" srcset="/wp-content/uploads/2023/11/Epiphone-SG-Standard-1024x683.png 1024w, /wp-content/uploads/2023/11/Epiphone-SG-Standard-600x400.png 600w, /wp-content/uploads/2023/11/Epiphone-SG-Standard-300x200.png 300w, /wp-content/uploads/2023/11/Epiphone-SG-Standard-768x512.png 768w, /wp-content/uploads/2023/11/Epiphone-SG-Standard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -229,7 +229,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png" alt="What Guitar Does Tony Iommi Use" class="wp-image-13319" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png" alt="What Guitar Does Tony Iommi Use" class="wp-image-13319" title="" srcset="/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png 1024w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-600x400.png 600w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-300x200.png 300w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-768x512.png 768w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -339,7 +339,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-1024x683.png" alt="Gibson Tony Iommi SG Special" class="wp-image-13324" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-1024x683.png" alt="Gibson Tony Iommi SG Special" class="wp-image-13324" title="" srcset="/wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-1024x683.png 1024w, /wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-600x400.png 600w, /wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-300x200.png 300w, /wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special-768x512.png 768w, /wp-content/uploads/2023/11/Gibson-Tony-Iommi-SG-Special.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

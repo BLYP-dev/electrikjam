@@ -25,7 +25,7 @@ tagSlugs:
   - "prs"
 tagPaths: 
   - "/tag/prs/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SE-Silver-Sky.webp"
+featuredImage: "/wp-content/uploads/2022/01/PRS-SE-Silver-Sky.webp"
 featuredImageAlt: "PRS SE Silver Sky"
 seo: 
   title: "PRS SE Silver Sky Review 2022: The Amazing Hype Is Real!"
@@ -86,7 +86,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="600" src="https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors.jpg" alt="Prs se silver sky" class="wp-image-6549" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors-600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors-300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors-768x461.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><em><strong>The Four PRS SE Silver Sky Colors</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="600" src="/wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors.jpg" alt="Prs se silver sky" class="wp-image-6549" title="" srcset="/wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors.jpg 1000w, /wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors-600x360.jpg 600w, /wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors-300x180.jpg 300w, /wp-content/uploads/2022/01/PRS-SE-Silver-Sky-colors-768x461.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><em><strong>The Four PRS SE Silver Sky Colors</strong></em></figcaption></figure>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="460" src="https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SS-SE-1024x460.jpg" alt="PRS SE Silver sky" class="wp-image-6550" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SS-SE-1024x460.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SS-SE-scaled-600x270.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SS-SE-300x135.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SS-SE-768x345.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SS-SE-1536x690.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SS-SE-2048x920.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-SS-SE-1080x485.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Pickups, Tremolo, and Plastic Details</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="460" src="/wp-content/uploads/2022/01/PRS-SS-SE-1024x460.jpg" alt="PRS SE Silver sky" class="wp-image-6550" title="" srcset="/wp-content/uploads/2022/01/PRS-SS-SE-1024x460.jpg 1024w, /wp-content/uploads/2022/01/PRS-SS-SE-scaled-600x270.jpg 600w, /wp-content/uploads/2022/01/PRS-SS-SE-300x135.jpg 300w, /wp-content/uploads/2022/01/PRS-SS-SE-768x345.jpg 768w, /wp-content/uploads/2022/01/PRS-SS-SE-1536x690.jpg 1536w, /wp-content/uploads/2022/01/PRS-SS-SE-2048x920.jpg 2048w, /wp-content/uploads/2022/01/PRS-SS-SE-1080x485.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Pickups, Tremolo, and Plastic Details</em></strong></figcaption></figure>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="349" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-1024x349.jpeg" alt="" class="wp-image-6551" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-1024x349.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-scaled-600x204.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-300x102.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-768x262.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-1536x523.jpeg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-2048x698.jpeg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-1080x368.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>PRS USA Silver Sky</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="349" src="/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-1024x349.jpeg" alt="" class="wp-image-6551" title="" srcset="/wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-1024x349.jpeg 1024w, /wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-scaled-600x204.jpeg 600w, /wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-300x102.jpeg 300w, /wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-768x262.jpeg 768w, /wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-1536x523.jpeg 1536w, /wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-2048x698.jpeg 2048w, /wp-content/uploads/2022/01/Silver-Sky-Lunar-Ice-scaled-1-1080x368.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>PRS USA Silver Sky</figcaption></figure>
 
 
 

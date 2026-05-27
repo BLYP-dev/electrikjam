@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo.png"
+featuredImage: "/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo.png"
 featuredImageAlt: "Electrical-Guitar-Company-King-Buzzo"
 seo: 
   title: "Electrical Guitar Company 101: What You Need To Know"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-1024x683.png" alt="The Electrical Guitar Company 101" class="wp-image-14895" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-1024x683.png" alt="The Electrical Guitar Company 101" class="wp-image-14895" title="" srcset="/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-1024x683.png 1024w, /wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-600x400.png 600w, /wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-300x200.png 300w, /wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-768x512.png 768w, /wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-1024x576.jpg" alt="" class="wp-image-1571" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/buzzo-1024x576.jpg" alt="" class="wp-image-1571" title="" srcset="/wp-content/uploads/2020/12/buzzo-1024x576.jpg 1024w, /wp-content/uploads/2020/12/buzzo-600x338.jpg 600w, /wp-content/uploads/2020/12/buzzo-300x169.jpg 300w, /wp-content/uploads/2020/12/buzzo-768x432.jpg 768w, /wp-content/uploads/2020/12/buzzo.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="750" height="423" src="https://www.electrikjam.com/wp-content/uploads/2024/04/R.jpg" alt="" class="wp-image-14898" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/R.jpg 750w, https://www.electrikjam.com/wp-content/uploads/2024/04/R-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/R-300x169.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="750" height="423" src="/wp-content/uploads/2024/04/R.jpg" alt="" class="wp-image-14898" title="" srcset="/wp-content/uploads/2024/04/R.jpg 750w, /wp-content/uploads/2024/04/R-600x338.jpg 600w, /wp-content/uploads/2024/04/R-300x169.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
 
 
 

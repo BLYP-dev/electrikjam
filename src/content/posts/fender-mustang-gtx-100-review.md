@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-scaled.jpg"
+featuredImage: "/wp-content/uploads/2022/01/Fender-GTX100-scaled.jpg"
 featuredImageAlt: "cheap amps you can gig with"
 seo: 
   title: "Fender Mustang GTX 100 Review: BEST Versatile Gigging Amp Under $500!"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-Gtx100.jpg" alt="Fender Mustang GTX 100" class="wp-image-6351" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-Gtx100.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-Gtx100-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-Gtx100-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-Gtx100-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-Gtx100-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>Fender Mustang GTX 100 With Footswitch</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Mustang-Gtx100.jpg" alt="Fender Mustang GTX 100" class="wp-image-6351" title="" srcset="/wp-content/uploads/2022/01/Mustang-Gtx100.jpg 720w, /wp-content/uploads/2022/01/Mustang-Gtx100-300x300.jpg 300w, /wp-content/uploads/2022/01/Mustang-Gtx100-100x100.jpg 100w, /wp-content/uploads/2022/01/Mustang-Gtx100-600x600.jpg 600w, /wp-content/uploads/2022/01/Mustang-Gtx100-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>Fender Mustang GTX 100 With Footswitch</figcaption></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="479" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-GTX-2-1024x479.jpg" alt="" class="wp-image-6354" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-GTX-2-1024x479.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-GTX-2-scaled-600x281.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-GTX-2-300x140.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-GTX-2-768x359.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-GTX-2-1536x718.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-GTX-2-2048x957.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/01/Mustang-GTX-2-1080x505.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Top Of The Fender Mustang GTX 100: Demo Model</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="479" src="/wp-content/uploads/2022/01/Mustang-GTX-2-1024x479.jpg" alt="" class="wp-image-6354" title="" srcset="/wp-content/uploads/2022/01/Mustang-GTX-2-1024x479.jpg 1024w, /wp-content/uploads/2022/01/Mustang-GTX-2-scaled-600x281.jpg 600w, /wp-content/uploads/2022/01/Mustang-GTX-2-300x140.jpg 300w, /wp-content/uploads/2022/01/Mustang-GTX-2-768x359.jpg 768w, /wp-content/uploads/2022/01/Mustang-GTX-2-1536x718.jpg 1536w, /wp-content/uploads/2022/01/Mustang-GTX-2-2048x957.jpg 2048w, /wp-content/uploads/2022/01/Mustang-GTX-2-1080x505.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Top Of The Fender Mustang GTX 100: Demo Model</em></strong></figcaption></figure>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-1024x768.jpg" alt="Fender Mustang GTX 100" class="wp-image-6352" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Rear Panel Of The Fender Mustang GTX 100</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-1024x768.jpg" alt="Fender Mustang GTX 100" class="wp-image-6352" title="" srcset="/wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-1024x768.jpg 1024w, /wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-600x450.jpg 600w, /wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-300x225.jpg 300w, /wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-768x576.jpg 768w, /wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-510x382.jpg 510w, /wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel-1080x810.jpg 1080w, /wp-content/uploads/2022/01/Fender-Mustang-GTX100-rear-panel.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Rear Panel Of The Fender Mustang GTX 100</strong></em></figcaption></figure>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="830" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-1024x830.jpg" alt="" class="wp-image-6355" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-1024x830.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-scaled-600x486.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-300x243.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-768x622.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-1536x1245.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-2048x1660.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/01/Fender-GTX100-1080x875.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Fender Mustang GTX 100</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="830" src="/wp-content/uploads/2022/01/Fender-GTX100-1024x830.jpg" alt="" class="wp-image-6355" title="" srcset="/wp-content/uploads/2022/01/Fender-GTX100-1024x830.jpg 1024w, /wp-content/uploads/2022/01/Fender-GTX100-scaled-600x486.jpg 600w, /wp-content/uploads/2022/01/Fender-GTX100-300x243.jpg 300w, /wp-content/uploads/2022/01/Fender-GTX100-768x622.jpg 768w, /wp-content/uploads/2022/01/Fender-GTX100-1536x1245.jpg 1536w, /wp-content/uploads/2022/01/Fender-GTX100-2048x1660.jpg 2048w, /wp-content/uploads/2022/01/Fender-GTX100-1080x875.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Fender Mustang GTX 100</strong></em></figcaption></figure>
 
 
 <div id="rank-math-faq" class="rank-math-block">

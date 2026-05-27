@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1.jpg"
+featuredImage: "/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1.jpg"
 featuredImageAlt: "harley benton fusion 3"
 seo: 
   title: "Harley Benton Fusion 3 Review: The Amazing #1 Budget Guitar On The Market?"
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg" alt="harley benton fusion 3" class="wp-image-5768" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>New Colors, New Lineup</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg" alt="harley benton fusion 3" class="wp-image-5768" title="" srcset="/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg 1024w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-600x400.jpg 600w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-300x200.jpg 300w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-768x512.jpg 768w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1536x1024.jpg 1536w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1080x720.jpg 1080w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>New Colors, New Lineup</em></strong></figcaption></figure>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/harley-Benton-Fusion-3.jpg" alt="" class="wp-image-5774" width="839" height="346" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/harley-Benton-Fusion-3.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/11/harley-Benton-Fusion-3-600x248.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/harley-Benton-Fusion-3-300x124.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/harley-Benton-Fusion-3-768x317.jpg 768w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/harley-Benton-Fusion-3.jpg" alt="" class="wp-image-5774" width="839" height="346" title="" srcset="/wp-content/uploads/2021/11/harley-Benton-Fusion-3.jpg 800w, /wp-content/uploads/2021/11/harley-Benton-Fusion-3-600x248.jpg 600w, /wp-content/uploads/2021/11/harley-Benton-Fusion-3-300x124.jpg 300w, /wp-content/uploads/2021/11/harley-Benton-Fusion-3-768x317.jpg 768w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-1024x576.jpg" alt="" class="wp-image-5775" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><a href="https://www.electrikjam.com/harley-benton-dnafx-review/" data-lasso-id="26180"><strong>Harley Benton</a> Fusion 3 T Style</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/11/Harley-fusion-3-1024x576.jpg" alt="" class="wp-image-5775" title="" srcset="/wp-content/uploads/2021/11/Harley-fusion-3-1024x576.jpg 1024w, /wp-content/uploads/2021/11/Harley-fusion-3-600x338.jpg 600w, /wp-content/uploads/2021/11/Harley-fusion-3-300x169.jpg 300w, /wp-content/uploads/2021/11/Harley-fusion-3-768x432.jpg 768w, /wp-content/uploads/2021/11/Harley-fusion-3-1080x608.jpg 1080w, /wp-content/uploads/2021/11/Harley-fusion-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><a href="https://www.electrikjam.com/harley-benton-dnafx-review/" data-lasso-id="26180"><strong>Harley Benton</a> Fusion 3 T Style</strong></em></figcaption></figure>
 
 
 

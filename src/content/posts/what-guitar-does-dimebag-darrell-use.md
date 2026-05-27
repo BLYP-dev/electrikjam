@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide.png"
+featuredImage: "/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide.png"
 featuredImageAlt: "Dimebag Darrell Pedal Guide"
 seo: 
   title: "What Guitar Does Dimebag Darrell Use? A Complete Overview"
@@ -109,7 +109,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="https://www.electrikjam.com/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-1024x585.webp" alt="dimebag and jimi hendrix in heaven" class="wp-image-13543" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-1024x585.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-600x343.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-300x171.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-768x439.webp 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-1536x878.webp 1536w, https://www.electrikjam.com/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven.webp 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-1024x585.webp" alt="dimebag and jimi hendrix in heaven" class="wp-image-13543" title="" srcset="/wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-1024x585.webp 1024w, /wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-600x343.webp 600w, /wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-300x171.webp 300w, /wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-768x439.webp 768w, /wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven-1536x878.webp 1536w, /wp-content/uploads/2023/11/dimebag-and-jimi-hendrix-in-heaven.webp 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Dean-Dimebag-Razorback--1024x683.png" alt="Dean Dimebag Razorback" class="wp-image-13339" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Dean-Dimebag-Razorback--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Dean-Dimebag-Razorback--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Dean-Dimebag-Razorback--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Dean-Dimebag-Razorback--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Dean-Dimebag-Razorback-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Dean-Dimebag-Razorback--1024x683.png" alt="Dean Dimebag Razorback" class="wp-image-13339" title="" srcset="/wp-content/uploads/2023/11/Dean-Dimebag-Razorback--1024x683.png 1024w, /wp-content/uploads/2023/11/Dean-Dimebag-Razorback--600x400.png 600w, /wp-content/uploads/2023/11/Dean-Dimebag-Razorback--300x200.png 300w, /wp-content/uploads/2023/11/Dean-Dimebag-Razorback--768x512.png 768w, /wp-content/uploads/2023/11/Dean-Dimebag-Razorback-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -273,7 +273,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-1024x683.png" alt="jim root charvel guitar" class="wp-image-13105" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/jim-root-charvel-guitar-1024x683.png" alt="jim root charvel guitar" class="wp-image-13105" title="" srcset="/wp-content/uploads/2023/10/jim-root-charvel-guitar-1024x683.png 1024w, /wp-content/uploads/2023/10/jim-root-charvel-guitar-600x400.png 600w, /wp-content/uploads/2023/10/jim-root-charvel-guitar-300x200.png 300w, /wp-content/uploads/2023/10/jim-root-charvel-guitar-768x512.png 768w, /wp-content/uploads/2023/10/jim-root-charvel-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

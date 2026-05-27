@@ -22,7 +22,7 @@ tagSlugs:
   - "esp-ltd-deluxe-ec-01ft"
 tagPaths: 
   - "/tag/esp-ltd-deluxe-ec-01ft/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT.jpg"
+featuredImage: "/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT.jpg"
 featuredImageAlt: "ESP LTD Deluxe EC-01FT"
 seo: 
   title: "ESP LTD Deluxe EC-01FT Gets Official – It's Metal AF!"
@@ -43,7 +43,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--1024x683.jpg" alt="" class="wp-image-16814" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--1024x683.jpg" alt="" class="wp-image-16814" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--1024x683.jpg 1024w, /wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--600x400.jpg 600w, /wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--300x200.jpg 300w, /wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price--768x512.jpg 768w, /wp-content/uploads/2024/11/ESP-LTD-Deluxe-EC-01FT-price-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

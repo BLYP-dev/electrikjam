@@ -22,7 +22,7 @@ tagSlugs:
   - "spark-amp"
 tagPaths: 
   - "/tag/spark-amp/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1.png"
+featuredImage: "/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1.png"
 featuredImageAlt: "is spark amp battery powered"
 seo: 
   title: "Is Spark Amp Battery Powered? What You Need To Know"
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="846" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg" alt="how much does the spark amp weigh" class="wp-image-1927" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-600x496.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-300x248.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-768x634.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="846" src="/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg" alt="how much does the spark amp weigh" class="wp-image-1927" title="" srcset="/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg 1024w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-600x496.jpg 600w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-300x248.jpg 300w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-768x634.jpg 768w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

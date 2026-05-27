@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/09/The-Jesus-lizard-Rack.png"
+featuredImage: "/wp-content/uploads/2024/09/The-Jesus-lizard-Rack.png"
 featuredImageAlt: "The Jesus lizard Rack"
 seo: 
   title: "The Jesus Lizard Reurns! Rack Review"
@@ -73,7 +73,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/09/The-jesus-lizard-band-1024x683.png" alt="" class="wp-image-15896" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/09/The-jesus-lizard-band-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/09/The-jesus-lizard-band-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/09/The-jesus-lizard-band-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/09/The-jesus-lizard-band-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/09/The-jesus-lizard-band.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/The-jesus-lizard-band-1024x683.png" alt="" class="wp-image-15896" title="" srcset="/wp-content/uploads/2024/09/The-jesus-lizard-band-1024x683.png 1024w, /wp-content/uploads/2024/09/The-jesus-lizard-band-600x400.png 600w, /wp-content/uploads/2024/09/The-jesus-lizard-band-300x200.png 300w, /wp-content/uploads/2024/09/The-jesus-lizard-band-768x512.png 768w, /wp-content/uploads/2024/09/The-jesus-lizard-band.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -297,7 +297,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/09/The-Jesus-lizard-Rack-1024x683.png" alt="" class="wp-image-15895" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/09/The-Jesus-lizard-Rack-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/09/The-Jesus-lizard-Rack-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/09/The-Jesus-lizard-Rack-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/09/The-Jesus-lizard-Rack-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/09/The-Jesus-lizard-Rack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/The-Jesus-lizard-Rack-1024x683.png" alt="" class="wp-image-15895" title="" srcset="/wp-content/uploads/2024/09/The-Jesus-lizard-Rack-1024x683.png 1024w, /wp-content/uploads/2024/09/The-Jesus-lizard-Rack-600x400.png 600w, /wp-content/uploads/2024/09/The-Jesus-lizard-Rack-300x200.png 300w, /wp-content/uploads/2024/09/The-Jesus-lizard-Rack-768x512.png 768w, /wp-content/uploads/2024/09/The-Jesus-lizard-Rack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

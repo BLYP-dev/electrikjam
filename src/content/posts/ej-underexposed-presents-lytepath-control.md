@@ -22,7 +22,7 @@ tagSlugs:
   - "underexposed"
 tagPaths: 
   - "/tag/underexposed/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/Lyteath.jpg"
+featuredImage: "/wp-content/uploads/2021/12/Lyteath.jpg"
 featuredImageAlt: "Lyte[ath"
 seo: 
   title: "EJ Underexposed Presents: LytePath “Control”"
@@ -93,7 +93,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2.jpg" alt="Lytepath" class="wp-image-5962" width="842" height="842" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2-150x150.jpg 150w" sizes="(max-width: 842px) 100vw, 842px" /><figcaption><strong><em>Nate: Vocals</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2.jpg" alt="Lytepath" class="wp-image-5962" width="842" height="842" title="" srcset="/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2.jpg 512w, /wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2-300x300.jpg 300w, /wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2-100x100.jpg 100w, /wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-2-150x150.jpg 150w" sizes="(max-width: 842px) 100vw, 842px" /><figcaption><strong><em>Nate: Vocals</em></strong></figcaption></figure>
 
 
 
@@ -109,7 +109,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ.jpg" alt="" class="wp-image-5965" width="839" height="839" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-150x150.jpg 150w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ.jpg" alt="" class="wp-image-5965" width="839" height="839" title="" srcset="/wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ.jpg 512w, /wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-300x300.jpg 300w, /wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-100x100.jpg 100w, /wp-content/uploads/2021/12/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ-150x150.jpg 150w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/09/william-fonteneau-XPVzpMy33rs-unsplash-scaled.jpg"
+featuredImage: "/wp-content/uploads/2020/09/william-fonteneau-XPVzpMy33rs-unsplash-scaled.jpg"
 featuredImageAlt: "william-fonteneau-XPVzpMy33rs-unsplash"
 seo: 
   title: "What is Guitar Tone? 5 Essential Tips For Beginners..."
@@ -100,7 +100,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="425" height="348" src="https://www.electrikjam.com/wp-content/uploads/2021/09/fishman-fluence-modern.jpg" alt="fishman fluence modern" class="wp-image-4415" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/fishman-fluence-modern.jpg 425w, https://www.electrikjam.com/wp-content/uploads/2021/09/fishman-fluence-modern-300x246.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" /></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="425" height="348" src="/wp-content/uploads/2021/09/fishman-fluence-modern.jpg" alt="fishman fluence modern" class="wp-image-4415" title="" srcset="/wp-content/uploads/2021/09/fishman-fluence-modern.jpg 425w, /wp-content/uploads/2021/09/fishman-fluence-modern-300x246.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" /></figure>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-1024x769.jpg" alt="" class="wp-image-573" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-1024x769.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-scaled-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-768x577.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-1536x1153.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-2048x1538.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-1024x769.jpg" alt="" class="wp-image-573" width="1000" title="" srcset="/wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-1024x769.jpg 1024w, /wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-scaled-600x450.jpg 600w, /wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-300x225.jpg 300w, /wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-768x577.jpg 768w, /wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-1536x1153.jpg 1536w, /wp-content/uploads/2020/09/daniel-g-zHmSGpT86lw-unsplash-2048x1538.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-1024x683.jpg" alt="" class="wp-image-576" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-1024x683.jpg" alt="" class="wp-image-576" width="1000" title="" srcset="/wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-scaled-600x400.jpg 600w, /wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-300x200.jpg 300w, /wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-768x512.jpg 768w, /wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2020/09/ross-papas-q7mWgiI-hAo-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -300,7 +300,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="842" src="https://www.electrikjam.com/wp-content/uploads/2021/09/tube-amp-1024x842.png" alt="" class="wp-image-4569" title=""></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="842" src="/wp-content/uploads/2021/09/tube-amp-1024x842.png" alt="" class="wp-image-4569" title=""></figure>
 
 
 
@@ -412,7 +412,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Fixed-Bridge.jpg" alt="" class="wp-image-577" width="1000" title=""><figcaption>A fixed bridge or &#8220;hardtail&#8221;</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Fixed-Bridge.jpg" alt="" class="wp-image-577" width="1000" title=""><figcaption>A fixed bridge or &#8220;hardtail&#8221;</figcaption></figure>
 
 
 
@@ -436,7 +436,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Standard-Trem-1024x427.jpg" alt="" class="wp-image-578" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Standard-Trem-1024x427.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Standard-Trem-600x250.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Standard-Trem-300x125.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Standard-Trem-768x320.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Standard-Trem-1536x640.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Standard-Trem.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Standard Trem</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Standard-Trem-1024x427.jpg" alt="" class="wp-image-578" width="1000" title="" srcset="/wp-content/uploads/2020/09/Standard-Trem-1024x427.jpg 1024w, /wp-content/uploads/2020/09/Standard-Trem-600x250.jpg 600w, /wp-content/uploads/2020/09/Standard-Trem-300x125.jpg 300w, /wp-content/uploads/2020/09/Standard-Trem-768x320.jpg 768w, /wp-content/uploads/2020/09/Standard-Trem-1536x640.jpg 1536w, /wp-content/uploads/2020/09/Standard-Trem.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Standard Trem</figcaption></figure>
 
 
 
@@ -460,7 +460,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Floyd-Rose.jpg" alt="" class="wp-image-579" width="1000" height="436" title=""></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Floyd-Rose.jpg" alt="" class="wp-image-579" width="1000" height="436" title=""></figure>
 
 
 

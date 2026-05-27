@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/agile-2.jpg"
+featuredImage: "/wp-content/uploads/2021/02/agile-2.jpg"
 featuredImageAlt: "agile-2"
 seo: 
   title: "The Top 5 Extended Range Guitars For 2021: Going Surprisingly Low!"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-7-schecter-1024x328.png" alt="extended range guitars" class="wp-image-2359" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-7-schecter-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-7-schecter-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-7-schecter-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-7-schecter-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-7-schecter-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-7-schecter-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/REAPER-7-schecter.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/03/REAPER-7-schecter-1024x328.png" alt="extended range guitars" class="wp-image-2359" title="" srcset="/wp-content/uploads/2021/03/REAPER-7-schecter-1024x328.png 1024w, /wp-content/uploads/2021/03/REAPER-7-schecter-600x192.png 600w, /wp-content/uploads/2021/03/REAPER-7-schecter-300x96.png 300w, /wp-content/uploads/2021/03/REAPER-7-schecter-768x246.png 768w, /wp-content/uploads/2021/03/REAPER-7-schecter-1536x492.png 1536w, /wp-content/uploads/2021/03/REAPER-7-schecter-1080x346.png 1080w, /wp-content/uploads/2021/03/REAPER-7-schecter.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="315" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Jackson-HT7-1024x315.png" alt="" class="wp-image-2362" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Jackson-HT7-1024x315.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jackson-HT7-600x185.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jackson-HT7-300x92.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jackson-HT7-768x236.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jackson-HT7-1536x473.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jackson-HT7-2048x631.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jackson-HT7-1080x333.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="315" src="/wp-content/uploads/2021/03/Jackson-HT7-1024x315.png" alt="" class="wp-image-2362" title="" srcset="/wp-content/uploads/2021/03/Jackson-HT7-1024x315.png 1024w, /wp-content/uploads/2021/03/Jackson-HT7-600x185.png 600w, /wp-content/uploads/2021/03/Jackson-HT7-300x92.png 300w, /wp-content/uploads/2021/03/Jackson-HT7-768x236.png 768w, /wp-content/uploads/2021/03/Jackson-HT7-1536x473.png 1536w, /wp-content/uploads/2021/03/Jackson-HT7-2048x631.png 2048w, /wp-content/uploads/2021/03/Jackson-HT7-1080x333.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Strandberg-Boden.jpg" alt="" class="wp-image-2388" width="576" height="314" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Strandberg-Boden.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2021/03/Strandberg-Boden-300x163.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Strandberg-Boden-510x279.jpg 510w" sizes="(max-width: 576px) 100vw, 576px" /><figcaption>Strandberg Boden Model</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/03/Strandberg-Boden.jpg" alt="" class="wp-image-2388" width="576" height="314" title="" srcset="/wp-content/uploads/2021/03/Strandberg-Boden.jpg 512w, /wp-content/uploads/2021/03/Strandberg-Boden-300x163.jpg 300w, /wp-content/uploads/2021/03/Strandberg-Boden-510x279.jpg 510w" sizes="(max-width: 576px) 100vw, 576px" /><figcaption>Strandberg Boden Model</figcaption></figure>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://www.electrikjam.com/wp-content/uploads/2021/03/strandberg-endurneck-1024x538.jpg" alt="" class="wp-image-2390" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/strandberg-endurneck-1024x538.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/strandberg-endurneck-600x315.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/strandberg-endurneck-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/strandberg-endurneck-768x403.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/strandberg-endurneck-1080x567.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/strandberg-endurneck.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2021/03/strandberg-endurneck-1024x538.jpg" alt="" class="wp-image-2390" title="" srcset="/wp-content/uploads/2021/03/strandberg-endurneck-1024x538.jpg 1024w, /wp-content/uploads/2021/03/strandberg-endurneck-600x315.jpg 600w, /wp-content/uploads/2021/03/strandberg-endurneck-300x158.jpg 300w, /wp-content/uploads/2021/03/strandberg-endurneck-768x403.jpg 768w, /wp-content/uploads/2021/03/strandberg-endurneck-1080x567.jpg 1080w, /wp-content/uploads/2021/03/strandberg-endurneck.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="346" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Harley-Benton-Fan-1024x346.jpg" alt="" class="wp-image-2393" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Harley-Benton-Fan-1024x346.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Harley-Benton-Fan-600x203.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Harley-Benton-Fan-300x102.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Harley-Benton-Fan-768x260.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Harley-Benton-Fan-1080x365.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Harley-Benton-Fan.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="346" src="/wp-content/uploads/2021/03/Harley-Benton-Fan-1024x346.jpg" alt="" class="wp-image-2393" title="" srcset="/wp-content/uploads/2021/03/Harley-Benton-Fan-1024x346.jpg 1024w, /wp-content/uploads/2021/03/Harley-Benton-Fan-600x203.jpg 600w, /wp-content/uploads/2021/03/Harley-Benton-Fan-300x102.jpg 300w, /wp-content/uploads/2021/03/Harley-Benton-Fan-768x260.jpg 768w, /wp-content/uploads/2021/03/Harley-Benton-Fan-1080x365.jpg 1080w, /wp-content/uploads/2021/03/Harley-Benton-Fan.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-1024x339.png" alt="" class="wp-image-2397" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-1024x339.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-1536x509.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-2048x679.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-1024x339.png" alt="" class="wp-image-2397" title="" srcset="/wp-content/uploads/2021/03/Ibnez-RGD71ALPA-1024x339.png 1024w, /wp-content/uploads/2021/03/Ibnez-RGD71ALPA-600x199.png 600w, /wp-content/uploads/2021/03/Ibnez-RGD71ALPA-300x99.png 300w, /wp-content/uploads/2021/03/Ibnez-RGD71ALPA-768x255.png 768w, /wp-content/uploads/2021/03/Ibnez-RGD71ALPA-1536x509.png 1536w, /wp-content/uploads/2021/03/Ibnez-RGD71ALPA-2048x679.png 2048w, /wp-content/uploads/2021/03/Ibnez-RGD71ALPA-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "strings"
 tagPaths: 
   - "/tag/strings/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-g300-cover.jpg"
+featuredImage: "/wp-content/uploads/2021/02/Cort-g300-cover.jpg"
 featuredImageAlt: "Cort g300 cover"
 seo: 
   title: "The 3 Best Strings For Drop C Tuning: Get Ready For Some Insane CHUG!"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="657" src="https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1024x657.png" alt="strings for drop C" class="wp-image-3390" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1024x657.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-600x385.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-300x193.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-768x493.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1536x986.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1080x693.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x.png 1844w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Credit: <a href="https://www.fender.com/en-US/start" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1493">Fender Official</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="657" src="/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1024x657.png" alt="strings for drop C" class="wp-image-3390" title="" srcset="/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1024x657.png 1024w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-600x385.png 600w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-300x193.png 300w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-768x493.png 768w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1536x986.png 1536w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1080x693.png 1080w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x.png 1844w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Credit: <a href="https://www.fender.com/en-US/start" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1493">Fender Official</a></figcaption></figure>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-1024x1024.jpg" alt="" class="wp-image-3391" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-1024x1024.jpg" alt="" class="wp-image-3391" title="" srcset="/wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-1024x1024.jpg 1024w, /wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-300x300.jpg 300w, /wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-100x100.jpg 100w, /wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-600x600.jpg 600w, /wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-150x150.jpg 150w, /wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-768x768.jpg 768w, /wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-1536x1536.jpg 1536w, /wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball.jpg 2048w, /wp-content/uploads/2021/06/Not-even-slinky-Ernie-Ball-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM.jpg" alt="" class="wp-image-3392" width="707" height="707" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM.jpg 500w, https://www.electrikjam.com/wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM-150x150.jpg 150w" sizes="(max-width: 707px) 100vw, 707px" /></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM.jpg" alt="" class="wp-image-3392" width="707" height="707" title="" srcset="/wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM.jpg 500w, /wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM-300x300.jpg 300w, /wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM-100x100.jpg 100w, /wp-content/uploads/2021/06/daddario-nyxl-electric-1-l0Y2DNM-150x150.jpg 150w" sizes="(max-width: 707px) 100vw, 707px" /></figure></div>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="960" height="960" src="https://www.electrikjam.com/wp-content/uploads/2021/06/DR-strings-DDT.jpg" alt="" class="wp-image-3393" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/DR-strings-DDT.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2021/06/DR-strings-DDT-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/DR-strings-DDT-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/06/DR-strings-DDT-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/DR-strings-DDT-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/06/DR-strings-DDT-768x768.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em>Seriously? Spiders?</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="960" height="960" src="/wp-content/uploads/2021/06/DR-strings-DDT.jpg" alt="" class="wp-image-3393" title="" srcset="/wp-content/uploads/2021/06/DR-strings-DDT.jpg 960w, /wp-content/uploads/2021/06/DR-strings-DDT-300x300.jpg 300w, /wp-content/uploads/2021/06/DR-strings-DDT-100x100.jpg 100w, /wp-content/uploads/2021/06/DR-strings-DDT-600x600.jpg 600w, /wp-content/uploads/2021/06/DR-strings-DDT-150x150.jpg 150w, /wp-content/uploads/2021/06/DR-strings-DDT-768x768.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em>Seriously? Spiders?</em></figcaption></figure>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="999" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-999x1024.jpg" alt="" class="wp-image-3394" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-999x1024.jpg 999w, https://www.electrikjam.com/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-600x615.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-293x300.jpg 293w, https://www.electrikjam.com/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-768x787.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-1080x1107.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54.jpg 1300w" sizes="(max-width: 999px) 100vw, 999px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="999" height="1024" src="/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-999x1024.jpg" alt="" class="wp-image-3394" title="" srcset="/wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-999x1024.jpg 999w, /wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-600x615.jpg 600w, /wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-293x300.jpg 293w, /wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-768x787.jpg 768w, /wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54-1080x1107.jpg 1080w, /wp-content/uploads/2021/06/Ernie-ball-paradigm-11-54.jpg 1300w" sizes="(max-width: 999px) 100vw, 999px" /></figure>
 
 
 

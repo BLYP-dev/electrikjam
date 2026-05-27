@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND.png"
+featuredImage: "/wp-content/uploads/2021/12/YOB-BAND.png"
 featuredImageAlt: "YOB (BAND)"
 seo: 
   title: "Why YOB (Band) Is Essential Listening For Any Music Fan"
@@ -64,7 +64,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-1024x853.png" alt="YOB (BAND)" class="wp-image-6185" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Mike Scheidt Plays A Monson Nomad. For YOB, <meta charset="utf-8">Scheidt Mainly Uses Drop Tunings Like A Standard or B Standard</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/12/YOB-BAND-1024x853.png" alt="YOB (BAND)" class="wp-image-6185" title="" srcset="/wp-content/uploads/2021/12/YOB-BAND-1024x853.png 1024w, /wp-content/uploads/2021/12/YOB-BAND-600x500.png 600w, /wp-content/uploads/2021/12/YOB-BAND-300x250.png 300w, /wp-content/uploads/2021/12/YOB-BAND-768x640.png 768w, /wp-content/uploads/2021/12/YOB-BAND-1080x900.png 1080w, /wp-content/uploads/2021/12/YOB-BAND.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Mike Scheidt Plays A Monson Nomad. For YOB, <meta charset="utf-8">Scheidt Mainly Uses Drop Tunings Like A Standard or B Standard</strong></figcaption></figure></div>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="789" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Mike-Scheidt-Guitar-789x1024.jpg" alt="Mike Scheidt Guitar" class="wp-image-6195" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Mike-Scheidt-Guitar-789x1024.jpg 789w, https://www.electrikjam.com/wp-content/uploads/2021/12/Mike-Scheidt-Guitar-600x779.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Mike-Scheidt-Guitar-231x300.jpg 231w, https://www.electrikjam.com/wp-content/uploads/2021/12/Mike-Scheidt-Guitar-768x997.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Mike-Scheidt-Guitar.jpg 979w" sizes="(max-width: 789px) 100vw, 789px" /><figcaption><strong>The Monson Nomad</strong> <strong><a href="https://www.brooklynvegan.com/yob-signed-to-t/" data-lasso-id="36115" target="_blank" rel="noopener noreferrer nofollow">(Image Credit)</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="789" height="1024" src="/wp-content/uploads/2021/12/Mike-Scheidt-Guitar-789x1024.jpg" alt="Mike Scheidt Guitar" class="wp-image-6195" title="" srcset="/wp-content/uploads/2021/12/Mike-Scheidt-Guitar-789x1024.jpg 789w, /wp-content/uploads/2021/12/Mike-Scheidt-Guitar-600x779.jpg 600w, /wp-content/uploads/2021/12/Mike-Scheidt-Guitar-231x300.jpg 231w, /wp-content/uploads/2021/12/Mike-Scheidt-Guitar-768x997.jpg 768w, /wp-content/uploads/2021/12/Mike-Scheidt-Guitar.jpg 979w" sizes="(max-width: 789px) 100vw, 789px" /><figcaption><strong>The Monson Nomad</strong> <strong><a href="https://www.brooklynvegan.com/yob-signed-to-t/" data-lasso-id="36115" target="_blank" rel="noopener noreferrer nofollow">(Image Credit)</a></strong></figcaption></figure>
 
 
 

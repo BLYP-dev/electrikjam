@@ -22,7 +22,7 @@ tagSlugs:
   - "popular"
 tagPaths: 
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St-James-LOGO.png"
+featuredImage: "/wp-content/uploads/2022/07/Blackstar-St-James-LOGO.png"
 featuredImageAlt: "Blackstar St. James"
 seo: 
   title: "NEW Blackstar St. James Review: The 1st LIGHTWEIGHT Tube Amp?"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-1024x683.png" alt="Blackstar St. James Combos" class="wp-image-8430" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-1024x683.png" alt="Blackstar St. James Combos" class="wp-image-8430" title="" srcset="/wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-1024x683.png 1024w, /wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-600x400.png 600w, /wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-300x200.png 300w, /wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo-768x512.png 768w, /wp-content/uploads/2022/07/Blackstar-St.-James-Two-combo.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-1024x683.png" alt="Blackstar St. James Combo amp top" class="wp-image-8432" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-james-combo-top.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-1024x683.png" alt="Blackstar St. James Combo amp top" class="wp-image-8432" title="" srcset="/wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-1024x683.png 1024w, /wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-600x400.png 600w, /wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-300x200.png 300w, /wp-content/uploads/2022/07/Blackstar-St.-james-combo-top-768x512.png 768w, /wp-content/uploads/2022/07/Blackstar-St.-james-combo-top.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-rear-1024x683.png" alt="Blackstar St. James rear panel" class="wp-image-8433" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-rear-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-rear-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-rear-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-rear-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-St.-James-rear.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Blackstar-St.-James-rear-1024x683.png" alt="Blackstar St. James rear panel" class="wp-image-8433" title="" srcset="/wp-content/uploads/2022/07/Blackstar-St.-James-rear-1024x683.png 1024w, /wp-content/uploads/2022/07/Blackstar-St.-James-rear-600x400.png 600w, /wp-content/uploads/2022/07/Blackstar-St.-James-rear-300x200.png 300w, /wp-content/uploads/2022/07/Blackstar-St.-James-rear-768x512.png 768w, /wp-content/uploads/2022/07/Blackstar-St.-James-rear.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2022/07/STJ-photo-carousel-1-1024x448.png" alt="Blackstar St. James" class="wp-image-8434" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/STJ-photo-carousel-1-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/STJ-photo-carousel-1-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/STJ-photo-carousel-1-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/STJ-photo-carousel-1-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/STJ-photo-carousel-1-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/07/STJ-photo-carousel-1.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2022/07/STJ-photo-carousel-1-1024x448.png" alt="Blackstar St. James" class="wp-image-8434" title="" srcset="/wp-content/uploads/2022/07/STJ-photo-carousel-1-1024x448.png 1024w, /wp-content/uploads/2022/07/STJ-photo-carousel-1-600x263.png 600w, /wp-content/uploads/2022/07/STJ-photo-carousel-1-300x131.png 300w, /wp-content/uploads/2022/07/STJ-photo-carousel-1-768x336.png 768w, /wp-content/uploads/2022/07/STJ-photo-carousel-1-1536x672.png 1536w, /wp-content/uploads/2022/07/STJ-photo-carousel-1.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -283,7 +283,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-Logo-pink-1024x683.png" alt="Blackstar St. James" class="wp-image-8435" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-Logo-pink-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-Logo-pink-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-Logo-pink-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-Logo-pink-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Blackstar-Logo-pink.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Blackstar-Logo-pink-1024x683.png" alt="Blackstar St. James" class="wp-image-8435" title="" srcset="/wp-content/uploads/2022/07/Blackstar-Logo-pink-1024x683.png 1024w, /wp-content/uploads/2022/07/Blackstar-Logo-pink-600x400.png 600w, /wp-content/uploads/2022/07/Blackstar-Logo-pink-300x200.png 300w, /wp-content/uploads/2022/07/Blackstar-Logo-pink-768x512.png 768w, /wp-content/uploads/2022/07/Blackstar-Logo-pink.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

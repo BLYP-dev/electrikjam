@@ -22,7 +22,7 @@ tagSlugs:
   - "jimi-hendrix"
 tagPaths: 
   - "/tag/jimi-hendrix/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals.png"
+featuredImage: "/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals.png"
 featuredImageAlt: "jimi hendrix guitar pedals"
 seo: 
   title: "What Guitar Pedals Did Jimi Hendrix Use? A Complete Guide..."
@@ -76,7 +76,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png" alt="What guitar tuning did Jimi Hendrix use" class="wp-image-7580" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png" alt="What guitar tuning did Jimi Hendrix use" class="wp-image-7580" title="" srcset="/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png 1024w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-600x400.png 600w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-300x200.png 300w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-768x512.png 768w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -90,7 +90,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="705" height="323" src="https://www.electrikjam.com/wp-content/uploads/2022/04/hendrix-wah.jpg" alt="hendrix-wah" class="wp-image-7638" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/hendrix-wah.jpg 705w, https://www.electrikjam.com/wp-content/uploads/2022/04/hendrix-wah-600x275.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/hendrix-wah-300x137.jpg 300w" sizes="(max-width: 705px) 100vw, 705px" /><figcaption><strong>Jimi loved to use a wah-wah pedal</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="705" height="323" src="/wp-content/uploads/2022/04/hendrix-wah.jpg" alt="hendrix-wah" class="wp-image-7638" title="" srcset="/wp-content/uploads/2022/04/hendrix-wah.jpg 705w, /wp-content/uploads/2022/04/hendrix-wah-600x275.jpg 600w, /wp-content/uploads/2022/04/hendrix-wah-300x137.jpg 300w" sizes="(max-width: 705px) 100vw, 705px" /><figcaption><strong>Jimi loved to use a wah-wah pedal</strong></figcaption></figure>
 			
 		
 
@@ -108,7 +108,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="679" height="455" src="https://www.electrikjam.com/wp-content/uploads/2022/04/BAND-OF-GYPSYS™-FUZZ-FACE.jpg" alt="BAND OF GYPSYS™ FUZZ FACE" class="wp-image-7639" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/BAND-OF-GYPSYS™-FUZZ-FACE.jpg 679w, https://www.electrikjam.com/wp-content/uploads/2022/04/BAND-OF-GYPSYS™-FUZZ-FACE-600x402.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/BAND-OF-GYPSYS™-FUZZ-FACE-300x201.jpg 300w" sizes="(max-width: 679px) 100vw, 679px" /><figcaption><strong>The fuzz pedal is essentially the cornerstone of Hendrix’s entire guitar tone. Without fuzz, Jimi just wouldn’t have sounded like Jimi. </strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="679" height="455" src="/wp-content/uploads/2022/04/BAND-OF-GYPSYS™-FUZZ-FACE.jpg" alt="BAND OF GYPSYS™ FUZZ FACE" class="wp-image-7639" title="" srcset="/wp-content/uploads/2022/04/BAND-OF-GYPSYS™-FUZZ-FACE.jpg 679w, /wp-content/uploads/2022/04/BAND-OF-GYPSYS™-FUZZ-FACE-600x402.jpg 600w, /wp-content/uploads/2022/04/BAND-OF-GYPSYS™-FUZZ-FACE-300x201.jpg 300w" sizes="(max-width: 679px) 100vw, 679px" /><figcaption><strong>The fuzz pedal is essentially the cornerstone of Hendrix’s entire guitar tone. Without fuzz, Jimi just wouldn’t have sounded like Jimi. </strong></figcaption></figure>
 			
 		
 
@@ -138,7 +138,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="520" height="346" src="https://www.electrikjam.com/wp-content/uploads/2022/04/uni-vibe.jpg" alt="hendrix uni-vibe" class="wp-image-7640" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/uni-vibe.jpg 520w, https://www.electrikjam.com/wp-content/uploads/2022/04/uni-vibe-300x200.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" /><figcaption><strong>Hendrix used the Uni-Vibe pedal to create chorus, vibrato, and phasing effects</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="520" height="346" src="/wp-content/uploads/2022/04/uni-vibe.jpg" alt="hendrix uni-vibe" class="wp-image-7640" title="" srcset="/wp-content/uploads/2022/04/uni-vibe.jpg 520w, /wp-content/uploads/2022/04/uni-vibe-300x200.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" /><figcaption><strong>Hendrix used the Uni-Vibe pedal to create chorus, vibrato, and phasing effects</strong></figcaption></figure>
 			
 		
 
@@ -172,7 +172,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-1024x683.png" alt="jimi hendrix guitar pedals" class="wp-image-7637" width="840" height="560" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong>In order to properly capture his sound, you will also need to understand <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" data-lasso-id="103217">the guitar tuning used by Jimi Hendrix</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-1024x683.png" alt="jimi hendrix guitar pedals" class="wp-image-7637" width="840" height="560" title="" srcset="/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-1024x683.png 1024w, /wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-600x400.png 600w, /wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-300x200.png 300w, /wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-768x512.png 768w, /wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong>In order to properly capture his sound, you will also need to understand <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" data-lasso-id="103217">the guitar tuning used by Jimi Hendrix</a></strong></figcaption></figure>
 			
 		
 

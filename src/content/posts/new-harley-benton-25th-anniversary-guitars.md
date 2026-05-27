@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-benton-25th-Anniversary.png"
+featuredImage: "/wp-content/uploads/2023/04/Harley-benton-25th-Anniversary.png"
 featuredImageAlt: "Harley Benton 25th Anniversary"
 seo: 
   title: "Harley Benton 25th Anniversary Guitars: Awesome Special Edition Models!"
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration.jpg" alt="Harley Benton 25th anniversary" class="wp-image-11385" width="820" height="592" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration-600x434.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration-300x217.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration-768x555.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" /><figcaption class="wp-element-caption">The lanyard and card are a little silly. But the gig bag is not!</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration.jpg" alt="Harley Benton 25th anniversary" class="wp-image-11385" width="820" height="592" title="" srcset="/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration.jpg 800w, /wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration-600x434.jpg 600w, /wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration-300x217.jpg 300w, /wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-celebration-768x555.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" /><figcaption class="wp-element-caption">The lanyard and card are a little silly. But the gig bag is not!</figcaption></figure>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-1024x683.png" alt="Harley Benton 25th anniversary " class="wp-image-11386" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-1024x683.png" alt="Harley Benton 25th anniversary " class="wp-image-11386" title="" srcset="/wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-1024x683.png 1024w, /wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-600x400.png 600w, /wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-300x200.png 300w, /wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models-768x512.png 768w, /wp-content/uploads/2023/04/Harley-Benton-25th-anniversary-fusion-models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -232,7 +232,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-1024x683.png" alt="Harley Benton 25th Anniversary" class="wp-image-11392" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-1024x683.png" alt="Harley Benton 25th Anniversary" class="wp-image-11392" title="" srcset="/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-1024x683.png 1024w, /wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-600x400.png 600w, /wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-300x200.png 300w, /wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models-768x512.png 768w, /wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-Classic-models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -354,7 +354,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-1024x683.jpg" alt="Harley Benton 25th anniversary" class="wp-image-11394" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-768x513.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-1024x683.jpg" alt="Harley Benton 25th anniversary" class="wp-image-11394" title="" srcset="/wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-1024x683.jpg 1024w, /wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-600x400.jpg 600w, /wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-300x200.jpg 300w, /wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA-768x513.jpg 768w, /wp-content/uploads/2023/04/Harley-benton-25th-anniversary-JA.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -468,7 +468,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-1024x683.jpg" alt="Harley Benton 25th anniversary" class="wp-image-11395" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23.jpg 1040w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-1024x683.jpg" alt="Harley Benton 25th anniversary" class="wp-image-11395" title="" srcset="/wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-1024x683.jpg 1024w, /wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-600x400.jpg 600w, /wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-300x200.jpg 300w, /wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23-768x512.jpg 768w, /wp-content/uploads/2023/04/harley-benton-anniversary_sc-25_23.jpg 1040w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -492,7 +492,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-1024x683.png" alt="Harley Benton 25th Anniversary basses" class="wp-image-11396" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-1024x683.png" alt="Harley Benton 25th Anniversary basses" class="wp-image-11396" title="" srcset="/wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-1024x683.png 1024w, /wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-600x400.png 600w, /wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-300x200.png 300w, /wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses-768x512.png 768w, /wp-content/uploads/2023/04/Harley-Benton-25th-Anniversary-basses.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -808,7 +808,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-1024x683.jpg" alt="Harley Benton 25th Anniversary" class="wp-image-11416" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-768x513.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-1024x683.jpg" alt="Harley Benton 25th Anniversary" class="wp-image-11416" title="" srcset="/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-1024x683.jpg 1024w, /wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-600x400.jpg 600w, /wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-300x200.jpg 300w, /wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-768x513.jpg 768w, /wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <div id="rank-math-faq" class="rank-math-block">

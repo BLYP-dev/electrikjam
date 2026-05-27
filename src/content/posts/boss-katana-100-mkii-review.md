@@ -22,7 +22,7 @@ tagSlugs:
   - "boss-katana"
 tagPaths: 
   - "/tag/boss-katana/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-100-MKII.png"
+featuredImage: "/wp-content/uploads/2022/07/BOSS-Katana-100-MKII.png"
 featuredImageAlt: "Boss Katana 100 MKII"
 seo: 
   title: "BOSS Katana 100 MKII Review: The ULTIMATE 1 Year Review!"
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-100-MKII-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8379" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-100-MKII-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-100-MKII-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-100-MKII-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-100-MKII-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-100-MKII.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/BOSS-Katana-100-MKII-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8379" title="" srcset="/wp-content/uploads/2022/07/BOSS-Katana-100-MKII-1024x683.png 1024w, /wp-content/uploads/2022/07/BOSS-Katana-100-MKII-600x400.png 600w, /wp-content/uploads/2022/07/BOSS-Katana-100-MKII-300x200.png 300w, /wp-content/uploads/2022/07/BOSS-Katana-100-MKII-768x512.png 768w, /wp-content/uploads/2022/07/BOSS-Katana-100-MKII.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-1024x683.png" alt="BOSS Katana 100 MKII" class="wp-image-8407" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-1024x683.png" alt="BOSS Katana 100 MKII" class="wp-image-8407" title="" srcset="/wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-1024x683.png 1024w, /wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-600x400.png 600w, /wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-300x200.png 300w, /wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view-768x512.png 768w, /wp-content/uploads/2022/07/Boss-katana-100-MKII-top-view.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8408" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8408" title="" srcset="/wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-1024x683.png 1024w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-600x400.png 600w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-300x200.png 300w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording-768x512.png 768w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-recording.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8411" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8411" title="" srcset="/wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-1024x683.png 1024w, /wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-600x400.png 600w, /wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-300x200.png 300w, /wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana-768x512.png 768w, /wp-content/uploads/2022/07/Boss-tone-studio-global-Eq-Katana.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8412" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-1024x683.png" alt="Boss Katana 100 MKII" class="wp-image-8412" title="" srcset="/wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-1024x683.png 1024w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-600x400.png 600w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-300x200.png 300w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-White-768x512.png 768w, /wp-content/uploads/2022/07/Boss-Katana-100-MKII-White.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

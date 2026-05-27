@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/hxstomp3qtrright.jpg"
+featuredImage: "/wp-content/uploads/2021/09/hxstomp3qtrright.jpg"
 featuredImageAlt: "hxstomp3qtrright"
 seo: 
   title: "Is Line 6 HX Stomp Worth it? It Absolutely Is, and Here's WHY!"
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-1024x1024.jpg" alt="Line 6 Hx stomp" class="wp-image-4291" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9.jpg 1215w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/ln6-hxstomp_9-1024x1024.jpg" alt="Line 6 Hx stomp" class="wp-image-4291" title="" srcset="/wp-content/uploads/2021/09/ln6-hxstomp_9-1024x1024.jpg 1024w, /wp-content/uploads/2021/09/ln6-hxstomp_9-300x300.jpg 300w, /wp-content/uploads/2021/09/ln6-hxstomp_9-100x100.jpg 100w, /wp-content/uploads/2021/09/ln6-hxstomp_9-600x600.jpg 600w, /wp-content/uploads/2021/09/ln6-hxstomp_9-150x150.jpg 150w, /wp-content/uploads/2021/09/ln6-hxstomp_9-768x768.jpg 768w, /wp-content/uploads/2021/09/ln6-hxstomp_9-1080x1080.jpg 1080w, /wp-content/uploads/2021/09/ln6-hxstomp_9.jpg 1215w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

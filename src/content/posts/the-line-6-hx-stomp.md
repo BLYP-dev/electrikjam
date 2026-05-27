@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/hxstomp3qtrright.jpg"
+featuredImage: "/wp-content/uploads/2021/09/hxstomp3qtrright.jpg"
 featuredImageAlt: "hxstomp3qtrright"
 seo: 
   title: "Is The Line 6 HX Stomp Worth It? HELL YES - Here's Why..."
@@ -71,7 +71,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-1024x1024.jpg" alt="Line 6 Hx stomp" class="wp-image-4291" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/ln6-hxstomp_9.jpg 1215w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/ln6-hxstomp_9-1024x1024.jpg" alt="Line 6 Hx stomp" class="wp-image-4291" title="" srcset="/wp-content/uploads/2021/09/ln6-hxstomp_9-1024x1024.jpg 1024w, /wp-content/uploads/2021/09/ln6-hxstomp_9-300x300.jpg 300w, /wp-content/uploads/2021/09/ln6-hxstomp_9-100x100.jpg 100w, /wp-content/uploads/2021/09/ln6-hxstomp_9-600x600.jpg 600w, /wp-content/uploads/2021/09/ln6-hxstomp_9-150x150.jpg 150w, /wp-content/uploads/2021/09/ln6-hxstomp_9-768x768.jpg 768w, /wp-content/uploads/2021/09/ln6-hxstomp_9-1080x1080.jpg 1080w, /wp-content/uploads/2021/09/ln6-hxstomp_9.jpg 1215w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="900" height="534" src="https://www.electrikjam.com/wp-content/uploads/2021/09/rear-Hx-stomp.png" alt="" class="wp-image-4299" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/rear-Hx-stomp.png 900w, https://www.electrikjam.com/wp-content/uploads/2021/09/rear-Hx-stomp-600x356.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/rear-Hx-stomp-300x178.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/rear-Hx-stomp-768x456.png 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption><em><strong>HX Stomp Rear Panel</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="900" height="534" src="/wp-content/uploads/2021/09/rear-Hx-stomp.png" alt="" class="wp-image-4299" title="" srcset="/wp-content/uploads/2021/09/rear-Hx-stomp.png 900w, /wp-content/uploads/2021/09/rear-Hx-stomp-600x356.png 600w, /wp-content/uploads/2021/09/rear-Hx-stomp-300x178.png 300w, /wp-content/uploads/2021/09/rear-Hx-stomp-768x456.png 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption><em><strong>HX Stomp Rear Panel</strong></em></figcaption></figure>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-1024x576.jpg" alt="" class="wp-image-4295" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-1080x607.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard.jpg 1234w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>The HX Stomp on a board</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-1024x576.jpg" alt="" class="wp-image-4295" title="" srcset="/wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-1024x576.jpg 1024w, /wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-600x337.jpg 600w, /wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-300x169.jpg 300w, /wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-768x432.jpg 768w, /wp-content/uploads/2021/09/HX-Stomp-on-pedalboard-1080x607.jpg 1080w, /wp-content/uploads/2021/09/HX-Stomp-on-pedalboard.jpg 1234w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>The HX Stomp on a board</strong></em></figcaption></figure>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="525" src="https://www.electrikjam.com/wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-1024x525.png" alt="" class="wp-image-4297" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-1024x525.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-600x308.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-300x154.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-768x394.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di.png 1072w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Using the HX Stomp As An Interface</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="525" src="/wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-1024x525.png" alt="" class="wp-image-4297" title="" srcset="/wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-1024x525.png 1024w, /wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-600x308.png 600w, /wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-300x154.png 300w, /wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di-768x394.png 768w, /wp-content/uploads/2021/09/usb-audio-hx-effects-dry-di.png 1072w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Using the HX Stomp As An Interface</strong></em></figcaption></figure>
 
 
 

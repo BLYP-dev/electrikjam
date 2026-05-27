@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained.png"
+featuredImage: "/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained.png"
 featuredImageAlt: "Standard Tuning on Guitar Explained"
 seo: 
   title: "Standard Tuning on Guitar Explained: Why It’s “The Standard”"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-1024x683.png" alt="Standard Tuning on Guitar Explained" class="wp-image-11232" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-1024x683.png" alt="Standard Tuning on Guitar Explained" class="wp-image-11232" title="" srcset="/wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-1024x683.png 1024w, /wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-600x400.png 600w, /wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-300x200.png 300w, /wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained-768x512.png 768w, /wp-content/uploads/2023/03/Standard-Tuning-on-Guitar-Explained.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

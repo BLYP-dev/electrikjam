@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre.png"
+featuredImage: "/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre.png"
 featuredImageAlt: "Periphery Djent Is Not A Genre"
 seo: 
   title: "Periphery Djent Is Not A Genre Album Review: Audio Assault In 9 Epic Bursts"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-1024x683.png" alt="Periphery Djent Is Not A Genre" class="wp-image-10956" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-1024x683.png" alt="Periphery Djent Is Not A Genre" class="wp-image-10956" title="" srcset="/wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-1024x683.png 1024w, /wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-600x400.png 600w, /wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-300x200.png 300w, /wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre-768x512.png 768w, /wp-content/uploads/2023/03/Periphery-Djent-Is-Not-A-Genre.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="533" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album.jpg" alt="Djent is not a genre album review" class="wp-image-10961" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="533" src="/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album.jpg" alt="Djent is not a genre album review" class="wp-image-10961" title="" srcset="/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album.jpg 800w, /wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-600x400.jpg 600w, /wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-300x200.jpg 300w, /wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-1024x1024.jpg" alt="Periphery Djent is not a genre" class="wp-image-10962" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-scaled-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-scaled-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-1024x1024.jpg" alt="Periphery Djent is not a genre" class="wp-image-10962" title="" srcset="/wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-1024x1024.jpg 1024w, /wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-300x300.jpg 300w, /wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-scaled-100x100.jpg 100w, /wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-scaled-600x600.jpg 600w, /wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-150x150.jpg 150w, /wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-768x768.jpg 768w, /wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-1536x1536.jpg 1536w, /wp-content/uploads/2023/03/Periphery-V-Djent-Is-not-a-genre-Cover-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

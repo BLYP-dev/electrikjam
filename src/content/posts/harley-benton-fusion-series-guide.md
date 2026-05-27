@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-Series-.jpg"
+featuredImage: "/wp-content/uploads/2024/11/Harley-Benton-Fusion-Series-.jpg"
 featuredImageAlt: "Harley Benton Fusion Series"
 seo: 
   title: "Harley Benton Fusion Series: What To Know Before You Buy..."
@@ -47,7 +47,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1024x683.jpg" alt="harley benton guitar fusion ST and TE models" class="wp-image-16635" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1024x683.jpg" alt="harley benton guitar fusion ST and TE models" class="wp-image-16635" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1024x683.jpg 1024w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-600x400.jpg 600w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-300x200.jpg 300w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-768x512.jpg 768w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-1024x683.jpg" alt="" class="wp-image-16626" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-1024x683.jpg" alt="" class="wp-image-16626" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-600x400.jpg 600w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-300x200.jpg 300w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features-768x512.jpg 768w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-3-specs-and-features.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -310,7 +310,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-vs-fusion-III-1024x683.jpg" alt="" class="wp-image-16629" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-vs-fusion-III-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-vs-fusion-III-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-vs-fusion-III-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-vs-fusion-III-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-vs-fusion-III.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>(Left) Harley Benton Fusion III, (Right) Harley Benton Fusion II</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/fusion-II-vs-fusion-III-1024x683.jpg" alt="" class="wp-image-16629" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/fusion-II-vs-fusion-III-1024x683.jpg 1024w, /wp-content/uploads/2024/11/fusion-II-vs-fusion-III-600x400.jpg 600w, /wp-content/uploads/2024/11/fusion-II-vs-fusion-III-300x200.jpg 300w, /wp-content/uploads/2024/11/fusion-II-vs-fusion-III-768x512.jpg 768w, /wp-content/uploads/2024/11/fusion-II-vs-fusion-III.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>(Left) Harley Benton Fusion III, (Right) Harley Benton Fusion II</strong></figcaption></figure>
 
 
 
@@ -334,7 +334,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-1024x683.jpg" alt="" class="wp-image-16630" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-II.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/fusion-II-1024x683.jpg" alt="" class="wp-image-16630" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/fusion-II-1024x683.jpg 1024w, /wp-content/uploads/2024/11/fusion-II-600x400.jpg 600w, /wp-content/uploads/2024/11/fusion-II-300x200.jpg 300w, /wp-content/uploads/2024/11/fusion-II-768x512.jpg 768w, /wp-content/uploads/2024/11/fusion-II.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -354,7 +354,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-III-1024x683.jpg" alt="" class="wp-image-16632" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-III-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-III-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-III-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-III-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/fusion-III.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/fusion-III-1024x683.jpg" alt="" class="wp-image-16632" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/fusion-III-1024x683.jpg 1024w, /wp-content/uploads/2024/11/fusion-III-600x400.jpg 600w, /wp-content/uploads/2024/11/fusion-III-300x200.jpg 300w, /wp-content/uploads/2024/11/fusion-III-768x512.jpg 768w, /wp-content/uploads/2024/11/fusion-III.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -370,7 +370,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-roswell-pickups-1024x683.jpg" alt="" class="wp-image-16633" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-roswell-pickups-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-roswell-pickups-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-roswell-pickups-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-roswell-pickups-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-roswell-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/harley-benton-roswell-pickups-1024x683.jpg" alt="" class="wp-image-16633" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/harley-benton-roswell-pickups-1024x683.jpg 1024w, /wp-content/uploads/2024/11/harley-benton-roswell-pickups-600x400.jpg 600w, /wp-content/uploads/2024/11/harley-benton-roswell-pickups-300x200.jpg 300w, /wp-content/uploads/2024/11/harley-benton-roswell-pickups-768x512.jpg 768w, /wp-content/uploads/2024/11/harley-benton-roswell-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -438,7 +438,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-1024x683.jpg" alt="" class="wp-image-16640" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-1024x683.jpg" alt="" class="wp-image-16640" title="" srcset="/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-1024x683.jpg 1024w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-600x400.jpg 600w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-300x200.jpg 300w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1-768x512.jpg 768w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -472,7 +472,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg" alt="" class="wp-image-16628" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg" alt="" class="wp-image-16628" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-600x400.jpg 600w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-300x200.jpg 300w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-768x512.jpg 768w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1-1536x1024.jpg 1536w, /wp-content/uploads/2024/11/Harley-Benton-Fusion-III-Run3-1.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -522,7 +522,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-1024x576.jpg" alt="" class="wp-image-5775" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-fusion-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/11/Harley-fusion-3-1024x576.jpg" alt="" class="wp-image-5775" style="border-radius:20px" title="" srcset="/wp-content/uploads/2021/11/Harley-fusion-3-1024x576.jpg 1024w, /wp-content/uploads/2021/11/Harley-fusion-3-600x338.jpg 600w, /wp-content/uploads/2021/11/Harley-fusion-3-300x169.jpg 300w, /wp-content/uploads/2021/11/Harley-fusion-3-768x432.jpg 768w, /wp-content/uploads/2021/11/Harley-fusion-3-1080x608.jpg 1080w, /wp-content/uploads/2021/11/Harley-fusion-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -550,7 +550,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-1024x683.jpg" alt="Harley Benton 25th Anniversary" class="wp-image-11416" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-768x513.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-1024x683.jpg" alt="Harley Benton 25th Anniversary" class="wp-image-11416" style="border-radius:20px" title="" srcset="/wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-1024x683.jpg 1024w, /wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-600x400.jpg 600w, /wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-300x200.jpg 300w, /wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01-768x513.jpg 768w, /wp-content/uploads/2023/04/hb_fusion-III-25_gigbag-sand_01.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -608,7 +608,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-1024x683.jpg" alt="" class="wp-image-16634" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-1024x683.jpg" alt="" class="wp-image-16634" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-1024x683.jpg 1024w, /wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-600x400.jpg 600w, /wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-300x200.jpg 300w, /wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison-768x512.jpg 768w, /wp-content/uploads/2024/11/harley-benton-guitar-models-price-comparison.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -661,7 +661,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1024x683.jpg" alt="harley benton guitar fusion ST and TE models" class="wp-image-16635" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1024x683.jpg" alt="harley benton guitar fusion ST and TE models" class="wp-image-16635" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-1024x683.jpg 1024w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-600x400.jpg 600w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-300x200.jpg 300w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models-768x512.jpg 768w, /wp-content/uploads/2024/11/harley-benton-guitar-fusion-ST-and-TE-models.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

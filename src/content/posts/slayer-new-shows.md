@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/kerry-king/"
   - "/tag/slayer/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/slayer-reformed-2024.png"
+featuredImage: "/wp-content/uploads/2024/02/slayer-reformed-2024.png"
 featuredImageAlt: "slayer reformed 2024"
 seo: 
   title: "Slayer is BACK! Band Announces First New Shows In 5 Years"

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero.jpg"
+featuredImage: "/wp-content/uploads/2020/12/gt-1000core_hero.jpg"
 featuredImageAlt: "Boss Gt1000 Core"
 seo: 
   title: "BOSS GT1000 CORE: A Sneak Peek At The Powerful Mini Processor"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-1024x683.jpg" alt="Boss Gt1000 Core" class="wp-image-1576" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_hero.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/12/gt-1000core_hero-1024x683.jpg" alt="Boss Gt1000 Core" class="wp-image-1576" title="" srcset="/wp-content/uploads/2020/12/gt-1000core_hero-1024x683.jpg 1024w, /wp-content/uploads/2020/12/gt-1000core_hero-600x400.jpg 600w, /wp-content/uploads/2020/12/gt-1000core_hero-300x200.jpg 300w, /wp-content/uploads/2020/12/gt-1000core_hero-768x512.jpg 768w, /wp-content/uploads/2020/12/gt-1000core_hero-1536x1024.jpg 1536w, /wp-content/uploads/2020/12/gt-1000core_hero.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="543" src="https://www.electrikjam.com/wp-content/uploads/2020/12/GT1000-1024x543.jpg" alt="" class="wp-image-1578" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/GT1000-1024x543.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT1000-600x318.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT1000-300x159.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT1000-768x408.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT1000.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Original BOSS GT1000</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="543" src="/wp-content/uploads/2020/12/GT1000-1024x543.jpg" alt="" class="wp-image-1578" title="" srcset="/wp-content/uploads/2020/12/GT1000-1024x543.jpg 1024w, /wp-content/uploads/2020/12/GT1000-600x318.jpg 600w, /wp-content/uploads/2020/12/GT1000-300x159.jpg 300w, /wp-content/uploads/2020/12/GT1000-768x408.jpg 768w, /wp-content/uploads/2020/12/GT1000.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Original BOSS GT1000</figcaption></figure>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_02_gal-1024x640.jpg" alt="" class="wp-image-1577" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_02_gal-1024x640.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_02_gal-600x375.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_02_gal-300x188.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_02_gal-768x480.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_02_gal-1536x960.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/gt-1000core_02_gal.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="/wp-content/uploads/2020/12/gt-1000core_02_gal-1024x640.jpg" alt="" class="wp-image-1577" title="" srcset="/wp-content/uploads/2020/12/gt-1000core_02_gal-1024x640.jpg 1024w, /wp-content/uploads/2020/12/gt-1000core_02_gal-600x375.jpg 600w, /wp-content/uploads/2020/12/gt-1000core_02_gal-300x188.jpg 300w, /wp-content/uploads/2020/12/gt-1000core_02_gal-768x480.jpg 768w, /wp-content/uploads/2020/12/gt-1000core_02_gal-1536x960.jpg 1536w, /wp-content/uploads/2020/12/gt-1000core_02_gal.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/12/the_hub_of_your_home_studio-1024x576.jpg" alt="" class="wp-image-1579" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/the_hub_of_your_home_studio-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/the_hub_of_your_home_studio-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/the_hub_of_your_home_studio-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/the_hub_of_your_home_studio-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/the_hub_of_your_home_studio.jpg 1180w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140950">BOSS Tone Studio</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/the_hub_of_your_home_studio-1024x576.jpg" alt="" class="wp-image-1579" title="" srcset="/wp-content/uploads/2020/12/the_hub_of_your_home_studio-1024x576.jpg 1024w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-600x338.jpg 600w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-300x169.jpg 300w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-768x432.jpg 768w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio.jpg 1180w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140950">BOSS Tone Studio</a></figcaption></figure>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/12/supercharge_your_pedalboard-1024x576.jpg" alt="" class="wp-image-1580" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/supercharge_your_pedalboard-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/supercharge_your_pedalboard-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/supercharge_your_pedalboard-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/supercharge_your_pedalboard-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/supercharge_your_pedalboard.jpg 1180w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/supercharge_your_pedalboard-1024x576.jpg" alt="" class="wp-image-1580" title="" srcset="/wp-content/uploads/2020/12/supercharge_your_pedalboard-1024x576.jpg 1024w, /wp-content/uploads/2020/12/supercharge_your_pedalboard-600x338.jpg 600w, /wp-content/uploads/2020/12/supercharge_your_pedalboard-300x169.jpg 300w, /wp-content/uploads/2020/12/supercharge_your_pedalboard-768x432.jpg 768w, /wp-content/uploads/2020/12/supercharge_your_pedalboard.jpg 1180w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -191,7 +191,7 @@ seo:
 <p><strong>The BOSS GT1000 Core is shipping within the next few weeks, and is priced at $699.00.</strong></p>
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="627" src="https://www.electrikjam.com/wp-content/uploads/2020/12/GT-Core-1024x627.jpg" alt="" class="wp-image-1583" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/GT-Core-1024x627.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT-Core-600x368.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT-Core-300x184.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT-Core-768x470.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT-Core-1536x941.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/GT-Core.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="627" src="/wp-content/uploads/2020/12/GT-Core-1024x627.jpg" alt="" class="wp-image-1583" title="" srcset="/wp-content/uploads/2020/12/GT-Core-1024x627.jpg 1024w, /wp-content/uploads/2020/12/GT-Core-600x368.jpg 600w, /wp-content/uploads/2020/12/GT-Core-300x184.jpg 300w, /wp-content/uploads/2020/12/GT-Core-768x470.jpg 768w, /wp-content/uploads/2020/12/GT-Core-1536x941.jpg 1536w, /wp-content/uploads/2020/12/GT-Core.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <div id="rank-math-faq" class="rank-math-block">

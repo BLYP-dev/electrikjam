@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Les-Paul-Copy.png"
+featuredImage: "/wp-content/uploads/2021/09/Best-Les-Paul-Copy.png"
 featuredImageAlt: "Best Les Paul Copy"
 seo: 
   title: "What’s The Best Les Paul Copy? 2021’s KILLER Models"
@@ -88,7 +88,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-1024x1024.jpg" alt="Epiphone Les Paul Custom Limited-Edition" class="wp-image-4268" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-1024x1024.jpg" alt="Epiphone Les Paul Custom Limited-Edition" class="wp-image-4268" title="" srcset="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-1024x1024.jpg 1024w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-300x300.jpg 300w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-100x100.jpg 100w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-600x600.jpg 600w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-150x150.jpg 150w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-768x768.jpg 768w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition-1080x1080.jpg 1080w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-Limited-Edition.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -113,7 +113,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="604" src="https://www.electrikjam.com/wp-content/uploads/2021/09/PRS-SE-245-1-1024x604.png" alt="PRS SE 245" class="wp-image-4267" title=""><figcaption><strong>The Brilliant PRS SE 245 – <a href="https://www.electrikjam.com/prs-se-245-les-paul/" data-type="lasso-urls" data-id="4255" data-lasso-id="4646" rel="nofollow noopener" target="_blank" data-lasso-name="PRS SE 245">A Goddamn Steal At $799</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="604" src="/wp-content/uploads/2021/09/PRS-SE-245-1-1024x604.png" alt="PRS SE 245" class="wp-image-4267" title=""><figcaption><strong>The Brilliant PRS SE 245 – <a href="https://www.electrikjam.com/prs-se-245-les-paul/" data-type="lasso-urls" data-id="4255" data-lasso-id="4646" rel="nofollow noopener" target="_blank" data-lasso-name="PRS SE 245">A Goddamn Steal At $799</a></strong></figcaption></figure>
 
 
 

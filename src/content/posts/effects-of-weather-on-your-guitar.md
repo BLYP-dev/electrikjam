@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar.png"
+featuredImage: "/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar.png"
 featuredImageAlt: "Effects of weather on your guitar"
 seo: 
   title: "The Effects Of Weather On Your Guitar: Top 3 Environmental Factors Explained!"
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-1024x683.png" alt="Effects of weather on your guitar " class="wp-image-9656" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-1024x683.png" alt="Effects of weather on your guitar " class="wp-image-9656" title="" srcset="/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-1024x683.png 1024w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-600x400.png 600w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-300x200.png 300w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing-768x512.png 768w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-unboxing.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-1024x683.png" alt="Effects of weather on your guitar " class="wp-image-9657" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-1024x683.png" alt="Effects of weather on your guitar " class="wp-image-9657" title="" srcset="/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-1024x683.png 1024w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-600x400.png 600w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-300x200.png 300w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-768x512.png 768w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Finish-crack-1024x683.png" alt="effects of weather on your guitar" class="wp-image-9658" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Finish-crack-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Finish-crack-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Finish-crack-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Finish-crack-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Finish-crack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Finish-crack-1024x683.png" alt="effects of weather on your guitar" class="wp-image-9658" title="" srcset="/wp-content/uploads/2022/11/Finish-crack-1024x683.png 1024w, /wp-content/uploads/2022/11/Finish-crack-600x400.png 600w, /wp-content/uploads/2022/11/Finish-crack-300x200.png 300w, /wp-content/uploads/2022/11/Finish-crack-768x512.png 768w, /wp-content/uploads/2022/11/Finish-crack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

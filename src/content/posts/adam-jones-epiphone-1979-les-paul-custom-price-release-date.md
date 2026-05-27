@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/adam-jones/"
   - "/tag/epiphone/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-price-.png"
+featuredImage: "/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-price-.png"
 featuredImageAlt: "Adam Jones Epiphone 1979 Les Paul Custom price"
 seo: 
   title: "Adam Jones Epiphone 1979 Les Paul Custom Price & Release Date"
@@ -85,7 +85,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-1024x683.png" alt="Epiphone Adam Jones Les Paul Custom Art Collection- Julie Heffernan&#039;s Self Portrait as Not Dead Yet Electric Guitar Antique Silverburst" class="wp-image-14071" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-1024x683.png" alt="Epiphone Adam Jones Les Paul Custom Art Collection- Julie Heffernan&#039;s Self Portrait as Not Dead Yet Electric Guitar Antique Silverburst" class="wp-image-14071" title="" srcset="/wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-1024x683.png 1024w, /wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-600x400.png 600w, /wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-300x200.png 300w, /wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst-768x512.png 768w, /wp-content/uploads/2024/02/Epiphone-Adam-Jones-Les-Paul-Custom-Art-Collection-Julie-Heffernans-Self-Portrait-as-Not-Dead-Yet-Electric-Guitar-Antique-Silverburst.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--1024x683.png" alt="Adam Jones Epiphone 1979 Les Paul Custom headtsock" class="wp-image-14300" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--1024x683.png" alt="Adam Jones Epiphone 1979 Les Paul Custom headtsock" class="wp-image-14300" title="" srcset="/wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--1024x683.png 1024w, /wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--600x400.png 600w, /wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--300x200.png 300w, /wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock--768x512.png 768w, /wp-content/uploads/2024/02/Adam-Jones-Epiphone-1979-Les-Paul-Custom-headtsock-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -133,7 +133,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" title="" srcset="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

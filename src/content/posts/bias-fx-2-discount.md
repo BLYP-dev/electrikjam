@@ -22,7 +22,7 @@ tagSlugs:
   - "positive-grid"
 tagPaths: 
   - "/tag/positive-grid/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/is-bias-fx-worth-it-e1610108717277.png"
+featuredImage: "/wp-content/uploads/2021/01/is-bias-fx-worth-it-e1610108717277.png"
 featuredImageAlt: "Save 50% on Positive Grid’s EPIC BIAS FX 2"
 seo: 
   title: "Get 50% Discount on Positive Grid’s EPIC BIAS FX 2 Software"

@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/does-thomann-USA-ship-to-USA-e1697196136328.webp"
+featuredImage: "/wp-content/uploads/2023/10/does-thomann-USA-ship-to-USA-e1697196136328.webp"
 featuredImageAlt: "does thomann USA ship to USA"
 seo: 
   title: "Thomann USA: Shipping Times & Costs – A Complete Guide"
@@ -80,7 +80,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-1024x683.png" alt="harley benton guitars guide" class="wp-image-9903" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/harley-benton-guitars-guide-1024x683.png" alt="harley benton guitars guide" class="wp-image-9903" title="" srcset="/wp-content/uploads/2022/11/harley-benton-guitars-guide-1024x683.png 1024w, /wp-content/uploads/2022/11/harley-benton-guitars-guide-600x400.png 600w, /wp-content/uploads/2022/11/harley-benton-guitars-guide-300x200.png 300w, /wp-content/uploads/2022/11/harley-benton-guitars-guide-768x512.png 768w, /wp-content/uploads/2022/11/harley-benton-guitars-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9.webp" alt="where is thomann usa" class="wp-image-12943" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-150x150.webp 150w, https://www.electrikjam.com/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9.webp" alt="where is thomann usa" class="wp-image-12943" title="" srcset="/wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9.webp 1024w, /wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-300x300.webp 300w, /wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-100x100.webp 100w, /wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-600x600.webp 600w, /wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-150x150.webp 150w, /wp-content/uploads/2023/10/76e3373a-bd04-48e0-97f3-611afd509dc9-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -230,7 +230,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-1024x683.png" alt="Best MIDI Keyboards" class="wp-image-12727" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Best-MIDI-Keyboards-1024x683.png" alt="Best MIDI Keyboards" class="wp-image-12727" title="" srcset="/wp-content/uploads/2023/09/Best-MIDI-Keyboards-1024x683.png 1024w, /wp-content/uploads/2023/09/Best-MIDI-Keyboards-600x400.png 600w, /wp-content/uploads/2023/09/Best-MIDI-Keyboards-300x200.png 300w, /wp-content/uploads/2023/09/Best-MIDI-Keyboards-768x512.png 768w, /wp-content/uploads/2023/09/Best-MIDI-Keyboards.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, /wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-deep-dive.png"
+featuredImage: "/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-deep-dive.png"
 featuredImageAlt: "best acoustic guitars for metal"
 seo: 
   title: "The 3 Best Acoustic Guitars For Metal Players: Skinny Necks, Giant Sounds!"
@@ -160,7 +160,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-1024x683.png" alt="best acoustic guitars for metal" class="wp-image-10134" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-1024x683.png" alt="best acoustic guitars for metal" class="wp-image-10134" title="" srcset="/wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-1024x683.png 1024w, /wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-600x400.png 600w, /wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-300x200.png 300w, /wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal-768x512.png 768w, /wp-content/uploads/2022/12/Best-acoustic-guitars-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -262,7 +262,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-1024x683.png" alt="best acoustic guitars for metal" class="wp-image-10136" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-1024x683.png" alt="best acoustic guitars for metal" class="wp-image-10136" title="" srcset="/wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-1024x683.png 1024w, /wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-600x400.png 600w, /wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-300x200.png 300w, /wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal-768x512.png 768w, /wp-content/uploads/2022/12/ESP-best-acoustic-guitars-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -364,7 +364,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-1024x683.png" alt="best acoustic guitars for metal" class="wp-image-10137" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-1024x683.png" alt="best acoustic guitars for metal" class="wp-image-10137" title="" srcset="/wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-best-acoustics-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

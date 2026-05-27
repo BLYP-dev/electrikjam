@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster.png"
+featuredImage: "/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster.png"
 featuredImageAlt: "History of the Fender Stratocaster"
 seo: 
   title: "History of the Fender Stratocaster: The Birth of An Icon..."
@@ -54,7 +54,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-1024x683.png" alt="Fender Player Stratocaster Pickups" class="wp-image-10895" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-1024x683.png" alt="Fender Player Stratocaster Pickups" class="wp-image-10895" title="" srcset="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-1024x683.png 1024w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-600x400.png 600w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-300x200.png 300w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-768x512.png 768w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png" alt="History of the Fender Stratocaster" class="wp-image-10899" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png" alt="History of the Fender Stratocaster" class="wp-image-10899" title="" srcset="/wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/02/History-of-the-Fender-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png" alt="Fender-Player-Stratocaster-review" class="wp-image-10884" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217935">The Beautiful &amp; Stunning Fender Player Stratocaster</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png" alt="Fender-Player-Stratocaster-review" class="wp-image-10884" title="" srcset="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217935">The Beautiful &amp; Stunning Fender Player Stratocaster</a></strong></figcaption></figure>
 
 
 

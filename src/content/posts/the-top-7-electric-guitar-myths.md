@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths.png"
+featuredImage: "/wp-content/uploads/2022/09/Electric-Guitar-Myths.png"
 featuredImageAlt: "Electric Guitar Myths"
 seo: 
   title: "The Top 7 Electric Guitar Myths: Fact or Fiction?"
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-1024x683.png" alt="Electric Guitar Myths" class="wp-image-8984" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Electric-Guitar-Myths-1024x683.png" alt="Electric Guitar Myths" class="wp-image-8984" title="" srcset="/wp-content/uploads/2022/09/Electric-Guitar-Myths-1024x683.png 1024w, /wp-content/uploads/2022/09/Electric-Guitar-Myths-600x400.png 600w, /wp-content/uploads/2022/09/Electric-Guitar-Myths-300x200.png 300w, /wp-content/uploads/2022/09/Electric-Guitar-Myths-768x512.png 768w, /wp-content/uploads/2022/09/Electric-Guitar-Myths.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-1024x683.png" alt="electric guitar myths" class="wp-image-8985" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-1024x683.png" alt="electric guitar myths" class="wp-image-8985" title="" srcset="/wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-1024x683.png 1024w, /wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-600x400.png 600w, /wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-300x200.png 300w, /wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals-768x512.png 768w, /wp-content/uploads/2022/09/Electric-Guitar-Myths-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-guitar-myths-vintage-1024x683.png" alt="electric guitar myths" class="wp-image-8986" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-guitar-myths-vintage-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-guitar-myths-vintage-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-guitar-myths-vintage-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-guitar-myths-vintage-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Electric-guitar-myths-vintage.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Authentic 1965 Fender Stratocaster</strong>: <strong><em>Sold For $80,000</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Electric-guitar-myths-vintage-1024x683.png" alt="electric guitar myths" class="wp-image-8986" title="" srcset="/wp-content/uploads/2022/09/Electric-guitar-myths-vintage-1024x683.png 1024w, /wp-content/uploads/2022/09/Electric-guitar-myths-vintage-600x400.png 600w, /wp-content/uploads/2022/09/Electric-guitar-myths-vintage-300x200.png 300w, /wp-content/uploads/2022/09/Electric-guitar-myths-vintage-768x512.png 768w, /wp-content/uploads/2022/09/Electric-guitar-myths-vintage.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Authentic 1965 Fender Stratocaster</strong>: <strong><em>Sold For $80,000</em></strong></figcaption></figure>
 
 
 

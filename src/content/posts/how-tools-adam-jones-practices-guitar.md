@@ -22,7 +22,7 @@ tagSlugs:
   - "adam-jones"
 tagPaths: 
   - "/tag/adam-jones/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar.png"
+featuredImage: "/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar.png"
 featuredImageAlt: "This is How TOOL’s Adam Jones Practices Guitar"
 seo: 
   title: "How TOOL’s Adam Jones Actually Practices Guitar Revealed"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-1024x683.png" alt="This is How TOOL’s Adam Jones Practices Guitar" class="wp-image-7843" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Adam Jones Plays Gibson Les Pauls &amp; Flying V Guitars. He Favors Drop D Tuning. And His Pickups Are Ferocious.</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-1024x683.png" alt="This is How TOOL’s Adam Jones Practices Guitar" class="wp-image-7843" title="" srcset="/wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-1024x683.png 1024w, /wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-600x400.png 600w, /wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-300x200.png 300w, /wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar-768x512.png 768w, /wp-content/uploads/2022/04/This-is-How-TOOLs-Adam-Jones-Practices-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Adam Jones Plays Gibson Les Pauls &amp; Flying V Guitars. He Favors Drop D Tuning. And His Pickups Are Ferocious.</strong></figcaption></figure></div>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace.jpg"
+featuredImage: "/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace.jpg"
 featuredImageAlt: "Billy-Corgan-Carstens-Grace"
 seo: 
   title: "Carstens Grace: Creating A Masterpiece Amplifier With Billy Corgan in 2020"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="810" height="540" src="https://www.electrikjam.com/wp-content/uploads/2020/11/casrstens.jpg" alt="Carstens Grace" class="wp-image-1509" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/casrstens.jpg 810w, https://www.electrikjam.com/wp-content/uploads/2020/11/casrstens-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/casrstens-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/casrstens-768x512.jpg 768w" sizes="(max-width: 810px) 100vw, 810px" /><figcaption>Carstens Amplification</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="810" height="540" src="/wp-content/uploads/2020/11/casrstens.jpg" alt="Carstens Grace" class="wp-image-1509" title="" srcset="/wp-content/uploads/2020/11/casrstens.jpg 810w, /wp-content/uploads/2020/11/casrstens-600x400.jpg 600w, /wp-content/uploads/2020/11/casrstens-300x200.jpg 300w, /wp-content/uploads/2020/11/casrstens-768x512.jpg 768w" sizes="(max-width: 810px) 100vw, 810px" /><figcaption>Carstens Amplification</figcaption></figure>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-1024x576.jpg" alt="" class="wp-image-1511" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Image Courtesy of <a href="https://www.carstensamplification.com/" class="rank-math-link" data-lasso-id="505" target="_blank" rel="noopener noreferrer nofollow">Carsten Amplification</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-1024x576.jpg" alt="" class="wp-image-1511" title="" srcset="/wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-1024x576.jpg 1024w, /wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-600x338.jpg 600w, /wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-300x169.jpg 300w, /wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace-768x432.jpg 768w, /wp-content/uploads/2020/11/Billy-Corgan-Carstens-Grace.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Image Courtesy of <a href="https://www.carstensamplification.com/" class="rank-math-link" data-lasso-id="505" target="_blank" rel="noopener noreferrer nofollow">Carsten Amplification</a></figcaption></figure>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="427" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Sig-1024x427.jpg" alt="" class="wp-image-1512" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Sig-1024x427.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Sig-600x250.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Sig-300x125.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Sig-768x320.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Billy-Sig.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="427" src="/wp-content/uploads/2020/11/Billy-Sig-1024x427.jpg" alt="" class="wp-image-1512" title="" srcset="/wp-content/uploads/2020/11/Billy-Sig-1024x427.jpg 1024w, /wp-content/uploads/2020/11/Billy-Sig-600x250.jpg 600w, /wp-content/uploads/2020/11/Billy-Sig-300x125.jpg 300w, /wp-content/uploads/2020/11/Billy-Sig-768x320.jpg 768w, /wp-content/uploads/2020/11/Billy-Sig.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

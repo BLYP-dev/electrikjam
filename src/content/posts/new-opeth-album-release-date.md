@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/New-OPETH-Album.png"
+featuredImage: "/wp-content/uploads/2022/01/New-OPETH-Album.png"
 featuredImageAlt: "New-OPETH-Album"
 seo: 
   title: "New OPETH Album: Latest News & Updates From The Band"
@@ -50,7 +50,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><a href="https://www.electrikjam.com/opeth-the-last-will-and-testament-reviews-reactions/" data-lasso-id="270385"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg" alt="Opeth’s The Last Will and Testament Is Here Initial Reactions &amp; Reviews" class="wp-image-16735" style="border-radius:20px;object-fit:cover" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg 1200w, https://www.electrikjam.com/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
+<figure class="wp-block-image size-full has-custom-border"><a href="https://www.electrikjam.com/opeth-the-last-will-and-testament-reviews-reactions/" data-lasso-id="270385"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg" alt="Opeth’s The Last Will and Testament Is Here Initial Reactions &amp; Reviews" class="wp-image-16735" style="border-radius:20px;object-fit:cover" title="" srcset="/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg 1200w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-600x400.jpg 600w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-300x200.jpg 300w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
 </div>
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2022/01/New-OPETH-Album-1024x853.png" alt="" class="wp-image-6696" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/New-OPETH-Album-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-OPETH-Album-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-OPETH-Album-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-OPETH-Album-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-OPETH-Album-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-OPETH-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2022/01/New-OPETH-Album-1024x853.png" alt="" class="wp-image-6696" title="" srcset="/wp-content/uploads/2022/01/New-OPETH-Album-1024x853.png 1024w, /wp-content/uploads/2022/01/New-OPETH-Album-600x500.png 600w, /wp-content/uploads/2022/01/New-OPETH-Album-300x250.png 300w, /wp-content/uploads/2022/01/New-OPETH-Album-768x640.png 768w, /wp-content/uploads/2022/01/New-OPETH-Album-1080x900.png 1080w, /wp-content/uploads/2022/01/New-OPETH-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

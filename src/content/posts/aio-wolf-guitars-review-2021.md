@@ -25,7 +25,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/AIO-wolf.jpg"
+featuredImage: "/wp-content/uploads/2021/11/AIO-wolf.jpg"
 featuredImageAlt: "Aio Wolf Guitars"
 seo: 
   title: "AIO Wolf Guitars Review 2021: Master Craftsmanship For An Unbelievable Price!"
@@ -86,7 +86,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="843" height="562" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-aio-blue-side.jpg" alt="AIO Wolf guitars" class="wp-image-5802" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-aio-blue-side.jpg 843w, https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-aio-blue-side-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-aio-blue-side-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-aio-blue-side-768x512.jpg 768w" sizes="(max-width: 843px) 100vw, 843px" /><figcaption><em><strong>The AIO Wolf Guitars WLP</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="843" height="562" src="/wp-content/uploads/2021/11/Wolf-aio-blue-side.jpg" alt="AIO Wolf guitars" class="wp-image-5802" title="" srcset="/wp-content/uploads/2021/11/Wolf-aio-blue-side.jpg 843w, /wp-content/uploads/2021/11/Wolf-aio-blue-side-600x400.jpg 600w, /wp-content/uploads/2021/11/Wolf-aio-blue-side-300x200.jpg 300w, /wp-content/uploads/2021/11/Wolf-aio-blue-side-768x512.jpg 768w" sizes="(max-width: 843px) 100vw, 843px" /><figcaption><em><strong>The AIO Wolf Guitars WLP</strong></em></figcaption></figure>
 
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="843" height="562" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-AIO-Back.jpg" alt="" class="wp-image-5803" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-AIO-Back.jpg 843w, https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-AIO-Back-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-AIO-Back-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-AIO-Back-768x512.jpg 768w" sizes="(max-width: 843px) 100vw, 843px" /><figcaption><em><strong>AIO Wolf Guitars WLP Back</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="843" height="562" src="/wp-content/uploads/2021/11/Wolf-AIO-Back.jpg" alt="" class="wp-image-5803" title="" srcset="/wp-content/uploads/2021/11/Wolf-AIO-Back.jpg 843w, /wp-content/uploads/2021/11/Wolf-AIO-Back-600x400.jpg 600w, /wp-content/uploads/2021/11/Wolf-AIO-Back-300x200.jpg 300w, /wp-content/uploads/2021/11/Wolf-AIO-Back-768x512.jpg 768w" sizes="(max-width: 843px) 100vw, 843px" /><figcaption><em><strong>AIO Wolf Guitars WLP Back</strong></em></figcaption></figure>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-AIO-Blue.jpg" alt="" class="wp-image-5804" width="839" height="816" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-AIO-Blue.jpg 578w, https://www.electrikjam.com/wp-content/uploads/2021/11/Wolf-AIO-Blue-300x292.jpg 300w" sizes="(max-width: 839px) 100vw, 839px" /><figcaption><em><strong>AIO Wolf Guitars AAA Flame Top</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/Wolf-AIO-Blue.jpg" alt="" class="wp-image-5804" width="839" height="816" title="" srcset="/wp-content/uploads/2021/11/Wolf-AIO-Blue.jpg 578w, /wp-content/uploads/2021/11/Wolf-AIO-Blue-300x292.jpg 300w" sizes="(max-width: 839px) 100vw, 839px" /><figcaption><em><strong>AIO Wolf Guitars AAA Flame Top</strong></em></figcaption></figure>
 
 
 

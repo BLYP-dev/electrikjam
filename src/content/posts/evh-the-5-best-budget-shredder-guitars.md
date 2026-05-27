@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars.png"
+featuredImage: "/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars.png"
 featuredImageAlt: "best budget shredder guitars"
 seo: 
   title: "Remembering EVH: The 5 Best Budget Shredder Guitars For 80's Speed!"
@@ -119,7 +119,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-1024x683.png" alt="best budget shredder guitars" class="wp-image-9305" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-budget-shredder-guitars-1024x683.png" alt="best budget shredder guitars" class="wp-image-9305" title="" srcset="/wp-content/uploads/2022/10/Best-budget-shredder-guitars-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-600x400.png 600w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-300x200.png 300w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-768x512.png 768w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-1024x683.png" alt="best budget shredder guitars" class="wp-image-9306" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-1024x683.png" alt="best budget shredder guitars" class="wp-image-9306" title="" srcset="/wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-600x400.png 600w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-300x200.png 300w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer-768x512.png 768w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-kramer.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-1024x683.png" alt="best budget shredder guitars" class="wp-image-9307" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-1024x683.png" alt="best budget shredder guitars" class="wp-image-9307" title="" srcset="/wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-1024x683.png 1024w, /wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-600x400.png 600w, /wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-300x200.png 300w, /wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez-768x512.png 768w, /wp-content/uploads/2022/10/best-budget-shredder-guitars-ibanez.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-1024x683.png" alt="best budget shredder guitars" class="wp-image-9309" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-1024x683.png" alt="best budget shredder guitars" class="wp-image-9309" title="" srcset="/wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-600x400.png 600w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-300x200.png 300w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley-768x512.png 768w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-sun-valley.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -287,7 +287,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-1024x683.png" alt="" class="wp-image-9310" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-1024x683.png" alt="" class="wp-image-9310" title="" srcset="/wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-600x400.png 600w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-300x200.png 300w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH-768x512.png 768w, /wp-content/uploads/2022/10/Best-budget-shredder-guitars-EVH.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-1024x683.png" alt="best budget shredder guitars" class="wp-image-9303" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-1024x683.png" alt="best budget shredder guitars" class="wp-image-9303" title="" srcset="/wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-1024x683.png 1024w, /wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-600x400.png 600w, /wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-300x200.png 300w, /wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars-768x512.png 768w, /wp-content/uploads/2022/10/EVH-best-budget-shredder-guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

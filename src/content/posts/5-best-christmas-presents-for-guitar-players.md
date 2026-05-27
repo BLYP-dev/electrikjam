@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/Christmas-cover.jpg"
+featuredImage: "/wp-content/uploads/2021/12/Christmas-cover.jpg"
 featuredImageAlt: "Christmas cover"
 seo: 
   title: "5 Best Christmas Presents For Guitar Players: Holiday Shred Cheat Sheet!"
@@ -64,7 +64,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/J29496000000000-00-720x720-1.webp" alt="christmas presents for guitar players" class="wp-image-6002" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/J29496000000000-00-720x720-1.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/J29496000000000-00-720x720-1-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/J29496000000000-00-720x720-1-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/J29496000000000-00-720x720-1-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/J29496000000000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/J29496000000000-00-720x720-1.webp" alt="christmas presents for guitar players" class="wp-image-6002" title="" srcset="/wp-content/uploads/2021/12/J29496000000000-00-720x720-1.webp 720w, /wp-content/uploads/2021/12/J29496000000000-00-720x720-1-300x300.webp 300w, /wp-content/uploads/2021/12/J29496000000000-00-720x720-1-100x100.webp 100w, /wp-content/uploads/2021/12/J29496000000000-00-720x720-1-600x600.webp 600w, /wp-content/uploads/2021/12/J29496000000000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/J10816000000000-00-720x720-1.webp" alt="Christmas presents for guitar players" class="wp-image-6005" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/J10816000000000-00-720x720-1.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/J10816000000000-00-720x720-1-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/J10816000000000-00-720x720-1-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/J10816000000000-00-720x720-1-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/J10816000000000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/J10816000000000-00-720x720-1.webp" alt="Christmas presents for guitar players" class="wp-image-6005" title="" srcset="/wp-content/uploads/2021/12/J10816000000000-00-720x720-1.webp 720w, /wp-content/uploads/2021/12/J10816000000000-00-720x720-1-300x300.webp 300w, /wp-content/uploads/2021/12/J10816000000000-00-720x720-1-100x100.webp 100w, /wp-content/uploads/2021/12/J10816000000000-00-720x720-1-600x600.webp 600w, /wp-content/uploads/2021/12/J10816000000000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Music-nomad-string-fuel.webp" alt="christmas presents for guitar players" class="wp-image-6007" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Music-nomad-string-fuel.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Music-nomad-string-fuel-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Music-nomad-string-fuel-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Music-nomad-string-fuel-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Music-nomad-string-fuel-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Music-nomad-string-fuel.webp" alt="christmas presents for guitar players" class="wp-image-6007" title="" srcset="/wp-content/uploads/2021/12/Music-nomad-string-fuel.webp 720w, /wp-content/uploads/2021/12/Music-nomad-string-fuel-300x300.webp 300w, /wp-content/uploads/2021/12/Music-nomad-string-fuel-100x100.webp 100w, /wp-content/uploads/2021/12/Music-nomad-string-fuel-600x600.webp 600w, /wp-content/uploads/2021/12/Music-nomad-string-fuel-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Snark-Tuner.jpg" alt="" class="wp-image-6009" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Snark-Tuner.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Snark-Tuner-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Snark-Tuner-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Snark-Tuner-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Snark-Tuner-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Snark-Tuner.jpg" alt="" class="wp-image-6009" title="" srcset="/wp-content/uploads/2021/12/Snark-Tuner.jpg 720w, /wp-content/uploads/2021/12/Snark-Tuner-300x300.jpg 300w, /wp-content/uploads/2021/12/Snark-Tuner-100x100.jpg 100w, /wp-content/uploads/2021/12/Snark-Tuner-600x600.jpg 600w, /wp-content/uploads/2021/12/Snark-Tuner-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Daddario-cleaning-kit.webp" alt="christmas presents for guitar players" class="wp-image-6012" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Daddario-cleaning-kit.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Daddario-cleaning-kit-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Daddario-cleaning-kit-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Daddario-cleaning-kit-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Daddario-cleaning-kit-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Daddario-cleaning-kit.webp" alt="christmas presents for guitar players" class="wp-image-6012" title="" srcset="/wp-content/uploads/2021/12/Daddario-cleaning-kit.webp 720w, /wp-content/uploads/2021/12/Daddario-cleaning-kit-300x300.webp 300w, /wp-content/uploads/2021/12/Daddario-cleaning-kit-100x100.webp 100w, /wp-content/uploads/2021/12/Daddario-cleaning-kit-600x600.webp 600w, /wp-content/uploads/2021/12/Daddario-cleaning-kit-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 

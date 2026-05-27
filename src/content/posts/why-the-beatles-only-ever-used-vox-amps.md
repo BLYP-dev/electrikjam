@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/epiphone/"
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps-.webp"
+featuredImage: "/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps-.webp"
 featuredImageAlt: "Why The Beatles ONLY Ever Used Vox Amps"
 seo: 
   title: "Why The Beatles ONLY Ever Used Vox Amps"
@@ -63,7 +63,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="852" height="700" src="https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp.jpg" alt="" class="wp-image-6142" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp.jpg 852w, https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp-600x493.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp-300x246.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp-768x631.jpg 768w" sizes="(max-width: 852px) 100vw, 852px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="852" height="700" src="/wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp.jpg" alt="" class="wp-image-6142" title="" srcset="/wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp.jpg 852w, /wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp-600x493.jpg 600w, /wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp-300x246.jpg 300w, /wp-content/uploads/2021/12/john-lennon-recording-with-vox-amp-768x631.jpg 768w" sizes="(max-width: 852px) 100vw, 852px" /></figure>
 			
 		
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-31 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="846" height="840" src="https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-amp.jpg" alt="" data-id="6141" data-full-url="https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-amp.jpg" data-link="https://www.electrikjam.com/?attachment_id=6141" class="wp-image-6141" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-amp.jpg 846w, https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-amp-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-amp-600x596.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-amp-300x298.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-amp-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/12/john-lennon-amp-768x763.jpg 768w" sizes="(max-width: 846px) 100vw, 846px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="900" height="542" src="https://www.electrikjam.com/wp-content/uploads/2021/12/beatles-amps.jpg" alt="" data-id="6139" data-full-url="https://www.electrikjam.com/wp-content/uploads/2021/12/beatles-amps.jpg" data-link="https://www.electrikjam.com/?attachment_id=6139" class="wp-image-6139" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/beatles-amps.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2021/12/beatles-amps-600x361.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/beatles-amps-300x181.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/beatles-amps-768x463.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-31 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="846" height="840" src="/wp-content/uploads/2021/12/john-lennon-amp.jpg" alt="" data-id="6141" data-full-url="/wp-content/uploads/2021/12/john-lennon-amp.jpg" data-link="https://www.electrikjam.com/?attachment_id=6141" class="wp-image-6141" title="" srcset="/wp-content/uploads/2021/12/john-lennon-amp.jpg 846w, /wp-content/uploads/2021/12/john-lennon-amp-100x100.jpg 100w, /wp-content/uploads/2021/12/john-lennon-amp-600x596.jpg 600w, /wp-content/uploads/2021/12/john-lennon-amp-300x298.jpg 300w, /wp-content/uploads/2021/12/john-lennon-amp-150x150.jpg 150w, /wp-content/uploads/2021/12/john-lennon-amp-768x763.jpg 768w" sizes="(max-width: 846px) 100vw, 846px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="900" height="542" src="/wp-content/uploads/2021/12/beatles-amps.jpg" alt="" data-id="6139" data-full-url="/wp-content/uploads/2021/12/beatles-amps.jpg" data-link="https://www.electrikjam.com/?attachment_id=6139" class="wp-image-6139" title="" srcset="/wp-content/uploads/2021/12/beatles-amps.jpg 900w, /wp-content/uploads/2021/12/beatles-amps-600x361.jpg 600w, /wp-content/uploads/2021/12/beatles-amps-300x181.jpg 300w, /wp-content/uploads/2021/12/beatles-amps-768x463.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure></li></ul></figure>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="900" height="668" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps-.webp" alt="Why The Beatles ONLY Ever Used Vox Amps" class="wp-image-6140" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps-.webp 900w, https://www.electrikjam.com/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps--600x445.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps--300x223.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps--768x570.webp 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="900" height="668" src="/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps-.webp" alt="Why The Beatles ONLY Ever Used Vox Amps" class="wp-image-6140" title="" srcset="/wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps-.webp 900w, /wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps--600x445.webp 600w, /wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps--300x223.webp 300w, /wp-content/uploads/2021/12/Why-The-Beatles-ONLY-Ever-Used-Vox-Amps--768x570.webp 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
 			
 		
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-luminous-vivid-amber-background-color has-background"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/12/fender-amps-1024x576.jpg" alt="" class="wp-image-6143 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/fender-amps-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/fender-amps-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/fender-amps-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/fender-amps-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/fender-amps-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/fender-amps.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-luminous-vivid-amber-background-color has-background"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/12/fender-amps-1024x576.jpg" alt="" class="wp-image-6143 size-full" title="" srcset="/wp-content/uploads/2021/12/fender-amps-1024x576.jpg 1024w, /wp-content/uploads/2021/12/fender-amps-600x338.jpg 600w, /wp-content/uploads/2021/12/fender-amps-300x169.jpg 300w, /wp-content/uploads/2021/12/fender-amps-768x432.jpg 768w, /wp-content/uploads/2021/12/fender-amps-1080x608.jpg 1080w, /wp-content/uploads/2021/12/fender-amps.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>SHOP FENDER AMPS</strong></h3>
 
 

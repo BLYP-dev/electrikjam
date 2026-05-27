@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/best-practice-amp.png"
+featuredImage: "/wp-content/uploads/2021/02/best-practice-amp.png"
 featuredImageAlt: "best practice amp"
 seo: 
   title: "The Best Guitar Amps Under 100 Bucks: Our Affordable Picks!"
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="488" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Marshall-MG15-1024x488.jpg" alt="best guitar amps under 100" class="wp-image-2832" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Marshall-MG15-1024x488.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Marshall-MG15-600x286.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Marshall-MG15-300x143.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Marshall-MG15-768x366.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Marshall-MG15-1080x514.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Marshall-MG15.jpg 1260w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="488" src="/wp-content/uploads/2021/04/Marshall-MG15-1024x488.jpg" alt="best guitar amps under 100" class="wp-image-2832" title="" srcset="/wp-content/uploads/2021/04/Marshall-MG15-1024x488.jpg 1024w, /wp-content/uploads/2021/04/Marshall-MG15-600x286.jpg 600w, /wp-content/uploads/2021/04/Marshall-MG15-300x143.jpg 300w, /wp-content/uploads/2021/04/Marshall-MG15-768x366.jpg 768w, /wp-content/uploads/2021/04/Marshall-MG15-1080x514.jpg 1080w, /wp-content/uploads/2021/04/Marshall-MG15.jpg 1260w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="802" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Katana-Mini-1024x802.jpg" alt="" class="wp-image-2833" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Katana-Mini-1024x802.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Katana-Mini-600x470.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Katana-Mini-300x235.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Katana-Mini-768x602.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Katana-Mini-1080x846.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Katana-Mini.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="802" src="/wp-content/uploads/2021/04/Boss-Katana-Mini-1024x802.jpg" alt="" class="wp-image-2833" title="" srcset="/wp-content/uploads/2021/04/Boss-Katana-Mini-1024x802.jpg 1024w, /wp-content/uploads/2021/04/Boss-Katana-Mini-600x470.jpg 600w, /wp-content/uploads/2021/04/Boss-Katana-Mini-300x235.jpg 300w, /wp-content/uploads/2021/04/Boss-Katana-Mini-768x602.jpg 768w, /wp-content/uploads/2021/04/Boss-Katana-Mini-1080x846.jpg 1080w, /wp-content/uploads/2021/04/Boss-Katana-Mini.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="900" height="900" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Blackstar-Fly-3.jpg" alt="" class="wp-image-2834" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Blackstar-Fly-3.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blackstar-Fly-3-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blackstar-Fly-3-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blackstar-Fly-3-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blackstar-Fly-3-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blackstar-Fly-3-768x768.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="900" height="900" src="/wp-content/uploads/2021/04/Blackstar-Fly-3.jpg" alt="" class="wp-image-2834" title="" srcset="/wp-content/uploads/2021/04/Blackstar-Fly-3.jpg 900w, /wp-content/uploads/2021/04/Blackstar-Fly-3-300x300.jpg 300w, /wp-content/uploads/2021/04/Blackstar-Fly-3-100x100.jpg 100w, /wp-content/uploads/2021/04/Blackstar-Fly-3-600x600.jpg 600w, /wp-content/uploads/2021/04/Blackstar-Fly-3-150x150.jpg 150w, /wp-content/uploads/2021/04/Blackstar-Fly-3-768x768.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="750" height="691" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Champ20-large.jpg" alt="" class="wp-image-2835" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Champ20-large.jpg 750w, https://www.electrikjam.com/wp-content/uploads/2021/04/Champ20-large-600x553.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Champ20-large-300x276.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="750" height="691" src="/wp-content/uploads/2021/04/Champ20-large.jpg" alt="" class="wp-image-2835" title="" srcset="/wp-content/uploads/2021/04/Champ20-large.jpg 750w, /wp-content/uploads/2021/04/Champ20-large-600x553.jpg 600w, /wp-content/uploads/2021/04/Champ20-large-300x276.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
 
 
 
@@ -252,7 +252,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="927" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Mooer-hornet-1024x927.jpg" alt="" class="wp-image-2836" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Mooer-hornet-1024x927.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Mooer-hornet-600x543.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Mooer-hornet-300x272.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Mooer-hornet-768x695.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Mooer-hornet-1080x978.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Mooer-hornet.jpg 1481w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="927" src="/wp-content/uploads/2021/04/Mooer-hornet-1024x927.jpg" alt="" class="wp-image-2836" title="" srcset="/wp-content/uploads/2021/04/Mooer-hornet-1024x927.jpg 1024w, /wp-content/uploads/2021/04/Mooer-hornet-600x543.jpg 600w, /wp-content/uploads/2021/04/Mooer-hornet-300x272.jpg 300w, /wp-content/uploads/2021/04/Mooer-hornet-768x695.jpg 768w, /wp-content/uploads/2021/04/Mooer-hornet-1080x978.jpg 1080w, /wp-content/uploads/2021/04/Mooer-hornet.jpg 1481w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

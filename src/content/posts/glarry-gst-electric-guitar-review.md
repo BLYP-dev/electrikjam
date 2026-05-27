@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Guitar-Review.png"
+featuredImage: "/wp-content/uploads/2023/03/Glarry-GST-Guitar-Review.png"
 featuredImageAlt: "Glarry GST Electric Guitar review"
 seo: 
   title: "Glarry GST Electric Guitar Review: The #1 Best Budget Option?"
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-1024x683.png" alt="Glarry GST Electric Guitar" class="wp-image-11165" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-1024x683.png" alt="Glarry GST Electric Guitar" class="wp-image-11165" title="" srcset="/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-1024x683.png 1024w, /wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-600x400.png 600w, /wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-300x200.png 300w, /wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-768x512.png 768w, /wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -338,7 +338,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-1024x683.png" alt="Glarry GST electric guitar" class="wp-image-11169" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-1024x683.png" alt="Glarry GST electric guitar" class="wp-image-11169" title="" srcset="/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-1024x683.png 1024w, /wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-600x400.png 600w, /wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-300x200.png 300w, /wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ-768x512.png 768w, /wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-EJ.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -458,7 +458,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-1024x683.png" alt="Glarry GST electric guitar" class="wp-image-11170" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glasst-GST-Black-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glasst-GST-Black-1-1024x683.png" alt="Glarry GST electric guitar" class="wp-image-11170" title="" srcset="/wp-content/uploads/2023/03/Glasst-GST-Black-1-1024x683.png 1024w, /wp-content/uploads/2023/03/Glasst-GST-Black-1-600x400.png 600w, /wp-content/uploads/2023/03/Glasst-GST-Black-1-300x200.png 300w, /wp-content/uploads/2023/03/Glasst-GST-Black-1-768x512.png 768w, /wp-content/uploads/2023/03/Glasst-GST-Black-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -654,7 +654,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-1024x683.png" alt="Best Glarry guitars" class="wp-image-11117" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Glarry-Guitars-GST.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-1024x683.png" alt="Best Glarry guitars" class="wp-image-11117" title="" srcset="/wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-1024x683.png 1024w, /wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-600x400.png 600w, /wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-300x200.png 300w, /wp-content/uploads/2023/03/Best-Glarry-Guitars-GST-768x512.png 768w, /wp-content/uploads/2023/03/Best-Glarry-Guitars-GST.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -722,7 +722,7 @@ seo:
 <div id="faq-question-1679418760379" class="rank-math-list-item">
 <h3 class="rank-math-question ">Is The Glarry GST Electric Guitar Good For Beginners?</h3>
 <div class="rank-math-answer ">
-<img decoding="async" width="150" height="150" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-150x150.png" class="alignright" alt="Glarry GST Electric Guitar" title="">
+<img decoding="async" width="150" height="150" src="/wp-content/uploads/2023/03/Glarry-GST-Electric-Guitar-150x150.png" class="alignright" alt="Glarry GST Electric Guitar" title="">
 <p>Glarry is a budget brand, but most of the offerings are great quality for beginners. Glarry guitars are designed with the beginner in mind, with a price to match. The Glarry GST is a Strat-style guitar that makes a great beginner guitar, or mod platform!</p>
 
 </div>

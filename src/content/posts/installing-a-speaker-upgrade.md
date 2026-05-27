@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-6.png"
+featuredImage: "/wp-content/uploads/2022/02/Untitled-design-6.png"
 featuredImageAlt: "amp speaker upgrade"
 seo: 
   title: "Installing A Guitar Speaker Upgrade: The #1 Guide"
@@ -77,7 +77,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-7-1024x683.png" alt="speaker upgrade" class="wp-image-7056" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-7-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-7-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-7-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-7-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-7-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Marshall 4&#215;12 Speaker Cabinet</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Untitled-design-7-1024x683.png" alt="speaker upgrade" class="wp-image-7056" title="" srcset="/wp-content/uploads/2022/02/Untitled-design-7-1024x683.png 1024w, /wp-content/uploads/2022/02/Untitled-design-7-600x400.png 600w, /wp-content/uploads/2022/02/Untitled-design-7-300x200.png 300w, /wp-content/uploads/2022/02/Untitled-design-7-768x512.png 768w, /wp-content/uploads/2022/02/Untitled-design-7-1080x720.png 1080w, /wp-content/uploads/2022/02/Untitled-design-7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Marshall 4&#215;12 Speaker Cabinet</strong></figcaption></figure>
 			
 		
 
@@ -123,7 +123,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-6-1024x683.png" alt="amp speaker upgrade" class="wp-image-7055" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-6-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-6-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-6-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-6-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-6-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Untitled-design-6-1024x683.png" alt="amp speaker upgrade" class="wp-image-7055" title="" srcset="/wp-content/uploads/2022/02/Untitled-design-6-1024x683.png 1024w, /wp-content/uploads/2022/02/Untitled-design-6-600x400.png 600w, /wp-content/uploads/2022/02/Untitled-design-6-300x200.png 300w, /wp-content/uploads/2022/02/Untitled-design-6-768x512.png 768w, /wp-content/uploads/2022/02/Untitled-design-6-1080x720.png 1080w, /wp-content/uploads/2022/02/Untitled-design-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-8-1024x683.png" alt="speaker upgrade" class="wp-image-7058" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-8-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-8-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-8-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-8-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-8-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-8.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Untitled-design-8-1024x683.png" alt="speaker upgrade" class="wp-image-7058" title="" srcset="/wp-content/uploads/2022/02/Untitled-design-8-1024x683.png 1024w, /wp-content/uploads/2022/02/Untitled-design-8-600x400.png 600w, /wp-content/uploads/2022/02/Untitled-design-8-300x200.png 300w, /wp-content/uploads/2022/02/Untitled-design-8-768x512.png 768w, /wp-content/uploads/2022/02/Untitled-design-8-1080x720.png 1080w, /wp-content/uploads/2022/02/Untitled-design-8.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -245,7 +245,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-9-1024x683.png" alt="speaker upgrade" class="wp-image-7059" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-9-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-9-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-9-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-9-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-9-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-9.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Example Of An Amp With A Closed Back Design</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Untitled-design-9-1024x683.png" alt="speaker upgrade" class="wp-image-7059" title="" srcset="/wp-content/uploads/2022/02/Untitled-design-9-1024x683.png 1024w, /wp-content/uploads/2022/02/Untitled-design-9-600x400.png 600w, /wp-content/uploads/2022/02/Untitled-design-9-300x200.png 300w, /wp-content/uploads/2022/02/Untitled-design-9-768x512.png 768w, /wp-content/uploads/2022/02/Untitled-design-9-1080x720.png 1080w, /wp-content/uploads/2022/02/Untitled-design-9.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Example Of An Amp With A Closed Back Design</strong></figcaption></figure>
 			
 		
 

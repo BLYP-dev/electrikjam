@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-collection.jpg"
+featuredImage: "/wp-content/uploads/2021/11/Reverend-collection.jpg"
 featuredImageAlt: "Reverend collection"
 seo: 
   title: "Are Reverend Guitars Any Good? We Take A Peek At These Unique Aberrations in 2021!"
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-sensei-Silver.jpeg" alt="reverend guitars any good" class="wp-image-5569" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-sensei-Silver.jpeg 800w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-sensei-Silver-600x300.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-sensei-Silver-300x150.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-sensei-Silver-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>The Reverend Sensei</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-content/uploads/2021/11/Reverend-sensei-Silver.jpeg" alt="reverend guitars any good" class="wp-image-5569" title="" srcset="/wp-content/uploads/2021/11/Reverend-sensei-Silver.jpeg 800w, /wp-content/uploads/2021/11/Reverend-sensei-Silver-600x300.jpeg 600w, /wp-content/uploads/2021/11/Reverend-sensei-Silver-300x150.jpeg 300w, /wp-content/uploads/2021/11/Reverend-sensei-Silver-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>The Reverend Sensei</figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="300" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-double-agent-1024x300.png" alt="" class="wp-image-5572" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-double-agent-1024x300.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-double-agent-600x176.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-double-agent-300x88.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-double-agent-768x225.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-double-agent-1080x316.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-double-agent.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="300" src="/wp-content/uploads/2021/11/Reverend-double-agent-1024x300.png" alt="" class="wp-image-5572" title="" srcset="/wp-content/uploads/2021/11/Reverend-double-agent-1024x300.png 1024w, /wp-content/uploads/2021/11/Reverend-double-agent-600x176.png 600w, /wp-content/uploads/2021/11/Reverend-double-agent-300x88.png 300w, /wp-content/uploads/2021/11/Reverend-double-agent-768x225.png 768w, /wp-content/uploads/2021/11/Reverend-double-agent-1080x316.png 1080w, /wp-content/uploads/2021/11/Reverend-double-agent.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="344" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-Roundhouse-1024x344.jpeg" alt="" class="wp-image-5575" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-Roundhouse-1024x344.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-Roundhouse-600x201.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-Roundhouse-300x101.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-Roundhouse-768x258.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-Roundhouse-1536x516.jpeg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-Roundhouse-1080x363.jpeg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Reverend-Roundhouse.jpeg 1638w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="344" src="/wp-content/uploads/2021/11/Reverend-Roundhouse-1024x344.jpeg" alt="" class="wp-image-5575" title="" srcset="/wp-content/uploads/2021/11/Reverend-Roundhouse-1024x344.jpeg 1024w, /wp-content/uploads/2021/11/Reverend-Roundhouse-600x201.jpeg 600w, /wp-content/uploads/2021/11/Reverend-Roundhouse-300x101.jpeg 300w, /wp-content/uploads/2021/11/Reverend-Roundhouse-768x258.jpeg 768w, /wp-content/uploads/2021/11/Reverend-Roundhouse-1536x516.jpeg 1536w, /wp-content/uploads/2021/11/Reverend-Roundhouse-1080x363.jpeg 1080w, /wp-content/uploads/2021/11/Reverend-Roundhouse.jpeg 1638w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

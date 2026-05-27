@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-cover.jpg"
+featuredImage: "/wp-content/uploads/2020/11/Triple-trouble-cover.jpg"
 featuredImageAlt: "Triple trouble cover"
 seo: 
   title: "The New Fender Triple Trouble: The 2020 Telecaster From Another Universe!"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="331" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-Trouble-1-1024x331.jpg" alt="Fender Triple Trouble" class="wp-image-1498" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-Trouble-1-1024x331.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-Trouble-1-600x194.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-Trouble-1-300x97.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-Trouble-1-768x248.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-Trouble-1-1536x496.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-Trouble-1-2048x661.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="331" src="/wp-content/uploads/2020/11/Triple-Trouble-1-1024x331.jpg" alt="Fender Triple Trouble" class="wp-image-1498" title="" srcset="/wp-content/uploads/2020/11/Triple-Trouble-1-1024x331.jpg 1024w, /wp-content/uploads/2020/11/Triple-Trouble-1-600x194.jpg 600w, /wp-content/uploads/2020/11/Triple-Trouble-1-300x97.jpg 300w, /wp-content/uploads/2020/11/Triple-Trouble-1-768x248.jpg 768w, /wp-content/uploads/2020/11/Triple-Trouble-1-1536x496.jpg 1536w, /wp-content/uploads/2020/11/Triple-Trouble-1-2048x661.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="611" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Trouble-maker-1024x611.jpg" alt="" class="wp-image-1499" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Trouble-maker-1024x611.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Trouble-maker-600x358.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Trouble-maker-300x179.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Trouble-maker-768x459.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Trouble-maker-1536x917.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Trouble-maker-2048x1223.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Original Trouble Maker Model</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="611" src="/wp-content/uploads/2020/11/Trouble-maker-1024x611.jpg" alt="" class="wp-image-1499" title="" srcset="/wp-content/uploads/2020/11/Trouble-maker-1024x611.jpg 1024w, /wp-content/uploads/2020/11/Trouble-maker-600x358.jpg 600w, /wp-content/uploads/2020/11/Trouble-maker-300x179.jpg 300w, /wp-content/uploads/2020/11/Trouble-maker-768x459.jpg 768w, /wp-content/uploads/2020/11/Trouble-maker-1536x917.jpg 1536w, /wp-content/uploads/2020/11/Trouble-maker-2048x1223.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Original Trouble Maker Model</figcaption></figure>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="478" src="https://www.electrikjam.com/wp-content/uploads/2020/11/original-trouble-maker-1024x478.jpg" alt="" class="wp-image-1501" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/original-trouble-maker-1024x478.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/original-trouble-maker-600x280.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/original-trouble-maker-300x140.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/original-trouble-maker-768x358.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/original-trouble-maker.jpg 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="478" src="/wp-content/uploads/2020/11/original-trouble-maker-1024x478.jpg" alt="" class="wp-image-1501" title="" srcset="/wp-content/uploads/2020/11/original-trouble-maker-1024x478.jpg 1024w, /wp-content/uploads/2020/11/original-trouble-maker-600x280.jpg 600w, /wp-content/uploads/2020/11/original-trouble-maker-300x140.jpg 300w, /wp-content/uploads/2020/11/original-trouble-maker-768x358.jpg 768w, /wp-content/uploads/2020/11/original-trouble-maker.jpg 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2-1024x1024.jpg" alt="" class="wp-image-1500" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Triple-trouble-2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/Triple-trouble-2-1024x1024.jpg" alt="" class="wp-image-1500" title="" srcset="/wp-content/uploads/2020/11/Triple-trouble-2-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Triple-trouble-2-300x300.jpg 300w, /wp-content/uploads/2020/11/Triple-trouble-2-100x100.jpg 100w, /wp-content/uploads/2020/11/Triple-trouble-2-600x600.jpg 600w, /wp-content/uploads/2020/11/Triple-trouble-2-150x150.jpg 150w, /wp-content/uploads/2020/11/Triple-trouble-2-768x768.jpg 768w, /wp-content/uploads/2020/11/Triple-trouble-2-1536x1536.jpg 1536w, /wp-content/uploads/2020/11/Triple-trouble-2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

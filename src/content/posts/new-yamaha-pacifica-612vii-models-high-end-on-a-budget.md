@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue.jpg"
+featuredImage: "/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue.jpg"
 featuredImageAlt: "Yamaha Pacifica 612VII"
 seo: 
   title: "New Yamaha Pacifica 612VII Models: High End Beauties On A Budget!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-1024x683.jpg" alt="Yamaha Pacifica 612VII" class="wp-image-1600" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-1024x683.jpg" alt="Yamaha Pacifica 612VII" class="wp-image-1600" title="" srcset="/wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-1024x683.jpg 1024w, /wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-600x400.jpg 600w, /wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-300x200.jpg 300w, /wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue-768x512.jpg 768w, /wp-content/uploads/2020/12/Limited-Edition-Yamaha-Pacifica-612VII-guitar-translucent-blue.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612-1024x1024.jpg" alt="" class="wp-image-1601" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/yamha-612.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/12/yamha-612-1024x1024.jpg" alt="" class="wp-image-1601" title="" srcset="/wp-content/uploads/2020/12/yamha-612-1024x1024.jpg 1024w, /wp-content/uploads/2020/12/yamha-612-300x300.jpg 300w, /wp-content/uploads/2020/12/yamha-612-100x100.jpg 100w, /wp-content/uploads/2020/12/yamha-612-600x600.jpg 600w, /wp-content/uploads/2020/12/yamha-612-150x150.jpg 150w, /wp-content/uploads/2020/12/yamha-612-768x768.jpg 768w, /wp-content/uploads/2020/12/yamha-612-1536x1536.jpg 1536w, /wp-content/uploads/2020/12/yamha-612.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="671" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/12/black.jpg" alt="" class="wp-image-1602" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/black.jpg 671w, https://www.electrikjam.com/wp-content/uploads/2020/12/black-600x894.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/black-201x300.jpg 201w" sizes="(max-width: 671px) 100vw, 671px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="671" height="1000" src="/wp-content/uploads/2020/12/black.jpg" alt="" class="wp-image-1602" title="" srcset="/wp-content/uploads/2020/12/black.jpg 671w, /wp-content/uploads/2020/12/black-600x894.jpg 600w, /wp-content/uploads/2020/12/black-201x300.jpg 201w" sizes="(max-width: 671px) 100vw, 671px" /></figure>
 
 
 

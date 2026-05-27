@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20200518_183847665-scaled.jpg"
+featuredImage: "/wp-content/uploads/2020/10/IMG_20200518_183847665-scaled.jpg"
 featuredImageAlt: "IMG_20200518_183847665"
 seo: 
   title: "How To Set Guitar Intonation | The Ultimate Guide For Beginners"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Setting-intonation-1024x576.jpg" alt="" class="wp-image-675" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Setting-intonation-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Setting-intonation-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Setting-intonation-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Setting-intonation-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Setting-intonation-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Setting-intonation-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Intonation Adjustment.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Setting-intonation-1024x576.jpg" alt="" class="wp-image-675" width="1000" title="" srcset="/wp-content/uploads/2020/10/Setting-intonation-1024x576.jpg 1024w, /wp-content/uploads/2020/10/Setting-intonation-600x337.jpg 600w, /wp-content/uploads/2020/10/Setting-intonation-300x169.jpg 300w, /wp-content/uploads/2020/10/Setting-intonation-768x432.jpg 768w, /wp-content/uploads/2020/10/Setting-intonation-1536x864.jpg 1536w, /wp-content/uploads/2020/10/Setting-intonation-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Intonation Adjustment.</figcaption></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_124444824-768x1024.jpg" alt="" class="wp-image-700" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_124444824-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_124444824-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_124444824-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_124444824-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_124444824-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_124444824-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Checking the note at the 12th fret</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/IMG_20201003_124444824-768x1024.jpg" alt="" class="wp-image-700" width="1000" title="" srcset="/wp-content/uploads/2020/10/IMG_20201003_124444824-768x1024.jpg 768w, /wp-content/uploads/2020/10/IMG_20201003_124444824-scaled-600x800.jpg 600w, /wp-content/uploads/2020/10/IMG_20201003_124444824-225x300.jpg 225w, /wp-content/uploads/2020/10/IMG_20201003_124444824-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/IMG_20201003_124444824-1536x2048.jpg 1536w, /wp-content/uploads/2020/10/IMG_20201003_124444824-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Checking the note at the 12th fret</figcaption></figure>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121150983-768x1024.jpg" alt="" class="wp-image-698" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121150983-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121150983-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121150983-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121150983-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121150983-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121150983-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>The note is flat on the 12th fret</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/IMG_20201003_121150983-768x1024.jpg" alt="" class="wp-image-698" width="1000" title="" srcset="/wp-content/uploads/2020/10/IMG_20201003_121150983-768x1024.jpg 768w, /wp-content/uploads/2020/10/IMG_20201003_121150983-scaled-600x800.jpg 600w, /wp-content/uploads/2020/10/IMG_20201003_121150983-225x300.jpg 225w, /wp-content/uploads/2020/10/IMG_20201003_121150983-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/IMG_20201003_121150983-1536x2048.jpg 1536w, /wp-content/uploads/2020/10/IMG_20201003_121150983-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>The note is flat on the 12th fret</figcaption></figure>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121239789-768x1024.jpg" alt="" class="wp-image-699" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121239789-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121239789-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121239789-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121239789-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121239789-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201003_121239789-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>The 12th fret is too sharp</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/IMG_20201003_121239789-768x1024.jpg" alt="" class="wp-image-699" width="1000" title="" srcset="/wp-content/uploads/2020/10/IMG_20201003_121239789-768x1024.jpg 768w, /wp-content/uploads/2020/10/IMG_20201003_121239789-scaled-600x800.jpg 600w, /wp-content/uploads/2020/10/IMG_20201003_121239789-225x300.jpg 225w, /wp-content/uploads/2020/10/IMG_20201003_121239789-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/IMG_20201003_121239789-1536x2048.jpg 1536w, /wp-content/uploads/2020/10/IMG_20201003_121239789-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>The 12th fret is too sharp</figcaption></figure>
 
 
 

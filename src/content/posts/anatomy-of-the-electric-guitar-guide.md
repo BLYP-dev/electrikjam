@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/angelo-pinheiro-oVhmUFHEXzQ-unsplash-scaled.jpg"
+featuredImage: "/wp-content/uploads/2020/10/angelo-pinheiro-oVhmUFHEXzQ-unsplash-scaled.jpg"
 featuredImageAlt: "angelo-pinheiro-oVhmUFHEXzQ-unsplash"
 seo: 
   title: "The Anatomy of The Electric Guitar: All The Bits Explained…"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-1024x683.jpg" alt="" class="wp-image-679" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-1024x683.jpg" alt="" class="wp-image-679" width="1000" title="" srcset="/wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-scaled-600x400.jpg 600w, /wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-300x200.jpg 300w, /wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-768x512.jpg 768w, /wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2020/10/odair-faleco-VNKZvRIN85A-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-819x1024.jpg" alt="" class="wp-image-680" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-819x1024.jpg 819w, https://www.electrikjam.com/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-scaled-600x750.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-240x300.jpg 240w, https://www.electrikjam.com/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-768x960.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-1229x1536.jpg 1229w, https://www.electrikjam.com/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-1638x2048.jpg 1638w, https://www.electrikjam.com/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-scaled.jpg 2048w" sizes="(max-width: 819px) 100vw, 819px" /><figcaption>Guitar Headstock</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-819x1024.jpg" alt="" class="wp-image-680" width="1000" title="" srcset="/wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-819x1024.jpg 819w, /wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-scaled-600x750.jpg 600w, /wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-240x300.jpg 240w, /wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-768x960.jpg 768w, /wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-1229x1536.jpg 1229w, /wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-1638x2048.jpg 1638w, /wp-content/uploads/2020/10/brahan-milla-VqQ26SBuL8U-unsplash-scaled.jpg 2048w" sizes="(max-width: 819px) 100vw, 819px" /><figcaption>Guitar Headstock</figcaption></figure>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Nut-1024x768.jpg" alt="" class="wp-image-681" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Nut-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Nut-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Nut-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Nut-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Nut.jpg 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Guitar Nut</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-Nut-1024x768.jpg" alt="" class="wp-image-681" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-Nut-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Guitar-Nut-600x450.jpg 600w, /wp-content/uploads/2020/10/Guitar-Nut-300x225.jpg 300w, /wp-content/uploads/2020/10/Guitar-Nut-768x576.jpg 768w, /wp-content/uploads/2020/10/Guitar-Nut.jpg 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Guitar Nut</figcaption></figure>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Frets-and-nut.jpg" alt="" class="wp-image-684" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Frets-and-nut.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/Frets-and-nut-600x408.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Frets-and-nut-300x204.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Frets-and-nut-768x522.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Frets, and Nut</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Frets-and-nut.jpg" alt="" class="wp-image-684" width="1000" title="" srcset="/wp-content/uploads/2020/10/Frets-and-nut.jpg 1000w, /wp-content/uploads/2020/10/Frets-and-nut-600x408.jpg 600w, /wp-content/uploads/2020/10/Frets-and-nut-300x204.jpg 300w, /wp-content/uploads/2020/10/Frets-and-nut-768x522.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Frets, and Nut</figcaption></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-neck-1024x536.jpg" alt="" class="wp-image-682" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-neck-1024x536.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-neck-600x314.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-neck-300x157.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-neck-768x402.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-neck.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12759">Guitar Neck and maple Fretboard</a>.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-neck-1024x536.jpg" alt="" class="wp-image-682" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-neck-1024x536.jpg 1024w, /wp-content/uploads/2020/10/Guitar-neck-600x314.jpg 600w, /wp-content/uploads/2020/10/Guitar-neck-300x157.jpg 300w, /wp-content/uploads/2020/10/Guitar-neck-768x402.jpg 768w, /wp-content/uploads/2020/10/Guitar-neck.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12759">Guitar Neck and maple Fretboard</a>.</figcaption></figure>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Frets-1.jpg" alt="" class="wp-image-685" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Frets-1.jpg 677w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Frets-1-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-Frets-1-225x300.jpg 225w" sizes="(max-width: 677px) 100vw, 677px" /><figcaption>Guitar frets and decorative inlays on my guitar</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-Frets-1.jpg" alt="" class="wp-image-685" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-Frets-1.jpg 677w, /wp-content/uploads/2020/10/Guitar-Frets-1-600x800.jpg 600w, /wp-content/uploads/2020/10/Guitar-Frets-1-225x300.jpg 225w" sizes="(max-width: 677px) 100vw, 677px" /><figcaption>Guitar frets and decorative inlays on my guitar</figcaption></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-body-1024x768.jpg" alt="" class="wp-image-686" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-body-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-body-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-body-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-body-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-body.jpg 1124w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" data-lasso-id="12844">My Schecter 7 string</a> body</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-body-1024x768.jpg" alt="" class="wp-image-686" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-body-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Guitar-body-600x450.jpg 600w, /wp-content/uploads/2020/10/Guitar-body-300x225.jpg 300w, /wp-content/uploads/2020/10/Guitar-body-768x576.jpg 768w, /wp-content/uploads/2020/10/Guitar-body.jpg 1124w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" data-lasso-id="12844">My Schecter 7 string</a> body</figcaption></figure>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Pickups-up-close-1024x768.jpg" alt="" class="wp-image-687" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Pickups-up-close-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pickups-up-close-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pickups-up-close-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pickups-up-close-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pickups-up-close.jpg 1124w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Pickups on my guitar. Sorry they are dusty!</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Pickups-up-close-1024x768.jpg" alt="" class="wp-image-687" width="1000" title="" srcset="/wp-content/uploads/2020/10/Pickups-up-close-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Pickups-up-close-600x450.jpg 600w, /wp-content/uploads/2020/10/Pickups-up-close-300x225.jpg 300w, /wp-content/uploads/2020/10/Pickups-up-close-768x576.jpg 768w, /wp-content/uploads/2020/10/Pickups-up-close.jpg 1124w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Pickups on my guitar. Sorry they are dusty!</figcaption></figure>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/KNobs-and-switches.jpg" alt="" class="wp-image-691" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/KNobs-and-switches.jpg 677w, https://www.electrikjam.com/wp-content/uploads/2020/10/KNobs-and-switches-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/KNobs-and-switches-225x300.jpg 225w" sizes="(max-width: 677px) 100vw, 677px" /><figcaption>Knobs and pickup switch</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/KNobs-and-switches.jpg" alt="" class="wp-image-691" width="1000" title="" srcset="/wp-content/uploads/2020/10/KNobs-and-switches.jpg 677w, /wp-content/uploads/2020/10/KNobs-and-switches-600x800.jpg 600w, /wp-content/uploads/2020/10/KNobs-and-switches-225x300.jpg 225w" sizes="(max-width: 677px) 100vw, 677px" /><figcaption>Knobs and pickup switch</figcaption></figure>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-bridge.jpg" alt="" class="wp-image-688" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-bridge.jpg 632w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-bridge-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Guitar-bridge-225x300.jpg 225w" sizes="(max-width: 632px) 100vw, 632px" /><figcaption>A fixed guitar bridge</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-bridge.jpg" alt="" class="wp-image-688" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-bridge.jpg 632w, /wp-content/uploads/2020/10/Guitar-bridge-600x800.jpg 600w, /wp-content/uploads/2020/10/Guitar-bridge-225x300.jpg 225w" sizes="(max-width: 632px) 100vw, 632px" /><figcaption>A fixed guitar bridge</figcaption></figure>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Control-cavity-1024x768.jpg" alt="" class="wp-image-689" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Control-cavity-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Control-cavity-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Control-cavity-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Control-cavity-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Control-cavity-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Control-cavity.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Inside of a guitar cavity</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Control-cavity-1024x768.jpg" alt="" class="wp-image-689" width="1000" title="" srcset="/wp-content/uploads/2020/10/Control-cavity-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Control-cavity-600x450.jpg 600w, /wp-content/uploads/2020/10/Control-cavity-300x225.jpg 300w, /wp-content/uploads/2020/10/Control-cavity-768x576.jpg 768w, /wp-content/uploads/2020/10/Control-cavity-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/Control-cavity.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Inside of a guitar cavity</figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "ableton-live"
 tagPaths: 
   - "/tag/ableton-live/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/08/Is-Ableton-Live-Easy-To-Use-2.png"
+featuredImage: "/wp-content/uploads/2023/08/Is-Ableton-Live-Easy-To-Use-2.png"
 featuredImageAlt: "Is Ableton Live Easy To Use ?"
 seo: 
   title: "Is Ableton Live Easy To Use? Understanding a User-Friendly DAW"
@@ -70,7 +70,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-1024x683.png" alt="Is Ableton Live easy to use?" class="wp-image-12593" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-1024x683.png" alt="Is Ableton Live easy to use?" class="wp-image-12593" title="" srcset="/wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-1024x683.png 1024w, /wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-600x400.png 600w, /wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-300x200.png 300w, /wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE-768x512.png 768w, /wp-content/uploads/2023/08/iS-ABLETON-LIVE-EASY-TO-USE.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

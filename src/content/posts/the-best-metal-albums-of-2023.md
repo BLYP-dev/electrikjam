@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/12/THE-BEST-Metal-albums-of-2023.png"
+featuredImage: "/wp-content/uploads/2023/12/THE-BEST-Metal-albums-of-2023.png"
 featuredImageAlt: "BEST Metal albums of 2023"
 seo: 
   title: "The Best Metal Albums of 2023: What An Amazing Year!"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-1-1024x683.png" alt="Best metal albums 2024 " class="wp-image-13695" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/12/Best-metal-albums-2024-1-1024x683.png" alt="Best metal albums 2024 " class="wp-image-13695" title="" srcset="/wp-content/uploads/2023/12/Best-metal-albums-2024-1-1024x683.png 1024w, /wp-content/uploads/2023/12/Best-metal-albums-2024-1-600x400.png 600w, /wp-content/uploads/2023/12/Best-metal-albums-2024-1-300x200.png 300w, /wp-content/uploads/2023/12/Best-metal-albums-2024-1-768x512.png 768w, /wp-content/uploads/2023/12/Best-metal-albums-2024-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-2-1024x683.png" alt="Best metal albums 2024" class="wp-image-13696" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/12/Best-metal-albums-2024-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/12/Best-metal-albums-2024-2-1024x683.png" alt="Best metal albums 2024" class="wp-image-13696" title="" srcset="/wp-content/uploads/2023/12/Best-metal-albums-2024-2-1024x683.png 1024w, /wp-content/uploads/2023/12/Best-metal-albums-2024-2-600x400.png 600w, /wp-content/uploads/2023/12/Best-metal-albums-2024-2-300x200.png 300w, /wp-content/uploads/2023/12/Best-metal-albums-2024-2-768x512.png 768w, /wp-content/uploads/2023/12/Best-metal-albums-2024-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="533" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album.jpg" alt="Djent is not a genre album review" class="wp-image-10961" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="533" src="/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album.jpg" alt="Djent is not a genre album review" class="wp-image-10961" title="" srcset="/wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album.jpg 800w, /wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-600x400.jpg 600w, /wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-300x200.jpg 300w, /wp-content/uploads/2023/03/Periphery-Djent-is-not-a-genre-album-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -283,7 +283,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="534" src="https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo.jpg" alt="Better Lovers" class="wp-image-13703" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="534" src="/wp-content/uploads/2023/12/Better-Lovers-Promo.jpg" alt="Better Lovers" class="wp-image-13703" title="" srcset="/wp-content/uploads/2023/12/Better-Lovers-Promo.jpg 800w, /wp-content/uploads/2023/12/Better-Lovers-Promo-600x400.jpg 600w, /wp-content/uploads/2023/12/Better-Lovers-Promo-300x200.jpg 300w, /wp-content/uploads/2023/12/Better-Lovers-Promo-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="636" src="https://www.electrikjam.com/wp-content/uploads/2023/12/Blackbriar-official-1024x636.webp" alt="Best Metal albums of 2023" class="wp-image-13716" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/12/Blackbriar-official-1024x636.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/12/Blackbriar-official-600x373.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/12/Blackbriar-official-300x186.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/12/Blackbriar-official-768x477.webp 768w, https://www.electrikjam.com/wp-content/uploads/2023/12/Blackbriar-official.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="636" src="/wp-content/uploads/2023/12/Blackbriar-official-1024x636.webp" alt="Best Metal albums of 2023" class="wp-image-13716" title="" srcset="/wp-content/uploads/2023/12/Blackbriar-official-1024x636.webp 1024w, /wp-content/uploads/2023/12/Blackbriar-official-600x373.webp 600w, /wp-content/uploads/2023/12/Blackbriar-official-300x186.webp 300w, /wp-content/uploads/2023/12/Blackbriar-official-768x477.webp 768w, /wp-content/uploads/2023/12/Blackbriar-official.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -343,7 +343,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="607" src="https://www.electrikjam.com/wp-content/uploads/2023/12/Sugar-Horse-1024x607.jpg" alt="Best Metal albums of 2023" class="wp-image-13717" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/12/Sugar-Horse-1024x607.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/12/Sugar-Horse-600x356.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/12/Sugar-Horse-300x178.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/12/Sugar-Horse-768x455.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/12/Sugar-Horse-1536x910.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2023/12/Sugar-Horse.jpg 1767w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="607" src="/wp-content/uploads/2023/12/Sugar-Horse-1024x607.jpg" alt="Best Metal albums of 2023" class="wp-image-13717" title="" srcset="/wp-content/uploads/2023/12/Sugar-Horse-1024x607.jpg 1024w, /wp-content/uploads/2023/12/Sugar-Horse-600x356.jpg 600w, /wp-content/uploads/2023/12/Sugar-Horse-300x178.jpg 300w, /wp-content/uploads/2023/12/Sugar-Horse-768x455.jpg 768w, /wp-content/uploads/2023/12/Sugar-Horse-1536x910.jpg 1536w, /wp-content/uploads/2023/12/Sugar-Horse.jpg 1767w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -468,7 +468,7 @@ seo:
 <div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-14962 post type-post status-publish format-standard has-post-thumbnail hentry category-mastering">
 <h2 class="wp-block-post-title"><a href="https://www.electrikjam.com/how-important-is-mastering-music/" target="_self">Mastering Music At Home: Why It Matters (And How To Do It)</a></h2>
 
-<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/how-important-is-mastering-music/" target="_self"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Mastering Music At Home: Why It Matters (And How To Do It)" style="object-fit:cover;" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png 1200w, https://www.electrikjam.com/wp-content/uploads/2024/04/How-Important-is-Mastering-Music-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/How-Important-is-Mastering-Music-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/How-Important-is-Mastering-Music-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/How-Important-is-Mastering-Music-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
+<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/how-important-is-mastering-music/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Mastering Music At Home: Why It Matters (And How To Do It)" style="object-fit:cover;" srcset="/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png 1200w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-600x400.png 600w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-300x200.png 300w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-1024x683.png 1024w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
 
 <div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Can You Master Music At Home? Mastering is the final stage of music production, and for most independent artists, it&#8217;s also the most overlooked. You can spend weeks on a mix — carving frequencies, printing automation, getting the drums to sit just right — and still end up with a track that sounds small, flat,&hellip; </p></div>
 
@@ -480,7 +480,7 @@ seo:
 </li><li class="wp-block-post post-6288 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars category-reviews tag-schecter">
 <h2 class="wp-block-post-title"><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_self">Schecter Nick Johnston HSS Review: The Strat I&#8217;ve Always Wanted&#8230;</a></h2>
 
-<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_self"><img decoding="async" width="768" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Schecter Nick Johnston HSS Review: The Strat I&#8217;ve Always Wanted&#8230;" style="object-fit:cover;" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS-300x225.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" title=""></a></figure>
+<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_self"><img decoding="async" width="768" height="576" src="/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Schecter Nick Johnston HSS Review: The Strat I&#8217;ve Always Wanted&#8230;" style="object-fit:cover;" srcset="/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg 768w, /wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS-600x450.jpg 600w, /wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS-300x225.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" title=""></a></figure>
 
 <div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Verdict 9.2 Neck Comfort &#038; Feel 9.9 The &#8220;NJ C&#8221; roasted maple neck is widely considered one of the best profiles in its class. Dynamic Range 9.4 Sub Atomic pickups offer a &#8220;vintage-plus&#8221; voice that cleans up beautifully with the volume knob. Hardware &#038; Specs 8.9 Locking tuners and a smooth 2-point trem; 10th-anniversary models&hellip; </p></div>
 
@@ -492,7 +492,7 @@ seo:
 </li><li class="wp-block-post post-9398 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars category-reviews">
 <h2 class="wp-block-post-title"><a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" target="_self">Charvel Pro Mod DK24 Review: The #1 Guitar For Versatility?</a></h2>
 
-<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" target="_self"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Charvel Pro Mod DK24 Review: The #1 Guitar For Versatility?" style="object-fit:cover;" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png 1200w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
+<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Charvel Pro Mod DK24 Review: The #1 Guitar For Versatility?" style="object-fit:cover;" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png 1200w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
 
 <div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Verdict 9.4 Playability &#038; Neck 9.8 Caramelized maple with a 12&#8243;-16&#8243; compound radius; the gold standard for &#8220;fast&#8221; necks. Sonic Versatility 9.7 Custom Seymour Duncan sets and &#8220;Super Blade&#8221; switching offer everything from glass cleans to high-gain djent. Hardware Quality 9.0 Gotoh 510 tremolo and locking tuners provide Floyd-level stability without the setup headache. Value&hellip; </p></div>
 

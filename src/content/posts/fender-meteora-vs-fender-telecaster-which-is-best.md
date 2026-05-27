@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/fender/"
   - "/tag/fender-meteora/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster.png"
+featuredImage: "/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster.png"
 featuredImageAlt: "Fender Meteora vs Fender Telecaster"
 seo: 
   title: "Fender Meteora vs Fender Telecaster: Which Is Best?"
@@ -109,7 +109,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, /wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1024x683.png" alt="Fender Meteora" class="wp-image-7511" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-1024x683.png" alt="Fender Meteora" class="wp-image-7511" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -325,7 +325,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-1024x683.png" alt="Fender Player Telecaster Reviews" class="wp-image-8288" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-1024x683.png" alt="Fender Player Telecaster Reviews" class="wp-image-8288" title="" srcset="/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-1024x683.png 1024w, /wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-600x400.png 600w, /wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-300x200.png 300w, /wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews-768x512.png 768w, /wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

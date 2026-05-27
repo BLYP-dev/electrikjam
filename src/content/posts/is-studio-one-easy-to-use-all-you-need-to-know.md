@@ -22,7 +22,7 @@ tagSlugs:
   - "studio-one"
 tagPaths: 
   - "/tag/studio-one/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-One-easy-to-use.png"
+featuredImage: "/wp-content/uploads/2023/09/Studio-One-easy-to-use.png"
 featuredImageAlt: "Studio One easy to use"
 seo: 
   title: "Is Studio One Easy To Use? All You Need To Know…"
@@ -114,7 +114,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-user-interface-2-1024x683.png" alt="Studio one easy to use" class="wp-image-12854" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-user-interface-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-user-interface-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-user-interface-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-user-interface-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-user-interface-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Studio-one-user-interface-2-1024x683.png" alt="Studio one easy to use" class="wp-image-12854" title="" srcset="/wp-content/uploads/2023/09/Studio-one-user-interface-2-1024x683.png 1024w, /wp-content/uploads/2023/09/Studio-one-user-interface-2-600x400.png 600w, /wp-content/uploads/2023/09/Studio-one-user-interface-2-300x200.png 300w, /wp-content/uploads/2023/09/Studio-one-user-interface-2-768x512.png 768w, /wp-content/uploads/2023/09/Studio-one-user-interface-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-1024x683.png" alt="Studio one easy to use" class="wp-image-12853" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-1024x683.png" alt="Studio one easy to use" class="wp-image-12853" title="" srcset="/wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-1024x683.png 1024w, /wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-600x400.png 600w, /wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-300x200.png 300w, /wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins-768x512.png 768w, /wp-content/uploads/2023/09/Studio-one-easy-to-use-plugins.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

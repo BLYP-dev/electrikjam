@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-Cover.png"
+featuredImage: "/wp-content/uploads/2022/08/Cowin-Audio-Cover.png"
 featuredImageAlt: "Cowin Audio"
 seo: 
   title: "Cowin Audio E7 vs. Cowin Audio SE8: What's The Difference?"
@@ -176,7 +176,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-1024x1024.jpg" alt="Cowin audio" class="wp-image-8606" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-1024x1024.jpg" alt="Cowin audio" class="wp-image-8606" title="" srcset="/wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-1024x1024.jpg 1024w, /wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-300x300.jpg 300w, /wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-100x100.jpg 100w, /wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-600x600.jpg 600w, /wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-150x150.jpg 150w, /wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x-768x768.jpg 768w, /wp-content/uploads/2022/08/cowin-e7-active-noise-cancelling-wireless-bluetooth-headphones-headphone-cowinaudio-668105_2048x.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-1024x683.png" alt="Cowin audio" class="wp-image-8607" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-EQ-E7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-1024x683.png" alt="Cowin audio" class="wp-image-8607" title="" srcset="/wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-1024x683.png 1024w, /wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-600x400.png 600w, /wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-300x200.png 300w, /wp-content/uploads/2022/08/Cowin-Audio-EQ-E7-768x512.png 768w, /wp-content/uploads/2022/08/Cowin-Audio-EQ-E7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-1024x683.png" alt="Cowin Audio" class="wp-image-8611" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-1024x683.png" alt="Cowin Audio" class="wp-image-8611" title="" srcset="/wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-1024x683.png 1024w, /wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-600x400.png 600w, /wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-300x200.png 300w, /wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans-768x512.png 768w, /wp-content/uploads/2022/08/Cowin-Audio-SE8-Cans.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

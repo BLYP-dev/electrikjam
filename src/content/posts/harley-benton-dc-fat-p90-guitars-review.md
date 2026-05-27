@@ -25,7 +25,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Review.png"
+featuredImage: "/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Review.png"
 featuredImageAlt: "Harley Benton DC Fat"
 seo: 
   title: "Harley Benton DC FAT Guitars Review: Single P90 Greatness!"
@@ -109,7 +109,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-1024x683.png" alt="Harley Benton DC FAT" class="wp-image-11840" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-1024x683.png" alt="Harley Benton DC FAT" class="wp-image-11840" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-DC-JUnior-P90.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-1024x683.png" alt="Harley Benton DC Fat " class="wp-image-11842" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-1024x683.png" alt="Harley Benton DC Fat " class="wp-image-11842" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-DC-Fat-Couch-View.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

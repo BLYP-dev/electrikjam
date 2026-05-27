@@ -28,7 +28,7 @@ tagPaths:
   - "/tag/budget-guitars/"
   - "/tag/popular/"
   - "/tag/squier/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Overview.png"
+featuredImage: "/wp-content/uploads/2023/04/Squier-Sonic-Series-Overview.png"
 featuredImageAlt: "Squier Sonic Series Overview"
 seo: 
   title: "Fender Releases The New $199 Squier Sonic Series: The New Bullet?"
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-1024x683.png" alt="Squier Sonic Series Strats" class="wp-image-11446" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Strats.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>There are so many finish options, we couldn&#8217;t show them all here!</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-1024x683.png" alt="Squier Sonic Series Strats" class="wp-image-11446" title="" srcset="/wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-1024x683.png 1024w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-600x400.png 600w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-300x200.png 300w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Strats-768x512.png 768w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Strats.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>There are so many finish options, we couldn&#8217;t show them all here!</strong></figcaption></figure>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-1024x683.png" alt="Squier Sonic Series Telecasters" class="wp-image-11447" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>All available finishes, two for the Esquire, and four classic finishes for the Standard Models</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-1024x683.png" alt="Squier Sonic Series Telecasters" class="wp-image-11447" title="" srcset="/wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-1024x683.png 1024w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-600x400.png 600w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-300x200.png 300w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters-768x512.png 768w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Telecasters.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>All available finishes, two for the Esquire, and four classic finishes for the Standard Models</strong></figcaption></figure>
 
 
 
@@ -214,7 +214,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-1024x683.png" alt="Squier Sonic Series Mustang Colors" class="wp-image-11448" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-1024x683.png" alt="Squier Sonic Series Mustang Colors" class="wp-image-11448" title="" srcset="/wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-1024x683.png 1024w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-600x400.png 600w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-300x200.png 300w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs-768x512.png 768w, /wp-content/uploads/2023/04/Squier-Sonic-Series-Mustangs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

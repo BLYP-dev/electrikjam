@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-20-v3-right.jpg"
+featuredImage: "/wp-content/uploads/2021/01/idcore-20-v3-right.jpg"
 featuredImageAlt: "Blackstar IDCore V3"
 seo: 
   title: "Blackstar IDCore V3 First Look: Amazing Features And Next Level Tone!"
@@ -37,7 +37,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-20-v3-right.jpg" alt="Blackstar IDCore V3" class="wp-image-1781" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-20-v3-right.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-20-v3-right-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-20-v3-right-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-20-v3-right-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/01/idcore-20-v3-right.jpg" alt="Blackstar IDCore V3" class="wp-image-1781" title="" srcset="/wp-content/uploads/2021/01/idcore-20-v3-right.jpg 600w, /wp-content/uploads/2021/01/idcore-20-v3-right-300x300.jpg 300w, /wp-content/uploads/2021/01/idcore-20-v3-right-100x100.jpg 100w, /wp-content/uploads/2021/01/idcore-20-v3-right-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 			
 		
 
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-10-v3-top.jpg" alt="" class="wp-image-1782" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-10-v3-top.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-10-v3-top-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-10-v3-top-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-10-v3-top-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>Same familiar layout&#8230;slightly re-designed.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/01/idcore-10-v3-top.jpg" alt="" class="wp-image-1782" title="" srcset="/wp-content/uploads/2021/01/idcore-10-v3-top.jpg 600w, /wp-content/uploads/2021/01/idcore-10-v3-top-300x300.jpg 300w, /wp-content/uploads/2021/01/idcore-10-v3-top-100x100.jpg 100w, /wp-content/uploads/2021/01/idcore-10-v3-top-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>Same familiar layout&#8230;slightly re-designed.</figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="200" height="200" src="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v2-voice-od1.png" alt="" class="wp-image-1788" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v2-voice-od1.png 200w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v2-voice-od1-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v2-voice-od1-150x150.png 150w" sizes="(max-width: 200px) 100vw, 200px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="200" height="200" src="/wp-content/uploads/2021/01/idcore-v2-voice-od1.png" alt="" class="wp-image-1788" title="" srcset="/wp-content/uploads/2021/01/idcore-v2-voice-od1.png 200w, /wp-content/uploads/2021/01/idcore-v2-voice-od1-100x100.png 100w, /wp-content/uploads/2021/01/idcore-v2-voice-od1-150x150.png 150w" sizes="(max-width: 200px) 100vw, 200px" /></figure>
 			
 		
 
@@ -101,7 +101,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="121" height="200" src="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v2-reverb.png" alt="" class="wp-image-1789" title=""></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="121" height="200" src="/wp-content/uploads/2021/01/idcore-v2-reverb.png" alt="" class="wp-image-1789" title=""></figure>
 			
 		
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="802" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-architect.jpg" alt="" class="wp-image-1784" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-architect.jpg 802w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-architect-600x449.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-architect-300x224.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-architect-768x575.jpg 768w" sizes="(max-width: 802px) 100vw, 802px" /><figcaption>New Architect Software</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="802" height="600" src="/wp-content/uploads/2021/01/idcore-v3-new-architect.jpg" alt="" class="wp-image-1784" title="" srcset="/wp-content/uploads/2021/01/idcore-v3-new-architect.jpg 802w, /wp-content/uploads/2021/01/idcore-v3-new-architect-600x449.jpg 600w, /wp-content/uploads/2021/01/idcore-v3-new-architect-300x224.jpg 300w, /wp-content/uploads/2021/01/idcore-v3-new-architect-768x575.jpg 768w" sizes="(max-width: 802px) 100vw, 802px" /><figcaption>New Architect Software</figcaption></figure>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="802" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-cabrig.jpg" alt="" class="wp-image-1785" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-cabrig.jpg 802w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-cabrig-600x449.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-cabrig-300x224.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-cabrig-768x575.jpg 768w" sizes="(max-width: 802px) 100vw, 802px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/blackstar-idcore-10-v3/" data-lasso-id="705">Best Price Online – $129 (Down From $189.99)</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="802" height="600" src="/wp-content/uploads/2021/01/idcore-v3-new-cabrig.jpg" alt="" class="wp-image-1785" title="" srcset="/wp-content/uploads/2021/01/idcore-v3-new-cabrig.jpg 802w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-600x449.jpg 600w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-300x224.jpg 300w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-768x575.jpg 768w" sizes="(max-width: 802px) 100vw, 802px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/blackstar-idcore-10-v3/" data-lasso-id="705">Best Price Online – $129 (Down From $189.99)</a></strong></figcaption></figure>
 
 
 
@@ -170,7 +170,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="802" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-streaming.jpg" alt="" class="wp-image-1786" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-streaming.jpg 802w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-streaming-600x449.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-streaming-300x224.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-v3-new-streaming-768x575.jpg 768w" sizes="(max-width: 802px) 100vw, 802px" /><figcaption>Streaming With Blackstar!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="802" height="600" src="/wp-content/uploads/2021/01/idcore-v3-new-streaming.jpg" alt="" class="wp-image-1786" title="" srcset="/wp-content/uploads/2021/01/idcore-v3-new-streaming.jpg 802w, /wp-content/uploads/2021/01/idcore-v3-new-streaming-600x449.jpg 600w, /wp-content/uploads/2021/01/idcore-v3-new-streaming-300x224.jpg 300w, /wp-content/uploads/2021/01/idcore-v3-new-streaming-768x575.jpg 768w" sizes="(max-width: 802px) 100vw, 802px" /><figcaption>Streaming With Blackstar!</figcaption></figure>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-40-v3-front.jpg" alt="" class="wp-image-1791" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-40-v3-front.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-40-v3-front-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-40-v3-front-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/idcore-40-v3-front-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/01/idcore-40-v3-front.jpg" alt="" class="wp-image-1791" title="" srcset="/wp-content/uploads/2021/01/idcore-40-v3-front.jpg 600w, /wp-content/uploads/2021/01/idcore-40-v3-front-300x300.jpg 300w, /wp-content/uploads/2021/01/idcore-40-v3-front-100x100.jpg 100w, /wp-content/uploads/2021/01/idcore-40-v3-front-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 

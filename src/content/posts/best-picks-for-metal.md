@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/best-pick-for-metal.png"
+featuredImage: "/wp-content/uploads/2020/12/best-pick-for-metal.png"
 featuredImageAlt: "best pick for metal"
 seo: 
   title: "The Best Picks For Metal: Our Top 5 Picks For EPIC Shreddin'..."
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/02/best-pick-for-metal-1024x683.png" alt="" class="wp-image-1971" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/best-pick-for-metal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/best-pick-for-metal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/best-pick-for-metal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/best-pick-for-metal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/best-pick-for-metal-360x240.png 360w, https://www.electrikjam.com/wp-content/uploads/2021/02/best-pick-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/02/best-pick-for-metal-1024x683.png" alt="" class="wp-image-1971" title="" srcset="/wp-content/uploads/2021/02/best-pick-for-metal-1024x683.png 1024w, /wp-content/uploads/2021/02/best-pick-for-metal-600x400.png 600w, /wp-content/uploads/2021/02/best-pick-for-metal-300x200.png 300w, /wp-content/uploads/2021/02/best-pick-for-metal-768x512.png 768w, /wp-content/uploads/2021/02/best-pick-for-metal-360x240.png 360w, /wp-content/uploads/2021/02/best-pick-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-1024x1024.jpg" alt="" class="wp-image-455" width="512" height="512" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-768x768.jpg 768w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/jazz-III-1024x1024.jpg" alt="" class="wp-image-455" width="512" height="512" title="" srcset="/wp-content/uploads/2020/09/jazz-III.jpg 1024w, /wp-content/uploads/2020/09/jazz-III-300x300.jpg 300w, /wp-content/uploads/2020/09/jazz-III-100x100.jpg 100w, /wp-content/uploads/2020/09/jazz-III-600x600.jpg 600w, /wp-content/uploads/2020/09/jazz-III-150x150.jpg 150w, /wp-content/uploads/2020/09/jazz-III-768x768.jpg 768w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender-1024x1024.jpg" alt="" class="wp-image-471" width="512" height="512" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/best-guitar-for-metal-fender.jpg 2000w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/best-guitar-for-metal-fender-1024x1024.jpg" alt="" class="wp-image-471" width="512" height="512" title="" srcset="/wp-content/uploads/2020/09/best-guitar-for-metal-fender-1024x1024.jpg 1024w, /wp-content/uploads/2020/09/best-guitar-for-metal-fender-300x300.jpg 300w, /wp-content/uploads/2020/09/best-guitar-for-metal-fender-100x100.jpg 100w, /wp-content/uploads/2020/09/best-guitar-for-metal-fender-600x600.jpg 600w, /wp-content/uploads/2020/09/best-guitar-for-metal-fender-150x150.jpg 150w, /wp-content/uploads/2020/09/best-guitar-for-metal-fender-768x768.jpg 768w, /wp-content/uploads/2020/09/best-guitar-for-metal-fender-1536x1536.jpg 1536w, /wp-content/uploads/2020/09/best-guitar-for-metal-fender.jpg 2000w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-prodigy-1024x576.jpg" alt="" class="wp-image-526" width="512" height="288" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-prodigy-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-prodigy-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-prodigy-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-prodigy-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/ernie-ball-prodigy.jpg 1080w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/ernie-ball-prodigy-1024x576.jpg" alt="" class="wp-image-526" width="512" height="288" title="" srcset="/wp-content/uploads/2020/09/ernie-ball-prodigy-1024x576.jpg 1024w, /wp-content/uploads/2020/09/ernie-ball-prodigy-600x338.jpg 600w, /wp-content/uploads/2020/09/ernie-ball-prodigy-300x169.jpg 300w, /wp-content/uploads/2020/09/ernie-ball-prodigy-768x432.jpg 768w, /wp-content/uploads/2020/09/ernie-ball-prodigy.jpg 1080w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-919x1024.jpg" alt="" class="wp-image-502" width="460" height="512" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-919x1024.jpg 919w, https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-600x668.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-269x300.jpg 269w, https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-768x856.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks.jpg 1000w" sizes="(max-width: 460px) 100vw, 460px" /></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-919x1024.jpg" alt="" class="wp-image-502" width="460" height="512" title="" srcset="/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-919x1024.jpg 919w, /wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-600x668.jpg 600w, /wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-269x300.jpg 269w, /wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-768x856.jpg 768w, /wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks.jpg 1000w" sizes="(max-width: 460px) 100vw, 460px" /></figure></div>
 
 
 
@@ -300,7 +300,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Gravity-Pick-collection-1024x683.jpg" alt="" class="wp-image-503" width="586" height="390" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Gravity-Pick-collection-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gravity-Pick-collection-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gravity-Pick-collection-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gravity-Pick-collection-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gravity-Pick-collection-1536x1025.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gravity-Pick-collection.jpg 2048w" sizes="(max-width: 586px) 100vw, 586px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Gravity-Pick-collection-1024x683.jpg" alt="" class="wp-image-503" width="586" height="390" title="" srcset="/wp-content/uploads/2020/09/Gravity-Pick-collection-1024x683.jpg 1024w, /wp-content/uploads/2020/09/Gravity-Pick-collection-600x400.jpg 600w, /wp-content/uploads/2020/09/Gravity-Pick-collection-300x200.jpg 300w, /wp-content/uploads/2020/09/Gravity-Pick-collection-768x512.jpg 768w, /wp-content/uploads/2020/09/Gravity-Pick-collection-1536x1025.jpg 1536w, /wp-content/uploads/2020/09/Gravity-Pick-collection.jpg 2048w" sizes="(max-width: 586px) 100vw, 586px" /></figure>
 
 
 

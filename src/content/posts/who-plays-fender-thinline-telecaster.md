@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1.png"
+featuredImage: "/wp-content/uploads/2023/10/Fender-Telecaster-Thinline-1.png"
 featuredImageAlt: "what is Fender Telecaster Thinline"
 seo: 
   title: "Who Plays Fender Telecaster Thinline? Legends. That's Who..."
@@ -62,7 +62,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="451" src="https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up.jpg" alt="fender thinline tele" class="wp-image-13072" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/16204-thinline-tele-2up-768x433.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="451" src="/wp-content/uploads/2023/10/16204-thinline-tele-2up.jpg" alt="fender thinline tele" class="wp-image-13072" title="" srcset="/wp-content/uploads/2023/10/16204-thinline-tele-2up.jpg 800w, /wp-content/uploads/2023/10/16204-thinline-tele-2up-600x338.jpg 600w, /wp-content/uploads/2023/10/16204-thinline-tele-2up-300x169.jpg 300w, /wp-content/uploads/2023/10/16204-thinline-tele-2up-768x433.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "logic-pro"
 tagPaths: 
   - "/tag/logic-pro/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-pro-beginners-1.png"
+featuredImage: "/wp-content/uploads/2023/10/Logic-pro-beginners-1.png"
 featuredImageAlt: "Logic pro Good for beginners?"
 seo: 
   title: "Is Logic Pro Good For Beginners? Exploring the Pros and Cons..."
@@ -114,7 +114,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Beginners-1024x683.png" alt="Logic Pro good for beginners?" class="wp-image-13198" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Beginners-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Beginners-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Beginners-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Beginners-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Beginners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Logic-Pro-Beginners-1024x683.png" alt="Logic Pro good for beginners?" class="wp-image-13198" title="" srcset="/wp-content/uploads/2023/10/Logic-Pro-Beginners-1024x683.png 1024w, /wp-content/uploads/2023/10/Logic-Pro-Beginners-600x400.png 600w, /wp-content/uploads/2023/10/Logic-Pro-Beginners-300x200.png 300w, /wp-content/uploads/2023/10/Logic-Pro-Beginners-768x512.png 768w, /wp-content/uploads/2023/10/Logic-Pro-Beginners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -340,7 +340,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-beginner-1024x683.png" alt="Logic Pro good for beginners?" class="wp-image-13199" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-beginner-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-beginner-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-beginner-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-beginner-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-beginner.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Logic-Pro-beginner-1024x683.png" alt="Logic Pro good for beginners?" class="wp-image-13199" title="" srcset="/wp-content/uploads/2023/10/Logic-Pro-beginner-1024x683.png 1024w, /wp-content/uploads/2023/10/Logic-Pro-beginner-600x400.png 600w, /wp-content/uploads/2023/10/Logic-Pro-beginner-300x200.png 300w, /wp-content/uploads/2023/10/Logic-Pro-beginner-768x512.png 768w, /wp-content/uploads/2023/10/Logic-Pro-beginner.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

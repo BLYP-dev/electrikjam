@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg"
+featuredImage: "/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg"
 featuredImageAlt: "Epiphone Les Paul Prophecy"
 seo: 
   title: "Epiphone Les Paul Prophecy Weight: It’s LIGHTER Than Expected…"
@@ -56,7 +56,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg" alt="Epiphone Les Paul Prophecy" class="wp-image-3898" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg" alt="Epiphone Les Paul Prophecy" class="wp-image-3898" title="" srcset="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg 600w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-300x300.jpg 300w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-100x100.jpg 100w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 			
 		
 

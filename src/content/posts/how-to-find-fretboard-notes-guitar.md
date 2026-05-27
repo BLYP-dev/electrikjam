@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-1.png"
+featuredImage: "/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-1.png"
 featuredImageAlt: "How To EASILY Remember Fretboard Notes on Guitar"
 seo: 
   title: "How To EASILY Find & Remember Fretboard Notes on Guitar"
@@ -84,7 +84,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-1024x853.png" alt="" class="wp-image-3040" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-1024x853.png" alt="" class="wp-image-3040" title="" srcset="/wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-1024x853.png 1024w, /wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-600x500.png 600w, /wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-300x250.png 300w, /wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-768x640.png 768w, /wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar-1080x900.png 1080w, /wp-content/uploads/2021/05/How-To-EASILY-Remember-Fretboard-Notes-on-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -157,7 +157,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="437" src="https://www.electrikjam.com/wp-content/uploads/2021/05/notes-on-fretboard.png" alt="" class="wp-image-3041" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/notes-on-fretboard.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/notes-on-fretboard-600x256.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/notes-on-fretboard-300x128.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/notes-on-fretboard-768x328.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Notes On Your Guitar Fretboard</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="437" src="/wp-content/uploads/2021/05/notes-on-fretboard.png" alt="" class="wp-image-3041" title="" srcset="/wp-content/uploads/2021/05/notes-on-fretboard.png 1024w, /wp-content/uploads/2021/05/notes-on-fretboard-600x256.png 600w, /wp-content/uploads/2021/05/notes-on-fretboard-300x128.png 300w, /wp-content/uploads/2021/05/notes-on-fretboard-768x328.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Notes On Your Guitar Fretboard</strong></figcaption></figure>
 
 
 
@@ -241,7 +241,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/05/octaves-on-guitar-fretboard-1024x853.png" alt="" class="wp-image-3042" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/octaves-on-guitar-fretboard-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/octaves-on-guitar-fretboard-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/octaves-on-guitar-fretboard-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/octaves-on-guitar-fretboard-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/octaves-on-guitar-fretboard-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/octaves-on-guitar-fretboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>How To Find Note Octaves On Fretboard – It&#8217;s Super Simple (And They Sound Great)</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/05/octaves-on-guitar-fretboard-1024x853.png" alt="" class="wp-image-3042" title="" srcset="/wp-content/uploads/2021/05/octaves-on-guitar-fretboard-1024x853.png 1024w, /wp-content/uploads/2021/05/octaves-on-guitar-fretboard-600x500.png 600w, /wp-content/uploads/2021/05/octaves-on-guitar-fretboard-300x250.png 300w, /wp-content/uploads/2021/05/octaves-on-guitar-fretboard-768x640.png 768w, /wp-content/uploads/2021/05/octaves-on-guitar-fretboard-1080x900.png 1080w, /wp-content/uploads/2021/05/octaves-on-guitar-fretboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>How To Find Note Octaves On Fretboard – It&#8217;s Super Simple (And They Sound Great)</strong></figcaption></figure>
 
 
 

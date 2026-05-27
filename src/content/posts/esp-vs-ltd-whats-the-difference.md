@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/ESP-vs-LTD.png"
+featuredImage: "/wp-content/uploads/2022/04/ESP-vs-LTD.png"
 featuredImageAlt: "ESP vs LTD"
 seo: 
   title: "ESP vs LTD – What’s The Difference!?"
@@ -56,7 +56,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png" alt="What-Guitars-Do-Mastodon-Use" class="wp-image-4857" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Bill Kelliher of Mastodon Rocking His ESP Sparrowhawk</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png" alt="What-Guitars-Do-Mastodon-Use" class="wp-image-4857" title="" srcset="/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png 1024w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-600x500.png 600w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-300x250.png 300w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-768x640.png 768w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1080x900.png 1080w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Bill Kelliher of Mastodon Rocking His ESP Sparrowhawk</strong></figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png" alt="What Pickups Does James Hetfield Use" class="wp-image-7090" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Papa Het With One of His Many ESP Guitars</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png" alt="What Pickups Does James Hetfield Use" class="wp-image-7090" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Papa Het With One of His Many ESP Guitars</strong></figcaption></figure>
 
 
 

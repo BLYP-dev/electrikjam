@@ -28,7 +28,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-WHT-BODYTILT.jpg"
+featuredImage: "/wp-content/uploads/2021/11/DEMON-7-WHT-BODYTILT.jpg"
 featuredImageAlt: "Schecter demon 7"
 seo: 
   title: "Schecter Demon 7 Review: The BEST 7 String under $500?"
@@ -85,7 +85,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1024x328.png" alt="Schecter demon 7" class="wp-image-5844" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter Demon 7 in White</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1024x328.png" alt="Schecter demon 7" class="wp-image-5844" title="" srcset="/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1024x328.png 1024w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-600x192.png 600w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-300x96.png 300w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-768x246.png 768w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-1536x492.png 1536w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-1080x346.png 1080w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter Demon 7 in White</figcaption></figure>
 
 
 
@@ -121,7 +121,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-1024x1024.jpg" alt="" class="wp-image-5845" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-scaled-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-scaled-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-2048x2048.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-7-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>My Schecter Demon 7</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/11/Schecter-Demon-7-1024x1024.jpg" alt="" class="wp-image-5845" title="" srcset="/wp-content/uploads/2021/11/Schecter-Demon-7-1024x1024.jpg 1024w, /wp-content/uploads/2021/11/Schecter-Demon-7-300x300.jpg 300w, /wp-content/uploads/2021/11/Schecter-Demon-7-scaled-100x100.jpg 100w, /wp-content/uploads/2021/11/Schecter-Demon-7-scaled-600x600.jpg 600w, /wp-content/uploads/2021/11/Schecter-Demon-7-150x150.jpg 150w, /wp-content/uploads/2021/11/Schecter-Demon-7-768x768.jpg 768w, /wp-content/uploads/2021/11/Schecter-Demon-7-1536x1536.jpg 1536w, /wp-content/uploads/2021/11/Schecter-Demon-7-2048x2048.jpg 2048w, /wp-content/uploads/2021/11/Schecter-Demon-7-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>My Schecter Demon 7</figcaption></figure>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="338" src="https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-SBK1-1024x338.png" alt="" class="wp-image-5846" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-SBK1-1024x338.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-SBK1-600x198.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-SBK1-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-SBK1-768x253.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-SBK1-1536x507.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-SBK1-1080x356.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/DEMON-7-SBK1.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter Demon 7 in Matte Black Option</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="338" src="/wp-content/uploads/2021/11/DEMON-7-SBK1-1024x338.png" alt="" class="wp-image-5846" title="" srcset="/wp-content/uploads/2021/11/DEMON-7-SBK1-1024x338.png 1024w, /wp-content/uploads/2021/11/DEMON-7-SBK1-600x198.png 600w, /wp-content/uploads/2021/11/DEMON-7-SBK1-300x99.png 300w, /wp-content/uploads/2021/11/DEMON-7-SBK1-768x253.png 768w, /wp-content/uploads/2021/11/DEMON-7-SBK1-1536x507.png 1536w, /wp-content/uploads/2021/11/DEMON-7-SBK1-1080x356.png 1080w, /wp-content/uploads/2021/11/DEMON-7-SBK1.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter Demon 7 in Matte Black Option</figcaption></figure>
 
 
 

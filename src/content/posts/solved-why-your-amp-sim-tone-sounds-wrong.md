@@ -25,7 +25,7 @@ tagSlugs:
   - "popular"
 tagPaths: 
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/01/Why-Your-Amp-Sim-Tone-Sounds-WRONG.png"
+featuredImage: "/wp-content/uploads/2024/01/Why-Your-Amp-Sim-Tone-Sounds-WRONG.png"
 featuredImageAlt: "Why Your Amp Sim Tone Sounds WRONG"
 seo: 
   title: "[SOLVED] Why Your Amp Sim Tone Sounds WRONG"
@@ -217,7 +217,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="547" src="https://www.electrikjam.com/wp-content/uploads/2024/01/ED-S-1024x547.png" alt="ED S Amp sim tone" class="wp-image-13874" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/ED-S-1024x547.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/ED-S-600x321.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/ED-S-300x160.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/ED-S-768x410.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/ED-S-1536x821.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/01/ED-S.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Chart courtesy of ED S. Thank you so much!</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="547" src="/wp-content/uploads/2024/01/ED-S-1024x547.png" alt="ED S Amp sim tone" class="wp-image-13874" title="" srcset="/wp-content/uploads/2024/01/ED-S-1024x547.png 1024w, /wp-content/uploads/2024/01/ED-S-600x321.png 600w, /wp-content/uploads/2024/01/ED-S-300x160.png 300w, /wp-content/uploads/2024/01/ED-S-768x410.png 768w, /wp-content/uploads/2024/01/ED-S-1536x821.png 1536w, /wp-content/uploads/2024/01/ED-S.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Chart courtesy of ED S. Thank you so much!</strong></figcaption></figure>
 
 
 
@@ -237,7 +237,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/Tone-Fix-two-1024x683.png" alt="amp sim tone" class="wp-image-13878" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/Tone-Fix-two-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/Tone-Fix-two-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/Tone-Fix-two-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/Tone-Fix-two-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/Tone-Fix-two.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/Tone-Fix-two-1024x683.png" alt="amp sim tone" class="wp-image-13878" title="" srcset="/wp-content/uploads/2024/01/Tone-Fix-two-1024x683.png 1024w, /wp-content/uploads/2024/01/Tone-Fix-two-600x400.png 600w, /wp-content/uploads/2024/01/Tone-Fix-two-300x200.png 300w, /wp-content/uploads/2024/01/Tone-Fix-two-768x512.png 768w, /wp-content/uploads/2024/01/Tone-Fix-two.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -265,7 +265,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/Amp-sim-tone-tricks-1024x683.png" alt="amp sim tone" class="wp-image-13875" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/Amp-sim-tone-tricks-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/Amp-sim-tone-tricks-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/Amp-sim-tone-tricks-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/Amp-sim-tone-tricks-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/Amp-sim-tone-tricks.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/Amp-sim-tone-tricks-1024x683.png" alt="amp sim tone" class="wp-image-13875" title="" srcset="/wp-content/uploads/2024/01/Amp-sim-tone-tricks-1024x683.png 1024w, /wp-content/uploads/2024/01/Amp-sim-tone-tricks-600x400.png 600w, /wp-content/uploads/2024/01/Amp-sim-tone-tricks-300x200.png 300w, /wp-content/uploads/2024/01/Amp-sim-tone-tricks-768x512.png 768w, /wp-content/uploads/2024/01/Amp-sim-tone-tricks.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

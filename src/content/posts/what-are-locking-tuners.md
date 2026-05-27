@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/20211206_114157.jpg"
+featuredImage: "/wp-content/uploads/2021/12/20211206_114157.jpg"
 featuredImageAlt: "Locking tuners"
 seo: 
   title: "Locking Tuners 101: The BEST Guide To This PRO Upgrade!"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="786" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-tuners-1024x786.jpg" alt="Locking tuners" class="wp-image-5975" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-tuners-1024x786.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-tuners-600x461.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-tuners-300x230.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-tuners-768x590.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-tuners-1080x829.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-tuners.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Locking Tuners On A Strat Style Guitar</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="786" src="/wp-content/uploads/2021/12/Locking-tuners-1024x786.jpg" alt="Locking tuners" class="wp-image-5975" title="" srcset="/wp-content/uploads/2021/12/Locking-tuners-1024x786.jpg 1024w, /wp-content/uploads/2021/12/Locking-tuners-600x461.jpg 600w, /wp-content/uploads/2021/12/Locking-tuners-300x230.jpg 300w, /wp-content/uploads/2021/12/Locking-tuners-768x590.jpg 768w, /wp-content/uploads/2021/12/Locking-tuners-1080x829.jpg 1080w, /wp-content/uploads/2021/12/Locking-tuners.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Locking Tuners On A Strat Style Guitar</em></strong></figcaption></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-Tuners-up-close-1024x768.jpg" alt="Locking tuners" class="wp-image-5982" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-Tuners-up-close-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-Tuners-up-close-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-Tuners-up-close-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-Tuners-up-close-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-Tuners-up-close-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-Tuners-up-close-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/Locking-Tuners-up-close.jpg 1107w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Up Close: Locking Tuners On My Schecter</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/12/Locking-Tuners-up-close-1024x768.jpg" alt="Locking tuners" class="wp-image-5982" title="" srcset="/wp-content/uploads/2021/12/Locking-Tuners-up-close-1024x768.jpg 1024w, /wp-content/uploads/2021/12/Locking-Tuners-up-close-600x450.jpg 600w, /wp-content/uploads/2021/12/Locking-Tuners-up-close-300x225.jpg 300w, /wp-content/uploads/2021/12/Locking-Tuners-up-close-768x576.jpg 768w, /wp-content/uploads/2021/12/Locking-Tuners-up-close-510x382.jpg 510w, /wp-content/uploads/2021/12/Locking-Tuners-up-close-1080x810.jpg 1080w, /wp-content/uploads/2021/12/Locking-Tuners-up-close.jpg 1107w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Up Close: Locking Tuners On My Schecter</em></strong></figcaption></figure>
 
 
 

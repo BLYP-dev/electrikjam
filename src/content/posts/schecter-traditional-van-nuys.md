@@ -22,7 +22,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/05/Schecter-PT-Van-Nuys.jpg"
+featuredImage: "/wp-content/uploads/2021/05/Schecter-PT-Van-Nuys.jpg"
 featuredImageAlt: "Schecter PT Van Nuys"
 seo: 
   title: "Schecter Traditional Van Nuys: Amazing Custom Shop Style On A Budget For 2021!"
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-1024x683.jpg" alt="Schecter Traditional Van Nuys " class="wp-image-3020" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter Traditional Van Nuys C-1</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-1024x683.jpg" alt="Schecter Traditional Van Nuys " class="wp-image-3020" title="" srcset="/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-1024x683.jpg 1024w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-600x400.jpg 600w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-300x200.jpg 300w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-768x512.jpg 768w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-1536x1024.jpg 1536w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-2048x1365.jpg 2048w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-1080x720.jpg 1080w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-BODY-LAYING-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter Traditional Van Nuys C-1</figcaption></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-1024x328.png" alt="" class="wp-image-3022" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-1024x328.png" alt="" class="wp-image-3022" title="" srcset="/wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-1024x328.png 1024w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-600x192.png 600w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-300x96.png 300w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-768x246.png 768w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-1536x492.png 1536w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT-1080x346.png 1080w, /wp-content/uploads/2021/05/TRAD-VAN-NUYS-G.NAT-ASH-701-TILT.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-1024x328.png" alt="" class="wp-image-3025" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter PT</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-1024x328.png" alt="" class="wp-image-3025" title="" srcset="/wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-1024x328.png 1024w, /wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-600x192.png 600w, /wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-300x96.png 300w, /wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-768x246.png 768w, /wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-1536x492.png 1536w, /wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE-1080x346.png 1080w, /wp-content/uploads/2021/05/PT-VAN-NUYS-G.NAT-ASH-700-TILT-SIDE.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter PT</figcaption></figure>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-1024x683.jpg" alt="" class="wp-image-3026" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-1024x683.jpg" alt="" class="wp-image-3026" title="" srcset="/wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-1024x683.jpg 1024w, /wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-600x400.jpg 600w, /wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-300x200.jpg 300w, /wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-768x512.jpg 768w, /wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-1536x1024.jpg 1536w, /wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-2048x1365.jpg 2048w, /wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-1080x720.jpg 1080w, /wp-content/uploads/2021/05/PT-VAN-NUYS-TREM-FAR-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

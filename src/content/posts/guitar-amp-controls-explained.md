@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/guitar-amp-settings.png"
+featuredImage: "/wp-content/uploads/2022/08/guitar-amp-settings.png"
 featuredImageAlt: "guitar amp settings"
 seo: 
   title: "Guitar Amp Controls Explained: The 1st Step To Amazing Tone!"
@@ -100,7 +100,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ON-1024x683.png" alt="guitar amp controls" class="wp-image-8714" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ON-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ON-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ON-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ON-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ON.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-controls-ON-1024x683.png" alt="guitar amp controls" class="wp-image-8714" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-controls-ON-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-controls-ON-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-controls-ON-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-controls-ON-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-controls-ON.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-channel-1024x683.png" alt="guitar amp controls" class="wp-image-8715" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-channel-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-channel-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-channel-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-channel-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-channel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-controls-channel-1024x683.png" alt="guitar amp controls" class="wp-image-8715" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-controls-channel-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-controls-channel-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-controls-channel-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-controls-channel-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-controls-channel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-1024x683.png" alt="Guitar amp controls" class="wp-image-8716" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-1024x683.png" alt="Guitar amp controls" class="wp-image-8716" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-controls-volume-gain.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -312,7 +312,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EQ-1024x683.png" alt="guitar amp controls" class="wp-image-8719" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EQ-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EQ-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EQ-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EQ-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EQ.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-controls-EQ-1024x683.png" alt="guitar amp controls" class="wp-image-8719" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-controls-EQ-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-controls-EQ-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-controls-EQ-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-controls-EQ-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-controls-EQ.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -352,7 +352,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-Effects-1024x683.png" alt="guitar amp controls" class="wp-image-8720" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-Effects-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-Effects-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-Effects-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-Effects-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-Effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-controls-Effects-1024x683.png" alt="guitar amp controls" class="wp-image-8720" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-controls-Effects-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-controls-Effects-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-controls-Effects-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-controls-Effects-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-controls-Effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -388,7 +388,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-1024x683.png" alt="guitar amp controls" class="wp-image-8721" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-ATTN.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-1024x683.png" alt="guitar amp controls" class="wp-image-8721" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-controls-ATTN-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-controls-ATTN.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -436,7 +436,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EVH-1024x683.png" alt="guitar amp controls" class="wp-image-8722" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EVH-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EVH-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EVH-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EVH-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Guitar-amp-controls-EVH.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Guitar-amp-controls-EVH-1024x683.png" alt="guitar amp controls" class="wp-image-8722" title="" srcset="/wp-content/uploads/2022/08/Guitar-amp-controls-EVH-1024x683.png 1024w, /wp-content/uploads/2022/08/Guitar-amp-controls-EVH-600x400.png 600w, /wp-content/uploads/2022/08/Guitar-amp-controls-EVH-300x200.png 300w, /wp-content/uploads/2022/08/Guitar-amp-controls-EVH-768x512.png 768w, /wp-content/uploads/2022/08/Guitar-amp-controls-EVH.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

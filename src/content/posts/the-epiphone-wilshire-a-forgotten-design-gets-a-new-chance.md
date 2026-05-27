@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/epi-willly.jpg"
+featuredImage: "/wp-content/uploads/2020/11/epi-willly.jpg"
 featuredImageAlt: "epi-willly"
 seo: 
   title: "The Epiphone Wilshire: A Forgotten Design gets Re-released for 2020!"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="720" height="480" src="https://www.electrikjam.com/wp-content/uploads/2020/11/me-playing-the-wilshire.jpg" alt="Epiphone wilshire" class="wp-image-1532" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/me-playing-the-wilshire.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2020/11/me-playing-the-wilshire-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/me-playing-the-wilshire-300x200.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>Me in 2011 With My Wilshire</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="720" height="480" src="/wp-content/uploads/2020/11/me-playing-the-wilshire.jpg" alt="Epiphone wilshire" class="wp-image-1532" title="" srcset="/wp-content/uploads/2020/11/me-playing-the-wilshire.jpg 720w, /wp-content/uploads/2020/11/me-playing-the-wilshire-600x400.jpg 600w, /wp-content/uploads/2020/11/me-playing-the-wilshire-300x200.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>Me in 2011 With My Wilshire</figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-wilshire.jpg" alt="" class="wp-image-1533" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-wilshire.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-wilshire-600x900.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-wilshire-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="/wp-content/uploads/2020/11/Epiphone-wilshire.jpg" alt="" class="wp-image-1533" title="" srcset="/wp-content/uploads/2020/11/Epiphone-wilshire.jpg 640w, /wp-content/uploads/2020/11/Epiphone-wilshire-600x900.jpg 600w, /wp-content/uploads/2020/11/Epiphone-wilshire-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="https://www.electrikjam.com/wp-content/uploads/2020/11/epi-willly.jpg" alt="" class="wp-image-1534" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/epi-willly.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-willly-600x900.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-willly-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="960" src="/wp-content/uploads/2020/11/epi-willly.jpg" alt="" class="wp-image-1534" title="" srcset="/wp-content/uploads/2020/11/epi-willly.jpg 640w, /wp-content/uploads/2020/11/epi-willly-600x900.jpg 600w, /wp-content/uploads/2020/11/epi-willly-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="960" height="668" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood.jpg" alt="" class="wp-image-1535" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood-600x418.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood-300x209.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood-768x534.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="960" height="668" src="/wp-content/uploads/2020/11/Epi-Crestwood.jpg" alt="" class="wp-image-1535" title="" srcset="/wp-content/uploads/2020/11/Epi-Crestwood.jpg 960w, /wp-content/uploads/2020/11/Epi-Crestwood-600x418.jpg 600w, /wp-content/uploads/2020/11/Epi-Crestwood-300x209.jpg 300w, /wp-content/uploads/2020/11/Epi-Crestwood-768x534.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "ibanez"
 tagPaths: 
   - "/tag/ibanez/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/07/aHHEamm67t4oT85UGAhWQT.jpg"
+featuredImage: "/wp-content/uploads/2021/07/aHHEamm67t4oT85UGAhWQT.jpg"
 featuredImageAlt: "aHHEamm67t4oT85UGAhWQT"
 seo: 
   title: "Ibanez Iron Label 2021: The Xiphos and Iceman Return In Their Most Brutal Forms!"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="327" src="https://www.electrikjam.com/wp-content/uploads/2021/07/Ibanez-Iceman-1024x327.png" alt="iron label" class="wp-image-3440" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/Ibanez-Iceman-1024x327.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ibanez-Iceman-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ibanez-Iceman-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ibanez-Iceman-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ibanez-Iceman-1080x345.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ibanez-Iceman.png 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong><a href="https://www.ibanez.com/eu/products/detail/ictb721_1p_01.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1532">Ibanez Iceman</a></strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="327" src="/wp-content/uploads/2021/07/Ibanez-Iceman-1024x327.png" alt="iron label" class="wp-image-3440" title="" srcset="/wp-content/uploads/2021/07/Ibanez-Iceman-1024x327.png 1024w, /wp-content/uploads/2021/07/Ibanez-Iceman-600x192.png 600w, /wp-content/uploads/2021/07/Ibanez-Iceman-300x96.png 300w, /wp-content/uploads/2021/07/Ibanez-Iceman-768x246.png 768w, /wp-content/uploads/2021/07/Ibanez-Iceman-1080x345.png 1080w, /wp-content/uploads/2021/07/Ibanez-Iceman.png 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong><a href="https://www.ibanez.com/eu/products/detail/ictb721_1p_01.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1532">Ibanez Iceman</a></strong></em></figcaption></figure>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="747" height="474" src="https://www.electrikjam.com/wp-content/uploads/2021/07/pm_main_eg_ic_en_sp.png" alt="" class="wp-image-3443" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/pm_main_eg_ic_en_sp.png 747w, https://www.electrikjam.com/wp-content/uploads/2021/07/pm_main_eg_ic_en_sp-600x381.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/pm_main_eg_ic_en_sp-300x190.png 300w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="747" height="474" src="/wp-content/uploads/2021/07/pm_main_eg_ic_en_sp.png" alt="" class="wp-image-3443" title="" srcset="/wp-content/uploads/2021/07/pm_main_eg_ic_en_sp.png 747w, /wp-content/uploads/2021/07/pm_main_eg_ic_en_sp-600x381.png 600w, /wp-content/uploads/2021/07/pm_main_eg_ic_en_sp-300x190.png 300w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="349" src="https://www.electrikjam.com/wp-content/uploads/2021/07/Ironlabel-Xiphos-1024x349.png" alt="" class="wp-image-3441" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/Ironlabel-Xiphos-1024x349.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ironlabel-Xiphos-600x204.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ironlabel-Xiphos-300x102.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ironlabel-Xiphos-768x262.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ironlabel-Xiphos-1080x368.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/07/Ironlabel-Xiphos.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ibanez Xiphos XTB720</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="349" src="/wp-content/uploads/2021/07/Ironlabel-Xiphos-1024x349.png" alt="" class="wp-image-3441" title="" srcset="/wp-content/uploads/2021/07/Ironlabel-Xiphos-1024x349.png 1024w, /wp-content/uploads/2021/07/Ironlabel-Xiphos-600x204.png 600w, /wp-content/uploads/2021/07/Ironlabel-Xiphos-300x102.png 300w, /wp-content/uploads/2021/07/Ironlabel-Xiphos-768x262.png 768w, /wp-content/uploads/2021/07/Ironlabel-Xiphos-1080x368.png 1080w, /wp-content/uploads/2021/07/Ironlabel-Xiphos.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ibanez Xiphos XTB720</figcaption></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="747" height="474" src="https://www.electrikjam.com/wp-content/uploads/2021/07/Iron-X.png" alt="" class="wp-image-3444" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/Iron-X.png 747w, https://www.electrikjam.com/wp-content/uploads/2021/07/Iron-X-600x381.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/Iron-X-300x190.png 300w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="747" height="474" src="/wp-content/uploads/2021/07/Iron-X.png" alt="" class="wp-image-3444" title="" srcset="/wp-content/uploads/2021/07/Iron-X.png 747w, /wp-content/uploads/2021/07/Iron-X-600x381.png 600w, /wp-content/uploads/2021/07/Iron-X-300x190.png 300w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
 
 
 

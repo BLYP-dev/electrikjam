@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/07/Fender-Player-Series-II.png"
+featuredImage: "/wp-content/uploads/2024/07/Fender-Player-Series-II.png"
 featuredImageAlt: "Fender Player Series II"
 seo: 
   title: "Fender Player II Series Official: New Models, Epic Updates"
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="805" src="https://www.electrikjam.com/wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-1024x805.jpg" alt="" class="wp-image-15566" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-1024x805.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-600x471.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-300x236.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-768x603.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="805" src="/wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-1024x805.jpg" alt="" class="wp-image-15566" title="" srcset="/wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-1024x805.jpg 1024w, /wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-600x471.jpg 600w, /wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-300x236.jpg 300w, /wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series-768x603.jpg 768w, /wp-content/uploads/2024/07/fender-player-series-ii-vs-fender-player-series.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

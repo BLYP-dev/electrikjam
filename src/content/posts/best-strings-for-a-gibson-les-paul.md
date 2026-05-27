@@ -28,7 +28,7 @@ tagPaths:
   - "/tag/epiphone/"
   - "/tag/gibson/"
   - "/tag/strings/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/0001-20942746952.webp"
+featuredImage: "/wp-content/uploads/2022/02/0001-20942746952.webp"
 featuredImageAlt: "best epiphone les paul"
 seo: 
   title: "The Best Strings For A Gibson Les Paul (Inc. Epiphone & LTD Models)"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-1024x683.jpg" alt="Epiphone 1959 Les Paul Standard" class="wp-image-17587" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-1024x683.jpg" alt="Epiphone 1959 Les Paul Standard" class="wp-image-17587" title="" srcset="/wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-1024x683.jpg 1024w, /wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-600x400.jpg 600w, /wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-300x200.jpg 300w, /wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard-768x512.jpg 768w, /wp-content/uploads/2025/07/Epiphone-1959-Les-Paul-Standard.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -173,7 +173,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-1024x683.jpg" alt="" class="wp-image-16848" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-1024x683.jpg" alt="" class="wp-image-16848" title="" srcset="/wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-1024x683.jpg 1024w, /wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-600x400.jpg 600w, /wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-300x200.jpg 300w, /wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46-768x512.jpg 768w, /wp-content/uploads/2024/12/Ernie-Ball-Regular-Slinky-2221-10-46.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-1024x683.jpg" alt="" class="wp-image-16847" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-1024x683.jpg" alt="" class="wp-image-16847" title="" srcset="/wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-1024x683.jpg 1024w, /wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-600x400.jpg 600w, /wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-300x200.jpg 300w, /wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings-768x512.jpg 768w, /wp-content/uploads/2024/12/DAddario-EXL110-Nickel-Wound-Light-Electric-Guitar-Strings.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Elixir-Polyweb-1-1024x683.jpg" alt="" class="wp-image-17930" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Elixir-Polyweb-1-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Elixir-Polyweb-1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Elixir-Polyweb-1-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Elixir-Polyweb-1-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Elixir-Polyweb-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Elixir-Polyweb-1-1024x683.jpg" alt="" class="wp-image-17930" title="" srcset="/wp-content/uploads/2025/08/Elixir-Polyweb-1-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Elixir-Polyweb-1-600x400.jpg 600w, /wp-content/uploads/2025/08/Elixir-Polyweb-1-300x200.jpg 300w, /wp-content/uploads/2025/08/Elixir-Polyweb-1-768x512.jpg 768w, /wp-content/uploads/2025/08/Elixir-Polyweb-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -25,7 +25,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/09/Hero-Headstock.jpg"
+featuredImage: "/wp-content/uploads/2020/09/Hero-Headstock.jpg"
 featuredImageAlt: "Hero-Headstock"
 seo: 
   title: "How To Tune A Guitar (Like A Pro): The Basics Detailed..."
@@ -54,7 +54,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="602" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Hero-Headstock.jpg" alt="" class="wp-image-444" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Hero-Headstock.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/09/Hero-Headstock-600x361.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Hero-Headstock-300x181.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Hero-Headstock-768x462.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="602" src="/wp-content/uploads/2020/09/Hero-Headstock.jpg" alt="" class="wp-image-444" title="" srcset="/wp-content/uploads/2020/09/Hero-Headstock.jpg 1000w, /wp-content/uploads/2020/09/Hero-Headstock-600x361.jpg 600w, /wp-content/uploads/2020/09/Hero-Headstock-300x181.jpg 300w, /wp-content/uploads/2020/09/Hero-Headstock-768x462.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="695" height="176" src="https://www.electrikjam.com/wp-content/uploads/2020/09/open_strings.gif" alt="" class="wp-image-445" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="695" height="176" src="/wp-content/uploads/2020/09/open_strings.gif" alt="" class="wp-image-445" title=""></figure>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="800" height="800" src="https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam.jpg" alt="" class="wp-image-442" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="800" src="/wp-content/uploads/2020/09/tuner-Electrikjam.jpg" alt="" class="wp-image-442" title="" srcset="/wp-content/uploads/2020/09/tuner-Electrikjam.jpg 800w, /wp-content/uploads/2020/09/tuner-Electrikjam-300x300.jpg 300w, /wp-content/uploads/2020/09/tuner-Electrikjam-100x100.jpg 100w, /wp-content/uploads/2020/09/tuner-Electrikjam-600x600.jpg 600w, /wp-content/uploads/2020/09/tuner-Electrikjam-150x150.jpg 150w, /wp-content/uploads/2020/09/tuner-Electrikjam-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/09/floor-tuner-1024x768.jpeg" alt="" class="wp-image-443" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/floor-tuner-1024x768.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/floor-tuner-600x450.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/floor-tuner-300x225.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/floor-tuner-768x576.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/floor-tuner.jpeg 1240w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A stand-alone style tuner.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/09/floor-tuner-1024x768.jpeg" alt="" class="wp-image-443" title="" srcset="/wp-content/uploads/2020/09/floor-tuner-1024x768.jpeg 1024w, /wp-content/uploads/2020/09/floor-tuner-600x450.jpeg 600w, /wp-content/uploads/2020/09/floor-tuner-300x225.jpeg 300w, /wp-content/uploads/2020/09/floor-tuner-768x576.jpeg 768w, /wp-content/uploads/2020/09/floor-tuner.jpeg 1240w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A stand-alone style tuner.</figcaption></figure>
 
 
 

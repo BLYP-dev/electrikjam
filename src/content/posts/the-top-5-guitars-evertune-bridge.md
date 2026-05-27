@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/best-electric-guitar.png"
+featuredImage: "/wp-content/uploads/2021/02/best-electric-guitar.png"
 featuredImageAlt: "best electric guitar"
 seo: 
   title: "The Top 5 Guitars With Factory Installed Evertune Bridges: The Amazing Models For Pros!"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="908" height="463" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Framus-Stormbender.jpg" alt="evertune bridge" class="wp-image-2667" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Framus-Stormbender.jpg 908w, https://www.electrikjam.com/wp-content/uploads/2021/04/Framus-Stormbender-600x306.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Framus-Stormbender-300x153.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Framus-Stormbender-768x392.jpg 768w" sizes="(max-width: 908px) 100vw, 908px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="908" height="463" src="/wp-content/uploads/2021/04/Framus-Stormbender.jpg" alt="evertune bridge" class="wp-image-2667" title="" srcset="/wp-content/uploads/2021/04/Framus-Stormbender.jpg 908w, /wp-content/uploads/2021/04/Framus-Stormbender-600x306.jpg 600w, /wp-content/uploads/2021/04/Framus-Stormbender-300x153.jpg 300w, /wp-content/uploads/2021/04/Framus-Stormbender-768x392.jpg 768w" sizes="(max-width: 908px) 100vw, 908px" /></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="370" src="https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-Evertune-1024x370.png" alt="" class="wp-image-2669" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-Evertune-1024x370.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-Evertune-600x217.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-Evertune-300x109.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-Evertune-768x278.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-Evertune-1080x391.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-Evertune.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="370" src="/wp-content/uploads/2021/04/ESP-Evertune-1024x370.png" alt="" class="wp-image-2669" title="" srcset="/wp-content/uploads/2021/04/ESP-Evertune-1024x370.png 1024w, /wp-content/uploads/2021/04/ESP-Evertune-600x217.png 600w, /wp-content/uploads/2021/04/ESP-Evertune-300x109.png 300w, /wp-content/uploads/2021/04/ESP-Evertune-768x278.png 768w, /wp-content/uploads/2021/04/ESP-Evertune-1080x391.png 1080w, /wp-content/uploads/2021/04/ESP-Evertune.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="359" src="https://www.electrikjam.com/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-1024x359.png" alt="" class="wp-image-2674" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-1024x359.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-600x210.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-300x105.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-768x269.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-1536x538.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-2048x718.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-1080x378.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="359" src="/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-1024x359.png" alt="" class="wp-image-2674" title="" srcset="/wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-1024x359.png 1024w, /wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-600x210.png 600w, /wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-300x105.png 300w, /wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-768x269.png 768w, /wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-1536x538.png 1536w, /wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-2048x718.png 2048w, /wp-content/uploads/2021/04/AB1.6S-FRONT-HORIZONTAL-1080x378.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="410" src="https://www.electrikjam.com/wp-content/uploads/2021/04/BC-Rich-Shredzilla-1024x410.jpg" alt="" class="wp-image-2677" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/BC-Rich-Shredzilla-1024x410.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/BC-Rich-Shredzilla-600x240.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/BC-Rich-Shredzilla-300x120.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/BC-Rich-Shredzilla-768x307.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/BC-Rich-Shredzilla-1080x432.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/BC-Rich-Shredzilla.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="410" src="/wp-content/uploads/2021/04/BC-Rich-Shredzilla-1024x410.jpg" alt="" class="wp-image-2677" title="" srcset="/wp-content/uploads/2021/04/BC-Rich-Shredzilla-1024x410.jpg 1024w, /wp-content/uploads/2021/04/BC-Rich-Shredzilla-600x240.jpg 600w, /wp-content/uploads/2021/04/BC-Rich-Shredzilla-300x120.jpg 300w, /wp-content/uploads/2021/04/BC-Rich-Shredzilla-768x307.jpg 768w, /wp-content/uploads/2021/04/BC-Rich-Shredzilla-1080x432.jpg 1080w, /wp-content/uploads/2021/04/BC-Rich-Shredzilla.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="342" src="https://www.electrikjam.com/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-1024x342.png" alt="" class="wp-image-2680" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-1024x342.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-600x200.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-300x100.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-768x256.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-1536x512.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-2048x683.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-1080x360.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="342" src="/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-1024x342.png" alt="" class="wp-image-2680" title="" srcset="/wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-1024x342.png 1024w, /wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-600x200.png 600w, /wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-300x100.png 300w, /wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-768x256.png 768w, /wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-1536x512.png 1536w, /wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-2048x683.png 2048w, /wp-content/uploads/2021/04/A1.7C-FRONT-HORIZONTAL-1080x360.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-1024x538.jpg" alt="" class="wp-image-2685" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-1024x538.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-600x315.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-768x403.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-1080x567.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2021/04/ESP-LTD-BW-1024x538.jpg" alt="" class="wp-image-2685" title="" srcset="/wp-content/uploads/2021/04/ESP-LTD-BW-1024x538.jpg 1024w, /wp-content/uploads/2021/04/ESP-LTD-BW-600x315.jpg 600w, /wp-content/uploads/2021/04/ESP-LTD-BW-300x158.jpg 300w, /wp-content/uploads/2021/04/ESP-LTD-BW-768x403.jpg 768w, /wp-content/uploads/2021/04/ESP-LTD-BW-1080x567.jpg 1080w, /wp-content/uploads/2021/04/ESP-LTD-BW.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

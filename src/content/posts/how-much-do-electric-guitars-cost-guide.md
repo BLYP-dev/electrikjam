@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost.png"
+featuredImage: "/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost.png"
 featuredImageAlt: "How Much Do Electric Guitars Cost"
 seo: 
   title: "How Much Do Electric Guitars Cost? A Complete Guide…"
@@ -71,7 +71,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-1024x683.png" alt="How Much Do Electric Guitars Cost" class="wp-image-8690" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-1024x683.png" alt="How Much Do Electric Guitars Cost" class="wp-image-8690" title="" srcset="/wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-1024x683.png 1024w, /wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-600x400.png 600w, /wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-300x200.png 300w, /wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost-768x512.png 768w, /wp-content/uploads/2022/08/How-Much-Do-Electric-Guitars-Cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-1024x683.png" alt="" class="wp-image-8670" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>My Latest Purchase: <a href="https://www.electrikjam.com/gretsch-guitars-g2215-p90-streamliner-junior-jet-club-havana-burst-guitar-center/" data-type="lasso-urls" data-id="8672" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="145756" data-lasso-name="Gretsch G2215-P90 Streamliner Junior Jet Club">The Sub-$300 Gretsch P90 Streamliner Jr Jet Club</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-1024x683.png" alt="" class="wp-image-8670" title="" srcset="/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-1024x683.png 1024w, /wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-600x400.png 600w, /wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-300x200.png 300w, /wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-768x512.png 768w, /wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>My Latest Purchase: <a href="https://www.electrikjam.com/gretsch-guitars-g2215-p90-streamliner-junior-jet-club-havana-burst-guitar-center/" data-type="lasso-urls" data-id="8672" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="145756" data-lasso-name="Gretsch G2215-P90 Streamliner Junior Jet Club">The Sub-$300 Gretsch P90 Streamliner Jr Jet Club</a></strong></figcaption></figure>
 
 
 

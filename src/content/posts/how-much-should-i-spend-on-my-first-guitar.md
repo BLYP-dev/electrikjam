@@ -25,7 +25,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/How-Much.png"
+featuredImage: "/wp-content/uploads/2023/01/How-Much.png"
 featuredImageAlt: "how much should i spend on my first guitar?"
 seo: 
   title: "Beginner Questions: How Much Should I Spend On My First Guitar?"
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/tremolo-bridges-1024x683.png" alt="how much should i spend on my first guitar?" class="wp-image-10390" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/tremolo-bridges-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/tremolo-bridges-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/tremolo-bridges-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/tremolo-bridges-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/tremolo-bridges.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Tremolo Bridges: AVOID!</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/tremolo-bridges-1024x683.png" alt="how much should i spend on my first guitar?" class="wp-image-10390" title="" srcset="/wp-content/uploads/2023/01/tremolo-bridges-1024x683.png 1024w, /wp-content/uploads/2023/01/tremolo-bridges-600x400.png 600w, /wp-content/uploads/2023/01/tremolo-bridges-300x200.png 300w, /wp-content/uploads/2023/01/tremolo-bridges-768x512.png 768w, /wp-content/uploads/2023/01/tremolo-bridges.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Tremolo Bridges: AVOID!</strong></figcaption></figure>
 
 
 

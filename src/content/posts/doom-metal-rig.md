@@ -22,7 +22,7 @@ tagSlugs:
   - "gigging-on-a-budget"
 tagPaths: 
   - "/tag/gigging-on-a-budget/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rig.png"
+featuredImage: "/wp-content/uploads/2022/09/Doom-Metal-Rig.png"
 featuredImageAlt: "Doom Metal Rig cover"
 seo: 
   title: "The $1500 Doom Metal Rig: Gigging On A Budget Challenge!"
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Domm-metal-rig-amps-1024x683.png" alt="doom metal rig" class="wp-image-9020" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Domm-metal-rig-amps-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Domm-metal-rig-amps-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Domm-metal-rig-amps-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Domm-metal-rig-amps-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Domm-metal-rig-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Domm-metal-rig-amps-1024x683.png" alt="doom metal rig" class="wp-image-9020" title="" srcset="/wp-content/uploads/2022/09/Domm-metal-rig-amps-1024x683.png 1024w, /wp-content/uploads/2022/09/Domm-metal-rig-amps-600x400.png 600w, /wp-content/uploads/2022/09/Domm-metal-rig-amps-300x200.png 300w, /wp-content/uploads/2022/09/Domm-metal-rig-amps-768x512.png 768w, /wp-content/uploads/2022/09/Domm-metal-rig-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-1024x683.png" alt="doom metal rig" class="wp-image-9023" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-1024x683.png" alt="doom metal rig" class="wp-image-9023" title="" srcset="/wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-1024x683.png 1024w, /wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-600x400.png 600w, /wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-300x200.png 300w, /wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst-768x512.png 768w, /wp-content/uploads/2022/09/Doom-Metal-rig-Catalyst.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-1024x683.png" alt="Doom metal rig" class="wp-image-9024" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-1024x683.png" alt="Doom metal rig" class="wp-image-9024" title="" srcset="/wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-1024x683.png 1024w, /wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-600x400.png 600w, /wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-300x200.png 300w, /wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul-768x512.png 768w, /wp-content/uploads/2022/09/Doom-metal-rig-Les-Paul.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-1024x683.png" alt="Doom Metal rig" class="wp-image-9025" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-1024x683.png" alt="Doom Metal rig" class="wp-image-9025" title="" srcset="/wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-1024x683.png 1024w, /wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-600x400.png 600w, /wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-300x200.png 300w, /wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars-768x512.png 768w, /wp-content/uploads/2022/09/Doom-Metal-Rigs-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-1024x683.png" alt="Doom metal rig" class="wp-image-9029" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-1024x683.png" alt="Doom metal rig" class="wp-image-9029" title="" srcset="/wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-1024x683.png 1024w, /wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-600x400.png 600w, /wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-300x200.png 300w, /wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals-768x512.png 768w, /wp-content/uploads/2022/09/Doom-Metal-Rig-Pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-1024x683.png" alt="doom metal rig" class="wp-image-9030" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-1024x683.png" alt="doom metal rig" class="wp-image-9030" title="" srcset="/wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-1024x683.png 1024w, /wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-600x400.png 600w, /wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-300x200.png 300w, /wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick-768x512.png 768w, /wp-content/uploads/2022/09/Doom-Metal-rig-Pedal-kick.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

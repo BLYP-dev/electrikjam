@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/overview-dsp.png"
+featuredImage: "/wp-content/uploads/2021/01/overview-dsp.png"
 featuredImageAlt: "overview dsp"
 seo: 
   title: "What is The Neural DSP Quad Cortex? An Exclusive First Look for 2021"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="https://www.electrikjam.com/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-1024x575.png" alt="Neural Dsp Quad Cortex" class="wp-image-1861" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-1024x575.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-600x337.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-1536x863.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-1024x575.png" alt="Neural Dsp Quad Cortex" class="wp-image-1861" title="" srcset="/wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-1024x575.png 1024w, /wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-600x337.png 600w, /wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-300x169.png 300w, /wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-768x432.png 768w, /wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b-1536x863.png 1536w, /wp-content/uploads/2021/01/NEURAL_Quad_Cortex_Top_d4ae33a0-8874-4eb2-8aae-7a92f2ef638b.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="850" height="419" src="https://www.electrikjam.com/wp-content/uploads/2021/01/overview-dsp-1.png" alt="" class="wp-image-1862" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/overview-dsp-1.png 850w, https://www.electrikjam.com/wp-content/uploads/2021/01/overview-dsp-1-600x296.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/overview-dsp-1-300x148.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/overview-dsp-1-768x379.png 768w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption>Touch Screen Design</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="850" height="419" src="/wp-content/uploads/2021/01/overview-dsp-1.png" alt="" class="wp-image-1862" title="" srcset="/wp-content/uploads/2021/01/overview-dsp-1.png 850w, /wp-content/uploads/2021/01/overview-dsp-1-600x296.png 600w, /wp-content/uploads/2021/01/overview-dsp-1-300x148.png 300w, /wp-content/uploads/2021/01/overview-dsp-1-768x379.png 768w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption>Touch Screen Design</figcaption></figure>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="520" height="356" src="https://www.electrikjam.com/wp-content/uploads/2021/01/specs-bottom.png" alt="" class="wp-image-1866" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/specs-bottom.png 520w, https://www.electrikjam.com/wp-content/uploads/2021/01/specs-bottom-300x205.png 300w" sizes="(max-width: 520px) 100vw, 520px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="520" height="356" src="/wp-content/uploads/2021/01/specs-bottom.png" alt="" class="wp-image-1866" title="" srcset="/wp-content/uploads/2021/01/specs-bottom.png 520w, /wp-content/uploads/2021/01/specs-bottom-300x205.png 300w" sizes="(max-width: 520px) 100vw, 520px" /></figure>
 			
 		
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="570" height="391" src="https://www.electrikjam.com/wp-content/uploads/2021/01/cabsim.png" alt="" class="wp-image-1863" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/cabsim.png 570w, https://www.electrikjam.com/wp-content/uploads/2021/01/cabsim-300x206.png 300w" sizes="(max-width: 570px) 100vw, 570px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="570" height="391" src="/wp-content/uploads/2021/01/cabsim.png" alt="" class="wp-image-1863" title="" srcset="/wp-content/uploads/2021/01/cabsim.png 570w, /wp-content/uploads/2021/01/cabsim-300x206.png 300w" sizes="(max-width: 570px) 100vw, 570px" /></figure>
 
 
 
@@ -186,7 +186,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="548" src="https://www.electrikjam.com/wp-content/uploads/2021/01/neural-cns_1296x-1024x548.jpg" alt="" class="wp-image-1865" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/neural-cns_1296x-1024x548.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/neural-cns_1296x-600x321.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/neural-cns_1296x-300x161.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/neural-cns_1296x-768x411.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/neural-cns_1296x.jpg 1296w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="548" src="/wp-content/uploads/2021/01/neural-cns_1296x-1024x548.jpg" alt="" class="wp-image-1865" title="" srcset="/wp-content/uploads/2021/01/neural-cns_1296x-1024x548.jpg 1024w, /wp-content/uploads/2021/01/neural-cns_1296x-600x321.jpg 600w, /wp-content/uploads/2021/01/neural-cns_1296x-300x161.jpg 300w, /wp-content/uploads/2021/01/neural-cns_1296x-768x411.jpg 768w, /wp-content/uploads/2021/01/neural-cns_1296x.jpg 1296w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="259" src="https://www.electrikjam.com/wp-content/uploads/2021/01/tech_spec_full-1024x259.png" alt="" class="wp-image-1864" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/tech_spec_full-1024x259.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/tech_spec_full-600x152.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/tech_spec_full-300x76.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/tech_spec_full-768x194.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/tech_spec_full-1536x388.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/tech_spec_full.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="259" src="/wp-content/uploads/2021/01/tech_spec_full-1024x259.png" alt="" class="wp-image-1864" title="" srcset="/wp-content/uploads/2021/01/tech_spec_full-1024x259.png 1024w, /wp-content/uploads/2021/01/tech_spec_full-600x152.png 600w, /wp-content/uploads/2021/01/tech_spec_full-300x76.png 300w, /wp-content/uploads/2021/01/tech_spec_full-768x194.png 768w, /wp-content/uploads/2021/01/tech_spec_full-1536x388.png 1536w, /wp-content/uploads/2021/01/tech_spec_full.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

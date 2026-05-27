@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/best-practice-amp.png"
+featuredImage: "/wp-content/uploads/2021/02/best-practice-amp.png"
 featuredImageAlt: "best practice amp"
 seo: 
   title: "The 5 BEST Practice Amps for Beginners: Our #1 Picks..."
@@ -100,7 +100,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Peavey-Rage-1024x768.jpg" alt="" class="wp-image-537" width="1000" height="768" title=""><figcaption>MY Peavey Rage</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Peavey-Rage-1024x768.jpg" alt="" class="wp-image-537" width="1000" height="768" title=""><figcaption>MY Peavey Rage</figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Mustang-1024x768.jpg" alt="" class="wp-image-539" width="1000" height="768" title=""><figcaption>MY Mustang</figcaption></figure>
+<figure class="wp-block-image is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Fender-Mustang-1024x768.jpg" alt="" class="wp-image-539" width="1000" height="768" title=""><figcaption>MY Mustang</figcaption></figure>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="701" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-amp-interface.jpg" alt="" class="wp-image-545" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-amp-interface.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-amp-interface-600x421.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-amp-interface-300x210.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-amp-interface-768x538.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Fender Mustang Custom Interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="701" src="/wp-content/uploads/2020/09/Fender-amp-interface.jpg" alt="" class="wp-image-545" title="" srcset="/wp-content/uploads/2020/09/Fender-amp-interface.jpg 1000w, /wp-content/uploads/2020/09/Fender-amp-interface-600x421.jpg 600w, /wp-content/uploads/2020/09/Fender-amp-interface-300x210.jpg 300w, /wp-content/uploads/2020/09/Fender-amp-interface-768x538.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Fender Mustang Custom Interface</figcaption></figure>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1008" height="756" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Marshall-Mg30.jpg" alt="" class="wp-image-546" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Marshall-Mg30.jpg 1008w, https://www.electrikjam.com/wp-content/uploads/2020/09/Marshall-Mg30-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Marshall-Mg30-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Marshall-Mg30-768x576.jpg 768w" sizes="(max-width: 1008px) 100vw, 1008px" /><figcaption><em>You guessed it&#8230;I owned this one too</em>.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1008" height="756" src="/wp-content/uploads/2020/09/Marshall-Mg30.jpg" alt="" class="wp-image-546" title="" srcset="/wp-content/uploads/2020/09/Marshall-Mg30.jpg 1008w, /wp-content/uploads/2020/09/Marshall-Mg30-600x450.jpg 600w, /wp-content/uploads/2020/09/Marshall-Mg30-300x225.jpg 300w, /wp-content/uploads/2020/09/Marshall-Mg30-768x576.jpg 768w" sizes="(max-width: 1008px) 100vw, 1008px" /><figcaption><em>You guessed it&#8230;I owned this one too</em>.</figcaption></figure>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Orange-Crush-1024x871.jpg" alt="" class="wp-image-547" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Orange-Crush-1024x871.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Orange-Crush-600x510.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Orange-Crush-300x255.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Orange-Crush-768x653.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Orange-Crush-1536x1307.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Orange-Crush.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Totally not mine <em>anymore</em>. The Orange Crush 35RT</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Orange-Crush-1024x871.jpg" alt="" class="wp-image-547" width="1000" title="" srcset="/wp-content/uploads/2020/09/Orange-Crush-1024x871.jpg 1024w, /wp-content/uploads/2020/09/Orange-Crush-600x510.jpg 600w, /wp-content/uploads/2020/09/Orange-Crush-300x255.jpg 300w, /wp-content/uploads/2020/09/Orange-Crush-768x653.jpg 768w, /wp-content/uploads/2020/09/Orange-Crush-1536x1307.jpg 1536w, /wp-content/uploads/2020/09/Orange-Crush.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Totally not mine <em>anymore</em>. The Orange Crush 35RT</figcaption></figure>
 
 
 
@@ -348,7 +348,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Champion-1024x803.jpg" alt="" class="wp-image-557" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Champion-1024x803.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Champion-600x470.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Champion-300x235.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Champion-768x602.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Champion-1536x1204.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Champion.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Fender-Champion-1024x803.jpg" alt="" class="wp-image-557" width="1000" title="" srcset="/wp-content/uploads/2020/09/Fender-Champion-1024x803.jpg 1024w, /wp-content/uploads/2020/09/Fender-Champion-600x470.jpg 600w, /wp-content/uploads/2020/09/Fender-Champion-300x235.jpg 300w, /wp-content/uploads/2020/09/Fender-Champion-768x602.jpg 768w, /wp-content/uploads/2020/09/Fender-Champion-1536x1204.jpg 1536w, /wp-content/uploads/2020/09/Fender-Champion.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -376,7 +376,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Blackstar-1-1024x576.jpg" alt="" class="wp-image-559" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Blackstar-1-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Blackstar-1-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Blackstar-1-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Blackstar-1-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Blackstar-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Blackstar, I am sorry and I love you.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Blackstar-1-1024x576.jpg" alt="" class="wp-image-559" width="1000" title="" srcset="/wp-content/uploads/2020/09/Blackstar-1-1024x576.jpg 1024w, /wp-content/uploads/2020/09/Blackstar-1-600x338.jpg 600w, /wp-content/uploads/2020/09/Blackstar-1-300x169.jpg 300w, /wp-content/uploads/2020/09/Blackstar-1-768x432.jpg 768w, /wp-content/uploads/2020/09/Blackstar-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Blackstar, I am sorry and I love you.</figcaption></figure>
 
 
 
@@ -424,7 +424,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Boss-katana-1024x683.jpg" alt="" class="wp-image-554" width="1000" title=""><figcaption>Surprise! <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="945">Boss Katana MKII</a></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Boss-katana-1024x683.jpg" alt="" class="wp-image-554" width="1000" title=""><figcaption>Surprise! <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="945">Boss Katana MKII</a></figcaption></figure>
 
 
 
@@ -512,7 +512,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/ylb5fqupc2z01-1024x1024.jpg" alt="best practice amps for beginners" class="wp-image-1638" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/ylb5fqupc2z01-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/ylb5fqupc2z01-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/ylb5fqupc2z01-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/ylb5fqupc2z01-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/ylb5fqupc2z01-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/ylb5fqupc2z01-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/ylb5fqupc2z01.jpg 1458w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Amped&#8230;up?</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/ylb5fqupc2z01-1024x1024.jpg" alt="best practice amps for beginners" class="wp-image-1638" title="" srcset="/wp-content/uploads/2020/10/ylb5fqupc2z01-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/ylb5fqupc2z01-300x300.jpg 300w, /wp-content/uploads/2020/10/ylb5fqupc2z01-100x100.jpg 100w, /wp-content/uploads/2020/10/ylb5fqupc2z01-600x600.jpg 600w, /wp-content/uploads/2020/10/ylb5fqupc2z01-150x150.jpg 150w, /wp-content/uploads/2020/10/ylb5fqupc2z01-768x768.jpg 768w, /wp-content/uploads/2020/10/ylb5fqupc2z01.jpg 1458w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Amped&#8230;up?</figcaption></figure>
 
 
 
@@ -528,7 +528,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="846" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg" alt="" class="wp-image-1927" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-600x496.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-300x248.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-768x634.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>My Spark Amp –&nbsp;<a class="rank-math-link" href="https://www.electrikjam.com/recommends/spark-amp/" data-lasso-id="952">View Latest Prices Here</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="846" src="/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg" alt="" class="wp-image-1927" title="" srcset="/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg 1024w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-600x496.jpg 600w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-300x248.jpg 300w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-768x634.jpg 768w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>My Spark Amp –&nbsp;<a class="rank-math-link" href="https://www.electrikjam.com/recommends/spark-amp/" data-lasso-id="952">View Latest Prices Here</a></strong></figcaption></figure>
 
 
 

@@ -34,7 +34,7 @@ tagPaths:
   - "/tag/fender/"
   - "/tag/gibson/"
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/07/the-best-guitar.png"
+featuredImage: "/wp-content/uploads/2022/07/the-best-guitar.png"
 featuredImageAlt: "the best guitar"
 seo: 
   title: "The Best Guitars We Reviewed In 2022: The Definitive List..."
@@ -119,7 +119,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Gibson-Les-Paul-tribute.webp" alt="" class="wp-image-6071" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Gibson-Les-Paul-tribute.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Gibson-Les-Paul-tribute-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Gibson-Les-Paul-tribute-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Gibson-Les-Paul-tribute-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Gibson-Les-Paul-tribute-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Gibson-Les-Paul-tribute.webp" alt="" class="wp-image-6071" title="" srcset="/wp-content/uploads/2021/12/Gibson-Les-Paul-tribute.webp 720w, /wp-content/uploads/2021/12/Gibson-Les-Paul-tribute-300x300.webp 300w, /wp-content/uploads/2021/12/Gibson-Les-Paul-tribute-100x100.webp 100w, /wp-content/uploads/2021/12/Gibson-Les-Paul-tribute-600x600.webp 600w, /wp-content/uploads/2021/12/Gibson-Les-Paul-tribute-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster.jpg" alt="best guitars of 2021" class="wp-image-6055" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster.jpg" alt="best guitars of 2021" class="wp-image-6055" title="" srcset="/wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster.jpg 720w, /wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster-300x300.jpg 300w, /wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster-100x100.jpg 100w, /wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster-600x600.jpg 600w, /wp-content/uploads/2021/12/Squier-Contemporary-Jazzmaster-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Reverend-Contender.webp" alt="" class="wp-image-6066" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Reverend-Contender.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Reverend-Contender-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Reverend-Contender-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Reverend-Contender-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Reverend-Contender-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Reverend-Contender.webp" alt="" class="wp-image-6066" title="" srcset="/wp-content/uploads/2021/12/Reverend-Contender.webp 720w, /wp-content/uploads/2021/12/Reverend-Contender-300x300.webp 300w, /wp-content/uploads/2021/12/Reverend-Contender-100x100.webp 100w, /wp-content/uploads/2021/12/Reverend-Contender-600x600.webp 600w, /wp-content/uploads/2021/12/Reverend-Contender-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model.webp" alt="" class="wp-image-6057" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Sire-L7-model.webp" alt="" class="wp-image-6057" title="" srcset="/wp-content/uploads/2021/12/Sire-L7-model.webp 720w, /wp-content/uploads/2021/12/Sire-L7-model-300x300.webp 300w, /wp-content/uploads/2021/12/Sire-L7-model-100x100.webp 100w, /wp-content/uploads/2021/12/Sire-L7-model-600x600.webp 600w, /wp-content/uploads/2021/12/Sire-L7-model-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1024x328.png" alt="Schecter demon 7" class="wp-image-5844" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-demon-7-full-side.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1024x328.png" alt="Schecter demon 7" class="wp-image-5844" title="" srcset="/wp-content/uploads/2021/11/Schecter-demon-7-full-side-1024x328.png 1024w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-600x192.png 600w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-300x96.png 300w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-768x246.png 768w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-1536x492.png 1536w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side-1080x346.png 1080w, /wp-content/uploads/2021/11/Schecter-demon-7-full-side.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg" alt="harley benton fusion 3" class="wp-image-5768" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg" alt="harley benton fusion 3" class="wp-image-5768" title="" srcset="/wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1024x683.jpg 1024w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-600x400.jpg 600w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-300x200.jpg 300w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-768x512.jpg 768w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1536x1024.jpg 1536w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1-1080x720.jpg 1080w, /wp-content/uploads/2021/11/Harley-Benton-Fusion-III-Run3-1.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -347,7 +347,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg" alt="" class="wp-image-1233" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg" alt="" class="wp-image-1233" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -387,7 +387,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="470" height="750" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Sun-valley-SS-Schecter.jpg" alt="" class="wp-image-6035" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Sun-valley-SS-Schecter.jpg 470w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sun-valley-SS-Schecter-188x300.jpg 188w" sizes="(max-width: 470px) 100vw, 470px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="470" height="750" src="/wp-content/uploads/2021/12/Sun-valley-SS-Schecter.jpg" alt="" class="wp-image-6035" title="" srcset="/wp-content/uploads/2021/12/Sun-valley-SS-Schecter.jpg 470w, /wp-content/uploads/2021/12/Sun-valley-SS-Schecter-188x300.jpg 188w" sizes="(max-width: 470px) 100vw, 470px" /></figure>
 
 
 
@@ -427,7 +427,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/PRS-Custom-24.webp" alt="best guitars of 2021" class="wp-image-6060" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/PRS-Custom-24.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/PRS-Custom-24-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/PRS-Custom-24-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/PRS-Custom-24-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/PRS-Custom-24-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/PRS-Custom-24.webp" alt="best guitars of 2021" class="wp-image-6060" title="" srcset="/wp-content/uploads/2021/12/PRS-Custom-24.webp 720w, /wp-content/uploads/2021/12/PRS-Custom-24-300x300.webp 300w, /wp-content/uploads/2021/12/PRS-Custom-24-100x100.webp 100w, /wp-content/uploads/2021/12/PRS-Custom-24-600x600.webp 600w, /wp-content/uploads/2021/12/PRS-Custom-24-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -471,7 +471,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/ESP-Arctic-Metal.webp" alt="best guitars of 2021" class="wp-image-6062" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/ESP-Arctic-Metal.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/ESP-Arctic-Metal-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/ESP-Arctic-Metal-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/ESP-Arctic-Metal-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/ESP-Arctic-Metal-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/ESP-Arctic-Metal.webp" alt="best guitars of 2021" class="wp-image-6062" title="" srcset="/wp-content/uploads/2021/12/ESP-Arctic-Metal.webp 720w, /wp-content/uploads/2021/12/ESP-Arctic-Metal-300x300.webp 300w, /wp-content/uploads/2021/12/ESP-Arctic-Metal-100x100.webp 100w, /wp-content/uploads/2021/12/ESP-Arctic-Metal-600x600.webp 600w, /wp-content/uploads/2021/12/ESP-Arctic-Metal-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -511,7 +511,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly.jpg" alt="" class="wp-image-6068" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly.jpg" alt="" class="wp-image-6068" title="" srcset="/wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly.jpg 720w, /wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly-300x300.jpg 300w, /wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly-100x100.jpg 100w, /wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly-600x600.jpg 600w, /wp-content/uploads/2021/12/Jackson-Jeff-loomis-kelly-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -551,7 +551,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green.webp" alt="" class="wp-image-6064" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green.webp" alt="" class="wp-image-6064" title="" srcset="/wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green.webp 720w, /wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green-300x300.webp 300w, /wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green-100x100.webp 100w, /wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green-600x600.webp 600w, /wp-content/uploads/2021/12/Schecter-KM-7-Lambo-Green-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -599,7 +599,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Fender-player-HSS.webp" alt="" class="wp-image-6076" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Fender-player-HSS.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Fender-player-HSS-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Fender-player-HSS-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Fender-player-HSS-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Fender-player-HSS-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Fender-player-HSS.webp" alt="" class="wp-image-6076" title="" srcset="/wp-content/uploads/2021/12/Fender-player-HSS.webp 720w, /wp-content/uploads/2021/12/Fender-player-HSS-300x300.webp 300w, /wp-content/uploads/2021/12/Fender-player-HSS-100x100.webp 100w, /wp-content/uploads/2021/12/Fender-player-HSS-600x600.webp 600w, /wp-content/uploads/2021/12/Fender-player-HSS-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 

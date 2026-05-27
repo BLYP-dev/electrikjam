@@ -22,7 +22,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/schecter-lefty-guitars.jpg"
+featuredImage: "/wp-content/uploads/2022/02/schecter-lefty-guitars.jpg"
 featuredImageAlt: "best brands for lefties"
 seo: 
   title: "The Best Guitar Brands For Lefties 2022: Amazing Axes For All Of The Southpaws!"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg" alt="best brands for lefties" class="wp-image-6801" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--768x461.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1080x648.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain-.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Kurt With Custom Fender Mustang</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg" alt="best brands for lefties" class="wp-image-6801" title="" srcset="/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg 1024w, /wp-content/uploads/2022/02/Kurt-Cobain--600x360.jpg 600w, /wp-content/uploads/2022/02/Kurt-Cobain--300x180.jpg 300w, /wp-content/uploads/2022/02/Kurt-Cobain--768x461.jpg 768w, /wp-content/uploads/2022/02/Kurt-Cobain--1080x648.jpg 1080w, /wp-content/uploads/2022/02/Kurt-Cobain-.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Kurt With Custom Fender Mustang</strong></em></figcaption></figure>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="341" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Fender-KC-Jaguar-1024x341.jpg" alt="best guitar brands for lefties" class="wp-image-6802" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Fender-KC-Jaguar-1024x341.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Fender-KC-Jaguar-600x200.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Fender-KC-Jaguar-300x100.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Fender-KC-Jaguar-768x256.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Fender-KC-Jaguar-1536x512.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/02/Fender-KC-Jaguar-2048x683.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/02/Fender-KC-Jaguar-1080x360.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Kurt Cobain Jaguar Model.</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="341" src="/wp-content/uploads/2022/02/Fender-KC-Jaguar-1024x341.jpg" alt="best guitar brands for lefties" class="wp-image-6802" title="" srcset="/wp-content/uploads/2022/02/Fender-KC-Jaguar-1024x341.jpg 1024w, /wp-content/uploads/2022/02/Fender-KC-Jaguar-600x200.jpg 600w, /wp-content/uploads/2022/02/Fender-KC-Jaguar-300x100.jpg 300w, /wp-content/uploads/2022/02/Fender-KC-Jaguar-768x256.jpg 768w, /wp-content/uploads/2022/02/Fender-KC-Jaguar-1536x512.jpg 1536w, /wp-content/uploads/2022/02/Fender-KC-Jaguar-2048x683.jpg 2048w, /wp-content/uploads/2022/02/Fender-KC-Jaguar-1080x360.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Kurt Cobain Jaguar Model.</em></strong></figcaption></figure>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Jag-stang-design.jpg" alt="" class="wp-image-6816" width="840" height="610" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Jag-stang-design.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Jag-stang-design-600x436.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Jag-stang-design-300x218.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Jag-stang-design-768x558.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><strong>Kurt&#8217;s Original Drawing For Fender</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/02/Kurt-Jag-stang-design.jpg" alt="" class="wp-image-6816" width="840" height="610" title="" srcset="/wp-content/uploads/2022/02/Kurt-Jag-stang-design.jpg 1024w, /wp-content/uploads/2022/02/Kurt-Jag-stang-design-600x436.jpg 600w, /wp-content/uploads/2022/02/Kurt-Jag-stang-design-300x218.jpg 300w, /wp-content/uploads/2022/02/Kurt-Jag-stang-design-768x558.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><strong>Kurt&#8217;s Original Drawing For Fender</strong></em></figcaption></figure>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/02/xtreme-lefty-guitars-custom-esp.jpg" alt="" class="wp-image-6805" width="769" height="586" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/xtreme-lefty-guitars-custom-esp.jpg 650w, https://www.electrikjam.com/wp-content/uploads/2022/02/xtreme-lefty-guitars-custom-esp-600x457.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/xtreme-lefty-guitars-custom-esp-300x228.jpg 300w" sizes="(max-width: 769px) 100vw, 769px" /><figcaption>Lefty Friendly!</figcaption></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2022/02/xtreme-lefty-guitars-custom-esp.jpg" alt="" class="wp-image-6805" width="769" height="586" title="" srcset="/wp-content/uploads/2022/02/xtreme-lefty-guitars-custom-esp.jpg 650w, /wp-content/uploads/2022/02/xtreme-lefty-guitars-custom-esp-600x457.jpg 600w, /wp-content/uploads/2022/02/xtreme-lefty-guitars-custom-esp-300x228.jpg 300w" sizes="(max-width: 769px) 100vw, 769px" /><figcaption>Lefty Friendly!</figcaption></figure></div>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/02/schecter-lefty-guitars.jpg" alt="" class="wp-image-6807" width="839" height="634" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/schecter-lefty-guitars.jpg 670w, https://www.electrikjam.com/wp-content/uploads/2022/02/schecter-lefty-guitars-600x453.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/schecter-lefty-guitars-300x227.jpg 300w" sizes="(max-width: 839px) 100vw, 839px" /><figcaption><em>Photo Credit: <a href="https://leftyfretz.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="70399"><strong>Leftyfretz</strong></a></em></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/02/schecter-lefty-guitars.jpg" alt="" class="wp-image-6807" width="839" height="634" title="" srcset="/wp-content/uploads/2022/02/schecter-lefty-guitars.jpg 670w, /wp-content/uploads/2022/02/schecter-lefty-guitars-600x453.jpg 600w, /wp-content/uploads/2022/02/schecter-lefty-guitars-300x227.jpg 300w" sizes="(max-width: 839px) 100vw, 839px" /><figcaption><em>Photo Credit: <a href="https://leftyfretz.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="70399"><strong>Leftyfretz</strong></a></em></figcaption></figure>
 			
 		
 

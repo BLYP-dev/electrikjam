@@ -22,7 +22,7 @@ tagSlugs:
   - "logic-pro"
 tagPaths: 
   - "/tag/logic-pro/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/Logic-Pro-101.png"
+featuredImage: "/wp-content/uploads/2024/04/Logic-Pro-101.png"
 featuredImageAlt: "Logic-Pro-101"
 seo: 
   title: "Logic Pro 101: What You Need To Know in 2024"
@@ -138,7 +138,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-2-1024x683.png" alt="" class="wp-image-13143" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Humble Beginnings of Logic</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Logic-Pro-2-1024x683.png" alt="" class="wp-image-13143" title="" srcset="/wp-content/uploads/2023/10/Logic-Pro-2-1024x683.png 1024w, /wp-content/uploads/2023/10/Logic-Pro-2-600x400.png 600w, /wp-content/uploads/2023/10/Logic-Pro-2-300x200.png 300w, /wp-content/uploads/2023/10/Logic-Pro-2-768x512.png 768w, /wp-content/uploads/2023/10/Logic-Pro-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The Humble Beginnings of Logic</strong></figcaption></figure>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-3-1024x683.png" alt="Logic pro" class="wp-image-13144" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Logic-Pro-3-1024x683.png" alt="Logic pro" class="wp-image-13144" title="" srcset="/wp-content/uploads/2023/10/Logic-Pro-3-1024x683.png 1024w, /wp-content/uploads/2023/10/Logic-Pro-3-600x400.png 600w, /wp-content/uploads/2023/10/Logic-Pro-3-300x200.png 300w, /wp-content/uploads/2023/10/Logic-Pro-3-768x512.png 768w, /wp-content/uploads/2023/10/Logic-Pro-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -386,7 +386,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Spatial-1024x683.png" alt="Logic Pro Dolby" class="wp-image-13146" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Spatial-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Spatial-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Spatial-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Spatial-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-Pro-Spatial.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Mixing in Dolby Atmos with Logic </strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Logic-Pro-Spatial-1024x683.png" alt="Logic Pro Dolby" class="wp-image-13146" title="" srcset="/wp-content/uploads/2023/10/Logic-Pro-Spatial-1024x683.png 1024w, /wp-content/uploads/2023/10/Logic-Pro-Spatial-600x400.png 600w, /wp-content/uploads/2023/10/Logic-Pro-Spatial-300x200.png 300w, /wp-content/uploads/2023/10/Logic-Pro-Spatial-768x512.png 768w, /wp-content/uploads/2023/10/Logic-Pro-Spatial.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Mixing in Dolby Atmos with Logic </strong></figcaption></figure>
 
 
 
@@ -458,7 +458,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-pro-studio-1024x683.png" alt="Logic Pro" class="wp-image-13160" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-pro-studio-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-pro-studio-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-pro-studio-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-pro-studio-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Logic-pro-studio.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Logic-pro-studio-1024x683.png" alt="Logic Pro" class="wp-image-13160" title="" srcset="/wp-content/uploads/2023/10/Logic-pro-studio-1024x683.png 1024w, /wp-content/uploads/2023/10/Logic-pro-studio-600x400.png 600w, /wp-content/uploads/2023/10/Logic-pro-studio-300x200.png 300w, /wp-content/uploads/2023/10/Logic-pro-studio-768x512.png 768w, /wp-content/uploads/2023/10/Logic-pro-studio.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

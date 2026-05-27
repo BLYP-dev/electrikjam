@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/04/Solid-State-Bass-Preamp.jpg"
+featuredImage: "/wp-content/uploads/2021/04/Solid-State-Bass-Preamp.jpg"
 featuredImageAlt: "Solid-State-Bass-Preamp"
 seo: 
   title: "The Best Amp Simulators in 2021: Going Completely Virtual!"
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1019" height="596" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native.jpg" alt="amp simulators" class="wp-image-2688" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native.jpg 1019w, https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native-600x351.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native-300x175.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native-768x449.jpg 768w" sizes="(max-width: 1019px) 100vw, 1019px" /><figcaption>Line 6 interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1019" height="596" src="/wp-content/uploads/2021/04/Line-6-helix-native.jpg" alt="amp simulators" class="wp-image-2688" title="" srcset="/wp-content/uploads/2021/04/Line-6-helix-native.jpg 1019w, /wp-content/uploads/2021/04/Line-6-helix-native-600x351.jpg 600w, /wp-content/uploads/2021/04/Line-6-helix-native-300x175.jpg 300w, /wp-content/uploads/2021/04/Line-6-helix-native-768x449.jpg 768w" sizes="(max-width: 1019px) 100vw, 1019px" /><figcaption>Line 6 interface</figcaption></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="629" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-1024x629.jpg" alt="" class="wp-image-2689" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-1024x629.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-600x369.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-300x184.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-768x472.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-1536x944.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-1080x663.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Amplitube Interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="629" src="/wp-content/uploads/2021/04/Amplitube-1024x629.jpg" alt="" class="wp-image-2689" title="" srcset="/wp-content/uploads/2021/04/Amplitube-1024x629.jpg 1024w, /wp-content/uploads/2021/04/Amplitube-600x369.jpg 600w, /wp-content/uploads/2021/04/Amplitube-300x184.jpg 300w, /wp-content/uploads/2021/04/Amplitube-768x472.jpg 768w, /wp-content/uploads/2021/04/Amplitube-1536x944.jpg 1536w, /wp-content/uploads/2021/04/Amplitube-1080x663.jpg 1080w, /wp-content/uploads/2021/04/Amplitube.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Amplitube Interface</figcaption></figure>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="629" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-recorder-1024x629.jpg" alt="" class="wp-image-2692" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-recorder-1024x629.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-recorder-600x369.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-recorder-300x184.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-recorder-768x472.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-recorder-1536x944.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-recorder-1080x663.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Amplitube-recorder.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Amplitube&#8217;s easy 8 track recorder interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="629" src="/wp-content/uploads/2021/04/Amplitube-recorder-1024x629.jpg" alt="" class="wp-image-2692" title="" srcset="/wp-content/uploads/2021/04/Amplitube-recorder-1024x629.jpg 1024w, /wp-content/uploads/2021/04/Amplitube-recorder-600x369.jpg 600w, /wp-content/uploads/2021/04/Amplitube-recorder-300x184.jpg 300w, /wp-content/uploads/2021/04/Amplitube-recorder-768x472.jpg 768w, /wp-content/uploads/2021/04/Amplitube-recorder-1536x944.jpg 1536w, /wp-content/uploads/2021/04/Amplitube-recorder-1080x663.jpg 1080w, /wp-content/uploads/2021/04/Amplitube-recorder.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Amplitube&#8217;s easy 8 track recorder interface</figcaption></figure>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="578" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Neural-dsp-1024x578.png" alt="" class="wp-image-2693" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Neural-dsp-1024x578.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Neural-dsp-600x339.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Neural-dsp-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Neural-dsp-768x434.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Neural-dsp-1536x867.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/Neural-dsp-2048x1156.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/04/Neural-dsp-1080x610.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="578" src="/wp-content/uploads/2021/04/Neural-dsp-1024x578.png" alt="" class="wp-image-2693" title="" srcset="/wp-content/uploads/2021/04/Neural-dsp-1024x578.png 1024w, /wp-content/uploads/2021/04/Neural-dsp-600x339.png 600w, /wp-content/uploads/2021/04/Neural-dsp-300x169.png 300w, /wp-content/uploads/2021/04/Neural-dsp-768x434.png 768w, /wp-content/uploads/2021/04/Neural-dsp-1536x867.png 1536w, /wp-content/uploads/2021/04/Neural-dsp-2048x1156.png 2048w, /wp-content/uploads/2021/04/Neural-dsp-1080x610.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="578" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Abasi-2480x1400px-1024x578.png" alt="" class="wp-image-2694" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Abasi-2480x1400px-1024x578.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Abasi-2480x1400px-600x339.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Abasi-2480x1400px-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Abasi-2480x1400px-768x434.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Abasi-2480x1400px-1536x867.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/Abasi-2480x1400px-2048x1156.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/04/Abasi-2480x1400px-1080x610.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Abasi profile interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="578" src="/wp-content/uploads/2021/04/Abasi-2480x1400px-1024x578.png" alt="" class="wp-image-2694" title="" srcset="/wp-content/uploads/2021/04/Abasi-2480x1400px-1024x578.png 1024w, /wp-content/uploads/2021/04/Abasi-2480x1400px-600x339.png 600w, /wp-content/uploads/2021/04/Abasi-2480x1400px-300x169.png 300w, /wp-content/uploads/2021/04/Abasi-2480x1400px-768x434.png 768w, /wp-content/uploads/2021/04/Abasi-2480x1400px-1536x867.png 1536w, /wp-content/uploads/2021/04/Abasi-2480x1400px-2048x1156.png 2048w, /wp-content/uploads/2021/04/Abasi-2480x1400px-1080x610.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Abasi profile interface</figcaption></figure>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="624" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Bias-FX2-1024x624.png" alt="" class="wp-image-2695" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Bias-FX2-1024x624.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Bias-FX2-600x365.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Bias-FX2-300x183.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Bias-FX2-768x468.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Bias-FX2-1080x658.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Bias-FX2.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="624" src="/wp-content/uploads/2021/04/Bias-FX2-1024x624.png" alt="" class="wp-image-2695" title="" srcset="/wp-content/uploads/2021/04/Bias-FX2-1024x624.png 1024w, /wp-content/uploads/2021/04/Bias-FX2-600x365.png 600w, /wp-content/uploads/2021/04/Bias-FX2-300x183.png 300w, /wp-content/uploads/2021/04/Bias-FX2-768x468.png 768w, /wp-content/uploads/2021/04/Bias-FX2-1080x658.png 1080w, /wp-content/uploads/2021/04/Bias-FX2.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1024x576.jpg" alt="" class="wp-image-2696" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-match-Bias-FX.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bias FX Guitar Match</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1024x576.jpg" alt="" class="wp-image-2696" title="" srcset="/wp-content/uploads/2021/04/Guitar-match-Bias-FX-1024x576.jpg 1024w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX-600x338.jpg 600w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX-300x169.jpg 300w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX-768x432.jpg 768w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX-1080x608.jpg 1080w, /wp-content/uploads/2021/04/Guitar-match-Bias-FX.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bias FX Guitar Match</figcaption></figure>
 
 
 

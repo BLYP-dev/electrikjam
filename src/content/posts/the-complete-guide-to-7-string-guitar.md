@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023.png"
+featuredImage: "/wp-content/uploads/2023/10/7-String-Guitars-The-Ultimate-Beginners-Guide-2023.png"
 featuredImageAlt: "7-String-Guitars-The-Ultimate-Beginners-Guide-2023"
 seo: 
   title: "7 String Guitars: The Ultimate Beginner's Guide [2023]"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="918" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-918x1024.jpg" alt="" class="wp-image-13024" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-918x1024.jpg 918w, https://www.electrikjam.com/wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-600x669.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-269x300.jpg 269w, https://www.electrikjam.com/wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-768x856.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8.jpg 940w" sizes="(max-width: 918px) 100vw, 918px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="918" height="1024" src="/wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-918x1024.jpg" alt="" class="wp-image-13024" title="" srcset="/wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-918x1024.jpg 918w, /wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-600x669.jpg 600w, /wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-269x300.jpg 269w, /wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8-768x856.jpg 768w, /wp-content/uploads/2023/10/4b12903cc195d17dc7945c51dba119c8.jpg 940w" sizes="(max-width: 918px) 100vw, 918px" /></figure>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="578" src="https://www.electrikjam.com/wp-content/uploads/2023/10/steve-via-7-string-guitar-1024x578.jpg" alt="" class="wp-image-13025" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/steve-via-7-string-guitar-1024x578.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/steve-via-7-string-guitar-600x339.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/steve-via-7-string-guitar-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/steve-via-7-string-guitar-768x433.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/steve-via-7-string-guitar.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="578" src="/wp-content/uploads/2023/10/steve-via-7-string-guitar-1024x578.jpg" alt="" class="wp-image-13025" title="" srcset="/wp-content/uploads/2023/10/steve-via-7-string-guitar-1024x578.jpg 1024w, /wp-content/uploads/2023/10/steve-via-7-string-guitar-600x339.jpg 600w, /wp-content/uploads/2023/10/steve-via-7-string-guitar-300x169.jpg 300w, /wp-content/uploads/2023/10/steve-via-7-string-guitar-768x433.jpg 768w, /wp-content/uploads/2023/10/steve-via-7-string-guitar.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-1024x683.png" alt="" class="wp-image-13035" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-1024x683.png" alt="" class="wp-image-13035" title="" srcset="/wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-1024x683.png 1024w, /wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-600x400.png 600w, /wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-300x200.png 300w, /wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK-768x512.png 768w, /wp-content/uploads/2023/10/Ibanez-Steve-Vai-Universe-UV777BK.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -265,7 +265,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-1024x683.png" alt="Schecter Rob Scallon 7 string" class="wp-image-8127" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-1024x683.png" alt="Schecter Rob Scallon 7 string" class="wp-image-8127" title="" srcset="/wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-1024x683.png 1024w, /wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-600x400.png 600w, /wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-300x200.png 300w, /wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string-768x512.png 768w, /wp-content/uploads/2022/05/Scecter-Rob-Scallon-7-string.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -293,7 +293,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-1024x683.png" alt="" class="wp-image-13026" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/7-string-standard-tuning.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/7-string-standard-tuning-1024x683.png" alt="" class="wp-image-13026" title="" srcset="/wp-content/uploads/2023/10/7-string-standard-tuning-1024x683.png 1024w, /wp-content/uploads/2023/10/7-string-standard-tuning-600x400.png 600w, /wp-content/uploads/2023/10/7-string-standard-tuning-300x200.png 300w, /wp-content/uploads/2023/10/7-string-standard-tuning-768x512.png 768w, /wp-content/uploads/2023/10/7-string-standard-tuning.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -393,7 +393,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="251842"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png" alt="Schecter Sunset Triad" class="wp-image-12621" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-type="post" data-id="12617" data-lasso-id="251843">The Schecter Sunset Triad</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="251842"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png" alt="Schecter Sunset Triad" class="wp-image-12621" title="" srcset="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png 1024w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-600x400.png 600w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-300x200.png 300w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-768x512.png 768w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-type="post" data-id="12617" data-lasso-id="251843">The Schecter Sunset Triad</a></strong></figcaption></figure>
 
 
 
@@ -433,7 +433,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="https://www.electrikjam.com/wp-content/uploads/2021/07/should-you-buy-a-7-string-guitar-1024x585.webp" alt="should you buy a 7-string guitar" class="wp-image-13033" title=""></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="/wp-content/uploads/2021/07/should-you-buy-a-7-string-guitar-1024x585.webp" alt="should you buy a 7-string guitar" class="wp-image-13033" title=""></figure>
 
 
 

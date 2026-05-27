@@ -47,7 +47,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-1024x683.png" alt="Squier Contemporary Telecaster review" class="wp-image-14183" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-1024x683.png" alt="Squier Contemporary Telecaster review" class="wp-image-14183" title="" srcset="/wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-1024x683.png 1024w, /wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-600x400.png 600w, /wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-300x200.png 300w, /wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review-768x512.png 768w, /wp-content/uploads/2024/02/Squier-Contemporary-Telecaster-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" title="" srcset="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -416,7 +416,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp" alt="Best Seymour Duncan Pickups For Metal" class="wp-image-4646" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-600x500.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-300x250.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-768x640.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1080x900.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp" alt="Best Seymour Duncan Pickups For Metal" class="wp-image-4646" style="border-radius:20px" title="" srcset="/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp 1024w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-600x500.webp 600w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-300x250.webp 300w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-768x640.webp 768w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1080x900.webp 1080w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -510,7 +510,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-1024x683.png" alt="Fender Japan Hybrid Series II" class="wp-image-15526" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>P90 Pickups On The Right, Humbucker + Single On The Left</strong></figcaption></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-1024x683.png" alt="Fender Japan Hybrid Series II" class="wp-image-15526" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-1024x683.png 1024w, /wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-600x400.png 600w, /wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-300x200.png 300w, /wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II-768x512.png 768w, /wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>P90 Pickups On The Right, Humbucker + Single On The Left</strong></figcaption></figure>
 
 
 
@@ -542,7 +542,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-1024x683.png" alt="History of The Dreadnought Acoustic Guitar" class="wp-image-13813" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-1024x683.png" alt="History of The Dreadnought Acoustic Guitar" class="wp-image-13813" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-1024x683.png 1024w, /wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-600x400.png 600w, /wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-300x200.png 300w, /wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar-768x512.png 768w, /wp-content/uploads/2024/01/History-of-The-Dreadnought-Acoustic-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -806,7 +806,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png" alt="What guitar tuning did Jimi Hendrix use" class="wp-image-7580" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png" alt="What guitar tuning did Jimi Hendrix use" class="wp-image-7580" style="border-radius:20px" title="" srcset="/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png 1024w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-600x400.png 600w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-300x200.png 300w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-768x512.png 768w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -826,7 +826,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" style="border-radius:20px" title="" srcset="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -846,7 +846,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png" alt="What Guitar Does Tony Iommi Use" class="wp-image-13319" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png" alt="What Guitar Does Tony Iommi Use" class="wp-image-13319" style="border-radius:20px" title="" srcset="/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png 1024w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-600x400.png 600w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-300x200.png 300w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-768x512.png 768w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -866,7 +866,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-1024x683.png" alt="How do I pick a guitar scale to play?" class="wp-image-12321" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Slash-Playing-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Slash-Playing-guitar-1024x683.png" alt="How do I pick a guitar scale to play?" class="wp-image-12321" style="border-radius:20px" title="" srcset="/wp-content/uploads/2023/07/Slash-Playing-guitar-1024x683.png 1024w, /wp-content/uploads/2023/07/Slash-Playing-guitar-600x400.png 600w, /wp-content/uploads/2023/07/Slash-Playing-guitar-300x200.png 300w, /wp-content/uploads/2023/07/Slash-Playing-guitar-768x512.png 768w, /wp-content/uploads/2023/07/Slash-Playing-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -882,7 +882,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png" alt="Jimmy Page’s Favourite Guitar" class="wp-image-3322" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png" alt="Jimmy Page’s Favourite Guitar" class="wp-image-3322" style="border-radius:20px" title="" srcset="/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png 1024w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-600x500.png 600w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-300x250.png 300w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-768x640.png 768w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1080x900.png 1080w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -902,7 +902,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="614" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg" alt="best brands for lefties" class="wp-image-6801" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--768x461.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain--1080x648.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Kurt-Cobain-.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="614" src="/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg" alt="best brands for lefties" class="wp-image-6801" style="border-radius:20px" title="" srcset="/wp-content/uploads/2022/02/Kurt-Cobain--1024x614.jpg 1024w, /wp-content/uploads/2022/02/Kurt-Cobain--600x360.jpg 600w, /wp-content/uploads/2022/02/Kurt-Cobain--300x180.jpg 300w, /wp-content/uploads/2022/02/Kurt-Cobain--768x461.jpg 768w, /wp-content/uploads/2022/02/Kurt-Cobain--1080x648.jpg 1080w, /wp-content/uploads/2022/02/Kurt-Cobain-.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

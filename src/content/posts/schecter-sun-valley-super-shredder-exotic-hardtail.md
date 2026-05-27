@@ -22,7 +22,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-PICKUPS.jpg"
+featuredImage: "/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-PICKUPS.jpg"
 featuredImageAlt: "SVSS EXOTIC HARDTAIL BLACK LIMBA 1269 PICKUPS"
 seo: 
   title: "Schecter Sun Valley Super Shredder Exotic Hardtail: New And Awesome For 2021!"
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-1024x683.jpg" alt="Sun Valley Super Shredder Exotic Hardtail" class="wp-image-4842" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>The New Sun Valley Super Shredder Exotic Hardtail </strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-1024x683.jpg" alt="Sun Valley Super Shredder Exotic Hardtail" class="wp-image-4842" title="" srcset="/wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-1024x683.jpg 1024w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-600x400.jpg 600w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-300x200.jpg 300w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-768x512.jpg 768w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-1536x1024.jpg 1536w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-2048x1365.jpg 2048w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HT-ZIRICOTE-127O-MF-TILT-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>The New Sun Valley Super Shredder Exotic Hardtail </strong></em></figcaption></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-1024x683.jpg" alt="" class="wp-image-4843" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Black Limba Wood Schecter Sun Valley Super Shredder Exotic Hardtail</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-1024x683.jpg" alt="" class="wp-image-4843" title="" srcset="/wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-1024x683.jpg 1024w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-600x400.jpg 600w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-300x200.jpg 300w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-768x512.jpg 768w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-1536x1024.jpg 1536w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-2048x1365.jpg 2048w, /wp-content/uploads/2021/10/SVSS-EXOTIC-HARDTAIL-BLACK-LIMBA-1269-BODY-LAYING-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Black Limba Wood Schecter Sun Valley Super Shredder Exotic Hardtail</strong></em></figcaption></figure>
 
 
 

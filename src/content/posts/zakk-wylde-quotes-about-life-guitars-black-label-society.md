@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/08/Zakk-Wylde.png"
+featuredImage: "/wp-content/uploads/2021/08/Zakk-Wylde.png"
 featuredImageAlt: "Zakk Wylde"
 seo: 
   title: "%title% %sep% %Zakk Wylde Quotes About Life, Guitars & Black Label Society"
@@ -89,7 +89,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/08/Zakk-Wylde-1024x853.png" alt="Zakk Wylde" class="wp-image-3538" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/08/Zakk-Wylde-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/08/Zakk-Wylde-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/08/Zakk-Wylde-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/08/Zakk-Wylde-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/08/Zakk-Wylde-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/08/Zakk-Wylde.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/08/Zakk-Wylde-1024x853.png" alt="Zakk Wylde" class="wp-image-3538" title="" srcset="/wp-content/uploads/2021/08/Zakk-Wylde-1024x853.png 1024w, /wp-content/uploads/2021/08/Zakk-Wylde-600x500.png 600w, /wp-content/uploads/2021/08/Zakk-Wylde-300x250.png 300w, /wp-content/uploads/2021/08/Zakk-Wylde-768x640.png 768w, /wp-content/uploads/2021/08/Zakk-Wylde-1080x900.png 1080w, /wp-content/uploads/2021/08/Zakk-Wylde.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/line-6/"
   - "/tag/line-6-catalyst/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/100-Watt.png"
+featuredImage: "/wp-content/uploads/2022/02/100-Watt.png"
 featuredImageAlt: "Line 6 100 catalyst"
 seo: 
   title: "Line 6 Catalyst 100 Review: A Giant Attempt To Catch Up With The Katana?"
@@ -106,7 +106,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-Catalyst-100.jpg" alt="Line 6 Catalyst 100" class="wp-image-6926" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-Catalyst-100.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-Catalyst-100-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-Catalyst-100-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-Catalyst-100-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-Catalyst-100-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong>The New Line 6 Catalyst 100 Amp</strong></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/02/Line-6-Catalyst-100.jpg" alt="Line 6 Catalyst 100" class="wp-image-6926" title="" srcset="/wp-content/uploads/2022/02/Line-6-Catalyst-100.jpg 720w, /wp-content/uploads/2022/02/Line-6-Catalyst-100-300x300.jpg 300w, /wp-content/uploads/2022/02/Line-6-Catalyst-100-100x100.jpg 100w, /wp-content/uploads/2022/02/Line-6-Catalyst-100-600x600.jpg 600w, /wp-content/uploads/2022/02/Line-6-Catalyst-100-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong>The New Line 6 Catalyst 100 Amp</strong></figcaption></figure>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Catalyst-rear.webp" alt="" class="wp-image-6927" width="839" height="232" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Catalyst-rear.webp 717w, https://www.electrikjam.com/wp-content/uploads/2022/02/Catalyst-rear-600x166.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Catalyst-rear-300x83.webp 300w" sizes="(max-width: 839px) 100vw, 839px" /><figcaption><strong>Line 6 Catalyst 100 Rear Panel</strong></figcaption></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2022/02/Catalyst-rear.webp" alt="" class="wp-image-6927" width="839" height="232" title="" srcset="/wp-content/uploads/2022/02/Catalyst-rear.webp 717w, /wp-content/uploads/2022/02/Catalyst-rear-600x166.webp 600w, /wp-content/uploads/2022/02/Catalyst-rear-300x83.webp 300w" sizes="(max-width: 839px) 100vw, 839px" /><figcaption><strong>Line 6 Catalyst 100 Rear Panel</strong></figcaption></figure></div>
 
 
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-catalyst-top.webp" alt="" class="wp-image-6928" width="835" height="237" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-catalyst-top.webp 704w, https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-catalyst-top-600x170.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Line-6-catalyst-top-300x85.webp 300w" sizes="(max-width: 835px) 100vw, 835px" /></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2022/02/Line-6-catalyst-top.webp" alt="" class="wp-image-6928" width="835" height="237" title="" srcset="/wp-content/uploads/2022/02/Line-6-catalyst-top.webp 704w, /wp-content/uploads/2022/02/Line-6-catalyst-top-600x170.webp 600w, /wp-content/uploads/2022/02/Line-6-catalyst-top-300x85.webp 300w" sizes="(max-width: 835px) 100vw, 835px" /></figure></div>
 
 
 
@@ -238,7 +238,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="495" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Lin6-Catalyst-edit-1024x495.png" alt="" class="wp-image-6929" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Lin6-Catalyst-edit-1024x495.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Lin6-Catalyst-edit-600x290.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Lin6-Catalyst-edit-300x145.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Lin6-Catalyst-edit-768x371.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Lin6-Catalyst-edit-1536x742.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/02/Lin6-Catalyst-edit-1080x522.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Lin6-Catalyst-edit.png 1683w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Line 6 Catalyst 100 Editor: Windows</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="495" src="/wp-content/uploads/2022/02/Lin6-Catalyst-edit-1024x495.png" alt="" class="wp-image-6929" title="" srcset="/wp-content/uploads/2022/02/Lin6-Catalyst-edit-1024x495.png 1024w, /wp-content/uploads/2022/02/Lin6-Catalyst-edit-600x290.png 600w, /wp-content/uploads/2022/02/Lin6-Catalyst-edit-300x145.png 300w, /wp-content/uploads/2022/02/Lin6-Catalyst-edit-768x371.png 768w, /wp-content/uploads/2022/02/Lin6-Catalyst-edit-1536x742.png 1536w, /wp-content/uploads/2022/02/Lin6-Catalyst-edit-1080x522.png 1080w, /wp-content/uploads/2022/02/Lin6-Catalyst-edit.png 1683w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Line 6 Catalyst 100 Editor: Windows</strong></figcaption></figure>
 
 
 

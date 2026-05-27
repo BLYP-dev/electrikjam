@@ -22,7 +22,7 @@ tagSlugs:
   - "fl-studio"
 tagPaths: 
   - "/tag/fl-studio/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/FL-Studio-101.png"
+featuredImage: "/wp-content/uploads/2024/04/FL-Studio-101.png"
 featuredImageAlt: "FL Studio 101"
 seo: 
   title: "FL Studio 101: Everything You Need To Know In 2024"
@@ -138,7 +138,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-2-1024x683.png" alt="FL Studio " class="wp-image-12878" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/FL-Studio-2-1024x683.png" alt="FL Studio " class="wp-image-12878" title="" srcset="/wp-content/uploads/2023/09/FL-Studio-2-1024x683.png 1024w, /wp-content/uploads/2023/09/FL-Studio-2-600x400.png 600w, /wp-content/uploads/2023/09/FL-Studio-2-300x200.png 300w, /wp-content/uploads/2023/09/FL-Studio-2-768x512.png 768w, /wp-content/uploads/2023/09/FL-Studio-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -214,7 +214,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2024/04/fl-studio-channel-rack-1024x576.png" alt="" class="wp-image-14622" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/fl-studio-channel-rack-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/fl-studio-channel-rack-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/fl-studio-channel-rack-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/fl-studio-channel-rack-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/fl-studio-channel-rack.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/04/fl-studio-channel-rack-1024x576.png" alt="" class="wp-image-14622" title="" srcset="/wp-content/uploads/2024/04/fl-studio-channel-rack-1024x576.png 1024w, /wp-content/uploads/2024/04/fl-studio-channel-rack-600x338.png 600w, /wp-content/uploads/2024/04/fl-studio-channel-rack-300x169.png 300w, /wp-content/uploads/2024/04/fl-studio-channel-rack-768x432.png 768w, /wp-content/uploads/2024/04/fl-studio-channel-rack.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -286,7 +286,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="570" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo.webp" alt="" class="wp-image-14623" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo.webp 1000w, https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo-600x342.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo-300x171.webp 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo-768x438.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="570" src="/wp-content/uploads/2024/04/Dolby-Atmos-logo.webp" alt="" class="wp-image-14623" title="" srcset="/wp-content/uploads/2024/04/Dolby-Atmos-logo.webp 1000w, /wp-content/uploads/2024/04/Dolby-Atmos-logo-600x342.webp 600w, /wp-content/uploads/2024/04/Dolby-Atmos-logo-300x171.webp 300w, /wp-content/uploads/2024/04/Dolby-Atmos-logo-768x438.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -314,7 +314,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="564" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Harmor-FL-Studio-1024x564.png" alt="FL Studio " class="wp-image-12879" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Harmor-FL-Studio-1024x564.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Harmor-FL-Studio-600x330.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Harmor-FL-Studio-300x165.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Harmor-FL-Studio-768x423.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Harmor-FL-Studio-1536x845.png 1536w, https://www.electrikjam.com/wp-content/uploads/2023/09/Harmor-FL-Studio.png 1857w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="564" src="/wp-content/uploads/2023/09/Harmor-FL-Studio-1024x564.png" alt="FL Studio " class="wp-image-12879" title="" srcset="/wp-content/uploads/2023/09/Harmor-FL-Studio-1024x564.png 1024w, /wp-content/uploads/2023/09/Harmor-FL-Studio-600x330.png 600w, /wp-content/uploads/2023/09/Harmor-FL-Studio-300x165.png 300w, /wp-content/uploads/2023/09/Harmor-FL-Studio-768x423.png 768w, /wp-content/uploads/2023/09/Harmor-FL-Studio-1536x845.png 1536w, /wp-content/uploads/2023/09/Harmor-FL-Studio.png 1857w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -342,7 +342,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-1-1024x576.jpg" alt="" class="wp-image-14621" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-1-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-1-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-1-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-1-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/04/maxresdefault-1-1024x576.jpg" alt="" class="wp-image-14621" title="" srcset="/wp-content/uploads/2024/04/maxresdefault-1-1024x576.jpg 1024w, /wp-content/uploads/2024/04/maxresdefault-1-600x338.jpg 600w, /wp-content/uploads/2024/04/maxresdefault-1-300x169.jpg 300w, /wp-content/uploads/2024/04/maxresdefault-1-768x432.jpg 768w, /wp-content/uploads/2024/04/maxresdefault-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -398,7 +398,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-1024x576.jpg" alt="" class="wp-image-14620" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/04/maxresdefault-1024x576.jpg" alt="" class="wp-image-14620" title="" srcset="/wp-content/uploads/2024/04/maxresdefault-1024x576.jpg 1024w, /wp-content/uploads/2024/04/maxresdefault-600x338.jpg 600w, /wp-content/uploads/2024/04/maxresdefault-300x169.jpg 300w, /wp-content/uploads/2024/04/maxresdefault-768x432.jpg 768w, /wp-content/uploads/2024/04/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -454,7 +454,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="393" src="https://www.electrikjam.com/wp-content/uploads/2023/09/channelrack_main-1024x393.png" alt="FL Studio" class="wp-image-12886" style="width:840px;height:322px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/channelrack_main-1024x393.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/channelrack_main-600x230.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/channelrack_main-300x115.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/channelrack_main-768x295.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/channelrack_main.png 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="393" src="/wp-content/uploads/2023/09/channelrack_main-1024x393.png" alt="FL Studio" class="wp-image-12886" style="width:840px;height:322px" title="" srcset="/wp-content/uploads/2023/09/channelrack_main-1024x393.png 1024w, /wp-content/uploads/2023/09/channelrack_main-600x230.png 600w, /wp-content/uploads/2023/09/channelrack_main-300x115.png 300w, /wp-content/uploads/2023/09/channelrack_main-768x295.png 768w, /wp-content/uploads/2023/09/channelrack_main.png 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -534,7 +534,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-Avicii-1024x683.png" alt="FL Studio Avicii" class="wp-image-12887" style="width:840px;height:560px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-Avicii-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-Avicii-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-Avicii-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-Avicii-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/FL-Studio-Avicii.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Avicii</strong> <strong>used FL samples to create some of his most inspired tracks, and used the DAW on stage.</strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/FL-Studio-Avicii-1024x683.png" alt="FL Studio Avicii" class="wp-image-12887" style="width:840px;height:560px" title="" srcset="/wp-content/uploads/2023/09/FL-Studio-Avicii-1024x683.png 1024w, /wp-content/uploads/2023/09/FL-Studio-Avicii-600x400.png 600w, /wp-content/uploads/2023/09/FL-Studio-Avicii-300x200.png 300w, /wp-content/uploads/2023/09/FL-Studio-Avicii-768x512.png 768w, /wp-content/uploads/2023/09/FL-Studio-Avicii.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Avicii</strong> <strong>used FL samples to create some of his most inspired tracks, and used the DAW on stage.</strong></figcaption></figure>
 
 
 

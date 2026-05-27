@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-19.png"
+featuredImage: "/wp-content/uploads/2022/03/Untitled-design-19.png"
 featuredImageAlt: "Boss gx 100"
 seo: 
   title: "BOSS GX 100 Review: The Amazingly Affordable All In One!"
@@ -77,7 +77,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-20-1024x683.png" alt="boss gx 100" class="wp-image-7327" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-20-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-20-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-20-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-20-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-20.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The BOSS GX 100 Top View</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-20-1024x683.png" alt="boss gx 100" class="wp-image-7327" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-20-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-20-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-20-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-20-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-20.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The BOSS GX 100 Top View</strong></figcaption></figure>
 			
 		
 
@@ -131,7 +131,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Boss-GX-100-2-1024x683.png" alt="Boss Gx 100" class="wp-image-7330" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Boss-GX-100-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Boss-GX-100-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Boss-GX-100-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Boss-GX-100-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Boss-GX-100-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>BOSS GX 100: Rear View</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Boss-GX-100-2-1024x683.png" alt="Boss Gx 100" class="wp-image-7330" title="" srcset="/wp-content/uploads/2022/03/Boss-GX-100-2-1024x683.png 1024w, /wp-content/uploads/2022/03/Boss-GX-100-2-600x400.png 600w, /wp-content/uploads/2022/03/Boss-GX-100-2-300x200.png 300w, /wp-content/uploads/2022/03/Boss-GX-100-2-768x512.png 768w, /wp-content/uploads/2022/03/Boss-GX-100-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>BOSS GX 100: Rear View</strong></figcaption></figure>
 			
 		
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/Tom-DeLonges-New-Customized-Fender-Starcaster.png"
+featuredImage: "/wp-content/uploads/2023/10/Tom-DeLonges-New-Customized-Fender-Starcaster.png"
 featuredImageAlt: "Tom DeLonge’s New Customized Fender Starcaster"
 seo: 
   title: "Here’s Tom DeLonge’s New Customized Fender Starcaster…"
@@ -47,7 +47,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="960" height="817" src="https://www.electrikjam.com/wp-content/uploads/2023/10/psodm9pnt26b1.webp" alt="Fender Starcaster" class="wp-image-13161" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/psodm9pnt26b1.webp 960w, https://www.electrikjam.com/wp-content/uploads/2023/10/psodm9pnt26b1-600x511.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/psodm9pnt26b1-300x255.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/psodm9pnt26b1-768x654.webp 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="960" height="817" src="/wp-content/uploads/2023/10/psodm9pnt26b1.webp" alt="Fender Starcaster" class="wp-image-13161" title="" srcset="/wp-content/uploads/2023/10/psodm9pnt26b1.webp 960w, /wp-content/uploads/2023/10/psodm9pnt26b1-600x511.webp 600w, /wp-content/uploads/2023/10/psodm9pnt26b1-300x255.webp 300w, /wp-content/uploads/2023/10/psodm9pnt26b1-768x654.webp 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 

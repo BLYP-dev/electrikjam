@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/boss-katana/"
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-katana-50-watt-vs-100-watt.png"
+featuredImage: "/wp-content/uploads/2022/06/Boss-katana-50-watt-vs-100-watt.png"
 featuredImageAlt: "Boss katana 50 watt vs 100 watt"
 seo: 
   title: "BOSS Katana 50 Watt Vs 100 Watt: What's The Difference?"
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-1024x683.png" alt="BOSS katana 50 watt vs 100 watt" class="wp-image-8357" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-1024x683.png" alt="BOSS katana 50 watt vs 100 watt" class="wp-image-8357" title="" srcset="/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-1024x683.png 1024w, /wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-600x400.png 600w, /wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-300x200.png 300w, /wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view-768x512.png 768w, /wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-top-view.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-1024x683.png" alt="BOSS katana 50 watt vs 100 watt" class="wp-image-8358" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-1024x683.png" alt="BOSS katana 50 watt vs 100 watt" class="wp-image-8358" title="" srcset="/wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-1024x683.png 1024w, /wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-600x400.png 600w, /wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-300x200.png 300w, /wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control-768x512.png 768w, /wp-content/uploads/2022/06/BOSS-katana-50-watt-vs-100-watt-wattage-control.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-1024x683.png" alt="Boss Katana 50 watt Vs 100 watt " class="wp-image-8359" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-1024x683.png" alt="Boss Katana 50 watt Vs 100 watt " class="wp-image-8359" title="" srcset="/wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-1024x683.png 1024w, /wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-600x400.png 600w, /wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-300x200.png 300w, /wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand-768x512.png 768w, /wp-content/uploads/2022/06/Boss-Katana-50-watt-Vs-100-watt-Stereo-expand.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -198,7 +198,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-1024x683.png" alt="Boss Katana 50 watt VS 100 watt" class="wp-image-8360" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Boss-katana-FX-loop-importance.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-1024x683.png" alt="Boss Katana 50 watt VS 100 watt" class="wp-image-8360" title="" srcset="/wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-1024x683.png 1024w, /wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-600x400.png 600w, /wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-300x200.png 300w, /wp-content/uploads/2022/06/Boss-katana-FX-loop-importance-768x512.png 768w, /wp-content/uploads/2022/06/Boss-katana-FX-loop-importance.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

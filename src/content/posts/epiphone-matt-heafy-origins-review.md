@@ -31,7 +31,7 @@ tagPaths:
   - "/tag/budget-guitars/"
   - "/tag/epiphone/"
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins.png"
+featuredImage: "/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins.png"
 featuredImageAlt: "Epiphone Matt Heafy origins"
 seo: 
   title: "Epiphone Matt Heafy Origins Review: Incredible 6 And 7 String BEASTS!"
@@ -145,7 +145,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-1024x683.png" alt="Epiphone Matt Heafy Origins" class="wp-image-8325" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-1024x683.png" alt="Epiphone Matt Heafy Origins" class="wp-image-8325" title="" srcset="/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-1024x683.png 1024w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-600x400.png 600w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-300x200.png 300w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual-768x512.png 768w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-Dual.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-1024x683.png" alt="Epiphone Matt Heafy Origins White" class="wp-image-8327" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-1024x683.png" alt="Epiphone Matt Heafy Origins White" class="wp-image-8327" title="" srcset="/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-1024x683.png 1024w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-600x400.png 600w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-300x200.png 300w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White-768x512.png 768w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-origins-White.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -315,7 +315,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-1024x683.png" alt="Epiphone Matt Heafy Origins" class="wp-image-8328" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-1024x683.png" alt="Epiphone Matt Heafy Origins" class="wp-image-8328" title="" srcset="/wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-1024x683.png 1024w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-600x400.png 600w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-300x200.png 300w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH-768x512.png 768w, /wp-content/uploads/2022/06/Epiphone-Matt-Heafy-Origins-WH.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -389,7 +389,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-1024x683.png" alt="Epiphone Matt Heafy origins" class="wp-image-8324" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-1024x683.png" alt="Epiphone Matt Heafy origins" class="wp-image-8324" title="" srcset="/wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-1024x683.png 1024w, /wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-600x400.png 600w, /wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-300x200.png 300w, /wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins-768x512.png 768w, /wp-content/uploads/2022/06/Epiphone-Matt-heafy-Origins.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/fender-hss-2.jpg"
+featuredImage: "/wp-content/uploads/2021/11/fender-hss-2.jpg"
 featuredImageAlt: "fender hss 2"
 seo: 
   title: "5 Incredible DO IT ALL Guitar Options For Every Budget"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Fender-HSS-1024x576.jpg" alt="do it all guitar" class="wp-image-5432" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Fender-HSS-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Fender-HSS-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Fender-HSS-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Fender-HSS-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Fender-HSS-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Fender-HSS.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A Fender HSS Special</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/11/Fender-HSS-1024x576.jpg" alt="do it all guitar" class="wp-image-5432" title="" srcset="/wp-content/uploads/2021/11/Fender-HSS-1024x576.jpg 1024w, /wp-content/uploads/2021/11/Fender-HSS-600x338.jpg 600w, /wp-content/uploads/2021/11/Fender-HSS-300x169.jpg 300w, /wp-content/uploads/2021/11/Fender-HSS-768x432.jpg 768w, /wp-content/uploads/2021/11/Fender-HSS-1080x608.jpg 1080w, /wp-content/uploads/2021/11/Fender-HSS.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A Fender HSS Special</figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/PRS-s2-standrad.png" alt="" class="wp-image-5440" width="840" height="448" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/PRS-s2-standrad.png 512w, https://www.electrikjam.com/wp-content/uploads/2021/11/PRS-s2-standrad-300x160.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/PRS-s2-standrad-510x273.png 510w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption>PRS S2 Standard</figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/PRS-s2-standrad.png" alt="" class="wp-image-5440" width="840" height="448" title="" srcset="/wp-content/uploads/2021/11/PRS-s2-standrad.png 512w, /wp-content/uploads/2021/11/PRS-s2-standrad-300x160.png 300w, /wp-content/uploads/2021/11/PRS-s2-standrad-510x273.png 510w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption>PRS S2 Standard</figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24-1024x1024.jpg" alt="" class="wp-image-5443" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Charvel-Dk24.jpg 1215w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Charvel Dk24</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/11/Charvel-Dk24-1024x1024.jpg" alt="" class="wp-image-5443" title="" srcset="/wp-content/uploads/2021/11/Charvel-Dk24-1024x1024.jpg 1024w, /wp-content/uploads/2021/11/Charvel-Dk24-300x300.jpg 300w, /wp-content/uploads/2021/11/Charvel-Dk24-100x100.jpg 100w, /wp-content/uploads/2021/11/Charvel-Dk24-600x600.jpg 600w, /wp-content/uploads/2021/11/Charvel-Dk24-150x150.jpg 150w, /wp-content/uploads/2021/11/Charvel-Dk24-768x768.jpg 768w, /wp-content/uploads/2021/11/Charvel-Dk24-1080x1080.jpg 1080w, /wp-content/uploads/2021/11/Charvel-Dk24.jpg 1215w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Charvel Dk24</figcaption></figure>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-1024x328.png" alt="" class="wp-image-5446" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter NJ HSS</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-1024x328.png" alt="" class="wp-image-5446" title="" srcset="/wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-1024x328.png 1024w, /wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-600x192.png 600w, /wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-300x96.png 300w, /wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-768x246.png 768w, /wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-1536x492.png 1536w, /wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT-1080x346.png 1080w, /wp-content/uploads/2021/11/NICK-JOHNSTON-TRAD-HSS-ATOMIC-INK-1546-TILT.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Schecter NJ HSS</figcaption></figure>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="800" height="266" src="https://www.electrikjam.com/wp-content/uploads/2021/11/pacifica-23.jpg" alt="" class="wp-image-5451" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/pacifica-23.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/11/pacifica-23-600x200.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/pacifica-23-300x100.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/pacifica-23-768x255.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Yamaha Pacifica</figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="800" height="266" src="/wp-content/uploads/2021/11/pacifica-23.jpg" alt="" class="wp-image-5451" title="" srcset="/wp-content/uploads/2021/11/pacifica-23.jpg 800w, /wp-content/uploads/2021/11/pacifica-23-600x200.jpg 600w, /wp-content/uploads/2021/11/pacifica-23-300x100.jpg 300w, /wp-content/uploads/2021/11/pacifica-23-768x255.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Yamaha Pacifica</figcaption></figure>
 
 
 

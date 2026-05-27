@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Setup-7-EASY-Steps.png"
+featuredImage: "/wp-content/uploads/2022/09/Floyd-Rose-Setup-7-EASY-Steps.png"
 featuredImageAlt: "Floyd Rose Bridge Setup"
 seo: 
   title: "Floyd Rose Bridge Setup: 7 EASY Steps To Dive Bombing For Beginners!"
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-1024x683.png" alt="Floyd rose bridge setup" class="wp-image-9119" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-1024x683.png" alt="Floyd rose bridge setup" class="wp-image-9119" title="" srcset="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-1024x683.png 1024w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-600x400.png 600w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-300x200.png 300w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools-768x512.png 768w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-tools.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-1024x683.png" alt="Floyd rose bridge setup" class="wp-image-9126" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Two ways to block: My preferred on the left</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-1024x683.png" alt="Floyd rose bridge setup" class="wp-image-9126" title="" srcset="/wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-1024x683.png 1024w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-600x400.png 600w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-300x200.png 300w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking-768x512.png 768w, /wp-content/uploads/2022/09/Floyd-Rose-Bridge-setup-blocking.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Two ways to block: My preferred on the left</strong></figcaption></figure>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Google-examples-1024x683.png" alt="Floyd Rose bridge setup" class="wp-image-9127" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Google-examples-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Google-examples-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Google-examples-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Google-examples-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Google-examples.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Choose what is easy for you!</strong> <a href="https://www.google.com/search?q=floyd+rose+blocking&amp;hl=en&amp;authuser=0&amp;tbm=isch&amp;sxsrf=ALiCzsZHzTNqWpI11oGUOZ3fYLDxnWK5LQ%3A1663425853267&amp;source=hp&amp;biw=1920&amp;bih=880&amp;ei=Pd0lY8n7CbHfkPIPgLmPuAU&amp;iflsig=AJiK0e8AAAAAYyXrTTqG_1WJeL56rkT758_v8BIfCNui&amp;ved=0ahUKEwiJjtqYiJz6AhWxL0QIHYDcA1cQ4dUDCAc&amp;uact=5&amp;oq=floyd+rose+blocking&amp;gs_lcp=CgNpbWcQAzIFCAAQgAQyBAgAEBg6BwgjEOoCECc6BAgjECc6CAgAEIAEELEDOgsIABCABBCxAxCDAToGCAAQHhAFOgYIABAeEAg6BAgAEB5QtAtY4ixg9C9oAXAAeACAAViIAYQKkgECMTmYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCg&amp;sclient=img#imgrc=FvnQnI_5HudWeM" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="168240">Google Images</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Google-examples-1024x683.png" alt="Floyd Rose bridge setup" class="wp-image-9127" title="" srcset="/wp-content/uploads/2022/09/Google-examples-1024x683.png 1024w, /wp-content/uploads/2022/09/Google-examples-600x400.png 600w, /wp-content/uploads/2022/09/Google-examples-300x200.png 300w, /wp-content/uploads/2022/09/Google-examples-768x512.png 768w, /wp-content/uploads/2022/09/Google-examples.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Choose what is easy for you!</strong> <a href="https://www.google.com/search?q=floyd+rose+blocking&amp;hl=en&amp;authuser=0&amp;tbm=isch&amp;sxsrf=ALiCzsZHzTNqWpI11oGUOZ3fYLDxnWK5LQ%3A1663425853267&amp;source=hp&amp;biw=1920&amp;bih=880&amp;ei=Pd0lY8n7CbHfkPIPgLmPuAU&amp;iflsig=AJiK0e8AAAAAYyXrTTqG_1WJeL56rkT758_v8BIfCNui&amp;ved=0ahUKEwiJjtqYiJz6AhWxL0QIHYDcA1cQ4dUDCAc&amp;uact=5&amp;oq=floyd+rose+blocking&amp;gs_lcp=CgNpbWcQAzIFCAAQgAQyBAgAEBg6BwgjEOoCECc6BAgjECc6CAgAEIAEELEDOgsIABCABBCxAxCDAToGCAAQHhAFOgYIABAeEAg6BAgAEB5QtAtY4ixg9C9oAXAAeACAAViIAYQKkgECMTmYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCg&amp;sclient=img#imgrc=FvnQnI_5HudWeM" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="168240">Google Images</a></figcaption></figure>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Unlock-The-Nut-1024x683.png" alt="Floyd Rose Bridge Setup" class="wp-image-9128" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Unlock-The-Nut-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Unlock-The-Nut-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Unlock-The-Nut-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Unlock-The-Nut-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Unlock-The-Nut.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Unlock-The-Nut-1024x683.png" alt="Floyd Rose Bridge Setup" class="wp-image-9128" title="" srcset="/wp-content/uploads/2022/09/Unlock-The-Nut-1024x683.png 1024w, /wp-content/uploads/2022/09/Unlock-The-Nut-600x400.png 600w, /wp-content/uploads/2022/09/Unlock-The-Nut-300x200.png 300w, /wp-content/uploads/2022/09/Unlock-The-Nut-768x512.png 768w, /wp-content/uploads/2022/09/Unlock-The-Nut.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-1024x683.png" alt="floyd rose bridge setup" class="wp-image-9129" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-Rose-bridge-setup.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-1024x683.png" alt="floyd rose bridge setup" class="wp-image-9129" title="" srcset="/wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-1024x683.png 1024w, /wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-600x400.png 600w, /wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-300x200.png 300w, /wp-content/uploads/2022/09/Floyd-Rose-bridge-setup-768x512.png 768w, /wp-content/uploads/2022/09/Floyd-Rose-bridge-setup.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-768x1024.jpg" alt="Floyd rose bridge setup" class="wp-image-9130" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption><strong>Adjusting the Action</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-768x1024.jpg" alt="Floyd rose bridge setup" class="wp-image-9130" title="" srcset="/wp-content/uploads/2022/09/Floyd-rose-bridge-setup-768x1024.jpg 768w, /wp-content/uploads/2022/09/Floyd-rose-bridge-setup-scaled-600x800.jpg 600w, /wp-content/uploads/2022/09/Floyd-rose-bridge-setup-225x300.jpg 225w, /wp-content/uploads/2022/09/Floyd-rose-bridge-setup-1152x1536.jpg 1152w, /wp-content/uploads/2022/09/Floyd-rose-bridge-setup-1536x2048.jpg 1536w, /wp-content/uploads/2022/09/Floyd-rose-bridge-setup-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption><strong>Adjusting the Action</strong></figcaption></figure>
 
 
 

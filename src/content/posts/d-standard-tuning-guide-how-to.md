@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning.png"
+featuredImage: "/wp-content/uploads/2021/09/D-Standard-Tuning.png"
 featuredImageAlt: "D Standard Tuning"
 seo: 
   title: "What is D Standard Tuning? Tutorial & Tips For New Players"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning.png" alt="D Standard Tuning" class="wp-image-3693" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/D-Standard-Tuning-768x512.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/09/D-Standard-Tuning.png" alt="D Standard Tuning" class="wp-image-3693" title="" srcset="/wp-content/uploads/2021/09/D-Standard-Tuning.png 1024w, /wp-content/uploads/2021/09/D-Standard-Tuning-600x400.png 600w, /wp-content/uploads/2021/09/D-Standard-Tuning-300x200.png 300w, /wp-content/uploads/2021/09/D-Standard-Tuning-768x512.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

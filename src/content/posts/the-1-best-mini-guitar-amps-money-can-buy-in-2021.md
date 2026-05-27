@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp.jpg"
+featuredImage: "/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp.jpg"
 featuredImageAlt: "blackstar-fly-3-neon-pink-mini-amp"
 seo: 
   title: "The #1 Best Mini Guitar Amps Money Can Buy in 2021!"
@@ -52,7 +52,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="https://www.electrikjam.com/wp-content/uploads/2021/07/Mini-Guitar-Amp-1024x682.jpg" alt="best mini guitar amps" class="wp-image-3447" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/Mini-Guitar-Amp-1024x682.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/07/Mini-Guitar-Amp-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/Mini-Guitar-Amp-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/Mini-Guitar-Amp-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/07/Mini-Guitar-Amp-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/07/Mini-Guitar-Amp.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>An Original 60&#8217;s Pignose</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/wp-content/uploads/2021/07/Mini-Guitar-Amp-1024x682.jpg" alt="best mini guitar amps" class="wp-image-3447" title="" srcset="/wp-content/uploads/2021/07/Mini-Guitar-Amp-1024x682.jpg 1024w, /wp-content/uploads/2021/07/Mini-Guitar-Amp-600x400.jpg 600w, /wp-content/uploads/2021/07/Mini-Guitar-Amp-300x200.jpg 300w, /wp-content/uploads/2021/07/Mini-Guitar-Amp-768x512.jpg 768w, /wp-content/uploads/2021/07/Mini-Guitar-Amp-1080x720.jpg 1080w, /wp-content/uploads/2021/07/Mini-Guitar-Amp.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>An Original 60&#8217;s Pignose</strong></em></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="826" src="https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-1024x826.jpg" alt="" class="wp-image-3448" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-1024x826.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-600x484.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-300x242.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-768x620.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-1536x1239.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-1080x871.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Blackstar FLY Mini Amp</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="826" src="/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-1024x826.jpg" alt="" class="wp-image-3448" title="" srcset="/wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-1024x826.jpg 1024w, /wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-600x484.jpg 600w, /wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-300x242.jpg 300w, /wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-768x620.jpg 768w, /wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-1536x1239.jpg 1536w, /wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp-1080x871.jpg 1080w, /wp-content/uploads/2021/07/blackstar-fly-3-neon-pink-mini-amp.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Blackstar FLY Mini Amp</em></figcaption></figure>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/07/Katana.jpg" alt="" class="wp-image-3451" width="840" height="504" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/Katana.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/Katana-300x180.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155690"><strong>BOSS Katana</a> MINI</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/07/Katana.jpg" alt="" class="wp-image-3451" width="840" height="504" title="" srcset="/wp-content/uploads/2021/07/Katana.jpg 600w, /wp-content/uploads/2021/07/Katana-300x180.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155690"><strong>BOSS Katana</a> MINI</strong></em></figcaption></figure>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="800" height="800" src="https://www.electrikjam.com/wp-content/uploads/2021/07/yamaha-thr.jpg" alt="" class="wp-image-3452" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/yamaha-thr.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/07/yamaha-thr-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/yamaha-thr-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/07/yamaha-thr-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/yamaha-thr-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/07/yamaha-thr-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Yamaha THR</figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="800" height="800" src="/wp-content/uploads/2021/07/yamaha-thr.jpg" alt="" class="wp-image-3452" title="" srcset="/wp-content/uploads/2021/07/yamaha-thr.jpg 800w, /wp-content/uploads/2021/07/yamaha-thr-300x300.jpg 300w, /wp-content/uploads/2021/07/yamaha-thr-100x100.jpg 100w, /wp-content/uploads/2021/07/yamaha-thr-600x600.jpg 600w, /wp-content/uploads/2021/07/yamaha-thr-150x150.jpg 150w, /wp-content/uploads/2021/07/yamaha-thr-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Yamaha THR</figcaption></figure>
 			
 		
 

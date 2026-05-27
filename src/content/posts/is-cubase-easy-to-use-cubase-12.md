@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/Is-Cubase-easy-to-Use-cover.png"
+featuredImage: "/wp-content/uploads/2023/07/Is-Cubase-easy-to-Use-cover.png"
 featuredImageAlt: "Is Cubase easy to Use"
 seo: 
   title: "Is Cubase Easy to Use? Unraveling the User-Friendly Realm of Cubase 12"
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-UI-example-1-1024x683.png" alt="Is Cubase easy to use?" class="wp-image-12331" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-UI-example-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-UI-example-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-UI-example-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-UI-example-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-UI-example-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Cubase-UI-example-1-1024x683.png" alt="Is Cubase easy to use?" class="wp-image-12331" title="" srcset="/wp-content/uploads/2023/07/Cubase-UI-example-1-1024x683.png 1024w, /wp-content/uploads/2023/07/Cubase-UI-example-1-600x400.png 600w, /wp-content/uploads/2023/07/Cubase-UI-example-1-300x200.png 300w, /wp-content/uploads/2023/07/Cubase-UI-example-1-768x512.png 768w, /wp-content/uploads/2023/07/Cubase-UI-example-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Groove-agent-1024x683.png" alt="Is Cubase easy to Use?" class="wp-image-12332" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Groove-agent-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Groove-agent-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Groove-agent-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Groove-agent-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Groove-agent.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Built-In VST Groove Agent MIDI Drum Program: Professional quality options, sounds, and samples.</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Cubase-Groove-agent-1024x683.png" alt="Is Cubase easy to Use?" class="wp-image-12332" title="" srcset="/wp-content/uploads/2023/07/Cubase-Groove-agent-1024x683.png 1024w, /wp-content/uploads/2023/07/Cubase-Groove-agent-600x400.png 600w, /wp-content/uploads/2023/07/Cubase-Groove-agent-300x200.png 300w, /wp-content/uploads/2023/07/Cubase-Groove-agent-768x512.png 768w, /wp-content/uploads/2023/07/Cubase-Groove-agent.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Built-In VST Groove Agent MIDI Drum Program: Professional quality options, sounds, and samples.</strong></figcaption></figure>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Mastering-with-Cubase-1024x683.png" alt="Is Cubase easy to Use" class="wp-image-12333" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Mastering-with-Cubase-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Mastering-with-Cubase-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Mastering-with-Cubase-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Mastering-with-Cubase-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Mastering-with-Cubase.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Mastering-with-Cubase-1024x683.png" alt="Is Cubase easy to Use" class="wp-image-12333" title="" srcset="/wp-content/uploads/2023/07/Mastering-with-Cubase-1024x683.png 1024w, /wp-content/uploads/2023/07/Mastering-with-Cubase-600x400.png 600w, /wp-content/uploads/2023/07/Mastering-with-Cubase-300x200.png 300w, /wp-content/uploads/2023/07/Mastering-with-Cubase-768x512.png 768w, /wp-content/uploads/2023/07/Mastering-with-Cubase.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

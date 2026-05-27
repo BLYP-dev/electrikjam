@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/08/Metallica-Songs.png"
+featuredImage: "/wp-content/uploads/2021/08/Metallica-Songs.png"
 featuredImageAlt: "Metallica Songs"
 seo: 
   title: "Metallica Songs: A Complete List Inc. Covers & Rarities..."

@@ -25,7 +25,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-16.png"
+featuredImage: "/wp-content/uploads/2022/03/Untitled-design-16.png"
 featuredImageAlt: "Yamaha Revstar Element"
 seo: 
   title: "Yamaha Revstar Element Review: Incredible New Models For 2022!"
@@ -87,7 +87,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-17-1024x683.png" alt="Yamaha Revstar Element" class="wp-image-7238" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-17-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-17-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-17-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-17-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-17.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The New Yamaha Revstar Element Colors</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-17-1024x683.png" alt="Yamaha Revstar Element" class="wp-image-7238" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-17-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-17-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-17-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-17-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-17.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The New Yamaha Revstar Element Colors</strong></figcaption></figure>
 			
 		
 
@@ -141,7 +141,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="704" src="https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-1024x704.webp" alt="Yamaha Revstar Element" class="wp-image-7246" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-1024x704.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-600x413.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-300x206.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-768x528.webp 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58.webp 1192w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Yamaha Revstar Element Chambered Body</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="704" src="/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-1024x704.webp" alt="Yamaha Revstar Element" class="wp-image-7246" title="" srcset="/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-1024x704.webp 1024w, /wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-600x413.webp 600w, /wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-300x206.webp 300w, /wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-768x528.webp 768w, /wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58.webp 1192w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Yamaha Revstar Element Chambered Body</strong></figcaption></figure>
 			
 		
 

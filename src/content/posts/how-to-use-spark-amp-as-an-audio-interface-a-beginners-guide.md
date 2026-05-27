@@ -22,7 +22,7 @@ tagSlugs:
   - "spark-amp"
 tagPaths: 
   - "/tag/spark-amp/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface.png"
+featuredImage: "/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface.png"
 featuredImageAlt: "How to Use Spark Amp as an Audio Interface"
 seo: 
   title: "How to Use Spark Amp as an Audio Interface: A Beginner's Guide"
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-1024x683.png" alt="How to Use Spark Amp as an Audio Interface" class="wp-image-11923" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-1024x683.png" alt="How to Use Spark Amp as an Audio Interface" class="wp-image-11923" title="" srcset="/wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-1024x683.png 1024w, /wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-600x400.png 600w, /wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-300x200.png 300w, /wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface-768x512.png 768w, /wp-content/uploads/2023/05/How-to-Use-Spark-Amp-as-an-Audio-Interface.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

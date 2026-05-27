@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins.jpg"
+featuredImage: "/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins.jpg"
 featuredImageAlt: "MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins"
 seo: 
   title: "What Is The Best Quality Epiphone Les Paul? The 2021 Guide To Budget Beasts!"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg" alt="Epiphone Les Paul Prophecy" class="wp-image-3898" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption><em><strong>Epiphone Les Paul Prophecy</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg" alt="Epiphone Les Paul Prophecy" class="wp-image-3898" title="" srcset="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg 600w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-300x300.jpg 300w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-100x100.jpg 100w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption><em><strong>Epiphone Les Paul Prophecy</strong></em></figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-1024x576.jpg" alt="what is the best quality epiphone les paul" class="wp-image-4808" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-1080x607.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube.jpg 1890w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Matt Shows Off His New Epiphone on YouTube.</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-1024x576.jpg" alt="what is the best quality epiphone les paul" class="wp-image-4808" title="" srcset="/wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-1024x576.jpg 1024w, /wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-600x337.jpg 600w, /wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-300x169.jpg 300w, /wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-768x432.jpg 768w, /wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-1536x864.jpg 1536w, /wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube-1080x607.jpg 1080w, /wp-content/uploads/2021/10/Matt-Hefy-Les-paul-Reveal-Youtube.jpg 1890w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Matt Shows Off His New Epiphone on YouTube.</em></strong></figcaption></figure>
 
 
 

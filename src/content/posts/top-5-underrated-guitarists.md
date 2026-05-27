@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Underrated-Guitarists.png"
+featuredImage: "/wp-content/uploads/2023/04/Underrated-Guitarists.png"
 featuredImageAlt: "Underrated Guitarists"
 seo: 
   title: "The Top 5 Underrated Guitarists: Modern Players That WE Think You Should Check Out!"
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-1024x683.png" alt="Underrated Guitarists" class="wp-image-11657" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-1024x683.png" alt="Underrated Guitarists" class="wp-image-11657" title="" srcset="/wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-1024x683.png 1024w, /wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-600x400.png 600w, /wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-300x200.png 300w, /wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists-768x512.png 768w, /wp-content/uploads/2023/04/Gus-Sinaro-Underrated-Guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -230,7 +230,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-1024x683.png" alt="Underrated Guitarists" class="wp-image-11659" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-1024x683.png" alt="Underrated Guitarists" class="wp-image-11659" title="" srcset="/wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-1024x683.png 1024w, /wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-600x400.png 600w, /wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-300x200.png 300w, /wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists-768x512.png 768w, /wp-content/uploads/2023/04/Samantha-Fish-Underrated-Guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -262,7 +262,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-1024x683.png" alt="Underrated Guitarists" class="wp-image-11660" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-1024x683.png" alt="Underrated Guitarists" class="wp-image-11660" title="" srcset="/wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-1024x683.png 1024w, /wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-600x400.png 600w, /wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-300x200.png 300w, /wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists-768x512.png 768w, /wp-content/uploads/2023/04/Nick-Johnston-Underrated-Guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -318,7 +318,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-1024x683.png" alt="Underrated Guitarists" class="wp-image-11661" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-1024x683.png" alt="Underrated Guitarists" class="wp-image-11661" title="" srcset="/wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-1024x683.png 1024w, /wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-600x400.png 600w, /wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-300x200.png 300w, /wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists-768x512.png 768w, /wp-content/uploads/2023/04/Nili-Brosh-Underrated-Guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -380,7 +380,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-1024x683.png" alt="Underrated Guitarists" class="wp-image-11665" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-1024x683.png" alt="Underrated Guitarists" class="wp-image-11665" title="" srcset="/wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-1024x683.png 1024w, /wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-600x400.png 600w, /wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-300x200.png 300w, /wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits-768x512.png 768w, /wp-content/uploads/2023/04/Angel-Vivaldi-Underrated-Guitarits.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

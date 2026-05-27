@@ -22,7 +22,7 @@ tagSlugs:
   - "fender-meteora"
 tagPaths: 
   - "/tag/fender-meteora/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1-1.png"
+featuredImage: "/wp-content/uploads/2022/03/Untitled-design-1-1.png"
 featuredImageAlt: "Fender Meteora"
 seo: 
   title: "How to Set Up Fender Meteora: Pro Tips & Tricks"
@@ -58,7 +58,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1024x683.png" alt="Fender Meteora" class="wp-image-7511" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-1024x683.png" alt="Fender Meteora" class="wp-image-7511" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

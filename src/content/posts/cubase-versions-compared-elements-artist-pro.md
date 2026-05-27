@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/04/Elements-Artist-or-Pro-Cubase-14-N00b-Buyers-Guide-2025.jpg"
+featuredImage: "/wp-content/uploads/2025/04/Elements-Artist-or-Pro-Cubase-14-N00b-Buyers-Guide-2025.jpg"
 featuredImageAlt: "Elements, Artist or Pro Cubase 14 N00b Buyer's Guide 2025"
 seo: 
   title: "Elements, Artist or Pro: Cubase 14 N00b Buyer's Guide 2025"

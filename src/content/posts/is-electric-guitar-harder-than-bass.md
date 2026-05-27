@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/Guitar-harder-than-bass.png"
+featuredImage: "/wp-content/uploads/2023/01/Guitar-harder-than-bass.png"
 featuredImageAlt: "is electric guitar harder than bass to play?"
 seo: 
   title: "Is Electric Guitar Harder Than Bass To Play? The Answer May Shock You!"
@@ -81,7 +81,7 @@ seo:
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-30 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" data-id="10502" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Guitar-harder-than-bass-1024x683.png" alt="is electric guitar harder than bass to play?" class="wp-image-10502" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Guitar-harder-than-bass-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Guitar-harder-than-bass-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Guitar-harder-than-bass-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Guitar-harder-than-bass-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Guitar-harder-than-bass.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" data-id="10502" src="/wp-content/uploads/2023/01/Guitar-harder-than-bass-1024x683.png" alt="is electric guitar harder than bass to play?" class="wp-image-10502" title="" srcset="/wp-content/uploads/2023/01/Guitar-harder-than-bass-1024x683.png 1024w, /wp-content/uploads/2023/01/Guitar-harder-than-bass-600x400.png 600w, /wp-content/uploads/2023/01/Guitar-harder-than-bass-300x200.png 300w, /wp-content/uploads/2023/01/Guitar-harder-than-bass-768x512.png 768w, /wp-content/uploads/2023/01/Guitar-harder-than-bass.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="285" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Bass-Guitar-1024x285.jpg" alt="is electric guitar harder than bass?" class="wp-image-10505" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Bass-Guitar-1024x285.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Bass-Guitar-600x167.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Bass-Guitar-300x83.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Bass-Guitar-768x213.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Bass-Guitar-1536x427.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Bass-Guitar-2048x569.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="285" src="/wp-content/uploads/2023/01/Fender-Bass-Guitar-1024x285.jpg" alt="is electric guitar harder than bass?" class="wp-image-10505" title="" srcset="/wp-content/uploads/2023/01/Fender-Bass-Guitar-1024x285.jpg 1024w, /wp-content/uploads/2023/01/Fender-Bass-Guitar-600x167.jpg 600w, /wp-content/uploads/2023/01/Fender-Bass-Guitar-300x83.jpg 300w, /wp-content/uploads/2023/01/Fender-Bass-Guitar-768x213.jpg 768w, /wp-content/uploads/2023/01/Fender-Bass-Guitar-1536x427.jpg 1536w, /wp-content/uploads/2023/01/Fender-Bass-Guitar-2048x569.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

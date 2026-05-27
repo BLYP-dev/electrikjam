@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-e1635173075126.jpg"
+featuredImage: "/wp-content/uploads/2021/10/87747_EveryTimeIDie-e1635173075126.jpg"
 featuredImageAlt: "every time i die radical review"
 seo: 
   title: "Every Time I Die “Radical” Album Review: The Boys Are Back With BRUTALITY!"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="873" height="675" src="https://www.electrikjam.com/wp-content/uploads/2021/10/ETID.jpg" alt="Every time i die" class="wp-image-5200" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/ETID.jpg 873w, https://www.electrikjam.com/wp-content/uploads/2021/10/ETID-600x464.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/ETID-300x232.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/ETID-768x594.jpg 768w" sizes="(max-width: 873px) 100vw, 873px" /><figcaption><em><strong>Some Radical Dudes</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="873" height="675" src="/wp-content/uploads/2021/10/ETID.jpg" alt="Every time i die" class="wp-image-5200" title="" srcset="/wp-content/uploads/2021/10/ETID.jpg 873w, /wp-content/uploads/2021/10/ETID-600x464.jpg 600w, /wp-content/uploads/2021/10/ETID-300x232.jpg 300w, /wp-content/uploads/2021/10/ETID-768x594.jpg 768w" sizes="(max-width: 873px) 100vw, 873px" /><figcaption><em><strong>Some Radical Dudes</strong></em></figcaption></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="627" src="https://www.electrikjam.com/wp-content/uploads/2021/10/EveryTimeIDie-1024x627.jpg" alt="" class="wp-image-5201" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/EveryTimeIDie-1024x627.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/EveryTimeIDie-600x367.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/EveryTimeIDie-300x184.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/EveryTimeIDie-768x470.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/EveryTimeIDie-1536x940.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/EveryTimeIDie-1080x661.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/EveryTimeIDie.jpg 1860w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="627" src="/wp-content/uploads/2021/10/EveryTimeIDie-1024x627.jpg" alt="" class="wp-image-5201" title="" srcset="/wp-content/uploads/2021/10/EveryTimeIDie-1024x627.jpg 1024w, /wp-content/uploads/2021/10/EveryTimeIDie-600x367.jpg 600w, /wp-content/uploads/2021/10/EveryTimeIDie-300x184.jpg 300w, /wp-content/uploads/2021/10/EveryTimeIDie-768x470.jpg 768w, /wp-content/uploads/2021/10/EveryTimeIDie-1536x940.jpg 1536w, /wp-content/uploads/2021/10/EveryTimeIDie-1080x661.jpg 1080w, /wp-content/uploads/2021/10/EveryTimeIDie.jpg 1860w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -203,5 +203,5 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-1024x1024.jpg" alt="" class="wp-image-5221" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/87747_EveryTimeIDie-1.jpg 1425w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-1024x1024.jpg" alt="" class="wp-image-5221" title="" srcset="/wp-content/uploads/2021/10/87747_EveryTimeIDie-1-1024x1024.jpg 1024w, /wp-content/uploads/2021/10/87747_EveryTimeIDie-1-300x300.jpg 300w, /wp-content/uploads/2021/10/87747_EveryTimeIDie-1-100x100.jpg 100w, /wp-content/uploads/2021/10/87747_EveryTimeIDie-1-600x600.jpg 600w, /wp-content/uploads/2021/10/87747_EveryTimeIDie-1-150x150.jpg 150w, /wp-content/uploads/2021/10/87747_EveryTimeIDie-1-768x768.jpg 768w, /wp-content/uploads/2021/10/87747_EveryTimeIDie-1-1080x1080.jpg 1080w, /wp-content/uploads/2021/10/87747_EveryTimeIDie-1.jpg 1425w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 

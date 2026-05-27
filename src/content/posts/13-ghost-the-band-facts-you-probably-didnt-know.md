@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know.png"
+featuredImage: "/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know.png"
 featuredImageAlt: "13 Ghost (The Band) Facts You Probably Didn’t Know"
 seo: 
   title: "13 Ghost (The Band) Facts You Probably Didn’t Know..."
@@ -49,7 +49,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="527" src="https://www.electrikjam.com/wp-content/uploads/2021/11/ghost-band-1.webp" alt="" class="wp-image-5403" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/ghost-band-1.webp 1000w, https://www.electrikjam.com/wp-content/uploads/2021/11/ghost-band-1-600x316.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/ghost-band-1-300x158.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/ghost-band-1-768x405.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="527" src="/wp-content/uploads/2021/11/ghost-band-1.webp" alt="" class="wp-image-5403" title="" srcset="/wp-content/uploads/2021/11/ghost-band-1.webp 1000w, /wp-content/uploads/2021/11/ghost-band-1-600x316.webp 600w, /wp-content/uploads/2021/11/ghost-band-1-300x158.webp 300w, /wp-content/uploads/2021/11/ghost-band-1-768x405.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 			
 		
 
@@ -99,7 +99,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Ghost-First-Album.webp" alt="" class="wp-image-5402" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Ghost-First-Album.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Ghost-First-Album-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Ghost-First-Album-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/11/Ghost-First-Album-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/11/Ghost-First-Album.webp" alt="" class="wp-image-5402" title="" srcset="/wp-content/uploads/2021/11/Ghost-First-Album.webp 600w, /wp-content/uploads/2021/11/Ghost-First-Album-300x300.webp 300w, /wp-content/uploads/2021/11/Ghost-First-Album-100x100.webp 100w, /wp-content/uploads/2021/11/Ghost-First-Album-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 			
 		
 
@@ -157,7 +157,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1024x853.png" alt="13 Ghost (The Band) Facts You Probably Didn’t Know" class="wp-image-5401" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1024x853.png" alt="13 Ghost (The Band) Facts You Probably Didn’t Know" class="wp-image-5401" title="" srcset="/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1024x853.png 1024w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-600x500.png 600w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-300x250.png 300w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-768x640.png 768w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1080x900.png 1080w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

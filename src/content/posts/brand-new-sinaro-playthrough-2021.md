@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Gus-Sinaro.jpg"
+featuredImage: "/wp-content/uploads/2021/11/Gus-Sinaro.jpg"
 featuredImageAlt: "Sinaro"
 seo: 
   title: "Brand NEW SINARO Playthrough 2021: The Band Tells Us About \"Extinction\"!"

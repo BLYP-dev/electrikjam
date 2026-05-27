@@ -22,7 +22,7 @@ tagSlugs:
   - "positive-grid"
 tagPaths: 
   - "/tag/positive-grid/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab.png"
+featuredImage: "/wp-content/uploads/2023/10/positive-grid-spark-cab.png"
 featuredImageAlt: "positive grid spark cab"
 seo: 
   title: "Positive Grid Unveils The Spark CAB: Here's The Deets..."
@@ -85,7 +85,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-1024x768.jpg" alt="" class="wp-image-12892" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1.jpg 1068w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-1024x768.jpg" alt="" class="wp-image-12892" title="" srcset="/wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-1024x768.jpg 1024w, /wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-600x450.jpg 600w, /wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-300x225.jpg 300w, /wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1-768x576.jpg 768w, /wp-content/uploads/2023/10/positive-grid-spark-cab@2000x1500-1068x801-1.jpg 1068w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

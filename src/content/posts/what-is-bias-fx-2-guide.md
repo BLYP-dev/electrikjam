@@ -22,7 +22,7 @@ tagSlugs:
   - "positive-grid"
 tagPaths: 
   - "/tag/positive-grid/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/is-bias-fx-worth-it-e1610108717277.png"
+featuredImage: "/wp-content/uploads/2021/01/is-bias-fx-worth-it-e1610108717277.png"
 featuredImageAlt: "Save 50% on Positive Grid’s EPIC BIAS FX 2"
 seo: 
   title: "What is BIAS FX 2? The ULTIMATE Guide..."
@@ -82,7 +82,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="608" src="https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2.png" alt="" class="wp-image-1729" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2.png 1000w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-600x365.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-300x182.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-768x467.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="608" src="/wp-content/uploads/2021/01/BIAX-FX-2.png" alt="" class="wp-image-1729" title="" srcset="/wp-content/uploads/2021/01/BIAX-FX-2.png 1000w, /wp-content/uploads/2021/01/BIAX-FX-2-600x365.png 600w, /wp-content/uploads/2021/01/BIAX-FX-2-300x182.png 300w, /wp-content/uploads/2021/01/BIAX-FX-2-768x467.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="654" src="https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-1.png" alt="" class="wp-image-1730" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-1.png 1000w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-1-600x392.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-1-300x196.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-1-768x502.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="654" src="/wp-content/uploads/2021/01/BIAX-FX-2-1.png" alt="" class="wp-image-1730" title="" srcset="/wp-content/uploads/2021/01/BIAX-FX-2-1.png 1000w, /wp-content/uploads/2021/01/BIAX-FX-2-1-600x392.png 600w, /wp-content/uploads/2021/01/BIAX-FX-2-1-300x196.png 300w, /wp-content/uploads/2021/01/BIAX-FX-2-1-768x502.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="696" src="https://www.electrikjam.com/wp-content/uploads/2021/01/is-bias-fx-worth-it-1024x696.png" alt="" class="wp-image-1735" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="696" src="/wp-content/uploads/2021/01/is-bias-fx-worth-it-1024x696.png" alt="" class="wp-image-1735" title=""></figure>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="749" src="https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx.png" alt="" class="wp-image-1731" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx.png 1000w, https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx-600x449.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx-300x225.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx-768x575.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="749" src="/wp-content/uploads/2021/01/what-is-bias-fx.png" alt="" class="wp-image-1731" title="" srcset="/wp-content/uploads/2021/01/what-is-bias-fx.png 1000w, /wp-content/uploads/2021/01/what-is-bias-fx-600x449.png 600w, /wp-content/uploads/2021/01/what-is-bias-fx-300x225.png 300w, /wp-content/uploads/2021/01/what-is-bias-fx-768x575.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -170,7 +170,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="732" src="https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-3.png" alt="" class="wp-image-1732" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-3.png 1000w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-3-600x439.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-3-300x220.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-3-768x562.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="732" src="/wp-content/uploads/2021/01/BIAX-FX-2-3.png" alt="" class="wp-image-1732" title="" srcset="/wp-content/uploads/2021/01/BIAX-FX-2-3.png 1000w, /wp-content/uploads/2021/01/BIAX-FX-2-3-600x439.png 600w, /wp-content/uploads/2021/01/BIAX-FX-2-3-300x220.png 300w, /wp-content/uploads/2021/01/BIAX-FX-2-3-768x562.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="599" src="https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-5.png" alt="" class="wp-image-1733" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-5.png 1000w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-5-600x359.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-5-300x180.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/BIAX-FX-2-5-768x460.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="599" src="/wp-content/uploads/2021/01/BIAX-FX-2-5.png" alt="" class="wp-image-1733" title="" srcset="/wp-content/uploads/2021/01/BIAX-FX-2-5.png 1000w, /wp-content/uploads/2021/01/BIAX-FX-2-5-600x359.png 600w, /wp-content/uploads/2021/01/BIAX-FX-2-5-300x180.png 300w, /wp-content/uploads/2021/01/BIAX-FX-2-5-768x460.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 

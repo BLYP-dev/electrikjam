@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard.png"
+featuredImage: "/wp-content/uploads/2022/02/Guitar-Fretboard.png"
 featuredImageAlt: "Guitar Fretboard learn"
 seo: 
   title: "Guitar Fretboard: How To Learn The Notes (The EASY Way)"
@@ -87,7 +87,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="267" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-1024x267.png" alt="" class="wp-image-6849" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-1024x267.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-600x156.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-300x78.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-768x200.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-1536x401.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-2048x534.png 2048w, https://www.electrikjam.com/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-1080x282.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>From Fret 3, Start on G Then A Whole Step To A, Another Hole Step to B, and then Switch To A String And Repeat Same Pattern. And Then The D String</strong> <strong>–&nbsp;This Gives You G, A, B, C, D, E, F, G</strong>. <strong>A full octave</strong>.</figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="267" src="/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-1024x267.png" alt="" class="wp-image-6849" title="" srcset="/wp-content/uploads/2022/02/Guitar-Fretboard-HACK-1024x267.png 1024w, /wp-content/uploads/2022/02/Guitar-Fretboard-HACK-600x156.png 600w, /wp-content/uploads/2022/02/Guitar-Fretboard-HACK-300x78.png 300w, /wp-content/uploads/2022/02/Guitar-Fretboard-HACK-768x200.png 768w, /wp-content/uploads/2022/02/Guitar-Fretboard-HACK-1536x401.png 1536w, /wp-content/uploads/2022/02/Guitar-Fretboard-HACK-2048x534.png 2048w, /wp-content/uploads/2022/02/Guitar-Fretboard-HACK-1080x282.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>From Fret 3, Start on G Then A Whole Step To A, Another Hole Step to B, and then Switch To A String And Repeat Same Pattern. And Then The D String</strong> <strong>–&nbsp;This Gives You G, A, B, C, D, E, F, G</strong>. <strong>A full octave</strong>.</figcaption></figure></div>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/guitar-fretboard-hacks-1024x683.png" alt="" class="wp-image-6863" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/guitar-fretboard-hacks-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/guitar-fretboard-hacks-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/guitar-fretboard-hacks-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/guitar-fretboard-hacks-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/guitar-fretboard-hacks-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/guitar-fretboard-hacks.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/guitar-fretboard-hacks-1024x683.png" alt="" class="wp-image-6863" title="" srcset="/wp-content/uploads/2022/02/guitar-fretboard-hacks-1024x683.png 1024w, /wp-content/uploads/2022/02/guitar-fretboard-hacks-600x400.png 600w, /wp-content/uploads/2022/02/guitar-fretboard-hacks-300x200.png 300w, /wp-content/uploads/2022/02/guitar-fretboard-hacks-768x512.png 768w, /wp-content/uploads/2022/02/guitar-fretboard-hacks-1080x720.png 1080w, /wp-content/uploads/2022/02/guitar-fretboard-hacks.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

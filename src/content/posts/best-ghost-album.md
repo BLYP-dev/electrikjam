@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/best-ghost-album-1.png"
+featuredImage: "/wp-content/uploads/2022/03/best-ghost-album-1.png"
 featuredImageAlt: "best ghost album"
 seo: 
   title: "Best Ghost Album (Ranked From Best To Worst)"
@@ -74,7 +74,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png" alt="Best Ghost Album" class="wp-image-7313" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png" alt="Best Ghost Album" class="wp-image-7313" title="" srcset="/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png 1024w, /wp-content/uploads/2022/03/Best-Ghost-Album-600x400.png 600w, /wp-content/uploads/2022/03/Best-Ghost-Album-300x200.png 300w, /wp-content/uploads/2022/03/Best-Ghost-Album-768x512.png 768w, /wp-content/uploads/2022/03/Best-Ghost-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

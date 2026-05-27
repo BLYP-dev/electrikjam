@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/09/splash.jpg"
+featuredImage: "/wp-content/uploads/2020/09/splash.jpg"
 featuredImageAlt: "splash"
 seo: 
   title: "MOOER GE150 vs. Zoom A1X FOUR: Best Affordable Processor?"
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge-1024x1024.jpeg" alt="" class="wp-image-620" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge-1024x1024.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge-300x300.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge-100x100.jpeg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge-600x600.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge-150x150.jpeg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge-768x768.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge-1536x1536.jpeg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Mooer-Ge.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The MOOER GE150 Effects Processor</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Mooer-Ge-1024x1024.jpeg" alt="" class="wp-image-620" width="1000" title="" srcset="/wp-content/uploads/2020/09/Mooer-Ge-1024x1024.jpeg 1024w, /wp-content/uploads/2020/09/Mooer-Ge-300x300.jpeg 300w, /wp-content/uploads/2020/09/Mooer-Ge-100x100.jpeg 100w, /wp-content/uploads/2020/09/Mooer-Ge-600x600.jpeg 600w, /wp-content/uploads/2020/09/Mooer-Ge-150x150.jpeg 150w, /wp-content/uploads/2020/09/Mooer-Ge-768x768.jpeg 768w, /wp-content/uploads/2020/09/Mooer-Ge-1536x1536.jpeg 1536w, /wp-content/uploads/2020/09/Mooer-Ge.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The MOOER GE150 Effects Processor</figcaption></figure>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-ge-orange-1024x576.jpg" alt="" class="wp-image-633" width="1010" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-ge-orange-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-ge-orange-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-ge-orange-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-ge-orange-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-ge-orange.jpg 1072w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/mooer-ge-orange-1024x576.jpg" alt="" class="wp-image-633" width="1010" title="" srcset="/wp-content/uploads/2020/09/mooer-ge-orange-1024x576.jpg 1024w, /wp-content/uploads/2020/09/mooer-ge-orange-600x338.jpg 600w, /wp-content/uploads/2020/09/mooer-ge-orange-300x169.jpg 300w, /wp-content/uploads/2020/09/mooer-ge-orange-768x432.jpg 768w, /wp-content/uploads/2020/09/mooer-ge-orange.jpg 1072w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-G-1024x575.jpg" alt="" class="wp-image-630" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-G-1024x575.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-G-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-G-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-G-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-G-1536x863.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-G.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Zoom G1X</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/zoom-G-1024x575.jpg" alt="" class="wp-image-630" width="1000" title="" srcset="/wp-content/uploads/2020/09/zoom-G-1024x575.jpg 1024w, /wp-content/uploads/2020/09/zoom-G-600x337.jpg 600w, /wp-content/uploads/2020/09/zoom-G-300x169.jpg 300w, /wp-content/uploads/2020/09/zoom-G-768x432.jpg 768w, /wp-content/uploads/2020/09/zoom-G-1536x863.jpg 1536w, /wp-content/uploads/2020/09/zoom-G.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Zoom G1X</figcaption></figure>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-g-lab-1024x606.png" alt="" class="wp-image-632" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-g-lab-1024x606.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-g-lab-600x355.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-g-lab-300x178.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-g-lab-768x455.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-g-lab.png 1405w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Zoom Guitar Lab Software</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/zoom-g-lab-1024x606.png" alt="" class="wp-image-632" width="1000" title="" srcset="/wp-content/uploads/2020/09/zoom-g-lab-1024x606.png 1024w, /wp-content/uploads/2020/09/zoom-g-lab-600x355.png 600w, /wp-content/uploads/2020/09/zoom-g-lab-300x178.png 300w, /wp-content/uploads/2020/09/zoom-g-lab-768x455.png 768w, /wp-content/uploads/2020/09/zoom-g-lab.png 1405w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Zoom Guitar Lab Software</figcaption></figure>
 
 
 
@@ -346,7 +346,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-2-747x1024.jpg" alt="" class="wp-image-635" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-2-747x1024.jpg 747w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-2-600x823.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-2-219x300.jpg 219w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-2-768x1053.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/zoom-2.jpg 1050w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/zoom-2-747x1024.jpg" alt="" class="wp-image-635" width="1000" title="" srcset="/wp-content/uploads/2020/09/zoom-2-747x1024.jpg 747w, /wp-content/uploads/2020/09/zoom-2-600x823.jpg 600w, /wp-content/uploads/2020/09/zoom-2-219x300.jpg 219w, /wp-content/uploads/2020/09/zoom-2-768x1053.jpg 768w, /wp-content/uploads/2020/09/zoom-2.jpg 1050w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
 
 
 
@@ -410,7 +410,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-2-1024x1014.jpg" alt="" class="wp-image-634" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-2-1024x1014.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-2-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-2-600x594.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-2-300x297.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-2-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-2-768x760.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-2.jpg 1212w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/mooer-2-1024x1014.jpg" alt="" class="wp-image-634" width="1000" title="" srcset="/wp-content/uploads/2020/09/mooer-2-1024x1014.jpg 1024w, /wp-content/uploads/2020/09/mooer-2-100x100.jpg 100w, /wp-content/uploads/2020/09/mooer-2-600x594.jpg 600w, /wp-content/uploads/2020/09/mooer-2-300x297.jpg 300w, /wp-content/uploads/2020/09/mooer-2-150x150.jpg 150w, /wp-content/uploads/2020/09/mooer-2-768x760.jpg 768w, /wp-content/uploads/2020/09/mooer-2.jpg 1212w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -442,7 +442,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-winner.jpg" alt="" class="wp-image-636" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-winner.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-winner-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-winner-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-winner-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-winner-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/mooer-winner-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/mooer-winner.jpg" alt="" class="wp-image-636" width="1000" title="" srcset="/wp-content/uploads/2020/09/mooer-winner.jpg 1000w, /wp-content/uploads/2020/09/mooer-winner-300x300.jpg 300w, /wp-content/uploads/2020/09/mooer-winner-100x100.jpg 100w, /wp-content/uploads/2020/09/mooer-winner-600x600.jpg 600w, /wp-content/uploads/2020/09/mooer-winner-150x150.jpg 150w, /wp-content/uploads/2020/09/mooer-winner-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 <h2 class="wp-block-heading">Final Thoughts&#8230;</h2>

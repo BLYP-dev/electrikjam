@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/bands-like-pallbearer-2.png"
+featuredImage: "/wp-content/uploads/2024/02/bands-like-pallbearer-2.png"
 featuredImageAlt: "bands like pallbearer (2)"
 seo: 
   title: "5 Bands Like Pallbearer You 100% Need In Your Life"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-1024x853.png" alt="YOB (BAND)" class="wp-image-6185" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/YOB-BAND.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/12/YOB-BAND-1024x853.png" alt="YOB (BAND)" class="wp-image-6185" title="" srcset="/wp-content/uploads/2021/12/YOB-BAND-1024x853.png 1024w, /wp-content/uploads/2021/12/YOB-BAND-600x500.png 600w, /wp-content/uploads/2021/12/YOB-BAND-300x250.png 300w, /wp-content/uploads/2021/12/YOB-BAND-768x640.png 768w, /wp-content/uploads/2021/12/YOB-BAND-1080x900.png 1080w, /wp-content/uploads/2021/12/YOB-BAND.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-1024x683.png" alt="Pallbearer Gear &amp; Guitars Guide" class="wp-image-7907" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-1024x683.png" alt="Pallbearer Gear &amp; Guitars Guide" class="wp-image-7907" title="" srcset="/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-1024x683.png 1024w, /wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-600x400.png 600w, /wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-300x200.png 300w, /wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-768x512.png 768w, /wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -291,7 +291,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/bands-like-pallbearer-1-1024x683.png" alt="" class="wp-image-13915" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/bands-like-pallbearer-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/bands-like-pallbearer-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/bands-like-pallbearer-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/bands-like-pallbearer-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/bands-like-pallbearer-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/bands-like-pallbearer-1-1024x683.png" alt="" class="wp-image-13915" title="" srcset="/wp-content/uploads/2024/02/bands-like-pallbearer-1-1024x683.png 1024w, /wp-content/uploads/2024/02/bands-like-pallbearer-1-600x400.png 600w, /wp-content/uploads/2024/02/bands-like-pallbearer-1-300x200.png 300w, /wp-content/uploads/2024/02/bands-like-pallbearer-1-768x512.png 768w, /wp-content/uploads/2024/02/bands-like-pallbearer-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -359,7 +359,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png" alt="What Guitar Does Tony Iommi Use" class="wp-image-13319" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png" alt="What Guitar Does Tony Iommi Use" class="wp-image-13319" title="" srcset="/wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-1024x683.png 1024w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-600x400.png 600w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-300x200.png 300w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use-768x512.png 768w, /wp-content/uploads/2023/11/What-Guitar-Does-Tony-Iommi-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -433,7 +433,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/pallbearer-1024x683.png" alt="" class="wp-image-13917" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/pallbearer-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/pallbearer-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/pallbearer-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/pallbearer-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/pallbearer.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/pallbearer-1024x683.png" alt="" class="wp-image-13917" title="" srcset="/wp-content/uploads/2024/02/pallbearer-1024x683.png 1024w, /wp-content/uploads/2024/02/pallbearer-600x400.png 600w, /wp-content/uploads/2024/02/pallbearer-300x200.png 300w, /wp-content/uploads/2024/02/pallbearer-768x512.png 768w, /wp-content/uploads/2024/02/pallbearer.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

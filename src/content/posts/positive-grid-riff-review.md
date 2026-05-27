@@ -22,7 +22,7 @@ tagSlugs:
   - "positive-grid"
 tagPaths: 
   - "/tag/positive-grid/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-Grid-RIFF.png"
+featuredImage: "/wp-content/uploads/2022/05/Positive-Grid-RIFF.png"
 featuredImageAlt: "Positive Grid Riff"
 seo: 
   title: "Positive Grid RIFF Review: A Crazy Way To Record ANYWHERE!"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-Grid-Riff-example-1024x565.jpg" alt="Positive Grid RIFF" class="wp-image-8085" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-Grid-Riff-example-1024x565.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-Grid-Riff-example-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-Grid-Riff-example-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-Grid-Riff-example-768x424.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-Grid-Riff-example-1536x848.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-Grid-Riff-example.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2022/05/Positive-Grid-Riff-example-1024x565.jpg" alt="Positive Grid RIFF" class="wp-image-8085" title="" srcset="/wp-content/uploads/2022/05/Positive-Grid-Riff-example-1024x565.jpg 1024w, /wp-content/uploads/2022/05/Positive-Grid-Riff-example-600x331.jpg 600w, /wp-content/uploads/2022/05/Positive-Grid-Riff-example-300x166.jpg 300w, /wp-content/uploads/2022/05/Positive-Grid-Riff-example-768x424.jpg 768w, /wp-content/uploads/2022/05/Positive-Grid-Riff-example-1536x848.jpg 1536w, /wp-content/uploads/2022/05/Positive-Grid-Riff-example.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-1024x683.png" alt="Positive Grid RIFF" class="wp-image-8087" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-riff-bias-fx.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Bias FX 2: Everything You Need For Tone</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-1024x683.png" alt="Positive Grid RIFF" class="wp-image-8087" title="" srcset="/wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-1024x683.png 1024w, /wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-600x400.png 600w, /wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-300x200.png 300w, /wp-content/uploads/2022/05/Positive-grid-riff-bias-fx-768x512.png 768w, /wp-content/uploads/2022/05/Positive-grid-riff-bias-fx.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Bias FX 2: Everything You Need For Tone</strong></figcaption></figure>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-Riff-chord-1024x683.png" alt="Positive grid riff" class="wp-image-8090" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-Riff-chord-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-Riff-chord-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-Riff-chord-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-Riff-chord-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Positive-grid-Riff-chord.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The AutoChord Feature</figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Positive-grid-Riff-chord-1024x683.png" alt="Positive grid riff" class="wp-image-8090" title="" srcset="/wp-content/uploads/2022/05/Positive-grid-Riff-chord-1024x683.png 1024w, /wp-content/uploads/2022/05/Positive-grid-Riff-chord-600x400.png 600w, /wp-content/uploads/2022/05/Positive-grid-Riff-chord-300x200.png 300w, /wp-content/uploads/2022/05/Positive-grid-Riff-chord-768x512.png 768w, /wp-content/uploads/2022/05/Positive-grid-Riff-chord.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The AutoChord Feature</figcaption></figure>
 			
 		
 

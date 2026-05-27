@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/wut.jpg"
+featuredImage: "/wp-content/uploads/2020/11/wut.jpg"
 featuredImageAlt: "wut"
 seo: 
   title: "The Dumbest Guitar Gadgets of ALL TIME..."
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Sham-Boo-1024x576.jpg" alt="" class="wp-image-1325" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Sham-Boo-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sham-Boo-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sham-Boo-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sham-Boo-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sham-Boo-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sham-Boo.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>As seen on TV</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/Sham-Boo-1024x576.jpg" alt="" class="wp-image-1325" title="" srcset="/wp-content/uploads/2020/11/Sham-Boo-1024x576.jpg 1024w, /wp-content/uploads/2020/11/Sham-Boo-600x338.jpg 600w, /wp-content/uploads/2020/11/Sham-Boo-300x169.jpg 300w, /wp-content/uploads/2020/11/Sham-Boo-768x432.jpg 768w, /wp-content/uploads/2020/11/Sham-Boo-1536x864.jpg 1536w, /wp-content/uploads/2020/11/Sham-Boo.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>As seen on TV</figcaption></figure>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Pikmax-1024x576.jpg" alt="" class="wp-image-1315" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Pikmax-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Pikmax-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Pikmax-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Pikmax-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Pikmax.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Even Ola looks a little confused&#8230;</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/Pikmax-1024x576.jpg" alt="" class="wp-image-1315" title="" srcset="/wp-content/uploads/2020/11/Pikmax-1024x576.jpg 1024w, /wp-content/uploads/2020/11/Pikmax-600x338.jpg 600w, /wp-content/uploads/2020/11/Pikmax-300x169.jpg 300w, /wp-content/uploads/2020/11/Pikmax-768x432.jpg 768w, /wp-content/uploads/2020/11/Pikmax.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Even Ola looks a little confused&#8230;</figcaption></figure>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Riff-Bandz-1024x768.jpg" alt="Dumbest Guitar Gadgets" class="wp-image-1316" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Riff-Bandz-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Riff-Bandz-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Riff-Bandz-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Riff-Bandz-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Riff-Bandz-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Riff-Bandz.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Umm&#8230;no.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/11/Riff-Bandz-1024x768.jpg" alt="Dumbest Guitar Gadgets" class="wp-image-1316" title="" srcset="/wp-content/uploads/2020/11/Riff-Bandz-1024x768.jpg 1024w, /wp-content/uploads/2020/11/Riff-Bandz-600x450.jpg 600w, /wp-content/uploads/2020/11/Riff-Bandz-300x225.jpg 300w, /wp-content/uploads/2020/11/Riff-Bandz-768x576.jpg 768w, /wp-content/uploads/2020/11/Riff-Bandz-1536x1152.jpg 1536w, /wp-content/uploads/2020/11/Riff-Bandz.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Umm&#8230;no.</figcaption></figure>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="895" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Dumber-grip-895x1024.jpg" alt="" class="wp-image-1317" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Dumber-grip-895x1024.jpg 895w, https://www.electrikjam.com/wp-content/uploads/2020/11/Dumber-grip-600x686.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Dumber-grip-262x300.jpg 262w, https://www.electrikjam.com/wp-content/uploads/2020/11/Dumber-grip-768x878.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Dumber-grip.jpg 960w" sizes="(max-width: 895px) 100vw, 895px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="895" height="1024" src="/wp-content/uploads/2020/11/Dumber-grip-895x1024.jpg" alt="" class="wp-image-1317" title="" srcset="/wp-content/uploads/2020/11/Dumber-grip-895x1024.jpg 895w, /wp-content/uploads/2020/11/Dumber-grip-600x686.jpg 600w, /wp-content/uploads/2020/11/Dumber-grip-262x300.jpg 262w, /wp-content/uploads/2020/11/Dumber-grip-768x878.jpg 768w, /wp-content/uploads/2020/11/Dumber-grip.jpg 960w" sizes="(max-width: 895px) 100vw, 895px" /></figure>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="891" src="https://www.electrikjam.com/wp-content/uploads/2020/11/pikachu-1024x891.png" alt="" class="wp-image-1352" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/pikachu-1024x891.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/pikachu-600x522.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/pikachu-300x261.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/pikachu-768x668.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/pikachu-1536x1336.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/pikachu.png 1731w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Just buy a new pick? What?</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="891" src="/wp-content/uploads/2020/11/pikachu-1024x891.png" alt="" class="wp-image-1352" title="" srcset="/wp-content/uploads/2020/11/pikachu-1024x891.png 1024w, /wp-content/uploads/2020/11/pikachu-600x522.png 600w, /wp-content/uploads/2020/11/pikachu-300x261.png 300w, /wp-content/uploads/2020/11/pikachu-768x668.png 768w, /wp-content/uploads/2020/11/pikachu-1536x1336.png 1536w, /wp-content/uploads/2020/11/pikachu.png 1731w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Just buy a new pick? What?</figcaption></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat-1024x1024.jpg" alt="" class="wp-image-1321" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/pick-hat.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Pick wearing a Fedora</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/pick-hat-1024x1024.jpg" alt="" class="wp-image-1321" title="" srcset="/wp-content/uploads/2020/11/pick-hat-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/pick-hat-300x300.jpg 300w, /wp-content/uploads/2020/11/pick-hat-100x100.jpg 100w, /wp-content/uploads/2020/11/pick-hat-600x600.jpg 600w, /wp-content/uploads/2020/11/pick-hat-150x150.jpg 150w, /wp-content/uploads/2020/11/pick-hat-768x768.jpg 768w, /wp-content/uploads/2020/11/pick-hat-1536x1536.jpg 1536w, /wp-content/uploads/2020/11/pick-hat.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Pick wearing a Fedora</figcaption></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="780" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Finger-condoms-1024x780.jpg" alt="" class="wp-image-1318" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Finger-condoms-1024x780.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Finger-condoms-600x457.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Finger-condoms-300x229.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Finger-condoms-768x585.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Finger-condoms.jpg 1066w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Whatever these are.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="780" src="/wp-content/uploads/2020/11/Finger-condoms-1024x780.jpg" alt="" class="wp-image-1318" title="" srcset="/wp-content/uploads/2020/11/Finger-condoms-1024x780.jpg 1024w, /wp-content/uploads/2020/11/Finger-condoms-600x457.jpg 600w, /wp-content/uploads/2020/11/Finger-condoms-300x229.jpg 300w, /wp-content/uploads/2020/11/Finger-condoms-768x585.jpg 768w, /wp-content/uploads/2020/11/Finger-condoms.jpg 1066w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Whatever these are.</figcaption></figure>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="540" src="https://www.electrikjam.com/wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-1024x540.jpg" alt="" class="wp-image-1319" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-1024x540.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-600x316.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-768x405.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_.jpg 1356w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Nope</em>. Also, not a hat.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="540" src="/wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-1024x540.jpg" alt="" class="wp-image-1319" title="" srcset="/wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-1024x540.jpg 1024w, /wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-600x316.jpg 600w, /wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-300x158.jpg 300w, /wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_-768x405.jpg 768w, /wp-content/uploads/2020/11/711MoGxyfZL._AC_SL1356_.jpg 1356w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Nope</em>. Also, not a hat.</figcaption></figure>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/OMG-768x1024.jpg" alt="" class="wp-image-1320" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/OMG-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/OMG-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/OMG-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/11/OMG-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/11/OMG.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Also comes in Ukulele. When six strings is just too much.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/11/OMG-768x1024.jpg" alt="" class="wp-image-1320" title="" srcset="/wp-content/uploads/2020/11/OMG-768x1024.jpg 768w, /wp-content/uploads/2020/11/OMG-600x800.jpg 600w, /wp-content/uploads/2020/11/OMG-225x300.jpg 225w, /wp-content/uploads/2020/11/OMG-1152x1536.jpg 1152w, /wp-content/uploads/2020/11/OMG.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Also comes in Ukulele. When six strings is just too much.</figcaption></figure>
 
 
 

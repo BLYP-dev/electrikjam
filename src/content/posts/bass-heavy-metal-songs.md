@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/bass-heavy-metal-songs.png"
+featuredImage: "/wp-content/uploads/2023/03/bass-heavy-metal-songs.png"
 featuredImageAlt: "bass heavy metal songs"
 seo: 
   title: "19 Bass Heavy Metal Songs That’ll Shake Your Fillings Out..."
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/bass-heavy-metal-songs-1024x683.png" alt="bass heavy metal songs" class="wp-image-11270" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/bass-heavy-metal-songs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/bass-heavy-metal-songs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/bass-heavy-metal-songs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/bass-heavy-metal-songs-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/bass-heavy-metal-songs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/bass-heavy-metal-songs-1024x683.png" alt="bass heavy metal songs" class="wp-image-11270" title="" srcset="/wp-content/uploads/2023/03/bass-heavy-metal-songs-1024x683.png 1024w, /wp-content/uploads/2023/03/bass-heavy-metal-songs-600x400.png 600w, /wp-content/uploads/2023/03/bass-heavy-metal-songs-300x200.png 300w, /wp-content/uploads/2023/03/bass-heavy-metal-songs-768x512.png 768w, /wp-content/uploads/2023/03/bass-heavy-metal-songs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

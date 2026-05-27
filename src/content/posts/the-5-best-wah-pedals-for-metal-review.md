@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Best-wah-pedals-for-metal.png"
+featuredImage: "/wp-content/uploads/2022/09/Best-wah-pedals-for-metal.png"
 featuredImageAlt: "best wah pedals for metal"
 seo: 
   title: "The 5 Best Wah Pedals For Metal Reviewed: Which One Is Best For YOU?"
@@ -124,7 +124,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Bad-Horsie-1024x683.png" alt="Best wah pedals for metal" class="wp-image-9167" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Bad-Horsie-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Bad-Horsie-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Bad-Horsie-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Bad-Horsie-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Bad-Horsie.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Bad-Horsie-1024x683.png" alt="Best wah pedals for metal" class="wp-image-9167" title="" srcset="/wp-content/uploads/2022/09/Bad-Horsie-1024x683.png 1024w, /wp-content/uploads/2022/09/Bad-Horsie-600x400.png 600w, /wp-content/uploads/2022/09/Bad-Horsie-300x200.png 300w, /wp-content/uploads/2022/09/Bad-Horsie-768x512.png 768w, /wp-content/uploads/2022/09/Bad-Horsie.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/DIME-Cry-baby-wah-1024x683.png" alt="best Wah pedals for metal" class="wp-image-9168" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/DIME-Cry-baby-wah-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/DIME-Cry-baby-wah-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/DIME-Cry-baby-wah-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/DIME-Cry-baby-wah-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/DIME-Cry-baby-wah.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/DIME-Cry-baby-wah-1024x683.png" alt="best Wah pedals for metal" class="wp-image-9168" title="" srcset="/wp-content/uploads/2022/09/DIME-Cry-baby-wah-1024x683.png 1024w, /wp-content/uploads/2022/09/DIME-Cry-baby-wah-600x400.png 600w, /wp-content/uploads/2022/09/DIME-Cry-baby-wah-300x200.png 300w, /wp-content/uploads/2022/09/DIME-Cry-baby-wah-768x512.png 768w, /wp-content/uploads/2022/09/DIME-Cry-baby-wah.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-1024x683.png" alt="Best wah pedals for metal" class="wp-image-9169" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-1024x683.png" alt="Best wah pedals for metal" class="wp-image-9169" title="" srcset="/wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-1024x683.png 1024w, /wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-600x400.png 600w, /wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-300x200.png 300w, /wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah-768x512.png 768w, /wp-content/uploads/2022/09/Dunlop-Kirk-Hammet-Wah.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Friedman-No-More-tears-wah-1024x683.png" alt="best wah pedals for metal" class="wp-image-9170" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Friedman-No-More-tears-wah-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Friedman-No-More-tears-wah-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Friedman-No-More-tears-wah-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Friedman-No-More-tears-wah-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Friedman-No-More-tears-wah.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Friedman-No-More-tears-wah-1024x683.png" alt="best wah pedals for metal" class="wp-image-9170" title="" srcset="/wp-content/uploads/2022/09/Friedman-No-More-tears-wah-1024x683.png 1024w, /wp-content/uploads/2022/09/Friedman-No-More-tears-wah-600x400.png 600w, /wp-content/uploads/2022/09/Friedman-No-More-tears-wah-300x200.png 300w, /wp-content/uploads/2022/09/Friedman-No-More-tears-wah-768x512.png 768w, /wp-content/uploads/2022/09/Friedman-No-More-tears-wah.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/MXR-Wah-1024x683.png" alt="Best Wah pedals for metal" class="wp-image-9171" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/MXR-Wah-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/MXR-Wah-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/MXR-Wah-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/MXR-Wah-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/MXR-Wah.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/MXR-Wah-1024x683.png" alt="Best Wah pedals for metal" class="wp-image-9171" title="" srcset="/wp-content/uploads/2022/09/MXR-Wah-1024x683.png 1024w, /wp-content/uploads/2022/09/MXR-Wah-600x400.png 600w, /wp-content/uploads/2022/09/MXR-Wah-300x200.png 300w, /wp-content/uploads/2022/09/MXR-Wah-768x512.png 768w, /wp-content/uploads/2022/09/MXR-Wah.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

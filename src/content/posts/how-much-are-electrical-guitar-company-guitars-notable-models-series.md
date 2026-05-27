@@ -22,7 +22,7 @@ tagSlugs:
   - "electrical-guitar-company"
 tagPaths: 
   - "/tag/electrical-guitar-company/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars.png"
+featuredImage: "/wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars.png"
 featuredImageAlt: "How Much Are Electrical Guitar Company Guitars"
 seo: 
   title: "How Much Are Electrical Guitar Company Guitars?"
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-1024x683.png" alt="" class="wp-image-14899" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-1024x683.png" alt="" class="wp-image-14899" title="" srcset="/wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-1024x683.png 1024w, /wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-600x400.png 600w, /wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-300x200.png 300w, /wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo-768x512.png 768w, /wp-content/uploads/2024/04/Electrical-Guitar-Company-King-Buzzo.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-1024x683.png" alt="The Electrical Guitar Company 101" class="wp-image-14895" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-1024x683.png" alt="The Electrical Guitar Company 101" class="wp-image-14895" title="" srcset="/wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-1024x683.png 1024w, /wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-600x400.png 600w, /wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-300x200.png 300w, /wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101-768x512.png 768w, /wp-content/uploads/2024/04/The-Electrical-Guitar-Company-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

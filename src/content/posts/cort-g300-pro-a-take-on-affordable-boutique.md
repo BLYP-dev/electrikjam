@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-g300-cover.jpg"
+featuredImage: "/wp-content/uploads/2021/02/Cort-g300-cover.jpg"
 featuredImageAlt: "Cort g300 cover"
 seo: 
   title: "Cort G300 Pro: A Polished Take On Affordable Boutique"
@@ -61,7 +61,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="750" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-G300Proglam3.jpg" alt="" class="wp-image-1951" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-G300Proglam3.jpg 500w, https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-G300Proglam3-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="750" src="/wp-content/uploads/2021/02/Cort-G300Proglam3.jpg" alt="" class="wp-image-1951" title="" srcset="/wp-content/uploads/2021/02/Cort-G300Proglam3.jpg 500w, /wp-content/uploads/2021/02/Cort-G300Proglam3-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 			
 		
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="740" height="493" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-G300Proglam7.jpg" alt="Cort g300" class="wp-image-1953" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-G300Proglam7.jpg 740w, https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-G300Proglam7-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-G300Proglam7-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-G300Proglam7-360x240.jpg 360w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption>The New G300</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="740" height="493" src="/wp-content/uploads/2021/02/Cort-G300Proglam7.jpg" alt="Cort g300" class="wp-image-1953" title="" srcset="/wp-content/uploads/2021/02/Cort-G300Proglam7.jpg 740w, /wp-content/uploads/2021/02/Cort-G300Proglam7-600x400.jpg 600w, /wp-content/uploads/2021/02/Cort-G300Proglam7-300x200.jpg 300w, /wp-content/uploads/2021/02/Cort-G300Proglam7-360x240.jpg 360w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption>The New G300</figcaption></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="420" height="420" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-wiring.png" alt="" class="wp-image-1954" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-wiring.png 420w, https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-wiring-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-wiring-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2021/02/Cort-wiring-150x150.png 150w" sizes="(max-width: 420px) 100vw, 420px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="420" height="420" src="/wp-content/uploads/2021/02/Cort-wiring.png" alt="" class="wp-image-1954" title="" srcset="/wp-content/uploads/2021/02/Cort-wiring.png 420w, /wp-content/uploads/2021/02/Cort-wiring-300x300.png 300w, /wp-content/uploads/2021/02/Cort-wiring-100x100.png 100w, /wp-content/uploads/2021/02/Cort-wiring-150x150.png 150w" sizes="(max-width: 420px) 100vw, 420px" /></figure>
 			
 		
 
@@ -153,7 +153,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="750" src="https://www.electrikjam.com/wp-content/uploads/2021/02/G300Proglam1.jpg" alt="" class="wp-image-1955" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/G300Proglam1.jpg 500w, https://www.electrikjam.com/wp-content/uploads/2021/02/G300Proglam1-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="750" src="/wp-content/uploads/2021/02/G300Proglam1.jpg" alt="" class="wp-image-1955" title="" srcset="/wp-content/uploads/2021/02/G300Proglam1.jpg 500w, /wp-content/uploads/2021/02/G300Proglam1-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 			
 		
 

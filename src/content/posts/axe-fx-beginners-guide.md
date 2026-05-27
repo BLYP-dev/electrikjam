@@ -25,7 +25,7 @@ tagSlugs:
   - "axe-fx"
 tagPaths: 
   - "/tag/axe-fx/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/Axe-FX-101-a-complete-beginners-guide.png"
+featuredImage: "/wp-content/uploads/2024/02/Axe-FX-101-a-complete-beginners-guide.png"
 featuredImageAlt: "Axe FX 101 a complete beginner's guide"
 seo: 
   title: "Axe FX 101: The Complete Beginner's Guide [2024]"
@@ -61,7 +61,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/what-is-axe-fx-1024x683.png" alt="" class="wp-image-14264" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/what-is-axe-fx-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/what-is-axe-fx-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/what-is-axe-fx-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/what-is-axe-fx-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/what-is-axe-fx.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/what-is-axe-fx-1024x683.png" alt="" class="wp-image-14264" title="" srcset="/wp-content/uploads/2024/02/what-is-axe-fx-1024x683.png 1024w, /wp-content/uploads/2024/02/what-is-axe-fx-600x400.png 600w, /wp-content/uploads/2024/02/what-is-axe-fx-300x200.png 300w, /wp-content/uploads/2024/02/what-is-axe-fx-768x512.png 768w, /wp-content/uploads/2024/02/what-is-axe-fx.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -117,7 +117,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-1024x683.png" alt="" class="wp-image-14263" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-1024x683.png" alt="" class="wp-image-14263" title="" srcset="/wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-1024x683.png 1024w, /wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-600x400.png 600w, /wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-300x200.png 300w, /wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo-768x512.png 768w, /wp-content/uploads/2024/02/AXE-FX-FM9-MARK-II-Turbo.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="770" src="https://www.electrikjam.com/wp-content/uploads/2024/02/getting-started-with-axe-fx-1024x770.png" alt="" class="wp-image-14262" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/getting-started-with-axe-fx-1024x770.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/getting-started-with-axe-fx-600x451.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/getting-started-with-axe-fx-300x226.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/getting-started-with-axe-fx-768x578.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/getting-started-with-axe-fx.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="770" src="/wp-content/uploads/2024/02/getting-started-with-axe-fx-1024x770.png" alt="" class="wp-image-14262" title="" srcset="/wp-content/uploads/2024/02/getting-started-with-axe-fx-1024x770.png 1024w, /wp-content/uploads/2024/02/getting-started-with-axe-fx-600x451.png 600w, /wp-content/uploads/2024/02/getting-started-with-axe-fx-300x226.png 300w, /wp-content/uploads/2024/02/getting-started-with-axe-fx-768x578.png 768w, /wp-content/uploads/2024/02/getting-started-with-axe-fx.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -401,7 +401,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/line-6-guide-1-1024x683.png" alt="" class="wp-image-9984" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/line-6-guide-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/line-6-guide-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/line-6-guide-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/line-6-guide-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/line-6-guide-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/line-6-guide-1-1024x683.png" alt="" class="wp-image-9984" title="" srcset="/wp-content/uploads/2022/11/line-6-guide-1-1024x683.png 1024w, /wp-content/uploads/2022/11/line-6-guide-1-600x400.png 600w, /wp-content/uploads/2022/11/line-6-guide-1-300x200.png 300w, /wp-content/uploads/2022/11/line-6-guide-1-768x512.png 768w, /wp-content/uploads/2022/11/line-6-guide-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -437,7 +437,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png" alt="15 Guitarists That Use Axe FX" class="wp-image-7106" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png" alt="15 Guitarists That Use Axe FX" class="wp-image-7106" title="" srcset="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png 1024w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-600x400.png 600w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-300x200.png 300w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-768x512.png 768w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1080x720.png 1080w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -483,7 +483,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png" alt="What Pickups Does James Hetfield Use" class="wp-image-7090" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="260852">James Hetfield and Metallica have been using Axe-Fx for years</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png" alt="What Pickups Does James Hetfield Use" class="wp-image-7090" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="260852">James Hetfield and Metallica have been using Axe-Fx for years</a></strong></figcaption></figure>
 
 
 

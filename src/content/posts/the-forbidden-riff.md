@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1.png"
+featuredImage: "/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1.png"
 featuredImageAlt: "The FORBIDDEN RIFF"
 seo: 
   title: "History of “The FORBIDDEN RIFF” – Satan, Page & Wayne's World…"
@@ -52,7 +52,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-1024x683.png" alt="The FORBIDDEN RIFF" class="wp-image-7037" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-1024x683.png" alt="The FORBIDDEN RIFF" class="wp-image-7037" title="" srcset="/wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-1024x683.png 1024w, /wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-600x400.png 600w, /wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-300x200.png 300w, /wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-768x512.png 768w, /wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1-1080x720.png 1080w, /wp-content/uploads/2022/02/The-FORBIDDEN-RIFF-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 
@@ -89,7 +89,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png" alt="Jimmy Page’s Favourite Guitar" class="wp-image-3322" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png" alt="Jimmy Page’s Favourite Guitar" class="wp-image-3322" title="" srcset="/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png 1024w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-600x500.png 600w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-300x250.png 300w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-768x640.png 768w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1080x900.png 1080w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

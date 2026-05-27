@@ -22,7 +22,7 @@ tagSlugs:
   - "strings"
 tagPaths: 
   - "/tag/strings/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-strings.jpg"
+featuredImage: "/wp-content/uploads/2021/11/Guitar-strings.jpg"
 featuredImageAlt: "which guitar strings last longest"
 seo: 
   title: "Which Guitar Strings Last Longest: The 2021 Scientific Approach To Longevity!"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-strings.jpg" alt="which guitar strings last longest" class="wp-image-5500" width="839" height="388" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-strings.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-strings-300x139.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Guitar-strings-510x237.jpg 510w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/Guitar-strings.jpg" alt="which guitar strings last longest" class="wp-image-5500" width="839" height="388" title="" srcset="/wp-content/uploads/2021/11/Guitar-strings.jpg 512w, /wp-content/uploads/2021/11/Guitar-strings-300x139.jpg 300w, /wp-content/uploads/2021/11/Guitar-strings-510x237.jpg 510w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
 
 
 
@@ -217,7 +217,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/11/changing-electric-guitar-strings.jpg" alt="" class="wp-image-5507" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/changing-electric-guitar-strings.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2021/11/changing-electric-guitar-strings-600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/changing-electric-guitar-strings-300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/changing-electric-guitar-strings-768x461.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="600" src="/wp-content/uploads/2021/11/changing-electric-guitar-strings.jpg" alt="" class="wp-image-5507" title="" srcset="/wp-content/uploads/2021/11/changing-electric-guitar-strings.jpg 1000w, /wp-content/uploads/2021/11/changing-electric-guitar-strings-600x360.jpg 600w, /wp-content/uploads/2021/11/changing-electric-guitar-strings-300x180.jpg 300w, /wp-content/uploads/2021/11/changing-electric-guitar-strings-768x461.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 

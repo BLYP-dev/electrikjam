@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-1.png"
+featuredImage: "/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-1.png"
 featuredImageAlt: "Is EZdrummer 2 Worth It"
 seo: 
   title: "Is EZdrummer 2 Worth It? My Personal Experience..."
@@ -61,7 +61,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="753" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-1024x753.png" alt="" class="wp-image-7815" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-1024x753.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-600x441.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-300x221.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-768x565.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It.png 1352w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The drums for EZdrummer 2 were recorded at one of the most meticulously built recording facilities in the world; Mark Knopfler’s British Grove Studios in London</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="753" src="/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-1024x753.png" alt="" class="wp-image-7815" title="" srcset="/wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-1024x753.png 1024w, /wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-600x441.png 600w, /wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-300x221.png 300w, /wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It-768x565.png 768w, /wp-content/uploads/2022/04/Is-EZdrummer-2-Worth-It.png 1352w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The drums for EZdrummer 2 were recorded at one of the most meticulously built recording facilities in the world; Mark Knopfler’s British Grove Studios in London</strong></figcaption></figure>
 			
 		
 
@@ -107,7 +107,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="714" src="https://www.electrikjam.com/wp-content/uploads/2022/04/EZdrummer-2-Price-1024x714.png" alt="EZdrummer 2 Price" class="wp-image-7816" title=""><figcaption><strong>In my 10+ years of experience using virtual drums, I honestly don’t think there is a better-sounding option on the market right now – not at this price.</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="714" src="/wp-content/uploads/2022/04/EZdrummer-2-Price-1024x714.png" alt="EZdrummer 2 Price" class="wp-image-7816" title=""><figcaption><strong>In my 10+ years of experience using virtual drums, I honestly don’t think there is a better-sounding option on the market right now – not at this price.</strong></figcaption></figure>
 			
 		
 

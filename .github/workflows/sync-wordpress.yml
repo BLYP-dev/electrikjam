@@ -98,8 +98,7 @@ jobs:
           WP_EXPORT_FILE: wordpress-export.json
           WP_IMPORT_LIMIT: -1
           WP_PAGE_IMPORT_LIMIT: -1
-          WP_MEDIA_MODE: remote
-          WP_MEDIA_ORIGIN: https://www.electrikjam.com
+          WP_MEDIA_MODE: local
         run: npm run import:wordpress
 
       - name: Build verification

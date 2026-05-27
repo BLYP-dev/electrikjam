@@ -22,7 +22,7 @@ tagSlugs:
   - "popular"
 tagPaths: 
   - "/tag/popular/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/05/Best-Guitar-Pedals-Under-50.png"
+featuredImage: "/wp-content/uploads/2021/05/Best-Guitar-Pedals-Under-50.png"
 featuredImageAlt: "Best Guitar Pedals Under 50"
 seo: 
   title: "The 5 Best Guitar Pedals Under 50 Bucks: PRO Tone On A Budget!"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-1024x1024.jpg" alt="best guitar pedals under 50" class="wp-image-2939" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/Behringer-super-fuzz.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/Behringer-super-fuzz-1024x1024.jpg" alt="best guitar pedals under 50" class="wp-image-2939" title="" srcset="/wp-content/uploads/2021/05/Behringer-super-fuzz-1024x1024.jpg 1024w, /wp-content/uploads/2021/05/Behringer-super-fuzz-300x300.jpg 300w, /wp-content/uploads/2021/05/Behringer-super-fuzz-100x100.jpg 100w, /wp-content/uploads/2021/05/Behringer-super-fuzz-600x600.jpg 600w, /wp-content/uploads/2021/05/Behringer-super-fuzz-150x150.jpg 150w, /wp-content/uploads/2021/05/Behringer-super-fuzz-768x768.jpg 768w, /wp-content/uploads/2021/05/Behringer-super-fuzz-1536x1536.jpg 1536w, /wp-content/uploads/2021/05/Behringer-super-fuzz-1080x1080.jpg 1080w, /wp-content/uploads/2021/05/Behringer-super-fuzz.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/05/Harley-Benton-Extreme-Metal.jpg" alt="" class="wp-image-2943" width="798" height="478" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/Harley-Benton-Extreme-Metal.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/Harley-Benton-Extreme-Metal-300x180.jpg 300w" sizes="(max-width: 798px) 100vw, 798px" /></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2021/05/Harley-Benton-Extreme-Metal.jpg" alt="" class="wp-image-2943" width="798" height="478" title="" srcset="/wp-content/uploads/2021/05/Harley-Benton-Extreme-Metal.jpg 600w, /wp-content/uploads/2021/05/Harley-Benton-Extreme-Metal-300x180.jpg 300w" sizes="(max-width: 798px) 100vw, 798px" /></figure></div>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1006" height="1002" src="https://www.electrikjam.com/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion.jpg" alt="" class="wp-image-2946" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion.jpg 1006w, https://www.electrikjam.com/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-600x598.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-768x765.jpg 768w" sizes="(max-width: 1006px) 100vw, 1006px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1006" height="1002" src="/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion.jpg" alt="" class="wp-image-2946" title="" srcset="/wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion.jpg 1006w, /wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-300x300.jpg 300w, /wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-100x100.jpg 100w, /wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-600x598.jpg 600w, /wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-150x150.jpg 150w, /wp-content/uploads/2021/05/XVIVE-Dynarock-Dustortion-768x765.jpg 768w" sizes="(max-width: 1006px) 100vw, 1006px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1015" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-1015x1024.png" alt="" class="wp-image-2949" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-1015x1024.png 1015w, https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-600x605.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-297x300.png 297w, https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-768x775.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-1522x1536.png 1522w, https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-1080x1090.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver.png 1982w" sizes="(max-width: 1015px) 100vw, 1015px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1015" height="1024" src="/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-1015x1024.png" alt="" class="wp-image-2949" title="" srcset="/wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-1015x1024.png 1015w, /wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-100x100.png 100w, /wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-600x605.png 600w, /wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-297x300.png 297w, /wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-150x150.png 150w, /wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-768x775.png 768w, /wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-1522x1536.png 1522w, /wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver-1080x1090.png 1080w, /wp-content/uploads/2021/05/Tc-Electronics-Nether-Octaver.png 1982w" sizes="(max-width: 1015px) 100vw, 1015px" /></figure>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="900" height="900" src="https://www.electrikjam.com/wp-content/uploads/2021/05/Blackstar-LT-Drive.jpg" alt="" class="wp-image-2952" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/Blackstar-LT-Drive.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2021/05/Blackstar-LT-Drive-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/Blackstar-LT-Drive-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/05/Blackstar-LT-Drive-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/Blackstar-LT-Drive-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/05/Blackstar-LT-Drive-768x768.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="900" height="900" src="/wp-content/uploads/2021/05/Blackstar-LT-Drive.jpg" alt="" class="wp-image-2952" title="" srcset="/wp-content/uploads/2021/05/Blackstar-LT-Drive.jpg 900w, /wp-content/uploads/2021/05/Blackstar-LT-Drive-300x300.jpg 300w, /wp-content/uploads/2021/05/Blackstar-LT-Drive-100x100.jpg 100w, /wp-content/uploads/2021/05/Blackstar-LT-Drive-600x600.jpg 600w, /wp-content/uploads/2021/05/Blackstar-LT-Drive-150x150.jpg 150w, /wp-content/uploads/2021/05/Blackstar-LT-Drive-768x768.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
 
 
 

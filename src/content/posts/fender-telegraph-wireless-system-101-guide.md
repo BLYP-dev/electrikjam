@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/07/Fender-Telepath-Wireless-System.png"
+featuredImage: "/wp-content/uploads/2024/07/Fender-Telepath-Wireless-System.png"
 featuredImageAlt: "Fender Telepath Wireless System"
 seo: 
   title: "Fender Telepath Wireless System 101: What You Need To Know"
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2024/07/FenderTelepath-1024x565.jpg" alt="" class="wp-image-15546" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/07/FenderTelepath-1024x565.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/07/FenderTelepath-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/07/FenderTelepath-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/07/FenderTelepath-768x424.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/07/FenderTelepath-1536x848.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2024/07/FenderTelepath.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2024/07/FenderTelepath-1024x565.jpg" alt="" class="wp-image-15546" title="" srcset="/wp-content/uploads/2024/07/FenderTelepath-1024x565.jpg 1024w, /wp-content/uploads/2024/07/FenderTelepath-600x331.jpg 600w, /wp-content/uploads/2024/07/FenderTelepath-300x166.jpg 300w, /wp-content/uploads/2024/07/FenderTelepath-768x424.jpg 768w, /wp-content/uploads/2024/07/FenderTelepath-1536x848.jpg 1536w, /wp-content/uploads/2024/07/FenderTelepath.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

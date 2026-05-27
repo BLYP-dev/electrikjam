@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/kurt-cobain-pickups.png"
+featuredImage: "/wp-content/uploads/2022/04/kurt-cobain-pickups.png"
 featuredImageAlt: "kurt cobain pickups"
 seo: 
   title: "Kurt Cobain NEVER Used Stock Fender Pickups – Here’s Why…"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/kurt-cobain-pickups-1024x683.png" alt="kurt cobain pickups" class="wp-image-7947" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/kurt-cobain-pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/kurt-cobain-pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/kurt-cobain-pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/kurt-cobain-pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/kurt-cobain-pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong> <a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="106917">Kurt Cobain used “crappy” Fender guitars</a> that he could afford to buy, scant pedals and effects, and a completely unreliable guitar rig when playing live. His sound, largely speaking, was created by his actual playing which was incredibly aggressive</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/kurt-cobain-pickups-1024x683.png" alt="kurt cobain pickups" class="wp-image-7947" title="" srcset="/wp-content/uploads/2022/04/kurt-cobain-pickups-1024x683.png 1024w, /wp-content/uploads/2022/04/kurt-cobain-pickups-600x400.png 600w, /wp-content/uploads/2022/04/kurt-cobain-pickups-300x200.png 300w, /wp-content/uploads/2022/04/kurt-cobain-pickups-768x512.png 768w, /wp-content/uploads/2022/04/kurt-cobain-pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong> <a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="106917">Kurt Cobain used “crappy” Fender guitars</a> that he could afford to buy, scant pedals and effects, and a completely unreliable guitar rig when playing live. His sound, largely speaking, was created by his actual playing which was incredibly aggressive</strong></figcaption></figure></div>
 
 
 

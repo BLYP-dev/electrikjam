@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/05/Metallica.jpg"
+featuredImage: "/wp-content/uploads/2021/05/Metallica.jpg"
 featuredImageAlt: "Metallica"
 seo: 
   title: "Metallica Guitar Tunings Over The Years: The Complete, In-Depth Guide!"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="507" src="https://www.electrikjam.com/wp-content/uploads/2021/05/METALLICA-Load-1024x507.jpg" alt="" class="wp-image-2993" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/METALLICA-Load-1024x507.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/METALLICA-Load-600x297.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/METALLICA-Load-300x149.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/METALLICA-Load-768x380.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/METALLICA-Load-1536x760.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/05/METALLICA-Load-1080x535.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/METALLICA-Load.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="507" src="/wp-content/uploads/2021/05/METALLICA-Load-1024x507.jpg" alt="" class="wp-image-2993" title="" srcset="/wp-content/uploads/2021/05/METALLICA-Load-1024x507.jpg 1024w, /wp-content/uploads/2021/05/METALLICA-Load-600x297.jpg 600w, /wp-content/uploads/2021/05/METALLICA-Load-300x149.jpg 300w, /wp-content/uploads/2021/05/METALLICA-Load-768x380.jpg 768w, /wp-content/uploads/2021/05/METALLICA-Load-1536x760.jpg 1536w, /wp-content/uploads/2021/05/METALLICA-Load-1080x535.jpg 1080w, /wp-content/uploads/2021/05/METALLICA-Load.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/05/Metallica-660x330-1.png" alt="" class="wp-image-3000" width="843" height="422" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/Metallica-660x330-1.png 660w, https://www.electrikjam.com/wp-content/uploads/2021/05/Metallica-660x330-1-600x300.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/Metallica-660x330-1-300x150.png 300w" sizes="(max-width: 843px) 100vw, 843px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/05/Metallica-660x330-1.png" alt="" class="wp-image-3000" width="843" height="422" title="" srcset="/wp-content/uploads/2021/05/Metallica-660x330-1.png 660w, /wp-content/uploads/2021/05/Metallica-660x330-1-600x300.png 600w, /wp-content/uploads/2021/05/Metallica-660x330-1-300x150.png 300w" sizes="(max-width: 843px) 100vw, 843px" /></figure>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2021/05/St-Anger.jpg" alt="Metallica guitar tunings" class="wp-image-2994" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/St-Anger.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2021/05/St-Anger-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/St-Anger-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/05/St-Anger-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/St-Anger-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/05/St-Anger-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2021/05/St-Anger.jpg" alt="Metallica guitar tunings" class="wp-image-2994" title="" srcset="/wp-content/uploads/2021/05/St-Anger.jpg 1000w, /wp-content/uploads/2021/05/St-Anger-300x300.jpg 300w, /wp-content/uploads/2021/05/St-Anger-100x100.jpg 100w, /wp-content/uploads/2021/05/St-Anger-600x600.jpg 600w, /wp-content/uploads/2021/05/St-Anger-150x150.jpg 150w, /wp-content/uploads/2021/05/St-Anger-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="573" src="https://www.electrikjam.com/wp-content/uploads/2021/05/Ride-The-Lightning-1024x573.jpeg" alt="" class="wp-image-3001" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/05/Ride-The-Lightning-1024x573.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/05/Ride-The-Lightning-600x336.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2021/05/Ride-The-Lightning-300x168.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2021/05/Ride-The-Lightning-768x430.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2021/05/Ride-The-Lightning-1080x604.jpeg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/05/Ride-The-Lightning.jpeg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="573" src="/wp-content/uploads/2021/05/Ride-The-Lightning-1024x573.jpeg" alt="" class="wp-image-3001" title="" srcset="/wp-content/uploads/2021/05/Ride-The-Lightning-1024x573.jpeg 1024w, /wp-content/uploads/2021/05/Ride-The-Lightning-600x336.jpeg 600w, /wp-content/uploads/2021/05/Ride-The-Lightning-300x168.jpeg 300w, /wp-content/uploads/2021/05/Ride-The-Lightning-768x430.jpeg 768w, /wp-content/uploads/2021/05/Ride-The-Lightning-1080x604.jpeg 1080w, /wp-content/uploads/2021/05/Ride-The-Lightning.jpeg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

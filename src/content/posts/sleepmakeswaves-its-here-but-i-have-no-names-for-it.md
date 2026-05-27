@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/03/Sleepmakeswaves-band-2024.png"
+featuredImage: "/wp-content/uploads/2024/03/Sleepmakeswaves-band-2024.png"
 featuredImageAlt: "Sleepmakeswaves"
 seo: 
   title: "Sleepmakeswaves: \"It's Here, But I Have No Names For It\" Album Review"
@@ -90,7 +90,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" width="637" height="481" src="https://www.electrikjam.com/wp-content/uploads/2024/03/sleepmakeswaves.webp" alt="sleepmakeswaves" class="wp-image-14528" style="width:749px;height:auto" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/sleepmakeswaves.webp 637w, https://www.electrikjam.com/wp-content/uploads/2024/03/sleepmakeswaves-600x453.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/sleepmakeswaves-300x227.webp 300w" sizes="(max-width: 637px) 100vw, 637px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" width="637" height="481" src="/wp-content/uploads/2024/03/sleepmakeswaves.webp" alt="sleepmakeswaves" class="wp-image-14528" style="width:749px;height:auto" title="" srcset="/wp-content/uploads/2024/03/sleepmakeswaves.webp 637w, /wp-content/uploads/2024/03/sleepmakeswaves-600x453.webp 600w, /wp-content/uploads/2024/03/sleepmakeswaves-300x227.webp 300w" sizes="(max-width: 637px) 100vw, 637px" /></figure>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1019" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-1019x1024.jpg" alt="sleepmakeswaves" class="wp-image-14529" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-1019x1024.jpg 1019w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-600x603.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-768x772.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10.jpg 1500w" sizes="(max-width: 1019px) 100vw, 1019px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1019" height="1024" src="/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-1019x1024.jpg" alt="sleepmakeswaves" class="wp-image-14529" title="" srcset="/wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-1019x1024.jpg 1019w, /wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-300x300.jpg 300w, /wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-100x100.jpg 100w, /wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-600x603.jpg 600w, /wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-150x150.jpg 150w, /wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10-768x772.jpg 768w, /wp-content/uploads/2024/03/SMW_Verdigris_Albumcover_HighRes_2024-01-10.jpg 1500w" sizes="(max-width: 1019px) 100vw, 1019px" /></figure>
 
 
 
@@ -298,7 +298,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-724x1024.jpg" alt="sleepmakeswaves" class="wp-image-14530" style="width:740px;height:auto" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-724x1024.jpg 724w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-600x848.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-212x300.jpg 212w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-768x1086.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29.jpg 800w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="/wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-724x1024.jpg" alt="sleepmakeswaves" class="wp-image-14530" style="width:740px;height:auto" title="" srcset="/wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-724x1024.jpg 724w, /wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-600x848.jpg 600w, /wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-212x300.jpg 212w, /wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29-768x1086.jpg 768w, /wp-content/uploads/2024/03/SMW_CirclePoster_A2_USA-Dates_01_2024-01-29.jpg 800w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
 
 
 

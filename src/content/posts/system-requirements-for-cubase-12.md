@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements.png"
+featuredImage: "/wp-content/uploads/2023/08/cubase-12-system-requirements.png"
 featuredImageAlt: "cubase 12 system requirements"
 seo: 
   title: "System Requirements for Cubase: Here's Exactly What You Need"

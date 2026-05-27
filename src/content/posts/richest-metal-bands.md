@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/03/The-15-Richest-Metal-Bands-.png"
+featuredImage: "/wp-content/uploads/2024/03/The-15-Richest-Metal-Bands-.png"
 featuredImageAlt: "The 15 Richest Metal Bands"
 seo: 
   title: "15 Richest Metal Bands: Meet The BILLION Dollar Metal Band"
@@ -66,7 +66,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png" alt="What Pickups Does James Hetfield Use" class="wp-image-7090" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png" alt="What Pickups Does James Hetfield Use" class="wp-image-7090" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -324,7 +324,7 @@ https://www.youtube.com/watch?v=Xqjify__PWw
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" width="320" height="480" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Happy-Leonardo-Dicaprio-GIF.gif" alt="" class="wp-image-18353" title=""></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="320" height="480" src="/wp-content/uploads/2025/08/Happy-Leonardo-Dicaprio-GIF.gif" alt="" class="wp-image-18353" title=""></figure>
 
 
 
@@ -362,7 +362,7 @@ https://www.youtube.com/watch?v=Xqjify__PWw
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="976" src="https://www.electrikjam.com/wp-content/uploads/2025/08/metallica-t-shirt-1024x976.jpg" alt="" class="wp-image-18354" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/metallica-t-shirt-1024x976.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/metallica-t-shirt-600x572.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/metallica-t-shirt-300x286.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/metallica-t-shirt-768x732.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/metallica-t-shirt.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="976" src="/wp-content/uploads/2025/08/metallica-t-shirt-1024x976.jpg" alt="" class="wp-image-18354" title="" srcset="/wp-content/uploads/2025/08/metallica-t-shirt-1024x976.jpg 1024w, /wp-content/uploads/2025/08/metallica-t-shirt-600x572.jpg 600w, /wp-content/uploads/2025/08/metallica-t-shirt-300x286.jpg 300w, /wp-content/uploads/2025/08/metallica-t-shirt-768x732.jpg 768w, /wp-content/uploads/2025/08/metallica-t-shirt.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -406,7 +406,7 @@ https://www.youtube.com/watch?v=Xqjify__PWw
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png" alt="Best Ghost Album" class="wp-image-7313" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png" alt="Best Ghost Album" class="wp-image-7313" title="" srcset="/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png 1024w, /wp-content/uploads/2022/03/Best-Ghost-Album-600x400.png 600w, /wp-content/uploads/2022/03/Best-Ghost-Album-300x200.png 300w, /wp-content/uploads/2022/03/Best-Ghost-Album-768x512.png 768w, /wp-content/uploads/2022/03/Best-Ghost-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -442,7 +442,7 @@ https://www.youtube.com/watch?v=Xqjify__PWw
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/streaming-is-terrible-for-bands-1024x683.png" alt="" class="wp-image-14439" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/streaming-is-terrible-for-bands-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/streaming-is-terrible-for-bands-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/streaming-is-terrible-for-bands-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/streaming-is-terrible-for-bands-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/streaming-is-terrible-for-bands.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/streaming-is-terrible-for-bands-1024x683.png" alt="" class="wp-image-14439" title="" srcset="/wp-content/uploads/2024/03/streaming-is-terrible-for-bands-1024x683.png 1024w, /wp-content/uploads/2024/03/streaming-is-terrible-for-bands-600x400.png 600w, /wp-content/uploads/2024/03/streaming-is-terrible-for-bands-300x200.png 300w, /wp-content/uploads/2024/03/streaming-is-terrible-for-bands-768x512.png 768w, /wp-content/uploads/2024/03/streaming-is-terrible-for-bands.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

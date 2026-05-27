@@ -22,7 +22,7 @@ tagSlugs:
   - "mastodon"
 tagPaths: 
   - "/tag/mastodon/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics.png"
+featuredImage: "/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics.png"
 featuredImageAlt: "Mastodon Hushed and Grim Lyrics"
 seo: 
   title: "Mastodon Hushed and Grim Lyrics – All Tracks In Full"
@@ -47,7 +47,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="942" height="644" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics.png" alt="Mastodon Hushed and Grim Lyrics" class="wp-image-5488" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics.png 942w, https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics-600x410.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics-300x205.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics-768x525.png 768w" sizes="(max-width: 942px) 100vw, 942px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="942" height="644" src="/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics.png" alt="Mastodon Hushed and Grim Lyrics" class="wp-image-5488" title="" srcset="/wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics.png 942w, /wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics-600x410.png 600w, /wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics-300x205.png 300w, /wp-content/uploads/2021/11/Mastodon-Hushed-and-Grim-Lyrics-768x525.png 768w" sizes="(max-width: 942px) 100vw, 942px" /></figure>
 
 
 

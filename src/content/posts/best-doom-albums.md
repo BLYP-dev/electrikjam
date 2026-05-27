@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/01/best-doom-metal-albums-all-time.png"
+featuredImage: "/wp-content/uploads/2024/01/best-doom-metal-albums-all-time.png"
 featuredImageAlt: "best doom metal albums all time"
 seo: 
   title: "The 25 \"Most Essential\" Best Doom Albums of All Time"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="707" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Doom-Metal-A-Total-Beginners-Guide…-1024x707.jpg" alt="doom metal" class="wp-image-1046" title=""></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="707" src="/wp-content/uploads/2020/10/Doom-Metal-A-Total-Beginners-Guide…-1024x707.jpg" alt="doom metal" class="wp-image-1046" title=""></figure>
 
 
 

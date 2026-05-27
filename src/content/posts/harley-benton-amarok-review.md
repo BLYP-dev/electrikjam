@@ -25,7 +25,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/HB-amarok-scaled-e1639644841398.jpg"
+featuredImage: "/wp-content/uploads/2021/11/HB-amarok-scaled-e1639644841398.jpg"
 featuredImageAlt: "Harley benton Amarok"
 seo: 
   title: "Harley Benton Amarok Review: Amazing Features From The #1 Budget Brand!"
@@ -74,7 +74,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="757" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-benton-Amarok-6--1024x757.jpg" alt="Harley benton amarok" class="wp-image-5869" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-benton-Amarok-6--1024x757.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-benton-Amarok-6--600x443.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-benton-Amarok-6--300x222.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-benton-Amarok-6--768x568.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-benton-Amarok-6--1080x798.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-benton-Amarok-6-.jpg 1402w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>The Harley Benton Amarok 6 String Version</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="757" src="/wp-content/uploads/2021/11/Harley-benton-Amarok-6--1024x757.jpg" alt="Harley benton amarok" class="wp-image-5869" title="" srcset="/wp-content/uploads/2021/11/Harley-benton-Amarok-6--1024x757.jpg 1024w, /wp-content/uploads/2021/11/Harley-benton-Amarok-6--600x443.jpg 600w, /wp-content/uploads/2021/11/Harley-benton-Amarok-6--300x222.jpg 300w, /wp-content/uploads/2021/11/Harley-benton-Amarok-6--768x568.jpg 768w, /wp-content/uploads/2021/11/Harley-benton-Amarok-6--1080x798.jpg 1080w, /wp-content/uploads/2021/11/Harley-benton-Amarok-6-.jpg 1402w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>The Harley Benton Amarok 6 String Version</strong></em></figcaption></figure>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-amarok-7-string.jpg" alt="" class="wp-image-5873" width="841" height="561" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-amarok-7-string.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Harley-amarok-7-string-300x200.jpg 300w" sizes="(max-width: 841px) 100vw, 841px" /><figcaption><em><strong>Rear View: Through Neck Construction</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/Harley-amarok-7-string.jpg" alt="" class="wp-image-5873" width="841" height="561" title="" srcset="/wp-content/uploads/2021/11/Harley-amarok-7-string.jpg 600w, /wp-content/uploads/2021/11/Harley-amarok-7-string-300x200.jpg 300w" sizes="(max-width: 841px) 100vw, 841px" /><figcaption><em><strong>Rear View: Through Neck Construction</strong></em></figcaption></figure>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/harley-7-string-red.jpg" alt="" class="wp-image-5872" width="840" height="295" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/harley-7-string-red.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/harley-7-string-red-300x106.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><em>7 String Version Of The Amarok</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/harley-7-string-red.jpg" alt="" class="wp-image-5872" width="840" height="295" title="" srcset="/wp-content/uploads/2021/11/harley-7-string-red.jpg 600w, /wp-content/uploads/2021/11/harley-7-string-red-300x106.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><em>7 String Version Of The Amarok</em></strong></figcaption></figure>
 
 
 
