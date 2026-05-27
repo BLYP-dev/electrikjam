@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/02/Untitled-design.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design.png"
 featuredImageAlt: "starting a band"
 seo: 
   title: "Starting A Band Part 2: Essential PRO Steps After The Basics!"
@@ -60,7 +60,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2022/02/Live-at-Pour-Larrys.jpg" alt="Starting A band" class="wp-image-6851" width="844" height="429" title="" srcset="/wp-content/uploads/2022/02/Live-at-Pour-Larrys.jpg 960w, /wp-content/uploads/2022/02/Live-at-Pour-Larrys-600x305.jpg 600w, /wp-content/uploads/2022/02/Live-at-Pour-Larrys-300x153.jpg 300w, /wp-content/uploads/2022/02/Live-at-Pour-Larrys-768x390.jpg 768w" sizes="(max-width: 844px) 100vw, 844px" /><figcaption><strong><em>Me In 2012 Playing A Packed Show</em></strong></figcaption></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Live-at-Pour-Larrys.jpg" alt="Starting A band" class="wp-image-6851" width="844" height="429" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Live-at-Pour-Larrys.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2022/02/Live-at-Pour-Larrys-600x305.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Live-at-Pour-Larrys-300x153.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Live-at-Pour-Larrys-768x390.jpg 768w" sizes="(max-width: 844px) 100vw, 844px" /><figcaption><strong><em>Me In 2012 Playing A Packed Show</em></strong></figcaption></figure></div>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter"><img decoding="async" width="960" height="539" src="/wp-content/uploads/2022/02/Studio.jpg" alt="" class="wp-image-6852" title="" srcset="/wp-content/uploads/2022/02/Studio.jpg 960w, /wp-content/uploads/2022/02/Studio-600x337.jpg 600w, /wp-content/uploads/2022/02/Studio-300x168.jpg 300w, /wp-content/uploads/2022/02/Studio-768x431.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><strong><em>In The Studio: 2015. We Had Fun!</em></strong></figcaption></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter"><img decoding="async" width="960" height="539" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Studio.jpg" alt="" class="wp-image-6852" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Studio.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2022/02/Studio-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Studio-300x168.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Studio-768x431.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><strong><em>In The Studio: 2015. We Had Fun!</em></strong></figcaption></figure></div>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="960" height="539" src="/wp-content/uploads/2022/02/Studio-2.jpg" alt="" class="wp-image-6853" title="" srcset="/wp-content/uploads/2022/02/Studio-2.jpg 960w, /wp-content/uploads/2022/02/Studio-2-600x337.jpg 600w, /wp-content/uploads/2022/02/Studio-2-300x168.jpg 300w, /wp-content/uploads/2022/02/Studio-2-768x431.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em><strong>Recording On Tape: 2015</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="960" height="539" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Studio-2.jpg" alt="" class="wp-image-6853" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Studio-2.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2022/02/Studio-2-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Studio-2-300x168.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Studio-2-768x431.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em><strong>Recording On Tape: 2015</strong></em></figcaption></figure>
 
 
 

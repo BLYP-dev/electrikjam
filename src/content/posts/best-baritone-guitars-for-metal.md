@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/04/Danelectro-Baritone.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone.png"
 featuredImageAlt: "Danelectro Baritone"
 seo: 
   title: "Best Baritone Guitars For Metal: Budget, Premium & High-End"
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/PRS-SE-277-1024x683.png" alt="PRS SE 277" class="wp-image-11708" title="" srcset="/wp-content/uploads/2023/04/PRS-SE-277-1024x683.png 1024w, /wp-content/uploads/2023/04/PRS-SE-277-600x400.png 600w, /wp-content/uploads/2023/04/PRS-SE-277-300x200.png 300w, /wp-content/uploads/2023/04/PRS-SE-277-768x512.png 768w, /wp-content/uploads/2023/04/PRS-SE-277.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-1024x683.png" alt="PRS SE 277" class="wp-image-11708" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-1024x683.jpg" alt="Squier Classic Vibe Baritone Custom Telecaster" class="wp-image-18426" title="" srcset="/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-600x400.jpg 600w, /wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-300x200.jpg 300w, /wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-768x512.jpg 768w, /wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-1024x683.jpg" alt="Squier Classic Vibe Baritone Custom Telecaster" class="wp-image-18426" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Squier-Classic-Vibe-Baritone-Custom-Telecaster.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png" alt="Danelectro Baritone" class="wp-image-11714" title="" srcset="/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png 1024w, /wp-content/uploads/2023/04/Danelectro-Baritone-600x400.png 600w, /wp-content/uploads/2023/04/Danelectro-Baritone-300x200.png 300w, /wp-content/uploads/2023/04/Danelectro-Baritone-768x512.png 768w, /wp-content/uploads/2023/04/Danelectro-Baritone.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png" alt="Danelectro Baritone" class="wp-image-11714" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/ESP-E-II-M-II-7B-1024x683.png" alt="ESP E-II M-II 7B" class="wp-image-11713" title="" srcset="/wp-content/uploads/2023/04/ESP-E-II-M-II-7B-1024x683.png 1024w, /wp-content/uploads/2023/04/ESP-E-II-M-II-7B-600x400.png 600w, /wp-content/uploads/2023/04/ESP-E-II-M-II-7B-300x200.png 300w, /wp-content/uploads/2023/04/ESP-E-II-M-II-7B-768x512.png 768w, /wp-content/uploads/2023/04/ESP-E-II-M-II-7B.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-E-II-M-II-7B-1024x683.png" alt="ESP E-II M-II 7B" class="wp-image-11713" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-E-II-M-II-7B-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-E-II-M-II-7B-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-E-II-M-II-7B-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-E-II-M-II-7B-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-E-II-M-II-7B.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -376,7 +376,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/ESP-LTD-BB-600-1024x683.png" alt="ESP LTD BB-600" class="wp-image-11709" title="" srcset="/wp-content/uploads/2023/04/ESP-LTD-BB-600-1024x683.png 1024w, /wp-content/uploads/2023/04/ESP-LTD-BB-600-600x400.png 600w, /wp-content/uploads/2023/04/ESP-LTD-BB-600-300x200.png 300w, /wp-content/uploads/2023/04/ESP-LTD-BB-600-768x512.png 768w, /wp-content/uploads/2023/04/ESP-LTD-BB-600.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-1024x683.png" alt="ESP LTD BB-600" class="wp-image-11709" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -448,7 +448,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-1024x683.png" alt="Ibanez Iron Label RGIB21" class="wp-image-11711" title="" srcset="/wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-1024x683.png 1024w, /wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-600x400.png 600w, /wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-300x200.png 300w, /wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-768x512.png 768w, /wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-1024x683.png" alt="Ibanez Iron Label RGIB21" class="wp-image-11711" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Ibanez-Iron-Label-RGIB21.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -528,7 +528,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-1024x683.png" alt="Gretsch G5260T Electromatic Jet" class="wp-image-11710" title="" srcset="/wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-1024x683.png 1024w, /wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-600x400.png 600w, /wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-300x200.png 300w, /wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-768x512.png 768w, /wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-1024x683.png" alt="Gretsch G5260T Electromatic Jet" class="wp-image-11710" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Gretsch-G5260T-Electromatic-Jet.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -644,7 +644,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Reverend-Descent-HC90-1-1024x683.png" alt="Reverend Descent HC90 (1)" class="wp-image-11712" title="" srcset="/wp-content/uploads/2023/04/Reverend-Descent-HC90-1-1024x683.png 1024w, /wp-content/uploads/2023/04/Reverend-Descent-HC90-1-600x400.png 600w, /wp-content/uploads/2023/04/Reverend-Descent-HC90-1-300x200.png 300w, /wp-content/uploads/2023/04/Reverend-Descent-HC90-1-768x512.png 768w, /wp-content/uploads/2023/04/Reverend-Descent-HC90-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Reverend-Descent-HC90-1-1024x683.png" alt="Reverend Descent HC90 (1)" class="wp-image-11712" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Reverend-Descent-HC90-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Reverend-Descent-HC90-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Reverend-Descent-HC90-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Reverend-Descent-HC90-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Reverend-Descent-HC90-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

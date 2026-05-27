@@ -22,7 +22,7 @@ tagSlugs:
   - "music-mastering"
 tagPaths: 
   - "/tag/music-mastering/"
-featuredImage: "/wp-content/uploads/2024/04/How-Much-Does-Mastering-Cost-.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/How-Much-Does-Mastering-Cost-.png"
 featuredImageAlt: "How Much Does Mastering Cost"
 seo: 
   title: "How Much Does Music Mastering Cost? (& Is It Worth It?)"
@@ -165,7 +165,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png" alt="Music Mastering Cost" class="wp-image-14789" title="" srcset="/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png 1024w, /wp-content/uploads/2024/04/Music-Mastering-Cost-600x400.png 600w, /wp-content/uploads/2024/04/Music-Mastering-Cost-300x200.png 300w, /wp-content/uploads/2024/04/Music-Mastering-Cost-768x512.png 768w, /wp-content/uploads/2024/04/Music-Mastering-Cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png" alt="Music Mastering Cost" class="wp-image-14789" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Music-Mastering-Cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -319,7 +319,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2024/04/bob-ludwig-1024x768.jpg" alt="" class="wp-image-14780" title="" srcset="/wp-content/uploads/2024/04/bob-ludwig-1024x768.jpg 1024w, /wp-content/uploads/2024/04/bob-ludwig-600x450.jpg 600w, /wp-content/uploads/2024/04/bob-ludwig-300x225.jpg 300w, /wp-content/uploads/2024/04/bob-ludwig-768x576.jpg 768w, /wp-content/uploads/2024/04/bob-ludwig-1536x1152.jpg 1536w, /wp-content/uploads/2024/04/bob-ludwig.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">This is Bob Ludwig (AKA Golden Ears). You probably haven&#8217;t heard of him but he is known as the greatest mastering engineer to have ever graced our planet.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-1024x768.jpg" alt="" class="wp-image-14780" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2024/04/bob-ludwig.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">This is Bob Ludwig (AKA Golden Ears). You probably haven&#8217;t heard of him but he is known as the greatest mastering engineer to have ever graced our planet.</figcaption></figure>
 
 
 
@@ -347,7 +347,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Mastering-101-1024x683.png" alt="Mastering 101" class="wp-image-14685" title="" srcset="/wp-content/uploads/2024/04/Mastering-101-1024x683.png 1024w, /wp-content/uploads/2024/04/Mastering-101-600x400.png 600w, /wp-content/uploads/2024/04/Mastering-101-300x200.png 300w, /wp-content/uploads/2024/04/Mastering-101-768x512.png 768w, /wp-content/uploads/2024/04/Mastering-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-101-1024x683.png" alt="Mastering 101" class="wp-image-14685" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-101-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-101-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-101-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-101-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "frfr-speakers"
 tagPaths: 
   - "/tag/frfr-speakers/"
-featuredImage: "/wp-content/uploads/2021/09/what-is-an-frfr-speaker-e1631777921241.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/what-is-an-frfr-speaker-e1631777921241.png"
 featuredImageAlt: "what is an frfr speaker"
 seo: 
   title: "What is An FRFR Speaker Cabinet? A Pros & CONS Guide"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="832" src="/wp-content/uploads/2021/09/what-is-an-frfr-speaker-1024x832.png" alt="what is an frfr speaker" class="wp-image-4227" title=""></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="832" src="https://www.electrikjam.com/wp-content/uploads/2021/09/what-is-an-frfr-speaker-1024x832.png" alt="what is an frfr speaker" class="wp-image-4227" title=""></figure>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="980" height="653" src="/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="Matt-Pike" class="wp-image-2820" title="" srcset="/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, /wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, /wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, /wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, /wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="980" height="653" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="Matt-Pike" class="wp-image-2820" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-scaled.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-scaled.jpg"
 featuredImageAlt: "Rites of Percussion"
 seo: 
   title: "Dave Lombardo \"Rites Of Percussion\" Album Review: 13 Tracks Of Rhythmic Ferocity!"
@@ -156,7 +156,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-1024x576.jpg" alt="Rites of percussion Dave Lombardo" class="wp-image-11775" width="840" height="472" title="" srcset="/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-1024x576.jpg 1024w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-600x338.jpg 600w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-300x169.jpg 300w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-768x432.jpg 768w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva.jpg 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption class="wp-element-caption"><strong><em>Photo Credit: Ekaterina Gorbacheva</em></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-1024x576.jpg" alt="Rites of percussion Dave Lombardo" class="wp-image-11775" width="840" height="472" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-photo-by-Ekaterina-Gorbacheva.jpg 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption class="wp-element-caption"><strong><em>Photo Credit: Ekaterina Gorbacheva</em></strong></figcaption></figure>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-1024x683.png" alt="Dave Lombardo Rites of Percussion" class="wp-image-11776" title="" srcset="/wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-1024x683.png 1024w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-600x400.png 600w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-300x200.png 300w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-768x512.png 768w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-1024x683.png" alt="Dave Lombardo Rites of Percussion" class="wp-image-11776" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-oF-percussion-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-1024x1024.jpg" alt="Rites of Percussion" class="wp-image-11774" title="" srcset="/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-1024x1024.jpg 1024w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-300x300.jpg 300w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-scaled-100x100.jpg 100w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-scaled-600x600.jpg 600w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-150x150.jpg 150w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-768x768.jpg 768w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-1536x1536.jpg 1536w, /wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-1024x1024.jpg" alt="Rites of Percussion" class="wp-image-11774" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-scaled-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-scaled-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2023/04/Dave-Lombardo-Rites-of-Percussion-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

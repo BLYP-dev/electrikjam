@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2022/06/Voltreus.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/06/Voltreus.png"
 featuredImageAlt: "Voltreus 2022"
 seo: 
   title: "VOLTREUS Release 1st New Single: \"Relinquish\""
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n.jpg" alt="Voltreus 2022" class="wp-image-8242" width="844" height="602" title="" srcset="/wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n.jpg 772w, /wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n-600x428.jpg 600w, /wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n-300x214.jpg 300w, /wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n-768x548.jpg 768w" sizes="(max-width: 844px) 100vw, 844px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n.jpg" alt="Voltreus 2022" class="wp-image-8242" width="844" height="602" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n.jpg 772w, https://www.electrikjam.com/wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n-600x428.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n-300x214.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/281340598_542209377348162_8889377349137384111_n-768x548.jpg 768w" sizes="(max-width: 844px) 100vw, 844px" /></figure>
 
 
 

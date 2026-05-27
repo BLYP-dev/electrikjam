@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/12/largest-pB.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/largest-pB.jpg"
 featuredImageAlt: "weirdest guitar pedals"
 seo: 
   title: "The BEST Guitar Pedals EVER [1968-2023] – All The Icons..."
@@ -113,7 +113,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/03/Boss-ds1-1024x1024.jpg" alt="best guitar pedals" class="wp-image-2482" title="" srcset="/wp-content/uploads/2021/03/Boss-ds1-1024x1024.jpg 1024w, /wp-content/uploads/2021/03/Boss-ds1-300x300.jpg 300w, /wp-content/uploads/2021/03/Boss-ds1-100x100.jpg 100w, /wp-content/uploads/2021/03/Boss-ds1-600x600.jpg 600w, /wp-content/uploads/2021/03/Boss-ds1-150x150.jpg 150w, /wp-content/uploads/2021/03/Boss-ds1-768x768.jpg 768w, /wp-content/uploads/2021/03/Boss-ds1-1536x1536.jpg 1536w, /wp-content/uploads/2021/03/Boss-ds1-2048x2048.jpg 2048w, /wp-content/uploads/2021/03/Boss-ds1-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BOSS DS-1</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-1024x1024.jpg" alt="best guitar pedals" class="wp-image-2482" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-2048x2048.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BOSS DS-1</figcaption></figure>
 
 
 
@@ -149,7 +149,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/03/MXR-Super-Badass-1024x1024.jpg" alt="" class="wp-image-2485" title="" srcset="/wp-content/uploads/2021/03/MXR-Super-Badass-1024x1024.jpg 1024w, /wp-content/uploads/2021/03/MXR-Super-Badass-300x300.jpg 300w, /wp-content/uploads/2021/03/MXR-Super-Badass-100x100.jpg 100w, /wp-content/uploads/2021/03/MXR-Super-Badass-600x600.jpg 600w, /wp-content/uploads/2021/03/MXR-Super-Badass-150x150.jpg 150w, /wp-content/uploads/2021/03/MXR-Super-Badass-768x768.jpg 768w, /wp-content/uploads/2021/03/MXR-Super-Badass-1080x1080.jpg 1080w, /wp-content/uploads/2021/03/MXR-Super-Badass.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-1024x1024.jpg" alt="" class="wp-image-2485" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -193,7 +193,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="914" height="1024" src="/wp-content/uploads/2021/03/Ibanez-Tube-screamer-914x1024.jpg" alt="" class="wp-image-2483" title="" srcset="/wp-content/uploads/2021/03/Ibanez-Tube-screamer-914x1024.jpg 914w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer-600x672.jpg 600w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer-268x300.jpg 268w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer-768x860.jpg 768w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer-1080x1210.jpg 1080w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer.jpg 1082w" sizes="(max-width: 914px) 100vw, 914px" /><figcaption class="wp-element-caption">Ibanez TS9</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="914" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-914x1024.jpg" alt="" class="wp-image-2483" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-914x1024.jpg 914w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-600x672.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-268x300.jpg 268w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-768x860.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-1080x1210.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer.jpg 1082w" sizes="(max-width: 914px) 100vw, 914px" /><figcaption class="wp-element-caption">Ibanez TS9</figcaption></figure>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2021/04/Fulltone-ocd.jpg" alt="" class="wp-image-2869" title="" srcset="/wp-content/uploads/2021/04/Fulltone-ocd.jpg 1000w, /wp-content/uploads/2021/04/Fulltone-ocd-300x300.jpg 300w, /wp-content/uploads/2021/04/Fulltone-ocd-100x100.jpg 100w, /wp-content/uploads/2021/04/Fulltone-ocd-600x600.jpg 600w, /wp-content/uploads/2021/04/Fulltone-ocd-150x150.jpg 150w, /wp-content/uploads/2021/04/Fulltone-ocd-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption class="wp-element-caption">OCD Overdrive</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Fulltone-ocd.jpg" alt="" class="wp-image-2869" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Fulltone-ocd.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fulltone-ocd-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fulltone-ocd-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fulltone-ocd-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fulltone-ocd-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fulltone-ocd-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption class="wp-element-caption">OCD Overdrive</figcaption></figure>
 
 
 
@@ -245,7 +245,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/04/BOSS-Blues-Driver-1024x1024.jpg" alt="" class="wp-image-2872" title="" srcset="/wp-content/uploads/2021/04/BOSS-Blues-Driver-1024x1024.jpg 1024w, /wp-content/uploads/2021/04/BOSS-Blues-Driver-300x300.jpg 300w, /wp-content/uploads/2021/04/BOSS-Blues-Driver-100x100.jpg 100w, /wp-content/uploads/2021/04/BOSS-Blues-Driver-600x600.jpg 600w, /wp-content/uploads/2021/04/BOSS-Blues-Driver-150x150.jpg 150w, /wp-content/uploads/2021/04/BOSS-Blues-Driver-768x768.jpg 768w, /wp-content/uploads/2021/04/BOSS-Blues-Driver-1536x1536.jpg 1536w, /wp-content/uploads/2021/04/BOSS-Blues-Driver-2048x2048.jpg 2048w, /wp-content/uploads/2021/04/BOSS-Blues-Driver-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BOSS Blues Driver</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-1024x1024.jpg" alt="" class="wp-image-2872" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-2048x2048.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/04/BOSS-Blues-Driver-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BOSS Blues Driver</figcaption></figure>
 
 
 
@@ -293,7 +293,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/04/Fuzz-Face-pedal-1024x1024.jpg" alt="" class="wp-image-2875" title="" srcset="/wp-content/uploads/2021/04/Fuzz-Face-pedal-1024x1024.jpg 1024w, /wp-content/uploads/2021/04/Fuzz-Face-pedal-300x300.jpg 300w, /wp-content/uploads/2021/04/Fuzz-Face-pedal-100x100.jpg 100w, /wp-content/uploads/2021/04/Fuzz-Face-pedal-600x600.jpg 600w, /wp-content/uploads/2021/04/Fuzz-Face-pedal-150x150.jpg 150w, /wp-content/uploads/2021/04/Fuzz-Face-pedal-768x768.jpg 768w, /wp-content/uploads/2021/04/Fuzz-Face-pedal-1080x1080.jpg 1080w, /wp-content/uploads/2021/04/Fuzz-Face-pedal.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal-1024x1024.jpg" alt="" class="wp-image-2875" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Fuzz-Face-pedal.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -321,7 +321,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="/wp-content/uploads/2020/12/boss-front-page-1-1024x640.jpg" alt="" class="wp-image-1549" title="" srcset="/wp-content/uploads/2020/12/boss-front-page-1-1024x640.jpg 1024w, /wp-content/uploads/2020/12/boss-front-page-1-600x375.jpg 600w, /wp-content/uploads/2020/12/boss-front-page-1-300x188.jpg 300w, /wp-content/uploads/2020/12/boss-front-page-1-768x480.jpg 768w, /wp-content/uploads/2020/12/boss-front-page-1-1536x960.jpg 1536w, /wp-content/uploads/2020/12/boss-front-page-1.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BOSS Tone Bender</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-1024x640.jpg" alt="" class="wp-image-1549" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-1024x640.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-600x375.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-300x188.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-768x480.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1-1536x960.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/boss-front-page-1.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BOSS Tone Bender</figcaption></figure>
 
 
 
@@ -345,7 +345,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg" alt="" class="wp-image-1157" title="" srcset="/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Big-Muff-Pi-300x300.jpg 300w, /wp-content/uploads/2020/10/Big-Muff-Pi-100x100.jpg 100w, /wp-content/uploads/2020/10/Big-Muff-Pi-600x600.jpg 600w, /wp-content/uploads/2020/10/Big-Muff-Pi-150x150.jpg 150w, /wp-content/uploads/2020/10/Big-Muff-Pi-768x768.jpg 768w, /wp-content/uploads/2020/10/Big-Muff-Pi-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/Big-Muff-Pi.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Big Muff Reissue</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg" alt="" class="wp-image-1157" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Big-Muff-Pi.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Big Muff Reissue</figcaption></figure>
 
 
 
@@ -389,7 +389,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/04/Small-Clone-1024x683.jpg" alt="" class="wp-image-2879" title="" srcset="/wp-content/uploads/2021/04/Small-Clone-1024x683.jpg 1024w, /wp-content/uploads/2021/04/Small-Clone-600x400.jpg 600w, /wp-content/uploads/2021/04/Small-Clone-300x200.jpg 300w, /wp-content/uploads/2021/04/Small-Clone-768x512.jpg 768w, /wp-content/uploads/2021/04/Small-Clone-1080x720.jpg 1080w, /wp-content/uploads/2021/04/Small-Clone-360x240.jpg 360w, /wp-content/uploads/2021/04/Small-Clone.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Small-Clone-1024x683.jpg" alt="" class="wp-image-2879" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Small-Clone-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Small-Clone-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Small-Clone-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Small-Clone-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Small-Clone-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Small-Clone-360x240.jpg 360w, https://www.electrikjam.com/wp-content/uploads/2021/04/Small-Clone.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -413,7 +413,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/Julia-Chorus.jpg" alt="" class="wp-image-2882" width="841" height="542" title="" srcset="/wp-content/uploads/2021/04/Julia-Chorus.jpg 600w, /wp-content/uploads/2021/04/Julia-Chorus-300x194.jpg 300w" sizes="(max-width: 841px) 100vw, 841px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Julia-Chorus.jpg" alt="" class="wp-image-2882" width="841" height="542" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Julia-Chorus.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Julia-Chorus-300x194.jpg 300w" sizes="(max-width: 841px) 100vw, 841px" /></figure>
 
 
 
@@ -437,7 +437,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/Boss-Chorus.jpg" alt="" class="wp-image-2885" width="846" height="846" title="" srcset="/wp-content/uploads/2021/04/Boss-Chorus.jpg 620w, /wp-content/uploads/2021/04/Boss-Chorus-300x300.jpg 300w, /wp-content/uploads/2021/04/Boss-Chorus-100x100.jpg 100w, /wp-content/uploads/2021/04/Boss-Chorus-600x600.jpg 600w, /wp-content/uploads/2021/04/Boss-Chorus-150x150.jpg 150w" sizes="(max-width: 846px) 100vw, 846px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Chorus.jpg" alt="" class="wp-image-2885" width="846" height="846" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Chorus.jpg 620w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Chorus-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Chorus-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Chorus-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Boss-Chorus-150x150.jpg 150w" sizes="(max-width: 846px) 100vw, 846px" /></figure>
 
 
 
@@ -481,7 +481,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/MXR-Carbon-copy.jpg" alt="" class="wp-image-2888" width="817" height="573" title="" srcset="/wp-content/uploads/2021/04/MXR-Carbon-copy.jpg 750w, /wp-content/uploads/2021/04/MXR-Carbon-copy-600x421.jpg 600w, /wp-content/uploads/2021/04/MXR-Carbon-copy-300x210.jpg 300w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/MXR-Carbon-copy.jpg" alt="" class="wp-image-2888" width="817" height="573" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/MXR-Carbon-copy.jpg 750w, https://www.electrikjam.com/wp-content/uploads/2021/04/MXR-Carbon-copy-600x421.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/MXR-Carbon-copy-300x210.jpg 300w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
 
 
 
@@ -505,7 +505,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="986" height="959" src="/wp-content/uploads/2021/04/Behringer-Delay-Pedal.jpg" alt="" class="wp-image-2891" title="" srcset="/wp-content/uploads/2021/04/Behringer-Delay-Pedal.jpg 986w, /wp-content/uploads/2021/04/Behringer-Delay-Pedal-600x584.jpg 600w, /wp-content/uploads/2021/04/Behringer-Delay-Pedal-300x292.jpg 300w, /wp-content/uploads/2021/04/Behringer-Delay-Pedal-768x747.jpg 768w" sizes="(max-width: 986px) 100vw, 986px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="986" height="959" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Behringer-Delay-Pedal.jpg" alt="" class="wp-image-2891" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Behringer-Delay-Pedal.jpg 986w, https://www.electrikjam.com/wp-content/uploads/2021/04/Behringer-Delay-Pedal-600x584.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Behringer-Delay-Pedal-300x292.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Behringer-Delay-Pedal-768x747.jpg 768w" sizes="(max-width: 986px) 100vw, 986px" /></figure>
 
 
 
@@ -533,7 +533,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/Strymon-Timeline-Delay.jpg" alt="" class="wp-image-2894" width="826" height="615" title="" srcset="/wp-content/uploads/2021/04/Strymon-Timeline-Delay.jpg 750w, /wp-content/uploads/2021/04/Strymon-Timeline-Delay-600x446.jpg 600w, /wp-content/uploads/2021/04/Strymon-Timeline-Delay-300x223.jpg 300w" sizes="(max-width: 826px) 100vw, 826px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Strymon-Timeline-Delay.jpg" alt="" class="wp-image-2894" width="826" height="615" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Strymon-Timeline-Delay.jpg 750w, https://www.electrikjam.com/wp-content/uploads/2021/04/Strymon-Timeline-Delay-600x446.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Strymon-Timeline-Delay-300x223.jpg 300w" sizes="(max-width: 826px) 100vw, 826px" /></figure>
 
 
 
@@ -573,7 +573,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="800" height="800" src="/wp-content/uploads/2021/04/Holy-grail-reverb.jpg" alt="" class="wp-image-2897" title="" srcset="/wp-content/uploads/2021/04/Holy-grail-reverb.jpg 800w, /wp-content/uploads/2021/04/Holy-grail-reverb-300x300.jpg 300w, /wp-content/uploads/2021/04/Holy-grail-reverb-100x100.jpg 100w, /wp-content/uploads/2021/04/Holy-grail-reverb-600x600.jpg 600w, /wp-content/uploads/2021/04/Holy-grail-reverb-150x150.jpg 150w, /wp-content/uploads/2021/04/Holy-grail-reverb-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="800" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Holy-grail-reverb.jpg" alt="" class="wp-image-2897" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Holy-grail-reverb.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/04/Holy-grail-reverb-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Holy-grail-reverb-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/Holy-grail-reverb-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Holy-grail-reverb-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/Holy-grail-reverb-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -609,7 +609,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2021/04/Afterneath-reverb.jpg" alt="" class="wp-image-2900" title="" srcset="/wp-content/uploads/2021/04/Afterneath-reverb.jpg 1000w, /wp-content/uploads/2021/04/Afterneath-reverb-300x300.jpg 300w, /wp-content/uploads/2021/04/Afterneath-reverb-100x100.jpg 100w, /wp-content/uploads/2021/04/Afterneath-reverb-600x600.jpg 600w, /wp-content/uploads/2021/04/Afterneath-reverb-150x150.jpg 150w, /wp-content/uploads/2021/04/Afterneath-reverb-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Afterneath-reverb.jpg" alt="" class="wp-image-2900" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Afterneath-reverb.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2021/04/Afterneath-reverb-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Afterneath-reverb-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/Afterneath-reverb-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Afterneath-reverb-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/Afterneath-reverb-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -641,7 +641,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/04/Dispatch-Master-1024x1024.jpg" alt="" class="wp-image-2927" title="" srcset="/wp-content/uploads/2021/04/Dispatch-Master-1024x1024.jpg 1024w, /wp-content/uploads/2021/04/Dispatch-Master-300x300.jpg 300w, /wp-content/uploads/2021/04/Dispatch-Master-100x100.jpg 100w, /wp-content/uploads/2021/04/Dispatch-Master-600x600.jpg 600w, /wp-content/uploads/2021/04/Dispatch-Master-150x150.jpg 150w, /wp-content/uploads/2021/04/Dispatch-Master-768x768.jpg 768w, /wp-content/uploads/2021/04/Dispatch-Master-1080x1080.jpg 1080w, /wp-content/uploads/2021/04/Dispatch-Master.jpg 1450w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master-1024x1024.jpg" alt="" class="wp-image-2927" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dispatch-Master.jpg 1450w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -669,7 +669,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/04/Dod-Rubberneck-delay-1024x1024.jpg" alt="" class="wp-image-2928" title="" srcset="/wp-content/uploads/2021/04/Dod-Rubberneck-delay-1024x1024.jpg 1024w, /wp-content/uploads/2021/04/Dod-Rubberneck-delay-300x300.jpg 300w, /wp-content/uploads/2021/04/Dod-Rubberneck-delay-100x100.jpg 100w, /wp-content/uploads/2021/04/Dod-Rubberneck-delay-600x600.jpg 600w, /wp-content/uploads/2021/04/Dod-Rubberneck-delay-150x150.jpg 150w, /wp-content/uploads/2021/04/Dod-Rubberneck-delay-768x768.jpg 768w, /wp-content/uploads/2021/04/Dod-Rubberneck-delay-1536x1536.jpg 1536w, /wp-content/uploads/2021/04/Dod-Rubberneck-delay-2048x2048.jpg 2048w, /wp-content/uploads/2021/04/Dod-Rubberneck-delay-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-1024x1024.jpg" alt="" class="wp-image-2928" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-2048x2048.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/04/Dod-Rubberneck-delay-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

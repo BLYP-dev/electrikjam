@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "/wp-content/uploads/2021/09/line-six-helix-logo.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/line-six-helix-logo.png"
 featuredImageAlt: "line-six-helix-logo"
 seo: 
   title: "Line 6 Helix Recording Techniques: The #1 BEST Guide!"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="630" height="149" src="/wp-content/uploads/2021/09/Line-6-back.jpg" alt="line 6 helix recording techniques" class="wp-image-3960" title="" srcset="/wp-content/uploads/2021/09/Line-6-back.jpg 630w, /wp-content/uploads/2021/09/Line-6-back-600x142.jpg 600w, /wp-content/uploads/2021/09/Line-6-back-300x71.jpg 300w" sizes="(max-width: 630px) 100vw, 630px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="630" height="149" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Line-6-back.jpg" alt="line 6 helix recording techniques" class="wp-image-3960" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Line-6-back.jpg 630w, https://www.electrikjam.com/wp-content/uploads/2021/09/Line-6-back-600x142.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Line-6-back-300x71.jpg 300w" sizes="(max-width: 630px) 100vw, 630px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="534" src="/wp-content/uploads/2021/09/helix-floor-front-lg-2020-1024x534.png" alt="" class="wp-image-3929" title="" srcset="/wp-content/uploads/2021/09/helix-floor-front-lg-2020-1024x534.png 1024w, /wp-content/uploads/2021/09/helix-floor-front-lg-2020-600x313.png 600w, /wp-content/uploads/2021/09/helix-floor-front-lg-2020-300x156.png 300w, /wp-content/uploads/2021/09/helix-floor-front-lg-2020-768x400.png 768w, /wp-content/uploads/2021/09/helix-floor-front-lg-2020-1080x563.png 1080w, /wp-content/uploads/2021/09/helix-floor-front-lg-2020.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="534" src="https://www.electrikjam.com/wp-content/uploads/2021/09/helix-floor-front-lg-2020-1024x534.png" alt="" class="wp-image-3929" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/helix-floor-front-lg-2020-1024x534.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-floor-front-lg-2020-600x313.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-floor-front-lg-2020-300x156.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-floor-front-lg-2020-768x400.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-floor-front-lg-2020-1080x563.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-floor-front-lg-2020.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1019" height="596" src="/wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9.jpg" alt="" class="wp-image-4210" title="" srcset="/wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9.jpg 1019w, /wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9-600x351.jpg 600w, /wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9-300x175.jpg 300w, /wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9-768x449.jpg 768w" sizes="(max-width: 1019px) 100vw, 1019px" /><figcaption>HX Edit</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1019" height="596" src="https://www.electrikjam.com/wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9.jpg" alt="" class="wp-image-4210" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9.jpg 1019w, https://www.electrikjam.com/wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9-600x351.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9-300x175.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/hel.jpg.dac3cb5cf815f4fbf4f70e95891c31e9-768x449.jpg 768w" sizes="(max-width: 1019px) 100vw, 1019px" /><figcaption>HX Edit</figcaption></figure>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/line6-powercab-1024x1024.jpg" alt="" class="wp-image-4211" title="" srcset="/wp-content/uploads/2021/09/line6-powercab-1024x1024.jpg 1024w, /wp-content/uploads/2021/09/line6-powercab-300x300.jpg 300w, /wp-content/uploads/2021/09/line6-powercab-100x100.jpg 100w, /wp-content/uploads/2021/09/line6-powercab-600x600.jpg 600w, /wp-content/uploads/2021/09/line6-powercab-150x150.jpg 150w, /wp-content/uploads/2021/09/line6-powercab-768x768.jpg 768w, /wp-content/uploads/2021/09/line6-powercab-1080x1080.jpg 1080w, /wp-content/uploads/2021/09/line6-powercab.jpg 1148w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Line 6 Helix recording techniques: Old school speakers!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab-1024x1024.jpg" alt="" class="wp-image-4211" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/line6-powercab.jpg 1148w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Line 6 Helix recording techniques: Old school speakers!</figcaption></figure>
 
 
 

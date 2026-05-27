@@ -60,7 +60,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="936" height="868" src="/wp-content/uploads/2021/03/epiphone-sg.png" alt="" class="wp-image-2419 size-full" title="" srcset="/wp-content/uploads/2021/03/epiphone-sg.png 936w, /wp-content/uploads/2021/03/epiphone-sg-600x556.png 600w, /wp-content/uploads/2021/03/epiphone-sg-300x278.png 300w, /wp-content/uploads/2021/03/epiphone-sg-768x712.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="936" height="868" src="https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg.png" alt="" class="wp-image-2419 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg.png 936w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg-600x556.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg-300x278.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg-768x712.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure><div class="wp-block-media-text__content">
 <h2 class="wp-block-heading"><strong>Epiphone SG Standard</strong></h2>
 
 
@@ -82,7 +82,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg" alt="" class="wp-image-1235 size-full" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-300x300.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-100x100.jpg 100w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-600x600.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-150x150.jpg 150w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-768x768.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1536x1536.jpg 1536w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg" alt="" class="wp-image-1235 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h2 class="wp-block-heading"><strong>ESP LTD EC-1000</strong></h2>
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="706" src="/wp-content/uploads/2021/01/How-To-Buy-An-Expensive-Guitar-FOR-LESS-1024x706.png" alt="How To Buy An Expensive Guitar (FOR LESS)" class="wp-image-1709 size-full" title=""></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="706" src="https://www.electrikjam.com/wp-content/uploads/2021/01/How-To-Buy-An-Expensive-Guitar-FOR-LESS-1024x706.png" alt="How To Buy An Expensive Guitar (FOR LESS)" class="wp-image-1709 size-full" title=""></figure><div class="wp-block-media-text__content">
 <h2 class="wp-block-heading"><strong>Gibson Les Paul Custom</strong></h2>
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="846" src="/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg" alt="" class="wp-image-1927 size-full" title="" srcset="/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg 1024w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-600x496.jpg 600w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-300x248.jpg 300w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-768x634.jpg 768w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="846" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg" alt="" class="wp-image-1927 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-600x496.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-300x248.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-768x634.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h2 class="wp-block-heading"><strong>Positive Grid Spark Amp</strong></h2>
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="696" src="/wp-content/uploads/2021/01/is-bias-fx-worth-it-1024x696.png" alt="Save 50% on Positive Grid’s EPIC BIAS FX 2" class="wp-image-1735 size-full" title=""></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="696" src="https://www.electrikjam.com/wp-content/uploads/2021/01/is-bias-fx-worth-it-1024x696.png" alt="Save 50% on Positive Grid’s EPIC BIAS FX 2" class="wp-image-1735 size-full" title=""></figure><div class="wp-block-media-text__content">
 <h2 class="wp-block-heading">BIAS FX 2</h2>
 
 
@@ -186,7 +186,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1011" height="667" src="/wp-content/uploads/2020/10/Ernie-Ball-10s.jpg" alt="" class="wp-image-796 size-full" title="" srcset="/wp-content/uploads/2020/10/Ernie-Ball-10s.jpg 1011w, /wp-content/uploads/2020/10/Ernie-Ball-10s-600x396.jpg 600w, /wp-content/uploads/2020/10/Ernie-Ball-10s-300x198.jpg 300w, /wp-content/uploads/2020/10/Ernie-Ball-10s-768x507.jpg 768w" sizes="(max-width: 1011px) 100vw, 1011px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1011" height="667" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s.jpg" alt="" class="wp-image-796 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s.jpg 1011w, https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s-600x396.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s-300x198.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s-768x507.jpg 768w" sizes="(max-width: 1011px) 100vw, 1011px" /></figure><div class="wp-block-media-text__content">
 <h2 class="wp-block-heading"><strong>Ernie Ball 10 &#8211; 46</strong></h2>
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/jazz-III-1024x1024.jpg" alt="best guitar picks for metal" class="wp-image-455 size-full" title="" srcset="/wp-content/uploads/2020/09/jazz-III.jpg 1024w, /wp-content/uploads/2020/09/jazz-III-300x300.jpg 300w, /wp-content/uploads/2020/09/jazz-III-100x100.jpg 100w, /wp-content/uploads/2020/09/jazz-III-600x600.jpg 600w, /wp-content/uploads/2020/09/jazz-III-150x150.jpg 150w, /wp-content/uploads/2020/09/jazz-III-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-1024x1024.jpg" alt="best guitar picks for metal" class="wp-image-455 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/jazz-III-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h2 class="wp-block-heading"><strong>Dunlop Jazz III</strong></h2>
 
 

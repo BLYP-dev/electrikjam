@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "/wp-content/uploads/2021/09/line-6-helix-lt.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/line-6-helix-lt.jpg"
 featuredImageAlt: "line-6-helix-lt"
 seo: 
   title: "Line 6 Helix LT Reviews: The Awesome Makeover That The Helix Needed!"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/Helix-LT-1024x1024.webp" alt="Line 6 helix lt" class="wp-image-4476" title="" srcset="/wp-content/uploads/2021/09/Helix-LT-1024x1024.webp 1024w, /wp-content/uploads/2021/09/Helix-LT-300x300.webp 300w, /wp-content/uploads/2021/09/Helix-LT-100x100.webp 100w, /wp-content/uploads/2021/09/Helix-LT-600x600.webp 600w, /wp-content/uploads/2021/09/Helix-LT-150x150.webp 150w, /wp-content/uploads/2021/09/Helix-LT-768x768.webp 768w, /wp-content/uploads/2021/09/Helix-LT-1536x1536.webp 1536w, /wp-content/uploads/2021/09/Helix-LT-1080x1080.webp 1080w, /wp-content/uploads/2021/09/Helix-LT.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-1024x1024.webp" alt="Line 6 helix lt" class="wp-image-4476" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-1024x1024.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-150x150.webp 150w, https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-768x768.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-1536x1536.webp 1536w, https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT-1080x1080.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Helix-LT.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="534" src="/wp-content/uploads/2021/09/helix-LT-back-lg-1024x534.png" alt="" class="wp-image-4477" title="" srcset="/wp-content/uploads/2021/09/helix-LT-back-lg-1024x534.png 1024w, /wp-content/uploads/2021/09/helix-LT-back-lg-600x313.png 600w, /wp-content/uploads/2021/09/helix-LT-back-lg-300x156.png 300w, /wp-content/uploads/2021/09/helix-LT-back-lg-768x400.png 768w, /wp-content/uploads/2021/09/helix-LT-back-lg-1080x563.png 1080w, /wp-content/uploads/2021/09/helix-LT-back-lg.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Back Panel of the Helix LT</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="534" src="https://www.electrikjam.com/wp-content/uploads/2021/09/helix-LT-back-lg-1024x534.png" alt="" class="wp-image-4477" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/helix-LT-back-lg-1024x534.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-LT-back-lg-600x313.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-LT-back-lg-300x156.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-LT-back-lg-768x400.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-LT-back-lg-1080x563.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/helix-LT-back-lg.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Back Panel of the Helix LT</strong></em></figcaption></figure>
 
 
 

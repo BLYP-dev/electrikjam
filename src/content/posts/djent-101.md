@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/04/what-is-djent.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/what-is-djent.png"
 featuredImageAlt: "what is djent"
 seo: 
   title: "Djent 101: Everything You Need To Know"
@@ -51,7 +51,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-1024x683.png" alt="What Guitar Amp Does Meshuggah Use" class="wp-image-7562" title="" srcset="/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-1024x683.png 1024w, /wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-600x400.png 600w, /wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-300x200.png 300w, /wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-768x512.png 768w, /wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-1024x683.png" alt="What Guitar Amp Does Meshuggah Use" class="wp-image-7562" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Amp-Does-Meshuggah-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg" alt="what-guitars-do-meshuggah-use" class="wp-image-849" title="" srcset="/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg 1000w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-300x300.jpg 300w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-100x100.jpg 100w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-600x600.jpg 600w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-150x150.jpg 150w, /wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg" alt="what-guitars-do-meshuggah-use" class="wp-image-849" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/what-guitars-do-meshuggah-use-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 

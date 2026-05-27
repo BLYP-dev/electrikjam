@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2022/08/Gretsch-P90-Streamliner.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner.png"
 featuredImageAlt: "Gretsch P90 Streamliner"
 seo: 
   title: "This Is The Best Cheap P90 Guitar Right Now – Here’s Why"
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-1024x683.png" alt="" class="wp-image-8670" title="" srcset="/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-1024x683.png 1024w, /wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-600x400.png 600w, /wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-300x200.png 300w, /wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-768x512.png 768w, /wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-1024x683.png" alt="" class="wp-image-8670" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Gretsch-P90-Streamliner-Jr-Jet-Club.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

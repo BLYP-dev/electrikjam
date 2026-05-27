@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg"
 featuredImageAlt: "gibson vs epiphone"
 seo: 
   title: "Epiphone Prophecy 2020 Lineup: New GORGEOUS Models For Metal!"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg" alt="" class="wp-image-1233" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Just give me all of them.</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg" alt="" class="wp-image-1233" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Just give me all of them.</em></figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg" alt="" class="wp-image-1235" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-300x300.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-100x100.jpg 100w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-600x600.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-150x150.jpg 150w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-768x768.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1536x1536.jpg 1536w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Original Prophecy Les Paul 2011</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg" alt="" class="wp-image-1235" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Original Prophecy Les Paul 2011</figcaption></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="960" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-Les-Paul-2020.jpg" alt="" class="wp-image-1238" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-Les-Paul-2020.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Les-Paul-2020-600x750.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Les-Paul-2020-240x300.jpg 240w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Red Tiger Gloss Finish</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="960" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Les-Paul-2020.jpg" alt="" class="wp-image-1238" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Les-Paul-2020.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Les-Paul-2020-600x750.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Les-Paul-2020-240x300.jpg 240w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Red Tiger Gloss Finish</figcaption></figure>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="960" height="640" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020.jpg" alt="" class="wp-image-1239" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020.jpg 960w, /wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020-600x400.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020-300x200.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="960" height="640" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020.jpg" alt="" class="wp-image-1239" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-SG-2020-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 
@@ -177,7 +177,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="960" src="/wp-content/uploads/2020/11/Flying-V-prophechy-2020.jpg" alt="" class="wp-image-1240" title="" srcset="/wp-content/uploads/2020/11/Flying-V-prophechy-2020.jpg 768w, /wp-content/uploads/2020/11/Flying-V-prophechy-2020-600x750.jpg 600w, /wp-content/uploads/2020/11/Flying-V-prophechy-2020-240x300.jpg 240w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Flying V is Black Gloss Finish</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="960" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Flying-V-prophechy-2020.jpg" alt="" class="wp-image-1240" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Flying-V-prophechy-2020.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Flying-V-prophechy-2020-600x750.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Flying-V-prophechy-2020-240x300.jpg 240w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Flying V is Black Gloss Finish</figcaption></figure>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="960" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-Extura.jpg" alt="" class="wp-image-1241" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-Extura.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Extura-600x750.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Extura-240x300.jpg 240w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Purple Tiger Aged Gloss </figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="960" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Extura.jpg" alt="" class="wp-image-1241" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Extura.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Extura-600x750.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Extura-240x300.jpg 240w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Purple Tiger Aged Gloss </figcaption></figure>
 
 
 
@@ -308,17 +308,17 @@ seo:
 <div class="rank-math-steps ">
 <div id="howto-step-1605542679416" class="rank-math-step">
 <h3 class="rank-math-step-title ">The Epiphone Prophecy 2020 Lineup Has A Forgotten Legacy&#8230;.</h3>
-<div class="rank-math-step-content "><img decoding="async" width="1800" height="1800" src="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg 1800w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-300x300.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-100x100.jpg 100w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-600x600.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-150x150.jpg 150w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-768x768.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1536x1536.jpg 1536w" sizes="(max-width: 1800px) 100vw, 1800px" title=""><p>These original Prophecy models sold really well and most reviews were very positive for the models. Critics and players praised the &#8220;stage ready&#8221; models and the general consensus was that the Prophecy models were some of the best <a class="wpil_keyword_link " href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked">guitars</a> Epiphone ever made.</p>
+<div class="rank-math-step-content "><img decoding="async" width="1800" height="1800" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg" class="attachment-full size-full" alt="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg 1800w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1536x1536.jpg 1536w" sizes="(max-width: 1800px) 100vw, 1800px" title=""><p>These original Prophecy models sold really well and most reviews were very positive for the models. Critics and players praised the &#8220;stage ready&#8221; models and the general consensus was that the Prophecy models were some of the best <a class="wpil_keyword_link " href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked">guitars</a> Epiphone ever made.</p>
 </div>
 </div>
 <div id="howto-step-1605542743171" class="rank-math-step">
 <h3 class="rank-math-step-title ">Epiphone Prophecy 2020 Lineup: Amazing Features on A Budget</h3>
-<div class="rank-math-step-content "><img decoding="async" width="1200" height="550" src="/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg" class="attachment-full size-full" alt="gibson vs epiphone" srcset="/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg 1200w, /wp-content/uploads/2020/11/epiphone-2020-lineup-600x275.jpg 600w, /wp-content/uploads/2020/11/epiphone-2020-lineup-300x138.jpg 300w, /wp-content/uploads/2020/11/epiphone-2020-lineup-1024x469.jpg 1024w, /wp-content/uploads/2020/11/epiphone-2020-lineup-768x352.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""><p>This year, <a href="https://www.electrikjam.com/new-epiphone-es-models-for-2020-inspired-by-gibson/">Epiphone not only released new models</a> under the Prophecy moniker, the lineup has been completely revamped and expanded.</p>
+<div class="rank-math-step-content "><img decoding="async" width="1200" height="550" src="https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg" class="attachment-full size-full" alt="gibson vs epiphone" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg 1200w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-600x275.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-300x138.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-1024x469.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/epiphone-2020-lineup-768x352.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""><p>This year, <a href="https://www.electrikjam.com/new-epiphone-es-models-for-2020-inspired-by-gibson/">Epiphone not only released new models</a> under the Prophecy moniker, the lineup has been completely revamped and expanded.</p>
 </div>
 </div>
 <div id="howto-step-1605542834827" class="rank-math-step">
 <h3 class="rank-math-step-title ">Epiphone Prophecy 2020 Guitars: Final Thoughts&#8230;</h3>
-<div class="rank-math-step-content "><img decoding="async" width="1540" height="850" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w" sizes="(max-width: 1540px) 100vw, 1540px" title=""><p>If you ask me, Epiphone has been knocking it out of the park in 2020 with literally <em>all </em>of their models. The company usually referred to as &#8220;Gibson&#8217;s Affordable Little Brother&#8221; has made some big changes in design and features.</p>
+<div class="rank-math-step-content "><img decoding="async" width="1540" height="850" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg" class="attachment-full size-full" alt="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w" sizes="(max-width: 1540px) 100vw, 1540px" title=""><p>If you ask me, Epiphone has been knocking it out of the park in 2020 with literally <em>all </em>of their models. The company usually referred to as &#8220;Gibson&#8217;s Affordable Little Brother&#8221; has made some big changes in design and features.</p>
 </div>
 </div>
 </div>

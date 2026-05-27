@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "/wp-content/uploads/2020/10/best-guitar-tuner-review.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/best-guitar-tuner-review.jpg"
 featuredImageAlt: "best-guitar-tuner-review"
 seo: 
   title: "The 5 Best Electric Guitar Tuners: Beginner & Pro Options"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="536" src="/wp-content/uploads/2020/10/Best-Guitar-Tuners-1024x536.jpg" alt="" class="wp-image-864" title="" srcset="/wp-content/uploads/2020/10/Best-Guitar-Tuners-1024x536.jpg 1024w, /wp-content/uploads/2020/10/Best-Guitar-Tuners-600x314.jpg 600w, /wp-content/uploads/2020/10/Best-Guitar-Tuners-300x157.jpg 300w, /wp-content/uploads/2020/10/Best-Guitar-Tuners-768x402.jpg 768w, /wp-content/uploads/2020/10/Best-Guitar-Tuners.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="536" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Best-Guitar-Tuners-1024x536.jpg" alt="" class="wp-image-864" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Best-Guitar-Tuners-1024x536.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Best-Guitar-Tuners-600x314.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Best-Guitar-Tuners-300x157.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Best-Guitar-Tuners-768x402.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Best-Guitar-Tuners.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="654" height="1024" src="/wp-content/uploads/2020/10/Fender-Bullet-654x1024.jpg" alt="" class="wp-image-867" title="" srcset="/wp-content/uploads/2020/10/Fender-Bullet-654x1024.jpg 654w, /wp-content/uploads/2020/10/Fender-Bullet-600x939.jpg 600w, /wp-content/uploads/2020/10/Fender-Bullet-192x300.jpg 192w, /wp-content/uploads/2020/10/Fender-Bullet-768x1202.jpg 768w, /wp-content/uploads/2020/10/Fender-Bullet-981x1536.jpg 981w, /wp-content/uploads/2020/10/Fender-Bullet.jpg 1150w" sizes="(max-width: 654px) 100vw, 654px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="654" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Fender-Bullet-654x1024.jpg" alt="" class="wp-image-867" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Fender-Bullet-654x1024.jpg 654w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fender-Bullet-600x939.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fender-Bullet-192x300.jpg 192w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fender-Bullet-768x1202.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fender-Bullet-981x1536.jpg 981w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fender-Bullet.jpg 1150w" sizes="(max-width: 654px) 100vw, 654px" /></figure>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/Thomann-tuner-1024x576.jpg" alt="" class="wp-image-868" title="" srcset="/wp-content/uploads/2020/10/Thomann-tuner-1024x576.jpg 1024w, /wp-content/uploads/2020/10/Thomann-tuner-600x338.jpg 600w, /wp-content/uploads/2020/10/Thomann-tuner-300x169.jpg 300w, /wp-content/uploads/2020/10/Thomann-tuner-768x432.jpg 768w, /wp-content/uploads/2020/10/Thomann-tuner.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Thomann-tuner-1024x576.jpg" alt="" class="wp-image-868" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Thomann-tuner-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Thomann-tuner-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Thomann-tuner-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Thomann-tuner-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Thomann-tuner.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Dadarrio-PW-1024x1024.jpg" alt="" class="wp-image-869" title="" srcset="/wp-content/uploads/2020/10/Dadarrio-PW-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Dadarrio-PW-300x300.jpg 300w, /wp-content/uploads/2020/10/Dadarrio-PW-100x100.jpg 100w, /wp-content/uploads/2020/10/Dadarrio-PW-600x600.jpg 600w, /wp-content/uploads/2020/10/Dadarrio-PW-150x150.jpg 150w, /wp-content/uploads/2020/10/Dadarrio-PW-768x768.jpg 768w, /wp-content/uploads/2020/10/Dadarrio-PW.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Dadarrio-PW-1024x1024.jpg" alt="" class="wp-image-869" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Dadarrio-PW-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Dadarrio-PW-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Dadarrio-PW-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Dadarrio-PW-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Dadarrio-PW-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Dadarrio-PW-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Dadarrio-PW.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="685" src="/wp-content/uploads/2020/10/Korg-Ca-1024x685.jpg" alt="" class="wp-image-874" title="" srcset="/wp-content/uploads/2020/10/Korg-Ca-1024x685.jpg 1024w, /wp-content/uploads/2020/10/Korg-Ca-600x401.jpg 600w, /wp-content/uploads/2020/10/Korg-Ca-300x201.jpg 300w, /wp-content/uploads/2020/10/Korg-Ca-768x514.jpg 768w, /wp-content/uploads/2020/10/Korg-Ca.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="685" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Ca-1024x685.jpg" alt="" class="wp-image-874" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Ca-1024x685.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Ca-600x401.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Ca-300x201.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Ca-768x514.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Ca.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Powerpplant-1024x1024.jpg" alt="" class="wp-image-875" title="" srcset="/wp-content/uploads/2020/10/Powerpplant-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Powerpplant-300x300.jpg 300w, /wp-content/uploads/2020/10/Powerpplant-100x100.jpg 100w, /wp-content/uploads/2020/10/Powerpplant-600x600.jpg 600w, /wp-content/uploads/2020/10/Powerpplant-150x150.jpg 150w, /wp-content/uploads/2020/10/Powerpplant-768x768.jpg 768w, /wp-content/uploads/2020/10/Powerpplant.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Powerpplant-1024x1024.jpg" alt="" class="wp-image-875" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Powerpplant-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Powerpplant-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Powerpplant-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Powerpplant-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Powerpplant-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Powerpplant-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Powerpplant.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

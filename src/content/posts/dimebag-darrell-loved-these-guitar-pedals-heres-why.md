@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide.png"
 featuredImageAlt: "Dimebag Darrell Pedal Guide"
 seo: 
   title: "Dimebag Darrell Loved These Guitar Pedals – Here’s Why…"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-1024x683.png" alt="Dimebag Darrell Pedal Guide" class="wp-image-10631" title="" srcset="/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-1024x683.png 1024w, /wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-600x400.png 600w, /wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-300x200.png 300w, /wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-768x512.png 768w, /wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-1024x683.png" alt="Dimebag Darrell Pedal Guide" class="wp-image-10631" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-1024x683.png" alt="how to sound like dimebag darrell" class="wp-image-10632" width="840" height="560" title="" srcset="/wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-1024x683.png 1024w, /wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-600x400.png 600w, /wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-300x200.png 300w, /wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-768x512.png 768w, /wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-1024x683.png" alt="how to sound like dimebag darrell" class="wp-image-10632" width="840" height="560" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/how-to-sound-like-dimebag-darrell.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /></figure>
 
 
 

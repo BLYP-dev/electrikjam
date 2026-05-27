@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "/wp-content/uploads/2021/10/Fretboard-123.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/Fretboard-123.jpg"
 featuredImageAlt: "Fretboard"
 seo: 
   title: "12 Guitar Fretboard Hacks That Every Beginner Should Know"
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/10/12th-fret-1024x768.jpg" alt="fretboard" class="wp-image-5273" title="" srcset="/wp-content/uploads/2021/10/12th-fret-1024x768.jpg 1024w, /wp-content/uploads/2021/10/12th-fret-600x450.jpg 600w, /wp-content/uploads/2021/10/12th-fret-300x225.jpg 300w, /wp-content/uploads/2021/10/12th-fret-768x576.jpg 768w, /wp-content/uploads/2021/10/12th-fret-510x382.jpg 510w, /wp-content/uploads/2021/10/12th-fret-1080x810.jpg 1080w, /wp-content/uploads/2021/10/12th-fret.jpg 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>The 12th Fret</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/10/12th-fret-1024x768.jpg" alt="fretboard" class="wp-image-5273" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/12th-fret-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/12th-fret-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/12th-fret-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/12th-fret-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/12th-fret-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/10/12th-fret-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/12th-fret.jpg 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>The 12th Fret</strong></em></figcaption></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="819" height="873" src="/wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE.jpg" alt="" class="wp-image-5274" title="" srcset="/wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE.jpg 819w, /wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE-600x640.jpg 600w, /wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE-281x300.jpg 281w, /wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE-768x819.jpg 768w" sizes="(max-width: 819px) 100vw, 819px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="819" height="873" src="https://www.electrikjam.com/wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE.jpg" alt="" class="wp-image-5274" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE.jpg 819w, https://www.electrikjam.com/wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE-600x640.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE-281x300.jpg 281w, https://www.electrikjam.com/wp-content/uploads/2021/10/DIAGRAM-2-A-MINOR-BLUES-SCALE-768x819.jpg 768w" sizes="(max-width: 819px) 100vw, 819px" /></figure>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/10/20211027_094547-1024x768.jpg" alt="" class="wp-image-5275" title="" srcset="/wp-content/uploads/2021/10/20211027_094547-1024x768.jpg 1024w, /wp-content/uploads/2021/10/20211027_094547-scaled-600x450.jpg 600w, /wp-content/uploads/2021/10/20211027_094547-300x225.jpg 300w, /wp-content/uploads/2021/10/20211027_094547-768x576.jpg 768w, /wp-content/uploads/2021/10/20211027_094547-1536x1152.jpg 1536w, /wp-content/uploads/2021/10/20211027_094547-2048x1536.jpg 2048w, /wp-content/uploads/2021/10/20211027_094547-510x382.jpg 510w, /wp-content/uploads/2021/10/20211027_094547-1080x810.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Example Of Finding An Octave</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-1024x768.jpg" alt="" class="wp-image-5275" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-scaled-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-2048x1536.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/10/20211027_094547-1080x810.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Example Of Finding An Octave</figcaption></figure>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/10/Triads.jpg" alt="" class="wp-image-5276" width="682" height="882" title="" srcset="/wp-content/uploads/2021/10/Triads.jpg 564w, /wp-content/uploads/2021/10/Triads-232x300.jpg 232w, /wp-content/uploads/2021/10/Triads-400x516.jpg 400w" sizes="(max-width: 682px) 100vw, 682px" /><figcaption><a href="https://eatsleepguitar.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="12756"><strong>Photo Credit: Eat, Sleep, Guitar</strong></a></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Triads.jpg" alt="" class="wp-image-5276" width="682" height="882" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Triads.jpg 564w, https://www.electrikjam.com/wp-content/uploads/2021/10/Triads-232x300.jpg 232w, https://www.electrikjam.com/wp-content/uploads/2021/10/Triads-400x516.jpg 400w" sizes="(max-width: 682px) 100vw, 682px" /><figcaption><a href="https://eatsleepguitar.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="12756"><strong>Photo Credit: Eat, Sleep, Guitar</strong></a></figcaption></figure>
 			
 		
 
@@ -310,7 +310,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="750" height="676" src="/wp-content/uploads/2021/10/d-hero-750.jpg" alt="" class="wp-image-5277" title="" srcset="/wp-content/uploads/2021/10/d-hero-750.jpg 750w, /wp-content/uploads/2021/10/d-hero-750-600x541.jpg 600w, /wp-content/uploads/2021/10/d-hero-750-300x270.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="750" height="676" src="https://www.electrikjam.com/wp-content/uploads/2021/10/d-hero-750.jpg" alt="" class="wp-image-5277" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/d-hero-750.jpg 750w, https://www.electrikjam.com/wp-content/uploads/2021/10/d-hero-750-600x541.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/d-hero-750-300x270.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
 			
 		
 
@@ -340,7 +340,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="787" height="332" src="/wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK.jpg" alt="" class="wp-image-5278" title="" srcset="/wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK.jpg 787w, /wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK-600x253.jpg 600w, /wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK-300x127.jpg 300w, /wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK-768x324.jpg 768w" sizes="(max-width: 787px) 100vw, 787px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="787" height="332" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK.jpg" alt="" class="wp-image-5278" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK.jpg 787w, https://www.electrikjam.com/wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK-600x253.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK-300x127.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Em-MINOR-PENTATONIC-SCALE-OK-768x324.jpg 768w" sizes="(max-width: 787px) 100vw, 787px" /></figure>
 			
 		
 

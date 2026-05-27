@@ -28,7 +28,7 @@ tagPaths:
   - "/tag/fender/"
   - "/tag/gibson/"
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender.png"
 featuredImageAlt: "Guitar Brands That AREN’T Gibson or Fender"
 seo: 
   title: "6 Epic Guitar Brands That AREN’T Gibson or Fender"
@@ -62,7 +62,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-1024x853.png" alt="Guitar Brands That AREN’T Gibson or Fender" class="wp-image-6408" title="" srcset="/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-1024x853.png 1024w, /wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-600x500.png 600w, /wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-300x250.png 300w, /wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-768x640.png 768w, /wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-1080x900.png 1080w, /wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-1024x853.png" alt="Guitar Brands That AREN’T Gibson or Fender" class="wp-image-6408" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Guitar-Brands-That-ARENT-Gibson-or-Fender.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -76,7 +76,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="604" src="/wp-content/uploads/2021/09/PRS-SE-245-1-1024x604.png" alt="PRS SE 245" class="wp-image-4267" title=""></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="604" src="https://www.electrikjam.com/wp-content/uploads/2021/09/PRS-SE-245-1-1024x604.png" alt="PRS SE 245" class="wp-image-4267" title=""></figure>
 			
 		
 
@@ -106,7 +106,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-1024x576.png" alt="" class="wp-image-1792" title="" srcset="/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-1024x576.png 1024w, /wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-600x337.png 600w, /wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-300x169.png 300w, /wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-768x432.png 768w, /wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue.png 1074w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-1024x576.png" alt="" class="wp-image-1792" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-600x337.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue.png 1074w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -136,7 +136,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="942" height="1024" src="/wp-content/uploads/2022/01/Music-Man-942x1024.png" alt="" class="wp-image-6407" title="" srcset="/wp-content/uploads/2022/01/Music-Man-942x1024.png 942w, /wp-content/uploads/2022/01/Music-Man-600x652.png 600w, /wp-content/uploads/2022/01/Music-Man-276x300.png 276w, /wp-content/uploads/2022/01/Music-Man-768x835.png 768w, /wp-content/uploads/2022/01/Music-Man-1080x1174.png 1080w, /wp-content/uploads/2022/01/Music-Man.png 1154w" sizes="(max-width: 942px) 100vw, 942px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="942" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Music-Man-942x1024.png" alt="" class="wp-image-6407" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Music-Man-942x1024.png 942w, https://www.electrikjam.com/wp-content/uploads/2022/01/Music-Man-600x652.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Music-Man-276x300.png 276w, https://www.electrikjam.com/wp-content/uploads/2022/01/Music-Man-768x835.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Music-Man-1080x1174.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Music-Man.png 1154w" sizes="(max-width: 942px) 100vw, 942px" /></figure>
 			
 		
 
@@ -166,7 +166,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Schecter-Demon-8-8-String-Electric-Guitar-1024x683.webp" alt="Schecter Demon-8 8-String Electric Guitar" class="wp-image-5416" title=""></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Schecter-Demon-8-8-String-Electric-Guitar-1024x683.webp" alt="Schecter Demon-8 8-String Electric Guitar" class="wp-image-5416" title=""></figure>
 			
 		
 
@@ -196,7 +196,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="960" height="1024" src="/wp-content/uploads/2022/01/CHARVEL-960x1024.png" alt="" class="wp-image-6406" title="" srcset="/wp-content/uploads/2022/01/CHARVEL-960x1024.png 960w, /wp-content/uploads/2022/01/CHARVEL-600x640.png 600w, /wp-content/uploads/2022/01/CHARVEL-281x300.png 281w, /wp-content/uploads/2022/01/CHARVEL-768x820.png 768w, /wp-content/uploads/2022/01/CHARVEL-1080x1153.png 1080w, /wp-content/uploads/2022/01/CHARVEL.png 1220w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="960" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/01/CHARVEL-960x1024.png" alt="" class="wp-image-6406" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/CHARVEL-960x1024.png 960w, https://www.electrikjam.com/wp-content/uploads/2022/01/CHARVEL-600x640.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/CHARVEL-281x300.png 281w, https://www.electrikjam.com/wp-content/uploads/2022/01/CHARVEL-768x820.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/CHARVEL-1080x1153.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/CHARVEL.png 1220w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 			
 		
 
@@ -226,7 +226,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2021/11/charvel-dk24-2.webp" alt="" class="wp-image-5445" title="" srcset="/wp-content/uploads/2021/11/charvel-dk24-2.webp 500w, /wp-content/uploads/2021/11/charvel-dk24-2-300x300.webp 300w, /wp-content/uploads/2021/11/charvel-dk24-2-100x100.webp 100w, /wp-content/uploads/2021/11/charvel-dk24-2-150x150.webp 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2021/11/charvel-dk24-2.webp" alt="" class="wp-image-5445" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/charvel-dk24-2.webp 500w, https://www.electrikjam.com/wp-content/uploads/2021/11/charvel-dk24-2-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/charvel-dk24-2-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/11/charvel-dk24-2-150x150.webp 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 			
 		
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, /wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, /wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, /wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, /wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, /wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>Learn More About Epiphone Guitars: Best New Models, Buying Guides &amp; Tone Tips</strong></h3>
 
 

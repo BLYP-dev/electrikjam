@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left.png"
 featuredImageAlt: "M-Track-Solo-Angle-Left"
 seo: 
   title: "M-Audio Releases The M-Track Solo and Duo: Affordable Guitar Interface for 2020!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/maxresdefault-1024x576.jpg" alt="" class="wp-image-1653" title="" srcset="/wp-content/uploads/2020/12/maxresdefault-1024x576.jpg 1024w, /wp-content/uploads/2020/12/maxresdefault-600x338.jpg 600w, /wp-content/uploads/2020/12/maxresdefault-300x169.jpg 300w, /wp-content/uploads/2020/12/maxresdefault-768x432.jpg 768w, /wp-content/uploads/2020/12/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/12/maxresdefault-1024x576.jpg" alt="" class="wp-image-1653" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/maxresdefault-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/maxresdefault-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/maxresdefault-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/maxresdefault-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-1024x640.png" alt="" class="wp-image-1654" title="" srcset="/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-1024x640.png 1024w, /wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-600x375.png 600w, /wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-300x188.png 300w, /wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-768x480.png 768w, /wp-content/uploads/2020/12/M-Track-Solo-Angle-Left.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="https://www.electrikjam.com/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-1024x640.png" alt="" class="wp-image-1654" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-1024x640.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-600x375.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-300x188.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left-768x480.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/M-Track-Solo-Angle-Left.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="485" src="/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-1024x485.jpg" alt="M-Track Solo" class="wp-image-1655" title="" srcset="/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-1024x485.jpg 1024w, /wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-600x284.jpg 600w, /wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-300x142.jpg 300w, /wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-768x364.jpg 768w, /wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-1536x728.jpg 1536w, /wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Eleven Lite Software</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="485" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-1024x485.jpg" alt="M-Track Solo" class="wp-image-1655" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-1024x485.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-600x284.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-300x142.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-768x364.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven-1536x728.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/Turn-Your-Guitar-up-to-Eleven.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Eleven Lite Software</figcaption></figure>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="485" src="/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg" alt="" class="wp-image-1656" title="" srcset="/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg 1024w, /wp-content/uploads/2020/12/Start-Recording-Immediately-600x284.jpg 600w, /wp-content/uploads/2020/12/Start-Recording-Immediately-300x142.jpg 300w, /wp-content/uploads/2020/12/Start-Recording-Immediately-768x364.jpg 768w, /wp-content/uploads/2020/12/Start-Recording-Immediately-1536x728.jpg 1536w, /wp-content/uploads/2020/12/Start-Recording-Immediately.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>M-Audio Recording Software</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="485" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg" alt="" class="wp-image-1656" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-600x284.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-300x142.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-768x364.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1536x728.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>M-Audio Recording Software</figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="800" height="431" src="/wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID.jpg" alt="" class="wp-image-1660" title="" srcset="/wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID.jpg 800w, /wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID-600x323.jpg 600w, /wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID-300x162.jpg 300w, /wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID-768x414.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>AVID Effects Suite</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="431" src="https://www.electrikjam.com/wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID.jpg" alt="" class="wp-image-1660" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID-600x323.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID-300x162.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/20-effect-plugins-provided-by-AVID-768x414.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>AVID Effects Suite</figcaption></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="750" height="501" src="/wp-content/uploads/2020/12/MTrackSolo-large.jpg" alt="" class="wp-image-1657" title="" srcset="/wp-content/uploads/2020/12/MTrackSolo-large.jpg 750w, /wp-content/uploads/2020/12/MTrackSolo-large-600x401.jpg 600w, /wp-content/uploads/2020/12/MTrackSolo-large-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="750" height="501" src="https://www.electrikjam.com/wp-content/uploads/2020/12/MTrackSolo-large.jpg" alt="" class="wp-image-1657" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/MTrackSolo-large.jpg 750w, https://www.electrikjam.com/wp-content/uploads/2020/12/MTrackSolo-large-600x401.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/MTrackSolo-large-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
 
 
 <h2 class="wp-block-heading">M-Track Solo and Duo: What&#8217;s The Verdict?</h2>

@@ -28,7 +28,7 @@ tagPaths:
   - "/tag/dave-grohl/"
   - "/tag/fender/"
   - "/tag/gibson/"
-featuredImage: "/wp-content/uploads/2021/09/WHAT-GUITAR-DOES-INSERT-LEGEND-USE.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/WHAT-GUITAR-DOES-INSERT-LEGEND-USE.png"
 featuredImageAlt: "WHAT GUITAR DOES [INSERT LEGEND] USE"
 seo: 
   title: "Famous Guitarists & The Guitars They Use: A Big 'Ol List..."
@@ -81,7 +81,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png" alt="Jimmy Page’s Favourite Guitar" class="wp-image-3322" title="" srcset="/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png 1024w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-600x500.png 600w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-300x250.png 300w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-768x640.png 768w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1080x900.png 1080w, /wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="5443">Jimmy Page And His Favorite Guitar </a>–&nbsp;A Gibson Les Paul Standard</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png" alt="Jimmy Page’s Favourite Guitar" class="wp-image-3322" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/Jimmy-Pages-Favourite-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="5443">Jimmy Page And His Favorite Guitar </a>–&nbsp;A Gibson Les Paul Standard</strong></figcaption></figure>
 
 
 
@@ -121,7 +121,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg" alt="Brant-Bjork" class="wp-image-956" title="" srcset="/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Brant-Bjork-600x450.jpg 600w, /wp-content/uploads/2020/10/Brant-Bjork-300x225.jpg 300w, /wp-content/uploads/2020/10/Brant-Bjork-768x576.jpg 768w, /wp-content/uploads/2020/10/Brant-Bjork-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/Brant-Bjork.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="5447">Brant Bjork Loves His Fender Guitars</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg" alt="Brant-Bjork" class="wp-image-956" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="5447">Brant Bjork Loves His Fender Guitars</a></strong></figcaption></figure>
 
 
 

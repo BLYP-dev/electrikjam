@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/gigging-on-a-budget/"
-featuredImage: "/wp-content/uploads/2022/07/Gigging-on-a-budget.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget.png"
 featuredImageAlt: "Gigging on a budget"
 seo: 
   title: "Gigging On A Budget: Can $1500 Build A PRO Guitar Rig?"
@@ -90,7 +90,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-1024x683.png" alt="Gigging on a budget" class="wp-image-8445" title="" srcset="/wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-1024x683.png 1024w, /wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-600x400.png 600w, /wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-300x200.png 300w, /wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-768x512.png 768w, /wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Me, In 2016 With</strong> <a href="https://open.spotify.com/album/5plMAT8312tO1k7LN90RGG?si=7XdKvQJZTN-uIca9l73aQQ" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="138610"><strong>Broken Glow</strong></a></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-1024x683.png" alt="Gigging on a budget" class="wp-image-8445" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-Me-live.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Me, In 2016 With</strong> <a href="https://open.spotify.com/album/5plMAT8312tO1k7LN90RGG?si=7XdKvQJZTN-uIca9l73aQQ" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="138610"><strong>Broken Glow</strong></a></figcaption></figure>
 
 
 
@@ -150,7 +150,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-1024x683.png" alt="Gigging on a budget" class="wp-image-8446" title="" srcset="/wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-1024x683.png 1024w, /wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-600x400.png 600w, /wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-300x200.png 300w, /wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-768x512.png 768w, /wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-1024x683.png" alt="Gigging on a budget" class="wp-image-8446" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Gigging-on-a-budget-pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

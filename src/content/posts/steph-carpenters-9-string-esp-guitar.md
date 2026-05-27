@@ -22,7 +22,7 @@ tagSlugs:
   - "deftones"
 tagPaths: 
   - "/tag/deftones/"
-featuredImage: "/wp-content/uploads/2021/11/steph-carpenter-9-string-esp.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/steph-carpenter-9-string-esp.png"
 featuredImageAlt: "steph carpenter 9 string esp"
 seo: 
   title: "Meet Steph Carpenter’s New Custom 9-String ESP Guitar..."
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="962" src="/wp-content/uploads/2020/09/Steph-Carpenters-9-String-Guitar-1024x962.png" alt="" class="wp-image-639" title=""></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="962" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Steph-Carpenters-9-String-Guitar-1024x962.png" alt="" class="wp-image-639" title=""></figure>
 
 
 

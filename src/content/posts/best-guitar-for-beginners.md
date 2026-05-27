@@ -22,7 +22,7 @@ tagSlugs:
   - "popular"
 tagPaths: 
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison.png"
 featuredImageAlt: "Electric Guitar Scale Length Comparison"
 seo: 
   title: "Best Guitar For Beginners: 6 Insanely Great Options [2023]"
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Epiphone-SG-Special-1024x683.png" alt="Epiphone SG Special" class="wp-image-13235" title="" srcset="/wp-content/uploads/2021/11/Epiphone-SG-Special-1024x683.png 1024w, /wp-content/uploads/2021/11/Epiphone-SG-Special-600x400.png 600w, /wp-content/uploads/2021/11/Epiphone-SG-Special-300x200.png 300w, /wp-content/uploads/2021/11/Epiphone-SG-Special-768x512.png 768w, /wp-content/uploads/2021/11/Epiphone-SG-Special.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-SG-Special-1024x683.png" alt="Epiphone SG Special" class="wp-image-13235" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-SG-Special-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-SG-Special-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-SG-Special-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-SG-Special-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-SG-Special.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -97,7 +97,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Jackson-Dinky-JS22-1024x683.png" alt="Jackson Dinky JS22" class="wp-image-13236" title="" srcset="/wp-content/uploads/2021/11/Jackson-Dinky-JS22-1024x683.png 1024w, /wp-content/uploads/2021/11/Jackson-Dinky-JS22-600x400.png 600w, /wp-content/uploads/2021/11/Jackson-Dinky-JS22-300x200.png 300w, /wp-content/uploads/2021/11/Jackson-Dinky-JS22-768x512.png 768w, /wp-content/uploads/2021/11/Jackson-Dinky-JS22.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Jackson-Dinky-JS22-1024x683.png" alt="Jackson Dinky JS22" class="wp-image-13236" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Jackson-Dinky-JS22-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Jackson-Dinky-JS22-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Jackson-Dinky-JS22-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Jackson-Dinky-JS22-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Jackson-Dinky-JS22.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-1024x683.png" alt="Ibanez GIO GRG20Z" class="wp-image-13237" title="" srcset="/wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-1024x683.png 1024w, /wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-600x400.png 600w, /wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-300x200.png 300w, /wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-768x512.png 768w, /wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-1024x683.png" alt="Ibanez GIO GRG20Z" class="wp-image-13237" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Ibanez-GIO-GRG20Z.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-1024x683.png" alt="Harley Benton TE-52 Vintage Series" class="wp-image-11878" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-1024x683.png" alt="Harley Benton TE-52 Vintage Series" class="wp-image-11878" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-Vintage-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Yamaha-Pacifica-Series-1024x683.png" alt="" class="wp-image-13238" title="" srcset="/wp-content/uploads/2021/11/Yamaha-Pacifica-Series-1024x683.png 1024w, /wp-content/uploads/2021/11/Yamaha-Pacifica-Series-600x400.png 600w, /wp-content/uploads/2021/11/Yamaha-Pacifica-Series-300x200.png 300w, /wp-content/uploads/2021/11/Yamaha-Pacifica-Series-768x512.png 768w, /wp-content/uploads/2021/11/Yamaha-Pacifica-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Yamaha-Pacifica-Series-1024x683.png" alt="" class="wp-image-13238" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Yamaha-Pacifica-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Yamaha-Pacifica-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Yamaha-Pacifica-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Yamaha-Pacifica-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Yamaha-Pacifica-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -273,7 +273,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-1024x683.png" alt="Epiphone Les Paul Studio (1)" class="wp-image-13244" title="" srcset="/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-1024x683.png 1024w, /wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-600x400.png 600w, /wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-300x200.png 300w, /wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-768x512.png 768w, /wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-1024x683.png" alt="Epiphone Les Paul Studio (1)" class="wp-image-13244" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -315,7 +315,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1024x683.png" alt="" class="wp-image-13239" title="" srcset="/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1024x683.png 1024w, /wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-600x400.png 600w, /wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-300x200.png 300w, /wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-768x512.png 768w, /wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1024x683.png" alt="" class="wp-image-13239" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Epiphone-Les-Paul-Studio.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -361,7 +361,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="771" height="771" src="/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="/wp-content/uploads/2020/09/christoper-horton.jpg 771w, /wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, /wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, /wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, /wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, /wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /><figcaption class="wp-element-caption"><strong>Me and My Epiphone Les Paul Studio – On Tour Somewhere In Europe (Mid-2000s)</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="771" height="771" src="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg 771w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /><figcaption class="wp-element-caption"><strong>Me and My Epiphone Les Paul Studio – On Tour Somewhere In Europe (Mid-2000s)</strong></figcaption></figure>
 
 
 
@@ -425,7 +425,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-1024x683.png" alt="Guitar String Gauges" class="wp-image-11135" title="" srcset="/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-1024x683.png 1024w, /wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-600x400.png 600w, /wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-300x200.png 300w, /wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-768x512.png 768w, /wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-1024x683.png" alt="Guitar String Gauges" class="wp-image-11135" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -453,7 +453,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515.webp" alt="ELECTRIKJAM CONTACT" class="wp-image-12904" title="" srcset="/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515.webp 1024w, /wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-300x300.webp 300w, /wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-100x100.webp 100w, /wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-600x600.webp 600w, /wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-150x150.webp 150w, /wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515.webp" alt="ELECTRIKJAM CONTACT" class="wp-image-12904" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-150x150.webp 150w, https://www.electrikjam.com/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

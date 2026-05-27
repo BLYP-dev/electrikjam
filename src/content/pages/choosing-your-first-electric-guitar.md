@@ -16,7 +16,7 @@ categoryPaths: []
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar.png"
 featuredImageAlt: "Choosing-Your-First-Electric-Guitar"
 seo: 
   title: "Choosing Your First Electric Guitar: A Beginner's Guide"
@@ -25,7 +25,7 @@ seo:
 ---
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-1024x683.png" alt="" class="wp-image-13611" title="" srcset="/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-1024x683.png 1024w, /wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-600x400.png 600w, /wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-300x200.png 300w, /wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-768x512.png 768w, /wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-1024x683.png" alt="" class="wp-image-13611" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png" alt="" class="wp-image-13176" title="" srcset="/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png 1024w, /wp-content/uploads/2023/10/squier-Jazzmaster-600x400.png 600w, /wp-content/uploads/2023/10/squier-Jazzmaster-300x200.png 300w, /wp-content/uploads/2023/10/squier-Jazzmaster-768x512.png 768w, /wp-content/uploads/2023/10/squier-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png" alt="" class="wp-image-13176" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -165,37 +165,37 @@ seo:
 
 <div class="wp-block-uagb-container uagb-block-e107818d alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-container uagb-block-5de45502">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-lasso-id="256327"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/harley-benton-guitars.png" alt="harley benton guitars" class="wp-image-13293" title="" srcset="/wp-content/uploads/2023/11/harley-benton-guitars.png 500w, /wp-content/uploads/2023/11/harley-benton-guitars-300x300.png 300w, /wp-content/uploads/2023/11/harley-benton-guitars-100x100.png 100w, /wp-content/uploads/2023/11/harley-benton-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-lasso-id="256327"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2023/11/harley-benton-guitars.png" alt="harley benton guitars" class="wp-image-13293" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/harley-benton-guitars.png 500w, https://www.electrikjam.com/wp-content/uploads/2023/11/harley-benton-guitars-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/harley-benton-guitars-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/harley-benton-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-99dccbc9">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-lasso-id="256328"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/epiphone-guitars.png" alt="epiphone guitars" class="wp-image-13292" title="" srcset="/wp-content/uploads/2023/11/epiphone-guitars.png 500w, /wp-content/uploads/2023/11/epiphone-guitars-300x300.png 300w, /wp-content/uploads/2023/11/epiphone-guitars-100x100.png 100w, /wp-content/uploads/2023/11/epiphone-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-lasso-id="256328"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2023/11/epiphone-guitars.png" alt="epiphone guitars" class="wp-image-13292" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/epiphone-guitars.png 500w, https://www.electrikjam.com/wp-content/uploads/2023/11/epiphone-guitars-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/epiphone-guitars-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/epiphone-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-ac539090">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/ultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="256329"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/schecter-guitars.png" alt="schecter guitars" class="wp-image-13291" title="" srcset="/wp-content/uploads/2023/11/schecter-guitars.png 500w, /wp-content/uploads/2023/11/schecter-guitars-300x300.png 300w, /wp-content/uploads/2023/11/schecter-guitars-100x100.png 100w, /wp-content/uploads/2023/11/schecter-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/ultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="256329"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2023/11/schecter-guitars.png" alt="schecter guitars" class="wp-image-13291" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/schecter-guitars.png 500w, https://www.electrikjam.com/wp-content/uploads/2023/11/schecter-guitars-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/schecter-guitars-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/schecter-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-b57e5121">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="256330"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/PRS.png" alt="PRS" class="wp-image-13290" title="" srcset="/wp-content/uploads/2023/11/PRS.png 500w, /wp-content/uploads/2023/11/PRS-300x300.png 300w, /wp-content/uploads/2023/11/PRS-100x100.png 100w, /wp-content/uploads/2023/11/PRS-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="256330"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2023/11/PRS.png" alt="PRS" class="wp-image-13290" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/PRS.png 500w, https://www.electrikjam.com/wp-content/uploads/2023/11/PRS-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/PRS-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/PRS-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-23cf328f">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/fender-guitars/" data-lasso-id="256331"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/FENDER.png" alt="FENDER" class="wp-image-13289" title="" srcset="/wp-content/uploads/2023/11/FENDER.png 500w, /wp-content/uploads/2023/11/FENDER-300x300.png 300w, /wp-content/uploads/2023/11/FENDER-100x100.png 100w, /wp-content/uploads/2023/11/FENDER-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/fender-guitars/" data-lasso-id="256331"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER.png" alt="FENDER" class="wp-image-13289" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER.png 500w, https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/FENDER-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-ed600674">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="256332"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/GIBSON-1.png" alt="GIBSON (1)" class="wp-image-13288" title="" srcset="/wp-content/uploads/2023/11/GIBSON-1.png 500w, /wp-content/uploads/2023/11/GIBSON-1-300x300.png 300w, /wp-content/uploads/2023/11/GIBSON-1-100x100.png 100w, /wp-content/uploads/2023/11/GIBSON-1-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="256332"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2023/11/GIBSON-1.png" alt="GIBSON (1)" class="wp-image-13288" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/GIBSON-1.png 500w, https://www.electrikjam.com/wp-content/uploads/2023/11/GIBSON-1-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/GIBSON-1-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/GIBSON-1-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 </div></div>
 
@@ -261,7 +261,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Harley-Benton-SC-500-1024x683.png" alt="Harley Benton SC-500" class="wp-image-13386" title="" srcset="/wp-content/uploads/2023/11/Harley-Benton-SC-500-1024x683.png 1024w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-600x400.png 600w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-300x200.png 300w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-768x512.png 768w, /wp-content/uploads/2023/11/Harley-Benton-SC-500.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-1024x683.png" alt="Harley Benton SC-500" class="wp-image-13386" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -337,7 +337,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Budget-and-Value-1024x683.png" alt="" class="wp-image-13612" title="" srcset="/wp-content/uploads/2023/11/Budget-and-Value-1024x683.png 1024w, /wp-content/uploads/2023/11/Budget-and-Value-600x400.png 600w, /wp-content/uploads/2023/11/Budget-and-Value-300x200.png 300w, /wp-content/uploads/2023/11/Budget-and-Value-768x512.png 768w, /wp-content/uploads/2023/11/Budget-and-Value.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Budget-and-Value-1024x683.png" alt="" class="wp-image-13612" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Budget-and-Value-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Budget-and-Value-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Budget-and-Value-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Budget-and-Value-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Budget-and-Value.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -389,7 +389,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-1024x683.png" alt="is the Harley Benton SC-500 worth buying? Here&#039;s a complete guide on everything you need to know -- pros and cons" class="wp-image-13387" title="" srcset="/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-1024x683.png 1024w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-600x400.png 600w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-300x200.png 300w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-768x512.png 768w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">For Maximum Spec &amp; Tone, <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="256338">You CANNOT Go Wrong With Harley Benton Guitars</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-1024x683.png" alt="is the Harley Benton SC-500 worth buying? Here&#039;s a complete guide on everything you need to know -- pros and cons" class="wp-image-13387" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">For Maximum Spec &amp; Tone, <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="256338">You CANNOT Go Wrong With Harley Benton Guitars</a></strong></figcaption></figure>
 
 
 
@@ -438,7 +438,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-1024x683.png" alt="Choosing-Your-First-Electric-Guitar" class="wp-image-13611" title="" srcset="/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-1024x683.png 1024w, /wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-600x400.png 600w, /wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-300x200.png 300w, /wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-768x512.png 768w, /wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-1024x683.png" alt="Choosing-Your-First-Electric-Guitar" class="wp-image-13611" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Choosing-Your-First-Electric-Guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

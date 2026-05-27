@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "/wp-content/uploads/2021/06/DOOM-METAL-TUNINGS.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/06/DOOM-METAL-TUNINGS.png"
 featuredImageAlt: "best doom metal guitar tuning"
 seo: 
   title: "The Top 5 Doom Metal Tunings: The Ultimate Guide to Going LOW"
@@ -99,7 +99,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="800" height="884" src="/wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning.png" alt="" class="wp-image-1504" title="" srcset="/wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning.png 800w, /wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning-600x663.png 600w, /wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning-271x300.png 271w, /wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning-768x849.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Easy peasy. All strings ring out.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="884" src="https://www.electrikjam.com/wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning.png" alt="" class="wp-image-1504" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning.png 800w, https://www.electrikjam.com/wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning-600x663.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning-271x300.png 271w, https://www.electrikjam.com/wp-content/uploads/2020/11/800px-D_chord_in_drop_D_tuning-768x849.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Easy peasy. All strings ring out.</figcaption></figure>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-1024x1024.png" alt="Doom Metal Tunings" class="wp-image-1529" title="" srcset="/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-1024x1024.png 1024w, /wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-300x300.png 300w, /wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-100x100.png 100w, /wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-600x600.png 600w, /wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-150x150.png 150w, /wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-768x768.png 768w, /wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-1536x1536.png 1536w, /wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-1024x1024.png" alt="Doom Metal Tunings" class="wp-image-1529" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-1024x1024.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-600x600.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-768x768.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings-1536x1536.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/erinie-ball-for-doom-metal-tunings.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/ernie-ball-12-1024x1024.png" alt="" class="wp-image-1541" title="" srcset="/wp-content/uploads/2020/11/ernie-ball-12-1024x1024.png 1024w, /wp-content/uploads/2020/11/ernie-ball-12-300x300.png 300w, /wp-content/uploads/2020/11/ernie-ball-12-100x100.png 100w, /wp-content/uploads/2020/11/ernie-ball-12-600x600.png 600w, /wp-content/uploads/2020/11/ernie-ball-12-150x150.png 150w, /wp-content/uploads/2020/11/ernie-ball-12-768x768.png 768w, /wp-content/uploads/2020/11/ernie-ball-12-1536x1536.png 1536w, /wp-content/uploads/2020/11/ernie-ball-12.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12-1024x1024.png" alt="" class="wp-image-1541" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12-1024x1024.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12-600x600.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12-768x768.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12-1536x1536.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/ernie-ball-12.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="800" height="800" src="/wp-content/uploads/2020/11/mammoth.jpg" alt="" class="wp-image-1543" title="" srcset="/wp-content/uploads/2020/11/mammoth.jpg 800w, /wp-content/uploads/2020/11/mammoth-300x300.jpg 300w, /wp-content/uploads/2020/11/mammoth-100x100.jpg 100w, /wp-content/uploads/2020/11/mammoth-600x600.jpg 600w, /wp-content/uploads/2020/11/mammoth-150x150.jpg 150w, /wp-content/uploads/2020/11/mammoth-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="800" src="https://www.electrikjam.com/wp-content/uploads/2020/11/mammoth.jpg" alt="" class="wp-image-1543" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/mammoth.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2020/11/mammoth-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/mammoth-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/mammoth-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/mammoth-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/mammoth-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 

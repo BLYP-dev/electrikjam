@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/01/How-many-years-does-it-take-to-learn-guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/How-many-years-does-it-take-to-learn-guitar.png"
 featuredImageAlt: "How many years does it take to learn guitar?"
 seo: 
   title: "How Many Years Does It Take To Learn Guitar? PRO Advice"
@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-1024x683.jpg" alt="How many years does it take to learn guitar?" class="wp-image-10381" title="" srcset="/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-1024x683.jpg 1024w, /wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-scaled-600x400.jpg 600w, /wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-300x200.jpg 300w, /wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-768x512.jpg 768w, /wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-1536x1024.jpg 1536w, /wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-1024x683.jpg" alt="How many years does it take to learn guitar?" class="wp-image-10381" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2023/01/How-long-does-it-take-to-learn-guitar-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

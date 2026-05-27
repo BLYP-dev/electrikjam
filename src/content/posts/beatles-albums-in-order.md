@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2023/01/beatles-albums-in-order.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-albums-in-order.png"
 featuredImageAlt: "beatles albums in order and other interesting stats"
 seo: 
   title: "The Beatles Albums In Order (By Year of Release): A Complete List"
@@ -532,7 +532,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-1024x683.png" alt="" class="wp-image-14985" title="" srcset="/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-1024x683.png 1024w, /wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-600x400.png 600w, /wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-300x200.png 300w, /wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-768x512.png 768w, /wp-content/uploads/2024/05/Beatles-Album-Sales-Stats.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-1024x683.png" alt="" class="wp-image-14985" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -552,7 +552,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--1024x683.png" alt="Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.-" class="wp-image-14983" title="" srcset="/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--1024x683.png 1024w, /wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--600x400.png 600w, /wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--300x200.png 300w, /wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--768x512.png 768w, /wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--1024x683.png" alt="Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.-" class="wp-image-14983" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -610,7 +610,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="588" src="/wp-content/uploads/2024/05/beatles-album-sales-1024x588.png" alt="" class="wp-image-14981" title="" srcset="/wp-content/uploads/2024/05/beatles-album-sales-1024x588.png 1024w, /wp-content/uploads/2024/05/beatles-album-sales-600x344.png 600w, /wp-content/uploads/2024/05/beatles-album-sales-300x172.png 300w, /wp-content/uploads/2024/05/beatles-album-sales-768x441.png 768w, /wp-content/uploads/2024/05/beatles-album-sales-1536x882.png 1536w, /wp-content/uploads/2024/05/beatles-album-sales-2048x1175.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="588" src="https://www.electrikjam.com/wp-content/uploads/2024/05/beatles-album-sales-1024x588.png" alt="" class="wp-image-14981" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/beatles-album-sales-1024x588.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/beatles-album-sales-600x344.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/beatles-album-sales-300x172.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/beatles-album-sales-768x441.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/beatles-album-sales-1536x882.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/05/beatles-album-sales-2048x1175.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -702,7 +702,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1022" height="1024" src="/wp-content/uploads/2022/07/Please-Please-Me-1022x1024.png" alt="Please Please Me" class="wp-image-10433" title="" srcset="/wp-content/uploads/2022/07/Please-Please-Me-1022x1024.png 1022w, /wp-content/uploads/2022/07/Please-Please-Me-300x300.png 300w, /wp-content/uploads/2022/07/Please-Please-Me-100x100.png 100w, /wp-content/uploads/2022/07/Please-Please-Me-600x601.png 600w, /wp-content/uploads/2022/07/Please-Please-Me-150x150.png 150w, /wp-content/uploads/2022/07/Please-Please-Me-768x769.png 768w, /wp-content/uploads/2022/07/Please-Please-Me.png 1070w" sizes="(max-width: 1022px) 100vw, 1022px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1022" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Please-Please-Me-1022x1024.png" alt="Please Please Me" class="wp-image-10433" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Please-Please-Me-1022x1024.png 1022w, https://www.electrikjam.com/wp-content/uploads/2022/07/Please-Please-Me-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Please-Please-Me-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2022/07/Please-Please-Me-600x601.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Please-Please-Me-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2022/07/Please-Please-Me-768x769.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Please-Please-Me.png 1070w" sizes="(max-width: 1022px) 100vw, 1022px" /></figure>
 
 
 
@@ -806,7 +806,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="900" height="855" src="/wp-content/uploads/2023/01/beatles-let-it-be-it-1110.jpg" alt="" class="wp-image-10434" title="" srcset="/wp-content/uploads/2023/01/beatles-let-it-be-it-1110.jpg 900w, /wp-content/uploads/2023/01/beatles-let-it-be-it-1110-600x570.jpg 600w, /wp-content/uploads/2023/01/beatles-let-it-be-it-1110-300x285.jpg 300w, /wp-content/uploads/2023/01/beatles-let-it-be-it-1110-768x730.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="900" height="855" src="https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-let-it-be-it-1110.jpg" alt="" class="wp-image-10434" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-let-it-be-it-1110.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-let-it-be-it-1110-600x570.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-let-it-be-it-1110-300x285.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-let-it-be-it-1110-768x730.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
 
 
 
@@ -902,7 +902,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/Beatles-Albums-Ranked--1024x683.png" alt="" class="wp-image-14984" title="" srcset="/wp-content/uploads/2024/05/Beatles-Albums-Ranked--1024x683.png 1024w, /wp-content/uploads/2024/05/Beatles-Albums-Ranked--600x400.png 600w, /wp-content/uploads/2024/05/Beatles-Albums-Ranked--300x200.png 300w, /wp-content/uploads/2024/05/Beatles-Albums-Ranked--768x512.png 768w, /wp-content/uploads/2024/05/Beatles-Albums-Ranked-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--1024x683.png" alt="" class="wp-image-14984" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1010,7 +1010,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/best-beatles-album-1024x683.png" alt="" class="wp-image-14986" title="" srcset="/wp-content/uploads/2024/05/best-beatles-album-1024x683.png 1024w, /wp-content/uploads/2024/05/best-beatles-album-600x400.png 600w, /wp-content/uploads/2024/05/best-beatles-album-300x200.png 300w, /wp-content/uploads/2024/05/best-beatles-album-768x512.png 768w, /wp-content/uploads/2024/05/best-beatles-album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/05/best-beatles-album-1024x683.png" alt="" class="wp-image-14986" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/best-beatles-album-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/best-beatles-album-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/best-beatles-album-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/best-beatles-album-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/best-beatles-album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1050,7 +1050,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/the-beatles-albums-in-order-1024x683.png" alt="the beatles albums in order" class="wp-image-8396" title="" srcset="/wp-content/uploads/2022/07/the-beatles-albums-in-order-1024x683.png 1024w, /wp-content/uploads/2022/07/the-beatles-albums-in-order-600x400.png 600w, /wp-content/uploads/2022/07/the-beatles-albums-in-order-300x200.png 300w, /wp-content/uploads/2022/07/the-beatles-albums-in-order-768x512.png 768w, /wp-content/uploads/2022/07/the-beatles-albums-in-order.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/the-beatles-albums-in-order-1024x683.png" alt="the beatles albums in order" class="wp-image-8396" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/the-beatles-albums-in-order-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/the-beatles-albums-in-order-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/the-beatles-albums-in-order-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/the-beatles-albums-in-order-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/the-beatles-albums-in-order.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1086,7 +1086,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-1024x683.png" alt="" class="wp-image-14987" title="" srcset="/wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-1024x683.png 1024w, /wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-600x400.png 600w, /wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-300x200.png 300w, /wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-768x512.png 768w, /wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-1024x683.png" alt="" class="wp-image-14987" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/each-beatles-member-lists-their-favorite-beatles-album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

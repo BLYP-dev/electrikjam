@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/12/les-paul-with-p90-pickups.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups.jpg"
 featuredImageAlt: "What Are P90 Pickups Good For"
 seo: 
   title: "What Are P90 Pickups Good For? Let’s Find Out…"
@@ -56,7 +56,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1024x768.jpg" alt="" class="wp-image-5913" title="" srcset="/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1024x768.jpg 1024w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-600x450.jpg 600w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-300x225.jpg 300w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-768x576.jpg 768w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-510x382.jpg 510w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-1080x810.jpg 1080w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A <a class="wpil_keyword_link" href="https://www.electrikjam.com/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="24903">Gibson</a> Les Paul With P90 Pickups</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1024x768.jpg" alt="" class="wp-image-5913" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/les-paul-with-p90-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A <a class="wpil_keyword_link" href="https://www.electrikjam.com/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="24903">Gibson</a> Les Paul With P90 Pickups</strong></figcaption></figure>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="583" src="/wp-content/uploads/2021/10/Billy-Gibbons-pearly-gates-1024x583.jpg" alt="seymour duncan pearly gates" class="wp-image-5088" title=""><figcaption><strong>Billy Gibbons With A Les Paul w/ Humbuckers</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="583" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Billy-Gibbons-pearly-gates-1024x583.jpg" alt="seymour duncan pearly gates" class="wp-image-5088" title=""><figcaption><strong>Billy Gibbons With A Les Paul w/ Humbuckers</strong></figcaption></figure>
 			
 		
 
@@ -147,7 +147,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg" alt="Brant-Bjork" class="wp-image-956" title="" srcset="/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Brant-Bjork-600x450.jpg 600w, /wp-content/uploads/2020/10/Brant-Bjork-300x225.jpg 300w, /wp-content/uploads/2020/10/Brant-Bjork-768x576.jpg 768w, /wp-content/uploads/2020/10/Brant-Bjork-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/Brant-Bjork.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg" alt="Brant-Bjork" class="wp-image-956" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

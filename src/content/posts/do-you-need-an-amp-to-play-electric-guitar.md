@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "/wp-content/uploads/2023/01/AMP.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/AMP.png"
 featuredImageAlt: "do you need an amp to play electric guitar?"
 seo: 
   title: "Do You Need An Amp To Play Electric Guitar? The Top 3 Options!"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-1024x683.png" alt="Do you need an amp to play electric guitar" class="wp-image-10430" title="" srcset="/wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-1024x683.png 1024w, /wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-600x400.png 600w, /wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-300x200.png 300w, /wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-768x512.png 768w, /wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-1024x683.png" alt="Do you need an amp to play electric guitar" class="wp-image-10430" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Do-you-need-an-amp-to-play-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/Fender-Mustang-Micro-1024x683.png" alt="do you need an amp to play electric guitar?" class="wp-image-10428" title="" srcset="/wp-content/uploads/2023/01/Fender-Mustang-Micro-1024x683.png 1024w, /wp-content/uploads/2023/01/Fender-Mustang-Micro-600x400.png 600w, /wp-content/uploads/2023/01/Fender-Mustang-Micro-300x200.png 300w, /wp-content/uploads/2023/01/Fender-Mustang-Micro-768x512.png 768w, /wp-content/uploads/2023/01/Fender-Mustang-Micro.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Mustang-Micro-1024x683.png" alt="do you need an amp to play electric guitar?" class="wp-image-10428" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Mustang-Micro-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Mustang-Micro-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Mustang-Micro-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Mustang-Micro-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Fender-Mustang-Micro.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-1024x683.png" alt="do you need an amp to play electric guitar?" class="wp-image-10438" title="" srcset="/wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-1024x683.png 1024w, /wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-600x400.png 600w, /wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-300x200.png 300w, /wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-768x512.png 768w, /wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-1024x683.png" alt="do you need an amp to play electric guitar?" class="wp-image-10438" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/do-you-need-an-amp-to-play-guitar-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/Amp-simulators-VOLT-1024x683.png" alt="do you need an amp to play electric guitar?" class="wp-image-10439" title="" srcset="/wp-content/uploads/2023/01/Amp-simulators-VOLT-1024x683.png 1024w, /wp-content/uploads/2023/01/Amp-simulators-VOLT-600x400.png 600w, /wp-content/uploads/2023/01/Amp-simulators-VOLT-300x200.png 300w, /wp-content/uploads/2023/01/Amp-simulators-VOLT-768x512.png 768w, /wp-content/uploads/2023/01/Amp-simulators-VOLT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Amp-simulators-VOLT-1024x683.png" alt="do you need an amp to play electric guitar?" class="wp-image-10439" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Amp-simulators-VOLT-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Amp-simulators-VOLT-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Amp-simulators-VOLT-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Amp-simulators-VOLT-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Amp-simulators-VOLT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

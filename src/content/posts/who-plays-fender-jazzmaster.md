@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster.png"
 featuredImageAlt: "Who Plays Fender Jazzmaster"
 seo: 
   title: "Who Plays Fender Jazzmaster? Legends. That’s Who…"
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Fender-Jazzmaster-1024x683.png" alt="Fender Jazzmaster" class="wp-image-13175" title="" srcset="/wp-content/uploads/2023/10/Fender-Jazzmaster-1024x683.png 1024w, /wp-content/uploads/2023/10/Fender-Jazzmaster-600x400.png 600w, /wp-content/uploads/2023/10/Fender-Jazzmaster-300x200.png 300w, /wp-content/uploads/2023/10/Fender-Jazzmaster-768x512.png 768w, /wp-content/uploads/2023/10/Fender-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Jazzmaster-1024x683.png" alt="Fender Jazzmaster" class="wp-image-13175" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Jazzmaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Jazzmaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Jazzmaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Jazzmaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png" alt="" class="wp-image-13176" title="" srcset="/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png 1024w, /wp-content/uploads/2023/10/squier-Jazzmaster-600x400.png 600w, /wp-content/uploads/2023/10/squier-Jazzmaster-300x200.png 300w, /wp-content/uploads/2023/10/squier-Jazzmaster-768x512.png 768w, /wp-content/uploads/2023/10/squier-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png" alt="" class="wp-image-13176" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png" alt="best fender guitar for metal" class="wp-image-7161" title="" srcset="/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png 1024w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-600x400.png 600w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-300x200.png 300w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-768x512.png 768w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png" alt="best fender guitar for metal" class="wp-image-7161" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -298,7 +298,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Original-1958-Jazzmaster-1024x683.png" alt="" class="wp-image-13181" title="" srcset="/wp-content/uploads/2023/10/Original-1958-Jazzmaster-1024x683.png 1024w, /wp-content/uploads/2023/10/Original-1958-Jazzmaster-600x400.png 600w, /wp-content/uploads/2023/10/Original-1958-Jazzmaster-300x200.png 300w, /wp-content/uploads/2023/10/Original-1958-Jazzmaster-768x512.png 768w, /wp-content/uploads/2023/10/Original-1958-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Original-1958-Jazzmaster-1024x683.png" alt="" class="wp-image-13181" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Original-1958-Jazzmaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Original-1958-Jazzmaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Original-1958-Jazzmaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Original-1958-Jazzmaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Original-1958-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

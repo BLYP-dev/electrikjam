@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/line-6/"
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2024/03/Line-6-Pod-Express.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/03/Line-6-Pod-Express.png"
 featuredImageAlt: "Line 6 Pod Express"
 seo: 
   title: "Line 6 POD Express Review: The Ultimate FX Pedal?"
@@ -72,7 +72,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-1024x683.png" alt="Line 6 Pod Express" class="wp-image-14499" title="" srcset="/wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-1024x683.png 1024w, /wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-600x400.png 600w, /wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-300x200.png 300w, /wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-768x512.png 768w, /wp-content/uploads/2024/03/Line-6-Pod-Express-back-View.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-1024x683.png" alt="Line 6 Pod Express" class="wp-image-14499" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/Line-6-Pod-Express-back-View-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/Line-6-Pod-Express-back-View.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -345,7 +345,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/POD-Express-Recording-1024x683.png" alt="Line 6 POD Express" class="wp-image-14502" title="" srcset="/wp-content/uploads/2024/03/POD-Express-Recording-1024x683.png 1024w, /wp-content/uploads/2024/03/POD-Express-Recording-600x400.png 600w, /wp-content/uploads/2024/03/POD-Express-Recording-300x200.png 300w, /wp-content/uploads/2024/03/POD-Express-Recording-768x512.png 768w, /wp-content/uploads/2024/03/POD-Express-Recording.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/POD-Express-Recording-1024x683.png" alt="Line 6 POD Express" class="wp-image-14502" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/POD-Express-Recording-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/POD-Express-Recording-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/POD-Express-Recording-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/POD-Express-Recording-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/POD-Express-Recording.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

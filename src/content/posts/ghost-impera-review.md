@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2022/03/ghost-impera-review-e1647275311337.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/ghost-impera-review-e1647275311337.jpg"
 featuredImageAlt: "ghost impera review"
 seo: 
   title: "Ghost IMPERA Review: The Classic Rock Album"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/03/ghost-impera-review-1024x1024.jpg" alt="ghost impera review" class="wp-image-7243" title=""></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/03/ghost-impera-review-1024x1024.jpg" alt="ghost impera review" class="wp-image-7243" title=""></figure>
 
 
 

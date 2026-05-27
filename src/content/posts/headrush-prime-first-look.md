@@ -22,7 +22,7 @@ tagSlugs:
   - "popular"
 tagPaths: 
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2023/03/headrush-Prime-Pedalboard.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-Prime-Pedalboard.png"
 featuredImageAlt: "headrush Prime"
 seo: 
   title: "Headrush Prime First Look: The 1-Stop Solution For Great Recordings?"
@@ -98,7 +98,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/headrush-prime-Overview-1024x683.png" alt="headrush prime" class="wp-image-11201" title="" srcset="/wp-content/uploads/2023/03/headrush-prime-Overview-1024x683.png 1024w, /wp-content/uploads/2023/03/headrush-prime-Overview-600x400.png 600w, /wp-content/uploads/2023/03/headrush-prime-Overview-300x200.png 300w, /wp-content/uploads/2023/03/headrush-prime-Overview-768x512.png 768w, /wp-content/uploads/2023/03/headrush-prime-Overview.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-prime-Overview-1024x683.png" alt="headrush prime" class="wp-image-11201" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-prime-Overview-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-prime-Overview-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-prime-Overview-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-prime-Overview-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-prime-Overview.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Headrush-prime-back-rear-1024x683.png" alt="Headrush prime Rear Inputs Outputs" class="wp-image-11206" title="" srcset="/wp-content/uploads/2023/03/Headrush-prime-back-rear-1024x683.png 1024w, /wp-content/uploads/2023/03/Headrush-prime-back-rear-600x400.png 600w, /wp-content/uploads/2023/03/Headrush-prime-back-rear-300x200.png 300w, /wp-content/uploads/2023/03/Headrush-prime-back-rear-768x512.png 768w, /wp-content/uploads/2023/03/Headrush-prime-back-rear.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>TONS of Inputs And Outputs</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-prime-back-rear-1024x683.png" alt="Headrush prime Rear Inputs Outputs" class="wp-image-11206" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-prime-back-rear-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-prime-back-rear-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-prime-back-rear-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-prime-back-rear-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-prime-back-rear.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>TONS of Inputs And Outputs</strong></figcaption></figure>
 
 
 
@@ -368,7 +368,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Headrush-Prime-Practice-1024x683.png" alt="headrush prime Practice Mode" class="wp-image-11208" title="" srcset="/wp-content/uploads/2023/03/Headrush-Prime-Practice-1024x683.png 1024w, /wp-content/uploads/2023/03/Headrush-Prime-Practice-600x400.png 600w, /wp-content/uploads/2023/03/Headrush-Prime-Practice-300x200.png 300w, /wp-content/uploads/2023/03/Headrush-Prime-Practice-768x512.png 768w, /wp-content/uploads/2023/03/Headrush-Prime-Practice.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Practice Mode</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-Prime-Practice-1024x683.png" alt="headrush prime Practice Mode" class="wp-image-11208" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-Prime-Practice-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-Prime-Practice-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-Prime-Practice-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-Prime-Practice-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Headrush-Prime-Practice.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Practice Mode</strong></figcaption></figure>
 
 
 
@@ -404,7 +404,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/headrush-Prime-first-look-1024x683.png" alt="headrush Prime" class="wp-image-11207" title="" srcset="/wp-content/uploads/2023/03/headrush-Prime-first-look-1024x683.png 1024w, /wp-content/uploads/2023/03/headrush-Prime-first-look-600x400.png 600w, /wp-content/uploads/2023/03/headrush-Prime-first-look-300x200.png 300w, /wp-content/uploads/2023/03/headrush-Prime-first-look-768x512.png 768w, /wp-content/uploads/2023/03/headrush-Prime-first-look.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-Prime-first-look-1024x683.png" alt="headrush Prime" class="wp-image-11207" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-Prime-first-look-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-Prime-first-look-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-Prime-first-look-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-Prime-first-look-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/headrush-Prime-first-look.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

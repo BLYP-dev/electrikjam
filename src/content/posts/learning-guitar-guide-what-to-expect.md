@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/10/Acoustic-Badass.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass.jpg"
 featuredImageAlt: "Acoustic-Badass"
 seo: 
   title: "10 Things To Expect When You Start Learning Guitar..."
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/pour-Larrys-808x1024.jpg" alt="" class="wp-image-744" width="1000" title="" srcset="/wp-content/uploads/2020/10/pour-Larrys-808x1024.jpg 808w, /wp-content/uploads/2020/10/pour-Larrys-600x761.jpg 600w, /wp-content/uploads/2020/10/pour-Larrys-237x300.jpg 237w, /wp-content/uploads/2020/10/pour-Larrys-768x974.jpg 768w, /wp-content/uploads/2020/10/pour-Larrys-1211x1536.jpg 1211w, /wp-content/uploads/2020/10/pour-Larrys.jpg 1615w" sizes="(max-width: 808px) 100vw, 808px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/pour-Larrys-808x1024.jpg" alt="" class="wp-image-744" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/pour-Larrys-808x1024.jpg 808w, https://www.electrikjam.com/wp-content/uploads/2020/10/pour-Larrys-600x761.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/pour-Larrys-237x300.jpg 237w, https://www.electrikjam.com/wp-content/uploads/2020/10/pour-Larrys-768x974.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/pour-Larrys-1211x1536.jpg 1211w, https://www.electrikjam.com/wp-content/uploads/2020/10/pour-Larrys.jpg 1615w" sizes="(max-width: 808px) 100vw, 808px" /></figure>
 
 
 
@@ -320,7 +320,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Blurry-band-1024x575.jpg" alt="" class="wp-image-743" width="1000" title="" srcset="/wp-content/uploads/2020/10/Blurry-band-1024x575.jpg 1024w, /wp-content/uploads/2020/10/Blurry-band-600x337.jpg 600w, /wp-content/uploads/2020/10/Blurry-band-300x168.jpg 300w, /wp-content/uploads/2020/10/Blurry-band-768x431.jpg 768w, /wp-content/uploads/2020/10/Blurry-band.jpg 1224w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>We sounded really good that night, but we were apparently blurry.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Blurry-band-1024x575.jpg" alt="" class="wp-image-743" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Blurry-band-1024x575.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Blurry-band-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Blurry-band-300x168.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Blurry-band-768x431.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Blurry-band.jpg 1224w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>We sounded really good that night, but we were apparently blurry.</figcaption></figure>
 
 
 
@@ -356,7 +356,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Acoustic-Badass-1024x1024.jpg" alt="" class="wp-image-740" width="1000" title="" srcset="/wp-content/uploads/2020/10/Acoustic-Badass-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Acoustic-Badass-300x300.jpg 300w, /wp-content/uploads/2020/10/Acoustic-Badass-100x100.jpg 100w, /wp-content/uploads/2020/10/Acoustic-Badass-600x600.jpg 600w, /wp-content/uploads/2020/10/Acoustic-Badass-150x150.jpg 150w, /wp-content/uploads/2020/10/Acoustic-Badass-768x768.jpg 768w, /wp-content/uploads/2020/10/Acoustic-Badass.jpg 1149w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Hey younger me, you&#8217;re doing great!</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass-1024x1024.jpg" alt="" class="wp-image-740" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Acoustic-Badass.jpg 1149w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Hey younger me, you&#8217;re doing great!</figcaption></figure>
 
 
 

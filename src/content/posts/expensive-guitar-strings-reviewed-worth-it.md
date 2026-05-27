@@ -22,7 +22,7 @@ tagSlugs:
   - "strings"
 tagPaths: 
   - "/tag/strings/"
-featuredImage: "/wp-content/uploads/2022/10/Expensive-guitar-strings.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings.png"
 featuredImageAlt: "expensive guitar strings"
 seo: 
   title: "The Top 3 Expensive Guitar Strings Reviewed: Is The Hype Worth it?"
@@ -116,7 +116,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" width="443" height="250" src="/wp-content/uploads/2022/10/GIF-by-Giphy-QA.gif" alt="" class="wp-image-17610" title=""></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="443" height="250" src="https://www.electrikjam.com/wp-content/uploads/2022/10/GIF-by-Giphy-QA.gif" alt="" class="wp-image-17610" title=""></figure>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/Stretching-guitar-strings-1024x683.png" alt="guitar tuning issues" class="wp-image-10275" title="" srcset="/wp-content/uploads/2023/01/Stretching-guitar-strings-1024x683.png 1024w, /wp-content/uploads/2023/01/Stretching-guitar-strings-600x400.png 600w, /wp-content/uploads/2023/01/Stretching-guitar-strings-300x200.png 300w, /wp-content/uploads/2023/01/Stretching-guitar-strings-768x512.png 768w, /wp-content/uploads/2023/01/Stretching-guitar-strings.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Stretching-guitar-strings-1024x683.png" alt="guitar tuning issues" class="wp-image-10275" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Stretching-guitar-strings-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Stretching-guitar-strings-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Stretching-guitar-strings-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Stretching-guitar-strings-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Stretching-guitar-strings.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -302,7 +302,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-1024x683.png" alt="expensive guitar strings" class="wp-image-9269" title="" srcset="/wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-1024x683.png 1024w, /wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-600x400.png 600w, /wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-300x200.png 300w, /wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-768x512.png 768w, /wp-content/uploads/2022/10/Expensive-guitar-strings-elixir.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-1024x683.png" alt="expensive guitar strings" class="wp-image-9269" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-elixir-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-elixir.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -420,7 +420,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-1024x683.png" alt="expensive guitar strings" class="wp-image-9270" title="" srcset="/wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-1024x683.png 1024w, /wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-600x400.png 600w, /wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-300x200.png 300w, /wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-768x512.png 768w, /wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-1024x683.png" alt="expensive guitar strings" class="wp-image-9270" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-NYXL.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -526,7 +526,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Expensive-guitar-strings-EB-1024x683.png" alt="expensive guitar strings" class="wp-image-9273" title="" srcset="/wp-content/uploads/2022/10/Expensive-guitar-strings-EB-1024x683.png 1024w, /wp-content/uploads/2022/10/Expensive-guitar-strings-EB-600x400.png 600w, /wp-content/uploads/2022/10/Expensive-guitar-strings-EB-300x200.png 300w, /wp-content/uploads/2022/10/Expensive-guitar-strings-EB-768x512.png 768w, /wp-content/uploads/2022/10/Expensive-guitar-strings-EB.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-EB-1024x683.png" alt="expensive guitar strings" class="wp-image-9273" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-EB-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-EB-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-EB-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-EB-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-EB.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -610,7 +610,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Expensive-guitar-strings-1024x683.png" alt="expensive guitar strings" class="wp-image-9268" title="" srcset="/wp-content/uploads/2022/10/Expensive-guitar-strings-1024x683.png 1024w, /wp-content/uploads/2022/10/Expensive-guitar-strings-600x400.png 600w, /wp-content/uploads/2022/10/Expensive-guitar-strings-300x200.png 300w, /wp-content/uploads/2022/10/Expensive-guitar-strings-768x512.png 768w, /wp-content/uploads/2022/10/Expensive-guitar-strings.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-1024x683.png" alt="expensive guitar strings" class="wp-image-9268" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Expensive-guitar-strings.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

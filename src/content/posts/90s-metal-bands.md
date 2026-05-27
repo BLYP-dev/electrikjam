@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/09/90s-metal-bands.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/90s-metal-bands.png"
 featuredImageAlt: "90s metal bands"
 seo: 
   title: "12 Influential ‘90s Metal Bands Every Millennial Should Listen To"
@@ -61,7 +61,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="900" height="603" src="/wp-content/uploads/2020/12/Buzz-1991.jpg" alt="Buzz Osborne&#039;s guitar rig" class="wp-image-1567" title="" srcset="/wp-content/uploads/2020/12/Buzz-1991.jpg 900w, /wp-content/uploads/2020/12/Buzz-1991-600x402.jpg 600w, /wp-content/uploads/2020/12/Buzz-1991-300x201.jpg 300w, /wp-content/uploads/2020/12/Buzz-1991-768x515.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption>The Melvins (l-r) Dale Crover, Buzz Osbourne, Lori &#8216;Lorax&#8217; Black at Atlantic Records, London, UK on 30 October 1991</figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="900" height="603" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991.jpg" alt="Buzz Osborne&#039;s guitar rig" class="wp-image-1567" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991-600x402.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991-300x201.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991-768x515.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption>The Melvins (l-r) Dale Crover, Buzz Osbourne, Lori &#8216;Lorax&#8217; Black at Atlantic Records, London, UK on 30 October 1991</figcaption></figure>
 			
 		
 

@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/boss-katana/"
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update.png"
 featuredImageAlt: "Boss Katana MKII V2 Software"
 seo: 
   title: "BOSS Katana MKII V2 Software: A Brand New AMAZING Update!"
@@ -82,7 +82,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-1024x683.png" alt="Boss Katana MKII V2 Software" class="wp-image-8451" title="" srcset="/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-1024x683.png 1024w, /wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-600x400.png 600w, /wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-300x200.png 300w, /wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-768x512.png 768w, /wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-1024x683.png" alt="Boss Katana MKII V2 Software" class="wp-image-8451" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKii-V2-Update.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-1024x683.png" alt="BOSS Katana MKII V2 Software" class="wp-image-8453" title="" srcset="/wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-1024x683.png 1024w, /wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-600x400.png 600w, /wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-300x200.png 300w, /wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-768x512.png 768w, /wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-1024x683.png" alt="BOSS Katana MKII V2 Software" class="wp-image-8453" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/BOSS-Katana-MKII-V2-Software.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-1024x683.png" alt="Boss Katana MKII V2 Software " class="wp-image-8454" title="" srcset="/wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-1024x683.png 1024w, /wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-600x400.png 600w, /wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-300x200.png 300w, /wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-768x512.png 768w, /wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-1024x683.png" alt="Boss Katana MKII V2 Software " class="wp-image-8454" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Katana-MKII-V2-Software-Update-Chain.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/07/Boss-tone-studio-update-1024x576.png" alt="Boss Katana MKII V2 Software" class="wp-image-8455" width="858" height="482" title="" srcset="/wp-content/uploads/2022/07/Boss-tone-studio-update-1024x576.png 1024w, /wp-content/uploads/2022/07/Boss-tone-studio-update-600x338.png 600w, /wp-content/uploads/2022/07/Boss-tone-studio-update-300x169.png 300w, /wp-content/uploads/2022/07/Boss-tone-studio-update-768x432.png 768w, /wp-content/uploads/2022/07/Boss-tone-studio-update-1536x864.png 1536w, /wp-content/uploads/2022/07/Boss-tone-studio-update.png 1920w" sizes="(max-width: 858px) 100vw, 858px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-update-1024x576.png" alt="Boss Katana MKII V2 Software" class="wp-image-8455" width="858" height="482" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-update-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-update-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-update-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-update-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-update-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-tone-studio-update.png 1920w" sizes="(max-width: 858px) 100vw, 858px" /></figure>
 
 
 
@@ -214,7 +214,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-1024x683.png" alt="Boss Katana MKII V2 Software Output" class="wp-image-8456" title="" srcset="/wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-1024x683.png 1024w, /wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-600x400.png 600w, /wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-300x200.png 300w, /wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-768x512.png 768w, /wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-1024x683.png" alt="Boss Katana MKII V2 Software Output" class="wp-image-8456" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/Boss-Tone-Studio-Output-Options.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

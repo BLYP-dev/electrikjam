@@ -22,7 +22,7 @@ tagSlugs:
   - "harley-benton"
 tagPaths: 
   - "/tag/harley-benton/"
-featuredImage: "/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models.png"
 featuredImageAlt: "Best-Harley-Benton-Telecaster-Models"
 seo: 
   title: "The 6 Best Harley Benton Telecaster Models RIGHT NOW [2024]"
@@ -86,7 +86,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-1024x683.png" alt="" class="wp-image-14747" title="" srcset="/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-1024x683.png 1024w, /wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-600x400.png 600w, /wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-300x200.png 300w, /wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-768x512.png 768w, /wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-1024x683.png" alt="" class="wp-image-14747" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Best-Harley-Benton-Telecaster-Models-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-1024x683.png" alt="Harley Benton TE-52 NA Vintage Series" class="wp-image-11875" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-1024x683.png" alt="Harley Benton TE-52 NA Vintage Series" class="wp-image-11875" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-52-NA-Vintage-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-1024x683.png" alt="Harley Benton TE-40 TBK Deluxe Series" class="wp-image-11879" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-1024x683.png" alt="Harley Benton TE-40 TBK Deluxe Series" class="wp-image-11879" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-40-TBK-Deluxe-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -266,7 +266,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-1024x683.png" alt="Harley Benton TE-30 BE Standard Series" class="wp-image-11877" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-1024x683.png" alt="Harley Benton TE-30 BE Standard Series" class="wp-image-11877" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -352,7 +352,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-1024x683.png" alt="Harley Benton TE-70 Black Paisley" class="wp-image-11880" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-1024x683.png" alt="Harley Benton TE-70 Black Paisley" class="wp-image-11880" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-Black-Paisley.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -442,7 +442,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/TE-62DB-BK-1024x683.png" alt="TE-62DB BK" class="wp-image-11881" title="" srcset="/wp-content/uploads/2023/05/TE-62DB-BK-1024x683.png 1024w, /wp-content/uploads/2023/05/TE-62DB-BK-600x400.png 600w, /wp-content/uploads/2023/05/TE-62DB-BK-300x200.png 300w, /wp-content/uploads/2023/05/TE-62DB-BK-768x512.png 768w, /wp-content/uploads/2023/05/TE-62DB-BK.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/TE-62DB-BK-1024x683.png" alt="TE-62DB BK" class="wp-image-11881" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/TE-62DB-BK-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/TE-62DB-BK-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/TE-62DB-BK-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/TE-62DB-BK-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/TE-62DB-BK.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -528,7 +528,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png" alt="Harley Benton TE-70 RW Deluxe Series" class="wp-image-11876" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png" alt="Harley Benton TE-70 RW Deluxe Series" class="wp-image-11876" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -618,7 +618,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, /wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -634,7 +634,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png" alt="Harley Benton TE-70 RW Deluxe Series" class="wp-image-11876" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png" alt="Harley Benton TE-70 RW Deluxe Series" class="wp-image-11876" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-70-RW-Deluxe-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -668,7 +668,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-1024x683.png" alt="Harley Benton TE-30 BE Standard Series" class="wp-image-11877" title="" srcset="/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-1024x683.png 1024w, /wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-600x400.png 600w, /wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-300x200.png 300w, /wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-768x512.png 768w, /wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-1024x683.png" alt="Harley Benton TE-30 BE Standard Series" class="wp-image-11877" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Harley-Benton-TE-30-BE-Standard-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Prophecy.jpg"
 featuredImageAlt: "Epiphone Les Paul Prophecy"
 seo: 
   title: "Is An Epiphone A Real Les Paul? The #1 Most Asked Question!"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic.jpg" alt="Epiphone Les Paul Classic" class="wp-image-4399" title="" srcset="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic.jpg 600w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-300x300.jpg 300w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-100x100.jpg 100w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>An <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17471">Epiphone Les Paul</a> Classic</figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic.jpg" alt="Epiphone Les Paul Classic" class="wp-image-4399" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>An <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17471">Epiphone Les Paul</a> Classic</figcaption></figure>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom.png" alt="" class="wp-image-4257" width="536" height="615" title="" srcset="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom.png 754w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-600x689.png 600w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-261x300.png 261w" sizes="(max-width: 536px) 100vw, 536px" /><figcaption>Epiphone Les Paul Custom</figcaption></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom.png" alt="" class="wp-image-4257" width="536" height="615" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom.png 754w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-600x689.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-Les-Paul-Custom-261x300.png 261w" sizes="(max-width: 536px) 100vw, 536px" /><figcaption>Epiphone Les Paul Custom</figcaption></figure></div>
 
 
 

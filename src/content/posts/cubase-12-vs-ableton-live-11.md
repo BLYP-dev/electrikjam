@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "/wp-content/uploads/2023/07/the-choice-between-Cubase-and-Ableton.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/the-choice-between-Cubase-and-Ableton.png"
 featuredImageAlt: "Cubase 12 vs. Ableton Live 11"
 seo: 
   title: "Cubase 12 vs. Ableton Live 11: Two Creative Powerhouse DAW Platforms"
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="649" src="/wp-content/uploads/2023/07/153376-extra-large-1024x649.jpg" alt="Cubase 12 vs. Ableton Live 11" class="wp-image-12503" title="" srcset="/wp-content/uploads/2023/07/153376-extra-large-1024x649.jpg 1024w, /wp-content/uploads/2023/07/153376-extra-large-scaled-600x380.jpg 600w, /wp-content/uploads/2023/07/153376-extra-large-300x190.jpg 300w, /wp-content/uploads/2023/07/153376-extra-large-768x487.jpg 768w, /wp-content/uploads/2023/07/153376-extra-large-1536x974.jpg 1536w, /wp-content/uploads/2023/07/153376-extra-large-2048x1298.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="649" src="https://www.electrikjam.com/wp-content/uploads/2023/07/153376-extra-large-1024x649.jpg" alt="Cubase 12 vs. Ableton Live 11" class="wp-image-12503" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/153376-extra-large-1024x649.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/153376-extra-large-scaled-600x380.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/153376-extra-large-300x190.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/153376-extra-large-768x487.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/153376-extra-large-1536x974.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2023/07/153376-extra-large-2048x1298.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="625" src="/wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY.jpg" alt="Cubase 12 vs. Ableton Live 11" class="wp-image-12504" title="" srcset="/wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY.jpg 1000w, /wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY-600x375.jpg 600w, /wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY-300x188.jpg 300w, /wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY-768x480.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="625" src="https://www.electrikjam.com/wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY.jpg" alt="Cubase 12 vs. Ableton Live 11" class="wp-image-12504" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY-600x375.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY-300x188.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/ableton-live-11-announcement_1-2uoQzjMe62qi0cZEo9Hpgt7ok6WsSXpY-768x480.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop.jpg"
 featuredImageAlt: "Gibson-Les-paul-Custom-Shop"
 seo: 
   title: "Gibson VS Epiphone In 2021: Which One Is The Best Choice For You?"
@@ -71,7 +71,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="631" src="/wp-content/uploads/2021/06/Epiphone-Casino-1024x631.jpg" alt="gibson vs epiphone" class="wp-image-3351" title="" srcset="/wp-content/uploads/2021/06/Epiphone-Casino-1024x631.jpg 1024w, /wp-content/uploads/2021/06/Epiphone-Casino-600x370.jpg 600w, /wp-content/uploads/2021/06/Epiphone-Casino-300x185.jpg 300w, /wp-content/uploads/2021/06/Epiphone-Casino-768x473.jpg 768w, /wp-content/uploads/2021/06/Epiphone-Casino-1536x947.jpg 1536w, /wp-content/uploads/2021/06/Epiphone-Casino-1080x666.jpg 1080w, /wp-content/uploads/2021/06/Epiphone-Casino.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>A 1967 Epiphone Casino</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="631" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Casino-1024x631.jpg" alt="gibson vs epiphone" class="wp-image-3351" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Casino-1024x631.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Casino-600x370.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Casino-300x185.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Casino-768x473.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Casino-1536x947.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Casino-1080x666.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Casino.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>A 1967 Epiphone Casino</em></figcaption></figure>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg" alt="" class="wp-image-1893" title="" srcset="/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg 1024w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-600x400.jpg 600w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-300x200.jpg 300w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-768x512.jpg 768w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132441">Epiphone and Gibson Les Paul Customs</a></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg" alt="" class="wp-image-1893" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132441">Epiphone and Gibson Les Paul Customs</a></em></figcaption></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="960" height="668" src="/wp-content/uploads/2020/11/Epi-Crestwood.jpg" alt="" class="wp-image-1535" title="" srcset="/wp-content/uploads/2020/11/Epi-Crestwood.jpg 960w, /wp-content/uploads/2020/11/Epi-Crestwood-600x418.jpg 600w, /wp-content/uploads/2020/11/Epi-Crestwood-300x209.jpg 300w, /wp-content/uploads/2020/11/Epi-Crestwood-768x534.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em>Epiphone Wilshire Models</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="960" height="668" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood.jpg" alt="" class="wp-image-1535" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood-600x418.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood-300x209.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Crestwood-768x534.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em>Epiphone Wilshire Models</em></figcaption></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="948" height="667" src="/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop.jpg" alt="" class="wp-image-3352" title="" srcset="/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop.jpg 948w, /wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop-600x422.jpg 600w, /wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop-300x211.jpg 300w, /wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop-768x540.jpg 768w" sizes="(max-width: 948px) 100vw, 948px" /><figcaption><em>Gibson Slash Custom Shop Model</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="948" height="667" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop.jpg" alt="" class="wp-image-3352" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop.jpg 948w, https://www.electrikjam.com/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop-600x422.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop-300x211.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Gibson-Les-paul-Custom-Shop-768x540.jpg 768w" sizes="(max-width: 948px) 100vw, 948px" /><figcaption><em>Gibson Slash Custom Shop Model</em></figcaption></figure>
 
 
 
@@ -195,7 +195,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg" alt="" class="wp-image-2462" title="" srcset="/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg 1024w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-600x338.jpg 600w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-300x169.jpg 300w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-768x432.jpg 768w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-1080x608.jpg 1080w, /wp-content/uploads/2021/03/inside-gibson-custom-shop.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Gibson Custom Shop</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg" alt="" class="wp-image-2462" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Gibson Custom Shop</em></figcaption></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1024x614.jpg" alt="" class="wp-image-3321" title="" srcset="/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1024x614.jpg 1024w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-600x360.jpg 600w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-300x180.jpg 300w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-768x461.jpg 768w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1080x648.jpg 1080w, /wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>USA Les Paul Standard</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1024x614.jpg" alt="" class="wp-image-3321" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1024x614.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-768x461.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard-1080x648.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/1959-Gibson-Les-Paul-Standard.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>USA Les Paul Standard</figcaption></figure>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg" alt="" class="wp-image-1233" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-lasso-id="103379">Epiphone Prophecy Collection</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg" alt="" class="wp-image-1233" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-lasso-id="103379">Epiphone Prophecy Collection</a></figcaption></figure>
 
 
 
@@ -287,7 +287,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/06/Epiphone-Ghosthorse.jpg" alt="" class="wp-image-3353" width="840" height="461" title="" srcset="/wp-content/uploads/2021/06/Epiphone-Ghosthorse.jpg 900w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-600x329.jpg 600w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-300x165.jpg 300w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-768x422.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em>Brendon Small Artist <a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170865">Signature Guitar</a></em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Ghosthorse.jpg" alt="" class="wp-image-3353" width="840" height="461" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Ghosthorse.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Ghosthorse-600x329.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Ghosthorse-300x165.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Epiphone-Ghosthorse-768x422.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em>Brendon Small Artist <a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170865">Signature Guitar</a></em></figcaption></figure>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="990" height="349" src="/wp-content/uploads/2021/06/epiphone-les-paul-special-ii.jpg" alt="" class="wp-image-3354" title="" srcset="/wp-content/uploads/2021/06/epiphone-les-paul-special-ii.jpg 990w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-600x212.jpg 600w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-300x106.jpg 300w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-768x271.jpg 768w" sizes="(max-width: 990px) 100vw, 990px" /><figcaption><a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17475">Epiphone Les Paul</a> Special II</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="990" height="349" src="https://www.electrikjam.com/wp-content/uploads/2021/06/epiphone-les-paul-special-ii.jpg" alt="" class="wp-image-3354" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/epiphone-les-paul-special-ii.jpg 990w, https://www.electrikjam.com/wp-content/uploads/2021/06/epiphone-les-paul-special-ii-600x212.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/epiphone-les-paul-special-ii-300x106.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/epiphone-les-paul-special-ii-768x271.jpg 768w" sizes="(max-width: 990px) 100vw, 990px" /><figcaption><a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17475">Epiphone Les Paul</a> Special II</figcaption></figure>
 
 
 
@@ -351,7 +351,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg" alt="epiphone-inspired-by-gibson" class="wp-image-1896" title="" srcset="/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg 1024w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-600x315.jpg 600w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-300x158.jpg 300w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-768x404.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg" alt="epiphone-inspired-by-gibson" class="wp-image-1896" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson-600x315.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/epiphone-inspired-by-gibson-768x404.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

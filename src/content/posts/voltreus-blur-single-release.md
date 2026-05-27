@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/01/Voltreus-Blur.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Blur.png"
 featuredImageAlt: "Voltreus"
 seo: 
   title: "EJ Presents Underexposed: Voltreus \"Blur\" Single Release!"
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/01/Voltreus-Band-shot-1024x1024.jpg" alt="Voltreus" class="wp-image-10474" title="" srcset="/wp-content/uploads/2023/01/Voltreus-Band-shot-1024x1024.jpg 1024w, /wp-content/uploads/2023/01/Voltreus-Band-shot-300x300.jpg 300w, /wp-content/uploads/2023/01/Voltreus-Band-shot-100x100.jpg 100w, /wp-content/uploads/2023/01/Voltreus-Band-shot-600x600.jpg 600w, /wp-content/uploads/2023/01/Voltreus-Band-shot-150x150.jpg 150w, /wp-content/uploads/2023/01/Voltreus-Band-shot-768x768.jpg 768w, /wp-content/uploads/2023/01/Voltreus-Band-shot.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Band-shot-1024x1024.jpg" alt="Voltreus" class="wp-image-10474" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Band-shot-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Band-shot-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Band-shot-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Band-shot-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Band-shot-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Band-shot-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Band-shot.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -140,5 +140,5 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="819" height="1024" src="/wp-content/uploads/2023/01/Voltreus-Flyer-819x1024.jpg" alt="Voltreus" class="wp-image-10475" title="" srcset="/wp-content/uploads/2023/01/Voltreus-Flyer-819x1024.jpg 819w, /wp-content/uploads/2023/01/Voltreus-Flyer-600x750.jpg 600w, /wp-content/uploads/2023/01/Voltreus-Flyer-240x300.jpg 240w, /wp-content/uploads/2023/01/Voltreus-Flyer-768x960.jpg 768w, /wp-content/uploads/2023/01/Voltreus-Flyer.jpg 1000w" sizes="(max-width: 819px) 100vw, 819px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="819" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Flyer-819x1024.jpg" alt="Voltreus" class="wp-image-10475" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Flyer-819x1024.jpg 819w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Flyer-600x750.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Flyer-240x300.jpg 240w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Flyer-768x960.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Voltreus-Flyer.jpg 1000w" sizes="(max-width: 819px) 100vw, 819px" /></figure>
 

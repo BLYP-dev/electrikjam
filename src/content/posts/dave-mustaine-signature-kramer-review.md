@@ -28,7 +28,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/gibson/"
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer.png"
 featuredImageAlt: "Dave Mustaine Signature Kramer"
 seo: 
   title: "Dave Mustaine Signature Kramer Vanguard Review: 3 Models Primed To Shred!"
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-1024x683.png" alt="Dave Mustaine Signature Vanguard" class="wp-image-12282" title="" srcset="/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-1024x683.png 1024w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-600x400.png 600w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-300x200.png 300w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-768x512.png 768w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-1024x683.png" alt="Dave Mustaine Signature Vanguard" class="wp-image-12282" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Vanguard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -230,7 +230,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-1024x683.png" alt="Dave Mustaine Signature V Alien tech" class="wp-image-12283" title="" srcset="/wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-1024x683.png 1024w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-600x400.png 600w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-300x200.png 300w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-768x512.png 768w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-V.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>In the right lighting, you can see the subtle pearl in the finish.</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-1024x683.png" alt="Dave Mustaine Signature V Alien tech" class="wp-image-12283" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-V-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-V.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>In the right lighting, you can see the subtle pearl in the finish.</em></strong></figcaption></figure>
 
 
 
@@ -318,7 +318,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-1024x683.png" alt="Dave Mustaine Signature Kramer Pickups" class="wp-image-12284" title="" srcset="/wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-1024x683.png 1024w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-600x400.png 600w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-300x200.png 300w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-768x512.png 768w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-1024x683.png" alt="Dave Mustaine Signature Kramer Pickups" class="wp-image-12284" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-kramer-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -378,7 +378,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-1024x683.png" alt="Dave Mustaine Signature Kramer V" class="wp-image-12285" title="" srcset="/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-1024x683.png 1024w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-600x400.png 600w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-300x200.png 300w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-768x512.png 768w, /wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-1024x683.png" alt="Dave Mustaine Signature Kramer V" class="wp-image-12285" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/06/Dave-Mustaine-Signature-Kramer-V.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

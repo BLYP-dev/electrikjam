@@ -28,7 +28,7 @@ tagPaths:
   - "/tag/boss-katana/"
   - "/tag/line-6/"
   - "/tag/line-6-catalyst/"
-featuredImage: "/wp-content/uploads/2022/02/Untitled-design-2.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-2.png"
 featuredImageAlt: "Line 6 Catalyst VS Boss Katana"
 seo: 
   title: "Line 6 Catalyst VS BOSS Katana: Which Amp Will Be #1?"
@@ -78,7 +78,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Untitled-design-2-1024x683.png" alt="Line 6 Catalyst VS Boss Katana" class="wp-image-6935" title="" srcset="/wp-content/uploads/2022/02/Untitled-design-2-1024x683.png 1024w, /wp-content/uploads/2022/02/Untitled-design-2-600x400.png 600w, /wp-content/uploads/2022/02/Untitled-design-2-300x200.png 300w, /wp-content/uploads/2022/02/Untitled-design-2-768x512.png 768w, /wp-content/uploads/2022/02/Untitled-design-2-1080x720.png 1080w, /wp-content/uploads/2022/02/Untitled-design-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-2-1024x683.png" alt="Line 6 Catalyst VS Boss Katana" class="wp-image-6935" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-2-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -124,7 +124,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/02/Untitled-design-3-1024x683.png" alt="Line 6 Catalyst VS BOSS katana" class="wp-image-6936" width="840" height="560" title="" srcset="/wp-content/uploads/2022/02/Untitled-design-3-1024x683.png 1024w, /wp-content/uploads/2022/02/Untitled-design-3-600x400.png 600w, /wp-content/uploads/2022/02/Untitled-design-3-300x200.png 300w, /wp-content/uploads/2022/02/Untitled-design-3-768x512.png 768w, /wp-content/uploads/2022/02/Untitled-design-3-1080x720.png 1080w, /wp-content/uploads/2022/02/Untitled-design-3.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong>Both Amp Control Panels From The Top</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-3-1024x683.png" alt="Line 6 Catalyst VS BOSS katana" class="wp-image-6936" width="840" height="560" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-3-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-3.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong>Both Amp Control Panels From The Top</strong></figcaption></figure>
 			
 		
 
@@ -285,7 +285,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Untitled-design-4-1024x683.png" alt="Line 6 Catalyst VS BOSS Katan" class="wp-image-6937" title="" srcset="/wp-content/uploads/2022/02/Untitled-design-4-1024x683.png 1024w, /wp-content/uploads/2022/02/Untitled-design-4-600x400.png 600w, /wp-content/uploads/2022/02/Untitled-design-4-300x200.png 300w, /wp-content/uploads/2022/02/Untitled-design-4-768x512.png 768w, /wp-content/uploads/2022/02/Untitled-design-4-1080x720.png 1080w, /wp-content/uploads/2022/02/Untitled-design-4.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Two Editors: Endless Options</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-4-1024x683.png" alt="Line 6 Catalyst VS BOSS Katan" class="wp-image-6937" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-4-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-4-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-4-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-4-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-4-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-4.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Two Editors: Endless Options</strong></figcaption></figure>
 
 
 
@@ -362,7 +362,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/01/GAFC-Footswitch-small.jpg" alt="" class="wp-image-6629" width="821" height="194" title="" srcset="/wp-content/uploads/2022/01/GAFC-Footswitch-small.jpg 720w, /wp-content/uploads/2022/01/GAFC-Footswitch-small-600x142.jpg 600w, /wp-content/uploads/2022/01/GAFC-Footswitch-small-300x71.jpg 300w" sizes="(max-width: 821px) 100vw, 821px" /><figcaption><strong>BOSS Katana Optional Footswitch</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/01/GAFC-Footswitch-small.jpg" alt="" class="wp-image-6629" width="821" height="194" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/GAFC-Footswitch-small.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/GAFC-Footswitch-small-600x142.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/GAFC-Footswitch-small-300x71.jpg 300w" sizes="(max-width: 821px) 100vw, 821px" /><figcaption><strong>BOSS Katana Optional Footswitch</strong></figcaption></figure>
 			
 		
 

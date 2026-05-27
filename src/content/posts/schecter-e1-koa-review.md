@@ -25,7 +25,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2020/10/E1-koa-angled.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/E1-koa-angled.jpg"
 featuredImageAlt: "E1-koa-angled"
 seo: 
   title: "Schecter E1 Koa Review: A Limited Edition Metal Machine From 2019"
@@ -42,7 +42,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/10/E1-koa-angled-1024x683.jpg" alt="" class="wp-image-1041" title="" srcset="/wp-content/uploads/2020/10/E1-koa-angled-1024x683.jpg 1024w, /wp-content/uploads/2020/10/E1-koa-angled-600x400.jpg 600w, /wp-content/uploads/2020/10/E1-koa-angled-300x200.jpg 300w, /wp-content/uploads/2020/10/E1-koa-angled-768x512.jpg 768w, /wp-content/uploads/2020/10/E1-koa-angled.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The E1 Koa</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/10/E1-koa-angled-1024x683.jpg" alt="" class="wp-image-1041" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/E1-koa-angled-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/E1-koa-angled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/E1-koa-angled-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/E1-koa-angled-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/E1-koa-angled.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The E1 Koa</figcaption></figure>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/IMG_20201017_084350986-768x1024.jpg" alt="" class="wp-image-1066" title="" srcset="/wp-content/uploads/2020/10/IMG_20201017_084350986-768x1024.jpg 768w, /wp-content/uploads/2020/10/IMG_20201017_084350986-scaled-600x800.jpg 600w, /wp-content/uploads/2020/10/IMG_20201017_084350986-225x300.jpg 225w, /wp-content/uploads/2020/10/IMG_20201017_084350986-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/IMG_20201017_084350986-1536x2048.jpg 1536w, /wp-content/uploads/2020/10/IMG_20201017_084350986-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Hello, New Guitar!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201017_084350986-768x1024.jpg" alt="" class="wp-image-1066" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201017_084350986-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201017_084350986-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201017_084350986-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201017_084350986-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201017_084350986-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201017_084350986-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Hello, New Guitar!</figcaption></figure>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/IMG_20201023_133547615-768x1024.jpg" alt="" class="wp-image-1067" title="" srcset="/wp-content/uploads/2020/10/IMG_20201023_133547615-768x1024.jpg 768w, /wp-content/uploads/2020/10/IMG_20201023_133547615-scaled-600x800.jpg 600w, /wp-content/uploads/2020/10/IMG_20201023_133547615-225x300.jpg 225w, /wp-content/uploads/2020/10/IMG_20201023_133547615-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/IMG_20201023_133547615-1536x2048.jpg 1536w, /wp-content/uploads/2020/10/IMG_20201023_133547615-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133547615-768x1024.jpg" alt="" class="wp-image-1067" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133547615-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133547615-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133547615-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133547615-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133547615-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133547615-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/IMG_20201023_133427972-768x1024.jpg" alt="" class="wp-image-1068" title="" srcset="/wp-content/uploads/2020/10/IMG_20201023_133427972-768x1024.jpg 768w, /wp-content/uploads/2020/10/IMG_20201023_133427972-scaled-600x800.jpg 600w, /wp-content/uploads/2020/10/IMG_20201023_133427972-225x300.jpg 225w, /wp-content/uploads/2020/10/IMG_20201023_133427972-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/IMG_20201023_133427972-1536x2048.jpg 1536w, /wp-content/uploads/2020/10/IMG_20201023_133427972-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>San Andreas Custom Shop Pickups</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133427972-768x1024.jpg" alt="" class="wp-image-1068" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133427972-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133427972-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133427972-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133427972-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133427972-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133427972-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>San Andreas Custom Shop Pickups</figcaption></figure>
 
 
 
@@ -360,7 +360,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/IMG_20201023_133457802-768x1024.jpg" alt="" class="wp-image-1069" title="" srcset="/wp-content/uploads/2020/10/IMG_20201023_133457802-768x1024.jpg 768w, /wp-content/uploads/2020/10/IMG_20201023_133457802-scaled-600x800.jpg 600w, /wp-content/uploads/2020/10/IMG_20201023_133457802-225x300.jpg 225w, /wp-content/uploads/2020/10/IMG_20201023_133457802-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/IMG_20201023_133457802-1536x2048.jpg 1536w, /wp-content/uploads/2020/10/IMG_20201023_133457802-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Neck, Access Joint, and Strap Button</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133457802-768x1024.jpg" alt="" class="wp-image-1069" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133457802-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133457802-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133457802-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133457802-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133457802-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133457802-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Neck, Access Joint, and Strap Button</figcaption></figure>
 
 
 
@@ -408,7 +408,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/IMG_20201023_133746002-768x1024.jpg" alt="" class="wp-image-1070" title="" srcset="/wp-content/uploads/2020/10/IMG_20201023_133746002-768x1024.jpg 768w, /wp-content/uploads/2020/10/IMG_20201023_133746002-scaled-600x800.jpg 600w, /wp-content/uploads/2020/10/IMG_20201023_133746002-225x300.jpg 225w, /wp-content/uploads/2020/10/IMG_20201023_133746002-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/IMG_20201023_133746002-1536x2048.jpg 1536w, /wp-content/uploads/2020/10/IMG_20201023_133746002-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133746002-768x1024.jpg" alt="" class="wp-image-1070" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133746002-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133746002-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133746002-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133746002-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133746002-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/IMG_20201023_133746002-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 
 
 

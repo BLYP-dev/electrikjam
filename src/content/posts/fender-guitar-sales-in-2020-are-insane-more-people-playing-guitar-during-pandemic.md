@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2020/11/NEW-STRAT.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/NEW-STRAT.jpg"
 featuredImageAlt: "Fender Guitar Sales"
 seo: 
   title: "Fender Guitar Sales in 2020 are INSANE: More People Playing Guitar"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="536" src="/wp-content/uploads/2020/11/Fender-American-Pro-II--1024x536.jpg" alt="" class="wp-image-1476" title="" srcset="/wp-content/uploads/2020/11/Fender-American-Pro-II--1024x536.jpg 1024w, /wp-content/uploads/2020/11/Fender-American-Pro-II--600x314.jpg 600w, /wp-content/uploads/2020/11/Fender-American-Pro-II--300x157.jpg 300w, /wp-content/uploads/2020/11/Fender-American-Pro-II--768x402.jpg 768w, /wp-content/uploads/2020/11/Fender-American-Pro-II-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Fender&#8217;s 2020 Lineup</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="536" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--1024x536.jpg" alt="" class="wp-image-1476" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--1024x536.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--600x314.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--300x157.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--768x402.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Fender&#8217;s 2020 Lineup</figcaption></figure>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="332" src="/wp-content/uploads/2020/11/NEW-STRAT-1024x332.jpg" alt="Fender Guitar Sales" class="wp-image-1477" title="" srcset="/wp-content/uploads/2020/11/NEW-STRAT-1024x332.jpg 1024w, /wp-content/uploads/2020/11/NEW-STRAT-600x195.jpg 600w, /wp-content/uploads/2020/11/NEW-STRAT-300x97.jpg 300w, /wp-content/uploads/2020/11/NEW-STRAT-768x249.jpg 768w, /wp-content/uploads/2020/11/NEW-STRAT-1536x498.jpg 1536w, /wp-content/uploads/2020/11/NEW-STRAT-2048x664.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Custom shop<a href="https://www.fender.com/en-US/start" class="rank-math-link" data-lasso-id="470" target="_blank" rel="noopener noreferrer nofollow"> Fender</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="332" src="https://www.electrikjam.com/wp-content/uploads/2020/11/NEW-STRAT-1024x332.jpg" alt="Fender Guitar Sales" class="wp-image-1477" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/NEW-STRAT-1024x332.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/NEW-STRAT-600x195.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/NEW-STRAT-300x97.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/NEW-STRAT-768x249.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/NEW-STRAT-1536x498.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/NEW-STRAT-2048x664.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Custom shop<a href="https://www.fender.com/en-US/start" class="rank-math-link" data-lasso-id="470" target="_blank" rel="noopener noreferrer nofollow"> Fender</a></figcaption></figure>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2020/11/andy-mooney-1024x538.jpg" alt="" class="wp-image-1478" title="" srcset="/wp-content/uploads/2020/11/andy-mooney-1024x538.jpg 1024w, /wp-content/uploads/2020/11/andy-mooney-600x315.jpg 600w, /wp-content/uploads/2020/11/andy-mooney-300x158.jpg 300w, /wp-content/uploads/2020/11/andy-mooney-768x403.jpg 768w, /wp-content/uploads/2020/11/andy-mooney.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Andy Mooney. CEO of Fender</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://www.electrikjam.com/wp-content/uploads/2020/11/andy-mooney-1024x538.jpg" alt="" class="wp-image-1478" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/andy-mooney-1024x538.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/andy-mooney-600x315.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/andy-mooney-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/andy-mooney-768x403.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/andy-mooney.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Andy Mooney. CEO of Fender</figcaption></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/03/Boss-ds1.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1.jpg"
 featuredImageAlt: "best guitar pedals"
 seo: 
   title: "Best Distortion Pedals For Beginners: My #1 Picks For 2021"
@@ -60,7 +60,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="700" height="469" src="/wp-content/uploads/2020/12/Pedals-collage.jpg" alt="distortion pedals for beginners" class="wp-image-1587" title="" srcset="/wp-content/uploads/2020/12/Pedals-collage.jpg 700w, /wp-content/uploads/2020/12/Pedals-collage-600x402.jpg 600w, /wp-content/uploads/2020/12/Pedals-collage-300x201.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="700" height="469" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Pedals-collage.jpg" alt="distortion pedals for beginners" class="wp-image-1587" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Pedals-collage.jpg 700w, https://www.electrikjam.com/wp-content/uploads/2020/12/Pedals-collage-600x402.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Pedals-collage-300x201.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/03/Boss-ds1-1024x1024.jpg" alt="" class="wp-image-2482" title="" srcset="/wp-content/uploads/2021/03/Boss-ds1-1024x1024.jpg 1024w, /wp-content/uploads/2021/03/Boss-ds1-300x300.jpg 300w, /wp-content/uploads/2021/03/Boss-ds1-100x100.jpg 100w, /wp-content/uploads/2021/03/Boss-ds1-600x600.jpg 600w, /wp-content/uploads/2021/03/Boss-ds1-150x150.jpg 150w, /wp-content/uploads/2021/03/Boss-ds1-768x768.jpg 768w, /wp-content/uploads/2021/03/Boss-ds1-1536x1536.jpg 1536w, /wp-content/uploads/2021/03/Boss-ds1-2048x2048.jpg 2048w, /wp-content/uploads/2021/03/Boss-ds1-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The iconic BOSS DS-1</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-1024x1024.jpg" alt="" class="wp-image-2482" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-2048x2048.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Boss-ds1-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The iconic BOSS DS-1</figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="914" height="1024" src="/wp-content/uploads/2021/03/Ibanez-Tube-screamer-914x1024.jpg" alt="" class="wp-image-2483" title="" srcset="/wp-content/uploads/2021/03/Ibanez-Tube-screamer-914x1024.jpg 914w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer-600x672.jpg 600w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer-268x300.jpg 268w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer-768x860.jpg 768w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer-1080x1210.jpg 1080w, /wp-content/uploads/2021/03/Ibanez-Tube-screamer.jpg 1082w" sizes="(max-width: 914px) 100vw, 914px" /><figcaption>The Re-release edition of the Tube Screamer</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="914" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-914x1024.jpg" alt="" class="wp-image-2483" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-914x1024.jpg 914w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-600x672.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-268x300.jpg 268w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-768x860.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer-1080x1210.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Tube-screamer.jpg 1082w" sizes="(max-width: 914px) 100vw, 914px" /><figcaption>The Re-release edition of the Tube Screamer</figcaption></figure>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="950" height="950" src="/wp-content/uploads/2021/03/MXR-Distortion.jpg" alt="" class="wp-image-2484" title="" srcset="/wp-content/uploads/2021/03/MXR-Distortion.jpg 950w, /wp-content/uploads/2021/03/MXR-Distortion-300x300.jpg 300w, /wp-content/uploads/2021/03/MXR-Distortion-100x100.jpg 100w, /wp-content/uploads/2021/03/MXR-Distortion-600x600.jpg 600w, /wp-content/uploads/2021/03/MXR-Distortion-150x150.jpg 150w, /wp-content/uploads/2021/03/MXR-Distortion-768x768.jpg 768w" sizes="(max-width: 950px) 100vw, 950px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="950" height="950" src="https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Distortion.jpg" alt="" class="wp-image-2484" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Distortion.jpg 950w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Distortion-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Distortion-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Distortion-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Distortion-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Distortion-768x768.jpg 768w" sizes="(max-width: 950px) 100vw, 950px" /></figure>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/03/MXR-Super-Badass-1024x1024.jpg" alt="" class="wp-image-2485" title="" srcset="/wp-content/uploads/2021/03/MXR-Super-Badass-1024x1024.jpg 1024w, /wp-content/uploads/2021/03/MXR-Super-Badass-300x300.jpg 300w, /wp-content/uploads/2021/03/MXR-Super-Badass-100x100.jpg 100w, /wp-content/uploads/2021/03/MXR-Super-Badass-600x600.jpg 600w, /wp-content/uploads/2021/03/MXR-Super-Badass-150x150.jpg 150w, /wp-content/uploads/2021/03/MXR-Super-Badass-768x768.jpg 768w, /wp-content/uploads/2021/03/MXR-Super-Badass-1080x1080.jpg 1080w, /wp-content/uploads/2021/03/MXR-Super-Badass.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-1024x1024.jpg" alt="" class="wp-image-2485" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/MXR-Super-Badass.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/03/bogner-red-and-blue.jpg" alt="" class="wp-image-2486" width="607" height="334" title="" srcset="/wp-content/uploads/2021/03/bogner-red-and-blue.jpg 770w, /wp-content/uploads/2021/03/bogner-red-and-blue-600x331.jpg 600w, /wp-content/uploads/2021/03/bogner-red-and-blue-300x166.jpg 300w, /wp-content/uploads/2021/03/bogner-red-and-blue-768x424.jpg 768w" sizes="(max-width: 607px) 100vw, 607px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/03/bogner-red-and-blue.jpg" alt="" class="wp-image-2486" width="607" height="334" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/bogner-red-and-blue.jpg 770w, https://www.electrikjam.com/wp-content/uploads/2021/03/bogner-red-and-blue-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/bogner-red-and-blue-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/bogner-red-and-blue-768x424.jpg 768w" sizes="(max-width: 607px) 100vw, 607px" /></figure>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/03/Joyo-extreme-1024x1024.jpg" alt="" class="wp-image-2487" title="" srcset="/wp-content/uploads/2021/03/Joyo-extreme-1024x1024.jpg 1024w, /wp-content/uploads/2021/03/Joyo-extreme-300x300.jpg 300w, /wp-content/uploads/2021/03/Joyo-extreme-100x100.jpg 100w, /wp-content/uploads/2021/03/Joyo-extreme-600x600.jpg 600w, /wp-content/uploads/2021/03/Joyo-extreme-150x150.jpg 150w, /wp-content/uploads/2021/03/Joyo-extreme-768x768.jpg 768w, /wp-content/uploads/2021/03/Joyo-extreme-1080x1080.jpg 1080w, /wp-content/uploads/2021/03/Joyo-extreme.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme-1024x1024.jpg" alt="" class="wp-image-2487" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Joyo-extreme.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

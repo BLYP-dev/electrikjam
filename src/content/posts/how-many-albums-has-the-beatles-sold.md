@@ -22,7 +22,7 @@ tagSlugs:
   - "the-beatles"
 tagPaths: 
   - "/tag/the-beatles/"
-featuredImage: "/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.-.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/05/Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.-.png"
 featuredImageAlt: "Sgt-Peppers-Lonely-Hearts-Club-Band-Sold-32-MILLION-Copies.-"
 seo: 
   title: "How Many Albums Has The Beatles Sold? Here's The Data..."
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/beatles-albums-in-order-1024x683.png" alt="beatles albums in order and other interesting stats" class="wp-image-14982" title="" srcset="/wp-content/uploads/2023/01/beatles-albums-in-order-1024x683.png 1024w, /wp-content/uploads/2023/01/beatles-albums-in-order-600x400.png 600w, /wp-content/uploads/2023/01/beatles-albums-in-order-300x200.png 300w, /wp-content/uploads/2023/01/beatles-albums-in-order-768x512.png 768w, /wp-content/uploads/2023/01/beatles-albums-in-order.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="265745">Beatles Albums In Order: A Deep Dive Covering Stats, Reception, Impact &amp; More</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-albums-in-order-1024x683.png" alt="beatles albums in order and other interesting stats" class="wp-image-14982" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-albums-in-order-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-albums-in-order-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-albums-in-order-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-albums-in-order-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/beatles-albums-in-order.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="265745">Beatles Albums In Order: A Deep Dive Covering Stats, Reception, Impact &amp; More</a></strong></figcaption></figure>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="506" src="/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-1024x506.png" alt="" class="wp-image-14992" title="" srcset="/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-1024x506.png 1024w, /wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-600x296.png 600w, /wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-300x148.png 300w, /wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-768x380.png 768w, /wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-1536x759.png 1536w, /wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-2048x1012.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="506" src="https://www.electrikjam.com/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-1024x506.png" alt="" class="wp-image-14992" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-1024x506.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-600x296.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-300x148.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-768x380.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-1536x759.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/05/How-Many-Albums-Has-The-Beatles-Sold-graph-2048x1012.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-1024x683.png" alt="" class="wp-image-14985" title="" srcset="/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-1024x683.png 1024w, /wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-600x400.png 600w, /wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-300x200.png 300w, /wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-768x512.png 768w, /wp-content/uploads/2024/05/Beatles-Album-Sales-Stats.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-1024x683.png" alt="" class="wp-image-14985" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Album-Sales-Stats.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/Beatles-Albums-Ranked--1024x683.png" alt="" class="wp-image-14984" title="" srcset="/wp-content/uploads/2024/05/Beatles-Albums-Ranked--1024x683.png 1024w, /wp-content/uploads/2024/05/Beatles-Albums-Ranked--600x400.png 600w, /wp-content/uploads/2024/05/Beatles-Albums-Ranked--300x200.png 300w, /wp-content/uploads/2024/05/Beatles-Albums-Ranked--768x512.png 768w, /wp-content/uploads/2024/05/Beatles-Albums-Ranked-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--1024x683.png" alt="" class="wp-image-14984" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/05/Beatles-Albums-Ranked-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

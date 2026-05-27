@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide.png"
 featuredImageAlt: "Pallbearer Gear & Guitars Guide"
 seo: 
   title: "Pallbearer Gear & Guitars Guide: Dialin’ In The DOOM…"
@@ -64,7 +64,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-1024x683.png" alt="Pallbearer Gear &amp; Guitars Guide" class="wp-image-7907" title="" srcset="/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-1024x683.png 1024w, /wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-600x400.png 600w, /wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-300x200.png 300w, /wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-768x512.png 768w, /wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Brett Campbell From Pallbearer With His PRS S2 Vela</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-1024x683.png" alt="Pallbearer Gear &amp; Guitars Guide" class="wp-image-7907" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Pallbearer-Gear-Guitars-Guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Brett Campbell From Pallbearer With His PRS S2 Vela</strong></figcaption></figure></div>
 
 
 

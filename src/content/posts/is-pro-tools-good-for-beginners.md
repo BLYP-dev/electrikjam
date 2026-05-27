@@ -22,7 +22,7 @@ tagSlugs:
   - "pro-tools"
 tagPaths: 
   - "/tag/pro-tools/"
-featuredImage: "/wp-content/uploads/2023/11/Pro-Tools-beginners-2.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-Tools-beginners-2.png"
 featuredImageAlt: "Pro Tools good for beginners?"
 seo: 
   title: "Is Pro Tools Good for Beginners? 3 Pros and Cons of The Powerful DAW"
@@ -82,7 +82,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Pro-Tools-for-Beginners-1024x683.png" alt="Pro Tools good for beginners?" class="wp-image-13217" title="" srcset="/wp-content/uploads/2023/11/Pro-Tools-for-Beginners-1024x683.png 1024w, /wp-content/uploads/2023/11/Pro-Tools-for-Beginners-600x400.png 600w, /wp-content/uploads/2023/11/Pro-Tools-for-Beginners-300x200.png 300w, /wp-content/uploads/2023/11/Pro-Tools-for-Beginners-768x512.png 768w, /wp-content/uploads/2023/11/Pro-Tools-for-Beginners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-Tools-for-Beginners-1024x683.png" alt="Pro Tools good for beginners?" class="wp-image-13217" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-Tools-for-Beginners-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-Tools-for-Beginners-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-Tools-for-Beginners-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-Tools-for-Beginners-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-Tools-for-Beginners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Pro-pro-Tools-1024x683.png" alt="Pro Tools good for beginners?" class="wp-image-13218" title="" srcset="/wp-content/uploads/2023/11/Pro-pro-Tools-1024x683.png 1024w, /wp-content/uploads/2023/11/Pro-pro-Tools-600x400.png 600w, /wp-content/uploads/2023/11/Pro-pro-Tools-300x200.png 300w, /wp-content/uploads/2023/11/Pro-pro-Tools-768x512.png 768w, /wp-content/uploads/2023/11/Pro-pro-Tools.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-pro-Tools-1024x683.png" alt="Pro Tools good for beginners?" class="wp-image-13218" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-pro-Tools-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-pro-Tools-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-pro-Tools-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-pro-Tools-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Pro-pro-Tools.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

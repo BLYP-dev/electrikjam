@@ -22,7 +22,7 @@ tagSlugs:
   - "spark-amp"
 tagPaths: 
   - "/tag/spark-amp/"
-featuredImage: "/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg"
 featuredImageAlt: "how much does the spark amp weigh"
 seo: 
   title: "How Heavy is The Spark Amp? Let’s Find Out…"
@@ -72,7 +72,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="846" src="/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg" alt="how much does the spark amp weigh" class="wp-image-1927" title="" srcset="/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg 1024w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-600x496.jpg 600w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-300x248.jpg 300w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-768x634.jpg 768w, /wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>My Spark Amp Next To My Bose QC35 II Headphones &amp; Vape Device (For Size Perspective)</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="846" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg" alt="how much does the spark amp weigh" class="wp-image-1927" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-1024x846.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-600x496.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-300x248.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp-768x634.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Positive-Grid-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>My Spark Amp Next To My Bose QC35 II Headphones &amp; Vape Device (For Size Perspective)</strong></figcaption></figure>
 			
 		
 

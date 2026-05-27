@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "/wp-content/uploads/2021/11/fuKLGxu7_400x400.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/fuKLGxu7_400x400.jpg"
 featuredImageAlt: "what is line 6 edit"
 seo: 
   title: "What Is Line 6 Edit?"
@@ -75,7 +75,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="714" src="/wp-content/uploads/2021/11/HX-edit.jpg" alt="what is line 6 edit" class="wp-image-5715" title="" srcset="/wp-content/uploads/2021/11/HX-edit.jpg 1000w, /wp-content/uploads/2021/11/HX-edit-600x428.jpg 600w, /wp-content/uploads/2021/11/HX-edit-300x214.jpg 300w, /wp-content/uploads/2021/11/HX-edit-768x548.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="714" src="https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit.jpg" alt="what is line 6 edit" class="wp-image-5715" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit-600x428.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit-300x214.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit-768x548.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="677" src="/wp-content/uploads/2021/11/HX-edit-effects.jpg" alt="" class="wp-image-5716" title="" srcset="/wp-content/uploads/2021/11/HX-edit-effects.jpg 1000w, /wp-content/uploads/2021/11/HX-edit-effects-600x406.jpg 600w, /wp-content/uploads/2021/11/HX-edit-effects-300x203.jpg 300w, /wp-content/uploads/2021/11/HX-edit-effects-768x520.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="677" src="https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit-effects.jpg" alt="" class="wp-image-5716" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit-effects.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit-effects-600x406.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit-effects-300x203.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/HX-edit-effects-768x520.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="329" src="/wp-content/uploads/2021/11/pulse-ir-loader.jpg" alt="" class="wp-image-5717" title="" srcset="/wp-content/uploads/2021/11/pulse-ir-loader.jpg 800w, /wp-content/uploads/2021/11/pulse-ir-loader-600x247.jpg 600w, /wp-content/uploads/2021/11/pulse-ir-loader-300x123.jpg 300w, /wp-content/uploads/2021/11/pulse-ir-loader-768x316.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>My Lancaster Audio IR Library</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="329" src="https://www.electrikjam.com/wp-content/uploads/2021/11/pulse-ir-loader.jpg" alt="" class="wp-image-5717" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/pulse-ir-loader.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/11/pulse-ir-loader-600x247.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/pulse-ir-loader-300x123.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/pulse-ir-loader-768x316.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>My Lancaster Audio IR Library</figcaption></figure>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="700" height="700" src="/wp-content/uploads/2021/11/Line-6-edit.png" alt="" class="wp-image-5718" title="" srcset="/wp-content/uploads/2021/11/Line-6-edit.png 700w, /wp-content/uploads/2021/11/Line-6-edit-300x300.png 300w, /wp-content/uploads/2021/11/Line-6-edit-100x100.png 100w, /wp-content/uploads/2021/11/Line-6-edit-600x600.png 600w, /wp-content/uploads/2021/11/Line-6-edit-150x150.png 150w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="700" height="700" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-edit.png" alt="" class="wp-image-5718" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-edit.png 700w, https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-edit-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-edit-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-edit-600x600.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Line-6-edit-150x150.png 150w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
 
 
 

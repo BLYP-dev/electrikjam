@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2022/04/New-DOWN-Album.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/New-DOWN-Album.png"
 featuredImageAlt: "New DOWN Album"
 seo: 
   title: "New DOWN Album “Potentially” In The Works"
@@ -84,7 +84,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/New-DOWN-Album-1024x683.png" alt="New DOWN Album" class="wp-image-7852" title="" srcset="/wp-content/uploads/2022/04/New-DOWN-Album-1024x683.png 1024w, /wp-content/uploads/2022/04/New-DOWN-Album-600x400.png 600w, /wp-content/uploads/2022/04/New-DOWN-Album-300x200.png 300w, /wp-content/uploads/2022/04/New-DOWN-Album-768x512.png 768w, /wp-content/uploads/2022/04/New-DOWN-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>DOWN’s sound is as heavy as it gets. The first two albums also represent some of Phil Anselmo’s best work outside of <a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104804">Pantera</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/New-DOWN-Album-1024x683.png" alt="New DOWN Album" class="wp-image-7852" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/New-DOWN-Album-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/New-DOWN-Album-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/New-DOWN-Album-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/New-DOWN-Album-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/New-DOWN-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>DOWN’s sound is as heavy as it gets. The first two albums also represent some of Phil Anselmo’s best work outside of <a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104804">Pantera</a></strong></figcaption></figure>
 			
 		
 

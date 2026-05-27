@@ -28,7 +28,7 @@ tagPaths:
   - "/tag/popular/"
   - "/tag/positive-grid/"
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2022/06/NAMM-2022.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/06/NAMM-2022.png"
 featuredImageAlt: "NAMM 2022"
 seo: 
   title: "Summer NAMM 2022: Our #1 Picks For The BEST NEW Gear!"
@@ -81,7 +81,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-1024x683.png" alt="Schecter Nick Johnston PT Namm 2022" class="wp-image-8248" title="" srcset="/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-1024x683.png 1024w, /wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-600x400.png 600w, /wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-300x200.png 300w, /wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-768x512.png 768w, /wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-1024x683.png" alt="Schecter Nick Johnston PT Namm 2022" class="wp-image-8248" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -113,7 +113,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-1024x683.png" alt="Spark Mini" class="wp-image-8249" title="" srcset="/wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-1024x683.png 1024w, /wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-600x400.png 600w, /wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-300x200.png 300w, /wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-768x512.png 768w, /wp-content/uploads/2022/06/Spark-Mini-Nammm-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-1024x683.png" alt="Spark Mini" class="wp-image-8249" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Spark-Mini-Nammm-2022-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Spark-Mini-Nammm-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -149,7 +149,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/06/Music-Man-KAIZEN-1024x576.jpg" alt="Namm 2022" class="wp-image-8254" title="" srcset="/wp-content/uploads/2022/06/Music-Man-KAIZEN-1024x576.jpg 1024w, /wp-content/uploads/2022/06/Music-Man-KAIZEN-scaled-600x338.jpg 600w, /wp-content/uploads/2022/06/Music-Man-KAIZEN-300x169.jpg 300w, /wp-content/uploads/2022/06/Music-Man-KAIZEN-768x432.jpg 768w, /wp-content/uploads/2022/06/Music-Man-KAIZEN-1536x864.jpg 1536w, /wp-content/uploads/2022/06/Music-Man-KAIZEN-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Music-Man-KAIZEN-1024x576.jpg" alt="Namm 2022" class="wp-image-8254" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Music-Man-KAIZEN-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Music-Man-KAIZEN-scaled-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Music-Man-KAIZEN-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Music-Man-KAIZEN-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Music-Man-KAIZEN-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/06/Music-Man-KAIZEN-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -185,7 +185,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-1024x683.png" alt="REVOLT Guitar Namm 2022" class="wp-image-8255" title="" srcset="/wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-1024x683.png 1024w, /wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-600x400.png 600w, /wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-300x200.png 300w, /wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-768x512.png 768w, /wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-1024x683.png" alt="REVOLT Guitar Namm 2022" class="wp-image-8255" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Two-Notes-REVOLT-Namm-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/06/Ibanez-NAMM-2022-1024x576.jpg" alt="" class="wp-image-8256" title="" srcset="/wp-content/uploads/2022/06/Ibanez-NAMM-2022-1024x576.jpg 1024w, /wp-content/uploads/2022/06/Ibanez-NAMM-2022-scaled-600x338.jpg 600w, /wp-content/uploads/2022/06/Ibanez-NAMM-2022-300x169.jpg 300w, /wp-content/uploads/2022/06/Ibanez-NAMM-2022-768x432.jpg 768w, /wp-content/uploads/2022/06/Ibanez-NAMM-2022-1536x864.jpg 1536w, /wp-content/uploads/2022/06/Ibanez-NAMM-2022-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Ibanez-NAMM-2022-1024x576.jpg" alt="" class="wp-image-8256" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Ibanez-NAMM-2022-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Ibanez-NAMM-2022-scaled-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Ibanez-NAMM-2022-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Ibanez-NAMM-2022-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Ibanez-NAMM-2022-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/06/Ibanez-NAMM-2022-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -245,7 +245,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/SLO-MINI-Namm-2022-1024x683.png" alt="Soldano SLO MINI" class="wp-image-8257" title="" srcset="/wp-content/uploads/2022/06/SLO-MINI-Namm-2022-1024x683.png 1024w, /wp-content/uploads/2022/06/SLO-MINI-Namm-2022-600x400.png 600w, /wp-content/uploads/2022/06/SLO-MINI-Namm-2022-300x200.png 300w, /wp-content/uploads/2022/06/SLO-MINI-Namm-2022-768x512.png 768w, /wp-content/uploads/2022/06/SLO-MINI-Namm-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/SLO-MINI-Namm-2022-1024x683.png" alt="Soldano SLO MINI" class="wp-image-8257" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/SLO-MINI-Namm-2022-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/SLO-MINI-Namm-2022-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/SLO-MINI-Namm-2022-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/SLO-MINI-Namm-2022-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/SLO-MINI-Namm-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

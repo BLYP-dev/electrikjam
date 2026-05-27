@@ -16,7 +16,7 @@ categoryPaths: []
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/02/Work-With-ELECTRIKJAM.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/Work-With-ELECTRIKJAM.png"
 featuredImageAlt: "Work With ELECTRIKJAM"
 seo: 
   title: "Work With ELECTRIKJAM"

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/10/Bugera-and-Peavey.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/Bugera-and-Peavey.jpg"
 featuredImageAlt: "Bugera and Peavey"
 seo: 
   title: "Peavey 5150 Vs. Bugera 6262: A CONTROVERSIAL Showdown..."
@@ -84,7 +84,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/Peavey-5150-1024x576.jpg" alt="" class="wp-image-806" title="" srcset="/wp-content/uploads/2020/10/Peavey-5150-1024x576.jpg 1024w, /wp-content/uploads/2020/10/Peavey-5150-600x338.jpg 600w, /wp-content/uploads/2020/10/Peavey-5150-300x169.jpg 300w, /wp-content/uploads/2020/10/Peavey-5150-768x432.jpg 768w, /wp-content/uploads/2020/10/Peavey-5150-1536x864.jpg 1536w, /wp-content/uploads/2020/10/Peavey-5150.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Peavey-5150-1024x576.jpg" alt="" class="wp-image-806" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Peavey-5150-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Peavey-5150-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Peavey-5150-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Peavey-5150-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Peavey-5150-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Peavey-5150.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="713" src="/wp-content/uploads/2020/10/5150-2-1024x713.jpg" alt="" class="wp-image-807" title="" srcset="/wp-content/uploads/2020/10/5150-2-1024x713.jpg 1024w, /wp-content/uploads/2020/10/5150-2-600x418.jpg 600w, /wp-content/uploads/2020/10/5150-2-300x209.jpg 300w, /wp-content/uploads/2020/10/5150-2-768x534.jpg 768w, /wp-content/uploads/2020/10/5150-2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Second Edition 5150</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="713" src="https://www.electrikjam.com/wp-content/uploads/2020/10/5150-2-1024x713.jpg" alt="" class="wp-image-807" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/5150-2-1024x713.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/5150-2-600x418.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/5150-2-300x209.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/5150-2-768x534.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/5150-2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Second Edition 5150</figcaption></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/bugera-big-1024x576.jpg" alt="" class="wp-image-808" title="" srcset="/wp-content/uploads/2020/10/bugera-big-1024x576.jpg 1024w, /wp-content/uploads/2020/10/bugera-big-600x338.jpg 600w, /wp-content/uploads/2020/10/bugera-big-300x169.jpg 300w, /wp-content/uploads/2020/10/bugera-big-768x432.jpg 768w, /wp-content/uploads/2020/10/bugera-big.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bugera 6262 Infinium</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-big-1024x576.jpg" alt="" class="wp-image-808" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-big-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-big-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-big-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-big-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-big.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bugera 6262 Infinium</figcaption></figure>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/10/Bugera-3-1024x683.jpg" alt="" class="wp-image-809" title="" srcset="/wp-content/uploads/2020/10/Bugera-3-1024x683.jpg 1024w, /wp-content/uploads/2020/10/Bugera-3-600x400.jpg 600w, /wp-content/uploads/2020/10/Bugera-3-300x200.jpg 300w, /wp-content/uploads/2020/10/Bugera-3-768x512.jpg 768w, /wp-content/uploads/2020/10/Bugera-3-1536x1024.jpg 1536w, /wp-content/uploads/2020/10/Bugera-3.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bugera, Logo Removed</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Bugera-3-1024x683.jpg" alt="" class="wp-image-809" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Bugera-3-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Bugera-3-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Bugera-3-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Bugera-3-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Bugera-3-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Bugera-3.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bugera, Logo Removed</figcaption></figure>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="728" src="/wp-content/uploads/2020/10/bugera-6262-1024x728.jpg" alt="" class="wp-image-856" title="" srcset="/wp-content/uploads/2020/10/bugera-6262-1024x728.jpg 1024w, /wp-content/uploads/2020/10/bugera-6262-600x427.jpg 600w, /wp-content/uploads/2020/10/bugera-6262-300x213.jpg 300w, /wp-content/uploads/2020/10/bugera-6262-768x546.jpg 768w, /wp-content/uploads/2020/10/bugera-6262-1536x1092.jpg 1536w, /wp-content/uploads/2020/10/bugera-6262.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="728" src="https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-6262-1024x728.jpg" alt="" class="wp-image-856" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-6262-1024x728.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-6262-600x427.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-6262-300x213.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-6262-768x546.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-6262-1536x1092.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/bugera-6262.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -392,7 +392,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="419" src="/wp-content/uploads/2020/10/6505-1024x419.jpg" alt="" class="wp-image-857" title="" srcset="/wp-content/uploads/2020/10/6505-1024x419.jpg 1024w, /wp-content/uploads/2020/10/6505-600x245.jpg 600w, /wp-content/uploads/2020/10/6505-300x123.jpg 300w, /wp-content/uploads/2020/10/6505-768x314.jpg 768w, /wp-content/uploads/2020/10/6505.jpg 1343w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Peavey 6505</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="419" src="https://www.electrikjam.com/wp-content/uploads/2020/10/6505-1024x419.jpg" alt="" class="wp-image-857" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/6505-1024x419.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/6505-600x245.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/6505-300x123.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/6505-768x314.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/6505.jpg 1343w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Peavey 6505</figcaption></figure>
 
 
 

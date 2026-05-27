@@ -22,7 +22,7 @@ tagSlugs:
   - "jimi-hendrix"
 tagPaths: 
   - "/tag/jimi-hendrix/"
-featuredImage: "/wp-content/uploads/2024/02/How-To-Sound-Like-Jimi-Hendrix.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/How-To-Sound-Like-Jimi-Hendrix.png"
 featuredImageAlt: "How To Sound Like Jimi Hendrix"
 seo: 
   title: "How To Sound Like Jimi Hendrix: What You'll Need (Gear-Wise)"
@@ -62,7 +62,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-1024x683.png" alt="jimi hendrix guitar pedals" class="wp-image-7637" title="" srcset="/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-1024x683.png 1024w, /wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-600x400.png 600w, /wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-300x200.png 300w, /wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-768x512.png 768w, /wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-1024x683.png" alt="jimi hendrix guitar pedals" class="wp-image-7637" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/jimi-hendrix-guitar-pedals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Jimi-Hendrix-1024x683.png" alt="Why did Hendrix play in E flat?" class="wp-image-10788" title="" srcset="/wp-content/uploads/2023/02/Jimi-Hendrix-1024x683.png 1024w, /wp-content/uploads/2023/02/Jimi-Hendrix-600x400.png 600w, /wp-content/uploads/2023/02/Jimi-Hendrix-300x200.png 300w, /wp-content/uploads/2023/02/Jimi-Hendrix-768x512.png 768w, /wp-content/uploads/2023/02/Jimi-Hendrix.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Jimi-Hendrix-1024x683.png" alt="Why did Hendrix play in E flat?" class="wp-image-10788" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Jimi-Hendrix-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Jimi-Hendrix-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Jimi-Hendrix-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Jimi-Hendrix-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Jimi-Hendrix.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png" alt="Fender American Professional Stratocaster" class="wp-image-10942" title="" srcset="/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png" alt="Fender American Professional Stratocaster" class="wp-image-10942" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Marshall-Super-Lead-100W-1024x683.png" alt="Marshall Super Lead 100W" class="wp-image-14036" title="" srcset="/wp-content/uploads/2024/02/Marshall-Super-Lead-100W-1024x683.png 1024w, /wp-content/uploads/2024/02/Marshall-Super-Lead-100W-600x400.png 600w, /wp-content/uploads/2024/02/Marshall-Super-Lead-100W-300x200.png 300w, /wp-content/uploads/2024/02/Marshall-Super-Lead-100W-768x512.png 768w, /wp-content/uploads/2024/02/Marshall-Super-Lead-100W.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Marshall-Super-Lead-100W-1024x683.png" alt="Marshall Super Lead 100W" class="wp-image-14036" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Marshall-Super-Lead-100W-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Marshall-Super-Lead-100W-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Marshall-Super-Lead-100W-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Marshall-Super-Lead-100W-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Marshall-Super-Lead-100W.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -198,7 +198,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Fuzz-Face-pedal-1024x683.png" alt="Fuzz-Face-pedal" class="wp-image-14037" title="" srcset="/wp-content/uploads/2024/02/Fuzz-Face-pedal-1024x683.png 1024w, /wp-content/uploads/2024/02/Fuzz-Face-pedal-600x400.png 600w, /wp-content/uploads/2024/02/Fuzz-Face-pedal-300x200.png 300w, /wp-content/uploads/2024/02/Fuzz-Face-pedal-768x512.png 768w, /wp-content/uploads/2024/02/Fuzz-Face-pedal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Fuzz-Face-pedal-1024x683.png" alt="Fuzz-Face-pedal" class="wp-image-14037" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Fuzz-Face-pedal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Fuzz-Face-pedal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Fuzz-Face-pedal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Fuzz-Face-pedal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Fuzz-Face-pedal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -250,7 +250,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="976" height="549" src="/wp-content/uploads/2022/02/Jimi-hendrix.jpg" alt="" class="wp-image-6890" title="" srcset="/wp-content/uploads/2022/02/Jimi-hendrix.jpg 976w, /wp-content/uploads/2022/02/Jimi-hendrix-600x338.jpg 600w, /wp-content/uploads/2022/02/Jimi-hendrix-300x169.jpg 300w, /wp-content/uploads/2022/02/Jimi-hendrix-768x432.jpg 768w" sizes="(max-width: 976px) 100vw, 976px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="976" height="549" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix.jpg" alt="" class="wp-image-6890" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix.jpg 976w, https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix-768x432.jpg 768w" sizes="(max-width: 976px) 100vw, 976px" /></figure>
 
 
 

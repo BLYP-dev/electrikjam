@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/10/Pedals.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals.jpg"
 featuredImageAlt: "Pedals"
 seo: 
   title: "Building Your First Pedalboard: The EASY Step By Step Guide"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-1024x683.jpg" alt="" class="wp-image-1089" title="" srcset="/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-scaled-600x400.jpg 600w, /wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-300x200.jpg 300w, /wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-768x512.jpg 768w, /wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-1024x683.jpg" alt="" class="wp-image-1089" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/jonathan-dubon-yEE68_6Z2Qo-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Pedals.jpg" alt="" class="wp-image-1090" title="" srcset="/wp-content/uploads/2020/10/Pedals.jpg 1024w, /wp-content/uploads/2020/10/Pedals-600x450.jpg 600w, /wp-content/uploads/2020/10/Pedals-300x225.jpg 300w, /wp-content/uploads/2020/10/Pedals-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals.jpg" alt="" class="wp-image-1090" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="961" height="1024" src="/wp-content/uploads/2020/10/Korg-Pitchback-961x1024.jpg" alt="" class="wp-image-1091" title="" srcset="/wp-content/uploads/2020/10/Korg-Pitchback-961x1024.jpg 961w, /wp-content/uploads/2020/10/Korg-Pitchback-600x640.jpg 600w, /wp-content/uploads/2020/10/Korg-Pitchback-281x300.jpg 281w, /wp-content/uploads/2020/10/Korg-Pitchback-768x819.jpg 768w, /wp-content/uploads/2020/10/Korg-Pitchback.jpg 1407w" sizes="(max-width: 961px) 100vw, 961px" /><figcaption>Korg Pitchblack</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="961" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Pitchback-961x1024.jpg" alt="" class="wp-image-1091" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Pitchback-961x1024.jpg 961w, https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Pitchback-600x640.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Pitchback-281x300.jpg 281w, https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Pitchback-768x819.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Korg-Pitchback.jpg 1407w" sizes="(max-width: 961px) 100vw, 961px" /><figcaption>Korg Pitchblack</figcaption></figure>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Boss-Ditortion-1024x1024.jpg" alt="" class="wp-image-1093" title="" srcset="/wp-content/uploads/2020/10/Boss-Ditortion-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Boss-Ditortion-300x300.jpg 300w, /wp-content/uploads/2020/10/Boss-Ditortion-100x100.jpg 100w, /wp-content/uploads/2020/10/Boss-Ditortion-600x600.jpg 600w, /wp-content/uploads/2020/10/Boss-Ditortion-150x150.jpg 150w, /wp-content/uploads/2020/10/Boss-Ditortion-768x768.jpg 768w, /wp-content/uploads/2020/10/Boss-Ditortion-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/Boss-Ditortion-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-1024x1024.jpg" alt="" class="wp-image-1093" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Boss-Ditortion-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Tube-Screamer-1024x1024.jpg" alt="" class="wp-image-1094" title="" srcset="/wp-content/uploads/2020/10/Tube-Screamer-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Tube-Screamer-300x300.jpg 300w, /wp-content/uploads/2020/10/Tube-Screamer-100x100.jpg 100w, /wp-content/uploads/2020/10/Tube-Screamer-600x600.jpg 600w, /wp-content/uploads/2020/10/Tube-Screamer-150x150.jpg 150w, /wp-content/uploads/2020/10/Tube-Screamer-768x768.jpg 768w, /wp-content/uploads/2020/10/Tube-Screamer-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/Tube-Screamer.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer-1024x1024.jpg" alt="" class="wp-image-1094" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Tube-Screamer.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="877" src="/wp-content/uploads/2020/10/Decimator-1024x877.jpg" alt="" class="wp-image-1095" title="" srcset="/wp-content/uploads/2020/10/Decimator-1024x877.jpg 1024w, /wp-content/uploads/2020/10/Decimator-600x514.jpg 600w, /wp-content/uploads/2020/10/Decimator-300x257.jpg 300w, /wp-content/uploads/2020/10/Decimator-768x658.jpg 768w, /wp-content/uploads/2020/10/Decimator.jpg 1246w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="877" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Decimator-1024x877.jpg" alt="" class="wp-image-1095" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Decimator-1024x877.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Decimator-600x514.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Decimator-300x257.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Decimator-768x658.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Decimator.jpg 1246w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Modulation-1024x768.jpg" alt="" class="wp-image-1096" title="" srcset="/wp-content/uploads/2020/10/Modulation-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Modulation-600x450.jpg 600w, /wp-content/uploads/2020/10/Modulation-300x225.jpg 300w, /wp-content/uploads/2020/10/Modulation-768x576.jpg 768w, /wp-content/uploads/2020/10/Modulation.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Modulation-1024x768.jpg" alt="" class="wp-image-1096" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Modulation-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Modulation-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Modulation-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Modulation-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Modulation.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2020/10/Wah-Wah-Front.jpg" alt="" class="wp-image-1097" title="" srcset="/wp-content/uploads/2020/10/Wah-Wah-Front.jpg 1000w, /wp-content/uploads/2020/10/Wah-Wah-Front-300x300.jpg 300w, /wp-content/uploads/2020/10/Wah-Wah-Front-100x100.jpg 100w, /wp-content/uploads/2020/10/Wah-Wah-Front-600x600.jpg 600w, /wp-content/uploads/2020/10/Wah-Wah-Front-150x150.jpg 150w, /wp-content/uploads/2020/10/Wah-Wah-Front-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Wah-Wah-Front.jpg" alt="" class="wp-image-1097" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Wah-Wah-Front.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wah-Wah-Front-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wah-Wah-Front-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wah-Wah-Front-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wah-Wah-Front-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wah-Wah-Front-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="572" src="/wp-content/uploads/2020/10/Power-supply-1024x572.jpg" alt="" class="wp-image-1098" title="" srcset="/wp-content/uploads/2020/10/Power-supply-1024x572.jpg 1024w, /wp-content/uploads/2020/10/Power-supply-600x335.jpg 600w, /wp-content/uploads/2020/10/Power-supply-300x168.jpg 300w, /wp-content/uploads/2020/10/Power-supply-768x429.jpg 768w, /wp-content/uploads/2020/10/Power-supply-1536x858.jpg 1536w, /wp-content/uploads/2020/10/Power-supply.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="572" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Power-supply-1024x572.jpg" alt="" class="wp-image-1098" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Power-supply-1024x572.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Power-supply-600x335.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Power-supply-300x168.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Power-supply-768x429.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Power-supply-1536x858.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Power-supply.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -324,7 +324,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Custom-pedal-board-1024x768.jpg" alt="" class="wp-image-1109" title="" srcset="/wp-content/uploads/2020/10/Custom-pedal-board-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Custom-pedal-board-scaled-600x450.jpg 600w, /wp-content/uploads/2020/10/Custom-pedal-board-300x225.jpg 300w, /wp-content/uploads/2020/10/Custom-pedal-board-768x576.jpg 768w, /wp-content/uploads/2020/10/Custom-pedal-board-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/Custom-pedal-board-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Custom wood pedalboard with attached Velcro</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Custom-pedal-board-1024x768.jpg" alt="" class="wp-image-1109" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Custom-pedal-board-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Custom-pedal-board-scaled-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Custom-pedal-board-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Custom-pedal-board-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Custom-pedal-board-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Custom-pedal-board-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Custom wood pedalboard with attached Velcro</figcaption></figure>
 
 
 
@@ -344,7 +344,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="668" src="/wp-content/uploads/2020/10/Gator-1024x668.jpg" alt="" class="wp-image-1110" title="" srcset="/wp-content/uploads/2020/10/Gator-1024x668.jpg 1024w, /wp-content/uploads/2020/10/Gator-600x391.jpg 600w, /wp-content/uploads/2020/10/Gator-300x196.jpg 300w, /wp-content/uploads/2020/10/Gator-768x501.jpg 768w, /wp-content/uploads/2020/10/Gator.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Pedals definitely not included</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="668" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Gator-1024x668.jpg" alt="" class="wp-image-1110" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Gator-1024x668.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gator-600x391.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gator-300x196.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gator-768x501.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gator.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Pedals definitely not included</figcaption></figure>
 
 
 
@@ -364,7 +364,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="537" src="/wp-content/uploads/2020/10/Patch-cables-1024x537.jpg" alt="" class="wp-image-1113" title="" srcset="/wp-content/uploads/2020/10/Patch-cables-1024x537.jpg 1024w, /wp-content/uploads/2020/10/Patch-cables-600x314.jpg 600w, /wp-content/uploads/2020/10/Patch-cables-300x157.jpg 300w, /wp-content/uploads/2020/10/Patch-cables-768x402.jpg 768w, /wp-content/uploads/2020/10/Patch-cables.jpg 1124w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="537" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Patch-cables-1024x537.jpg" alt="" class="wp-image-1113" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Patch-cables-1024x537.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Patch-cables-600x314.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Patch-cables-300x157.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Patch-cables-768x402.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Patch-cables.jpg 1124w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -424,7 +424,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="673" src="/wp-content/uploads/2020/10/Pedal-order.jpg" alt="" class="wp-image-1115" title="" srcset="/wp-content/uploads/2020/10/Pedal-order.jpg 1024w, /wp-content/uploads/2020/10/Pedal-order-600x394.jpg 600w, /wp-content/uploads/2020/10/Pedal-order-300x197.jpg 300w, /wp-content/uploads/2020/10/Pedal-order-768x505.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Curtesy of <a href="https://www.strymon.net/" data-lasso-id="313" target="_blank" rel="noopener noreferrer nofollow">Strymon  Pedals USA</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="673" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Pedal-order.jpg" alt="" class="wp-image-1115" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Pedal-order.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedal-order-600x394.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedal-order-300x197.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedal-order-768x505.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Curtesy of <a href="https://www.strymon.net/" data-lasso-id="313" target="_blank" rel="noopener noreferrer nofollow">Strymon  Pedals USA</a></figcaption></figure>
 
 
 

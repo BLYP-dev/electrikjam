@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2022/08/Where-guitars-are-made-cover.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/Where-guitars-are-made-cover.png"
 featuredImageAlt: "where guitars are made"
 seo: 
   title: "Does It Matter Where Guitars Are Made In 2022? Major Brands Explained!"
@@ -119,7 +119,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Untitled-design-1024x683.png" alt="electric guitar types" class="wp-image-8115" title="" srcset="/wp-content/uploads/2022/05/Untitled-design-1024x683.png 1024w, /wp-content/uploads/2022/05/Untitled-design-600x400.png 600w, /wp-content/uploads/2022/05/Untitled-design-300x200.png 300w, /wp-content/uploads/2022/05/Untitled-design-768x512.png 768w, /wp-content/uploads/2022/05/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-1024x683.png" alt="electric guitar types" class="wp-image-8115" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-1024x683.png" alt="Where guitars are made" class="wp-image-8624" title="" srcset="/wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-1024x683.png 1024w, /wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-600x400.png 600w, /wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-300x200.png 300w, /wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-768x512.png 768w, /wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-1024x683.png" alt="Where guitars are made" class="wp-image-8624" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Fender-strat-where-guitars-are-made.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="535" src="/wp-content/uploads/2021/03/gibson-les-paul-standard-1024x535.png" alt="" class="wp-image-2464" title="" srcset="/wp-content/uploads/2021/03/gibson-les-paul-standard-1024x535.png 1024w, /wp-content/uploads/2021/03/gibson-les-paul-standard-600x313.png 600w, /wp-content/uploads/2021/03/gibson-les-paul-standard-300x157.png 300w, /wp-content/uploads/2021/03/gibson-les-paul-standard-768x401.png 768w, /wp-content/uploads/2021/03/gibson-les-paul-standard-1080x564.png 1080w, /wp-content/uploads/2021/03/gibson-les-paul-standard.png 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="535" src="https://www.electrikjam.com/wp-content/uploads/2021/03/gibson-les-paul-standard-1024x535.png" alt="" class="wp-image-2464" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/gibson-les-paul-standard-1024x535.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/gibson-les-paul-standard-600x313.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/gibson-les-paul-standard-300x157.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/gibson-les-paul-standard-768x401.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/gibson-les-paul-standard-1080x564.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/gibson-les-paul-standard.png 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Where-guitars-are-made-wmic-1024x683.png" alt="where guitars are made" class="wp-image-8625" title="" srcset="/wp-content/uploads/2022/08/Where-guitars-are-made-wmic-1024x683.png 1024w, /wp-content/uploads/2022/08/Where-guitars-are-made-wmic-600x400.png 600w, /wp-content/uploads/2022/08/Where-guitars-are-made-wmic-300x200.png 300w, /wp-content/uploads/2022/08/Where-guitars-are-made-wmic-768x512.png 768w, /wp-content/uploads/2022/08/Where-guitars-are-made-wmic.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Where-guitars-are-made-wmic-1024x683.png" alt="where guitars are made" class="wp-image-8625" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Where-guitars-are-made-wmic-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Where-guitars-are-made-wmic-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Where-guitars-are-made-wmic-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Where-guitars-are-made-wmic-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Where-guitars-are-made-wmic.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -363,7 +363,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-1024x683.png" alt="Schecter Nick Johnston PT Namm 2022" class="wp-image-8248" title="" srcset="/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-1024x683.png 1024w, /wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-600x400.png 600w, /wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-300x200.png 300w, /wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-768x512.png 768w, /wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-1024x683.png" alt="Schecter Nick Johnston PT Namm 2022" class="wp-image-8248" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Schecter-Nick-Johnston-PT-Namm-2022-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

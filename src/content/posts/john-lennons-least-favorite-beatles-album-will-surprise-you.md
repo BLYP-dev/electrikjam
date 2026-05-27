@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album.png"
 featuredImageAlt: "hn Lennon’s Least Favorite Beatles Album"
 seo: 
   title: "John Lennon Hated This Beatles Album – Here's Why..."
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-1024x683.png" alt="hn Lennon’s Least Favorite Beatles Album" class="wp-image-8417" title="" srcset="/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-1024x683.png 1024w, /wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-600x400.png 600w, /wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-300x200.png 300w, /wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-768x512.png 768w, /wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-1024x683.png" alt="hn Lennon’s Least Favorite Beatles Album" class="wp-image-8417" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/07/hn-Lennons-Least-Favorite-Beatles-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

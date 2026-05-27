@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/120-MKIII.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/120-MKIII.jpg"
 featuredImageAlt: "120 MKIII"
 seo: 
   title: "The New REVV Generator MK III: Features, Price & Release Date"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="331" src="/wp-content/uploads/2020/11/120-MKIII-1.jpg" alt="" class="wp-image-1267" title="" srcset="/wp-content/uploads/2020/11/120-MKIII-1.jpg 768w, /wp-content/uploads/2020/11/120-MKIII-1-600x259.jpg 600w, /wp-content/uploads/2020/11/120-MKIII-1-300x129.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="331" src="https://www.electrikjam.com/wp-content/uploads/2020/11/120-MKIII-1.jpg" alt="" class="wp-image-1267" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/120-MKIII-1.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/120-MKIII-1-600x259.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/120-MKIII-1-300x129.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="820" height="312" src="/wp-content/uploads/2020/11/REVV-2-1.jpg" alt="" class="wp-image-1268" title="" srcset="/wp-content/uploads/2020/11/REVV-2-1.jpg 820w, /wp-content/uploads/2020/11/REVV-2-1-600x228.jpg 600w, /wp-content/uploads/2020/11/REVV-2-1-300x114.jpg 300w, /wp-content/uploads/2020/11/REVV-2-1-768x292.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="820" height="312" src="https://www.electrikjam.com/wp-content/uploads/2020/11/REVV-2-1.jpg" alt="" class="wp-image-1268" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/REVV-2-1.jpg 820w, https://www.electrikjam.com/wp-content/uploads/2020/11/REVV-2-1-600x228.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/REVV-2-1-300x114.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/REVV-2-1-768x292.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/10/Gibson-Faded-Les-Paul-Standards-50s-60s-2024.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/10/Gibson-Faded-Les-Paul-Standards-50s-60s-2024.jpg"
 featuredImageAlt: "Gibson Faded Les Paul Standards 50s & 60s 2024"
 seo: 
   title: "Gibson DROPS Updated Faded Les Paul Standards 50s & 60s"
@@ -52,7 +52,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full has-custom-border"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2024/10/Gibson-Faded-Les-Paul-Standards-50s-60s-2024.svg" alt="" class="wp-image-16523" style="border-radius:20px" title=""></figure>
+<figure class="wp-block-image alignwide size-full has-custom-border"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2024/10/Gibson-Faded-Les-Paul-Standards-50s-60s-2024.svg" alt="" class="wp-image-16523" style="border-radius:20px" title=""></figure>
 
 
 

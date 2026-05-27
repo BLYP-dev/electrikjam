@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/18BEA90C-7FB0-490F-BEEC-95F527884F8A.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/18BEA90C-7FB0-490F-BEEC-95F527884F8A.jpg"
 featuredImageAlt: "18BEA90C-7FB0-490F-BEEC-95F527884F8A"
 seo: 
   title: "SINARO Interview: One Of My Favorite New Metal Bands In 2020!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="566" src="/wp-content/uploads/2020/11/COVER_NoLogo-1024x566.jpg" alt="" class="wp-image-1283" title="" srcset="/wp-content/uploads/2020/11/COVER_NoLogo-1024x566.jpg 1024w, /wp-content/uploads/2020/11/COVER_NoLogo-600x332.jpg 600w, /wp-content/uploads/2020/11/COVER_NoLogo-300x166.jpg 300w, /wp-content/uploads/2020/11/COVER_NoLogo-768x425.jpg 768w, /wp-content/uploads/2020/11/COVER_NoLogo-1536x849.jpg 1536w, /wp-content/uploads/2020/11/COVER_NoLogo.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="566" src="https://www.electrikjam.com/wp-content/uploads/2020/11/COVER_NoLogo-1024x566.jpg" alt="" class="wp-image-1283" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/COVER_NoLogo-1024x566.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/COVER_NoLogo-600x332.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/COVER_NoLogo-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/COVER_NoLogo-768x425.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/COVER_NoLogo-1536x849.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/COVER_NoLogo.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="751" src="/wp-content/uploads/2020/11/IMG_1927-1024x751.jpg" alt="" class="wp-image-1285" title="" srcset="/wp-content/uploads/2020/11/IMG_1927-1024x751.jpg 1024w, /wp-content/uploads/2020/11/IMG_1927-600x440.jpg 600w, /wp-content/uploads/2020/11/IMG_1927-300x220.jpg 300w, /wp-content/uploads/2020/11/IMG_1927-768x564.jpg 768w, /wp-content/uploads/2020/11/IMG_1927.jpg 1157w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="751" src="https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_1927-1024x751.jpg" alt="" class="wp-image-1285" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_1927-1024x751.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_1927-600x440.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_1927-300x220.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_1927-768x564.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_1927.jpg 1157w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

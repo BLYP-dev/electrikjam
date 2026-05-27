@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/05/Untitled-design-27.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-27.png"
 featuredImageAlt: "reaper logo"
 seo: 
   title: "Getting Started With REAPER DAW: A Beginner's Guide..."
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/05/Untitled-design-28-1024x683.png" alt="reaper DAW interface" class="wp-image-7994" width="840" height="560" title="" srcset="/wp-content/uploads/2022/05/Untitled-design-28-1024x683.png 1024w, /wp-content/uploads/2022/05/Untitled-design-28-600x400.png 600w, /wp-content/uploads/2022/05/Untitled-design-28-300x200.png 300w, /wp-content/uploads/2022/05/Untitled-design-28-768x512.png 768w, /wp-content/uploads/2022/05/Untitled-design-28.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><a href="https://www.electrikjam.com/pxf/" data-type="lasso-urls" data-id="4880" data-lasso-id="114904" rel="nofollow noopener" target="_blank" data-lasso-name="Focusrite Scarlett">Scarlett Solo Audio Interface</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-28-1024x683.png" alt="reaper DAW interface" class="wp-image-7994" width="840" height="560" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-28-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-28-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-28-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-28-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-28.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><a href="https://www.electrikjam.com/pxf/" data-type="lasso-urls" data-id="4880" data-lasso-id="114904" rel="nofollow noopener" target="_blank" data-lasso-name="Focusrite Scarlett">Scarlett Solo Audio Interface</a></strong></figcaption></figure>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Untitled-design-27-1024x683.png" alt="reaper logo" class="wp-image-7993" title="" srcset="/wp-content/uploads/2022/05/Untitled-design-27-1024x683.png 1024w, /wp-content/uploads/2022/05/Untitled-design-27-600x400.png 600w, /wp-content/uploads/2022/05/Untitled-design-27-300x200.png 300w, /wp-content/uploads/2022/05/Untitled-design-27-768x512.png 768w, /wp-content/uploads/2022/05/Untitled-design-27.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-27-1024x683.png" alt="reaper logo" class="wp-image-7993" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-27-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-27-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-27-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-27-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design-27.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/05/REAPER-Map-1024x576.png" alt="REAPER audio" class="wp-image-7996" title="" srcset="/wp-content/uploads/2022/05/REAPER-Map-1024x576.png 1024w, /wp-content/uploads/2022/05/REAPER-Map-600x338.png 600w, /wp-content/uploads/2022/05/REAPER-Map-300x169.png 300w, /wp-content/uploads/2022/05/REAPER-Map-768x432.png 768w, /wp-content/uploads/2022/05/REAPER-Map-1536x864.png 1536w, /wp-content/uploads/2022/05/REAPER-Map.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/05/REAPER-Map-1024x576.png" alt="REAPER audio" class="wp-image-7996" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/REAPER-Map-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/REAPER-Map-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/REAPER-Map-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/REAPER-Map-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/REAPER-Map-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/05/REAPER-Map.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/05/Reaper-1024x576.png" alt="Reaper Open page" class="wp-image-7995" title="" srcset="/wp-content/uploads/2022/05/Reaper-1024x576.png 1024w, /wp-content/uploads/2022/05/Reaper-600x338.png 600w, /wp-content/uploads/2022/05/Reaper-300x169.png 300w, /wp-content/uploads/2022/05/Reaper-768x432.png 768w, /wp-content/uploads/2022/05/Reaper-1536x864.png 1536w, /wp-content/uploads/2022/05/Reaper.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-1024x576.png" alt="Reaper Open page" class="wp-image-7995" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="410" src="/wp-content/uploads/2022/05/Reaper-functions-1024x410.png" alt="reaper" class="wp-image-7997" title="" srcset="/wp-content/uploads/2022/05/Reaper-functions-1024x410.png 1024w, /wp-content/uploads/2022/05/Reaper-functions-600x240.png 600w, /wp-content/uploads/2022/05/Reaper-functions-300x120.png 300w, /wp-content/uploads/2022/05/Reaper-functions-768x308.png 768w, /wp-content/uploads/2022/05/Reaper-functions.png 1093w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Shortcut Buttons</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="410" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-functions-1024x410.png" alt="reaper" class="wp-image-7997" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-functions-1024x410.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-functions-600x240.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-functions-300x120.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-functions-768x308.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-functions.png 1093w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Shortcut Buttons</strong></figcaption></figure>
 
 
 
@@ -320,7 +320,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/05/Reaper-Record-1024x576.png" alt="reaper record" class="wp-image-7998" title="" srcset="/wp-content/uploads/2022/05/Reaper-Record-1024x576.png 1024w, /wp-content/uploads/2022/05/Reaper-Record-600x338.png 600w, /wp-content/uploads/2022/05/Reaper-Record-300x169.png 300w, /wp-content/uploads/2022/05/Reaper-Record-768x432.png 768w, /wp-content/uploads/2022/05/Reaper-Record-1536x864.png 1536w, /wp-content/uploads/2022/05/Reaper-Record.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-Record-1024x576.png" alt="reaper record" class="wp-image-7998" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-Record-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-Record-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-Record-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-Record-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-Record-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-Record.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -356,7 +356,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/05/Reaper-guitar-1024x576.png" alt="reaper" class="wp-image-8000" title="" srcset="/wp-content/uploads/2022/05/Reaper-guitar-1024x576.png 1024w, /wp-content/uploads/2022/05/Reaper-guitar-600x338.png 600w, /wp-content/uploads/2022/05/Reaper-guitar-300x169.png 300w, /wp-content/uploads/2022/05/Reaper-guitar-768x432.png 768w, /wp-content/uploads/2022/05/Reaper-guitar-1536x864.png 1536w, /wp-content/uploads/2022/05/Reaper-guitar.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-guitar-1024x576.png" alt="reaper" class="wp-image-8000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-guitar-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-guitar-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-guitar-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-guitar-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-guitar-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/05/Reaper-guitar.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

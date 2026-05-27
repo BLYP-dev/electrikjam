@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2022/10/harley-Benton-Deluxe-Series-Best-3.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/harley-Benton-Deluxe-Series-Best-3.png"
 featuredImageAlt: "Harley Benton Deluxe series"
 seo: 
   title: "Top 5 Harley Benton Deluxe Series Guitars Review: Are They Any Good?"
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-1024x683.png" alt="Harley Benton Deluxe Series" class="wp-image-9580" title="" srcset="/wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-1024x683.png 1024w, /wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-600x400.png 600w, /wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-300x200.png 300w, /wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-768x512.png 768w, /wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-1024x683.png" alt="Harley Benton Deluxe Series" class="wp-image-9580" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-SC-550-Deluxe.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Harley-Benton-CST24-1024x683.png" alt="Harley Benton Deluxe Series BEST" class="wp-image-9582" title="" srcset="/wp-content/uploads/2022/10/Harley-Benton-CST24-1024x683.png 1024w, /wp-content/uploads/2022/10/Harley-Benton-CST24-600x400.png 600w, /wp-content/uploads/2022/10/Harley-Benton-CST24-300x200.png 300w, /wp-content/uploads/2022/10/Harley-Benton-CST24-768x512.png 768w, /wp-content/uploads/2022/10/Harley-Benton-CST24.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-CST24-1024x683.png" alt="Harley Benton Deluxe Series BEST" class="wp-image-9582" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-CST24-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-CST24-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-CST24-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-CST24-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-CST24.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -249,7 +249,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-1024x683.png" alt="Harley Benton Deluxe Series" class="wp-image-9585" title="" srcset="/wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-1024x683.png 1024w, /wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-600x400.png 600w, /wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-300x200.png 300w, /wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-768x512.png 768w, /wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-1024x683.png" alt="Harley Benton Deluxe Series" class="wp-image-9585" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-TE-80-NA-Prince.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

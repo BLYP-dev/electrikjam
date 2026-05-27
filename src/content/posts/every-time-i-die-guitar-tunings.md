@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "/wp-content/uploads/2021/09/Jordan-Buckley.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Jordan-Buckley.jpg"
 featuredImageAlt: "every time i die guitar tunings"
 seo: 
   title: "Every Time I Die Guitar Tunings: What They Use & Why w/ Examples"
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="555" src="/wp-content/uploads/2021/09/Jordan-Buckley.jpg" alt="every time i die guitar tunings" class="wp-image-4137" title="" srcset="/wp-content/uploads/2021/09/Jordan-Buckley.jpg 1024w, /wp-content/uploads/2021/09/Jordan-Buckley-600x325.jpg 600w, /wp-content/uploads/2021/09/Jordan-Buckley-300x163.jpg 300w, /wp-content/uploads/2021/09/Jordan-Buckley-768x416.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Jordan Buckley</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="555" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Jordan-Buckley.jpg" alt="every time i die guitar tunings" class="wp-image-4137" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Jordan-Buckley.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Jordan-Buckley-600x325.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Jordan-Buckley-300x163.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Jordan-Buckley-768x416.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Jordan Buckley</strong></em></figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="621" src="/wp-content/uploads/2021/09/Andy-williams-1024x621.jpg" alt="" class="wp-image-4107" title="" srcset="/wp-content/uploads/2021/09/Andy-williams-1024x621.jpg 1024w, /wp-content/uploads/2021/09/Andy-williams-600x364.jpg 600w, /wp-content/uploads/2021/09/Andy-williams-300x182.jpg 300w, /wp-content/uploads/2021/09/Andy-williams-768x466.jpg 768w, /wp-content/uploads/2021/09/Andy-williams-1536x931.jpg 1536w, /wp-content/uploads/2021/09/Andy-williams-2048x1242.jpg 2048w, /wp-content/uploads/2021/09/Andy-williams-1080x655.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Andy Williams From Every Time I Die</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="621" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Andy-williams-1024x621.jpg" alt="" class="wp-image-4107" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Andy-williams-1024x621.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Andy-williams-600x364.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Andy-williams-300x182.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Andy-williams-768x466.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Andy-williams-1536x931.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/09/Andy-williams-2048x1242.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/09/Andy-williams-1080x655.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Andy Williams From Every Time I Die</strong></em></figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "/wp-content/uploads/2023/06/Scales.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/06/Scales.png"
 featuredImageAlt: "Memorizing guitar scales"
 seo: 
   title: "Memorizing Guitar Scales 101: Awesome Tools For Beginner Guitarists"
@@ -66,7 +66,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-1024x683.png" alt="DADGAD Tuning Jimmy Page" class="wp-image-12087" title="" srcset="/wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-1024x683.png 1024w, /wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-600x400.png 600w, /wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-300x200.png 300w, /wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-768x512.png 768w, /wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-1024x683.png" alt="DADGAD Tuning Jimmy Page" class="wp-image-12087" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/DADGAD-Tuning-Jimmy-Page.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="298" height="749" src="/wp-content/uploads/2023/06/d_TG53HYkG-1.svg" alt="the major scale" class="wp-image-12774" title=""></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="298" height="749" src="https://www.electrikjam.com/wp-content/uploads/2023/06/d_TG53HYkG-1.svg" alt="the major scale" class="wp-image-12774" title=""></figure>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1005" height="434" src="/wp-content/uploads/2023/06/E-Major-One-String.png" alt="Memorizing guitar scales" class="wp-image-12233" title="" srcset="/wp-content/uploads/2023/06/E-Major-One-String.png 1005w, /wp-content/uploads/2023/06/E-Major-One-String-600x259.png 600w, /wp-content/uploads/2023/06/E-Major-One-String-300x130.png 300w, /wp-content/uploads/2023/06/E-Major-One-String-768x332.png 768w" sizes="(max-width: 1005px) 100vw, 1005px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1005" height="434" src="https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-One-String.png" alt="Memorizing guitar scales" class="wp-image-12233" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-One-String.png 1005w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-One-String-600x259.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-One-String-300x130.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-One-String-768x332.png 768w" sizes="(max-width: 1005px) 100vw, 1005px" /></figure>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1005" height="489" src="/wp-content/uploads/2023/06/E-Major-ECO-Box.png" alt="Memorizing guitar scales" class="wp-image-12234" title="" srcset="/wp-content/uploads/2023/06/E-Major-ECO-Box.png 1005w, /wp-content/uploads/2023/06/E-Major-ECO-Box-600x292.png 600w, /wp-content/uploads/2023/06/E-Major-ECO-Box-300x146.png 300w, /wp-content/uploads/2023/06/E-Major-ECO-Box-768x374.png 768w" sizes="(max-width: 1005px) 100vw, 1005px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1005" height="489" src="https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-ECO-Box.png" alt="Memorizing guitar scales" class="wp-image-12234" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-ECO-Box.png 1005w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-ECO-Box-600x292.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-ECO-Box-300x146.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Major-ECO-Box-768x374.png 768w" sizes="(max-width: 1005px) 100vw, 1005px" /></figure>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1005" height="434" src="/wp-content/uploads/2023/06/E-Minor-Scale.png" alt="" class="wp-image-12236" title="" srcset="/wp-content/uploads/2023/06/E-Minor-Scale.png 1005w, /wp-content/uploads/2023/06/E-Minor-Scale-600x259.png 600w, /wp-content/uploads/2023/06/E-Minor-Scale-300x130.png 300w, /wp-content/uploads/2023/06/E-Minor-Scale-768x332.png 768w" sizes="(max-width: 1005px) 100vw, 1005px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1005" height="434" src="https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Scale.png" alt="" class="wp-image-12236" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Scale.png 1005w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Scale-600x259.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Scale-300x130.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Scale-768x332.png 768w" sizes="(max-width: 1005px) 100vw, 1005px" /></figure>
 
 
 
@@ -270,7 +270,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1005" height="434" src="/wp-content/uploads/2023/06/E-Minor-Chord-open.png" alt="memorizing guitar scales" class="wp-image-12237" title="" srcset="/wp-content/uploads/2023/06/E-Minor-Chord-open.png 1005w, /wp-content/uploads/2023/06/E-Minor-Chord-open-600x259.png 600w, /wp-content/uploads/2023/06/E-Minor-Chord-open-300x130.png 300w, /wp-content/uploads/2023/06/E-Minor-Chord-open-768x332.png 768w" sizes="(max-width: 1005px) 100vw, 1005px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1005" height="434" src="https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Chord-open.png" alt="memorizing guitar scales" class="wp-image-12237" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Chord-open.png 1005w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Chord-open-600x259.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Chord-open-300x130.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-Minor-Chord-open-768x332.png 768w" sizes="(max-width: 1005px) 100vw, 1005px" /></figure>
 
 
 
@@ -302,7 +302,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="871" height="813" src="/wp-content/uploads/2023/06/E-major-pentaonic.png" alt="Memorizing guitar scales " class="wp-image-12235" title="" srcset="/wp-content/uploads/2023/06/E-major-pentaonic.png 871w, /wp-content/uploads/2023/06/E-major-pentaonic-600x560.png 600w, /wp-content/uploads/2023/06/E-major-pentaonic-300x280.png 300w, /wp-content/uploads/2023/06/E-major-pentaonic-768x717.png 768w" sizes="(max-width: 871px) 100vw, 871px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="871" height="813" src="https://www.electrikjam.com/wp-content/uploads/2023/06/E-major-pentaonic.png" alt="Memorizing guitar scales " class="wp-image-12235" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/E-major-pentaonic.png 871w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-major-pentaonic-600x560.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-major-pentaonic-300x280.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/E-major-pentaonic-768x717.png 768w" sizes="(max-width: 871px) 100vw, 871px" /></figure>
 
 
 
@@ -346,7 +346,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-1024x683.png" alt="Gibson Brand trouble" class="wp-image-12057" title="" srcset="/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-1024x683.png 1024w, /wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-600x400.png 600w, /wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-300x200.png 300w, /wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-768x512.png 768w, /wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-1024x683.png" alt="Gibson Brand trouble" class="wp-image-12057" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Slash-Gibson-brand-les-paul.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

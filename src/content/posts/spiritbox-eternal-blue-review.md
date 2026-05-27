@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/09/Spiritbox-Eternal-Blue-Artwork.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Spiritbox-Eternal-Blue-Artwork.png"
 featuredImageAlt: "Spiritbox-Eternal-Blue-Artwork"
 seo: 
   title: "Spiritbox \"Eternal Blue\" Review: Heavy In Fiery High Definition 9/10"
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-1024x576.jpg" alt="Spiritbox" class="wp-image-4333" title="" srcset="/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-1024x576.jpg 1024w, /wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-600x338.jpg 600w, /wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-300x169.jpg 300w, /wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-768x432.jpg 768w, /wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-1080x608.jpg 1080w, /wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Photo Credit: <a href="https://www.travisshinn.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="5742">Travis Shinn</a></em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-1024x576.jpg" alt="Spiritbox" class="wp-image-4333" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Spiritbox-band-promo-May-2021-credit-Travis-Shinn-everyday-metal.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Photo Credit: <a href="https://www.travisshinn.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="5742">Travis Shinn</a></em></strong></figcaption></figure>
 
 
 
@@ -260,5 +260,5 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-1024x1024.jpg" alt="" class="wp-image-4349" title="" srcset="/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-1024x1024.jpg 1024w, /wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-300x300.jpg 300w, /wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-100x100.jpg 100w, /wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-600x600.jpg 600w, /wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-150x150.jpg 150w, /wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-768x768.jpg 768w, /wp-content/uploads/2021/09/E4UF1lPWUAAJwL4.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-1024x1024.jpg" alt="" class="wp-image-4349" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/E4UF1lPWUAAJwL4.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 

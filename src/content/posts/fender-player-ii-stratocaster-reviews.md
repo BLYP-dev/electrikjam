@@ -22,7 +22,7 @@ tagSlugs:
   - "fender-stratocaster-model"
 tagPaths: 
   - "/tag/fender-stratocaster-model/"
-featuredImage: "/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg"
 featuredImageAlt: "Fender Player II stratocaster reviews"
 seo: 
   title: "Fender Player II Stratocaster Review: Is It Worth It?"
@@ -81,7 +81,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-1024x683.jpg" alt="Fender Player II strat scale hss pickups" class="wp-image-18239" title="" srcset="/wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-768x512.jpg 768w, /wp-content/uploads/2025/12/Fender-Player-II-strat-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-1024x683.jpg" alt="Fender Player II strat scale hss pickups" class="wp-image-18239" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-pickups-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <p>Let&#8217;s cut the BS. We all loved the original Player Strat—it was the reliable workhorse that got the job done. </p>
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-1024x683.jpg" alt="Fender Player II strat scale hss pickups" class="wp-image-18240" title="" srcset="/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-768x512.jpg 768w, /wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-1024x683.jpg" alt="Fender Player II strat scale hss pickups" class="wp-image-18240" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-length.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-1024x683.jpg" alt="Fender Player II strat scale hss pickups" class="wp-image-18242" title="" srcset="/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-768x512.jpg 768w, /wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-1024x683.jpg" alt="Fender Player II strat scale hss pickups" class="wp-image-18242" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-strat-scale-hss-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-1024x683.jpg" alt="Fender Player II stratocaster reviews" class="wp-image-18243" title="" srcset="/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-768x512.jpg 768w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-1024x683.jpg" alt="Fender Player II stratocaster reviews" class="wp-image-18243" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

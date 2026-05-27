@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/waza_craft_ogp.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/waza_craft_ogp.jpg"
 featuredImageAlt: "waza_craft_ogp"
 seo: 
   title: "BOSS HM2 Pedal Absolutely Confirmed for 2021: The Re-Issue We Deserve!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2020/11/BOSS-HM2.jpg" alt="Boss Hm2 Pedal" class="wp-image-1483" title="" srcset="/wp-content/uploads/2020/11/BOSS-HM2.jpg 1000w, /wp-content/uploads/2020/11/BOSS-HM2-300x300.jpg 300w, /wp-content/uploads/2020/11/BOSS-HM2-100x100.jpg 100w, /wp-content/uploads/2020/11/BOSS-HM2-600x600.jpg 600w, /wp-content/uploads/2020/11/BOSS-HM2-150x150.jpg 150w, /wp-content/uploads/2020/11/BOSS-HM2-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>The original HM2</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/11/BOSS-HM2.jpg" alt="Boss Hm2 Pedal" class="wp-image-1483" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/BOSS-HM2.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/11/BOSS-HM2-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/BOSS-HM2-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/BOSS-HM2-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/BOSS-HM2-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/BOSS-HM2-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>The original HM2</figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/Beat-Up-HM2-1024x576.jpg" alt="" class="wp-image-1484" title="" srcset="/wp-content/uploads/2020/11/Beat-Up-HM2-1024x576.jpg 1024w, /wp-content/uploads/2020/11/Beat-Up-HM2-600x338.jpg 600w, /wp-content/uploads/2020/11/Beat-Up-HM2-300x169.jpg 300w, /wp-content/uploads/2020/11/Beat-Up-HM2-768x432.jpg 768w, /wp-content/uploads/2020/11/Beat-Up-HM2.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Beat-Up-HM2-1024x576.jpg" alt="" class="wp-image-1484" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Beat-Up-HM2-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Beat-Up-HM2-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Beat-Up-HM2-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Beat-Up-HM2-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Beat-Up-HM2.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2020/11/waza_craft_ogp-1024x538.jpg" alt="" class="wp-image-1485" title="" srcset="/wp-content/uploads/2020/11/waza_craft_ogp-1024x538.jpg 1024w, /wp-content/uploads/2020/11/waza_craft_ogp-600x315.jpg 600w, /wp-content/uploads/2020/11/waza_craft_ogp-300x158.jpg 300w, /wp-content/uploads/2020/11/waza_craft_ogp-768x403.jpg 768w, /wp-content/uploads/2020/11/waza_craft_ogp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/waza-distortion-pedal/" data-lasso-id="493">VIEW LATEST PRICES</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://www.electrikjam.com/wp-content/uploads/2020/11/waza_craft_ogp-1024x538.jpg" alt="" class="wp-image-1485" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/waza_craft_ogp-1024x538.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/waza_craft_ogp-600x315.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/waza_craft_ogp-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/waza_craft_ogp-768x403.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/waza_craft_ogp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/waza-distortion-pedal/" data-lasso-id="493">VIEW LATEST PRICES</a></strong></figcaption></figure>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/11/Boss-HM-2-768x1024.jpg" alt="" class="wp-image-1489" title="" srcset="/wp-content/uploads/2020/11/Boss-HM-2-768x1024.jpg 768w, /wp-content/uploads/2020/11/Boss-HM-2-scaled-600x800.jpg 600w, /wp-content/uploads/2020/11/Boss-HM-2-225x300.jpg 225w, /wp-content/uploads/2020/11/Boss-HM-2-1152x1536.jpg 1152w, /wp-content/uploads/2020/11/Boss-HM-2-1536x2048.jpg 1536w, /wp-content/uploads/2020/11/Boss-HM-2-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>A sad, retired HM2</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Boss-HM-2-768x1024.jpg" alt="" class="wp-image-1489" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Boss-HM-2-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Boss-HM-2-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Boss-HM-2-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/11/Boss-HM-2-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/11/Boss-HM-2-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Boss-HM-2-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>A sad, retired HM2</figcaption></figure>
 
 
 

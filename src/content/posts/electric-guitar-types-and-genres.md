@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/05/Untitled-design.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/Untitled-design.png"
 featuredImageAlt: "electric guitar types"
 seo: 
   title: "Electric Guitar Types That Defy Genre: Breaking Rules Since 1952!"
@@ -81,7 +81,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Different-guitar-types-telecaster-1024x683.png" alt="different guitar types" class="wp-image-8116" title="" srcset="/wp-content/uploads/2022/05/Different-guitar-types-telecaster-1024x683.png 1024w, /wp-content/uploads/2022/05/Different-guitar-types-telecaster-600x400.png 600w, /wp-content/uploads/2022/05/Different-guitar-types-telecaster-300x200.png 300w, /wp-content/uploads/2022/05/Different-guitar-types-telecaster-768x512.png 768w, /wp-content/uploads/2022/05/Different-guitar-types-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>John 5 With One Of His MANY Telecasters</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Different-guitar-types-telecaster-1024x683.png" alt="different guitar types" class="wp-image-8116" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Different-guitar-types-telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Different-guitar-types-telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Different-guitar-types-telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Different-guitar-types-telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Different-guitar-types-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>John 5 With One Of His MANY Telecasters</strong></figcaption></figure>
 			
 		
 
@@ -115,7 +115,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Different-Guitar-Types-Strat-1024x683.png" alt="electric guitar types" class="wp-image-8117" title="" srcset="/wp-content/uploads/2022/05/Different-Guitar-Types-Strat-1024x683.png 1024w, /wp-content/uploads/2022/05/Different-Guitar-Types-Strat-600x400.png 600w, /wp-content/uploads/2022/05/Different-Guitar-Types-Strat-300x200.png 300w, /wp-content/uploads/2022/05/Different-Guitar-Types-Strat-768x512.png 768w, /wp-content/uploads/2022/05/Different-Guitar-Types-Strat.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Different-Guitar-Types-Strat-1024x683.png" alt="electric guitar types" class="wp-image-8117" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Different-Guitar-Types-Strat-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Different-Guitar-Types-Strat-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Different-Guitar-Types-Strat-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Different-Guitar-Types-Strat-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Different-Guitar-Types-Strat.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -153,7 +153,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-1024x683.png" alt="electric guitar types" class="wp-image-8118" title="" srcset="/wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-1024x683.png 1024w, /wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-600x400.png 600w, /wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-300x200.png 300w, /wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-768x512.png 768w, /wp-content/uploads/2022/05/Chelsea-Electric-guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Chelsea Wolfe With Her Gibson Semi Hollow</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-1024x683.png" alt="electric guitar types" class="wp-image-8118" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Chelsea-Electric-guitar-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Chelsea-Electric-guitar-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Chelsea Wolfe With Her Gibson Semi Hollow</strong></figcaption></figure>
 			
 		
 
@@ -191,7 +191,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/electric-guitar-type-flying-V-1024x683.png" alt="electric guitar types" class="wp-image-8119" title="" srcset="/wp-content/uploads/2022/05/electric-guitar-type-flying-V-1024x683.png 1024w, /wp-content/uploads/2022/05/electric-guitar-type-flying-V-600x400.png 600w, /wp-content/uploads/2022/05/electric-guitar-type-flying-V-300x200.png 300w, /wp-content/uploads/2022/05/electric-guitar-type-flying-V-768x512.png 768w, /wp-content/uploads/2022/05/electric-guitar-type-flying-V.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Albert King With His Famous Flying V</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/electric-guitar-type-flying-V-1024x683.png" alt="electric guitar types" class="wp-image-8119" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/electric-guitar-type-flying-V-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/electric-guitar-type-flying-V-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/electric-guitar-type-flying-V-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/electric-guitar-type-flying-V-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/electric-guitar-type-flying-V.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Albert King With His Famous Flying V</strong></figcaption></figure>
 			
 		
 

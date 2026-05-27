@@ -25,7 +25,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Telecaster-Reviews.png"
 featuredImageAlt: "Fender Player Telecaster Reviews"
 seo: 
   title: "Fender Player Telecaster Reviews: All Killer, No Filler?"
@@ -54,7 +54,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="632" src="/wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-1024x632.jpg" alt="fender-player-telecaster" class="wp-image-8292" title="" srcset="/wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-1024x632.jpg 1024w, /wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-600x371.jpg 600w, /wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-300x185.jpg 300w, /wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-768x474.jpg 768w, /wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="632" src="https://www.electrikjam.com/wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-1024x632.jpg" alt="fender-player-telecaster" class="wp-image-8292" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-1024x632.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-600x371.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-300x185.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943-768x474.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/fender-player-telecaster-e1654789209943.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

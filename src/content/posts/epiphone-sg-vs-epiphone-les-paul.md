@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul.png"
 featuredImageAlt: "Epiphone SG vs Epiphone Les Paul"
 seo: 
   title: "Epiphone SG vs Epiphone Les Paul – What's The #1 Guitar?"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-1024x683.png" alt="Epiphone SG vs Epiphone Les Paul" class="wp-image-2417" title="" srcset="/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-1024x683.png 1024w, /wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-600x400.png 600w, /wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-300x200.png 300w, /wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-768x512.png 768w, /wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-1080x720.png 1080w, /wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-360x240.png 360w, /wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-1024x683.png" alt="Epiphone SG vs Epiphone Les Paul" class="wp-image-2417" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul-360x240.png 360w, https://www.electrikjam.com/wp-content/uploads/2021/03/Epiphone-SG-vs-Epiphone-Les-Paul.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-35 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="946" height="812" src="/wp-content/uploads/2021/03/epiphone-les-paul.png" alt="" data-id="2418" data-full-url="/wp-content/uploads/2021/03/epiphone-les-paul.png" data-link="https://www.electrikjam.com/?attachment_id=2418" class="wp-image-2418" title="" srcset="/wp-content/uploads/2021/03/epiphone-les-paul.png 946w, /wp-content/uploads/2021/03/epiphone-les-paul-600x515.png 600w, /wp-content/uploads/2021/03/epiphone-les-paul-300x258.png 300w, /wp-content/uploads/2021/03/epiphone-les-paul-768x659.png 768w" sizes="(max-width: 946px) 100vw, 946px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="936" height="868" src="/wp-content/uploads/2021/03/epiphone-sg.png" alt="" data-id="2419" data-full-url="/wp-content/uploads/2021/03/epiphone-sg.png" data-link="https://www.electrikjam.com/?attachment_id=2419" class="wp-image-2419" title="" srcset="/wp-content/uploads/2021/03/epiphone-sg.png 936w, /wp-content/uploads/2021/03/epiphone-sg-600x556.png 600w, /wp-content/uploads/2021/03/epiphone-sg-300x278.png 300w, /wp-content/uploads/2021/03/epiphone-sg-768x712.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure></li></ul><figcaption class="blocks-gallery-caption"><a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17469"><strong>Epiphone Les Paul</a> (Left), Epiphone SG (Right)</strong></figcaption></figure>
+<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-35 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="946" height="812" src="https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-les-paul.png" alt="" data-id="2418" data-full-url="https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-les-paul.png" data-link="https://www.electrikjam.com/?attachment_id=2418" class="wp-image-2418" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-les-paul.png 946w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-les-paul-600x515.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-les-paul-300x258.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-les-paul-768x659.png 768w" sizes="(max-width: 946px) 100vw, 946px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="936" height="868" src="https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg.png" alt="" data-id="2419" data-full-url="https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg.png" data-link="https://www.electrikjam.com/?attachment_id=2419" class="wp-image-2419" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg.png 936w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg-600x556.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg-300x278.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/epiphone-sg-768x712.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure></li></ul><figcaption class="blocks-gallery-caption"><a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17469"><strong>Epiphone Les Paul</a> (Left), Epiphone SG (Right)</strong></figcaption></figure>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="837" src="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" class="rank-math-link" data-lasso-id="995">Chino Moreno&#8217;s Gibson SG</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="837" src="https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" class="rank-math-link" data-lasso-id="995">Chino Moreno&#8217;s Gibson SG</a></strong></figcaption></figure>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2021/03/probuckers.jpg" alt="" class="wp-image-2428" width="592" height="352" title="" srcset="/wp-content/uploads/2021/03/probuckers.jpg 755w, /wp-content/uploads/2021/03/probuckers-600x358.jpg 600w, /wp-content/uploads/2021/03/probuckers-300x179.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" /></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/03/probuckers.jpg" alt="" class="wp-image-2428" width="592" height="352" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/probuckers.jpg 755w, https://www.electrikjam.com/wp-content/uploads/2021/03/probuckers-600x358.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/probuckers-300x179.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" /></figure></div>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Tony-Iommi-1024x1024.jpg" alt="" class="wp-image-934" title=""><figcaption><strong>Tony Iommi&#8217;s Signature Epiphone SG</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Tony-Iommi-1024x1024.jpg" alt="" class="wp-image-934" title=""><figcaption><strong>Tony Iommi&#8217;s Signature Epiphone SG</strong></figcaption></figure></div>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="/wp-content/uploads/2020/12/king-buzzo.jpg" alt="" class="wp-image-1566" title="" srcset="/wp-content/uploads/2020/12/king-buzzo.jpg 1024w, /wp-content/uploads/2020/12/king-buzzo-600x403.jpg 600w, /wp-content/uploads/2020/12/king-buzzo-300x201.jpg 300w, /wp-content/uploads/2020/12/king-buzzo-768x515.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1000">Buzz Osbourne of Melvins</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo.jpg" alt="" class="wp-image-1566" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo-600x403.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo-300x201.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo-768x515.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1000">Buzz Osbourne of Melvins</a></strong></figcaption></figure>
 
 
 
@@ -328,7 +328,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, /wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, /wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, /wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, /wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, /wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>Learn More About Epiphone Guitars: Best New Models, Buying Guides &amp; Tone Tips</strong></h3>
 
 

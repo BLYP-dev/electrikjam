@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/01/guitar-amps-cover.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/guitar-amps-cover.jpg"
 featuredImageAlt: "guitar amps cover"
 seo: 
   title: "The Best Budget Tube Amps; Our #1 Guide For Outstanding Tones!"
@@ -80,7 +80,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/01/Vintage-Fender-amps-1024x768.jpg" alt="best budget tube amps" class="wp-image-6642" width="840" height="630" title="" srcset="/wp-content/uploads/2022/01/Vintage-Fender-amps-1024x768.jpg 1024w, /wp-content/uploads/2022/01/Vintage-Fender-amps-600x450.jpg 600w, /wp-content/uploads/2022/01/Vintage-Fender-amps-300x225.jpg 300w, /wp-content/uploads/2022/01/Vintage-Fender-amps-768x576.jpg 768w, /wp-content/uploads/2022/01/Vintage-Fender-amps-510x382.jpg 510w, /wp-content/uploads/2022/01/Vintage-Fender-amps-1080x810.jpg 1080w, /wp-content/uploads/2022/01/Vintage-Fender-amps.jpg 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><strong>Vintage 1950&#8217;s Fender Tube Amps</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Vintage-Fender-amps-1024x768.jpg" alt="best budget tube amps" class="wp-image-6642" width="840" height="630" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Vintage-Fender-amps-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Vintage-Fender-amps-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Vintage-Fender-amps-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Vintage-Fender-amps-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Vintage-Fender-amps-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2022/01/Vintage-Fender-amps-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Vintage-Fender-amps.jpg 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><strong>Vintage 1950&#8217;s Fender Tube Amps</strong></em></figcaption></figure>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Bugera-V22.jpg" alt="best budget tube amps" class="wp-image-6644" title="" srcset="/wp-content/uploads/2022/01/Bugera-V22.jpg 720w, /wp-content/uploads/2022/01/Bugera-V22-300x300.jpg 300w, /wp-content/uploads/2022/01/Bugera-V22-100x100.jpg 100w, /wp-content/uploads/2022/01/Bugera-V22-600x600.jpg 600w, /wp-content/uploads/2022/01/Bugera-V22-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>Bugera V22</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Bugera-V22.jpg" alt="best budget tube amps" class="wp-image-6644" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Bugera-V22.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Bugera-V22-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Bugera-V22-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Bugera-V22-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Bugera-V22-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>Bugera V22</strong></em></figcaption></figure>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Marshall-DSL20.webp" alt="best budget tube amps" class="wp-image-6643" title="" srcset="/wp-content/uploads/2022/01/Marshall-DSL20.webp 720w, /wp-content/uploads/2022/01/Marshall-DSL20-300x300.webp 300w, /wp-content/uploads/2022/01/Marshall-DSL20-100x100.webp 100w, /wp-content/uploads/2022/01/Marshall-DSL20-600x600.webp 600w, /wp-content/uploads/2022/01/Marshall-DSL20-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>Marshall DSL20</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Marshall-DSL20.webp" alt="best budget tube amps" class="wp-image-6643" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Marshall-DSL20.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Marshall-DSL20-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Marshall-DSL20-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Marshall-DSL20-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Marshall-DSL20-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>Marshall DSL20</strong></em></figcaption></figure>
 
 
 
@@ -252,7 +252,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Blackstar-HT-40.webp" alt="Blackstar HT 40" class="wp-image-5947" title="" srcset="/wp-content/uploads/2021/12/Blackstar-HT-40.webp 720w, /wp-content/uploads/2021/12/Blackstar-HT-40-300x300.webp 300w, /wp-content/uploads/2021/12/Blackstar-HT-40-100x100.webp 100w, /wp-content/uploads/2021/12/Blackstar-HT-40-600x600.webp 600w, /wp-content/uploads/2021/12/Blackstar-HT-40-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong><em>The Mighty HT40</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40.webp" alt="Blackstar HT 40" class="wp-image-5947" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong><em>The Mighty HT40</em></strong></figcaption></figure>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Orange-Rocker-30.webp" alt="best budget tube amps" class="wp-image-6645" title="" srcset="/wp-content/uploads/2022/01/Orange-Rocker-30.webp 720w, /wp-content/uploads/2022/01/Orange-Rocker-30-300x300.webp 300w, /wp-content/uploads/2022/01/Orange-Rocker-30-100x100.webp 100w, /wp-content/uploads/2022/01/Orange-Rocker-30-600x600.webp 600w, /wp-content/uploads/2022/01/Orange-Rocker-30-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>The Legendary Orange Rocker</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Orange-Rocker-30.webp" alt="best budget tube amps" class="wp-image-6645" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Orange-Rocker-30.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Orange-Rocker-30-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Orange-Rocker-30-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Orange-Rocker-30-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Orange-Rocker-30-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>The Legendary Orange Rocker</strong></em></figcaption></figure>
 
 
 
@@ -364,7 +364,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/EVH-5150-Iconic.webp" alt="best budget tube amps" class="wp-image-6646" title="" srcset="/wp-content/uploads/2022/01/EVH-5150-Iconic.webp 720w, /wp-content/uploads/2022/01/EVH-5150-Iconic-300x300.webp 300w, /wp-content/uploads/2022/01/EVH-5150-Iconic-100x100.webp 100w, /wp-content/uploads/2022/01/EVH-5150-Iconic-600x600.webp 600w, /wp-content/uploads/2022/01/EVH-5150-Iconic-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>EVH 5150 Combo</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/EVH-5150-Iconic.webp" alt="best budget tube amps" class="wp-image-6646" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/EVH-5150-Iconic.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/EVH-5150-Iconic-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/EVH-5150-Iconic-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/EVH-5150-Iconic-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/EVH-5150-Iconic-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>EVH 5150 Combo</strong></em></figcaption></figure>
 
 
 
@@ -432,7 +432,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/PRS-Archon-50.jpg" alt="best budget tube amps" class="wp-image-6647" title="" srcset="/wp-content/uploads/2022/01/PRS-Archon-50.jpg 720w, /wp-content/uploads/2022/01/PRS-Archon-50-300x300.jpg 300w, /wp-content/uploads/2022/01/PRS-Archon-50-100x100.jpg 100w, /wp-content/uploads/2022/01/PRS-Archon-50-600x600.jpg 600w, /wp-content/uploads/2022/01/PRS-Archon-50-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>PRS Archon 50</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-Archon-50.jpg" alt="best budget tube amps" class="wp-image-6647" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-Archon-50.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-Archon-50-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-Archon-50-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-Archon-50-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/PRS-Archon-50-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>PRS Archon 50</strong></em></figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1.png"
 featuredImageAlt: "Blackstar DPT 10 Amped 1"
 seo: 
   title: "Blackstar DEPT. 10 AMPED 1 Review: A Portable 100 Watt Monster!"
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="800" src="/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x.webp" alt="Blackstar DEPT. 10 AMPED 1" class="wp-image-9248" title="" srcset="/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x.webp 800w, /wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-300x300.webp 300w, /wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-100x100.webp 100w, /wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-600x600.webp 600w, /wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-150x150.webp 150w, /wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="800" src="https://www.electrikjam.com/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x.webp" alt="Blackstar DEPT. 10 AMPED 1" class="wp-image-9248" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x.webp 800w, https://www.electrikjam.com/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-150x150.webp 150w, https://www.electrikjam.com/wp-content/uploads/2022/09/BlackstarAMPED1GuitarAmpPedal2000x2000RussoMusic_2_800x-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-1024x683.png" alt="Blackstar DEPT. 10 AMPED 1" class="wp-image-9249" title="" srcset="/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-1024x683.png 1024w, /wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-600x400.png 600w, /wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-300x200.png 300w, /wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-768x512.png 768w, /wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-1024x683.png" alt="Blackstar DEPT. 10 AMPED 1" class="wp-image-9249" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-22.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-1024x683.png" alt=" Blackstar DEPT. 10 AMPED 1" class="wp-image-9250" title="" srcset="/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-1024x683.png 1024w, /wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-600x400.png 600w, /wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-300x200.png 300w, /wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-768x512.png 768w, /wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-1024x683.png" alt=" Blackstar DEPT. 10 AMPED 1" class="wp-image-9250" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DEPT.-10-AMPED-1-cab-rig.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

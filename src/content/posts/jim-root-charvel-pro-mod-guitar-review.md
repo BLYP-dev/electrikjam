@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-san-dimas.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-san-dimas.png"
 featuredImageAlt: "Jim root charvel pro mod"
 seo: 
   title: "Jim Root Charvel Pro Mod Signature Guitar Review: Simplicity Is The #1 Feature!"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-1024x683.png" alt="Jim Root Charvel pro mod" class="wp-image-9216" title="" srcset="/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-1024x683.png 1024w, /wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-600x400.png 600w, /wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-300x200.png 300w, /wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-768x512.png 768w, /wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-1024x683.png" alt="Jim Root Charvel pro mod" class="wp-image-9216" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-Root-Charvel-pro-Mod-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-1024x683.png" alt="Jim root charvel pro mod" class="wp-image-9217" title="" srcset="/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-1024x683.png 1024w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-600x400.png 600w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-300x200.png 300w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-768x512.png 768w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-1024x683.png" alt="Jim root charvel pro mod" class="wp-image-9217" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-up-close.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-1024x683.png" alt="Jim root charvel pro mod" class="wp-image-9218" title="" srcset="/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-1024x683.png 1024w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-600x400.png 600w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-300x200.png 300w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-768x512.png 768w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-1024x683.png" alt="Jim root charvel pro mod" class="wp-image-9218" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-neck.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-1024x683.png" alt="Jim root charvel pro mod " class="wp-image-9219" title="" srcset="/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-1024x683.png 1024w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-600x400.png 600w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-300x200.png 300w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-768x512.png 768w, /wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-1024x683.png" alt="Jim root charvel pro mod " class="wp-image-9219" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Jim-root-charvel-pro-mod-emg.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="323" src="/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-1024x323.png" alt="jim root charvel pro mod" class="wp-image-9222" title="" srcset="/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-1024x323.png 1024w, /wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-600x189.png 600w, /wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-300x95.png 300w, /wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-768x242.png 768w, /wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-1536x484.png 1536w, /wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-2048x646.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="323" src="https://www.electrikjam.com/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-1024x323.png" alt="jim root charvel pro mod" class="wp-image-9222" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-1024x323.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-600x189.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-300x95.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-768x242.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-1536x484.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/09/2965801803_cha_ins_frt_1_rr-2048x646.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/line-6/"
   - "/tag/line-6-catalyst/"
-featuredImage: "/wp-content/uploads/2022/11/line-6-guide-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/11/line-6-guide-1.png"
 featuredImageAlt: "line 6 guide"
 seo: 
   title: "Line 6 Guitar Effects: A Complete N00b's Guide [2024]"
@@ -109,7 +109,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-Family-1024x683.png" alt="Line 6" class="wp-image-9972" title="" srcset="/wp-content/uploads/2022/11/Line-6-Family-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-Family-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-Family-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-Family-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-Family.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Family-1024x683.png" alt="Line 6" class="wp-image-9972" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Family-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Family-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Family-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Family-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Family.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-1024x683.png" alt="line 6" class="wp-image-9971" title="" srcset="/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-Helix-buying-guide-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-Helix-buying-guide-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-Helix-buying-guide-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-Helix-buying-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-1024x683.png" alt="line 6" class="wp-image-9971" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -269,7 +269,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-Helix-LT-1024x683.png" alt="line 6" class="wp-image-9973" title="" srcset="/wp-content/uploads/2022/11/Line-6-Helix-LT-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-Helix-LT-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-Helix-LT-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-Helix-LT-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-Helix-LT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-LT-1024x683.png" alt="line 6" class="wp-image-9973" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-LT-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-LT-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-LT-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-LT-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-LT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -369,7 +369,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-HX-Series-1024x683.png" alt="line 6" class="wp-image-9974" title="" srcset="/wp-content/uploads/2022/11/Line-6-HX-Series-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-HX-Series-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-HX-Series-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-HX-Series-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-HX-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-HX-Series-1024x683.png" alt="line 6" class="wp-image-9974" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-HX-Series-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-HX-Series-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-HX-Series-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-HX-Series-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-HX-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -483,7 +483,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-Pod-Go-1024x683.png" alt="line 6" class="wp-image-9975" title="" srcset="/wp-content/uploads/2022/11/Line-6-Pod-Go-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-Pod-Go-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-Pod-Go-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-Pod-Go-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-Pod-Go.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-1024x683.png" alt="line 6" class="wp-image-9975" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -583,7 +583,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-1024x683.png" alt="line 6" class="wp-image-9971" style="width:840px;height:560px" title="" srcset="/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-Helix-buying-guide-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-Helix-buying-guide-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-Helix-buying-guide-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-Helix-buying-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-1024x683.png" alt="line 6" class="wp-image-9971" style="width:840px;height:560px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-buying-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -677,7 +677,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-Helix-Edit-1024x683.png" alt="line 6" class="wp-image-9976" title="" srcset="/wp-content/uploads/2022/11/Line-6-Helix-Edit-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-Helix-Edit-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-Helix-Edit-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-Helix-Edit-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-Helix-Edit.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-Edit-1024x683.png" alt="line 6" class="wp-image-9976" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-Edit-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-Edit-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-Edit-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-Edit-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Helix-Edit.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -719,7 +719,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="970" height="713" src="/wp-content/uploads/2022/11/Helix-Native-Screenshot.jpeg" alt="line 6" class="wp-image-9977" title="" srcset="/wp-content/uploads/2022/11/Helix-Native-Screenshot.jpeg 970w, /wp-content/uploads/2022/11/Helix-Native-Screenshot-600x441.jpeg 600w, /wp-content/uploads/2022/11/Helix-Native-Screenshot-300x221.jpeg 300w, /wp-content/uploads/2022/11/Helix-Native-Screenshot-768x565.jpeg 768w" sizes="(max-width: 970px) 100vw, 970px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="970" height="713" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Helix-Native-Screenshot.jpeg" alt="line 6" class="wp-image-9977" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Helix-Native-Screenshot.jpeg 970w, https://www.electrikjam.com/wp-content/uploads/2022/11/Helix-Native-Screenshot-600x441.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Helix-Native-Screenshot-300x221.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Helix-Native-Screenshot-768x565.jpeg 768w" sizes="(max-width: 970px) 100vw, 970px" /></figure>
 
 
 
@@ -761,7 +761,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-1024x683.png" alt="line 6 3.50 update cab sim" class="wp-image-9684" title="" srcset="/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-3.5-update-Cabs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-1024x683.png" alt="line 6 3.50 update cab sim" class="wp-image-9684" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-3.5-update-Cabs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -815,7 +815,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="784" src="/wp-content/uploads/2022/11/Line-6-cabs-1024x784.jpg" alt="line 6 cabs" class="wp-image-9980" title="" srcset="/wp-content/uploads/2022/11/Line-6-cabs-1024x784.jpg 1024w, /wp-content/uploads/2022/11/Line-6-cabs-600x459.jpg 600w, /wp-content/uploads/2022/11/Line-6-cabs-300x230.jpg 300w, /wp-content/uploads/2022/11/Line-6-cabs-768x588.jpg 768w, /wp-content/uploads/2022/11/Line-6-cabs.jpg 1326w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="784" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-cabs-1024x784.jpg" alt="line 6 cabs" class="wp-image-9980" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-cabs-1024x784.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-cabs-600x459.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-cabs-300x230.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-cabs-768x588.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-cabs.jpg 1326w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

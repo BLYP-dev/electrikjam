@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster.png"
 featuredImageAlt: "Fender American Performer Stratocaster"
 seo: 
   title: "Fender Stratocaster Price Guide: The Latest Models Compared"
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png" alt="Fender-Player-Stratocaster-review" class="wp-image-10884" title="" srcset="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png" alt="Fender-Player-Stratocaster-review" class="wp-image-10884" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png" alt="Fender Player Stratocaster HSS" class="wp-image-10886" title="" srcset="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png 1024w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-600x400.png 600w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-300x200.png 300w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-768x512.png 768w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png" alt="Fender Player Stratocaster HSS" class="wp-image-10886" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-1024x683.png" alt="Fender American Performer Stratocaster" class="wp-image-10941" title="" srcset="/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-1024x683.png" alt="Fender American Performer Stratocaster" class="wp-image-10941" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Performer-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png" alt="Fender American Professional Stratocaster" class="wp-image-10942" title="" srcset="/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png" alt="Fender American Professional Stratocaster" class="wp-image-10942" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-1024x683.png" alt="Fender American Ultra Stratocaster" class="wp-image-10943" title="" srcset="/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-1024x683.png" alt="Fender American Ultra Stratocaster" class="wp-image-10943" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Ultra-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -214,7 +214,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-1024x683.png" alt="Fender Player Stratocaster HSS vs SSS" class="wp-image-10887" title="" srcset="/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-1024x683.png 1024w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-600x400.png 600w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-300x200.png 300w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-768x512.png 768w, /wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-1024x683.png" alt="Fender Player Stratocaster HSS vs SSS" class="wp-image-10887" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/Fender-Player-Stratocaster-HSS-vs-SSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/popular/"
   - "/tag/spark-amp/"
-featuredImage: "/wp-content/uploads/2021/02/is-spark-amp-worth-it.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/is-spark-amp-worth-it.png"
 featuredImageAlt: "is spark amp worth it"
 seo: 
   title: "Is The Spark Amp Worth It? My Thoughts After 2+ Years..."
@@ -89,7 +89,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/02/is-spark-amp-worth-it-1024x683.png" alt="is spark amp worth it" class="wp-image-7870" title="" srcset="/wp-content/uploads/2021/02/is-spark-amp-worth-it-1024x683.png 1024w, /wp-content/uploads/2021/02/is-spark-amp-worth-it-600x400.png 600w, /wp-content/uploads/2021/02/is-spark-amp-worth-it-300x200.png 300w, /wp-content/uploads/2021/02/is-spark-amp-worth-it-768x512.png 768w, /wp-content/uploads/2021/02/is-spark-amp-worth-it.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/02/is-spark-amp-worth-it-1024x683.png" alt="is spark amp worth it" class="wp-image-7870" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/is-spark-amp-worth-it-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/is-spark-amp-worth-it-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/is-spark-amp-worth-it-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/is-spark-amp-worth-it-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/is-spark-amp-worth-it.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg" alt="Spark Amp Amp List" class="wp-image-1926" title="" srcset="/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg 1024w, /wp-content/uploads/2021/02/The-Spark-Amp-600x450.jpg 600w, /wp-content/uploads/2021/02/The-Spark-Amp-300x225.jpg 300w, /wp-content/uploads/2021/02/The-Spark-Amp-768x576.jpg 768w, /wp-content/uploads/2021/02/The-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg" alt="Spark Amp Amp List" class="wp-image-1926" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/The-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="745" src="/wp-content/uploads/2021/09/Is-Spark-Amp-Battery-Powered-1024x745.png" alt="Is Spark Amp Battery Powered" class="wp-image-4663" title=""></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="745" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Is-Spark-Amp-Battery-Powered-1024x745.png" alt="Is Spark Amp Battery Powered" class="wp-image-4663" title=""></figure>
 
 
 
@@ -425,7 +425,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-1024x683.png" alt="is spark amp battery powered" class="wp-image-7744" title="" srcset="/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-1024x683.png 1024w, /wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-600x400.png 600w, /wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-300x200.png 300w, /wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-768x512.png 768w, /wp-content/uploads/2021/09/is-spark-amp-battery-powered-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-1024x683.png" alt="is spark amp battery powered" class="wp-image-7744" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/is-spark-amp-battery-powered-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

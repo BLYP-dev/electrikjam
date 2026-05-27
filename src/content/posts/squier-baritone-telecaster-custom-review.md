@@ -28,7 +28,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/squier/"
-featuredImage: "/wp-content/uploads/2022/10/Squier-baritone-telecaster.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-baritone-telecaster.png"
 featuredImageAlt: "baritone telecaster"
 seo: 
   title: "Squier Classic Vibe Baritone Telecaster Custom 2022: Let's Get Crazy LOW!"
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-1024x683.png" alt="baritone telecaster" class="wp-image-9379" title="" srcset="/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-1024x683.png 1024w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-600x400.png 600w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-300x200.png 300w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-768x512.png 768w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-1024x683.png" alt="baritone telecaster" class="wp-image-9379" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-1024x683.png" alt="Squier Baritone Telecaster neck" class="wp-image-9382" title="" srcset="/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-1024x683.png 1024w, /wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-600x400.png 600w, /wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-300x200.png 300w, /wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-768x512.png 768w, /wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>The Neck Is THIN.</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-1024x683.png" alt="Squier Baritone Telecaster neck" class="wp-image-9382" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><em>The Neck Is THIN.</em></strong></figcaption></figure>
 
 
 
@@ -300,7 +300,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="322" src="/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-1024x322.jpg" alt="Baritone telecaster" class="wp-image-9381" title="" srcset="/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-1024x322.jpg 1024w, /wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-600x189.jpg 600w, /wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-300x94.jpg 300w, /wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-768x242.jpg 768w, /wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-1536x483.jpg 1536w, /wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-2048x644.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="322" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-1024x322.jpg" alt="Baritone telecaster" class="wp-image-9381" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-1024x322.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-600x189.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-300x94.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-768x242.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-1536x483.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Telecaster-Custom-Baritone-2048x644.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

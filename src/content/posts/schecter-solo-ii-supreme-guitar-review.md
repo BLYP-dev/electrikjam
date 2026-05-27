@@ -25,7 +25,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2022/12/Schecter-solo-II-supreme-review-2.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-solo-II-supreme-review-2.png"
 featuredImageAlt: "Schecter Solo II Supreme"
 seo: 
   title: "Schecter Solo II Supreme Guitar Review: The BEST Single Cut Of 2022?"
@@ -90,7 +90,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-1024x683.png" alt="Schecter Solo ii supreme review" class="wp-image-10178" title="" srcset="/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Schecter Solo II Supreme</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-1024x683.png" alt="Schecter Solo ii supreme review" class="wp-image-10178" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Schecter Solo II Supreme</strong></figcaption></figure>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-1024x683.png" alt="Schecter Solo II Supreme" class="wp-image-10185" title="" srcset="/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Look at that Flame!</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-1024x683.png" alt="Schecter Solo II Supreme" class="wp-image-10185" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-review-flame-top.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Look at that Flame!</strong></figcaption></figure>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-1024x683.png" alt="Schecter solo II supreme" class="wp-image-10186" title="" srcset="/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-1024x683.png" alt="Schecter solo II supreme" class="wp-image-10186" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Solo-II-Supreme-comparison.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

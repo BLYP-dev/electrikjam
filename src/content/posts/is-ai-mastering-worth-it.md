@@ -22,7 +22,7 @@ tagSlugs:
   - "music-mastering"
 tagPaths: 
   - "/tag/music-mastering/"
-featuredImage: "/wp-content/uploads/2024/04/AI-mastering-worth-it.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/AI-mastering-worth-it.png"
 featuredImageAlt: "ai mastering"
 seo: 
   title: "AI Mastering: Why It Isn't Worth It..."
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" src="/wp-content/uploads/2024/04/Mastering-1024x574.png" alt="" class="wp-image-14802" title="" srcset="/wp-content/uploads/2024/04/Mastering-1024x574.png 1024w, /wp-content/uploads/2024/04/Mastering-600x336.png 600w, /wp-content/uploads/2024/04/Mastering-300x168.png 300w, /wp-content/uploads/2024/04/Mastering-768x430.png 768w, /wp-content/uploads/2024/04/Mastering.png 1478w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Excerpt From My Mastering Guide: Mastering 101</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-1024x574.png" alt="" class="wp-image-14802" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-1024x574.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-600x336.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-300x168.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering-768x430.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Mastering.png 1478w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Excerpt From My Mastering Guide: Mastering 101</strong></figcaption></figure>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/AI-mastering-1024x683.png" alt="ai mastering" class="wp-image-14805" title="" srcset="/wp-content/uploads/2024/04/AI-mastering-1024x683.png 1024w, /wp-content/uploads/2024/04/AI-mastering-600x400.png 600w, /wp-content/uploads/2024/04/AI-mastering-300x200.png 300w, /wp-content/uploads/2024/04/AI-mastering-768x512.png 768w, /wp-content/uploads/2024/04/AI-mastering.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/AI-mastering-1024x683.png" alt="ai mastering" class="wp-image-14805" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/AI-mastering-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/AI-mastering-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/AI-mastering-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/AI-mastering-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/AI-mastering.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

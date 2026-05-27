@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2021/09/Duncan-invader.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader.jpg"
 featuredImageAlt: "Seymour Duncan Invader"
 seo: 
   title: "Seymour Duncan Invader Pickup Reviews: The #1 Pickup For Extreme Metal?"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="616" src="/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-1024x616.jpg" alt="seymour duncan invader" class="wp-image-5158" title="" srcset="/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-1024x616.jpg 1024w, /wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-600x361.jpg 600w, /wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-300x181.jpg 300w, /wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-768x462.jpg 768w, /wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-1080x650.jpg 1080w, /wp-content/uploads/2021/10/seymour_duncan-Invader-zebra.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Seymour Duncan Invader In Zebra Color</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="616" src="https://www.electrikjam.com/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-1024x616.jpg" alt="seymour duncan invader" class="wp-image-5158" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-1024x616.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-600x361.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-300x181.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-768x462.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra-1080x650.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/seymour_duncan-Invader-zebra.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Seymour Duncan Invader In Zebra Color</em></strong></figcaption></figure>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="732" src="/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg" alt="Seymour Duncan Invader" class="wp-image-4609 size-full" title="" srcset="/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg 1024w, /wp-content/uploads/2021/09/Duncan-invader-600x429.jpg 600w, /wp-content/uploads/2021/09/Duncan-invader-300x214.jpg 300w, /wp-content/uploads/2021/09/Duncan-invader-768x549.jpg 768w, /wp-content/uploads/2021/09/Duncan-invader-1080x772.jpg 1080w, /wp-content/uploads/2021/09/Duncan-invader.jpg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="732" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg" alt="Seymour Duncan Invader" class="wp-image-4609 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-600x429.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-300x214.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-768x549.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-1080x772.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader.jpg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000">Seymour Duncan Invader Pickup</h3>
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/10/Syn-Gates-Schecter-1024x683.jpg" alt="" class="wp-image-5164" title="" srcset="/wp-content/uploads/2021/10/Syn-Gates-Schecter-1024x683.jpg 1024w, /wp-content/uploads/2021/10/Syn-Gates-Schecter-600x400.jpg 600w, /wp-content/uploads/2021/10/Syn-Gates-Schecter-300x200.jpg 300w, /wp-content/uploads/2021/10/Syn-Gates-Schecter-768x512.jpg 768w, /wp-content/uploads/2021/10/Syn-Gates-Schecter-1536x1024.jpg 1536w, /wp-content/uploads/2021/10/Syn-Gates-Schecter-2048x1365.jpg 2048w, /wp-content/uploads/2021/10/Syn-Gates-Schecter-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Syn Gates Schecter With Duncan Invaders</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Syn-Gates-Schecter-1024x683.jpg" alt="" class="wp-image-5164" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Syn-Gates-Schecter-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Syn-Gates-Schecter-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Syn-Gates-Schecter-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Syn-Gates-Schecter-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Syn-Gates-Schecter-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/Syn-Gates-Schecter-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/10/Syn-Gates-Schecter-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Syn Gates Schecter With Duncan Invaders</em></strong></figcaption></figure>
 
 
 

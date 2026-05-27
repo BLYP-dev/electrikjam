@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/dave-grohl/"
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2024/03/Epiphone-Dave-Grohl-DG-335.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/03/Epiphone-Dave-Grohl-DG-335.png"
 featuredImageAlt: "Epiphone Dave Grohl DG-335"
 seo: 
   title: "The Epiphone Dave Grohl DG-335 is FINALLY Offical"
@@ -62,7 +62,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/03/EIGCDG335PENH1_body-1024x1024.png" alt="" class="wp-image-14450" title="" srcset="/wp-content/uploads/2024/03/EIGCDG335PENH1_body-1024x1024.png 1024w, /wp-content/uploads/2024/03/EIGCDG335PENH1_body-300x300.png 300w, /wp-content/uploads/2024/03/EIGCDG335PENH1_body-100x100.png 100w, /wp-content/uploads/2024/03/EIGCDG335PENH1_body-600x600.png 600w, /wp-content/uploads/2024/03/EIGCDG335PENH1_body-150x150.png 150w, /wp-content/uploads/2024/03/EIGCDG335PENH1_body-768x768.png 768w, /wp-content/uploads/2024/03/EIGCDG335PENH1_body-1536x1536.png 1536w, /wp-content/uploads/2024/03/EIGCDG335PENH1_body.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body-1024x1024.png" alt="" class="wp-image-14450" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body-1024x1024.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body-600x600.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body-768x768.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body-1536x1536.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_body.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -78,7 +78,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/03/EIGCDG335PENH1_front-1024x1024.png" alt="" class="wp-image-14451" title="" srcset="/wp-content/uploads/2024/03/EIGCDG335PENH1_front-1024x1024.png 1024w, /wp-content/uploads/2024/03/EIGCDG335PENH1_front-300x300.png 300w, /wp-content/uploads/2024/03/EIGCDG335PENH1_front-100x100.png 100w, /wp-content/uploads/2024/03/EIGCDG335PENH1_front-600x600.png 600w, /wp-content/uploads/2024/03/EIGCDG335PENH1_front-150x150.png 150w, /wp-content/uploads/2024/03/EIGCDG335PENH1_front-768x768.png 768w, /wp-content/uploads/2024/03/EIGCDG335PENH1_front-1536x1536.png 1536w, /wp-content/uploads/2024/03/EIGCDG335PENH1_front.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front-1024x1024.png" alt="" class="wp-image-14451" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front-1024x1024.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front-600x600.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front-768x768.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front-1536x1536.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_front.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-1024x1024.png" alt="" class="wp-image-14452" title="" srcset="/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-1024x1024.png 1024w, /wp-content/uploads/2024/03/EIGCDG335PENH1_hs-300x300.png 300w, /wp-content/uploads/2024/03/EIGCDG335PENH1_hs-100x100.png 100w, /wp-content/uploads/2024/03/EIGCDG335PENH1_hs-600x600.png 600w, /wp-content/uploads/2024/03/EIGCDG335PENH1_hs-150x150.png 150w, /wp-content/uploads/2024/03/EIGCDG335PENH1_hs-768x768.png 768w, /wp-content/uploads/2024/03/EIGCDG335PENH1_hs-1536x1536.png 1536w, /wp-content/uploads/2024/03/EIGCDG335PENH1_hs.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-1024x1024.png" alt="" class="wp-image-14452" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-1024x1024.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-600x600.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-768x768.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs-1536x1536.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/03/EIGCDG335PENH1_hs.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

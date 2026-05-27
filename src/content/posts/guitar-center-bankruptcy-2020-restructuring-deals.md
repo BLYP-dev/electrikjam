@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/guitar-center-hollywood.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/guitar-center-hollywood.jpg"
 featuredImageAlt: "guitar-center-hollywood"
 seo: 
   title: "Guitar Center Bankruptcy: Restructuring Deals and The Future"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="480" src="/wp-content/uploads/2020/11/guitar_center.jpg" alt="Guitar Center Bankruptcy" class="wp-image-1362" title="" srcset="/wp-content/uploads/2020/11/guitar_center.jpg 640w, /wp-content/uploads/2020/11/guitar_center-600x450.jpg 600w, /wp-content/uploads/2020/11/guitar_center-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="480" src="https://www.electrikjam.com/wp-content/uploads/2020/11/guitar_center.jpg" alt="Guitar Center Bankruptcy" class="wp-image-1362" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/guitar_center.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitar_center-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitar_center-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/guitarcenter-1024x576.jpg" alt="" class="wp-image-1365" title="" srcset="/wp-content/uploads/2020/11/guitarcenter-1024x576.jpg 1024w, /wp-content/uploads/2020/11/guitarcenter-600x338.jpg 600w, /wp-content/uploads/2020/11/guitarcenter-300x169.jpg 300w, /wp-content/uploads/2020/11/guitarcenter-768x432.jpg 768w, /wp-content/uploads/2020/11/guitarcenter-1536x864.jpg 1536w, /wp-content/uploads/2020/11/guitarcenter.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-1024x576.jpg" alt="" class="wp-image-1365" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -162,12 +162,12 @@ seo:
 <div class="rank-math-steps ">
 <div id="howto-step-1605541842835" class="rank-math-step">
 <h3 class="rank-math-step-title ">Guitar Center Bankruptcy: The Process and Restructuring</h3>
-<div class="rank-math-step-content "><img decoding="async" width="640" height="480" src="/wp-content/uploads/2020/11/guitar_center.jpg" class="attachment-full size-full" alt="Guitar Center Bankruptcy" srcset="/wp-content/uploads/2020/11/guitar_center.jpg 640w, /wp-content/uploads/2020/11/guitar_center-600x450.jpg 600w, /wp-content/uploads/2020/11/guitar_center-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" title=""><p>Ares Investments and Guitar Center have prepared a prepackaged Chapter 11 Bankruptcy protection order that should be filed over the next couple of weeks.</p>
+<div class="rank-math-step-content "><img decoding="async" width="640" height="480" src="https://www.electrikjam.com/wp-content/uploads/2020/11/guitar_center.jpg" class="attachment-full size-full" alt="Guitar Center Bankruptcy" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/guitar_center.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitar_center-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitar_center-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" title=""><p>Ares Investments and Guitar Center have prepared a prepackaged Chapter 11 Bankruptcy protection order that should be filed over the next couple of weeks.</p>
 </div>
 </div>
 <div id="howto-step-1605542050049" class="rank-math-step">
 <h3 class="rank-math-step-title ">Guitar Center Bankruptcy: Will Employees Lose Their Job?</h3>
-<div class="rank-math-step-content "><img decoding="async" width="1920" height="1080" src="/wp-content/uploads/2020/11/guitarcenter.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/11/guitarcenter.jpg 1920w, /wp-content/uploads/2020/11/guitarcenter-600x338.jpg 600w, /wp-content/uploads/2020/11/guitarcenter-300x169.jpg 300w, /wp-content/uploads/2020/11/guitarcenter-1024x576.jpg 1024w, /wp-content/uploads/2020/11/guitarcenter-768x432.jpg 768w, /wp-content/uploads/2020/11/guitarcenter-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" title=""><p>Luckily for now, everyone&#8217;s job is safe during the 2020 Guitar Center Bankruptcy. This could easily change in the future.</p>
+<div class="rank-math-step-content "><img decoding="async" width="1920" height="1080" src="https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter.jpg" class="attachment-full size-full" alt="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter.jpg 1920w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/guitarcenter-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" title=""><p>Luckily for now, everyone&#8217;s job is safe during the 2020 Guitar Center Bankruptcy. This could easily change in the future.</p>
 </div>
 </div>
 </div>

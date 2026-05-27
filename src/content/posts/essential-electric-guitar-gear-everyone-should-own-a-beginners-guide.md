@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/01/emery-meyer-c5xhAFiRzpk-unsplash-scaled.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/emery-meyer-c5xhAFiRzpk-unsplash-scaled.jpg"
 featuredImageAlt: "essential electric guitar gear"
 seo: 
   title: "Essential Electric Guitar Gear Everyone Should Own: A Beginner's Guide"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="641" src="/wp-content/uploads/2020/09/yamaha_pacifica.jpg" alt="" class="wp-image-510" title="" srcset="/wp-content/uploads/2020/09/yamaha_pacifica.jpg 640w, /wp-content/uploads/2020/09/yamaha_pacifica-300x300.jpg 300w, /wp-content/uploads/2020/09/yamaha_pacifica-100x100.jpg 100w, /wp-content/uploads/2020/09/yamaha_pacifica-600x601.jpg 600w, /wp-content/uploads/2020/09/yamaha_pacifica-150x150.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="641" src="https://www.electrikjam.com/wp-content/uploads/2020/09/yamaha_pacifica.jpg" alt="" class="wp-image-510" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/yamaha_pacifica.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2020/09/yamaha_pacifica-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/yamaha_pacifica-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/yamaha_pacifica-600x601.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/yamaha_pacifica-150x150.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
@@ -82,7 +82,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/09/Fender-Mustang-1024x768.jpg" alt="best practice amp for beginners" class="wp-image-539" title="" srcset="/wp-content/uploads/2020/09/Fender-Mustang-1024x768.jpg 1024w, /wp-content/uploads/2020/09/Fender-Mustang-600x450.jpg 600w, /wp-content/uploads/2020/09/Fender-Mustang-300x225.jpg 300w, /wp-content/uploads/2020/09/Fender-Mustang-768x576.jpg 768w, /wp-content/uploads/2020/09/Fender-Mustang-1536x1152.jpg 1536w, /wp-content/uploads/2020/09/Fender-Mustang.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Fender Mustang Amp</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Mustang-1024x768.jpg" alt="best practice amp for beginners" class="wp-image-539" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Mustang-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Mustang-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Mustang-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Mustang-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Mustang-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Mustang.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Fender Mustang Amp</figcaption></figure>
 
 
 
@@ -97,7 +97,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="425" height="482" src="/wp-content/uploads/2021/01/71ls1wveJSL._AC_SX425_.jpg" alt="" class="wp-image-1722" title="" srcset="/wp-content/uploads/2021/01/71ls1wveJSL._AC_SX425_.jpg 425w, /wp-content/uploads/2021/01/71ls1wveJSL._AC_SX425_-265x300.jpg 265w" sizes="(max-width: 425px) 100vw, 425px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="425" height="482" src="https://www.electrikjam.com/wp-content/uploads/2021/01/71ls1wveJSL._AC_SX425_.jpg" alt="" class="wp-image-1722" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/71ls1wveJSL._AC_SX425_.jpg 425w, https://www.electrikjam.com/wp-content/uploads/2021/01/71ls1wveJSL._AC_SX425_-265x300.jpg 265w" sizes="(max-width: 425px) 100vw, 425px" /></figure>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="919" height="1024" src="/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-919x1024.jpg" alt="best picks for metal" class="wp-image-502" title="" srcset="/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-919x1024.jpg 919w, /wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-600x668.jpg 600w, /wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-269x300.jpg 269w, /wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-768x856.jpg 768w, /wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks.jpg 1000w" sizes="(max-width: 919px) 100vw, 919px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="919" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-919x1024.jpg" alt="best picks for metal" class="wp-image-502" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-919x1024.jpg 919w, https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-600x668.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-269x300.jpg 269w, https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks-768x856.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Jim-Dunlop-Tortex-picks.jpg 1000w" sizes="(max-width: 919px) 100vw, 919px" /></figure>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1011" height="667" src="/wp-content/uploads/2020/10/Ernie-Ball-10s.jpg" alt="" class="wp-image-796" title="" srcset="/wp-content/uploads/2020/10/Ernie-Ball-10s.jpg 1011w, /wp-content/uploads/2020/10/Ernie-Ball-10s-600x396.jpg 600w, /wp-content/uploads/2020/10/Ernie-Ball-10s-300x198.jpg 300w, /wp-content/uploads/2020/10/Ernie-Ball-10s-768x507.jpg 768w" sizes="(max-width: 1011px) 100vw, 1011px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1011" height="667" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s.jpg" alt="" class="wp-image-796" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s.jpg 1011w, https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s-600x396.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s-300x198.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Ernie-Ball-10s-768x507.jpg 768w" sizes="(max-width: 1011px) 100vw, 1011px" /></figure>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="800" height="800" src="/wp-content/uploads/2020/09/tuner-Electrikjam.jpg" alt="" class="wp-image-442" title="" srcset="/wp-content/uploads/2020/09/tuner-Electrikjam.jpg 800w, /wp-content/uploads/2020/09/tuner-Electrikjam-300x300.jpg 300w, /wp-content/uploads/2020/09/tuner-Electrikjam-100x100.jpg 100w, /wp-content/uploads/2020/09/tuner-Electrikjam-600x600.jpg 600w, /wp-content/uploads/2020/09/tuner-Electrikjam-150x150.jpg 150w, /wp-content/uploads/2020/09/tuner-Electrikjam-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Clip on tuner</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="800" src="https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam.jpg" alt="" class="wp-image-442" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/tuner-Electrikjam-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Clip on tuner</figcaption></figure>
 
 
 

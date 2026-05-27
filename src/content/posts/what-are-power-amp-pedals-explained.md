@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/10/POWER-amp-pedals.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/POWER-amp-pedals.png"
 featuredImageAlt: "power amp pedals"
 seo: 
   title: "What Are Power Amp Pedals? The #1 Way To Always Be Prepared!"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Power-amps-1024x683.png" alt="power amp pedals" class="wp-image-9368" title="" srcset="/wp-content/uploads/2022/10/Power-amps-1024x683.png 1024w, /wp-content/uploads/2022/10/Power-amps-600x400.png 600w, /wp-content/uploads/2022/10/Power-amps-300x200.png 300w, /wp-content/uploads/2022/10/Power-amps-768x512.png 768w, /wp-content/uploads/2022/10/Power-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Power-amps-1024x683.png" alt="power amp pedals" class="wp-image-9368" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Power-amps-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Power-amps-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Power-amps-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Power-amps-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Power-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/power-amp-types-1024x683.png" alt="power amp pedals" class="wp-image-9369" title="" srcset="/wp-content/uploads/2022/10/power-amp-types-1024x683.png 1024w, /wp-content/uploads/2022/10/power-amp-types-600x400.png 600w, /wp-content/uploads/2022/10/power-amp-types-300x200.png 300w, /wp-content/uploads/2022/10/power-amp-types-768x512.png 768w, /wp-content/uploads/2022/10/power-amp-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/power-amp-types-1024x683.png" alt="power amp pedals" class="wp-image-9369" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/power-amp-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/power-amp-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/power-amp-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/power-amp-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/power-amp-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-1024x683.png" alt="Blackstar DPT 10 Amped 1" class="wp-image-9247" title="" srcset="/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-1024x683.png 1024w, /wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-600x400.png 600w, /wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-300x200.png 300w, /wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-768x512.png 768w, /wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-1024x683.png" alt="Blackstar DPT 10 Amped 1" class="wp-image-9247" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Blackstar-DPT-10-Amped-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/10/L72902000001000-00-720x720-1.webp" alt="power amp pedals" class="wp-image-9370" title="" srcset="/wp-content/uploads/2022/10/L72902000001000-00-720x720-1.webp 720w, /wp-content/uploads/2022/10/L72902000001000-00-720x720-1-300x300.webp 300w, /wp-content/uploads/2022/10/L72902000001000-00-720x720-1-100x100.webp 100w, /wp-content/uploads/2022/10/L72902000001000-00-720x720-1-600x600.webp 600w, /wp-content/uploads/2022/10/L72902000001000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/10/L72902000001000-00-720x720-1.webp" alt="power amp pedals" class="wp-image-9370" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/L72902000001000-00-720x720-1.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/10/L72902000001000-00-720x720-1-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/L72902000001000-00-720x720-1-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/10/L72902000001000-00-720x720-1-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/L72902000001000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 

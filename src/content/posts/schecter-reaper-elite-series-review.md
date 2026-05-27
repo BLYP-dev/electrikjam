@@ -25,7 +25,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series.png"
 featuredImageAlt: "Schecter Reaper Elite Series"
 seo: 
   title: "Schecter Reaper Elite Series Review: 3 NEW High Spec Shred Machines!"
@@ -86,7 +86,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-1024x683.png" alt="Schecter Reaper Elite Series" class="wp-image-10258" title="" srcset="/wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-1024x683.png" alt="Schecter Reaper Elite Series" class="wp-image-10258" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-6-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-1024x683.png" alt="Schecter Reaper elite Series" class="wp-image-10259" title="" srcset="/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-1024x683.png" alt="Schecter Reaper elite Series" class="wp-image-10259" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-1024x683.png" alt="Schecter Reaper Elite Series" class="wp-image-10260" title="" srcset="/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-1024x683.png" alt="Schecter Reaper Elite Series" class="wp-image-10260" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -348,7 +348,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-1024x683.png" alt="Schecter Reaper Elite Series" class="wp-image-10261" title="" srcset="/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-1024x683.png 1024w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-600x400.png 600w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-300x200.png 300w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-768x512.png 768w, /wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-1024x683.png" alt="Schecter Reaper Elite Series" class="wp-image-10261" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Schecter-Reaper-Elite-Series-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

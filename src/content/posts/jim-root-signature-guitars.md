@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2023/10/jim-root-charvel-guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar.png"
 featuredImageAlt: "jim root charvel guitar"
 seo: 
   title: "Jim Root Signature Guitars: A Detailed Overview [2023]"
@@ -66,7 +66,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png" alt="best fender guitar for metal" class="wp-image-7161" title="" srcset="/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png 1024w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-600x400.png 600w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-300x200.png 300w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal-768x512.png 768w, /wp-content/uploads/2021/03/best-fender-guitar-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png" alt="best fender guitar for metal" class="wp-image-7161" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/best-fender-guitar-for-metal.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/jim-root-charvel-guitar-1024x683.png" alt="jim root charvel guitar" class="wp-image-13105" title="" srcset="/wp-content/uploads/2023/10/jim-root-charvel-guitar-1024x683.png 1024w, /wp-content/uploads/2023/10/jim-root-charvel-guitar-600x400.png 600w, /wp-content/uploads/2023/10/jim-root-charvel-guitar-300x200.png 300w, /wp-content/uploads/2023/10/jim-root-charvel-guitar-768x512.png 768w, /wp-content/uploads/2023/10/jim-root-charvel-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-1024x683.png" alt="jim root charvel guitar" class="wp-image-13105" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/jim-root-charvel-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="434" src="/wp-content/uploads/2023/10/collage-jr-1024x434.png" alt="" class="wp-image-13106" title="" srcset="/wp-content/uploads/2023/10/collage-jr-1024x434.png 1024w, /wp-content/uploads/2023/10/collage-jr-600x254.png 600w, /wp-content/uploads/2023/10/collage-jr-300x127.png 300w, /wp-content/uploads/2023/10/collage-jr-768x326.png 768w, /wp-content/uploads/2023/10/collage-jr-1536x651.png 1536w, /wp-content/uploads/2023/10/collage-jr.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="434" src="https://www.electrikjam.com/wp-content/uploads/2023/10/collage-jr-1024x434.png" alt="" class="wp-image-13106" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/collage-jr-1024x434.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/collage-jr-600x254.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/collage-jr-300x127.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/collage-jr-768x326.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/collage-jr-1536x651.png 1536w, https://www.electrikjam.com/wp-content/uploads/2023/10/collage-jr.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -206,7 +206,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style.webp" alt="Charvel Jim Root Signature Pro-Mod San Dimas Style" class="wp-image-13109" title="" srcset="/wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style.webp 600w, /wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style-300x300.webp 300w, /wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style-100x100.webp 100w, /wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="600" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style.webp" alt="Charvel Jim Root Signature Pro-Mod San Dimas Style" class="wp-image-13109" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2023/10/Charvel-Jim-Root-Signature-Pro-Mod-San-Dimas-Style-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -266,7 +266,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="491" height="1024" src="/wp-content/uploads/2023/10/jr-models-v-491x1024.png" alt="" class="wp-image-13107" title="" srcset="/wp-content/uploads/2023/10/jr-models-v-491x1024.png 491w, /wp-content/uploads/2023/10/jr-models-v-144x300.png 144w, /wp-content/uploads/2023/10/jr-models-v.png 600w" sizes="(max-width: 491px) 100vw, 491px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="491" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/10/jr-models-v-491x1024.png" alt="" class="wp-image-13107" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/jr-models-v-491x1024.png 491w, https://www.electrikjam.com/wp-content/uploads/2023/10/jr-models-v-144x300.png 144w, https://www.electrikjam.com/wp-content/uploads/2023/10/jr-models-v.png 600w" sizes="(max-width: 491px) 100vw, 491px" /></figure>
 
 
 

@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/boss-katana/"
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2024/03/Katana-Go-Review.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-Go-Review.png"
 featuredImageAlt: "Katana Go Review"
 seo: 
   title: "BOSS Katana GO Review: The #1 Practice Tool?"
@@ -72,7 +72,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/Boss-Katana-GO-App-1024x683.png" alt="Katana GO" class="wp-image-14484" title="" srcset="/wp-content/uploads/2024/03/Boss-Katana-GO-App-1024x683.png 1024w, /wp-content/uploads/2024/03/Boss-Katana-GO-App-600x400.png 600w, /wp-content/uploads/2024/03/Boss-Katana-GO-App-300x200.png 300w, /wp-content/uploads/2024/03/Boss-Katana-GO-App-768x512.png 768w, /wp-content/uploads/2024/03/Boss-Katana-GO-App.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/Boss-Katana-GO-App-1024x683.png" alt="Katana GO" class="wp-image-14484" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/Boss-Katana-GO-App-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/Boss-Katana-GO-App-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/Boss-Katana-GO-App-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/Boss-Katana-GO-App-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/Boss-Katana-GO-App.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -297,7 +297,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/Katana-GO-Side-View-1024x683.png" alt="Katana Go" class="wp-image-14485" title="" srcset="/wp-content/uploads/2024/03/Katana-GO-Side-View-1024x683.png 1024w, /wp-content/uploads/2024/03/Katana-GO-Side-View-600x400.png 600w, /wp-content/uploads/2024/03/Katana-GO-Side-View-300x200.png 300w, /wp-content/uploads/2024/03/Katana-GO-Side-View-768x512.png 768w, /wp-content/uploads/2024/03/Katana-GO-Side-View.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Side-View-1024x683.png" alt="Katana Go" class="wp-image-14485" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Side-View-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Side-View-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Side-View-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Side-View-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Side-View.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -421,7 +421,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/Katana-GO-Collage-1024x683.png" alt="Katana GO" class="wp-image-14486" title="" srcset="/wp-content/uploads/2024/03/Katana-GO-Collage-1024x683.png 1024w, /wp-content/uploads/2024/03/Katana-GO-Collage-600x400.png 600w, /wp-content/uploads/2024/03/Katana-GO-Collage-300x200.png 300w, /wp-content/uploads/2024/03/Katana-GO-Collage-768x512.png 768w, /wp-content/uploads/2024/03/Katana-GO-Collage.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Collage-1024x683.png" alt="Katana GO" class="wp-image-14486" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Collage-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Collage-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Collage-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Collage-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/Katana-GO-Collage.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

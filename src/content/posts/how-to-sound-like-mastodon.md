@@ -22,7 +22,7 @@ tagSlugs:
   - "mastodon"
 tagPaths: 
   - "/tag/mastodon/"
-featuredImage: "/wp-content/uploads/2023/02/New-Mastodon-Album.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/New-Mastodon-Album.png"
 featuredImageAlt: "How To Sound Like Mastodon"
 seo: 
   title: "How to Sound Like Mastodon: A Guide for Guitarists"
@@ -102,7 +102,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/brent-hinds-guitar-1024x683.png" alt="brent hinds guitar" class="wp-image-14751" title="" srcset="/wp-content/uploads/2023/02/brent-hinds-guitar-1024x683.png 1024w, /wp-content/uploads/2023/02/brent-hinds-guitar-600x400.png 600w, /wp-content/uploads/2023/02/brent-hinds-guitar-300x200.png 300w, /wp-content/uploads/2023/02/brent-hinds-guitar-768x512.png 768w, /wp-content/uploads/2023/02/brent-hinds-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-1024x683.png" alt="brent hinds guitar" class="wp-image-14751" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/brent-hinds-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png" alt="What-Guitars-Do-Mastodon-Use" class="wp-image-4857" title="" srcset="/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png 1024w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-600x500.png 600w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-300x250.png 300w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-768x640.png 768w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1080x900.png 1080w, /wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png" alt="What-Guitars-Do-Mastodon-Use" class="wp-image-4857" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/What-Guitars-Do-Mastodon-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="637" src="/wp-content/uploads/2021/09/new-mastodon-album-2021-1024x637.png" alt="new mastodon album 2021" class="wp-image-3986" title="" srcset="/wp-content/uploads/2021/09/new-mastodon-album-2021-1024x637.png 1024w, /wp-content/uploads/2021/09/new-mastodon-album-2021-600x373.png 600w, /wp-content/uploads/2021/09/new-mastodon-album-2021-300x187.png 300w, /wp-content/uploads/2021/09/new-mastodon-album-2021-768x478.png 768w, /wp-content/uploads/2021/09/new-mastodon-album-2021-400x250.png 400w, /wp-content/uploads/2021/09/new-mastodon-album-2021.png 1054w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="637" src="https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021-1024x637.png" alt="new mastodon album 2021" class="wp-image-3986" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021-1024x637.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021-600x373.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021-300x187.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021-768x478.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021-400x250.png 400w, https://www.electrikjam.com/wp-content/uploads/2021/09/new-mastodon-album-2021.png 1054w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -312,7 +312,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1009" src="/wp-content/uploads/2024/04/bill-kelliher-amp-1024x1009.webp" alt="" class="wp-image-14752" title="" srcset="/wp-content/uploads/2024/04/bill-kelliher-amp-1024x1009.webp 1024w, /wp-content/uploads/2024/04/bill-kelliher-amp-100x100.webp 100w, /wp-content/uploads/2024/04/bill-kelliher-amp-600x591.webp 600w, /wp-content/uploads/2024/04/bill-kelliher-amp-300x296.webp 300w, /wp-content/uploads/2024/04/bill-kelliher-amp-768x757.webp 768w, /wp-content/uploads/2024/04/bill-kelliher-amp.webp 1182w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><a href="https://www.premierguitar.com/rig-rundown-mastodon-2014" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="264303">Premier Guitar</a> Got Two Awesome Shots of Kelliher&#8217;s Current Amp Setup. </figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="1009" src="https://www.electrikjam.com/wp-content/uploads/2024/04/bill-kelliher-amp-1024x1009.webp" alt="" class="wp-image-14752" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/bill-kelliher-amp-1024x1009.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/bill-kelliher-amp-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2024/04/bill-kelliher-amp-600x591.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/bill-kelliher-amp-300x296.webp 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/bill-kelliher-amp-768x757.webp 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/bill-kelliher-amp.webp 1182w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><a href="https://www.premierguitar.com/rig-rundown-mastodon-2014" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="264303">Premier Guitar</a> Got Two Awesome Shots of Kelliher&#8217;s Current Amp Setup. </figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg"
 featuredImageAlt: "fender-jaguar-kurt-cobain"
 seo: 
   title: "How Kurt Cobain – And Grunge – Saved The Fender Jaguar"
@@ -70,19 +70,19 @@ seo:
 
 
 <figure class="wp-block-gallery has-nested-images columns-1 wp-block-gallery-37 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="850" height="478" data-id="3944" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3944" title="" srcset="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4.jpg 850w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4-600x337.jpg 600w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4-300x169.jpg 300w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4-768x432.jpg 768w" sizes="(max-width: 850px) 100vw, 850px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="850" height="478" data-id="3944" src="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3944" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4.jpg 850w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-4-768x432.jpg 768w" sizes="(max-width: 850px) 100vw, 850px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="703" data-id="3943" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-3-1024x703.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3943" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="703" data-id="3943" src="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-3-1024x703.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3943" title=""></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="683" height="1024" data-id="3942" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-683x1024.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3942" title="" srcset="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-683x1024.jpg 683w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-600x900.jpg 600w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-200x300.jpg 200w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-768x1152.jpg 768w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-1024x1536.jpg 1024w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-1080x1620.jpg 1080w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="683" height="1024" data-id="3942" src="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-683x1024.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3942" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-683x1024.jpg 683w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-600x900.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-200x300.jpg 200w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-768x1152.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-1024x1536.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2-1080x1620.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" data-id="3941" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-1024x576.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3941" title="" srcset="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-1024x576.jpg 1024w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-600x338.jpg 600w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-300x169.jpg 300w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-768x432.jpg 768w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-1080x608.jpg 1080w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" data-id="3941" src="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-1024x576.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3941" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 <figcaption class="blocks-gallery-caption wp-element-caption"><strong>The Original 1960s Fender Jaguar</strong></figcaption></figure>
 
 
@@ -161,7 +161,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="850" height="638" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg" alt="" class="wp-image-3940" title="" srcset="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg 850w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-600x450.jpg 600w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-300x225.jpg 300w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-768x576.jpg 768w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-510x382.jpg 510w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption"><a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-lasso-id="106928"><strong>Kurt Cobain With His Fender Jaguar</strong></a><strong> </strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="850" height="638" src="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg" alt="" class="wp-image-3940" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg 850w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-510x382.jpg 510w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption"><a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-lasso-id="106928"><strong>Kurt Cobain With His Fender Jaguar</strong></a><strong> </strong></figcaption></figure>
 
 
 

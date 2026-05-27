@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2022/09/Schecter-Omen-Elite-COVER.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-COVER.png"
 featuredImageAlt: "Schecter Omen Elite"
 seo: 
   title: "Schecter Omen Elite 2022 Review: Revamped 6,7, and 8 Strings"
@@ -82,7 +82,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-1024x683.png" alt="Schecter Omen Elite" class="wp-image-8913" title="" srcset="/wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-1024x683.png 1024w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-600x400.png 600w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-300x200.png 300w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-768x512.png 768w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-1024x683.png" alt="Schecter Omen Elite" class="wp-image-8913" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-All-Models.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-1024x683.png" alt="Schecter Omen Elite" class="wp-image-8915" title="" srcset="/wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-1024x683.png 1024w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-600x400.png 600w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-300x200.png 300w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-768x512.png 768w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-1024x683.png" alt="Schecter Omen Elite" class="wp-image-8915" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-7-String.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-1024x683.png" alt="Schecter Omen Elite" class="wp-image-8916" title="" srcset="/wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-1024x683.png 1024w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-600x400.png 600w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-300x200.png 300w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-768x512.png 768w, /wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Perfect Fret Ends Up And Down The Neck</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-1024x683.png" alt="Schecter Omen Elite" class="wp-image-8916" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Elite-fretwork.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Perfect Fret Ends Up And Down The Neck</strong></figcaption></figure>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-1024x683.png" alt="" class="wp-image-8917" title="" srcset="/wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-1024x683.png 1024w, /wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-600x400.png 600w, /wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-300x200.png 300w, /wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-768x512.png 768w, /wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Original Omen &#8220;Extreme&#8221; Model</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-1024x683.png" alt="" class="wp-image-8917" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Schecter-Omen-Extreme-OLD.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Original Omen &#8220;Extreme&#8221; Model</strong></figcaption></figure>
 
 
 

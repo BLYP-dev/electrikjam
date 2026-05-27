@@ -22,7 +22,7 @@ tagSlugs:
   - "jack-white"
 tagPaths: 
   - "/tag/jack-white/"
-featuredImage: "/wp-content/uploads/2024/10/Jack-White-Triplecaster.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/10/Jack-White-Triplecaster.jpg"
 featuredImageAlt: "Jack White Triplecaster"
 seo: 
   title: "Jack White Triplecaster Specs, Release Date & Price"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/10/Fender-Triplecaster-1024x683.jpg" alt="" class="wp-image-16581" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/10/Fender-Triplecaster-1024x683.jpg 1024w, /wp-content/uploads/2024/10/Fender-Triplecaster-600x400.jpg 600w, /wp-content/uploads/2024/10/Fender-Triplecaster-300x200.jpg 300w, /wp-content/uploads/2024/10/Fender-Triplecaster-768x512.jpg 768w, /wp-content/uploads/2024/10/Fender-Triplecaster.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/10/Fender-Triplecaster-1024x683.jpg" alt="" class="wp-image-16581" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/10/Fender-Triplecaster-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/10/Fender-Triplecaster-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/10/Fender-Triplecaster-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/10/Fender-Triplecaster-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/10/Fender-Triplecaster.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/10/maxresdefault-1024x576.jpg" alt="" class="wp-image-16582" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/10/maxresdefault-1024x576.jpg 1024w, /wp-content/uploads/2024/10/maxresdefault-600x338.jpg 600w, /wp-content/uploads/2024/10/maxresdefault-300x169.jpg 300w, /wp-content/uploads/2024/10/maxresdefault-768x432.jpg 768w, /wp-content/uploads/2024/10/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2024/10/maxresdefault-1024x576.jpg" alt="" class="wp-image-16582" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/10/maxresdefault-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/10/maxresdefault-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/10/maxresdefault-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/10/maxresdefault-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/10/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

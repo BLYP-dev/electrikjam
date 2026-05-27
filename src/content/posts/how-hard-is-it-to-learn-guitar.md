@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "/wp-content/uploads/2021/05/How-Hard-Is-It-To-Learn-Guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/05/How-Hard-Is-It-To-Learn-Guitar.png"
 featuredImageAlt: "How Hard Is It To Learn Guitar"
 seo: 
   title: "How Hard Is It To Learn Guitar? Beginner FAQs Answered…"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png" alt="" class="wp-image-2556" title="" srcset="/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png 1024w, /wp-content/uploads/2021/03/Jimi-Hendrix--600x338.png 600w, /wp-content/uploads/2021/03/Jimi-Hendrix--300x169.png 300w, /wp-content/uploads/2021/03/Jimi-Hendrix--768x432.png 768w, /wp-content/uploads/2021/03/Jimi-Hendrix--1080x608.png 1080w, /wp-content/uploads/2021/03/Jimi-Hendrix-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>You Might Not Ever Be As Good As Jimmy, But That Shouldn&#8217;t Stop You From Trying&#8230;</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png" alt="" class="wp-image-2556" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>You Might Not Ever Be As Good As Jimmy, But That Shouldn&#8217;t Stop You From Trying&#8230;</strong></figcaption></figure>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="980" height="653" src="/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="" class="wp-image-2820" title="" srcset="/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, /wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, /wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, /wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, /wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /><figcaption><a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-lasso-id="1350"><strong>Matt Pike</a> Dropping A BOMB&#8230;</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="980" height="653" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="" class="wp-image-2820" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /><figcaption><a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-lasso-id="1350"><strong>Matt Pike</a> Dropping A BOMB&#8230;</strong></figcaption></figure>
 
 
 

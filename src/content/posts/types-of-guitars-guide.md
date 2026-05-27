@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/03/Different-Types-of-Guitars.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars.png"
 featuredImageAlt: "Different Types of Guitars"
 seo: 
   title: "All The Different Types of Guitars (+ How They’re Different)"
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2021/03/Different-Types-of-Guitars.png" alt="Different Types of Guitars" class="wp-image-2604" title="" srcset="/wp-content/uploads/2021/03/Different-Types-of-Guitars.png 1200w, /wp-content/uploads/2021/03/Different-Types-of-Guitars-600x400.png 600w, /wp-content/uploads/2021/03/Different-Types-of-Guitars-300x200.png 300w, /wp-content/uploads/2021/03/Different-Types-of-Guitars-1024x683.png 1024w, /wp-content/uploads/2021/03/Different-Types-of-Guitars-768x512.png 768w, /wp-content/uploads/2021/03/Different-Types-of-Guitars-1080x720.png 1080w, /wp-content/uploads/2021/03/Different-Types-of-Guitars-360x240.png 360w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars.png" alt="Different Types of Guitars" class="wp-image-2604" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars.png 1200w, https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Different-Types-of-Guitars-360x240.png 360w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="767" src="/wp-content/uploads/2021/03/Taylor-Guitars-1024x767.jpg" alt="" class="wp-image-2547" title="" srcset="/wp-content/uploads/2021/03/Taylor-Guitars-1024x767.jpg 1024w, /wp-content/uploads/2021/03/Taylor-Guitars-600x449.jpg 600w, /wp-content/uploads/2021/03/Taylor-Guitars-300x225.jpg 300w, /wp-content/uploads/2021/03/Taylor-Guitars-768x575.jpg 768w, /wp-content/uploads/2021/03/Taylor-Guitars-510x382.jpg 510w, /wp-content/uploads/2021/03/Taylor-Guitars-1080x809.jpg 1080w, /wp-content/uploads/2021/03/Taylor-Guitars.jpg 1082w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="767" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Taylor-Guitars-1024x767.jpg" alt="" class="wp-image-2547" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Taylor-Guitars-1024x767.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Taylor-Guitars-600x449.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Taylor-Guitars-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Taylor-Guitars-768x575.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Taylor-Guitars-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/03/Taylor-Guitars-1080x809.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Taylor-Guitars.jpg 1082w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="491" src="/wp-content/uploads/2021/03/differnt-guitars-1024x491.jpg" alt="types of guitars" class="wp-image-2548" title="" srcset="/wp-content/uploads/2021/03/differnt-guitars-1024x491.jpg 1024w, /wp-content/uploads/2021/03/differnt-guitars-600x288.jpg 600w, /wp-content/uploads/2021/03/differnt-guitars-300x144.jpg 300w, /wp-content/uploads/2021/03/differnt-guitars-768x369.jpg 768w, /wp-content/uploads/2021/03/differnt-guitars-1080x518.jpg 1080w, /wp-content/uploads/2021/03/differnt-guitars.jpg 1196w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>From L to R: Classical Cutaway, Dread CE, Dread, Cutaway, Concert CE, Concert</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="491" src="https://www.electrikjam.com/wp-content/uploads/2021/03/differnt-guitars-1024x491.jpg" alt="types of guitars" class="wp-image-2548" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/differnt-guitars-1024x491.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/differnt-guitars-600x288.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/differnt-guitars-300x144.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/differnt-guitars-768x369.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/differnt-guitars-1080x518.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/differnt-guitars.jpg 1196w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>From L to R: Classical Cutaway, Dread CE, Dread, Cutaway, Concert CE, Concert</figcaption></figure>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/03/IMG_20210315_075542084-1024x768.jpg" alt="" class="wp-image-2549" title="" srcset="/wp-content/uploads/2021/03/IMG_20210315_075542084-1024x768.jpg 1024w, /wp-content/uploads/2021/03/IMG_20210315_075542084-600x450.jpg 600w, /wp-content/uploads/2021/03/IMG_20210315_075542084-300x225.jpg 300w, /wp-content/uploads/2021/03/IMG_20210315_075542084-768x576.jpg 768w, /wp-content/uploads/2021/03/IMG_20210315_075542084-510x382.jpg 510w, /wp-content/uploads/2021/03/IMG_20210315_075542084-1080x810.jpg 1080w, /wp-content/uploads/2021/03/IMG_20210315_075542084.jpg 1110w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Electric Acoustic Guitar</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/03/IMG_20210315_075542084-1024x768.jpg" alt="" class="wp-image-2549" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/IMG_20210315_075542084-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/IMG_20210315_075542084-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/IMG_20210315_075542084-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/IMG_20210315_075542084-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/IMG_20210315_075542084-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/03/IMG_20210315_075542084-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/IMG_20210315_075542084.jpg 1110w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Electric Acoustic Guitar</figcaption></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/Solid-body-collage-1024x576.png" alt="" class="wp-image-2550" title="" srcset="/wp-content/uploads/2021/03/Solid-body-collage-1024x576.png 1024w, /wp-content/uploads/2021/03/Solid-body-collage-600x338.png 600w, /wp-content/uploads/2021/03/Solid-body-collage-300x169.png 300w, /wp-content/uploads/2021/03/Solid-body-collage-768x432.png 768w, /wp-content/uploads/2021/03/Solid-body-collage-1080x608.png 1080w, /wp-content/uploads/2021/03/Solid-body-collage.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Solid-body-collage-1024x576.png" alt="" class="wp-image-2550" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Solid-body-collage-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Solid-body-collage-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Solid-body-collage-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Solid-body-collage-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Solid-body-collage-1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Solid-body-collage.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="707" src="/wp-content/uploads/2021/03/56-gibson-hollow-1024x707.jpg" alt="" class="wp-image-2552" title="" srcset="/wp-content/uploads/2021/03/56-gibson-hollow-1024x707.jpg 1024w, /wp-content/uploads/2021/03/56-gibson-hollow-600x414.jpg 600w, /wp-content/uploads/2021/03/56-gibson-hollow-300x207.jpg 300w, /wp-content/uploads/2021/03/56-gibson-hollow-768x530.jpg 768w, /wp-content/uploads/2021/03/56-gibson-hollow-1536x1061.jpg 1536w, /wp-content/uploads/2021/03/56-gibson-hollow-1080x746.jpg 1080w, /wp-content/uploads/2021/03/56-gibson-hollow.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>1955 Gibson Hollow Body</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="707" src="https://www.electrikjam.com/wp-content/uploads/2021/03/56-gibson-hollow-1024x707.jpg" alt="" class="wp-image-2552" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/56-gibson-hollow-1024x707.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/56-gibson-hollow-600x414.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/56-gibson-hollow-300x207.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/56-gibson-hollow-768x530.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/56-gibson-hollow-1536x1061.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/56-gibson-hollow-1080x746.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/56-gibson-hollow.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>1955 Gibson Hollow Body</figcaption></figure>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/03/Gibson-ES-1024x683.jpg" alt="" class="wp-image-2555" title="" srcset="/wp-content/uploads/2021/03/Gibson-ES-1024x683.jpg 1024w, /wp-content/uploads/2021/03/Gibson-ES-600x400.jpg 600w, /wp-content/uploads/2021/03/Gibson-ES-300x200.jpg 300w, /wp-content/uploads/2021/03/Gibson-ES-768x512.jpg 768w, /wp-content/uploads/2021/03/Gibson-ES-1536x1024.jpg 1536w, /wp-content/uploads/2021/03/Gibson-ES-1080x720.jpg 1080w, /wp-content/uploads/2021/03/Gibson-ES-360x240.jpg 360w, /wp-content/uploads/2021/03/Gibson-ES.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Gibson ES Series</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES-1024x683.jpg" alt="" class="wp-image-2555" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES-360x240.jpg 360w, https://www.electrikjam.com/wp-content/uploads/2021/03/Gibson-ES.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Gibson ES Series</figcaption></figure>
 
 
 
@@ -299,7 +299,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="323" src="/wp-content/uploads/2021/03/Stratocaster-54-1024x323.jpg" alt="" class="wp-image-2551" title="" srcset="/wp-content/uploads/2021/03/Stratocaster-54-1024x323.jpg 1024w, /wp-content/uploads/2021/03/Stratocaster-54-600x189.jpg 600w, /wp-content/uploads/2021/03/Stratocaster-54-300x95.jpg 300w, /wp-content/uploads/2021/03/Stratocaster-54-768x242.jpg 768w, /wp-content/uploads/2021/03/Stratocaster-54-1080x340.jpg 1080w, /wp-content/uploads/2021/03/Stratocaster-54.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Fender Stratocaster</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="323" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Stratocaster-54-1024x323.jpg" alt="" class="wp-image-2551" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Stratocaster-54-1024x323.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Stratocaster-54-600x189.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Stratocaster-54-300x95.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Stratocaster-54-768x242.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Stratocaster-54-1080x340.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Stratocaster-54.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Fender Stratocaster</figcaption></figure>
 
 
 
@@ -343,7 +343,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png" alt="" class="wp-image-2556" title="" srcset="/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png 1024w, /wp-content/uploads/2021/03/Jimi-Hendrix--600x338.png 600w, /wp-content/uploads/2021/03/Jimi-Hendrix--300x169.png 300w, /wp-content/uploads/2021/03/Jimi-Hendrix--768x432.png 768w, /wp-content/uploads/2021/03/Jimi-Hendrix--1080x608.png 1080w, /wp-content/uploads/2021/03/Jimi-Hendrix-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99494">Jimi Hendrix Playing His Fender</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png" alt="" class="wp-image-2556" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix--1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Jimi-Hendrix-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99494">Jimi Hendrix Playing His Fender</a></figcaption></figure>
 
 
 
@@ -355,7 +355,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/epi-sg-3-1024x576.png" alt="" class="wp-image-2499" title="" srcset="/wp-content/uploads/2021/03/epi-sg-3-1024x576.png 1024w, /wp-content/uploads/2021/03/epi-sg-3-600x338.png 600w, /wp-content/uploads/2021/03/epi-sg-3-300x169.png 300w, /wp-content/uploads/2021/03/epi-sg-3-768x432.png 768w, /wp-content/uploads/2021/03/epi-sg-3-1536x864.png 1536w, /wp-content/uploads/2021/03/epi-sg-3-1080x608.png 1080w, /wp-content/uploads/2021/03/epi-sg-3.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" class="rank-math-link" data-lasso-id="1600">Gibson SG Solid Body Guitar</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-1024x576.png" alt="" class="wp-image-2499" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3-1080x608.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/epi-sg-3.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" class="rank-math-link" data-lasso-id="1600">Gibson SG Solid Body Guitar</a></strong></figcaption></figure>
 
 
 
@@ -387,7 +387,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="308" src="/wp-content/uploads/2021/03/Offset-Bari-1024x308.jpg" alt="" class="wp-image-2594" title="" srcset="/wp-content/uploads/2021/03/Offset-Bari-1024x308.jpg 1024w, /wp-content/uploads/2021/03/Offset-Bari-600x181.jpg 600w, /wp-content/uploads/2021/03/Offset-Bari-300x90.jpg 300w, /wp-content/uploads/2021/03/Offset-Bari-768x231.jpg 768w, /wp-content/uploads/2021/03/Offset-Bari-1080x325.jpg 1080w, /wp-content/uploads/2021/03/Offset-Bari.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="308" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Offset-Bari-1024x308.jpg" alt="" class="wp-image-2594" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Offset-Bari-1024x308.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Offset-Bari-600x181.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Offset-Bari-300x90.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Offset-Bari-768x231.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Offset-Bari-1080x325.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Offset-Bari.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -411,7 +411,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="310" src="/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-1024x310.png" alt="" class="wp-image-2599" title="" srcset="/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-1024x310.png 1024w, /wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-600x182.png 600w, /wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-300x91.png 300w, /wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-768x232.png 768w, /wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-1080x327.png 1080w, /wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en.png 1272w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="310" src="https://www.electrikjam.com/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-1024x310.png" alt="" class="wp-image-2599" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-1024x310.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-600x182.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-300x91.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-768x232.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en-1080x327.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/ps_main_eg_rgd_prestige_en.png 1272w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -451,7 +451,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/03/Ibanez-Uni-1024x768.jpg" alt="" class="wp-image-2600" title="" srcset="/wp-content/uploads/2021/03/Ibanez-Uni-1024x768.jpg 1024w, /wp-content/uploads/2021/03/Ibanez-Uni-600x450.jpg 600w, /wp-content/uploads/2021/03/Ibanez-Uni-300x225.jpg 300w, /wp-content/uploads/2021/03/Ibanez-Uni-768x576.jpg 768w, /wp-content/uploads/2021/03/Ibanez-Uni-1536x1152.jpg 1536w, /wp-content/uploads/2021/03/Ibanez-Uni-510x382.jpg 510w, /wp-content/uploads/2021/03/Ibanez-Uni-1080x810.jpg 1080w, /wp-content/uploads/2021/03/Ibanez-Uni.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni-1024x768.jpg" alt="" class="wp-image-2600" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-Uni.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -491,7 +491,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/03/Ibanez-8-string.jpg" alt="" class="wp-image-2601" width="838" height="247" title="" srcset="/wp-content/uploads/2021/03/Ibanez-8-string.jpg 700w, /wp-content/uploads/2021/03/Ibanez-8-string-600x177.jpg 600w, /wp-content/uploads/2021/03/Ibanez-8-string-300x88.jpg 300w" sizes="(max-width: 838px) 100vw, 838px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-8-string.jpg" alt="" class="wp-image-2601" width="838" height="247" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-8-string.jpg 700w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-8-string-600x177.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-8-string-300x88.jpg 300w" sizes="(max-width: 838px) 100vw, 838px" /></figure>
 
 
 
@@ -511,7 +511,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="/wp-content/uploads/2021/03/Ibanez-M80-1024x339.png" alt="" class="wp-image-2602" title="" srcset="/wp-content/uploads/2021/03/Ibanez-M80-1024x339.png 1024w, /wp-content/uploads/2021/03/Ibanez-M80-600x199.png 600w, /wp-content/uploads/2021/03/Ibanez-M80-300x99.png 300w, /wp-content/uploads/2021/03/Ibanez-M80-768x255.png 768w, /wp-content/uploads/2021/03/Ibanez-M80-1536x509.png 1536w, /wp-content/uploads/2021/03/Ibanez-M80-2048x679.png 2048w, /wp-content/uploads/2021/03/Ibanez-M80-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ibanez M80M</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-M80-1024x339.png" alt="" class="wp-image-2602" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-M80-1024x339.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-M80-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-M80-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-M80-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-M80-1536x509.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-M80-2048x679.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Ibanez-M80-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ibanez M80M</figcaption></figure>
 
 
 
@@ -543,7 +543,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="1614"><strong>Cort Multi-Scale</strong></a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="1614"><strong>Cort Multi-Scale</strong></a></figcaption></figure>
 
 
 

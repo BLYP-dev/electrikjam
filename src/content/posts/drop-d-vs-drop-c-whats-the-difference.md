@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "/wp-content/uploads/2022/01/Drop-D-vs-Drop-C.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/Drop-D-vs-Drop-C.png"
 featuredImageAlt: "Drop D vs Drop C"
 seo: 
   title: "Drop D vs Drop C – What’s The Difference?"
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="474" src="/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1024x474.png" alt="" class="wp-image-5204" title="" srcset="/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1024x474.png 1024w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-600x278.png 600w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-300x139.png 300w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-768x356.png 768w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1080x500.png 1080w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord.png 1114w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>How To Play Powerchords In Drop D vs Standard Tuning</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="474" src="https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1024x474.png" alt="" class="wp-image-5204" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1024x474.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-600x278.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-300x139.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-768x356.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1080x500.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord.png 1114w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>How To Play Powerchords In Drop D vs Standard Tuning</strong></figcaption></figure>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="657" src="/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1024x657.png" alt="strings for drop C" class="wp-image-3390" title="" srcset="/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1024x657.png 1024w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-600x385.png 600w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-300x193.png 300w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-768x493.png 768w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1536x986.png 1536w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1080x693.png 1080w, /wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x.png 1844w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="657" src="https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1024x657.png" alt="strings for drop C" class="wp-image-3390" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1024x657.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-600x385.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-300x193.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-768x493.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1536x986.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x-1080x693.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/drop-c-vs-standard-tuning_2x.png 1844w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

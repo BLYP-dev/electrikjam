@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/04/Untitled-design-22.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-22.png"
 featuredImageAlt: "Guitar pickup positions"
 seo: 
   title: "Guitar Pickup Positions 101: Which Pickup Should You Use For..."
@@ -141,7 +141,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-23-1024x683.png" alt="guitar pickup positions" class="wp-image-7963" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-23-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-23-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-23-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-23-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-23.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>An Epiphone Les Paul</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-23-1024x683.png" alt="guitar pickup positions" class="wp-image-7963" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-23-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-23-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-23-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-23-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-23.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>An Epiphone Les Paul</strong></figcaption></figure>
 			
 		
 
@@ -209,7 +209,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-24-1024x683.png" alt="guitar pickup positions" class="wp-image-7964" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-24-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-24-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-24-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-24-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-24.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Famous Fender Stratocaster</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-24-1024x683.png" alt="guitar pickup positions" class="wp-image-7964" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-24-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-24-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-24-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-24-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-24.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Famous Fender Stratocaster</strong></figcaption></figure>
 			
 		
 
@@ -238,7 +238,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1011" height="1024" src="/wp-content/uploads/2022/04/16268-Selector-switch-inline-1011x1024.jpg" alt="Guitar pickup positions" class="wp-image-7965" title="" srcset="/wp-content/uploads/2022/04/16268-Selector-switch-inline-1011x1024.jpg 1011w, /wp-content/uploads/2022/04/16268-Selector-switch-inline-scaled-100x100.jpg 100w, /wp-content/uploads/2022/04/16268-Selector-switch-inline-scaled-600x608.jpg 600w, /wp-content/uploads/2022/04/16268-Selector-switch-inline-296x300.jpg 296w, /wp-content/uploads/2022/04/16268-Selector-switch-inline-768x778.jpg 768w, /wp-content/uploads/2022/04/16268-Selector-switch-inline-1516x1536.jpg 1516w, /wp-content/uploads/2022/04/16268-Selector-switch-inline-2022x2048.jpg 2022w" sizes="(max-width: 1011px) 100vw, 1011px" /><figcaption><strong>Photo Credit:</strong> <a href="https://www.fender.com/articles/tech-talk/sounds-aplenty-the-stratocaster-pickup-selector-switch" target="_blank" rel="nofollow noopener" data-lasso-id="110922"><strong>Fender Guitars</strong></a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1011" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/04/16268-Selector-switch-inline-1011x1024.jpg" alt="Guitar pickup positions" class="wp-image-7965" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/16268-Selector-switch-inline-1011x1024.jpg 1011w, https://www.electrikjam.com/wp-content/uploads/2022/04/16268-Selector-switch-inline-scaled-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/04/16268-Selector-switch-inline-scaled-600x608.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/16268-Selector-switch-inline-296x300.jpg 296w, https://www.electrikjam.com/wp-content/uploads/2022/04/16268-Selector-switch-inline-768x778.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/16268-Selector-switch-inline-1516x1536.jpg 1516w, https://www.electrikjam.com/wp-content/uploads/2022/04/16268-Selector-switch-inline-2022x2048.jpg 2022w" sizes="(max-width: 1011px) 100vw, 1011px" /><figcaption><strong>Photo Credit:</strong> <a href="https://www.fender.com/articles/tech-talk/sounds-aplenty-the-stratocaster-pickup-selector-switch" target="_blank" rel="nofollow noopener" data-lasso-id="110922"><strong>Fender Guitars</strong></a></figcaption></figure>
 
 
 
@@ -274,7 +274,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-25-1024x683.png" alt="Guitar pickup positions" class="wp-image-7966" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-25-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-25-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-25-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-25-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-25.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Ibanez Jem With 5 Way Switch</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-25-1024x683.png" alt="Guitar pickup positions" class="wp-image-7966" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-25-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-25-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-25-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-25-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-25.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Ibanez Jem With 5 Way Switch</strong></figcaption></figure>
 
 
 

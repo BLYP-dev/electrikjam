@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/12/andrew-santellan-JS-l3dLb8eQ-unsplash-scaled-e1609261139598.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/andrew-santellan-JS-l3dLb8eQ-unsplash-scaled-e1609261139598.jpg"
 featuredImageAlt: "how to palm mute"
 seo: 
   title: "How To Palm Mute: A Complete Beginner's Guide"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/12/andrew-santellan-JS-l3dLb8eQ-unsplash-1024x683.jpg" alt="how to palm mute" class="wp-image-1641" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/12/andrew-santellan-JS-l3dLb8eQ-unsplash-1024x683.jpg" alt="how to palm mute" class="wp-image-1641" title=""></figure>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-1024x576.jpg" alt="" class="wp-image-1642" title="" srcset="/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-1024x576.jpg 1024w, /wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-scaled-600x338.jpg 600w, /wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-300x169.jpg 300w, /wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-768x432.jpg 768w, /wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-1536x864.jpg 1536w, /wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-1024x576.jpg" alt="" class="wp-image-1642" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-scaled-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/c-drying-usrM_SEVOK0-unsplash-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

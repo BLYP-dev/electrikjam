@@ -22,7 +22,7 @@ tagSlugs:
   - "melvins"
 tagPaths: 
   - "/tag/melvins/"
-featuredImage: "/wp-content/uploads/2024/04/Naked-Brunch-How-Buzzo-Made-The-New-Melvins-Album.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/Naked-Brunch-How-Buzzo-Made-The-New-Melvins-Album.png"
 featuredImageAlt: "Naked Brunch How Buzzo Made The New Melvins Album"
 seo: 
   title: "Naked Brunch: How Buzzo Made The New Melvins Album"
@@ -43,7 +43,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/William-Burroughs-1024x683.png" alt="William Burroughs" class="wp-image-14852" title="" srcset="/wp-content/uploads/2024/04/William-Burroughs-1024x683.png 1024w, /wp-content/uploads/2024/04/William-Burroughs-600x400.png 600w, /wp-content/uploads/2024/04/William-Burroughs-300x200.png 300w, /wp-content/uploads/2024/04/William-Burroughs-768x512.png 768w, /wp-content/uploads/2024/04/William-Burroughs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/William-Burroughs-1024x683.png" alt="William Burroughs" class="wp-image-14852" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/William-Burroughs-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/William-Burroughs-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/William-Burroughs-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/William-Burroughs-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/William-Burroughs.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/buzzo-1024x576.jpg" alt="" class="wp-image-1571" title="" srcset="/wp-content/uploads/2020/12/buzzo-1024x576.jpg 1024w, /wp-content/uploads/2020/12/buzzo-600x338.jpg 600w, /wp-content/uploads/2020/12/buzzo-300x169.jpg 300w, /wp-content/uploads/2020/12/buzzo-768x432.jpg 768w, /wp-content/uploads/2020/12/buzzo.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-1024x576.jpg" alt="" class="wp-image-1571" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -150,7 +150,7 @@ seo:
 <div class="wp-block-group has-tertiary-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-5fbedae1 wp-block-group-is-layout-constrained" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)">
 <div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-318252f0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-<div class="wp-block-cover is-light is-style-rounded-cover wp-duotone-unset-24" style="min-height:281px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="1410" height="2250" class="wp-block-cover__image-background wp-image-14681" alt="ELECTRIKJAM Mastering 101 The Complete Beginner&#039;s Guide" src="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%" title="" srcset="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png 1410w, /wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide-600x957.png 600w" sizes="(max-width: 1410px) 100vw, 1410px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-cover is-light is-style-rounded-cover wp-duotone-unset-24" style="min-height:281px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="1410" height="2250" class="wp-block-cover__image-background wp-image-14681" alt="ELECTRIKJAM Mastering 101 The Complete Beginner&#039;s Guide" src="https://www.electrikjam.com/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png 1410w, https://www.electrikjam.com/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide-600x957.png 600w" sizes="(max-width: 1410px) 100vw, 1410px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <p class="has-text-align-center has-large-font-size"></p>
 </div></div>
 </div>

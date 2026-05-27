@@ -22,7 +22,7 @@ tagSlugs:
   - "ibanez"
 tagPaths: 
   - "/tag/ibanez/"
-featuredImage: "/wp-content/uploads/2021/08/ichika-nito-ibanez@1400x1050.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/08/ichika-nito-ibanez@1400x1050.jpg"
 featuredImageAlt: "ichika-nito-ibanez@1400×1050"
 seo: 
   title: "The Ibanez ICHI10: Ibanez Takes An Impressive Shot At The Headless Market"
@@ -93,7 +93,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="/wp-content/uploads/2021/08/Ibanez-Ichi10-1024x339.png" alt="Ibanez Ichi10" class="wp-image-3536" title="" srcset="/wp-content/uploads/2021/08/Ibanez-Ichi10-1024x339.png 1024w, /wp-content/uploads/2021/08/Ibanez-Ichi10-600x199.png 600w, /wp-content/uploads/2021/08/Ibanez-Ichi10-300x99.png 300w, /wp-content/uploads/2021/08/Ibanez-Ichi10-768x255.png 768w, /wp-content/uploads/2021/08/Ibanez-Ichi10-1536x509.png 1536w, /wp-content/uploads/2021/08/Ibanez-Ichi10-2048x679.png 2048w, /wp-content/uploads/2021/08/Ibanez-Ichi10-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="https://www.electrikjam.com/wp-content/uploads/2021/08/Ibanez-Ichi10-1024x339.png" alt="Ibanez Ichi10" class="wp-image-3536" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/08/Ibanez-Ichi10-1024x339.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/08/Ibanez-Ichi10-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/08/Ibanez-Ichi10-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/08/Ibanez-Ichi10-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/08/Ibanez-Ichi10-1536x509.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/08/Ibanez-Ichi10-2048x679.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/08/Ibanez-Ichi10-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="700" height="467" src="/wp-content/uploads/2021/09/Ibanez-ICHI-10.jpg" alt="" class="wp-image-3702" title="" srcset="/wp-content/uploads/2021/09/Ibanez-ICHI-10.jpg 700w, /wp-content/uploads/2021/09/Ibanez-ICHI-10-600x400.jpg 600w, /wp-content/uploads/2021/09/Ibanez-ICHI-10-300x200.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="700" height="467" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Ibanez-ICHI-10.jpg" alt="" class="wp-image-3702" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Ibanez-ICHI-10.jpg 700w, https://www.electrikjam.com/wp-content/uploads/2021/09/Ibanez-ICHI-10-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Ibanez-ICHI-10-300x200.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
 			
 		
 

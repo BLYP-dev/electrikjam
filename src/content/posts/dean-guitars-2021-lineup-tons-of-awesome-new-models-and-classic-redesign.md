@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/01/mlsel7msksnbb.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/mlsel7msksnbb.png"
 featuredImageAlt: "mlsel7msksnbb"
 seo: 
   title: "Dean Guitars 2021 Lineup: Tons Of Awesome New Models, and Classic Redesign!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="387" src="/wp-content/uploads/2021/01/dg-newfor2021-1024x387.jpg" alt="" class="wp-image-1833" title="" srcset="/wp-content/uploads/2021/01/dg-newfor2021-1024x387.jpg 1024w, /wp-content/uploads/2021/01/dg-newfor2021-600x227.jpg 600w, /wp-content/uploads/2021/01/dg-newfor2021-300x113.jpg 300w, /wp-content/uploads/2021/01/dg-newfor2021-768x290.jpg 768w, /wp-content/uploads/2021/01/dg-newfor2021-1536x581.jpg 1536w, /wp-content/uploads/2021/01/dg-newfor2021.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="387" src="https://www.electrikjam.com/wp-content/uploads/2021/01/dg-newfor2021-1024x387.jpg" alt="" class="wp-image-1833" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/dg-newfor2021-1024x387.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/dg-newfor2021-600x227.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/dg-newfor2021-300x113.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/dg-newfor2021-768x290.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/dg-newfor2021-1536x581.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/dg-newfor2021.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/exilesel7msksnbb-1024x448.png" alt="" class="wp-image-1834" title="" srcset="/wp-content/uploads/2021/01/exilesel7msksnbb-1024x448.png 1024w, /wp-content/uploads/2021/01/exilesel7msksnbb-600x263.png 600w, /wp-content/uploads/2021/01/exilesel7msksnbb-300x131.png 300w, /wp-content/uploads/2021/01/exilesel7msksnbb-768x336.png 768w, /wp-content/uploads/2021/01/exilesel7msksnbb-1536x672.png 1536w, /wp-content/uploads/2021/01/exilesel7msksnbb.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exile MS 7 string guitar</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel7msksnbb-1024x448.png" alt="" class="wp-image-1834" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel7msksnbb-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel7msksnbb-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel7msksnbb-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel7msksnbb-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel7msksnbb-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel7msksnbb.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exile MS 7 string guitar</figcaption></figure>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/exilesel8msksnbb-1024x448.png" alt="Dean Guitars 2021 lineup" class="wp-image-1835" title="" srcset="/wp-content/uploads/2021/01/exilesel8msksnbb-1024x448.png 1024w, /wp-content/uploads/2021/01/exilesel8msksnbb-600x263.png 600w, /wp-content/uploads/2021/01/exilesel8msksnbb-300x131.png 300w, /wp-content/uploads/2021/01/exilesel8msksnbb-768x336.png 768w, /wp-content/uploads/2021/01/exilesel8msksnbb-1536x672.png 1536w, /wp-content/uploads/2021/01/exilesel8msksnbb.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The 8 string variant of the Exile</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel8msksnbb-1024x448.png" alt="Dean Guitars 2021 lineup" class="wp-image-1835" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel8msksnbb-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel8msksnbb-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel8msksnbb-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel8msksnbb-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel8msksnbb-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/exilesel8msksnbb.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The 8 string variant of the Exile</figcaption></figure>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/mlsel7msksnbb-1024x448.png" alt="" class="wp-image-1840" title="" srcset="/wp-content/uploads/2021/01/mlsel7msksnbb-1024x448.png 1024w, /wp-content/uploads/2021/01/mlsel7msksnbb-600x263.png 600w, /wp-content/uploads/2021/01/mlsel7msksnbb-300x131.png 300w, /wp-content/uploads/2021/01/mlsel7msksnbb-768x336.png 768w, /wp-content/uploads/2021/01/mlsel7msksnbb-1536x672.png 1536w, /wp-content/uploads/2021/01/mlsel7msksnbb.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>YES. It comes in an ML Version too.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/mlsel7msksnbb-1024x448.png" alt="" class="wp-image-1840" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/mlsel7msksnbb-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/mlsel7msksnbb-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/mlsel7msksnbb-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/mlsel7msksnbb-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/mlsel7msksnbb-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/mlsel7msksnbb.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>YES. It comes in an ML Version too.</figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/usamsfifty-1024x448.png" alt="" class="wp-image-1836" title="" srcset="/wp-content/uploads/2021/01/usamsfifty-1024x448.png 1024w, /wp-content/uploads/2021/01/usamsfifty-600x263.png 600w, /wp-content/uploads/2021/01/usamsfifty-300x131.png 300w, /wp-content/uploads/2021/01/usamsfifty-768x336.png 768w, /wp-content/uploads/2021/01/usamsfifty-1536x672.png 1536w, /wp-content/uploads/2021/01/usamsfifty.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/usamsfifty-1024x448.png" alt="" class="wp-image-1836" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/usamsfifty-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamsfifty-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamsfifty-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamsfifty-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamsfifty-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamsfifty.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/usamldimecbk-1024x448.png" alt="" class="wp-image-1837" title="" srcset="/wp-content/uploads/2021/01/usamldimecbk-1024x448.png 1024w, /wp-content/uploads/2021/01/usamldimecbk-600x263.png 600w, /wp-content/uploads/2021/01/usamldimecbk-300x131.png 300w, /wp-content/uploads/2021/01/usamldimecbk-768x336.png 768w, /wp-content/uploads/2021/01/usamldimecbk-1536x672.png 1536w, /wp-content/uploads/2021/01/usamldimecbk.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/usamldimecbk-1024x448.png" alt="" class="wp-image-1837" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/usamldimecbk-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamldimecbk-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamldimecbk-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamldimecbk-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamldimecbk-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/usamldimecbk.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/md24frmvbl-1024x448.png" alt="" class="wp-image-1838" title="" srcset="/wp-content/uploads/2021/01/md24frmvbl-1024x448.png 1024w, /wp-content/uploads/2021/01/md24frmvbl-600x263.png 600w, /wp-content/uploads/2021/01/md24frmvbl-300x131.png 300w, /wp-content/uploads/2021/01/md24frmvbl-768x336.png 768w, /wp-content/uploads/2021/01/md24frmvbl-1536x672.png 1536w, /wp-content/uploads/2021/01/md24frmvbl.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvbl-1024x448.png" alt="" class="wp-image-1838" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvbl-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvbl-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvbl-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvbl-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvbl-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvbl.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/md24frmvor-1024x448.png" alt="" class="wp-image-1839" title="" srcset="/wp-content/uploads/2021/01/md24frmvor-1024x448.png 1024w, /wp-content/uploads/2021/01/md24frmvor-600x263.png 600w, /wp-content/uploads/2021/01/md24frmvor-300x131.png 300w, /wp-content/uploads/2021/01/md24frmvor-768x336.png 768w, /wp-content/uploads/2021/01/md24frmvor-1536x672.png 1536w, /wp-content/uploads/2021/01/md24frmvor.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvor-1024x448.png" alt="" class="wp-image-1839" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvor-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvor-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvor-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvor-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvor-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/md24frmvor.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/vselflbks-1024x448.png" alt="" class="wp-image-1841" title="" srcset="/wp-content/uploads/2021/01/vselflbks-1024x448.png 1024w, /wp-content/uploads/2021/01/vselflbks-600x263.png 600w, /wp-content/uploads/2021/01/vselflbks-300x131.png 300w, /wp-content/uploads/2021/01/vselflbks-768x336.png 768w, /wp-content/uploads/2021/01/vselflbks-1536x672.png 1536w, /wp-content/uploads/2021/01/vselflbks.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/vselflbks-1024x448.png" alt="" class="wp-image-1841" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/vselflbks-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/vselflbks-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/vselflbks-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/vselflbks-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/vselflbks-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/vselflbks.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -232,7 +232,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2021/01/v79tch-1024x448.png" alt="" class="wp-image-1842" title="" srcset="/wp-content/uploads/2021/01/v79tch-1024x448.png 1024w, /wp-content/uploads/2021/01/v79tch-600x263.png 600w, /wp-content/uploads/2021/01/v79tch-300x131.png 300w, /wp-content/uploads/2021/01/v79tch-768x336.png 768w, /wp-content/uploads/2021/01/v79tch-1536x672.png 1536w, /wp-content/uploads/2021/01/v79tch.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://www.electrikjam.com/wp-content/uploads/2021/01/v79tch-1024x448.png" alt="" class="wp-image-1842" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/v79tch-1024x448.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/v79tch-600x263.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/v79tch-300x131.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/v79tch-768x336.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/v79tch-1536x672.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/01/v79tch.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/01/ErzxptlW8AM2myi-1024x1024.jpg" alt="" class="wp-image-1843" title="" srcset="/wp-content/uploads/2021/01/ErzxptlW8AM2myi-1024x1024.jpg 1024w, /wp-content/uploads/2021/01/ErzxptlW8AM2myi-300x300.jpg 300w, /wp-content/uploads/2021/01/ErzxptlW8AM2myi-100x100.jpg 100w, /wp-content/uploads/2021/01/ErzxptlW8AM2myi-600x600.jpg 600w, /wp-content/uploads/2021/01/ErzxptlW8AM2myi-150x150.jpg 150w, /wp-content/uploads/2021/01/ErzxptlW8AM2myi-768x768.jpg 768w, /wp-content/uploads/2021/01/ErzxptlW8AM2myi.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/01/ErzxptlW8AM2myi-1024x1024.jpg" alt="" class="wp-image-1843" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/ErzxptlW8AM2myi-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/ErzxptlW8AM2myi-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/ErzxptlW8AM2myi-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/01/ErzxptlW8AM2myi-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/ErzxptlW8AM2myi-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/01/ErzxptlW8AM2myi-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/ErzxptlW8AM2myi.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

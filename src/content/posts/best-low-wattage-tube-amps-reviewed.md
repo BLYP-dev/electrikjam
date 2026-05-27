@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps.png"
 featuredImageAlt: "best low wattage tube amps"
 seo: 
   title: "The 3 Best Low Wattage Tube Amps Reviewed"
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-1024x683.png" alt="best low wattage tube amps VHT" class="wp-image-9340" title="" srcset="/wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-600x400.png 600w, /wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-300x200.png 300w, /wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-768x512.png 768w, /wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-1024x683.png" alt="best low wattage tube amps VHT" class="wp-image-9340" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-Tube-Amps-VHT-6.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-1024x683.png" alt="best low wattage tube amps" class="wp-image-9345" title="" srcset="/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-600x400.png 600w, /wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-300x200.png 300w, /wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-768x512.png 768w, /wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-1024x683.png" alt="best low wattage tube amps" class="wp-image-9345" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-DSL.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-1024x683.png" alt="best low wattage tube amps" class="wp-image-9348" title="" srcset="/wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-600x400.png 600w, /wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-300x200.png 300w, /wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-768x512.png 768w, /wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-1024x683.png" alt="best low wattage tube amps" class="wp-image-9348" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-wattage-tube-amps-Blackstar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -332,7 +332,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-1024x683.png" alt="best low wattage tube amps" class="wp-image-9339" title="" srcset="/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-1024x683.png 1024w, /wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-600x400.png 600w, /wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-300x200.png 300w, /wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-768x512.png 768w, /wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-1024x683.png" alt="best low wattage tube amps" class="wp-image-9339" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Best-Low-Wattage-Tube-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

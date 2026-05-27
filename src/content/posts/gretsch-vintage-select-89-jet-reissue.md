@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue.png"
 featuredImageAlt: "Gretsch-Vintage-Select-89-Jet-Reissue"
 seo: 
   title: "Gretsch Vintage Select ’89 Jet Reissue Confirmed For 2021!!!"
@@ -40,7 +40,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-1024x565.png" alt="soundgarden black hole sun guitar" class="wp-image-1793" title="" srcset="/wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-1024x565.png 1024w, /wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-600x331.png 600w, /wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-300x165.png 300w, /wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-768x423.png 768w, /wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar.png 1070w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-1024x565.png" alt="soundgarden black hole sun guitar" class="wp-image-1793" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-1024x565.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-600x331.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-300x165.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar-768x423.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/soundgarden-black-hole-sun-guitar.png 1070w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-1024x576.png" alt="" class="wp-image-1792" title="" srcset="/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-1024x576.png 1024w, /wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-600x337.png 600w, /wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-300x169.png 300w, /wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-768x432.png 768w, /wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue.png 1074w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-1024x576.png" alt="" class="wp-image-1792" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-600x337.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/01/Gretsch-Vintage-Select-89-Jet-Reissue.png 1074w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

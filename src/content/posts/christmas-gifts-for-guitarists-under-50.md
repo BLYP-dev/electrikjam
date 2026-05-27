@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2022/12/Best-gifts-for-guitarists-under-50.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/12/Best-gifts-for-guitarists-under-50.png"
 featuredImageAlt: "gifts for guitarists under $50"
 seo: 
   title: "The Ultimate Guide To Christmas Gifts For Guitarists Under $50!"
@@ -86,7 +86,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-1024x683.png" alt="best gifts for guitarists under $50" class="wp-image-10094" title="" srcset="/wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-1024x683.png 1024w, /wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-600x400.png 600w, /wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-300x200.png 300w, /wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-768x512.png 768w, /wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-1024x683.png" alt="best gifts for guitarists under $50" class="wp-image-10094" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Super-snark-3-best-gifts-for-guitarsists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Untitled-design-7-1024x683.png" alt="gifts for guitarists under $50" class="wp-image-10095" title="" srcset="/wp-content/uploads/2022/12/Untitled-design-7-1024x683.png 1024w, /wp-content/uploads/2022/12/Untitled-design-7-600x400.png 600w, /wp-content/uploads/2022/12/Untitled-design-7-300x200.png 300w, /wp-content/uploads/2022/12/Untitled-design-7-768x512.png 768w, /wp-content/uploads/2022/12/Untitled-design-7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Untitled-design-7-1024x683.png" alt="gifts for guitarists under $50" class="wp-image-10095" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Untitled-design-7-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Untitled-design-7-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Untitled-design-7-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Untitled-design-7-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Untitled-design-7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-1024x683.png" alt="gifts for guitarists under $50" class="wp-image-10096" title="" srcset="/wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-1024x683.png 1024w, /wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-600x400.png 600w, /wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-300x200.png 300w, /wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-768x512.png 768w, /wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-1024x683.png" alt="gifts for guitarists under $50" class="wp-image-10096" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Music-nomad-workstation-gifts-for-guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-1024x683.png" alt="gifts for guitarists under $50" class="wp-image-10097" title="" srcset="/wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-1024x683.png 1024w, /wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-600x400.png 600w, /wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-300x200.png 300w, /wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-768x512.png 768w, /wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-1024x683.png" alt="gifts for guitarists under $50" class="wp-image-10097" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Fender-guitar-stand-best-gifts-for-guitarists.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -206,7 +206,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-1024x683.png" alt="best gifts for guitarists under $50" class="wp-image-10098" title="" srcset="/wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-1024x683.png 1024w, /wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-600x400.png 600w, /wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-300x200.png 300w, /wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-768x512.png 768w, /wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-1024x683.png" alt="best gifts for guitarists under $50" class="wp-image-10098" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/12/Dunlop-guitar-best-gifts-for-guitarsts.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

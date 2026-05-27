@@ -22,7 +22,7 @@ tagSlugs:
   - "ableton-live"
 tagPaths: 
   - "/tag/ableton-live/"
-featuredImage: "/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton.png"
 featuredImageAlt: "Keyboard as a MIDI Controller In Ableton"
 seo: 
   title: "How To Use Your Keyboard as a MIDI Controller In Ableton"
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-1024x683.png" alt="Use Your Keyboard as a MIDI Controller In Ableton" class="wp-image-12696" title="" srcset="/wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-1024x683.png 1024w, /wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-600x400.png 600w, /wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-300x200.png 300w, /wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-768x512.png 768w, /wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-1024x683.png" alt="Use Your Keyboard as a MIDI Controller In Ableton" class="wp-image-12696" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Use-Your-Keyboard-as-a-MIDI-Controller-In-Ableton.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-1024x683.png" alt="programming drum tracks in ableton with computer keyboard" class="wp-image-12700" title="" srcset="/wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-1024x683.png 1024w, /wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-600x400.png 600w, /wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-300x200.png 300w, /wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-768x512.png 768w, /wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-1024x683.png" alt="programming drum tracks in ableton with computer keyboard" class="wp-image-12700" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/programming-drum-tracks-in-ableton-with-computer-keyboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -299,7 +299,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-1024x683.png" alt="Keyboard as a MIDI Controller In Ableton" class="wp-image-12697" title="" srcset="/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-1024x683.png 1024w, /wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-600x400.png 600w, /wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-300x200.png 300w, /wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-768x512.png 768w, /wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-1024x683.png" alt="Keyboard as a MIDI Controller In Ableton" class="wp-image-12697" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Keyboard-as-a-MIDI-Controller-In-Ableton.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -369,7 +369,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png" alt="Akai Professional MPK mini mk3" class="wp-image-12699" title="" srcset="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png 1024w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-600x400.png 600w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-300x200.png 300w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-768x512.png 768w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png" alt="Akai Professional MPK mini mk3" class="wp-image-12699" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/01/Too-Late-to-learn-guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/Too-Late-to-learn-guitar.png"
 featuredImageAlt: "Is it too late to learn guitar?"
 seo: 
   title: "Is It Too late To learn Guitar? A PRO Perspective"
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-1024x683.png" alt="is it too late to learn guitar?" class="wp-image-10525" title="" srcset="/wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-1024x683.png 1024w, /wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-600x400.png 600w, /wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-300x200.png 300w, /wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-768x512.png 768w, /wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-1024x683.png" alt="is it too late to learn guitar?" class="wp-image-10525" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Is-it-too-late-to-learn-how-to-play-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/Joyo-Mjolnir.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/Joyo-Mjolnir.jpg"
 featuredImageAlt: "Joyo-Mjolnir"
 seo: 
   title: "Best Lunchbox Amps: 7 Mini-Amps 100% PRIMED For Metal!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="780" height="440" src="/wp-content/uploads/2020/11/mini-amps.jpg" alt="Lunchbox Amps" class="wp-image-1456" title="" srcset="/wp-content/uploads/2020/11/mini-amps.jpg 780w, /wp-content/uploads/2020/11/mini-amps-600x338.jpg 600w, /wp-content/uploads/2020/11/mini-amps-300x169.jpg 300w, /wp-content/uploads/2020/11/mini-amps-768x433.jpg 768w" sizes="(max-width: 780px) 100vw, 780px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="780" height="440" src="https://www.electrikjam.com/wp-content/uploads/2020/11/mini-amps.jpg" alt="Lunchbox Amps" class="wp-image-1456" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/mini-amps.jpg 780w, https://www.electrikjam.com/wp-content/uploads/2020/11/mini-amps-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/mini-amps-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/mini-amps-768x433.jpg 768w" sizes="(max-width: 780px) 100vw, 780px" /></figure>
 
 
 
@@ -48,7 +48,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="753" height="1024" src="/wp-content/uploads/2020/11/Vox-Pathfinder-753x1024.jpg" alt="" class="wp-image-1457" title="" srcset="/wp-content/uploads/2020/11/Vox-Pathfinder-753x1024.jpg 753w, /wp-content/uploads/2020/11/Vox-Pathfinder-600x816.jpg 600w, /wp-content/uploads/2020/11/Vox-Pathfinder-221x300.jpg 221w, /wp-content/uploads/2020/11/Vox-Pathfinder-768x1045.jpg 768w, /wp-content/uploads/2020/11/Vox-Pathfinder-1129x1536.jpg 1129w, /wp-content/uploads/2020/11/Vox-Pathfinder.jpg 1176w" sizes="(max-width: 753px) 100vw, 753px" /><figcaption>Vox Pathfinder with Mini Speaker Cab</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="753" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Vox-Pathfinder-753x1024.jpg" alt="" class="wp-image-1457" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Vox-Pathfinder-753x1024.jpg 753w, https://www.electrikjam.com/wp-content/uploads/2020/11/Vox-Pathfinder-600x816.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Vox-Pathfinder-221x300.jpg 221w, https://www.electrikjam.com/wp-content/uploads/2020/11/Vox-Pathfinder-768x1045.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Vox-Pathfinder-1129x1536.jpg 1129w, https://www.electrikjam.com/wp-content/uploads/2020/11/Vox-Pathfinder.jpg 1176w" sizes="(max-width: 753px) 100vw, 753px" /><figcaption>Vox Pathfinder with Mini Speaker Cab</figcaption></figure>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2020/11/wall-of-amps.jpg" alt="" class="wp-image-1458" title="" srcset="/wp-content/uploads/2020/11/wall-of-amps.jpg 1024w, /wp-content/uploads/2020/11/wall-of-amps-600x300.jpg 600w, /wp-content/uploads/2020/11/wall-of-amps-300x150.jpg 300w, /wp-content/uploads/2020/11/wall-of-amps-768x384.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Me, Circa 2008. Making everyone MAD.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://www.electrikjam.com/wp-content/uploads/2020/11/wall-of-amps.jpg" alt="" class="wp-image-1458" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/wall-of-amps.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/wall-of-amps-600x300.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/wall-of-amps-300x150.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/wall-of-amps-768x384.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Me, Circa 2008. Making everyone MAD.</figcaption></figure>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="845" src="/wp-content/uploads/2020/11/Orange-Micro-Dark-1024x845.jpg" alt="" class="wp-image-1459" title="" srcset="/wp-content/uploads/2020/11/Orange-Micro-Dark-1024x845.jpg 1024w, /wp-content/uploads/2020/11/Orange-Micro-Dark-600x495.jpg 600w, /wp-content/uploads/2020/11/Orange-Micro-Dark-300x248.jpg 300w, /wp-content/uploads/2020/11/Orange-Micro-Dark-768x634.jpg 768w, /wp-content/uploads/2020/11/Orange-Micro-Dark.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="845" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Orange-Micro-Dark-1024x845.jpg" alt="" class="wp-image-1459" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Orange-Micro-Dark-1024x845.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Orange-Micro-Dark-600x495.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Orange-Micro-Dark-300x248.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Orange-Micro-Dark-768x634.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Orange-Micro-Dark.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <p>The Orange Micro Dark is a tiny little guy, that packs a filthy punch. Big things definitely come in small packages, because this thing is LOUD. Much louder than you would think at first glance.</p>
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/Marshall-DSL-MINI-1024x1024.jpg" alt="" class="wp-image-1461" title="" srcset="/wp-content/uploads/2020/11/Marshall-DSL-MINI-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-300x300.jpg 300w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-100x100.jpg 100w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-600x600.jpg 600w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-150x150.jpg 150w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-768x768.jpg 768w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-1536x1536.jpg 1536w, /wp-content/uploads/2020/11/Marshall-DSL-MINI.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI-1024x1024.jpg" alt="" class="wp-image-1461" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-MINI.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <p>We recently talked about the Marshall DSL series in <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" class="rank-math-link" data-lasso-id="476">our guide to Doom Metal amps.</a> The reason it made that list, was because it was so versatile. The DSL series can give you classic Marshall distortion tones, or it can be a blank slate for your pedal combos.</p>
@@ -206,7 +206,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="512" height="341" src="/wp-content/uploads/2020/11/Huges-and-Kettner-Spirit-of-metal.jpg" alt="" class="wp-image-1463" title="" srcset="/wp-content/uploads/2020/11/Huges-and-Kettner-Spirit-of-metal.jpg 512w, /wp-content/uploads/2020/11/Huges-and-Kettner-Spirit-of-metal-300x200.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="512" height="341" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Huges-and-Kettner-Spirit-of-metal.jpg" alt="" class="wp-image-1463" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Huges-and-Kettner-Spirit-of-metal.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2020/11/Huges-and-Kettner-Spirit-of-metal-300x200.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -238,7 +238,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/11/Joyo-Mjolnir-1024x683.jpg" alt="" class="wp-image-1464" title="" srcset="/wp-content/uploads/2020/11/Joyo-Mjolnir-1024x683.jpg 1024w, /wp-content/uploads/2020/11/Joyo-Mjolnir-600x400.jpg 600w, /wp-content/uploads/2020/11/Joyo-Mjolnir-300x200.jpg 300w, /wp-content/uploads/2020/11/Joyo-Mjolnir-768x512.jpg 768w, /wp-content/uploads/2020/11/Joyo-Mjolnir-1536x1024.jpg 1536w, /wp-content/uploads/2020/11/Joyo-Mjolnir.jpg 1732w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Joyo-Mjolnir-1024x683.jpg" alt="" class="wp-image-1464" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Joyo-Mjolnir-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Joyo-Mjolnir-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Joyo-Mjolnir-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Joyo-Mjolnir-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Joyo-Mjolnir-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Joyo-Mjolnir.jpg 1732w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <p>Joyo is on this list more than once, and I think that is fair since the company is absolutely slaying the competition when it comes to a lunchbox amp lineup. It seems to be their specialty!</p>
@@ -285,7 +285,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="800" height="531" src="/wp-content/uploads/2020/11/mt15_photo2.jpg" alt="" class="wp-image-1466" title="" srcset="/wp-content/uploads/2020/11/mt15_photo2.jpg 800w, /wp-content/uploads/2020/11/mt15_photo2-600x398.jpg 600w, /wp-content/uploads/2020/11/mt15_photo2-300x199.jpg 300w, /wp-content/uploads/2020/11/mt15_photo2-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="531" src="https://www.electrikjam.com/wp-content/uploads/2020/11/mt15_photo2.jpg" alt="" class="wp-image-1466" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/mt15_photo2.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2020/11/mt15_photo2-600x398.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/mt15_photo2-300x199.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/mt15_photo2-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 <p>The PRS MT 15 is the signature amp of Mark Tremonti, a man of great skill that I think gets undo criticism for being in the band <strong>Creed</strong>. But people forget his own prog-metal outfit; <strong>Tremonti</strong>. Mark has been a PRS artist for 20 years now, so it was only fitting that he gets an amp to go with his signature guitars.</p>
@@ -332,7 +332,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/11/joyo-zombie-2-1024x683.jpg" alt="" class="wp-image-1468" title="" srcset="/wp-content/uploads/2020/11/joyo-zombie-2-1024x683.jpg 1024w, /wp-content/uploads/2020/11/joyo-zombie-2-600x400.jpg 600w, /wp-content/uploads/2020/11/joyo-zombie-2-300x200.jpg 300w, /wp-content/uploads/2020/11/joyo-zombie-2-768x512.jpg 768w, /wp-content/uploads/2020/11/joyo-zombie-2-1536x1024.jpg 1536w, /wp-content/uploads/2020/11/joyo-zombie-2.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/11/joyo-zombie-2-1024x683.jpg" alt="" class="wp-image-1468" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/joyo-zombie-2-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/joyo-zombie-2-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/joyo-zombie-2-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/joyo-zombie-2-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/joyo-zombie-2-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/joyo-zombie-2.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <p>Joyo makes the list again, with another high gain beast! This is the second version of the original Joyo Zombie Lunchbox Amp, with upgraded features. Joyo has managed to pack a ton of great things into this amp, while still remaining in &#8220;budget&#8221; territory.</p>
@@ -367,7 +367,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="573" src="/wp-content/uploads/2020/11/Peavey-Invective-1024x573.jpg" alt="" class="wp-image-1470" title="" srcset="/wp-content/uploads/2020/11/Peavey-Invective-1024x573.jpg 1024w, /wp-content/uploads/2020/11/Peavey-Invective-600x336.jpg 600w, /wp-content/uploads/2020/11/Peavey-Invective-300x168.jpg 300w, /wp-content/uploads/2020/11/Peavey-Invective-768x430.jpg 768w, /wp-content/uploads/2020/11/Peavey-Invective-1536x859.jpg 1536w, /wp-content/uploads/2020/11/Peavey-Invective.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="573" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Peavey-Invective-1024x573.jpg" alt="" class="wp-image-1470" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Peavey-Invective-1024x573.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Peavey-Invective-600x336.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Peavey-Invective-300x168.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Peavey-Invective-768x430.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Peavey-Invective-1536x859.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Peavey-Invective.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <p>Peavey makes an MH version of almost all of their famous amps now. The MH stands for &#8220;mini head&#8221; and these are all tube lunchbox amps that go above and beyond the call of duty. Do these smaller versions of flagship models hold up in comparison?</p>

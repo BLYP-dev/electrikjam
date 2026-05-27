@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/fender/"
   - "/tag/squier/"
-featuredImage: "/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp"
 featuredImageAlt: "Mike-Rutherford-Uses-A-200-Squier-Strat"
 seo: 
   title: "Mike Rutherford Uses A $200 Squier Strat – Here’s Why"
@@ -71,7 +71,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="575" src="/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp" alt="" class="wp-image-5139" title="" srcset="/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp 1024w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-600x337.webp 600w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-300x168.webp 300w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-768x431.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/recommends/squier-bullet-stratocaster/" data-lasso-id="11246">This is The Exact Model He Uses – It Costs $149!</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="575" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp" alt="" class="wp-image-5139" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-600x337.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-300x168.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-768x431.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/recommends/squier-bullet-stratocaster/" data-lasso-id="11246">This is The Exact Model He Uses – It Costs $149!</a></strong></figcaption></figure>
 			
 		
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, /wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, /wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, /wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, /wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, /wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg colors" class="wp-image-4162 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>Learn More About Epiphone Guitars: Best New Models, Buying Guides &amp; Tone Tips</strong></h3>
 
 

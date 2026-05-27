@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/07/parts-of-an-electric-guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/parts-of-an-electric-guitar.png"
 featuredImageAlt: "parts of an electric guitar"
 seo: 
   title: "The Parts of an Electric Guitar Explained: Beginner's Guide"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-1024x683.png" alt="Fender Player Stratocaster Pickups" class="wp-image-10895" title="" srcset="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-1024x683.png 1024w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-600x400.png 600w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-300x200.png 300w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-768x512.png 768w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-1024x683.png" alt="Fender Player Stratocaster Pickups" class="wp-image-10895" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -133,7 +133,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/harley-benton-guitars-guide-1024x683.png" alt="harley benton guitars guide" class="wp-image-9903" title="" srcset="/wp-content/uploads/2022/11/harley-benton-guitars-guide-1024x683.png 1024w, /wp-content/uploads/2022/11/harley-benton-guitars-guide-600x400.png 600w, /wp-content/uploads/2022/11/harley-benton-guitars-guide-300x200.png 300w, /wp-content/uploads/2022/11/harley-benton-guitars-guide-768x512.png 768w, /wp-content/uploads/2022/11/harley-benton-guitars-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-1024x683.png" alt="harley benton guitars guide" class="wp-image-9903" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/harley-benton-guitars-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Glarry-Mods-Nut-1024x683.png" alt="glarry mods" class="wp-image-11336" title="" srcset="/wp-content/uploads/2023/03/Glarry-Mods-Nut-1024x683.png 1024w, /wp-content/uploads/2023/03/Glarry-Mods-Nut-600x400.png 600w, /wp-content/uploads/2023/03/Glarry-Mods-Nut-300x200.png 300w, /wp-content/uploads/2023/03/Glarry-Mods-Nut-768x512.png 768w, /wp-content/uploads/2023/03/Glarry-Mods-Nut.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-1024x683.png" alt="glarry mods" class="wp-image-11336" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Glarry-Mods-Nut.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -301,7 +301,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Holy-Grail-Guitars-1024x683.png" alt="what is the holy grail of electric guitars?" class="wp-image-10709" title="" srcset="/wp-content/uploads/2023/02/Holy-Grail-Guitars-1024x683.png 1024w, /wp-content/uploads/2023/02/Holy-Grail-Guitars-600x400.png 600w, /wp-content/uploads/2023/02/Holy-Grail-Guitars-300x200.png 300w, /wp-content/uploads/2023/02/Holy-Grail-Guitars-768x512.png 768w, /wp-content/uploads/2023/02/Holy-Grail-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-1024x683.png" alt="what is the holy grail of electric guitars?" class="wp-image-10709" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Holy-Grail-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -397,7 +397,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-1024x683.png" alt="Effects of weather on your guitar" class="wp-image-9657" title="" srcset="/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-1024x683.png 1024w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-600x400.png 600w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-300x200.png 300w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-768x512.png 768w, /wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-1024x683.png" alt="Effects of weather on your guitar" class="wp-image-9657" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Effects-of-weather-on-your-guitar-fretboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -483,7 +483,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, /wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -543,7 +543,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -609,7 +609,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/String-gauges-bridge-types-1024x683.png" alt="Guitar string gauges" class="wp-image-11137" title="" srcset="/wp-content/uploads/2023/03/String-gauges-bridge-types-1024x683.png 1024w, /wp-content/uploads/2023/03/String-gauges-bridge-types-600x400.png 600w, /wp-content/uploads/2023/03/String-gauges-bridge-types-300x200.png 300w, /wp-content/uploads/2023/03/String-gauges-bridge-types-768x512.png 768w, /wp-content/uploads/2023/03/String-gauges-bridge-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-1024x683.png" alt="Guitar string gauges" class="wp-image-11137" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -663,7 +663,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Untitled-design-18-1024x683.png" alt="Tone Knob" class="wp-image-7880" title="" srcset="/wp-content/uploads/2022/04/Untitled-design-18-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-18-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-18-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-18-768x512.png 768w, /wp-content/uploads/2022/04/Untitled-design-18.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-18-1024x683.png" alt="Tone Knob" class="wp-image-7880" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-18-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-18-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-18-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-18-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Untitled-design-18.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -743,7 +743,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-1024x683.png" alt="fender pickup selector (tele vs jazzmaster)" class="wp-image-11985" title="" srcset="/wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-1024x683.png 1024w, /wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-600x400.png 600w, /wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-300x200.png 300w, /wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-768x512.png 768w, /wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-1024x683.png" alt="fender pickup selector (tele vs jazzmaster)" class="wp-image-11985" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/fender-pickup-selector-tele-vs-jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -805,7 +805,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg" alt="gibson-custom-shop" class="wp-image-2462" title="" srcset="/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg 1024w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-600x338.jpg 600w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-300x169.jpg 300w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-768x432.jpg 768w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-1080x608.jpg 1080w, /wp-content/uploads/2021/03/inside-gibson-custom-shop.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg" alt="gibson-custom-shop" class="wp-image-2462" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -927,7 +927,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-1024x683.png" alt="Squier Baritone Telecaster neck" class="wp-image-9382" title="" srcset="/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-1024x683.png 1024w, /wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-600x400.png 600w, /wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-300x200.png 300w, /wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-768x512.png 768w, /wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-1024x683.png" alt="Squier Baritone Telecaster neck" class="wp-image-9382" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Squier-Baritone-Telecaster-neck-shot.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1011,7 +1011,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/ESP-LTD-BB-600-1024x683.png" alt="ESP LTD BB-600" class="wp-image-11709" title="" srcset="/wp-content/uploads/2023/04/ESP-LTD-BB-600-1024x683.png 1024w, /wp-content/uploads/2023/04/ESP-LTD-BB-600-600x400.png 600w, /wp-content/uploads/2023/04/ESP-LTD-BB-600-300x200.png 300w, /wp-content/uploads/2023/04/ESP-LTD-BB-600-768x512.png 768w, /wp-content/uploads/2023/04/ESP-LTD-BB-600.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-1024x683.png" alt="ESP LTD BB-600" class="wp-image-11709" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/ESP-LTD-BB-600.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1131,7 +1131,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png" alt="Danelectro Baritone" class="wp-image-11714" title="" srcset="/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png 1024w, /wp-content/uploads/2023/04/Danelectro-Baritone-600x400.png 600w, /wp-content/uploads/2023/04/Danelectro-Baritone-300x200.png 300w, /wp-content/uploads/2023/04/Danelectro-Baritone-768x512.png 768w, /wp-content/uploads/2023/04/Danelectro-Baritone.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png" alt="Danelectro Baritone" class="wp-image-11714" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1263,7 +1263,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-1024x683.png" alt="Ibanez TOD10" class="wp-image-10287" title="" srcset="/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-1024x683.png 1024w, /wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-600x400.png 600w, /wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-300x200.png 300w, /wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-768x512.png 768w, /wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-1024x683.png" alt="Ibanez TOD10" class="wp-image-10287" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

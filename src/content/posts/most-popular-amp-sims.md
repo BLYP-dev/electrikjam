@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/10/most-popular-amp-sims.svg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/10/most-popular-amp-sims.svg"
 featuredImageAlt: "most popular amp sims"
 seo: 
   title: "The 8 Most Popular Amp Sims Right Now [Updated For 2024]"
@@ -98,7 +98,7 @@ seo:
   
   <div class="amp-card-full">
     <h2>IK Multimedia AmpliTube 5 Max 🎸</h2>
-    <img decoding="async" src="/wp-content/uploads/2024/10/IK-Multimedia-AmpliTube-5-Max.jpg" alt="AmpliTube 5 Max Image" class="amp-image" title="">
+    <img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2024/10/IK-Multimedia-AmpliTube-5-Max.jpg" alt="AmpliTube 5 Max Image" class="amp-image" title="">
     <ul>
       <li><span>Overview:</span> Regarded as the best overall amp simulation, featuring over 100 integrated amp models and a wide range of effects.</li>
       <li><span>Price:</span> Starting at $149.99 for standard versions, premium bundles available for $299.99 and up 💵</li>
@@ -119,7 +119,7 @@ seo:
   
   <div class="amp-card-full">
     <h2>Neural DSP Plugins 🎛️</h2>
-    <img decoding="async" src="/wp-content/uploads/2024/10/neural-dsp.jpg" alt="Neural DSP Plugins Image" class="amp-image" title="">
+    <img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2024/10/neural-dsp.jpg" alt="Neural DSP Plugins Image" class="amp-image" title="">
     <ul>
       <li><span>Notable Models:</span> Includes the Gojira, Nolly, and Soldano SLO-100</li>
       <li><span>Overview:</span> Known for high-quality sound and versatility, particularly in heavy genres 🔊</li>
@@ -140,7 +140,7 @@ seo:
   
   <div class="amp-card-full">
     <h2>Line 6 Helix Native 🎶</h2>
-    <img decoding="async" src="/wp-content/uploads/2024/10/Line-6-Helix-Native-1.jpg" alt="Line 6 Helix Native Image" class="amp-image" title="">
+    <img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2024/10/Line-6-Helix-Native-1.jpg" alt="Line 6 Helix Native Image" class="amp-image" title="">
     <ul>
       <li><span>Overview:</span> Offers extensive options with over 100 effects and cabinets. Powerful but may be complex for beginners.</li>
       <li><span>Price:</span> Approximately $399 💵</li>
@@ -161,7 +161,7 @@ seo:
   
   <div class="amp-card-full">
     <h2>Overloud TH-U 🎸</h2>
-    <img decoding="async" src="/wp-content/uploads/2024/10/Overloud-TH-U.jpg" alt="Overloud TH-U Image" class="amp-image" title="">
+    <img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2024/10/Overloud-TH-U.jpg" alt="Overloud TH-U Image" class="amp-image" title="">
     <ul>
       <li><span>Overview:</span> Features the largest collection of amps (203 models) and over 1000 presets, making it suitable for users seeking variety.</li>
       <li><span>Price:</span> Around $300 💵</li>
@@ -182,7 +182,7 @@ seo:
   
   <div class="amp-card-full">
     <h2>Waves PRS SuperModels 🎛️</h2>
-    <img decoding="async" src="/wp-content/uploads/2024/10/Waves-PRS-SuperModels.jpg" alt="Waves PRS SuperModels Image" class="amp-image" title="">
+    <img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2024/10/Waves-PRS-SuperModels.jpg" alt="Waves PRS SuperModels Image" class="amp-image" title="">
     <ul>
       <li><span>Overview:</span> Contains three high-quality amp models that can produce a wide range of tones despite the limited selection.</li>
       <li><span>Price:</span> Approximately $129 💵</li>
@@ -203,7 +203,7 @@ seo:
   
   <div class="amp-card-full">
     <h2>Native Instruments Guitar Rig 6 🎸</h2>
-    <img decoding="async" src="/wp-content/uploads/2024/10/Native-Instruments-Guitar-Rig-6.jpg" alt="Guitar Rig 6 Image" class="amp-image" title="">
+    <img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2024/10/Native-Instruments-Guitar-Rig-6.jpg" alt="Guitar Rig 6 Image" class="amp-image" title="">
     <ul>
       <li><span>Overview:</span> A comprehensive solution for amp simulation with a competitive price point, praised for its ease of use.</li>
       <li><span>Price:</span> Typically around $199 💵</li>
@@ -224,7 +224,7 @@ seo:
   
   <div class="amp-card-full">
     <h2>Positive Grid Bias FX 2 🎛️</h2>
-    <img decoding="async" src="/wp-content/uploads/2024/10/Positive-Grid-Bias-FX-2.jpg" alt="Positive Grid Bias FX 2 Image" class="amp-image" title="">
+    <img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2024/10/Positive-Grid-Bias-FX-2.jpg" alt="Positive Grid Bias FX 2 Image" class="amp-image" title="">
     <ul>
       <li><span>Overview:</span> Known for its extensive library of amps (over 100) and effects (122), allowing for complex signal chains.</li>
       <li><span>Price:</span> Starting at $199 for the standard version, varies based on features 💵</li>
@@ -245,7 +245,7 @@ seo:
   
   <div class="amp-card-full">
     <h2>STL Tones Tonality Series 🎸</h2>
-    <img decoding="async" src="/wp-content/uploads/2024/10/STL-Tones-Tonality-Series.jpg" alt="STL Tones Tonality Series Image" class="amp-image" title="">
+    <img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2024/10/STL-Tones-Tonality-Series.jpg" alt="STL Tones Tonality Series Image" class="amp-image" title="">
     <ul>
       <li><span>Overview:</span> Popular among users for its reliability and quality tones, particularly in high-gain settings.</li>
       <li><span>Price:</span> Generally around $99, depending on the specific model 💵</li>
@@ -275,7 +275,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/10/stl-amphub-borland-1024x683.jpg" alt="stl amphub borland" class="wp-image-16552" title="" srcset="/wp-content/uploads/2024/10/stl-amphub-borland-1024x683.jpg 1024w, /wp-content/uploads/2024/10/stl-amphub-borland-600x400.jpg 600w, /wp-content/uploads/2024/10/stl-amphub-borland-300x200.jpg 300w, /wp-content/uploads/2024/10/stl-amphub-borland-768x512.jpg 768w, /wp-content/uploads/2024/10/stl-amphub-borland.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/10/stl-amphub-borland-1024x683.jpg" alt="stl amphub borland" class="wp-image-16552" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/10/stl-amphub-borland-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/10/stl-amphub-borland-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/10/stl-amphub-borland-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/10/stl-amphub-borland-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/10/stl-amphub-borland.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

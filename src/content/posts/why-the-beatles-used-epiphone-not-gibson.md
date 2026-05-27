@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars.png"
 featuredImageAlt: "Why The Beatles Used Epiphone Guitars"
 seo: 
   title: "Why The Beatles Used Epiphone Guitars – Not Gibson"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-1024x683.png" alt="Why The Beatles Used Epiphone Guitars" class="wp-image-6965" title="" srcset="/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-1024x683.png 1024w, /wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-600x400.png 600w, /wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-300x200.png 300w, /wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-768x512.png 768w, /wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-1080x720.png 1080w, /wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-1024x683.png" alt="Why The Beatles Used Epiphone Guitars" class="wp-image-6965" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Why-The-Beatles-Used-Epiphone-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

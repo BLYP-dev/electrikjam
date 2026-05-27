@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/06/STILL-BADASS.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/06/STILL-BADASS.jpg"
 featuredImageAlt: "STILL BADASS"
 seo: 
   title: "Starting A Band And Getting Gigs Part 1: A PRO Guide"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/06/live-music-1024x683.jpg" alt="starting a band" class="wp-image-3376" title="" srcset="/wp-content/uploads/2021/06/live-music-1024x683.jpg 1024w, /wp-content/uploads/2021/06/live-music-600x400.jpg 600w, /wp-content/uploads/2021/06/live-music-300x200.jpg 300w, /wp-content/uploads/2021/06/live-music-768x512.jpg 768w, /wp-content/uploads/2021/06/live-music-1080x720.jpg 1080w, /wp-content/uploads/2021/06/live-music.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/06/live-music-1024x683.jpg" alt="starting a band" class="wp-image-3376" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/live-music-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/live-music-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/live-music-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/live-music-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/live-music-1080x720.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/live-music.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-1024x683.jpg" alt="" class="wp-image-3377" title="" srcset="/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-scaled-600x400.jpg 600w, /wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-300x200.jpg 300w, /wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-768x512.jpg 768w, /wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-2048x1365.jpg 2048w, /wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-1024x683.jpg" alt="" class="wp-image-3377" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/06/cody-board-C7DWZcxFCNY-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-1024x683.jpg" alt="" class="wp-image-3378" title="" srcset="/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-scaled-600x400.jpg 600w, /wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-300x200.jpg 300w, /wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-768x512.jpg 768w, /wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-2048x1365.jpg 2048w, /wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-1024x683.jpg" alt="" class="wp-image-3378" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-2048x1365.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/06/dan-burton-c6apkDMzTuo-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -360,7 +360,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-1024x768.jpg" alt="" class="wp-image-3379" title="" srcset="/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-1024x768.jpg 1024w, /wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-scaled-600x450.jpg 600w, /wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-300x225.jpg 300w, /wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-768x576.jpg 768w, /wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-1536x1152.jpg 1536w, /wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-2048x1536.jpg 2048w, /wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-510x382.jpg 510w, /wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-1080x810.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-1024x768.jpg" alt="" class="wp-image-3379" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-scaled-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-2048x1536.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/06/skyler-gerald-yDfpGA8mdYA-unsplash-1080x810.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

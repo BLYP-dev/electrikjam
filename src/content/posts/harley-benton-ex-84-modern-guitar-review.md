@@ -25,7 +25,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2022/10/Harley-Benton-EX84-Review.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX84-Review.png"
 featuredImageAlt: "Harley Benton Ex-84 Modern EMG"
 seo: 
   title: "Harley Benton EX-84 Modern Guitar Review: EXPLORING This Budget Beast!"
@@ -98,7 +98,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-1024x683.png" alt="Harley Benton EX-84 Modern EMG " class="wp-image-9511" title="" srcset="/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-1024x683.png 1024w, /wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-600x400.png 600w, /wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-300x200.png 300w, /wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-768x512.png 768w, /wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-1024x683.png" alt="Harley Benton EX-84 Modern EMG " class="wp-image-9511" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-EMG-both-colors.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Harley-Benton-EX84-1024x683.png" alt="Harley Benton EX-84 Modern" class="wp-image-9512" title="" srcset="/wp-content/uploads/2022/10/Harley-Benton-EX84-1024x683.png 1024w, /wp-content/uploads/2022/10/Harley-Benton-EX84-600x400.png 600w, /wp-content/uploads/2022/10/Harley-Benton-EX84-300x200.png 300w, /wp-content/uploads/2022/10/Harley-Benton-EX84-768x512.png 768w, /wp-content/uploads/2022/10/Harley-Benton-EX84.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX84-1024x683.png" alt="Harley Benton EX-84 Modern" class="wp-image-9512" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX84-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX84-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX84-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX84-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX84.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -170,7 +170,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-1024x683.png" alt="Harley Benton EX-84 Modern white" class="wp-image-9513" title="" srcset="/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-1024x683.png 1024w, /wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-600x400.png 600w, /wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-300x200.png 300w, /wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-768x512.png 768w, /wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-1024x683.png" alt="Harley Benton EX-84 Modern white" class="wp-image-9513" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Harley-Benton-EX-84-Modern-white.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -186,7 +186,7 @@ seo:
 
 
 
-<p>It seems like Harley Benton went for the classic Explorer shape, and fused it with the<a href="/wp-content/uploads/2022/02/esp-snakebyte-lh.jpg" data-type="attachment" data-id="6804" target="_blank" rel="noopener" data-lasso-id="186844"> </a><strong><a href="/wp-content/uploads/2022/02/esp-snakebyte-lh.jpg" data-type="attachment" data-id="6804" target="_blank" rel="noopener" data-lasso-id="186845">ESP LTD</a> <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-type="post" data-id="7288" target="_blank" rel="noopener" data-lasso-id="186846">Snakebyte</a></strong> model when it comes to body shape. I think it looks awesome, although<em> I am not a fan of the headstock shape</em>. After I drafted this review, I checked out some other reviews and the sentiment seems to be shared about the headstock.</p>
+<p>It seems like Harley Benton went for the classic Explorer shape, and fused it with the<a href="https://www.electrikjam.com/wp-content/uploads/2022/02/esp-snakebyte-lh.jpg" data-type="attachment" data-id="6804" target="_blank" rel="noopener" data-lasso-id="186844"> </a><strong><a href="https://www.electrikjam.com/wp-content/uploads/2022/02/esp-snakebyte-lh.jpg" data-type="attachment" data-id="6804" target="_blank" rel="noopener" data-lasso-id="186845">ESP LTD</a> <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-type="post" data-id="7288" target="_blank" rel="noopener" data-lasso-id="186846">Snakebyte</a></strong> model when it comes to body shape. I think it looks awesome, although<em> I am not a fan of the headstock shape</em>. After I drafted this review, I checked out some other reviews and the sentiment seems to be shared about the headstock.</p>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Bridge-and-tuners-1024x683.png" alt="harley Benton EX-84 modern" class="wp-image-9514" title="" srcset="/wp-content/uploads/2022/10/Bridge-and-tuners-1024x683.png 1024w, /wp-content/uploads/2022/10/Bridge-and-tuners-600x400.png 600w, /wp-content/uploads/2022/10/Bridge-and-tuners-300x200.png 300w, /wp-content/uploads/2022/10/Bridge-and-tuners-768x512.png 768w, /wp-content/uploads/2022/10/Bridge-and-tuners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/Bridge-and-tuners-1024x683.png" alt="harley Benton EX-84 modern" class="wp-image-9514" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/Bridge-and-tuners-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/Bridge-and-tuners-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/Bridge-and-tuners-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/Bridge-and-tuners-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/Bridge-and-tuners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

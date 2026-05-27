@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/03/Untitled-design-10.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-10.png"
 featuredImageAlt: "Celestion Speakers"
 seo: 
   title: "The Best Celestion Speakers: The #1 Way To Enhance Your Tone!"
@@ -80,7 +80,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-11-1024x683.png" alt="Celestion speakers rocket" class="wp-image-7117" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-11-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-11-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-11-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-11-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-11-1080x720.png 1080w, /wp-content/uploads/2022/03/Untitled-design-11.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-11-1024x683.png" alt="Celestion speakers rocket" class="wp-image-7117" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-11-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-11-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-11-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-11-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-11-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-11.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-12-1024x683.png" alt="Celestion speakers" class="wp-image-7120" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-12-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-12-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-12-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-12-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-12-1080x720.png 1080w, /wp-content/uploads/2022/03/Untitled-design-12.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-12-1024x683.png" alt="Celestion speakers" class="wp-image-7120" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-12-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-12-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-12-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-12-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-12-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-12.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-14-1024x683.png" alt="Celestion speakers" class="wp-image-7126" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-14-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-14-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-14-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-14-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-14-1080x720.png 1080w, /wp-content/uploads/2022/03/Untitled-design-14.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-14-1024x683.png" alt="Celestion speakers" class="wp-image-7126" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-14-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-14-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-14-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-14-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-14-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-14.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-13-1024x683.png" alt="Celestion Speakers" class="wp-image-7123" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-13-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-13-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-13-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-13-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-13-1080x720.png 1080w, /wp-content/uploads/2022/03/Untitled-design-13.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-13-1024x683.png" alt="Celestion Speakers" class="wp-image-7123" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-13-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-13-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-13-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-13-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-13-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-13.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

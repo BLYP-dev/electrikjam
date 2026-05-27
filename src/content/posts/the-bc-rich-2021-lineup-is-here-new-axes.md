@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/02/BC-Rich-Cover.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Cover.png"
 featuredImageAlt: "BC Rich Cover"
 seo: 
   title: "The BC Rich 2021 Lineup Is Here: New Axes Built For Speed!"
@@ -60,7 +60,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="402" src="/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1024x402.jpeg" alt="bc rich 2021 lineup" class="wp-image-2158" title="" srcset="/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1024x402.jpeg 1024w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-600x236.jpeg 600w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-300x118.jpeg 300w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-768x302.jpeg 768w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1080x424.jpeg 1080w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover.jpeg 1509w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Classic Mockingbird Extreme</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="402" src="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1024x402.jpeg" alt="bc rich 2021 lineup" class="wp-image-2158" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1024x402.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-600x236.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-300x118.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-768x302.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1080x424.jpeg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover.jpeg 1509w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Classic Mockingbird Extreme</figcaption></figure>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="370" src="/wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic.png" alt="" class="wp-image-2159" title="" srcset="/wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic.png 1024w, /wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic-600x217.png 600w, /wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic-300x108.png 300w, /wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic-768x278.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="370" src="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic.png" alt="" class="wp-image-2159" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic-600x217.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic-300x108.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Ironbird-Exotic-768x278.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="362" src="/wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic.jpg" alt="" class="wp-image-2160" title="" srcset="/wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic.jpg 1024w, /wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic-600x212.jpg 600w, /wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic-300x106.jpg 300w, /wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic-768x272.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="362" src="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic.jpg" alt="" class="wp-image-2160" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic-600x212.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic-300x106.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-JRV-extreme-exotic-768x272.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="400" src="/wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1.jpg" alt="" class="wp-image-2161" title="" srcset="/wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1.jpg 1024w, /wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1-600x234.jpg 600w, /wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1-300x117.jpg 300w, /wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1-768x300.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="400" src="https://www.electrikjam.com/wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1.jpg" alt="" class="wp-image-2161" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1-600x234.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1-300x117.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/EXJRVFRMB-Front-Small-version-2-1024x400-1-768x300.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="402" src="/wp-content/uploads/2021/02/BC-Rich-Mocking.jpg" alt="" class="wp-image-2162" title="" srcset="/wp-content/uploads/2021/02/BC-Rich-Mocking.jpg 1024w, /wp-content/uploads/2021/02/BC-Rich-Mocking-600x236.jpg 600w, /wp-content/uploads/2021/02/BC-Rich-Mocking-300x118.jpg 300w, /wp-content/uploads/2021/02/BC-Rich-Mocking-768x302.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="402" src="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Mocking.jpg" alt="" class="wp-image-2162" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Mocking.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Mocking-600x236.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Mocking-300x118.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-Rich-Mocking-768x302.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="402" src="/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-1024x402.jpeg" alt="" class="wp-image-2163" title="" srcset="/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-1024x402.jpeg 1024w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-600x236.jpeg 600w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-300x118.jpeg 300w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-768x302.jpeg 768w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-1080x424.jpeg 1080w, /wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1.jpeg 1509w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="402" src="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-1024x402.jpeg" alt="" class="wp-image-2163" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-1024x402.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-600x236.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-300x118.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-768x302.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1-1080x424.jpeg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-Mocking-Cover-1.jpeg 1509w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="330" src="/wp-content/uploads/2021/02/bc-rich-shredzilla.jpg" alt="" class="wp-image-2164" title="" srcset="/wp-content/uploads/2021/02/bc-rich-shredzilla.jpg 1024w, /wp-content/uploads/2021/02/bc-rich-shredzilla-600x193.jpg 600w, /wp-content/uploads/2021/02/bc-rich-shredzilla-300x97.jpg 300w, /wp-content/uploads/2021/02/bc-rich-shredzilla-768x248.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>BC Rich 7 String</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="330" src="https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-shredzilla.jpg" alt="" class="wp-image-2164" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-shredzilla.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-shredzilla-600x193.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-shredzilla-300x97.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-shredzilla-768x248.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>BC Rich 7 String</figcaption></figure>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="312" src="/wp-content/uploads/2021/02/BC-rich-8-string.jpg" alt="" class="wp-image-2165" title="" srcset="/wp-content/uploads/2021/02/BC-rich-8-string.jpg 1024w, /wp-content/uploads/2021/02/BC-rich-8-string-600x183.jpg 600w, /wp-content/uploads/2021/02/BC-rich-8-string-300x91.jpg 300w, /wp-content/uploads/2021/02/BC-rich-8-string-768x234.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>BC Rich 8 String</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="312" src="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-8-string.jpg" alt="" class="wp-image-2165" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-8-string.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-8-string-600x183.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-8-string-300x91.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-8-string-768x234.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>BC Rich 8 String</figcaption></figure>
 
 
 
@@ -252,7 +252,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="353" src="/wp-content/uploads/2021/02/bc-rich-warbeast.jpg" alt="" class="wp-image-2166" title="" srcset="/wp-content/uploads/2021/02/bc-rich-warbeast.jpg 1024w, /wp-content/uploads/2021/02/bc-rich-warbeast-600x207.jpg 600w, /wp-content/uploads/2021/02/bc-rich-warbeast-300x103.jpg 300w, /wp-content/uploads/2021/02/bc-rich-warbeast-768x265.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="353" src="https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-warbeast.jpg" alt="" class="wp-image-2166" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-warbeast.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-warbeast-600x207.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-warbeast-300x103.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/bc-rich-warbeast-768x265.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="356" src="/wp-content/uploads/2021/02/BC-rich-white-warlock.jpg" alt="" class="wp-image-2167" title="" srcset="/wp-content/uploads/2021/02/BC-rich-white-warlock.jpg 1024w, /wp-content/uploads/2021/02/BC-rich-white-warlock-600x209.jpg 600w, /wp-content/uploads/2021/02/BC-rich-white-warlock-300x104.jpg 300w, /wp-content/uploads/2021/02/BC-rich-white-warlock-768x267.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="356" src="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-white-warlock.jpg" alt="" class="wp-image-2167" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-white-warlock.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-white-warlock-600x209.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-white-warlock-300x104.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/BC-rich-white-warlock-768x267.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

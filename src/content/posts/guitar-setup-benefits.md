@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/10/benefits-of-a-proper-guitar-setup.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/10/benefits-of-a-proper-guitar-setup.jpg"
 featuredImageAlt: "benefits of a proper guitar setup"
 seo: 
   title: "The Many, Many Benefits of A Proper Guitar Setup"

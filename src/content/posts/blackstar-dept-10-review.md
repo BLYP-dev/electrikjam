@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/12/DEPT-10-Dual-Dist-result-image.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/DEPT-10-Dual-Dist-result-image.jpg"
 featuredImageAlt: "DEPT-10-Dual-Dist-result-image"
 seo: 
   title: "Blackstar DEPT 10 Review: Programmable Drive Pedals? Cool!"
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" src="/wp-content/uploads/2021/12/blackstar-dept-10-1024x684.jpg" alt="Blackstar DEpt 10" class="wp-image-5948" title="" srcset="/wp-content/uploads/2021/12/blackstar-dept-10-1024x684.jpg 1024w, /wp-content/uploads/2021/12/blackstar-dept-10-scaled-600x401.jpg 600w, /wp-content/uploads/2021/12/blackstar-dept-10-300x200.jpg 300w, /wp-content/uploads/2021/12/blackstar-dept-10-768x513.jpg 768w, /wp-content/uploads/2021/12/blackstar-dept-10-1536x1026.jpg 1536w, /wp-content/uploads/2021/12/blackstar-dept-10-2048x1368.jpg 2048w, /wp-content/uploads/2021/12/blackstar-dept-10-1080x721.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>All 3 Models of The Blackstar DEPT 10</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" src="https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept-10-1024x684.jpg" alt="Blackstar DEpt 10" class="wp-image-5948" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept-10-1024x684.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept-10-scaled-600x401.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept-10-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept-10-768x513.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept-10-1536x1026.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept-10-2048x1368.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept-10-1080x721.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>All 3 Models of The Blackstar DEPT 10</em></strong></figcaption></figure>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-1024x1024.jpg" alt="" class="wp-image-5951" title="" srcset="/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-1024x1024.jpg 1024w, /wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-300x300.jpg 300w, /wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-100x100.jpg 100w, /wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-600x600.jpg 600w, /wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-150x150.jpg 150w, /wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-768x768.jpg 768w, /wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-1080x1080.jpg 1080w, /wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Look at the tube on top!</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-1024x1024.jpg" alt="" class="wp-image-5951" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3-1080x1080.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/blackstar-dept.10-dual-distortion-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Look at the tube on top!</strong></em></figcaption></figure>
 
 
 
@@ -153,7 +153,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/12/Blackstar-dept-10-rear.jpg" alt="" class="wp-image-5952" width="746" height="420" title="" srcset="/wp-content/uploads/2021/12/Blackstar-dept-10-rear.jpg 480w, /wp-content/uploads/2021/12/Blackstar-dept-10-rear-300x169.jpg 300w" sizes="(max-width: 746px) 100vw, 746px" /><figcaption>Houston, We Have A Problem.</figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-dept-10-rear.jpg" alt="" class="wp-image-5952" width="746" height="420" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-dept-10-rear.jpg 480w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-dept-10-rear-300x169.jpg 300w" sizes="(max-width: 746px) 100vw, 746px" /><figcaption>Houston, We Have A Problem.</figcaption></figure>
 			
 		
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2021/12/idcore-v3-cab-rig-lite.jpg" alt="" class="wp-image-5953" width="836" height="510" title="" srcset="/wp-content/uploads/2021/12/idcore-v3-cab-rig-lite.jpg 600w, /wp-content/uploads/2021/12/idcore-v3-cab-rig-lite-300x183.jpg 300w" sizes="(max-width: 836px) 100vw, 836px" /><figcaption><strong><em>Speaker Placement Cab Rig DSP</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/12/idcore-v3-cab-rig-lite.jpg" alt="" class="wp-image-5953" width="836" height="510" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/idcore-v3-cab-rig-lite.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/idcore-v3-cab-rig-lite-300x183.jpg 300w" sizes="(max-width: 836px) 100vw, 836px" /><figcaption><strong><em>Speaker Placement Cab Rig DSP</em></strong></figcaption></figure>
 
 
 

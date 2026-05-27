@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/09/Best-MIDI-Keyboards.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards.png"
 featuredImageAlt: "Best MIDI Keyboards"
 seo: 
   title: "Best MIDI Keyboards: The Essential Budget & Premium Options"
@@ -82,7 +82,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png" alt="Akai Professional MPK mini mk3" class="wp-image-12699" title="" srcset="/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png 1024w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-600x400.png 600w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-300x200.png 300w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-768x512.png 768w, /wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png" alt="Akai Professional MPK mini mk3" class="wp-image-12699" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Akai-Professional-MPK-mini-mk3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Arturia-MicroLab-25-1024x683.png" alt="Arturia MicroLab 25" class="wp-image-12721" title="" srcset="/wp-content/uploads/2023/09/Arturia-MicroLab-25-1024x683.png 1024w, /wp-content/uploads/2023/09/Arturia-MicroLab-25-600x400.png 600w, /wp-content/uploads/2023/09/Arturia-MicroLab-25-300x200.png 300w, /wp-content/uploads/2023/09/Arturia-MicroLab-25-768x512.png 768w, /wp-content/uploads/2023/09/Arturia-MicroLab-25.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-MicroLab-25-1024x683.png" alt="Arturia MicroLab 25" class="wp-image-12721" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-MicroLab-25-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-MicroLab-25-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-MicroLab-25-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-MicroLab-25-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-MicroLab-25.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Komplete-Kontrol-A25-1024x683.png" alt="Komplete Kontrol A25" class="wp-image-12724" title="" srcset="/wp-content/uploads/2023/09/Komplete-Kontrol-A25-1024x683.png 1024w, /wp-content/uploads/2023/09/Komplete-Kontrol-A25-600x400.png 600w, /wp-content/uploads/2023/09/Komplete-Kontrol-A25-300x200.png 300w, /wp-content/uploads/2023/09/Komplete-Kontrol-A25-768x512.png 768w, /wp-content/uploads/2023/09/Komplete-Kontrol-A25.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Komplete-Kontrol-A25-1024x683.png" alt="Komplete Kontrol A25" class="wp-image-12724" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Komplete-Kontrol-A25-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Komplete-Kontrol-A25-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Komplete-Kontrol-A25-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Komplete-Kontrol-A25-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Komplete-Kontrol-A25.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-1024x683.png" alt="Novation Launchkey 49 MK3" class="wp-image-12723" title="" srcset="/wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-1024x683.png 1024w, /wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-600x400.png 600w, /wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-300x200.png 300w, /wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-768x512.png 768w, /wp-content/uploads/2023/09/Novation-Launchkey-49-MK3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-1024x683.png" alt="Novation Launchkey 49 MK3" class="wp-image-12723" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Novation-Launchkey-49-MK3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Novation-Launchkey-49-MK3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -242,7 +242,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-1024x683.png" alt="Arturia KeyLab Essential 61 MIDI Keyboard Controller Black" class="wp-image-12722" title="" srcset="/wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-1024x683.png 1024w, /wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-600x400.png 600w, /wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-300x200.png 300w, /wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-768x512.png 768w, /wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-1024x683.png" alt="Arturia KeyLab Essential 61 MIDI Keyboard Controller Black" class="wp-image-12722" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Arturia-KeyLab-Essential-61-MIDI-Keyboard-Controller-Black.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

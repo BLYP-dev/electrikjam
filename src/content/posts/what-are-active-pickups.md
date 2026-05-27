@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/09/100_9719c.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/100_9719c.jpg"
 featuredImageAlt: "active pickups"
 seo: 
   title: "What Are Active Pickups? All You Need To Know!"
@@ -60,7 +60,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="656" src="/wp-content/uploads/2021/09/Seymour-Duncan-BLACKOUTS-Pickups-1024x656.png" alt="Seymour Duncan BLACKOUTS Pickups" class="wp-image-4638" title=""><figcaption><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11596">Seymour Duncan Blackout Active Pickup</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="656" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Seymour-Duncan-BLACKOUTS-Pickups-1024x656.png" alt="Seymour Duncan BLACKOUTS Pickups" class="wp-image-4638" title=""><figcaption><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11596">Seymour Duncan Blackout Active Pickup</a></figcaption></figure>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="600" src="/wp-content/uploads/2021/09/100_9719c.jpg" alt="active pickups" class="wp-image-4713" title="" srcset="/wp-content/uploads/2021/09/100_9719c.jpg 800w, /wp-content/uploads/2021/09/100_9719c-600x450.jpg 600w, /wp-content/uploads/2021/09/100_9719c-300x225.jpg 300w, /wp-content/uploads/2021/09/100_9719c-768x576.jpg 768w, /wp-content/uploads/2021/09/100_9719c-510x382.jpg 510w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Active pickup Battery Compartment</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/09/100_9719c.jpg" alt="active pickups" class="wp-image-4713" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/100_9719c.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/09/100_9719c-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/100_9719c-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/100_9719c-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/100_9719c-510x382.jpg 510w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Active pickup Battery Compartment</figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp" alt="Best Seymour Duncan Pickups For Metal" class="wp-image-4646 size-full" title="" srcset="/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp 1024w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-600x500.webp 600w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-300x250.webp 300w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-768x640.webp 768w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1080x900.webp 1080w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp" alt="Best Seymour Duncan Pickups For Metal" class="wp-image-4646 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-600x500.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-300x250.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-768x640.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1080x900.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="90442">Best Seymour Duncan Pickups For Metal</a></strong></h3>
 
 

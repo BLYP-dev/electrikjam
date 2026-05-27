@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2021/11/Indio-cali.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali.jpg"
 featuredImageAlt: "are indio guitars legit"
 seo: 
   title: "Are Indio Guitars Legit: We Take A Deep Dive!"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/11/Indio-cali-1024x768.jpg" alt="are indio guitars legit" class="wp-image-5725" title="" srcset="/wp-content/uploads/2021/11/Indio-cali-1024x768.jpg 1024w, /wp-content/uploads/2021/11/Indio-cali-600x450.jpg 600w, /wp-content/uploads/2021/11/Indio-cali-300x225.jpg 300w, /wp-content/uploads/2021/11/Indio-cali-768x576.jpg 768w, /wp-content/uploads/2021/11/Indio-cali-510x382.jpg 510w, /wp-content/uploads/2021/11/Indio-cali-1080x810.jpg 1080w, /wp-content/uploads/2021/11/Indio-cali.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Indio Cali Model</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali-1024x768.jpg" alt="are indio guitars legit" class="wp-image-5725" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-cali.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Indio Cali Model</strong></em></figcaption></figure>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="970" height="600" src="/wp-content/uploads/2021/11/Indio-guitars-1.jpg" alt="" class="wp-image-5726" title="" srcset="/wp-content/uploads/2021/11/Indio-guitars-1.jpg 970w, /wp-content/uploads/2021/11/Indio-guitars-1-600x371.jpg 600w, /wp-content/uploads/2021/11/Indio-guitars-1-300x186.jpg 300w, /wp-content/uploads/2021/11/Indio-guitars-1-768x475.jpg 768w" sizes="(max-width: 970px) 100vw, 970px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="970" height="600" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-guitars-1.jpg" alt="" class="wp-image-5726" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-guitars-1.jpg 970w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-guitars-1-600x371.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-guitars-1-300x186.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-guitars-1-768x475.jpg 768w" sizes="(max-width: 970px) 100vw, 970px" /></figure>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1015" height="730" src="/wp-content/uploads/2021/11/Indio-DLX.jpg" alt="are indio guitars legit" class="wp-image-5729" title="" srcset="/wp-content/uploads/2021/11/Indio-DLX.jpg 1015w, /wp-content/uploads/2021/11/Indio-DLX-600x432.jpg 600w, /wp-content/uploads/2021/11/Indio-DLX-300x216.jpg 300w, /wp-content/uploads/2021/11/Indio-DLX-768x552.jpg 768w" sizes="(max-width: 1015px) 100vw, 1015px" /><figcaption>Indio Guitars DLX</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1015" height="730" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-DLX.jpg" alt="are indio guitars legit" class="wp-image-5729" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-DLX.jpg 1015w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-DLX-600x432.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-DLX-300x216.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-DLX-768x552.jpg 768w" sizes="(max-width: 1015px) 100vw, 1015px" /><figcaption>Indio Guitars DLX</figcaption></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2021/11/Indio-setup-1024x407.jpg" alt="" class="wp-image-5730" width="840" height="333" title="" srcset="/wp-content/uploads/2021/11/Indio-setup-1024x407.jpg 1024w, /wp-content/uploads/2021/11/Indio-setup-600x238.jpg 600w, /wp-content/uploads/2021/11/Indio-setup-300x119.jpg 300w, /wp-content/uploads/2021/11/Indio-setup-768x305.jpg 768w, /wp-content/uploads/2021/11/Indio-setup-1536x610.jpg 1536w, /wp-content/uploads/2021/11/Indio-setup-1080x429.jpg 1080w, /wp-content/uploads/2021/11/Indio-setup.jpg 1777w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><strong>Offset Model DLX: Setup In The USA</strong></em></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-setup-1024x407.jpg" alt="" class="wp-image-5730" width="840" height="333" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-setup-1024x407.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-setup-600x238.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-setup-300x119.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-setup-768x305.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-setup-1536x610.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-setup-1080x429.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/Indio-setup.jpg 1777w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><strong>Offset Model DLX: Setup In The USA</strong></em></figcaption></figure></div>
 
 
 

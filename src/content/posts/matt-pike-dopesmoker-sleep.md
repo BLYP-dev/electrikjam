@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning.png"
 featuredImageAlt: "Matt Pike"
 seo: 
   title: "That Time Matt Pike Wrote A 63 Minute Guitar Riff..."
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1020" height="1024" src="/wp-content/uploads/2021/04/DOPESMOKER-1020x1024.png" alt="" class="wp-image-2817" title="" srcset="/wp-content/uploads/2021/04/DOPESMOKER-1020x1024.png 1020w, /wp-content/uploads/2021/04/DOPESMOKER-300x300.png 300w, /wp-content/uploads/2021/04/DOPESMOKER-100x100.png 100w, /wp-content/uploads/2021/04/DOPESMOKER-600x602.png 600w, /wp-content/uploads/2021/04/DOPESMOKER-150x150.png 150w, /wp-content/uploads/2021/04/DOPESMOKER-768x771.png 768w, /wp-content/uploads/2021/04/DOPESMOKER.png 1062w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1020" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/04/DOPESMOKER-1020x1024.png" alt="" class="wp-image-2817" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/DOPESMOKER-1020x1024.png 1020w, https://www.electrikjam.com/wp-content/uploads/2021/04/DOPESMOKER-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/DOPESMOKER-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2021/04/DOPESMOKER-600x602.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/DOPESMOKER-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2021/04/DOPESMOKER-768x771.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/DOPESMOKER.png 1062w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="980" height="653" src="/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="" class="wp-image-2820" title="" srcset="/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, /wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, /wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, /wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, /wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /><figcaption>Matt Pike Rocking His <strong><a href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" class="rank-math-link" data-lasso-id="1259">Gibson Les Paul Standard</a></strong>, Shirtless Of Course&#8230;</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="980" height="653" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="" class="wp-image-2820" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /><figcaption>Matt Pike Rocking His <strong><a href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" class="rank-math-link" data-lasso-id="1259">Gibson Les Paul Standard</a></strong>, Shirtless Of Course&#8230;</figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/04/Matt-Pike-SLEEP-1024x576.jpg" alt="" class="wp-image-2816" title="" srcset="/wp-content/uploads/2021/04/Matt-Pike-SLEEP-1024x576.jpg 1024w, /wp-content/uploads/2021/04/Matt-Pike-SLEEP-600x338.jpg 600w, /wp-content/uploads/2021/04/Matt-Pike-SLEEP-300x169.jpg 300w, /wp-content/uploads/2021/04/Matt-Pike-SLEEP-768x432.jpg 768w, /wp-content/uploads/2021/04/Matt-Pike-SLEEP-1080x608.jpg 1080w, /wp-content/uploads/2021/04/Matt-Pike-SLEEP.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Image Source<sup><a class="rank-math-link" href="https://www.kerrang.com/high-on-fires-matt-pike-confront-your-enemy-with-love-before-you-confront-them-with-a-bullet" data-lasso-id="1262" target="_blank" rel="noopener noreferrer nofollow">1</a></sup></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-SLEEP-1024x576.jpg" alt="" class="wp-image-2816" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-SLEEP-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-SLEEP-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-SLEEP-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-SLEEP-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-SLEEP-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Matt-Pike-SLEEP.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Image Source<sup><a class="rank-math-link" href="https://www.kerrang.com/high-on-fires-matt-pike-confront-your-enemy-with-love-before-you-confront-them-with-a-bullet" data-lasso-id="1262" target="_blank" rel="noopener noreferrer nofollow">1</a></sup></figcaption></figure>
 
 
 

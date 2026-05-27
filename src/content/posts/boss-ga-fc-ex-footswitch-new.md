@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/09/Boss-Katana-Ga-Fc-EX.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/09/Boss-Katana-Ga-Fc-EX.png"
 featuredImageAlt: "BOSS Ga FC EX"
 seo: 
   title: "The BOSS GA FC EX: An Amazing 2022 Overhaul For Katana Users!"
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="800" src="/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p.webp" alt="BOSS GA FC EX" class="wp-image-8849" title="" srcset="/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p.webp 800w, /wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-300x300.webp 300w, /wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-100x100.webp 100w, /wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-600x600.webp 600w, /wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-150x150.webp 150w, /wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption><strong>Same Design, New Features!</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="800" src="https://www.electrikjam.com/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p.webp" alt="BOSS GA FC EX" class="wp-image-8849" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p.webp 800w, https://www.electrikjam.com/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-150x150.webp 150w, https://www.electrikjam.com/wp-content/uploads/2022/09/g2ob61xblyf6tlmesp9p-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption><strong>Same Design, New Features!</strong></figcaption></figure>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-1024x683.png" alt="BOSS GA FC EX " class="wp-image-8850" title="" srcset="/wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-1024x683.png 1024w, /wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-600x400.png 600w, /wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-300x200.png 300w, /wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-768x512.png 768w, /wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-1024x683.png" alt="BOSS GA FC EX " class="wp-image-8850" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/Original-GA-FC-EX-BOSS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-1024x576.jpg" alt="BOSS GA FC EX" class="wp-image-8851" title="" srcset="/wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-1024x576.jpg 1024w, /wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-600x338.jpg 600w, /wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-300x169.jpg 300w, /wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-768x432.jpg 768w, /wp-content/uploads/2022/09/ga-fc_ex_content_photo_02.jpg 1180w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-1024x576.jpg" alt="BOSS GA FC EX" class="wp-image-8851" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/09/ga-fc_ex_content_photo_02-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/09/ga-fc_ex_content_photo_02.jpg 1180w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

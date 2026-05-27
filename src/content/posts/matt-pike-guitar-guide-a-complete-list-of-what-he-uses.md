@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning.png"
 featuredImageAlt: "Matt Pike"
 seo: 
   title: "Matt Pike Guitar Guide: The COMPLETE List – Amps, Pedals, Strings & More"
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1017" height="1024" src="/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-1017x1024.png" alt="Matt Pike" class="wp-image-1917" title="" srcset="/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-1017x1024.png 1017w, /wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-100x100.png 100w, /wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-600x604.png 600w, /wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-298x300.png 298w, /wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-150x150.png 150w, /wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-768x773.png 768w, /wp-content/uploads/2021/02/bands-that-use-drop-c-tuning.png 1162w" sizes="(max-width: 1017px) 100vw, 1017px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1017" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-1017x1024.png" alt="Matt Pike" class="wp-image-1917" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-1017x1024.png 1017w, https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-600x604.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-298x300.png 298w, https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning-768x773.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/bands-that-use-drop-c-tuning.png 1162w" sizes="(max-width: 1017px) 100vw, 1017px" /></figure>
 
 
 

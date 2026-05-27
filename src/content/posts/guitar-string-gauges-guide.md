@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/03/Best-Guitar-Gauges.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-Gauges.png"
 featuredImageAlt: "Best Guitar Gauges"
 seo: 
   title: "Guitar String Gauges 101: The Ultimate Beginner’s Guide…"
@@ -55,7 +55,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Best-Guitar-String-gauges-1024x683.png" alt="Best String Gauges" class="wp-image-11132" title="" srcset="/wp-content/uploads/2023/03/Best-Guitar-String-gauges-1024x683.png 1024w, /wp-content/uploads/2023/03/Best-Guitar-String-gauges-600x400.png 600w, /wp-content/uploads/2023/03/Best-Guitar-String-gauges-300x200.png 300w, /wp-content/uploads/2023/03/Best-Guitar-String-gauges-768x512.png 768w, /wp-content/uploads/2023/03/Best-Guitar-String-gauges.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-gauges-1024x683.png" alt="Best String Gauges" class="wp-image-11132" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-gauges-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-gauges-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-gauges-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-gauges-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-gauges.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-1024x683.png" alt="Guitar String Gauges" class="wp-image-11135" title="" srcset="/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-1024x683.png 1024w, /wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-600x400.png 600w, /wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-300x200.png 300w, /wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-768x512.png 768w, /wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-1024x683.png" alt="Guitar String Gauges" class="wp-image-11135" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Best-Guitar-String-Gauges-Electric.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -677,7 +677,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/String-gauges-bridge-types-1024x683.png" alt="Guitar string gauges" class="wp-image-11137" title="" srcset="/wp-content/uploads/2023/03/String-gauges-bridge-types-1024x683.png 1024w, /wp-content/uploads/2023/03/String-gauges-bridge-types-600x400.png 600w, /wp-content/uploads/2023/03/String-gauges-bridge-types-300x200.png 300w, /wp-content/uploads/2023/03/String-gauges-bridge-types-768x512.png 768w, /wp-content/uploads/2023/03/String-gauges-bridge-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Examples of two different &#8220;floating&#8221; bridges.</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-1024x683.png" alt="Guitar string gauges" class="wp-image-11137" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/String-gauges-bridge-types.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Examples of two different &#8220;floating&#8221; bridges.</strong></figcaption></figure>
 
 
 
@@ -813,7 +813,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-1024x683.png" alt="best string gauges" class="wp-image-11138" title="" srcset="/wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-1024x683.png 1024w, /wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-600x400.png 600w, /wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-300x200.png 300w, /wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-768x512.png 768w, /wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-1024x683.png" alt="best string gauges" class="wp-image-11138" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Schecter-Nick-PT-String-Gauges.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

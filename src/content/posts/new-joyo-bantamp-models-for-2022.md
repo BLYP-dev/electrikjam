@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/02/Untitled-design-5.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-5.png"
 featuredImageAlt: "Joyo Bantamp"
 seo: 
   title: "New JOYO Bantamp Models For 2022: Amazing Miniature Monsters"
@@ -69,7 +69,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Untitled-design-5-1024x683.png" alt="Joyo Bantamp" class="wp-image-7007" title="" srcset="/wp-content/uploads/2022/02/Untitled-design-5-1024x683.png 1024w, /wp-content/uploads/2022/02/Untitled-design-5-600x400.png 600w, /wp-content/uploads/2022/02/Untitled-design-5-300x200.png 300w, /wp-content/uploads/2022/02/Untitled-design-5-768x512.png 768w, /wp-content/uploads/2022/02/Untitled-design-5-1080x720.png 1080w, /wp-content/uploads/2022/02/Untitled-design-5.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>JOYO Bantamp Models</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-5-1024x683.png" alt="Joyo Bantamp" class="wp-image-7007" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-5-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-5-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-5-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-5-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-5-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-5.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>JOYO Bantamp Models</strong></figcaption></figure>
 			
 		
 
@@ -119,7 +119,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/02/JOYO-bantamp-VIVO.webp" alt="Joyo Bantamp" class="wp-image-7011" title="" srcset="/wp-content/uploads/2022/02/JOYO-bantamp-VIVO.webp 720w, /wp-content/uploads/2022/02/JOYO-bantamp-VIVO-300x300.webp 300w, /wp-content/uploads/2022/02/JOYO-bantamp-VIVO-100x100.webp 100w, /wp-content/uploads/2022/02/JOYO-bantamp-VIVO-600x600.webp 600w, /wp-content/uploads/2022/02/JOYO-bantamp-VIVO-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong>The JOYO Bantamp VIVO</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/02/JOYO-bantamp-VIVO.webp" alt="Joyo Bantamp" class="wp-image-7011" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/JOYO-bantamp-VIVO.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/02/JOYO-bantamp-VIVO-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/JOYO-bantamp-VIVO-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/02/JOYO-bantamp-VIVO-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/JOYO-bantamp-VIVO-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong>The JOYO Bantamp VIVO</strong></figcaption></figure>
 			
 		
 
@@ -153,7 +153,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/02/Joyo-Bantamp-bluejay.webp" alt="Joyo Bantamp" class="wp-image-7013" title="" srcset="/wp-content/uploads/2022/02/Joyo-Bantamp-bluejay.webp 720w, /wp-content/uploads/2022/02/Joyo-Bantamp-bluejay-300x300.webp 300w, /wp-content/uploads/2022/02/Joyo-Bantamp-bluejay-100x100.webp 100w, /wp-content/uploads/2022/02/Joyo-Bantamp-bluejay-600x600.webp 600w, /wp-content/uploads/2022/02/Joyo-Bantamp-bluejay-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong>JOYO Bantamp Blue Jay</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Joyo-Bantamp-bluejay.webp" alt="Joyo Bantamp" class="wp-image-7013" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Joyo-Bantamp-bluejay.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/02/Joyo-Bantamp-bluejay-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Joyo-Bantamp-bluejay-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/02/Joyo-Bantamp-bluejay-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Joyo-Bantamp-bluejay-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong>JOYO Bantamp Blue Jay</strong></figcaption></figure>
 			
 		
 
@@ -179,7 +179,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/02/L91551000000000-00-720x720-1.webp" alt="Joyo bantamp" class="wp-image-7008" title="" srcset="/wp-content/uploads/2022/02/L91551000000000-00-720x720-1.webp 720w, /wp-content/uploads/2022/02/L91551000000000-00-720x720-1-300x300.webp 300w, /wp-content/uploads/2022/02/L91551000000000-00-720x720-1-100x100.webp 100w, /wp-content/uploads/2022/02/L91551000000000-00-720x720-1-600x600.webp 600w, /wp-content/uploads/2022/02/L91551000000000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>JOYO Bantamp Jackman II</figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/02/L91551000000000-00-720x720-1.webp" alt="Joyo bantamp" class="wp-image-7008" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/L91551000000000-00-720x720-1.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/02/L91551000000000-00-720x720-1-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/L91551000000000-00-720x720-1-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/02/L91551000000000-00-720x720-1-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/L91551000000000-00-720x720-1-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>JOYO Bantamp Jackman II</figcaption></figure>
 			
 		
 

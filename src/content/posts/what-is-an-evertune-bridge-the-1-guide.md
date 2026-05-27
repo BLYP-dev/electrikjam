@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/03/Evertune.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/03/Evertune.jpg"
 featuredImageAlt: "evertune"
 seo: 
   title: "What Is An Evertune Bridge? The #1 Guide To This Genius Idea!"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/03/Evertune.jpg" alt="evertune" class="wp-image-2631" width="840" height="484" title="" srcset="/wp-content/uploads/2021/03/Evertune.jpg 642w, /wp-content/uploads/2021/03/Evertune-600x346.jpg 600w, /wp-content/uploads/2021/03/Evertune-300x173.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption>Evertune Bridge</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Evertune.jpg" alt="evertune" class="wp-image-2631" width="840" height="484" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Evertune.jpg 642w, https://www.electrikjam.com/wp-content/uploads/2021/03/Evertune-600x346.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Evertune-300x173.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption>Evertune Bridge</figcaption></figure>
 
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="860" height="484" src="/wp-content/uploads/2021/03/evertune-back.jpg" alt="" class="wp-image-2635" title="" srcset="/wp-content/uploads/2021/03/evertune-back.jpg 860w, /wp-content/uploads/2021/03/evertune-back-600x338.jpg 600w, /wp-content/uploads/2021/03/evertune-back-300x169.jpg 300w, /wp-content/uploads/2021/03/evertune-back-768x432.jpg 768w" sizes="(max-width: 860px) 100vw, 860px" /><figcaption>The Back of the Evertune System</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="860" height="484" src="https://www.electrikjam.com/wp-content/uploads/2021/03/evertune-back.jpg" alt="" class="wp-image-2635" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/evertune-back.jpg 860w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune-back-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune-back-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune-back-768x432.jpg 768w" sizes="(max-width: 860px) 100vw, 860px" /><figcaption>The Back of the Evertune System</figcaption></figure>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="860" height="517" src="/wp-content/uploads/2021/03/evertune__knowledge_.png" alt="" class="wp-image-2636" title="" srcset="/wp-content/uploads/2021/03/evertune__knowledge_.png 860w, /wp-content/uploads/2021/03/evertune__knowledge_-600x361.png 600w, /wp-content/uploads/2021/03/evertune__knowledge_-300x180.png 300w, /wp-content/uploads/2021/03/evertune__knowledge_-768x462.png 768w" sizes="(max-width: 860px) 100vw, 860px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="860" height="517" src="https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_.png" alt="" class="wp-image-2636" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_.png 860w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_-600x361.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_-300x180.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_-768x462.png 768w" sizes="(max-width: 860px) 100vw, 860px" /></figure>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="535" src="/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-1024x535.jpg" alt="" class="wp-image-2638" title="" srcset="/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-1024x535.jpg 1024w, /wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-600x314.jpg 600w, /wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-300x157.jpg 300w, /wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-768x401.jpg 768w, /wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-1080x564.jpg 1080w, /wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Routing for the bridge system.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="535" src="https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-1024x535.jpg" alt="" class="wp-image-2638" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-1024x535.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-600x314.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-300x157.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-768x401.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a-1080x564.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/evertune__knowledge_base__wiki201-4e1__v2019e01a.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Routing for the bridge system.</figcaption></figure>
 
 
 

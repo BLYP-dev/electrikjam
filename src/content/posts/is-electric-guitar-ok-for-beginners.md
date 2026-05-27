@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/01/Electric.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/Electric.png"
 featuredImageAlt: "is electric guitar ok for beginners?"
 seo: 
   title: "Electric Guitar Is OK For Beginners - Here's Why..."
@@ -134,7 +134,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-1024x683.png" alt="is electric guitar ok for beginners?" class="wp-image-10338" title="" srcset="/wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-1024x683.png 1024w, /wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-600x400.png 600w, /wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-300x200.png 300w, /wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-768x512.png 768w, /wp-content/uploads/2023/01/electric-guitar-ok-for-beginners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-1024x683.png" alt="is electric guitar ok for beginners?" class="wp-image-10338" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/electric-guitar-ok-for-beginners-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/electric-guitar-ok-for-beginners.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

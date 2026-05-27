@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal.webp"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal.webp"
 featuredImageAlt: "Best Seymour Duncan Pickups For Metal"
 seo: 
   title: "Best Seymour Duncan Pickups For Metal: My Top 5 Picks..."
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="732" src="/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg" alt="" class="wp-image-4609" title="" srcset="/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg 1024w, /wp-content/uploads/2021/09/Duncan-invader-600x429.jpg 600w, /wp-content/uploads/2021/09/Duncan-invader-300x214.jpg 300w, /wp-content/uploads/2021/09/Duncan-invader-768x549.jpg 768w, /wp-content/uploads/2021/09/Duncan-invader-1080x772.jpg 1080w, /wp-content/uploads/2021/09/Duncan-invader.jpg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11593">Seymour Duncan Invader</a> Set</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="732" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg" alt="" class="wp-image-4609" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-600x429.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-300x214.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-768x549.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader-1080x772.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-invader.jpg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11593">Seymour Duncan Invader</a> Set</figcaption></figure>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-1024x722.webp" alt="best seymour duncan pickups for metal" class="wp-image-4610" title="" srcset="/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-1024x722.webp 1024w, /wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-600x423.webp 600w, /wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-300x211.webp 300w, /wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-768x541.webp 768w, /wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-1080x761.webp 1080w, /wp-content/uploads/2021/09/Duncan-Alpha-and-Omega.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Duncan Alpha Pickup</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-1024x722.webp" alt="best seymour duncan pickups for metal" class="wp-image-4610" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-1024x722.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-600x423.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-300x211.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-768x541.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega-1080x761.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-Alpha-and-Omega.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Duncan Alpha Pickup</figcaption></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-1024x683.webp" alt="" class="wp-image-4611" title="" srcset="/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-1024x683.webp 1024w, /wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-600x400.webp 600w, /wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-300x200.webp 300w, /wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-768x512.webp 768w, /wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-1536x1024.webp 1536w, /wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-1080x720.webp 1080w, /wp-content/uploads/2021/09/Blackened-Black-Winter_set-min.webp 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Duncan Black Winter Set</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-1024x683.webp" alt="" class="wp-image-4611" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-1024x683.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-600x400.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-300x200.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-768x512.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-1536x1024.webp 1536w, https://www.electrikjam.com/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min-1080x720.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Blackened-Black-Winter_set-min.webp 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Duncan Black Winter Set</figcaption></figure>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="798" src="/wp-content/uploads/2021/09/duncan-blackout-nickle-1024x798.jpg" alt="" class="wp-image-4613" title="" srcset="/wp-content/uploads/2021/09/duncan-blackout-nickle-1024x798.jpg 1024w, /wp-content/uploads/2021/09/duncan-blackout-nickle-600x468.jpg 600w, /wp-content/uploads/2021/09/duncan-blackout-nickle-300x234.jpg 300w, /wp-content/uploads/2021/09/duncan-blackout-nickle-768x598.jpg 768w, /wp-content/uploads/2021/09/duncan-blackout-nickle-1080x842.jpg 1080w, /wp-content/uploads/2021/09/duncan-blackout-nickle.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Duncan Blackouts in Nickle Finish</figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="798" src="https://www.electrikjam.com/wp-content/uploads/2021/09/duncan-blackout-nickle-1024x798.jpg" alt="" class="wp-image-4613" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/duncan-blackout-nickle-1024x798.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/duncan-blackout-nickle-600x468.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/duncan-blackout-nickle-300x234.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/duncan-blackout-nickle-768x598.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/duncan-blackout-nickle-1080x842.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/duncan-blackout-nickle.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Duncan Blackouts in Nickle Finish</figcaption></figure>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="912" height="640" src="/wp-content/uploads/2021/09/Duncan-distortion.jpg" alt="" class="wp-image-4614" title="" srcset="/wp-content/uploads/2021/09/Duncan-distortion.jpg 912w, /wp-content/uploads/2021/09/Duncan-distortion-600x421.jpg 600w, /wp-content/uploads/2021/09/Duncan-distortion-300x211.jpg 300w, /wp-content/uploads/2021/09/Duncan-distortion-768x539.jpg 768w" sizes="(max-width: 912px) 100vw, 912px" /><figcaption>Duncan JB Pickups</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="912" height="640" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-distortion.jpg" alt="" class="wp-image-4614" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-distortion.jpg 912w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-distortion-600x421.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-distortion-300x211.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Duncan-distortion-768x539.jpg 768w" sizes="(max-width: 912px) 100vw, 912px" /><figcaption>Duncan JB Pickups</figcaption></figure>
 
 
 

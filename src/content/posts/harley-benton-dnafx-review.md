@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2025/12/Harley-Benton-DNAfx.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/12/Harley-Benton-DNAfx.jpg"
 featuredImageAlt: "Harley Benton DNAfx"
 seo: 
   title: "Harley Benton DNAfx Review: Is It Worth It?"
@@ -65,7 +65,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="579" src="/wp-content/uploads/2021/12/Harley-Benton-DNAfx-1024x579.jpg" alt="Harley benton dnafx" class="wp-image-5923" title="" srcset="/wp-content/uploads/2021/12/Harley-Benton-DNAfx-1024x579.jpg 1024w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-600x339.jpg 600w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-300x170.jpg 300w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-768x434.jpg 768w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-1080x610.jpg 1080w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="579" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-1024x579.jpg" alt="Harley benton dnafx" class="wp-image-5923" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-1024x579.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-600x339.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-300x170.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-768x434.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-1080x610.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="770" height="230" src="/wp-content/uploads/2021/12/DNAfx-rear-panel.jpg" alt="" class="wp-image-5925" title="" srcset="/wp-content/uploads/2021/12/DNAfx-rear-panel.jpg 770w, /wp-content/uploads/2021/12/DNAfx-rear-panel-600x179.jpg 600w, /wp-content/uploads/2021/12/DNAfx-rear-panel-300x90.jpg 300w, /wp-content/uploads/2021/12/DNAfx-rear-panel-768x229.jpg 768w" sizes="(max-width: 770px) 100vw, 770px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="770" height="230" src="https://www.electrikjam.com/wp-content/uploads/2021/12/DNAfx-rear-panel.jpg" alt="" class="wp-image-5925" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/DNAfx-rear-panel.jpg 770w, https://www.electrikjam.com/wp-content/uploads/2021/12/DNAfx-rear-panel-600x179.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/DNAfx-rear-panel-300x90.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/DNAfx-rear-panel-768x229.jpg 768w" sizes="(max-width: 770px) 100vw, 770px" /></figure>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-1024x1024.jpg" alt="" class="wp-image-5934" title="" srcset="/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-1024x1024.jpg 1024w, /wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-300x300.jpg 300w, /wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-scaled-100x100.jpg 100w, /wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-scaled-600x600.jpg 600w, /wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-150x150.jpg 150w, /wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-768x768.jpg 768w, /wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-1536x1536.jpg 1536w, /wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-2048x2048.jpg 2048w, /wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-1024x1024.jpg" alt="" class="wp-image-5934" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-scaled-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-scaled-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-2048x2048.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-DNA-FX-cover-photo-1-1080x1080.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

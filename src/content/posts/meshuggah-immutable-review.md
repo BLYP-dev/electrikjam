@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review.png"
 featuredImageAlt: "Meshuggah IMMUTABLE Review"
 seo: 
   title: "Meshuggah IMMUTABLE Review: Djently Does It..."
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-1024x683.png" alt="Meshuggah IMMUTABLE Review" class="wp-image-7529" title="" srcset="/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-1024x683.png 1024w, /wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-600x400.png 600w, /wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-300x200.png 300w, /wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-768x512.png 768w, /wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-1024x683.png" alt="Meshuggah IMMUTABLE Review" class="wp-image-7529" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Meshuggah-IMMUTABLE-Review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

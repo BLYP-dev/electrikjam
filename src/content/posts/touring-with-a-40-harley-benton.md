@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2023/02/Touring-with-a-40-dollar-harley-Benton.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/02/Touring-with-a-40-dollar-harley-Benton.png"
 featuredImageAlt: "Touring with a $40 Harley benton"
 seo: 
   title: "Touring With A $40 Harley Benton Guitar?"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Touring-with-a-Harley-benton-1024x683.png" alt="Touring with a $40 Harley Benton" class="wp-image-10855" title="" srcset="/wp-content/uploads/2023/02/Touring-with-a-Harley-benton-1024x683.png 1024w, /wp-content/uploads/2023/02/Touring-with-a-Harley-benton-600x400.png 600w, /wp-content/uploads/2023/02/Touring-with-a-Harley-benton-300x200.png 300w, /wp-content/uploads/2023/02/Touring-with-a-Harley-benton-768x512.png 768w, /wp-content/uploads/2023/02/Touring-with-a-Harley-benton.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Touring-with-a-Harley-benton-1024x683.png" alt="Touring with a $40 Harley Benton" class="wp-image-10855" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Touring-with-a-Harley-benton-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Touring-with-a-Harley-benton-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Touring-with-a-Harley-benton-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Touring-with-a-Harley-benton-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Touring-with-a-Harley-benton.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/02/maxresdefault-1024x576.jpg" alt="Touring with a $40 Harley Benton guitar" class="wp-image-10865" title="" srcset="/wp-content/uploads/2023/02/maxresdefault-1024x576.jpg 1024w, /wp-content/uploads/2023/02/maxresdefault-600x338.jpg 600w, /wp-content/uploads/2023/02/maxresdefault-300x169.jpg 300w, /wp-content/uploads/2023/02/maxresdefault-768x432.jpg 768w, /wp-content/uploads/2023/02/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>From Scott&#8217;s <a href="https://youtu.be/m6d4--0e8qs" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="217868">YouTube Channel</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2023/02/maxresdefault-1024x576.jpg" alt="Touring with a $40 Harley Benton guitar" class="wp-image-10865" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/maxresdefault-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/maxresdefault-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/maxresdefault-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/maxresdefault-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>From Scott&#8217;s <a href="https://youtu.be/m6d4--0e8qs" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="217868">YouTube Channel</a></strong></figcaption></figure>
 
 
 

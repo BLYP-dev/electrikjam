@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/01/Bands-Like-Ghost.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/01/Bands-Like-Ghost.png"
 featuredImageAlt: "Bands Like Ghost"
 seo: 
   title: "Bands Like Ghost You Should Definitely Check Out"
@@ -155,7 +155,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png" alt="Best Ghost Album" class="wp-image-7313" title="" srcset="/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png 1024w, /wp-content/uploads/2022/03/Best-Ghost-Album-600x400.png 600w, /wp-content/uploads/2022/03/Best-Ghost-Album-300x200.png 300w, /wp-content/uploads/2022/03/Best-Ghost-Album-768x512.png 768w, /wp-content/uploads/2022/03/Best-Ghost-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png" alt="Best Ghost Album" class="wp-image-7313" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Best-Ghost-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/what-guitars-do-ghost-use-1024x683.png" alt="what guitars do ghost use" class="wp-image-7281" title="" srcset="/wp-content/uploads/2022/03/what-guitars-do-ghost-use-1024x683.png 1024w, /wp-content/uploads/2022/03/what-guitars-do-ghost-use-600x400.png 600w, /wp-content/uploads/2022/03/what-guitars-do-ghost-use-300x200.png 300w, /wp-content/uploads/2022/03/what-guitars-do-ghost-use-768x512.png 768w, /wp-content/uploads/2022/03/what-guitars-do-ghost-use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/what-guitars-do-ghost-use-1024x683.png" alt="what guitars do ghost use" class="wp-image-7281" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/what-guitars-do-ghost-use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/what-guitars-do-ghost-use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/what-guitars-do-ghost-use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/what-guitars-do-ghost-use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/what-guitars-do-ghost-use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -277,7 +277,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-1024x683.png" alt="What Guitar Tuning Do Ghost Use" class="wp-image-7231" title="" srcset="/wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-1024x683.png" alt="What Guitar Tuning Do Ghost Use" class="wp-image-7231" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Guitar-Tuning-Do-Ghost-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -375,7 +375,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-1024x683.png" alt="Bands similar to EYEHATEGOD" class="wp-image-13849" title="" srcset="/wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-1024x683.png 1024w, /wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-600x400.png 600w, /wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-300x200.png 300w, /wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-768x512.png 768w, /wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-1024x683.png" alt="Bands similar to EYEHATEGOD" class="wp-image-13849" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/Bands-similar-to-EYEHATEGOD.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -433,7 +433,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1024x853.png" alt="13 Ghost (The Band) Facts You Probably Didn’t Know" class="wp-image-5401" title="" srcset="/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1024x853.png 1024w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-600x500.png 600w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-300x250.png 300w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-768x640.png 768w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1080x900.png 1080w, /wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1024x853.png" alt="13 Ghost (The Band) Facts You Probably Didn’t Know" class="wp-image-5401" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/13-Ghost-The-Band-Facts-You-Probably-Didnt-Know.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

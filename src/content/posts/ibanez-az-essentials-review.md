@@ -25,7 +25,7 @@ tagSlugs:
   - "ibanez"
 tagPaths: 
   - "/tag/ibanez/"
-featuredImage: "/wp-content/uploads/2022/01/Ibanez-az.webp"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-az.webp"
 featuredImageAlt: "Ibanez AZ Essentials"
 seo: 
   title: "Ibanez AZ Essentials 2022 Review: The Perfect Beginner/Intermediate Guitar?"
@@ -79,7 +79,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue.webp" alt="Ibanez AZ Essentials" class="wp-image-6368" title="" srcset="/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue.webp 720w, /wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue-300x300.webp 300w, /wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue-100x100.webp 100w, /wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue-600x600.webp 600w, /wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong><em>Ibanez AZ Essentials in Purist Blue</em></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue.webp" alt="Ibanez AZ Essentials" class="wp-image-6368" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-Blue-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong><em>Ibanez AZ Essentials in Purist Blue</em></strong></figcaption></figure>
 			
 		
 
@@ -157,7 +157,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2.jpg" alt="Ibanez AZ essentials" class="wp-image-6369" title="" srcset="/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2.jpg 720w, /wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2-300x300.jpg 300w, /wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2-100x100.jpg 100w, /wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2-600x600.jpg 600w, /wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>Mono Jack, and Dyna Switch</strong></em></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2.jpg" alt="Ibanez AZ essentials" class="wp-image-6369" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2.jpg 720w, https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Ibanez-AZ-Essentials-2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em><strong>Mono Jack, and Dyna Switch</strong></em></figcaption></figure>
 			
 		
 

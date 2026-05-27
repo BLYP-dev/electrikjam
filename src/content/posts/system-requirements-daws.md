@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/11/The-Absolute-BASICS-You-Need-To-Run-A-DAW.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/11/The-Absolute-BASICS-You-Need-To-Run-A-DAW.jpg"
 featuredImageAlt: "The Absolute BASICS You Need To Run A DAW"
 seo: 
   title: "System Requirements For DAWs: What You'll Need To Start Recording At Home"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="562" src="/wp-content/uploads/2024/01/what-is-cubase.jpg" alt="" class="wp-image-13791" title="" srcset="/wp-content/uploads/2024/01/what-is-cubase.jpg 1000w, /wp-content/uploads/2024/01/what-is-cubase-600x337.jpg 600w, /wp-content/uploads/2024/01/what-is-cubase-300x169.jpg 300w, /wp-content/uploads/2024/01/what-is-cubase-768x432.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="562" src="https://www.electrikjam.com/wp-content/uploads/2024/01/what-is-cubase.jpg" alt="" class="wp-image-13791" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/what-is-cubase.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2024/01/what-is-cubase-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/what-is-cubase-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/what-is-cubase-768x432.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -161,7 +161,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/cubase-12-system-requirements-1024x683.png" alt="cubase 12 system requirements" class="wp-image-12601" title="" srcset="/wp-content/uploads/2023/08/cubase-12-system-requirements-1024x683.png 1024w, /wp-content/uploads/2023/08/cubase-12-system-requirements-600x400.png 600w, /wp-content/uploads/2023/08/cubase-12-system-requirements-300x200.png 300w, /wp-content/uploads/2023/08/cubase-12-system-requirements-768x512.png 768w, /wp-content/uploads/2023/08/cubase-12-system-requirements.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-1024x683.png" alt="cubase 12 system requirements" class="wp-image-12601" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -491,7 +491,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/07/Build-a-Recording-PC-1024x683.png" alt="Music Production PC" class="wp-image-15541" title="" srcset="/wp-content/uploads/2024/07/Build-a-Recording-PC-1024x683.png 1024w, /wp-content/uploads/2024/07/Build-a-Recording-PC-600x400.png 600w, /wp-content/uploads/2024/07/Build-a-Recording-PC-300x200.png 300w, /wp-content/uploads/2024/07/Build-a-Recording-PC-768x512.png 768w, /wp-content/uploads/2024/07/Build-a-Recording-PC.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">I use a Mac Studio. It&#8217;s brilliant for music production (and basically everything else). <strong><a href="https://www.walmart.com/ip/Apple-Mac-Studio-MQH73LL-A-Desktop-Computer-Apple-M2-Max-Dodeca-core-12-Core-32-GB-RAM-512-GB-SSD-Silver/3421381899?classType=REGULAR&amp;from=/search" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="270304">But it is hella expensive</a></strong>. </figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/07/Build-a-Recording-PC-1024x683.png" alt="Music Production PC" class="wp-image-15541" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/07/Build-a-Recording-PC-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/07/Build-a-Recording-PC-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/07/Build-a-Recording-PC-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/07/Build-a-Recording-PC-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/07/Build-a-Recording-PC.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">I use a Mac Studio. It&#8217;s brilliant for music production (and basically everything else). <strong><a href="https://www.walmart.com/ip/Apple-Mac-Studio-MQH73LL-A-Desktop-Computer-Apple-M2-Max-Dodeca-core-12-Core-32-GB-RAM-512-GB-SSD-Silver/3421381899?classType=REGULAR&amp;from=/search" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="270304">But it is hella expensive</a></strong>. </figcaption></figure>
 
 
 
@@ -599,7 +599,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="485" src="/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg" alt="" class="wp-image-1656" title="" srcset="/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg 1024w, /wp-content/uploads/2020/12/Start-Recording-Immediately-600x284.jpg 600w, /wp-content/uploads/2020/12/Start-Recording-Immediately-300x142.jpg 300w, /wp-content/uploads/2020/12/Start-Recording-Immediately-768x364.jpg 768w, /wp-content/uploads/2020/12/Start-Recording-Immediately-1536x728.jpg 1536w, /wp-content/uploads/2020/12/Start-Recording-Immediately.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="485" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg" alt="" class="wp-image-1656" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1024x485.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-600x284.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-300x142.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-768x364.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately-1536x728.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/12/Start-Recording-Immediately.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "line-6"
 tagPaths: 
   - "/tag/line-6/"
-featuredImage: "/wp-content/uploads/2021/09/Pod-go-cover.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Pod-go-cover.jpg"
 featuredImageAlt: "Pod go cover"
 seo: 
   title: "Line 6 POD GO Reviews: The #1 Alternative To The Legendary Helix"
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="561" src="/wp-content/uploads/2021/09/POD-Go.jpg" alt="Line 6 Pod Go" class="wp-image-4516" title="" srcset="/wp-content/uploads/2021/09/POD-Go.jpg 800w, /wp-content/uploads/2021/09/POD-Go-600x421.jpg 600w, /wp-content/uploads/2021/09/POD-Go-300x210.jpg 300w, /wp-content/uploads/2021/09/POD-Go-768x539.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption><em><strong>The Line 6 POD GO</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="561" src="https://www.electrikjam.com/wp-content/uploads/2021/09/POD-Go.jpg" alt="Line 6 Pod Go" class="wp-image-4516" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/POD-Go.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/09/POD-Go-600x421.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/POD-Go-300x210.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/POD-Go-768x539.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption><em><strong>The Line 6 POD GO</strong></em></figcaption></figure>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="287" src="/wp-content/uploads/2021/09/GPODGOUK_a-1024x287.jpg" alt="" class="wp-image-4521" title="" srcset="/wp-content/uploads/2021/09/GPODGOUK_a-1024x287.jpg 1024w, /wp-content/uploads/2021/09/GPODGOUK_a-600x168.jpg 600w, /wp-content/uploads/2021/09/GPODGOUK_a-300x84.jpg 300w, /wp-content/uploads/2021/09/GPODGOUK_a-768x216.jpg 768w, /wp-content/uploads/2021/09/GPODGOUK_a-1536x431.jpg 1536w, /wp-content/uploads/2021/09/GPODGOUK_a-1080x303.jpg 1080w, /wp-content/uploads/2021/09/GPODGOUK_a.jpg 1856w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="287" src="https://www.electrikjam.com/wp-content/uploads/2021/09/GPODGOUK_a-1024x287.jpg" alt="" class="wp-image-4521" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/GPODGOUK_a-1024x287.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/GPODGOUK_a-600x168.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/GPODGOUK_a-300x84.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/GPODGOUK_a-768x216.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/GPODGOUK_a-1536x431.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/09/GPODGOUK_a-1080x303.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/GPODGOUK_a.jpg 1856w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/09/Fender-esquire.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-esquire.jpg"
 featuredImageAlt: "Fender-esquire"
 seo: 
   title: "Who Invented The Electric Guitar? It's Kind of An Interesting Story..."
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/George-Breed-Guitar-697x1024.png" alt="" class="wp-image-586" width="1000" height="1024" title=""><figcaption>George&#8217;s Patent Application 1891</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/George-Breed-Guitar-697x1024.png" alt="" class="wp-image-586" width="1000" height="1024" title=""><figcaption>George&#8217;s Patent Application 1891</figcaption></figure>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Ken-Rickenbacker-1024x579.jpg" alt="" class="wp-image-587" width="1000" title="" srcset="/wp-content/uploads/2020/09/Ken-Rickenbacker-1024x579.jpg 1024w, /wp-content/uploads/2020/09/Ken-Rickenbacker-600x340.jpg 600w, /wp-content/uploads/2020/09/Ken-Rickenbacker-300x170.jpg 300w, /wp-content/uploads/2020/09/Ken-Rickenbacker-768x435.jpg 768w, /wp-content/uploads/2020/09/Ken-Rickenbacker.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Ken Roberts Electro Guitar, A piece of real history</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Ken-Rickenbacker-1024x579.jpg" alt="" class="wp-image-587" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Ken-Rickenbacker-1024x579.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Ken-Rickenbacker-600x340.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Ken-Rickenbacker-300x170.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Ken-Rickenbacker-768x435.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Ken-Rickenbacker.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Ken Roberts Electro Guitar, A piece of real history</figcaption></figure>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Gibson-Eh.jpg" alt="" class="wp-image-588" width="1000" title="" srcset="/wp-content/uploads/2020/09/Gibson-Eh.jpg 512w, /wp-content/uploads/2020/09/Gibson-Eh-300x254.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Gibson EH Custom</figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-Eh.jpg" alt="" class="wp-image-588" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-Eh.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-Eh-300x254.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Gibson EH Custom</figcaption></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Gibson-es-150-1024x1024.jpg" alt="" class="wp-image-589" width="1000" title="" srcset="/wp-content/uploads/2020/09/Gibson-es-150-1024x1024.jpg 1024w, /wp-content/uploads/2020/09/Gibson-es-150-300x300.jpg 300w, /wp-content/uploads/2020/09/Gibson-es-150-100x100.jpg 100w, /wp-content/uploads/2020/09/Gibson-es-150-600x600.jpg 600w, /wp-content/uploads/2020/09/Gibson-es-150-150x150.jpg 150w, /wp-content/uploads/2020/09/Gibson-es-150-768x768.jpg 768w, /wp-content/uploads/2020/09/Gibson-es-150-1536x1536.jpg 1536w, /wp-content/uploads/2020/09/Gibson-es-150.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Gibson ES 150 &#8220;Jazzbox&#8221;</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150-1024x1024.jpg" alt="" class="wp-image-589" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es-150.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Gibson ES 150 &#8220;Jazzbox&#8221;</figcaption></figure>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Merle-Travis-695x1024.jpg" alt="" class="wp-image-590" width="1000" height="1204" title=""><figcaption>The Travis-Bigsby Guitar</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Merle-Travis-695x1024.jpg" alt="" class="wp-image-590" width="1000" height="1204" title=""><figcaption>The Travis-Bigsby Guitar</figcaption></figure>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Fender-esquire-1024x576.jpg" alt="" class="wp-image-591" width="1000" title="" srcset="/wp-content/uploads/2020/09/Fender-esquire-1024x576.jpg 1024w, /wp-content/uploads/2020/09/Fender-esquire-600x338.jpg 600w, /wp-content/uploads/2020/09/Fender-esquire-300x169.jpg 300w, /wp-content/uploads/2020/09/Fender-esquire-768x432.jpg 768w, /wp-content/uploads/2020/09/Fender-esquire-1536x864.jpg 1536w, /wp-content/uploads/2020/09/Fender-esquire.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>1953 Fender Esquire Guitar</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-esquire-1024x576.jpg" alt="" class="wp-image-591" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-esquire-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-esquire-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-esquire-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-esquire-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-esquire-1536x864.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-esquire.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>1953 Fender Esquire Guitar</figcaption></figure>
 
 
 
@@ -328,7 +328,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Fender-Strat-1024x759.jpg" alt="" class="wp-image-592" width="1000" title="" srcset="/wp-content/uploads/2020/09/Fender-Strat-1024x759.jpg 1024w, /wp-content/uploads/2020/09/Fender-Strat-600x445.jpg 600w, /wp-content/uploads/2020/09/Fender-Strat-300x222.jpg 300w, /wp-content/uploads/2020/09/Fender-Strat-768x569.jpg 768w, /wp-content/uploads/2020/09/Fender-Strat.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The 1950&#8217;s Fender Stratocaster in Sunburst Color</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Strat-1024x759.jpg" alt="" class="wp-image-592" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Strat-1024x759.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Strat-600x445.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Strat-300x222.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Strat-768x569.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Fender-Strat.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The 1950&#8217;s Fender Stratocaster in Sunburst Color</figcaption></figure>
 
 
 
@@ -360,7 +360,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Gibson-es335.jpg" alt="" class="wp-image-593" width="1000" title="" srcset="/wp-content/uploads/2020/09/Gibson-es335.jpg 1024w, /wp-content/uploads/2020/09/Gibson-es335-600x338.jpg 600w, /wp-content/uploads/2020/09/Gibson-es335-300x169.jpg 300w, /wp-content/uploads/2020/09/Gibson-es335-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>1950&#8217;s Gibson ES 335</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es335.jpg" alt="" class="wp-image-593" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es335.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es335-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es335-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Gibson-es335-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>1950&#8217;s Gibson ES 335</figcaption></figure>
 
 
 
@@ -388,7 +388,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/09/Ted-mcCarty-models-1024x768.jpg" alt="" class="wp-image-594" width="1000" title="" srcset="/wp-content/uploads/2020/09/Ted-mcCarty-models-1024x768.jpg 1024w, /wp-content/uploads/2020/09/Ted-mcCarty-models-600x450.jpg 600w, /wp-content/uploads/2020/09/Ted-mcCarty-models-300x225.jpg 300w, /wp-content/uploads/2020/09/Ted-mcCarty-models-768x576.jpg 768w, /wp-content/uploads/2020/09/Ted-mcCarty-models.jpg 1403w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ted McCarty&#8217;s Gibson designs: The Explorer and Flying V</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Ted-mcCarty-models-1024x768.jpg" alt="" class="wp-image-594" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/Ted-mcCarty-models-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/09/Ted-mcCarty-models-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/Ted-mcCarty-models-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/Ted-mcCarty-models-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/09/Ted-mcCarty-models.jpg 1403w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ted McCarty&#8217;s Gibson designs: The Explorer and Flying V</figcaption></figure>
 
 
 

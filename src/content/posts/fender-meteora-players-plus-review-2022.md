@@ -28,7 +28,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/fender/"
   - "/tag/fender-meteora/"
-featuredImage: "/wp-content/uploads/2022/03/Untitled-design.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design.png"
 featuredImageAlt: "Fender Meteora"
 seo: 
   title: "Fender Meteora Player Plus Review: Is It 100% Legit?"
@@ -100,7 +100,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="736" src="/wp-content/uploads/2022/03/meteora-1024x736.webp" alt="Fender Meteora original" class="wp-image-7519" title="" srcset="/wp-content/uploads/2022/03/meteora-1024x736.webp 1024w, /wp-content/uploads/2022/03/meteora-600x431.webp 600w, /wp-content/uploads/2022/03/meteora-300x216.webp 300w, /wp-content/uploads/2022/03/meteora-768x552.webp 768w, /wp-content/uploads/2022/03/meteora.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The ORIGINAL Fender Meteora</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="736" src="https://www.electrikjam.com/wp-content/uploads/2022/03/meteora-1024x736.webp" alt="Fender Meteora original" class="wp-image-7519" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/meteora-1024x736.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/meteora-600x431.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/meteora-300x216.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/meteora-768x552.webp 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/meteora.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>The ORIGINAL Fender Meteora</strong></figcaption></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-1-1-1024x683.png" alt="Fender Meteora" class="wp-image-7512" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-1-1-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-1-1-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-1-1-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-1-1-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-1-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The New Fender Meteora In 4 Colors</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1-1-1024x683.png" alt="Fender Meteora" class="wp-image-7512" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The New Fender Meteora In 4 Colors</figcaption></figure>
 
 
 
@@ -242,7 +242,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-2-1-1024x683.png" alt="Fender Meteora" class="wp-image-7513" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-2-1-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-2-1-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-2-1-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-2-1-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-2-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Fender Meteora In Cosmic Jade</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-1-1024x683.png" alt="Fender Meteora" class="wp-image-7513" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Fender Meteora In Cosmic Jade</strong></figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-cover.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-cover.png"
 featuredImageAlt: "Electric Guitar Easier than Piano"
 seo: 
   title: "Is Electric Guitar Easier than Piano? Exploring the Differences and Learning Process"
@@ -62,7 +62,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png" alt="Fender Meteora vs Fender Telecaster" class="wp-image-12762" title="" srcset="/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png 1024w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-600x400.png 600w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-300x200.png 300w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-768x512.png 768w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png" alt="Fender Meteora vs Fender Telecaster" class="wp-image-12762" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Best-MIDI-Keyboards-1024x683.png" alt="Best MIDI Keyboards" class="wp-image-12727" title="" srcset="/wp-content/uploads/2023/09/Best-MIDI-Keyboards-1024x683.png 1024w, /wp-content/uploads/2023/09/Best-MIDI-Keyboards-600x400.png 600w, /wp-content/uploads/2023/09/Best-MIDI-Keyboards-300x200.png 300w, /wp-content/uploads/2023/09/Best-MIDI-Keyboards-768x512.png 768w, /wp-content/uploads/2023/09/Best-MIDI-Keyboards.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-1024x683.png" alt="Best MIDI Keyboards" class="wp-image-12727" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Best-MIDI-Keyboards.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-1024x683.png" alt="Electric Guitar Easier than Piano" class="wp-image-12225" title="" srcset="/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-1024x683.png 1024w, /wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-600x400.png 600w, /wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-300x200.png 300w, /wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-768x512.png 768w, /wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-1024x683.png" alt="Electric Guitar Easier than Piano" class="wp-image-12225" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-inset.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

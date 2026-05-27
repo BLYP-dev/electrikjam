@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It.png"
 featuredImageAlt: "Is A Gibson Les Paul Worth It"
 seo: 
   title: "Is A Gibson Les Paul Worth It? My 2 Cents…"
@@ -56,7 +56,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1024x853.png" alt="Is A Gibson Les Paul Worth It" class="wp-image-6460" title="" srcset="/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1024x853.png 1024w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-600x500.png 600w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-300x250.png 300w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-768x640.png 768w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1080x900.png 1080w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><meta charset="utf-8"><strong><a href="https://www.electrikjam.com/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="44909">Adam Jones From TOOL</a> With His <a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="44910">Gibson Les Paul Custom Silverburst</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1024x853.png" alt="Is A Gibson Les Paul Worth It" class="wp-image-6460" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><meta charset="utf-8"><strong><a href="https://www.electrikjam.com/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="44909">Adam Jones From TOOL</a> With His <a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="44910">Gibson Les Paul Custom Silverburst</a></strong></figcaption></figure>
 			
 		
 
@@ -130,7 +130,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg" alt="gibson-custom-shop" class="wp-image-2462" title="" srcset="/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg 1024w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-600x338.jpg 600w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-300x169.jpg 300w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-768x432.jpg 768w, /wp-content/uploads/2021/03/inside-gibson-custom-shop-1080x608.jpg 1080w, /wp-content/uploads/2021/03/inside-gibson-custom-shop.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg" alt="gibson-custom-shop" class="wp-image-2462" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/inside-gibson-custom-shop.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -200,7 +200,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="995" src="/wp-content/uploads/2021/03/the-original-gibson-les-paul-model-1024x995.png" alt="the-original-gibson-les-paul-model" class="wp-image-2461" title="" srcset="/wp-content/uploads/2021/03/the-original-gibson-les-paul-model-1024x995.png 1024w, /wp-content/uploads/2021/03/the-original-gibson-les-paul-model-600x583.png 600w, /wp-content/uploads/2021/03/the-original-gibson-les-paul-model-300x292.png 300w, /wp-content/uploads/2021/03/the-original-gibson-les-paul-model-768x747.png 768w, /wp-content/uploads/2021/03/the-original-gibson-les-paul-model-1080x1050.png 1080w, /wp-content/uploads/2021/03/the-original-gibson-les-paul-model.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="995" src="https://www.electrikjam.com/wp-content/uploads/2021/03/the-original-gibson-les-paul-model-1024x995.png" alt="the-original-gibson-les-paul-model" class="wp-image-2461" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/the-original-gibson-les-paul-model-1024x995.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/the-original-gibson-les-paul-model-600x583.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/the-original-gibson-les-paul-model-300x292.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/the-original-gibson-les-paul-model-768x747.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/the-original-gibson-les-paul-model-1080x1050.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/03/the-original-gibson-les-paul-model.png 1292w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

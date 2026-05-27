@@ -52,7 +52,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="771" height="771" src="/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="/wp-content/uploads/2020/09/christoper-horton.jpg 771w, /wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, /wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, /wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, /wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, /wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="771" height="771" src="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg 771w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></figure>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="774" height="713" src="/wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n.jpg" alt="richard electrikjam" class="wp-image-12898" title="" srcset="/wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n.jpg 774w, /wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n-600x553.jpg 600w, /wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n-300x276.jpg 300w, /wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n-768x707.jpg 768w" sizes="(max-width: 774px) 100vw, 774px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="774" height="713" src="https://www.electrikjam.com/wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n.jpg" alt="richard electrikjam" class="wp-image-12898" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n.jpg 774w, https://www.electrikjam.com/wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n-600x553.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n-300x276.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/257498583_10159645966729116_3582559321599448027_n-768x707.jpg 768w" sizes="(max-width: 774px) 100vw, 774px" /></figure>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/positive-grid-spark-cab-1024x683.png" alt="positive grid spark cab" class="wp-image-12891" title="" srcset="/wp-content/uploads/2023/10/positive-grid-spark-cab-1024x683.png 1024w, /wp-content/uploads/2023/10/positive-grid-spark-cab-600x400.png 600w, /wp-content/uploads/2023/10/positive-grid-spark-cab-300x200.png 300w, /wp-content/uploads/2023/10/positive-grid-spark-cab-768x512.png 768w, /wp-content/uploads/2023/10/positive-grid-spark-cab.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab-1024x683.png" alt="positive grid spark cab" class="wp-image-12891" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/positive-grid-spark-cab.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -150,7 +150,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-1024x585.webp" alt="" class="wp-image-12899" title="" srcset="/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-1024x585.webp 1024w, /wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-600x343.webp 600w, /wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-300x171.webp 300w, /wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-768x439.webp 768w, /wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-1536x878.webp 1536w, /wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5.webp 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="https://www.electrikjam.com/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-1024x585.webp" alt="" class="wp-image-12899" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-1024x585.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-600x343.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-300x171.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-768x439.webp 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5-1536x878.webp 1536w, https://www.electrikjam.com/wp-content/uploads/2023/10/eef741f0-9de9-4add-bf92-34ca05b715c5.webp 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -247,8 +247,8 @@ seo:
   "logo": {
     "@type": "ImageObject",
     "@id": "https://www.electrikjam.com/#logo",
-    "url": "/wp-content/uploads/2023/02/ELECTRIKJAM.png",
-    "contentUrl": "/wp-content/uploads/2023/02/ELECTRIKJAM.png",
+    "url": "https://www.electrikjam.com/wp-content/uploads/2023/02/ELECTRIKJAM.png",
+    "contentUrl": "https://www.electrikjam.com/wp-content/uploads/2023/02/ELECTRIKJAM.png",
     "caption": "ELECTRIKJAM",
     "inLanguage": "en-US",
     "width": 315,

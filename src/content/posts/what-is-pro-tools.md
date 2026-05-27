@@ -22,7 +22,7 @@ tagSlugs:
   - "pro-tools"
 tagPaths: 
   - "/tag/pro-tools/"
-featuredImage: "/wp-content/uploads/2023/10/Pro-Tools-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/Pro-Tools-1.png"
 featuredImageAlt: "Pro Tools"
 seo: 
   title: "Pro Tools 101: Everything You Need To Know [2024]"
@@ -134,7 +134,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/pro-Tools-2-1024x683.png" alt="Pro Tools" class="wp-image-13209" title="" srcset="/wp-content/uploads/2023/10/pro-Tools-2-1024x683.png 1024w, /wp-content/uploads/2023/10/pro-Tools-2-600x400.png 600w, /wp-content/uploads/2023/10/pro-Tools-2-300x200.png 300w, /wp-content/uploads/2023/10/pro-Tools-2-768x512.png 768w, /wp-content/uploads/2023/10/pro-Tools-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/pro-Tools-2-1024x683.png" alt="Pro Tools" class="wp-image-13209" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/pro-Tools-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/pro-Tools-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/pro-Tools-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/pro-Tools-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/pro-Tools-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="572" src="/wp-content/uploads/2024/04/20226-Blog-Hero-1024x572.png" alt="" class="wp-image-14633" title="" srcset="/wp-content/uploads/2024/04/20226-Blog-Hero-1024x572.png 1024w, /wp-content/uploads/2024/04/20226-Blog-Hero-600x335.png 600w, /wp-content/uploads/2024/04/20226-Blog-Hero-300x168.png 300w, /wp-content/uploads/2024/04/20226-Blog-Hero-768x429.png 768w, /wp-content/uploads/2024/04/20226-Blog-Hero-1536x858.png 1536w, /wp-content/uploads/2024/04/20226-Blog-Hero.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="572" src="https://www.electrikjam.com/wp-content/uploads/2024/04/20226-Blog-Hero-1024x572.png" alt="" class="wp-image-14633" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/20226-Blog-Hero-1024x572.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/20226-Blog-Hero-600x335.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/20226-Blog-Hero-300x168.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/20226-Blog-Hero-768x429.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/20226-Blog-Hero-1536x858.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/04/20226-Blog-Hero.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -306,7 +306,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/04/maxresdefault-2-1024x576.jpg" alt="" class="wp-image-14634" title="" srcset="/wp-content/uploads/2024/04/maxresdefault-2-1024x576.jpg 1024w, /wp-content/uploads/2024/04/maxresdefault-2-600x338.jpg 600w, /wp-content/uploads/2024/04/maxresdefault-2-300x169.jpg 300w, /wp-content/uploads/2024/04/maxresdefault-2-768x432.jpg 768w, /wp-content/uploads/2024/04/maxresdefault-2.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-2-1024x576.jpg" alt="" class="wp-image-14634" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-2-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-2-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-2-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-2-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/maxresdefault-2.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -330,7 +330,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="570" src="/wp-content/uploads/2024/04/Dolby-Atmos-logo.webp" alt="" class="wp-image-14623" title="" srcset="/wp-content/uploads/2024/04/Dolby-Atmos-logo.webp 1000w, /wp-content/uploads/2024/04/Dolby-Atmos-logo-600x342.webp 600w, /wp-content/uploads/2024/04/Dolby-Atmos-logo-300x171.webp 300w, /wp-content/uploads/2024/04/Dolby-Atmos-logo-768x438.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1000" height="570" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo.webp" alt="" class="wp-image-14623" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo.webp 1000w, https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo-600x342.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo-300x171.webp 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Dolby-Atmos-logo-768x438.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -370,7 +370,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Pro-Tools-3-1024x683.png" alt="Pro Tools" class="wp-image-13210" title="" srcset="/wp-content/uploads/2023/10/Pro-Tools-3-1024x683.png 1024w, /wp-content/uploads/2023/10/Pro-Tools-3-600x400.png 600w, /wp-content/uploads/2023/10/Pro-Tools-3-300x200.png 300w, /wp-content/uploads/2023/10/Pro-Tools-3-768x512.png 768w, /wp-content/uploads/2023/10/Pro-Tools-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Pro-Tools-3-1024x683.png" alt="Pro Tools" class="wp-image-13210" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Pro-Tools-3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Pro-Tools-3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Pro-Tools-3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Pro-Tools-3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Pro-Tools-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -402,7 +402,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/cubase-12-system-requirements-1024x683.png" alt="cubase 12 system requirements" class="wp-image-12601" title="" srcset="/wp-content/uploads/2023/08/cubase-12-system-requirements-1024x683.png 1024w, /wp-content/uploads/2023/08/cubase-12-system-requirements-600x400.png 600w, /wp-content/uploads/2023/08/cubase-12-system-requirements-300x200.png 300w, /wp-content/uploads/2023/08/cubase-12-system-requirements-768x512.png 768w, /wp-content/uploads/2023/08/cubase-12-system-requirements.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-1024x683.png" alt="cubase 12 system requirements" class="wp-image-12601" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/cubase-12-system-requirements.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -438,7 +438,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="900" height="542" src="/wp-content/uploads/2024/04/Pro-Tools-studio.jpg" alt="" class="wp-image-14635" title="" srcset="/wp-content/uploads/2024/04/Pro-Tools-studio.jpg 900w, /wp-content/uploads/2024/04/Pro-Tools-studio-600x361.jpg 600w, /wp-content/uploads/2024/04/Pro-Tools-studio-300x181.jpg 300w, /wp-content/uploads/2024/04/Pro-Tools-studio-768x463.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="900" height="542" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Pro-Tools-studio.jpg" alt="" class="wp-image-14635" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Pro-Tools-studio.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2024/04/Pro-Tools-studio-600x361.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Pro-Tools-studio-300x181.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Pro-Tools-studio-768x463.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure>
 
 
 
@@ -474,7 +474,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-1024x683.png" alt="Ableton Live" class="wp-image-12571" title="" srcset="/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-1024x683.png 1024w, /wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-600x400.png 600w, /wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-300x200.png 300w, /wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-768x512.png 768w, /wp-content/uploads/2023/08/Ableton-Live-11-Skrillex.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-1024x683.png" alt="Ableton Live" class="wp-image-12571" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -570,7 +570,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/06/what-is-cubase-1024x683.png" alt="what is cubase" class="wp-image-12268" title="" srcset="/wp-content/uploads/2023/06/what-is-cubase-1024x683.png 1024w, /wp-content/uploads/2023/06/what-is-cubase-600x400.png 600w, /wp-content/uploads/2023/06/what-is-cubase-300x200.png 300w, /wp-content/uploads/2023/06/what-is-cubase-768x512.png 768w, /wp-content/uploads/2023/06/what-is-cubase.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/06/what-is-cubase-1024x683.png" alt="what is cubase" class="wp-image-12268" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/06/what-is-cubase-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/06/what-is-cubase-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/06/what-is-cubase-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/06/what-is-cubase-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/06/what-is-cubase.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/AADGBE-Guitar-Tuning-Drop-A.png"
 featuredImageAlt: "New Queens of The Stone Age Album"
 seo: 
   title: "AADGBE Guitar Tuning (Drop A): Gettin’ LOW N’ DIRTY…"

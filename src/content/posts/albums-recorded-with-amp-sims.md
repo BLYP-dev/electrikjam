@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/12/metal-albums-made-with-amp-sims.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/12/metal-albums-made-with-amp-sims.jpg"
 featuredImageAlt: "metal albums made with amp sims"
 seo: 
   title: "12 Metal Albums That Were Recorded Using Amp Sims"

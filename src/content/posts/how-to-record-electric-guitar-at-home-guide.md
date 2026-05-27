@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/caught-in-joy-ptVBlniJi50-unsplash-scaled.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/caught-in-joy-ptVBlniJi50-unsplash-scaled.jpg"
 featuredImageAlt: "caught-in-joy-ptVBlniJi50-unsplash"
 seo: 
   title: "How To Record Electric Guitar At Home: In-Depth Guide For Beginners"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-1024x683.jpg" alt="" class="wp-image-1195" title="" srcset="/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-scaled-600x400.jpg 600w, /wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-300x200.jpg 300w, /wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-768x512.jpg 768w, /wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-1024x683.jpg" alt="" class="wp-image-1195" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/troy-t-dX76Mts-LVM-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="301" src="/wp-content/uploads/2020/11/Focusrite-Scarlett-1024x301.jpg" alt="" class="wp-image-1196" title="" srcset="/wp-content/uploads/2020/11/Focusrite-Scarlett-1024x301.jpg 1024w, /wp-content/uploads/2020/11/Focusrite-Scarlett-600x176.jpg 600w, /wp-content/uploads/2020/11/Focusrite-Scarlett-300x88.jpg 300w, /wp-content/uploads/2020/11/Focusrite-Scarlett-768x226.jpg 768w, /wp-content/uploads/2020/11/Focusrite-Scarlett.jpg 1120w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Don&#8217;t be afraid, I&#8217;m your friend.</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="301" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-1024x301.jpg" alt="" class="wp-image-1196" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-1024x301.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-600x176.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-300x88.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-768x226.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett.jpg 1120w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Don&#8217;t be afraid, I&#8217;m your friend.</em></figcaption></figure>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="728" src="/wp-content/uploads/2020/11/Focusrite-Scarlett-212-1024x728.jpg" alt="" class="wp-image-1197" title="" srcset="/wp-content/uploads/2020/11/Focusrite-Scarlett-212-1024x728.jpg 1024w, /wp-content/uploads/2020/11/Focusrite-Scarlett-212-600x426.jpg 600w, /wp-content/uploads/2020/11/Focusrite-Scarlett-212-300x213.jpg 300w, /wp-content/uploads/2020/11/Focusrite-Scarlett-212-768x546.jpg 768w, /wp-content/uploads/2020/11/Focusrite-Scarlett-212.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Focusrite Scarlett 212</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="728" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-1024x728.jpg" alt="" class="wp-image-1197" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-1024x728.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-600x426.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-300x213.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212-768x546.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Focusrite-Scarlett-212.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Focusrite Scarlett 212</figcaption></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/Behringer-uphoria-1024x1024.jpg" alt="" class="wp-image-1199" title="" srcset="/wp-content/uploads/2020/11/Behringer-uphoria-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Behringer-uphoria-300x300.jpg 300w, /wp-content/uploads/2020/11/Behringer-uphoria-100x100.jpg 100w, /wp-content/uploads/2020/11/Behringer-uphoria-600x600.jpg 600w, /wp-content/uploads/2020/11/Behringer-uphoria-150x150.jpg 150w, /wp-content/uploads/2020/11/Behringer-uphoria-768x768.jpg 768w, /wp-content/uploads/2020/11/Behringer-uphoria-1536x1536.jpg 1536w, /wp-content/uploads/2020/11/Behringer-uphoria.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Behringer U-Phoria Single Interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria-1024x1024.jpg" alt="" class="wp-image-1199" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Behringer-uphoria.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Behringer U-Phoria Single Interface</figcaption></figure>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="491" src="/wp-content/uploads/2020/11/Universal-twin-1024x491.jpg" alt="" class="wp-image-1205" title="" srcset="/wp-content/uploads/2020/11/Universal-twin-1024x491.jpg 1024w, /wp-content/uploads/2020/11/Universal-twin-600x288.jpg 600w, /wp-content/uploads/2020/11/Universal-twin-300x144.jpg 300w, /wp-content/uploads/2020/11/Universal-twin-768x368.jpg 768w, /wp-content/uploads/2020/11/Universal-twin-1536x737.jpg 1536w, /wp-content/uploads/2020/11/Universal-twin.jpg 1805w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Apollo Twin Interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="491" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Universal-twin-1024x491.jpg" alt="" class="wp-image-1205" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Universal-twin-1024x491.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Universal-twin-600x288.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Universal-twin-300x144.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Universal-twin-768x368.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Universal-twin-1536x737.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Universal-twin.jpg 1805w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Apollo Twin Interface</figcaption></figure>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="683" height="1024" src="/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-683x1024.jpg" alt="" class="wp-image-1209" title="" srcset="/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-683x1024.jpg 683w, /wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-scaled-600x900.jpg 600w, /wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-200x300.jpg 200w, /wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-768x1152.jpg 768w, /wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-1024x1536.jpg 1024w, /wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-1365x2048.jpg 1365w, /wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="683" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-683x1024.jpg" alt="" class="wp-image-1209" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-683x1024.jpg 683w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-scaled-600x900.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-200x300.jpg 200w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-768x1152.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-1024x1536.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-1365x2048.jpg 1365w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-W7vKqXIxOaI-unsplash-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
 
 
 
@@ -279,7 +279,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1020" height="797" src="/wp-content/uploads/2020/11/Audacity.jpg" alt="" class="wp-image-1210" title="" srcset="/wp-content/uploads/2020/11/Audacity.jpg 1020w, /wp-content/uploads/2020/11/Audacity-600x469.jpg 600w, /wp-content/uploads/2020/11/Audacity-300x234.jpg 300w, /wp-content/uploads/2020/11/Audacity-768x600.jpg 768w" sizes="(max-width: 1020px) 100vw, 1020px" /><figcaption>Audacity DAW Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1020" height="797" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Audacity.jpg" alt="" class="wp-image-1210" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Audacity.jpg 1020w, https://www.electrikjam.com/wp-content/uploads/2020/11/Audacity-600x469.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Audacity-300x234.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Audacity-768x600.jpg 768w" sizes="(max-width: 1020px) 100vw, 1020px" /><figcaption>Audacity DAW Screenshot</figcaption></figure>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="739" src="/wp-content/uploads/2020/11/Reaper-ses-8-1024x739.png" alt="" class="wp-image-1211" title="" srcset="/wp-content/uploads/2020/11/Reaper-ses-8-1024x739.png 1024w, /wp-content/uploads/2020/11/Reaper-ses-8-600x433.png 600w, /wp-content/uploads/2020/11/Reaper-ses-8-300x216.png 300w, /wp-content/uploads/2020/11/Reaper-ses-8-768x554.png 768w, /wp-content/uploads/2020/11/Reaper-ses-8-1536x1108.png 1536w, /wp-content/uploads/2020/11/Reaper-ses-8.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Reaper Screenshot</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="739" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-1024x739.png" alt="" class="wp-image-1211" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-1024x739.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-600x433.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-300x216.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-768x554.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8-1536x1108.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Reaper-ses-8.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Reaper Screenshot</figcaption></figure>
 
 
 
@@ -363,7 +363,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="683" height="1024" src="/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-683x1024.jpg" alt="" class="wp-image-1206" title="" srcset="/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-683x1024.jpg 683w, /wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-scaled-600x900.jpg 600w, /wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-200x300.jpg 200w, /wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-768x1152.jpg 768w, /wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-1024x1536.jpg 1024w, /wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-1365x2048.jpg 1365w, /wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="683" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-683x1024.jpg" alt="" class="wp-image-1206" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-683x1024.jpg 683w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-scaled-600x900.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-200x300.jpg 200w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-768x1152.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-1024x1536.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-1365x2048.jpg 1365w, https://www.electrikjam.com/wp-content/uploads/2020/11/soundtrap-exNmFNFQKrM-unsplash-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
 
 
 
@@ -383,7 +383,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="836" src="/wp-content/uploads/2020/11/Micing-Guitar-amp-1024x836.jpg" alt="" class="wp-image-1207" title="" srcset="/wp-content/uploads/2020/11/Micing-Guitar-amp-1024x836.jpg 1024w, /wp-content/uploads/2020/11/Micing-Guitar-amp-600x490.jpg 600w, /wp-content/uploads/2020/11/Micing-Guitar-amp-300x245.jpg 300w, /wp-content/uploads/2020/11/Micing-Guitar-amp-768x627.jpg 768w, /wp-content/uploads/2020/11/Micing-Guitar-amp-1536x1254.jpg 1536w, /wp-content/uploads/2020/11/Micing-Guitar-amp-2048x1672.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Mic To A Single Speaker, No Grill Cloth</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="836" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Micing-Guitar-amp-1024x836.jpg" alt="" class="wp-image-1207" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Micing-Guitar-amp-1024x836.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Micing-Guitar-amp-600x490.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Micing-Guitar-amp-300x245.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Micing-Guitar-amp-768x627.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Micing-Guitar-amp-1536x1254.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Micing-Guitar-amp-2048x1672.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Mic To A Single Speaker, No Grill Cloth</figcaption></figure>
 
 
 
@@ -415,7 +415,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/MOOER-23-1024x576.jpg" alt="" class="wp-image-1208" title="" srcset="/wp-content/uploads/2020/11/MOOER-23-1024x576.jpg 1024w, /wp-content/uploads/2020/11/MOOER-23-600x338.jpg 600w, /wp-content/uploads/2020/11/MOOER-23-300x169.jpg 300w, /wp-content/uploads/2020/11/MOOER-23-768x432.jpg 768w, /wp-content/uploads/2020/11/MOOER-23.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/MOOER-23-1024x576.jpg" alt="" class="wp-image-1208" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/MOOER-23-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/MOOER-23-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/MOOER-23-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/MOOER-23-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/MOOER-23.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -439,7 +439,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/09/Boss-katana-1024x683.jpg" alt="best practice amp for beginners" class="wp-image-554" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/09/Boss-katana-1024x683.jpg" alt="best practice amp for beginners" class="wp-image-554" title=""></figure>
 
 
 
@@ -463,7 +463,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/Amped-Roots-1024x576.jpg" alt="" class="wp-image-1213" title="" srcset="/wp-content/uploads/2020/11/Amped-Roots-1024x576.jpg 1024w, /wp-content/uploads/2020/11/Amped-Roots-600x338.jpg 600w, /wp-content/uploads/2020/11/Amped-Roots-300x169.jpg 300w, /wp-content/uploads/2020/11/Amped-Roots-768x432.jpg 768w, /wp-content/uploads/2020/11/Amped-Roots.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Amped Roots Official by ML Audio</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-1024x576.jpg" alt="" class="wp-image-1213" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Amped Roots Official by ML Audio</figcaption></figure>
 
 
 
@@ -507,7 +507,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/Amped-Roots-1-1024x576.jpg" alt="" class="wp-image-1214" title="" srcset="/wp-content/uploads/2020/11/Amped-Roots-1-1024x576.jpg 1024w, /wp-content/uploads/2020/11/Amped-Roots-1-600x338.jpg 600w, /wp-content/uploads/2020/11/Amped-Roots-1-300x169.jpg 300w, /wp-content/uploads/2020/11/Amped-Roots-1-768x432.jpg 768w, /wp-content/uploads/2020/11/Amped-Roots-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-1-1024x576.jpg" alt="" class="wp-image-1214" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-1-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-1-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-1-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-1-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Amped-Roots-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -536,7 +536,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="512" height="196" src="/wp-content/uploads/2020/11/Lepou.jpg" alt="" class="wp-image-1215" title="" srcset="/wp-content/uploads/2020/11/Lepou.jpg 512w, /wp-content/uploads/2020/11/Lepou-300x115.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="512" height="196" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Lepou.jpg" alt="" class="wp-image-1215" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Lepou.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2020/11/Lepou-300x115.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 			
 		
 
@@ -561,7 +561,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="474" src="/wp-content/uploads/2020/11/Kuassa-1024x474.jpg" alt="" class="wp-image-1216" title="" srcset="/wp-content/uploads/2020/11/Kuassa-1024x474.jpg 1024w, /wp-content/uploads/2020/11/Kuassa-600x278.jpg 600w, /wp-content/uploads/2020/11/Kuassa-300x139.jpg 300w, /wp-content/uploads/2020/11/Kuassa-768x356.jpg 768w, /wp-content/uploads/2020/11/Kuassa.jpg 1036w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="474" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Kuassa-1024x474.jpg" alt="" class="wp-image-1216" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Kuassa-1024x474.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Kuassa-600x278.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Kuassa-300x139.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Kuassa-768x356.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Kuassa.jpg 1036w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

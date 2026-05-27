@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2021/09/JB-Nickel-SH-4.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Nickel-SH-4.jpg"
 featuredImageAlt: "Seymour Duncan JB"
 seo: 
   title: "What Is A Trembucker? Don't Worry, We Didn't Know Either!"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="905" height="543" src="/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg" alt="" class="wp-image-4677" title="" srcset="/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg 905w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-600x360.jpg 600w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-300x180.jpg 300w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-768x461.jpg 768w" sizes="(max-width: 905px) 100vw, 905px" /><figcaption><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="11085"><strong><em>Duncan JB Trembucker</em></strong></a></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="905" height="543" src="https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg" alt="" class="wp-image-4677" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg 905w, https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-768x461.jpg 768w" sizes="(max-width: 905px) 100vw, 905px" /><figcaption><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="11085"><strong><em>Duncan JB Trembucker</em></strong></a></figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp" alt="Seymour duncan pearly gates" class="wp-image-5087 size-full" title="" srcset="/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp 1024w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-600x423.webp 600w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-300x211.webp 300w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-768x541.webp 768w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-1080x761.webp 1080w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp" alt="Seymour duncan pearly gates" class="wp-image-5087 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-600x423.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-300x211.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-768x541.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1080x761.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000">Seymour Duncan Pearly Gates</h3>
 
 
@@ -97,7 +97,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="679" src="/wp-content/uploads/2021/10/EVH-pickups-1024x679.png" alt="what is a trembucker?" class="wp-image-5110" title="" srcset="/wp-content/uploads/2021/10/EVH-pickups-1024x679.png 1024w, /wp-content/uploads/2021/10/EVH-pickups-600x398.png 600w, /wp-content/uploads/2021/10/EVH-pickups-300x199.png 300w, /wp-content/uploads/2021/10/EVH-pickups-768x509.png 768w, /wp-content/uploads/2021/10/EVH-pickups-1536x1019.png 1536w, /wp-content/uploads/2021/10/EVH-pickups-1080x716.png 1080w, /wp-content/uploads/2021/10/EVH-pickups.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Eddie Van Halen Didn&#8217;t Seem To care About Spacing!</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="679" src="https://www.electrikjam.com/wp-content/uploads/2021/10/EVH-pickups-1024x679.png" alt="what is a trembucker?" class="wp-image-5110" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/EVH-pickups-1024x679.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/EVH-pickups-600x398.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/EVH-pickups-300x199.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/EVH-pickups-768x509.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/EVH-pickups-1536x1019.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/EVH-pickups-1080x716.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/EVH-pickups.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><em>Eddie Van Halen Didn&#8217;t Seem To care About Spacing!</em></strong></figcaption></figure>
 
 
 

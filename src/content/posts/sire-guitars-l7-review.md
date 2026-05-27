@@ -22,7 +22,7 @@ tagSlugs:
   - "budget-guitars"
 tagPaths: 
   - "/tag/budget-guitars/"
-featuredImage: "/wp-content/uploads/2021/12/Sire-L7-model.webp"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model.webp"
 featuredImageAlt: "Sire Guitars L7"
 seo: 
   title: "Sire Guitars L7 Review: The Astounding Alternative To Epiphone!"
@@ -99,7 +99,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Sire-L7-model.webp" alt="Sire Guitars L7" class="wp-image-6057" title="" srcset="/wp-content/uploads/2021/12/Sire-L7-model.webp 720w, /wp-content/uploads/2021/12/Sire-L7-model-300x300.webp 300w, /wp-content/uploads/2021/12/Sire-L7-model-100x100.webp 100w, /wp-content/uploads/2021/12/Sire-L7-model-600x600.webp 600w, /wp-content/uploads/2021/12/Sire-L7-model-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>Sire Guitars L7 In Sunburst</figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model.webp" alt="Sire Guitars L7" class="wp-image-6057" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-model-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>Sire Guitars L7 In Sunburst</figcaption></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="474" src="/wp-content/uploads/2021/12/l7_neck-1024x474.jpg" alt="" class="wp-image-6221" title="" srcset="/wp-content/uploads/2021/12/l7_neck-1024x474.jpg 1024w, /wp-content/uploads/2021/12/l7_neck-scaled-600x278.jpg 600w, /wp-content/uploads/2021/12/l7_neck-300x139.jpg 300w, /wp-content/uploads/2021/12/l7_neck-768x356.jpg 768w, /wp-content/uploads/2021/12/l7_neck-1536x711.jpg 1536w, /wp-content/uploads/2021/12/l7_neck-2048x948.jpg 2048w, /wp-content/uploads/2021/12/l7_neck-1080x500.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="474" src="https://www.electrikjam.com/wp-content/uploads/2021/12/l7_neck-1024x474.jpg" alt="" class="wp-image-6221" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/l7_neck-1024x474.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/l7_neck-scaled-600x278.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/l7_neck-300x139.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/l7_neck-768x356.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/l7_neck-1536x711.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/l7_neck-2048x948.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/12/l7_neck-1080x500.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="474" src="/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-1024x474.jpg" alt="" class="wp-image-6224" title="" srcset="/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-1024x474.jpg 1024w, /wp-content/uploads/2021/12/Sire-guitars-l7-pickups-scaled-600x278.jpg 600w, /wp-content/uploads/2021/12/Sire-guitars-l7-pickups-300x139.jpg 300w, /wp-content/uploads/2021/12/Sire-guitars-l7-pickups-768x356.jpg 768w, /wp-content/uploads/2021/12/Sire-guitars-l7-pickups-1536x711.jpg 1536w, /wp-content/uploads/2021/12/Sire-guitars-l7-pickups-2048x948.jpg 2048w, /wp-content/uploads/2021/12/Sire-guitars-l7-pickups-1080x500.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="474" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-1024x474.jpg" alt="" class="wp-image-6224" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-1024x474.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-scaled-600x278.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-300x139.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-768x356.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-1536x711.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-2048x948.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-guitars-l7-pickups-1080x500.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="425" src="/wp-content/uploads/2021/12/Sire-L7-Goldtop-1024x425.png" alt="" class="wp-image-6227" title="" srcset="/wp-content/uploads/2021/12/Sire-L7-Goldtop-1024x425.png 1024w, /wp-content/uploads/2021/12/Sire-L7-Goldtop-600x249.png 600w, /wp-content/uploads/2021/12/Sire-L7-Goldtop-300x125.png 300w, /wp-content/uploads/2021/12/Sire-L7-Goldtop-768x319.png 768w, /wp-content/uploads/2021/12/Sire-L7-Goldtop-1536x638.png 1536w, /wp-content/uploads/2021/12/Sire-L7-Goldtop-2048x851.png 2048w, /wp-content/uploads/2021/12/Sire-L7-Goldtop-1080x449.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Goldtop Version of The Sire Guitars L7</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="425" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-Goldtop-1024x425.png" alt="" class="wp-image-6227" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-Goldtop-1024x425.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-Goldtop-600x249.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-Goldtop-300x125.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-Goldtop-768x319.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-Goldtop-1536x638.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-Goldtop-2048x851.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/12/Sire-L7-Goldtop-1080x449.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Goldtop Version of The Sire Guitars L7</figcaption></figure>
 
 
 

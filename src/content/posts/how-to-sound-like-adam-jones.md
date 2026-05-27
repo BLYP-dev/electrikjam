@@ -22,7 +22,7 @@ tagSlugs:
   - "adam-jones"
 tagPaths: 
   - "/tag/adam-jones/"
-featuredImage: "/wp-content/uploads/2024/02/How-To-Sound-Like-Adam-Jones.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/How-To-Sound-Like-Adam-Jones.png"
 featuredImageAlt: "How To Sound Like Adam Jones"
 seo: 
   title: "How To Sound Like Adam Jones: The Gear You'll Need"
@@ -74,7 +74,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" title="" srcset="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Gibson-SG-Standard-1024x683.png" alt="Gibson SG Standard" class="wp-image-14073" title="" srcset="/wp-content/uploads/2024/02/Gibson-SG-Standard-1024x683.png 1024w, /wp-content/uploads/2024/02/Gibson-SG-Standard-600x400.png 600w, /wp-content/uploads/2024/02/Gibson-SG-Standard-300x200.png 300w, /wp-content/uploads/2024/02/Gibson-SG-Standard-768x512.png 768w, /wp-content/uploads/2024/02/Gibson-SG-Standard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-SG-Standard-1024x683.png" alt="Gibson SG Standard" class="wp-image-14073" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-SG-Standard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-SG-Standard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-SG-Standard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-SG-Standard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-SG-Standard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-1024x683.png" alt="Gibson EDS-1275 Double-Neck" class="wp-image-14074" title="" srcset="/wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-1024x683.png 1024w, /wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-600x400.png 600w, /wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-300x200.png 300w, /wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-768x512.png 768w, /wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-1024x683.png" alt="Gibson EDS-1275 Double-Neck" class="wp-image-14074" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Gibson-EDS-1275-Double-Neck.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/Diezel-VH4--1024x683.png" alt="" class="wp-image-14053" title="" srcset="/wp-content/uploads/2024/02/Diezel-VH4--1024x683.png 1024w, /wp-content/uploads/2024/02/Diezel-VH4--600x400.png 600w, /wp-content/uploads/2024/02/Diezel-VH4--300x200.png 300w, /wp-content/uploads/2024/02/Diezel-VH4--768x512.png 768w, /wp-content/uploads/2024/02/Diezel-VH4-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Diezel-VH4--1024x683.png" alt="" class="wp-image-14053" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Diezel-VH4--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Diezel-VH4--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Diezel-VH4--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Diezel-VH4--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/Diezel-VH4-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -238,7 +238,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="580" src="/wp-content/uploads/2021/11/AmpHubMain_2048x-1024x580.png" alt="STL amphub" class="wp-image-5893" title="" srcset="/wp-content/uploads/2021/11/AmpHubMain_2048x-1024x580.png 1024w, /wp-content/uploads/2021/11/AmpHubMain_2048x-600x340.png 600w, /wp-content/uploads/2021/11/AmpHubMain_2048x-300x170.png 300w, /wp-content/uploads/2021/11/AmpHubMain_2048x-768x435.png 768w, /wp-content/uploads/2021/11/AmpHubMain_2048x-1536x871.png 1536w, /wp-content/uploads/2021/11/AmpHubMain_2048x-1080x612.png 1080w, /wp-content/uploads/2021/11/AmpHubMain_2048x.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="580" src="https://www.electrikjam.com/wp-content/uploads/2021/11/AmpHubMain_2048x-1024x580.png" alt="STL amphub" class="wp-image-5893" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/11/AmpHubMain_2048x-1024x580.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/11/AmpHubMain_2048x-600x340.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/11/AmpHubMain_2048x-300x170.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/11/AmpHubMain_2048x-768x435.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/11/AmpHubMain_2048x-1536x871.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/11/AmpHubMain_2048x-1080x612.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/11/AmpHubMain_2048x.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

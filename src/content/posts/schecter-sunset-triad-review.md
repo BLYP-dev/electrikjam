@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/budget-guitars/"
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2023/08/Schecter-Sunset-Triad-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-1.png"
 featuredImageAlt: "Schecter Sunset Triad"
 seo: 
   title: "Schecter Sunset Triad Review: Unique 6 & 7 String Behemoths!"
@@ -191,7 +191,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-1024x683.png" alt="Schecter Sunset Triad" class="wp-image-12620" title="" srcset="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-1024x683.png 1024w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-600x400.png 600w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-300x200.png 300w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-768x512.png 768w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-1024x683.png" alt="Schecter Sunset Triad" class="wp-image-12620" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png" alt="Schecter Sunset Triad" class="wp-image-12621" title="" srcset="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png 1024w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-600x400.png 600w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-300x200.png 300w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-768x512.png 768w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png" alt="Schecter Sunset Triad" class="wp-image-12621" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

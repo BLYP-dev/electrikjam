@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-amps"
 tagPaths: 
   - "/tag/guitar-amps/"
-featuredImage: "/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab.png"
 featuredImageAlt: "How to mic a GUITAR amp"
 seo: 
   title: "How To Mic A Guitar Amp: The 3 PRO Positions For Killer Tone!"
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-1024x683.png" alt="How to mic a GUITAR amp" class="wp-image-8818" title="" srcset="/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-1024x683.png 1024w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-600x400.png 600w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-300x200.png 300w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-768x512.png 768w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-1024x683.png" alt="How to mic a GUITAR amp" class="wp-image-8818" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-cab.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-1024x683.png" alt="How to mic a guitar amp" class="wp-image-8826" title="" srcset="/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-1024x683.png 1024w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-600x400.png 600w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-300x200.png 300w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-768x512.png 768w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Lower Corner Of The Speaker</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-1024x683.png" alt="How to mic a guitar amp" class="wp-image-8826" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-lower.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Lower Corner Of The Speaker</strong></figcaption></figure>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-1024x683.png" alt="how to mic a guitar amp" class="wp-image-8827" title="" srcset="/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-1024x683.png 1024w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-600x400.png 600w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-300x200.png 300w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-768x512.png 768w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Mic Position Dead Center On The Cone</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-1024x683.png" alt="how to mic a guitar amp" class="wp-image-8827" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-middle.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Mic Position Dead Center On The Cone</strong></figcaption></figure>
 
 
 
@@ -291,7 +291,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-1024x683.png" alt="how to mic a guitar amp" class="wp-image-8828" title="" srcset="/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-1024x683.png 1024w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-600x400.png 600w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-300x200.png 300w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-768x512.png 768w, /wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The &#8220;In Between&#8221; Position</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-1024x683.png" alt="how to mic a guitar amp" class="wp-image-8828" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-to-mic-a-guitar-amp-in-between.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The &#8220;In Between&#8221; Position</strong></figcaption></figure>
 
 
 
@@ -323,7 +323,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-1024x683.png" alt="how to mic a guitar amp" class="wp-image-8830" title="" srcset="/wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-1024x683.png 1024w, /wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-600x400.png 600w, /wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-300x200.png 300w, /wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-768x512.png 768w, /wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-1024x683.png" alt="how to mic a guitar amp" class="wp-image-8830" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/How-To-mic-a-guitar-amp-pro.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

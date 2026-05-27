@@ -22,7 +22,7 @@ tagSlugs:
   - "deftones"
 tagPaths: 
   - "/tag/deftones/"
-featuredImage: "/wp-content/uploads/2025/08/best-deftones-albums.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/08/best-deftones-albums.jpg"
 featuredImageAlt: "best deftones albums"
 seo: 
   title: "Deftones Album Ranked In Order of Greatness (Tier 1 To Tier 3)"
@@ -137,7 +137,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-1024x683.jpg" alt="" class="wp-image-18049" title="" srcset="/wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-600x400.jpg 600w, /wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-300x200.jpg 300w, /wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-768x512.jpg 768w, /wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-1024x683.jpg" alt="" class="wp-image-18049" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Around-The-Fur-Deftones-1997.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -173,7 +173,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/White-Pony-Deftones-2000-1024x683.jpg" alt="" class="wp-image-18050" title="" srcset="/wp-content/uploads/2025/08/White-Pony-Deftones-2000-1024x683.jpg 1024w, /wp-content/uploads/2025/08/White-Pony-Deftones-2000-600x400.jpg 600w, /wp-content/uploads/2025/08/White-Pony-Deftones-2000-300x200.jpg 300w, /wp-content/uploads/2025/08/White-Pony-Deftones-2000-768x512.jpg 768w, /wp-content/uploads/2025/08/White-Pony-Deftones-2000.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/White-Pony-Deftones-2000-1024x683.jpg" alt="" class="wp-image-18050" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/White-Pony-Deftones-2000-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/White-Pony-Deftones-2000-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/White-Pony-Deftones-2000-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/White-Pony-Deftones-2000-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/White-Pony-Deftones-2000.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -213,7 +213,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Diamond-Eyes-Deftones-1024x683.jpg" alt="" class="wp-image-18051" title="" srcset="/wp-content/uploads/2025/08/Diamond-Eyes-Deftones-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Diamond-Eyes-Deftones-600x400.jpg 600w, /wp-content/uploads/2025/08/Diamond-Eyes-Deftones-300x200.jpg 300w, /wp-content/uploads/2025/08/Diamond-Eyes-Deftones-768x512.jpg 768w, /wp-content/uploads/2025/08/Diamond-Eyes-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Diamond-Eyes-Deftones-1024x683.jpg" alt="" class="wp-image-18051" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Diamond-Eyes-Deftones-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Diamond-Eyes-Deftones-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Diamond-Eyes-Deftones-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Diamond-Eyes-Deftones-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Diamond-Eyes-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -249,7 +249,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-1024x683.jpg" alt="" class="wp-image-18052" title="" srcset="/wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-600x400.jpg 600w, /wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-300x200.jpg 300w, /wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-768x512.jpg 768w, /wp-content/uploads/2025/08/Koi-No-Yokan-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-1024x683.jpg" alt="" class="wp-image-18052" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Koi-No-Yokan-Deftones-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Koi-No-Yokan-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -323,7 +323,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-1024x683.jpg" alt="" class="wp-image-18053" title="" srcset="/wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-600x400.jpg 600w, /wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-300x200.jpg 300w, /wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-768x512.jpg 768w, /wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-1024x683.jpg" alt="" class="wp-image-18053" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Deftones-Self-Titled-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -369,7 +369,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Adrenaline-Deftones-1024x683.jpg" alt="" class="wp-image-18054" title="" srcset="/wp-content/uploads/2025/08/Adrenaline-Deftones-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Adrenaline-Deftones-600x400.jpg 600w, /wp-content/uploads/2025/08/Adrenaline-Deftones-300x200.jpg 300w, /wp-content/uploads/2025/08/Adrenaline-Deftones-768x512.jpg 768w, /wp-content/uploads/2025/08/Adrenaline-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Adrenaline-Deftones-1024x683.jpg" alt="" class="wp-image-18054" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Adrenaline-Deftones-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Adrenaline-Deftones-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Adrenaline-Deftones-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Adrenaline-Deftones-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Adrenaline-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -409,7 +409,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Ohms-Deftones-1024x683.jpg" alt="" class="wp-image-18055" title="" srcset="/wp-content/uploads/2025/08/Ohms-Deftones-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Ohms-Deftones-600x400.jpg 600w, /wp-content/uploads/2025/08/Ohms-Deftones-300x200.jpg 300w, /wp-content/uploads/2025/08/Ohms-Deftones-768x512.jpg 768w, /wp-content/uploads/2025/08/Ohms-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Ohms-Deftones-1024x683.jpg" alt="" class="wp-image-18055" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Ohms-Deftones-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Ohms-Deftones-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Ohms-Deftones-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Ohms-Deftones-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Ohms-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -449,7 +449,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Gore-Deftones-1024x683.jpg" alt="" class="wp-image-18056" title="" srcset="/wp-content/uploads/2025/08/Gore-Deftones-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Gore-Deftones-600x400.jpg 600w, /wp-content/uploads/2025/08/Gore-Deftones-300x200.jpg 300w, /wp-content/uploads/2025/08/Gore-Deftones-768x512.jpg 768w, /wp-content/uploads/2025/08/Gore-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Gore-Deftones-1024x683.jpg" alt="" class="wp-image-18056" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Gore-Deftones-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Gore-Deftones-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Gore-Deftones-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Gore-Deftones-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Gore-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -489,7 +489,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-1024x683.jpg" alt="" class="wp-image-18057" title="" srcset="/wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-600x400.jpg 600w, /wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-300x200.jpg 300w, /wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-768x512.jpg 768w, /wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-1024x683.jpg" alt="" class="wp-image-18057" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/08/Saturday-Night-Wrist-Deftones.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

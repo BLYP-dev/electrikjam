@@ -28,7 +28,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/ibanez/"
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2023/01/Ibanez-TOD10.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10.png"
 featuredImageAlt: "Ibanez TOD10"
 seo: 
   title: "Ibanez TOD10 Tim Henson Signature Guitar Review: A Blend Of Classic And Modern"
@@ -77,7 +77,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-1024x683.png" alt="Ibanez TOD10" class="wp-image-10287" title="" srcset="/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-1024x683.png 1024w, /wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-600x400.png 600w, /wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-300x200.png 300w, /wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-768x512.png 768w, /wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-1024x683.png" alt="Ibanez TOD10" class="wp-image-10287" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-front-and-back.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-1024x683.png" alt="Ibanez Tod10 pickups" class="wp-image-10288" title="" srcset="/wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-1024x683.png 1024w, /wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-600x400.png 600w, /wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-300x200.png 300w, /wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-768x512.png 768w, /wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-1024x683.png" alt="Ibanez Tod10 pickups" class="wp-image-10288" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/01/Ibanez-TOD10-pickup-selections.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/06/Fender-Japan-Hybrid-Series-II.png"
 featuredImageAlt: "Fender Japan Hybrid Series II"
 seo: 
   title: "Fender Japan Strikes Again With EPIC, New Hybrid Series II Finishes…"
@@ -116,11 +116,11 @@ seo:
 
 
 <figure class="wp-block-gallery alignwide has-nested-images columns-1 is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="343" data-id="15524" src="/wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster.webp" alt="" class="wp-image-15524" title="" srcset="/wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster.webp 1000w, /wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster-600x206.webp 600w, /wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster-300x103.webp 300w, /wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster-768x263.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="343" data-id="15524" src="https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster.webp" alt="" class="wp-image-15524" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster.webp 1000w, https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster-600x206.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster-300x103.webp 300w, https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-jazzmaster-768x263.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="335" data-id="15525" src="/wp-content/uploads/2024/06/Hybrid-Series-II-telecaster.webp" alt="" class="wp-image-15525" title="" srcset="/wp-content/uploads/2024/06/Hybrid-Series-II-telecaster.webp 1000w, /wp-content/uploads/2024/06/Hybrid-Series-II-telecaster-600x201.webp 600w, /wp-content/uploads/2024/06/Hybrid-Series-II-telecaster-300x101.webp 300w, /wp-content/uploads/2024/06/Hybrid-Series-II-telecaster-768x257.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="335" data-id="15525" src="https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-telecaster.webp" alt="" class="wp-image-15525" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-telecaster.webp 1000w, https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-telecaster-600x201.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-telecaster-300x101.webp 300w, https://www.electrikjam.com/wp-content/uploads/2024/06/Hybrid-Series-II-telecaster-768x257.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 </figure>
 
 

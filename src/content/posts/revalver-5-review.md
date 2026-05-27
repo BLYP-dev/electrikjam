@@ -22,7 +22,7 @@ tagSlugs:
   - "popular"
 tagPaths: 
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2024/03/REValver-5-top.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/03/REValver-5-top.png"
 featuredImageAlt: "ReValver 5 Review"
 seo: 
   title: "ReValver 5 Review: The Underdog Amp Sim?"
@@ -69,7 +69,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/ReValver-Amp-sims-1024x683.png" alt="ReValver 5" class="wp-image-14549" title="" srcset="/wp-content/uploads/2024/03/ReValver-Amp-sims-1024x683.png 1024w, /wp-content/uploads/2024/03/ReValver-Amp-sims-600x400.png 600w, /wp-content/uploads/2024/03/ReValver-Amp-sims-300x200.png 300w, /wp-content/uploads/2024/03/ReValver-Amp-sims-768x512.png 768w, /wp-content/uploads/2024/03/ReValver-Amp-sims.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-Amp-sims-1024x683.png" alt="ReValver 5" class="wp-image-14549" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-Amp-sims-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-Amp-sims-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-Amp-sims-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-Amp-sims-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-Amp-sims.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/ReValver-UI-1024x683.png" alt="ReValver 5 Review" class="wp-image-14550" title="" srcset="/wp-content/uploads/2024/03/ReValver-UI-1024x683.png 1024w, /wp-content/uploads/2024/03/ReValver-UI-600x400.png 600w, /wp-content/uploads/2024/03/ReValver-UI-300x200.png 300w, /wp-content/uploads/2024/03/ReValver-UI-768x512.png 768w, /wp-content/uploads/2024/03/ReValver-UI.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-UI-1024x683.png" alt="ReValver 5 Review" class="wp-image-14550" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-UI-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-UI-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-UI-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-UI-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/ReValver-UI.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -490,7 +490,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="453" src="/wp-content/uploads/2024/03/Revalver-pricing-1024x453.png" alt="ReValver" class="wp-image-14558" title="" srcset="/wp-content/uploads/2024/03/Revalver-pricing-1024x453.png 1024w, /wp-content/uploads/2024/03/Revalver-pricing-600x265.png 600w, /wp-content/uploads/2024/03/Revalver-pricing-300x133.png 300w, /wp-content/uploads/2024/03/Revalver-pricing-768x340.png 768w, /wp-content/uploads/2024/03/Revalver-pricing-1536x680.png 1536w, /wp-content/uploads/2024/03/Revalver-pricing.png 1912w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="453" src="https://www.electrikjam.com/wp-content/uploads/2024/03/Revalver-pricing-1024x453.png" alt="ReValver" class="wp-image-14558" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/Revalver-pricing-1024x453.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/Revalver-pricing-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/Revalver-pricing-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/Revalver-pricing-768x340.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/Revalver-pricing-1536x680.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/03/Revalver-pricing.png 1912w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

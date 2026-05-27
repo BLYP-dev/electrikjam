@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/popular/"
   - "/tag/spark-amp/"
-featuredImage: "/wp-content/uploads/2022/06/Postive-Grid-Spark-Mini-Reviews.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/06/Postive-Grid-Spark-Mini-Reviews.png"
 featuredImageAlt: "Positive Grid Spark Mini Reviews"
 seo: 
   title: "Positive Grid Spark Mini Reviews: Is It 100% Legit?"
@@ -142,7 +142,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="944" height="1024" src="/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-944x1024.png" alt="" class="wp-image-8277" title="" srcset="/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-944x1024.png 944w, /wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-600x651.png 600w, /wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-277x300.png 277w, /wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-768x833.png 768w, /wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-1416x1536.png 1416w, /wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-1889x2048.png 1889w, /wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x.png 1920w" sizes="(max-width: 944px) 100vw, 944px" /><figcaption><strong>Access The Most Iconic Sounding Amps &amp; Pedals In An Amp You Can Take Camping. <a class="thirstylink" rel="nofollow" target="_blank" title="Spark Mini" href="https://www.electrikjam.com/recommends/spark-mini-2/" data-shortcode="true">And All For Less Than $200</a> – What&#8217;s Not To Like!? </strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="944" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-944x1024.png" alt="" class="wp-image-8277" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-944x1024.png 944w, https://www.electrikjam.com/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-600x651.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-277x300.png 277w, https://www.electrikjam.com/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-768x833.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-1416x1536.png 1416w, https://www.electrikjam.com/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x-1889x2048.png 1889w, https://www.electrikjam.com/wp-content/uploads/2022/06/spark-mini-kv-leadgen-2_3x.png 1920w" sizes="(max-width: 944px) 100vw, 944px" /><figcaption><strong>Access The Most Iconic Sounding Amps &amp; Pedals In An Amp You Can Take Camping. <a class="thirstylink" rel="nofollow" target="_blank" title="Spark Mini" href="https://www.electrikjam.com/recommends/spark-mini-2/" data-shortcode="true">And All For Less Than $200</a> – What&#8217;s Not To Like!? </strong></figcaption></figure>
 
 
 

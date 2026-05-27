@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "/wp-content/uploads/2022/02/Best-Guitar-Solos-Of-All-Time.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Best-Guitar-Solos-Of-All-Time.png"
 featuredImageAlt: "best guitar solos of all time"
 seo: 
   title: "Dissecting The 7 Best Guitar Solos Of All Time: The Classics!"
@@ -87,7 +87,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter"><img decoding="async" width="1024" height="662" src="/wp-content/uploads/2022/02/van-halen-eddie-.jpg" alt="best guitar solos of all time" class="wp-image-6886" title="" srcset="/wp-content/uploads/2022/02/van-halen-eddie-.jpg 1024w, /wp-content/uploads/2022/02/van-halen-eddie--600x388.jpg 600w, /wp-content/uploads/2022/02/van-halen-eddie--300x194.jpg 300w, /wp-content/uploads/2022/02/van-halen-eddie--768x497.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Eddie Van Halen: Early 80&#8217;s</strong></figcaption></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter"><img decoding="async" width="1024" height="662" src="https://www.electrikjam.com/wp-content/uploads/2022/02/van-halen-eddie-.jpg" alt="best guitar solos of all time" class="wp-image-6886" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/van-halen-eddie-.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/van-halen-eddie--600x388.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/van-halen-eddie--300x194.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/van-halen-eddie--768x497.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Eddie Van Halen: Early 80&#8217;s</strong></figcaption></figure></div>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/02/Gary-Moore-1024x576.jpg" alt="" class="wp-image-6887" title="" srcset="/wp-content/uploads/2022/02/Gary-Moore-1024x576.jpg 1024w, /wp-content/uploads/2022/02/Gary-Moore-600x338.jpg 600w, /wp-content/uploads/2022/02/Gary-Moore-300x169.jpg 300w, /wp-content/uploads/2022/02/Gary-Moore-768x432.jpg 768w, /wp-content/uploads/2022/02/Gary-Moore-1080x608.jpg 1080w, /wp-content/uploads/2022/02/Gary-Moore.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Gary Moore: Rocking Out</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Gary-Moore-1024x576.jpg" alt="" class="wp-image-6887" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Gary-Moore-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Gary-Moore-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Gary-Moore-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Gary-Moore-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Gary-Moore-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Gary-Moore.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Gary Moore: Rocking Out</strong></figcaption></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="554" src="/wp-content/uploads/2022/02/Larry-carlton-sire-guitars-1024x554.jpg" alt="" class="wp-image-6888" title="" srcset="/wp-content/uploads/2022/02/Larry-carlton-sire-guitars-1024x554.jpg 1024w, /wp-content/uploads/2022/02/Larry-carlton-sire-guitars-600x324.jpg 600w, /wp-content/uploads/2022/02/Larry-carlton-sire-guitars-300x162.jpg 300w, /wp-content/uploads/2022/02/Larry-carlton-sire-guitars-768x415.jpg 768w, /wp-content/uploads/2022/02/Larry-carlton-sire-guitars-1080x584.jpg 1080w, /wp-content/uploads/2022/02/Larry-carlton-sire-guitars.jpg 1215w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Larry Playing His Semi-Hollow Signature Guitar</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="554" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Larry-carlton-sire-guitars-1024x554.jpg" alt="" class="wp-image-6888" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Larry-carlton-sire-guitars-1024x554.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Larry-carlton-sire-guitars-600x324.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Larry-carlton-sire-guitars-300x162.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Larry-carlton-sire-guitars-768x415.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Larry-carlton-sire-guitars-1080x584.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/Larry-carlton-sire-guitars.jpg 1215w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Larry Playing His Semi-Hollow Signature Guitar</strong></figcaption></figure>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/02/don-felder-and-joe-walsh-1024x576.jpg" alt="" class="wp-image-6889" title="" srcset="/wp-content/uploads/2022/02/don-felder-and-joe-walsh-1024x576.jpg 1024w, /wp-content/uploads/2022/02/don-felder-and-joe-walsh-600x338.jpg 600w, /wp-content/uploads/2022/02/don-felder-and-joe-walsh-300x169.jpg 300w, /wp-content/uploads/2022/02/don-felder-and-joe-walsh-768x432.jpg 768w, /wp-content/uploads/2022/02/don-felder-and-joe-walsh-1080x608.jpg 1080w, /wp-content/uploads/2022/02/don-felder-and-joe-walsh.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Don And Joe Tearing It Up</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2022/02/don-felder-and-joe-walsh-1024x576.jpg" alt="" class="wp-image-6889" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/don-felder-and-joe-walsh-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/don-felder-and-joe-walsh-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/don-felder-and-joe-walsh-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/don-felder-and-joe-walsh-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/don-felder-and-joe-walsh-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/don-felder-and-joe-walsh.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Don And Joe Tearing It Up</strong></figcaption></figure>
 
 
 
@@ -287,7 +287,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="976" height="549" src="/wp-content/uploads/2022/02/Jimi-hendrix.jpg" alt="" class="wp-image-6890" title="" srcset="/wp-content/uploads/2022/02/Jimi-hendrix.jpg 976w, /wp-content/uploads/2022/02/Jimi-hendrix-600x338.jpg 600w, /wp-content/uploads/2022/02/Jimi-hendrix-300x169.jpg 300w, /wp-content/uploads/2022/02/Jimi-hendrix-768x432.jpg 768w" sizes="(max-width: 976px) 100vw, 976px" /><figcaption><strong>Jimi Being A Total Legend</strong></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="976" height="549" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix.jpg" alt="" class="wp-image-6890" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix.jpg 976w, https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Jimi-hendrix-768x432.jpg 768w" sizes="(max-width: 976px) 100vw, 976px" /><figcaption><strong>Jimi Being A Total Legend</strong></figcaption></figure>
 
 
 
@@ -323,7 +323,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/Mark-Knpfler-1024x683.jpg" alt="" class="wp-image-6891" title="" srcset="/wp-content/uploads/2022/02/Mark-Knpfler-1024x683.jpg 1024w, /wp-content/uploads/2022/02/Mark-Knpfler-600x400.jpg 600w, /wp-content/uploads/2022/02/Mark-Knpfler-300x200.jpg 300w, /wp-content/uploads/2022/02/Mark-Knpfler-768x512.jpg 768w, /wp-content/uploads/2022/02/Mark-Knpfler-1536x1024.jpg 1536w, /wp-content/uploads/2022/02/Mark-Knpfler-2048x1366.jpg 2048w, /wp-content/uploads/2022/02/Mark-Knpfler-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Mark Knopfler: The Sultan Of Swing</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Mark-Knpfler-1024x683.jpg" alt="" class="wp-image-6891" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Mark-Knpfler-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/Mark-Knpfler-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Mark-Knpfler-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Mark-Knpfler-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/Mark-Knpfler-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/02/Mark-Knpfler-2048x1366.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/02/Mark-Knpfler-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Mark Knopfler: The Sultan Of Swing</strong></figcaption></figure>
 
 
 
@@ -367,7 +367,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/02/David-Gilmour-2-1024x683.jpg" alt="" class="wp-image-6892" title="" srcset="/wp-content/uploads/2022/02/David-Gilmour-2-1024x683.jpg 1024w, /wp-content/uploads/2022/02/David-Gilmour-2-600x400.jpg 600w, /wp-content/uploads/2022/02/David-Gilmour-2-300x200.jpg 300w, /wp-content/uploads/2022/02/David-Gilmour-2-768x512.jpg 768w, /wp-content/uploads/2022/02/David-Gilmour-2-1536x1024.jpg 1536w, /wp-content/uploads/2022/02/David-Gilmour-2-2048x1366.jpg 2048w, /wp-content/uploads/2022/02/David-Gilmour-2-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Dave With His Strat</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/02/David-Gilmour-2-1024x683.jpg" alt="" class="wp-image-6892" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/David-Gilmour-2-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/David-Gilmour-2-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/David-Gilmour-2-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/David-Gilmour-2-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/David-Gilmour-2-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/02/David-Gilmour-2-2048x1366.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2022/02/David-Gilmour-2-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Dave With His Strat</strong></figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png"
 featuredImageAlt: "What Pickups Does Josh Homme Use"
 seo: 
   title: "What Pickups Does Josh Homme Use? Let’s Find Out…"
@@ -64,7 +64,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

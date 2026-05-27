@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2021/09/matt-heafy-epiphone-e1631526897560.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/matt-heafy-epiphone-e1631526897560.png"
 featuredImageAlt: "matt heafy epiphone"
 seo: 
   title: "Matt Heafy’s New Epiphone Guitar is Literal Guitar Porn"
@@ -56,7 +56,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="770" height="425" src="/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins.jpg" alt="" class="wp-image-4090" title="" srcset="/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins.jpg 770w, /wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins-600x331.jpg 600w, /wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins-300x166.jpg 300w, /wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins-768x424.jpg 768w" sizes="(max-width: 770px) 100vw, 770px" /><figcaption><meta charset="utf-8"><strong>MKH Origins Les Paul Custom Colors – White &amp; Black</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="770" height="425" src="https://www.electrikjam.com/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins.jpg" alt="" class="wp-image-4090" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins.jpg 770w, https://www.electrikjam.com/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins-600x331.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins-300x166.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/MKH-Epiphone-Signature-Matt-Heafy-Les-PAul-Custom-Origins-768x424.jpg 768w" sizes="(max-width: 770px) 100vw, 770px" /><figcaption><meta charset="utf-8"><strong>MKH Origins Les Paul Custom Colors – White &amp; Black</strong></figcaption></figure>
 			
 		
 

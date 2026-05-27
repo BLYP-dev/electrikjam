@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/fender/"
   - "/tag/squier/"
-featuredImage: "/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Custom-Telecaster-SH-Electric-Guitar.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Custom-Telecaster-SH-Electric-Guitar.jpg"
 featuredImageAlt: "are squier guitars good? Yes, so long as you know what to look for"
 seo: 
   title: "Are Squier Guitars Good? Yes, Here's My 2 Cents On Why..."
@@ -125,7 +125,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="575" src="/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp" alt="Mike-Rutherford-Uses-A-200-Squier-Strat" class="wp-image-5139" title="" srcset="/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp 1024w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-600x337.webp 600w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-300x168.webp 300w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-768x431.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Yes, that&#8217;s Mike Rutherford and, yes, he&#8217;s playing a Squier. But not just any ol&#8217; Squier, the cheapest Squier you can buy: the Squier Bullet Stratocaster.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="575" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp" alt="Mike-Rutherford-Uses-A-200-Squier-Strat" class="wp-image-5139" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-600x337.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-300x168.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-768x431.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Yes, that&#8217;s Mike Rutherford and, yes, he&#8217;s playing a Squier. But not just any ol&#8217; Squier, the cheapest Squier you can buy: the Squier Bullet Stratocaster.</figcaption></figure>
 
 
 
@@ -200,15 +200,15 @@ seo:
 
 
 <figure class="wp-block-gallery has-nested-images columns-1 is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="380" data-id="3710" src="/wp-content/uploads/2021/09/Squier-Strat-1024x380.png" alt="" class="wp-image-3710" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="380" data-id="3710" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Strat-1024x380.png" alt="" class="wp-image-3710" title=""></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="376" data-id="3711" src="/wp-content/uploads/2021/09/Squier-Guitars-1024x376.png" alt="Squier-Guitars" class="wp-image-3711" title="" srcset="/wp-content/uploads/2021/09/Squier-Guitars-1024x376.png 1024w, /wp-content/uploads/2021/09/Squier-Guitars-600x220.png 600w, /wp-content/uploads/2021/09/Squier-Guitars-300x110.png 300w, /wp-content/uploads/2021/09/Squier-Guitars-768x282.png 768w, /wp-content/uploads/2021/09/Squier-Guitars-1536x564.png 1536w, /wp-content/uploads/2021/09/Squier-Guitars-1080x396.png 1080w, /wp-content/uploads/2021/09/Squier-Guitars.png 1722w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="376" data-id="3711" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-1024x376.png" alt="Squier-Guitars" class="wp-image-3711" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-1024x376.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-600x220.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-300x110.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-768x282.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-1536x564.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-1080x396.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars.png 1722w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="372" data-id="3712" src="/wp-content/uploads/2021/09/Squier-Tele-1024x372.png" alt="" class="wp-image-3712" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="372" data-id="3712" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Tele-1024x372.png" alt="" class="wp-image-3712" title=""></figure>
 <figcaption class="blocks-gallery-caption wp-element-caption"><strong>The Squier Strat, Strat Hollowbody, &amp; The Tele</strong></figcaption></figure>
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg" alt="Brant-Bjork" class="wp-image-956" title="" srcset="/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Brant-Bjork-600x450.jpg 600w, /wp-content/uploads/2020/10/Brant-Bjork-300x225.jpg 300w, /wp-content/uploads/2020/10/Brant-Bjork-768x576.jpg 768w, /wp-content/uploads/2020/10/Brant-Bjork-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/Brant-Bjork.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Brant Bjork Plays A Fender Stratocaster</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg" alt="Brant-Bjork" class="wp-image-956" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Brant Bjork Plays A Fender Stratocaster</strong></figcaption></figure>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-1024x683.jpg" alt="" class="wp-image-17544" title="" srcset="/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-1024x683.jpg 1024w, /wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-600x400.jpg 600w, /wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-300x200.jpg 300w, /wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-768x512.jpg 768w, /wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-1024x683.jpg" alt="" class="wp-image-17544" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Classic-Vibe-60s-Jazzmaster-Electric-Guitar.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -415,7 +415,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-1024x683.jpg" alt="" class="wp-image-17546" title="" srcset="/wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-1024x683.jpg 1024w, /wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-600x400.jpg 600w, /wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-300x200.jpg 300w, /wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-768x512.jpg 768w, /wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-1024x683.jpg" alt="" class="wp-image-17546" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2025/07/Squier-Sonic-Stratocaster-HSS-Maple-Fingerboard-1-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -519,7 +519,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="376" src="/wp-content/uploads/2021/09/Squier-Guitars-1024x376.png" alt="Squier-Guitars" class="wp-image-3711" title="" srcset="/wp-content/uploads/2021/09/Squier-Guitars-1024x376.png 1024w, /wp-content/uploads/2021/09/Squier-Guitars-600x220.png 600w, /wp-content/uploads/2021/09/Squier-Guitars-300x110.png 300w, /wp-content/uploads/2021/09/Squier-Guitars-768x282.png 768w, /wp-content/uploads/2021/09/Squier-Guitars-1536x564.png 1536w, /wp-content/uploads/2021/09/Squier-Guitars-1080x396.png 1080w, /wp-content/uploads/2021/09/Squier-Guitars.png 1722w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="376" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-1024x376.png" alt="Squier-Guitars" class="wp-image-3711" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-1024x376.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-600x220.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-300x110.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-768x282.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-1536x564.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars-1080x396.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/Squier-Guitars.png 1722w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

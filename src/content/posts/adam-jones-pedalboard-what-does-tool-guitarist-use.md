@@ -22,7 +22,7 @@ tagSlugs:
   - "adam-jones"
 tagPaths: 
   - "/tag/adam-jones/"
-featuredImage: "/wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png"
 featuredImageAlt: "Adam Jones Pedalboard"
 seo: 
   title: "Adam Jones Pedalboard: What Does TOOL Guitarist Use?"
@@ -56,7 +56,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" title="" srcset="/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, /wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Jones has played and used Gibson Les Paul guitars for the entirety of his career; his signature model, the 1979 Gibson Les Paul SIlverburst, is HELLA expensive, so if you’re on a budget, you’ll be better off looking at either an ESP model, <a href="https://www.electrikjam.com/esp-deluxe-les-paul/" data-type="lasso-urls" data-id="4253" data-lasso-id="110982" rel="nofollow noopener" target="_blank" data-lasso-name="ESP LTD Deluxe">like this one</a>, or an <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="110983">Epiphone Les Paul </a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png" alt="Adam Jones Pedalboard" class="wp-image-7975" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Adam-Jones-Pedalboard.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Jones has played and used Gibson Les Paul guitars for the entirety of his career; his signature model, the 1979 Gibson Les Paul SIlverburst, is HELLA expensive, so if you’re on a budget, you’ll be better off looking at either an ESP model, <a href="https://www.electrikjam.com/esp-deluxe-les-paul/" data-type="lasso-urls" data-id="4253" data-lasso-id="110982" rel="nofollow noopener" target="_blank" data-lasso-name="ESP LTD Deluxe">like this one</a>, or an <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="110983">Epiphone Les Paul </a></strong></figcaption></figure>
 			
 		
 

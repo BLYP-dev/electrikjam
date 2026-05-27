@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED.png"
 featuredImageAlt: "DROP D TUNING EXPLAINED"
 seo: 
   title: "Drop D Tuning on Guitar Explained – Beginner Friendly Guide"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="474" src="/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1024x474.png" alt="" class="wp-image-5204" title="" srcset="/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1024x474.png 1024w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-600x278.png 600w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-300x139.png 300w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-768x356.png 768w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1080x500.png 1080w, /wp-content/uploads/2021/10/how-to-play-drop-d-power-chord.png 1114w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Standard Tuning Power Chord vs. Drop D Power Chord</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="474" src="https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1024x474.png" alt="" class="wp-image-5204" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1024x474.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-600x278.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-300x139.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-768x356.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord-1080x500.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/how-to-play-drop-d-power-chord.png 1114w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Standard Tuning Power Chord vs. Drop D Power Chord</strong></figcaption></figure>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="454" src="/wp-content/uploads/2021/10/D-minor-pentatonic-scale-1024x454.png" alt="D minor pentatonic scale" class="wp-image-5203" title="" srcset="/wp-content/uploads/2021/10/D-minor-pentatonic-scale-1024x454.png 1024w, /wp-content/uploads/2021/10/D-minor-pentatonic-scale-600x266.png 600w, /wp-content/uploads/2021/10/D-minor-pentatonic-scale-300x133.png 300w, /wp-content/uploads/2021/10/D-minor-pentatonic-scale-768x340.png 768w, /wp-content/uploads/2021/10/D-minor-pentatonic-scale-1080x479.png 1080w, /wp-content/uploads/2021/10/D-minor-pentatonic-scale.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="454" src="https://www.electrikjam.com/wp-content/uploads/2021/10/D-minor-pentatonic-scale-1024x454.png" alt="D minor pentatonic scale" class="wp-image-5203" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/D-minor-pentatonic-scale-1024x454.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/D-minor-pentatonic-scale-600x266.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/D-minor-pentatonic-scale-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/D-minor-pentatonic-scale-768x340.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/D-minor-pentatonic-scale-1080x479.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/D-minor-pentatonic-scale.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-1024x853.png" alt="DROP D TUNING EXPLAINED" class="wp-image-5205" title="" srcset="/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-1024x853.png 1024w, /wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-600x500.png 600w, /wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-300x250.png 300w, /wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-768x640.png 768w, /wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-1080x900.png 1080w, /wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-1024x853.png" alt="DROP D TUNING EXPLAINED" class="wp-image-5205" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/DROP-D-TUNING-EXPLAINED.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "studio-one"
 tagPaths: 
   - "/tag/studio-one/"
-featuredImage: "/wp-content/uploads/2023/08/Studio-one-5-video.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/08/Studio-one-5-video.png"
 featuredImageAlt: "Studio one"
 seo: 
   title: "Studio One 6 Artist vs Studio One 6 Professional"
@@ -197,7 +197,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/PreSonus-Studio-One-plus-1024x683.png" alt="Studio One 6 Artist vs Studio One 6 Professional" class="wp-image-12836" title="" srcset="/wp-content/uploads/2023/09/PreSonus-Studio-One-plus-1024x683.png 1024w, /wp-content/uploads/2023/09/PreSonus-Studio-One-plus-600x400.png 600w, /wp-content/uploads/2023/09/PreSonus-Studio-One-plus-300x200.png 300w, /wp-content/uploads/2023/09/PreSonus-Studio-One-plus-768x512.png 768w, /wp-content/uploads/2023/09/PreSonus-Studio-One-plus.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/PreSonus-Studio-One-plus-1024x683.png" alt="Studio One 6 Artist vs Studio One 6 Professional" class="wp-image-12836" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/PreSonus-Studio-One-plus-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/PreSonus-Studio-One-plus-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/PreSonus-Studio-One-plus-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/PreSonus-Studio-One-plus-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/PreSonus-Studio-One-plus.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -367,7 +367,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Studio-one-1024x683.png" alt="Studio One 6 Artist vs Studio One 6 Professional" class="wp-image-12830" title="" srcset="/wp-content/uploads/2023/09/Studio-one-1024x683.png 1024w, /wp-content/uploads/2023/09/Studio-one-600x400.png 600w, /wp-content/uploads/2023/09/Studio-one-300x200.png 300w, /wp-content/uploads/2023/09/Studio-one-768x512.png 768w, /wp-content/uploads/2023/09/Studio-one.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Studio One Professional: Video Editing Power</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-1024x683.png" alt="Studio One 6 Artist vs Studio One 6 Professional" class="wp-image-12830" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Studio-one.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Studio One Professional: Video Editing Power</strong></figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "/wp-content/uploads/2023/07/Cubase-vs.-Fruity-Loops-Studio-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-vs.-Fruity-Loops-Studio-1.png"
 featuredImageAlt: "Cubase vs. Fruity Loops Studio 1"
 seo: 
   title: "Cubase vs. Fruity Loops Studio: Competent DAWs for Aspiring Music Producers"
@@ -162,7 +162,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="649" src="/wp-content/uploads/2023/07/153746-extra-large-1024x649.jpg" alt="Cubase vs. Fruity Loops Studio" class="wp-image-12428" title="" srcset="/wp-content/uploads/2023/07/153746-extra-large-1024x649.jpg 1024w, /wp-content/uploads/2023/07/153746-extra-large-scaled-600x380.jpg 600w, /wp-content/uploads/2023/07/153746-extra-large-300x190.jpg 300w, /wp-content/uploads/2023/07/153746-extra-large-768x487.jpg 768w, /wp-content/uploads/2023/07/153746-extra-large-1536x974.jpg 1536w, /wp-content/uploads/2023/07/153746-extra-large-2048x1298.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="649" src="https://www.electrikjam.com/wp-content/uploads/2023/07/153746-extra-large-1024x649.jpg" alt="Cubase vs. Fruity Loops Studio" class="wp-image-12428" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/153746-extra-large-1024x649.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/153746-extra-large-scaled-600x380.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/153746-extra-large-300x190.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/153746-extra-large-768x487.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/153746-extra-large-1536x974.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2023/07/153746-extra-large-2048x1298.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -214,7 +214,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="561" src="/wp-content/uploads/2023/07/FL-Studio-21-New-Features.webp" alt="Cubase vs. Fruity Loops Studio" class="wp-image-12429" title="" srcset="/wp-content/uploads/2023/07/FL-Studio-21-New-Features.webp 1000w, /wp-content/uploads/2023/07/FL-Studio-21-New-Features-600x337.webp 600w, /wp-content/uploads/2023/07/FL-Studio-21-New-Features-300x168.webp 300w, /wp-content/uploads/2023/07/FL-Studio-21-New-Features-768x431.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="561" src="https://www.electrikjam.com/wp-content/uploads/2023/07/FL-Studio-21-New-Features.webp" alt="Cubase vs. Fruity Loops Studio" class="wp-image-12429" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/FL-Studio-21-New-Features.webp 1000w, https://www.electrikjam.com/wp-content/uploads/2023/07/FL-Studio-21-New-Features-600x337.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/FL-Studio-21-New-Features-300x168.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/FL-Studio-21-New-Features-768x431.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -262,7 +262,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Untitled-design-2-1024x683.png" alt="Cubase vs. Fruity Loops Studio " class="wp-image-12430" title="" srcset="/wp-content/uploads/2023/07/Untitled-design-2-1024x683.png 1024w, /wp-content/uploads/2023/07/Untitled-design-2-600x400.png 600w, /wp-content/uploads/2023/07/Untitled-design-2-300x200.png 300w, /wp-content/uploads/2023/07/Untitled-design-2-768x512.png 768w, /wp-content/uploads/2023/07/Untitled-design-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>FL Studio&#8217;s Spectacular Direct Wave Synth Plugin, Included with FL Studio 21</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Untitled-design-2-1024x683.png" alt="Cubase vs. Fruity Loops Studio " class="wp-image-12430" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Untitled-design-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Untitled-design-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Untitled-design-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Untitled-design-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Untitled-design-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>FL Studio&#8217;s Spectacular Direct Wave Synth Plugin, Included with FL Studio 21</strong></figcaption></figure>
 
 
 

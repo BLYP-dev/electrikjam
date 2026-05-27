@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS.png"
 featuredImageAlt: "HEAVIEST PANTERA ALBUMS"
 seo: 
   title: "Pantera Albums RANKED In Order of Heaviness..."
@@ -64,7 +64,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-1024x853.png" alt="HEAVIEST PANTERA ALBUMS" class="wp-image-3543" title="" srcset="/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-1024x853.png 1024w, /wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-600x500.png 600w, /wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-300x250.png 300w, /wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-768x640.png 768w, /wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-1080x900.png 1080w, /wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-1024x853.png" alt="HEAVIEST PANTERA ALBUMS" class="wp-image-3543" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/08/HEAVIEST-PANTERA-ALBUMS.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2021/08/reinveting-the-steel.jpg" alt="" class="wp-image-3544" title="" srcset="/wp-content/uploads/2021/08/reinveting-the-steel.jpg 500w, /wp-content/uploads/2021/08/reinveting-the-steel-300x300.jpg 300w, /wp-content/uploads/2021/08/reinveting-the-steel-100x100.jpg 100w, /wp-content/uploads/2021/08/reinveting-the-steel-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="500" height="500" src="https://www.electrikjam.com/wp-content/uploads/2021/08/reinveting-the-steel.jpg" alt="" class="wp-image-3544" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/08/reinveting-the-steel.jpg 500w, https://www.electrikjam.com/wp-content/uploads/2021/08/reinveting-the-steel-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/08/reinveting-the-steel-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/08/reinveting-the-steel-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="953" height="953" src="/wp-content/uploads/2021/08/pantera-cowboys_from_hell.jpg" alt="" class="wp-image-3545" title="" srcset="/wp-content/uploads/2021/08/pantera-cowboys_from_hell.jpg 953w, /wp-content/uploads/2021/08/pantera-cowboys_from_hell-300x300.jpg 300w, /wp-content/uploads/2021/08/pantera-cowboys_from_hell-100x100.jpg 100w, /wp-content/uploads/2021/08/pantera-cowboys_from_hell-600x600.jpg 600w, /wp-content/uploads/2021/08/pantera-cowboys_from_hell-150x150.jpg 150w, /wp-content/uploads/2021/08/pantera-cowboys_from_hell-768x768.jpg 768w" sizes="(max-width: 953px) 100vw, 953px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="953" height="953" src="https://www.electrikjam.com/wp-content/uploads/2021/08/pantera-cowboys_from_hell.jpg" alt="" class="wp-image-3545" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/08/pantera-cowboys_from_hell.jpg 953w, https://www.electrikjam.com/wp-content/uploads/2021/08/pantera-cowboys_from_hell-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/08/pantera-cowboys_from_hell-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/08/pantera-cowboys_from_hell-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/08/pantera-cowboys_from_hell-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/08/pantera-cowboys_from_hell-768x768.jpg 768w" sizes="(max-width: 953px) 100vw, 953px" /></figure>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="800" height="800" src="/wp-content/uploads/2021/08/far-beyond-driven.jpg" alt="" class="wp-image-3546" title="" srcset="/wp-content/uploads/2021/08/far-beyond-driven.jpg 800w, /wp-content/uploads/2021/08/far-beyond-driven-300x300.jpg 300w, /wp-content/uploads/2021/08/far-beyond-driven-100x100.jpg 100w, /wp-content/uploads/2021/08/far-beyond-driven-600x600.jpg 600w, /wp-content/uploads/2021/08/far-beyond-driven-150x150.jpg 150w, /wp-content/uploads/2021/08/far-beyond-driven-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="800" height="800" src="https://www.electrikjam.com/wp-content/uploads/2021/08/far-beyond-driven.jpg" alt="" class="wp-image-3546" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/08/far-beyond-driven.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/08/far-beyond-driven-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/08/far-beyond-driven-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/08/far-beyond-driven-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/08/far-beyond-driven-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/08/far-beyond-driven-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="522" height="515" src="/wp-content/uploads/2021/08/vulgar-display-of-power.jpg" alt="" class="wp-image-3547" title="" srcset="/wp-content/uploads/2021/08/vulgar-display-of-power.jpg 522w, /wp-content/uploads/2021/08/vulgar-display-of-power-100x100.jpg 100w, /wp-content/uploads/2021/08/vulgar-display-of-power-300x296.jpg 300w" sizes="(max-width: 522px) 100vw, 522px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="522" height="515" src="https://www.electrikjam.com/wp-content/uploads/2021/08/vulgar-display-of-power.jpg" alt="" class="wp-image-3547" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/08/vulgar-display-of-power.jpg 522w, https://www.electrikjam.com/wp-content/uploads/2021/08/vulgar-display-of-power-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/08/vulgar-display-of-power-300x296.jpg 300w" sizes="(max-width: 522px) 100vw, 522px" /></figure>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="808" height="800" src="/wp-content/uploads/2021/08/the-great-southern-trendkill.jpg" alt="" class="wp-image-3548" title="" srcset="/wp-content/uploads/2021/08/the-great-southern-trendkill.jpg 808w, /wp-content/uploads/2021/08/the-great-southern-trendkill-100x100.jpg 100w, /wp-content/uploads/2021/08/the-great-southern-trendkill-600x594.jpg 600w, /wp-content/uploads/2021/08/the-great-southern-trendkill-300x297.jpg 300w, /wp-content/uploads/2021/08/the-great-southern-trendkill-150x150.jpg 150w, /wp-content/uploads/2021/08/the-great-southern-trendkill-768x760.jpg 768w" sizes="(max-width: 808px) 100vw, 808px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="808" height="800" src="https://www.electrikjam.com/wp-content/uploads/2021/08/the-great-southern-trendkill.jpg" alt="" class="wp-image-3548" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/08/the-great-southern-trendkill.jpg 808w, https://www.electrikjam.com/wp-content/uploads/2021/08/the-great-southern-trendkill-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2021/08/the-great-southern-trendkill-600x594.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/08/the-great-southern-trendkill-300x297.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/08/the-great-southern-trendkill-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2021/08/the-great-southern-trendkill-768x760.jpg 768w" sizes="(max-width: 808px) 100vw, 808px" /></figure>
 
 
 

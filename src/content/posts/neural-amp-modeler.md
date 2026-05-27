@@ -22,7 +22,7 @@ tagSlugs:
   - "popular"
 tagPaths: 
   - "/tag/popular/"
-featuredImage: "/wp-content/uploads/2023/03/NAM-Neural-Amp-Modeler.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/NAM-Neural-Amp-Modeler.png"
 featuredImageAlt: "Neural amp modeler NAM"
 seo: 
   title: "Neural Amp Modeler: How I'm Using This Open-Source Amp Sim"
@@ -214,7 +214,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-1024x683.png" alt="neural amp modeler" class="wp-image-11221" title="" srcset="/wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-1024x683.png 1024w, /wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-600x400.png 600w, /wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-300x200.png 300w, /wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-768x512.png 768w, /wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-1024x683.png" alt="neural amp modeler" class="wp-image-11221" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Re-amp-Neural-Amp-Modeler.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -270,7 +270,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" width="800" height="523" src="/wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM.webp" alt="neural amp modeler" class="wp-image-11222" style="width:827px;height:541px" title="" srcset="/wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM.webp 800w, /wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM-600x392.webp 600w, /wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM-300x196.webp 300w, /wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM-768x502.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" width="800" height="523" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM.webp" alt="neural amp modeler" class="wp-image-11222" style="width:827px;height:541px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM.webp 800w, https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM-600x392.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM-300x196.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-NAM-768x502.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -440,7 +440,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-1024x576.png" alt="Neural amp modeler" class="wp-image-11225" title="" srcset="/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-1024x576.png 1024w, /wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-600x338.png 600w, /wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-300x169.png 300w, /wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-768x432.png 768w, /wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-1536x864.png 1536w, /wp-content/uploads/2023/03/Neural-Amp-Modeler-USE.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-1024x576.png" alt="Neural amp modeler" class="wp-image-11225" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-1024x576.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-768x432.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE-1536x864.png 1536w, https://www.electrikjam.com/wp-content/uploads/2023/03/Neural-Amp-Modeler-USE.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

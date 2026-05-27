@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison.png"
 featuredImageAlt: "Electric Guitar Scale Length Comparison"
 seo: 
   title: "Electric Guitar Scale Length Comparison: 40 Models Compared"
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/06/PRS-Custom-24-1024x576.jpg" alt="guitar scale lengths" class="wp-image-3385" title="" srcset="/wp-content/uploads/2021/06/PRS-Custom-24-1024x576.jpg 1024w, /wp-content/uploads/2021/06/PRS-Custom-24-600x338.jpg 600w, /wp-content/uploads/2021/06/PRS-Custom-24-300x169.jpg 300w, /wp-content/uploads/2021/06/PRS-Custom-24-768x432.jpg 768w, /wp-content/uploads/2021/06/PRS-Custom-24-1080x608.jpg 1080w, /wp-content/uploads/2021/06/PRS-Custom-24.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Custom-24-1024x576.jpg" alt="guitar scale lengths" class="wp-image-3385" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Custom-24-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Custom-24-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Custom-24-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Custom-24-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Custom-24-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Custom-24.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="/wp-content/uploads/2021/03/Fender-tom-morello-1024x334.jpg" alt="" class="wp-image-2537" title="" srcset="/wp-content/uploads/2021/03/Fender-tom-morello-1024x334.jpg 1024w, /wp-content/uploads/2021/03/Fender-tom-morello-600x196.jpg 600w, /wp-content/uploads/2021/03/Fender-tom-morello-300x98.jpg 300w, /wp-content/uploads/2021/03/Fender-tom-morello-768x250.jpg 768w, /wp-content/uploads/2021/03/Fender-tom-morello-1536x500.jpg 1536w, /wp-content/uploads/2021/03/Fender-tom-morello-2048x667.jpg 2048w, /wp-content/uploads/2021/03/Fender-tom-morello-1080x352.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Fender Custom Strat</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-1024x334.jpg" alt="" class="wp-image-2537" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-1024x334.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-600x196.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-300x98.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-768x250.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-1536x500.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-2048x667.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/03/Fender-tom-morello-1080x352.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Fender Custom Strat</em></figcaption></figure>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="364" src="/wp-content/uploads/2021/06/ESP-Baritone-1024x364.jpg" alt="" class="wp-image-3386" title="" srcset="/wp-content/uploads/2021/06/ESP-Baritone-1024x364.jpg 1024w, /wp-content/uploads/2021/06/ESP-Baritone-600x214.jpg 600w, /wp-content/uploads/2021/06/ESP-Baritone-300x107.jpg 300w, /wp-content/uploads/2021/06/ESP-Baritone-768x273.jpg 768w, /wp-content/uploads/2021/06/ESP-Baritone-1080x384.jpg 1080w, /wp-content/uploads/2021/06/ESP-Baritone.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">ESP Guitars Baritone Eclipse</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="364" src="https://www.electrikjam.com/wp-content/uploads/2021/06/ESP-Baritone-1024x364.jpg" alt="" class="wp-image-3386" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/ESP-Baritone-1024x364.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/ESP-Baritone-600x214.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/ESP-Baritone-300x107.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/ESP-Baritone-768x273.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/ESP-Baritone-1080x384.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/ESP-Baritone.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">ESP Guitars Baritone Eclipse</figcaption></figure>
 
 
 
@@ -293,7 +293,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>A <a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" target="_blank" data-type="post" data-id="1797" rel="noopener" data-lasso-id="1486">Cort </a>Multi Scale 8 String</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>A <a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" target="_blank" data-type="post" data-id="1797" rel="noopener" data-lasso-id="1486">Cort </a>Multi Scale 8 String</em></figcaption></figure>
 
 
 
@@ -329,7 +329,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-1024x683.png" alt="Electric Guitar Scale Length Comparison" class="wp-image-11794" title="" srcset="/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-1024x683.png 1024w, /wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-600x400.png 600w, /wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-300x200.png 300w, /wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-768x512.png 768w, /wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-1024x683.png" alt="Electric Guitar Scale Length Comparison" class="wp-image-11794" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Electric-Guitar-Scale-Length-Comparison.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

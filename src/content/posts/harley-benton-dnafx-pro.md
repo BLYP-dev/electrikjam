@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/12/Harley-benton-Dnafx-pro.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-benton-Dnafx-pro.jpg"
 featuredImageAlt: "Harley benton Dnafx pro"
 seo: 
   title: "Harley Benton DNAfx PRO: A New Update To The Amazing Budget Processor!"
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="348" src="/wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2.jpg" alt="Harley Benton DNAfx PRO" class="wp-image-6020" title="" srcset="/wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2.jpg 800w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2-600x261.jpg 600w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2-300x131.jpg 300w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2-768x334.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="348" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2.jpg" alt="Harley Benton DNAfx PRO" class="wp-image-6020" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2-600x261.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2-300x131.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-PRO-2-768x334.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-1024x565.jpeg" alt="Harley Benton DNAfx PRO" class="wp-image-6021" title="" srcset="/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-1024x565.jpeg 1024w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-600x331.jpeg 600w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-300x166.jpeg 300w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-768x424.jpeg 768w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-1536x848.jpeg 1536w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-1080x596.jpeg 1080w, /wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel.jpeg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Rear Panel Of The Harley Benton DNAfx PRO</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-1024x565.jpeg" alt="Harley Benton DNAfx PRO" class="wp-image-6021" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-1024x565.jpeg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-600x331.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-300x166.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-768x424.jpeg 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-1536x848.jpeg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel-1080x596.jpeg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/Harley-Benton-DNAfx-Git-Pro-rear-panel.jpeg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Rear Panel Of The Harley Benton DNAfx PRO</strong></em></figcaption></figure>
 
 
 

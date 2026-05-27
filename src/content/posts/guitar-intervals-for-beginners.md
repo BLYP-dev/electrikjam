@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "/wp-content/uploads/2022/05/Intervals-Guitar-Fretboard-Learn.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/Intervals-Guitar-Fretboard-Learn.png"
 featuredImageAlt: "Intervals"
 seo: 
   title: "Intervals For Beginners: The #1 Way To Unlock The ENTIRE Fretboard!"
@@ -103,7 +103,7 @@ seo:
 
 
 
-<figure class="wp-block-image"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png" alt="basic music theory" class="wp-image-8177" title="Major Scale &amp; 1st Mode on Guitar Explained (The Easy Way)" srcset="/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png 1024w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-600x400.png 600w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-300x200.png 300w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-768x512.png 768w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png" alt="basic music theory" class="wp-image-8177" title="Major Scale &amp; 1st Mode on Guitar Explained (The Easy Way)" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/G-Power-Chord-Intervals.png" alt="Intervals Power chord" class="wp-image-8223" title="" srcset="/wp-content/uploads/2022/05/G-Power-Chord-Intervals.png 987w, /wp-content/uploads/2022/05/G-Power-Chord-Intervals-600x265.png 600w, /wp-content/uploads/2022/05/G-Power-Chord-Intervals-300x133.png 300w, /wp-content/uploads/2022/05/G-Power-Chord-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/G-Power-Chord-Intervals.png" alt="Intervals Power chord" class="wp-image-8223" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/G-Power-Chord-Intervals.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Power-Chord-Intervals-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Power-Chord-Intervals-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Power-Chord-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/G-Minor-Power-Chord.png" alt="Intervals G minor Power Chord" class="wp-image-8229" title="" srcset="/wp-content/uploads/2022/05/G-Minor-Power-Chord.png 987w, /wp-content/uploads/2022/05/G-Minor-Power-Chord-600x265.png 600w, /wp-content/uploads/2022/05/G-Minor-Power-Chord-300x133.png 300w, /wp-content/uploads/2022/05/G-Minor-Power-Chord-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Power-Chord.png" alt="Intervals G minor Power Chord" class="wp-image-8229" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Power-Chord.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Power-Chord-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Power-Chord-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Power-Chord-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals.png" alt="G minor Intervals" class="wp-image-8230" title="" srcset="/wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals.png 987w, /wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals-600x265.png 600w, /wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals-300x133.png 300w, /wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals.png" alt="G minor Intervals" class="wp-image-8230" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Minor-Scale_-Natural_-Two-Octaves-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Augmented-Triad-Interval.png" alt="C+ Interval" class="wp-image-8232" title="" srcset="/wp-content/uploads/2022/05/C-Augmented-Triad-Interval.png 987w, /wp-content/uploads/2022/05/C-Augmented-Triad-Interval-600x265.png 600w, /wp-content/uploads/2022/05/C-Augmented-Triad-Interval-300x133.png 300w, /wp-content/uploads/2022/05/C-Augmented-Triad-Interval-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Augmented-Triad-Interval.png" alt="C+ Interval" class="wp-image-8232" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Augmented-Triad-Interval.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Augmented-Triad-Interval-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Augmented-Triad-Interval-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Augmented-Triad-Interval-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -227,7 +227,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C7-C-Add-7-Intervals.png" alt="" class="wp-image-8233" title="" srcset="/wp-content/uploads/2022/05/C7-C-Add-7-Intervals.png 987w, /wp-content/uploads/2022/05/C7-C-Add-7-Intervals-600x265.png 600w, /wp-content/uploads/2022/05/C7-C-Add-7-Intervals-300x133.png 300w, /wp-content/uploads/2022/05/C7-C-Add-7-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C7-C-Add-7-Intervals.png" alt="" class="wp-image-8233" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C7-C-Add-7-Intervals.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C7-C-Add-7-Intervals-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C7-C-Add-7-Intervals-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C7-C-Add-7-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Diminished-Intervals.png" alt="C d Intervals" class="wp-image-8234" title="" srcset="/wp-content/uploads/2022/05/C-Diminished-Intervals.png 987w, /wp-content/uploads/2022/05/C-Diminished-Intervals-600x265.png 600w, /wp-content/uploads/2022/05/C-Diminished-Intervals-300x133.png 300w, /wp-content/uploads/2022/05/C-Diminished-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Diminished-Intervals.png" alt="C d Intervals" class="wp-image-8234" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Diminished-Intervals.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Diminished-Intervals-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Diminished-Intervals-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Diminished-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Dm-7-Intervals.png" alt="" class="wp-image-8235" title="" srcset="/wp-content/uploads/2022/05/C-Dm-7-Intervals.png 987w, /wp-content/uploads/2022/05/C-Dm-7-Intervals-600x265.png 600w, /wp-content/uploads/2022/05/C-Dm-7-Intervals-300x133.png 300w, /wp-content/uploads/2022/05/C-Dm-7-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Dm-7-Intervals.png" alt="" class="wp-image-8235" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Dm-7-Intervals.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Dm-7-Intervals-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Dm-7-Intervals-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Dm-7-Intervals-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 

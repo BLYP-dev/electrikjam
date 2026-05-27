@@ -22,7 +22,7 @@ tagSlugs:
   - "opeth"
 tagPaths: 
   - "/tag/opeth/"
-featuredImage: "/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg"
 featuredImageAlt: "Opeth’s The Last Will and Testament Is Here Initial Reactions & Reviews"
 seo: 
   title: "Opeth’s The Last Will and Testament: Reactions & Reviews"
@@ -62,7 +62,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/11/opeth-new-labum-1024x576.jpg" alt="" class="wp-image-16737" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/opeth-new-labum-1024x576.jpg 1024w, /wp-content/uploads/2024/11/opeth-new-labum-600x338.jpg 600w, /wp-content/uploads/2024/11/opeth-new-labum-300x169.jpg 300w, /wp-content/uploads/2024/11/opeth-new-labum-768x432.jpg 768w, /wp-content/uploads/2024/11/opeth-new-labum.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2024/11/opeth-new-labum-1024x576.jpg" alt="" class="wp-image-16737" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/opeth-new-labum-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/opeth-new-labum-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/opeth-new-labum-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/opeth-new-labum-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/opeth-new-labum.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

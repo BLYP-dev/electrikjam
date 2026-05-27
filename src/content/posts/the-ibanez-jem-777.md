@@ -22,7 +22,7 @@ tagSlugs:
   - "ibanez"
 tagPaths: 
   - "/tag/ibanez/"
-featuredImage: "/wp-content/uploads/2022/03/Untitled-design-4.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-4.png"
 featuredImageAlt: "Ibanez Jem"
 seo: 
   title: "The Ibanez JEM 777: Possibly The Most Important Guitar In Metal History?"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="575" src="/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-1024x575.jpg" alt="" class="wp-image-7394" title="" srcset="/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-1024x575.jpg 1024w, /wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-600x337.jpg 600w, /wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-300x169.jpg 300w, /wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-768x432.jpg 768w, /wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-1536x863.jpg 1536w, /wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Steve Playing With Zappa: Early 80&#8217;s</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="575" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-1024x575.jpg" alt="" class="wp-image-7394" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-1024x575.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-600x337.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa-1536x863.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2022/03/Steve-Vai-and-Frank-Zappa.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Steve Playing With Zappa: Early 80&#8217;s</strong></figcaption></figure></div>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2022/03/Carvin-ad-80s-Vai-with-Charvel-Green-Meanie_en4ilo.jpg" alt="ibanez Jem" class="wp-image-7395" width="841" height="821" title="" srcset="/wp-content/uploads/2022/03/Carvin-ad-80s-Vai-with-Charvel-Green-Meanie_en4ilo.jpg 600w, /wp-content/uploads/2022/03/Carvin-ad-80s-Vai-with-Charvel-Green-Meanie_en4ilo-300x293.jpg 300w" sizes="(max-width: 841px) 100vw, 841px" /><figcaption><strong>Steve With The Green Meanie</strong>: <strong><em>Nice Pants, Steve</em></strong></figcaption></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Carvin-ad-80s-Vai-with-Charvel-Green-Meanie_en4ilo.jpg" alt="ibanez Jem" class="wp-image-7395" width="841" height="821" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Carvin-ad-80s-Vai-with-Charvel-Green-Meanie_en4ilo.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Carvin-ad-80s-Vai-with-Charvel-Green-Meanie_en4ilo-300x293.jpg 300w" sizes="(max-width: 841px) 100vw, 841px" /><figcaption><strong>Steve With The Green Meanie</strong>: <strong><em>Nice Pants, Steve</em></strong></figcaption></figure></div>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="383" src="/wp-content/uploads/2022/03/MX3_MA-1024x383.webp" alt="Ibanez maxxas" class="wp-image-7398" title="" srcset="/wp-content/uploads/2022/03/MX3_MA-1024x383.webp 1024w, /wp-content/uploads/2022/03/MX3_MA-600x225.webp 600w, /wp-content/uploads/2022/03/MX3_MA-300x112.webp 300w, /wp-content/uploads/2022/03/MX3_MA-768x288.webp 768w, /wp-content/uploads/2022/03/MX3_MA-1536x575.webp 1536w, /wp-content/uploads/2022/03/MX3_MA.webp 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Ibanez MAXXAS</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="383" src="https://www.electrikjam.com/wp-content/uploads/2022/03/MX3_MA-1024x383.webp" alt="Ibanez maxxas" class="wp-image-7398" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/MX3_MA-1024x383.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/MX3_MA-600x225.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/MX3_MA-300x112.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/MX3_MA-768x288.webp 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/MX3_MA-1536x575.webp 1536w, https://www.electrikjam.com/wp-content/uploads/2022/03/MX3_MA.webp 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Ibanez MAXXAS</strong></figcaption></figure>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2022/03/1987_JEM_catalog_p2-3.webp" alt="Ibanez Jem" class="wp-image-7396" width="843" height="555" title="" srcset="/wp-content/uploads/2022/03/1987_JEM_catalog_p2-3.webp 650w, /wp-content/uploads/2022/03/1987_JEM_catalog_p2-3-600x395.webp 600w, /wp-content/uploads/2022/03/1987_JEM_catalog_p2-3-300x198.webp 300w" sizes="(max-width: 843px) 100vw, 843px" /></figure></div>
+<div class="wp-block-image size-full"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/03/1987_JEM_catalog_p2-3.webp" alt="Ibanez Jem" class="wp-image-7396" width="843" height="555" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/1987_JEM_catalog_p2-3.webp 650w, https://www.electrikjam.com/wp-content/uploads/2022/03/1987_JEM_catalog_p2-3-600x395.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/1987_JEM_catalog_p2-3-300x198.webp 300w" sizes="(max-width: 843px) 100vw, 843px" /></figure></div>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-1024x339.png" alt="Ibanez RG" class="wp-image-7397" title="" srcset="/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-1024x339.png 1024w, /wp-content/uploads/2022/03/p_region_RG550_DY_00_04-600x199.png 600w, /wp-content/uploads/2022/03/p_region_RG550_DY_00_04-300x99.png 300w, /wp-content/uploads/2022/03/p_region_RG550_DY_00_04-768x255.png 768w, /wp-content/uploads/2022/03/p_region_RG550_DY_00_04-1536x509.png 1536w, /wp-content/uploads/2022/03/p_region_RG550_DY_00_04-2048x679.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Ibanez RG: The Affordable JEM</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="https://www.electrikjam.com/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-1024x339.png" alt="Ibanez RG" class="wp-image-7397" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-1024x339.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-1536x509.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/03/p_region_RG550_DY_00_04-2048x679.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Ibanez RG: The Affordable JEM</strong></figcaption></figure>
 
 
 

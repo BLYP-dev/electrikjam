@@ -25,7 +25,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2022/02/Untitled-design-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/02/Untitled-design-1.png"
 featuredImageAlt: "Schecter Cr6"
 seo: 
   title: "Schecter CR6 Review: The CR6 is King For Budget Shredding!"
@@ -133,7 +133,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="/wp-content/uploads/2022/02/CR-6-AQUABURST-1024x328.png" alt="Schecter Cr6" class="wp-image-6828" title="" srcset="/wp-content/uploads/2022/02/CR-6-AQUABURST-1024x328.png 1024w, /wp-content/uploads/2022/02/CR-6-AQUABURST-600x192.png 600w, /wp-content/uploads/2022/02/CR-6-AQUABURST-300x96.png 300w, /wp-content/uploads/2022/02/CR-6-AQUABURST-768x246.png 768w, /wp-content/uploads/2022/02/CR-6-AQUABURST-1536x492.png 1536w, /wp-content/uploads/2022/02/CR-6-AQUABURST-1080x346.png 1080w, /wp-content/uploads/2022/02/CR-6-AQUABURST.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="328" src="https://www.electrikjam.com/wp-content/uploads/2022/02/CR-6-AQUABURST-1024x328.png" alt="Schecter Cr6" class="wp-image-6828" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/CR-6-AQUABURST-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/02/CR-6-AQUABURST-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/CR-6-AQUABURST-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/CR-6-AQUABURST-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/02/CR-6-AQUABURST-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2022/02/CR-6-AQUABURST-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/02/CR-6-AQUABURST.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/02/Schecter-C-6-pro-ARB.jpg" alt="Schecter CR6" class="wp-image-6833" width="840" height="559" title="" srcset="/wp-content/uploads/2022/02/Schecter-C-6-pro-ARB.jpg 1000w, /wp-content/uploads/2022/02/Schecter-C-6-pro-ARB-600x400.jpg 600w, /wp-content/uploads/2022/02/Schecter-C-6-pro-ARB-300x200.jpg 300w, /wp-content/uploads/2022/02/Schecter-C-6-pro-ARB-768x511.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption class="wp-element-caption">Schecter CR6 In Aurora</figcaption></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-C-6-pro-ARB.jpg" alt="Schecter CR6" class="wp-image-6833" width="840" height="559" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-C-6-pro-ARB.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-C-6-pro-ARB-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-C-6-pro-ARB-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-C-6-pro-ARB-768x511.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption class="wp-element-caption">Schecter CR6 In Aurora</figcaption></figure>
 
 
 
@@ -263,7 +263,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/02/Schecter-CR6-Side-shot.webp" alt="Schecter CR6" class="wp-image-6829" title="" srcset="/wp-content/uploads/2022/02/Schecter-CR6-Side-shot.webp 720w, /wp-content/uploads/2022/02/Schecter-CR6-Side-shot-300x300.webp 300w, /wp-content/uploads/2022/02/Schecter-CR6-Side-shot-100x100.webp 100w, /wp-content/uploads/2022/02/Schecter-CR6-Side-shot-600x600.webp 600w, /wp-content/uploads/2022/02/Schecter-CR6-Side-shot-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><em><strong>Schecter CR6 in Cherry Burst</strong></em></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-CR6-Side-shot.webp" alt="Schecter CR6" class="wp-image-6829" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-CR6-Side-shot.webp 720w, https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-CR6-Side-shot-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-CR6-Side-shot-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-CR6-Side-shot-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/02/Schecter-CR6-Side-shot-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><em><strong>Schecter CR6 in Cherry Burst</strong></em></figcaption></figure>
 
 
 

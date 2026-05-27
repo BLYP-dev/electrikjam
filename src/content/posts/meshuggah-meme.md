@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2022/04/Meshuggah-Meme.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Meshuggah-Meme.png"
 featuredImageAlt: "Meshuggah Meme"
 seo: 
   title: "The Greatest Meshuggah Meme of ALL TIME…"

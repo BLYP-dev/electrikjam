@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer.png"
 featuredImageAlt: "seymour duncan Hot Phat Cat Silencer"
 seo: 
   title: "Seymour Duncan Phat Cat Silencer Brings P-90 Grit Without the Buzz"
@@ -111,7 +111,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="686" src="/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-1024x686.png" alt="" class="wp-image-15517" title="" srcset="/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-1024x686.png 1024w, /wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-600x402.png 600w, /wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-300x201.png 300w, /wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-768x514.png 768w, /wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul.png 1156w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="686" src="https://www.electrikjam.com/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-1024x686.png" alt="" class="wp-image-15517" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-1024x686.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-600x402.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-300x201.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul-768x514.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/06/seymour-duncan-Hot-Phat-Cat-Silencer-for-les-paul.png 1156w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

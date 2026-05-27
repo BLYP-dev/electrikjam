@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors.png"
 featuredImageAlt: "Epiphone Les Paul Prophecy Colors"
 seo: 
   title: "Epiphone Les Paul Prophecy Colors: What're Your Options?"
@@ -59,7 +59,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-1024x683.png" alt="Epiphone Les Paul Prophecy Colors" class="wp-image-7675" title="" srcset="/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-1024x683.png 1024w, /wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-600x400.png 600w, /wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-300x200.png 300w, /wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-768x512.png 768w, /wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Epiphone Les Paul Prophecy Colors From Left To Right: Black Aged Gloss, Red Tiger Aged Gloss, Olive Tiger Aged Gloss</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-1024x683.png" alt="Epiphone Les Paul Prophecy Colors" class="wp-image-7675" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Epiphone Les Paul Prophecy Colors From Left To Right: Black Aged Gloss, Red Tiger Aged Gloss, Olive Tiger Aged Gloss</strong></figcaption></figure></div>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1024x683.png" alt="Epiphone Les Paul Prophecy Colors" class="wp-image-7672" title="" srcset="/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1024x683.png 1024w, /wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-600x400.png 600w, /wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-300x200.png 300w, /wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-768x512.png 768w, /wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The guitar itself is a completely different beast when compared to Gibson’s Standard and Custom Les Paul guitars. If you’re focused on playing metal, these guitars could be exactly what you’ve been looking for.</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1024x683.png" alt="Epiphone Les Paul Prophecy Colors" class="wp-image-7672" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Epiphone-Les-Paul-Prophecy-Colors.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The guitar itself is a completely different beast when compared to Gibson’s Standard and Custom Les Paul guitars. If you’re focused on playing metal, these guitars could be exactly what you’ve been looking for.</strong></figcaption></figure></div>
 
 
 

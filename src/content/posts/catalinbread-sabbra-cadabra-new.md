@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/Sabbra-2.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/Sabbra-2.jpg"
 featuredImageAlt: "Sabbra 2"
 seo: 
   title: "Catalinbread Sabbra Cadabra: A Deadly Special Edition Overdrive For 2020"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="731" src="/wp-content/uploads/2020/11/Sabbra-Cadabra-1024x731.jpg" alt="Catlinbread Sabbra Cadabra" class="wp-image-1518" title="" srcset="/wp-content/uploads/2020/11/Sabbra-Cadabra-1024x731.jpg 1024w, /wp-content/uploads/2020/11/Sabbra-Cadabra-600x429.jpg 600w, /wp-content/uploads/2020/11/Sabbra-Cadabra-300x214.jpg 300w, /wp-content/uploads/2020/11/Sabbra-Cadabra-768x548.jpg 768w, /wp-content/uploads/2020/11/Sabbra-Cadabra.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="731" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Sabbra-Cadabra-1024x731.jpg" alt="Catlinbread Sabbra Cadabra" class="wp-image-1518" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Sabbra-Cadabra-1024x731.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sabbra-Cadabra-600x429.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sabbra-Cadabra-300x214.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sabbra-Cadabra-768x548.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sabbra-Cadabra.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-1024x768.jpg" alt="" class="wp-image-1519" title="" srcset="/wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-1024x768.jpg 1024w, /wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-600x450.jpg 600w, /wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-300x225.jpg 300w, /wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-768x576.jpg 768w, /wp-content/uploads/2020/11/sabbra-caddabra-catalinbread.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Looks heavy to me.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-1024x768.jpg" alt="" class="wp-image-1519" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-caddabra-catalinbread-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-caddabra-catalinbread.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Looks heavy to me.</figcaption></figure>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/sabbra-3-1024x1024.jpg" alt="Catalinbread Sabbra Cadabra" class="wp-image-1520" title="" srcset="/wp-content/uploads/2020/11/sabbra-3-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/sabbra-3-300x300.jpg 300w, /wp-content/uploads/2020/11/sabbra-3-100x100.jpg 100w, /wp-content/uploads/2020/11/sabbra-3-600x600.jpg 600w, /wp-content/uploads/2020/11/sabbra-3-150x150.jpg 150w, /wp-content/uploads/2020/11/sabbra-3-768x768.jpg 768w, /wp-content/uploads/2020/11/sabbra-3-1536x1536.jpg 1536w, /wp-content/uploads/2020/11/sabbra-3.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Original Catalinbread Sabbra Cadabra</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3-1024x1024.jpg" alt="Catalinbread Sabbra Cadabra" class="wp-image-1520" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/sabbra-3.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Original Catalinbread Sabbra Cadabra</figcaption></figure>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-1024x1024.png" alt="" class="wp-image-1521" title="" srcset="/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-1024x1024.png 1024w, /wp-content/uploads/2020/11/Shirt_Pedal_Poster_-300x300.png 300w, /wp-content/uploads/2020/11/Shirt_Pedal_Poster_-100x100.png 100w, /wp-content/uploads/2020/11/Shirt_Pedal_Poster_-600x600.png 600w, /wp-content/uploads/2020/11/Shirt_Pedal_Poster_-150x150.png 150w, /wp-content/uploads/2020/11/Shirt_Pedal_Poster_-768x768.png 768w, /wp-content/uploads/2020/11/Shirt_Pedal_Poster_.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-1024x1024.png" alt="" class="wp-image-1521" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-1024x1024.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-300x300.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-100x100.png 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-600x600.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-150x150.png 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/Shirt_Pedal_Poster_-768x768.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Shirt_Pedal_Poster_.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <div id="rank-math-faq" class="rank-math-block">

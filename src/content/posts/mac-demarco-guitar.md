@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection.png"
 featuredImageAlt: "Mac Demarco Guitar Collection"
 seo: 
   title: "Mac Demarco Guitar Collection: A Complete List For 2023"
@@ -173,7 +173,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="400" src="/wp-content/uploads/2023/05/cy78vbzp3sc71.jpg" alt="mac demarco vintage Japanese Teisco" class="wp-image-11962" title="" srcset="/wp-content/uploads/2023/05/cy78vbzp3sc71.jpg 600w, /wp-content/uploads/2023/05/cy78vbzp3sc71-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="600" height="400" src="https://www.electrikjam.com/wp-content/uploads/2023/05/cy78vbzp3sc71.jpg" alt="mac demarco vintage Japanese Teisco" class="wp-image-11962" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/cy78vbzp3sc71.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/cy78vbzp3sc71-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-1024x683.png" alt="Mac Demarco Guitar Collection" class="wp-image-11961" title="" srcset="/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-1024x683.png 1024w, /wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-600x400.png 600w, /wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-300x200.png 300w, /wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-768x512.png 768w, /wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-1024x683.png" alt="Mac Demarco Guitar Collection" class="wp-image-11961" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/Mac-Demarco-Guitar-Collection.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2021/10/Pearly-gates-cover.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-gates-cover.jpg"
 featuredImageAlt: "Seymour Duncan pearly Gates"
 seo: 
   title: "Seymour Duncan Pearly Gates Reviews: Outstanding Versatility And Design!"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp" alt="Seymour duncan pearly gates" class="wp-image-5087 size-full" title="" srcset="/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp 1024w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-600x423.webp 600w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-300x211.webp 300w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-768x541.webp 768w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-1080x761.webp 1080w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp" alt="Seymour duncan pearly gates" class="wp-image-5087 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-600x423.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-300x211.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-768x541.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1080x761.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000">Seymour Duncan Pearly Gates</h3>
 
 
@@ -85,7 +85,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp" alt="Seymour duncan pearly gates" class="wp-image-5087" title="" srcset="/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp 1024w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-600x423.webp 600w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-300x211.webp 300w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-768x541.webp 768w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-1080x761.webp 1080w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Pearly Gates Pickup With Chrome Covers</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp" alt="Seymour duncan pearly gates" class="wp-image-5087" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-600x423.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-300x211.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-768x541.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1080x761.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>Pearly Gates Pickup With Chrome Covers</strong></em></figcaption></figure>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="583" src="/wp-content/uploads/2021/10/Billy-Gibbons-pearly-gates-1024x583.jpg" alt="seymour duncan pearly gates" class="wp-image-5088" title=""><figcaption><strong>Billy in 1975 With The Famous Les Paul</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="583" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Billy-Gibbons-pearly-gates-1024x583.jpg" alt="seymour duncan pearly gates" class="wp-image-5088" title=""><figcaption><strong>Billy in 1975 With The Famous Les Paul</strong></figcaption></figure>
 			
 		
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="990" height="400" src="/wp-content/uploads/2021/10/Pearlly-Gates-Les-paul.jpg" alt="" class="wp-image-5089" title="" srcset="/wp-content/uploads/2021/10/Pearlly-Gates-Les-paul.jpg 990w, /wp-content/uploads/2021/10/Pearlly-Gates-Les-paul-600x242.jpg 600w, /wp-content/uploads/2021/10/Pearlly-Gates-Les-paul-300x121.jpg 300w, /wp-content/uploads/2021/10/Pearlly-Gates-Les-paul-768x310.jpg 768w" sizes="(max-width: 990px) 100vw, 990px" /><figcaption><strong><em>Pearly Gates At Home In A Les Paul</em></strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="990" height="400" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearlly-Gates-Les-paul.jpg" alt="" class="wp-image-5089" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearlly-Gates-Les-paul.jpg 990w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearlly-Gates-Les-paul-600x242.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearlly-Gates-Les-paul-300x121.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearlly-Gates-Les-paul-768x310.jpg 768w" sizes="(max-width: 990px) 100vw, 990px" /><figcaption><strong><em>Pearly Gates At Home In A Les Paul</em></strong></figcaption></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp" alt="Seymour duncan pearly gates" class="wp-image-5087 size-full" title="" srcset="/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp 1024w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-600x423.webp 600w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-300x211.webp 300w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-768x541.webp 768w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge-1080x761.webp 1080w, /wp-content/uploads/2021/10/Pearly-Gates-Bridge.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp" alt="Seymour duncan pearly gates" class="wp-image-5087 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1024x722.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-600x423.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-300x211.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-768x541.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge-1080x761.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Pearly-Gates-Bridge.webp 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000">Seymour Duncan Pearly Gates</h3>
 
 

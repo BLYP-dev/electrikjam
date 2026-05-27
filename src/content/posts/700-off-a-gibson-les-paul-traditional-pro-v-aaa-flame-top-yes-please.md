@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top-Electric-Guitar-Dark-Purple-Burst.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top-Electric-Guitar-Dark-Purple-Burst.jpg"
 featuredImageAlt: "Gibson Les Paul Traditional Pro V AAA Flame Top"
 seo: 
   title: "$700 Off a Gibson Les Paul Traditional Pro V AAA Flame Top? Yes, Please!"
@@ -40,7 +40,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--1024x683.jpg" alt="" class="wp-image-16728" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--1024x683.jpg 1024w, /wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--600x400.jpg 600w, /wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--300x200.jpg 300w, /wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--768x512.jpg 768w, /wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--1024x683.jpg" alt="" class="wp-image-16728" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top--768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/11/Gibson-Les-Paul-Traditional-Pro-V-AAA-Flame-Top-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

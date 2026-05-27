@@ -22,7 +22,7 @@ tagSlugs:
   - "dave-grohl"
 tagPaths: 
   - "/tag/dave-grohl/"
-featuredImage: "/wp-content/uploads/2024/06/Grohl-vs-Swift.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/06/Grohl-vs-Swift.png"
 featuredImageAlt: "Grohl vs Swift"
 seo: 
   title: "The Dave Grohl & Taylor Swift Feud: How It Started / How It's Going"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" width="1020" height="574" src="/wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1.jpg" alt="" class="wp-image-15490" title="" srcset="/wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1.jpg 1020w, /wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1-600x338.jpg 600w, /wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1-300x169.jpg 300w, /wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1-768x432.jpg 768w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="1020" height="574" src="https://www.electrikjam.com/wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1.jpg" alt="" class="wp-image-15490" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1.jpg 1020w, https://www.electrikjam.com/wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/06/Taylor-Swift-news-Taylor-Swift-performs-with-Travis-Kelce-live-1-768x432.jpg 768w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" width="467" height="266" src="/wp-content/uploads/2024/06/download.jpg" alt="" class="wp-image-15491" title="" srcset="/wp-content/uploads/2024/06/download.jpg 467w, /wp-content/uploads/2024/06/download-300x171.jpg 300w" sizes="(max-width: 467px) 100vw, 467px" /></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="467" height="266" src="https://www.electrikjam.com/wp-content/uploads/2024/06/download.jpg" alt="" class="wp-image-15491" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/06/download.jpg 467w, https://www.electrikjam.com/wp-content/uploads/2024/06/download-300x171.jpg 300w" sizes="(max-width: 467px) 100vw, 467px" /></figure>
 
 
 

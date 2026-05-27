@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/guitar-tuning/"
   - "/tag/jimi-hendrix/"
-featuredImage: "/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use.png"
 featuredImageAlt: "What guitar tuning did Jimi Hendrix use"
 seo: 
   title: "Jimi Hendrix Loved This Guitar Tuning – Here's Why..."
@@ -66,7 +66,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png" alt="What guitar tuning did Jimi Hendrix use" class="wp-image-7580" title="" srcset="/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png 1024w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-600x400.png 600w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-300x200.png 300w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-768x512.png 768w, /wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Jimi learned his craft by trying to emulate blues legends like Muddy Waters, B.B. King, Howlin&#8217; Wolf, and Robert Johnson. During the height of his career, <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="101447">Hendrix used Fender guitars</a> –&nbsp;mostly Strats.</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png" alt="What guitar tuning did Jimi Hendrix use" class="wp-image-7580" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-guitar-tuning-did-Jimi-Hendrix-use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Jimi learned his craft by trying to emulate blues legends like Muddy Waters, B.B. King, Howlin&#8217; Wolf, and Robert Johnson. During the height of his career, <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="101447">Hendrix used Fender guitars</a> –&nbsp;mostly Strats.</strong></figcaption></figure></div>
 
 
 

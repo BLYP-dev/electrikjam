@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/04/ben-weinman-guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/ben-weinman-guitar.png"
 featuredImageAlt: "ben weinman guitar"
 seo: 
   title: "The Guitar Ben Weinman Most Uses is Utterly Stunning..."
@@ -48,7 +48,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/ben-weinman-guitar-1024x683.png" alt="ben weinman guitar" class="wp-image-7751" title="" srcset="/wp-content/uploads/2022/04/ben-weinman-guitar-1024x683.png 1024w, /wp-content/uploads/2022/04/ben-weinman-guitar-600x400.png 600w, /wp-content/uploads/2022/04/ben-weinman-guitar-300x200.png 300w, /wp-content/uploads/2022/04/ben-weinman-guitar-768x512.png 768w, /wp-content/uploads/2022/04/ben-weinman-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Weinman has always been a fan of ESP guitars</strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/ben-weinman-guitar-1024x683.png" alt="ben weinman guitar" class="wp-image-7751" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/ben-weinman-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/ben-weinman-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/ben-weinman-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/ben-weinman-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/ben-weinman-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Weinman has always been a fan of ESP guitars</strong></figcaption></figure>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/ESP-LTD-BW-1024x538.jpg" alt="" class="wp-image-2685" width="840" height="441" title="" srcset="/wp-content/uploads/2021/04/ESP-LTD-BW-1024x538.jpg 1024w, /wp-content/uploads/2021/04/ESP-LTD-BW-600x315.jpg 600w, /wp-content/uploads/2021/04/ESP-LTD-BW-300x158.jpg 300w, /wp-content/uploads/2021/04/ESP-LTD-BW-768x403.jpg 768w, /wp-content/uploads/2021/04/ESP-LTD-BW-1080x567.jpg 1080w, /wp-content/uploads/2021/04/ESP-LTD-BW.jpg 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong>The ESP BW-1 EverTune</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-1024x538.jpg" alt="" class="wp-image-2685" width="840" height="441" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-1024x538.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-600x315.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-300x158.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-768x403.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW-1080x567.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/ESP-LTD-BW.jpg 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong>The ESP BW-1 EverTune</strong></figcaption></figure></div>
 
 
 

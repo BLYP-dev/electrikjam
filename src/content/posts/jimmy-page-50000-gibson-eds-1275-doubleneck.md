@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/gibson/"
   - "/tag/jimmy-page/"
-featuredImage: "/wp-content/uploads/2024/03/jimmy-page-50000-guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/03/jimmy-page-50000-guitar.png"
 featuredImageAlt: "jimmy page 50,000 guitar"
 seo: 
   title: "Jimmy Page’s New Gibson Guitar Costs More Than A Tesla"
@@ -58,7 +58,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="750" height="526" src="/wp-content/uploads/2024/03/immy-Page-EDS-1275-Doubleneck.jpg.webp" alt="Jimmy Page EDS-1275 Doubleneck.jpg" class="wp-image-14467" title="" srcset="/wp-content/uploads/2024/03/immy-Page-EDS-1275-Doubleneck.jpg.webp 750w, /wp-content/uploads/2024/03/immy-Page-EDS-1275-Doubleneck.jpg-600x421.webp 600w, /wp-content/uploads/2024/03/immy-Page-EDS-1275-Doubleneck.jpg-300x210.webp 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="750" height="526" src="https://www.electrikjam.com/wp-content/uploads/2024/03/immy-Page-EDS-1275-Doubleneck.jpg.webp" alt="Jimmy Page EDS-1275 Doubleneck.jpg" class="wp-image-14467" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/immy-Page-EDS-1275-Doubleneck.jpg.webp 750w, https://www.electrikjam.com/wp-content/uploads/2024/03/immy-Page-EDS-1275-Doubleneck.jpg-600x421.webp 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/immy-Page-EDS-1275-Doubleneck.jpg-300x210.webp 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-1024x683.png" alt="jimmy page 1971 Gibson EDS-1275 double neck guitar" class="wp-image-14306" title="" srcset="/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-1024x683.png 1024w, /wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-600x400.png 600w, /wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-300x200.png 300w, /wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-768x512.png 768w, /wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-1024x683.png" alt="jimmy page 1971 Gibson EDS-1275 double neck guitar" class="wp-image-14306" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/jimmy-page-1971-Gibson-EDS-1275-double-neck-guitar.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "/wp-content/uploads/2022/08/P90-pickups-guide.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/P90-pickups-guide.png"
 featuredImageAlt: "P90 pickups guide"
 seo: 
   title: "P90 Pickups: A Guide (Inc. Tone, Genre, Pros & Cons)"
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/P90-Pickups-1024x683.png" alt="P90 Pickups" class="wp-image-8655" title="" srcset="/wp-content/uploads/2022/08/P90-Pickups-1024x683.png 1024w, /wp-content/uploads/2022/08/P90-Pickups-600x400.png 600w, /wp-content/uploads/2022/08/P90-Pickups-300x200.png 300w, /wp-content/uploads/2022/08/P90-Pickups-768x512.png 768w, /wp-content/uploads/2022/08/P90-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/P90-Pickups-1024x683.png" alt="P90 Pickups" class="wp-image-8655" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/P90-Pickups-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/P90-Pickups-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/P90-Pickups-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/P90-Pickups-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/P90-Pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/P90-pickups-guide-1024x683.png" alt="P90 pickups guide" class="wp-image-8656" title="" srcset="/wp-content/uploads/2022/08/P90-pickups-guide-1024x683.png 1024w, /wp-content/uploads/2022/08/P90-pickups-guide-600x400.png 600w, /wp-content/uploads/2022/08/P90-pickups-guide-300x200.png 300w, /wp-content/uploads/2022/08/P90-pickups-guide-768x512.png 768w, /wp-content/uploads/2022/08/P90-pickups-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/P90-pickups-guide-1024x683.png" alt="P90 pickups guide" class="wp-image-8656" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/P90-pickups-guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/P90-pickups-guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/P90-pickups-guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/P90-pickups-guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/P90-pickups-guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

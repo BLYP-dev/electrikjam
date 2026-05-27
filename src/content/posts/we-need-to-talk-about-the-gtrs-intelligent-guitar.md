@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/07/GTRS-Cover.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Cover.jpg"
 featuredImageAlt: "GTRS Cover"
 seo: 
   title: "MOOER in 2021: We Need To Talk About The GTRS Intelligent Guitar..."
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/07/GTRS-NEW-1024x576.jpg" alt="GTRS" class="wp-image-3494" title="" srcset="/wp-content/uploads/2021/07/GTRS-NEW-1024x576.jpg 1024w, /wp-content/uploads/2021/07/GTRS-NEW-600x338.jpg 600w, /wp-content/uploads/2021/07/GTRS-NEW-300x169.jpg 300w, /wp-content/uploads/2021/07/GTRS-NEW-768x432.jpg 768w, /wp-content/uploads/2021/07/GTRS-NEW-1080x608.jpg 1080w, /wp-content/uploads/2021/07/GTRS-NEW.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>The GTRS Intelligent Guitar</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-NEW-1024x576.jpg" alt="GTRS" class="wp-image-3494" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-NEW-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-NEW-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-NEW-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-NEW-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-NEW-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-NEW.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>The GTRS Intelligent Guitar</em></figcaption></figure>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="543" src="/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-1024x543.jpg" alt="" class="wp-image-3495" title="" srcset="/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-1024x543.jpg 1024w, /wp-content/uploads/2021/07/GTRS-Intelligent-Processor-600x318.jpg 600w, /wp-content/uploads/2021/07/GTRS-Intelligent-Processor-300x159.jpg 300w, /wp-content/uploads/2021/07/GTRS-Intelligent-Processor-768x407.jpg 768w, /wp-content/uploads/2021/07/GTRS-Intelligent-Processor-1536x815.jpg 1536w, /wp-content/uploads/2021/07/GTRS-Intelligent-Processor-1080x573.jpg 1080w, /wp-content/uploads/2021/07/GTRS-Intelligent-Processor.jpg 1570w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>GTRS Output/Intelligent processo</em>r</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="543" src="https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-1024x543.jpg" alt="" class="wp-image-3495" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-1024x543.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-600x318.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-300x159.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-768x407.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-1536x815.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Intelligent-Processor-1080x573.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-Intelligent-Processor.jpg 1570w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>GTRS Output/Intelligent processo</em>r</figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="988" height="472" src="/wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112.jpeg" alt="" class="wp-image-3496" title="" srcset="/wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112.jpeg 988w, /wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112-600x287.jpeg 600w, /wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112-300x143.jpeg 300w, /wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112-768x367.jpeg 768w" sizes="(max-width: 988px) 100vw, 988px" /><figcaption><em>GTRS APP</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="988" height="472" src="https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112.jpeg" alt="" class="wp-image-3496" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112.jpeg 988w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112-600x287.jpeg 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112-300x143.jpeg 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/GTRS-App-for-Anroid-and-iOS-e1621327644112-768x367.jpeg 768w" sizes="(max-width: 988px) 100vw, 988px" /><figcaption><em>GTRS APP</em></figcaption></figure>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="568" src="/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-1024x568.png" alt="" class="wp-image-3497" title="" srcset="/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-1024x568.png 1024w, /wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-600x333.png 600w, /wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-300x166.png 300w, /wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-768x426.png 768w, /wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-1080x599.png 1080w, /wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681.png 1504w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="568" src="https://www.electrikjam.com/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-1024x568.png" alt="" class="wp-image-3497" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-1024x568.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-600x333.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-300x166.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-768x426.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681-1080x599.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/07/mooer-gtrs-intelligent-guitar-3597681.png 1504w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

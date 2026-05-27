@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2021/09/Legendary-Humbucker-Pickups-11108-13-B-e1632925504457.webp"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Legendary-Humbucker-Pickups-11108-13-B-e1632925504457.webp"
 featuredImageAlt: "Legendary-Humbucker-Pickups-11108-13-B"
 seo: 
   title: "Seymour Duncan JB Reviews: 4 Decades Of Devastating Distortion!"
@@ -87,7 +87,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="835" height="388" src="/wp-content/uploads/2021/09/JB-Humbucker.jpg" alt="" class="wp-image-4675" title="" srcset="/wp-content/uploads/2021/09/JB-Humbucker.jpg 835w, /wp-content/uploads/2021/09/JB-Humbucker-600x279.jpg 600w, /wp-content/uploads/2021/09/JB-Humbucker-300x139.jpg 300w, /wp-content/uploads/2021/09/JB-Humbucker-768x357.jpg 768w" sizes="(max-width: 835px) 100vw, 835px" /></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="835" height="388" src="https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Humbucker.jpg" alt="" class="wp-image-4675" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Humbucker.jpg 835w, https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Humbucker-600x279.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Humbucker-300x139.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Humbucker-768x357.jpg 768w" sizes="(max-width: 835px) 100vw, 835px" /></figure>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2021/09/JB-Nickel-SH-4-1024x722.jpg" alt="Seymour Duncan JB" class="wp-image-4676" title="" srcset="/wp-content/uploads/2021/09/JB-Nickel-SH-4-1024x722.jpg 1024w, /wp-content/uploads/2021/09/JB-Nickel-SH-4-600x423.jpg 600w, /wp-content/uploads/2021/09/JB-Nickel-SH-4-300x211.jpg 300w, /wp-content/uploads/2021/09/JB-Nickel-SH-4-768x541.jpg 768w, /wp-content/uploads/2021/09/JB-Nickel-SH-4-1080x761.jpg 1080w, /wp-content/uploads/2021/09/JB-Nickel-SH-4.jpg 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>A Covered Seymour Duncan JB Humbucker</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Nickel-SH-4-1024x722.jpg" alt="Seymour Duncan JB" class="wp-image-4676" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Nickel-SH-4-1024x722.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Nickel-SH-4-600x423.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Nickel-SH-4-300x211.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Nickel-SH-4-768x541.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Nickel-SH-4-1080x761.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/JB-Nickel-SH-4.jpg 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>A Covered Seymour Duncan JB Humbucker</strong></em></figcaption></figure>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="905" height="543" src="/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg" alt="" class="wp-image-4677" title="" srcset="/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg 905w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-600x360.jpg 600w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-300x180.jpg 300w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-768x461.jpg 768w" sizes="(max-width: 905px) 100vw, 905px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="905" height="543" src="https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg" alt="" class="wp-image-4677" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg 905w, https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-600x360.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-300x180.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-768x461.jpg 768w" sizes="(max-width: 905px) 100vw, 905px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="722" src="/wp-content/uploads/2021/09/Legendary-Humbucker-Pickups-11108-13-B-1024x722.webp" alt="" class="wp-image-4686" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="722" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Legendary-Humbucker-Pickups-11108-13-B-1024x722.webp" alt="" class="wp-image-4686" title=""></figure>
 
 
 

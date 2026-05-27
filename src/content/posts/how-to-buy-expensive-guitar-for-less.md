@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/01/How-To-Buy-An-Expensive-Guitar-FOR-LESS-e1610017766197.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/How-To-Buy-An-Expensive-Guitar-FOR-LESS-e1610017766197.png"
 featuredImageAlt: "How To Buy An Expensive Guitar (FOR LESS)"
 seo: 
   title: "How To Buy An Expensive Guitar (FOR LESS): Buying Tips…"
@@ -35,7 +35,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="706" src="/wp-content/uploads/2021/01/How-To-Buy-An-Expensive-Guitar-FOR-LESS-1024x706.png" alt="How To Buy An Expensive Guitar (FOR LESS)" class="wp-image-1709" title=""></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="706" src="https://www.electrikjam.com/wp-content/uploads/2021/01/How-To-Buy-An-Expensive-Guitar-FOR-LESS-1024x706.png" alt="How To Buy An Expensive Guitar (FOR LESS)" class="wp-image-1709" title=""></figure>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="837" src="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" class="rank-math-link" data-lasso-id="617">Chino Moreno of The Deftones</a></strong> Uses An SG –&nbsp;Although His Model is The Gibson SG Standard (and <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/gibson-sg-standard-61-electric-guitar/" data-lasso-id="618">you can pick one of these up on finance too</a></strong>)</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="837" src="https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" class="rank-math-link" data-lasso-id="617">Chino Moreno of The Deftones</a></strong> Uses An SG –&nbsp;Although His Model is The Gibson SG Standard (and <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/gibson-sg-standard-61-electric-guitar/" data-lasso-id="618">you can pick one of these up on finance too</a></strong>)</figcaption></figure>
 
 
 

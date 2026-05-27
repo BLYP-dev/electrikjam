@@ -16,7 +16,7 @@ categoryPaths: []
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals.png"
 featuredImageAlt: "Best Black Friday Guitar Deals"
 seo: 
   title: "Best Black Friday Guitar Deals – Save Up To 40%"
@@ -33,7 +33,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-1024x683.png" alt="Best Black Friday Guitar Deals" class="wp-image-13623" title="" srcset="/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-1024x683.png 1024w, /wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-600x400.png 600w, /wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-300x200.png 300w, /wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-768x512.png 768w, /wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-1024x683.png" alt="Best Black Friday Guitar Deals" class="wp-image-13623" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Best-Black-Friday-Guitar-Deals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/recommended-picks-1024x683.png" alt="" class="wp-image-13622" title="" srcset="/wp-content/uploads/2023/11/recommended-picks-1024x683.png 1024w, /wp-content/uploads/2023/11/recommended-picks-600x400.png 600w, /wp-content/uploads/2023/11/recommended-picks-300x200.png 300w, /wp-content/uploads/2023/11/recommended-picks-768x512.png 768w, /wp-content/uploads/2023/11/recommended-picks.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/recommended-picks-1024x683.png" alt="" class="wp-image-13622" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/recommended-picks-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/recommended-picks-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/recommended-picks-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/recommended-picks-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/recommended-picks.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

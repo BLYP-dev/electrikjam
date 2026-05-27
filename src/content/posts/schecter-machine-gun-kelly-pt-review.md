@@ -25,7 +25,7 @@ tagSlugs:
   - "schecter"
 tagPaths: 
   - "/tag/schecter/"
-featuredImage: "/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review.png"
 featuredImageAlt: "Schecter Machine Gun Kelly PT"
 seo: 
   title: "Schecter Machine Gun Kelly PT Review: Let's Be 100% REAL Here"
@@ -90,7 +90,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-1024x683.png" alt="Schecter Machine Gun Kelly PT" class="wp-image-9939" title="" srcset="/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-1024x683.png 1024w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-600x400.png 600w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-300x200.png 300w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-768x512.png 768w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-1024x683.png" alt="Schecter Machine Gun Kelly PT" class="wp-image-9939" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-1024x683.png" alt="Schecter Machine Gun Kelly PT" class="wp-image-9940" title="" srcset="/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-1024x683.png 1024w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-600x400.png 600w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-300x200.png 300w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-768x512.png 768w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-1024x683.png" alt="Schecter Machine Gun Kelly PT" class="wp-image-9940" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-testing-review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-1024x683.png" alt="Schecter Machine Gun Kelly PT" class="wp-image-9938" title="" srcset="/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-1024x683.png 1024w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-600x400.png 600w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-300x200.png 300w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-768x512.png 768w, /wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-1024x683.png" alt="Schecter Machine Gun Kelly PT" class="wp-image-9938" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Schecter-Machine-Gun-Kelly-PT-Review.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

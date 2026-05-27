@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-amps"
 tagPaths: 
   - "/tag/guitar-amps/"
-featuredImage: "/wp-content/uploads/2022/08/Choosing-A-Guitar-Amplifier.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-A-Guitar-Amplifier.png"
 featuredImageAlt: "Choosing A Guitar Amplifier"
 seo: 
   title: "Choosing A Guitar Amplifier That Doesn't Suck: A Beginner's Guide"
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-1024x683.png" alt="choosing a guitar amp" class="wp-image-8763" title="" srcset="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-1024x683.png 1024w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-600x400.png 600w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-300x200.png 300w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-768x512.png 768w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-1024x683.png" alt="choosing a guitar amp" class="wp-image-8763" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-rear-wattage.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-1024x683.png" alt="choosing a guitar amp" class="wp-image-8764" title="" srcset="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-1024x683.png 1024w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-600x400.png 600w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-300x200.png 300w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-768x512.png 768w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-1024x683.png" alt="choosing a guitar amp" class="wp-image-8764" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-tube-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-1024x683.png" alt="choosing a guitar amp" class="wp-image-8767" title="" srcset="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-1024x683.png 1024w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-600x400.png 600w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-300x200.png 300w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-768x512.png 768w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-1024x683.png" alt="choosing a guitar amp" class="wp-image-8767" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-solid-state-amps.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-1024x683.png" alt="choosing a guitar amp" class="wp-image-8786" title="" srcset="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-1024x683.png 1024w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-600x400.png 600w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-300x200.png 300w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-768x512.png 768w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-1024x683.png" alt="choosing a guitar amp" class="wp-image-8786" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-DIGITAL.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -375,7 +375,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-1024x683.png" alt="choosing a guitar amp" class="wp-image-8789" title="" srcset="/wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-1024x683.png 1024w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-600x400.png 600w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-300x200.png 300w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-768x512.png 768w, /wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-1024x683.png" alt="choosing a guitar amp" class="wp-image-8789" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/Choosing-a-guitar-amp-STL-tones.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

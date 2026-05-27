@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/10/henrik-hjortshoj-lEwyj4FiHHU-unsplash-scaled.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/henrik-hjortshoj-lEwyj4FiHHU-unsplash-scaled.jpg"
 featuredImageAlt: "henrik-hjortshoj-lEwyj4FiHHU-unsplash"
 seo: 
   title: "The Best Guitar Pedals For Metal: Our #1 Picks For 2020"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-1024x683.jpg" alt="" class="wp-image-1128" title="" srcset="/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-scaled-600x400.jpg 600w, /wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-300x200.jpg 300w, /wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-768x512.jpg 768w, /wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-1024x683.jpg" alt="" class="wp-image-1128" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/abraham-osorio-xDJN2VQA3tw-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/REVV-G3-1024x1024.jpg" alt="" class="wp-image-1130" title="" srcset="/wp-content/uploads/2020/10/REVV-G3-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/REVV-G3-300x300.jpg 300w, /wp-content/uploads/2020/10/REVV-G3-100x100.jpg 100w, /wp-content/uploads/2020/10/REVV-G3-600x600.jpg 600w, /wp-content/uploads/2020/10/REVV-G3-150x150.jpg 150w, /wp-content/uploads/2020/10/REVV-G3-768x768.jpg 768w, /wp-content/uploads/2020/10/REVV-G3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The REVV G3</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/REVV-G3-1024x1024.jpg" alt="" class="wp-image-1130" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/REVV-G3-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/REVV-G3-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/REVV-G3-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/REVV-G3-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/REVV-G3-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/REVV-G3-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/REVV-G3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The REVV G3</figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DS-1-1024x1024.jpg" alt="" class="wp-image-1132" title="" srcset="/wp-content/uploads/2020/10/DS-1-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/DS-1-300x300.jpg 300w, /wp-content/uploads/2020/10/DS-1-100x100.jpg 100w, /wp-content/uploads/2020/10/DS-1-600x600.jpg 600w, /wp-content/uploads/2020/10/DS-1-150x150.jpg 150w, /wp-content/uploads/2020/10/DS-1-768x768.jpg 768w, /wp-content/uploads/2020/10/DS-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Classic DS1</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/DS-1-1024x1024.jpg" alt="" class="wp-image-1132" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/DS-1-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/DS-1-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/DS-1-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/DS-1-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/DS-1-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/DS-1-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/DS-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Classic DS1</figcaption></figure>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="801" src="/wp-content/uploads/2020/10/Wampler-Dracarys-1024x801.jpg" alt="" class="wp-image-1134" title="" srcset="/wp-content/uploads/2020/10/Wampler-Dracarys-1024x801.jpg 1024w, /wp-content/uploads/2020/10/Wampler-Dracarys-600x469.jpg 600w, /wp-content/uploads/2020/10/Wampler-Dracarys-300x235.jpg 300w, /wp-content/uploads/2020/10/Wampler-Dracarys-768x601.jpg 768w, /wp-content/uploads/2020/10/Wampler-Dracarys.jpg 1381w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="801" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Wampler-Dracarys-1024x801.jpg" alt="" class="wp-image-1134" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Wampler-Dracarys-1024x801.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wampler-Dracarys-600x469.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wampler-Dracarys-300x235.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wampler-Dracarys-768x601.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Wampler-Dracarys.jpg 1381w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/Beringer-hm300-768x1024.jpg" alt="" class="wp-image-1136" title="" srcset="/wp-content/uploads/2020/10/Beringer-hm300-768x1024.jpg 768w, /wp-content/uploads/2020/10/Beringer-hm300-600x800.jpg 600w, /wp-content/uploads/2020/10/Beringer-hm300-225x300.jpg 225w, /wp-content/uploads/2020/10/Beringer-hm300-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/Beringer-hm300.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Beringer-hm300-768x1024.jpg" alt="" class="wp-image-1136" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Beringer-hm300-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Beringer-hm300-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Beringer-hm300-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/Beringer-hm300-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/Beringer-hm300.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="730" src="/wp-content/uploads/2020/10/Whammy-1024x730.jpg" alt="" class="wp-image-1139" title="" srcset="/wp-content/uploads/2020/10/Whammy-1024x730.jpg 1024w, /wp-content/uploads/2020/10/Whammy-600x428.jpg 600w, /wp-content/uploads/2020/10/Whammy-300x214.jpg 300w, /wp-content/uploads/2020/10/Whammy-768x548.jpg 768w, /wp-content/uploads/2020/10/Whammy.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="730" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Whammy-1024x730.jpg" alt="" class="wp-image-1139" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Whammy-1024x730.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Whammy-600x428.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Whammy-300x214.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Whammy-768x548.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Whammy.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="747" height="1024" src="/wp-content/uploads/2020/10/TC-Flashback-747x1024.jpg" alt="" class="wp-image-1143" title="" srcset="/wp-content/uploads/2020/10/TC-Flashback-747x1024.jpg 747w, /wp-content/uploads/2020/10/TC-Flashback-600x823.jpg 600w, /wp-content/uploads/2020/10/TC-Flashback-219x300.jpg 219w, /wp-content/uploads/2020/10/TC-Flashback-768x1053.jpg 768w, /wp-content/uploads/2020/10/TC-Flashback-1120x1536.jpg 1120w, /wp-content/uploads/2020/10/TC-Flashback.jpg 1167w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="747" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/TC-Flashback-747x1024.jpg" alt="" class="wp-image-1143" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/TC-Flashback-747x1024.jpg 747w, https://www.electrikjam.com/wp-content/uploads/2020/10/TC-Flashback-600x823.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/TC-Flashback-219x300.jpg 219w, https://www.electrikjam.com/wp-content/uploads/2020/10/TC-Flashback-768x1053.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/TC-Flashback-1120x1536.jpg 1120w, https://www.electrikjam.com/wp-content/uploads/2020/10/TC-Flashback.jpg 1167w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
 
 
 
@@ -300,7 +300,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2020/10/Joyo-Atmosphere.jpg" alt="" class="wp-image-1145" title="" srcset="/wp-content/uploads/2020/10/Joyo-Atmosphere.jpg 1000w, /wp-content/uploads/2020/10/Joyo-Atmosphere-300x300.jpg 300w, /wp-content/uploads/2020/10/Joyo-Atmosphere-100x100.jpg 100w, /wp-content/uploads/2020/10/Joyo-Atmosphere-600x600.jpg 600w, /wp-content/uploads/2020/10/Joyo-Atmosphere-150x150.jpg 150w, /wp-content/uploads/2020/10/Joyo-Atmosphere-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Joyo-Atmosphere.jpg" alt="" class="wp-image-1145" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Joyo-Atmosphere.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/Joyo-Atmosphere-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Joyo-Atmosphere-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Joyo-Atmosphere-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Joyo-Atmosphere-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Joyo-Atmosphere-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 

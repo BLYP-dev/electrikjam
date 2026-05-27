@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/01/is-bias-fx-worth-it-e1610108717277.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/is-bias-fx-worth-it-e1610108717277.png"
 featuredImageAlt: "Save 50% on Positive Grid’s EPIC BIAS FX 2"
 seo: 
   title: "Expensive Amp Simulators: The PRO Solution For Every Studio in 2021!"
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/AmpliTube5Max-large.jpg" alt="expensive amp simulators" class="wp-image-2802" width="840" height="515" title="" srcset="/wp-content/uploads/2021/04/AmpliTube5Max-large.jpg 750w, /wp-content/uploads/2021/04/AmpliTube5Max-large-600x368.jpg 600w, /wp-content/uploads/2021/04/AmpliTube5Max-large-300x184.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption>Amplitube 5 Max</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/AmpliTube5Max-large.jpg" alt="expensive amp simulators" class="wp-image-2802" width="840" height="515" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/AmpliTube5Max-large.jpg 750w, https://www.electrikjam.com/wp-content/uploads/2021/04/AmpliTube5Max-large-600x368.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/AmpliTube5Max-large-300x184.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption>Amplitube 5 Max</figcaption></figure>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="879" height="747" src="/wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd.jpg" alt="" class="wp-image-2803" title="" srcset="/wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd.jpg 879w, /wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd-600x510.jpg 600w, /wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd-300x255.jpg 300w, /wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd-768x653.jpg 768w" sizes="(max-width: 879px) 100vw, 879px" /><figcaption>Avid Eleven Rack</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="879" height="747" src="https://www.electrikjam.com/wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd.jpg" alt="" class="wp-image-2803" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd.jpg 879w, https://www.electrikjam.com/wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd-600x510.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd-300x255.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/adg-34541fe2fe9340cfc2bc4ba0e71e35fd-768x653.jpg 768w" sizes="(max-width: 879px) 100vw, 879px" /><figcaption>Avid Eleven Rack</figcaption></figure>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1019" height="596" src="/wp-content/uploads/2021/04/Line-6-helix-native.jpg" alt="amp simulators" class="wp-image-2688" title="" srcset="/wp-content/uploads/2021/04/Line-6-helix-native.jpg 1019w, /wp-content/uploads/2021/04/Line-6-helix-native-600x351.jpg 600w, /wp-content/uploads/2021/04/Line-6-helix-native-300x175.jpg 300w, /wp-content/uploads/2021/04/Line-6-helix-native-768x449.jpg 768w" sizes="(max-width: 1019px) 100vw, 1019px" /><figcaption><a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2515">Helix Native Amp</a> Chain</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1019" height="596" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native.jpg" alt="amp simulators" class="wp-image-2688" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native.jpg 1019w, https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native-600x351.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native-300x175.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Line-6-helix-native-768x449.jpg 768w" sizes="(max-width: 1019px) 100vw, 1019px" /><figcaption><a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2515">Helix Native Amp</a> Chain</figcaption></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="749" src="/wp-content/uploads/2021/01/what-is-bias-fx.png" alt="" class="wp-image-1731" title="" srcset="/wp-content/uploads/2021/01/what-is-bias-fx.png 1000w, /wp-content/uploads/2021/01/what-is-bias-fx-600x449.png 600w, /wp-content/uploads/2021/01/what-is-bias-fx-300x225.png 300w, /wp-content/uploads/2021/01/what-is-bias-fx-768x575.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="749" src="https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx.png" alt="" class="wp-image-1731" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx.png 1000w, https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx-600x449.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx-300x225.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/what-is-bias-fx-768x575.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/studio.jpg" alt="" class="wp-image-2804" width="837" height="471" title="" srcset="/wp-content/uploads/2021/04/studio.jpg 640w, /wp-content/uploads/2021/04/studio-600x338.jpg 600w, /wp-content/uploads/2021/04/studio-300x169.jpg 300w" sizes="(max-width: 837px) 100vw, 837px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/studio.jpg" alt="" class="wp-image-2804" width="837" height="471" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/studio.jpg 640w, https://www.electrikjam.com/wp-content/uploads/2021/04/studio-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/studio-300x169.jpg 300w" sizes="(max-width: 837px) 100vw, 837px" /></figure>
 
 
 

@@ -25,7 +25,7 @@ tagSlugs:
 tagPaths: 
   - "/tag/fender/"
   - "/tag/gibson/"
-featuredImage: "/wp-content/uploads/2023/03/Most-Famous-Electric-Guitar.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Most-Famous-Electric-Guitar.png"
 featuredImageAlt: "What is the most famous electric guitar?"
 seo: 
   title: "What Is The Most Famous Electric Guitar? Exploring 2 Different Legends"
@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Famous-Electric-Guitars-1024x683.png" alt="What is the most famous electric guitar?" class="wp-image-10966" title="" srcset="/wp-content/uploads/2023/03/Famous-Electric-Guitars-1024x683.png 1024w, /wp-content/uploads/2023/03/Famous-Electric-Guitars-600x400.png 600w, /wp-content/uploads/2023/03/Famous-Electric-Guitars-300x200.png 300w, /wp-content/uploads/2023/03/Famous-Electric-Guitars-768x512.png 768w, /wp-content/uploads/2023/03/Famous-Electric-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Famous-Electric-Guitars-1024x683.png" alt="What is the most famous electric guitar?" class="wp-image-10966" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Famous-Electric-Guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Famous-Electric-Guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Famous-Electric-Guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Famous-Electric-Guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Famous-Electric-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Most-famous-electric-guitars-1024x683.png" alt="what is the most famous electric guitar?" class="wp-image-10967" title="" srcset="/wp-content/uploads/2023/03/Most-famous-electric-guitars-1024x683.png 1024w, /wp-content/uploads/2023/03/Most-famous-electric-guitars-600x400.png 600w, /wp-content/uploads/2023/03/Most-famous-electric-guitars-300x200.png 300w, /wp-content/uploads/2023/03/Most-famous-electric-guitars-768x512.png 768w, /wp-content/uploads/2023/03/Most-famous-electric-guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Most-famous-electric-guitars-1024x683.png" alt="what is the most famous electric guitar?" class="wp-image-10967" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Most-famous-electric-guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Most-famous-electric-guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Most-famous-electric-guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Most-famous-electric-guitars-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Most-famous-electric-guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -282,7 +282,7 @@ seo:
 <div id="faq-question-1678132166351" class="rank-math-list-item">
 <h3 class="rank-math-question ">What Is The Most famous Electric Guitar?</h3>
 <div class="rank-math-answer ">
-<img decoding="async" width="150" height="150" src="/wp-content/uploads/2023/03/Famous-Electric-Guitars-150x150.png" class="alignright" alt="What is the most famous electric guitar?" title="">
+<img decoding="async" width="150" height="150" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Famous-Electric-Guitars-150x150.png" class="alignright" alt="What is the most famous electric guitar?" title="">
 <p>It can be tough to say, but the Fender Stratocaster is probably the most famous type of electric guitar in history. Since the Stratocaster was first released and mass produced in 1954, it has never stopped being popular among guitar players. It is also the most &#8220;copied&#8221; electric guitar model in the world.</p>
 
 </div>

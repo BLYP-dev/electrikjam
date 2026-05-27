@@ -31,7 +31,7 @@ tagPaths:
   - "/tag/dave-grohl/"
   - "/tag/josh-homme/"
   - "/tag/them-crooked-vultures/"
-featuredImage: "/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album.png"
 featuredImageAlt: "Them Crooked Vultures New Album"
 seo: 
   title: "Them Crooked Vultures New Album Update: What’s The Deal?"
@@ -73,7 +73,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-1024x683.png" alt="Them Crooked Vultures New Album" class="wp-image-7264" title="" srcset="/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-1024x683.png 1024w, /wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-600x400.png 600w, /wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-300x200.png 300w, /wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-768x512.png 768w, /wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Dave Grohl, John Paul Jones &amp; Josh Homme</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-1024x683.png" alt="Them Crooked Vultures New Album" class="wp-image-7264" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Them-Crooked-Vultures-New-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Dave Grohl, John Paul Jones &amp; Josh Homme</strong></figcaption></figure>
 			
 		
 

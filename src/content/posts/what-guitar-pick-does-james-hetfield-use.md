@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/02/What-Guitar-Pick-Does-James-Hetfield-Use.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/What-Guitar-Pick-Does-James-Hetfield-Use.png"
 featuredImageAlt: "What Guitar Pick Does James Hetfield Use"
 seo: 
   title: "What Guitar Pick Does James Hetfield Use?"
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="938" height="792" src="/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick.png" alt="" class="wp-image-2105" title="" srcset="/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick.png 938w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-600x507.png 600w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-300x253.png 300w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-768x648.png 768w" sizes="(max-width: 938px) 100vw, 938px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/james-hetfield-black-fang-pick/" data-lasso-id="1555">BUY YOURS NOW</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="938" height="792" src="https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick.png" alt="" class="wp-image-2105" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick.png 938w, https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-600x507.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-300x253.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-768x648.png 768w" sizes="(max-width: 938px) 100vw, 938px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/james-hetfield-black-fang-pick/" data-lasso-id="1555">BUY YOURS NOW</a></strong></figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="940" height="834" src="/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick.png" alt="James Hetfield White Fang Pick" class="wp-image-2117" title="" srcset="/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick.png 940w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-600x532.png 600w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-300x266.png 300w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-768x681.png 768w" sizes="(max-width: 940px) 100vw, 940px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/james-hetfield-white-fang-pick/" data-lasso-id="1557">BUY YOURS NOW</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="940" height="834" src="https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick.png" alt="James Hetfield White Fang Pick" class="wp-image-2117" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick.png 940w, https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-600x532.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-300x266.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-768x681.png 768w" sizes="(max-width: 940px) 100vw, 940px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/james-hetfield-white-fang-pick/" data-lasso-id="1557">BUY YOURS NOW</a></strong></figcaption></figure>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="917" height="637" src="/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS.png" alt="" class="wp-image-2114" title="" srcset="/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS.png 917w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-600x417.png 600w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-300x208.png 300w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-768x533.png 768w" sizes="(max-width: 917px) 100vw, 917px" /><figcaption><strong>James&#8217; Daily Driver –&nbsp;<a class="rank-math-link" href="https://www.electrikjam.com/recommends/esp-ltd-iron-cross/" data-lasso-id="1558">View Latest Prices Here</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="917" height="637" src="https://www.electrikjam.com/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS.png" alt="" class="wp-image-2114" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS.png 917w, https://www.electrikjam.com/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-600x417.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-300x208.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-768x533.png 768w" sizes="(max-width: 917px) 100vw, 917px" /><figcaption><strong>James&#8217; Daily Driver –&nbsp;<a class="rank-math-link" href="https://www.electrikjam.com/recommends/esp-ltd-iron-cross/" data-lasso-id="1558">View Latest Prices Here</a></strong></figcaption></figure>
 
 
 

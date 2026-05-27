@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2021/06/NICK-JOHNSTON-DS-TRAD-ATOMIC-GREEN-289-STANDING.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-DS-TRAD-ATOMIC-GREEN-289-STANDING.jpg"
 featuredImageAlt: "NICK JOHNSTON DS TRAD ATOMIC GREEN 289 STANDING"
 seo: 
   title: "The Top 3 Best Fender Strat Alternative In 2021: Stratocasters That ROCK!"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="354" src="/wp-content/uploads/2021/06/PRS-Silver-Sky-1024x354.jpg" alt="best fender strat alternative" class="wp-image-3338" title="" srcset="/wp-content/uploads/2021/06/PRS-Silver-Sky-1024x354.jpg 1024w, /wp-content/uploads/2021/06/PRS-Silver-Sky-600x207.jpg 600w, /wp-content/uploads/2021/06/PRS-Silver-Sky-300x104.jpg 300w, /wp-content/uploads/2021/06/PRS-Silver-Sky-768x265.jpg 768w, /wp-content/uploads/2021/06/PRS-Silver-Sky-1536x530.jpg 1536w, /wp-content/uploads/2021/06/PRS-Silver-Sky-1080x373.jpg 1080w, /wp-content/uploads/2021/06/PRS-Silver-Sky.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The PRS <a href="https://www.electrikjam.com/prs-launches-beautiful-new-silver-sky/" data-lasso-id="241638">Silver Sky</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="354" src="https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Silver-Sky-1024x354.jpg" alt="best fender strat alternative" class="wp-image-3338" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Silver-Sky-1024x354.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Silver-Sky-600x207.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Silver-Sky-300x104.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Silver-Sky-768x265.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Silver-Sky-1536x530.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Silver-Sky-1080x373.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/PRS-Silver-Sky.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The PRS <a href="https://www.electrikjam.com/prs-launches-beautiful-new-silver-sky/" data-lasso-id="241638">Silver Sky</a></figcaption></figure>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="336" src="/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-1024x336.jpg" alt="" class="wp-image-3341" title="" srcset="/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-1024x336.jpg 1024w, /wp-content/uploads/2021/06/Chapman-ML1-Hybrid-scaled-600x197.jpg 600w, /wp-content/uploads/2021/06/Chapman-ML1-Hybrid-300x99.jpg 300w, /wp-content/uploads/2021/06/Chapman-ML1-Hybrid-768x252.jpg 768w, /wp-content/uploads/2021/06/Chapman-ML1-Hybrid-1536x504.jpg 1536w, /wp-content/uploads/2021/06/Chapman-ML1-Hybrid-2048x673.jpg 2048w, /wp-content/uploads/2021/06/Chapman-ML1-Hybrid-1080x355.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="336" src="https://www.electrikjam.com/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-1024x336.jpg" alt="" class="wp-image-3341" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-1024x336.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-scaled-600x197.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-300x99.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-768x252.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-1536x504.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-2048x673.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/06/Chapman-ML1-Hybrid-1080x355.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="388" src="/wp-content/uploads/2021/06/yamaha-pacifica--1024x388.jpg" alt="" class="wp-image-3347" title="" srcset="/wp-content/uploads/2021/06/yamaha-pacifica--1024x388.jpg 1024w, /wp-content/uploads/2021/06/yamaha-pacifica--600x228.jpg 600w, /wp-content/uploads/2021/06/yamaha-pacifica--300x114.jpg 300w, /wp-content/uploads/2021/06/yamaha-pacifica--768x291.jpg 768w, /wp-content/uploads/2021/06/yamaha-pacifica--1536x582.jpg 1536w, /wp-content/uploads/2021/06/yamaha-pacifica--2048x777.jpg 2048w, /wp-content/uploads/2021/06/yamaha-pacifica--1080x410.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Yamaha Pacifica Base Model</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="388" src="https://www.electrikjam.com/wp-content/uploads/2021/06/yamaha-pacifica--1024x388.jpg" alt="" class="wp-image-3347" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/yamaha-pacifica--1024x388.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/yamaha-pacifica--600x228.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/yamaha-pacifica--300x114.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/yamaha-pacifica--768x291.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/yamaha-pacifica--1536x582.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/yamaha-pacifica--2048x777.jpg 2048w, https://www.electrikjam.com/wp-content/uploads/2021/06/yamaha-pacifica--1080x410.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Yamaha Pacifica Base Model</figcaption></figure>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="333" src="/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-1024x333.png" alt="" class="wp-image-3342" title="" srcset="/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-1024x333.png 1024w, /wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-600x195.png 600w, /wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-300x98.png 300w, /wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-768x250.png 768w, /wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-1536x499.png 1536w, /wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-1080x351.png 1080w, /wp-content/uploads/2021/06/NICK-JOHNSTON-HSS.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="333" src="https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-1024x333.png" alt="" class="wp-image-3342" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-1024x333.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-600x195.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-300x98.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-768x250.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-1536x499.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS-1080x351.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/06/NICK-JOHNSTON-HSS.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

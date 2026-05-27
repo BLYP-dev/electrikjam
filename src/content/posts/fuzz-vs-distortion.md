@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/12/Fuzz-vs-Distortion-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/12/Fuzz-vs-Distortion-1.png"
 featuredImageAlt: "Fuzz vs Distortion"
 seo: 
   title: "Fuzz vs Distortion: Which is Best / What’s The Difference?"
@@ -64,7 +64,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.electrikjam.com/recommends/mxr-m66s-classic-overdrive-guitar-effects-pedal/" data-lasso-id="36475"><img decoding="async" width="936" height="1024" src="/wp-content/uploads/2021/12/MXR-M66S-Classic-Overdrive-Guitar-Effects-Pedal-936x1024.png" alt="MXR M66S Classic Overdrive Guitar Effects Pedal" class="wp-image-6205" title=""></a><figcaption><strong>The MXR M66S Classic Overdrive Guitar Effects Pedal is one of the most-loved and truly affordable distortion pedals on the market right now.<a href="https://www.electrikjam.com/recommends/mxr-m66s-classic-overdrive-guitar-effects-pedal/" data-lasso-id="36476"> It costs $59.99 and it sounds monsterously good!</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://www.electrikjam.com/recommends/mxr-m66s-classic-overdrive-guitar-effects-pedal/" data-lasso-id="36475"><img decoding="async" width="936" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/12/MXR-M66S-Classic-Overdrive-Guitar-Effects-Pedal-936x1024.png" alt="MXR M66S Classic Overdrive Guitar Effects Pedal" class="wp-image-6205" title=""></a><figcaption><strong>The MXR M66S Classic Overdrive Guitar Effects Pedal is one of the most-loved and truly affordable distortion pedals on the market right now.<a href="https://www.electrikjam.com/recommends/mxr-m66s-classic-overdrive-guitar-effects-pedal/" data-lasso-id="36476"> It costs $59.99 and it sounds monsterously good!</a></strong></figcaption></figure>
 
 
 
@@ -77,7 +77,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><a href="https://www.electrikjam.com/recommends/big-muff-fuzz-pedal/" data-lasso-id="36477"><img decoding="async" width="1024" height="863" src="/wp-content/uploads/2021/12/big-muff-fuzz-pedal-1024x863.png" alt="big muff fuzz pedal" class="wp-image-6202" title=""></a><figcaption><strong>The Electro-Harmonix Op-Amp Big Muff Pi Fuzz is one of the best selling, most popular fuzz pedals on the market. It sounds great. <a href="https://www.electrikjam.com/recommends/big-muff-fuzz-pedal/" data-lasso-id="36478">And at less than $100, it is pretty darn affordable too.</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><a href="https://www.electrikjam.com/recommends/big-muff-fuzz-pedal/" data-lasso-id="36477"><img decoding="async" width="1024" height="863" src="https://www.electrikjam.com/wp-content/uploads/2021/12/big-muff-fuzz-pedal-1024x863.png" alt="big muff fuzz pedal" class="wp-image-6202" title=""></a><figcaption><strong>The Electro-Harmonix Op-Amp Big Muff Pi Fuzz is one of the best selling, most popular fuzz pedals on the market. It sounds great. <a href="https://www.electrikjam.com/recommends/big-muff-fuzz-pedal/" data-lasso-id="36478">And at less than $100, it is pretty darn affordable too.</a></strong></figcaption></figure>
 			
 		
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-luminous-vivid-amber-background-color has-background"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Pedals.jpg" alt="" class="wp-image-1090 size-full" title="" srcset="/wp-content/uploads/2020/10/Pedals.jpg 1024w, /wp-content/uploads/2020/10/Pedals-600x450.jpg 600w, /wp-content/uploads/2020/10/Pedals-300x225.jpg 300w, /wp-content/uploads/2020/10/Pedals-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-luminous-vivid-amber-background-color has-background"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals.jpg" alt="" class="wp-image-1090 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Pedals-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>BEST DISTORTION PEDALS</strong></h3>
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-luminous-vivid-amber-background-color has-background"><figure class="wp-block-media-text__media"><img decoding="async" width="1000" height="664" src="/wp-content/uploads/2020/10/FUZZ-overload.jpg" alt="" class="wp-image-1156 size-full" title="" srcset="/wp-content/uploads/2020/10/FUZZ-overload.jpg 1000w, /wp-content/uploads/2020/10/FUZZ-overload-600x398.jpg 600w, /wp-content/uploads/2020/10/FUZZ-overload-300x199.jpg 300w, /wp-content/uploads/2020/10/FUZZ-overload-768x510.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-luminous-vivid-amber-background-color has-background"><figure class="wp-block-media-text__media"><img decoding="async" width="1000" height="664" src="https://www.electrikjam.com/wp-content/uploads/2020/10/FUZZ-overload.jpg" alt="" class="wp-image-1156 size-full" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/FUZZ-overload.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/10/FUZZ-overload-600x398.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/FUZZ-overload-300x199.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/FUZZ-overload-768x510.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
 <h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong>BEST FUZZ PEDALS</strong></h3>
 
 

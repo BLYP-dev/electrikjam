@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars.png"
 featuredImageAlt: "Do pros use Squier guitars"
 seo: 
   title: "Best Pickups for Baritone Telecaster: Here's What I'd Use..."
@@ -57,7 +57,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Baritone-Guitar-Tuning-1024x683.png" alt="Baritone Guitar Tuning" class="wp-image-11703" title="" srcset="/wp-content/uploads/2023/04/Baritone-Guitar-Tuning-1024x683.png 1024w, /wp-content/uploads/2023/04/Baritone-Guitar-Tuning-600x400.png 600w, /wp-content/uploads/2023/04/Baritone-Guitar-Tuning-300x200.png 300w, /wp-content/uploads/2023/04/Baritone-Guitar-Tuning-768x512.png 768w, /wp-content/uploads/2023/04/Baritone-Guitar-Tuning.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Baritone-Guitar-Tuning-1024x683.png" alt="Baritone Guitar Tuning" class="wp-image-11703" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Baritone-Guitar-Tuning-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Baritone-Guitar-Tuning-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Baritone-Guitar-Tuning-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Baritone-Guitar-Tuning-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Baritone-Guitar-Tuning.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -153,7 +153,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png" alt="Danelectro Baritone" class="wp-image-11714" title="" srcset="/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png 1024w, /wp-content/uploads/2023/04/Danelectro-Baritone-600x400.png 600w, /wp-content/uploads/2023/04/Danelectro-Baritone-300x200.png 300w, /wp-content/uploads/2023/04/Danelectro-Baritone-768x512.png 768w, /wp-content/uploads/2023/04/Danelectro-Baritone.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png" alt="Danelectro Baritone" class="wp-image-11714" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/Danelectro-Baritone.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

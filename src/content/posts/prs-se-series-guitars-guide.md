@@ -22,7 +22,7 @@ tagSlugs:
   - "prs"
 tagPaths: 
   - "/tag/prs/"
-featuredImage: "/wp-content/uploads/2023/10/PRS-SE-Series-Guitars-The-Ultimate-Noobs-Guide-2023.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/PRS-SE-Series-Guitars-The-Ultimate-Noobs-Guide-2023.png"
 featuredImageAlt: "PRS SE Series Guitars The Ultimate Noob’s Guide [2023]"
 seo: 
   title: "PRS SE Series Guitars: The Ultimate Noob’s Guide [2023]"
@@ -70,7 +70,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Paul-Reed-Smith-1024x683.png" alt="Paul Reed Smith" class="wp-image-12965" title="" srcset="/wp-content/uploads/2023/10/Paul-Reed-Smith-1024x683.png 1024w, /wp-content/uploads/2023/10/Paul-Reed-Smith-600x400.png 600w, /wp-content/uploads/2023/10/Paul-Reed-Smith-300x200.png 300w, /wp-content/uploads/2023/10/Paul-Reed-Smith-768x512.png 768w, /wp-content/uploads/2023/10/Paul-Reed-Smith.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Paul-Reed-Smith-1024x683.png" alt="Paul Reed Smith" class="wp-image-12965" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Paul-Reed-Smith-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Paul-Reed-Smith-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Paul-Reed-Smith-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Paul-Reed-Smith-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Paul-Reed-Smith.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="768" height="876" src="/wp-content/uploads/2021/09/PRS-SE-245.png" alt="PRS SE 245" class="wp-image-4258" title="" srcset="/wp-content/uploads/2021/09/PRS-SE-245.png 768w, /wp-content/uploads/2021/09/PRS-SE-245-600x684.png 600w, /wp-content/uploads/2021/09/PRS-SE-245-263x300.png 263w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="768" height="876" src="https://www.electrikjam.com/wp-content/uploads/2021/09/PRS-SE-245.png" alt="PRS SE 245" class="wp-image-4258" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/PRS-SE-245.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/PRS-SE-245-600x684.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/PRS-SE-245-263x300.png 263w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-1024x585.webp" alt="where are PRS guitars made" class="wp-image-12966" title="" srcset="/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-1024x585.webp 1024w, /wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-600x343.webp 600w, /wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-300x171.webp 300w, /wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-768x439.webp 768w, /wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-1536x878.webp 1536w, /wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b.webp 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="585" src="https://www.electrikjam.com/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-1024x585.webp" alt="where are PRS guitars made" class="wp-image-12966" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-1024x585.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-600x343.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-300x171.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-768x439.webp 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b-1536x878.webp 1536w, https://www.electrikjam.com/wp-content/uploads/2023/10/512fc59b-4f76-4994-ab33-f8cd2844782b.webp 1792w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/04/PRS-SE-277-1024x683.png" alt="PRS SE 277" class="wp-image-11708" title="" srcset="/wp-content/uploads/2023/04/PRS-SE-277-1024x683.png 1024w, /wp-content/uploads/2023/04/PRS-SE-277-600x400.png 600w, /wp-content/uploads/2023/04/PRS-SE-277-300x200.png 300w, /wp-content/uploads/2023/04/PRS-SE-277-768x512.png 768w, /wp-content/uploads/2023/04/PRS-SE-277.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-1024x683.png" alt="PRS SE 277" class="wp-image-11708" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/04/PRS-SE-277.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -322,7 +322,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--1024x683.png" alt="Why John Mayer Ditched Fender For PRS" class="wp-image-7616" title="" srcset="/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--1024x683.png 1024w, /wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--600x400.png 600w, /wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--300x200.png 300w, /wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--768x512.png 768w, /wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--1024x683.png" alt="Why John Mayer Ditched Fender For PRS" class="wp-image-7616" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/Why-John-Mayer-Ditched-Fender-For-PRS-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -358,7 +358,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/new-PRS-SE-models-2024-1024x683.png" alt="new PRS SE models 2024" class="wp-image-12918" title="" srcset="/wp-content/uploads/2023/10/new-PRS-SE-models-2024-1024x683.png 1024w, /wp-content/uploads/2023/10/new-PRS-SE-models-2024-600x400.png 600w, /wp-content/uploads/2023/10/new-PRS-SE-models-2024-300x200.png 300w, /wp-content/uploads/2023/10/new-PRS-SE-models-2024-768x512.png 768w, /wp-content/uploads/2023/10/new-PRS-SE-models-2024.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/new-PRS-SE-models-2024-1024x683.png" alt="new PRS SE models 2024" class="wp-image-12918" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/new-PRS-SE-models-2024-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/new-PRS-SE-models-2024-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/new-PRS-SE-models-2024-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/new-PRS-SE-models-2024-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/new-PRS-SE-models-2024.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

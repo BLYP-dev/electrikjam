@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "/wp-content/uploads/2023/09/cubase-13-release-date-new-features-latest-rumors.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/09/cubase-13-release-date-new-features-latest-rumors.png"
 featuredImageAlt: "cubase 13 release date, new features, latest rumors"
 seo: 
   title: "Cubase 13 Release Date & New Features Detailed [UPDATED]"
@@ -142,7 +142,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/how-much-does-cubase-cost-1024x683.png" alt="how much does cubase cost" class="wp-image-12297" title="" srcset="/wp-content/uploads/2023/07/how-much-does-cubase-cost-1024x683.png 1024w, /wp-content/uploads/2023/07/how-much-does-cubase-cost-600x400.png 600w, /wp-content/uploads/2023/07/how-much-does-cubase-cost-300x200.png 300w, /wp-content/uploads/2023/07/how-much-does-cubase-cost-768x512.png 768w, /wp-content/uploads/2023/07/how-much-does-cubase-cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/how-much-does-cubase-cost-1024x683.png" alt="how much does cubase cost" class="wp-image-12297" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/how-much-does-cubase-cost-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/how-much-does-cubase-cost-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/how-much-does-cubase-cost-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/how-much-does-cubase-cost-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/how-much-does-cubase-cost.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/cubase-13-release-date-1024x683.png" alt="cubase 13 release date" class="wp-image-12747" title="" srcset="/wp-content/uploads/2023/09/cubase-13-release-date-1024x683.png 1024w, /wp-content/uploads/2023/09/cubase-13-release-date-600x400.png 600w, /wp-content/uploads/2023/09/cubase-13-release-date-300x200.png 300w, /wp-content/uploads/2023/09/cubase-13-release-date-768x512.png 768w, /wp-content/uploads/2023/09/cubase-13-release-date.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/cubase-13-release-date-1024x683.png" alt="cubase 13 release date" class="wp-image-12747" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/cubase-13-release-date-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/cubase-13-release-date-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/cubase-13-release-date-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/cubase-13-release-date-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/cubase-13-release-date.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -378,7 +378,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-1024x683.webp" alt="Apple-Vision-Pro" class="wp-image-12745" title="" srcset="/wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-1024x683.webp 1024w, /wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-600x400.webp 600w, /wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-300x200.webp 300w, /wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-768x512.webp 768w, /wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-1024x683.webp" alt="Apple-Vision-Pro" class="wp-image-12745" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-1024x683.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-600x400.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-300x200.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1-768x512.webp 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Apple-Vision-Pro-Reviews-1.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -418,7 +418,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="596" src="/wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-1024x596.png" alt="" class="wp-image-12748" title="" srcset="/wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-1024x596.png 1024w, /wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-600x349.png 600w, /wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-300x175.png 300w, /wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-768x447.png 768w, /wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99.png 1272w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="596" src="https://www.electrikjam.com/wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-1024x596.png" alt="" class="wp-image-12748" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-1024x596.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-600x349.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-300x175.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99-768x447.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/85f58b326a6fd4b6f8f4e5a05a9fac57fa4e8b99.png 1272w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

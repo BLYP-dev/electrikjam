@@ -231,7 +231,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--1024x683.jpg" alt="WTF Are Guitar Modes &amp; Why Should I Care!" class="wp-image-16542" title="" srcset="/wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--1024x683.jpg 1024w, /wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--600x400.jpg 600w, /wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--300x200.jpg 300w, /wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--768x512.jpg 768w, /wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--1024x683.jpg" alt="WTF Are Guitar Modes &amp; Why Should I Care!" class="wp-image-16542" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care--768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/10/WTF-Are-Guitar-Modes-Why-Should-I-Care-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -389,7 +389,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="750" src="/wp-content/uploads/2024/10/learning-guitar-modes-1024x750.jpg" alt="learning guitar modes" class="wp-image-16543" title="" srcset="/wp-content/uploads/2024/10/learning-guitar-modes-1024x750.jpg 1024w, /wp-content/uploads/2024/10/learning-guitar-modes-600x439.jpg 600w, /wp-content/uploads/2024/10/learning-guitar-modes-300x220.jpg 300w, /wp-content/uploads/2024/10/learning-guitar-modes-768x562.jpg 768w, /wp-content/uploads/2024/10/learning-guitar-modes.jpg 1475w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="750" src="https://www.electrikjam.com/wp-content/uploads/2024/10/learning-guitar-modes-1024x750.jpg" alt="learning guitar modes" class="wp-image-16543" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/10/learning-guitar-modes-1024x750.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/10/learning-guitar-modes-600x439.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/10/learning-guitar-modes-300x220.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/10/learning-guitar-modes-768x562.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/10/learning-guitar-modes.jpg 1475w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -671,7 +671,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-1024x683.png" alt="Dimebag Darrell Pedal Guide" class="wp-image-10631" title="" srcset="/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-1024x683.png 1024w, /wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-600x400.png 600w, /wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-300x200.png 300w, /wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-768x512.png 768w, /wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-1024x683.png" alt="Dimebag Darrell Pedal Guide" class="wp-image-10631" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Dimebag-Darrell-Pedal-Guide.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/10/Ibanez-Jem-Jr.webp"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr.webp"
 featuredImageAlt: "best signature guitars"
 seo: 
   title: "The BEST Signature Guitars In 2021: Artist Models For Every Budget!"
@@ -80,7 +80,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/10/Ibanez-Jem-Jr-1024x1024.webp" alt="best signature guitars" class="wp-image-5327" title="" srcset="/wp-content/uploads/2021/10/Ibanez-Jem-Jr-1024x1024.webp 1024w, /wp-content/uploads/2021/10/Ibanez-Jem-Jr-300x300.webp 300w, /wp-content/uploads/2021/10/Ibanez-Jem-Jr-100x100.webp 100w, /wp-content/uploads/2021/10/Ibanez-Jem-Jr-600x600.webp 600w, /wp-content/uploads/2021/10/Ibanez-Jem-Jr-150x150.webp 150w, /wp-content/uploads/2021/10/Ibanez-Jem-Jr-768x768.webp 768w, /wp-content/uploads/2021/10/Ibanez-Jem-Jr-1536x1536.webp 1536w, /wp-content/uploads/2021/10/Ibanez-Jem-Jr-1080x1080.webp 1080w, /wp-content/uploads/2021/10/Ibanez-Jem-Jr.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Ibanez Jem JR</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-1024x1024.webp" alt="best signature guitars" class="wp-image-5327" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-1024x1024.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-150x150.webp 150w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-768x768.webp 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-1536x1536.webp 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr-1080x1080.webp 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Jem-Jr.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Ibanez Jem JR</strong></figcaption></figure>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="342" src="/wp-content/uploads/2021/10/Matt-Bellamy-Cort-1024x342.png" alt="" class="wp-image-5328" title="" srcset="/wp-content/uploads/2021/10/Matt-Bellamy-Cort-1024x342.png 1024w, /wp-content/uploads/2021/10/Matt-Bellamy-Cort-600x200.png 600w, /wp-content/uploads/2021/10/Matt-Bellamy-Cort-300x100.png 300w, /wp-content/uploads/2021/10/Matt-Bellamy-Cort-768x256.png 768w, /wp-content/uploads/2021/10/Matt-Bellamy-Cort-1536x513.png 1536w, /wp-content/uploads/2021/10/Matt-Bellamy-Cort-1080x360.png 1080w, /wp-content/uploads/2021/10/Matt-Bellamy-Cort.png 1567w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Cort MBM-1</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="342" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Bellamy-Cort-1024x342.png" alt="" class="wp-image-5328" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Bellamy-Cort-1024x342.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Bellamy-Cort-600x200.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Bellamy-Cort-300x100.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Bellamy-Cort-768x256.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Bellamy-Cort-1536x513.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Bellamy-Cort-1080x360.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Matt-Bellamy-Cort.png 1567w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Cort MBM-1</strong></figcaption></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="345" src="/wp-content/uploads/2021/10/LTD-Kirk-Hammet-1024x345.png" alt="" class="wp-image-5332" title="" srcset="/wp-content/uploads/2021/10/LTD-Kirk-Hammet-1024x345.png 1024w, /wp-content/uploads/2021/10/LTD-Kirk-Hammet-600x202.png 600w, /wp-content/uploads/2021/10/LTD-Kirk-Hammet-300x101.png 300w, /wp-content/uploads/2021/10/LTD-Kirk-Hammet-768x259.png 768w, /wp-content/uploads/2021/10/LTD-Kirk-Hammet-1080x364.png 1080w, /wp-content/uploads/2021/10/LTD-Kirk-Hammet.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The KH-602</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="345" src="https://www.electrikjam.com/wp-content/uploads/2021/10/LTD-Kirk-Hammet-1024x345.png" alt="" class="wp-image-5332" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/LTD-Kirk-Hammet-1024x345.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/LTD-Kirk-Hammet-600x202.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/LTD-Kirk-Hammet-300x101.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/LTD-Kirk-Hammet-768x259.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/LTD-Kirk-Hammet-1080x364.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/LTD-Kirk-Hammet.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The KH-602</strong></figcaption></figure>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="983" src="/wp-content/uploads/2021/10/Ibanez-Tim-Henson-1024x983.jpg" alt="" class="wp-image-5335" title="" srcset="/wp-content/uploads/2021/10/Ibanez-Tim-Henson-1024x983.jpg 1024w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-600x576.jpg 600w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-300x288.jpg 300w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-768x737.jpg 768w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-1536x1475.jpg 1536w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson-1080x1037.jpg 1080w, /wp-content/uploads/2021/10/Ibanez-Tim-Henson.jpg 1861w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Ibanez THBB10</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="983" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-1024x983.jpg" alt="" class="wp-image-5335" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-1024x983.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-600x576.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-300x288.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-768x737.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-1536x1475.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson-1080x1037.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Tim-Henson.jpg 1861w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Ibanez THBB10</strong></figcaption></figure>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="/wp-content/uploads/2021/10/Ibanez-Pia-1024x339.png" alt="" class="wp-image-5338" title="" srcset="/wp-content/uploads/2021/10/Ibanez-Pia-1024x339.png 1024w, /wp-content/uploads/2021/10/Ibanez-Pia-600x199.png 600w, /wp-content/uploads/2021/10/Ibanez-Pia-300x99.png 300w, /wp-content/uploads/2021/10/Ibanez-Pia-768x255.png 768w, /wp-content/uploads/2021/10/Ibanez-Pia-1536x509.png 1536w, /wp-content/uploads/2021/10/Ibanez-Pia-2048x679.png 2048w, /wp-content/uploads/2021/10/Ibanez-Pia-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Ibanez PIA</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Pia-1024x339.png" alt="" class="wp-image-5338" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Pia-1024x339.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Pia-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Pia-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Pia-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Pia-1536x509.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Pia-2048x679.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/10/Ibanez-Pia-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Ibanez PIA</strong></figcaption></figure>
 
 
 

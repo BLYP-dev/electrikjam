@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2023/12/better-Lovers-Logo.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/12/better-Lovers-Logo.png"
 featuredImageAlt: "Better Lovers"
 seo: 
   title: "Better Lovers \"God Made Me An Animal\" Album Overview: 2023's Best Supergroup?"
@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/12/Better-Lovers-band-1024x683.png" alt="Better Lovers " class="wp-image-13702" title="" srcset="/wp-content/uploads/2023/12/Better-Lovers-band-1024x683.png 1024w, /wp-content/uploads/2023/12/Better-Lovers-band-600x400.png 600w, /wp-content/uploads/2023/12/Better-Lovers-band-300x200.png 300w, /wp-content/uploads/2023/12/Better-Lovers-band-768x512.png 768w, /wp-content/uploads/2023/12/Better-Lovers-band.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-band-1024x683.png" alt="Better Lovers " class="wp-image-13702" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-band-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-band-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-band-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-band-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-band.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" width="800" height="534" src="/wp-content/uploads/2023/12/Better-Lovers-Promo.jpg" alt="Better Lovers" class="wp-image-13703" style="aspect-ratio:1.4981273408239701;width:836px;height:auto" title="" srcset="/wp-content/uploads/2023/12/Better-Lovers-Promo.jpg 800w, /wp-content/uploads/2023/12/Better-Lovers-Promo-600x400.jpg 600w, /wp-content/uploads/2023/12/Better-Lovers-Promo-300x200.jpg 300w, /wp-content/uploads/2023/12/Better-Lovers-Promo-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="800" height="534" src="https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo.jpg" alt="Better Lovers" class="wp-image-13703" style="aspect-ratio:1.4981273408239701;width:836px;height:auto" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/12/Better-Lovers-Promo-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 

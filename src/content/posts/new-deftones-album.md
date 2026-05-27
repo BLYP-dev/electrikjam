@@ -22,7 +22,7 @@ tagSlugs:
   - "deftones"
 tagPaths: 
   - "/tag/deftones/"
-featuredImage: "/wp-content/uploads/2024/04/new-deftones-album.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/04/new-deftones-album.png"
 featuredImageAlt: "new deftones album"
 seo: 
   title: "New Deftones Album Release Date: It’s COMING In 2024"
@@ -61,7 +61,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Deftones-101-1024x683.png" alt="Deftones 101" class="wp-image-14646" title="" srcset="/wp-content/uploads/2024/04/Deftones-101-1024x683.png 1024w, /wp-content/uploads/2024/04/Deftones-101-600x400.png 600w, /wp-content/uploads/2024/04/Deftones-101-300x200.png 300w, /wp-content/uploads/2024/04/Deftones-101-768x512.png 768w, /wp-content/uploads/2024/04/Deftones-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/04/Deftones-101-1024x683.png" alt="Deftones 101" class="wp-image-14646" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/Deftones-101-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/Deftones-101-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/Deftones-101-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/Deftones-101-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/Deftones-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -93,7 +93,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="837" src="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" data-type="post" data-id="937" data-lasso-id="264189">Chino Recording Tracks For Gore With His Number One Guitar</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="837" src="https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" data-type="post" data-id="937" data-lasso-id="264189">Chino Recording Tracks For Gore With His Number One Guitar</a></strong></figcaption></figure>
 
 
 

@@ -37,7 +37,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e088cbc5 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized has-custom-border"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="border-radius:100px;aspect-ratio:1;object-fit:cover;width:30px" title="" srcset="/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, /wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full is-resized has-custom-border"><img decoding="async" width="512" height="512" src="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg" alt="chris horton" class="wp-image-13424" style="border-radius:100px;aspect-ratio:1;object-fit:cover;width:30px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512.jpg 512w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2023/11/TKXKW5FTK-U03L2BMB1KJ-e3b325e11392-512-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><a href="https://www.electrikjam.com/team-members/christopher-horton/" data-lasso-id="268171"><img decoding="async" width="771" height="771" src="/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="/wp-content/uploads/2020/09/christoper-horton.jpg 771w, /wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, /wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, /wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, /wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, /wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></a></figure>
+<figure class="wp-block-image alignwide size-full"><a href="https://www.electrikjam.com/team-members/christopher-horton/" data-lasso-id="268171"><img decoding="async" width="771" height="771" src="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg 771w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></a></figure>
 
 
 
@@ -305,7 +305,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-1024x683.png" alt="Queens of the Stone Age Cancel Entire European Tour..." class="wp-image-15570" title="" srcset="/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-1024x683.png 1024w, /wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-600x400.png 600w, /wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-300x200.png 300w, /wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-768x512.png 768w, /wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-1024x683.png" alt="Queens of the Stone Age Cancel Entire European Tour..." class="wp-image-15570" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/07/Queens-of-the-Stone-Age-Cancel-Entire-European-Tour.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -888,7 +888,7 @@ seo:
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars.png" alt="Do pros use Squier guitars" class="wp-image-14171" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars.png 1200w, /wp-content/uploads/2024/02/Do-pros-use-Squier-guitars-600x400.png 600w, /wp-content/uploads/2024/02/Do-pros-use-Squier-guitars-300x200.png 300w, /wp-content/uploads/2024/02/Do-pros-use-Squier-guitars-1024x683.png 1024w, /wp-content/uploads/2024/02/Do-pros-use-Squier-guitars-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="1200" height="800" src="https://www.electrikjam.com/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars.png" alt="Do pros use Squier guitars" class="wp-image-14171" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars.png 1200w, https://www.electrikjam.com/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -912,7 +912,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png" alt="Fender Meteora vs Fender Telecaster" class="wp-image-12762" style="border-radius:20px" title="" srcset="/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png 1024w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-600x400.png 600w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-300x200.png 300w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-768x512.png 768w, /wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png" alt="Fender Meteora vs Fender Telecaster" class="wp-image-12762" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Fender-Meteora-vs-Fender-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -950,7 +950,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/New-Gibson-Guitars-2024-1024x683.png" alt="New Gibson Guitars 2024" class="wp-image-14197" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/02/New-Gibson-Guitars-2024-1024x683.png 1024w, /wp-content/uploads/2024/02/New-Gibson-Guitars-2024-600x400.png 600w, /wp-content/uploads/2024/02/New-Gibson-Guitars-2024-300x200.png 300w, /wp-content/uploads/2024/02/New-Gibson-Guitars-2024-768x512.png 768w, /wp-content/uploads/2024/02/New-Gibson-Guitars-2024.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/New-Gibson-Guitars-2024-1024x683.png" alt="New Gibson Guitars 2024" class="wp-image-14197" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/New-Gibson-Guitars-2024-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/New-Gibson-Guitars-2024-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/New-Gibson-Guitars-2024-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/New-Gibson-Guitars-2024-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/New-Gibson-Guitars-2024.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -992,7 +992,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-1024x683.png" alt="Ibanez Signature Guitars A Complete Overview [2023]" class="wp-image-13466" style="border-radius:20px" title="" srcset="/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-1024x683.png 1024w, /wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-600x400.png 600w, /wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-300x200.png 300w, /wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-768x512.png 768w, /wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-1024x683.png" alt="Ibanez Signature Guitars A Complete Overview [2023]" class="wp-image-13466" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/11/Ibanez-Signature-Guitars-A-Complete-Overview-2023.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1034,7 +1034,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/SCHECTER-GUITARS-1-1024x683.png" alt="SCHECTER GUITARS (1)" class="wp-image-14017" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/02/SCHECTER-GUITARS-1-1024x683.png 1024w, /wp-content/uploads/2024/02/SCHECTER-GUITARS-1-600x400.png 600w, /wp-content/uploads/2024/02/SCHECTER-GUITARS-1-300x200.png 300w, /wp-content/uploads/2024/02/SCHECTER-GUITARS-1-768x512.png 768w, /wp-content/uploads/2024/02/SCHECTER-GUITARS-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/SCHECTER-GUITARS-1-1024x683.png" alt="SCHECTER GUITARS (1)" class="wp-image-14017" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/SCHECTER-GUITARS-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/SCHECTER-GUITARS-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/SCHECTER-GUITARS-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/SCHECTER-GUITARS-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/SCHECTER-GUITARS-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1098,7 +1098,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="268195"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" style="border-radius:20px" title="" srcset="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, /wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">This ain&#8217;t a Fender or a Squier; <strong><a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="268196">it&#8217;s a Harley Benton. It costs $200 and it is utterly brilliant</a></strong> – one of favorite beginner guitars on the market right now</figcaption></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="268195"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" style="border-radius:20px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">This ain&#8217;t a Fender or a Squier; <strong><a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="268196">it&#8217;s a Harley Benton. It costs $200 and it is utterly brilliant</a></strong> – one of favorite beginner guitars on the market right now</figcaption></figure>
 </div>
 </section>
 
@@ -1119,7 +1119,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/02/the-electrikjam-podcast-1024x577.png" alt="the electrikjam podcast" class="wp-image-14338" title="" srcset="/wp-content/uploads/2024/02/the-electrikjam-podcast-1024x577.png 1024w, /wp-content/uploads/2024/02/the-electrikjam-podcast-600x338.png 600w, /wp-content/uploads/2024/02/the-electrikjam-podcast-300x169.png 300w, /wp-content/uploads/2024/02/the-electrikjam-podcast-768x433.png 768w, /wp-content/uploads/2024/02/the-electrikjam-podcast-1536x865.png 1536w, /wp-content/uploads/2024/02/the-electrikjam-podcast.png 1640w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="577" src="https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-1024x577.png" alt="the electrikjam podcast" class="wp-image-14338" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-1024x577.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-600x338.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-300x169.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-768x433.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast-1536x865.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/02/the-electrikjam-podcast.png 1640w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1130,7 +1130,7 @@ seo:
 <div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-container-core-group-is-layout-23cc8a20 wp-block-group-is-layout-constrained">
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-5016e1a0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;https://www.electrikjam.com/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
 </div>
 
 
@@ -1172,7 +1172,7 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-5016e1a0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;https://www.electrikjam.com/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
 </div>
 
 
@@ -1218,7 +1218,7 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-5016e1a0 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-325bd1d2 wp-block-group-is-layout-flex has-background" style="border-radius:10px;min-height:250px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium);background-image:url(&apos;https://www.electrikjam.com/wp-content/uploads/2024/02/electrikjam-podcast.jpg&apos;);background-position:50% 0;background-size:cover;"></div>
 </div>
 
 

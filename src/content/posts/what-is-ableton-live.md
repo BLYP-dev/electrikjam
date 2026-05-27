@@ -22,7 +22,7 @@ tagSlugs:
   - "ableton-live"
 tagPaths: 
   - "/tag/ableton-live/"
-featuredImage: "/wp-content/uploads/2023/08/Ableton-Live-101-.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-101-.png"
 featuredImageAlt: "Ableton Live 101"
 seo: 
   title: "Ableton Live 101: What You Need To Know [2024]"
@@ -143,7 +143,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Ableton-Live-11-2-1024x683.png" alt="Ableton Live " class="wp-image-12569" title="" srcset="/wp-content/uploads/2023/08/Ableton-Live-11-2-1024x683.png 1024w, /wp-content/uploads/2023/08/Ableton-Live-11-2-600x400.png 600w, /wp-content/uploads/2023/08/Ableton-Live-11-2-300x200.png 300w, /wp-content/uploads/2023/08/Ableton-Live-11-2-768x512.png 768w, /wp-content/uploads/2023/08/Ableton-Live-11-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-2-1024x683.png" alt="Ableton Live " class="wp-image-12569" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -217,7 +217,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-1024x640.png" alt="" class="wp-image-14613" title="" srcset="/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-1024x640.png 1024w, /wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-600x375.png 600w, /wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-300x188.png 300w, /wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-768x480.png 768w, /wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-1536x960.png 1536w, /wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-2048x1280.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="https://www.electrikjam.com/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-1024x640.png" alt="" class="wp-image-14613" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-1024x640.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-600x375.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-300x188.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-768x480.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-1536x960.png 1536w, https://www.electrikjam.com/wp-content/uploads/2024/04/6d0d3ef0-7d37-11eb-bfeb-878769737134-2048x1280.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -281,7 +281,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="474" height="266" src="/wp-content/uploads/2024/04/OIP.jpg" alt="" class="wp-image-14614" title="" srcset="/wp-content/uploads/2024/04/OIP.jpg 474w, /wp-content/uploads/2024/04/OIP-300x168.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="474" height="266" src="https://www.electrikjam.com/wp-content/uploads/2024/04/OIP.jpg" alt="" class="wp-image-14614" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/OIP.jpg 474w, https://www.electrikjam.com/wp-content/uploads/2024/04/OIP-300x168.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" /></figure>
 
 
 
@@ -313,7 +313,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="/wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-1024x640.jpg" alt="" class="wp-image-14616" title="" srcset="/wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-1024x640.jpg 1024w, /wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-600x375.jpg 600w, /wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-300x188.jpg 300w, /wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-768x480.jpg 768w, /wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="640" src="https://www.electrikjam.com/wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-1024x640.jpg" alt="" class="wp-image-14616" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-1024x640.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-600x375.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-300x188.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web-768x480.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2024/04/20210224130857_Ableton-Live-11-Release-7Web.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -363,7 +363,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Ableton-Live-11-Session-View-1024x683.png" alt="Ableton Live " class="wp-image-12570" title="" srcset="/wp-content/uploads/2023/08/Ableton-Live-11-Session-View-1024x683.png 1024w, /wp-content/uploads/2023/08/Ableton-Live-11-Session-View-600x400.png 600w, /wp-content/uploads/2023/08/Ableton-Live-11-Session-View-300x200.png 300w, /wp-content/uploads/2023/08/Ableton-Live-11-Session-View-768x512.png 768w, /wp-content/uploads/2023/08/Ableton-Live-11-Session-View.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Session-View-1024x683.png" alt="Ableton Live " class="wp-image-12570" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Session-View-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Session-View-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Session-View-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Session-View-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Session-View.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -551,7 +551,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-1024x683.png" alt="Ableton Live " class="wp-image-12571" title="" srcset="/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-1024x683.png 1024w, /wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-600x400.png 600w, /wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-300x200.png 300w, /wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-768x512.png 768w, /wp-content/uploads/2023/08/Ableton-Live-11-Skrillex.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-1024x683.png" alt="Ableton Live " class="wp-image-12571" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/08/Ableton-Live-11-Skrillex.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

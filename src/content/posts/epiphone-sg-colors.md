@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2021/09/epiphone-sg-muse.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse.jpg"
 featuredImageAlt: "epiphone sg colors"
 seo: 
   title: "Epiphone SG Colors: What’re Your Options In 2021?"
@@ -80,7 +80,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg muse" class="wp-image-4162" title="" srcset="/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, /wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, /wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, /wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, /wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, /wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Epiphone SG Muse – <a href="https://www.electrikjam.com/recommends/epiphone-sg-muse-electric-guitar/" data-lasso-id="3481">Yours For Just $429</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg" alt="epiphone sg muse" class="wp-image-4162" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse-1080x608.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The Epiphone SG Muse – <a href="https://www.electrikjam.com/recommends/epiphone-sg-muse-electric-guitar/" data-lasso-id="3481">Yours For Just $429</a></strong></figcaption></figure>
 			
 		
 
@@ -110,7 +110,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="638" height="652" src="/wp-content/uploads/2021/09/epiphone-sg-prophecy-colors.png" alt="" class="wp-image-4163" title="" srcset="/wp-content/uploads/2021/09/epiphone-sg-prophecy-colors.png 638w, /wp-content/uploads/2021/09/epiphone-sg-prophecy-colors-600x613.png 600w, /wp-content/uploads/2021/09/epiphone-sg-prophecy-colors-294x300.png 294w" sizes="(max-width: 638px) 100vw, 638px" /><figcaption><strong>The <meta charset="utf-8">Epiphone SG Prophecy – <a href="https://www.electrikjam.com/recommends/epiphone-sg-prophecy-electric-guitar/" data-lasso-id="3484">The Best Modern SG Model | From $899</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="638" height="652" src="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-prophecy-colors.png" alt="" class="wp-image-4163" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-prophecy-colors.png 638w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-prophecy-colors-600x613.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-prophecy-colors-294x300.png 294w" sizes="(max-width: 638px) 100vw, 638px" /><figcaption><strong>The <meta charset="utf-8">Epiphone SG Prophecy – <a href="https://www.electrikjam.com/recommends/epiphone-sg-prophecy-electric-guitar/" data-lasso-id="3484">The Best Modern SG Model | From $899</a></strong></figcaption></figure>
 			
 		
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1014" height="1024" src="/wp-content/uploads/2021/09/Epiphone-SG-Limited-Edition-Pelham-Blue-1014x1024.png" alt="Epiphone SG Limited Edition Pelham Blue" class="wp-image-4164" title=""><figcaption><strong>The <meta charset="utf-8">Epiphone SG Limited Edition In Pelham Blue – A Great Value Option @ $169</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1014" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2021/09/Epiphone-SG-Limited-Edition-Pelham-Blue-1014x1024.png" alt="Epiphone SG Limited Edition Pelham Blue" class="wp-image-4164" title=""><figcaption><strong>The <meta charset="utf-8">Epiphone SG Limited Edition In Pelham Blue – A Great Value Option @ $169</strong></figcaption></figure>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="936" height="570" src="/wp-content/uploads/2021/09/tony-iommi-sg-.png" alt="tony iommi sg" class="wp-image-4165" title="" srcset="/wp-content/uploads/2021/09/tony-iommi-sg-.png 936w, /wp-content/uploads/2021/09/tony-iommi-sg--600x365.png 600w, /wp-content/uploads/2021/09/tony-iommi-sg--300x183.png 300w, /wp-content/uploads/2021/09/tony-iommi-sg--768x468.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="936" height="570" src="https://www.electrikjam.com/wp-content/uploads/2021/09/tony-iommi-sg-.png" alt="tony iommi sg" class="wp-image-4165" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/tony-iommi-sg-.png 936w, https://www.electrikjam.com/wp-content/uploads/2021/09/tony-iommi-sg--600x365.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/tony-iommi-sg--300x183.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/tony-iommi-sg--768x468.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure>
 			
 		
 

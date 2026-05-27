@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2020/11/epi-3.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/epi-3.jpg"
 featuredImageAlt: "epi-3"
 seo: 
   title: "Epiphone '59 Les Paul: A First Time CLASSIC Collaboration!"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="960" height="640" src="/wp-content/uploads/2020/11/Epi-Les-paul-Custom.jpg" alt="Epiphone &#039;59 Les Paul" class="wp-image-1337" title="" srcset="/wp-content/uploads/2020/11/Epi-Les-paul-Custom.jpg 960w, /wp-content/uploads/2020/11/Epi-Les-paul-Custom-600x400.jpg 600w, /wp-content/uploads/2020/11/Epi-Les-paul-Custom-300x200.jpg 300w, /wp-content/uploads/2020/11/Epi-Les-paul-Custom-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption>The Gorgeous Epiphone &#8217;59 Les Paul </figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="960" height="640" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Les-paul-Custom.jpg" alt="Epiphone &#039;59 Les Paul" class="wp-image-1337" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Les-paul-Custom.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Les-paul-Custom-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Les-paul-Custom-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Les-paul-Custom-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption>The Gorgeous Epiphone &#8217;59 Les Paul </figcaption></figure>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/Epi-Custom-shop-2-1024x576.jpg" alt="Epiphone &#039;59 Les Paul" class="wp-image-1338" title="" srcset="/wp-content/uploads/2020/11/Epi-Custom-shop-2-1024x576.jpg 1024w, /wp-content/uploads/2020/11/Epi-Custom-shop-2-600x338.jpg 600w, /wp-content/uploads/2020/11/Epi-Custom-shop-2-300x169.jpg 300w, /wp-content/uploads/2020/11/Epi-Custom-shop-2-768x432.jpg 768w, /wp-content/uploads/2020/11/Epi-Custom-shop-2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Gibson Custom Shop Specs!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Custom-shop-2-1024x576.jpg" alt="Epiphone &#039;59 Les Paul" class="wp-image-1338" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Custom-shop-2-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Custom-shop-2-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Custom-shop-2-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Custom-shop-2-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Epi-Custom-shop-2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Gibson Custom Shop Specs!</figcaption></figure>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/11/epi-3-1024x683.jpg" alt="" class="wp-image-1342" title="" srcset="/wp-content/uploads/2020/11/epi-3-1024x683.jpg 1024w, /wp-content/uploads/2020/11/epi-3-600x400.jpg 600w, /wp-content/uploads/2020/11/epi-3-300x200.jpg 300w, /wp-content/uploads/2020/11/epi-3-768x512.jpg 768w, /wp-content/uploads/2020/11/epi-3.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Epiphone &#8217;59 Les Paul in two finishes.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/11/epi-3-1024x683.jpg" alt="" class="wp-image-1342" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/epi-3-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-3-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-3-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-3-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/epi-3.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Epiphone &#8217;59 Les Paul in two finishes.</figcaption></figure>
 
 
 

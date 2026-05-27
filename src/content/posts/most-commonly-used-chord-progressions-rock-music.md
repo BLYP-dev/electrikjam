@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock.png"
 featuredImageAlt: "Most Commonly Used Chord Progressions In Rock"
 seo: 
   title: "The 5 Most Commonly Used Chord Progressions In Rock"
@@ -100,7 +100,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-1024x683.png" alt="Most Commonly Used Chord Progressions In Rock" class="wp-image-11081" width="840" height="560" title="" srcset="/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-1024x683.png 1024w, /wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-600x400.png 600w, /wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-300x200.png 300w, /wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-768x512.png 768w, /wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-1024x683.png" alt="Most Commonly Used Chord Progressions In Rock" class="wp-image-11081" width="840" height="560" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /></figure>
 
 
 
@@ -278,7 +278,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-1024x683.png" alt="" class="wp-image-12799" title="" srcset="/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-1024x683.png 1024w, /wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-600x400.png 600w, /wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-300x200.png 300w, /wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-768x512.png 768w, /wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-1024x683.png" alt="" class="wp-image-12799" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/09/Why-Does-Music-Theory-Use-Roman-Numerals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -356,7 +356,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="505" src="/wp-content/uploads/2023/03/C-Major-Scale-Intervals.png" alt="Commonly Used Chord Progressions " class="wp-image-11127" title="" srcset="/wp-content/uploads/2023/03/C-Major-Scale-Intervals.png 987w, /wp-content/uploads/2023/03/C-Major-Scale-Intervals-600x307.png 600w, /wp-content/uploads/2023/03/C-Major-Scale-Intervals-300x153.png 300w, /wp-content/uploads/2023/03/C-Major-Scale-Intervals-768x393.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="505" src="https://www.electrikjam.com/wp-content/uploads/2023/03/C-Major-Scale-Intervals.png" alt="Commonly Used Chord Progressions " class="wp-image-11127" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/C-Major-Scale-Intervals.png 987w, https://www.electrikjam.com/wp-content/uploads/2023/03/C-Major-Scale-Intervals-600x307.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/C-Major-Scale-Intervals-300x153.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/C-Major-Scale-Intervals-768x393.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -476,7 +476,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-1024x683.png" alt="The Beatles Made Jimi Hendrix Famous" class="wp-image-8769" title="" srcset="/wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-1024x683.png 1024w, /wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-600x400.png 600w, /wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-300x200.png 300w, /wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-768x512.png 768w, /wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-1024x683.png" alt="The Beatles Made Jimi Hendrix Famous" class="wp-image-8769" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/08/The-Beatles-Made-Jimi-Hendrix-Famous.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -536,7 +536,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-1024x683.png" alt="" class="wp-image-8059" title="" srcset="/wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-1024x683.png 1024w, /wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-600x400.png 600w, /wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-300x200.png 300w, /wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-768x512.png 768w, /wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-1024x683.png" alt="" class="wp-image-8059" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Beautiful-Chord-Progressions-For-Guitar-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

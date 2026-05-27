@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/Front-Doom.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/Front-Doom.jpg"
 featuredImageAlt: "Front Doom"
 seo: 
   title: "BEST Amps For Doom Metal: Classic, Modern, and Unorthodox!"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/11/Sleep-doom-1024x576.jpg" alt="best amps for doom metal" class="wp-image-1411" title="" srcset="/wp-content/uploads/2020/11/Sleep-doom-1024x576.jpg 1024w, /wp-content/uploads/2020/11/Sleep-doom-600x338.jpg 600w, /wp-content/uploads/2020/11/Sleep-doom-300x169.jpg 300w, /wp-content/uploads/2020/11/Sleep-doom-768x432.jpg 768w, /wp-content/uploads/2020/11/Sleep-doom.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sleep Knows Doom</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Sleep-doom-1024x576.jpg" alt="best amps for doom metal" class="wp-image-1411" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Sleep-doom-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sleep-doom-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sleep-doom-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sleep-doom-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Sleep-doom.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sleep Knows Doom</figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2020/11/orange-rockerverb.jpg" alt="" class="wp-image-1412" title="" srcset="/wp-content/uploads/2020/11/orange-rockerverb.jpg 1000w, /wp-content/uploads/2020/11/orange-rockerverb-300x300.jpg 300w, /wp-content/uploads/2020/11/orange-rockerverb-100x100.jpg 100w, /wp-content/uploads/2020/11/orange-rockerverb-600x600.jpg 600w, /wp-content/uploads/2020/11/orange-rockerverb-150x150.jpg 150w, /wp-content/uploads/2020/11/orange-rockerverb-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="1000" src="https://www.electrikjam.com/wp-content/uploads/2020/11/orange-rockerverb.jpg" alt="" class="wp-image-1412" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/orange-rockerverb.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/11/orange-rockerverb-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/orange-rockerverb-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/orange-rockerverb-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/orange-rockerverb-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/orange-rockerverb-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="550" src="/wp-content/uploads/2021/02/Peavey-6505-1024x550.png" alt="Peavey 6505+" class="wp-image-4387" title=""></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="550" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Peavey-6505-1024x550.png" alt="Peavey 6505+" class="wp-image-4387" title=""></figure>
 			
 		
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="465" src="/wp-content/uploads/2020/11/Fender-superbassman-1024x465.jpg" alt="" class="wp-image-1416" title="" srcset="/wp-content/uploads/2020/11/Fender-superbassman-1024x465.jpg 1024w, /wp-content/uploads/2020/11/Fender-superbassman-600x272.jpg 600w, /wp-content/uploads/2020/11/Fender-superbassman-300x136.jpg 300w, /wp-content/uploads/2020/11/Fender-superbassman-768x349.jpg 768w, /wp-content/uploads/2020/11/Fender-superbassman.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="465" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-superbassman-1024x465.jpg" alt="" class="wp-image-1416" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-superbassman-1024x465.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-superbassman-600x272.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-superbassman-300x136.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-superbassman-768x349.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-superbassman.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/Marshall-DSL-series-1024x1024.jpg" alt="" class="wp-image-1418" title="" srcset="/wp-content/uploads/2020/11/Marshall-DSL-series-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Marshall-DSL-series-300x300.jpg 300w, /wp-content/uploads/2020/11/Marshall-DSL-series-100x100.jpg 100w, /wp-content/uploads/2020/11/Marshall-DSL-series-600x600.jpg 600w, /wp-content/uploads/2020/11/Marshall-DSL-series-150x150.jpg 150w, /wp-content/uploads/2020/11/Marshall-DSL-series-768x768.jpg 768w, /wp-content/uploads/2020/11/Marshall-DSL-series.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A small family of DSL amps, hanging out.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-series-1024x1024.jpg" alt="" class="wp-image-1418" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-series-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-series-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-series-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-series-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-series-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-series-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Marshall-DSL-series.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A small family of DSL amps, hanging out.</figcaption></figure>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="415" src="/wp-content/uploads/2020/11/sunn-amp-1024x415.jpg" alt="" class="wp-image-1419" title="" srcset="/wp-content/uploads/2020/11/sunn-amp-1024x415.jpg 1024w, /wp-content/uploads/2020/11/sunn-amp-600x243.jpg 600w, /wp-content/uploads/2020/11/sunn-amp-300x122.jpg 300w, /wp-content/uploads/2020/11/sunn-amp-768x312.jpg 768w, /wp-content/uploads/2020/11/sunn-amp.jpg 1516w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>So good, a band named itself after this amp.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="415" src="https://www.electrikjam.com/wp-content/uploads/2020/11/sunn-amp-1024x415.jpg" alt="" class="wp-image-1419" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/sunn-amp-1024x415.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/sunn-amp-600x243.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/sunn-amp-300x122.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/sunn-amp-768x312.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/sunn-amp.jpg 1516w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>So good, a band named itself after this amp.</figcaption></figure>
 
 
 
@@ -348,7 +348,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="767" src="/wp-content/uploads/2020/11/Laney-AOR-1024x767.jpg" alt="" class="wp-image-1421" title="" srcset="/wp-content/uploads/2020/11/Laney-AOR-1024x767.jpg 1024w, /wp-content/uploads/2020/11/Laney-AOR-600x450.jpg 600w, /wp-content/uploads/2020/11/Laney-AOR-300x225.jpg 300w, /wp-content/uploads/2020/11/Laney-AOR-768x576.jpg 768w, /wp-content/uploads/2020/11/Laney-AOR-1536x1151.jpg 1536w, /wp-content/uploads/2020/11/Laney-AOR.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="767" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Laney-AOR-1024x767.jpg" alt="" class="wp-image-1421" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Laney-AOR-1024x767.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Laney-AOR-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Laney-AOR-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Laney-AOR-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Laney-AOR-1536x1151.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Laney-AOR.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

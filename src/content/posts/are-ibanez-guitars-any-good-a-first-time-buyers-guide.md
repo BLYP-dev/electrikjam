@@ -22,7 +22,7 @@ tagSlugs:
   - "ibanez"
 tagPaths: 
   - "/tag/ibanez/"
-featuredImage: "/wp-content/uploads/2021/02/Ibanez-universe-guitar.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-universe-guitar.jpg"
 featuredImageAlt: "are ibanez guitars any good"
 seo: 
   title: "Are Ibanez Guitars Any Good? A 1st Time Buyer's Guide"
@@ -71,7 +71,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="870" height="282" src="/wp-content/uploads/2021/01/RG631ALF_BCM_1P_01.png" alt="" class="wp-image-1691" title="" srcset="/wp-content/uploads/2021/01/RG631ALF_BCM_1P_01.png 870w, /wp-content/uploads/2021/01/RG631ALF_BCM_1P_01-600x194.png 600w, /wp-content/uploads/2021/01/RG631ALF_BCM_1P_01-300x97.png 300w, /wp-content/uploads/2021/01/RG631ALF_BCM_1P_01-768x249.png 768w" sizes="(max-width: 870px) 100vw, 870px" /><figcaption>A 2020 model RG Series</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="870" height="282" src="https://www.electrikjam.com/wp-content/uploads/2021/01/RG631ALF_BCM_1P_01.png" alt="" class="wp-image-1691" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/01/RG631ALF_BCM_1P_01.png 870w, https://www.electrikjam.com/wp-content/uploads/2021/01/RG631ALF_BCM_1P_01-600x194.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/01/RG631ALF_BCM_1P_01-300x97.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/01/RG631ALF_BCM_1P_01-768x249.png 768w" sizes="(max-width: 870px) 100vw, 870px" /><figcaption>A 2020 model RG Series</figcaption></figure>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2021/02/Ibanez-universe-guitar-1024x514.jpg" alt="are ibanez guitars any good" class="wp-image-2130" title=""><figcaption>A &#8220;Green Dot&#8221; Universe 7 String, 1994</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-universe-guitar-1024x514.jpg" alt="are ibanez guitars any good" class="wp-image-2130" title=""><figcaption>A &#8220;Green Dot&#8221; Universe 7 String, 1994</figcaption></figure>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/02/Ibanez-Iceman-1024x768.jpg" alt="" class="wp-image-2131" title="" srcset="/wp-content/uploads/2021/02/Ibanez-Iceman-1024x768.jpg 1024w, /wp-content/uploads/2021/02/Ibanez-Iceman-600x450.jpg 600w, /wp-content/uploads/2021/02/Ibanez-Iceman-300x225.jpg 300w, /wp-content/uploads/2021/02/Ibanez-Iceman-768x576.jpg 768w, /wp-content/uploads/2021/02/Ibanez-Iceman-1536x1152.jpg 1536w, /wp-content/uploads/2021/02/Ibanez-Iceman-510x382.jpg 510w, /wp-content/uploads/2021/02/Ibanez-Iceman-1080x810.jpg 1080w, /wp-content/uploads/2021/02/Ibanez-Iceman.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>An Early Ibanez Iceman</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman-1024x768.jpg" alt="" class="wp-image-2131" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman-510x382.jpg 510w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman-1080x810.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Iceman.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>An Early Ibanez Iceman</figcaption></figure>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="/wp-content/uploads/2021/02/Ibanez-Jem-1024x339.png" alt="" class="wp-image-2132" title="" srcset="/wp-content/uploads/2021/02/Ibanez-Jem-1024x339.png 1024w, /wp-content/uploads/2021/02/Ibanez-Jem-600x199.png 600w, /wp-content/uploads/2021/02/Ibanez-Jem-300x99.png 300w, /wp-content/uploads/2021/02/Ibanez-Jem-768x255.png 768w, /wp-content/uploads/2021/02/Ibanez-Jem-1536x509.png 1536w, /wp-content/uploads/2021/02/Ibanez-Jem-2048x679.png 2048w, /wp-content/uploads/2021/02/Ibanez-Jem-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Ibanez Jem</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Jem-1024x339.png" alt="" class="wp-image-2132" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Jem-1024x339.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Jem-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Jem-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Jem-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Jem-1536x509.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Jem-2048x679.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-Jem-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Ibanez Jem</figcaption></figure>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="/wp-content/uploads/2021/02/Ibanez-5221-1024x339.png" alt="" class="wp-image-2133" title="" srcset="/wp-content/uploads/2021/02/Ibanez-5221-1024x339.png 1024w, /wp-content/uploads/2021/02/Ibanez-5221-600x199.png 600w, /wp-content/uploads/2021/02/Ibanez-5221-300x99.png 300w, /wp-content/uploads/2021/02/Ibanez-5221-768x255.png 768w, /wp-content/uploads/2021/02/Ibanez-5221-1536x509.png 1536w, /wp-content/uploads/2021/02/Ibanez-5221-2048x679.png 2048w, /wp-content/uploads/2021/02/Ibanez-5221-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>An Ibanez Prestige Model</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-5221-1024x339.png" alt="" class="wp-image-2133" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-5221-1024x339.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-5221-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-5221-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-5221-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-5221-1536x509.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-5221-2048x679.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-5221-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>An Ibanez Prestige Model</figcaption></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="870" height="282" src="/wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01.png" alt="" class="wp-image-2135" title="" srcset="/wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01.png 870w, /wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01-600x194.png 600w, /wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01-300x97.png 300w, /wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01-768x249.png 768w" sizes="(max-width: 870px) 100vw, 870px" /><figcaption>Ibanez Axiom Series</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="870" height="282" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01.png" alt="" class="wp-image-2135" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01.png 870w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01-600x194.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01-300x97.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RGA61AL_IAF_1P_01-768x249.png 768w" sizes="(max-width: 870px) 100vw, 870px" /><figcaption>Ibanez Axiom Series</figcaption></figure>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-1024x339.png" alt="" class="wp-image-2136" title="" srcset="/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-1024x339.png 1024w, /wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-600x199.png 600w, /wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-300x99.png 300w, /wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-768x255.png 768w, /wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-1536x509.png 1536w, /wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-2048x679.png 2048w, /wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ibanez Standard Series</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="339" src="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-1024x339.png" alt="" class="wp-image-2136" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-1024x339.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-600x199.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-300x99.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-768x255.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-1536x509.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-2048x679.png 2048w, https://www.electrikjam.com/wp-content/uploads/2021/02/Ibanez-RG350DXZ_WH_1P_03_en_1-1080x358.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ibanez Standard Series</figcaption></figure>
 
 
 

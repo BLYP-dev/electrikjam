@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/12/buzzo.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo.jpg"
 featuredImageAlt: "buzzo"
 seo: 
   title: "Buzz Osborne's Guitar Rig: 35 Years Of Evolution, And Sublime Innovation"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="/wp-content/uploads/2020/12/king-buzzo.jpg" alt="" class="wp-image-1566" title="" srcset="/wp-content/uploads/2020/12/king-buzzo.jpg 1024w, /wp-content/uploads/2020/12/king-buzzo-600x403.jpg 600w, /wp-content/uploads/2020/12/king-buzzo-300x201.jpg 300w, /wp-content/uploads/2020/12/king-buzzo-768x515.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>King Buzzo with his <a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="539">70&#8217;s Gibson Les Paul</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo.jpg" alt="" class="wp-image-1566" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo-600x403.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo-300x201.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/king-buzzo-768x515.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>King Buzzo with his <a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="539">70&#8217;s Gibson Les Paul</a></figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="900" height="603" src="/wp-content/uploads/2020/12/Buzz-1991.jpg" alt="Buzz Osborne&#039;s guitar rig" class="wp-image-1567" title="" srcset="/wp-content/uploads/2020/12/Buzz-1991.jpg 900w, /wp-content/uploads/2020/12/Buzz-1991-600x402.jpg 600w, /wp-content/uploads/2020/12/Buzz-1991-300x201.jpg 300w, /wp-content/uploads/2020/12/Buzz-1991-768x515.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption>The Melvins: 1991</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="900" height="603" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991.jpg" alt="Buzz Osborne&#039;s guitar rig" class="wp-image-1567" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991.jpg 900w, https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991-600x402.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991-300x201.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Buzz-1991-768x515.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption>The Melvins: 1991</figcaption></figure>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/12/Scott-legato-image-1024x768.jpg" alt="" class="wp-image-1569" title="" srcset="/wp-content/uploads/2020/12/Scott-legato-image-1024x768.jpg 1024w, /wp-content/uploads/2020/12/Scott-legato-image-600x450.jpg 600w, /wp-content/uploads/2020/12/Scott-legato-image-300x225.jpg 300w, /wp-content/uploads/2020/12/Scott-legato-image-768x576.jpg 768w, /wp-content/uploads/2020/12/Scott-legato-image.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Image Courtesy of <a href="https://www.gettyimages.com/" class="rank-math-link" data-lasso-id="546" target="_blank" rel="noopener noreferrer nofollow">Getty Images</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Scott-legato-image-1024x768.jpg" alt="" class="wp-image-1569" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Scott-legato-image-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/Scott-legato-image-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Scott-legato-image-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/Scott-legato-image-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/Scott-legato-image.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Image Courtesy of <a href="https://www.gettyimages.com/" class="rank-math-link" data-lasso-id="546" target="_blank" rel="noopener noreferrer nofollow">Getty Images</a></figcaption></figure>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="709" height="1024" src="/wp-content/uploads/2020/12/electric-guitar-company-709x1024.jpg" alt="" class="wp-image-1570" title="" srcset="/wp-content/uploads/2020/12/electric-guitar-company-709x1024.jpg 709w, /wp-content/uploads/2020/12/electric-guitar-company-600x866.jpg 600w, /wp-content/uploads/2020/12/electric-guitar-company-208x300.jpg 208w, /wp-content/uploads/2020/12/electric-guitar-company.jpg 750w" sizes="(max-width: 709px) 100vw, 709px" /><figcaption>King Buzzo Signature model</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="709" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/12/electric-guitar-company-709x1024.jpg" alt="" class="wp-image-1570" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/electric-guitar-company-709x1024.jpg 709w, https://www.electrikjam.com/wp-content/uploads/2020/12/electric-guitar-company-600x866.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/electric-guitar-company-208x300.jpg 208w, https://www.electrikjam.com/wp-content/uploads/2020/12/electric-guitar-company.jpg 750w" sizes="(max-width: 709px) 100vw, 709px" /><figcaption>King Buzzo Signature model</figcaption></figure>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/buzzo-1024x576.jpg" alt="" class="wp-image-1571" title="" srcset="/wp-content/uploads/2020/12/buzzo-1024x576.jpg 1024w, /wp-content/uploads/2020/12/buzzo-600x338.jpg 600w, /wp-content/uploads/2020/12/buzzo-300x169.jpg 300w, /wp-content/uploads/2020/12/buzzo-768x432.jpg 768w, /wp-content/uploads/2020/12/buzzo.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-1024x576.jpg" alt="" class="wp-image-1571" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzzo.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="630" height="523" src="/wp-content/uploads/2020/12/Melvins-amps.jpg" alt="" class="wp-image-1572" title="" srcset="/wp-content/uploads/2020/12/Melvins-amps.jpg 630w, /wp-content/uploads/2020/12/Melvins-amps-600x498.jpg 600w, /wp-content/uploads/2020/12/Melvins-amps-300x249.jpg 300w" sizes="(max-width: 630px) 100vw, 630px" /><figcaption>Image Courtesy of<a href="https://www.premierguitar.com/" class="rank-math-link" data-lasso-id="549" target="_blank" rel="noopener noreferrer nofollow"> Premier Guitar</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="630" height="523" src="https://www.electrikjam.com/wp-content/uploads/2020/12/Melvins-amps.jpg" alt="" class="wp-image-1572" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/Melvins-amps.jpg 630w, https://www.electrikjam.com/wp-content/uploads/2020/12/Melvins-amps-600x498.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/Melvins-amps-300x249.jpg 300w" sizes="(max-width: 630px) 100vw, 630px" /><figcaption>Image Courtesy of<a href="https://www.premierguitar.com/" class="rank-math-link" data-lasso-id="549" target="_blank" rel="noopener noreferrer nofollow"> Premier Guitar</a></figcaption></figure>
 
 
 
@@ -304,7 +304,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="515" src="/wp-content/uploads/2020/12/buzz-osborne.jpg" alt="" class="wp-image-1573" title="" srcset="/wp-content/uploads/2020/12/buzz-osborne.jpg 1000w, /wp-content/uploads/2020/12/buzz-osborne-600x309.jpg 600w, /wp-content/uploads/2020/12/buzz-osborne-300x155.jpg 300w, /wp-content/uploads/2020/12/buzz-osborne-768x396.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1000" height="515" src="https://www.electrikjam.com/wp-content/uploads/2020/12/buzz-osborne.jpg" alt="" class="wp-image-1573" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/12/buzz-osborne.jpg 1000w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzz-osborne-600x309.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzz-osborne-300x155.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/12/buzz-osborne-768x396.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 

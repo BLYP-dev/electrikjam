@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "/wp-content/uploads/2023/07/Cubase-Elements-12-cover.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Elements-12-cover.png"
 featuredImageAlt: "Is Cubase elements Worth It?"
 seo: 
   title: "Is Cubase Elements Worth It? Exploring The Potential of The Beginner Producer"
@@ -118,7 +118,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-1024x683.png" alt="Is Cubase elements Worth It?" class="wp-image-12358" title="" srcset="/wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-1024x683.png 1024w, /wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-600x400.png 600w, /wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-300x200.png 300w, /wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-768x512.png 768w, /wp-content/uploads/2023/07/Cubase-Elements-12-worth-it.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-1024x683.png" alt="Is Cubase elements Worth It?" class="wp-image-12358" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Elements-12-worth-it-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-Elements-12-worth-it.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Cubase-elements-12-worth-1024x683.png" alt="Is Cubase elements Worth It?" class="wp-image-12359" title="" srcset="/wp-content/uploads/2023/07/Cubase-elements-12-worth-1024x683.png 1024w, /wp-content/uploads/2023/07/Cubase-elements-12-worth-600x400.png 600w, /wp-content/uploads/2023/07/Cubase-elements-12-worth-300x200.png 300w, /wp-content/uploads/2023/07/Cubase-elements-12-worth-768x512.png 768w, /wp-content/uploads/2023/07/Cubase-elements-12-worth.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-12-worth-1024x683.png" alt="Is Cubase elements Worth It?" class="wp-image-12359" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-12-worth-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-12-worth-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-12-worth-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-12-worth-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-12-worth.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/Cubase-elements-UI-1024x683.png" alt="Is Cubase elements Worth It?" class="wp-image-12360" title="" srcset="/wp-content/uploads/2023/07/Cubase-elements-UI-1024x683.png 1024w, /wp-content/uploads/2023/07/Cubase-elements-UI-600x400.png 600w, /wp-content/uploads/2023/07/Cubase-elements-UI-300x200.png 300w, /wp-content/uploads/2023/07/Cubase-elements-UI-768x512.png 768w, /wp-content/uploads/2023/07/Cubase-elements-UI.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-UI-1024x683.png" alt="Is Cubase elements Worth It?" class="wp-image-12360" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-UI-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-UI-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-UI-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-UI-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/Cubase-elements-UI.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

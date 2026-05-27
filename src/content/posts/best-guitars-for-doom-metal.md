@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/02/best-guitars-for-doom-metal.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/02/best-guitars-for-doom-metal.png"
 featuredImageAlt: "best guitars for doom metal"
 seo: 
   title: "The 5 Best Guitars For Doom Metal: The Heaviest Picks For 2022"
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Gibson-p90s-for-doom-1024x768.jpg" alt="" class="wp-image-932" title="" srcset="/wp-content/uploads/2020/10/Gibson-p90s-for-doom-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Gibson-p90s-for-doom-scaled-600x450.jpg 600w, /wp-content/uploads/2020/10/Gibson-p90s-for-doom-300x225.jpg 300w, /wp-content/uploads/2020/10/Gibson-p90s-for-doom-768x576.jpg 768w, /wp-content/uploads/2020/10/Gibson-p90s-for-doom-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/Gibson-p90s-for-doom-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Gibsons with <a href="https://www.electrikjam.com/what-are-p90-pickups-good-for-lets-find-out/" data-lasso-id="24906">P90s</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Gibson-p90s-for-doom-1024x768.jpg" alt="" class="wp-image-932" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Gibson-p90s-for-doom-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gibson-p90s-for-doom-scaled-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gibson-p90s-for-doom-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gibson-p90s-for-doom-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gibson-p90s-for-doom-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Gibson-p90s-for-doom-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Gibsons with <a href="https://www.electrikjam.com/what-are-p90-pickups-good-for-lets-find-out/" data-lasso-id="24906">P90s</a></figcaption></figure>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Tony-Iommi-1024x1024.jpg" alt="" class="wp-image-934" title=""><figcaption>Tony Iommi Signature</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Tony-Iommi-1024x1024.jpg" alt="" class="wp-image-934" title=""><figcaption>Tony Iommi Signature</figcaption></figure>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="762" src="/wp-content/uploads/2020/10/Reverend-1024x762.jpg" alt="" class="wp-image-936" title="" srcset="/wp-content/uploads/2020/10/Reverend-1024x762.jpg 1024w, /wp-content/uploads/2020/10/Reverend-600x446.jpg 600w, /wp-content/uploads/2020/10/Reverend-300x223.jpg 300w, /wp-content/uploads/2020/10/Reverend-768x571.jpg 768w, /wp-content/uploads/2020/10/Reverend-1536x1142.jpg 1536w, /wp-content/uploads/2020/10/Reverend.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Double Agent</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="762" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Reverend-1024x762.jpg" alt="" class="wp-image-936" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Reverend-1024x762.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Reverend-600x446.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Reverend-300x223.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Reverend-768x571.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Reverend-1536x1142.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Reverend.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Double Agent</figcaption></figure>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/ESP-VIPER-1024x768.jpg" alt="" class="wp-image-953" title="" srcset="/wp-content/uploads/2020/10/ESP-VIPER-1024x768.jpg 1024w, /wp-content/uploads/2020/10/ESP-VIPER-600x450.jpg 600w, /wp-content/uploads/2020/10/ESP-VIPER-300x225.jpg 300w, /wp-content/uploads/2020/10/ESP-VIPER-768x576.jpg 768w, /wp-content/uploads/2020/10/ESP-VIPER-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/ESP-VIPER.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>ESP VIPER Standard</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/ESP-VIPER-1024x768.jpg" alt="" class="wp-image-953" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/ESP-VIPER-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/ESP-VIPER-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/ESP-VIPER-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/ESP-VIPER-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/ESP-VIPER-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/ESP-VIPER.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>ESP VIPER Standard</figcaption></figure>
 
 
 
@@ -388,7 +388,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg" alt="" class="wp-image-955" title="" srcset="/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg 1024w, /wp-content/uploads/2020/10/Chelsea-Wolfe-600x338.jpg 600w, /wp-content/uploads/2020/10/Chelsea-Wolfe-300x169.jpg 300w, /wp-content/uploads/2020/10/Chelsea-Wolfe-768x432.jpg 768w, /wp-content/uploads/2020/10/Chelsea-Wolfe.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Chelsea with her Gibson</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg" alt="" class="wp-image-955" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Chelsea-Wolfe.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Chelsea with her Gibson</figcaption></figure>
 
 
 
@@ -412,7 +412,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg" alt="" class="wp-image-956" title="" srcset="/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Brant-Bjork-600x450.jpg 600w, /wp-content/uploads/2020/10/Brant-Bjork-300x225.jpg 300w, /wp-content/uploads/2020/10/Brant-Bjork-768x576.jpg 768w, /wp-content/uploads/2020/10/Brant-Bjork-1536x1152.jpg 1536w, /wp-content/uploads/2020/10/Brant-Bjork.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg" alt="" class="wp-image-956" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Brant-Bjork.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -448,7 +448,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/10/GIBson-Custom-768x1024.jpg" alt="" class="wp-image-957" title="" srcset="/wp-content/uploads/2020/10/GIBson-Custom-768x1024.jpg 768w, /wp-content/uploads/2020/10/GIBson-Custom-600x800.jpg 600w, /wp-content/uploads/2020/10/GIBson-Custom-225x300.jpg 225w, /wp-content/uploads/2020/10/GIBson-Custom-1152x1536.jpg 1152w, /wp-content/uploads/2020/10/GIBson-Custom.jpg 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>1969 Les Paul Custom</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/GIBson-Custom-768x1024.jpg" alt="" class="wp-image-957" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/GIBson-Custom-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/GIBson-Custom-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/GIBson-Custom-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/10/GIBson-Custom-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/10/GIBson-Custom.jpg 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>1969 Les Paul Custom</figcaption></figure>
 
 
 
@@ -496,7 +496,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/11/blas-Les-1024x768.jpg" alt="best guitars for doom metal" class="wp-image-1635" title="" srcset="/wp-content/uploads/2020/11/blas-Les-1024x768.jpg 1024w, /wp-content/uploads/2020/11/blas-Les-600x450.jpg 600w, /wp-content/uploads/2020/11/blas-Les-300x225.jpg 300w, /wp-content/uploads/2020/11/blas-Les-768x576.jpg 768w, /wp-content/uploads/2020/11/blas-Les-1536x1152.jpg 1536w, /wp-content/uploads/2020/11/blas-Les.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/11/blas-Les-1024x768.jpg" alt="best guitars for doom metal" class="wp-image-1635" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/blas-Les-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/blas-Les-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/blas-Les-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/blas-Les-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/blas-Les-1536x1152.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/blas-Les.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

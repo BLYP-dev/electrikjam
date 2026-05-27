@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/10/Matt-Heafy.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/Matt-Heafy.jpg"
 featuredImageAlt: "Matt-Heafy"
 seo: 
   title: "Fishman Fluence Modern Pickups Review: Is the Amazing Hype 100% LEGIT?"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Matt-Heafy-1024x689.jpg" alt="" class="wp-image-733" width="1000" title="" srcset="/wp-content/uploads/2020/10/Matt-Heafy-1024x689.jpg 1024w, /wp-content/uploads/2020/10/Matt-Heafy-600x404.jpg 600w, /wp-content/uploads/2020/10/Matt-Heafy-300x202.jpg 300w, /wp-content/uploads/2020/10/Matt-Heafy-768x516.jpg 768w, /wp-content/uploads/2020/10/Matt-Heafy.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Matt from Trivium: Fishman Artist</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Matt-Heafy-1024x689.jpg" alt="" class="wp-image-733" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Matt-Heafy-1024x689.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Matt-Heafy-600x404.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Matt-Heafy-300x202.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Matt-Heafy-768x516.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Matt-Heafy.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Matt from Trivium: Fishman Artist</figcaption></figure>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Fishman-active.jpg" alt="" class="wp-image-727" width="1000" title="" srcset="/wp-content/uploads/2020/10/Fishman-active.jpg 964w, /wp-content/uploads/2020/10/Fishman-active-600x432.jpg 600w, /wp-content/uploads/2020/10/Fishman-active-300x216.jpg 300w, /wp-content/uploads/2020/10/Fishman-active-768x553.jpg 768w" sizes="(max-width: 964px) 100vw, 964px" /><figcaption>Fishman Wiring Diagram</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Fishman-active.jpg" alt="" class="wp-image-727" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Fishman-active.jpg 964w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fishman-active-600x432.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fishman-active-300x216.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Fishman-active-768x553.jpg 768w" sizes="(max-width: 964px) 100vw, 964px" /><figcaption>Fishman Wiring Diagram</figcaption></figure>
 
 
 

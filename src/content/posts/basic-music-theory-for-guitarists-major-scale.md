@@ -22,7 +22,7 @@ tagSlugs:
   - "music-theory"
 tagPaths: 
   - "/tag/music-theory/"
-featuredImage: "/wp-content/uploads/2022/05/Music-Theory-basics.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/Music-Theory-basics.png"
 featuredImageAlt: "Music Theory Basics"
 seo: 
   title: "Major Scale & 1st Mode on Guitar Explained (The Easy Way)"
@@ -119,7 +119,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png" alt="basic music theory" class="wp-image-8177" title="" srcset="/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png 1024w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-600x400.png 600w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-300x200.png 300w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-768x512.png 768w, /wp-content/uploads/2022/05/Basic-music-theory-interval-numbers.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png" alt="basic music theory" class="wp-image-8177" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Basic-music-theory-interval-numbers.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Major-Pentatonic.png" alt="basic music theory" class="wp-image-8178" title="" srcset="/wp-content/uploads/2022/05/C-Major-Pentatonic.png 987w, /wp-content/uploads/2022/05/C-Major-Pentatonic-600x265.png 600w, /wp-content/uploads/2022/05/C-Major-Pentatonic-300x133.png 300w, /wp-content/uploads/2022/05/C-Major-Pentatonic-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption><strong>C Major Pentatonic</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Pentatonic.png" alt="basic music theory" class="wp-image-8178" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Pentatonic.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Pentatonic-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Pentatonic-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Pentatonic-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption><strong>C Major Pentatonic</strong></figcaption></figure>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory.png" alt="Basic music theory" class="wp-image-8179" title="" srcset="/wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory.png 987w, /wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory-600x265.png 600w, /wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory-300x133.png 300w, /wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory.png" alt="Basic music theory" class="wp-image-8179" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale-Basic-music-theory-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret-.png" alt="basic music theory" class="wp-image-8180" title="" srcset="/wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret-.png 987w, /wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret--600x265.png 600w, /wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret--300x133.png 300w, /wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret--768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret-.png" alt="basic music theory" class="wp-image-8180" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret-.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret--600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret--300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/C-Major-Scale_-3rd-Fret--768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory.png" alt="G major basic music theory" class="wp-image-8182" title="" srcset="/wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory.png 987w, /wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory-600x265.png 600w, /wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory-300x133.png 300w, /wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory.png" alt="G major basic music theory" class="wp-image-8182" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/G-Major-Scale-basic-music-theory-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="/wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves.png" alt="basic music theory" class="wp-image-8183" title="" srcset="/wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves.png 987w, /wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves-600x265.png 600w, /wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves-300x133.png 300w, /wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption><strong>Hey, That Is <em>Literally</em> The Same Thing!</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="987" height="436" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves.png" alt="basic music theory" class="wp-image-8183" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves.png 987w, https://www.electrikjam.com/wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves-600x265.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves-300x133.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Ionian-In-G_-Two-Octaves-768x339.png 768w" sizes="(max-width: 987px) 100vw, 987px" /><figcaption><strong>Hey, That Is <em>Literally</em> The Same Thing!</strong></figcaption></figure>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/Music-Theory-basics-1024x683.png" alt="Music Theory Basics" class="wp-image-8175" title="" srcset="/wp-content/uploads/2022/05/Music-Theory-basics-1024x683.png 1024w, /wp-content/uploads/2022/05/Music-Theory-basics-600x400.png 600w, /wp-content/uploads/2022/05/Music-Theory-basics-300x200.png 300w, /wp-content/uploads/2022/05/Music-Theory-basics-768x512.png 768w, /wp-content/uploads/2022/05/Music-Theory-basics.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Music-Theory-basics-1024x683.png" alt="Music Theory Basics" class="wp-image-8175" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Music-Theory-basics-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Music-Theory-basics-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Music-Theory-basics-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Music-Theory-basics-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Music-Theory-basics.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

@@ -22,7 +22,7 @@ tagSlugs:
   - "axe-fx"
 tagPaths: 
   - "/tag/axe-fx/"
-featuredImage: "/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png"
 featuredImageAlt: "15 Guitarists That Use Axe FX"
 seo: 
   title: "9 Guitarists That Use Axe FX (+ Why The Switched)"
@@ -51,7 +51,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png" alt="15 Guitarists That Use Axe FX" class="wp-image-7106" title="" srcset="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png 1024w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-600x400.png 600w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-300x200.png 300w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-768x512.png 768w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1080x720.png 1080w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Nameless Ghoul From <a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="88564">The Band Ghost</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png" alt="15 Guitarists That Use Axe FX" class="wp-image-7106" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1080x720.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Nameless Ghoul From <a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="88564">The Band Ghost</a></strong></figcaption></figure>
 
 
 

@@ -25,7 +25,7 @@ tagSlugs:
   - "axe-fx"
 tagPaths: 
   - "/tag/axe-fx/"
-featuredImage: "/wp-content/uploads/2024/03/best-Axe-Fx-alternatives.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/03/best-Axe-Fx-alternatives.png"
 featuredImageAlt: "best Axe-Fx alternatives"
 seo: 
   title: "The 5 Best Cheap Axe-FX Alternatives [That Don’t Suck]"
@@ -76,7 +76,7 @@ seo:
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f66f9956 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="771" height="771" src="/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" style="width:75px;height:75px" title="" srcset="/wp-content/uploads/2020/09/christoper-horton.jpg 771w, /wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, /wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, /wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, /wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, /wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img decoding="async" width="771" height="771" src="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" style="width:75px;height:75px" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton.jpg 771w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></figure>
 
 
 
@@ -238,7 +238,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9470" title="" srcset="/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-1024x683.png 1024w, /wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-600x400.png 600w, /wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-300x200.png 300w, /wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-768x512.png 768w, /wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-1024x683.png" alt="budget guitar multi effects" class="wp-image-9470" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/10/POD-Go-best-budget-guitar-multi-effects.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -368,7 +368,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/Mooer-GE200-1024x683.png" alt="" class="wp-image-14377" title="" srcset="/wp-content/uploads/2024/03/Mooer-GE200-1024x683.png 1024w, /wp-content/uploads/2024/03/Mooer-GE200-600x400.png 600w, /wp-content/uploads/2024/03/Mooer-GE200-300x200.png 300w, /wp-content/uploads/2024/03/Mooer-GE200-768x512.png 768w, /wp-content/uploads/2024/03/Mooer-GE200.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/Mooer-GE200-1024x683.png" alt="" class="wp-image-14377" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/Mooer-GE200-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/Mooer-GE200-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/Mooer-GE200-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/Mooer-GE200-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/Mooer-GE200.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -496,7 +496,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/boss_me_90-1024x683.png" alt="" class="wp-image-14378" title="" srcset="/wp-content/uploads/2024/03/boss_me_90-1024x683.png 1024w, /wp-content/uploads/2024/03/boss_me_90-600x400.png 600w, /wp-content/uploads/2024/03/boss_me_90-300x200.png 300w, /wp-content/uploads/2024/03/boss_me_90-768x512.png 768w, /wp-content/uploads/2024/03/boss_me_90.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/boss_me_90-1024x683.png" alt="" class="wp-image-14378" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/boss_me_90-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/boss_me_90-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/boss_me_90-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/boss_me_90-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/boss_me_90.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -620,7 +620,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-1024x683.png" alt="" class="wp-image-14379" title="" srcset="/wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-1024x683.png 1024w, /wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-600x400.png 600w, /wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-300x200.png 300w, /wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-768x512.png 768w, /wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-1024x683.png" alt="" class="wp-image-14379" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/Harley-Benton-DNAfx-GiT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -740,7 +740,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-1024x683.png" alt="" class="wp-image-14380" title="" srcset="/wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-1024x683.png 1024w, /wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-600x400.png 600w, /wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-300x200.png 300w, /wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-768x512.png 768w, /wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-1024x683.png" alt="" class="wp-image-14380" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/03/Hotone-Ampero-Mini-Vanilla.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -860,7 +860,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/11/Line-6-Pod-Go-1024x683.png" alt="line 6" class="wp-image-9975" title="" srcset="/wp-content/uploads/2022/11/Line-6-Pod-Go-1024x683.png 1024w, /wp-content/uploads/2022/11/Line-6-Pod-Go-600x400.png 600w, /wp-content/uploads/2022/11/Line-6-Pod-Go-300x200.png 300w, /wp-content/uploads/2022/11/Line-6-Pod-Go-768x512.png 768w, /wp-content/uploads/2022/11/Line-6-Pod-Go.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Line 6 POD Go: The Closet Thing You Can Get To Axe-Fx Under $500</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-1024x683.png" alt="line 6" class="wp-image-9975" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/11/Line-6-Pod-Go.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>Line 6 POD Go: The Closet Thing You Can Get To Axe-Fx Under $500</strong></figcaption></figure>
 
 
 

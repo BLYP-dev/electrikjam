@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/10/Selfie-2.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/Selfie-2.jpg"
 featuredImageAlt: "Tim Walls Reflux"
 seo: 
   title: "Tim Walls Interview: A.U.R.A Fest Creator & Former Reflux Bassist"
@@ -32,7 +32,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Zao-AURA-2019-1024x683.jpg" alt="" class="wp-image-711" width="1000" title="" srcset="/wp-content/uploads/2020/10/Zao-AURA-2019-1024x683.jpg 1024w, /wp-content/uploads/2020/10/Zao-AURA-2019-600x400.jpg 600w, /wp-content/uploads/2020/10/Zao-AURA-2019-300x200.jpg 300w, /wp-content/uploads/2020/10/Zao-AURA-2019-768x512.jpg 768w, /wp-content/uploads/2020/10/Zao-AURA-2019-1536x1024.jpg 1536w, /wp-content/uploads/2020/10/Zao-AURA-2019.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The legendary ZAO at A.U.R.A Fest <em>Credit: <a href="https://www.facebook.com/WICKEDWAYSPHOTOS/" data-lasso-id="109" target="_blank" rel="noopener noreferrer nofollow">Wicked Ways Photography</a></em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Zao-AURA-2019-1024x683.jpg" alt="" class="wp-image-711" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Zao-AURA-2019-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Zao-AURA-2019-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Zao-AURA-2019-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Zao-AURA-2019-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Zao-AURA-2019-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Zao-AURA-2019.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The legendary ZAO at A.U.R.A Fest <em>Credit: <a href="https://www.facebook.com/WICKEDWAYSPHOTOS/" data-lasso-id="109" target="_blank" rel="noopener noreferrer nofollow">Wicked Ways Photography</a></em></figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/AURAFEST-UPDATED-FINAL-FINAL.jpg" alt="" class="wp-image-712" width="1000" title="" srcset="/wp-content/uploads/2020/10/AURAFEST-UPDATED-FINAL-FINAL.jpg 619w, /wp-content/uploads/2020/10/AURAFEST-UPDATED-FINAL-FINAL-600x928.jpg 600w, /wp-content/uploads/2020/10/AURAFEST-UPDATED-FINAL-FINAL-194x300.jpg 194w" sizes="(max-width: 619px) 100vw, 619px" /><figcaption>Festival Poster from 2019</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/AURAFEST-UPDATED-FINAL-FINAL.jpg" alt="" class="wp-image-712" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/AURAFEST-UPDATED-FINAL-FINAL.jpg 619w, https://www.electrikjam.com/wp-content/uploads/2020/10/AURAFEST-UPDATED-FINAL-FINAL-600x928.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/AURAFEST-UPDATED-FINAL-FINAL-194x300.jpg 194w" sizes="(max-width: 619px) 100vw, 619px" /><figcaption>Festival Poster from 2019</figcaption></figure>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/FFAA-1024x649.jpg" alt="" class="wp-image-713" width="1000" title="" srcset="/wp-content/uploads/2020/10/FFAA-1024x649.jpg 1024w, /wp-content/uploads/2020/10/FFAA-600x380.jpg 600w, /wp-content/uploads/2020/10/FFAA-300x190.jpg 300w, /wp-content/uploads/2020/10/FFAA-768x486.jpg 768w, /wp-content/uploads/2020/10/FFAA-1536x973.jpg 1536w, /wp-content/uploads/2020/10/FFAA.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Fit For An Autopsy on the A.U.R.A Fest stage courtesy of <a href="https://www.facebook.com/WICKEDWAYSPHOTOS/" data-lasso-id="112" target="_blank" rel="noopener noreferrer nofollow">Wicked Ways Photography</a></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2020/10/FFAA-1024x649.jpg" alt="" class="wp-image-713" width="1000" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/FFAA-1024x649.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/FFAA-600x380.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/FFAA-300x190.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/FFAA-768x486.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/FFAA-1536x973.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/FFAA.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Fit For An Autopsy on the A.U.R.A Fest stage courtesy of <a href="https://www.facebook.com/WICKEDWAYSPHOTOS/" data-lasso-id="112" target="_blank" rel="noopener noreferrer nofollow">Wicked Ways Photography</a></figcaption></figure>
 
 
 

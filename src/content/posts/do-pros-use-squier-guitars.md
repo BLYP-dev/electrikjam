@@ -25,7 +25,7 @@ tagSlugs:
   - "squier"
 tagPaths: 
   - "/tag/squier/"
-featuredImage: "/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/02/Do-pros-use-Squier-guitars.png"
 featuredImageAlt: "Do pros use Squier guitars"
 seo: 
   title: "More and More Pros Are Switching To Squier – Here's Why..."
@@ -57,7 +57,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-1024x683.png" alt="" class="wp-image-13174" title="" srcset="/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-1024x683.png 1024w, /wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-600x400.png 600w, /wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-300x200.png 300w, /wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-768x512.png 768w, /wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-1024x683.png" alt="" class="wp-image-13174" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/Who-Plays-Fender-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -97,7 +97,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/squier-electric-guitar-history-1024x683.png" alt="squier electric guitar history" class="wp-image-14165" title="" srcset="/wp-content/uploads/2024/02/squier-electric-guitar-history-1024x683.png 1024w, /wp-content/uploads/2024/02/squier-electric-guitar-history-600x400.png 600w, /wp-content/uploads/2024/02/squier-electric-guitar-history-300x200.png 300w, /wp-content/uploads/2024/02/squier-electric-guitar-history-768x512.png 768w, /wp-content/uploads/2024/02/squier-electric-guitar-history.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/squier-electric-guitar-history-1024x683.png" alt="squier electric guitar history" class="wp-image-14165" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/squier-electric-guitar-history-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/squier-electric-guitar-history-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/squier-electric-guitar-history-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/squier-electric-guitar-history-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/squier-electric-guitar-history.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -129,7 +129,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png" alt="Fender American Professional Stratocaster" class="wp-image-10942" title="" srcset="/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png" alt="Fender American Professional Stratocaster" class="wp-image-10942" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/03/Fender-American-Professional-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -237,7 +237,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/02/squier-contemporary-1024x683.png" alt="squier contemporary" class="wp-image-14166" title="" srcset="/wp-content/uploads/2024/02/squier-contemporary-1024x683.png 1024w, /wp-content/uploads/2024/02/squier-contemporary-600x400.png 600w, /wp-content/uploads/2024/02/squier-contemporary-300x200.png 300w, /wp-content/uploads/2024/02/squier-contemporary-768x512.png 768w, /wp-content/uploads/2024/02/squier-contemporary.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/02/squier-contemporary-1024x683.png" alt="squier contemporary" class="wp-image-14166" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/02/squier-contemporary-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/02/squier-contemporary-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/02/squier-contemporary-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/02/squier-contemporary-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/02/squier-contemporary.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -261,7 +261,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png" alt="" class="wp-image-13176" title="" srcset="/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png 1024w, /wp-content/uploads/2023/10/squier-Jazzmaster-600x400.png 600w, /wp-content/uploads/2023/10/squier-Jazzmaster-300x200.png 300w, /wp-content/uploads/2023/10/squier-Jazzmaster-768x512.png 768w, /wp-content/uploads/2023/10/squier-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png" alt="" class="wp-image-13176" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/10/squier-Jazzmaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

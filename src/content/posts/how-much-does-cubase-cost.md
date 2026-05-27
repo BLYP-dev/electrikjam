@@ -22,7 +22,7 @@ tagSlugs:
   - "cubase"
 tagPaths: 
   - "/tag/cubase/"
-featuredImage: "/wp-content/uploads/2023/07/how-much-does-cubase-cost.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/07/how-much-does-cubase-cost.png"
 featuredImageAlt: "how much does cubase cost"
 seo: 
   title: "How Much Does Cubase Cost? All The Versions Compared..."
@@ -67,7 +67,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="750" height="409" src="/wp-content/uploads/2023/07/cubase-elements.jpg" alt="cubase elements" class="wp-image-12298" title="" srcset="/wp-content/uploads/2023/07/cubase-elements.jpg 750w, /wp-content/uploads/2023/07/cubase-elements-600x327.jpg 600w, /wp-content/uploads/2023/07/cubase-elements-300x164.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="750" height="409" src="https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-elements.jpg" alt="cubase elements" class="wp-image-12298" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-elements.jpg 750w, https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-elements-600x327.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-elements-300x164.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/07/cubase-ai-1024x683.png" alt="cubase ai" class="wp-image-12293" title="" srcset="/wp-content/uploads/2023/07/cubase-ai-1024x683.png 1024w, /wp-content/uploads/2023/07/cubase-ai-600x400.png 600w, /wp-content/uploads/2023/07/cubase-ai-300x200.png 300w, /wp-content/uploads/2023/07/cubase-ai-768x512.png 768w, /wp-content/uploads/2023/07/cubase-ai.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-ai-1024x683.png" alt="cubase ai" class="wp-image-12293" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-ai-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-ai-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-ai-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-ai-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/07/cubase-ai.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

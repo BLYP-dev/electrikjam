@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2024/01/The-Top-5-Most-Iconic-Dreadnought-Guitars-of-All-Time.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2024/01/The-Top-5-Most-Iconic-Dreadnought-Guitars-of-All-Time.png"
 featuredImageAlt: "The Top 5 Most Iconic Dreadnought Guitars of All Time"
 seo: 
   title: "The Top 5 Most Iconic Dreadnought Guitars of All Time"
@@ -203,7 +203,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/martin-d28-1024x683.png" alt="" class="wp-image-13828" title="" srcset="/wp-content/uploads/2024/01/martin-d28-1024x683.png 1024w, /wp-content/uploads/2024/01/martin-d28-600x400.png 600w, /wp-content/uploads/2024/01/martin-d28-300x200.png 300w, /wp-content/uploads/2024/01/martin-d28-768x512.png 768w, /wp-content/uploads/2024/01/martin-d28.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d28-1024x683.png" alt="" class="wp-image-13828" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d28-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d28-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d28-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d28-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d28.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -265,7 +265,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/GIBSON-j-45--1024x683.png" alt="" class="wp-image-13829" title="" srcset="/wp-content/uploads/2024/01/GIBSON-j-45--1024x683.png 1024w, /wp-content/uploads/2024/01/GIBSON-j-45--600x400.png 600w, /wp-content/uploads/2024/01/GIBSON-j-45--300x200.png 300w, /wp-content/uploads/2024/01/GIBSON-j-45--768x512.png 768w, /wp-content/uploads/2024/01/GIBSON-j-45-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/GIBSON-j-45--1024x683.png" alt="" class="wp-image-13829" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/GIBSON-j-45--1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/GIBSON-j-45--600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/GIBSON-j-45--300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/GIBSON-j-45--768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/GIBSON-j-45-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -305,7 +305,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/GUILD-D-40-1024x683.png" alt="" class="wp-image-13830" title="" srcset="/wp-content/uploads/2024/01/GUILD-D-40-1024x683.png 1024w, /wp-content/uploads/2024/01/GUILD-D-40-600x400.png 600w, /wp-content/uploads/2024/01/GUILD-D-40-300x200.png 300w, /wp-content/uploads/2024/01/GUILD-D-40-768x512.png 768w, /wp-content/uploads/2024/01/GUILD-D-40.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/GUILD-D-40-1024x683.png" alt="" class="wp-image-13830" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/GUILD-D-40-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/GUILD-D-40-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/GUILD-D-40-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/GUILD-D-40-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/GUILD-D-40.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -367,7 +367,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/taylor-610-1024x683.png" alt="" class="wp-image-13831" title="" srcset="/wp-content/uploads/2024/01/taylor-610-1024x683.png 1024w, /wp-content/uploads/2024/01/taylor-610-600x400.png 600w, /wp-content/uploads/2024/01/taylor-610-300x200.png 300w, /wp-content/uploads/2024/01/taylor-610-768x512.png 768w, /wp-content/uploads/2024/01/taylor-610.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/taylor-610-1024x683.png" alt="" class="wp-image-13831" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/taylor-610-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/taylor-610-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/taylor-610-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/taylor-610-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/taylor-610.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -427,7 +427,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/Collings-D1A-1024x683.png" alt="" class="wp-image-13832" title="" srcset="/wp-content/uploads/2024/01/Collings-D1A-1024x683.png 1024w, /wp-content/uploads/2024/01/Collings-D1A-600x400.png 600w, /wp-content/uploads/2024/01/Collings-D1A-300x200.png 300w, /wp-content/uploads/2024/01/Collings-D1A-768x512.png 768w, /wp-content/uploads/2024/01/Collings-D1A.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/Collings-D1A-1024x683.png" alt="" class="wp-image-13832" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/Collings-D1A-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/Collings-D1A-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/Collings-D1A-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/Collings-D1A-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/Collings-D1A.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -465,7 +465,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/01/martin-d-45-1-1-1024x683.png" alt="" class="wp-image-13827" title="" srcset="/wp-content/uploads/2024/01/martin-d-45-1-1-1024x683.png 1024w, /wp-content/uploads/2024/01/martin-d-45-1-1-600x400.png 600w, /wp-content/uploads/2024/01/martin-d-45-1-1-300x200.png 300w, /wp-content/uploads/2024/01/martin-d-45-1-1-768x512.png 768w, /wp-content/uploads/2024/01/martin-d-45-1-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45-1-1-1024x683.png" alt="" class="wp-image-13827" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45-1-1-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45-1-1-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45-1-1-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45-1-1-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2024/01/martin-d-45-1-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

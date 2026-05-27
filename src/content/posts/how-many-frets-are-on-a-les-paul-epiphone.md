@@ -22,7 +22,7 @@ tagSlugs:
   - "epiphone"
 tagPaths: 
   - "/tag/epiphone/"
-featuredImage: "/wp-content/uploads/2020/10/how-many-frets-are-there-on-a-les-paul-e1610973655430.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/how-many-frets-are-there-on-a-les-paul-e1610973655430.png"
 featuredImageAlt: "how many frets are there on a les paul"
 seo: 
   title: "How Many Frets Are On A Les Paul Epiphone?"
@@ -39,7 +39,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Epiphone-Les-paul-11-1024x1024.jpg" alt="" class="wp-image-769" title="" srcset="/wp-content/uploads/2020/10/Epiphone-Les-paul-11-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Epiphone-Les-paul-11-300x300.jpg 300w, /wp-content/uploads/2020/10/Epiphone-Les-paul-11-100x100.jpg 100w, /wp-content/uploads/2020/10/Epiphone-Les-paul-11-600x600.jpg 600w, /wp-content/uploads/2020/10/Epiphone-Les-paul-11-150x150.jpg 150w, /wp-content/uploads/2020/10/Epiphone-Les-paul-11-768x768.jpg 768w, /wp-content/uploads/2020/10/Epiphone-Les-paul-11-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/Epiphone-Les-paul-11.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11-1024x1024.jpg" alt="" class="wp-image-769" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Epiphone-Les-paul-11.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Les-paul-special-epiphone-1024x1024.jpg" alt="" class="wp-image-771" title="" srcset="/wp-content/uploads/2020/10/Les-paul-special-epiphone-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Les-paul-special-epiphone-300x300.jpg 300w, /wp-content/uploads/2020/10/Les-paul-special-epiphone-100x100.jpg 100w, /wp-content/uploads/2020/10/Les-paul-special-epiphone-600x600.jpg 600w, /wp-content/uploads/2020/10/Les-paul-special-epiphone-150x150.jpg 150w, /wp-content/uploads/2020/10/Les-paul-special-epiphone-768x768.jpg 768w, /wp-content/uploads/2020/10/Les-paul-special-epiphone-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/Les-paul-special-epiphone.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone-1024x1024.jpg" alt="" class="wp-image-771" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone-1024x1024.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone-300x300.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone-100x100.jpg 100w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone-600x600.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone-150x150.jpg 150w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone-768x768.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone-1536x1536.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/10/Les-paul-special-epiphone.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

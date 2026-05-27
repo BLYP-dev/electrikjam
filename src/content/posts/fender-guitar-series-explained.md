@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2023/10/Fender-Jazzmaster.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/Fender-Jazzmaster.png"
 featuredImageAlt: "Fender Guitar Series Explained"
 seo: 
   title: "Fender Guitar Series Explained: What You Need To Know..."
@@ -66,7 +66,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png" alt="Fender-Player-Stratocaster-review" class="wp-image-10884" title="" srcset="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png" alt="Fender-Player-Stratocaster-review" class="wp-image-10884" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2023/02/Fender-Player-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

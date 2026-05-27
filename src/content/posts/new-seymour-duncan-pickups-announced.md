@@ -22,7 +22,7 @@ tagSlugs:
   - "seymour-duncan"
 tagPaths: 
   - "/tag/seymour-duncan/"
-featuredImage: "/wp-content/uploads/2022/05/New-Seymour-Duncan-Pickups.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/05/New-Seymour-Duncan-Pickups.png"
 featuredImageAlt: "New Seymour duncan pickups"
 seo: 
   title: "New Seymour Duncan Pickups 2022: 3 AMAZING Classics!"
@@ -79,7 +79,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="824" src="/wp-content/uploads/2022/05/78-Model-Lifestyle-1024x824.webp" alt="new seymour duncan pickups" class="wp-image-8027" title="" srcset="/wp-content/uploads/2022/05/78-Model-Lifestyle-1024x824.webp 1024w, /wp-content/uploads/2022/05/78-Model-Lifestyle-600x483.webp 600w, /wp-content/uploads/2022/05/78-Model-Lifestyle-300x241.webp 300w, /wp-content/uploads/2022/05/78-Model-Lifestyle-768x618.webp 768w, /wp-content/uploads/2022/05/78-Model-Lifestyle.webp 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The &#8217;78 Pickup</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="824" src="https://www.electrikjam.com/wp-content/uploads/2022/05/78-Model-Lifestyle-1024x824.webp" alt="new seymour duncan pickups" class="wp-image-8027" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/78-Model-Lifestyle-1024x824.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/78-Model-Lifestyle-600x483.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/78-Model-Lifestyle-300x241.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/78-Model-Lifestyle-768x618.webp 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/78-Model-Lifestyle.webp 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>The &#8217;78 Pickup</strong></figcaption></figure></div>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="777" src="/wp-content/uploads/2022/05/Green-Magic-Lifestyle-1024x777.webp" alt="New seymour duncan pickups" class="wp-image-8032" title="" srcset="/wp-content/uploads/2022/05/Green-Magic-Lifestyle-1024x777.webp 1024w, /wp-content/uploads/2022/05/Green-Magic-Lifestyle-600x455.webp 600w, /wp-content/uploads/2022/05/Green-Magic-Lifestyle-300x228.webp 300w, /wp-content/uploads/2022/05/Green-Magic-Lifestyle-768x582.webp 768w, /wp-content/uploads/2022/05/Green-Magic-Lifestyle.webp 1424w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Green Magic&#8230;With A Secret Inside!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="777" src="https://www.electrikjam.com/wp-content/uploads/2022/05/Green-Magic-Lifestyle-1024x777.webp" alt="New seymour duncan pickups" class="wp-image-8032" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/Green-Magic-Lifestyle-1024x777.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/Green-Magic-Lifestyle-600x455.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/Green-Magic-Lifestyle-300x228.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/Green-Magic-Lifestyle-768x582.webp 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/Green-Magic-Lifestyle.webp 1424w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Green Magic&#8230;With A Secret Inside!</figcaption></figure>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-1024x683.png" alt="new seymour duncan pickups 2022" class="wp-image-8035" title="" srcset="/wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-1024x683.png 1024w, /wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-600x400.png 600w, /wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-300x200.png 300w, /wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-768x512.png 768w, /wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-1024x683.png" alt="new seymour duncan pickups 2022" class="wp-image-8035" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/05/New-seymour-duncan-pickups-2022.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

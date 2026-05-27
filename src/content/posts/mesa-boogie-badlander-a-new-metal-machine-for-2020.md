@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/Badlander100-hero-scaled.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/Badlander100-hero-scaled.jpg"
 featuredImageAlt: "Mesa Boogie Badlander"
 seo: 
   title: "Mesa Boogie Badlander: A NEW Impressive Metal Machine in 2020"
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="439" src="/wp-content/uploads/2020/11/Badlander100-hero-1024x439.jpg" alt="" class="wp-image-1395" title="" srcset="/wp-content/uploads/2020/11/Badlander100-hero-1024x439.jpg 1024w, /wp-content/uploads/2020/11/Badlander100-hero-scaled-600x257.jpg 600w, /wp-content/uploads/2020/11/Badlander100-hero-300x129.jpg 300w, /wp-content/uploads/2020/11/Badlander100-hero-768x329.jpg 768w, /wp-content/uploads/2020/11/Badlander100-hero-1536x658.jpg 1536w, /wp-content/uploads/2020/11/Badlander100-hero-2048x878.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="439" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Badlander100-hero-1024x439.jpg" alt="" class="wp-image-1395" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Badlander100-hero-1024x439.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Badlander100-hero-scaled-600x257.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Badlander100-hero-300x129.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Badlander100-hero-768x329.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Badlander100-hero-1536x658.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Badlander100-hero-2048x878.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="439" src="/wp-content/uploads/2020/11/BD-100-tubes-1024x439.jpg" alt="" class="wp-image-1403" title="" srcset="/wp-content/uploads/2020/11/BD-100-tubes-1024x439.jpg 1024w, /wp-content/uploads/2020/11/BD-100-tubes-scaled-600x257.jpg 600w, /wp-content/uploads/2020/11/BD-100-tubes-300x129.jpg 300w, /wp-content/uploads/2020/11/BD-100-tubes-768x329.jpg 768w, /wp-content/uploads/2020/11/BD-100-tubes-1536x658.jpg 1536w, /wp-content/uploads/2020/11/BD-100-tubes-2048x878.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="439" src="https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100-tubes-1024x439.jpg" alt="" class="wp-image-1403" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100-tubes-1024x439.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100-tubes-scaled-600x257.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100-tubes-300x129.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100-tubes-768x329.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100-tubes-1536x658.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100-tubes-2048x878.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="149" src="/wp-content/uploads/2020/11/BD-100w-rearPanel-1024x149.jpg" alt="" class="wp-image-1402" title="" srcset="/wp-content/uploads/2020/11/BD-100w-rearPanel-1024x149.jpg 1024w, /wp-content/uploads/2020/11/BD-100w-rearPanel-600x88.jpg 600w, /wp-content/uploads/2020/11/BD-100w-rearPanel-300x44.jpg 300w, /wp-content/uploads/2020/11/BD-100w-rearPanel-768x112.jpg 768w, /wp-content/uploads/2020/11/BD-100w-rearPanel-1536x224.jpg 1536w, /wp-content/uploads/2020/11/BD-100w-rearPanel.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="149" src="https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-rearPanel-1024x149.jpg" alt="" class="wp-image-1402" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-rearPanel-1024x149.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-rearPanel-600x88.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-rearPanel-300x44.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-rearPanel-768x112.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-rearPanel-1536x224.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-rearPanel.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="439" src="/wp-content/uploads/2020/11/BD100-wattage-1-1024x439.jpg" alt="" class="wp-image-1399" title="" srcset="/wp-content/uploads/2020/11/BD100-wattage-1-1024x439.jpg 1024w, /wp-content/uploads/2020/11/BD100-wattage-1-scaled-600x257.jpg 600w, /wp-content/uploads/2020/11/BD100-wattage-1-300x129.jpg 300w, /wp-content/uploads/2020/11/BD100-wattage-1-768x329.jpg 768w, /wp-content/uploads/2020/11/BD100-wattage-1-1536x658.jpg 1536w, /wp-content/uploads/2020/11/BD100-wattage-1-2048x878.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="439" src="https://www.electrikjam.com/wp-content/uploads/2020/11/BD100-wattage-1-1024x439.jpg" alt="" class="wp-image-1399" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/BD100-wattage-1-1024x439.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD100-wattage-1-scaled-600x257.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD100-wattage-1-300x129.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD100-wattage-1-768x329.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD100-wattage-1-1536x658.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD100-wattage-1-2048x878.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="171" src="/wp-content/uploads/2020/11/BD-100w-head-frontPanel-1024x171.jpg" alt="" class="wp-image-1401" title="" srcset="/wp-content/uploads/2020/11/BD-100w-head-frontPanel-1024x171.jpg 1024w, /wp-content/uploads/2020/11/BD-100w-head-frontPanel-600x100.jpg 600w, /wp-content/uploads/2020/11/BD-100w-head-frontPanel-300x50.jpg 300w, /wp-content/uploads/2020/11/BD-100w-head-frontPanel-768x128.jpg 768w, /wp-content/uploads/2020/11/BD-100w-head-frontPanel-1536x256.jpg 1536w, /wp-content/uploads/2020/11/BD-100w-head-frontPanel.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="171" src="https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-head-frontPanel-1024x171.jpg" alt="" class="wp-image-1401" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-head-frontPanel-1024x171.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-head-frontPanel-600x100.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-head-frontPanel-300x50.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-head-frontPanel-768x128.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-head-frontPanel-1536x256.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/BD-100w-head-frontPanel.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

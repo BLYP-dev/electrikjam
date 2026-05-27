@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/09/Matrix-4-Jefferson-Airplane.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/Matrix-4-Jefferson-Airplane.png"
 featuredImageAlt: "Matrix 4 Jefferson Airplane"
 seo: 
   title: "Jefferson Airplane Takes Center Stage In The Matrix 4 Trailer"

@@ -16,7 +16,7 @@ categoryPaths: []
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515.webp"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2023/10/08410641-d926-46fd-b0fc-054b86f91515.webp"
 featuredImageAlt: "ELECTRIKJAM CONTACT"
 seo: 
   title: "CONTACT US %sep% %sitename%"
@@ -95,7 +95,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b.webp" alt="" class="wp-image-12905" title="" srcset="/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b.webp 1024w, /wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-300x300.webp 300w, /wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-100x100.webp 100w, /wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-600x600.webp 600w, /wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-150x150.webp 150w, /wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b.webp" alt="" class="wp-image-12905" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-150x150.webp 150w, https://www.electrikjam.com/wp-content/uploads/2023/10/3ce49cbe-f536-4154-8114-90569980757b-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -144,8 +144,8 @@ seo:
   "logo": {
     "@type": "ImageObject",
     "@id": "https://www.electrikjam.com/#logo",
-    "url": "/wp-content/uploads/2023/02/ELECTRIKJAM.png",
-    "contentUrl": "/wp-content/uploads/2023/02/ELECTRIKJAM.png",
+    "url": "https://www.electrikjam.com/wp-content/uploads/2023/02/ELECTRIKJAM.png",
+    "contentUrl": "https://www.electrikjam.com/wp-content/uploads/2023/02/ELECTRIKJAM.png",
     "caption": "ELECTRIKJAM",
     "inLanguage": "en-US",
     "width": 315,

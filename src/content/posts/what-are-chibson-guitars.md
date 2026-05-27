@@ -25,7 +25,7 @@ tagSlugs:
   - "gibson"
 tagPaths: 
   - "/tag/gibson/"
-featuredImage: "/wp-content/uploads/2021/04/Chibson-Guitars-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars-1.png"
 featuredImageAlt: "What Are Chibson Guitars"
 seo: 
   title: "What The Hell Are Chibson Guitars!? A Guide & Warning..."
@@ -74,7 +74,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="743" src="/wp-content/uploads/2021/04/Chibson-Guitars-1024x743.png" alt="" class="wp-image-2747" title="" srcset="/wp-content/uploads/2021/04/Chibson-Guitars-1024x743.png 1024w, /wp-content/uploads/2021/04/Chibson-Guitars-600x435.png 600w, /wp-content/uploads/2021/04/Chibson-Guitars-300x218.png 300w, /wp-content/uploads/2021/04/Chibson-Guitars-768x557.png 768w, /wp-content/uploads/2021/04/Chibson-Guitars-1536x1115.png 1536w, /wp-content/uploads/2021/04/Chibson-Guitars-1080x784.png 1080w, /wp-content/uploads/2021/04/Chibson-Guitars.png 1618w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Chibson Rip Off of <a href="https://www.electrikjam.com/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="2578">Zak Wylde&#8217;s Guitar</a></strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="743" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars-1024x743.png" alt="" class="wp-image-2747" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars-1024x743.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars-600x435.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars-300x218.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars-768x557.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars-1536x1115.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars-1080x784.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Guitars.png 1618w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Chibson Rip Off of <a href="https://www.electrikjam.com/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="2578">Zak Wylde&#8217;s Guitar</a></strong></figcaption></figure></div>
 
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="756" src="/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-1024x756.png" alt="" class="wp-image-2750" title="" srcset="/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-1024x756.png 1024w, /wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-600x443.png 600w, /wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-300x221.png 300w, /wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-768x567.png 768w, /wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-1536x1134.png 1536w, /wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-1080x797.png 1080w, /wp-content/uploads/2021/04/Chibson-Les-Paul-Custom.png 1642w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="756" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-1024x756.png" alt="" class="wp-image-2750" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-1024x756.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-600x443.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-300x221.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-768x567.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-1536x1134.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom-1080x797.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/Chibson-Les-Paul-Custom.png 1642w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="899" src="/wp-content/uploads/2021/04/what-are-Chibson-Guitars-1024x899.png" alt="" class="wp-image-2748" title="" srcset="/wp-content/uploads/2021/04/what-are-Chibson-Guitars-1024x899.png 1024w, /wp-content/uploads/2021/04/what-are-Chibson-Guitars-600x527.png 600w, /wp-content/uploads/2021/04/what-are-Chibson-Guitars-300x264.png 300w, /wp-content/uploads/2021/04/what-are-Chibson-Guitars-768x675.png 768w, /wp-content/uploads/2021/04/what-are-Chibson-Guitars-1080x949.png 1080w, /wp-content/uploads/2021/04/what-are-Chibson-Guitars.png 1398w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="899" src="https://www.electrikjam.com/wp-content/uploads/2021/04/what-are-Chibson-Guitars-1024x899.png" alt="" class="wp-image-2748" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/what-are-Chibson-Guitars-1024x899.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/what-are-Chibson-Guitars-600x527.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/what-are-Chibson-Guitars-300x264.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/what-are-Chibson-Guitars-768x675.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/what-are-Chibson-Guitars-1080x949.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/what-are-Chibson-Guitars.png 1398w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

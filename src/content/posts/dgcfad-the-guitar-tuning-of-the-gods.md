@@ -22,7 +22,7 @@ tagSlugs:
   - "guitar-tuning"
 tagPaths: 
   - "/tag/guitar-tuning/"
-featuredImage: "/wp-content/uploads/2021/09/DGCFAD.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/DGCFAD.png"
 featuredImageAlt: "DGCFAD"
 seo: 
   title: "DGCFAD - The Guitar Tuning of The Gods…"
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/09/DGCFAD-1024x853.png" alt="DGCFAD" class="wp-image-3726" title="" srcset="/wp-content/uploads/2021/09/DGCFAD-1024x853.png 1024w, /wp-content/uploads/2021/09/DGCFAD-600x500.png 600w, /wp-content/uploads/2021/09/DGCFAD-300x250.png 300w, /wp-content/uploads/2021/09/DGCFAD-768x640.png 768w, /wp-content/uploads/2021/09/DGCFAD-1080x900.png 1080w, /wp-content/uploads/2021/09/DGCFAD.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/09/DGCFAD-1024x853.png" alt="DGCFAD" class="wp-image-3726" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/09/DGCFAD-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/09/DGCFAD-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/09/DGCFAD-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/09/DGCFAD-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/09/DGCFAD-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/09/DGCFAD.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

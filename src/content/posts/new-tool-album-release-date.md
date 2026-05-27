@@ -22,7 +22,7 @@ tagSlugs:
   - "new-music"
 tagPaths: 
   - "/tag/new-music/"
-featuredImage: "/wp-content/uploads/2022/01/New-TOOL-Album.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/01/New-TOOL-Album.png"
 featuredImageAlt: "New TOOL Album"
 seo: 
   title: "New TOOL Album: Updates From The Band & Release Date News"
@@ -64,7 +64,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2022/01/New-TOOL-Album-1024x853.png" alt="New TOOL Album" class="wp-image-6382" title="" srcset="/wp-content/uploads/2022/01/New-TOOL-Album-1024x853.png 1024w, /wp-content/uploads/2022/01/New-TOOL-Album-600x500.png 600w, /wp-content/uploads/2022/01/New-TOOL-Album-300x250.png 300w, /wp-content/uploads/2022/01/New-TOOL-Album-768x640.png 768w, /wp-content/uploads/2022/01/New-TOOL-Album-1080x900.png 1080w, /wp-content/uploads/2022/01/New-TOOL-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2022/01/New-TOOL-Album-1024x853.png" alt="New TOOL Album" class="wp-image-6382" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/01/New-TOOL-Album-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-TOOL-Album-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-TOOL-Album-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-TOOL-Album-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-TOOL-Album-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2022/01/New-TOOL-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -114,7 +114,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-1024x853.png" alt="Adam Jones Names The Guitarists That Influenced Him Most" class="wp-image-5099" title="" srcset="/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-1024x853.png 1024w, /wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-600x500.png 600w, /wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-300x250.png 300w, /wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-768x640.png 768w, /wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-1080x900.png 1080w, /wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="https://www.electrikjam.com/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-1024x853.png" alt="Adam Jones Names The Guitarists That Influenced Him Most" class="wp-image-5099" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-1024x853.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-600x500.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-300x250.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-768x640.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most-1080x900.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/10/Adam-Jones-Names-The-Guitarists-That-Influenced-Him-Most.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 

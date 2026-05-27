@@ -22,7 +22,7 @@ tagSlugs:
   - "fender"
 tagPaths: 
   - "/tag/fender/"
-featuredImage: "/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play.png"
 featuredImageAlt: "What Guitar Did Kurt Cobain Play"
 seo: 
   title: "Why Kurt Cobain ONLY Played “Crap” Fender Guitars…"
@@ -52,7 +52,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-1024x683.png" alt="What Guitar Did Kurt Cobain Play" class="wp-image-7929" title="" srcset="/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-1024x683.png 1024w, /wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-600x400.png 600w, /wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-300x200.png 300w, /wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-768x512.png 768w, /wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>&#8220;<strong>Out of all the guitars in the whole world, the Fender Mustang is my favorite. They&#8217;re cheap and totally inefficient, and they sound like crap and are very small&#8221; – Kurt Cobain</strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-1024x683.png" alt="What Guitar Did Kurt Cobain Play" class="wp-image-7929" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/04/What-Guitar-Did-Kurt-Cobain-Play.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>&#8220;<strong>Out of all the guitars in the whole world, the Fender Mustang is my favorite. They&#8217;re cheap and totally inefficient, and they sound like crap and are very small&#8221; – Kurt Cobain</strong></figcaption></figure>
 			
 		
 

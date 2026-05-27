@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/04/emissary_front_full.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/04/emissary_front_full.jpg"
 featuredImageAlt: "free amp simulators"
 seo: 
   title: "The Best Free Amp Simulators For Metal in 2021: Great Tone On A Budget!"
@@ -76,7 +76,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="348" src="/wp-content/uploads/2021/04/emissary_front_full-1024x348.jpg" alt="free amp simulators" class="wp-image-2708" title="" srcset="/wp-content/uploads/2021/04/emissary_front_full-1024x348.jpg 1024w, /wp-content/uploads/2021/04/emissary_front_full-600x204.jpg 600w, /wp-content/uploads/2021/04/emissary_front_full-300x102.jpg 300w, /wp-content/uploads/2021/04/emissary_front_full-768x261.jpg 768w, /wp-content/uploads/2021/04/emissary_front_full-1080x367.jpg 1080w, /wp-content/uploads/2021/04/emissary_front_full.jpg 1202w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="348" src="https://www.electrikjam.com/wp-content/uploads/2021/04/emissary_front_full-1024x348.jpg" alt="free amp simulators" class="wp-image-2708" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/emissary_front_full-1024x348.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2021/04/emissary_front_full-600x204.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/emissary_front_full-300x102.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/emissary_front_full-768x261.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/emissary_front_full-1080x367.jpg 1080w, https://www.electrikjam.com/wp-content/uploads/2021/04/emissary_front_full.jpg 1202w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/Blu-cat-free.png" alt="" class="wp-image-2709" width="847" height="636" title="" srcset="/wp-content/uploads/2021/04/Blu-cat-free.png 786w, /wp-content/uploads/2021/04/Blu-cat-free-600x450.png 600w, /wp-content/uploads/2021/04/Blu-cat-free-300x225.png 300w, /wp-content/uploads/2021/04/Blu-cat-free-768x576.png 768w, /wp-content/uploads/2021/04/Blu-cat-free-510x382.png 510w" sizes="(max-width: 847px) 100vw, 847px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Blu-cat-free.png" alt="" class="wp-image-2709" width="847" height="636" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Blu-cat-free.png 786w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blu-cat-free-600x450.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blu-cat-free-300x225.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blu-cat-free-768x576.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/04/Blu-cat-free-510x382.png 510w" sizes="(max-width: 847px) 100vw, 847px" /></figure>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate.jpg" alt="" class="wp-image-2710" width="842" height="400" title="" srcset="/wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate.jpg 800w, /wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate-600x285.jpg 600w, /wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate-300x143.jpg 300w, /wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate-768x365.jpg 768w" sizes="(max-width: 842px) 100vw, 842px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate.jpg" alt="" class="wp-image-2710" width="842" height="400" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate.jpg 800w, https://www.electrikjam.com/wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate-600x285.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate-300x143.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/BlackRoosterAudio_Cypress_TT-15_Frontplate-768x365.jpg 768w" sizes="(max-width: 842px) 100vw, 842px" /></figure>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="960" height="553" src="/wp-content/uploads/2021/04/Guitar-rig-6.jpg" alt="" class="wp-image-2711" title="" srcset="/wp-content/uploads/2021/04/Guitar-rig-6.jpg 960w, /wp-content/uploads/2021/04/Guitar-rig-6-600x346.jpg 600w, /wp-content/uploads/2021/04/Guitar-rig-6-300x173.jpg 300w, /wp-content/uploads/2021/04/Guitar-rig-6-768x442.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="960" height="553" src="https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-rig-6.jpg" alt="" class="wp-image-2711" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-rig-6.jpg 960w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-rig-6-600x346.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-rig-6-300x173.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2021/04/Guitar-rig-6-768x442.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 

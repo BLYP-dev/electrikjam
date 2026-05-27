@@ -25,7 +25,7 @@ tagSlugs:
   - "positive-grid"
 tagPaths: 
   - "/tag/positive-grid/"
-featuredImage: "/wp-content/uploads/2021/01/is-bias-fx-worth-it-e1610108717277.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/01/is-bias-fx-worth-it-e1610108717277.png"
 featuredImageAlt: "Save 50% on Positive Grid’s EPIC BIAS FX 2"
 seo: 
   title: "BIAS FX Amp List: All The Amps Currently Available..."

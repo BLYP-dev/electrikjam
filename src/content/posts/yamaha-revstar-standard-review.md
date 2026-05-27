@@ -22,7 +22,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2022/03/Untitled-design-1.png"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-1.png"
 featuredImageAlt: "Yamaha Revstar Standard"
 seo: 
   title: "Yamaha Revstar Standard Review: 2 Amazing New Additions!"
@@ -84,7 +84,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-2-1024x683.png" alt="Yamaha Revstar standard" class="wp-image-7355" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-2-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-2-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-2-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-2-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-1024x683.png" alt="Yamaha Revstar standard" class="wp-image-7355" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -106,7 +106,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Untitled-design-3-1024x683.png" alt="Yamaha Revstar Standard" class="wp-image-7356" title="" srcset="/wp-content/uploads/2022/03/Untitled-design-3-1024x683.png 1024w, /wp-content/uploads/2022/03/Untitled-design-3-600x400.png 600w, /wp-content/uploads/2022/03/Untitled-design-3-300x200.png 300w, /wp-content/uploads/2022/03/Untitled-design-3-768x512.png 768w, /wp-content/uploads/2022/03/Untitled-design-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-3-1024x683.png" alt="Yamaha Revstar Standard" class="wp-image-7356" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-3-1024x683.png 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-3-600x400.png 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-3-300x200.png 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-3-768x512.png 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/Untitled-design-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 			
 		
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="704" src="/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-1024x704.webp" alt="Yamaha Revstar Element" class="wp-image-7246" title="" srcset="/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-1024x704.webp 1024w, /wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-600x413.webp 600w, /wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-300x206.webp 300w, /wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-768x528.webp 768w, /wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58.webp 1192w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Yamaha Revstar Standard Body Chambering</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="704" src="https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-1024x704.webp" alt="Yamaha Revstar Element" class="wp-image-7246" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-1024x704.webp 1024w, https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-600x413.webp 600w, https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-300x206.webp 300w, https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58-768x528.webp 768w, https://www.electrikjam.com/wp-content/uploads/2022/03/lineup_revstar_element_feature_01_db37067ad0dadbbdcb20e4ffdb11da58.webp 1192w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Yamaha Revstar Standard Body Chambering</strong></figcaption></figure>
 
 
 

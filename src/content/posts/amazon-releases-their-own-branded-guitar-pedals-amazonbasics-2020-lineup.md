@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/10/Amazon-basics-pedalboard.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-basics-pedalboard.jpg"
 featuredImageAlt: "Amazon basics pedalboard"
 seo: 
   title: "Amazon Guitar Pedals!? Are They Legit? Let's Investigate..."
@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2020/10/Amazon-Basics-1024x768.jpg" alt="" class="wp-image-1178" title="" srcset="/wp-content/uploads/2020/10/Amazon-Basics-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Amazon-Basics-600x450.jpg 600w, /wp-content/uploads/2020/10/Amazon-Basics-300x225.jpg 300w, /wp-content/uploads/2020/10/Amazon-Basics-768x576.jpg 768w, /wp-content/uploads/2020/10/Amazon-Basics.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>AmazonBasics Guitar pedal Lineup</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-Basics-1024x768.jpg" alt="" class="wp-image-1178" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-Basics-1024x768.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-Basics-600x450.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-Basics-300x225.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-Basics-768x576.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-Basics.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>AmazonBasics Guitar pedal Lineup</figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1008" height="1024" src="/wp-content/uploads/2020/10/Best-choice-products-1008x1024.jpg" alt="" class="wp-image-1179" title="" srcset="/wp-content/uploads/2020/10/Best-choice-products-1008x1024.jpg 1008w, /wp-content/uploads/2020/10/Best-choice-products-600x609.jpg 600w, /wp-content/uploads/2020/10/Best-choice-products-295x300.jpg 295w, /wp-content/uploads/2020/10/Best-choice-products-768x780.jpg 768w, /wp-content/uploads/2020/10/Best-choice-products.jpg 1477w" sizes="(max-width: 1008px) 100vw, 1008px" /><figcaption>Best Choice Products Guitar Kit</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1008" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Best-choice-products-1008x1024.jpg" alt="" class="wp-image-1179" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Best-choice-products-1008x1024.jpg 1008w, https://www.electrikjam.com/wp-content/uploads/2020/10/Best-choice-products-600x609.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Best-choice-products-295x300.jpg 295w, https://www.electrikjam.com/wp-content/uploads/2020/10/Best-choice-products-768x780.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Best-choice-products.jpg 1477w" sizes="(max-width: 1008px) 100vw, 1008px" /><figcaption>Best Choice Products Guitar Kit</figcaption></figure>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/Amazon-guitar-pedals-1024x576.jpg" alt="" class="wp-image-1184" title="" srcset="/wp-content/uploads/2020/10/Amazon-guitar-pedals-1024x576.jpg 1024w, /wp-content/uploads/2020/10/Amazon-guitar-pedals-600x338.jpg 600w, /wp-content/uploads/2020/10/Amazon-guitar-pedals-300x169.jpg 300w, /wp-content/uploads/2020/10/Amazon-guitar-pedals-768x432.jpg 768w, /wp-content/uploads/2020/10/Amazon-guitar-pedals.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-guitar-pedals-1024x576.jpg" alt="" class="wp-image-1184" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-guitar-pedals-1024x576.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-guitar-pedals-600x338.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-guitar-pedals-300x169.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-guitar-pedals-768x432.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/10/Amazon-guitar-pedals.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

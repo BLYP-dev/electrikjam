@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2021/09/epiphone-sg-muse.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2021/09/epiphone-sg-muse.jpg"
 featuredImageAlt: "epiphone sg colors"
 seo: 
   title: "Guitar Prices Going Up In 2022: Things Are Looking Rather Inflated?"
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="703" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-3-1024x703.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3943" title=""><figcaption><strong><em>2021</em></strong> <strong>Fender Jaguar</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="703" src="https://www.electrikjam.com/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-3-1024x703.jpg" alt="fender-jaguar-kurt-cobain-4" class="wp-image-3943" title=""><figcaption><strong><em>2021</em></strong> <strong>Fender Jaguar</strong></figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2021/12/Blackstar-HT-40.webp" alt="Blackstar HT 40" class="wp-image-5947" title="" srcset="/wp-content/uploads/2021/12/Blackstar-HT-40.webp 720w, /wp-content/uploads/2021/12/Blackstar-HT-40-300x300.webp 300w, /wp-content/uploads/2021/12/Blackstar-HT-40-100x100.webp 100w, /wp-content/uploads/2021/12/Blackstar-HT-40-600x600.webp 600w, /wp-content/uploads/2021/12/Blackstar-HT-40-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong><em> Amplifiers Are Being Impacted</em></strong> <em><strong>As Well</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="720" height="720" src="https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40.webp" alt="Blackstar HT 40" class="wp-image-5947" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40.webp 720w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40-300x300.webp 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40-100x100.webp 100w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40-600x600.webp 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/Blackstar-HT-40-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><strong><em> Amplifiers Are Being Impacted</em></strong> <em><strong>As Well</strong></em></figcaption></figure>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png" alt="guitar prices going up" class="wp-image-6320" width="840" height="269" title="" srcset="/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png 1024w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-600x192.png 600w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-300x96.png 300w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-768x246.png 768w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1536x492.png 1536w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1080x346.png 1080w, /wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS.png 2000w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><em>I Absolutely Love This Thing</em></strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png" alt="guitar prices going up" class="wp-image-6320" width="840" height="269" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1024x328.png 1024w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-600x192.png 600w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-300x96.png 300w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-768x246.png 768w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1536x492.png 1536w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS-1080x346.png 1080w, https://www.electrikjam.com/wp-content/uploads/2021/12/NICK-JOHNSTON-TRAD-HSS.png 2000w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><em>I Absolutely Love This Thing</em></strong></figcaption></figure>
 
 
 
@@ -238,7 +238,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="536" src="/wp-content/uploads/2020/11/Fender-American-Pro-II--1024x536.jpg" alt="" class="wp-image-1476" title="" srcset="/wp-content/uploads/2020/11/Fender-American-Pro-II--1024x536.jpg 1024w, /wp-content/uploads/2020/11/Fender-American-Pro-II--600x314.jpg 600w, /wp-content/uploads/2020/11/Fender-American-Pro-II--300x157.jpg 300w, /wp-content/uploads/2020/11/Fender-American-Pro-II--768x402.jpg 768w, /wp-content/uploads/2020/11/Fender-American-Pro-II-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="536" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--1024x536.jpg" alt="" class="wp-image-1476" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--1024x536.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--600x314.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--300x157.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II--768x402.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Fender-American-Pro-II-.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 <div id="rank-math-faq" class="rank-math-block">

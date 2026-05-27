@@ -19,7 +19,7 @@ categoryPaths:
 tags: []
 tagSlugs: []
 tagPaths: []
-featuredImage: "/wp-content/uploads/2020/11/alexandre-st-louis-IlfpKwRMln0-unsplash-scaled.jpg"
+featuredImage: "https://www.electrikjam.com/wp-content/uploads/2020/11/alexandre-st-louis-IlfpKwRMln0-unsplash-scaled.jpg"
 featuredImageAlt: "Photo by Alexandre St-Louis on Unsplash"
 seo: 
   title: "How To Hold An Electric Guitar Properly: A Pro&#039;s #1 Tips"
@@ -32,7 +32,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-1024x683.jpg" alt="" class="wp-image-1278" title="" srcset="/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-scaled-600x400.jpg 600w, /wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-300x200.jpg 300w, /wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-768x512.jpg 768w, /wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-1024x683.jpg" alt="" class="wp-image-1278" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-scaled-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/marcos-luiz-photograph-VYKYjGubbh0-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/11/Levy-Guitar-strap-1024x683.jpg" alt="" class="wp-image-1296" title="" srcset="/wp-content/uploads/2020/11/Levy-Guitar-strap-1024x683.jpg 1024w, /wp-content/uploads/2020/11/Levy-Guitar-strap-600x400.jpg 600w, /wp-content/uploads/2020/11/Levy-Guitar-strap-300x200.jpg 300w, /wp-content/uploads/2020/11/Levy-Guitar-strap-768x512.jpg 768w, /wp-content/uploads/2020/11/Levy-Guitar-strap-1536x1024.jpg 1536w, /wp-content/uploads/2020/11/Levy-Guitar-strap.jpg 1900w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://www.electrikjam.com/wp-content/uploads/2020/11/Levy-Guitar-strap-1024x683.jpg" alt="" class="wp-image-1296" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/Levy-Guitar-strap-1024x683.jpg 1024w, https://www.electrikjam.com/wp-content/uploads/2020/11/Levy-Guitar-strap-600x400.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/Levy-Guitar-strap-300x200.jpg 300w, https://www.electrikjam.com/wp-content/uploads/2020/11/Levy-Guitar-strap-768x512.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/Levy-Guitar-strap-1536x1024.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/Levy-Guitar-strap.jpg 1900w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2020/11/IMG_20201112_065428157-768x1024.jpg" alt="" class="wp-image-1300" title="" srcset="/wp-content/uploads/2020/11/IMG_20201112_065428157-768x1024.jpg 768w, /wp-content/uploads/2020/11/IMG_20201112_065428157-scaled-600x800.jpg 600w, /wp-content/uploads/2020/11/IMG_20201112_065428157-225x300.jpg 225w, /wp-content/uploads/2020/11/IMG_20201112_065428157-1152x1536.jpg 1152w, /wp-content/uploads/2020/11/IMG_20201112_065428157-1536x2048.jpg 1536w, /wp-content/uploads/2020/11/IMG_20201112_065428157-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>This is mine, and it&#8217;s seen better days!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_20201112_065428157-768x1024.jpg" alt="" class="wp-image-1300" title="" srcset="https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_20201112_065428157-768x1024.jpg 768w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_20201112_065428157-scaled-600x800.jpg 600w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_20201112_065428157-225x300.jpg 225w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_20201112_065428157-1152x1536.jpg 1152w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_20201112_065428157-1536x2048.jpg 1536w, https://www.electrikjam.com/wp-content/uploads/2020/11/IMG_20201112_065428157-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>This is mine, and it&#8217;s seen better days!</figcaption></figure>
 
 
 
