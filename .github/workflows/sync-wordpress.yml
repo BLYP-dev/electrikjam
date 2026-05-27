@@ -1,4 +1,5 @@
 name: Sync WordPress Content
+# Pushes to this workflow file are allowed to trigger a fresh content sync.
 
 on:
   workflow_dispatch:
