@@ -16,6 +16,12 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      WP_SSH_HOST: ${{ secrets.WP_SSH_HOST }}
+      WP_SSH_PORT: ${{ secrets.WP_SSH_PORT }}
+      WP_SSH_USER: ${{ secrets.WP_SSH_USER }}
+      WP_SSH_PASSWORD: ${{ secrets.WP_SSH_PASSWORD }}
+      WP_PATH: ${{ secrets.WP_PATH }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -32,16 +38,47 @@ jobs:
       - name: Install SSH tooling
         run: sudo apt-get update && sudo apt-get install -y sshpass rsync
 
-      - name: Fetch WordPress export over SSH
-        env:
-          WP_SSH_HOST: ${{ secrets.WP_SSH_HOST }}
-          WP_SSH_PORT: ${{ secrets.WP_SSH_PORT }}
-          WP_SSH_USER: ${{ secrets.WP_SSH_USER }}
-          WP_SSH_PASSWORD: ${{ secrets.WP_SSH_PASSWORD }}
-          WP_PATH: ${{ secrets.WP_PATH }}
+      - name: Validate SSH settings
         run: |
-          sshpass -p "$WP_SSH_PASSWORD" rsync -av -e "ssh -p ${WP_SSH_PORT:-22} -o StrictHostKeyChecking=no" scripts/wp-export.php "$WP_SSH_USER@$WP_SSH_HOST:/tmp/electrikjam-wp-export.php"
-          sshpass -p "$WP_SSH_PASSWORD" ssh -p "${WP_SSH_PORT:-22}" -o StrictHostKeyChecking=no "$WP_SSH_USER@$WP_SSH_HOST" "cd ${WP_PATH:-/www/electrikjam_275/public} && WP_IMPORT_LIMIT=-1 WP_PAGE_IMPORT_LIMIT=-1 wp eval-file /tmp/electrikjam-wp-export.php" > wordpress-export.json
+          test -n "$WP_SSH_HOST" || { echo "Missing WP_SSH_HOST"; exit 1; }
+          test -n "$WP_SSH_PORT" || { echo "Missing WP_SSH_PORT"; exit 1; }
+          test -n "$WP_SSH_USER" || { echo "Missing WP_SSH_USER"; exit 1; }
+          test -n "$WP_SSH_PASSWORD" || { echo "Missing WP_SSH_PASSWORD"; exit 1; }
+          test -n "$WP_PATH" || { echo "Missing WP_PATH"; exit 1; }
+          echo "SSH target: $WP_SSH_USER@$WP_SSH_HOST:$WP_SSH_PORT"
+          echo "WordPress path: $WP_PATH"
+
+      - name: Test SSH connection
+        run: |
+          sshpass -p "$WP_SSH_PASSWORD" ssh \
+            -p "$WP_SSH_PORT" \
+            -o StrictHostKeyChecking=no \
+            -o UserKnownHostsFile=/dev/null \
+            -o PreferredAuthentications=password \
+            -o PubkeyAuthentication=no \
+            -o ConnectTimeout=20 \
+            "$WP_SSH_USER@$WP_SSH_HOST" \
+            "cd '$WP_PATH' && pwd && wp option get home"
+
+      - name: Upload WordPress export script
+        run: |
+          sshpass -p "$WP_SSH_PASSWORD" rsync -av \
+            -e "ssh -p $WP_SSH_PORT -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o PreferredAuthentications=password -o PubkeyAuthentication=no" \
+            scripts/wp-export.php \
+            "$WP_SSH_USER@$WP_SSH_HOST:/tmp/electrikjam-wp-export.php"
+
+      - name: Fetch WordPress export over SSH
+        run: |
+          sshpass -p "$WP_SSH_PASSWORD" ssh \
+            -p "$WP_SSH_PORT" \
+            -o StrictHostKeyChecking=no \
+            -o UserKnownHostsFile=/dev/null \
+            -o PreferredAuthentications=password \
+            -o PubkeyAuthentication=no \
+            -o ConnectTimeout=20 \
+            "$WP_SSH_USER@$WP_SSH_HOST" \
+            "cd '$WP_PATH' && WP_IMPORT_LIMIT=-1 WP_PAGE_IMPORT_LIMIT=-1 wp eval-file /tmp/electrikjam-wp-export.php" > wordpress-export.json
+          node -e "const fs=require('fs'); const data=JSON.parse(fs.readFileSync('wordpress-export.json','utf8')); console.log({posts:data.posts.length,pages:data.pages.length,categories:data.categories.length,tags:data.tags.length});"
 
       - name: Import WordPress export
         env:
