@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>Some people think that I hate Fender, because I often complain about them. But this is because I have always wanted to <em>love</em> Fender guitars, and <strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236015">I <em>do</em> love Telecasters (Who doesn&#8217;t?). </a></strong></p>
+<p>Some people think that I hate Fender, because I often complain about them. But this is because I have always wanted to <em>love</em> Fender guitars, and <strong><a href="/telecaster-vs-jazzmaster/" data-lasso-id="236015">I <em>do</em> love Telecasters (Who doesn&#8217;t?). </a></strong></p>
 
 
 
@@ -60,11 +60,11 @@ seo:
 
 
 
-<p>Luckily, I found a compromise with my beloved <a data-lasso-id="101257" href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"><strong>NJ Traditional</strong></a>. But Fender has been taking some chances lately, and the Fender Meteora sounds <em>exactly</em> like something I would love.</p>
+<p>Luckily, I found a compromise with my beloved <a data-lasso-id="101257" href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"><strong>NJ Traditional</strong></a>. But Fender has been taking some chances lately, and the Fender Meteora sounds <em>exactly</em> like something I would love.</p>
 
 
 
-<p>We recently went over <a href="https://www.electrikjam.com/fender-price-tiers-explained/" data-lasso-id="213183"><strong>the complicated restructure of Fender</strong></a>, and how the different models are ranked by price. After checking out all of them with our Fender Affiliate rep, I found that the Player Plus line was probably one of the<strong> best values</strong> that Fender currently offers. </p>
+<p>We recently went over <a href="/fender-price-tiers-explained/" data-lasso-id="213183"><strong>the complicated restructure of Fender</strong></a>, and how the different models are ranked by price. After checking out all of them with our Fender Affiliate rep, I found that the Player Plus line was probably one of the<strong> best values</strong> that Fender currently offers. </p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>The Fender Meteora <em>seems</em> like it has the same appeal. It has a retro-futuristic design that looks like something out of a 50&#8217;s Science Fiction comic. But unlike my Squier before, the Meteora is a much more <a data-lasso-id="174807" href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/">expensive guitar</a>. </p>
+<p>The Fender Meteora <em>seems</em> like it has the same appeal. It has a retro-futuristic design that looks like something out of a 50&#8217;s Science Fiction comic. But unlike my Squier before, the Meteora is a much more <a data-lasso-id="174807" href="/expensive-guitar-strings-reviewed-worth-it/">expensive guitar</a>. </p>
 
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<p>Since we had both the Pau Ferro, and Maple fretboard models it was cool to see the difference between the two. The Maple versions have a slight gloss to them, but not like a <a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="101260"><strong>Squier</strong></a>, where it will blind you when light hits it. The Pau Ferro would be more of my style, and the sample model had a lighter tint than usual. It almost looked like Roasted Maple from a distance, but the pearl inlays really pop on both versions. I dig the throwback &#8220;windy&#8221; Fender logo on the headstock.</p>
+<p>Since we had both the Pau Ferro, and Maple fretboard models it was cool to see the difference between the two. The Maple versions have a slight gloss to them, but not like a <a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="101260"><strong>Squier</strong></a>, where it will blind you when light hits it. The Pau Ferro would be more of my style, and the sample model had a lighter tint than usual. It almost looked like Roasted Maple from a distance, but the pearl inlays really pop on both versions. I dig the throwback &#8220;windy&#8221; Fender logo on the headstock.</p>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<p>If you check out the picture above, I think you can see what I mean by the Pau Ferro looking more like Roasted Maple (It&#8217;s rather light). Like usual, when testing out guitars I like to use two <em>totally </em>different amps, and today I used a<a data-lasso-id="101261" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center" href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener"><strong> Blackstar HT40</strong></a>, and the trusty <a data-lasso-id="101262" data-lasso-name="BOSS Katana 100 MKII" href="https://www.electrikjam.com/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener"><strong>BOSS Katana 100 </strong></a>that I brought from my home studio. </p>
+<p>If you check out the picture above, I think you can see what I mean by the Pau Ferro looking more like Roasted Maple (It&#8217;s rather light). Like usual, when testing out guitars I like to use two <em>totally </em>different amps, and today I used a<a data-lasso-id="101261" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center" href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener"><strong> Blackstar HT40</strong></a>, and the trusty <a data-lasso-id="101262" data-lasso-name="BOSS Katana 100 MKII" href="/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener"><strong>BOSS Katana 100 </strong></a>that I brought from my home studio. </p>
 
 
 
@@ -266,7 +266,7 @@ seo:
 
 
 
-<p>Straight out of the box, both <a href="https://www.electrikjam.com/epiphone-power-players-guitar-review/" data-lasso-id="156642">guitars are setup</a> &#8220;ok&#8221;. This is really what I expect from a MIM Fender, they usually need a little work right out of the box. So we tweaked a few things on both, and got them ready to play. Really, the only visible problem was the action. The high strings also needed to be<strong> <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="101270">intonated</a></strong> since they were both off by a few cents and it was definitely noticeable higher up the neck. After tuning up, and stretching the strings, the whole ordeal really only took about 10 minutes. No big deal, like I said&#8230;its expected.</p>
+<p>Straight out of the box, both <a href="/epiphone-power-players-guitar-review/" data-lasso-id="156642">guitars are setup</a> &#8220;ok&#8221;. This is really what I expect from a MIM Fender, they usually need a little work right out of the box. So we tweaked a few things on both, and got them ready to play. Really, the only visible problem was the action. The high strings also needed to be<strong> <a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="101270">intonated</a></strong> since they were both off by a few cents and it was definitely noticeable higher up the neck. After tuning up, and stretching the strings, the whole ordeal really only took about 10 minutes. No big deal, like I said&#8230;its expected.</p>
 
 
 
@@ -290,11 +290,11 @@ seo:
 
 
 
-<p>The bridge humbucker was also incredibly &#8220;pokey&#8221; and has <a href="https://www.electrikjam.com/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145651">an almost P90 quality to it</a>. The Fender Meteora certainly won&#8217;t have any problems cutting through a live mix. On clean tones, this pickup would be <em>perfect</em> for country music, but the disappointment hit when I tried it with high gain. This is definitely not a &#8220;metal&#8221; guitar, and the pickups are just entirely too bright to get a decent chug going. That being said, it sounds great with crunch tones. I was surprised at how low output both of these Fireball pickups are, because they certainly didn&#8217;t push the overdrive very hard at all.</p>
+<p>The bridge humbucker was also incredibly &#8220;pokey&#8221; and has <a href="/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145651">an almost P90 quality to it</a>. The Fender Meteora certainly won&#8217;t have any problems cutting through a live mix. On clean tones, this pickup would be <em>perfect</em> for country music, but the disappointment hit when I tried it with high gain. This is definitely not a &#8220;metal&#8221; guitar, and the pickups are just entirely too bright to get a decent chug going. That being said, it sounds great with crunch tones. I was surprised at how low output both of these Fireball pickups are, because they certainly didn&#8217;t push the overdrive very hard at all.</p>
 
 
 
-<p>The S1 knob puts us in single coil mode, and it does so without a lot of volume loss. This is usually my main complaint when it comes to coil splits, but again, there is some magic going on with the wiring that I wish I could see! The neck pickup in single coil mode almost does that <a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-lasso-id="106929">signature Fender sound</a>, but it is just a little too thin. The bridge in single coil mode is a little harsh, but again, you can just roll off the tone knob. Both pickups in single mode would be great for blues or country, with the neck being a fatter sound and the bridge could easily substitute a Telecaster tone.</p>
+<p>The S1 knob puts us in single coil mode, and it does so without a lot of volume loss. This is usually my main complaint when it comes to coil splits, but again, there is some magic going on with the wiring that I wish I could see! The neck pickup in single coil mode almost does that <a href="/kurt-cobain-pickups/" data-lasso-id="106929">signature Fender sound</a>, but it is just a little too thin. The bridge in single coil mode is a little harsh, but again, you can just roll off the tone knob. Both pickups in single mode would be great for blues or country, with the neck being a fatter sound and the bridge could easily substitute a Telecaster tone.</p>
 
 
 

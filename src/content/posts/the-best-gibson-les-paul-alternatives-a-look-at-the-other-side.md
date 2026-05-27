@@ -38,7 +38,7 @@ seo:
 
 
 
-<p id="htoc-boss-katana-amps-are-utterly-brilliant-for-beginners-intermediates-or-pros-they-re-the-perfect-platform-for-capturing-composing-and-creating-with-here-s-our-picks-for-the-top-options-for-wherever-you-are-on-your-guitar-journey"><strong><a class="rank-math-link" data-lasso-id="827" href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/">The Gibson Les Paul is an Iconic Guitar.</a> But what about The Best Gibson Les Paul Alternatives? There is quite a few to choose from, and they vary in price and quality. Let&#8217;s dive in, and take a look.</strong></p>
+<p id="htoc-boss-katana-amps-are-utterly-brilliant-for-beginners-intermediates-or-pros-they-re-the-perfect-platform-for-capturing-composing-and-creating-with-here-s-our-picks-for-the-top-options-for-wherever-you-are-on-your-guitar-journey"><strong><a class="rank-math-link" data-lasso-id="827" href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/">The Gibson Les Paul is an Iconic Guitar.</a> But what about The Best Gibson Les Paul Alternatives? There is quite a few to choose from, and they vary in price and quality. Let&#8217;s dive in, and take a look.</strong></p>
 </div>
 </div>
 
@@ -57,7 +57,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/professional/" rel="tag">Professional</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/professional/" rel="tag">Professional</a></div></div>
 </div>
 
 
@@ -90,7 +90,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/beginner/" rel="tag">Beginner</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/beginner/" rel="tag">Beginner</a></div></div>
 </div>
 
 
@@ -123,7 +123,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/beginner/" rel="tag">Beginner</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/beginner/" rel="tag">Beginner</a></div></div>
 </div>
 
 
@@ -156,7 +156,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/beginner/" rel="tag">Beginner</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/beginner/" rel="tag">Beginner</a></div></div>
 </div>
 
 
@@ -189,7 +189,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/beginner/" rel="tag">Beginner</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/beginner/" rel="tag">Beginner</a></div></div>
 </div>
 
 
@@ -222,7 +222,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid-Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 </div>
 
 
@@ -255,7 +255,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid-Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/professional/" rel="tag">Professional</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/professional/" rel="tag">Professional</a></div></div>
 </div>
 
 
@@ -288,7 +288,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid-Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 </div>
 
 
@@ -321,7 +321,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid-Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 </div>
 
 
@@ -354,7 +354,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid-Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 </div>
 
 
@@ -387,7 +387,7 @@ seo:
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"><p style="font-style:normal;font-weight:700;" class="field-what_type_of_guitar_is_it wp-block-acf-field-blocks-acf-text has-x-small-font-size"><span class="prefix">Type: </span><span class="value">Solid-Body</span></p>
 
-<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:700" class="taxonomy-price-tier wp-block-post-terms has-x-small-font-size"><span class="wp-block-post-terms__prefix">Best For: </span><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 </div>
 
 
@@ -422,11 +422,11 @@ seo:
 
 
 
-<p>That&#8217;s a pretty tough call, actually. <strong><a href="https://www.electrikjam.com/gibson-vs-epiphone-2021-which-is-best/" class="rank-math-link" data-lasso-id="828">Why not just buy a Gibson?</a></strong> For Some people, the logical answer to getting the classic Les Paul tone and features is&#8230; just buy a Gibson. </p>
+<p>That&#8217;s a pretty tough call, actually. <strong><a href="/gibson-vs-epiphone-2021-which-is-best/" class="rank-math-link" data-lasso-id="828">Why not just buy a Gibson?</a></strong> For Some people, the logical answer to getting the classic Les Paul tone and features is&#8230; just buy a Gibson. </p>
 
 
 
-<p>In Fact, Gibson recently made a case against having <strong><a class="rank-math-link" data-lasso-id="829" href="https://www.electrikjam.com/best-epiphone-les-paul-models/">a Les Paul-style guitar</a></strong> made by another brand. The &#8220;Play Authentic&#8221; campaign was created to deter you completely from the best Gibson Les Paul alternatives.</p>
+<p>In Fact, Gibson recently made a case against having <strong><a class="rank-math-link" data-lasso-id="829" href="/best-epiphone-les-paul-models/">a Les Paul-style guitar</a></strong> made by another brand. The &#8220;Play Authentic&#8221; campaign was created to deter you completely from the best Gibson Les Paul alternatives.</p>
 
 
 
@@ -434,15 +434,15 @@ seo:
 
 
 
-<p>The #1 cause for this was <strong><a class="rank-math-link" data-lasso-id="830" href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/">Epiphone players</a></strong>, that felt the campaign was targeting them.</p>
+<p>The #1 cause for this was <strong><a class="rank-math-link" data-lasso-id="830" href="/epiphone-prophecy-2020-price-release-date-specs/">Epiphone players</a></strong>, that felt the campaign was targeting them.</p>
 
 
 
-<p><strong>Related: <a class="rank-math-link" href="https://www.electrikjam.com/what-are-chibson-guitars/" data-lasso-id="831">Heard The One About Chibson? It&#8217;s The Chinese Gibson..</a>.</strong></p>
+<p><strong>Related: <a class="rank-math-link" href="/what-are-chibson-guitars/" data-lasso-id="831">Heard The One About Chibson? It&#8217;s The Chinese Gibson..</a>.</strong></p>
 
 
 
-<p>Epiphone is an offshoot of <strong><a data-lasso-id="1943" href="https://www.electrikjam.com/gibson-guitars/">Gibson</a></strong>, but the way the campaign was worded, it was Gibson or nothing. Gibson went on to make some frivolous lawsuits against smaller companies that made the familiar <a data-lasso-id="832" href="https://www.electrikjam.com/types-of-guitars-guide/">&#8220;Single Cut&#8221; design</a>.</p>
+<p>Epiphone is an offshoot of <strong><a data-lasso-id="1943" href="/gibson-guitars/">Gibson</a></strong>, but the way the campaign was worded, it was Gibson or nothing. Gibson went on to make some frivolous lawsuits against smaller companies that made the familiar <a data-lasso-id="832" href="/types-of-guitars-guide/">&#8220;Single Cut&#8221; design</a>.</p>
 
 
 
@@ -454,7 +454,7 @@ seo:
 
 
 
-<p>But your money may be better spent elsewhere! And <strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="833">Epiphone does killer Les Paul and SG guitars. </a></strong></p>
+<p>But your money may be better spent elsewhere! And <strong><a class="rank-math-link" href="/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="833">Epiphone does killer Les Paul and SG guitars. </a></strong></p>
 
 
 
@@ -462,7 +462,7 @@ seo:
 
 
 
-<p>But we like to <a href="https://www.electrikjam.com/essential-electric-guitar-gear-everyone-should-own-a-beginners-guide/" class="rank-math-link" data-lasso-id="834">help out the beginner guitarist here.</a> And sometimes just because something has a huge price tag, does not mean it&#8217;s the best you can buy for YOU.</p>
+<p>But we like to <a href="/essential-electric-guitar-gear-everyone-should-own-a-beginners-guide/" class="rank-math-link" data-lasso-id="834">help out the beginner guitarist here.</a> And sometimes just because something has a huge price tag, does not mean it&#8217;s the best you can buy for YOU.</p>
 
 
 
@@ -516,15 +516,15 @@ seo:
 
 
 
-<p>Gibson has not changed <strong><a href="https://www.electrikjam.com/what-kind-of-pickups-are-in-a-les-paul-epiphone/" class="rank-math-link" data-lasso-id="835">the Les Paul design</a></strong> in years. Many purists want classic specs and features. For the rest of us, maybe we want a more &#8220;modern&#8221; design. We will take a look at all of this and more.</p>
+<p>Gibson has not changed <strong><a href="/what-kind-of-pickups-are-in-a-les-paul-epiphone/" class="rank-math-link" data-lasso-id="835">the Les Paul design</a></strong> in years. Many purists want classic specs and features. For the rest of us, maybe we want a more &#8220;modern&#8221; design. We will take a look at all of this and more.</p>
 
 
 
-<p>And because of the design of the Les Paul, and its shape, if you get one <strong><a class="rank-math-link" href="https://www.electrikjam.com/best-cases-for-epiphone-les-paul/" data-lasso-id="836">you&#8217;ll need to get a specific style of case designed for that particular cut. </a></strong></p>
+<p>And because of the design of the Les Paul, and its shape, if you get one <strong><a class="rank-math-link" href="/best-cases-for-epiphone-les-paul/" data-lasso-id="836">you&#8217;ll need to get a specific style of case designed for that particular cut. </a></strong></p>
 
 
 
-<p>I wanted all of the options on the list to be <em><strong>affordable</strong></em>. The main <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237994">reason someone does not buy a Gibson</a> is that they are expensive. So we will be avoiding anything over the<strong> $1500 price point</strong>. These are also in no particular order, as I couldn&#8217;t decide on a favorite.</p>
+<p>I wanted all of the options on the list to be <em><strong>affordable</strong></em>. The main <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237994">reason someone does not buy a Gibson</a> is that they are expensive. So we will be avoiding anything over the<strong> $1500 price point</strong>. These are also in no particular order, as I couldn&#8217;t decide on a favorite.</p>
 
 
 
@@ -540,7 +540,7 @@ seo:
 
 
 
-<p>The Schecter Solo II series is one of the best Gibson Les Paul alternatives on the market. The reviews speak for themselves, as well as the many players that have used the <strong><a href="https://www.electrikjam.com/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="837">Schecter</a></strong> to replace their Gibson. When it comes to features, it has everything that a Gibson Les Paul has, but actually a little better!</p>
+<p>The Schecter Solo II series is one of the best Gibson Les Paul alternatives on the market. The reviews speak for themselves, as well as the many players that have used the <strong><a href="/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="837">Schecter</a></strong> to replace their Gibson. When it comes to features, it has everything that a Gibson Les Paul has, but actually a little better!</p>
 
 
 
@@ -602,11 +602,11 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206356">Schecter Solo II has been said to be the guitar</a> Gibson wishes it could make, by many reviewers.  The Solo II has many features that Gibson does not even consider. Like the compound radius neck, that makes it <a data-lasso-id="838" href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/">easier to solo up high, and easier to form chords down low</a>.</p>
+<p>The <a href="/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206356">Schecter Solo II has been said to be the guitar</a> Gibson wishes it could make, by many reviewers.  The Solo II has many features that Gibson does not even consider. Like the compound radius neck, that makes it <a data-lasso-id="838" href="/chord-voicing-extensions-for-metal/">easier to solo up high, and easier to form chords down low</a>.</p>
 
 
 
-<p>The Solo II series comes in several finish options, and several feature sets. They even make one with a <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167824">Floyd Rose</a> and 24 frets! It&#8217;s totally up to you when it comes to personal style and features, so take your pick!</p>
+<p>The Solo II series comes in several finish options, and several feature sets. They even make one with a <a href="/floyd-rose-bridge-explained/" data-lasso-id="167824">Floyd Rose</a> and 24 frets! It&#8217;s totally up to you when it comes to personal style and features, so take your pick!</p>
 
 
 
@@ -618,7 +618,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" data-lasso-id="841" href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/">ESP/LTD</a></strong> really rose to fame in the &#8217;80s by signing on many famous metal guitarists, like Metallica, Sepultura, and Megadeth. While they mainly focus fire on the metal community, ESP/LTD also make some more classic designs, just with modern features.</p>
+<p><strong><a class="rank-math-link" data-lasso-id="841" href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/">ESP/LTD</a></strong> really rose to fame in the &#8217;80s by signing on many famous metal guitarists, like Metallica, Sepultura, and Megadeth. While they mainly focus fire on the metal community, ESP/LTD also make some more classic designs, just with modern features.</p>
 
 
 
@@ -638,15 +638,15 @@ seo:
 
 
 
-<p>Not only does <strong><a href="https://www.electrikjam.com/prs-2021-lineup-some-absolutely-lovely-additions/" class="rank-math-link" data-lasso-id="845">PRS make some of the best guitars on the planet</a></strong>, they also make one of the best Gibson Les Paul alternatives in the business. The <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44668">PRS SE Standard comes in at under $500</a> and has all the features you could want in a Les Paul, without the hefty price tag.</p>
+<p>Not only does <strong><a href="/prs-2021-lineup-some-absolutely-lovely-additions/" class="rank-math-link" data-lasso-id="845">PRS make some of the best guitars on the planet</a></strong>, they also make one of the best Gibson Les Paul alternatives in the business. The <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44668">PRS SE Standard comes in at under $500</a> and has all the features you could want in a Les Paul, without the hefty price tag.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251745">PRS is very proud of the SE lineup</a>, which started as a simple affordable option to the USA counterparts. But these days, the PRS SE line has taken over not only the <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14312">budget guitar</a> market but the professional market as well. <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8788">Paul Reed Smith often talks of the quality</a> of the SE Line, and how he sees them in big-name studios all the time.</p>
+<p><a href="/prs-se-series-guitars-guide/" data-lasso-id="251745">PRS is very proud of the SE lineup</a>, which started as a simple affordable option to the USA counterparts. But these days, the PRS SE line has taken over not only the <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14312">budget guitar</a> market but the professional market as well. <a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8788">Paul Reed Smith often talks of the quality</a> of the SE Line, and how he sees them in big-name studios all the time.</p>
 
 
 
-<p>Personally, I agree with him. I have seen some pretty big-name artists playing the SE Series guitars.  They are great guitars right out of the box, but they become whole new beasts <strong><a class="rank-math-link" data-lasso-id="846" href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/">when you upgrade the pickups</a></strong>. This is by far one of the best Gibson Les Paul alternatives on the market and if you have never tried one before, then now is the time!</p>
+<p>Personally, I agree with him. I have seen some pretty big-name artists playing the SE Series guitars.  They are great guitars right out of the box, but they become whole new beasts <strong><a class="rank-math-link" data-lasso-id="846" href="/humbuckers-vs-single-coil-pickups/">when you upgrade the pickups</a></strong>. This is by far one of the best Gibson Les Paul alternatives on the market and if you have never tried one before, then now is the time!</p>
 
 
 
@@ -692,7 +692,7 @@ seo:
 
 
 
-<p>The Jackson Monarkh is the best Gibson Les Paul alternative out there for shredders and metal players. Even <strong>Marty Friedman </strong>started playing one regularly a few years ago! To my knowledge, this is the first attempt <strong><a class="rank-math-link" data-lasso-id="849" href="https://www.electrikjam.com/jackson-2021-artist-models-new-old-and-unexpected/">Jackson</a></strong> has ever made in the &#8220;single cut&#8221; guitar market, and the base model starts at around $200.</p>
+<p>The Jackson Monarkh is the best Gibson Les Paul alternative out there for shredders and metal players. Even <strong>Marty Friedman </strong>started playing one regularly a few years ago! To my knowledge, this is the first attempt <strong><a class="rank-math-link" data-lasso-id="849" href="/jackson-2021-artist-models-new-old-and-unexpected/">Jackson</a></strong> has ever made in the &#8220;single cut&#8221; guitar market, and the base model starts at around $200.</p>
 
 
 
@@ -708,7 +708,7 @@ seo:
 
 
 
-<p>Wait&#8230;the best Gibson Les Paul alternative is&#8230;another Les Paul? Well, yes, actually! Epiphone has come into its own as a company over the past year, completely <strong><a class="rank-math-link" data-lasso-id="852" href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/">redesigning their Les Paul lineup</a></strong> to be closer to historical specs. We did coverage all of last year, and we were very impressed!</p>
+<p>Wait&#8230;the best Gibson Les Paul alternative is&#8230;another Les Paul? Well, yes, actually! Epiphone has come into its own as a company over the past year, completely <strong><a class="rank-math-link" data-lasso-id="852" href="/new-for-2020-epiphone-59-les-paul/">redesigning their Les Paul lineup</a></strong> to be closer to historical specs. We did coverage all of last year, and we were very impressed!</p>
 
 
 
@@ -724,11 +724,11 @@ seo:
 
 
 
-<p>So that&#8217;s our best <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44930">Gibson Les Paul</a> alternatives, and I think there is something for everyone here! No matter what your style is, there is a guitar out there for you.</p>
+<p>So that&#8217;s our best <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44930">Gibson Les Paul</a> alternatives, and I think there is something for everyone here! No matter what your style is, there is a guitar out there for you.</p>
 
 
 
-<p>Also, <strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-lasso-id="858">don&#8217;t forget Epiphone&#8217;s amazing line of SG guitars</a></strong> which are not only lighter than a Les Paul but equally just as good for rock and metal. </p>
+<p>Also, <strong><a class="rank-math-link" href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-lasso-id="858">don&#8217;t forget Epiphone&#8217;s amazing line of SG guitars</a></strong> which are not only lighter than a Les Paul but equally just as good for rock and metal. </p>
 
 
 

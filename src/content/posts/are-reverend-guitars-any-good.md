@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Reverend is a small company that started in Detroit. The company was founded by Joe Naylor, who is a <a href="https://www.electrikjam.com/epiphone-power-players-guitar-review/" data-lasso-id="156638">guitar player</a> and amp modder himself. He wanted something different, and in some cases he wanted a<a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" target="_blank" data-type="post" data-id="5415" rel="noopener" data-lasso-id="16610"><strong> &#8220;do it all&#8221;</strong></a> guitar. He had modded instruments before, but ended up making his own brand in 1997.</p>
+<p>Reverend is a small company that started in Detroit. The company was founded by Joe Naylor, who is a <a href="/epiphone-power-players-guitar-review/" data-lasso-id="156638">guitar player</a> and amp modder himself. He wanted something different, and in some cases he wanted a<a href="/does-the-do-it-all-guitar-exist/" target="_blank" data-type="post" data-id="5415" rel="noopener" data-lasso-id="16610"><strong> &#8220;do it all&#8221;</strong></a> guitar. He had modded instruments before, but ended up making his own brand in 1997.</p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>Selling online-only worked for the company for quite a while, and it expanded the line to have some budget models made in South Korea. Which if you are familiar with<a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" target="_blank" data-type="post" data-id="5301" rel="noopener" data-lasso-id="16611"> <strong>Schecter</strong></a>, or<a href="https://LTD" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="16612"><strong> </strong></a><a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" target="_blank" data-type="post" data-id="5321" rel="noopener" data-lasso-id="16613"><strong>LTD</strong>,</a> you know the quality that comes out of these Korean factories. But Naylor sold the company (while still remaining creative director) and now all they offer is the Korean models. <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35979">Every guitar</a> still gets the royal treatment before shipped out, though. Fully setup and ready to play.</p>
+<p>Selling online-only worked for the company for quite a while, and it expanded the line to have some budget models made in South Korea. Which if you are familiar with<a href="/schecter-demon-6-worth-it-specs-price/" target="_blank" data-type="post" data-id="5301" rel="noopener" data-lasso-id="16611"> <strong>Schecter</strong></a>, or<a href="https://LTD" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="16612"><strong> </strong></a><a href="/the-best-signature-guitars-in-2021/" target="_blank" data-type="post" data-id="5321" rel="noopener" data-lasso-id="16613"><strong>LTD</strong>,</a> you know the quality that comes out of these Korean factories. But Naylor sold the company (while still remaining creative director) and now all they offer is the Korean models. <a href="/the-best-guitars-of-2021/" data-lasso-id="35979">Every guitar</a> still gets the royal treatment before shipped out, though. Fully setup and ready to play.</p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p>If we are going to do a <a href="https://www.electrikjam.com/are-indio-guitars-legit/" data-lasso-id="19076">deep dive into &#8220;are Reverend Guitars</a> any good&#8221;, then we need to start with my favorite model, the <strong>Sensei</strong>. The Reverend Sensei just looks like a mean as Hell guitar. It has roots in a lot of other guitar shapes, like the <a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" target="_blank" data-type="post" data-id="2416" rel="noopener" data-lasso-id="16614"><strong>SG</strong></a> or maybe the Guild solid body. But in features, it is in a league of it&#8217;s own.</p>
+<p>If we are going to do a <a href="/are-indio-guitars-legit/" data-lasso-id="19076">deep dive into &#8220;are Reverend Guitars</a> any good&#8221;, then we need to start with my favorite model, the <strong>Sensei</strong>. The Reverend Sensei just looks like a mean as Hell guitar. It has roots in a lot of other guitar shapes, like the <a href="/epiphone-sg-vs-epiphone-les-paul/" target="_blank" data-type="post" data-id="2416" rel="noopener" data-lasso-id="16614"><strong>SG</strong></a> or maybe the Guild solid body. But in features, it is in a league of it&#8217;s own.</p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>Are Reverend Guitars any good? Well, the Double Agent is the one that first caught my eye, and made me want to write this article. This is the best of both worlds when it comes to having a versatile guitar. The Double Agent is meant to have the superpower of a humbucker in the bridge, and a <a href="https://www.electrikjam.com/what-are-p90-pickups-good-for-lets-find-out/" data-lasso-id="24905">subtle P90 in the neck</a>. This gives you hammering metal tones, and light blues tones all in one guitar.</p>
+<p>Are Reverend Guitars any good? Well, the Double Agent is the one that first caught my eye, and made me want to write this article. This is the best of both worlds when it comes to having a versatile guitar. The Double Agent is meant to have the superpower of a humbucker in the bridge, and a <a href="/what-are-p90-pickups-good-for-lets-find-out/" data-lasso-id="24905">subtle P90 in the neck</a>. This gives you hammering metal tones, and light blues tones all in one guitar.</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>The Double Agent is a really interesting concept. Being able to switch between high gain tones with the bridge humbucker, to grimey blues with the neck pickup opens up a lot of doors for creativity. I could see this being the ultimate <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" target="_blank" data-type="post" data-id="1408" rel="noopener" data-lasso-id="16615"><strong>Doom Metal</strong></a> guitar, since it gets so many different tones out of the two pickup setup. The pickups are also balanced, so the neck is not quieter than the bridge.</p>
+<p>The Double Agent is a really interesting concept. Being able to switch between high gain tones with the bridge humbucker, to grimey blues with the neck pickup opens up a lot of doors for creativity. I could see this being the ultimate <a href="/the-5-best-amps-for-doom-metal-in-2020/" target="_blank" data-type="post" data-id="1408" rel="noopener" data-lasso-id="16615"><strong>Doom Metal</strong></a> guitar, since it gets so many different tones out of the two pickup setup. The pickups are also balanced, so the neck is not quieter than the bridge.</p>
 
 
 
@@ -156,11 +156,11 @@ seo:
 
 
 
-<p>Most reverend guitars are bolt-on necks construction, much like a <a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="16626">Fender</a>. The Roundhouse is a set neck design, instead. They also generally have a flat top, while the Roundhouse has a more refined, carved top body. There is a lot to love here with the newer Roundhouse models. The important part, is that these guitars still have the classic Reverend touch to the electronics.</p>
+<p>Most reverend guitars are bolt-on necks construction, much like a <a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="16626">Fender</a>. The Roundhouse is a set neck design, instead. They also generally have a flat top, while the Roundhouse has a more refined, carved top body. There is a lot to love here with the newer Roundhouse models. The important part, is that these guitars still have the classic Reverend touch to the electronics.</p>
 
 
 
-<p>The bass contour knob is once again the star of the show with the Roundhouse models. With the Reverend custom humbuckers, the bass contour knob can easily make the pickups sound like a single coil, <a href="https://www.electrikjam.com/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145649">P90</a>, or a full on Metal tone. The choice is really up to you, how you use it. There are hundreds of ways you can utilize this feature.</p>
+<p>The bass contour knob is once again the star of the show with the Roundhouse models. With the Reverend custom humbuckers, the bass contour knob can easily make the pickups sound like a single coil, <a href="/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145649">P90</a>, or a full on Metal tone. The choice is really up to you, how you use it. There are hundreds of ways you can utilize this feature.</p>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p>When we ask &#8220;are Reverend Guitars any good?&#8221; we mean the actual quality of the instrument, right? Look, these guitars are made in the best factory in South Korea, <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44680">just like Schecter</a> and countless over companies. The quality is definitely there, but so is the <em>innovation</em>. I like that all Reverend guitars come with the Bass Contour Knob feature. This is something that you do not see with any other company.</p>
+<p>When we ask &#8220;are Reverend Guitars any good?&#8221; we mean the actual quality of the instrument, right? Look, these guitars are made in the best factory in South Korea, <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44680">just like Schecter</a> and countless over companies. The quality is definitely there, but so is the <em>innovation</em>. I like that all Reverend guitars come with the Bass Contour Knob feature. This is something that you do not see with any other company.</p>
 
 
 

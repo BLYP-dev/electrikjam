@@ -84,7 +84,7 @@ seo:
 
 
 
-<p>I say <strong>“can”</strong> because once you understand a few basics things, switching from <strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="251931">EADGBE</a></strong> to <strong>BEADGBE</strong> is actually really simple. </p>
+<p>I say <strong>“can”</strong> because once you understand a few basics things, switching from <strong><a href="/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="251931">EADGBE</a></strong> to <strong>BEADGBE</strong> is actually really simple. </p>
 
 
 
@@ -394,11 +394,11 @@ seo:
 
 
 
-<p>And Dillinger ain&#8217;t alone, either. <strong><a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-type="post" data-id="8536" data-lasso-id="251932">Plenty of metal bands play in Standard Tuning</a></strong> and they all sound properly heavy. Think early OPETH, Metallica, and Black Sabbath. </p>
+<p>And Dillinger ain&#8217;t alone, either. <strong><a href="/10-metal-bands-that-play-in-standard-tuning/" data-type="post" data-id="8536" data-lasso-id="251932">Plenty of metal bands play in Standard Tuning</a></strong> and they all sound properly heavy. Think early OPETH, Metallica, and Black Sabbath. </p>
 
 
 
-<p>Still on the fence? Check out our <strong><a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251933">beginner&#8217;s guide to 7-string guitars</a></strong> – it covers the history and evolution of 7-string guitars and covers off all the key things you need to know before you buy one. </p>
+<p>Still on the fence? Check out our <strong><a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251933">beginner&#8217;s guide to 7-string guitars</a></strong> – it covers the history and evolution of 7-string guitars and covers off all the key things you need to know before you buy one. </p>
 
 
 
@@ -412,19 +412,19 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="251934">Schecter Sunset Triad Review: Unique 6 &amp; 7 String Behemoths!</a></strong></li>
+<li><strong><a href="/schecter-sunset-triad-review/" data-lasso-id="251934">Schecter Sunset Triad Review: Unique 6 &amp; 7 String Behemoths!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-lasso-id="251935">Schecter Omen Elite 2022 Review: Revamped 6,7 and 8 Strings Ready To Shred!</a></strong></li>
+<li><strong><a href="/schecter-omen-elite-2022-review/" data-lasso-id="251935">Schecter Omen Elite 2022 Review: Revamped 6,7 and 8 Strings Ready To Shred!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-lasso-id="251936">Epiphone Matt Heafy Origins Review: Incredible 6 And 7 String BEASTS!</a></strong></li>
+<li><strong><a href="/epiphone-matt-heafy-origins-review/" data-lasso-id="251936">Epiphone Matt Heafy Origins Review: Incredible 6 And 7 String BEASTS!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="251937">Schecter Demon 7 Review: The BEST 7 String Guitar Under $500?</a></strong></li>
+<li><strong><a href="/schecter-demon-7-review/" data-lasso-id="251937">Schecter Demon 7 Review: The BEST 7 String Guitar Under $500?</a></strong></li>
 </ul>
 </div></div>
 

@@ -74,11 +74,11 @@ seo:
 
 
 
-<p>We owe a lot to Gibson as a guitar brand, as it continued to innovate. How about the invention of the humbucker pickup by Seth Lover? The TOM bridge design? Gibson became a legend in the guitar world by the 1960&#8217;s as <strong><a data-lasso-id="237355" href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener">players flocked to electric guitars in general.</a></strong></p>
+<p>We owe a lot to Gibson as a guitar brand, as it continued to innovate. How about the invention of the humbucker pickup by Seth Lover? The TOM bridge design? Gibson became a legend in the guitar world by the 1960&#8217;s as <strong><a data-lasso-id="237355" href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener">players flocked to electric guitars in general.</a></strong></p>
 
 
 
-<p>If you wanted humbuckers or<strong><a data-lasso-id="237356" href="https://www.electrikjam.com/p90-pickups-guide/" data-type="post" data-id="8654" target="_blank" rel="noopener"> P90 pickups sounds</a></strong>, then you went with a Gibson. If you wanted a single coil tone, you went with Fender. Things were much more simple back in the day! Some bands would mix the two brand&#8217;s sounds, like <strong>The Eagles</strong>. Back then, there were not as many choices when it came to production guitars like there are today.</p>
+<p>If you wanted humbuckers or<strong><a data-lasso-id="237356" href="/p90-pickups-guide/" data-type="post" data-id="8654" target="_blank" rel="noopener"> P90 pickups sounds</a></strong>, then you went with a Gibson. If you wanted a single coil tone, you went with Fender. Things were much more simple back in the day! Some bands would mix the two brand&#8217;s sounds, like <strong>The Eagles</strong>. Back then, there were not as many choices when it came to production guitars like there are today.</p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>Fender on the other hand, was much more&#8230; tame. It was known for Surf Rock, and Blues for the most part. <strong><a data-lasso-id="237357" href="https://www.electrikjam.com/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-type="post" data-id="8768" target="_blank" rel="noopener">Although Jimi Hendrix brought Fender</a></strong> into the Rock scene in the late 60&#8217;s. So for a while there, Fender and Gibson were neck and neck in competition when it came to the birth of Rock music. The Gibson brand was just a<em> little more popular</em> among rockers.</p>
+<p>Fender on the other hand, was much more&#8230; tame. It was known for Surf Rock, and Blues for the most part. <strong><a data-lasso-id="237357" href="/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-type="post" data-id="8768" target="_blank" rel="noopener">Although Jimi Hendrix brought Fender</a></strong> into the Rock scene in the late 60&#8217;s. So for a while there, Fender and Gibson were neck and neck in competition when it came to the birth of Rock music. The Gibson brand was just a<em> little more popular</em> among rockers.</p>
 
 
 
@@ -102,11 +102,11 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="237358" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener">Then Eddie Van Halen came around</a></strong>, and the idea of what a guitar &#8220;should be&#8221; changed forever with just one track&#8230; <em>Eruption</em>. Eddie changed the landscape of guitar with the Van Halen 1 album, and the 80&#8217;s revolved around<strong><a data-lasso-id="237359" href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener"> guitars built for shredding</a></strong>. This was the first time that the Gibson brand felt threatened, despite QC issues in the 70&#8217;s, the famous &#8220;Norlin Era&#8221;.</p>
+<p><strong><a data-lasso-id="237358" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener">Then Eddie Van Halen came around</a></strong>, and the idea of what a guitar &#8220;should be&#8221; changed forever with just one track&#8230; <em>Eruption</em>. Eddie changed the landscape of guitar with the Van Halen 1 album, and the 80&#8217;s revolved around<strong><a data-lasso-id="237359" href="/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener"> guitars built for shredding</a></strong>. This was the first time that the Gibson brand felt threatened, despite QC issues in the 70&#8217;s, the famous &#8220;Norlin Era&#8221;.</p>
 
 
 
-<p>It can be hard to believe that one player had such an impact on guitar, but EVH changed the landscape working with Kramer, and newer companies took notice. Guitarists were chasing the tones and techniques of Eddie, like two-hand tapping<strong><a data-lasso-id="237360" href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener"> and Floyd Rose dive-bombs</a></strong>. Guitar companies that were formerly under the radar &#8220;back yard shed&#8221; projects suddenly became popular.</p>
+<p>It can be hard to believe that one player had such an impact on guitar, but EVH changed the landscape working with Kramer, and newer companies took notice. Guitarists were chasing the tones and techniques of Eddie, like two-hand tapping<strong><a data-lasso-id="237360" href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener"> and Floyd Rose dive-bombs</a></strong>. Guitar companies that were formerly under the radar &#8220;back yard shed&#8221; projects suddenly became popular.</p>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<p>Brands like Kramer, BC Rich, Jackson, <strong><a data-lasso-id="237361" href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener">and Ibanez were ruling the stage</a></strong> by the end of the 80&#8217;s. The Gibson brand suffered a huge sales slump. <strong>Gibson was just a few months from <em>closing down forever</em> in the 80&#8217;s when it was bought by Henry E. Juszkiewicz, David H. Berryman, and Gary A. Zebrowski.</strong> The new owners pumped money into the Gibson brand to keep it afloat.</p>
+<p>Brands like Kramer, BC Rich, Jackson, <strong><a data-lasso-id="237361" href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener">and Ibanez were ruling the stage</a></strong> by the end of the 80&#8217;s. The Gibson brand suffered a huge sales slump. <strong>Gibson was just a few months from <em>closing down forever</em> in the 80&#8217;s when it was bought by Henry E. Juszkiewicz, David H. Berryman, and Gary A. Zebrowski.</strong> The new owners pumped money into the Gibson brand to keep it afloat.</p>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<p>The Grunge movement killed the 80&#8217;s scene in just <em>one year</em>; 1991. Since Fender and Gibson had not been popular for Hair Metal, those guitars could be found for a good deal second hand. Gibson and Fender both saw a huge revival during the 90&#8217;s from <strong><a data-lasso-id="237362" href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener">players like Kurt Cobain</a></strong>, Alice In Chains, and <strong>Pearl Jam</strong>. Classic guitars became popular again, and many new guitarists started playing Fender and Gibson.</p>
+<p>The Grunge movement killed the 80&#8217;s scene in just <em>one year</em>; 1991. Since Fender and Gibson had not been popular for Hair Metal, those guitars could be found for a good deal second hand. Gibson and Fender both saw a huge revival during the 90&#8217;s from <strong><a data-lasso-id="237362" href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener">players like Kurt Cobain</a></strong>, Alice In Chains, and <strong>Pearl Jam</strong>. Classic guitars became popular again, and many new guitarists started playing Fender and Gibson.</p>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<p>Since then, the &#8220;Big 3&#8221; guitar brands have been Fender, Gibson, and PRS. Fender has made some changes to the main lineup to modernize the brand, and PRS is constantly making new designs and offering new models. Fender markets well to young players, <strong><a data-lasso-id="237363" href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener">and offers a large price tier</a></strong>. Meanwhile, PRS also has several lineups both in the USA and import lines, with different price tiers.</p>
+<p>Since then, the &#8220;Big 3&#8221; guitar brands have been Fender, Gibson, and PRS. Fender has made some changes to the main lineup to modernize the brand, and PRS is constantly making new designs and offering new models. Fender markets well to young players, <strong><a data-lasso-id="237363" href="/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener">and offers a large price tier</a></strong>. Meanwhile, PRS also has several lineups both in the USA and import lines, with different price tiers.</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>Fender has the Mexican line that allows players to<strong><a data-lasso-id="237364" data-lasso-name="Fender Player Stratocaster HSS Plus Top" href="https://www.electrikjam.com/fender-player-stratocaster-hss-plus-top-maple-fingerboard-limited-edition-electric-guitar-blue-burst-guitar-center/" data-type="lasso-urls" data-id="11483" target="_blank" rel="nofollow sponsored noopener"> get a &#8220;real&#8221; Fender for under $1000</a></strong>. Squier also makes Fender designs for a low price, but the name on the headstock matters to a lot of players. Other than the few stripped down models, Gibson just doesn&#8217;t offer anything like that when it comes to prices. Which brings us to the first problem on this list.</p>
+<p>Fender has the Mexican line that allows players to<strong><a data-lasso-id="237364" data-lasso-name="Fender Player Stratocaster HSS Plus Top" href="/fender-player-stratocaster-hss-plus-top-maple-fingerboard-limited-edition-electric-guitar-blue-burst-guitar-center/" data-type="lasso-urls" data-id="11483" target="_blank" rel="nofollow sponsored noopener"> get a &#8220;real&#8221; Fender for under $1000</a></strong>. Squier also makes Fender designs for a low price, but the name on the headstock matters to a lot of players. Other than the few stripped down models, Gibson just doesn&#8217;t offer anything like that when it comes to prices. Which brings us to the first problem on this list.</p>
 
 
 
@@ -226,7 +226,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/gibson-80s-explorer-review/" target="_blank" data-type="post" data-id="11969" rel="noopener" data-lasso-id="237917">A great example is the 80&#8217;s Explorer reissue</a></strong> that just came out. This is a guitar that Gibson fans have wanted for a long time. The stripped-down aesthetic was made popular by Metallica, before James moved over to ESP. </p>
+<p><strong><a href="/gibson-80s-explorer-review/" target="_blank" data-type="post" data-id="11969" rel="noopener" data-lasso-id="237917">A great example is the 80&#8217;s Explorer reissue</a></strong> that just came out. This is a guitar that Gibson fans have wanted for a long time. The stripped-down aesthetic was made popular by Metallica, before James moved over to ESP. </p>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<p>Signature models are not really something that guitarists think of when it comes to the Gibson brand. Sure, we know that <strong><a data-lasso-id="237789" href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-type="post" data-id="10708" target="_blank" rel="noopener">Kirk Hammet has &#8220;Greenie&#8221;</a></strong> and Slash plays Les Paul guitars. Gibson DOES make signature models for these artists. however they are more of a collectable item.</p>
+<p>Signature models are not really something that guitarists think of when it comes to the Gibson brand. Sure, we know that <strong><a data-lasso-id="237789" href="/what-is-the-holy-grail-of-electric-guitars/" data-type="post" data-id="10708" target="_blank" rel="noopener">Kirk Hammet has &#8220;Greenie&#8221;</a></strong> and Slash plays Les Paul guitars. Gibson DOES make signature models for these artists. however they are more of a collectable item.</p>
 
 
 
@@ -332,7 +332,7 @@ seo:
 
 
 
-<p>The absolute lowest that you can go with Gibson <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-e4aqvz/" target="_blank" data-type="lasso-urls" data-id="6070" rel="nofollow sponsored noopener" data-lasso-id="237790" data-lasso-name="Gibson Les Paul tribute">is the Les Paul Tribute</a></strong>. These are stripped down Studio models that are totally bare bones. They start at a rather reasonable price, around $1300 after taxes. But almost every other model is over $2000.</p>
+<p>The absolute lowest that you can go with Gibson <strong><a href="/guitar-center-pxf-io-e4aqvz/" target="_blank" data-type="lasso-urls" data-id="6070" rel="nofollow sponsored noopener" data-lasso-id="237790" data-lasso-name="Gibson Les Paul tribute">is the Les Paul Tribute</a></strong>. These are stripped down Studio models that are totally bare bones. They start at a rather reasonable price, around $1300 after taxes. But almost every other model is over $2000.</p>
 
 
 
@@ -470,7 +470,7 @@ seo:
 
 
 
-<p>For example, the lawsuit against Ibanez was valid when it comes to Gibson guitars. Back then, in the 80&#8217;s, Ibanez was not the company they are now <em>by any</em> means. They DID make Gibson copies, down to the fine details of the guitars, so the lawsuit in that case was fair. Ibanez turned the brand around of course, <strong><a data-lasso-id="237792" href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener">once the company met Steve Vai.</a></strong></p>
+<p>For example, the lawsuit against Ibanez was valid when it comes to Gibson guitars. Back then, in the 80&#8217;s, Ibanez was not the company they are now <em>by any</em> means. They DID make Gibson copies, down to the fine details of the guitars, so the lawsuit in that case was fair. Ibanez turned the brand around of course, <strong><a data-lasso-id="237792" href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener">once the company met Steve Vai.</a></strong></p>
 
 
 
@@ -614,7 +614,7 @@ seo:
 
 
 
-<p>So how do you fix this? The question we asked in the beginning, and it is a hard question to answer when it comes to Gibson. I <strong><a data-lasso-id="237793" href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-type="post" data-id="11969" target="_blank" rel="noopener">recently reviewed the 80&#8217;s Explorer Models</a></strong>, and for the price of that guitar I could spec out a custom guitar that would be much better. I also said <strong><a data-lasso-id="237794" href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener">I would put my Schecter E1 </a></strong>against that Gibson all day and it was $1000, brand new.</p>
+<p>So how do you fix this? The question we asked in the beginning, and it is a hard question to answer when it comes to Gibson. I <strong><a data-lasso-id="237793" href="/gibson-80s-explorer-review/" data-type="post" data-id="11969" target="_blank" rel="noopener">recently reviewed the 80&#8217;s Explorer Models</a></strong>, and for the price of that guitar I could spec out a custom guitar that would be much better. I also said <strong><a data-lasso-id="237794" href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener">I would put my Schecter E1 </a></strong>against that Gibson all day and it was $1000, brand new.</p>
 
 
 

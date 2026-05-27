@@ -94,7 +94,7 @@ seo:
 
 
 
-<p>The hallowed grounds of <strong><a href="https://www.electrikjam.com/download-2024-lineup/" data-type="post" data-id="13529" data-lasso-id="259745">Download Festival at Donington Park come alive in June</a></strong>. Metal titans Avenged Sevenfold and Queens of the Stone Age lead a heavyweight lineup. Pantera&#8217;s headlining slot will be their first UK show in over 20 years!</p>
+<p>The hallowed grounds of <strong><a href="/download-2024-lineup/" data-type="post" data-id="13529" data-lasso-id="259745">Download Festival at Donington Park come alive in June</a></strong>. Metal titans Avenged Sevenfold and Queens of the Stone Age lead a heavyweight lineup. Pantera&#8217;s headlining slot will be their first UK show in over 20 years!</p>
 
 
 

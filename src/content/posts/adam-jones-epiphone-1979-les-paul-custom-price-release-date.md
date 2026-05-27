@@ -57,11 +57,11 @@ seo:
 
 
 
-<p>The Epiphone Adam Jones 1979 Les Paul Custom is a recent release, hitting the market on February 13, 2024. Its official price is pretty high-end for Epiphone, <strong><a href="https://www.electrikjam.com/epiphone-adam-jones-1979-les-paul-custom-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14299" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260921" data-lasso-name="Adam Jones Epiphone 1979 Les Paul Custom">ranging from around $1499 to $1599</a></strong>, depending on where you look.</p>
+<p>The Epiphone Adam Jones 1979 Les Paul Custom is a recent release, hitting the market on February 13, 2024. Its official price is pretty high-end for Epiphone, <strong><a href="/epiphone-adam-jones-1979-les-paul-custom-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14299" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260921" data-lasso-name="Adam Jones Epiphone 1979 Les Paul Custom">ranging from around $1499 to $1599</a></strong>, depending on where you look.</p>
 
 
 
-<p>This model, not to be confused with his other Epiphone one, does not feature any artwork – it is a straight up homage to <strong><a href="https://www.electrikjam.com/adam-jones-gibson-les-paul-custom/" data-type="post" data-id="14080" data-lasso-id="260922">Adam’s long-serving 1979 Gibson Les Paul Silverburst</a></strong>, complete with Seymour Duncan pickups in the bridge.</p>
+<p>This model, not to be confused with his other Epiphone one, does not feature any artwork – it is a straight up homage to <strong><a href="/adam-jones-gibson-les-paul-custom/" data-type="post" data-id="14080" data-lasso-id="260922">Adam’s long-serving 1979 Gibson Les Paul Silverburst</a></strong>, complete with Seymour Duncan pickups in the bridge.</p>
 
 
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<p>If you want to pick up one of these epic guitars, Guitar Center has some of the best prices we&#8217;ve seen in the US – <strong><a href="https://www.electrikjam.com/epiphone-adam-jones-1979-les-paul-custom-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14299" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260924" data-lasso-name="Adam Jones Epiphone 1979 Les Paul Custom">$1499 (and that includes a hardcase as well). </a></strong></p>
+<p>If you want to pick up one of these epic guitars, Guitar Center has some of the best prices we&#8217;ve seen in the US – <strong><a href="/epiphone-adam-jones-1979-les-paul-custom-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14299" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260924" data-lasso-name="Adam Jones Epiphone 1979 Les Paul Custom">$1499 (and that includes a hardcase as well). </a></strong></p>
 
 
 

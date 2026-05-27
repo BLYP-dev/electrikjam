@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>Jackson comes up on our site pretty frequently, and I often recommend the <a href="https://www.electrikjam.com/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="732">JS22 series</a> to new guitarists who are on a budget. Jackson&#8217;s regular lineup is pretty vast this year, with new colors for most models. We should have an article about those this week, as well.</p>
+<p>Jackson comes up on our site pretty frequently, and I often recommend the <a href="/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="732">JS22 series</a> to new guitarists who are on a budget. Jackson&#8217;s regular lineup is pretty vast this year, with new colors for most models. We should have an article about those this week, as well.</p>
 
 
 
@@ -84,11 +84,11 @@ seo:
 
 
 
-<p>Misha is mostly known for playing 6, 7, and <a href="https://www.electrikjam.com/cheap-8-string-guitar/" data-lasso-id="733">8 string guitars</a> in his Prog Metal projects. But there&#8217;s a little known secret about Misha&#8230;he has a <a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-lasso-id="734">Baby Blue Fender Custom Shop Strat</a> that he LOVES.</em> In fact, at one point&#8230;it was his favorite guitar.</p>
+<p>Misha is mostly known for playing 6, 7, and <a href="/cheap-8-string-guitar/" data-lasso-id="733">8 string guitars</a> in his Prog Metal projects. But there&#8217;s a little known secret about Misha&#8230;he has a <a href="/the-best-fender-strat-alternative-in-2021/" data-lasso-id="734">Baby Blue Fender Custom Shop Strat</a> that he LOVES.</em> In fact, at one point&#8230;it was his favorite guitar.</p>
 
 
 
-<p>There were several parts of <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218837">periphery&#8217;s last album</a> HAIL STAN that have this Stratocaster in it! You would have never known Misha was so fond of a Strat, right? </p>
+<p>There were several parts of <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218837">periphery&#8217;s last album</a> HAIL STAN that have this Stratocaster in it! You would have never known Misha was so fond of a Strat, right? </p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p><em>Glow-in-the-dark Luminlay® side dots provide exceptional <a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-lasso-id="735">fretboard guidance</a> on the darkest of stages, while a heel-mount truss rod adjustment wheel allows for quick neck tweaks on the go.</em></p>
+<p><em>Glow-in-the-dark Luminlay® side dots provide exceptional <a href="/how-to-find-fretboard-notes-guitar/" data-lasso-id="735">fretboard guidance</a> on the darkest of stages, while a heel-mount truss rod adjustment wheel allows for quick neck tweaks on the go.</em></p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>This is a great addition to the Jackson 2021 Artist lineup, and I think it offers something different for <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44682">fans of Charvel</a> and Fender. This is  <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11262">hot-rodded Strat</a> that comes with all premium features. You can see Misha testing last year&#8217;s Custom shop model <a href="https://www.youtube.com/watch?app=desktop&#038;v=41xTf89tGiU&#038;feature=youtu.be" class="rank-math-link" data-lasso-id="736" target="_blank" rel="noopener noreferrer nofollow">here.</a> Last year&#8217;s model was a &#8220;relic&#8221; version, and a little more pricey than this model.</p>
+<p>This is a great addition to the Jackson 2021 Artist lineup, and I think it offers something different for <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44682">fans of Charvel</a> and Fender. This is  <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11262">hot-rodded Strat</a> that comes with all premium features. You can see Misha testing last year&#8217;s Custom shop model <a href="https://www.youtube.com/watch?app=desktop&#038;v=41xTf89tGiU&#038;feature=youtu.be" class="rank-math-link" data-lasso-id="736" target="_blank" rel="noopener noreferrer nofollow">here.</a> Last year&#8217;s model was a &#8220;relic&#8221; version, and a little more pricey than this model.</p>
 
 
 
@@ -132,11 +132,11 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/ibanez-vs-jackson/" data-lasso-id="166814">Jackson Rhoads is a legendary</a> instrument at this point. We have seen it in so many different incarnations and signatures at this point, and I think we will see it for years to come. Between the Rhoads and The Kelley, we have Jackson&#8217;s biggest contributions to <a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189584" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">metal guitar</a> styles.</p>
+<p>The <a href="/ibanez-vs-jackson/" data-lasso-id="166814">Jackson Rhoads is a legendary</a> instrument at this point. We have seen it in so many different incarnations and signatures at this point, and I think we will see it for years to come. Between the Rhoads and The Kelley, we have Jackson&#8217;s biggest contributions to <a href="/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189584" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">metal guitar</a> styles.</p>
 
 
 
-<p>Christian is best known for his role in the French metal band <strong>Gojira.</strong> This isn&#8217;t the first time we are seeing him in the sig series lineup. However, this <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14304">model is brand new for the Jackson 2021 Artist</a> series, and meant to be an affordable option.</p>
+<p>Christian is best known for his role in the French metal band <strong>Gojira.</strong> This isn&#8217;t the first time we are seeing him in the sig series lineup. However, this <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14304">model is brand new for the Jackson 2021 Artist</a> series, and meant to be an affordable option.</p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<p>Speaking of unexpected! This Jackson 2021 Artist addition was totally out of left field for me. We have yet another single humbucker guitar, which is a feature that I think more companies should offer. We have seen a few from <a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="737">ESP this year</a>, but it&#8217;s still a &#8220;rare&#8221; feature.</p>
+<p>Speaking of unexpected! This Jackson 2021 Artist addition was totally out of left field for me. We have yet another single humbucker guitar, which is a feature that I think more companies should offer. We have seen a few from <a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="737">ESP this year</a>, but it&#8217;s still a &#8220;rare&#8221; feature.</p>
 
 
 
@@ -176,11 +176,11 @@ seo:
 
 
 
-<p><em>Ready to roar, this sig model is also equipped with a <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="738">single Seymour Duncan® Parallel Axis bridge humbucking pickup</a>. This humbucker rips with plenty of over-wound attitude for bright, expressive high-end and endless sustain, while a <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167825">Floyd</a> Rose® 1000 Series double-locking tremolo system provides exceptional dynamic response and reliable tuning stability throughout extreme pitch changes.</em></p>
+<p><em>Ready to roar, this sig model is also equipped with a <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="738">single Seymour Duncan® Parallel Axis bridge humbucking pickup</a>. This humbucker rips with plenty of over-wound attitude for bright, expressive high-end and endless sustain, while a <a href="/floyd-rose-bridge-explained/" data-lasso-id="167825">Floyd</a> Rose® 1000 Series double-locking tremolo system provides exceptional dynamic response and reliable tuning stability throughout extreme pitch changes.</em></p>
 
 
 
-<p><em>Other features include a single volume control, <a href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="739">Dunlop® dual-locking strap buttons</a> and Jackson sealed die-cast tuners.</em></p>
+<p><em>Other features include a single volume control, <a href="/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="739">Dunlop® dual-locking strap buttons</a> and Jackson sealed die-cast tuners.</em></p>
 
 
 
@@ -252,11 +252,11 @@ seo:
 
 
 
-<p>The Jackson 2021 Artist Lineup would not be complete without a <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="740">Misha 6 and 7 string guitar</a>! It&#8217;s been several years now, and only subtle changes hve been made to the Juggernaut. Until now!</p>
+<p>The Jackson 2021 Artist Lineup would not be complete without a <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="740">Misha 6 and 7 string guitar</a>! It&#8217;s been several years now, and only subtle changes hve been made to the Juggernaut. Until now!</p>
 
 
 
-<p>Now we have <a href="https://www.electrikjam.com/the-top-5-guitars-evertune-bridge/" data-lasso-id="741">the Evertune bridge installed</a>, along with the usual features&#8230;7 string first:</p>
+<p>Now we have <a href="/the-top-5-guitars-evertune-bridge/" data-lasso-id="741">the Evertune bridge installed</a>, along with the usual features&#8230;7 string first:</p>
 
 
 

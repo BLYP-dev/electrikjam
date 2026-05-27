@@ -344,7 +344,7 @@ seo:
 
 
 
-<li><strong>Beginner-Friendly</strong>: It&#8217;s an impeccable choice for new guitarists, offering a <strong><a href="https://www.electrikjam.com/epiphone-les-paul-studio-gold-limited-edition-electric-guitar-alpine-white-guitar-center/" data-type="lasso-urls" data-id="13245" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254462" data-lasso-name="Epiphone Les Paul Studio">professional feel without the professional price tag.</a></strong></li>
+<li><strong>Beginner-Friendly</strong>: It&#8217;s an impeccable choice for new guitarists, offering a <strong><a href="/epiphone-les-paul-studio-gold-limited-edition-electric-guitar-alpine-white-guitar-center/" data-type="lasso-urls" data-id="13245" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254462" data-lasso-name="Epiphone Les Paul Studio">professional feel without the professional price tag.</a></strong></li>
 </ul>
 
 
@@ -353,7 +353,7 @@ seo:
 
 
 
-<p>During my quest to find the ideal guitar for newcomers, I&#8217;ve played and tested numerous candidates. Yet, the <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="254472">Epiphone Les Paul Studio</a></strong> has consistently held the top spot in my rankings. </p>
+<p>During my quest to find the ideal guitar for newcomers, I&#8217;ve played and tested numerous candidates. Yet, the <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="254472">Epiphone Les Paul Studio</a></strong> has consistently held the top spot in my rankings. </p>
 
 
 
@@ -429,7 +429,7 @@ seo:
 
 
 
-<p>Picking the first guitar to <strong><a href="https://www.electrikjam.com/electric-guitar-for-beginners/" data-type="page" data-id="13222" data-lasso-id="254473">start your musical journey</a></strong> can seem difficult. There are so many companies and so many styles that cater to Metal/Rock guitarists. </p>
+<p>Picking the first guitar to <strong><a href="/electric-guitar-for-beginners/" data-type="page" data-id="13222" data-lasso-id="254473">start your musical journey</a></strong> can seem difficult. There are so many companies and so many styles that cater to Metal/Rock guitarists. </p>
 
 
 

@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>We are <a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="125500"><strong>Schecter</strong></a> enthusiasts here at <strong>Electrikjam</strong>. For one, I am exclusively a Schecter player and hopefully a future endorsee (Wink wink, Schecter). The <em>value</em> that you get with Schecter is absolutely undeniable versus the features you get. But beyond the budget price, these are high quality instruments that are <em>made to last</em>. My oldest is a <a href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="125501" data-lasso-name="Schecter Hellraiser FRS"><strong>Hellraiser</strong></a> model, that has been in my stable for years, and I see 20 year old Schecter guitars for sale <em>all the time</em>. They are <strong>workhorses</strong> at the core, and that&#8217;s why we love them!</p>
+<p>We are <a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="125500"><strong>Schecter</strong></a> enthusiasts here at <strong>Electrikjam</strong>. For one, I am exclusively a Schecter player and hopefully a future endorsee (Wink wink, Schecter). The <em>value</em> that you get with Schecter is absolutely undeniable versus the features you get. But beyond the budget price, these are high quality instruments that are <em>made to last</em>. My oldest is a <a href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="125501" data-lasso-name="Schecter Hellraiser FRS"><strong>Hellraiser</strong></a> model, that has been in my stable for years, and I see 20 year old Schecter guitars for sale <em>all the time</em>. They are <strong>workhorses</strong> at the core, and that&#8217;s why we love them!</p>
 
 
 
@@ -66,19 +66,19 @@ seo:
 
 
 
-<p>The irony of all of this, is the <a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="248993">Schecter Rob Scallon lineup is a little like Rob coming home<strong>.</strong><strong> His first popular video was made with a Schecter Omen 8 String</strong><strong></a> guitar. </strong>It feels like this is probably where Rob belongs, since that video definitely made some people go out and buy some Schecter 8 Strings</strong>! So welcome home Rob, this is 100% where you belong, my dude.</p>
+<p>The irony of all of this, is the <a href="/schecter-sunset-triad-review/" data-lasso-id="248993">Schecter Rob Scallon lineup is a little like Rob coming home<strong>.</strong><strong> His first popular video was made with a Schecter Omen 8 String</strong><strong></a> guitar. </strong>It feels like this is probably where Rob belongs, since that video definitely made some people go out and buy some Schecter 8 Strings</strong>! So welcome home Rob, this is 100% where you belong, my dude.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/the-2021-ibanez-ichi10/" data-type="post" data-id="3501" target="_blank" rel="noopener" data-lasso-id="125503">Ibanez</a> </strong>has been the company that supports YouTube guitarists the most lately, and it looks like Schecter is jumping onboard too. All three of the <a href="https://www.electrikjam.com/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199525">Schecter</a> Rob Scallon Signature models are based on the popular C-1 body style. The 7 and 8 String variants are &#8220;fan-fret&#8221; or multi-scale, but with a <em>pretty exciting twist</em>. If you have zero experience with multi-scale, then these might be right up your alley.</p>
+<p><strong><a href="/the-2021-ibanez-ichi10/" data-type="post" data-id="3501" target="_blank" rel="noopener" data-lasso-id="125503">Ibanez</a> </strong>has been the company that supports YouTube guitarists the most lately, and it looks like Schecter is jumping onboard too. All three of the <a href="/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199525">Schecter</a> Rob Scallon Signature models are based on the popular C-1 body style. The 7 and 8 String variants are &#8220;fan-fret&#8221; or multi-scale, but with a <em>pretty exciting twist</em>. If you have zero experience with multi-scale, then these might be right up your alley.</p>
 
 
 
-<p>The new Schecter Rob Scallon lineup comes with just about every upgrade you could want in a guitar. You wont be upgrading the tuners or other hardware because it is all top of the line Hipshot Hardware. The new <a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-lasso-id="198725">Schecter</a> &#8217;78 pickups were designed with versatility in mind, and stock Schecter pickups in this price range usually aim to impress. In fact, I am rarely let down with any Korean <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231842">Schecter model</a>. These are built to be ready for the stage and studio at a pro level.</p>
+<p>The new Schecter Rob Scallon lineup comes with just about every upgrade you could want in a guitar. You wont be upgrading the tuners or other hardware because it is all top of the line Hipshot Hardware. The new <a href="/schecter-jack-fowler-traditional-review/" data-lasso-id="198725">Schecter</a> &#8217;78 pickups were designed with versatility in mind, and stock Schecter pickups in this price range usually aim to impress. In fact, I am rarely let down with any Korean <a href="/schecter-mv-6-review/" data-lasso-id="231842">Schecter model</a>. These are built to be ready for the stage and studio at a pro level.</p>
 
 
 
-<p><strong>I only got a few minutes to check these out at our affiliate site, but I had about 50 minutes all together with all three models. The best part, is all Schecter Rob Scallon models come in <a href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener" data-lasso-id="125504">lefty versions</a> as well. So I might have been in a rush, but I did my best with these guitars. They were all very familiar anyway if you know Schecter guitars, <em>I know Schecter pretty well</em>. I used the trusty <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="125505">BOSS Katana 100 </a>for the quick testing sessions because I also know it <em>very well</em>.</strong></p>
+<p><strong>I only got a few minutes to check these out at our affiliate site, but I had about 50 minutes all together with all three models. The best part, is all Schecter Rob Scallon models come in <a href="/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener" data-lasso-id="125504">lefty versions</a> as well. So I might have been in a rush, but I did my best with these guitars. They were all very familiar anyway if you know Schecter guitars, <em>I know Schecter pretty well</em>. I used the trusty <a href="/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="125505">BOSS Katana 100 </a>for the quick testing sessions because I also know it <em>very well</em>.</strong></p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 		
 
 
-<p>The C-1 body style is the basis for so many of the <a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-lasso-id="158762">Schecter</a> models because it is familiar and ergonomic, with a slight arched top. But here we see something a little different with the Schecter Rob Scallon design. He was particularly inspired by the Les Paul &#8220;Log&#8221; guitar that had removeable wings (Look it up, it is NUTS). Now, of course these wings don&#8217;t come off, but the <em>idea</em> is there.</p>
+<p>The C-1 body style is the basis for so many of the <a href="/schecter-omen-elite-2022-review/" data-lasso-id="158762">Schecter</a> models because it is familiar and ergonomic, with a slight arched top. But here we see something a little different with the Schecter Rob Scallon design. He was particularly inspired by the Les Paul &#8220;Log&#8221; guitar that had removeable wings (Look it up, it is NUTS). Now, of course these wings don&#8217;t come off, but the <em>idea</em> is there.</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>The neck through construction is something that I don&#8217;t think I can live without anymore, and almost all of my <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247823">Schecter guitars</a> have it. You have full access to the upper frets without any sort of neck heel in your way. My Hellraiser and Damien models both have it, as well as my <a href="https://www.electrikjam.com/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="125506"><strong>E1 Koa</strong></a>.</p>
+<p>The neck through construction is something that I don&#8217;t think I can live without anymore, and almost all of my <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247823">Schecter guitars</a> have it. You have full access to the upper frets without any sort of neck heel in your way. My Hellraiser and Damien models both have it, as well as my <a href="/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="125506"><strong>E1 Koa</strong></a>.</p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>The neck feels like your standard C shape that is on all of the Hellraiser models, as well as the <strong><a href="https://www.electrikjam.com/schecter-cr6-review/" data-type="post" data-id="6827" target="_blank" rel="noopener" data-lasso-id="125507">CR6 Pro</a> </strong>models. We all know this neck pretty well, and it is exactly what you expect (If you have never played a Schecter, it is identical to an ESP/LTD Eclipse). The Schecter Rob Scallon 6 string was however, much <strong>lighter</strong> than my C style guitars at home due to the swamp ash body. Otherwise this feels <em>exactly</em> like a higher end, South Korean Schecter.</p>
+<p>The neck feels like your standard C shape that is on all of the Hellraiser models, as well as the <strong><a href="/schecter-cr6-review/" data-type="post" data-id="6827" target="_blank" rel="noopener" data-lasso-id="125507">CR6 Pro</a> </strong>models. We all know this neck pretty well, and it is exactly what you expect (If you have never played a Schecter, it is identical to an ESP/LTD Eclipse). The Schecter Rob Scallon 6 string was however, much <strong>lighter</strong> than my C style guitars at home due to the swamp ash body. Otherwise this feels <em>exactly</em> like a higher end, South Korean Schecter.</p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>The 6 string is a nice take on your usual C-1 style guitar, with your normal 25.5 <a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="125508"><strong>scale length</strong></a>. This is typical Schecter for most of us, just with upgrades. But the Schecter Rob Scallon line gets <em>much</em> more interesting with the extended range models. These may seem like your usual multi-scale guitars upon first glance, but Rob threw in some features that I think we can all appreciate.</p>
+<p>The 6 string is a nice take on your usual C-1 style guitar, with your normal 25.5 <a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="125508"><strong>scale length</strong></a>. This is typical Schecter for most of us, just with upgrades. But the Schecter Rob Scallon line gets <em>much</em> more interesting with the extended range models. These may seem like your usual multi-scale guitars upon first glance, but Rob threw in some features that I think we can all appreciate.</p>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<p>Again, this neck is very familiar. The Schecter Rob Scallon 7 string neck is very much like my <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="125509"><strong>Demon 7</strong></a>, but it is much skinnier. This reminds me of the KM7 Hybrid with how skinny the neck is, but there is a little more wood that forms the C shape on the back. This is more comfortable to me than say, an <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255030">Ibanez Wizard neck</a>. It is skinny, but not <em>too skinny</em> if that makes sense. I always have a hard time describing the neck, but for me it sits in that &#8220;goldilocks&#8221; zone like the KM7 Hybrid does.</p>
+<p>Again, this neck is very familiar. The Schecter Rob Scallon 7 string neck is very much like my <a href="/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="125509"><strong>Demon 7</strong></a>, but it is much skinnier. This reminds me of the KM7 Hybrid with how skinny the neck is, but there is a little more wood that forms the C shape on the back. This is more comfortable to me than say, an <a href="/ibanez-guitars/" data-lasso-id="255030">Ibanez Wizard neck</a>. It is skinny, but not <em>too skinny</em> if that makes sense. I always have a hard time describing the neck, but for me it sits in that &#8220;goldilocks&#8221; zone like the KM7 Hybrid does.</p>
 
 
 
@@ -206,7 +206,7 @@ seo:
 
 
 
-<p>Both the 6 string and the 7 string Schecter Rob Scallon models have a great neck pickup. If you like to solo on the neck pickup with the tone turned down a little, then the &#8217;78 Pickups are going to be <em><strong>perfect</strong></em> for you. The neck humbucker does that smooth/creamy tone that I usually associate with<a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="125510"> <strong>Les Paul</strong></a> guitars, and it sounds even <em>better</em> when you pull the coil tap. The bridge pickup is also versatile, and it can really chug under high gain. The bridge is midrange boosted as well, so those lower strings have definition.</p>
+<p>Both the 6 string and the 7 string Schecter Rob Scallon models have a great neck pickup. If you like to solo on the neck pickup with the tone turned down a little, then the &#8217;78 Pickups are going to be <em><strong>perfect</strong></em> for you. The neck humbucker does that smooth/creamy tone that I usually associate with<a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="125510"> <strong>Les Paul</strong></a> guitars, and it sounds even <em>better</em> when you pull the coil tap. The bridge pickup is also versatile, and it can really chug under high gain. The bridge is midrange boosted as well, so those lower strings have definition.</p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 		
 
 
-<p>It seems like it was only a few years ago that everyone wanted to play an 8 string. I have owned a couple, but I always just go back to my 7 <a href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174803">string guitars</a> because I have never found an 8 string neck that I vibe with. I sold my last 8 string in 2014, and never looked back. I guess that has changed as of yesterday, because the Schecter Rob Scallon 8 String is now on my &#8220;buy list&#8221;. A lot of factors contribute to this decision on my part, and I will explain it the best I can. But first, the specs:</p>
+<p>It seems like it was only a few years ago that everyone wanted to play an 8 string. I have owned a couple, but I always just go back to my 7 <a href="/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174803">string guitars</a> because I have never found an 8 string neck that I vibe with. I sold my last 8 string in 2014, and never looked back. I guess that has changed as of yesterday, because the Schecter Rob Scallon 8 String is now on my &#8220;buy list&#8221;. A lot of factors contribute to this decision on my part, and I will explain it the best I can. But first, the specs:</p>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<p>If we go back to almost a decade ago, we can find Rob Scallon in his laundry room playing a Schecter 8 String on YouTube.<a href="https://youtu.be/xiERPVIEvSc" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="125511"><strong> This video </strong></a>was absolutely<em> pivotal</em> when it came to his popularity. The song was called &#8220;Anchor&#8221;, and it was the first time that I had seen someone play the 8 string guitar like that. I was used to <a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" target="_blank" rel="noopener" data-lasso-id="125512"><strong>Meshuggah</strong></a> for most 8 string examples, and here Rob was playing some <em>gorgeous </em>cleans.</p>
+<p>If we go back to almost a decade ago, we can find Rob Scallon in his laundry room playing a Schecter 8 String on YouTube.<a href="https://youtu.be/xiERPVIEvSc" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="125511"><strong> This video </strong></a>was absolutely<em> pivotal</em> when it came to his popularity. The song was called &#8220;Anchor&#8221;, and it was the first time that I had seen someone play the 8 string guitar like that. I was used to <a href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" target="_blank" rel="noopener" data-lasso-id="125512"><strong>Meshuggah</strong></a> for most 8 string examples, and here Rob was playing some <em>gorgeous </em>cleans.</p>
 
 
 
@@ -280,7 +280,7 @@ seo:
 
 
 
-<p>Clean tones sound great with both pickups engaged in the middle <a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="125513"><strong>position</strong></a>, and you get an almost acoustic quality with the tone. The neck pickup has a lot of bass dialed out of it, but you can still get a creamy lead tone by turning down the tone knob. But the split coil neck tones is what sold me the most, with a clean tone. Add a little reverb and delay, and this thing is perfect for chordal tapping and using the low string for a moving bass note. Think &#8220;Neon&#8221; by John Mayer.</p>
+<p>Clean tones sound great with both pickups engaged in the middle <a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="125513"><strong>position</strong></a>, and you get an almost acoustic quality with the tone. The neck pickup has a lot of bass dialed out of it, but you can still get a creamy lead tone by turning down the tone knob. But the split coil neck tones is what sold me the most, with a clean tone. Add a little reverb and delay, and this thing is perfect for chordal tapping and using the low string for a moving bass note. Think &#8220;Neon&#8221; by John Mayer.</p>
 
 
 

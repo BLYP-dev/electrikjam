@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>We have already done a<strong> <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" target="_blank" data-type="post" data-id="3927" rel="noopener" data-lasso-id="8616">seriously deep dive</a></strong> into the features and ways to use a Helix. We have also <a href="https://www.electrikjam.com/line-6-helix-recording-techniques/" target="_blank" rel="noopener" data-type="post" data-id="4209" data-lasso-id="8617">taken a look</a> at how to use it to get a <em>great </em>tone while recording. The flagship Line 6 Helix Floor model is a serious piece of gear that can either replace your entire rig, or just be a great addition to your setup. How you choose to use it is <em>up to you</em>!</p>
+<p>We have already done a<strong> <a href="/line-6-helix-reviews-is-it-worth-it/" target="_blank" data-type="post" data-id="3927" rel="noopener" data-lasso-id="8616">seriously deep dive</a></strong> into the features and ways to use a Helix. We have also <a href="/line-6-helix-recording-techniques/" target="_blank" rel="noopener" data-type="post" data-id="4209" data-lasso-id="8617">taken a look</a> at how to use it to get a <em>great </em>tone while recording. The flagship Line 6 Helix Floor model is a serious piece of gear that can either replace your entire rig, or just be a great addition to your setup. How you choose to use it is <em>up to you</em>!</p>
 
 
 
-<p>When I took at look at the Line 6 Helix, I found it to be <em>so full</em> of features that I couldn&#8217;t even cover all of the different things it does. <a href="https://www.electrikjam.com/line-6-3-5-update-explained/" data-lasso-id="197567">Line 6 has also constantly updated</a> the device, and added new features. When someone says &#8220;the sky is the limit&#8221; when it comes to guitar tone, I think about the Line 6 Helix.</p>
+<p>When I took at look at the Line 6 Helix, I found it to be <em>so full</em> of features that I couldn&#8217;t even cover all of the different things it does. <a href="/line-6-3-5-update-explained/" data-lasso-id="197567">Line 6 has also constantly updated</a> the device, and added new features. When someone says &#8220;the sky is the limit&#8221; when it comes to guitar tone, I think about the Line 6 Helix.</p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p><strong>The <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-lasso-id="10421">Line 6 Helix</a> can be as easy, or complicated to use as the user wants. This is because there are easy-to-use preset options built into the Helix that you can use right out of the box. But the Helix can also be plugged up to your computer and used with HX Edit to make your own patches from scratch. Both methods are pretty easy, but it is totally up to the user.</strong></p>
+<p><strong>The <a href="/what-is-a-line-6-helix/" data-lasso-id="10421">Line 6 Helix</a> can be as easy, or complicated to use as the user wants. This is because there are easy-to-use preset options built into the Helix that you can use right out of the box. But the Helix can also be plugged up to your computer and used with HX Edit to make your own patches from scratch. Both methods are pretty easy, but it is totally up to the user.</strong></p>
 
 
 
@@ -71,11 +71,11 @@ seo:
 
 
 
-<p>You can use the Helix as your main source for recording, and even use it as an interface for your DAW program. On the other hand, you can use it for <em>nothing but the effects</em>, and add it to your live setup on your pedalboard. You can also use it with an<a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="8618"><strong> FRFR speaker</strong></a>, replacing the need for an amplifier when you play gigs.</p>
+<p>You can use the Helix as your main source for recording, and even use it as an interface for your DAW program. On the other hand, you can use it for <em>nothing but the effects</em>, and add it to your live setup on your pedalboard. You can also use it with an<a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="8618"><strong> FRFR speaker</strong></a>, replacing the need for an amplifier when you play gigs.</p>
 
 
 
-<p>When it comes to actually using the presets and patches, every user will be different. The Helix comes loaded with tons of usable patches pre-programmed in the unit. Some of these are really great, and based on some famous <a href="https://www.electrikjam.com/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183498">guitar tones</a>. I know some people that use the pre-programmed patches <em>exclusively</em>, just tweaking the EQ a little.</p>
+<p>When it comes to actually using the presets and patches, every user will be different. The Helix comes loaded with tons of usable patches pre-programmed in the unit. Some of these are really great, and based on some famous <a href="/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183498">guitar tones</a>. I know some people that use the pre-programmed patches <em>exclusively</em>, just tweaking the EQ a little.</p>
 
 
 
@@ -103,5 +103,5 @@ seo:
 
 
 
-<p>And finally, you can use the Line 6 Helix just for the effects it has, and ignore the amp sims completely. There are hundreds of effects that you can choose from, and it could replace all of your pedals, if that is how you wish to use it. The main take-away here, is that the <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18319">Line 6</a> Helix is versatile as hell. It really depends on the user!</p>
+<p>And finally, you can use the Line 6 Helix just for the effects it has, and ignore the amp sims completely. There are hundreds of effects that you can choose from, and it could replace all of your pedals, if that is how you wish to use it. The main take-away here, is that the <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18319">Line 6</a> Helix is versatile as hell. It really depends on the user!</p>
 

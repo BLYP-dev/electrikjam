@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>Using a capo can be hugely beneficial when you are writing songs, or learning songs by someone else. If you want to sing along, it is easier to transpose the key with a capo than<strong><a href="https://www.electrikjam.com/the-top-3-alternate-guitar-tunings/" target="_blank" data-type="post" data-id="12074" rel="noopener" data-lasso-id="238687"> tuning your guitar to alternate tunings</a></strong>. But I have a confession&#8230;</p>
+<p>Using a capo can be hugely beneficial when you are writing songs, or learning songs by someone else. If you want to sing along, it is easier to transpose the key with a capo than<strong><a href="/the-top-3-alternate-guitar-tunings/" target="_blank" data-type="post" data-id="12074" rel="noopener" data-lasso-id="238687"> tuning your guitar to alternate tunings</a></strong>. But I have a confession&#8230;</p>
 
 
 
@@ -62,11 +62,11 @@ seo:
 
 
 
-<p>I ended up being given one by a friend, because I needed it specifically for setting up guitars. But then I used it a few times to transpose a song, since my guitar was not tuned to standard. I was tuned to D Standard, so putting the capo on the second fret allowed my to <strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" target="_blank" rel="noopener" data-lasso-id="238688">play songs in Standard Tuning</a></strong>.</p>
+<p>I ended up being given one by a friend, because I needed it specifically for setting up guitars. But then I used it a few times to transpose a song, since my guitar was not tuned to standard. I was tuned to D Standard, so putting the capo on the second fret allowed my to <strong><a href="/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" target="_blank" rel="noopener" data-lasso-id="238688">play songs in Standard Tuning</a></strong>.</p>
 
 
 
-<p>Over the years, I eventually warmed up to the idea of using a capo to write songs. It can be a very useful tool, and all you need is <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251761">basic chord shape</a> knowledge and some imagination! <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251804">Open chords (and chord progressions)</a> sound totally new when you place the capo on different frets!</p>
+<p>Over the years, I eventually warmed up to the idea of using a capo to write songs. It can be a very useful tool, and all you need is <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251761">basic chord shape</a> knowledge and some imagination! <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251804">Open chords (and chord progressions)</a> sound totally new when you place the capo on different frets!</p>
 
 
 
@@ -94,11 +94,11 @@ seo:
 
 
 
-<p>Like I mentioned in the beginning of this article, it can also be used if you usually tune down your guitar. Say<strong><a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" target="_blank" data-type="post" data-id="10787" rel="noopener" data-lasso-id="238689"> your band uses E Flat tuning</a></strong>, or D Standard. You can use the capo to put your guitar back into standard tuning.</p>
+<p>Like I mentioned in the beginning of this article, it can also be used if you usually tune down your guitar. Say<strong><a href="/why-did-hendrix-play-in-e-flat-tuning/" target="_blank" data-type="post" data-id="10787" rel="noopener" data-lasso-id="238689"> your band uses E Flat tuning</a></strong>, or D Standard. You can use the capo to put your guitar back into standard tuning.</p>
 
 
 
-<p>There are various types of capos available, including spring-loaded capos, strap-on capos, spider capos, and partial capos. Choose the one that suits your playing style and preference. <strong><a data-lasso-id="238405" href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener">There are even 7 string guitar </a></strong>capos available, and partial capos can work as &#8220;extra fingers&#8221; in some instances.</p>
+<p>There are various types of capos available, including spring-loaded capos, strap-on capos, spider capos, and partial capos. Choose the one that suits your playing style and preference. <strong><a data-lasso-id="238405" href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener">There are even 7 string guitar </a></strong>capos available, and partial capos can work as &#8220;extra fingers&#8221; in some instances.</p>
 
 
 
@@ -294,11 +294,11 @@ seo:
 
 
 
-<p>If you ARE worried about your frets getting dented from too much pressure, and adjustable capo like the <strong><a href="https://www.electrikjam.com/shubb-original-c-series-steel-string-guitar-capo-nickel-guitar-center/" target="_blank" data-type="lasso-urls" data-id="12156" rel="nofollow sponsored noopener" data-lasso-id="238691" data-lasso-name="Shubb Original C-Series Steel String Guitar Capo Nickel">SHUBB C-Series is a good idea</a></strong>, since it has adjustable tension. Again, I have never had any issues, but some techs swear by adjustable-only capos.</p>
+<p>If you ARE worried about your frets getting dented from too much pressure, and adjustable capo like the <strong><a href="/shubb-original-c-series-steel-string-guitar-capo-nickel-guitar-center/" target="_blank" data-type="lasso-urls" data-id="12156" rel="nofollow sponsored noopener" data-lasso-id="238691" data-lasso-name="Shubb Original C-Series Steel String Guitar Capo Nickel">SHUBB C-Series is a good idea</a></strong>, since it has adjustable tension. Again, I have never had any issues, but some techs swear by adjustable-only capos.</p>
 
 
 
-<p><strong>You should always <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246513">check your guitar neck</a>, and the finish type before using a capo. </strong>Using a capo that is made with cheap foam can ruin a Nitrocellulose finish for example. You should always buy from a reputable name brand. The cheap, no-name capos may be less expensive, but they can literally destroy your guitar.</p>
+<p><strong>You should always <a href="/parts-of-an-electric-guitar/" data-lasso-id="246513">check your guitar neck</a>, and the finish type before using a capo. </strong>Using a capo that is made with cheap foam can ruin a Nitrocellulose finish for example. You should always buy from a reputable name brand. The cheap, no-name capos may be less expensive, but they can literally destroy your guitar.</p>
 
 
 

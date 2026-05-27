@@ -105,11 +105,11 @@ seo:
 
 
 
-<p>But then Matt started rocking a Les Paul Custom with <a data-lasso-id="131500" href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener"><strong>EMG</strong> </a>pickups. I am not entirely sure when he made the switch, but i remember seeing a video of Matt talking about how much he has always adored the Les Paul ( And his father played one). A few years later, we got the <em>original</em> Epiphone Matt Heafy Les Paul models. These were made to Matt&#8217;s specs, and were shipped with all of the same upgrades that he uses. But this is when our story takes an unexpected turn.</p>
+<p>But then Matt started rocking a Les Paul Custom with <a data-lasso-id="131500" href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener"><strong>EMG</strong> </a>pickups. I am not entirely sure when he made the switch, but i remember seeing a video of Matt talking about how much he has always adored the Les Paul ( And his father played one). A few years later, we got the <em>original</em> Epiphone Matt Heafy Les Paul models. These were made to Matt&#8217;s specs, and were shipped with all of the same upgrades that he uses. But this is when our story takes an unexpected turn.</p>
 
 
 
-<p>Matt started playing his <a data-lasso-id="131501" href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-type="post" data-id="4807" target="_blank" rel="noopener"><strong>Epiphone</strong></a> models live, <em>at every single show</em>. You see, the thing about affordable signature models is that the artist is <em>rarely</em> seen playing the &#8220;cheap&#8221; version of their guitar. Take <strong>Slash</strong> for example, who also has an Epiphone Artist<em> Collection</em>. You probably haven&#8217;t caught Slash playing any Epiphone guitars on tour, since he almost always plays his Gibson version. This is almost always the case with the affordable signature models, so no one really bats an eye in the guitarist community.</p>
+<p>Matt started playing his <a data-lasso-id="131501" href="/what-is-the-best-quality-epiphone-les-paul/" data-type="post" data-id="4807" target="_blank" rel="noopener"><strong>Epiphone</strong></a> models live, <em>at every single show</em>. You see, the thing about affordable signature models is that the artist is <em>rarely</em> seen playing the &#8220;cheap&#8221; version of their guitar. Take <strong>Slash</strong> for example, who also has an Epiphone Artist<em> Collection</em>. You probably haven&#8217;t caught Slash playing any Epiphone guitars on tour, since he almost always plays his Gibson version. This is almost always the case with the affordable signature models, so no one really bats an eye in the guitarist community.</p>
 
 
 
@@ -117,11 +117,11 @@ seo:
 
 
 
-<p>I thought about this whole situation a lot over the last year, and I can count the people that actually play their &#8220;affordable models&#8221; on one hand. <strong><a data-lasso-id="131502" href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener">Nick Johnston</a> </strong>is definitely one of them, since you see him use his <a data-lasso-id="131503" href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter</strong> </a>Diamond Series models <em>all the time</em>. But most big name players release the affordable models, and then <em>never play them live</em>. It says something about the integrity of the guitarist, in my opinion. Would I play my own custom shop models? Yes, I would&#8230;but I would also give the affordable models some love too.</p>
+<p>I thought about this whole situation a lot over the last year, and I can count the people that actually play their &#8220;affordable models&#8221; on one hand. <strong><a data-lasso-id="131502" href="/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener">Nick Johnston</a> </strong>is definitely one of them, since you see him use his <a data-lasso-id="131503" href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter</strong> </a>Diamond Series models <em>all the time</em>. But most big name players release the affordable models, and then <em>never play them live</em>. It says something about the integrity of the guitarist, in my opinion. Would I play my own custom shop models? Yes, I would&#8230;but I would also give the affordable models some love too.</p>
 
 
 
-<p>That is, if these affordable models were <em>quality</em> instruments. The Epiphone Matt Heafy Origins models are pretty damn fancy for an Epiphone, and they outclass even the newer <a data-lasso-id="131504" href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" target="_blank" rel="noopener"><strong>Prophecy</strong></a> Series, in my opinion. Epiphone really pushed the boundaries with these new models, <em>and it shows</em>. Even the original models from a decade ago were amazing guitars, at <em>any</em> price. Matt could easily just play Gibson,<em> but he doesn&#8217;t</em>.</p>
+<p>That is, if these affordable models were <em>quality</em> instruments. The Epiphone Matt Heafy Origins models are pretty damn fancy for an Epiphone, and they outclass even the newer <a data-lasso-id="131504" href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" target="_blank" rel="noopener"><strong>Prophecy</strong></a> Series, in my opinion. Epiphone really pushed the boundaries with these new models, <em>and it shows</em>. Even the original models from a decade ago were amazing guitars, at <em>any</em> price. Matt could easily just play Gibson,<em> but he doesn&#8217;t</em>.</p>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" target="_blank" data-type="post" data-id="6962" rel="noopener" data-lasso-id="132417"><strong>Epiphone</strong></a> Matt Heafy Origins is a sight to behold in person. I have always loved the classic Les Paul Custom design, and this guitar is no exception. It just reeks of &#8220;classy&#8221; when you see the stark white/black finishes with gold hardware. The Epiphone Matt Heafy Origins guitars also have the classic triple binding, and a full maple cap. But appearances can be deceiving, and this is not your &#8220;classic&#8221; Les Paul.</p>
+<p>The <a href="/why-the-beatles-used-epiphone-not-gibson/" target="_blank" data-type="post" data-id="6962" rel="noopener" data-lasso-id="132417"><strong>Epiphone</strong></a> Matt Heafy Origins is a sight to behold in person. I have always loved the classic Les Paul Custom design, and this guitar is no exception. It just reeks of &#8220;classy&#8221; when you see the stark white/black finishes with gold hardware. The Epiphone Matt Heafy Origins guitars also have the classic triple binding, and a full maple cap. But appearances can be deceiving, and this is not your &#8220;classic&#8221; Les Paul.</p>
 
 
 
@@ -263,7 +263,7 @@ seo:
 
 
 
-<p>The Grover locking tuners are a great addition, and any working guitarist will tell you that<a href="https://www.electrikjam.com/what-are-locking-tuners/" data-type="post" data-id="5971" target="_blank" rel="noopener" data-lasso-id="132418"> <strong>locking tuners</strong></a> are a <em>game changer</em>. Having locking tuners makes changing strings a breeze. It takes all of 5 minutes to <a href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211009">change the strings on a guitar</a> with locking tuners, and if you gig&#8230; you will be changing strings <em>a lot</em>. The &#8220;Tulip&#8221; style buttons are a killer accent, and a cool choice.</p>
+<p>The Grover locking tuners are a great addition, and any working guitarist will tell you that<a href="/what-are-locking-tuners/" data-type="post" data-id="5971" target="_blank" rel="noopener" data-lasso-id="132418"> <strong>locking tuners</strong></a> are a <em>game changer</em>. Having locking tuners makes changing strings a breeze. It takes all of 5 minutes to <a href="/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211009">change the strings on a guitar</a> with locking tuners, and if you gig&#8230; you will be changing strings <em>a lot</em>. The &#8220;Tulip&#8221; style buttons are a killer accent, and a cool choice.</p>
 
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<p>Unlike most guitars with active pickups, the Epiphone Matt Heafy Origins places the battery right on the back cover access panel. This was a big surprise to me, since I am so used to seeing the little 9 Volt battery back <em>carved</em> into the back of the guitar. This just makes the back of the guitar look a lot more like its classic brothers, and I like the conservative approach. The <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener" data-lasso-id="132419"><strong>Fishman Pickups</strong></a> even match the hardware, with a gold stripe down the middle of both pickups!</p>
+<p>Unlike most guitars with active pickups, the Epiphone Matt Heafy Origins places the battery right on the back cover access panel. This was a big surprise to me, since I am so used to seeing the little 9 Volt battery back <em>carved</em> into the back of the guitar. This just makes the back of the guitar look a lot more like its classic brothers, and I like the conservative approach. The <a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener" data-lasso-id="132419"><strong>Fishman Pickups</strong></a> even match the hardware, with a gold stripe down the middle of both pickups!</p>
 
 
 
@@ -287,7 +287,7 @@ seo:
 
 
 
-<p><strong>The Neck: </strong>is a slim taper, much like a 60&#8217;s Les Paul neck, but it has more of a D shaped profile. This makes the neck not only slim, but it flattens out the higher up the fretboard you go. The radius is not on the spec sheet, but I can assure you that it is 14&#8221;. If you can picture an <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="132420"><strong>Ibanez</strong></a> Wizard neck, with a little bit more wood, that is<em> exactly</em> how it feels. In fact, it is almost exactly like a Premium Series Ibanez. Even the measurements are <em>almost </em>the same at the nut and 12th fret (we measured)!</p>
+<p><strong>The Neck: </strong>is a slim taper, much like a 60&#8217;s Les Paul neck, but it has more of a D shaped profile. This makes the neck not only slim, but it flattens out the higher up the fretboard you go. The radius is not on the spec sheet, but I can assure you that it is 14&#8221;. If you can picture an <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="132420"><strong>Ibanez</strong></a> Wizard neck, with a little bit more wood, that is<em> exactly</em> how it feels. In fact, it is almost exactly like a Premium Series Ibanez. Even the measurements are <em>almost </em>the same at the nut and 12th fret (we measured)!</p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p>That being said, the <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="132421"><strong>7 String</strong></a> version of the Epiphone Matt Heafy Origins is one of the best 7 string necks I have played lately. Some guitarists will have a problem with the 25.5 scale length on the 7 string. So if you drop tune past A, this might <em>not</em> be the 7 string for you. <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142232">Personally, I stay in standard tuning</a> with 7 string guitars, so it wasn&#8217;t a problem for me at all. Just something to note, if you like to tune down. Otherwise, this neck rivals most Ibanez Wizard necks to me.</p>
+<p>That being said, the <a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="132421"><strong>7 String</strong></a> version of the Epiphone Matt Heafy Origins is one of the best 7 string necks I have played lately. Some guitarists will have a problem with the 25.5 scale length on the 7 string. So if you drop tune past A, this might <em>not</em> be the 7 string for you. <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142232">Personally, I stay in standard tuning</a> with 7 string guitars, so it wasn&#8217;t a problem for me at all. Just something to note, if you like to tune down. Otherwise, this neck rivals most Ibanez Wizard necks to me.</p>
 
 
 
@@ -319,7 +319,7 @@ seo:
 
 
 
-<p>So, if you are a regular reader here, you know that I have not had the greatest experience with <a href="https://www.electrikjam.com/fishman-fluence-modern-link/" data-type="lasso-urls" data-id="4413" target="_blank" rel="nofollow noopener" data-lasso-id="132422" data-lasso-name="Fishman Fluence Modern"><strong>Fishman</strong></a> Pickups. The only ones I have really tried are the <strong>Modern</strong> line. The Epiphone Matt Heafy Origins Les Paul has the Fishman MKH Pickups, so hopefully these will be better to my ears. Like usual, I used my <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="132423"><strong>BOSS</strong> <strong>Katana</strong> </a>and<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="132424" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center">Blackstar HT</a></strong> to test this axe out. I figure both of these amps would be in the same price range as people who would buy this guitar.</p>
+<p>So, if you are a regular reader here, you know that I have not had the greatest experience with <a href="/fishman-fluence-modern-link/" data-type="lasso-urls" data-id="4413" target="_blank" rel="nofollow noopener" data-lasso-id="132422" data-lasso-name="Fishman Fluence Modern"><strong>Fishman</strong></a> Pickups. The only ones I have really tried are the <strong>Modern</strong> line. The Epiphone Matt Heafy Origins Les Paul has the Fishman MKH Pickups, so hopefully these will be better to my ears. Like usual, I used my <a href="/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="132423"><strong>BOSS</strong> <strong>Katana</strong> </a>and<strong> <a href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="132424" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center">Blackstar HT</a></strong> to test this axe out. I figure both of these amps would be in the same price range as people who would buy this guitar.</p>
 
 
 
@@ -345,7 +345,7 @@ seo:
 
 
 
-<p>Starting with clean tones, the MKH Fluence set sounds great on the neck pickup, and the coil split voicing is a <em>true</em> coil split. This means you get 60 cycle hum, so it might be a good idea to avoid high gain with the coil split. But for cleans? It sounds about as close to a real single coil sound that you can get out of an active humbucker. So for big clean chords, the coil split is gorgeous with a little bit of reverb and delay, especially in the middle<a href="https://www.electrikjam.com/guitar-pickup-positions/" target="_blank" data-type="post" data-id="7941" rel="noopener" data-lasso-id="132425"><strong> position</strong></a>.</p>
+<p>Starting with clean tones, the MKH Fluence set sounds great on the neck pickup, and the coil split voicing is a <em>true</em> coil split. This means you get 60 cycle hum, so it might be a good idea to avoid high gain with the coil split. But for cleans? It sounds about as close to a real single coil sound that you can get out of an active humbucker. So for big clean chords, the coil split is gorgeous with a little bit of reverb and delay, especially in the middle<a href="/guitar-pickup-positions/" target="_blank" data-type="post" data-id="7941" rel="noopener" data-lasso-id="132425"><strong> position</strong></a>.</p>
 
 
 
@@ -357,7 +357,7 @@ seo:
 
 
 
-<p>However, just like the <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener" data-lasso-id="132426"><strong>Fishman Fluence Modern</strong> </a>set that I owned for a little over a year, the difference between the &#8220;Passive&#8221; and &#8220;Active&#8221; setting is <em>very subtle</em>. In fact, it is so subtle, you might not even notice the difference when you are playing. It makes a bigger impact when you are playing chords, for sure. But really, <strong>the difference is in the frequency</strong>. This is not something you can really hear unless everything is <em>really loud</em>, or you are recording multiple tracks.</p>
+<p>However, just like the <a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener" data-lasso-id="132426"><strong>Fishman Fluence Modern</strong> </a>set that I owned for a little over a year, the difference between the &#8220;Passive&#8221; and &#8220;Active&#8221; setting is <em>very subtle</em>. In fact, it is so subtle, you might not even notice the difference when you are playing. It makes a bigger impact when you are playing chords, for sure. But really, <strong>the difference is in the frequency</strong>. This is not something you can really hear unless everything is <em>really loud</em>, or you are recording multiple tracks.</p>
 
 
 
@@ -393,7 +393,7 @@ seo:
 
 
 
-<p>Epiphone over the past few years has proven that the company is capable of making remarkable guitars at a budget price. Last year when I <a href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="132427"><strong>reviewed my first guitar</strong></a>, I was reminded of how amazing these guitars  can be. Epiphone has really become the &#8220;working man&#8217;s&#8221; guitar over the years. These may be in budget territory, but they<em> play and sound</em> way above the price point.</p>
+<p>Epiphone over the past few years has proven that the company is capable of making remarkable guitars at a budget price. Last year when I <a href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="132427"><strong>reviewed my first guitar</strong></a>, I was reminded of how amazing these guitars  can be. Epiphone has really become the &#8220;working man&#8217;s&#8221; guitar over the years. These may be in budget territory, but they<em> play and sound</em> way above the price point.</p>
 
 
 
@@ -401,7 +401,7 @@ seo:
 
 
 
-<p>There will always be people that think playing a Gibson on stage makes you &#8220;more like a pro&#8221;. But it has been nice to see that mindset slowly die out over the last decade. We see more players using affordable guitars these days, and there&#8217;s <em>nothing wrong with that</em>. You should play the guitar that <strong>speaks to you</strong>, and makes you<strong> want </strong>to play. Not some &#8220;wall trophy&#8221; that you barely ever pick up! I have been playing Schecter now for a few years, and I stand by <em>each one</em> of <a href="https://www.electrikjam.com/schecter-demon-7-review/" target="_blank" data-type="post" data-id="5811" rel="noopener" data-lasso-id="132428"><strong>my guitars</strong></a>.</p>
+<p>There will always be people that think playing a Gibson on stage makes you &#8220;more like a pro&#8221;. But it has been nice to see that mindset slowly die out over the last decade. We see more players using affordable guitars these days, and there&#8217;s <em>nothing wrong with that</em>. You should play the guitar that <strong>speaks to you</strong>, and makes you<strong> want </strong>to play. Not some &#8220;wall trophy&#8221; that you barely ever pick up! I have been playing Schecter now for a few years, and I stand by <em>each one</em> of <a href="/schecter-demon-7-review/" target="_blank" data-type="post" data-id="5811" rel="noopener" data-lasso-id="132428"><strong>my guitars</strong></a>.</p>
 
 
 
@@ -413,7 +413,7 @@ seo:
 
 
 
-<p>Epiphone has knocked it out of the park again, and I can see these selling really well. If you are looking for a gig-ready Les Paul that tends to sound better if you chug, then this guitar is for you. The Epiphone Matt Heafy Origins also comes in a <a href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener" data-lasso-id="132429"><strong>lefty</strong></a> version. It also features a custom Epiphone hard case that is ready for the road! Matt wanted these to be gig-worthy, and without a doubt&#8230;they are! Hopefully we see an <a href="https://www.electrikjam.com/what-is-an-evertune-bridge-the-1-guide/" data-type="post" data-id="2630" target="_blank" rel="noopener" data-lasso-id="132430"><strong>Evertune</strong></a> version in the future!</p>
+<p>Epiphone has knocked it out of the park again, and I can see these selling really well. If you are looking for a gig-ready Les Paul that tends to sound better if you chug, then this guitar is for you. The Epiphone Matt Heafy Origins also comes in a <a href="/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener" data-lasso-id="132429"><strong>lefty</strong></a> version. It also features a custom Epiphone hard case that is ready for the road! Matt wanted these to be gig-worthy, and without a doubt&#8230;they are! Hopefully we see an <a href="/what-is-an-evertune-bridge-the-1-guide/" data-type="post" data-id="2630" target="_blank" rel="noopener" data-lasso-id="132430"><strong>Evertune</strong></a> version in the future!</p>
 
 
 

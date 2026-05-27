@@ -43,11 +43,11 @@ seo:
 
 
 
-<p id="block-65736706-e0ca-41a9-a586-b83df8d8546a"><br>While we have reached out to musicians <a href="https://www.electrikjam.com/evan-hope-interview-the-reddit-shredder/" target="_blank" rel="noopener" data-lasso-id="41743"><strong>before</strong></a>, it&#8217;s time that we made it official!<strong> &#8220;Underexposed&#8221; is a brand new series of articles that focuses on underground/indie Metal artists that are making big waves in the scene.</strong> We have been really excited about this project, and we love giving back to the community! Hopefully, each week, we will have a new artist for you to explore, with their latest single.</p>
+<p id="block-65736706-e0ca-41a9-a586-b83df8d8546a"><br>While we have reached out to musicians <a href="/evan-hope-interview-the-reddit-shredder/" target="_blank" rel="noopener" data-lasso-id="41743"><strong>before</strong></a>, it&#8217;s time that we made it official!<strong> &#8220;Underexposed&#8221; is a brand new series of articles that focuses on underground/indie Metal artists that are making big waves in the scene.</strong> We have been really excited about this project, and we love giving back to the community! Hopefully, each week, we will have a new artist for you to explore, with their latest single.</p>
 
 
 
-<p>We will of course, keep up with the bigger names and keep those interviews coming! But this is a special place for newer bands just getting their feet wet. While it has never been easier to<a href="https://www.electrikjam.com/must-have-for-recording-guitar/" target="_blank" rel="noopener" data-lasso-id="41744"> <strong>record</strong> </a>your music and get it out there these days, this comes as a double edged sword. It may be <em>easy</em> to get your music recorded and sounding great even at the home level these days, with <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" rel="noopener" data-lasso-id="41745"><strong>various tools</strong></a> that are producer quality, yet available to the general public. </p>
+<p>We will of course, keep up with the bigger names and keep those interviews coming! But this is a special place for newer bands just getting their feet wet. While it has never been easier to<a href="/must-have-for-recording-guitar/" target="_blank" rel="noopener" data-lasso-id="41744"> <strong>record</strong> </a>your music and get it out there these days, this comes as a double edged sword. It may be <em>easy</em> to get your music recorded and sounding great even at the home level these days, with <a href="/expensive-amp-simulators/" target="_blank" rel="noopener" data-lasso-id="41745"><strong>various tools</strong></a> that are producer quality, yet available to the general public. </p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>&#8220;Solace&#8221; also caught me off guard when it comes to<strong> <em><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" target="_blank" data-type="post" data-id="1193" rel="noopener" data-lasso-id="41746">production</a></em></strong>, which is where I want to start with the criticism. I used the first two tracks as reference tracks in my DAW to compare with some other&#8230;ahem, <em>modern metal</em> tracks that were released last week. The sonic structure of the songs is way more dynamic and interesting than what we usually hear in &#8220;cookie cutter&#8221; metal these days. I may be a guitarist, but I am a producer <em>first and foremost</em>, and a lot of the sounds/production that Voltreus used were<em> totally</em> out of the ordinary. I very rarely do something like this, but the mix and the mastering are so unique on &#8220;Solace&#8221; that I used it for a reference track on <strong><a href="https://soundcloud.com/chris-horton-1/firsts" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="41747">my latest idea</a>.</strong></p>
+<p>&#8220;Solace&#8221; also caught me off guard when it comes to<strong> <em><a href="/how-to-record-electric-guitar-at-home-guide/" target="_blank" data-type="post" data-id="1193" rel="noopener" data-lasso-id="41746">production</a></em></strong>, which is where I want to start with the criticism. I used the first two tracks as reference tracks in my DAW to compare with some other&#8230;ahem, <em>modern metal</em> tracks that were released last week. The sonic structure of the songs is way more dynamic and interesting than what we usually hear in &#8220;cookie cutter&#8221; metal these days. I may be a guitarist, but I am a producer <em>first and foremost</em>, and a lot of the sounds/production that Voltreus used were<em> totally</em> out of the ordinary. I very rarely do something like this, but the mix and the mastering are so unique on &#8220;Solace&#8221; that I used it for a reference track on <strong><a href="https://soundcloud.com/chris-horton-1/firsts" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="41747">my latest idea</a>.</strong></p>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p>The blend of harsh vocals with a melodic hook is nothing new, but it&#8217;s hard to sound <em>sincere</em>. Tyler&#8217;s growls sound animalistic and closer to traditional black metal, while his cleans are soaring and uplifting. It&#8217;s an interesting dichotomy, but the two sounds mesh well when they shouldn&#8217;t. There are a few bands that do this well, like<a href="https://www.electrikjam.com/spiritbox-eternal-blue-review/" target="_blank" data-type="post" data-id="4309" rel="noopener" data-lasso-id="41748"><strong> Spiritbox.</strong></a> It seems like Voltreus is on this same path, and it&#8217;s <em>so refreshing</em> to hear done <em>right</em>.</p>
+<p>The blend of harsh vocals with a melodic hook is nothing new, but it&#8217;s hard to sound <em>sincere</em>. Tyler&#8217;s growls sound animalistic and closer to traditional black metal, while his cleans are soaring and uplifting. It&#8217;s an interesting dichotomy, but the two sounds mesh well when they shouldn&#8217;t. There are a few bands that do this well, like<a href="/spiritbox-eternal-blue-review/" target="_blank" data-type="post" data-id="4309" rel="noopener" data-lasso-id="41748"><strong> Spiritbox.</strong></a> It seems like Voltreus is on this same path, and it&#8217;s <em>so refreshing</em> to hear done <em>right</em>.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>Listening to the lyrics of &#8220;False Prophet&#8221;, it&#8217;s apparent exactly<em> why</em> it sounds so nasty. Whether this track is aimed at religion, or just betrayal in general is not important. The feel and the vibe is there, and it&#8217;s pure audio spite and malice that reminds me of early <strong>Architects</strong>. This is probably my favorite <a href="https://www.electrikjam.com/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234408">track on the album</a>, and it&#8217;s a real metal onslaught.</p>
+<p>Listening to the lyrics of &#8220;False Prophet&#8221;, it&#8217;s apparent exactly<em> why</em> it sounds so nasty. Whether this track is aimed at religion, or just betrayal in general is not important. The feel and the vibe is there, and it&#8217;s pure audio spite and malice that reminds me of early <strong>Architects</strong>. This is probably my favorite <a href="/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234408">track on the album</a>, and it&#8217;s a real metal onslaught.</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="960" height="640" src="/wp-content/uploads/2021/12/voltreus-band.jpg" alt="underexposed" class="wp-image-6343" title="" srcset="/wp-content/uploads/2021/12/voltreus-band.jpg 960w, /wp-content/uploads/2021/12/voltreus-band-600x400.jpg 600w, /wp-content/uploads/2021/12/voltreus-band-300x200.jpg 300w, /wp-content/uploads/2021/12/voltreus-band-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em><a href="https://www.electrikjam.com/voltreus-release-1st-new-single-2022/" data-lasso-id="128960"><strong>Voltreus</a> Killing It, Live</strong></em></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="640" src="/wp-content/uploads/2021/12/voltreus-band.jpg" alt="underexposed" class="wp-image-6343" title="" srcset="/wp-content/uploads/2021/12/voltreus-band.jpg 960w, /wp-content/uploads/2021/12/voltreus-band-600x400.jpg 600w, /wp-content/uploads/2021/12/voltreus-band-300x200.jpg 300w, /wp-content/uploads/2021/12/voltreus-band-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em><a href="/voltreus-release-1st-new-single-2022/" data-lasso-id="128960"><strong>Voltreus</a> Killing It, Live</strong></em></figcaption></figure>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<p><strong><em>Saul</em> </strong><em><strong>de Leon (guitarist):</strong> I used my &#8217;92 Mesa Boogie Dual Rectifier Revision F for my parts on the EP. I&#8217;ve always been a fan of how aggressive and punchy the tone is through my Mesa Boogie Flat Faced 4&#215;12. As far as guitars, I&#8217;ve always been a fan and prominent user of <a href="https://www.electrikjam.com/prs-2021-lineup-some-absolutely-lovely-additions/" target="_blank" data-type="post" data-id="1814" rel="noopener" data-lasso-id="41749"><strong>PRS</strong> </a>guitars. I used both my USA <a href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211012">Mark Tremonti Signature guitar</a> as well as my PRS SE Mike Mushok Signature guitar (baritone) for the lower tunings. The stability and reliability these guitar have, put all others in the dust. Although I&#8217;ve moved on to <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44659">other guitar brands</a> to try things out&#8230; PRS will always have a spot in my arsenal.</em></p>
+<p><strong><em>Saul</em> </strong><em><strong>de Leon (guitarist):</strong> I used my &#8217;92 Mesa Boogie Dual Rectifier Revision F for my parts on the EP. I&#8217;ve always been a fan of how aggressive and punchy the tone is through my Mesa Boogie Flat Faced 4&#215;12. As far as guitars, I&#8217;ve always been a fan and prominent user of <a href="/prs-2021-lineup-some-absolutely-lovely-additions/" target="_blank" data-type="post" data-id="1814" rel="noopener" data-lasso-id="41749"><strong>PRS</strong> </a>guitars. I used both my USA <a href="/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211012">Mark Tremonti Signature guitar</a> as well as my PRS SE Mike Mushok Signature guitar (baritone) for the lower tunings. The stability and reliability these guitar have, put all others in the dust. Although I&#8217;ve moved on to <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44659">other guitar brands</a> to try things out&#8230; PRS will always have a spot in my arsenal.</em></p>
 
 
 
@@ -179,11 +179,11 @@ seo:
 
 
 
-<p><br><em><strong>Devin Guy (bassist):</strong><br>I used a preset we found on a Kemper to get my tone for the &#8220;Solace&#8221; EP. <a href="https://www.electrikjam.com/orange-crush-amp/" data-lasso-id="99606">Orange amps</a> are my favorite for live, though. My bass is nothing remarkable, just a cheap Yahama! But it get&#8217;s the job done!</em></p>
+<p><br><em><strong>Devin Guy (bassist):</strong><br>I used a preset we found on a Kemper to get my tone for the &#8220;Solace&#8221; EP. <a href="/orange-crush-amp/" data-lasso-id="99606">Orange amps</a> are my favorite for live, though. My bass is nothing remarkable, just a cheap Yahama! But it get&#8217;s the job done!</em></p>
 
 
 
-<p><strong>Ferni Ramirez (guitarist):</strong><br><em>I used my ESP Ltd Arrow-1000 guitar with <a href="https://www.electrikjam.com/pxf-3/" target="_blank" data-type="lasso-urls" data-id="5816" rel="nofollow sponsored noopener" data-lasso-id="41750" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG</strong></a> pickups, an ESP Ltd EC-401 with<a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="41751"><strong> Fishman Fluence</strong></a> pickups, EVH 5150 III 50w Amplifier, Mesa Boogie oversized 4&#215;12 cab, and<a href="https://www.electrikjam.com/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="41752"> <strong>Line 6 </strong></a>HX Effects.</em></p>
+<p><strong>Ferni Ramirez (guitarist):</strong><br><em>I used my ESP Ltd Arrow-1000 guitar with <a href="/pxf-3/" target="_blank" data-type="lasso-urls" data-id="5816" rel="nofollow sponsored noopener" data-lasso-id="41750" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG</strong></a> pickups, an ESP Ltd EC-401 with<a href="/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="41751"><strong> Fishman Fluence</strong></a> pickups, EVH 5150 III 50w Amplifier, Mesa Boogie oversized 4&#215;12 cab, and<a href="/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="41752"> <strong>Line 6 </strong></a>HX Effects.</em></p>
 
 
 

@@ -40,11 +40,11 @@ seo:
 
 
 
-<p>It&#8217;s pedal week, here at www.electrikjam.com! Today we are going to talk about <a href="https://www.electrikjam.com/best-guitar-pedals-for-metal-our-top-choices-for-2020/" class="rank-math-link" data-lasso-id="316">our favorite picks for Metal guitar</a>, as well as a wildcard or two. We started the week off with a tutorial on how to <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="317">build your first pedalboard</a>. So now that you know how to get started, you&#8217;re going to need some pedals!</p>
+<p>It&#8217;s pedal week, here at www.electrikjam.com! Today we are going to talk about <a href="/best-guitar-pedals-for-metal-our-top-choices-for-2020/" class="rank-math-link" data-lasso-id="316">our favorite picks for Metal guitar</a>, as well as a wildcard or two. We started the week off with a tutorial on how to <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="317">build your first pedalboard</a>. So now that you know how to get started, you&#8217;re going to need some pedals!</p>
 
 
 
-<ul class="wp-block-list"><li><strong>RELATED: <a class="rank-math-link" href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-lasso-id="318">A List of The Best All-Time Guitar Pedals</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>RELATED: <a class="rank-math-link" href="/the-best-guitar-pedals-1968-2021/" data-lasso-id="318">A List of The Best All-Time Guitar Pedals</a></strong></li></ul>
 
 
 
@@ -84,19 +84,19 @@ seo:
 
 
 
-<p>The RVV G3 is not just an &#8220;amp in a pedal&#8221; style setup. The G3 can also be used in tandem with your <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="319">amp distortion</a> to change the tone for the better. This is because the G3 has a ton of midrange and highs that can blend without getting too muddy or cluttered sounding.</p>
+<p>The RVV G3 is not just an &#8220;amp in a pedal&#8221; style setup. The G3 can also be used in tandem with your <a href="/boss-katana-50-reviews/" data-lasso-id="319">amp distortion</a> to change the tone for the better. This is because the G3 has a ton of midrange and highs that can blend without getting too muddy or cluttered sounding.</p>
 
 
 
-<p>This would be a great pedal for giving your amp&#8217;s distortion a bit of a boost. I have seen this work really well with the <a href="https://www.electrikjam.com/peavey-5150-vs-bugera-626/" data-type="post" data-id="803" data-lasso-id="320">5150 Series</a> of amps. At the same time, this can also be used in your effects loops as your primary distortion. This versatility is worth the slightly high price tag in my opinion.</p>
+<p>This would be a great pedal for giving your amp&#8217;s distortion a bit of a boost. I have seen this work really well with the <a href="/peavey-5150-vs-bugera-626/" data-type="post" data-id="803" data-lasso-id="320">5150 Series</a> of amps. At the same time, this can also be used in your effects loops as your primary distortion. This versatility is worth the slightly high price tag in my opinion.</p>
 
 
 
-<p>This is definitely a &#8220;modern&#8221; sounding pedal. The REVV is a <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5814">modern amp built for Metal</a>. So if you are looking for something a little more conservative&#8230;</p>
+<p>This is definitely a &#8220;modern&#8221; sounding pedal. The REVV is a <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5814">modern amp built for Metal</a>. So if you are looking for something a little more conservative&#8230;</p>
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/revv-g3-pedal/" data-lasso-id="321">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/revv-g3-pedal/" data-lasso-id="321">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>BOSS really doesn&#8217;t need any introductions, and we are <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="322">big fans around here.</a> We absolutely adore the Katana series of amps. But where BOSS shines, is where it started&#8230;pedals.</p>
+<p>BOSS really doesn&#8217;t need any introductions, and we are <a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="322">big fans around here.</a> We absolutely adore the Katana series of amps. But where BOSS shines, is where it started&#8230;pedals.</p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/boss-ds1-pedal/" data-lasso-id="323">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/boss-ds1-pedal/" data-lasso-id="323">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>Brian Wampler has been making some really <a href="https://www.electrikjam.com/blackstar-dept-10-review/" data-lasso-id="200817">cool pedals</a> for decades. He puts his personal touch on every single pedal he designs. Keeping up with the times, Wampler designed a great pedal for modern Metal players.</p>
+<p>Brian Wampler has been making some really <a href="/blackstar-dept-10-review/" data-lasso-id="200817">cool pedals</a> for decades. He puts his personal touch on every single pedal he designs. Keeping up with the times, Wampler designed a great pedal for modern Metal players.</p>
 
 
 
@@ -164,11 +164,11 @@ seo:
 
 
 
-<p>The Dracarys is another pedal that works best in front of your amp, used on the clean channel. This pedal sets out to replace your <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2518">amp&#8217;s distortion all together</a>. If that&#8217;s what you&#8217;re looking for, you would be hard pressed to find another pedal that works this well in that kind of setting.</p>
+<p>The Dracarys is another pedal that works best in front of your amp, used on the clean channel. This pedal sets out to replace your <a href="/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2518">amp&#8217;s distortion all together</a>. If that&#8217;s what you&#8217;re looking for, you would be hard pressed to find another pedal that works this well in that kind of setting.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/wampler-dracarys-pedal/" class="rank-math-link" data-lasso-id="324">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a href="/recommends/wampler-dracarys-pedal/" class="rank-math-link" data-lasso-id="324">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p>The HM300 is based on the now discontinued BOSS HM2. The discontinued BOSS Heavy <a href="https://www.electrikjam.com/the-5-best-wah-pedals-for-metal-review/" data-lasso-id="169476">Metal pedal</a> is the secret ingredient for the sound of Swedish Death Metal. Since it is not available anywhere but the sparse used market, the Behringer is a <em>great</em> alternative.</p>
+<p>The HM300 is based on the now discontinued BOSS HM2. The discontinued BOSS Heavy <a href="/the-5-best-wah-pedals-for-metal-review/" data-lasso-id="169476">Metal pedal</a> is the secret ingredient for the sound of Swedish Death Metal. Since it is not available anywhere but the sparse used market, the Behringer is a <em>great</em> alternative.</p>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<p>When asked at a guitar convention if BOSS would ever release a <a href="https://www.electrikjam.com/boss-hm2-pedal-finally-confirmed-new-for-2021/" data-lasso-id="325">new edition of the HM2</a>, they said &#8221; Not likely&#8221;. So we are left to our own devices to try and get that early grinding, nasty Death Metal tone. With the low price and solid construction, the HM300 is a perfect replacement!</p>
+<p>When asked at a guitar convention if BOSS would ever release a <a href="/boss-hm2-pedal-finally-confirmed-new-for-2021/" data-lasso-id="325">new edition of the HM2</a>, they said &#8221; Not likely&#8221;. So we are left to our own devices to try and get that early grinding, nasty Death Metal tone. With the low price and solid construction, the HM300 is a perfect replacement!</p>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/behringer-hm300-pedal/" data-lasso-id="326">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/behringer-hm300-pedal/" data-lasso-id="326">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -236,15 +236,15 @@ seo:
 
 
 
-<p>Most of us have <a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="327">different guitars for different tunings</a>. I have my <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="328">7 string</a> for B standard, a guitar in C standard, a guitar for half-step down&#8230;it starts to add up. But until recently, there really wasn&#8217;t a good solution.</p>
+<p>Most of us have <a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="327">different guitars for different tunings</a>. I have my <a href="/types-of-guitars-guide/" data-lasso-id="328">7 string</a> for B standard, a guitar in C standard, a guitar for half-step down&#8230;it starts to add up. But until recently, there really wasn&#8217;t a good solution.</p>
 
 
 
-<p>Digitech created the original Whammy years ago, and it had a pedal. <a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="329">Dimebag Darrell was</a> famous for using one in <strong>Pantera </strong>. What Digitech did, was update the technology so you the pedal tracks the notes betters when you are playing. The design is the Whammy Ricochet.</p>
+<p>Digitech created the original Whammy years ago, and it had a pedal. <a href="/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="329">Dimebag Darrell was</a> famous for using one in <strong>Pantera </strong>. What Digitech did, was update the technology so you the pedal tracks the notes betters when you are playing. The design is the Whammy Ricochet.</p>
 
 
 
-<p>This can go two octaves up in pitch, or two octaves down, and anywhere in between. This allows you to <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="330">play in any tuning you want</a>, without ever having to detune your actual guitar.</p>
+<p>This can go two octaves up in pitch, or two octaves down, and anywhere in between. This allows you to <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="330">play in any tuning you want</a>, without ever having to detune your actual guitar.</p>
 
 
 
@@ -252,7 +252,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/digitech-whammy-ricochet/" data-lasso-id="331">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/digitech-whammy-ricochet/" data-lasso-id="331">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/tc-electronics-flashback-2/" data-lasso-id="332">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/tc-electronics-flashback-2/" data-lasso-id="332">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -320,7 +320,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/joyo-atmosphere-reverb/" data-lasso-id="333">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/joyo-atmosphere-reverb/" data-lasso-id="333">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -332,11 +332,11 @@ seo:
 
 
 
-<p>These are all just my personal choices when it comes to <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="334">highly-usable guitar pedals</a>. Everyone is different, and has different needs so maybe you don&#8217;t need guitar pedals at all, and use a good <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="335">modeling amp</a>. That&#8217;s a perfectly fine option.</p>
+<p>These are all just my personal choices when it comes to <a href="/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="334">highly-usable guitar pedals</a>. Everyone is different, and has different needs so maybe you don&#8217;t need guitar pedals at all, and use a good <a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="335">modeling amp</a>. That&#8217;s a perfectly fine option.</p>
 
 
 
-<p>But for those of us that like to experiment a little more, I think this list will definitely send you in the right direction. You never really <a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133460">know what you need</a> until you try it out for yourself. </p>
+<p>But for those of us that like to experiment a little more, I think this list will definitely send you in the right direction. You never really <a href="/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133460">know what you need</a> until you try it out for yourself. </p>
 
 
 

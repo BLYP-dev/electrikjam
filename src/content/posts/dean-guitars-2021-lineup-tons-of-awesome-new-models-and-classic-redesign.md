@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>In a world full of <a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="725">Ibanez,</a> Schecter, and <a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="726">Gibson</a>&#8230; we have Dean Guitars sitting all by itself to the side. This has unfortunately been the case for quite a long time. Dean often gets a few famous supporters, and they have always had a <strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="727">Dimebag Darrell</a> </strong>model or two. But when the market shifted to Muli-scale instruments and <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="728">7 string guitars..</a>. Dean mostly ignored it.</p>
+<p>In a world full of <a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="725">Ibanez,</a> Schecter, and <a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="726">Gibson</a>&#8230; we have Dean Guitars sitting all by itself to the side. This has unfortunately been the case for quite a long time. Dean often gets a few famous supporters, and they have always had a <strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="727">Dimebag Darrell</a> </strong>model or two. But when the market shifted to Muli-scale instruments and <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="728">7 string guitars..</a>. Dean mostly ignored it.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p><em>But now we went to the next level and teamed up with Kahler to add the benefit of a USA Kahler tremolo system made specifically for multiscale guitars. It even has the Kahler locking nut with built in string tree to keep the pitch of the string stable when locking down. Loaded with a pair of <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7452">Seymour Duncan Angled Sentient and Nazgul pickups</a> that not match the look of the guitar but line up perfect with the strings for pure accurate tones. </em></p>
+<p><em>But now we went to the next level and teamed up with Kahler to add the benefit of a USA Kahler tremolo system made specifically for multiscale guitars. It even has the Kahler locking nut with built in string tree to keep the pitch of the string stable when locking down. Loaded with a pair of <a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7452">Seymour Duncan Angled Sentient and Nazgul pickups</a> that not match the look of the guitar but line up perfect with the strings for pure accurate tones. </em></p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<p>The Choice to go with the Duncan pickups is pretty ballsy if you ask me, since everyone seems to flock to <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="730">Fishman Fluence</a> these days. For me, this is a welcome change! I like a good passive pickup, and Duncan delivers for sure.</p>
+<p>The Choice to go with the Duncan pickups is pretty ballsy if you ask me, since everyone seems to flock to <a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="730">Fishman Fluence</a> these days. For me, this is a welcome change! I like a good passive pickup, and Duncan delivers for sure.</p>
 
 
 
@@ -128,11 +128,11 @@ seo:
 
 
 
-<p><em>&#8220;A salute to the man who has reinvented tone and versatility for 50 years! USA custom shop is proud to introduce the Michael Schenker USA 50th Anniversary V. In close collaboration with legendary guitarist and long-time <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5746">Dean Guitars</a> signature artist, Michael Schenker, we have created a truly amazing V that celebrates 50 years of Michaels legendary career. The stunning gold, black, and white finish adorns an all mahogany body and neck. </em></p>
+<p><em>&#8220;A salute to the man who has reinvented tone and versatility for 50 years! USA custom shop is proud to introduce the Michael Schenker USA 50th Anniversary V. In close collaboration with legendary guitarist and long-time <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5746">Dean Guitars</a> signature artist, Michael Schenker, we have created a truly amazing V that celebrates 50 years of Michaels legendary career. The stunning gold, black, and white finish adorns an all mahogany body and neck. </em></p>
 
 
 
-<p><em>The ebony fingerboard features beautiful pearl block inlays and 22 jumbo frets. A set of signature Michael Schenker, DMT Lights Out <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="731">Humbucking pickups</a> are used to generate the elusive tone of this amazing sounding guitar. Don&#8217;t miss your chance to own this unique piece of Michael Schenker history, celebrating 50 years of one of the most influential guitar icons of all time!&#8221;</em></p>
+<p><em>The ebony fingerboard features beautiful pearl block inlays and 22 jumbo frets. A set of signature Michael Schenker, DMT Lights Out <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="731">Humbucking pickups</a> are used to generate the elusive tone of this amazing sounding guitar. Don&#8217;t miss your chance to own this unique piece of Michael Schenker history, celebrating 50 years of one of the most influential guitar icons of all time!&#8221;</em></p>
 
 
 
@@ -152,11 +152,11 @@ seo:
 
 
 
-<p>No graphics. No crazy colors or exotic woods. Just a straight black tribute to Dime in the form of a blacked-out ML Model. Now I said I wasnt going to mention anything that we know would be in the Dean Guitars 2021 Lineup. But this seemed kind of special to me. It has been almost <a href="https://www.electrikjam.com/pantera-reunion-tour/" data-lasso-id="140269">20 years since we lost Dimebag</a>, and this is a great tribute to him, without going over the top.</p>
+<p>No graphics. No crazy colors or exotic woods. Just a straight black tribute to Dime in the form of a blacked-out ML Model. Now I said I wasnt going to mention anything that we know would be in the Dean Guitars 2021 Lineup. But this seemed kind of special to me. It has been almost <a href="/pantera-reunion-tour/" data-lasso-id="140269">20 years since we lost Dimebag</a>, and this is a great tribute to him, without going over the top.</p>
 
 
 
-<p><em>From the USA Custom shop in Tampa FL; the <a href="https://www.electrikjam.com/what-guitar-does-dimebag-darrell-use/" data-lasso-id="254819">Dimebag Darrell ML in Classic Black finish</a>. These guitars are perfect to his specs in such detail it could only come from Dean USA. Mahogany body with set mahogany V neck shape, Ebony fingerboard, Original Floyd Rose Top Mount tremolo system, and loaded with <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7419">Seymour Duncan SH-13 Dimebucker and USA DMT DimeTime pickups</a> to complete this beast. Form fitted Hard Shell case included.&#8221;</em></p>
+<p><em>From the USA Custom shop in Tampa FL; the <a href="/what-guitar-does-dimebag-darrell-use/" data-lasso-id="254819">Dimebag Darrell ML in Classic Black finish</a>. These guitars are perfect to his specs in such detail it could only come from Dean USA. Mahogany body with set mahogany V neck shape, Ebony fingerboard, Original Floyd Rose Top Mount tremolo system, and loaded with <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7419">Seymour Duncan SH-13 Dimebucker and USA DMT DimeTime pickups</a> to complete this beast. Form fitted Hard Shell case included.&#8221;</em></p>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<p>Ok Dean, this is different! It seems like <a href="https://www.electrikjam.com/best-selling-guitars/" data-lasso-id="19198">the past few years has brought back the popularity of the original &#8220;Super Strat&#8221;</a> that was so popular in the 80&#8243;s. <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44683">Charvel was a huge player</a> in that category, and their sales have been through the roof since last year.</p>
+<p>Ok Dean, this is different! It seems like <a href="/best-selling-guitars/" data-lasso-id="19198">the past few years has brought back the popularity of the original &#8220;Super Strat&#8221;</a> that was so popular in the 80&#8243;s. <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44683">Charvel was a huge player</a> in that category, and their sales have been through the roof since last year.</p>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<p><em>&#8220;Designed by professional musicians for professional musicians without breaking the bank. These Select Series models feature Satin Necks for ease of playing and endurance. Mahogany Bodies with 3pc mahogany necks. 22 jumbo fret Ebony Fingerboards. Easy access Set Through Construction, and the addition of a set of <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8224">Fishman Fluence moderns</a> with dual modes makes tonal options virtually endless. </em></p>
+<p><em>&#8220;Designed by professional musicians for professional musicians without breaking the bank. These Select Series models feature Satin Necks for ease of playing and endurance. Mahogany Bodies with 3pc mahogany necks. 22 jumbo fret Ebony Fingerboards. Easy access Set Through Construction, and the addition of a set of <a href="/what-are-active-pickups/" data-lasso-id="8224">Fishman Fluence moderns</a> with dual modes makes tonal options virtually endless. </em></p>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<p><em><a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246476">Mahogany body and Mahogany set neck construction</a> offer all the warm tones and sustain needed for any player. Loaded with DMT Series Time Capsule pickups to bring back the nostalgia of the original while being able to play all the music of today&#8217;s styles. With a trans cherry finish, bound body and bound Indian Rosewood Fingerboard is more guitar than one could ask for at right price.</em>&#8220;</p>
+<p><em><a href="/parts-of-an-electric-guitar/" data-lasso-id="246476">Mahogany body and Mahogany set neck construction</a> offer all the warm tones and sustain needed for any player. Loaded with DMT Series Time Capsule pickups to bring back the nostalgia of the original while being able to play all the music of today&#8217;s styles. With a trans cherry finish, bound body and bound Indian Rosewood Fingerboard is more guitar than one could ask for at right price.</em>&#8220;</p>
 
 
 

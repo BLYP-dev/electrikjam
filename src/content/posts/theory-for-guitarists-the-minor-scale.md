@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>But that&#8217;s exactly what we are trying to <em>put an end to</em>. If you checked out our article about<strong> <a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="127880">learning the fretboard </a></strong> then you are already ahead of a lot of guitarists! Then we tried to ease you into<strong> <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="127881">basic theory</a> </strong>the most simple way possible. Finally, we have learned about the <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="127882"><strong>Major Scale and Ionian mode</strong></a>, and why it is so important when it comes to theory for guitarists. Today, we are going to do the same thing again, just with the<strong> Minor Scale and Aeolian mode</strong>.</p>
+<p>But that&#8217;s exactly what we are trying to <em>put an end to</em>. If you checked out our article about<strong> <a href="/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="127880">learning the fretboard </a></strong> then you are already ahead of a lot of guitarists! Then we tried to ease you into<strong> <a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="127881">basic theory</a> </strong>the most simple way possible. Finally, we have learned about the <a href="/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="127882"><strong>Major Scale and Ionian mode</strong></a>, and why it is so important when it comes to theory for guitarists. Today, we are going to do the same thing again, just with the<strong> Minor Scale and Aeolian mode</strong>.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong>This is a &#8220;Hands On&#8221; type of lesson, so go ahead and grab your guitar, get <a href="https://www.electrikjam.com/how-to-tune-a-guitar/" target="_blank" data-type="post" data-id="441" rel="noopener" data-lasso-id="127883">tuned</a> up, and get ready to learn some basic music theory for guitarists!</strong></p>
+<p class="has-text-align-center"><strong>This is a &#8220;Hands On&#8221; type of lesson, so go ahead and grab your guitar, get <a href="/how-to-tune-a-guitar/" target="_blank" data-type="post" data-id="441" rel="noopener" data-lasso-id="127883">tuned</a> up, and get ready to learn some basic music theory for guitarists!</strong></p>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<p>These series of 8 notes all have a&nbsp;<strong>Interval Number</strong>, and that is where we get into the real function of Intervals. Each step/fret/note between your Root Note and the octave has a<em>&nbsp;different number</em>, but the&nbsp;<strong>Root Note is always “1</strong>“. These numbers are <a href="https://www.electrikjam.com/how-do-you-practice-scales/" data-lasso-id="215790">important when looking at scales</a>, because it will help you understand what makes the&nbsp;<strong>Quality</strong>&nbsp;of a scale. Adding sharps and flats will change the Quality of a scale or chord. The&nbsp;<a href="https://en.wikipedia.org/wiki/Major_scale" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="127884"><strong>C Major Scale</strong></a>&nbsp;for example, has<strong>&nbsp;no sharps or flats</strong>. The number system is easy to remember:</p>
+<p>These series of 8 notes all have a&nbsp;<strong>Interval Number</strong>, and that is where we get into the real function of Intervals. Each step/fret/note between your Root Note and the octave has a<em>&nbsp;different number</em>, but the&nbsp;<strong>Root Note is always “1</strong>“. These numbers are <a href="/how-do-you-practice-scales/" data-lasso-id="215790">important when looking at scales</a>, because it will help you understand what makes the&nbsp;<strong>Quality</strong>&nbsp;of a scale. Adding sharps and flats will change the Quality of a scale or chord. The&nbsp;<a href="https://en.wikipedia.org/wiki/Major_scale" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="127884"><strong>C Major Scale</strong></a>&nbsp;for example, has<strong>&nbsp;no sharps or flats</strong>. The number system is easy to remember:</p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>Looking at the fretboard as a series of numbered Intervals can take some getting used to, just like learning the&nbsp;<a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" target="_blank" rel="noopener" data-lasso-id="127885"><strong>notes of the fretboard</strong></a>. I know, it seems like more work since you <em>already</em> learned the notes and NOW they have numbers too! But as you dive into more basic music theory, it will start to become almost second nature when you look at scales. Music theory for guitarists is actually not that hard when we break it down to <em>simple numbers</em>.</p>
+<p>Looking at the fretboard as a series of numbered Intervals can take some getting used to, just like learning the&nbsp;<a href="/guitar-fretboard-notes-learn/" target="_blank" rel="noopener" data-lasso-id="127885"><strong>notes of the fretboard</strong></a>. I know, it seems like more work since you <em>already</em> learned the notes and NOW they have numbers too! But as you dive into more basic music theory, it will start to become almost second nature when you look at scales. Music theory for guitarists is actually not that hard when we break it down to <em>simple numbers</em>.</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p>Alright, if you are still with me it is <em>finally</em> time to check out the scale itself. In the previous article I mentioned that the <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" target="_blank" rel="noopener" data-lasso-id="127886"><strong>Major Scale</strong></a> is usually front and center in compositions. From film soundtracks to modern bands like <strong>Polyphia</strong>, the Major Scale is everywhere. But when you need a change in mood, the <strong>Minor Scale</strong> is the first place you turn to as a songwriter. This is especially true though when we are talking about theory for guitarists. Because as guitar player, we all <em>gravitate</em> to the Minor Scale.</p>
+<p>Alright, if you are still with me it is <em>finally</em> time to check out the scale itself. In the previous article I mentioned that the <a href="/basic-music-theory-for-guitarists-major-scale/" target="_blank" rel="noopener" data-lasso-id="127886"><strong>Major Scale</strong></a> is usually front and center in compositions. From film soundtracks to modern bands like <strong>Polyphia</strong>, the Major Scale is everywhere. But when you need a change in mood, the <strong>Minor Scale</strong> is the first place you turn to as a songwriter. This is especially true though when we are talking about theory for guitarists. Because as guitar player, we all <em>gravitate</em> to the Minor Scale.</p>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<p>Just like any scale pattern, you can take those Interval numbers and apply them <em>anywhere </em>on the fretboard. You can find the Root note anywhere on the guitar, and apply the Interval Numbers to the scale. You will still have Natural Minor, just in a different octave! If you had a guitar with 100 frets and 100 strings, this would never change, no matter where you played the note.<strong> <a href="https://www.electrikjam.com/schecter-demon-7-review/" target="_blank" data-type="post" data-id="5811" rel="noopener" data-lasso-id="127887">7 string</a></strong><a href="https://www.electrikjam.com/schecter-demon-7-review/" target="_blank" data-type="post" data-id="5811" rel="noopener" data-lasso-id="127888"> </a>players know what I&#8217;m talking about!</p>
+<p>Just like any scale pattern, you can take those Interval numbers and apply them <em>anywhere </em>on the fretboard. You can find the Root note anywhere on the guitar, and apply the Interval Numbers to the scale. You will still have Natural Minor, just in a different octave! If you had a guitar with 100 frets and 100 strings, this would never change, no matter where you played the note.<strong> <a href="/schecter-demon-7-review/" target="_blank" data-type="post" data-id="5811" rel="noopener" data-lasso-id="127887">7 string</a></strong><a href="/schecter-demon-7-review/" target="_blank" data-type="post" data-id="5811" rel="noopener" data-lasso-id="127888"> </a>players know what I&#8217;m talking about!</p>
 
 
 
@@ -195,7 +195,7 @@ seo:
 
 
 
-<p>Just like the <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="127889"><strong>Major Scale</strong></a> is the same Intervals as Ionian mode, <strong>Natural Minor is also Aeolian Mode</strong>. Look at you, accidently learning <em>another</em> Mode! <strong>Aeolian Mode is the 6th mode</strong>, and that will be important later when we discuss modes in <em>detail</em>. But if the Natural Minor Scale and Aeolian Mode are the same, then what&#8217;s up with the name? Why not just stick to calling it &#8220;Natural Minor&#8221;?</p>
+<p>Just like the <a href="/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="127889"><strong>Major Scale</strong></a> is the same Intervals as Ionian mode, <strong>Natural Minor is also Aeolian Mode</strong>. Look at you, accidently learning <em>another</em> Mode! <strong>Aeolian Mode is the 6th mode</strong>, and that will be important later when we discuss modes in <em>detail</em>. But if the Natural Minor Scale and Aeolian Mode are the same, then what&#8217;s up with the name? Why not just stick to calling it &#8220;Natural Minor&#8221;?</p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p>We are going to take that <strong>Flat Seventh</strong>, and raise it by a semitone to just a regular <strong>Seventh</strong>. The Harmonic Minor Scale is used best with songs that are in a <strong>Minor Key</strong>. But in Classical Compositions, you sometimes hear the Harmonic Minor played over the V Chord, and this just switches up the overall &#8220;flavor&#8221; of the composition. This works in the <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="127890"><strong>I IV V Chord</strong></a> Progression we have discussed before, as well! Let&#8217;s take a look at the scale:</p>
+<p>We are going to take that <strong>Flat Seventh</strong>, and raise it by a semitone to just a regular <strong>Seventh</strong>. The Harmonic Minor Scale is used best with songs that are in a <strong>Minor Key</strong>. But in Classical Compositions, you sometimes hear the Harmonic Minor played over the V Chord, and this just switches up the overall &#8220;flavor&#8221; of the composition. This works in the <a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="127890"><strong>I IV V Chord</strong></a> Progression we have discussed before, as well! Let&#8217;s take a look at the scale:</p>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<p>So next time a solo comes up in a heavy song, take notice to the scale they are using. Chances are there is some Harmonic Minor in there somewhere. It works especially well in Punk as well, and especially <a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" target="_blank" rel="noopener" data-lasso-id="127891"><strong>Doom Metal.</strong></a> Anything that primarily uses Power Chords can utilize the Harmonic Minor. But we also have one more part of the Minor Scale when it comes to theory for guitarists. And this one is used a whole lot as well!</p>
+<p>So next time a solo comes up in a heavy song, take notice to the scale they are using. Chances are there is some Harmonic Minor in there somewhere. It works especially well in Punk as well, and especially <a href="/best-guitars-for-doom-metal/" data-type="post" data-id="926" target="_blank" rel="noopener" data-lasso-id="127891"><strong>Doom Metal.</strong></a> Anything that primarily uses Power Chords can utilize the Harmonic Minor. But we also have one more part of the Minor Scale when it comes to theory for guitarists. And this one is used a whole lot as well!</p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p>I feel like the Melodic Minor Scale gets a bad reputation because it is often called &#8220;Jazz Minor&#8221;. To be perfectly fair, it is used a lot in Jazz and Bebop, but it can be used in a bunch of creative ways outside of just Jazz. If you are familiar, and think Melodic Minor is just for Jazz guitarists, then <a href="https://www.electrikjam.com/beatles-albums-in-order/" data-lasso-id="133514">maybe check out  The Beatles</a>. Songs like &#8220;Yesterday&#8221; are a perfect example of the use Harmonic Minor.</p>
+<p>I feel like the Melodic Minor Scale gets a bad reputation because it is often called &#8220;Jazz Minor&#8221;. To be perfectly fair, it is used a lot in Jazz and Bebop, but it can be used in a bunch of creative ways outside of just Jazz. If you are familiar, and think Melodic Minor is just for Jazz guitarists, then <a href="/beatles-albums-in-order/" data-lasso-id="133514">maybe check out  The Beatles</a>. Songs like &#8220;Yesterday&#8221; are a perfect example of the use Harmonic Minor.</p>
 
 
 
@@ -307,7 +307,7 @@ seo:
 
 
 
-<p>If you are improvising a guitar solo for example, knowing all three patterns of the Minor Scale is going to give you a wealth of options. If you hear a weird chord like a <strong><a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196518">Dm7b5 </strong>( D Minor 7, Flat 5)</a>, you will know to use the <strong>Melodic Minor </strong>once you get your ear trained to the sound of each scale. Music theory for guitarists can be a lifetime of experimenting and learning. <strong>I have spent 20 years, and I am <em>still </em>learning and taking classes!</strong></p>
+<p>If you are improvising a guitar solo for example, knowing all three patterns of the Minor Scale is going to give you a wealth of options. If you hear a weird chord like a <strong><a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196518">Dm7b5 </strong>( D Minor 7, Flat 5)</a>, you will know to use the <strong>Melodic Minor </strong>once you get your ear trained to the sound of each scale. Music theory for guitarists can be a lifetime of experimenting and learning. <strong>I have spent 20 years, and I am <em>still </em>learning and taking classes!</strong></p>
 
 
 
@@ -315,5 +315,5 @@ seo:
 
 
 
-<p>If you checked out our article on <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="127892"><strong>Music Theory F</strong></a><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="127893"><strong>or Guitarists</strong></a>, and<em> also</em> read about the <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="127894"><strong>Major Scale</strong></a>, you have a lot of usable knowledge from just three articles! Combine this with the trick we showed you to learn the<strong> <a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="127895">notes of the fretboard</a></strong>, and you have a whole <em>arsenal </em>of knowledge that you can weaponize in your own songwriting. Picture this as a toolbox, and each of these things are a different tool for a different job. <strong>Your toolbox is definitely more versatile now!</strong></p>
+<p>If you checked out our article on <a href="/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="127892"><strong>Music Theory F</strong></a><a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="127893"><strong>or Guitarists</strong></a>, and<em> also</em> read about the <a href="/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="127894"><strong>Major Scale</strong></a>, you have a lot of usable knowledge from just three articles! Combine this with the trick we showed you to learn the<strong> <a href="/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="127895">notes of the fretboard</a></strong>, and you have a whole <em>arsenal </em>of knowledge that you can weaponize in your own songwriting. Picture this as a toolbox, and each of these things are a different tool for a different job. <strong>Your toolbox is definitely more versatile now!</strong></p>
 

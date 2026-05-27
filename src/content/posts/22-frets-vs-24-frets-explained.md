@@ -86,7 +86,7 @@ seo:
 
 
 
-<p id="htoc-need-advice-on-what-guitar-to-get-read-our-guide-to-this-year-s-best-guitars-for-any-budget">Need advice on what guitar to get? Read our <strong><a href="https://www.electrikjam.com/best-electric-guitars/" data-type="page" data-id="4928">guide to this year&#8217;s best guitars for any budget. </a></strong> </p>
+<p id="htoc-need-advice-on-what-guitar-to-get-read-our-guide-to-this-year-s-best-guitars-for-any-budget">Need advice on what guitar to get? Read our <strong><a href="/best-electric-guitars/" data-type="page" data-id="4928">guide to this year&#8217;s best guitars for any budget. </a></strong> </p>
 </div>
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<p>I think that one of the reasons this may be true, is that guitar is a very<em> insular</em> community. We are pretty myopic when it comes to our views on the guitar. We play instruments that have not changed their design since the inception of electric guitar, but we <em>also</em> play headless multi-scale 8 string guitars. We have so many options when it comes to what <a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145774">the type of electric guitar we play</a>.</p>
+<p>I think that one of the reasons this may be true, is that guitar is a very<em> insular</em> community. We are pretty myopic when it comes to our views on the guitar. We play instruments that have not changed their design since the inception of electric guitar, but we <em>also</em> play headless multi-scale 8 string guitars. We have so many options when it comes to what <a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145774">the type of electric guitar we play</a>.</p>
 
 
 
@@ -106,15 +106,15 @@ seo:
 
 
 
-<p>But that&#8217;s because we have so many options, and so many<a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="118693"> <strong>budget</strong> </a>choices. Some of us would rather own five <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-type="post" data-id="4807" target="_blank" rel="noopener" data-lasso-id="118694"><strong>Epiphone</strong></a> guitars, instead of one <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener" data-lasso-id="118695"><strong>Gibson</strong></a>. The same goes for <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="118696"><strong>Fender</strong></a> and <a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="118697"><strong>Squier</strong></a> guitars, since both can be affordable<em> or </em>expensive. We are pretty far away from what a classical musician would pay for an instrument. But there is another reason to own more than one guitar&#8230;</p>
+<p>But that&#8217;s because we have so many options, and so many<a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="118693"> <strong>budget</strong> </a>choices. Some of us would rather own five <a href="/what-is-the-best-quality-epiphone-les-paul/" data-type="post" data-id="4807" target="_blank" rel="noopener" data-lasso-id="118694"><strong>Epiphone</strong></a> guitars, instead of one <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener" data-lasso-id="118695"><strong>Gibson</strong></a>. The same goes for <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="118696"><strong>Fender</strong></a> and <a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="118697"><strong>Squier</strong></a> guitars, since both can be affordable<em> or </em>expensive. We are pretty far away from what a classical musician would pay for an instrument. But there is another reason to own more than one guitar&#8230;</p>
 
 
 
-<p>Every guitar sounds different, even the same brand/model can sound different depending on how it was built. Different guitars have a vast array of<a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="118698"> </a><strong><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="118699">scale lengths</a>,</strong> body designs, <a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="118700"><strong>pickup configurations</strong></a>, and overall style. We have a massive amount of options to choose from, and they<em> all</em> affect the tonal quality of the guitar&#8217;s sound output. But one that isn&#8217;t talked about much is 22 frets VS 24 frets in guitar design.</p>
+<p>Every guitar sounds different, even the same brand/model can sound different depending on how it was built. Different guitars have a vast array of<a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="118698"> </a><strong><a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="118699">scale lengths</a>,</strong> body designs, <a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="118700"><strong>pickup configurations</strong></a>, and overall style. We have a massive amount of options to choose from, and they<em> all</em> affect the tonal quality of the guitar&#8217;s sound output. But one that isn&#8217;t talked about much is 22 frets VS 24 frets in guitar design.</p>
 
 
 
-<p>The whole 22 frets VS 24 frets argument started coming up when <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="118701"><strong>Ibanez</strong></a>, and other companies started making the &#8220;Super Strat&#8221; style guitars. For some players, it doesn&#8217;t matter at all, while other guitarists insist on one style or the other. Why would it even matter though? These are just the number of frets on a guitar, right?</p>
+<p>The whole 22 frets VS 24 frets argument started coming up when <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="118701"><strong>Ibanez</strong></a>, and other companies started making the &#8220;Super Strat&#8221; style guitars. For some players, it doesn&#8217;t matter at all, while other guitarists insist on one style or the other. Why would it even matter though? These are just the number of frets on a guitar, right?</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>Well, I guess it really depends on the player. <strong>Steve Vai</strong> was one of the flag-wavers for 24 frets in the early 80&#8217;s because he often needed that extended range for his solos. This is why he created the<strong> <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="118702">JEM with</a></strong><a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="118703"> <strong>Ibanez</strong></a>, and eventually the <a href="https://www.ibanez.com/usa/products/model/rg/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="118704"><strong>RG Series</strong></a>. In fact, 24 frets have become a standard feature on most &#8220;shredder&#8221; style guitars since the 1980&#8217;s. Obviously there is a reason for having those extra two frets, and it makes a lot of sense on paper:</p>
+<p>Well, I guess it really depends on the player. <strong>Steve Vai</strong> was one of the flag-wavers for 24 frets in the early 80&#8217;s because he often needed that extended range for his solos. This is why he created the<strong> <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="118702">JEM with</a></strong><a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="118703"> <strong>Ibanez</strong></a>, and eventually the <a href="https://www.ibanez.com/usa/products/model/rg/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="118704"><strong>RG Series</strong></a>. In fact, 24 frets have become a standard feature on most &#8220;shredder&#8221; style guitars since the 1980&#8217;s. Obviously there is a reason for having those extra two frets, and it makes a lot of sense on paper:</p>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<p>However the innovator of modern two-hand tapping,<a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="118705"> <strong>Eddie Van Halen</strong></a>, famously used <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="118706"><strong>22 fret guitars</strong></a>. I think we can all agree that Eddie was a &#8220;shredder&#8221; and he blazed the trail for guitarists that wanted to play melodically <em>and</em> fast. So this complicates the 22 frets VS 24 frets comparison. Eddie <em>and</em> Vai are both amazing shredders, so it must come down to <em>personal preference</em>. But what are the factors that influence that preference?</p>
+<p>However the innovator of modern two-hand tapping,<a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="118705"> <strong>Eddie Van Halen</strong></a>, famously used <a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="118706"><strong>22 fret guitars</strong></a>. I think we can all agree that Eddie was a &#8220;shredder&#8221; and he blazed the trail for guitarists that wanted to play melodically <em>and</em> fast. So this complicates the 22 frets VS 24 frets comparison. Eddie <em>and</em> Vai are both amazing shredders, so it must come down to <em>personal preference</em>. But what are the factors that influence that preference?</p>
 
 
 
@@ -162,11 +162,11 @@ seo:
 
 
 
-<p>I think we can all agree that &#8220;tone&#8221; is a very subjective thing. Some people listen to<strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" target="_blank" rel="noopener" data-lasso-id="118707"> Pantera</a> </strong>and think that <strong>Dimebag</strong> had the worst metal tone in the history of guitar. Even classics like &#8220;Crazy Train&#8221; aren&#8217;t safe from internet criticism regarding &#8220;tone&#8221;. But where does tone fit in when talking about 22 frets VS 24 frets? The answer can actually be surprising, because it makes a difference for a good, scientific reason.</p>
+<p>I think we can all agree that &#8220;tone&#8221; is a very subjective thing. Some people listen to<strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" target="_blank" rel="noopener" data-lasso-id="118707"> Pantera</a> </strong>and think that <strong>Dimebag</strong> had the worst metal tone in the history of guitar. Even classics like &#8220;Crazy Train&#8221; aren&#8217;t safe from internet criticism regarding &#8220;tone&#8221;. But where does tone fit in when talking about 22 frets VS 24 frets? The answer can actually be surprising, because it makes a difference for a good, scientific reason.</p>
 
 
 
-<p>Where your pickups are located on a guitar has a massive impact on how they output sound. We recently talked about this when we went over the<a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="118708"> <strong>different pickup positions</strong></a>, and how to use them. We looked at the two most popular guitars: Dual humbucker models, and triple single coil models. Both types of guitar have the same thing in common:</p>
+<p>Where your pickups are located on a guitar has a massive impact on how they output sound. We recently talked about this when we went over the<a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="118708"> <strong>different pickup positions</strong></a>, and how to use them. We looked at the two most popular guitars: Dual humbucker models, and triple single coil models. Both types of guitar have the same thing in common:</p>
 
 
 
@@ -186,11 +186,11 @@ seo:
 
 
 
-<p><strong> A 24 fret <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246492">guitar&#8217;s neck and bridge</a> pickups is pushed back to accommodate the extra two frets on the longer neck. This means that the neck pickup loses its distinct tone, and has more midrange and treble since it is slightly closer to the bridge. Likewise, the bridge pickup is closer to the neck as well on a 24 fret guitar, changing the tone.</strong> <strong>The gap between both pickups are also closer to each other on a 24 fret guitar.</strong></p>
+<p><strong> A 24 fret <a href="/parts-of-an-electric-guitar/" data-lasso-id="246492">guitar&#8217;s neck and bridge</a> pickups is pushed back to accommodate the extra two frets on the longer neck. This means that the neck pickup loses its distinct tone, and has more midrange and treble since it is slightly closer to the bridge. Likewise, the bridge pickup is closer to the neck as well on a 24 fret guitar, changing the tone.</strong> <strong>The gap between both pickups are also closer to each other on a 24 fret guitar.</strong></p>
 
 
 
-<p>Don&#8217;t believe me? If you have a 22 fret and 24 guitar, measure the distance between the pickups on each guitar. The make and model will vary between brands, but the measurement should be about a three quarters of an inch, to a full inch of difference. I did a test on my two favorite<a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="118709"><strong> Schecter</strong></a> guitars to show the difference in the following example.</p>
+<p>Don&#8217;t believe me? If you have a 22 fret and 24 guitar, measure the distance between the pickups on each guitar. The make and model will vary between brands, but the measurement should be about a three quarters of an inch, to a full inch of difference. I did a test on my two favorite<a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="118709"><strong> Schecter</strong></a> guitars to show the difference in the following example.</p>
 
 
 
@@ -206,7 +206,7 @@ seo:
 
 
 
-<p>On the left, we have my <a href="https://www.electrikjam.com/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="118710"><strong>Schecter E1 Koa</strong></a>. The specs that are important to this test are:</p>
+<p>On the left, we have my <a href="/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="118710"><strong>Schecter E1 Koa</strong></a>. The specs that are important to this test are:</p>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<p>On the right, we have my <a href="https://www.electrikjam.com/pxf-8/" target="_blank" data-type="lasso-urls" data-id="6298" rel="nofollow sponsored noopener" data-lasso-id="118711" data-lasso-name="Schecter Hellraiser FRS"><strong>Schecter Hellraiser</strong></a>. The specs that are important to this test are:</p>
+<p>On the right, we have my <a href="/pxf-8/" target="_blank" data-type="lasso-urls" data-id="6298" rel="nofollow sponsored noopener" data-lasso-id="118711" data-lasso-name="Schecter Hellraiser FRS"><strong>Schecter Hellraiser</strong></a>. The specs that are important to this test are:</p>
 
 
 
@@ -241,7 +241,7 @@ seo:
 
 
 
-<li id="htoc-floyd-rose-original-bridge"><a data-lasso-id="167820" href="https://www.electrikjam.com/floyd-rose-bridge-explained/"><strong>Floyd Rose Original Bridge</strong></a></li>
+<li id="htoc-floyd-rose-original-bridge"><a data-lasso-id="167820" href="/floyd-rose-bridge-explained/"><strong>Floyd Rose Original Bridge</strong></a></li>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p>The Schecter E1 Koa is a more traditional design with 22 frets, and has all of the specs that you would see in a <a href="https://www.electrikjam.com/gibson-les-paul-standard-link/" data-type="lasso-urls" data-id="6443" target="_blank" rel="nofollow noopener" data-lasso-id="118712" data-lasso-name="Gibson Les Paul Standard &#039;60s"><strong>Gibson</strong></a>. The Hellraiser on the other hand is more modern, has a Fender scale length, and 24 frets for reaching the high notes. But what sets these two guitars apart the most, is the<em> location</em> of the pickups.</p>
+<p>The Schecter E1 Koa is a more traditional design with 22 frets, and has all of the specs that you would see in a <a href="/gibson-les-paul-standard-link/" data-type="lasso-urls" data-id="6443" target="_blank" rel="nofollow noopener" data-lasso-id="118712" data-lasso-name="Gibson Les Paul Standard &#039;60s"><strong>Gibson</strong></a>. The Hellraiser on the other hand is more modern, has a Fender scale length, and 24 frets for reaching the high notes. But what sets these two guitars apart the most, is the<em> location</em> of the pickups.</p>
 
 
 
@@ -318,11 +318,11 @@ seo:
 
 
 
-<p><strong>The pros </strong>of having a 22 fret guitar is that the neck pickup will have that classic warm sound that you associate with Les Paul guitars and some <a href="https://www.electrikjam.com/fender-telecaster-thinline-guide-history/" data-lasso-id="252028">semi-hollow jazz style guitars</a>. Likewise, the bridge pickup is further from the neck, and gives you a really &#8220;biting&#8221; tone. A Telecaster is the perfect example of this &#8220;biting&#8221; sound. The 22 fret guitar is a classic for good reason, and it isn&#8217;t going anywhere.</p>
+<p><strong>The pros </strong>of having a 22 fret guitar is that the neck pickup will have that classic warm sound that you associate with Les Paul guitars and some <a href="/fender-telecaster-thinline-guide-history/" data-lasso-id="252028">semi-hollow jazz style guitars</a>. Likewise, the bridge pickup is further from the neck, and gives you a really &#8220;biting&#8221; tone. A Telecaster is the perfect example of this &#8220;biting&#8221; sound. The 22 fret guitar is a classic for good reason, and it isn&#8217;t going anywhere.</p>
 
 
 
-<p><strong>The pros</strong> of a 24 fret guitar is the upper access and a full two octave range of notes at your disposal. The compromise to some is the pickup placement. It is true that the neck pickup will not be as warm as a 22 fret guitar, and the bridge pickup might have a little more bass frequency. But this is one of the reasons that metal players prefer this setup. <a href="https://www.electrikjam.com/guitar-center-pxf-io-vnxavo/" target="_blank" data-type="lasso-urls" data-id="5339" rel="nofollow noopener" data-lasso-id="118713" data-lasso-name="Ibanez PIA3761"><strong>Ibanez</strong></a> guitars are famous for having a middle single coil to add more flavor to the sonic palate. </p>
+<p><strong>The pros</strong> of a 24 fret guitar is the upper access and a full two octave range of notes at your disposal. The compromise to some is the pickup placement. It is true that the neck pickup will not be as warm as a 22 fret guitar, and the bridge pickup might have a little more bass frequency. But this is one of the reasons that metal players prefer this setup. <a href="/guitar-center-pxf-io-vnxavo/" target="_blank" data-type="lasso-urls" data-id="5339" rel="nofollow noopener" data-lasso-id="118713" data-lasso-name="Ibanez PIA3761"><strong>Ibanez</strong></a> guitars are famous for having a middle single coil to add more flavor to the sonic palate. </p>
 
 
 
@@ -338,7 +338,7 @@ seo:
 
 
 
-<p>I like having a wide variety of guitar types because I never know when I may need a sound. One thing is for sure, guitars all sound different no matter how many frets they may have. Sometimes you need a single coil Strat tone for a song, and other times you need a heavy hitter like my <a href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125526">Schecter Hellraiser</a>. It depends on the song that I am trying to create!</p>
+<p>I like having a wide variety of guitar types because I never know when I may need a sound. One thing is for sure, guitars all sound different no matter how many frets they may have. Sometimes you need a single coil Strat tone for a song, and other times you need a heavy hitter like my <a href="/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125526">Schecter Hellraiser</a>. It depends on the song that I am trying to create!</p>
 
 
 

@@ -95,7 +95,7 @@ seo:
 
 
 
-<p>*<strong>Pro Tip For Keeping Your Strings Clean</strong>: Always wash your hands before playing! This will assure you don&#8217;t transfer any oils or dirt from your hands. Believe it or not, we do this in the studio <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="93">when recording</a>!</p>
+<p>*<strong>Pro Tip For Keeping Your Strings Clean</strong>: Always wash your hands before playing! This will assure you don&#8217;t transfer any oils or dirt from your hands. Believe it or not, we do this in the studio <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="93">when recording</a>!</p>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p>Dunlop has made <a href="https://www.electrikjam.com/dumbest-guitar-gadgets/" data-lasso-id="94">guitar accessories</a> for years now, and are a well known brand among beginners and pros alike. They make <a href="https://www.electrikjam.com/best-picks-for-metal/" data-type="post" data-id="453" data-lasso-id="95">guitar picks</a>, polish, and even strings!</p>
+<p>Dunlop has made <a href="/dumbest-guitar-gadgets/" data-lasso-id="94">guitar accessories</a> for years now, and are a well known brand among beginners and pros alike. They make <a href="/best-picks-for-metal/" data-type="post" data-id="453" data-lasso-id="95">guitar picks</a>, polish, and even strings!</p>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<p>This polish is also safe to use on <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="96">acoustic guitars</a> as well as your electric. This is because the formula is very mild and light. This makes Ernie Ball the &#8220;one size fits&#8221; all of guitar polish.</p>
+<p>This polish is also safe to use on <a href="/types-of-guitars-guide/" data-lasso-id="96">acoustic guitars</a> as well as your electric. This is because the formula is very mild and light. This makes Ernie Ball the &#8220;one size fits&#8221; all of guitar polish.</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p>Music Nomad makes the list again and this is my personal favorite. String Fuel comes in a big blue applicator that is contoured to be used on any size guitar neck. It easily covers <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="97">my 7 string guitar</a> and my basses.</p>
+<p>Music Nomad makes the list again and this is my personal favorite. String Fuel comes in a big blue applicator that is contoured to be used on any size guitar neck. It easily covers <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="97">my 7 string guitar</a> and my basses.</p>
 
 
 
@@ -315,7 +315,7 @@ seo:
 
 
 
-<p>It is a good idea to get in the habit of cleaning your guitar every time you <a href="https://www.electrikjam.com/best-strings-for-a-gibson-les-paul/" data-lasso-id="5807">change the strings</a>. Not only because of the time frame involved, but because it is much easier to clean your guitar without the strings in the way.</p>
+<p>It is a good idea to get in the habit of cleaning your guitar every time you <a href="/best-strings-for-a-gibson-les-paul/" data-lasso-id="5807">change the strings</a>. Not only because of the time frame involved, but because it is much easier to clean your guitar without the strings in the way.</p>
 
 
 
@@ -335,7 +335,7 @@ seo:
 
 
 
-<p>This is especially true when it comes to darker woods like Rosewood and Ebony. Dirt can easily hide in dark woods! Checking your <a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12765">fretboard</a> for dirt should be a part of your routine maintenance. Dirt can sneak up on you fast.</p>
+<p>This is especially true when it comes to darker woods like Rosewood and Ebony. Dirt can easily hide in dark woods! Checking your <a href="/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12765">fretboard</a> for dirt should be a part of your routine maintenance. Dirt can sneak up on you fast.</p>
 
 
 
@@ -403,7 +403,7 @@ seo:
 
 
 
-<p>Nothing feels better than a clean guitar with a fresh set of strings. But the most important part is your <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" data-lasso-id="15991">guitar will last</a> longer, adding years to the life of your instrument. Not to mention, if you ever wish to sell it, a clean guitar will hold it&#8217;s value.</p>
+<p>Nothing feels better than a clean guitar with a fresh set of strings. But the most important part is your <a href="/which-guitar-strings-last-longest/" data-lasso-id="15991">guitar will last</a> longer, adding years to the life of your instrument. Not to mention, if you ever wish to sell it, a clean guitar will hold it&#8217;s value.</p>
 
 
 

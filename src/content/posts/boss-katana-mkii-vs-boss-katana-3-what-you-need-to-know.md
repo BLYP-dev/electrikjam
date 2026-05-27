@@ -75,12 +75,12 @@ seo:
 
 
 
-<li><strong><a class="thirstylink" rel="nofollow" target="_blank" title="BOSS Katana Gen 3 100W 1x12 Guitar Combo Amplifier Black" href="https://www.electrikjam.com/recommends/boss-katana-gen-3-100w-1x12-guitar-combo-amplifier-black/" data-shortcode="true">Get the Katana 3 if you want the best version yet</a></strong> with the latest and most up to date features. </li>
+<li><strong><a class="thirstylink" rel="nofollow" target="_blank" title="BOSS Katana Gen 3 100W 1x12 Guitar Combo Amplifier Black" href="/recommends/boss-katana-gen-3-100w-1x12-guitar-combo-amplifier-black/" data-shortcode="true">Get the Katana 3 if you want the best version yet</a></strong> with the latest and most up to date features. </li>
 </ul>
 
 
 
-<p id="htoc-still-not-sure-read-my-complete-boss-katana-amp-buying-guide">Still not sure? Read my complete <strong><a href="https://www.electrikjam.com/buying-guides/boss-katana/" data-type="buying-guides" data-id="17621">Boss Katana Amp Buying Guide. </a></strong></p>
+<p id="htoc-still-not-sure-read-my-complete-boss-katana-amp-buying-guide">Still not sure? Read my complete <strong><a href="/buying-guides/boss-katana/" data-type="buying-guides" data-id="17621">Boss Katana Amp Buying Guide. </a></strong></p>
 </div>
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="269071">I own the Katana MKII</a></strong>. I bought one as soon as it dropped. I use it every day for practice, recording, and lessons. </p>
+<p><strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="269071">I own the Katana MKII</a></strong>. I bought one as soon as it dropped. I use it every day for practice, recording, and lessons. </p>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<p class="has-x-small-font-size" id="htoc-read-my-boss-katana-3-review-for-the-full-story"><a href="https://www.electrikjam.com/boss-katana-gen-3-100-review-its-complicated/" data-lasso-id="269072">Read my BOSS Katana 3 review for the full story</a></p>
+<p class="has-x-small-font-size" id="htoc-read-my-boss-katana-3-review-for-the-full-story"><a href="/boss-katana-gen-3-100-review-its-complicated/" data-lasso-id="269072">Read my BOSS Katana 3 review for the full story</a></p>
 </blockquote>
 
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<p>As you&#8217;ll realise below, <strong><a href="https://www.electrikjam.com/buying-guides/boss-katana/" data-type="buying-guides" data-id="17621">the Katana 3 does have something of an edge</a></strong> over the Katana MKII when it comes to certain features and capabilities.</p>
+<p>As you&#8217;ll realise below, <strong><a href="/buying-guides/boss-katana/" data-type="buying-guides" data-id="17621">the Katana 3 does have something of an edge</a></strong> over the Katana MKII when it comes to certain features and capabilities.</p>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<p>If you&#8217;ve never owned a Katana amp and are looking to get one, the Katana 3 is the one to go for –&nbsp;it has everything the MKII does <strong><a href="https://www.electrikjam.com/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" data-lasso-id="269073">(bar Sneaky Amps)</a></strong> and a whole load more besides. </p>
+<p>If you&#8217;ve never owned a Katana amp and are looking to get one, the Katana 3 is the one to go for –&nbsp;it has everything the MKII does <strong><a href="/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" data-lasso-id="269073">(bar Sneaky Amps)</a></strong> and a whole load more besides. </p>
 
 
 
@@ -370,7 +370,7 @@ seo:
 
 
 
-<p>The Boss Katana 3 costs more than the MKII (which <strong><a href="https://www.electrikjam.com/pxf-53/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="269074" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">Guitar Center are basically giving away right now</a></strong>). And the reason it costs more? Again, it&#8217;s newer but it also has some additional capabilities and features. </p>
+<p>The Boss Katana 3 costs more than the MKII (which <strong><a href="/pxf-53/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="269074" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">Guitar Center are basically giving away right now</a></strong>). And the reason it costs more? Again, it&#8217;s newer but it also has some additional capabilities and features. </p>
 
 
 
@@ -379,11 +379,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-first-you-re-new-to-katana-you-want-the-best-and-you-don-t-mind-investing-get-the-katana-3">First, you&#8217;re new to Katana, you want the best, and you don&#8217;t mind investing: <strong><a href="https://www.electrikjam.com/boss-katana-gen-3-100w-1x12-guitar-combo-amplifier-black-guitar-center/" data-type="lasso-urls" data-id="15533" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="269075" data-lasso-name="BOSS Katana Gen 3 100W 1x12 Guitar Combo Amplifier">get the Katana 3</a></strong></li>
+<li id="htoc-first-you-re-new-to-katana-you-want-the-best-and-you-don-t-mind-investing-get-the-katana-3">First, you&#8217;re new to Katana, you want the best, and you don&#8217;t mind investing: <strong><a href="/boss-katana-gen-3-100w-1x12-guitar-combo-amplifier-black-guitar-center/" data-type="lasso-urls" data-id="15533" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="269075" data-lasso-name="BOSS Katana Gen 3 100W 1x12 Guitar Combo Amplifier">get the Katana 3</a></strong></li>
 
 
 
-<li id="htoc-second-you-re-new-to-katana-but-you-want-to-spend-a-little-less-and-still-get-a-kick-ass-amp-that-is-good-enough-for-crusty-ol-pros-like-myself-get-the-boss-katana-mkii">Second, you&#8217;re new to Katana but you want to spend a little less and still get a kick ass amp that is good enough for crusty ol&#8217; pros like myself: <strong><a href="https://www.electrikjam.com/pxf-53/" data-type="lasso-urls" data-id="8362" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="269076" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">get the Boss Katana MKII.</a></strong> </li>
+<li id="htoc-second-you-re-new-to-katana-but-you-want-to-spend-a-little-less-and-still-get-a-kick-ass-amp-that-is-good-enough-for-crusty-ol-pros-like-myself-get-the-boss-katana-mkii">Second, you&#8217;re new to Katana but you want to spend a little less and still get a kick ass amp that is good enough for crusty ol&#8217; pros like myself: <strong><a href="/pxf-53/" data-type="lasso-urls" data-id="8362" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="269076" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">get the Boss Katana MKII.</a></strong> </li>
 </ul>
 
 
@@ -396,5 +396,5 @@ seo:
 
 
 
-<p>We also have a full <strong><a href="https://www.electrikjam.com/buying-guides/boss-katana/" data-type="buying-guides" data-id="17621">buying guide that covers the entire Boss Katana amp range</a></strong>, so if you&#8217;re looking to buy one I&#8217;d recommend you check that out first, so you can see the lay of the land better. </p>
+<p>We also have a full <strong><a href="/buying-guides/boss-katana/" data-type="buying-guides" data-id="17621">buying guide that covers the entire Boss Katana amp range</a></strong>, so if you&#8217;re looking to buy one I&#8217;d recommend you check that out first, so you can see the lay of the land better. </p>
 

@@ -46,7 +46,7 @@ seo:
 				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="3803871069" /><input type="hidden" name="_wp_http_referer" value="" />				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit wp-element-button" name="login" value="Log in">Log in</button>
 			</p>
 			<p class="woocommerce-LostPassword lost_password">
-				<a href="https://www.electrikjam.com/my-account/lost-password/">Lost your password?</a>
+				<a href="/my-account/lost-password/">Lost your password?</a>
 			</p>
 
 			

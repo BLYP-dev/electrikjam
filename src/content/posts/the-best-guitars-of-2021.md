@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>For me, it wasn&#8217;t so bad, and I got a lot of things accomplished this year that I never thought I would. There are tons of bands that didn&#8217;t let the world hold up their releases, like <a data-lasso-id="35792" href="https://www.electrikjam.com/spiritbox-eternal-blue-review/" data-type="post" data-id="4309" target="_blank" rel="noopener"><strong>Spiritbox</strong>,</a> <a data-lasso-id="35793" href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" target="_blank" rel="noopener"><strong>Mastodon</strong></a>, and even indie artists we have reviewed on <a data-lasso-id="35794" href="https://www.electrikjam.com/ej-underexposed-presents-lytepath-control/" data-type="post" data-id="5960" target="_blank" rel="noopener">&#8220;UnderExposed&#8221;</a>. But what about the best guitars of 2022?</p>
+<p>For me, it wasn&#8217;t so bad, and I got a lot of things accomplished this year that I never thought I would. There are tons of bands that didn&#8217;t let the world hold up their releases, like <a data-lasso-id="35792" href="/spiritbox-eternal-blue-review/" data-type="post" data-id="4309" target="_blank" rel="noopener"><strong>Spiritbox</strong>,</a> <a data-lasso-id="35793" href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" target="_blank" rel="noopener"><strong>Mastodon</strong></a>, and even indie artists we have reviewed on <a data-lasso-id="35794" href="/ej-underexposed-presents-lytepath-control/" data-type="post" data-id="5960" target="_blank" rel="noopener">&#8220;UnderExposed&#8221;</a>. But what about the best guitars of 2022?</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="142263"><strong>Best Guitars For Doom Metal</strong></a></li><li><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="142264"><strong>Best Fender Guitars For Metal</strong></a></li><li><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="142265"><strong>Best Beginner Guitars</strong></a></li><li><strong><a href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" data-lasso-id="142266">Best Guitar Brands For Lefties</a></strong></li></ul>
+<ul class="wp-block-list"><li><a href="/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="142263"><strong>Best Guitars For Doom Metal</strong></a></li><li><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="142264"><strong>Best Fender Guitars For Metal</strong></a></li><li><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="142265"><strong>Best Beginner Guitars</strong></a></li><li><strong><a href="/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" data-lasso-id="142266">Best Guitar Brands For Lefties</a></strong></li></ul>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>If you are used to playing a Les Paul Standard, this guitar is going to blow your mind. It is <em>much</em> lighter, to start things off. But it also sounds brighter, and more lively than a regular Les Paul, at least to my ears. I think this has a lot to do with the maple neck. The 490t pickups are very clean and clear, but they can get <em>seriously</em> mean and nasty. This is the perfect guitar for some<a href="https://www.electrikjam.com/doom-metal-beginners-guide/" target="_blank" data-type="post" data-id="1042" rel="noopener" data-lasso-id="35956"> <strong>Doom Metal</strong></a>.</p>
+<p>If you are used to playing a Les Paul Standard, this guitar is going to blow your mind. It is <em>much</em> lighter, to start things off. But it also sounds brighter, and more lively than a regular Les Paul, at least to my ears. I think this has a lot to do with the maple neck. The 490t pickups are very clean and clear, but they can get <em>seriously</em> mean and nasty. This is the perfect guitar for some<a href="/doom-metal-beginners-guide/" target="_blank" data-type="post" data-id="1042" rel="noopener" data-lasso-id="35956"> <strong>Doom Metal</strong></a>.</p>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p><strong><em>Wait A Second!</em></strong> Squier/Fender went out and made some excellent guitars for Metal? This is usually not something that <a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="35960">Fender</a> does, but here we are, with a Metal axe that falls well within cheap/budget territory. It&#8217;s also one of the best guitars of 2021, <em>on top of </em>being so unique. The <a href="https://www.electrikjam.com/the-new-199-squier-sonic-series/" data-lasso-id="228756">Squier Contemporary Series</a> is geared for much heavier things than your normal, run of the mill Jazzmaster:</p>
+<p><strong><em>Wait A Second!</em></strong> Squier/Fender went out and made some excellent guitars for Metal? This is usually not something that <a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="35960">Fender</a> does, but here we are, with a Metal axe that falls well within cheap/budget territory. It&#8217;s also one of the best guitars of 2021, <em>on top of </em>being so unique. The <a href="/the-new-199-squier-sonic-series/" data-lasso-id="228756">Squier Contemporary Series</a> is geared for much heavier things than your normal, run of the mill Jazzmaster:</p>
 
 
 
@@ -171,15 +171,15 @@ seo:
 
 
 
-<p>The <a data-lasso-id="35795" data-lasso-name="Squier Contemporary Active Jazzmaster" href="https://www.electrikjam.com/guitar-center-pxf-io-x9onv3/" target="_blank" data-type="lasso-urls" data-id="6056" rel="nofollow sponsored noopener"><strong>Squier Contemporary Jazzmaster </strong></a>has a bunch of features that you would almost never find on a production model Fender, which is why we kicked off the best guitars of 2021 budget models with this Jazzmaster. At one point, Squier was a lot like <a data-lasso-id="35796" href="https://www.electrikjam.com/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener"><strong>Epiphone </strong></a>in regards to being a cheaper version of the more expensive flagship guitars. But over the last few years, Squier has become it&#8217;s own entity and started making some really great guitars. This series <em>certainly</em> belongs with the best guitars of 2021.</p>
+<p>The <a data-lasso-id="35795" data-lasso-name="Squier Contemporary Active Jazzmaster" href="/guitar-center-pxf-io-x9onv3/" target="_blank" data-type="lasso-urls" data-id="6056" rel="nofollow sponsored noopener"><strong>Squier Contemporary Jazzmaster </strong></a>has a bunch of features that you would almost never find on a production model Fender, which is why we kicked off the best guitars of 2021 budget models with this Jazzmaster. At one point, Squier was a lot like <a data-lasso-id="35796" href="/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener"><strong>Epiphone </strong></a>in regards to being a cheaper version of the more expensive flagship guitars. But over the last few years, Squier has become it&#8217;s own entity and started making some really great guitars. This series <em>certainly</em> belongs with the best guitars of 2021.</p>
 
 
 
-<p>The Contemporary Series is known for having some really awesome <a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="35797"><strong>active pickups</strong></a> preinstalled. I played around with this model for quite a while, and it never got a proper review, but the pickups blew me away on all of the different models. The SQR Actives are a ceramic magnet based humbucker that sounds a lot like a<strong> <a href="https://www.electrikjam.com/seymour-duncan-blackouts-2/" target="_blank" data-type="lasso-urls" data-id="4637" rel="nofollow noopener" data-lasso-id="35798" data-lasso-name="Seymour Duncan BLACKOUTS Pickups">Duncan Blackout</a></strong> in my opinion. They have amazing clarity and handle high gain like a boss! Don&#8217;t write these off as &#8220;stock pickups&#8221; because they are actually very versatile, and compete with my EMG 81 when it comes to chugging.</p>
+<p>The Contemporary Series is known for having some really awesome <a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="35797"><strong>active pickups</strong></a> preinstalled. I played around with this model for quite a while, and it never got a proper review, but the pickups blew me away on all of the different models. The SQR Actives are a ceramic magnet based humbucker that sounds a lot like a<strong> <a href="/seymour-duncan-blackouts-2/" target="_blank" data-type="lasso-urls" data-id="4637" rel="nofollow noopener" data-lasso-id="35798" data-lasso-name="Seymour Duncan BLACKOUTS Pickups">Duncan Blackout</a></strong> in my opinion. They have amazing clarity and handle high gain like a boss! Don&#8217;t write these off as &#8220;stock pickups&#8221; because they are actually very versatile, and compete with my EMG 81 when it comes to chugging.</p>
 
 
 
-<p>The guitar&#8217;s construction is even geared for Metal. The neck has a satin feel on the back, which is perfect for fast runs or shredding. Likewise, the fretboard radius is nice and flat at 12&#8221;. Combined with the &#8220;narrow tall&#8221; frets, this barely even feels like a Fender anymore. I never thought I would see a production model Squier that is <em>made for Metal,</em> but here we are! And at <a data-lasso-id="35799" data-lasso-name="Squier Contemporary Active Jazzmaster" href="https://www.electrikjam.com/guitar-center-pxf-io-x9onv3/" target="_blank" data-type="lasso-urls" data-id="6056" rel="nofollow sponsored noopener"><strong>under $500</strong></a>, this thing is <em><strong>steal</strong></em>.</p>
+<p>The guitar&#8217;s construction is even geared for Metal. The neck has a satin feel on the back, which is perfect for fast runs or shredding. Likewise, the fretboard radius is nice and flat at 12&#8221;. Combined with the &#8220;narrow tall&#8221; frets, this barely even feels like a Fender anymore. I never thought I would see a production model Squier that is <em>made for Metal,</em> but here we are! And at <a data-lasso-id="35799" data-lasso-name="Squier Contemporary Active Jazzmaster" href="/guitar-center-pxf-io-x9onv3/" target="_blank" data-type="lasso-urls" data-id="6056" rel="nofollow sponsored noopener"><strong>under $500</strong></a>, this thing is <em><strong>steal</strong></em>.</p>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<p>We talked about <a data-lasso-id="35800" href="https://www.electrikjam.com/are-reverend-guitars-any-good/" target="_blank" data-type="post" data-id="5550" rel="noopener"><strong>Reverend Guitars </strong></a>earlier this year, and spoke about the <em>crazy</em> amount of versatility that these guitars offer. Considering the unique design, and upscale features, it was a no brainer to add them to the best guitars of 2021. The Contender HB is an &#8220;alternate reality&#8221; take on the classic double humbucker shape. But make no mistake, the Contender can get real mean, real quick!</p>
+<p>We talked about <a data-lasso-id="35800" href="/are-reverend-guitars-any-good/" target="_blank" data-type="post" data-id="5550" rel="noopener"><strong>Reverend Guitars </strong></a>earlier this year, and spoke about the <em>crazy</em> amount of versatility that these guitars offer. Considering the unique design, and upscale features, it was a no brainer to add them to the best guitars of 2021. The Contender HB is an &#8220;alternate reality&#8221; take on the classic double humbucker shape. But make no mistake, the Contender can get real mean, real quick!</p>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<p>We already talked about the <a href="https://www.electrikjam.com/guitar-center-pxf-io-dvblr5/" target="_blank" data-type="lasso-urls" data-id="6058" rel="nofollow sponsored noopener" data-lasso-id="37780" data-lasso-name="Sire L7"><strong>Sire L7</strong></a> in depth in our <strong><a href="https://www.electrikjam.com/sire-guitars-l7-review/" target="_blank" data-type="post" data-id="6029" rel="noopener" data-lasso-id="37781">review</a>,</strong> but this thing is just <em>amazing</em>. The Sire L7 is definitely one of the best guitars of 2021, and there are new models being added for the Sire 2022 lineup featuring new colors and options. This is a guitar that is going to start giving <a data-lasso-id="35801" href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener"><strong>Epiphone</strong></a> a run for the money if Sire continues to put out this kind of quality. While this is still in budget guitar territory, it plays like a <em>much more</em> expensive guitar.</p>
+<p>We already talked about the <a href="/guitar-center-pxf-io-dvblr5/" target="_blank" data-type="lasso-urls" data-id="6058" rel="nofollow sponsored noopener" data-lasso-id="37780" data-lasso-name="Sire L7"><strong>Sire L7</strong></a> in depth in our <strong><a href="/sire-guitars-l7-review/" target="_blank" data-type="post" data-id="6029" rel="noopener" data-lasso-id="37781">review</a>,</strong> but this thing is just <em>amazing</em>. The Sire L7 is definitely one of the best guitars of 2021, and there are new models being added for the Sire 2022 lineup featuring new colors and options. This is a guitar that is going to start giving <a data-lasso-id="35801" href="/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener"><strong>Epiphone</strong></a> a run for the money if Sire continues to put out this kind of quality. While this is still in budget guitar territory, it plays like a <em>much more</em> expensive guitar.</p>
 
 
 
@@ -275,15 +275,15 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-lasso-id="40164">Schecter</a> is more known for making midrange, and higher priced guitars that have a load of features and specs. But I think that the <strong><a href="https://www.electrikjam.com/schecter-demon-6-link/" target="_blank" data-type="lasso-urls" data-id="5309" rel="nofollow noopener" data-lasso-id="35802" data-lasso-name="Schecter Demon 6">budget Schecter</a> </strong>models easily get overlooked. Compared to Schecter&#8217;s more expensive models that are made in Korea, these may seem a little sparse, but don&#8217;t let that fool you. These are shred machines, and the Demon series has been updated for the 2020/2021 lineup, making it one of the best guitars of 2021.</p>
+<p><a href="/schecter-nick-johnston-hss-review/" data-lasso-id="40164">Schecter</a> is more known for making midrange, and higher priced guitars that have a load of features and specs. But I think that the <strong><a href="/schecter-demon-6-link/" target="_blank" data-type="lasso-urls" data-id="5309" rel="nofollow noopener" data-lasso-id="35802" data-lasso-name="Schecter Demon 6">budget Schecter</a> </strong>models easily get overlooked. Compared to Schecter&#8217;s more expensive models that are made in Korea, these may seem a little sparse, but don&#8217;t let that fool you. These are shred machines, and the Demon series has been updated for the 2020/2021 lineup, making it one of the best guitars of 2021.</p>
 
 
 
-<p>We took a look at the 6 string this year, and I even purchased the 7 string model for myself! I <a href="https://www.electrikjam.com/schecter-demon-7-review/" target="_blank" data-type="post" data-id="5811" rel="noopener" data-lasso-id="35803"><strong>reviewed</strong></a> the one I bought before I started making upgrades to it, and it is one of the best 7 string guitars I have played <em>all year</em>. Now that I have upgraded it, the Schecter Demon 7 is<em> next level</em>.</p>
+<p>We took a look at the 6 string this year, and I even purchased the 7 string model for myself! I <a href="/schecter-demon-7-review/" target="_blank" data-type="post" data-id="5811" rel="noopener" data-lasso-id="35803"><strong>reviewed</strong></a> the one I bought before I started making upgrades to it, and it is one of the best 7 string guitars I have played <em>all year</em>. Now that I have upgraded it, the Schecter Demon 7 is<em> next level</em>.</p>
 
 
 
-<p>The Demon also comes in a slick looking<a href="https://www.electrikjam.com/schecter-demon-8-8-string-electric-guitar-link/" target="_blank" data-type="lasso-urls" data-id="5413" rel="nofollow sponsored noopener" data-lasso-id="35804" data-lasso-name="Schecter Demon-8"><strong> 8 string model</strong></a>, and it is a total<em><strong> beast</strong></em>. While all of these models have different string configurations, they all have the same features in common:</p>
+<p>The Demon also comes in a slick looking<a href="/schecter-demon-8-8-string-electric-guitar-link/" target="_blank" data-type="lasso-urls" data-id="5413" rel="nofollow sponsored noopener" data-lasso-id="35804" data-lasso-name="Schecter Demon-8"><strong> 8 string model</strong></a>, and it is a total<em><strong> beast</strong></em>. While all of these models have different string configurations, they all have the same features in common:</p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-lasso-id="39712">This is another affordable guitar that has some great pickups</a>. I urge you to give them a chance before you write them off as &#8220;bad stock pickups&#8221;. The way they sound, it seems like Schecter based these on Duncan Blackouts, or perhaps an <a href="https://www.electrikjam.com/pxf-3/" target="_blank" data-type="lasso-urls" data-id="5816" rel="nofollow sponsored noopener" data-lasso-id="35805" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG</strong></a> style set. These pickups have a little more bass than I would usually prefer, but I just dialed it down on my amp. They definitely sound clear, and crushing! The Demon series is perfect for intermediate guitarists, or shredders on a budget.</p>
+<p><a href="/sustainiac-pickup-fixes/" data-lasso-id="39712">This is another affordable guitar that has some great pickups</a>. I urge you to give them a chance before you write them off as &#8220;bad stock pickups&#8221;. The way they sound, it seems like Schecter based these on Duncan Blackouts, or perhaps an <a href="/pxf-3/" target="_blank" data-type="lasso-urls" data-id="5816" rel="nofollow sponsored noopener" data-lasso-id="35805" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG</strong></a> style set. These pickups have a little more bass than I would usually prefer, but I just dialed it down on my amp. They definitely sound clear, and crushing! The Demon series is perfect for intermediate guitarists, or shredders on a budget.</p>
 
 
 
@@ -319,7 +319,7 @@ seo:
 
 
 
-<p>The <a data-lasso-id="35806" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB" href="https://www.electrikjam.com/electrikjam-link/" target="_blank" data-type="lasso-urls" data-id="5778" rel="nofollow sponsored noopener"><strong>Harley Benton Fusion 3</strong> </a>was another guitar that we <a data-lasso-id="35807" href="https://www.electrikjam.com/electrikjam-link/" target="_blank" data-type="post" data-id="5767" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"><strong>reviewed</strong></a>, and I knew the moment I played it that it would be on the &#8220;Best Guitars Of 2021&#8221; list. Harley Benton is <em>not </em>a guitar company, per se. It is manufactured in limited runs by <a data-lasso-id="35808" href="https://www.thomannmusic.com/" target="_blank" rel="noopener noreferrer nofollow"><strong>Thomann Music</strong></a> in Germany. The goal of making Harley Benton was to create a <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44658">budget guitar brand for beginners</a> that doesn&#8217;t suck, and has lots of features right out of the box that most cheaper guitars neglect to offer.</p>
+<p>The <a data-lasso-id="35806" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB" href="/electrikjam-link/" target="_blank" data-type="lasso-urls" data-id="5778" rel="nofollow sponsored noopener"><strong>Harley Benton Fusion 3</strong> </a>was another guitar that we <a data-lasso-id="35807" href="/electrikjam-link/" target="_blank" data-type="post" data-id="5767" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"><strong>reviewed</strong></a>, and I knew the moment I played it that it would be on the &#8220;Best Guitars Of 2021&#8221; list. Harley Benton is <em>not </em>a guitar company, per se. It is manufactured in limited runs by <a data-lasso-id="35808" href="https://www.thomannmusic.com/" target="_blank" rel="noopener noreferrer nofollow"><strong>Thomann Music</strong></a> in Germany. The goal of making Harley Benton was to create a <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44658">budget guitar brand for beginners</a> that doesn&#8217;t suck, and has lots of features right out of the box that most cheaper guitars neglect to offer.</p>
 
 
 
@@ -331,11 +331,11 @@ seo:
 
 
 
-<p>The hardware alone is worth the price of the guitar. You get a Wilkinson Trem that stays in tune and is easy to set up. You also get Wilkinson<a data-lasso-id="35809" href="https://www.electrikjam.com/what-are-locking-tuners/" target="_blank" data-type="post" data-id="5971" rel="noopener"> <strong>locking tuners</strong> </a>that make string changes a breeze, while ensuring that your guitar stays in tune even when you do some big bends or bar dives. The hardware <em>alone</em> puts it on the best guitars of 2021 list.</p>
+<p>The hardware alone is worth the price of the guitar. You get a Wilkinson Trem that stays in tune and is easy to set up. You also get Wilkinson<a data-lasso-id="35809" href="/what-are-locking-tuners/" target="_blank" data-type="post" data-id="5971" rel="noopener"> <strong>locking tuners</strong> </a>that make string changes a breeze, while ensuring that your guitar stays in tune even when you do some big bends or bar dives. The hardware <em>alone</em> puts it on the best guitars of 2021 list.</p>
 
 
 
-<p>The Roasted Maple neck, and stainless steel frets is just nuts at this price point. You usually only see these kinds of features on guitars that cost <em>three times</em> the amount of the Harley Benton. With that being said, there are definitely some corners that were cut when it comes to the pickups and electronics. The stock pickups certainly aren&#8217;t terrible, and they will work great for most guitarists. But for those of us that like to upgrade, some new pickups wouldn&#8217;t hurt. It still doesn&#8217;t change the fact that the <a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189575" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">Harley Benton Fusion 3 is one of the best guitars</a> of 2021!</p>
+<p>The Roasted Maple neck, and stainless steel frets is just nuts at this price point. You usually only see these kinds of features on guitars that cost <em>three times</em> the amount of the Harley Benton. With that being said, there are definitely some corners that were cut when it comes to the pickups and electronics. The stock pickups certainly aren&#8217;t terrible, and they will work great for most guitarists. But for those of us that like to upgrade, some new pickups wouldn&#8217;t hurt. It still doesn&#8217;t change the fact that the <a href="/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189575" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">Harley Benton Fusion 3 is one of the best guitars</a> of 2021!</p>
 
 
 
@@ -355,23 +355,23 @@ seo:
 
 
 
-<p>Look, it&#8217;s no secret that we absolutely love <a href="https://www.electrikjam.com/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="35810"><strong>Epiphone</strong></a> around here, and we don&#8217;t mind telling <em>the world</em> that we think Epiphone makes some great guitars, and some of the best guitars of 2021. Epiphone has come a <em>long way</em> in the last decade, and the newer product list reflects that progress. There is a model for every genre, and every player out there!</p>
+<p>Look, it&#8217;s no secret that we absolutely love <a href="/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="35810"><strong>Epiphone</strong></a> around here, and we don&#8217;t mind telling <em>the world</em> that we think Epiphone makes some great guitars, and some of the best guitars of 2021. Epiphone has come a <em>long way</em> in the last decade, and the newer product list reflects that progress. There is a model for every genre, and every player out there!</p>
 
 
 
-<p>The <a href="https://www.electrikjam.com/les-paul-prophecy-guitar-center/" target="_blank" data-type="lasso-urls" data-id="3897" rel="nofollow noopener" data-lasso-id="35811" data-lasso-name="Epiphone Les Paul Prophecy"><strong>Epiphone Prophecy</strong></a> lineup is made specifically for Metal guitarists. Epiphone took all of the classic shapes and turned them into anything but &#8220;classic&#8221;. These have all modern features, and while the Prophecy models may look like regular Epiphone models, they are far from <em>regular</em> or <em>ordinary.</em></p>
+<p>The <a href="/les-paul-prophecy-guitar-center/" target="_blank" data-type="lasso-urls" data-id="3897" rel="nofollow noopener" data-lasso-id="35811" data-lasso-name="Epiphone Les Paul Prophecy"><strong>Epiphone Prophecy</strong></a> lineup is made specifically for Metal guitarists. Epiphone took all of the classic shapes and turned them into anything but &#8220;classic&#8221;. These have all modern features, and while the Prophecy models may look like regular Epiphone models, they are far from <em>regular</em> or <em>ordinary.</em></p>
 
 
 
-<ul class="wp-block-list"><li><strong>“Inspired By&nbsp;<a href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="35812">Gibson</a>” Body Shapes and Design</strong></li><li><strong>Custom Fishman Pickups with 3 Voices</strong></li><li><strong>Graphtech Nut</strong></li><li><strong>Grover Tuners</strong></li><li><strong>AAA</strong> <strong>Flame Maple Tops</strong></li><li><strong>Cream Binding</strong></li><li><strong>Jumbo Frets</strong></li><li><strong>Tapered Neck Joint</strong></li><li><strong>Ebony Fretboard</strong></li><li><strong>Epiphone Locking Bridge</strong></li></ul>
+<ul class="wp-block-list"><li><strong>“Inspired By&nbsp;<a href="/gibson-guitars/" data-lasso-id="35812">Gibson</a>” Body Shapes and Design</strong></li><li><strong>Custom Fishman Pickups with 3 Voices</strong></li><li><strong>Graphtech Nut</strong></li><li><strong>Grover Tuners</strong></li><li><strong>AAA</strong> <strong>Flame Maple Tops</strong></li><li><strong>Cream Binding</strong></li><li><strong>Jumbo Frets</strong></li><li><strong>Tapered Neck Joint</strong></li><li><strong>Ebony Fretboard</strong></li><li><strong>Epiphone Locking Bridge</strong></li></ul>
 
 
 
-<p>You get a lot for your money with the<a href="https://www.electrikjam.com/guitar-center-pxf-io-qo0k1x/" target="_blank" data-type="lasso-urls" data-id="6059" rel="nofollow sponsored noopener" data-lasso-id="35813" data-lasso-name="Epiphone Les Paul Prophecy Electric Guitar"> <strong>Epiphone Prophecy</strong></a>, and this is a great guitar for intermediate and professional players. We personally liked the Les Paul and Explorer models, because the new access heel joint and jumbo frets change the way the guitar feels. There is nothing &#8220;vintage&#8221; about these guitars. The Flame Maple tops look amazing under the satin finish.</p>
+<p>You get a lot for your money with the<a href="/guitar-center-pxf-io-qo0k1x/" target="_blank" data-type="lasso-urls" data-id="6059" rel="nofollow sponsored noopener" data-lasso-id="35813" data-lasso-name="Epiphone Les Paul Prophecy Electric Guitar"> <strong>Epiphone Prophecy</strong></a>, and this is a great guitar for intermediate and professional players. We personally liked the Les Paul and Explorer models, because the new access heel joint and jumbo frets change the way the guitar feels. There is nothing &#8220;vintage&#8221; about these guitars. The Flame Maple tops look amazing under the satin finish.</p>
 
 
 
-<p>This is also one of the only budget guitars I can think of that come with<a data-lasso-id="35814" data-lasso-name="Fishman Fluence Modern" href="https://www.electrikjam.com/fishman-fluence-modern-link/" target="_blank" data-type="lasso-urls" data-id="4413" rel="nofollow noopener"> <strong>Fishman Pic</strong></a><strong><a data-lasso-id="35815" data-lasso-name="Fishman Fluence Modern" href="https://www.electrikjam.com/fishman-fluence-modern-link/" target="_blank" data-type="lasso-urls" data-id="4413" rel="nofollow noopener">kups</a>.</strong> Over the past 3 years, Fishman has been taking the Metal guitar world completely by storm. These are active pickups that are geared specifically for Metal and serious chugging! <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-lasso-id="103380">The custom Epiphone versions sound amazing in the Prophecy Series</a>, and with all of the other features&#8230; this is <em>by far </em>one of the best guitars of 2021. Infact, it&#8217;s one of the best guitars that Epiphone makes in my opinion!</p>
+<p>This is also one of the only budget guitars I can think of that come with<a data-lasso-id="35814" data-lasso-name="Fishman Fluence Modern" href="/fishman-fluence-modern-link/" target="_blank" data-type="lasso-urls" data-id="4413" rel="nofollow noopener"> <strong>Fishman Pic</strong></a><strong><a data-lasso-id="35815" data-lasso-name="Fishman Fluence Modern" href="/fishman-fluence-modern-link/" target="_blank" data-type="lasso-urls" data-id="4413" rel="nofollow noopener">kups</a>.</strong> Over the past 3 years, Fishman has been taking the Metal guitar world completely by storm. These are active pickups that are geared specifically for Metal and serious chugging! <a href="/epiphone-les-paul-prophecy-colors/" data-lasso-id="103380">The custom Epiphone versions sound amazing in the Prophecy Series</a>, and with all of the other features&#8230; this is <em>by far </em>one of the best guitars of 2021. Infact, it&#8217;s one of the best guitars that Epiphone makes in my opinion!</p>
 
 
 
@@ -395,7 +395,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247831">Schecter Guitars</a> really reach a new level once you get above the $800 mark. The original <a href="https://www.electrikjam.com/guitar-center-pxf-io-vyy2lj/" target="_blank" data-type="lasso-urls" data-id="4840" rel="nofollow noopener" data-lasso-id="35816" data-lasso-name="Schecter Sun Valley Super Shredder"><strong>Sun Valley Super Shredder </strong></a>was a great guitar that was a throwback to the &#8217;80s. They Featured a Floyd Rose, and hot EMG pickups that just screamed to shred some <strong>Motley Crue</strong>. That model came out a few years ago, so it couldn&#8217;t make the best guitars of 2021 list. They were a bargain at only $650, but some people just really don&#8217;t get along with a <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-lasso-id="168254">Floyd Rose bridge</a>. Schecter listened, and they came up with a hardtail version that is definitely one of the best guitars of 2021!</p>
+<p><a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247831">Schecter Guitars</a> really reach a new level once you get above the $800 mark. The original <a href="/guitar-center-pxf-io-vyy2lj/" target="_blank" data-type="lasso-urls" data-id="4840" rel="nofollow noopener" data-lasso-id="35816" data-lasso-name="Schecter Sun Valley Super Shredder"><strong>Sun Valley Super Shredder </strong></a>was a great guitar that was a throwback to the &#8217;80s. They Featured a Floyd Rose, and hot EMG pickups that just screamed to shred some <strong>Motley Crue</strong>. That model came out a few years ago, so it couldn&#8217;t make the best guitars of 2021 list. They were a bargain at only $650, but some people just really don&#8217;t get along with a <a href="/floyd-rose-bridge-setup-beginners/" data-lasso-id="168254">Floyd Rose bridge</a>. Schecter listened, and they came up with a hardtail version that is definitely one of the best guitars of 2021!</p>
 
 
 
@@ -403,15 +403,15 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Bolt-on wenge neck with Thin C profile</strong></li><li><strong>Ebony fingerboard with 24 extra-jumbo frets</strong></li><li><strong><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="249001">Schecter USA Custom Shop Sunset</a> Strip humbucking bridge pickup</strong></li><li><strong>Pasadena humbucking neck pickup</strong></li><li><strong>Fretboard</strong>&nbsp;<strong>Material: Ebony</strong></li><li><strong>Radius: Compound</strong>&nbsp;<strong>12-16</strong></li><li><strong>Fret size: Extra-jumbo</strong></li><li><strong>Number of frets: 24</strong></li><li><strong>Nut width: 1.62″</strong></li><li><strong>Fixed Bridge</strong></li><li><strong>Locking Tuners</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Bolt-on wenge neck with Thin C profile</strong></li><li><strong>Ebony fingerboard with 24 extra-jumbo frets</strong></li><li><strong><a href="/schecter-sunset-triad-review/" data-lasso-id="249001">Schecter USA Custom Shop Sunset</a> Strip humbucking bridge pickup</strong></li><li><strong>Pasadena humbucking neck pickup</strong></li><li><strong>Fretboard</strong>&nbsp;<strong>Material: Ebony</strong></li><li><strong>Radius: Compound</strong>&nbsp;<strong>12-16</strong></li><li><strong>Fret size: Extra-jumbo</strong></li><li><strong>Number of frets: 24</strong></li><li><strong>Nut width: 1.62″</strong></li><li><strong>Fixed Bridge</strong></li><li><strong>Locking Tuners</strong></li></ul>
 
 
 
-<p>Seriously, this guitar has every spec you could possibly want in a Metal guitar. The neck shape is a staple of Schecter Guitars, and the &#8220;thin C&#8221; profile feels amazing with the compound radius. The Hipshot fixed bridge is a super low profile, so it doesn&#8217;t get in the way of <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69748">palm mutes</a>, or anchoring your hand for speed runs. The simple circle inlays look understated, and very classy.</p>
+<p>Seriously, this guitar has every spec you could possibly want in a Metal guitar. The neck shape is a staple of Schecter Guitars, and the &#8220;thin C&#8221; profile feels amazing with the compound radius. The Hipshot fixed bridge is a super low profile, so it doesn&#8217;t get in the way of <a href="/guitar-muting-techniques/" data-lasso-id="69748">palm mutes</a>, or anchoring your hand for speed runs. The simple circle inlays look understated, and very classy.</p>
 
 
 
-<p>The star of the show is the Schecter Custom Shop Pickup Set. These pickups are very versatile, and I have them in my <a href="https://www.electrikjam.com/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="35817"><strong>Schecter E1</strong></a> guitar. These pickups are hot, but not <em>so hot </em>that you can&#8217;t get some beautiful clean tones out of them. I have used them to record, and I am blown away with how much they can do. The neck humbucker in particular gets a gorgeous creamy lead tone that will make your solos <em>sing</em>.</p>
+<p>The star of the show is the Schecter Custom Shop Pickup Set. These pickups are very versatile, and I have them in my <a href="/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="35817"><strong>Schecter E1</strong></a> guitar. These pickups are hot, but not <em>so hot </em>that you can&#8217;t get some beautiful clean tones out of them. I have used them to record, and I am blown away with how much they can do. The neck humbucker in particular gets a gorgeous creamy lead tone that will make your solos <em>sing</em>.</p>
 
 
 
@@ -435,11 +435,11 @@ seo:
 
 
 
-<p>This wouldn&#8217;t be a &#8220;best guitars of 2021&#8221; list without PRS, would it? The <a href="https://www.electrikjam.com/2024-prs-se-lineup-unveiled-new-models-expanded-color-range/" data-lasso-id="251562">PRS SE Series</a> has come a long way from where it started, We got to take a sneak peek earlier this year at the totally revamped Custom 24 models, and I could not wait to get my hands on one! </p>
+<p>This wouldn&#8217;t be a &#8220;best guitars of 2021&#8221; list without PRS, would it? The <a href="/2024-prs-se-lineup-unveiled-new-models-expanded-color-range/" data-lasso-id="251562">PRS SE Series</a> has come a long way from where it started, We got to take a sneak peek earlier this year at the totally revamped Custom 24 models, and I could not wait to get my hands on one! </p>
 
 
 
-<p>The<a data-lasso-id="35818" data-lasso-name="PRS Custom 24 SE" href="https://www.electrikjam.com/guitar-center-pxf-io-qnvga5/" target="_blank" data-type="lasso-urls" data-id="6061" rel="nofollow sponsored noopener"> <strong>PRS Custom 24</strong> </a> has everything you need to make the leap from a bedroom guitarist, to playing on stage. PRS is known for dedication to reliability, which is why you see so many professional studio musicians use these guitars. Go to any studio in LA or Nashville, and you will see a <a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251742">plethora of PRS SE guitars lying around</a>. Session guitarists love these, for good reason.</p>
+<p>The<a data-lasso-id="35818" data-lasso-name="PRS Custom 24 SE" href="/guitar-center-pxf-io-qnvga5/" target="_blank" data-type="lasso-urls" data-id="6061" rel="nofollow sponsored noopener"> <strong>PRS Custom 24</strong> </a> has everything you need to make the leap from a bedroom guitarist, to playing on stage. PRS is known for dedication to reliability, which is why you see so many professional studio musicians use these guitars. Go to any studio in LA or Nashville, and you will see a <a href="/prs-se-series-guitars-guide/" data-lasso-id="251742">plethora of PRS SE guitars lying around</a>. Session guitarists love these, for good reason.</p>
 
 
 
@@ -479,7 +479,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" target="_blank" data-type="post" data-id="1608" rel="noopener" data-lasso-id="35957"><strong>ESP/LTD</strong></a> is the sister company of Schecter Guitars and both brands embrace guitars designed for one purpose: <strong>METAL.</strong> The ESP/LTD Arctic Metal guitars are the perfect example of this, and deserves a spot with the best guitars of 2021. This is a no frills, simple guitar that is built for heavy riffing and blazing leads. The spartan design is awesome in my opinion, and I love how&#8230; barren it is. In fact, this is one of the best guitars of 2021<em> because</em> of it&#8217;s simplicity!</p>
+<p><a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" target="_blank" data-type="post" data-id="1608" rel="noopener" data-lasso-id="35957"><strong>ESP/LTD</strong></a> is the sister company of Schecter Guitars and both brands embrace guitars designed for one purpose: <strong>METAL.</strong> The ESP/LTD Arctic Metal guitars are the perfect example of this, and deserves a spot with the best guitars of 2021. This is a no frills, simple guitar that is built for heavy riffing and blazing leads. The spartan design is awesome in my opinion, and I love how&#8230; barren it is. In fact, this is one of the best guitars of 2021<em> because</em> of it&#8217;s simplicity!</p>
 
 
 
@@ -575,11 +575,11 @@ seo:
 
 
 
-<p>Where do I even get started with this beast? I suppose we can start with the construction. This is a neck through construction with an ultra access heel joint that is perfectly carved to get up to the highest frets. The compound radius Ebony fretboard flattens out the higher you go up the neck. <a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="234007">The 26.5&#8221; scale length puts you in baritone territory</a> and allows you to use lighter gauge strings even if you tune low.</p>
+<p>Where do I even get started with this beast? I suppose we can start with the construction. This is a neck through construction with an ultra access heel joint that is perfectly carved to get up to the highest frets. The compound radius Ebony fretboard flattens out the higher you go up the neck. <a href="/best-baritone-guitars-for-metal/" data-lasso-id="234007">The 26.5&#8221; scale length puts you in baritone territory</a> and allows you to use lighter gauge strings even if you tune low.</p>
 
 
 
-<p>Keith&#8217;s Fishman Fluence Signature Humbucker in the bridge is based on a<a href="https://www.electrikjam.com/seymour-duncan-black-winter-link/" target="_blank" data-type="lasso-urls" data-id="4635" rel="nofollow noopener" data-lasso-id="35819" data-lasso-name="Seymour Duncan Black Winter Pickup"><strong> Duncan</strong></a> style high gain pickup, but with more midrange and clarity. The Sustaniac pickup is a source of endless fun when you combine it with a <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167816">Floyd Rose bridge</a>. You have three different settings for the pickup, and it works like a E-Bow, giving you infinite sustain if you want. I have one in my Hellraiser model, and I use it often during solos.</p>
+<p>Keith&#8217;s Fishman Fluence Signature Humbucker in the bridge is based on a<a href="/seymour-duncan-black-winter-link/" target="_blank" data-type="lasso-urls" data-id="4635" rel="nofollow noopener" data-lasso-id="35819" data-lasso-name="Seymour Duncan Black Winter Pickup"><strong> Duncan</strong></a> style high gain pickup, but with more midrange and clarity. The Sustaniac pickup is a source of endless fun when you combine it with a <a href="/floyd-rose-bridge-explained/" data-lasso-id="167816">Floyd Rose bridge</a>. You have three different settings for the pickup, and it works like a E-Bow, giving you infinite sustain if you want. I have one in my Hellraiser model, and I use it often during solos.</p>
 
 
 

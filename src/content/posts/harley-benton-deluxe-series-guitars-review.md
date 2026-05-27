@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>We have had a blast checking out<a data-lasso-id="190665" href="https://harleybenton.com/electric-guitars/deluxe-series/" target="_blank" rel="noopener noreferrer nofollow"> <strong>Harley Benton </strong></a>over the last year, and the Deluxe Series are the only models we haven&#8217;t really become familiar with yet. We checked out the<a data-lasso-id="190666" href="https://www.electrikjam.com/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"><strong> EX-84</strong></a>, which is probably the most talked-about budget guitar in recent memory. </p>
+<p>We have had a blast checking out<a data-lasso-id="190665" href="https://harleybenton.com/electric-guitars/deluxe-series/" target="_blank" rel="noopener noreferrer nofollow"> <strong>Harley Benton </strong></a>over the last year, and the Deluxe Series are the only models we haven&#8217;t really become familiar with yet. We checked out the<a data-lasso-id="190666" href="/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"><strong> EX-84</strong></a>, which is probably the most talked-about budget guitar in recent memory. </p>
 
 
 
-<p>Then we reviewed the <a data-lasso-id="190667" href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-type="post" data-id="9517" target="_blank" rel="nofollow noopener" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!"><strong>best models for playing Metal</strong></a>. We even checked out the<strong> <a data-lasso-id="190668" href="https://www.electrikjam.com/harley-benton-amarok-review/" data-type="post" data-id="5842" target="_blank" rel="noopener">more expensive</a></strong> extended range models that have too many upgrades to count! But so far the <a data-lasso-id="190669" href="https://www.electrikjam.com/electrikjam-link/" data-type="post" data-id="5767" target="_blank" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"><strong>Fusion III Series</strong></a> has been the benchmark to beat, since we were so blown away by those guitars. The Harley Benton Deluxe Series offers some cool upgrades:</p>
+<p>Then we reviewed the <a data-lasso-id="190667" href="/3-best-harley-benton-guitars-for-metal-review/" data-type="post" data-id="9517" target="_blank" rel="nofollow noopener" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!"><strong>best models for playing Metal</strong></a>. We even checked out the<strong> <a data-lasso-id="190668" href="/harley-benton-amarok-review/" data-type="post" data-id="5842" target="_blank" rel="noopener">more expensive</a></strong> extended range models that have too many upgrades to count! But so far the <a data-lasso-id="190669" href="/electrikjam-link/" data-type="post" data-id="5767" target="_blank" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"><strong>Fusion III Series</strong></a> has been the benchmark to beat, since we were so blown away by those guitars. The Harley Benton Deluxe Series offers some cool upgrades:</p>
 
 
 
@@ -55,11 +55,11 @@ seo:
 
 
 
-<p><a data-lasso-id="190670" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>Budget guitars</strong></a> have been a huge trend lately, and it is easy to see why! Bands are back to<a data-lasso-id="190671" href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener"><strong> gigging</strong> </a>across most of the world, and affordable gear is<em> exactly</em> what everyone is looking for<em> right now</em>. The Harley Benton Deluxe series claims to offer players a solid guitar, despite the budget price.</p>
+<p><a data-lasso-id="190670" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>Budget guitars</strong></a> have been a huge trend lately, and it is easy to see why! Bands are back to<a data-lasso-id="190671" href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener"><strong> gigging</strong> </a>across most of the world, and affordable gear is<em> exactly</em> what everyone is looking for<em> right now</em>. The Harley Benton Deluxe series claims to offer players a solid guitar, despite the budget price.</p>
 
 
 
-<p>So whether you are a beginner looking for a guitar that <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener" data-lasso-id="190672"><strong>doesn&#8217;t suck</strong></a>, or an experienced professional that needs a solid backup guitar for gigs, Harley Benton <em>seems</em> to have you covered. Some of the prices seem too good to be true, so we tried out<em> the entire Deluxe Series</em>.</p>
+<p>So whether you are a beginner looking for a guitar that <a href="/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener" data-lasso-id="190672"><strong>doesn&#8217;t suck</strong></a>, or an experienced professional that needs a solid backup guitar for gigs, Harley Benton <em>seems</em> to have you covered. Some of the prices seem too good to be true, so we tried out<em> the entire Deluxe Series</em>.</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Under $400 (Including international shipping charges!)</strong></li><li><strong>Classic, Iconic Designs</strong></li><li><strong>Upgraded Features/Special Features</strong></li><li><strong>Beginner Friendly</strong></li><li><strong>Stage Worthy: Good Hardware And Pickups</strong></li><li><strong>Easy To Upgrade (For experienced guitarists)</strong></li><li><strong>Fun And Easy To Play</strong></li><li><strong>Easy To Setup and Maintain</strong></li><li><strong>Kills The Competition</strong> <strong>(<a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" target="_blank" data-type="post" data-id="9377" rel="noopener" data-lasso-id="190673">Squier</a>, <a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" target="_blank" data-type="post" data-id="4089" rel="noopener" data-lasso-id="190674">Epiphone</a>. Etc.)</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Under $400 (Including international shipping charges!)</strong></li><li><strong>Classic, Iconic Designs</strong></li><li><strong>Upgraded Features/Special Features</strong></li><li><strong>Beginner Friendly</strong></li><li><strong>Stage Worthy: Good Hardware And Pickups</strong></li><li><strong>Easy To Upgrade (For experienced guitarists)</strong></li><li><strong>Fun And Easy To Play</strong></li><li><strong>Easy To Setup and Maintain</strong></li><li><strong>Kills The Competition</strong> <strong>(<a href="/squier-baritone-telecaster-custom-review/" target="_blank" data-type="post" data-id="9377" rel="noopener" data-lasso-id="190673">Squier</a>, <a href="/matt-heafy-epiphone-mkh-origins-les-paul/" target="_blank" data-type="post" data-id="4089" rel="noopener" data-lasso-id="190674">Epiphone</a>. Etc.)</strong></li></ul>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<p>This includes guitars made by <a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="190675"><strong>Epiphone</strong></a>,<strong> <a href="https://www.electrikjam.com/ibanez-az-essentials-review/" data-type="post" data-id="6366" target="_blank" rel="noopener" data-lasso-id="190676">Ibanez</a></strong>, <a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="190677"><strong>Squier</strong></a>, Donner, <a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="190678"><strong>Schecter</strong></a>. and<strong> any </strong>of the other budget brands. This is a hard-set rule, but the Harley Benton Deluxe Series makes some bold claims. <strong>We are going to hold </strong><a href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-lasso-id="192585">Harley Benton to a much higher standard than the usual budget guitars.</a></p>
+<p>This includes guitars made by <a href="/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="190675"><strong>Epiphone</strong></a>,<strong> <a href="/ibanez-az-essentials-review/" data-type="post" data-id="6366" target="_blank" rel="noopener" data-lasso-id="190676">Ibanez</a></strong>, <a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="190677"><strong>Squier</strong></a>, Donner, <a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="190678"><strong>Schecter</strong></a>. and<strong> any </strong>of the other budget brands. This is a hard-set rule, but the Harley Benton Deluxe Series makes some bold claims. <strong>We are going to hold </strong><a href="/harley-benton-standard-series-guitar-review/" data-lasso-id="192585">Harley Benton to a much higher standard than the usual budget guitars.</a></p>
 
 
 
@@ -131,23 +131,23 @@ seo:
 
 
 
-<p>Ours needed a slight tweak of the truss rod to get going out of the box, but other than that, it was perfect. We stretched the strings, tuned it up, and played through some of our favorite patches on the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="190679"><strong>BOSS Katana</strong></a>.</p>
+<p>Ours needed a slight tweak of the truss rod to get going out of the box, but other than that, it was perfect. We stretched the strings, tuned it up, and played through some of our favorite patches on the <a href="/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="190679"><strong>BOSS Katana</strong></a>.</p>
 
 
 
-<p>This guitar is all killer, no filler. The EMG Fat 55 pickups set sounds like a hot PAF that you would expect from this kind of guitar. These sound a lot like the EMG 57/66 combo that is so popular with people that don&#8217;t like <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="190680"><strong>active pickups</strong></a>! The EMG Fat 55 set is even more dynamic, and these are very versatile.</p>
+<p>This guitar is all killer, no filler. The EMG Fat 55 pickups set sounds like a hot PAF that you would expect from this kind of guitar. These sound a lot like the EMG 57/66 combo that is so popular with people that don&#8217;t like <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="190680"><strong>active pickups</strong></a>! The EMG Fat 55 set is even more dynamic, and these are very versatile.</p>
 
 
 
-<p>Harley Benton threw every upgrade possible at this guitar, and it shows. The Wilkinson hardware is made to last, and the locking tuners were very responsive with an 18:1 gear ratio. The graphite nut works and looks like a TUSQ, and it was cut perfectly for a<a href="https://www.electrikjam.com/ernie-ball-paradigm-regular-slinky-electric-guitar-strings-guitar-center/" target="_blank" data-type="lasso-urls" data-id="9277" rel="nofollow sponsored noopener" data-lasso-id="190681" data-lasso-name="Ernie Ball Paradigm Regular Slinky Electric Guitar Strings"><strong> set of 10&#8217;s</strong></a>.</p>
+<p>Harley Benton threw every upgrade possible at this guitar, and it shows. The Wilkinson hardware is made to last, and the locking tuners were very responsive with an 18:1 gear ratio. The graphite nut works and looks like a TUSQ, and it was cut perfectly for a<a href="/ernie-ball-paradigm-regular-slinky-electric-guitar-strings-guitar-center/" target="_blank" data-type="lasso-urls" data-id="9277" rel="nofollow sponsored noopener" data-lasso-id="190681" data-lasso-name="Ernie Ball Paradigm Regular Slinky Electric Guitar Strings"><strong> set of 10&#8217;s</strong></a>.</p>
 
 
 
-<p>The neck is a slim taper C shape that we are all familiar with, and the medium jumbo frets are much better than the vintage style that you usually see on a &#8220;Flame Maple <a href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206355">Single Cut&#8221; guitar</a>. You can really dig in when you go for big bends. I really &#8220;clicked&#8221; with this model, and it <em>sung for me</em>.</p>
+<p>The neck is a slim taper C shape that we are all familiar with, and the medium jumbo frets are much better than the vintage style that you usually see on a &#8220;Flame Maple <a href="/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206355">Single Cut&#8221; guitar</a>. You can really dig in when you go for big bends. I really &#8220;clicked&#8221; with this model, and it <em>sung for me</em>.</p>
 
 
 
-<p>Overall The Harley Benton SC-550 is an amazing deal, at just about any price under $1000. This feels and plays like a<em> much more expensive</em> guitar. In the parameters we said that our choices for this list has to beat the competition. This outplays most Epiphone models, and the <em>only</em> competition in this price range would be <a data-lasso-id="190682" href="https://www.electrikjam.com/sire-guitars-l7-review/" data-type="post" data-id="6029" target="_blank" rel="noopener"><strong>Sire</strong></a>.</p>
+<p>Overall The Harley Benton SC-550 is an amazing deal, at just about any price under $1000. This feels and plays like a<em> much more expensive</em> guitar. In the parameters we said that our choices for this list has to beat the competition. This outplays most Epiphone models, and the <em>only</em> competition in this price range would be <a data-lasso-id="190682" href="/sire-guitars-l7-review/" data-type="post" data-id="6029" target="_blank" rel="noopener"><strong>Sire</strong></a>.</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>Next up on our picks for the best of the Harley Benton Deluxe Series is the CST-24. I used to play <a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="191089"><strong>PRS</strong></a> Guitars exclusively for about 3 years, so I am very familiar with this shape and design. The whole idea behind this design is to blend a Stratocaster and Les Paul together, which was a new idea in the 80&#8217;s.</p>
+<p>Next up on our picks for the best of the Harley Benton Deluxe Series is the CST-24. I used to play <a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="191089"><strong>PRS</strong></a> Guitars exclusively for about 3 years, so I am very familiar with this shape and design. The whole idea behind this design is to blend a Stratocaster and Les Paul together, which was a new idea in the 80&#8217;s.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251746">Now PRS has the SE Series</a> that are meant to be budget guitars, but none of them come close to the price of Harley Benton. But if you are familiar, then the features are very standard. There are a few differences that make this guitar more than just an &#8220;inspired by&#8221; instrument.</p>
+<p><a href="/prs-se-series-guitars-guide/" data-lasso-id="251746">Now PRS has the SE Series</a> that are meant to be budget guitars, but none of them come close to the price of Harley Benton. But if you are familiar, then the features are very standard. There are a few differences that make this guitar more than just an &#8220;inspired by&#8221; instrument.</p>
 
 
 
@@ -227,7 +227,7 @@ seo:
 
 
 
-<p>The final test, is this better than the competition? I think this guitar smokes the <a href="https://www.electrikjam.com/guitar-center-pxf-io-qnvga5/" data-type="lasso-urls" data-id="6061" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="191090" data-lasso-name="PRS Custom 24 SE"><strong>PRS SE Standard</strong></a> when it comes to the features. The thing is, we often buy these inexpensive guitars for <strong>mod platforms</strong>. I think the Harley Benton being so inexpensive, gives you more wiggle room to<em> afford mods</em>.</p>
+<p>The final test, is this better than the competition? I think this guitar smokes the <a href="/guitar-center-pxf-io-qnvga5/" data-type="lasso-urls" data-id="6061" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="191090" data-lasso-name="PRS Custom 24 SE"><strong>PRS SE Standard</strong></a> when it comes to the features. The thing is, we often buy these inexpensive guitars for <strong>mod platforms</strong>. I think the Harley Benton being so inexpensive, gives you more wiggle room to<em> afford mods</em>.</p>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<p>This is by far my favorite guitar in all of the Harley Benton Deluxe Series. I saw this guitar, and knew exactly what Harley Benton was going for, and it is<em> legendary</em>. <strong>Prince</strong> used<em> a lot</em> of guitars on stage over the years, some of the wilder designs were made by <a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="191091"><strong>Schecter</strong></a>. But his #1 guitar that you hear on almost <em>every album</em>, was a <strong>Nash Telecaster</strong>.</p>
+<p>This is by far my favorite guitar in all of the Harley Benton Deluxe Series. I saw this guitar, and knew exactly what Harley Benton was going for, and it is<em> legendary</em>. <strong>Prince</strong> used<em> a lot</em> of guitars on stage over the years, some of the wilder designs were made by <a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="191091"><strong>Schecter</strong></a>. But his #1 guitar that you hear on almost <em>every album</em>, was a <strong>Nash Telecaster</strong>.</p>
 
 
 
@@ -281,7 +281,7 @@ seo:
 
 
 
-<p>Look, this is a $150 guitar, and it plays much better than most <a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="191092"><strong>Squier</strong></a> guitars that you will find. So it does <strong>beat the competition</strong>, but not by much. Where the appeal lies, is that this is based on an iconic guitar that would cost 10x the money to buy. Nash makes a Prince model, <em>but it is not cheap</em>.</p>
+<p>Look, this is a $150 guitar, and it plays much better than most <a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="191092"><strong>Squier</strong></a> guitars that you will find. So it does <strong>beat the competition</strong>, but not by much. Where the appeal lies, is that this is based on an iconic guitar that would cost 10x the money to buy. Nash makes a Prince model, <em>but it is not cheap</em>.</p>
 
 
 
@@ -289,7 +289,7 @@ seo:
 
 
 
-<p>My other option would be to mod this guitar. I would add locking tuners and a graphite TUSQ nut. But other wise, this guitar is ready to rock in my opinion! I certainly wouldn&#8217;t do anything to the <a href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211010">guitar to change</a> the aesthetics. Overall, this is a great guitar that can<em> be a beast </em>if you want it to be!</p>
+<p>My other option would be to mod this guitar. I would add locking tuners and a graphite TUSQ nut. But other wise, this guitar is ready to rock in my opinion! I certainly wouldn&#8217;t do anything to the <a href="/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211010">guitar to change</a> the aesthetics. Overall, this is a great guitar that can<em> be a beast </em>if you want it to be!</p>
 
 
 
@@ -305,11 +305,11 @@ seo:
 
 
 
-<p>While these guitars certainly hold their own, the<a href="https://www.electrikjam.com/electrikjam-link/" target="_blank" data-type="post" data-id="5767" rel="nofollow sponsored noopener" data-lasso-id="191093" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"> <strong>Pro Series</strong></a> <a href="https://www.electrikjam.com/harley-benton-amarok-review/" target="_blank" data-type="post" data-id="5842" rel="noopener" data-lasso-id="191094"><strong>from Harley Benton</strong></a> is <em>still a better buy</em>. But what you get here is a well made guitar, with &#8220;good bones&#8221;. The stainless steel frets on most of the models is crazy in this price point.</p>
+<p>While these guitars certainly hold their own, the<a href="/electrikjam-link/" target="_blank" data-type="post" data-id="5767" rel="nofollow sponsored noopener" data-lasso-id="191093" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"> <strong>Pro Series</strong></a> <a href="/harley-benton-amarok-review/" target="_blank" data-type="post" data-id="5842" rel="noopener" data-lasso-id="191094"><strong>from Harley Benton</strong></a> is <em>still a better buy</em>. But what you get here is a well made guitar, with &#8220;good bones&#8221;. The stainless steel frets on most of the models is crazy in this price point.</p>
 
 
 
-<p>These kind of features is what makes the Harley Benton Deluxe Series such an outlier in the <a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="191095"><strong>budget guitar</strong></a> category. Harley Benton themselves talk about the &#8220;choice woods&#8221; and such, but the upgraded <strong>construction features</strong> are what sets these guitars apart from the competition.</p>
+<p>These kind of features is what makes the Harley Benton Deluxe Series such an outlier in the <a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="191095"><strong>budget guitar</strong></a> category. Harley Benton themselves talk about the &#8220;choice woods&#8221; and such, but the upgraded <strong>construction features</strong> are what sets these guitars apart from the competition.</p>
 
 
 

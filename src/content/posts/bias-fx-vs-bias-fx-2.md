@@ -96,11 +96,11 @@ seo:
 
 
 
-<p>It is highly recommended by ELECTRIKJAM due to its ease-of-use and ability to create unique sounds. And the best part? <strong><a href="https://www.electrikjam.com/bias-fx-2-guitar-effects-processor-and-software-positive-grid/" data-type="lasso-urls" data-id="10657" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="216005" data-lasso-name="BIAS FX 2">Prices start from less than 60 bucks</a></strong> –&nbsp;you cannot beat that for value for money. </p>
+<p>It is highly recommended by ELECTRIKJAM due to its ease-of-use and ability to create unique sounds. And the best part? <strong><a href="/bias-fx-2-guitar-effects-processor-and-software-positive-grid/" data-type="lasso-urls" data-id="10657" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="216005" data-lasso-name="BIAS FX 2">Prices start from less than 60 bucks</a></strong> –&nbsp;you cannot beat that for value for money. </p>
 
 
 
-<p>Wherever you are on your <a href="https://www.electrikjam.com/touring-with-a-40-harley-benton/" data-lasso-id="217876">guitar journey</a>, this software is easily one of the most useful things you will invest in this year. Of that, I am 100% certain. It has been a real game-changer for me and the rest of the team. </p>
+<p>Wherever you are on your <a href="/touring-with-a-40-harley-benton/" data-lasso-id="217876">guitar journey</a>, this software is easily one of the most useful things you will invest in this year. Of that, I am 100% certain. It has been a real game-changer for me and the rest of the team. </p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>As noted inside <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="216006">our review of BIAS FX 2</a></strong>, this software is pretty mind-blowing. If you’ve never used or heard of something like this before, it will blow your mind.</p>
+<p>As noted inside <strong><a href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="216006">our review of BIAS FX 2</a></strong>, this software is pretty mind-blowing. If you’ve never used or heard of something like this before, it will blow your mind.</p>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>Here&#8217;s a <strong><a href="https://www.electrikjam.com/bias-fx-amp-list/" data-type="post" data-id="3528" data-lasso-id="216015">full list of amps included in BIAS FX 2</a></strong> just in case you were wondering. </p>
+<p>Here&#8217;s a <strong><a href="/bias-fx-amp-list/" data-type="post" data-id="3528" data-lasso-id="216015">full list of amps included in BIAS FX 2</a></strong> just in case you were wondering. </p>
 
 
 

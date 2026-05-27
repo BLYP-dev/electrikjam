@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>What did you think of? Was it acoustic? <strong><a class="rank-math-link" href="https://www.electrikjam.com/best-guitars-for-metal/" data-lasso-id="1581">Was it an electric?</a></strong></p>
+<p>What did you think of? Was it acoustic? <strong><a class="rank-math-link" href="/best-guitars-for-metal/" data-lasso-id="1581">Was it an electric?</a></strong></p>
 
 
 
@@ -59,15 +59,15 @@ seo:
 
 
 
-<p>It can be a bit daunting when you are first looking at all the different types of guitars. Perhaps you&#8217;re a first-time buyer just starting your musical journey, or maybe just trying to <strong><a class="rank-math-link" href="https://www.electrikjam.com/category/tutorials/" data-lasso-id="1582">research guitars in general</a></strong>. Either way, the many different types of guitars can get confusing really fast.</p>
+<p>It can be a bit daunting when you are first looking at all the different types of guitars. Perhaps you&#8217;re a first-time buyer just starting your musical journey, or maybe just trying to <strong><a class="rank-math-link" href="/category/tutorials/" data-lasso-id="1582">research guitars in general</a></strong>. Either way, the many different types of guitars can get confusing really fast.</p>
 
 
 
-<ul class="wp-block-list"><li><strong>RELATED: <a class="rank-math-link" href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="1583">Is Guitar Really Hard To Learn? The INS &amp; OUTS of Starting Out</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>RELATED: <a class="rank-math-link" href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="1583">Is Guitar Really Hard To Learn? The INS &amp; OUTS of Starting Out</a></strong></li></ul>
 
 
 
-<p><strong>Today we are going to take the time to really break down the different types of guitars, how they are constructed, and what they are used for</strong>. I am going to keep this mostly in chronological order, so you can <strong><a class="rank-math-link" href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-lasso-id="1584">see the evolution of the guitar</a></strong>. </p>
+<p><strong>Today we are going to take the time to really break down the different types of guitars, how they are constructed, and what they are used for</strong>. I am going to keep this mostly in chronological order, so you can <strong><a class="rank-math-link" href="/who-invented-the-electric-guitar/" data-lasso-id="1584">see the evolution of the guitar</a></strong>. </p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>Being a website that is dedicated to all things Metal, we rarely talk about acoustic guitars. It&#8217;s not because they don&#8217;t have a place in Metal music. But we definitely focus more on <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216553">electric guitars</a> here at Electrikjam. There are tons of brands that make amazing acoustic guitars including the big brands like<a class="rank-math-link" href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-lasso-id="1585"><strong> Fender</strong></a>, <a class="rank-math-link" href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="1586"><strong>Gibson</strong></a>, and<a class="rank-math-link" href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" data-lasso-id="1587"><strong> Ibanez</strong></a>.</p>
+<p>Being a website that is dedicated to all things Metal, we rarely talk about acoustic guitars. It&#8217;s not because they don&#8217;t have a place in Metal music. But we definitely focus more on <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216553">electric guitars</a> here at Electrikjam. There are tons of brands that make amazing acoustic guitars including the big brands like<a class="rank-math-link" href="/the-best-fender-guitars-for-metal-our-1-picks/" data-lasso-id="1585"><strong> Fender</strong></a>, <a class="rank-math-link" href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="1586"><strong>Gibson</strong></a>, and<a class="rank-math-link" href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" data-lasso-id="1587"><strong> Ibanez</strong></a>.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Parlor Style: </strong>Usually used for blues, these are smaller bodied guitars with a mid range focused sound. These also typically have a shorter scale length, rarely having the neck past the 12th fret. This is because they are usually used for rhythm playing.</li><li><strong>Dreadnaught</strong>: This is the most popular style of acoustic guitar that you usually see. This is a mid-sized guitar that relies heavily on <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246479">the wood types to produce it&#8217;s tone</a>. These are often seen built out of Spruce or Mahogany. Different woods make a different sound, and a dreadnaught sized acoustic can cover a ton of bases.</li><li><strong>Jumbo</strong>: Jumbo acoustics are exactly what they sound like: Bigger! These are usually dreadnaught shaped but on a slightly larger scale. Jumbo acoustics have a big and bass-heavy tone. They sound as big as they look!</li><li><strong>Classical</strong>: Classical guitars are usually in between the size of a dreadnaught and a parlor size guitar. The big difference here is the wider fretboard/neck and the use of nylon strings. These are not easy guitars to play! But out of all of the different acoustic guitars, the classical is the closest to it&#8217;s ancient cousin, the lute.</li><li><strong>Concert Size</strong>: Concert size usually sits between Jumbo and dreadnaught style guitars. These are large, and produce a bass heavy tone. However, depending on the woods used&#8230;it can have plenty of treble/mids.</li><li><strong>CE or Cutaway</strong>: These come in many shapes and sizes. A Cutaway has the lower bout of the guitar &#8220;cut away&#8221; to allow you to reach higher up the fretboard. This is very good for <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196547">playing complex chords</a> and solos!</li></ul>
+<ul class="wp-block-list"><li><strong>Parlor Style: </strong>Usually used for blues, these are smaller bodied guitars with a mid range focused sound. These also typically have a shorter scale length, rarely having the neck past the 12th fret. This is because they are usually used for rhythm playing.</li><li><strong>Dreadnaught</strong>: This is the most popular style of acoustic guitar that you usually see. This is a mid-sized guitar that relies heavily on <a href="/parts-of-an-electric-guitar/" data-lasso-id="246479">the wood types to produce it&#8217;s tone</a>. These are often seen built out of Spruce or Mahogany. Different woods make a different sound, and a dreadnaught sized acoustic can cover a ton of bases.</li><li><strong>Jumbo</strong>: Jumbo acoustics are exactly what they sound like: Bigger! These are usually dreadnaught shaped but on a slightly larger scale. Jumbo acoustics have a big and bass-heavy tone. They sound as big as they look!</li><li><strong>Classical</strong>: Classical guitars are usually in between the size of a dreadnaught and a parlor size guitar. The big difference here is the wider fretboard/neck and the use of nylon strings. These are not easy guitars to play! But out of all of the different acoustic guitars, the classical is the closest to it&#8217;s ancient cousin, the lute.</li><li><strong>Concert Size</strong>: Concert size usually sits between Jumbo and dreadnaught style guitars. These are large, and produce a bass heavy tone. However, depending on the woods used&#8230;it can have plenty of treble/mids.</li><li><strong>CE or Cutaway</strong>: These come in many shapes and sizes. A Cutaway has the lower bout of the guitar &#8220;cut away&#8221; to allow you to reach higher up the fretboard. This is very good for <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196547">playing complex chords</a> and solos!</li></ul>
 
 
 
@@ -127,11 +127,11 @@ seo:
 
 
 
-<p>Different types of guitars in the acoustic world generally fit into two main categories, Nylon and Steel string. Almost all of Classical style <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" data-lasso-id="15983">guitars are nylon string</a>. This is to simulate the cat gut (Eww!) that guitar strings once were made of. A nylon stringed acoustic sounds very warm, and lacks the brightness that a steel stringed acoustic has.</p>
+<p>Different types of guitars in the acoustic world generally fit into two main categories, Nylon and Steel string. Almost all of Classical style <a href="/which-guitar-strings-last-longest/" data-lasso-id="15983">guitars are nylon string</a>. This is to simulate the cat gut (Eww!) that guitar strings once were made of. A nylon stringed acoustic sounds very warm, and lacks the brightness that a steel stringed acoustic has.</p>
 
 
 
-<p>Nylon string acoustics have a wide fretboard radius and the strings are more spaced out from one another. This is to compensate for what we call <a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="1588">&#8220;moving chords&#8221;</a> and even some more complicated chord structures. These are hard to to play if you are used to a more traditional guitar. However, their sound is remarkable and unmistakable.</p>
+<p>Nylon string acoustics have a wide fretboard radius and the strings are more spaced out from one another. This is to compensate for what we call <a href="/chord-voicing-extensions-for-metal/" data-lasso-id="1588">&#8220;moving chords&#8221;</a> and even some more complicated chord structures. These are hard to to play if you are used to a more traditional guitar. However, their sound is remarkable and unmistakable.</p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>Electric acoustic guitars are exactly what they sound like! Electric acoustics have a microphone/pickup inside the <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35968">guitar that picks</a> up the sound of the guitar. This is almost exclusively used on steel string acoustic guitars <strong><a class="rank-math-link" href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="1589">(pickups are magnets and need steel to produce sound</a></strong>). There are many types of guitars, and each sub-model has many variants. Electric acoustic included!</p>
+<p>Electric acoustic guitars are exactly what they sound like! Electric acoustics have a microphone/pickup inside the <a href="/the-best-guitars-of-2021/" data-lasso-id="35968">guitar that picks</a> up the sound of the guitar. This is almost exclusively used on steel string acoustic guitars <strong><a class="rank-math-link" href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="1589">(pickups are magnets and need steel to produce sound</a></strong>). There are many types of guitars, and each sub-model has many variants. Electric acoustic included!</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>Electric acoustics are also fantastic <a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="1590"><strong>for direct recording</strong></a>. Just like the stage, there are no microphones to set up. This bridges the gap between <em>electric guitars</em> that were originally invented for more volume, and <em>acoustic guitars</em> seamlessly. It is important to note that these are NOT electric guitars and should not be used with any fuzz or gain effects. Those kind of effects are strictly for other types of guitars.</p>
+<p>Electric acoustics are also fantastic <a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="1590"><strong>for direct recording</strong></a>. Just like the stage, there are no microphones to set up. This bridges the gap between <em>electric guitars</em> that were originally invented for more volume, and <em>acoustic guitars</em> seamlessly. It is important to note that these are NOT electric guitars and should not be used with any fuzz or gain effects. Those kind of effects are strictly for other types of guitars.</p>
 
 
 
@@ -183,11 +183,11 @@ seo:
 
 
 
-<p>Electric guitars are designed to be <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1591"><strong>used with an amplifier</strong></a>. This completely sets them apart from the acoustic guitars, as they do not make a lot of sound on their own. especially solid-body designs. Electric guitars are usually fitted with magnetic pickups that catch the frequency of the string vibration, and make sound through the amplifier.</p>
+<p>Electric guitars are designed to be <a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1591"><strong>used with an amplifier</strong></a>. This completely sets them apart from the acoustic guitars, as they do not make a lot of sound on their own. especially solid-body designs. Electric guitars are usually fitted with magnetic pickups that catch the frequency of the string vibration, and make sound through the amplifier.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="1592"><strong>Early electric guitar</strong></a> was used in Big Band/Jazz music during it&#8217;s inception. The guitarists needed more volume on stage to compete with the louder sounds of horns and piano. But over the last 80 years or so, electric guitar has definitely evolved into it&#8217;s own thing. Entire genres (like Metal) are built around the sounds of an electric guitar!</p>
+<p><a href="/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="1592"><strong>Early electric guitar</strong></a> was used in Big Band/Jazz music during it&#8217;s inception. The guitarists needed more volume on stage to compete with the louder sounds of horns and piano. But over the last 80 years or so, electric guitar has definitely evolved into it&#8217;s own thing. Entire genres (like Metal) are built around the sounds of an electric guitar!</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-lasso-id="84760"><strong>Hollow Body Electric Guitars</a> </strong>were one of the first incarnations of the electric guitar, and they are still used today. The hollow body electric can be seen as not only a stepping stone to modern electric guitars, but also as a <a href="https://www.electrikjam.com/are-reverend-guitars-any-good/" data-lasso-id="16621">unique guitar</a> in it&#8217;s own right. Of all the types of guitars out there, the full hollow body electric is one of the most rarely used these days.</p>
+<p><a href="/why-the-beatles-used-epiphone-not-gibson/" data-lasso-id="84760"><strong>Hollow Body Electric Guitars</a> </strong>were one of the first incarnations of the electric guitar, and they are still used today. The hollow body electric can be seen as not only a stepping stone to modern electric guitars, but also as a <a href="/are-reverend-guitars-any-good/" data-lasso-id="16621">unique guitar</a> in it&#8217;s own right. Of all the types of guitars out there, the full hollow body electric is one of the most rarely used these days.</p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="1593"><strong>Gibson and Rickenbacker </strong></a>made history with these guitars in the late 1940&#8217;s and early 1950&#8217;s. There are many types of electric guitars now. But there were <em>not </em>many electric guitars at all back then. These guitars were at first, rejected by purists. </p>
+<p><a href="/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="1593"><strong>Gibson and Rickenbacker </strong></a>made history with these guitars in the late 1940&#8217;s and early 1950&#8217;s. There are many types of electric guitars now. But there were <em>not </em>many electric guitars at all back then. These guitars were at first, rejected by purists. </p>
 
 
 
@@ -227,7 +227,7 @@ seo:
 
 
 
-<p>The Gibson hollow body models that are produced today are almost identical to the ones from the past. The same goes for many <a href="https://www.electrikjam.com/what-are-chibson-guitars/" data-lasso-id="1594">companies that make &#8220;replicas&#8221;</a> of the original hollow body models. They are used in many genres today, still. They are also very collectable pieces of art!</p>
+<p>The Gibson hollow body models that are produced today are almost identical to the ones from the past. The same goes for many <a href="/what-are-chibson-guitars/" data-lasso-id="1594">companies that make &#8220;replicas&#8221;</a> of the original hollow body models. They are used in many genres today, still. They are also very collectable pieces of art!</p>
 
 
 
@@ -235,11 +235,11 @@ seo:
 
 
 
-<p>A Fully hollow body guitar resonates <em>almost too well</em> to be amplified. At higher volumes, this creates a high pitched squeal sound from the amplifier. But remember, this was the only real option back then. There may be many types of guitars these days to choose from, but the electric <a href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-lasso-id="70797">guitar was brand</a> new and very innovative for the time. So feedback issues were something you just had to deal with.</p>
+<p>A Fully hollow body guitar resonates <em>almost too well</em> to be amplified. At higher volumes, this creates a high pitched squeal sound from the amplifier. But remember, this was the only real option back then. There may be many types of guitars these days to choose from, but the electric <a href="/the-best-guitar-brands-for-lefties-2022/" data-lasso-id="70797">guitar was brand</a> new and very innovative for the time. So feedback issues were something you just had to deal with.</p>
 
 
 
-<p>This problem would later be solved with the solid body guitar and <a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-lasso-id="106935">humbucking pickups</a>. But this would take over a decade to achieve! </p>
+<p>This problem would later be solved with the solid body guitar and <a href="/kurt-cobain-pickups/" data-lasso-id="106935">humbucking pickups</a>. But this would take over a decade to achieve! </p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p>The next step in our look at the history of the different types of guitars, is the<strong> <a href="https://www.electrikjam.com/gretsch-vintage-select-89-jet-reissue/" class="rank-math-link" data-lasso-id="1595">Semi-Hollow Body models</a></strong>. These became very popular, as they solved a lot of problems that the original electric guitars had. The first being the size of the guitar.</p>
+<p>The next step in our look at the history of the different types of guitars, is the<strong> <a href="/gretsch-vintage-select-89-jet-reissue/" class="rank-math-link" data-lasso-id="1595">Semi-Hollow Body models</a></strong>. These became very popular, as they solved a lot of problems that the original electric guitars had. The first being the size of the guitar.</p>
 
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<p><strong>The Beatles</strong> were known for using these semi-hollow guitars in the studio, especially the <strong>Epiphone Casino</strong>. You can hear this guitar being <a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36078">played by John Lennon</a> all over the famous &#8220;White Album&#8221;. John loved the tone and versatility of the semi-hollow guitars, and he could get them<em> VERY </em>loud when recording in the studio!</p>
+<p><strong>The Beatles</strong> were known for using these semi-hollow guitars in the studio, especially the <strong>Epiphone Casino</strong>. You can hear this guitar being <a href="/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36078">played by John Lennon</a> all over the famous &#8220;White Album&#8221;. John loved the tone and versatility of the semi-hollow guitars, and he could get them<em> VERY </em>loud when recording in the studio!</p>
 
 
 
@@ -283,7 +283,7 @@ seo:
 
 
 
-<p>Lately semi-hollow guitars have been making a comeback in heavy music. <strong><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="1596">This is very apparent in Doom and Sludge Metal.</a></strong> People like <strong>Chelsea Wolfe</strong>, and <strong>Queens of The Stone Age</strong> have used these wonderful guitars to get their signature sound for quite a while now. You wouldn&#8217;t think that a semi-hollow would be great with gain and fuzz applied, but the fat character of the natural tone sounds incredible.</p>
+<p>Lately semi-hollow guitars have been making a comeback in heavy music. <strong><a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="1596">This is very apparent in Doom and Sludge Metal.</a></strong> People like <strong>Chelsea Wolfe</strong>, and <strong>Queens of The Stone Age</strong> have used these wonderful guitars to get their signature sound for quite a while now. You wouldn&#8217;t think that a semi-hollow would be great with gain and fuzz applied, but the fat character of the natural tone sounds incredible.</p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p><strong>Solid Body Electric Guitars </strong>are by far the most widely used and available electric models on the market today. In the many types of guitars, the solid body electric reigns supreme. Solid body electrics became a cultural norm in the 19050&#8217;s as a brand new approach to electric guitars. <a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1597"><strong>You can thank Leo Fender </strong></a>for making that happen!</p>
+<p><strong>Solid Body Electric Guitars </strong>are by far the most widely used and available electric models on the market today. In the many types of guitars, the solid body electric reigns supreme. Solid body electrics became a cultural norm in the 19050&#8217;s as a brand new approach to electric guitars. <a href="/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1597"><strong>You can thank Leo Fender </strong></a>for making that happen!</p>
 
 
 
@@ -335,7 +335,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1598">Fender solid body guitars</a> became a staple of both Rock music, and Country music. <strong>Johnny Cash&#8217;s</strong> guitarist, Luther Perkins famously used a Fender Telecaster with the Tennessee Three. The Fender helped to shape the Rockabilly sound that Johnny helped to invent. At the same time, these same guitars were being used to shape Rock N Roll as well.</p>
+<p><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1598">Fender solid body guitars</a> became a staple of both Rock music, and Country music. <strong>Johnny Cash&#8217;s</strong> guitarist, Luther Perkins famously used a Fender Telecaster with the Tennessee Three. The Fender helped to shape the Rockabilly sound that Johnny helped to invent. At the same time, these same guitars were being used to shape Rock N Roll as well.</p>
 
 
 
@@ -343,23 +343,23 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png" alt="" class="wp-image-2556" title="" srcset="/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png 1024w, /wp-content/uploads/2021/03/Jimi-Hendrix--600x338.png 600w, /wp-content/uploads/2021/03/Jimi-Hendrix--300x169.png 300w, /wp-content/uploads/2021/03/Jimi-Hendrix--768x432.png 768w, /wp-content/uploads/2021/03/Jimi-Hendrix--1080x608.png 1080w, /wp-content/uploads/2021/03/Jimi-Hendrix-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99494">Jimi Hendrix Playing His Fender</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png" alt="" class="wp-image-2556" title="" srcset="/wp-content/uploads/2021/03/Jimi-Hendrix--1024x576.png 1024w, /wp-content/uploads/2021/03/Jimi-Hendrix--600x338.png 600w, /wp-content/uploads/2021/03/Jimi-Hendrix--300x169.png 300w, /wp-content/uploads/2021/03/Jimi-Hendrix--768x432.png 768w, /wp-content/uploads/2021/03/Jimi-Hendrix--1080x608.png 1080w, /wp-content/uploads/2021/03/Jimi-Hendrix-.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99494">Jimi Hendrix Playing His Fender</a></figcaption></figure>
 
 
 
-<p>The late 1960&#8217;s and early 1970&#8217;s saw the rise of Psychedelic Rock, and Hard Rock. probably <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101459">the most famous fender solid body player would be the legendary  Jimi Hendrix</a>. Around this time, Fender saw their sales sky-rocket! While Gibson once dominated the market for all types of guitars, it would seem that Fender had taken over entirely. But Gibson also had some solid body models that were making history.</p>
+<p>The late 1960&#8217;s and early 1970&#8217;s saw the rise of Psychedelic Rock, and Hard Rock. probably <a href="/jimi-hendrix-guitar-tuning/" data-lasso-id="101459">the most famous fender solid body player would be the legendary  Jimi Hendrix</a>. Around this time, Fender saw their sales sky-rocket! While Gibson once dominated the market for all types of guitars, it would seem that Fender had taken over entirely. But Gibson also had some solid body models that were making history.</p>
 
 
 
-<p>Gibson released the famous <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4665">Les Paul guitars</a> in the late 1950&#8217;s to much critical acclaim. Gibson knew they had to make new solid body models, to keep up with Fender. Several Gibson models became a staple of Rock music, like the now famous<a href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" class="rank-math-link" data-lasso-id="1599"> <strong>Gibson SG Model</strong>.</a> Many artists took to these new solid body guitars by Gibson, especially overseas in the UK with a little band called <strong>Black Sabbath</strong>.</p>
+<p>Gibson released the famous <a href="/best-les-paul-copy/" data-lasso-id="4665">Les Paul guitars</a> in the late 1950&#8217;s to much critical acclaim. Gibson knew they had to make new solid body models, to keep up with Fender. Several Gibson models became a staple of Rock music, like the now famous<a href="/epiphone-sg-standard-vs-epiphone-sg-custom/" class="rank-math-link" data-lasso-id="1599"> <strong>Gibson SG Model</strong>.</a> Many artists took to these new solid body guitars by Gibson, especially overseas in the UK with a little band called <strong>Black Sabbath</strong>.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/epi-sg-3-1024x576.png" alt="" class="wp-image-2499" title="" srcset="/wp-content/uploads/2021/03/epi-sg-3-1024x576.png 1024w, /wp-content/uploads/2021/03/epi-sg-3-600x338.png 600w, /wp-content/uploads/2021/03/epi-sg-3-300x169.png 300w, /wp-content/uploads/2021/03/epi-sg-3-768x432.png 768w, /wp-content/uploads/2021/03/epi-sg-3-1536x864.png 1536w, /wp-content/uploads/2021/03/epi-sg-3-1080x608.png 1080w, /wp-content/uploads/2021/03/epi-sg-3.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" class="rank-math-link" data-lasso-id="1600">Gibson SG Solid Body Guitar</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/epi-sg-3-1024x576.png" alt="" class="wp-image-2499" title="" srcset="/wp-content/uploads/2021/03/epi-sg-3-1024x576.png 1024w, /wp-content/uploads/2021/03/epi-sg-3-600x338.png 600w, /wp-content/uploads/2021/03/epi-sg-3-300x169.png 300w, /wp-content/uploads/2021/03/epi-sg-3-768x432.png 768w, /wp-content/uploads/2021/03/epi-sg-3-1536x864.png 1536w, /wp-content/uploads/2021/03/epi-sg-3-1080x608.png 1080w, /wp-content/uploads/2021/03/epi-sg-3.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="/epiphone-sg-vs-epiphone-les-paul/" class="rank-math-link" data-lasso-id="1600">Gibson SG Solid Body Guitar</a></strong></figcaption></figure>
 
 
 
-<p>Throughout the 1970&#8217;s until today, the solid body electric guitar has been the face of all genres of Rock and Metal. There are literally hundreds of companies that make them and many of these companies put a spin on classic designs, <a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="1601"><strong>such as ESP Guitars</strong></a> and their ilk. Most of the innovations when it comes to the many types of guitars are solid body electrics. And those are going to be our next topic of conversation.</p>
+<p>Throughout the 1970&#8217;s until today, the solid body electric guitar has been the face of all genres of Rock and Metal. There are literally hundreds of companies that make them and many of these companies put a spin on classic designs, <a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="1601"><strong>such as ESP Guitars</strong></a> and their ilk. Most of the innovations when it comes to the many types of guitars are solid body electrics. And those are going to be our next topic of conversation.</p>
 
 
 
@@ -371,7 +371,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/the-top-5-extended-range-guitars-for-2021-going-low/" class="rank-math-link" data-lasso-id="1602">Extended range guitars</a></strong> have been around for a long time in the form of Baritone guitars. But over the past 20-30 years, we have seen all kinds of innovation in 7 string guitars, <strong><a href="https://www.electrikjam.com/cheap-8-string-guitar/" class="rank-math-link" data-lasso-id="1603">8 string guitars</a></strong>, and Multi-scale. We have taken a nice <a href="https://www.electrikjam.com/are-indio-guitars-legit/" data-lasso-id="19074">deep dive into these types of guitars</a> already, but I think they deserve their own section here in out pantheon of guitars.</p>
+<p><strong><a href="/the-top-5-extended-range-guitars-for-2021-going-low/" class="rank-math-link" data-lasso-id="1602">Extended range guitars</a></strong> have been around for a long time in the form of Baritone guitars. But over the past 20-30 years, we have seen all kinds of innovation in 7 string guitars, <strong><a href="/cheap-8-string-guitar/" class="rank-math-link" data-lasso-id="1603">8 string guitars</a></strong>, and Multi-scale. We have taken a nice <a href="/are-indio-guitars-legit/" data-lasso-id="19074">deep dive into these types of guitars</a> already, but I think they deserve their own section here in out pantheon of guitars.</p>
 
 
 
@@ -391,7 +391,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="234009">A Baritone Electric Guitar</a> can have a million different uses and applications. Of the many types of guitars, they are usually the most rare when it comes to electrics. In fact, the baritone guitar was very uncommon until<a href="https://en.wikipedia.org/wiki/Danelectro" class="rank-math-link" data-lasso-id="1604" target="_blank" rel="noopener noreferrer nofollow"><strong> Danelectro</strong></a> started production of them in the late 1950&#8217;s.</p>
+<p><a href="/best-baritone-guitars-for-metal/" data-lasso-id="234009">A Baritone Electric Guitar</a> can have a million different uses and applications. Of the many types of guitars, they are usually the most rare when it comes to electrics. In fact, the baritone guitar was very uncommon until<a href="https://en.wikipedia.org/wiki/Danelectro" class="rank-math-link" data-lasso-id="1604" target="_blank" rel="noopener noreferrer nofollow"><strong> Danelectro</strong></a> started production of them in the late 1950&#8217;s.</p>
 
 
 
@@ -403,7 +403,7 @@ seo:
 
 
 
-<p>The longer scale length makes the strings feel natural, even though they are tuned much lower than standard. The strings would have entirely too much slack on a <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1605">standard tuned guitar</a>. The longer scale length keeps the strings taut, and feels like a standard guitar. The longer neck does take a little getting used to, since the frets are spaced out further.</p>
+<p>The longer scale length makes the strings feel natural, even though they are tuned much lower than standard. The strings would have entirely too much slack on a <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1605">standard tuned guitar</a>. The longer scale length keeps the strings taut, and feels like a standard guitar. The longer neck does take a little getting used to, since the frets are spaced out further.</p>
 
 
 
@@ -415,11 +415,11 @@ seo:
 
 
 
-<p>Modern day baritone electrics are usually 26.5&#8221; scale or 27&#8221;. These are used primarily in metal for tuning down low. Like the <a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="1606">Ibanez RGD</a> that you see above, these guitars usually ship tuned a full step down. A baritone electric is an <a href="https://www.electrikjam.com/yamaha-revstar-standard-review/" data-lasso-id="97627">amazing addition</a> to any collection.</p>
+<p>Modern day baritone electrics are usually 26.5&#8221; scale or 27&#8221;. These are used primarily in metal for tuning down low. Like the <a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="1606">Ibanez RGD</a> that you see above, these guitars usually ship tuned a full step down. A baritone electric is an <a href="/yamaha-revstar-standard-review/" data-lasso-id="97627">amazing addition</a> to any collection.</p>
 
 
 
-<p>Different tunings may help you write differently or <a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-lasso-id="1607">think about the fretboard in a new way</a>! A baritone electric could change your whole approach to guitar.</p>
+<p>Different tunings may help you write differently or <a href="/how-to-find-fretboard-notes-guitar/" data-lasso-id="1607">think about the fretboard in a new way</a>! A baritone electric could change your whole approach to guitar.</p>
 
 
 
@@ -435,7 +435,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/cheap-8-string-guitar/" class="rank-math-link" data-lasso-id="1608">7 and 8 string guitars</a></strong> are yet another version of extended range guitars. These add either one lower string, or two! The 7 <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22590">string guitar</a> came about as an idea in the mid to late 1980&#8217;s but not as the design it eventually ended up being. Several companies tried their hand at making a 7 string, but only one actually made a production model that was mass produced.</p>
+<p><strong><a href="/cheap-8-string-guitar/" class="rank-math-link" data-lasso-id="1608">7 and 8 string guitars</a></strong> are yet another version of extended range guitars. These add either one lower string, or two! The 7 <a href="/schecter-demon-7-review/" data-lasso-id="22590">string guitar</a> came about as an idea in the mid to late 1980&#8217;s but not as the design it eventually ended up being. Several companies tried their hand at making a 7 string, but only one actually made a production model that was mass produced.</p>
 
 
 
@@ -459,19 +459,19 @@ seo:
 
 
 
-<p>Soon after Korn started as a band, the sales of the Ibanez 7 string started to pick back up. By the late 1990&#8217;s the sales had skyrocketed, and <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255018">newer 7 string models were made by Ibanez</a> at all kinds of different price points. Other companies started to make their own versions of <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="1609">the 7 string guitar</a>. These days, you can buy a 7 string in the standard 25.5&#8221; scale length or you can buy one with <a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-lasso-id="178769">baritone scale for extra low</a> tunings.</p>
+<p>Soon after Korn started as a band, the sales of the Ibanez 7 string started to pick back up. By the late 1990&#8217;s the sales had skyrocketed, and <a href="/ibanez-guitars/" data-lasso-id="255018">newer 7 string models were made by Ibanez</a> at all kinds of different price points. Other companies started to make their own versions of <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="1609">the 7 string guitar</a>. These days, you can buy a 7 string in the standard 25.5&#8221; scale length or you can buy one with <a href="/squier-baritone-telecaster-custom-review/" data-lasso-id="178769">baritone scale for extra low</a> tunings.</p>
 
 
 
-<p>The variety that exists today was only a dream 20 years ago. The rise of Progressive Metal music changed all of that starting in 2007 <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218846">with bands like  Periphery</a>  and <strong>Monuments </strong>. But these are all new bands with new ideas for the 7 string. These bands are innovative and original with their approach to playing, yet they all owe their style partly to another band from the 90&#8217;s.</p>
+<p>The variety that exists today was only a dream 20 years ago. The rise of Progressive Metal music changed all of that starting in 2007 <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218846">with bands like  Periphery</a>  and <strong>Monuments </strong>. But these are all new bands with new ideas for the 7 string. These bands are innovative and original with their approach to playing, yet they all owe their style partly to another band from the 90&#8217;s.</p>
 
 
 
-<p>Another true innovator started using these guitars at the same time as Korn..one that was all the way in Sweden cooking up some seriously different ideas. <strong><a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" class="rank-math-link" data-lasso-id="1610">However Meshuggah was not as popular as Korn</a></strong>&#8230;yet.</p>
+<p>Another true innovator started using these guitars at the same time as Korn..one that was all the way in Sweden cooking up some seriously different ideas. <strong><a href="/what-guitars-do-meshuggah-use/" class="rank-math-link" data-lasso-id="1610">However Meshuggah was not as popular as Korn</a></strong>&#8230;yet.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-lasso-id="101293">Meshuggah</a> had started working on their sound with a 7 string, but this only lasted a few albums before the members of the band were ready for something new. Once again, Ibanez stepped up to the plate to make yet another new and revolutionary design, especially for the guys in Meshuggah.</p>
+<p><a href="/meshuggah-immutable-review/" data-lasso-id="101293">Meshuggah</a> had started working on their sound with a 7 string, but this only lasted a few albums before the members of the band were ready for something new. Once again, Ibanez stepped up to the plate to make yet another new and revolutionary design, especially for the guys in Meshuggah.</p>
 
 
 
@@ -499,7 +499,7 @@ seo:
 
 
 
-<p>When approached by Meshuggah, Ibanez took up the task! The company made several models for Meshuggah, and finally produced the <strong><a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" class="rank-math-link" data-lasso-id="1611">Ibanez RG2228 production 8 string guitar</a></strong>.</p>
+<p>When approached by Meshuggah, Ibanez took up the task! The company made several models for Meshuggah, and finally produced the <strong><a href="/what-guitars-do-meshuggah-use/" class="rank-math-link" data-lasso-id="1611">Ibanez RG2228 production 8 string guitar</a></strong>.</p>
 
 
 
@@ -507,7 +507,7 @@ seo:
 
 
 
-<p>For example, seen below is the Ibanez M80M Meshuggah <a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170864">Signature guitar</a>, and it has over 28&#8221; of scale length!</p>
+<p>For example, seen below is the Ibanez M80M Meshuggah <a href="/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170864">Signature guitar</a>, and it has over 28&#8221; of scale length!</p>
 
 
 
@@ -515,11 +515,11 @@ seo:
 
 
 
-<p>For several years over the last decade it seems that 8 string guitars dominated the Metal guitar scene. As of late, their popularity has waned a bit. Most companies still have at least one production model 8 string. These guitars are often used in Progressive Metal by trailblazers like <a href="https://www.electrikjam.com/tim-walls-interview-a-u-r-a-fest-creator-former-reflux-bassist/" class="rank-math-link" data-lasso-id="1612"><strong>Tosin Abasi.</strong></a></p>
+<p>For several years over the last decade it seems that 8 string guitars dominated the Metal guitar scene. As of late, their popularity has waned a bit. Most companies still have at least one production model 8 string. These guitars are often used in Progressive Metal by trailblazers like <a href="/tim-walls-interview-a-u-r-a-fest-creator-former-reflux-bassist/" class="rank-math-link" data-lasso-id="1612"><strong>Tosin Abasi.</strong></a></p>
 
 
 
-<p>Deftones&#8217; <strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" class="rank-math-link" data-lasso-id="1613">Steph Carpenter used a 9-string guitar </a></strong>on the band&#8217;s OHMS release. </p>
+<p>Deftones&#8217; <strong><a href="/steph-carpenters-9-string-esp-guitar/" class="rank-math-link" data-lasso-id="1613">Steph Carpenter used a 9-string guitar </a></strong>on the band&#8217;s OHMS release. </p>
 
 
 
@@ -543,7 +543,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="1614"><strong>Cort Multi-Scale</strong></a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="1614"><strong>Cort Multi-Scale</strong></a></figcaption></figure>
 
 
 
@@ -551,7 +551,7 @@ seo:
 
 
 
-<p>Most multi-scale guitars have a bass side that is longer than the treble side. This allows you to <a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-lasso-id="6311">tune the low bass strings down</a>, while keeping balanced tension on the treble strings for playing lead. The bass strings stay taut, and the treble strings are more easy to bend. The bass side may be 27&#8221; and a baritone scale, while the treble side is usually standard 25.5&#8221; scale.</p>
+<p>Most multi-scale guitars have a bass side that is longer than the treble side. This allows you to <a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-lasso-id="6311">tune the low bass strings down</a>, while keeping balanced tension on the treble strings for playing lead. The bass strings stay taut, and the treble strings are more easy to bend. The bass side may be 27&#8221; and a baritone scale, while the treble side is usually standard 25.5&#8221; scale.</p>
 
 
 
@@ -575,7 +575,7 @@ seo:
 
 
 
-<p>Everyone has a different preference when it comes to their guitar. <a href="https://www.electrikjam.com/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="1615"><strong>My favorite guitar to play </strong></a>may be the worst experience for you. Likewise, many people have preferences in guitars that do not work for me at all. Choosing the right instrument is a very personal decision. Unfortunately, it also takes a little bit of trial and error on your part.</p>
+<p>Everyone has a different preference when it comes to their guitar. <a href="/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="1615"><strong>My favorite guitar to play </strong></a>may be the worst experience for you. Likewise, many people have preferences in guitars that do not work for me at all. Choosing the right instrument is a very personal decision. Unfortunately, it also takes a little bit of trial and error on your part.</p>
 
 
 

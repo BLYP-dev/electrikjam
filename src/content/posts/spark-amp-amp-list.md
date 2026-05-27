@@ -52,7 +52,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg" alt="Spark Amp Amp List" class="wp-image-1926" title="" srcset="/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg 1024w, /wp-content/uploads/2021/02/The-Spark-Amp-600x450.jpg 600w, /wp-content/uploads/2021/02/The-Spark-Amp-300x225.jpg 300w, /wp-content/uploads/2021/02/The-Spark-Amp-768x576.jpg 768w, /wp-content/uploads/2021/02/The-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>With the Spark Amp, You Get Access To ALL The Greatest Amps and Pedals Ever Created – <a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">And It Only Costs $255!</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg" alt="Spark Amp Amp List" class="wp-image-1926" title="" srcset="/wp-content/uploads/2021/02/The-Spark-Amp-1024x768.jpg 1024w, /wp-content/uploads/2021/02/The-Spark-Amp-600x450.jpg 600w, /wp-content/uploads/2021/02/The-Spark-Amp-300x225.jpg 300w, /wp-content/uploads/2021/02/The-Spark-Amp-768x576.jpg 768w, /wp-content/uploads/2021/02/The-Spark-Amp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>With the Spark Amp, You Get Access To ALL The Greatest Amps and Pedals Ever Created – <a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="/recommends/spark-amp/" data-shortcode="true">And It Only Costs $255!</a></strong></figcaption></figure>
 			
 		
 
@@ -81,7 +81,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-lasso-id="152883">Jimi Hendrix Experience</a> one, however, is an upgrade that you&#8217;ll have to pay for. I haven&#8217;t tested it out, so I cannot comment on it. But if you&#8217;re looking to dial-in a tone like the king&#8217;s, check out our guide to <strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" data-lasso-id="104838">all the gear Jimi Hendrix used. </a></strong></p>
+<p>The <a href="/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-lasso-id="152883">Jimi Hendrix Experience</a> one, however, is an upgrade that you&#8217;ll have to pay for. I haven&#8217;t tested it out, so I cannot comment on it. But if you&#8217;re looking to dial-in a tone like the king&#8217;s, check out our guide to <strong><a href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" data-lasso-id="104838">all the gear Jimi Hendrix used. </a></strong></p>
 
 
 
@@ -93,12 +93,12 @@ seo:
 
 
 
-<p>The upshot of using a smart speaker like the Spark Amp is that it uses detailed <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="104839">simulations of classic and usually very expensive amps</a></strong>. You could not buy all of these amps, for instance, it’d cost you hundreds of thousands of dollars. But with the Spark Amp, you can get their overall sound and tone, as well as access to <a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125568">loads of pedals</a> and effects, without having to break the bank. It all runs inside your phone and connects to the amp via Bluetooth.</p>
+<p>The upshot of using a smart speaker like the Spark Amp is that it uses detailed <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="104839">simulations of classic and usually very expensive amps</a></strong>. You could not buy all of these amps, for instance, it’d cost you hundreds of thousands of dollars. But with the Spark Amp, you can get their overall sound and tone, as well as access to <a href="/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125568">loads of pedals</a> and effects, without having to break the bank. It all runs inside your phone and connects to the amp via Bluetooth.</p>
 
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Spark-Amp-Amp-List-1024x683.png" alt="Spark Amp Amp List" class="wp-image-7861" title="" srcset="/wp-content/uploads/2022/04/Spark-Amp-Amp-List-1024x683.png 1024w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-600x400.png 600w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-300x200.png 300w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-768x512.png 768w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">SAVE $40 On The Spark Amp Today – Now Just $255</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/Spark-Amp-Amp-List-1024x683.png" alt="Spark Amp Amp List" class="wp-image-7861" title="" srcset="/wp-content/uploads/2022/04/Spark-Amp-Amp-List-1024x683.png 1024w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-600x400.png 600w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-300x200.png 300w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List-768x512.png 768w, /wp-content/uploads/2022/04/Spark-Amp-Amp-List.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="/recommends/spark-amp/" data-shortcode="true">SAVE $40 On The Spark Amp Today – Now Just $255</a></strong></figcaption></figure>
 			
 		
 
@@ -107,5 +107,5 @@ seo:
 
 
 
-<p>I use mine literally every day and have done for the past two and a bit years. It supports headphones too, so is perfect for quiet practice. But if you want to crank things up, its built-in 50W speaker is incredibly loud as well. It isn’t ideal for practice sessions with a band, for that <strong><a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-type="post" data-id="3601" data-lasso-id="104840">you’ll need a proper amp</a></strong> or an FRFR speaker <strong><a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" data-lasso-id="104841">(we currently love this one)</a></strong>. But for at-home practice, the Spark <a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212778">Amp is one of the best options</a> you can buy right now at this price point.</p>
+<p>I use mine literally every day and have done for the past two and a bit years. It supports headphones too, so is perfect for quiet practice. But if you want to crank things up, its built-in 50W speaker is incredibly loud as well. It isn’t ideal for practice sessions with a band, for that <strong><a href="/boss-katana-50-reviews/" data-type="post" data-id="3601" data-lasso-id="104840">you’ll need a proper amp</a></strong> or an FRFR speaker <strong><a href="/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" data-lasso-id="104841">(we currently love this one)</a></strong>. But for at-home practice, the Spark <a href="/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212778">Amp is one of the best options</a> you can buy right now at this price point.</p>
 

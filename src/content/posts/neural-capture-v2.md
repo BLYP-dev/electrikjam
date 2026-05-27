@@ -45,7 +45,7 @@ seo:
 
 
 
-<p>But now Neural DSP says it’s cracked the code — again — with the launch of Neural Capture Version 2, bundled into the latest CorOS 3.3.0 and NanOS 2.2.0 updates for the <strong><a href="https://www.electrikjam.com/what-is-the-neural-dsp-quad-cortex-an-exclusive-first-look/" data-type="post" data-id="1859">Quad Cortex and Nano Cortex units</a></strong>.</p>
+<p>But now Neural DSP says it’s cracked the code — again — with the launch of Neural Capture Version 2, bundled into the latest CorOS 3.3.0 and NanOS 2.2.0 updates for the <strong><a href="/what-is-the-neural-dsp-quad-cortex-an-exclusive-first-look/" data-type="post" data-id="1859">Quad Cortex and Nano Cortex units</a></strong>.</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p>And if you need an alternative to NeuralDSP&#8217;s Cortex, <strong><a href="https://www.electrikjam.com/buying-guides/neural-dsp-quad-cortex-alternatives/" data-type="buying-guides" data-id="17691">check out my top picks for right now (most are a hell of a lot cheaper). </a></strong></p>
+<p>And if you need an alternative to NeuralDSP&#8217;s Cortex, <strong><a href="/buying-guides/neural-dsp-quad-cortex-alternatives/" data-type="buying-guides" data-id="17691">check out my top picks for right now (most are a hell of a lot cheaper). </a></strong></p>
 
 
 

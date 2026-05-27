@@ -36,7 +36,7 @@ seo:
 
 
 
-<p>When it comes to <strong><a href="https://www.electrikjam.com/category/gear/pedals/" data-lasso-id="36467">pedals</a></strong>, modern bands tend to love them. You have bands like <strong><a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="36468">YOB</a></strong> or <strong><a href="https://www.electrikjam.com/adam-jones-names-the-guitarists-that-influenced-him-most/" data-type="post" data-id="5098" data-lasso-id="36469">TOOL</a></strong> that simply wouldn’t be able to achieve their sound without pedals. But other, more straight forward bands like <strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="36470">Lamb of God</a></strong>, <strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="36471">Deftones</a></strong>, and <strong><a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-type="post" data-id="5643" data-lasso-id="36472">Metallica</a></strong> also use pedals, just in a different way.</p>
+<p>When it comes to <strong><a href="/category/gear/pedals/" data-lasso-id="36467">pedals</a></strong>, modern bands tend to love them. You have bands like <strong><a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="36468">YOB</a></strong> or <strong><a href="/adam-jones-names-the-guitarists-that-influenced-him-most/" data-type="post" data-id="5098" data-lasso-id="36469">TOOL</a></strong> that simply wouldn’t be able to achieve their sound without pedals. But other, more straight forward bands like <strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="36470">Lamb of God</a></strong>, <strong><a href="/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="36471">Deftones</a></strong>, and <strong><a href="/new-metallica-album-release-date-new-songs-update/" data-type="post" data-id="5643" data-lasso-id="36472">Metallica</a></strong> also use pedals, just in a different way.</p>
 
 
 
@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Two of the most commonly bought pedals, however, are the trusty <strong><a href="https://www.electrikjam.com/best-distortion-pedals-for-beginners/" data-type="post" data-id="2481" data-lasso-id="36473">distortion pedal</a></strong> and the <strong><a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="36474">fuzz pedal</a></strong>. Both are essentially distortion pedals but there is a difference between the two pedal options. And the one that works for you will depend on what style of music you plan on creating.</p>
+<p>Two of the most commonly bought pedals, however, are the trusty <strong><a href="/best-distortion-pedals-for-beginners/" data-type="post" data-id="2481" data-lasso-id="36473">distortion pedal</a></strong> and the <strong><a href="/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="36474">fuzz pedal</a></strong>. Both are essentially distortion pedals but there is a difference between the two pedal options. And the one that works for you will depend on what style of music you plan on creating.</p>
 
 
 
@@ -56,15 +56,15 @@ seo:
 
 
 
-<p>Both pedals can and are used in heavy music, things like metal, punk and <a href="https://www.electrikjam.com/pallbearer-gear-guitars-guide/" data-lasso-id="106803">doom</a>, as well as rock music. But there are massive differences between how they sound. And this is important because it will have a direct affect on the sound you create with your guitar.</p>
+<p>Both pedals can and are used in heavy music, things like metal, punk and <a href="/pallbearer-gear-guitars-guide/" data-lasso-id="106803">doom</a>, as well as rock music. But there are massive differences between how they sound. And this is important because it will have a direct affect on the sound you create with your guitar.</p>
 
 
 
-<p>A distortion pedal is more aggressive than a simple overdrive pedal – it completely augments the signal, adding in piles of aggressive sounding nastiness. It also massively boosts the sustain too. This is why they are used by metal bands like Pantera, Slipknot, OPETH, <a href="https://www.electrikjam.com/new-tool-album-release-date/" data-lasso-id="44146">Tool</a>, and pretty much any other bands that sound heavy.</p>
+<p>A distortion pedal is more aggressive than a simple overdrive pedal – it completely augments the signal, adding in piles of aggressive sounding nastiness. It also massively boosts the sustain too. This is why they are used by metal bands like Pantera, Slipknot, OPETH, <a href="/new-tool-album-release-date/" data-lasso-id="44146">Tool</a>, and pretty much any other bands that sound heavy.</p>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.electrikjam.com/recommends/mxr-m66s-classic-overdrive-guitar-effects-pedal/" data-lasso-id="36475"><img decoding="async" width="936" height="1024" src="/wp-content/uploads/2021/12/MXR-M66S-Classic-Overdrive-Guitar-Effects-Pedal-936x1024.png" alt="MXR M66S Classic Overdrive Guitar Effects Pedal" class="wp-image-6205" title=""></a><figcaption><strong>The MXR M66S Classic Overdrive Guitar Effects Pedal is one of the most-loved and truly affordable distortion pedals on the market right now.<a href="https://www.electrikjam.com/recommends/mxr-m66s-classic-overdrive-guitar-effects-pedal/" data-lasso-id="36476"> It costs $59.99 and it sounds monsterously good!</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/recommends/mxr-m66s-classic-overdrive-guitar-effects-pedal/" data-lasso-id="36475"><img decoding="async" width="936" height="1024" src="/wp-content/uploads/2021/12/MXR-M66S-Classic-Overdrive-Guitar-Effects-Pedal-936x1024.png" alt="MXR M66S Classic Overdrive Guitar Effects Pedal" class="wp-image-6205" title=""></a><figcaption><strong>The MXR M66S Classic Overdrive Guitar Effects Pedal is one of the most-loved and truly affordable distortion pedals on the market right now.<a href="/recommends/mxr-m66s-classic-overdrive-guitar-effects-pedal/" data-lasso-id="36476"> It costs $59.99 and it sounds monsterously good!</a></strong></figcaption></figure>
 
 
 
@@ -77,7 +77,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><a href="https://www.electrikjam.com/recommends/big-muff-fuzz-pedal/" data-lasso-id="36477"><img decoding="async" width="1024" height="863" src="/wp-content/uploads/2021/12/big-muff-fuzz-pedal-1024x863.png" alt="big muff fuzz pedal" class="wp-image-6202" title=""></a><figcaption><strong>The Electro-Harmonix Op-Amp Big Muff Pi Fuzz is one of the best selling, most popular fuzz pedals on the market. It sounds great. <a href="https://www.electrikjam.com/recommends/big-muff-fuzz-pedal/" data-lasso-id="36478">And at less than $100, it is pretty darn affordable too.</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><a href="/recommends/big-muff-fuzz-pedal/" data-lasso-id="36477"><img decoding="async" width="1024" height="863" src="/wp-content/uploads/2021/12/big-muff-fuzz-pedal-1024x863.png" alt="big muff fuzz pedal" class="wp-image-6202" title=""></a><figcaption><strong>The Electro-Harmonix Op-Amp Big Muff Pi Fuzz is one of the best selling, most popular fuzz pedals on the market. It sounds great. <a href="/recommends/big-muff-fuzz-pedal/" data-lasso-id="36478">And at less than $100, it is pretty darn affordable too.</a></strong></figcaption></figure>
 			
 		
 
@@ -86,15 +86,15 @@ seo:
 
 
 
-<p>Fuzz pedals are used, predominantly, by <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="36479">doom and sludge bands</a></strong>. Although, you’ll also find plenty of other rock bands using them <a href="https://www.electrikjam.com/new-smashing-pumpkins-album-atum/" data-lasso-id="169495">– The Smashing Pumpkins</a>, QOTSA, Sonic Youth. If you’re going for more of a doom or sludge vibe, something like YOB or <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="36480">Electric Wizard</a></strong>, you will almost certainly need a fuzz pedal to achieve the sound.</p>
+<p>Fuzz pedals are used, predominantly, by <strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="36479">doom and sludge bands</a></strong>. Although, you’ll also find plenty of other rock bands using them <a href="/new-smashing-pumpkins-album-atum/" data-lasso-id="169495">– The Smashing Pumpkins</a>, QOTSA, Sonic Youth. If you’re going for more of a doom or sludge vibe, something like YOB or <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="36480">Electric Wizard</a></strong>, you will almost certainly need a fuzz pedal to achieve the sound.</p>
 
 
 
-<p>All of the most popular doom, stoner, and sludge bands get their heavy, punishing sound through a combination of <strong><a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="36481">low-tunings (usually C or B Standard)</a></strong>, fuzz pedals, and great-sounding guitars (like these ones) and solid amps, usually really expensive old-school tube amps like a Laney, Orange, Marshall, or a HIWATT – although these types of amps are very, very pricey.</p>
+<p>All of the most popular doom, stoner, and sludge bands get their heavy, punishing sound through a combination of <strong><a href="/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="36481">low-tunings (usually C or B Standard)</a></strong>, fuzz pedals, and great-sounding guitars (like these ones) and solid amps, usually really expensive old-school tube amps like a Laney, Orange, Marshall, or a HIWATT – although these types of amps are very, very pricey.</p>
 
 
 
-<p>OK, that’s pedals out the way. But what if you’re using a guitar amp simulator either on your PC – something like <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="36482">BIAS FX 2</a></strong> or <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="36483">STL AmpHub</a></strong>? Again, all of the above rules about pedals apply. Only in this instance, we’ll be talking about fuzz and distortion as a digital effect that is applied to your guitar once it is hooked up to your computer.</p>
+<p>OK, that’s pedals out the way. But what if you’re using a guitar amp simulator either on your PC – something like <strong><a href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="36482">BIAS FX 2</a></strong> or <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="36483">STL AmpHub</a></strong>? Again, all of the above rules about pedals apply. Only in this instance, we’ll be talking about fuzz and distortion as a digital effect that is applied to your guitar once it is hooked up to your computer.</p>
 
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<p>The idea behind <a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125572">fuzz pedals</a> initially was to create a sound unlike anything you could extract from the amp naturally with overdrive. Fuzz pedals achieved this by using square-wave clipping which compresses the distorted signal to create a warmer, fatter, fuzzier sound –&nbsp;this is where the name “fuzz” came from.</p>
+<p>The idea behind <a href="/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125572">fuzz pedals</a> initially was to create a sound unlike anything you could extract from the amp naturally with overdrive. Fuzz pedals achieved this by using square-wave clipping which compresses the distorted signal to create a warmer, fatter, fuzzier sound –&nbsp;this is where the name “fuzz” came from.</p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>Again, you can augment both fuzz and distortion effects as you please, dialing up the effect or toning it down. All the best guitar tones – like <strong><a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="36484">Mike Scheidt’s</a></strong> or <strong><a href="https://www.electrikjam.com/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="36485">Adam Jones’</a></strong> – are the product of years of experience, testing, and trial and error with hardware, amps, guitars, and a million and one potential settings. It’s an art form, basically.</p>
+<p>Again, you can augment both fuzz and distortion effects as you please, dialing up the effect or toning it down. All the best guitar tones – like <strong><a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="36484">Mike Scheidt’s</a></strong> or <strong><a href="/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="36485">Adam Jones’</a></strong> – are the product of years of experience, testing, and trial and error with hardware, amps, guitars, and a million and one potential settings. It’s an art form, basically.</p>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<p>If you’re playing slow metal or doom, fuzz is ideal. If you tune your guitar down to <strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="36486">Drop D or Drop C or even Drop B and Drop A</a></strong>, fuzz is ideal. It will give you that quintessential doom metal sound. It will sound big, it will sound fuzzy, and your slow riffs will sound like a mountain falling in on itself.</p>
+<p>If you’re playing slow metal or doom, fuzz is ideal. If you tune your guitar down to <strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="36486">Drop D or Drop C or even Drop B and Drop A</a></strong>, fuzz is ideal. It will give you that quintessential doom metal sound. It will sound big, it will sound fuzzy, and your slow riffs will sound like a mountain falling in on itself.</p>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><a href="https://www.electrikjam.com/best-distortion-pedals-for-beginners/" data-lasso-id="36487"><strong>The Best Distortion Pedals Right Now ↗</strong></a></p>
+<p class="has-text-align-center has-extra-small-font-size"><a href="/best-distortion-pedals-for-beginners/" data-lasso-id="36487"><strong>The Best Distortion Pedals Right Now ↗</strong></a></p>
 </div></div>
 
 
@@ -181,7 +181,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" data-lasso-id="36488"><strong>The Best Fuzz Pedals Right Now ↗</strong></a></p>
+<p class="has-text-align-center has-extra-small-font-size"><a href="/best-guitar-pedals-for-doom-metal/" data-lasso-id="36488"><strong>The Best Fuzz Pedals Right Now ↗</strong></a></p>
 </div></div>
 
 

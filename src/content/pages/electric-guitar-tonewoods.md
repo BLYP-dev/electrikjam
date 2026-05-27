@@ -207,7 +207,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-1024x683.png" alt="How Much Are Electrical Guitar Company Guitars" class="wp-image-14922" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-1024x683.png 1024w, /wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-600x400.png 600w, /wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-300x200.png 300w, /wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-768x512.png 768w, /wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>There&#8217;s a million and one different styles and makes of guitars and with electrics, wood is not as important as purists make it – <a href="https://www.electrikjam.com/electrical-guitar-company-101-guide/" data-type="post" data-id="14894" data-lasso-id="268838">The Electrical Guitar Company is the perfect example</a> of this&#8230;</strong></figcaption></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-1024x683.png" alt="How Much Are Electrical Guitar Company Guitars" class="wp-image-14922" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-1024x683.png 1024w, /wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-600x400.png 600w, /wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-300x200.png 300w, /wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars-768x512.png 768w, /wp-content/uploads/2024/04/How-Much-Are-Electrical-Guitar-Company-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong>There&#8217;s a million and one different styles and makes of guitars and with electrics, wood is not as important as purists make it – <a href="/electrical-guitar-company-101-guide/" data-type="post" data-id="14894" data-lasso-id="268838">The Electrical Guitar Company is the perfect example</a> of this&#8230;</strong></figcaption></figure>
 
 
 
@@ -538,7 +538,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading has-medium-font-size"><strong><a href="https://www.electrikjam.com/electric-guitar/electric-guitar-types/" data-type="page" data-id="13145" data-lasso-id="268841">Types of Electric Guitar</a></strong></h3>
+<h3 class="wp-block-heading has-medium-font-size"><strong><a href="/electric-guitar/electric-guitar-types/" data-type="page" data-id="13145" data-lasso-id="268841">Types of Electric Guitar</a></strong></h3>
 
 
 
@@ -558,7 +558,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading has-medium-font-size"><strong><a href="https://www.electrikjam.com/electric-guitar/" data-type="page" data-id="13222" data-lasso-id="268842">Beginner&#8217;s Guide To Electric Guitars</a></strong></h3>
+<h3 class="wp-block-heading has-medium-font-size"><strong><a href="/electric-guitar/" data-type="page" data-id="13222" data-lasso-id="268842">Beginner&#8217;s Guide To Electric Guitars</a></strong></h3>
 
 
 
@@ -578,7 +578,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading has-medium-font-size"><strong><a href="https://www.electrikjam.com/electric-guitar/extended-range-guitars/" data-type="page" data-id="13596" data-lasso-id="268843">Extended Range Guitars: What You Need To Know</a></strong></h3>
+<h3 class="wp-block-heading has-medium-font-size"><strong><a href="/electric-guitar/extended-range-guitars/" data-type="page" data-id="13596" data-lasso-id="268843">Extended Range Guitars: What You Need To Know</a></strong></h3>
 
 
 

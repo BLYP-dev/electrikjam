@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>We have taken a look at how to get started with recording before, in <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="114885"><strong>this article</strong></a>. We talked more about the actual gear that you will need to get started, and not much about the <em>process itself</em>. Recording can seem really daunting at first, but it is really one of the <strong>best practice tools you can use</strong>. Listening back to your practice sessions will let you highlight your weaknesses, and strengths!</p>
+<p>We have taken a look at how to get started with recording before, in <a href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="114885"><strong>this article</strong></a>. We talked more about the actual gear that you will need to get started, and not much about the <em>process itself</em>. Recording can seem really daunting at first, but it is really one of the <strong>best practice tools you can use</strong>. Listening back to your practice sessions will let you highlight your weaknesses, and strengths!</p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>Choosing the right DAW (Digital Audio Workstation) is the first step when starting your journey to recording. Some interfaces come with basic editions of things like <a href="https://www.steinberg.net/cubase/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="114886"><strong>Cubase</strong></a>. Lately, <a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" target="_blank" rel="noopener" data-lasso-id="114887"><strong>Fender</strong></a> has teamed up with <strong>Ableton</strong> for the <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="114888"><strong>Mustang</strong></a> series of products, offering a simplified version of Ableton just to get you started. These basic DAW programs are good for beginners to become familiar with recording. But since they are the bare-bones basic versions, they usually lack a lot of important features.</p>
+<p>Choosing the right DAW (Digital Audio Workstation) is the first step when starting your journey to recording. Some interfaces come with basic editions of things like <a href="https://www.steinberg.net/cubase/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="114886"><strong>Cubase</strong></a>. Lately, <a href="/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" target="_blank" rel="noopener" data-lasso-id="114887"><strong>Fender</strong></a> has teamed up with <strong>Ableton</strong> for the <a href="/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="114888"><strong>Mustang</strong></a> series of products, offering a simplified version of Ableton just to get you started. These basic DAW programs are good for beginners to become familiar with recording. But since they are the bare-bones basic versions, they usually lack a lot of important features.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>As a producer myself, <a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251759">I used Cubase for years</a> before making the switch to the REAPER DAW in 2011. I used the plugins that came free with REAPER to mix and master several albums. I was very surprised that I not only got a 60 day free trial, but I could also use REAPER indefinitely. However, I think it is more ethical to <a href="https://www.reaper.fm/purchase.php" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="114889"><strong>pay the $60 </strong></a>that REAPER asks you to pay for a license. Because compared to other DAWs, that is a<em> STEAL</em>.</p>
+<p>As a producer myself, <a href="/what-is-cubase/" data-lasso-id="251759">I used Cubase for years</a> before making the switch to the REAPER DAW in 2011. I used the plugins that came free with REAPER to mix and master several albums. I was very surprised that I not only got a 60 day free trial, but I could also use REAPER indefinitely. However, I think it is more ethical to <a href="https://www.reaper.fm/purchase.php" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="114889"><strong>pay the $60 </strong></a>that REAPER asks you to pay for a license. Because compared to other DAWs, that is a<em> STEAL</em>.</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/05/Untitled-design-28-1024x683.png" alt="reaper DAW interface" class="wp-image-7994" width="840" height="560" title="" srcset="/wp-content/uploads/2022/05/Untitled-design-28-1024x683.png 1024w, /wp-content/uploads/2022/05/Untitled-design-28-600x400.png 600w, /wp-content/uploads/2022/05/Untitled-design-28-300x200.png 300w, /wp-content/uploads/2022/05/Untitled-design-28-768x512.png 768w, /wp-content/uploads/2022/05/Untitled-design-28.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><a href="https://www.electrikjam.com/pxf/" data-type="lasso-urls" data-id="4880" data-lasso-id="114904" rel="nofollow noopener" target="_blank" data-lasso-name="Focusrite Scarlett">Scarlett Solo Audio Interface</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2022/05/Untitled-design-28-1024x683.png" alt="reaper DAW interface" class="wp-image-7994" width="840" height="560" title="" srcset="/wp-content/uploads/2022/05/Untitled-design-28-1024x683.png 1024w, /wp-content/uploads/2022/05/Untitled-design-28-600x400.png 600w, /wp-content/uploads/2022/05/Untitled-design-28-300x200.png 300w, /wp-content/uploads/2022/05/Untitled-design-28-768x512.png 768w, /wp-content/uploads/2022/05/Untitled-design-28.png 1200w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><strong><a href="/pxf/" data-type="lasso-urls" data-id="4880" data-lasso-id="114904" rel="nofollow noopener" target="_blank" data-lasso-name="Focusrite Scarlett">Scarlett Solo Audio Interface</a></strong></figcaption></figure>
 
 
 
@@ -116,19 +116,19 @@ seo:
 
 
 
-<p>We have already talked about what you need to<a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" target="_blank" rel="noopener" data-lasso-id="114890"> <strong>start recording</strong></a> your guitar before, but we will briefly go over this again as a refresher. Recording guitar at home can be as simple or complex as<em> you</em> want it to be. The first thing you need is an <strong>audio interface</strong>. Our #1 pick has always been the <a href="https://www.amazon.com/dp/B07QR6Z1JB?tag=kym07-20" data-type="lasso-urls" data-id="3935" target="_blank" rel="nofollow noopener" data-lasso-id="114891" data-lasso-name="Focusrite Scarlett Solo"><strong>Focusrite Scarlett </strong></a>. This is a simple, affordable audio interface that does <em>everything</em> you need to get started with recording at home.</p>
+<p>We have already talked about what you need to<a href="/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" target="_blank" rel="noopener" data-lasso-id="114890"> <strong>start recording</strong></a> your guitar before, but we will briefly go over this again as a refresher. Recording guitar at home can be as simple or complex as<em> you</em> want it to be. The first thing you need is an <strong>audio interface</strong>. Our #1 pick has always been the <a href="https://www.amazon.com/dp/B07QR6Z1JB?tag=kym07-20" data-type="lasso-urls" data-id="3935" target="_blank" rel="nofollow noopener" data-lasso-id="114891" data-lasso-name="Focusrite Scarlett Solo"><strong>Focusrite Scarlett </strong></a>. This is a simple, affordable audio interface that does <em>everything</em> you need to get started with recording at home.</p>
 
 
 
-<p>But you will also need something to mimic a guitar amp, and these days guitar plugins like<strong> <a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="114892">STL Tones</a></strong> is all the rage. You also have stuff like <strong><a href="https://www.electrikjam.com/what-is-the-neural-dsp-quad-cortex-an-exclusive-first-look/" data-type="post" data-id="1859" target="_blank" rel="noopener" data-lasso-id="114893">Neural DSP</a>,</strong> and <a href="https://www.electrikjam.com/spark-amp-amp-list/" data-type="post" data-id="7858" target="_blank" rel="noopener" data-lasso-id="114894"><strong>Positive Grid</strong></a> that are very popular among guitarists of all kinds of genres. These will be an easy way to get started recording your guitar, and the technology today is miles ahead of amp sims from<em> just five years ago</em>. They all sound great, even<a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="114895"><strong> free ones</strong></a>!</p>
+<p>But you will also need something to mimic a guitar amp, and these days guitar plugins like<strong> <a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="114892">STL Tones</a></strong> is all the rage. You also have stuff like <strong><a href="/what-is-the-neural-dsp-quad-cortex-an-exclusive-first-look/" data-type="post" data-id="1859" target="_blank" rel="noopener" data-lasso-id="114893">Neural DSP</a>,</strong> and <a href="/spark-amp-amp-list/" data-type="post" data-id="7858" target="_blank" rel="noopener" data-lasso-id="114894"><strong>Positive Grid</strong></a> that are very popular among guitarists of all kinds of genres. These will be an easy way to get started recording your guitar, and the technology today is miles ahead of amp sims from<em> just five years ago</em>. They all sound great, even<a href="/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="114895"><strong> free ones</strong></a>!</p>
 
 
 
-<p>You can also use your multi-effects unit straight into the interface. This is popular also because if you own a <a data-lasso-id="114896" href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener"><strong>Line 6 Helix</strong></a>, you probably already have patches made for your guitar style. The <a data-lasso-id="114897" href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener"><strong>Line 6 POD GO</strong></a> is another popular choice. But any processor with a &#8220;recording out&#8221; feature will work just fine. You can plug your processor directly into the recording interface. </p>
+<p>You can also use your multi-effects unit straight into the interface. This is popular also because if you own a <a data-lasso-id="114896" href="/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener"><strong>Line 6 Helix</strong></a>, you probably already have patches made for your guitar style. The <a data-lasso-id="114897" href="/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener"><strong>Line 6 POD GO</strong></a> is another popular choice. But any processor with a &#8220;recording out&#8221; feature will work just fine. You can plug your processor directly into the recording interface. </p>
 
 
 
-<p><strong>Note</strong>:<em> Some multi-effects units work as an interface by themselves. We have talked about this before with the <strong><a data-lasso-id="114898" href="https://www.electrikjam.com/line-6-helix-recording-techniques/" data-type="post" data-id="4209" target="_blank" rel="noopener">Line 6 Helix recording tutorial</a>.</strong></em> If your processor unit can work as an interface, then you can skip buying an audio interface. Personally, I like to use my<a data-lasso-id="114899" href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener"> <strong>Helix Stomp</strong> </a>plugged into an interface, instead of a USB, but the choice is yours!</p>
+<p><strong>Note</strong>:<em> Some multi-effects units work as an interface by themselves. We have talked about this before with the <strong><a data-lasso-id="114898" href="/line-6-helix-recording-techniques/" data-type="post" data-id="4209" target="_blank" rel="noopener">Line 6 Helix recording tutorial</a>.</strong></em> If your processor unit can work as an interface, then you can skip buying an audio interface. Personally, I like to use my<a data-lasso-id="114899" href="/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener"> <strong>Helix Stomp</strong> </a>plugged into an interface, instead of a USB, but the choice is yours!</p>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<p>If you are using your<a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="114902"><strong> Line 6 Helix </strong></a>or other guitar processor to record <strong>without</strong> an interface, then you will choose the processor for the input AND output. The Line 6 Helix will be automatically recognized by the REAPER DAW via USB, and all you have to do is select it for both options. Your Helix headphone jack will be your monitor.</p>
+<p>If you are using your<a href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="114902"><strong> Line 6 Helix </strong></a>or other guitar processor to record <strong>without</strong> an interface, then you will choose the processor for the input AND output. The Line 6 Helix will be automatically recognized by the REAPER DAW via USB, and all you have to do is select it for both options. Your Helix headphone jack will be your monitor.</p>
 
 
 
@@ -384,7 +384,7 @@ seo:
 
 
 
-<p>Because you may not hear these mistakes when you are actually playing guitar! Oftentimes you are so focused on what you&#8217;re playing, that it can be easy to let a big mistake slip in. Even something like <a href="https://www.electrikjam.com/how-do-you-practice-scales/" data-lasso-id="215791">practicing scales</a> should be recorded. Every little nuance is picked up on the recording, and small things like pick attack might be a problem you have never noticed.</p>
+<p>Because you may not hear these mistakes when you are actually playing guitar! Oftentimes you are so focused on what you&#8217;re playing, that it can be easy to let a big mistake slip in. Even something like <a href="/how-do-you-practice-scales/" data-lasso-id="215791">practicing scales</a> should be recorded. Every little nuance is picked up on the recording, and small things like pick attack might be a problem you have never noticed.</p>
 
 
 

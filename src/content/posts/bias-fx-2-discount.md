@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>I’ve written at length about <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="687">my love of Positive Grid’s BIAS FX 2 software</a></strong>. For me, it is one of the most useful tools a modern guitarist can have. It gives you access to thousands of potential new tones and makes <strong><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="688">recording at home</a></strong>, on your Mac or PC, a cinch.</p>
+<p>I’ve written at length about <strong><a href="/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="687">my love of Positive Grid’s BIAS FX 2 software</a></strong>. For me, it is one of the most useful tools a modern guitarist can have. It gives you access to thousands of potential new tones and makes <strong><a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="688">recording at home</a></strong>, on your Mac or PC, a cinch.</p>
 
 
 
-<p>Positive Grid has kicked off 2021 with a massive sale too. You can now pick up BIAS FX 2 –&nbsp;all versions –&nbsp;<strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/bias-fx-2/" data-lasso-id="689">with a whopping 51% discount</a></strong>. That is a massive discount, especially when you consider just how much value for money you get with the fully-priced BIAS FX 2.</p>
+<p>Positive Grid has kicked off 2021 with a massive sale too. You can now pick up BIAS FX 2 –&nbsp;all versions –&nbsp;<strong><a class="rank-math-link" href="/recommends/bias-fx-2/" data-lasso-id="689">with a whopping 51% discount</a></strong>. That is a massive discount, especially when you consider just how much value for money you get with the fully-priced BIAS FX 2.</p>
 
 
 
@@ -51,11 +51,11 @@ seo:
 
 
 
-<p>Here’s a breakdown of the <a href="https://www.electrikjam.com/bias-fx-amp-list/" data-lasso-id="690">current offer for BIAS FX 2</a> from Positive Grid:</p>
+<p>Here’s a breakdown of the <a href="/bias-fx-amp-list/" data-lasso-id="690">current offer for BIAS FX 2</a> from Positive Grid:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>BIAX FX 2&nbsp;Standard Version –&nbsp;<a class="rank-math-link" href="https://www.electrikjam.com/recommends/bias-fx-2/" data-lasso-id="691">$49 (Down From $99)</a></strong></li><li><strong>BIAS FX 2 Pro Version –&nbsp;<a href="https://www.electrikjam.com/recommends/bias-fx-2/" class="rank-math-link" data-lasso-id="692">$99 (Down From $199)</a></strong></li><li><strong>BIAS FX 2 Elite Version –&nbsp;<a href="https://www.electrikjam.com/recommends/bias-fx-2/" class="rank-math-link" data-lasso-id="693">$149 (Down From $299)</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>BIAX FX 2&nbsp;Standard Version –&nbsp;<a class="rank-math-link" href="/recommends/bias-fx-2/" data-lasso-id="691">$49 (Down From $99)</a></strong></li><li><strong>BIAS FX 2 Pro Version –&nbsp;<a href="/recommends/bias-fx-2/" class="rank-math-link" data-lasso-id="692">$99 (Down From $199)</a></strong></li><li><strong>BIAS FX 2 Elite Version –&nbsp;<a href="/recommends/bias-fx-2/" class="rank-math-link" data-lasso-id="693">$149 (Down From $299)</a></strong></li></ul>
 
 
 
@@ -83,11 +83,11 @@ seo:
 
 
 
-<p>As I said, if you just want to mess around with different guitar tones and effects, the standard version of BIAS FX 2 –&nbsp;<a class="rank-math-link" href="https://www.electrikjam.com/recommends/bias-fx-2/" data-lasso-id="694"><strong>which is the cheapest</strong> </a>–&nbsp;will be all you need. But if you want to do more advanced stuff, things like recording, guitar emulation, and have access to MIDI/Automation Functionality, you’ll have to pony up for the Pro version.</p>
+<p>As I said, if you just want to mess around with different guitar tones and effects, the standard version of BIAS FX 2 –&nbsp;<a class="rank-math-link" href="/recommends/bias-fx-2/" data-lasso-id="694"><strong>which is the cheapest</strong> </a>–&nbsp;will be all you need. But if you want to do more advanced stuff, things like recording, guitar emulation, and have access to MIDI/Automation Functionality, you’ll have to pony up for the Pro version.</p>
 
 
 
-<p>Me personally, I have the Pro version of BIAS FX 2 and it is more than enough for my needs. I can jam out until my heart’s content, create epic sounding tones, and <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="695">record my ideas on my iMac</a>. <a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-lasso-id="696">I also have the Spark Amp too</a>, but that has kind of gone by the wayside since I downloaded BIAS FX 2 Pro.</p>
+<p>Me personally, I have the Pro version of BIAS FX 2 and it is more than enough for my needs. I can jam out until my heart’s content, create epic sounding tones, and <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="695">record my ideas on my iMac</a>. <a href="/killer-guitar-tone-without-hardware/" data-lasso-id="696">I also have the Spark Amp too</a>, but that has kind of gone by the wayside since I downloaded BIAS FX 2 Pro.</p>
 
 
 
@@ -99,5 +99,5 @@ seo:
 
 
 
-<p>Do yourself a favor and <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/bias-fx-2/" data-lasso-id="697">pick yourself up a copy today</a></strong> – it won’t be this cheap forever!</p>
+<p>Do yourself a favor and <strong><a class="rank-math-link" href="/recommends/bias-fx-2/" data-lasso-id="697">pick yourself up a copy today</a></strong> – it won’t be this cheap forever!</p>
 

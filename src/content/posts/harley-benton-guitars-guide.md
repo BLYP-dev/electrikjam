@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>Harley Benton Guitars are extremely popular right now, and for a really good reason! Harley Benton is known for being a <a data-lasso-id="194025" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>budget brand</strong></a>, and low-cost guitars have never been more popular. </p>
+<p>Harley Benton Guitars are extremely popular right now, and for a really good reason! Harley Benton is known for being a <a data-lasso-id="194025" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>budget brand</strong></a>, and low-cost guitars have never been more popular. </p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>Most <a href="https://www.electrikjam.com/harley-benton-dc-fat-p90-guitars-review/" data-lasso-id="235134">Harley Benton guitars</a> will look very familiar to anyone that is familiar with popular guitar styles.  Harley Benton models are styled like many different types of guitars. Just about every shape has been done before, and some shapes just &#8220;work&#8221;.</p>
+<p>Most <a href="/harley-benton-dc-fat-p90-guitars-review/" data-lasso-id="235134">Harley Benton guitars</a> will look very familiar to anyone that is familiar with popular guitar styles.  Harley Benton models are styled like many different types of guitars. Just about every shape has been done before, and some shapes just &#8220;work&#8221;.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>The main companies that Harley Benton Guitars are in competition with are most of the beginner brands. When it comes to <a data-lasso-id="211726" href="https://www.electrikjam.com/how-much-should-i-spend-on-my-first-guitar/">beginner guitars</a>, most will come in under the $500 price point. Epiphone and Squier are the best comparisons when it comes to price.</p>
+<p>The main companies that Harley Benton Guitars are in competition with are most of the beginner brands. When it comes to <a data-lasso-id="211726" href="/how-much-should-i-spend-on-my-first-guitar/">beginner guitars</a>, most will come in under the $500 price point. Epiphone and Squier are the best comparisons when it comes to price.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p>All Harley Benton Guitars are import models, either from Indonesia or China depending on the model type. But the guitars are then <a href="https://www.electrikjam.com/thomann-usa-shipping-times-costs-a-complete-guide/" data-lasso-id="251555">shipped to Thomann Music</a> and looked over for a final quality control check. The QC department looks at <em>every guitar</em> before it leaves the shop.</p>
+<p>All Harley Benton Guitars are import models, either from Indonesia or China depending on the model type. But the guitars are then <a href="/thomann-usa-shipping-times-costs-a-complete-guide/" data-lasso-id="251555">shipped to Thomann Music</a> and looked over for a final quality control check. The QC department looks at <em>every guitar</em> before it leaves the shop.</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p>Harley Benton organizes the guitars <strong><a href="https://www.electrikjam.com/harley-benton-guitars-and-basses-thomann-united-states/" data-type="lasso-urls" data-id="11805" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234424" data-lasso-name="Harley Benton Guitars (ALL Models)">by price and features</a></strong>. But on the official site the models are all organized by<strong> shape</strong> as well. So you can easily navigate by price, series, shape, and features. We are going to break it down for you right here, starting with the price/series going lowest to highest:</p>
+<p>Harley Benton organizes the guitars <strong><a href="/harley-benton-guitars-and-basses-thomann-united-states/" data-type="lasso-urls" data-id="11805" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234424" data-lasso-name="Harley Benton Guitars (ALL Models)">by price and features</a></strong>. But on the official site the models are all organized by<strong> shape</strong> as well. So you can easily navigate by price, series, shape, and features. We are going to break it down for you right here, starting with the price/series going lowest to highest:</p>
 
 
 
@@ -257,11 +257,11 @@ seo:
 
 
 
-<p>You also get more name-brand hardware and pickups past the <strong>Hot Rod Series</strong>. Harley Benton is unique in the fact that almost every model comes in a<a data-lasso-id="197993" href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener"> <strong>left handed version</strong></a>.</p>
+<p>You also get more name-brand hardware and pickups past the <strong>Hot Rod Series</strong>. Harley Benton is unique in the fact that almost every model comes in a<a data-lasso-id="197993" href="/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener"> <strong>left handed version</strong></a>.</p>
 
 
 
-<p>The other way that Harley Benton organizes the collection of guitars is by the <strong>shape</strong> of the guitar. These shapes are familiar to most experienced guitarists. A couple like the <a data-lasso-id="197994" href="https://www.electrikjam.com/electrikjam-link/" data-type="post" data-id="5767" target="_blank" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"><strong>Fusion III</strong></a> or<a data-lasso-id="197995" href="https://www.electrikjam.com/harley-benton-amarok-review/" data-type="post" data-id="5842" target="_blank" rel="noopener"> <strong>Amarok</strong></a> are unique to Harley Benton and have become some of the most popular guitars in the collection. The shapes:</p>
+<p>The other way that Harley Benton organizes the collection of guitars is by the <strong>shape</strong> of the guitar. These shapes are familiar to most experienced guitarists. A couple like the <a data-lasso-id="197994" href="/electrikjam-link/" data-type="post" data-id="5767" target="_blank" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"><strong>Fusion III</strong></a> or<a data-lasso-id="197995" href="/harley-benton-amarok-review/" data-type="post" data-id="5842" target="_blank" rel="noopener"> <strong>Amarok</strong></a> are unique to Harley Benton and have become some of the most popular guitars in the collection. The shapes:</p>
 
 
 
@@ -323,7 +323,7 @@ seo:
 
 
 
-<p>Harley Benton Guitars also does a few &#8220;one off&#8221; models like the <a data-lasso-id="197996" href="https://www.electrikjam.com/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"><strong>EX-84</strong></a>, which is the tribute to <strong>Metallica</strong> and has EMG pickups.</p>
+<p>Harley Benton Guitars also does a few &#8220;one off&#8221; models like the <a data-lasso-id="197996" href="/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"><strong>EX-84</strong></a>, which is the tribute to <strong>Metallica</strong> and has EMG pickups.</p>
 
 
 
@@ -332,11 +332,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-harley-benton-telecaster-pickups-all-the-options-detailed"><strong><a data-lasso-id="234486" href="https://www.electrikjam.com/harley-benton-telecaster-pickups-guide/">Harley Benton Telecaster Pickups: All The Options Detailed</a></strong></li>
+<li id="htoc-harley-benton-telecaster-pickups-all-the-options-detailed"><strong><a data-lasso-id="234486" href="/harley-benton-telecaster-pickups-guide/">Harley Benton Telecaster Pickups: All The Options Detailed</a></strong></li>
 
 
 
-<li id="htoc-best-harley-benton-telecaster"><strong><a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="235234">Best Harley Benton Telecaster</a></strong></li>
+<li id="htoc-best-harley-benton-telecaster"><strong><a href="/best-harley-benton-telecaster/" data-lasso-id="235234">Best Harley Benton Telecaster</a></strong></li>
 </ul>
 
 
@@ -373,7 +373,7 @@ seo:
 
 
 
-<p>You can check them out yourself, <strong><a href="https://www.electrikjam.com/deluxe-series-harley-benton/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="250266" data-lasso-name="Deluxe Series - Harley Benton">most of them are bloody stunning.</a></strong> </p>
+<p>You can check them out yourself, <strong><a href="/deluxe-series-harley-benton/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="250266" data-lasso-name="Deluxe Series - Harley Benton">most of them are bloody stunning.</a></strong> </p>
 
 
 
@@ -405,7 +405,7 @@ seo:
 
 
 
-<p>Then again, the very cheap <a data-lasso-id="197997" href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" target="_blank" rel="noopener"><strong>Harley Benton ST Active</strong></a> was flawless when we reviewed it and it is from the Standard Series.</p>
+<p>Then again, the very cheap <a data-lasso-id="197997" href="/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" target="_blank" rel="noopener"><strong>Harley Benton ST Active</strong></a> was flawless when we reviewed it and it is from the Standard Series.</p>
 
 
 
@@ -447,7 +447,7 @@ seo:
 
 
 
-<p>Harley Benton guitars are known for being low cost, affordable guitars –&nbsp;<strong><a href="https://www.electrikjam.com/harley-benton-guitars-and-basses-thomann-united-states/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234425" data-lasso-name="Harley Benton Guitars (ALL Models)">you can pick one up for less than $100</a></strong>, and prices go all the way up to the $600 mark. </p>
+<p>Harley Benton guitars are known for being low cost, affordable guitars –&nbsp;<strong><a href="/harley-benton-guitars-and-basses-thomann-united-states/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234425" data-lasso-name="Harley Benton Guitars (ALL Models)">you can pick one up for less than $100</a></strong>, and prices go all the way up to the $600 mark. </p>
 
 
 
@@ -467,7 +467,7 @@ seo:
 
 
 
-<p>Harley Benton as a <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237993">brand also does not <strong>advertise</strong> like a bigger company like Gibson</a>. The big guitar brands pay for ads, and even pay for wall space in a guitar store. Have you ever went to a guitar store that had mostly Fender? </p>
+<p>Harley Benton as a <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237993">brand also does not <strong>advertise</strong> like a bigger company like Gibson</a>. The big guitar brands pay for ads, and even pay for wall space in a guitar store. Have you ever went to a guitar store that had mostly Fender? </p>
 
 
 
@@ -499,7 +499,7 @@ seo:
 
 
 
-<p>The early models were made in South Korea, much like ESP and <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247820">Schecter guitars</a>. The problem with the Korean factory options is now<em> cost</em>. Korean guitars are right behind Japanese guitars when it comes to quality of workmanship. So Harley Benton Guitars moved to China, Vietnam, and primarily Indonesia.</p>
+<p>The early models were made in South Korea, much like ESP and <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247820">Schecter guitars</a>. The problem with the Korean factory options is now<em> cost</em>. Korean guitars are right behind Japanese guitars when it comes to quality of workmanship. So Harley Benton Guitars moved to China, Vietnam, and primarily Indonesia.</p>
 
 
 
@@ -549,7 +549,7 @@ seo:
 
 
 
-<p>Harley Benton is a relatively new brand in the guitar world, and was developed by Thomann Music in Germany. It is the official brand of Thomann Music which is based in Bavaria, and is the largest retailer of music gear in Europe. Harley Benton makes more than just guitars, and features amps, basses, acoustics, and all kinds of accessories. We have reviewed the brand&#8217;s<a href="https://www.electrikjam.com/https-electrikjam-com-recommends-harley-benton-dnafx-pro/" data-type="post" data-id="6018" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="198107" data-lasso-name="Harley Benton DNAfx GiT Pro"> <strong>effects</strong></a> before, and we were impressed.</p>
+<p>Harley Benton is a relatively new brand in the guitar world, and was developed by Thomann Music in Germany. It is the official brand of Thomann Music which is based in Bavaria, and is the largest retailer of music gear in Europe. Harley Benton makes more than just guitars, and features amps, basses, acoustics, and all kinds of accessories. We have reviewed the brand&#8217;s<a href="/https-electrikjam-com-recommends-harley-benton-dnafx-pro/" data-type="post" data-id="6018" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="198107" data-lasso-name="Harley Benton DNAfx GiT Pro"> <strong>effects</strong></a> before, and we were impressed.</p>
 
 
 
@@ -604,15 +604,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-the-harley-benton-standard-series-guitar-reviews"><strong><a href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" data-lasso-id="198772">The Harley Benton Standard Series Guitar Reviews</a></strong></li>
+<li id="htoc-the-harley-benton-standard-series-guitar-reviews"><strong><a href="/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" data-lasso-id="198772">The Harley Benton Standard Series Guitar Reviews</a></strong></li>
 
 
 
-<li id="htoc-harley-benton-amarok-review"><strong><a href="https://www.electrikjam.com/harley-benton-amarok-review/" data-type="post" data-id="5842" data-lasso-id="198773">Harley Benton Amarok Review</a></strong></li>
+<li id="htoc-harley-benton-amarok-review"><strong><a href="/harley-benton-amarok-review/" data-type="post" data-id="5842" data-lasso-id="198773">Harley Benton Amarok Review</a></strong></li>
 
 
 
-<li id="htoc-harley-benton-fusion-3-review"><strong><a href="https://www.electrikjam.com/electrikjam-link/" data-type="post" data-id="5767" data-lasso-id="198774" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Harley Benton Fusion 3 Review</a></strong></li>
+<li id="htoc-harley-benton-fusion-3-review"><strong><a href="/electrikjam-link/" data-type="post" data-id="5767" data-lasso-id="198774" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Harley Benton Fusion 3 Review</a></strong></li>
 </ul>
 
 
@@ -645,7 +645,7 @@ seo:
 
 
 
-<p>Floating and locking tremolo bridges like the Wilkinson models, or Floyd Rose may arrive to you set up and ready to play, but they require specific maintenance. We go over how to properly set up a Floyd Rose Bridge System in <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="198108"><strong>this article</strong></a>, and you can tell the whole process is quite involved. Even guitarists that have<em> years of experience</em> avoid floating bridges because they seem like a hassle.</p>
+<p>Floating and locking tremolo bridges like the Wilkinson models, or Floyd Rose may arrive to you set up and ready to play, but they require specific maintenance. We go over how to properly set up a Floyd Rose Bridge System in <a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="198108"><strong>this article</strong></a>, and you can tell the whole process is quite involved. Even guitarists that have<em> years of experience</em> avoid floating bridges because they seem like a hassle.</p>
 
 
 
@@ -666,11 +666,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-3-best-harley-benton-guitars-for-metal-reviewed-insane-deals-for-chugging"><strong><a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-type="post" data-id="9517" data-lasso-id="198775" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">3 BEST Harley Benton Guitars For Metal Reviewed: INSANE Deals For Chugging!</a></strong></li>
+<li id="htoc-3-best-harley-benton-guitars-for-metal-reviewed-insane-deals-for-chugging"><strong><a href="/3-best-harley-benton-guitars-for-metal-review/" data-type="post" data-id="9517" data-lasso-id="198775" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">3 BEST Harley Benton Guitars For Metal Reviewed: INSANE Deals For Chugging!</a></strong></li>
 
 
 
-<li id="htoc-the-top-3-harley-benton-deluxe-series-guitars-review-are-they-any-good"><strong><a href="https://www.electrikjam.com/harley-benton-deluxe-series-guitars-review/" data-type="post" data-id="9579" data-lasso-id="198776">The Top 3 Harley Benton Deluxe Series Guitars Review: Are They Any Good?</a></strong></li>
+<li id="htoc-the-top-3-harley-benton-deluxe-series-guitars-review-are-they-any-good"><strong><a href="/harley-benton-deluxe-series-guitars-review/" data-type="post" data-id="9579" data-lasso-id="198776">The Top 3 Harley Benton Deluxe Series Guitars Review: Are They Any Good?</a></strong></li>
 </ul>
 
 
@@ -735,7 +735,7 @@ seo:
 
 
 
-<p>Currently, Harley Benton uses mostly<strong> Roswell Pickups</strong>, as well as <strong>EMG Retro-Active Pickups</strong>. The lower end models still use some generic pickups, but most of the guitars have Wilkinson and Roswell pickups, which are very good products. The higher end guitars and the <strong>Amarok Series</strong> use EMG <a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="198180"><strong>active pickups</strong></a>.</p>
+<p>Currently, Harley Benton uses mostly<strong> Roswell Pickups</strong>, as well as <strong>EMG Retro-Active Pickups</strong>. The lower end models still use some generic pickups, but most of the guitars have Wilkinson and Roswell pickups, which are very good products. The higher end guitars and the <strong>Amarok Series</strong> use EMG <a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="198180"><strong>active pickups</strong></a>.</p>
 
 
 
@@ -747,7 +747,7 @@ seo:
 
 
 
-<p>Most of the tuners are either Harley Benton branded, Wilkinson, or <strong>Gotoh</strong>. The lower priced models will usually feature standard unbranded tuners. The <strong><a href="https://www.electrikjam.com/what-are-locking-tuners/" data-type="post" data-id="5971" target="_blank" rel="noopener" data-lasso-id="198167">locking tuners</a> </strong>that Harley Benton offers are really good, and can save you time on string changes! This year, some models started coming with Gotoh hardware.</p>
+<p>Most of the tuners are either Harley Benton branded, Wilkinson, or <strong>Gotoh</strong>. The lower priced models will usually feature standard unbranded tuners. The <strong><a href="/what-are-locking-tuners/" data-type="post" data-id="5971" target="_blank" rel="noopener" data-lasso-id="198167">locking tuners</a> </strong>that Harley Benton offers are really good, and can save you time on string changes! This year, some models started coming with Gotoh hardware.</p>
 
 
 
@@ -764,23 +764,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-p90-pickups-a-guide-tone-genre-pros-amp-cons"><strong><a href="https://www.electrikjam.com/p90-pickups-guide/" data-type="post" data-id="8654" data-lasso-id="198777">P90 Pickups: A Guide (Tone, Genre, Pros &amp; Cons)</a></strong></li>
+<li id="htoc-p90-pickups-a-guide-tone-genre-pros-amp-cons"><strong><a href="/p90-pickups-guide/" data-type="post" data-id="8654" data-lasso-id="198777">P90 Pickups: A Guide (Tone, Genre, Pros &amp; Cons)</a></strong></li>
 
 
 
-<li id="htoc-what-kind-of-pickups-are-in-a-les-paul-epiphone"><strong><a href="https://www.electrikjam.com/what-kind-of-pickups-are-in-a-les-paul-epiphone/" data-type="post" data-id="756" data-lasso-id="198778">What Kind Of Pickups Are In A Les Paul Epiphone?</a></strong></li>
+<li id="htoc-what-kind-of-pickups-are-in-a-les-paul-epiphone"><strong><a href="/what-kind-of-pickups-are-in-a-les-paul-epiphone/" data-type="post" data-id="756" data-lasso-id="198778">What Kind Of Pickups Are In A Les Paul Epiphone?</a></strong></li>
 
 
 
-<li id="htoc-what-pickups-does-josh-homme-use-let-s-find-out"><strong><a href="https://www.electrikjam.com/what-pickups-does-josh-homme-use/" data-type="post" data-id="7070" data-lasso-id="198779">What Pickups Does Josh Homme Use? Let’s Find Out…</a></strong></li>
+<li id="htoc-what-pickups-does-josh-homme-use-let-s-find-out"><strong><a href="/what-pickups-does-josh-homme-use/" data-type="post" data-id="7070" data-lasso-id="198779">What Pickups Does Josh Homme Use? Let’s Find Out…</a></strong></li>
 
 
 
-<li id="htoc-what-are-active-pickups-all-you-need-to-know"><strong><a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" data-lasso-id="198780">What Are Active Pickups? All You NEED To Know!</a></strong></li>
+<li id="htoc-what-are-active-pickups-all-you-need-to-know"><strong><a href="/what-are-active-pickups/" data-type="post" data-id="4712" data-lasso-id="198780">What Are Active Pickups? All You NEED To Know!</a></strong></li>
 
 
 
-<li id="htoc-humbuckers-vs-single-coil-pickups-what-s-best-for-metal"><strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="198781">Humbuckers vs Single Coil Pickups | What’s Best For Metal?</a></strong></li>
+<li id="htoc-humbuckers-vs-single-coil-pickups-what-s-best-for-metal"><strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="198781">Humbuckers vs Single Coil Pickups | What’s Best For Metal?</a></strong></li>
 </ul>
 
 
@@ -906,15 +906,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-harley-benton-amarok-review-amazing-features"><strong><a href="https://www.electrikjam.com/harley-benton-amarok-review/" data-type="post" data-id="5842" data-lasso-id="198782">Harley Benton Amarok Review: Amazing Features</a></strong></li>
+<li id="htoc-harley-benton-amarok-review-amazing-features"><strong><a href="/harley-benton-amarok-review/" data-type="post" data-id="5842" data-lasso-id="198782">Harley Benton Amarok Review: Amazing Features</a></strong></li>
 
 
 
-<li id="htoc-harley-benton-dnafx-review-is-it-worth-it"><strong><a href="https://www.electrikjam.com/harley-benton-dnafx-review/" data-type="post" data-id="5922" data-lasso-id="198783">Harley Benton DNAfx Review: Is It Worth It</a></strong></li>
+<li id="htoc-harley-benton-dnafx-review-is-it-worth-it"><strong><a href="/harley-benton-dnafx-review/" data-type="post" data-id="5922" data-lasso-id="198783">Harley Benton DNAfx Review: Is It Worth It</a></strong></li>
 
 
 
-<li id="htoc-harley-benton-dnafx-pro-a-new-update-to-the-amazing-budget-processor"><strong><a href="https://www.electrikjam.com/https-electrikjam-com-recommends-harley-benton-dnafx-pro/" data-type="post" data-id="6018" data-lasso-id="198784" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton DNAfx GiT Pro">Harley Benton DNAfx PRO: A New Update To The Amazing Budget Processor!</a></strong></li>
+<li id="htoc-harley-benton-dnafx-pro-a-new-update-to-the-amazing-budget-processor"><strong><a href="/https-electrikjam-com-recommends-harley-benton-dnafx-pro/" data-type="post" data-id="6018" data-lasso-id="198784" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton DNAfx GiT Pro">Harley Benton DNAfx PRO: A New Update To The Amazing Budget Processor!</a></strong></li>
 </ul>
 
 
@@ -1080,7 +1080,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-squier-classic-vibe-series"><a href="https://www.electrikjam.com/the-new-199-squier-sonic-series/" data-lasso-id="228755"><strong>Squier Classic Vibe Series</strong></a></li>
+<li id="htoc-squier-classic-vibe-series"><a href="/the-new-199-squier-sonic-series/" data-lasso-id="228755"><strong>Squier Classic Vibe Series</strong></a></li>
 
 
 
@@ -1122,27 +1122,27 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-best-epiphone-les-paul-guitars"><strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="198785">Best Epiphone Les Paul Guitars</a></strong></li>
+<li id="htoc-best-epiphone-les-paul-guitars"><strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="198785">Best Epiphone Les Paul Guitars</a></strong></li>
 
 
 
-<li id="htoc-epiphone-sg-vs-epiphone-les-paul"><strong><a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-type="post" data-id="2416" data-lasso-id="198786">Epiphone SG vs Epiphone Les Paul</a></strong></li>
+<li id="htoc-epiphone-sg-vs-epiphone-les-paul"><strong><a href="/epiphone-sg-vs-epiphone-les-paul/" data-type="post" data-id="2416" data-lasso-id="198786">Epiphone SG vs Epiphone Les Paul</a></strong></li>
 
 
 
-<li id="htoc-yamaha-pacifica-review"><strong><a href="https://www.electrikjam.com/new-yamaha-pacifica-612vii-models-high-end-on-a-budget/" data-type="post" data-id="1599" data-lasso-id="198787">Yamaha Pacifica Review</a></strong></li>
+<li id="htoc-yamaha-pacifica-review"><strong><a href="/new-yamaha-pacifica-612vii-models-high-end-on-a-budget/" data-type="post" data-id="1599" data-lasso-id="198787">Yamaha Pacifica Review</a></strong></li>
 
 
 
-<li id="htoc-yamaha-revstar-review"><strong><a href="https://www.electrikjam.com/yamaha-revstar-standard-review/" data-type="post" data-id="7347" data-lasso-id="198788">Yamaha Revstar Review</a></strong></li>
+<li id="htoc-yamaha-revstar-review"><strong><a href="/yamaha-revstar-standard-review/" data-type="post" data-id="7347" data-lasso-id="198788">Yamaha Revstar Review</a></strong></li>
 
 
 
-<li id="htoc-squier-classic-vibe-series1"><strong><a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" data-lasso-id="198789">Squier Classic Vibe Series</a></strong></li>
+<li id="htoc-squier-classic-vibe-series1"><strong><a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" data-lasso-id="198789">Squier Classic Vibe Series</a></strong></li>
 
 
 
-<li id="htoc-best-budget-guitars-that-do-not-suck"><strong><a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" data-lasso-id="198790">Best Budget Guitars (That DO NOT Suck)</a></strong></li>
+<li id="htoc-best-budget-guitars-that-do-not-suck"><strong><a href="/gigging-on-a-budget/" data-type="post" data-id="8443" data-lasso-id="198790">Best Budget Guitars (That DO NOT Suck)</a></strong></li>
 </ul>
 
 
@@ -1187,7 +1187,7 @@ seo:
 
 
 
-<p>The Amarok guitars come in <a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="234001">a regular 6 string model, a baritone 6 string model</a>, and even a 7 string! There are also two different finish options that offer a Flame Maple veneer, or a Quilted Maple veneer. These Harley Benton Guitars are really in a league of their own.</p>
+<p>The Amarok guitars come in <a href="/best-baritone-guitars-for-metal/" data-lasso-id="234001">a regular 6 string model, a baritone 6 string model</a>, and even a 7 string! There are also two different finish options that offer a Flame Maple veneer, or a Quilted Maple veneer. These Harley Benton Guitars are really in a league of their own.</p>
 
 
 

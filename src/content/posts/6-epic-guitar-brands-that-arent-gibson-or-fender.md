@@ -71,7 +71,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/prs-2021-lineup-some-absolutely-lovely-additions/" data-type="post" data-id="1814" data-lasso-id="44636">PRS guitars</a></strong>, generally speaking, are bonkers-expensive. Like $3000 to $4000-expensive. A top-of-the-line PRS will cost more than most Fender guitars. And the reason for this is that they’re all hand-crafted in the US of A. But PRS do make cheaper versions of its expensive models – versions that mere mortals like you and I can afford.</p>
+<p><strong><a href="/prs-2021-lineup-some-absolutely-lovely-additions/" data-type="post" data-id="1814" data-lasso-id="44636">PRS guitars</a></strong>, generally speaking, are bonkers-expensive. Like $3000 to $4000-expensive. A top-of-the-line PRS will cost more than most Fender guitars. And the reason for this is that they’re all hand-crafted in the US of A. But PRS do make cheaper versions of its expensive models – versions that mere mortals like you and I can afford.</p>
 
 
 
@@ -81,11 +81,11 @@ seo:
 		
 
 
-<p>If you have <a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145780">$500 to $600 to spend on an electric guitar</a>, and you want something that looks stunning and plays like a guitar gifted down from heaven by God himself, the <strong>PRS SE Standard 24 </strong>is just about the most solid option on the market right now. How do I know? Simple: I recently bought one and it has been blowing my mind every day since it arrived.</p>
+<p>If you have <a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145780">$500 to $600 to spend on an electric guitar</a>, and you want something that looks stunning and plays like a guitar gifted down from heaven by God himself, the <strong>PRS SE Standard 24 </strong>is just about the most solid option on the market right now. How do I know? Simple: I recently bought one and it has been blowing my mind every day since it arrived.</p>
 
 
 
-<p>Perfect for metal, jazz, noodling, pop, and pretty much everything else in between, <a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251741">the PRS SE Standard 24 is a near-perfect mid-market guitar</a> with its HFS Treble and Vintage Bass humbucking pickups, 3-way pickup selector, and a coil tap on the tone control. Oh, and its 25&#8243; scale length 24 fret mahogany neck plays like a dream. I’ve never played a “proper” PRS but I do have trouble understanding how it could be much “better” than this one.</p>
+<p>Perfect for metal, jazz, noodling, pop, and pretty much everything else in between, <a href="/prs-se-series-guitars-guide/" data-lasso-id="251741">the PRS SE Standard 24 is a near-perfect mid-market guitar</a> with its HFS Treble and Vintage Bass humbucking pickups, 3-way pickup selector, and a coil tap on the tone control. Oh, and its 25&#8243; scale length 24 fret mahogany neck plays like a dream. I’ve never played a “proper” PRS but I do have trouble understanding how it could be much “better” than this one.</p>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 
-<p>Like Gibson and Fender, <strong><a href="https://www.electrikjam.com/gretsch-vintage-select-89-jet-reissue/" data-type="post" data-id="1787" data-lasso-id="44639">Gretsch</a></strong> has been around since day one. Used by all kinds of players from jazz legends to Brent Hinds from Mastodon, <a href="https://www.electrikjam.com/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145653">Gretsch is one of the most iconic and well-known brands</a> on the planet. It also makes some really great mid-range (less than $500) guitars, as well as its more expensive ($1000+) models.</p>
+<p>Like Gibson and Fender, <strong><a href="/gretsch-vintage-select-89-jet-reissue/" data-type="post" data-id="1787" data-lasso-id="44639">Gretsch</a></strong> has been around since day one. Used by all kinds of players from jazz legends to Brent Hinds from Mastodon, <a href="/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145653">Gretsch is one of the most iconic and well-known brands</a> on the planet. It also makes some really great mid-range (less than $500) guitars, as well as its more expensive ($1000+) models.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 		
 
 
-<p>As for models, you have the Electromatic, Streamliner, Professional, Jet, Falcon, and Broadcaster. For the absolute best value for money – or, if you’re not a) a millionaire or b) a professional – you’ll want to be looking at the Electromatic Jet FT or the Streamliner; both retail for under $500 and are killer setups, although the Gretsch Streamliner is a <a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-lasso-id="84759">hollow body electric</a>.</p>
+<p>As for models, you have the Electromatic, Streamliner, Professional, Jet, Falcon, and Broadcaster. For the absolute best value for money – or, if you’re not a) a millionaire or b) a professional – you’ll want to be looking at the Electromatic Jet FT or the Streamliner; both retail for under $500 and are killer setups, although the Gretsch Streamliner is a <a href="/why-the-beatles-used-epiphone-not-gibson/" data-lasso-id="84759">hollow body electric</a>.</p>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<p>I’ve always HATED the name <strong><a href="https://www.electrikjam.com/best-electric-guitars/" data-type="page" data-id="4928" data-lasso-id="44642">Music Man</a></strong>. It sounds like something you’d find in Walmart. But that aside, Music Man does make some truly exceptional guitars, ranging in price from damn-affordable ($350 to $500) to get-in-trouble-with-your-spouse (and/or credit card provider) expensive.</p>
+<p>I’ve always HATED the name <strong><a href="/best-electric-guitars/" data-type="page" data-id="4928" data-lasso-id="44642">Music Man</a></strong>. It sounds like something you’d find in Walmart. But that aside, Music Man does make some truly exceptional guitars, ranging in price from damn-affordable ($350 to $500) to get-in-trouble-with-your-spouse (and/or credit card provider) expensive.</p>
 
 
 
@@ -161,7 +161,7 @@ seo:
 
 
 
-<p>It wouldn’t be an ELECTRIKJAM post unless we mentioned <strong><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" data-lasso-id="44645">Schecter</a></strong>, so here we are, once again, talking about the wonderful world of Schecter guitars. As guitar brands go, Schecter is perhaps one of the most criminally overlooked on the market today. Both Chris and I are huge fans of <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247834">Schecter guitars</a>. And if you like metal, there’s no better brand out there.</p>
+<p>It wouldn’t be an ELECTRIKJAM post unless we mentioned <strong><a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" data-lasso-id="44645">Schecter</a></strong>, so here we are, once again, talking about the wonderful world of Schecter guitars. As guitar brands go, Schecter is perhaps one of the most criminally overlooked on the market today. Both Chris and I are huge fans of <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247834">Schecter guitars</a>. And if you like metal, there’s no better brand out there.</p>
 
 
 
@@ -171,11 +171,11 @@ seo:
 		
 
 
-<p>Like all good <a href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-lasso-id="70793">guitar brands</a>, Schecter has a range of models, 15 as of right now, and they span everything from Explorer-style setups to Les Paul models, Teles, and spiky, metal-as-f***k-looking numbers. Basically, whatever you’re after, Schecter will have a guitar for your exact tastes. Me? I like the Schecter Demon, Hellraiser, PT, and the Omen (because <strong><a href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491" data-lasso-id="44646">I’m a sucker for SG-style guitars</a></strong>).</p>
+<p>Like all good <a href="/the-best-guitar-brands-for-lefties-2022/" data-lasso-id="70793">guitar brands</a>, Schecter has a range of models, 15 as of right now, and they span everything from Explorer-style setups to Les Paul models, Teles, and spiky, metal-as-f***k-looking numbers. Basically, whatever you’re after, Schecter will have a guitar for your exact tastes. Me? I like the Schecter Demon, Hellraiser, PT, and the Omen (because <strong><a href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491" data-lasso-id="44646">I’m a sucker for SG-style guitars</a></strong>).</p>
 
 
 
-<p>Schecter has some pretty expensive guitars on its books, prices range from $600 to near $1000, and these are designed for metal with all the accouterments you’d expect – killer pickups, fast necks, wonderful hand-crafted finishes, and premium materials. But Schecter also makes some <a href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125529">killer mid-range guitars too</a>, like the Schecter Omen (and you can get 6, 7, and 8 string versions of it too). All for less than $500.</p>
+<p>Schecter has some pretty expensive guitars on its books, prices range from $600 to near $1000, and these are designed for metal with all the accouterments you’d expect – killer pickups, fast necks, wonderful hand-crafted finishes, and premium materials. But Schecter also makes some <a href="/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125529">killer mid-range guitars too</a>, like the Schecter Omen (and you can get 6, 7, and 8 string versions of it too). All for less than $500.</p>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<p>Like Schecter, <strong><a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" data-lasso-id="44651">Charvel </a></strong>makes a wide range of models and most of them are loosely based on classic, iconic designs – like the Tele, the Strat, and the Ibanez RG. They look familiar, basically. In a good way though. And because Charvel likes to get busy with colors and finishes, you have a ton of options if you’re looking for something that plays great and stands out from the crowd.</p>
+<p>Like Schecter, <strong><a href="/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" data-lasso-id="44651">Charvel </a></strong>makes a wide range of models and most of them are loosely based on classic, iconic designs – like the Tele, the Strat, and the Ibanez RG. They look familiar, basically. In a good way though. And because Charvel likes to get busy with colors and finishes, you have a ton of options if you’re looking for something that plays great and stands out from the crowd.</p>
 
 
 
@@ -231,7 +231,7 @@ seo:
 		
 
 
-<p>The build quality and finish of any Charvel guitar is always solid. They hold their tune brilliantly and are wonderful for metal and heavier kinds of music. With pickups, it ranges by the model you go for but you can get Charvel guitars with <strong><a href="https://www.electrikjam.com/fishman-fluence-modern-link/" data-type="lasso-urls" data-id="4413" data-lasso-id="44652" rel="nofollow noopener" target="_blank" data-lasso-name="Fishman Fluence Modern">Fishman Fluence pickups</a></strong> as well as standard Humbuckers from the likes of Seymour Duncan. Basically, <a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170866">Charvel guitars</a> are designed from the ground up to rock.</p>
+<p>The build quality and finish of any Charvel guitar is always solid. They hold their tune brilliantly and are wonderful for metal and heavier kinds of music. With pickups, it ranges by the model you go for but you can get Charvel guitars with <strong><a href="/fishman-fluence-modern-link/" data-type="lasso-urls" data-id="4413" data-lasso-id="44652" rel="nofollow noopener" target="_blank" data-lasso-name="Fishman Fluence Modern">Fishman Fluence pickups</a></strong> as well as standard Humbuckers from the likes of Seymour Duncan. Basically, <a href="/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170866">Charvel guitars</a> are designed from the ground up to rock.</p>
 
 
 
@@ -261,7 +261,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
 </div></div>
 
 

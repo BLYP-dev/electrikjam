@@ -47,15 +47,15 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="234008"><strong>Baritone Scale</strong>:</a> Most guitars have a &#8220;standard&#8221; scale of 25.5&#8242;. This is usually called the &#8220;Fender Scale&#8221;. While other guitars use a slightly shorter scale of 24.75&#8221;. This shorter scale is called the &#8220;Gibson scale&#8221; since <a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="966"><strong>most Les Paul</strong> </a>guitars feature this scale length.</p>
+<p><a href="/best-baritone-guitars-for-metal/" data-lasso-id="234008"><strong>Baritone Scale</strong>:</a> Most guitars have a &#8220;standard&#8221; scale of 25.5&#8242;. This is usually called the &#8220;Fender Scale&#8221;. While other guitars use a slightly shorter scale of 24.75&#8221;. This shorter scale is called the &#8220;Gibson scale&#8221; since <a href="/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="966"><strong>most Les Paul</strong> </a>guitars feature this scale length.</p>
 
 
 
-<p>Both of these above mentioned, more common scale lengths are made for Standard tuning, or <a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="967"><strong>maybe some drop tunings</strong></a>. But once you get to a certain point, the strings are just too floppy. This is where Baritone Scale comes in handy.</p>
+<p>Both of these above mentioned, more common scale lengths are made for Standard tuning, or <a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="967"><strong>maybe some drop tunings</strong></a>. But once you get to a certain point, the strings are just too floppy. This is where Baritone Scale comes in handy.</p>
 
 
 
-<p>Baritone scale starts at 26.5&#8221; and goes all the way to 28.0&#8221;. This gives the string more length, and allows you to <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="968">tune much lower</a> without using giant bridge cables for guitar strings! Most traditional baritone Scale guitars come tuned B to B. But you can easily go lower.</p>
+<p>Baritone scale starts at 26.5&#8221; and goes all the way to 28.0&#8221;. This gives the string more length, and allows you to <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="968">tune much lower</a> without using giant bridge cables for guitar strings! Most traditional baritone Scale guitars come tuned B to B. But you can easily go lower.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>7 and 8 String Guitars</strong>: The other way you can go lower, is by adding a string or two! This way, you still have your standard guitar, but with an added string. </li><li><a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="969"><strong>7 String Guitars</strong></a> come with an added low B string. This works out perfectly in <a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="970">the concept of guitar tunings</a>. The low B string is tuned to your same &#8220;perfect fourths&#8221; and it does not take long to get used to incorporating the lower string into your playing. 7 string guitars come in 25.5 scale length, and also baritone depending on the company.</li><li><strong><a href="https://www.electrikjam.com/cheap-8-string-guitar/" class="rank-math-link" data-lasso-id="971">8 String Guitars</a></strong> have the same low B string as a 7 string guitar. But keeping up with music theory and guitar tuning, the 8th string is F#. This is another perfect fourth. The 8 string really embodies what extended range guitars are all about. You have almost another full octave to play with by adding the lowest string.</li></ul>
+<ul class="wp-block-list"><li><strong>7 and 8 String Guitars</strong>: The other way you can go lower, is by adding a string or two! This way, you still have your standard guitar, but with an added string. </li><li><a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="969"><strong>7 String Guitars</strong></a> come with an added low B string. This works out perfectly in <a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="970">the concept of guitar tunings</a>. The low B string is tuned to your same &#8220;perfect fourths&#8221; and it does not take long to get used to incorporating the lower string into your playing. 7 string guitars come in 25.5 scale length, and also baritone depending on the company.</li><li><strong><a href="/cheap-8-string-guitar/" class="rank-math-link" data-lasso-id="971">8 String Guitars</a></strong> have the same low B string as a 7 string guitar. But keeping up with music theory and guitar tuning, the 8th string is F#. This is another perfect fourth. The 8 string really embodies what extended range guitars are all about. You have almost another full octave to play with by adding the lowest string.</li></ul>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>The frets are basically &#8220;fanned&#8221; to create a longer scale length on the bass side of the guitar, and a shorter scale length on the treble side. This allows for more equal tension across <a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-lasso-id="972">the whole fretboard</a>. It&#8217;s an interesting idea, and solves a lot of problems that extended range players may have with string tension.</p>
+<p>The frets are basically &#8220;fanned&#8221; to create a longer scale length on the bass side of the guitar, and a shorter scale length on the treble side. This allows for more equal tension across <a href="/how-to-find-fretboard-notes-guitar/" data-lasso-id="972">the whole fretboard</a>. It&#8217;s an interesting idea, and solves a lot of problems that extended range players may have with string tension.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>Schecter is known for making quality instruments at a budget-friendly price, and <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44677">the Reaper</a> is one of the newest models. The Reaper comes in a few different models, but the one we are looking at today is the 7 string multi scale. Schecter packs a ton of features into a budget minded guitar:</p>
+<p>Schecter is known for making quality instruments at a budget-friendly price, and <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44677">the Reaper</a> is one of the newest models. The Reaper comes in a few different models, but the one we are looking at today is the 7 string multi scale. Schecter packs a ton of features into a budget minded guitar:</p>
 
 
 
@@ -111,11 +111,11 @@ seo:
 
 
 
-<p>You also get push/pull volume pots on this model, which allows you to coil split. So not only do you get <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="973">crushing humbucker tones</a>, but you can also get some nasty single coil tones as well.</p>
+<p>You also get push/pull volume pots on this model, which allows you to coil split. So not only do you get <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="973">crushing humbucker tones</a>, but you can also get some nasty single coil tones as well.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/schecter-7ms/" class="rank-math-link" data-lasso-id="974"><span class="has-inline-color has-vivid-purple-color"><strong>&gt;VIEW LATEST PRICES</strong></span></a></p>
+<p><a href="/recommends/schecter-7ms/" class="rank-math-link" data-lasso-id="974"><span class="has-inline-color has-vivid-purple-color"><strong>&gt;VIEW LATEST PRICES</strong></span></a></p>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<p>Jackson has been making some really cool guitars for <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218845">Misha from  Periphery</a>  for several years now. It&#8217;s pretty clear by listening to his playing style, that extended range guitars are necessary for <a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-lasso-id="6306">the low tunings he uses</a>. His 7 string model comes in many forms, but they all sport the same features in the Pro Series:</p>
+<p>Jackson has been making some really cool guitars for <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218845">Misha from  Periphery</a>  for several years now. It&#8217;s pretty clear by listening to his playing style, that extended range guitars are necessary for <a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-lasso-id="6306">the low tunings he uses</a>. His 7 string model comes in many forms, but they all sport the same features in the Pro Series:</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>It would seem that a lot of <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14300">&#8220;budget priced&#8221; artist models</a> are sketchy, and possibly snake oil, But Misha actually plays all of his signature models when recording, even the budget ones! This probably has a lot to do with how versatile the HT7 guitars really are.</p>
+<p>It would seem that a lot of <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14300">&#8220;budget priced&#8221; artist models</a> are sketchy, and possibly snake oil, But Misha actually plays all of his signature models when recording, even the budget ones! This probably has a lot to do with how versatile the HT7 guitars really are.</p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/schecter-7ms/" class="rank-math-link" data-lasso-id="975"><span style="color: #9b51e0;" class="ugb-highlight"><strong>&gt;VIEW LATEST PRICES</strong></span></a></p>
+<p><a href="/recommends/schecter-7ms/" class="rank-math-link" data-lasso-id="975"><span style="color: #9b51e0;" class="ugb-highlight"><strong>&gt;VIEW LATEST PRICES</strong></span></a></p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>You can now find all of the models, including the famous Boden, at your favorite retailer. These guitars are made in the <a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="976"><strong>Cort Factory</strong></a> in Indonesia, from what I can tell (Who also make excellent extended range guitars).</p>
+<p>You can now find all of the models, including the famous Boden, at your favorite retailer. These guitars are made in the <a href="/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="976"><strong>Cort Factory</strong></a> in Indonesia, from what I can tell (Who also make excellent extended range guitars).</p>
 
 
 
@@ -187,11 +187,11 @@ seo:
 
 
 
-<p>All Strandberg models come with special hardware, and different pickup selections, including<a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="977"> <strong>Fishman Pickups</strong>.</a> If you think Strandberg&#8217;s Ergonomic design is something that you may like, check out their<strong> <a href="https://strandbergguitars.com/" class="rank-math-link" data-lasso-id="978" target="_blank" rel="noopener noreferrer nofollow">Official Website for all models and designs!</a></strong></p>
+<p>All Strandberg models come with special hardware, and different pickup selections, including<a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="977"> <strong>Fishman Pickups</strong>.</a> If you think Strandberg&#8217;s Ergonomic design is something that you may like, check out their<strong> <a href="https://strandbergguitars.com/" class="rank-math-link" data-lasso-id="978" target="_blank" rel="noopener noreferrer nofollow">Official Website for all models and designs!</a></strong></p>
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/strandberg-boden/" class="rank-math-link" data-lasso-id="979"><strong><span style="color: #9b51e0;" class="ugb-highlight">&gt;VIEW LATEST PRICES</span></strong></a></p>
+<p><a href="/recommends/strandberg-boden/" class="rank-math-link" data-lasso-id="979"><strong><span style="color: #9b51e0;" class="ugb-highlight">&gt;VIEW LATEST PRICES</span></strong></a></p>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<p>You probably know about <a href="https://www.electrikjam.com/harley-benton-dnafx-review/" data-lasso-id="26183">Harley Benton</a>. They show up on guitar review channels a lot, because they are rarely priced above $300. This sounds too good to be true, doesn&#8217;t it?</p>
+<p>You probably know about <a href="/harley-benton-dnafx-review/" data-lasso-id="26183">Harley Benton</a>. They show up on guitar review channels a lot, because they are rarely priced above $300. This sounds too good to be true, doesn&#8217;t it?</p>
 
 
 
@@ -223,11 +223,11 @@ seo:
 
 
 
-<p>So if you are looking to just try out extended range guitars, or maybe you want a project guitar to mod&#8230;you can do worse than a <a href="https://www.electrikjam.com/harley-benton-amarok-review/" data-lasso-id="23209">Harley Benton</a>!</p>
+<p>So if you are looking to just try out extended range guitars, or maybe you want a project guitar to mod&#8230;you can do worse than a <a href="/harley-benton-amarok-review/" data-lasso-id="23209">Harley Benton</a>!</p>
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/harley-benton-fan-fret/" class="rank-math-link" data-lasso-id="981"><span style="color: #9b51e0;" class="ugb-highlight"><strong>&gt;VIEW LATEST PRICES</strong></span></a></p>
+<p><a href="/recommends/harley-benton-fan-fret/" class="rank-math-link" data-lasso-id="981"><span style="color: #9b51e0;" class="ugb-highlight"><strong>&gt;VIEW LATEST PRICES</strong></span></a></p>
 
 
 
@@ -243,11 +243,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255022">Ibanez</a> has been the leader of extended range guitars for years. <strong><a class="rank-math-link" href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="982">Ibanez made the very first production 7 string guitar</a></strong>, as well as the first production 8 string model! This is quite a feat!</p>
+<p><a href="/ibanez-guitars/" data-lasso-id="255022">Ibanez</a> has been the leader of extended range guitars for years. <strong><a class="rank-math-link" href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="982">Ibanez made the very first production 7 string guitar</a></strong>, as well as the first production 8 string model! This is quite a feat!</p>
 
 
 
-<p>Ibanez has been a leader in extended range guitars, and it seems like every year brings new surprises! We already <a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="983"><strong>took a look at the newest Ibanez Models</strong>,</a> earlier this year.</p>
+<p>Ibanez has been a leader in extended range guitars, and it seems like every year brings new surprises! We already <a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="983"><strong>took a look at the newest Ibanez Models</strong>,</a> earlier this year.</p>
 
 
 
@@ -259,11 +259,11 @@ seo:
 
 
 
-<p>If all of that sounds expensive, you would be surprised to find out that while this is not a <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35962">budget guitar</a>, it may be in your budget. The Axion Series starts at around $1000 USD, and can get a little more pricey depending on the features. This one, with the Bare Knuckle pickups, will run you around $1400.</p>
+<p>If all of that sounds expensive, you would be surprised to find out that while this is not a <a href="/the-best-guitars-of-2021/" data-lasso-id="35962">budget guitar</a>, it may be in your budget. The Axion Series starts at around $1000 USD, and can get a little more pricey depending on the features. This one, with the Bare Knuckle pickups, will run you around $1400.</p>
 
 
 
-<p>We<a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" class="rank-math-link" data-lasso-id="984"><strong> have often spoke of the quality of Ibanez</strong></a>, and how they are trailblazers in the guitar pantheon.</p>
+<p>We<a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" class="rank-math-link" data-lasso-id="984"><strong> have often spoke of the quality of Ibanez</strong></a>, and how they are trailblazers in the guitar pantheon.</p>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/ibanez-axion-fan-fret/" class="rank-math-link" data-lasso-id="985"><span style="color: #9b51e0;" class="ugb-highlight"><strong>&gt;VIEW LATEST PRICES</strong></span></a></p>
+<p><a href="/recommends/ibanez-axion-fan-fret/" class="rank-math-link" data-lasso-id="985"><span style="color: #9b51e0;" class="ugb-highlight"><strong>&gt;VIEW LATEST PRICES</strong></span></a></p>
 
 
 
@@ -291,11 +291,11 @@ seo:
 
 
 
-<p>I know that personally, I enjoy extended range guitars. I write riffs differently on a 7 string than I would a 6 string. The same goes for 8 <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22591">string guitars</a>. They are great tools for unlocking creativity. But at the same time&#8230;</p>
+<p>I know that personally, I enjoy extended range guitars. I write riffs differently on a 7 string than I would a 6 string. The same goes for 8 <a href="/schecter-demon-7-review/" data-lasso-id="22591">string guitars</a>. They are great tools for unlocking creativity. But at the same time&#8230;</p>
 
 
 
-<p>I have had many friends try out my guitars and absolutely hate the 7 string, baritone, or which ever <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="986">extended range guitar</a> of mine they tried. It all comes down to <em>personal preference</em>, and that can be said about all things in the guitar universe.</p>
+<p>I have had many friends try out my guitars and absolutely hate the 7 string, baritone, or which ever <a href="/types-of-guitars-guide/" data-lasso-id="986">extended range guitar</a> of mine they tried. It all comes down to <em>personal preference</em>, and that can be said about all things in the guitar universe.</p>
 
 
 

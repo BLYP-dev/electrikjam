@@ -51,7 +51,7 @@ seo:
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">Brand</th><th class="has-text-align-center" data-align="center">Best For</th><th class="has-text-align-center" data-align="center">Lifespan (Avg)</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">🏆 <strong><a href="https://www.electrikjam.com/recommends/ernie-ball-paradigm/">Ernie Ball Paradigm</a></strong></td><td class="has-text-align-center" data-align="center">Heavy use, daily players</td><td class="has-text-align-center" data-align="center">6+ weeks</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/daddario-nyxl-strings/">D&#8217;Addario NYXL</a></strong></td><td class="has-text-align-center" data-align="center">Studio recording, high-gain</td><td class="has-text-align-center" data-align="center">3 weeks</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/elixir-nano-web-guitar-strings/">Elixir Nano-Web</a></strong></td><td class="has-text-align-center" data-align="center">Backup guitars, acoustics</td><td class="has-text-align-center" data-align="center">6 weeks</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">Brand</th><th class="has-text-align-center" data-align="center">Best For</th><th class="has-text-align-center" data-align="center">Lifespan (Avg)</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">🏆 <strong><a href="/recommends/ernie-ball-paradigm/">Ernie Ball Paradigm</a></strong></td><td class="has-text-align-center" data-align="center">Heavy use, daily players</td><td class="has-text-align-center" data-align="center">6+ weeks</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/daddario-nyxl-strings/">D&#8217;Addario NYXL</a></strong></td><td class="has-text-align-center" data-align="center">Studio recording, high-gain</td><td class="has-text-align-center" data-align="center">3 weeks</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/elixir-nano-web-guitar-strings/">Elixir Nano-Web</a></strong></td><td class="has-text-align-center" data-align="center">Backup guitars, acoustics</td><td class="has-text-align-center" data-align="center">6 weeks</td></tr></tbody></table></figure>
 
 
 
@@ -61,15 +61,15 @@ seo:
 
 
 <ul class="wp-block-list is-style-list-check">
-<li><a href="https://www.electrikjam.com/recommends/elixir-nano-web-guitar-strings/"><strong>Elixir Nano-Web lasted the longest (6 weeks),</strong> </a>great for backup or acoustic guitars, but lacked brightness</li>
+<li><a href="/recommends/elixir-nano-web-guitar-strings/"><strong>Elixir Nano-Web lasted the longest (6 weeks),</strong> </a>great for backup or acoustic guitars, but lacked brightness</li>
 
 
 
-<li><a href="https://www.electrikjam.com/recommends/daddario-nyxl-strings/"><strong>D’Addario NYXL held tuning better</strong> </a>and delivered a noticeable midrange punch, ideal for studio recording</li>
+<li><a href="/recommends/daddario-nyxl-strings/"><strong>D’Addario NYXL held tuning better</strong> </a>and delivered a noticeable midrange punch, ideal for studio recording</li>
 
 
 
-<li><a href="https://www.electrikjam.com/recommends/ernie-ball-paradigm/"><strong>(Editor&#8217;s Choice)</strong> <strong>Ernie Ball Paradigm topped the list </strong></a>with long life, stable tuning, and solid tone even after weeks of heavy play</li>
+<li><a href="/recommends/ernie-ball-paradigm/"><strong>(Editor&#8217;s Choice)</strong> <strong>Ernie Ball Paradigm topped the list </strong></a>with long life, stable tuning, and solid tone even after weeks of heavy play</li>
 </ul>
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p><a data-lasso-id="174780" href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-type="post" data-id="8983" target="_blank" rel="noopener"><strong>We have talked about this before </strong></a>when it comes to guitar gear.</p>
+<p><a data-lasso-id="174780" href="/the-top-7-electric-guitar-myths/" data-type="post" data-id="8983" target="_blank" rel="noopener"><strong>We have talked about this before </strong></a>when it comes to guitar gear.</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p>But there are still plenty of other myths and opinions. We took a look at<strong> <a data-lasso-id="174781" href="https://www.electrikjam.com/are-expensive-guitar-cables-worth-it-top-5-cables/" data-type="post" data-id="1742" target="_blank" rel="noopener">expensive cables</a></strong><a data-lasso-id="174782" href="https://www.electrikjam.com/are-expensive-guitar-cables-worth-it-top-5-cables/" data-type="post" data-id="1742" target="_blank" rel="noopener"> </a>one time and even did a full audio analysis just to prove that there was <em>very minimal</em> difference between the cable brands.</p>
+<p>But there are still plenty of other myths and opinions. We took a look at<strong> <a data-lasso-id="174781" href="/are-expensive-guitar-cables-worth-it-top-5-cables/" data-type="post" data-id="1742" target="_blank" rel="noopener">expensive cables</a></strong><a data-lasso-id="174782" href="/are-expensive-guitar-cables-worth-it-top-5-cables/" data-type="post" data-id="1742" target="_blank" rel="noopener"> </a>one time and even did a full audio analysis just to prove that there was <em>very minimal</em> difference between the cable brands.</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>There are other ones like <strong>Stevie Ray</strong> playing super heavy string gauges. Myths usually start with a bit of truth, that gets blown out of proportion. Expensive <a data-lasso-id="218954" href="https://www.electrikjam.com/guitar-string-gauges-guide/">guitar strings</a> definitely fits on this list.</p>
+<p>There are other ones like <strong>Stevie Ray</strong> playing super heavy string gauges. Myths usually start with a bit of truth, that gets blown out of proportion. Expensive <a data-lasso-id="218954" href="/guitar-string-gauges-guide/">guitar strings</a> definitely fits on this list.</p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>But the more expensive guitar strings these days are made by major brands like <a href="https://www.electrikjam.com/10-52-ernie-ball-strings/" data-type="lasso-urls" data-id="7412" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="174783" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom"><strong>Ernie Ball</strong></a>, <strong><a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" data-type="post" data-id="3389" target="_blank" rel="noopener" data-lasso-id="174784">D&#8217;Addario</a></strong>, and<a href="https://www.electrikjam.com/guitar-center-pxf-io-7mo4d5/" data-type="lasso-urls" data-id="5504" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="174785" data-lasso-name="Elixir Nanoweb Strings"><strong> Elixir</strong></a>. These are brands that have a long heritage, and are trusted by guitarists. Elixir Strings have been in the expensive guitar strings game for a LONG time, and were one of the first. </p>
+<p>But the more expensive guitar strings these days are made by major brands like <a href="/10-52-ernie-ball-strings/" data-type="lasso-urls" data-id="7412" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="174783" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom"><strong>Ernie Ball</strong></a>, <strong><a href="/the-3-best-strings-for-drop-c-tuning/" data-type="post" data-id="3389" target="_blank" rel="noopener" data-lasso-id="174784">D&#8217;Addario</a></strong>, and<a href="/guitar-center-pxf-io-7mo4d5/" data-type="lasso-urls" data-id="5504" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="174785" data-lasso-name="Elixir Nanoweb Strings"><strong> Elixir</strong></a>. These are brands that have a long heritage, and are trusted by guitarists. Elixir Strings have been in the expensive guitar strings game for a LONG time, and were one of the first. </p>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p>I have also tried these off and on over the years, but I wanted this to be a little more&#8230;<em>scientific</em>. I replaced my normal strings on three different <a class="wpil_keyword_link" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="218955" href="https://www.electrikjam.com/best-electric-guitars/">guitars</a> and tried the expensive guitar strings out while recording.</p>
+<p>I have also tried these off and on over the years, but I wanted this to be a little more&#8230;<em>scientific</em>. I replaced my normal strings on three different <a class="wpil_keyword_link" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="218955" href="/best-electric-guitars/">guitars</a> and tried the expensive guitar strings out while recording.</p>
 
 
 
@@ -282,7 +282,7 @@ seo:
 
 
 
-<p><strong>Guitar maintenance is just as important as your technique. </strong>Changing strings and <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246499">keeping your guitar neck in shape</a>, along with basic setups is part of being a guitarist. No matter what level you are at, knowing the basics of taking care of your guitar is<em> essential</em>.</p>
+<p><strong>Guitar maintenance is just as important as your technique. </strong>Changing strings and <a href="/parts-of-an-electric-guitar/" data-lasso-id="246499">keeping your guitar neck in shape</a>, along with basic setups is part of being a guitarist. No matter what level you are at, knowing the basics of taking care of your guitar is<em> essential</em>.</p>
 
 
 
@@ -384,7 +384,7 @@ seo:
 
 
 
-<p><strong>The Elixir Nano-Web set lasted me 6 weeks total. </strong>I used these on my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="174786"><strong>Schecter NJ Traditional</strong></a>, which is one of my most often used guitars! So for me, this would be <strong>worth the price</strong>, since this is double the time I usually get from my regular brand.</p>
+<p><strong>The Elixir Nano-Web set lasted me 6 weeks total. </strong>I used these on my <a href="/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="174786"><strong>Schecter NJ Traditional</strong></a>, which is one of my most often used guitars! So for me, this would be <strong>worth the price</strong>, since this is double the time I usually get from my regular brand.</p>
 
 
 
@@ -424,7 +424,7 @@ seo:
 
 
 
-<p>D&#8217;Addario has always been my second choice for strings if the store was out of Ernie Ball. They have always been reliable strings, and for <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="174787"><strong>7 string</strong></a> sets I found that they worked really well with my <a href="https://www.electrikjam.com/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener" data-lasso-id="174788"><strong>Ibanez</strong></a> guitars. <strong>I used them for 7 string guitars because D&#8217;Addario was the <em>only brand that made 7 string sets</em> in the 90&#8217;s and early 2000&#8217;s.</strong></p>
+<p>D&#8217;Addario has always been my second choice for strings if the store was out of Ernie Ball. They have always been reliable strings, and for <a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="174787"><strong>7 string</strong></a> sets I found that they worked really well with my <a href="/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener" data-lasso-id="174788"><strong>Ibanez</strong></a> guitars. <strong>I used them for 7 string guitars because D&#8217;Addario was the <em>only brand that made 7 string sets</em> in the 90&#8217;s and early 2000&#8217;s.</strong></p>
 
 
 
@@ -478,7 +478,7 @@ seo:
 
 
 
-<p>I put the NYXL set on my<strong><a href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="174789" data-lasso-name="Schecter Hellraiser FRS"> Schecter Hellraiser</a></strong> since it has a<strong> <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="174790">Floyd Rose</a> </strong>bridge. The whole NYXL claim is being tough, and I wanted to see if the claims held up. The NYXL set definitely held up its end of the bargain and since we are 2 for 3, it might be hard to make fun of expensive guitar strings from now on!</p>
+<p>I put the NYXL set on my<strong><a href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="174789" data-lasso-name="Schecter Hellraiser FRS"> Schecter Hellraiser</a></strong> since it has a<strong> <a href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="174790">Floyd Rose</a> </strong>bridge. The whole NYXL claim is being tough, and I wanted to see if the claims held up. The NYXL set definitely held up its end of the bargain and since we are 2 for 3, it might be hard to make fun of expensive guitar strings from now on!</p>
 
 
 
@@ -494,7 +494,7 @@ seo:
 
 
 
-<p>I then recorded with the same amp sim settings and same guitar with the NYXL set. Looking at the EQ graphic in my<a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="174791"> <strong>DAW</strong></a>, the NYXL set absolutely had more midrange and treble. But I didn&#8217;t even need the spectrograph to tell, since <em>my ears could hear it as well</em>. The midrange is slightly higher for sure, with more &#8220;punch&#8221; under high gain.</p>
+<p>I then recorded with the same amp sim settings and same guitar with the NYXL set. Looking at the EQ graphic in my<a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="174791"> <strong>DAW</strong></a>, the NYXL set absolutely had more midrange and treble. But I didn&#8217;t even need the spectrograph to tell, since <em>my ears could hear it as well</em>. The midrange is slightly higher for sure, with more &#8220;punch&#8221; under high gain.</p>
 
 
 
@@ -506,7 +506,7 @@ seo:
 
 
 
-<p>This is especially true when dealing with crunchy tones and high gain. My <a href="https://www.electrikjam.com/pxf-13/" data-type="lasso-urls" data-id="6655" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="174792" data-lasso-name="EVH 5150 Iconic Series 40W 1x12 Combo"><strong>EVH Iconic</strong></a> amp sounded absolutely amazing on the crunch channel. The string separation when playing big chords under high gain was <em>overwhelmingly </em>clearer. I had to turn down the treble on the amp at high volumes, something I almost <em>never</em> do.</p>
+<p>This is especially true when dealing with crunchy tones and high gain. My <a href="/pxf-13/" data-type="lasso-urls" data-id="6655" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="174792" data-lasso-name="EVH 5150 Iconic Series 40W 1x12 Combo"><strong>EVH Iconic</strong></a> amp sounded absolutely amazing on the crunch channel. The string separation when playing big chords under high gain was <em>overwhelmingly </em>clearer. I had to turn down the treble on the amp at high volumes, something I almost <em>never</em> do.</p>
 
 
 
@@ -582,7 +582,7 @@ seo:
 
 
 
-<p>The<a href="https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-rps-nickel-wound-electric-guitar-strings" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="174793"> <strong>RPS Technology</strong></a> means that the string is slightly reinforced in the ball end. There are extra winds at the end of the strings, so even though you cut the ball ends for a <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="174794"><strong>Floyd Rose</strong></a>, the reinforced sections remain. This is a smart idea, and on a more traditional bridge, like a <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="174795"><strong>Les Paul</strong></a>, you should <em>never</em> worry about breakage. Ernie Ball even back this up<strong> with a warranty</strong>.</p>
+<p>The<a href="https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-rps-nickel-wound-electric-guitar-strings" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="174793"> <strong>RPS Technology</strong></a> means that the string is slightly reinforced in the ball end. There are extra winds at the end of the strings, so even though you cut the ball ends for a <a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="174794"><strong>Floyd Rose</strong></a>, the reinforced sections remain. This is a smart idea, and on a more traditional bridge, like a <a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="174795"><strong>Les Paul</strong></a>, you should <em>never</em> worry about breakage. Ernie Ball even back this up<strong> with a warranty</strong>.</p>
 
 
 
@@ -594,7 +594,7 @@ seo:
 
 
 
-<p><strong>A note of caution:</strong> If you use any <a data-lasso-id="174796" data-lasso-name="Music Nomad String Fuel" href="https://www.electrikjam.com/guitar-center-pxf-io-do5103/" data-type="lasso-urls" data-id="6006" target="_blank" rel="nofollow sponsored noopener"><strong>Music Nomad</strong> </a>stuff or Fast-Fret on your strings, I <strong>would not</strong> use it with the Paradigm sets (Or Elixir for that matter). I used some Fast-Fret out of habit on my first set, and it <em>immediately</em> attracted gunk. <strong>The &#8220;Everlast&#8221; coating that is used in the manufacturing process makes these a<em> coated string</em>, whether Ernie Ball want to admit it or not.</strong></p>
+<p><strong>A note of caution:</strong> If you use any <a data-lasso-id="174796" data-lasso-name="Music Nomad String Fuel" href="/guitar-center-pxf-io-do5103/" data-type="lasso-urls" data-id="6006" target="_blank" rel="nofollow sponsored noopener"><strong>Music Nomad</strong> </a>stuff or Fast-Fret on your strings, I <strong>would not</strong> use it with the Paradigm sets (Or Elixir for that matter). I used some Fast-Fret out of habit on my first set, and it <em>immediately</em> attracted gunk. <strong>The &#8220;Everlast&#8221; coating that is used in the manufacturing process makes these a<em> coated string</em>, whether Ernie Ball want to admit it or not.</strong></p>
 
 
 
@@ -660,7 +660,7 @@ seo:
 <h3 class="rank-math-question ">Are coated guitar strings better?</h3>
 <div class="rank-math-answer ">
 
-<p>Some expensive guitar strings have a coating on them, like <a href="https://www.electrikjam.com/guitar-center-pxf-io-7mo4d5/" data-type="lasso-urls" data-id="5504" target="_blank" rel="noreferrer noopener"><strong>Elixir</strong></a> for example. These help combat the gunk that your fingers leave behind from natural skin oils and sweat. So if you have a problem with corrosion, then yes, they are definitely better for <em>you</em>.</p>
+<p>Some expensive guitar strings have a coating on them, like <a href="/guitar-center-pxf-io-7mo4d5/" data-type="lasso-urls" data-id="5504" target="_blank" rel="noreferrer noopener"><strong>Elixir</strong></a> for example. These help combat the gunk that your fingers leave behind from natural skin oils and sweat. So if you have a problem with corrosion, then yes, they are definitely better for <em>you</em>.</p>
 
 </div>
 </div>

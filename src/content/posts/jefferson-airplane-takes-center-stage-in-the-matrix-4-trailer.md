@@ -102,7 +102,7 @@ seo:
 
 
 
-<p>The OG Matrix film had one of the best soundtracks of any film in the 1990s, featuring <strong><a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-type="post" data-id="3419" data-lasso-id="2525">Deftones</a>, <a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" data-lasso-id="2526">Rage Against The Machine</a>, and Marilyn Manson</strong> to name just a few of the bangers on the soundtrack. Here’s the full list of songs from the original The Matrix film in 1099:</p>
+<p>The OG Matrix film had one of the best soundtracks of any film in the 1990s, featuring <strong><a href="/deftones-songs-in-drop-d-a-complete-list/" data-type="post" data-id="3419" data-lasso-id="2525">Deftones</a>, <a href="/fender/" data-type="page" data-id="3818" data-lasso-id="2526">Rage Against The Machine</a>, and Marilyn Manson</strong> to name just a few of the bangers on the soundtrack. Here’s the full list of songs from the original The Matrix film in 1099:</p>
 
 
 
@@ -110,5 +110,5 @@ seo:
 
 
 
-<p>I wonder which <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2794">modern metal bands</a> will make it into The Matrix 4’s soundtrack? </p>
+<p>I wonder which <a href="/90s-metal-bands/" data-lasso-id="2794">modern metal bands</a> will make it into The Matrix 4’s soundtrack? </p>
 

@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>So far, we have been pretty impressed with all the new things they are doing at Cort Guitars these days. We already <a href="https://www.electrikjam.com/cort-guitars-a-wonderful-high-quality-brand/" class="rank-math-link" data-lasso-id="709">took a look at the complete lineup for 2021</a>&#8230; or so we thought!</p>
+<p>So far, we have been pretty impressed with all the new things they are doing at Cort Guitars these days. We already <a href="/cort-guitars-a-wonderful-high-quality-brand/" class="rank-math-link" data-lasso-id="709">took a look at the complete lineup for 2021</a>&#8230; or so we thought!</p>
 
 
 
@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>But the one&#8217;s that really caught my eye are the new Cort Multi-Scale models, made for Metal. I also really love the <strong><a class="rank-math-link" href="https://www.electrikjam.com/matt-bellamy-guitar-cort-manson-mbc-1/" data-lasso-id="710">now-$600 Cort Manson MBC-1</a></strong> – that thing is killer and super affordable. </p>
+<p>But the one&#8217;s that really caught my eye are the new Cort Multi-Scale models, made for Metal. I also really love the <strong><a class="rank-math-link" href="/matt-bellamy-guitar-cort-manson-mbc-1/" data-lasso-id="710">now-$600 Cort Manson MBC-1</a></strong> – that thing is killer and super affordable. </p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>But that isn&#8217;t what Cort is going for with these new Multi-Scale models. With premium features like Burl Wood tops, extra contours, and <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="711">Fishman Pickups..</a>. these are definitely made for METAL.</p>
+<p>But that isn&#8217;t what Cort is going for with these new Multi-Scale models. With premium features like Burl Wood tops, extra contours, and <a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="711">Fishman Pickups..</a>. these are definitely made for METAL.</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>Maple/ Ash Top</strong></li><li><strong>Roasted Maple Neck</strong></li><li><strong>Fishman Fluence Humbuckers</strong></li><li><strong>24 Frets</strong></li><li><strong>24.75&#8243;- 25.5&#8243; Scale Length, Multi-Scale</strong></li><li><a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246475"><strong>Locking Tuners</strong></a></li><li><strong>Spokewheel Truss Rod</strong></li><li><strong>3 Way Toggle Switch</strong></li><li><strong>Push Pull Controls</strong></li><li><strong>Stainless Steel Frets</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>Maple/ Ash Top</strong></li><li><strong>Roasted Maple Neck</strong></li><li><strong>Fishman Fluence Humbuckers</strong></li><li><strong>24 Frets</strong></li><li><strong>24.75&#8243;- 25.5&#8243; Scale Length, Multi-Scale</strong></li><li><a href="/parts-of-an-electric-guitar/" data-lasso-id="246475"><strong>Locking Tuners</strong></a></li><li><strong>Spokewheel Truss Rod</strong></li><li><strong>3 Way Toggle Switch</strong></li><li><strong>Push Pull Controls</strong></li><li><strong>Stainless Steel Frets</strong></li></ul>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<p>We also get a look at the contours, and it looks like Cort has <a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" data-lasso-id="12843">taken a few points from Schecter</a> with the design of the back of the Cort Multi-Scale X700. The back is lightly stained Mahogany, and it looks great:</p>
+<p>We also get a look at the contours, and it looks like Cort has <a href="/schecter-demon-6-worth-it-specs-price/" data-lasso-id="12843">taken a few points from Schecter</a> with the design of the back of the Cort Multi-Scale X700. The back is lightly stained Mahogany, and it looks great:</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<p>If that is what you after, and you plan on<a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="712"> tuning lower than say.</a>.. <a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-lasso-id="86087">D standard</a>, I do not think the Cort X700 is going to be for you. But that&#8217;s exactly why they gave you another option, with the 7 string.</p>
+<p>If that is what you after, and you plan on<a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="712"> tuning lower than say.</a>.. <a href="/bands-that-play-in-d-standard/" data-lasso-id="86087">D standard</a>, I do not think the Cort X700 is going to be for you. But that&#8217;s exactly why they gave you another option, with the 7 string.</p>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<p><strong>Now it’s back with modern updates and a new name, the KX507 Multi Scale. This seven-string beast is now equipped with the multi-voiced <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="714">Fishman® Fluence Modern Humbucker set</a>, enabling the KX507 Multi Scale to explore further into limitless possibilities in the tonal spectrum. &#8220;</strong></p>
+<p><strong>Now it’s back with modern updates and a new name, the KX507 Multi Scale. This seven-string beast is now equipped with the multi-voiced <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="714">Fishman® Fluence Modern Humbucker set</a>, enabling the KX507 Multi Scale to explore further into limitless possibilities in the tonal spectrum. &#8220;</strong></p>
 
 
 
@@ -178,11 +178,11 @@ seo:
 
 
 
-<p><strong>OK, Now we&#8217;re talking!</strong> This is how you do Multi-Scale guitars. The bass side is a baritone scale length at 27&#8221; for low tunings, while the treble is standard length. Go as low as you want with this guitar. You could probably easily tune the bass side down to F# without any fuss. Negating <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="715">the need for an 8 string</a>, for some people.</p>
+<p><strong>OK, Now we&#8217;re talking!</strong> This is how you do Multi-Scale guitars. The bass side is a baritone scale length at 27&#8221; for low tunings, while the treble is standard length. Go as low as you want with this guitar. You could probably easily tune the bass side down to F# without any fuss. Negating <a href="/types-of-guitars-guide/" data-lasso-id="715">the need for an 8 string</a>, for some people.</p>
 
 
 
-<p>Both models have a bolt-on neck, and some people seem to prefer that for <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218844">prog-metal, like  Periphery.</a>  Personally, I agree with this. The sound is a little &#8220;snappier&#8221; on a bolt-on guitar. I won&#8217;t claim to know the science behind that, but I <em>feel</em> like it&#8217;s true. I wish we could test this theory&#8230;</p>
+<p>Both models have a bolt-on neck, and some people seem to prefer that for <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218844">prog-metal, like  Periphery.</a>  Personally, I agree with this. The sound is a little &#8220;snappier&#8221; on a bolt-on guitar. I won&#8217;t claim to know the science behind that, but I <em>feel</em> like it&#8217;s true. I wish we could test this theory&#8230;</p>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<p>For a classy looking multi-scale, this checks all the boxes for me. I think Cort Guitars could easily rival some other brands, <a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="716">like Ibanez</a>, who have omitted fan-fret instruments from their current 2021 lineup. In fact, this was my main complaint with <a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="717">Ibanez</a> this year.</p>
+<p>For a classy looking multi-scale, this checks all the boxes for me. I think Cort Guitars could easily rival some other brands, <a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="716">like Ibanez</a>, who have omitted fan-fret instruments from their current 2021 lineup. In fact, this was my main complaint with <a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="717">Ibanez</a> this year.</p>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<p>I certainly hope so! Right now, the only major brands that make decent production multi-scale instruments are either Kiesel, or <a href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" data-lasso-id="718">Schecter</a>. There may be more, but they are lesser known&#8230; Just like Cort.</p>
+<p>I certainly hope so! Right now, the only major brands that make decent production multi-scale instruments are either Kiesel, or <a href="/new-schecter-red-reign-e-series-2021/" data-lasso-id="718">Schecter</a>. There may be more, but they are lesser known&#8230; Just like Cort.</p>
 
 
 

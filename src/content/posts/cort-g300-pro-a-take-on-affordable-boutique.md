@@ -40,15 +40,15 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="801">Cort has been absolutely on fire this year.</a> While the famous factory is mostly known for making products for other companies, Cort has always had a full line of guitars under its own brand name. Unfortunately, up until this past year, Cort has flown under the radar.</p>
+<p><a href="/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="801">Cort has been absolutely on fire this year.</a> While the famous factory is mostly known for making products for other companies, Cort has always had a full line of guitars under its own brand name. Unfortunately, up until this past year, Cort has flown under the radar.</p>
 
 
 
-<p>Unless you missed its <strong><a class="rank-math-link" href="https://www.electrikjam.com/matt-bellamy-guitar-cort-manson-mbc-1/" data-lasso-id="802">Matt Bellamy Signature guitar. </a></strong></p>
+<p>Unless you missed its <strong><a class="rank-math-link" href="/matt-bellamy-guitar-cort-manson-mbc-1/" data-lasso-id="802">Matt Bellamy Signature guitar. </a></strong></p>
 
 
 
-<p>Cort makes some seriously sleek instruments, and the new Cort G300 is no exception. But while most of <a href="https://www.electrikjam.com/cort-guitars-a-wonderful-high-quality-brand/" data-lasso-id="5751">Cort&#8217;s designs lean toward to modern features</a>, the G300 is going back to the basics.</p>
+<p>Cort makes some seriously sleek instruments, and the new Cort G300 is no exception. But while most of <a href="/cort-guitars-a-wonderful-high-quality-brand/" data-lasso-id="5751">Cort&#8217;s designs lean toward to modern features</a>, the G300 is going back to the basics.</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<p>The past decade we have seen super-strat after super-strat get released and I think it really gave the market some fatigue. There&#8217;s nothing wrong with a good <a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="804">Ibanez</a>, but sometimes you want something just a little less flashy. More&#8230;utilitarian.</p>
+<p>The past decade we have seen super-strat after super-strat get released and I think it really gave the market some fatigue. There&#8217;s nothing wrong with a good <a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="804">Ibanez</a>, but sometimes you want something just a little less flashy. More&#8230;utilitarian.</p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<p><em>Features include a top-grade American Basswood body with 6mm (1/4”) maple top, roasted maple neck and fretboard with Luminlay side dot inlays, stainless steel frets, and two <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7446">Seymour Duncan® humbuckers</a> that are paired with our 5-way pickup selector for excellent versatility in tone making. </em></p>
+<p><em>Features include a top-grade American Basswood body with 6mm (1/4”) maple top, roasted maple neck and fretboard with Luminlay side dot inlays, stainless steel frets, and two <a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7446">Seymour Duncan® humbuckers</a> that are paired with our 5-way pickup selector for excellent versatility in tone making. </em></p>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>American Basswood Body with Maple Cap</strong></li><li><strong>Bolt On Construction</strong></li><li><strong>Roasted Maple Neck/Fretboard</strong></li><li><strong>Stainless Frets</strong></li><li><strong>Compound Radius 12-16</strong></li><li><strong>24 Frets</strong></li><li><strong>Cort </strong><a href="https://www.electrikjam.com/what-are-locking-tuners/" data-lasso-id="28680">Locking Tuners</a></li><li><strong>Seymour Duncan® SH2N &amp; TB4 Humbucker Set</strong></li><li><strong>5 Way switch</strong></li><li><strong>Cort CFA Tremolo System</strong></li><li><strong>Graphtech TUSQ Nut</strong></li><li><strong>Lumenlay Side Dots</strong></li><li><strong>Spokewheel Truss Rod</strong></li></ul>
+<ul class="wp-block-list"><li><strong>American Basswood Body with Maple Cap</strong></li><li><strong>Bolt On Construction</strong></li><li><strong>Roasted Maple Neck/Fretboard</strong></li><li><strong>Stainless Frets</strong></li><li><strong>Compound Radius 12-16</strong></li><li><strong>24 Frets</strong></li><li><strong>Cort </strong><a href="/what-are-locking-tuners/" data-lasso-id="28680">Locking Tuners</a></li><li><strong>Seymour Duncan® SH2N &amp; TB4 Humbucker Set</strong></li><li><strong>5 Way switch</strong></li><li><strong>Cort CFA Tremolo System</strong></li><li><strong>Graphtech TUSQ Nut</strong></li><li><strong>Lumenlay Side Dots</strong></li><li><strong>Spokewheel Truss Rod</strong></li></ul>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p><strong>Roasted Maple</strong> has become <em>The New Black</em> apparently, and I am okay with that! Almost <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14320">every company this past year released a few models</a> with roasted maple necks, and to be fair, it does make the wood a bit harder. Which means the neck will stay more stable. I also think it looks very pretty! The fact that roasted maple is fashionable, is just an added bonus to the Cort G300.</p>
+<p><strong>Roasted Maple</strong> has become <em>The New Black</em> apparently, and I am okay with that! Almost <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14320">every company this past year released a few models</a> with roasted maple necks, and to be fair, it does make the wood a bit harder. Which means the neck will stay more stable. I also think it looks very pretty! The fact that roasted maple is fashionable, is just an added bonus to the Cort G300.</p>
 
 
 

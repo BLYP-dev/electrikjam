@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>By the 1990&#8217;s, <a href="https://www.electrikjam.com/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229702">Guitar Center</a> was the largest music retailer in the country, offering public stock for the first time. Guitar center also began having exclusive deals with guitar manufacturers like the recent <a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="437">Epiphone Deals.</a></p>
+<p>By the 1990&#8217;s, <a href="/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229702">Guitar Center</a> was the largest music retailer in the country, offering public stock for the first time. Guitar center also began having exclusive deals with guitar manufacturers like the recent <a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="437">Epiphone Deals.</a></p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>I know <a href="https://www.electrikjam.com/guitar-center-black-friday-deals/" data-lasso-id="17541">Guitar Center</a> gets a lot of flack, but they are still a big company that allows you to view gear in person. They have thousands of employees across the nation that have lifetimes of experience when it comes to gear. I wish them the best going forward.</p>
+<p>I know <a href="/guitar-center-black-friday-deals/" data-lasso-id="17541">Guitar Center</a> gets a lot of flack, but they are still a big company that allows you to view gear in person. They have thousands of employees across the nation that have lifetimes of experience when it comes to gear. I wish them the best going forward.</p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

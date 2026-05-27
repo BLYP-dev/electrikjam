@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>If you grew up in the 1980s or earlier, and you like rock music, one of the first people you were likely exposed to is <a href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-lasso-id="103226">Jimi Hendrix</a>. The man redefined guitar for an entire generation of players. Everybody from <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="99485">Queens of The Stone Age to Jimmy Page</a></strong> owes a debt to Hendrix who, even by 2022’s standards, is still one of the most naturally gifted musicians to ever pick up a guitar.</p>
+<p>If you grew up in the 1980s or earlier, and you like rock music, one of the first people you were likely exposed to is <a href="/jimi-hendrix-guitar-pedals-guide/" data-lasso-id="103226">Jimi Hendrix</a>. The man redefined guitar for an entire generation of players. Everybody from <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="99485">Queens of The Stone Age to Jimmy Page</a></strong> owes a debt to Hendrix who, even by 2022’s standards, is still one of the most naturally gifted musicians to ever pick up a guitar.</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-1024x683.png" alt="Why Jimi Hendrix ONLY Played Fender Guitars" class="wp-image-7453" title="" srcset="/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-1024x683.png 1024w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-600x400.png 600w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-300x200.png 300w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-768x512.png 768w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>In order to get Jimi&#8217;s iconic sound, you&#8217;ll need two things: a Fender Strat and you&#8217;ll need to tune it down to Eb –&nbsp;AKA half a step down. This was <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101454">Jimi Hendrix&#8217;s guitar tuning of choice</a>. </strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-1024x683.png" alt="Why Jimi Hendrix ONLY Played Fender Guitars" class="wp-image-7453" title="" srcset="/wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-1024x683.png 1024w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-600x400.png 600w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-300x200.png 300w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars-768x512.png 768w, /wp-content/uploads/2022/03/Why-Jimi-Hendrix-ONLY-Played-Fender-Guitars.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>In order to get Jimi&#8217;s iconic sound, you&#8217;ll need two things: a Fender Strat and you&#8217;ll need to tune it down to Eb –&nbsp;AKA half a step down. This was <a href="/jimi-hendrix-guitar-tuning/" data-lasso-id="101454">Jimi Hendrix&#8217;s guitar tuning of choice</a>. </strong></figcaption></figure></div>
 
 
 
@@ -70,11 +70,11 @@ seo:
 
 
 
-<p>If you look back to when <a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216931">Hendrix was playing</a>, nearly all guitarists – save for The Beatles, who used Epiphone guitars – played Fender or Gibson guitars, usually either a Stratocaster, or an SG, a Les Paul, or a Telecaster. Semi-hollow models were popular too, like <strong><a data-lasso-id="99486" href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962">the Epiphone Casino and Gibson ES</a></strong>, but for rock music of the kind played by Hendrix, it was almost always a solid body guitar from Fender or Gibson.</p>
+<p>If you look back to when <a href="/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216931">Hendrix was playing</a>, nearly all guitarists – save for The Beatles, who used Epiphone guitars – played Fender or Gibson guitars, usually either a Stratocaster, or an SG, a Les Paul, or a Telecaster. Semi-hollow models were popular too, like <strong><a data-lasso-id="99486" href="/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962">the Epiphone Casino and Gibson ES</a></strong>, but for rock music of the kind played by Hendrix, it was almost always a solid body guitar from Fender or Gibson.</p>
 
 
 
-<p>But Hendrix, unlike <strong><a data-lasso-id="99487" href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-type="post" data-id="3320">Jimmy Page</a></strong> or Billy Gibbons from ZZ Top, is mostly known for playing a Fender Stratocaster, as well as <strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" data-lasso-id="103228">his innovative approach to pedal choice</a></strong>. Hendrix used Strats so much that they kind of became his thing. When I was little, I used to call Fender Strats, Jimi Hendrix’s guitar. The pairing of the two was iconic and produced some of the best music ever recorded. But did Jimi Hendrix favor Fender Strats over, say, a Gibson Les Paul?</p>
+<p>But Hendrix, unlike <strong><a data-lasso-id="99487" href="/jimmy-page-favorite-guitar/" data-type="post" data-id="3320">Jimmy Page</a></strong> or Billy Gibbons from ZZ Top, is mostly known for playing a Fender Stratocaster, as well as <strong><a href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" data-lasso-id="103228">his innovative approach to pedal choice</a></strong>. Hendrix used Strats so much that they kind of became his thing. When I was little, I used to call Fender Strats, Jimi Hendrix’s guitar. The pairing of the two was iconic and produced some of the best music ever recorded. But did Jimi Hendrix favor Fender Strats over, say, a Gibson Les Paul?</p>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<p>During his career, Hendrix has been known to play both Gibson SG and Gibson Fly V guitars. He even played a <strong><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="99488">Gibson Les Paul</a></strong> as well. And who can blame him? During his heyday, Hendrix was one of the biggest musicians on the planet. He would have been courted by all the big guitar brands, including Gibson.</p>
+<p>During his career, Hendrix has been known to play both Gibson SG and Gibson Fly V guitars. He even played a <strong><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="99488">Gibson Les Paul</a></strong> as well. And who can blame him? During his heyday, Hendrix was one of the biggest musicians on the planet. He would have been courted by all the big guitar brands, including Gibson.</p>
 
 
 
@@ -128,9 +128,9 @@ seo:
 
 
 
-<p>Jimi Hendrix changed music forever. He inspired many of the greats of today which ensures the man’s legacy lives on. Hendrix is also arguably one of the main reasons why the Strat is so popular and remains so today. And despite what you might think, you can use Fender guitars for metal too –&nbsp;check out our guide to <strong><a data-lasso-id="99490" href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532">The Best Fender Guitars For Metal</a></strong>.</p>
+<p>Jimi Hendrix changed music forever. He inspired many of the greats of today which ensures the man’s legacy lives on. Hendrix is also arguably one of the main reasons why the Strat is so popular and remains so today. And despite what you might think, you can use Fender guitars for metal too –&nbsp;check out our guide to <strong><a data-lasso-id="99490" href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532">The Best Fender Guitars For Metal</a></strong>.</p>
 
 
 
-<p>And, remember, if you cannot afford &#8220;Fender money&#8221;, you can always go with a cheaper alternative <strong><a href="https://www.electrikjam.com/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" data-lasso-id="101273" rel="nofollow noopener" target="_blank" data-lasso-name="Squier Bullet Stratocaster HSS">(like this amazing Squier Strat)</a></strong>. Don&#8217;t be put off by the Squier name either; modern Squier guitars are fantastic, packing excellent pickups and very good build quality <strong><a href="https://www.electrikjam.com/pxf-16/" data-type="lasso-urls" data-id="6723" data-lasso-id="101274" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Squier 40th Anniversary Stratocaster Gold Edition">(especially in the $300-and-over category)</a></strong></p>
+<p>And, remember, if you cannot afford &#8220;Fender money&#8221;, you can always go with a cheaper alternative <strong><a href="/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" data-lasso-id="101273" rel="nofollow noopener" target="_blank" data-lasso-name="Squier Bullet Stratocaster HSS">(like this amazing Squier Strat)</a></strong>. Don&#8217;t be put off by the Squier name either; modern Squier guitars are fantastic, packing excellent pickups and very good build quality <strong><a href="/pxf-16/" data-type="lasso-urls" data-id="6723" data-lasso-id="101274" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Squier 40th Anniversary Stratocaster Gold Edition">(especially in the $300-and-over category)</a></strong></p>
 

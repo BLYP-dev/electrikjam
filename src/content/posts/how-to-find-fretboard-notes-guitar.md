@@ -55,7 +55,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/what-are-locking-tuners/" data-lasso-id="28686">This guide</a> will show you <strong>A) how to quickly memorize the notes on your top and bottom string, B) how sharp notes work, C) how to find another note once you&#8217;ve located one note, and D) how to test yourself,</strong> so you&#8217;ve got it. </p>
+<p><a href="/what-are-locking-tuners/" data-lasso-id="28686">This guide</a> will show you <strong>A) how to quickly memorize the notes on your top and bottom string, B) how sharp notes work, C) how to find another note once you&#8217;ve located one note, and D) how to test yourself,</strong> so you&#8217;ve got it. </p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p>The first thing you need to know is how the notes on a guitar actually work –&nbsp;don’t worry, this guide will not feature ANY <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-lasso-id="102926">music theory</a>.</p>
+<p>The first thing you need to know is how the notes on a guitar actually work –&nbsp;don’t worry, this guide will not feature ANY <a href="/beginner-music-theory-for-guitarists/" data-lasso-id="102926">music theory</a>.</p>
 
 
 
@@ -89,7 +89,7 @@ seo:
 		
 
 
-<p>The notes on your guitar’s bottom string, <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142223">in standard tuning</a>, look like this:</p>
+<p>The notes on your guitar’s bottom string, <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142223">in standard tuning</a>, look like this:</p>
 
 
 
@@ -117,7 +117,7 @@ seo:
 
 
 
-<p>This means, with respect to the <a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12760">guitar fretboard</a>, if you’re playing an E on the bottom string, <strong>the next note IS NOT E# but F instead.</strong></p>
+<p>This means, with respect to the <a href="/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12760">guitar fretboard</a>, if you’re playing an E on the bottom string, <strong>the next note IS NOT E# but F instead.</strong></p>
 
 
 
@@ -165,15 +165,15 @@ seo:
 
 
 
-<p>From this fret, you can rock out with at the <strong><a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-type="post" data-id="2958" class="rank-math-link" data-lasso-id="1410">A-Minor pentatonic scale.</a></strong></p>
+<p>From this fret, you can rock out with at the <strong><a href="/how-hard-is-it-to-learn-guitar/" data-type="post" data-id="2958" class="rank-math-link" data-lasso-id="1410">A-Minor pentatonic scale.</a></strong></p>
 
 
 
-<p>Jimmy Page loves this spot, and so too do most <strong><a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" class="rank-math-link" data-lasso-id="1411">rock guitarists of note</a></strong>.</p>
+<p>Jimmy Page loves this spot, and so too do most <strong><a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" class="rank-math-link" data-lasso-id="1411">rock guitarists of note</a></strong>.</p>
 
 
 
-<p>The fifth fret is a great place to practice your <a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-lasso-id="127899">minor pentatonic scale</a> because it is mid-way down the guitar neck and isn’t too much of a stretch for your fingers.</p>
+<p>The fifth fret is a great place to practice your <a href="/theory-for-guitarists-the-minor-scale/" data-lasso-id="127899">minor pentatonic scale</a> because it is mid-way down the guitar neck and isn’t too much of a stretch for your fingers.</p>
 
 
 

@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>And <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265500">learning how to master your own music</a></strong>, using a simple to follow framework developed by someone that has been doing it for 20+ years (that&#8217;d be me), isn&#8217;t even that hard – it&#8217;s a process. </p>
+<p>And <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265500">learning how to master your own music</a></strong>, using a simple to follow framework developed by someone that has been doing it for 20+ years (that&#8217;d be me), isn&#8217;t even that hard – it&#8217;s a process. </p>
 
 
 
@@ -80,11 +80,11 @@ seo:
 
 
 
-<p>The most important tool for mastering is a <strong><a href="https://www.electrikjam.com/category/daws/daw-platforms/" data-lasso-id="265502">digital audio workstation (DAW)</a></strong>, and one of the best options out there is Reaper. </p>
+<p>The most important tool for mastering is a <strong><a href="/category/daws/daw-platforms/" data-lasso-id="265502">digital audio workstation (DAW)</a></strong>, and one of the best options out there is Reaper. </p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" data-lasso-id="265503">Reaper is a powerful, feature-rich DAW</a></strong> that is completely free to use, along with a wide variety of free plugins. </p>
+<p><strong><a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" data-lasso-id="265503">Reaper is a powerful, feature-rich DAW</a></strong> that is completely free to use, along with a wide variety of free plugins. </p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>By learning how to master your own music, you will not only develop a seriously bankable skill <strong>(take me: I charge $60 an hour for my mastering services)</strong>, but you&#8217;ll also save a ton of money in the process, as <a href="https://www.electrikjam.com/audio-mastering/" target="_blank" rel="noopener" data-lasso-id="265504">mastering can be expensive</a>.</p>
+<p>By learning how to master your own music, you will not only develop a seriously bankable skill <strong>(take me: I charge $60 an hour for my mastering services)</strong>, but you&#8217;ll also save a ton of money in the process, as <a href="/audio-mastering/" target="_blank" rel="noopener" data-lasso-id="265504">mastering can be expensive</a>.</p>
 
 
 
@@ -152,17 +152,17 @@ seo:
 
 
 
-<p>If you release your music on any platform, <a href="https://www.electrikjam.com/how-to-make-home-recordings-sound-professional/" target="_blank" rel="noopener" data-lasso-id="265505">making sure it sounds professional</a> is crucial for standing out in a crowded market. </p>
+<p>If you release your music on any platform, <a href="/how-to-make-home-recordings-sound-professional/" target="_blank" rel="noopener" data-lasso-id="265505">making sure it sounds professional</a> is crucial for standing out in a crowded market. </p>
 
 
 
-<p>While <a href="https://www.electrikjam.com/is-ai-mastering-worth-it/" target="_blank" rel="noopener" data-lasso-id="265506">AI mastering tools can be helpful</a>, they are not a substitute for learning the skills yourself.</p>
+<p>While <a href="/is-ai-mastering-worth-it/" target="_blank" rel="noopener" data-lasso-id="265506">AI mastering tools can be helpful</a>, they are not a substitute for learning the skills yourself.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/is-it-hard-to-learn-music-mastering-yes-heres-why/" target="_blank" rel="noopener" data-lasso-id="265507">Learning to master your own music can be challenging</a>, but it is a valuable skill that can benefit you throughout your music career. </p>
+<p><a href="/is-it-hard-to-learn-music-mastering-yes-heres-why/" target="_blank" rel="noopener" data-lasso-id="265507">Learning to master your own music can be challenging</a>, but it is a valuable skill that can benefit you throughout your music career. </p>
 
 
 
-<p>Whether you&#8217;re working on your own tracks or <a href="https://www.electrikjam.com/metal-music-mastering/" target="_blank" rel="noopener" data-lasso-id="265508">mastering metal music for clients</a>, having a deep understanding of the mastering process will help you create better-sounding recordings and take your music to the next level.</p>
+<p>Whether you&#8217;re working on your own tracks or <a href="/metal-music-mastering/" target="_blank" rel="noopener" data-lasso-id="265508">mastering metal music for clients</a>, having a deep understanding of the mastering process will help you create better-sounding recordings and take your music to the next level.</p>
 

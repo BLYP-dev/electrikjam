@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Combining elements of <a href="https://www.electrikjam.com/pallbearer-gear-guitars-guide/" data-lasso-id="106802">sludge metal, doom, metal</a>, and a lovely helping of blues, DOWN’s sound is as heavy as it gets. The first two albums also represent some of Phil Anselmo’s best work outside of <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104800">Pantera</a></strong>. But it has been a good long while since the band put out any new material; 2014 was the last we heard from the band with respect to a studio record with the second part in its two-part EP series.</p>
+<p>Combining elements of <a href="/pallbearer-gear-guitars-guide/" data-lasso-id="106802">sludge metal, doom, metal</a>, and a lovely helping of blues, DOWN’s sound is as heavy as it gets. The first two albums also represent some of Phil Anselmo’s best work outside of <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104800">Pantera</a></strong>. But it has been a good long while since the band put out any new material; 2014 was the last we heard from the band with respect to a studio record with the second part in its two-part EP series.</p>
 
 
 
@@ -79,12 +79,12 @@ seo:
 
 
 
-<p>When you have a band made up of members of <a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104802"><strong>Pantera</strong>, <strong>Corrosion of Conformity</strong>, <strong>EYEHATEGOD</strong>,</a> and <a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104803"><strong>GOATWHORE</strong></a>, there’s always going to be a lot of divergent and similar influences going on. Black Sabbath is an obvious example of a band each of these respective bands draws influence from, so I’d definitely expect a Sabbath tune to make the cut.</p>
+<p>When you have a band made up of members of <a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104802"><strong>Pantera</strong>, <strong>Corrosion of Conformity</strong>, <strong>EYEHATEGOD</strong>,</a> and <a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104803"><strong>GOATWHORE</strong></a>, there’s always going to be a lot of divergent and similar influences going on. Black Sabbath is an obvious example of a band each of these respective bands draws influence from, so I’d definitely expect a Sabbath tune to make the cut.</p>
 
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/New-DOWN-Album-1024x683.png" alt="New DOWN Album" class="wp-image-7852" title="" srcset="/wp-content/uploads/2022/04/New-DOWN-Album-1024x683.png 1024w, /wp-content/uploads/2022/04/New-DOWN-Album-600x400.png 600w, /wp-content/uploads/2022/04/New-DOWN-Album-300x200.png 300w, /wp-content/uploads/2022/04/New-DOWN-Album-768x512.png 768w, /wp-content/uploads/2022/04/New-DOWN-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>DOWN’s sound is as heavy as it gets. The first two albums also represent some of Phil Anselmo’s best work outside of <a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104804">Pantera</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/New-DOWN-Album-1024x683.png" alt="New DOWN Album" class="wp-image-7852" title="" srcset="/wp-content/uploads/2022/04/New-DOWN-Album-1024x683.png 1024w, /wp-content/uploads/2022/04/New-DOWN-Album-600x400.png 600w, /wp-content/uploads/2022/04/New-DOWN-Album-300x200.png 300w, /wp-content/uploads/2022/04/New-DOWN-Album-768x512.png 768w, /wp-content/uploads/2022/04/New-DOWN-Album.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>DOWN’s sound is as heavy as it gets. The first two albums also represent some of Phil Anselmo’s best work outside of <a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104804">Pantera</a></strong></figcaption></figure>
 			
 		
 

@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>I mean, 13 years is a very long time. <strong><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="104778">Jimi Hendrix only played guitar&nbsp;for 12 years</a></strong>. He started when he was 15 and he died at 27. That’s 12 years. But Jones had 13 years off between TOOL records, so he had plenty of time to develop his skills.</p>
+<p>I mean, 13 years is a very long time. <strong><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="104778">Jimi Hendrix only played guitar&nbsp;for 12 years</a></strong>. He started when he was 15 and he died at 27. That’s 12 years. But Jones had 13 years off between TOOL records, so he had plenty of time to develop his skills.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>But there are tidbits and slithers of information here and there if you choose to do some digging. As a guitarist myself, I’m always interested in how other, infinitely more talented guitarists practice and develop their playing. I’m a huge TOOL fan, so I was obviously keen to find out how <a href="https://www.electrikjam.com/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="110995">Adam Jones</a> practices guitar during the expanses between TOOL albums.</p>
+<p>But there are tidbits and slithers of information here and there if you choose to do some digging. As a guitarist myself, I’m always interested in how other, infinitely more talented guitarists practice and develop their playing. I’m a huge TOOL fan, so I was obviously keen to find out how <a href="/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="110995">Adam Jones</a> practices guitar during the expanses between TOOL albums.</p>
 
 
 
@@ -83,11 +83,11 @@ seo:
 
 
 
-<p>What’s the moral of the story here? Simple: even the <strong><a href="https://www.electrikjam.com/adam-jones-names-the-guitarists-that-influenced-him-most/" data-type="post" data-id="5098" data-lasso-id="104781">greats like Adam Jones</a></strong> still look up to other guitarists. In this context, Kirk Hammett of Metallica. And because Jones is in a position where he regularly rubs shoulders with some of the greatest guitarists currently working the earth, he likely has loads of additional practice routines he’s picked up while on the road playing shows.</p>
+<p>What’s the moral of the story here? Simple: even the <strong><a href="/adam-jones-names-the-guitarists-that-influenced-him-most/" data-type="post" data-id="5098" data-lasso-id="104781">greats like Adam Jones</a></strong> still look up to other guitarists. In this context, Kirk Hammett of Metallica. And because Jones is in a position where he regularly rubs shoulders with some of the greatest guitarists currently working the earth, he likely has loads of additional practice routines he’s picked up while on the road playing shows.</p>
 
 
 
-<p>Hammett plays lead in Metallica obviously, so it is interesting that Jones –&nbsp;predominantly known as a rhythm guitarist, although his leads, while simple, are utterly iconic –&nbsp;works a lot on his speed and dexterity. Doing runs up and down the guitar neck, at varying speeds, is a great way of improving your precision and overall technique. Add in some <strong><a href="https://www.electrikjam.com/guitar-muting-techniques/" data-type="post" data-id="6767" data-lasso-id="104782">advanced muting techniques</a></strong> and you’ve got yourself one hell of a workout for your hands and mind.</p>
+<p>Hammett plays lead in Metallica obviously, so it is interesting that Jones –&nbsp;predominantly known as a rhythm guitarist, although his leads, while simple, are utterly iconic –&nbsp;works a lot on his speed and dexterity. Doing runs up and down the guitar neck, at varying speeds, is a great way of improving your precision and overall technique. Add in some <strong><a href="/guitar-muting-techniques/" data-type="post" data-id="6767" data-lasso-id="104782">advanced muting techniques</a></strong> and you’ve got yourself one hell of a workout for your hands and mind.</p>
 
 
 
@@ -95,5 +95,5 @@ seo:
 
 
 
-<p>Interested in sounding more like Adam Jones? Find out <strong><a href="https://www.electrikjam.com/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="104783">what pickups Adam Jones uses</a></strong> to dial in his tone on TOOL records and when the band plays live. We also have a post on <strong><a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="104784">Adam Jones’ –&nbsp;potentially incoming –&nbsp;Epiphone Les Paul model</a></strong>. This guitar has been rumored for ages now, but we’re hoping for a release at some point before the end of 2022…</p>
+<p>Interested in sounding more like Adam Jones? Find out <strong><a href="/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="104783">what pickups Adam Jones uses</a></strong> to dial in his tone on TOOL records and when the band plays live. We also have a post on <strong><a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="104784">Adam Jones’ –&nbsp;potentially incoming –&nbsp;Epiphone Les Paul model</a></strong>. This guitar has been rumored for ages now, but we’re hoping for a release at some point before the end of 2022…</p>
 

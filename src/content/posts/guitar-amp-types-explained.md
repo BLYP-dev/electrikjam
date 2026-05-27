@@ -47,11 +47,11 @@ seo:
 
 
 
-<p>When the <a data-lasso-id="149285" href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener"><strong>electric guitar was first invented</strong></a>, there were only a few different types of amplifiers. Technology was limited to vacuum tubes, and there were no real &#8220;blueprints&#8221; for guitar amps. Solid state amps would make an appearance later, but the early amplifiers were all <em>very</em> similar.</p>
+<p>When the <a data-lasso-id="149285" href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener"><strong>electric guitar was first invented</strong></a>, there were only a few different types of amplifiers. Technology was limited to vacuum tubes, and there were no real &#8220;blueprints&#8221; for guitar amps. Solid state amps would make an appearance later, but the early amplifiers were all <em>very</em> similar.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="152384"><strong>Leo Fender</strong></a> would go on to blaze trails when it came to <a data-lasso-id="149286" href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-type="post" data-id="8712" target="_blank" rel="noopener"><strong>amp design</strong></a>. Fender really pushed the limits of what an amplifier could do throughout the 1950&#8217;s. Just a few years later over in Britain, <a data-lasso-id="149287" href="https://en.wikipedia.org/wiki/Marshall_Amplification" target="_blank" rel="noopener noreferrer nofollow"><strong>Jim Marshall</strong></a> was pushing guitar amp types <em>even further</em>. By the late 60&#8217;s guitar amps were bigger, and louder!</p>
+<p><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="152384"><strong>Leo Fender</strong></a> would go on to blaze trails when it came to <a data-lasso-id="149286" href="/guitar-amp-controls-explained/" data-type="post" data-id="8712" target="_blank" rel="noopener"><strong>amp design</strong></a>. Fender really pushed the limits of what an amplifier could do throughout the 1950&#8217;s. Just a few years later over in Britain, <a data-lasso-id="149287" href="https://en.wikipedia.org/wiki/Marshall_Amplification" target="_blank" rel="noopener noreferrer nofollow"><strong>Jim Marshall</strong></a> was pushing guitar amp types <em>even further</em>. By the late 60&#8217;s guitar amps were bigger, and louder!</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>The 2000&#8217;s have seen a lot of amplifier trends as well, with the <a data-lasso-id="149288" href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener"><strong>Peavey 5150</strong></a> being the <em>most popular metal amp of all time</em>. If you listened to a metal album that was recorded between 1994 and the present day, chances are there was a 5150 involved in <em>some capacity</em>.</p>
+<p>The 2000&#8217;s have seen a lot of amplifier trends as well, with the <a data-lasso-id="149288" href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener"><strong>Peavey 5150</strong></a> being the <em>most popular metal amp of all time</em>. If you listened to a metal album that was recorded between 1994 and the present day, chances are there was a 5150 involved in <em>some capacity</em>.</p>
 
 
 
@@ -99,11 +99,11 @@ seo:
 
 
 
-<p>All amplifiers<em> basically</em> work the same, in theory. You plug your guitar up to the amp and the <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246466">guitar&#8217;s pickups</a> send a signal to the guitar amp. The <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-lasso-id="154617">guitar amp then amplifies</a> that signal from your guitar. The pickups are like your &#8220;microphone&#8221; for your guitar.</p>
+<p>All amplifiers<em> basically</em> work the same, in theory. You plug your guitar up to the amp and the <a href="/parts-of-an-electric-guitar/" data-lasso-id="246466">guitar&#8217;s pickups</a> send a signal to the guitar amp. The <a href="/choosing-a-guitar-amplifier/" data-lasso-id="154617">guitar amp then amplifies</a> that signal from your guitar. The pickups are like your &#8220;microphone&#8221; for your guitar.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" target="_blank" rel="noopener" data-lasso-id="152385"><strong>Humbuckers</strong></a> produce a thick, full sound. On the other hand, <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" target="_blank" rel="noopener" data-lasso-id="152386"><strong>single coil</strong></a> and <a href="https://www.electrikjam.com/p90-pickups-guide/" data-type="post" data-id="8654" target="_blank" rel="noopener" data-lasso-id="152387"><strong>P90 pickups</strong></a> produce a more brittle sound. <a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="152388"><strong>Active pickups</strong></a> use a preamp to color the signal of your guitar, or boost it, before it reaches the amp. All of this factors into the sound that your amp produces.</p>
+<p><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" target="_blank" rel="noopener" data-lasso-id="152385"><strong>Humbuckers</strong></a> produce a thick, full sound. On the other hand, <a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" target="_blank" rel="noopener" data-lasso-id="152386"><strong>single coil</strong></a> and <a href="/p90-pickups-guide/" data-type="post" data-id="8654" target="_blank" rel="noopener" data-lasso-id="152387"><strong>P90 pickups</strong></a> produce a more brittle sound. <a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="152388"><strong>Active pickups</strong></a> use a preamp to color the signal of your guitar, or boost it, before it reaches the amp. All of this factors into the sound that your amp produces.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Tube Amps</strong></li><li><strong>Solid State Amps</strong></li><li><strong><a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254840">Digital And Modeling Amps</a> </strong></li></ul>
+<ul class="wp-block-list"><li><strong>Tube Amps</strong></li><li><strong>Solid State Amps</strong></li><li><strong><a href="/neural-amp-modeler/" data-lasso-id="254840">Digital And Modeling Amps</a> </strong></li></ul>
 
 
 
@@ -139,11 +139,11 @@ seo:
 
 
 
-<p>But this is also the problem with tube amps. They really need to be loud to sound their best, and that is not always possible when <a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="152389"><strong>recording</strong></a> or practicing. Tube amps also require regular maintenance, and if you blow a tube during a show&#8230; then your amp is just dead in the water.</p>
+<p>But this is also the problem with tube amps. They really need to be loud to sound their best, and that is not always possible when <a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="152389"><strong>recording</strong></a> or practicing. Tube amps also require regular maintenance, and if you blow a tube during a show&#8230; then your amp is just dead in the water.</p>
 
 
 
-<p>So tube amps have some of the best sound quality, but they also require the most care and attention. They need to be loud to sound their best, so tube amps may not be a good fit for everyone. <a href="https://www.electrikjam.com/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176453">Low wattage tube amps</a> have become popular for this very reason, and some amps are as low as 1 watt.</p>
+<p>So tube amps have some of the best sound quality, but they also require the most care and attention. They need to be loud to sound their best, so tube amps may not be a good fit for everyone. <a href="/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176453">Low wattage tube amps</a> have become popular for this very reason, and some amps are as low as 1 watt.</p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p>Class AB solid state amps are a different story. These work a lot like the tube amp version, but the sound of the amp has much more fidelity. Class AB solid state amps have plenty of clean headroom, and they sound better than the Class D amps. <strong>The <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="152390">BOSS Katana</a> is a great example of a Class AB solid state amp.</strong> </p>
+<p>Class AB solid state amps are a different story. These work a lot like the tube amp version, but the sound of the amp has much more fidelity. Class AB solid state amps have plenty of clean headroom, and they sound better than the Class D amps. <strong>The <a href="/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="152390">BOSS Katana</a> is a great example of a Class AB solid state amp.</strong> </p>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<p>Some metal guitarists prefer solid state as well, like <strong>Dimebag</strong> from <a href="https://www.electrikjam.com/pantera-reunion-tour/" data-type="post" data-id="8463" target="_blank" rel="noopener" data-lasso-id="152391"><strong>Pantera</strong></a>. Likewise, people like Johnny Greenwood from <strong>Radiohead</strong> also prefers solid state amps for his clean tones. <strong>Metallica</strong> famously used Roland guitar amps to get clean tones on their early records on songs like &#8220;Sanitarium&#8221; and &#8220;One&#8221;. </p>
+<p>Some metal guitarists prefer solid state as well, like <strong>Dimebag</strong> from <a href="/pantera-reunion-tour/" data-type="post" data-id="8463" target="_blank" rel="noopener" data-lasso-id="152391"><strong>Pantera</strong></a>. Likewise, people like Johnny Greenwood from <strong>Radiohead</strong> also prefers solid state amps for his clean tones. <strong>Metallica</strong> famously used Roland guitar amps to get clean tones on their early records on songs like &#8220;Sanitarium&#8221; and &#8220;One&#8221;. </p>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<p><strong>The same companies listed above that make tube amps <em>also</em> make solid state amps.</strong> These are usually in the <a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="152392"><strong>budget category</strong></a> for those big brands, and the solid state versions mimic the tube amp counterparts. <strong>The exception to this is Roland/BOSS, as they ONLY make solid state amps.</strong></p>
+<p><strong>The same companies listed above that make tube amps <em>also</em> make solid state amps.</strong> These are usually in the <a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="152392"><strong>budget category</strong></a> for those big brands, and the solid state versions mimic the tube amp counterparts. <strong>The exception to this is Roland/BOSS, as they ONLY make solid state amps.</strong></p>
 
 
 
@@ -223,15 +223,15 @@ seo:
 
 
 
-<p>Out of the three guitar amp types, digital technology is the newest. Modeling technology comes in several forms, and it may not always be a &#8220;traditional&#8221; amplifier. Companies like <a href="https://www.electrikjam.com/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="152393"><strong>Line 6</strong></a> have made modeling technology popular, and these guitar amp types are used by beginners and pros alike.</p>
+<p>Out of the three guitar amp types, digital technology is the newest. Modeling technology comes in several forms, and it may not always be a &#8220;traditional&#8221; amplifier. Companies like <a href="/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="152393"><strong>Line 6</strong></a> have made modeling technology popular, and these guitar amp types are used by beginners and pros alike.</p>
 
 
 
-<p>Modeling technology takes a real life amplifier, and tries to recreate the &#8220;feel&#8221; and sound of popular tube amps. But while <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="152394"><strong>Line 6</strong></a> and<a href="https://www.electrikjam.com/what-guitar-amps-do-meshuggah-use/" data-type="post" data-id="7561" target="_blank" rel="noopener" data-lasso-id="152395"> <strong>Kemper</strong></a> make physical hardware for modeling technology, other companies are completely digital!</p>
+<p>Modeling technology takes a real life amplifier, and tries to recreate the &#8220;feel&#8221; and sound of popular tube amps. But while <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="152394"><strong>Line 6</strong></a> and<a href="/what-guitar-amps-do-meshuggah-use/" data-type="post" data-id="7561" target="_blank" rel="noopener" data-lasso-id="152395"> <strong>Kemper</strong></a> make physical hardware for modeling technology, other companies are completely digital!</p>
 
 
 
-<p>These digital companies like <a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="152396"><strong>STL Tones</strong></a>, <a href="https://www.electrikjam.com/positive-grid-spark-mini-reviews-is-it-100-legit/" data-type="post" data-id="8274" target="_blank" rel="noopener" data-lasso-id="152397"><strong>Positive Grid</strong></a>,  and<strong> <a href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener" data-lasso-id="152398">Amplitube</a></strong> all make software for your computer. These computer based modelers can be used for practice or recording purposes. But more interestingly, they can also be used on the stage with an <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-type="post" data-id="4226" target="_blank" rel="noopener" data-lasso-id="152399"><strong>FRFR</strong></a> speaker setup. Your entire rig may consist of a guitar, your laptop, and an <a href="https://www.electrikjam.com/frfr-speaker-impedance-explained-understanding-the-basics/" data-lasso-id="218899">FRFR speaker</a>!</p>
+<p>These digital companies like <a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="152396"><strong>STL Tones</strong></a>, <a href="/positive-grid-spark-mini-reviews-is-it-100-legit/" data-type="post" data-id="8274" target="_blank" rel="noopener" data-lasso-id="152397"><strong>Positive Grid</strong></a>,  and<strong> <a href="/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener" data-lasso-id="152398">Amplitube</a></strong> all make software for your computer. These computer based modelers can be used for practice or recording purposes. But more interestingly, they can also be used on the stage with an <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-type="post" data-id="4226" target="_blank" rel="noopener" data-lasso-id="152399"><strong>FRFR</strong></a> speaker setup. Your entire rig may consist of a guitar, your laptop, and an <a href="/frfr-speaker-impedance-explained-understanding-the-basics/" data-lasso-id="218899">FRFR speaker</a>!</p>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<p>The downside to digital amps is they can get expensive.<a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="152400"> <strong>MOOER</strong></a>, NUX, and Line 6 also make budget modelers like the<a href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener" data-lasso-id="152401"> <strong>POD GO</strong></a>. But the flagship items like AxeFX, Helix, and <a href="https://www.electrikjam.com/guitar-center-pxf-io-orylvw/" target="_blank" data-type="lasso-urls" data-id="5896" rel="nofollow sponsored noopener" data-lasso-id="152402" data-lasso-name="Kemper Profiler Stage Amp"><strong>Kemper</strong></a> are all going to cost the same kind of money as a tube amp.</p>
+<p>The downside to digital amps is they can get expensive.<a href="/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="152400"> <strong>MOOER</strong></a>, NUX, and Line 6 also make budget modelers like the<a href="/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener" data-lasso-id="152401"> <strong>POD GO</strong></a>. But the flagship items like AxeFX, Helix, and <a href="/guitar-center-pxf-io-orylvw/" target="_blank" data-type="lasso-urls" data-id="5896" rel="nofollow sponsored noopener" data-lasso-id="152402" data-lasso-name="Kemper Profiler Stage Amp"><strong>Kemper</strong></a> are all going to cost the same kind of money as a tube amp.</p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p>There are plenty of <a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="152403"><strong>free and cheap</strong></a> modelers to try out if you are curious. Digital amp tech has come a <em>long way</em> in the last decade. Some modeling tech sounds just as good as the &#8220;real&#8221; thing to some guitarists.</p>
+<p>There are plenty of <a href="/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="152403"><strong>free and cheap</strong></a> modelers to try out if you are curious. Digital amp tech has come a <em>long way</em> in the last decade. Some modeling tech sounds just as good as the &#8220;real&#8221; thing to some guitarists.</p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p>The amplifier section of the amp is usually mounted to the top of the cabinet, with a speaker configuration below the amplifier section. This &#8220;all in one&#8221; solution has been around for a long time, and some of the<em> first</em> guitar amplifiers were combos. All of your <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" target="_blank" data-type="post" data-id="8712" rel="noopener" data-lasso-id="152404"><strong>amp controls</strong></a> are mounted to the speaker cabinet.</p>
+<p>The amplifier section of the amp is usually mounted to the top of the cabinet, with a speaker configuration below the amplifier section. This &#8220;all in one&#8221; solution has been around for a long time, and some of the<em> first</em> guitar amplifiers were combos. All of your <a href="/guitar-amp-controls-explained/" target="_blank" data-type="post" data-id="8712" rel="noopener" data-lasso-id="152404"><strong>amp controls</strong></a> are mounted to the speaker cabinet.</p>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<p>The combo amp is still the most popular of all the guitar amp types since the pros generally outweigh the cons. If you play a large stage environment (such as a festival) then your <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-lasso-id="155185">guitar amp will have a mic</a> in front of it anyway. So most combo amps have everything you need to<a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="152405"> <strong>play gigs</strong></a>, and record.</p>
+<p>The combo amp is still the most popular of all the guitar amp types since the pros generally outweigh the cons. If you play a large stage environment (such as a festival) then your <a href="/how-to-mic-a-guitar-amp/" data-lasso-id="155185">guitar amp will have a mic</a> in front of it anyway. So most combo amps have everything you need to<a href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="152405"> <strong>play gigs</strong></a>, and record.</p>
 
 
 
@@ -395,7 +395,7 @@ seo:
 
 
 
-<p>So if a 4&#215;12 setup is just too much for you to travel with, you can easily purchase a 2&#215;12 instead. It is also popular to <a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="152406"><strong>change out the speakers</strong></a> in a cabinet for a different sound. Some guitarists mix and match speaker types in a single cabinet.</p>
+<p>So if a 4&#215;12 setup is just too much for you to travel with, you can easily purchase a 2&#215;12 instead. It is also popular to <a href="/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="152406"><strong>change out the speakers</strong></a> in a cabinet for a different sound. Some guitarists mix and match speaker types in a single cabinet.</p>
 
 
 
@@ -403,7 +403,7 @@ seo:
 
 
 
-<p>With a stack, you are not limited to what kind of speaker setup you have. Guitarists like <strong><a href="https://www.electrikjam.com/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-type="post" data-id="7974" target="_blank" rel="noopener" data-lasso-id="152407">Adam Jones</a></strong> from <strong>TOOL</strong> likes to run his Marshall stack in &#8220;true stereo&#8221;. This means he has two 4&#215;12 cabinets on either side on the stage, making his stage sound <em>massive</em>.</p>
+<p>With a stack, you are not limited to what kind of speaker setup you have. Guitarists like <strong><a href="/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-type="post" data-id="7974" target="_blank" rel="noopener" data-lasso-id="152407">Adam Jones</a></strong> from <strong>TOOL</strong> likes to run his Marshall stack in &#8220;true stereo&#8221;. This means he has two 4&#215;12 cabinets on either side on the stage, making his stage sound <em>massive</em>.</p>
 
 
 
@@ -439,11 +439,11 @@ seo:
 
 
 
-<p>As we stated earlier, modeling technology is really catching on, and even big name artists have made the switch to digital. This has a lot of advantages over your traditional &#8220;amp rig&#8221;. All you need is your preferred amp modeler/processor and an<a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" target="_blank" rel="noopener" data-lasso-id="152408"> <strong>FRFR speaker</strong></a>.</p>
+<p>As we stated earlier, modeling technology is really catching on, and even big name artists have made the switch to digital. This has a lot of advantages over your traditional &#8220;amp rig&#8221;. All you need is your preferred amp modeler/processor and an<a href="/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" target="_blank" rel="noopener" data-lasso-id="152408"> <strong>FRFR speaker</strong></a>.</p>
 
 
 
-<p>Guitarists that run this kind of setup are looking to be as minimal as possible when it comes to actual size and stage footprint, but as versatile as possible when it comes to tones. Something like the<a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" target="_blank" data-type="post" data-id="4774" rel="noopener" data-lasso-id="152409"> <strong>Line 6 Helix</strong> </a>can be your ENTIRE rig if you are a little tech savvy!</p>
+<p>Guitarists that run this kind of setup are looking to be as minimal as possible when it comes to actual size and stage footprint, but as versatile as possible when it comes to tones. Something like the<a href="/is-line-6-helix-easy-to-use/" target="_blank" data-type="post" data-id="4774" rel="noopener" data-lasso-id="152409"> <strong>Line 6 Helix</strong> </a>can be your ENTIRE rig if you are a little tech savvy!</p>
 
 
 
@@ -455,7 +455,7 @@ seo:
 
 
 
-<p>The downside, of course, is the technology part. Not <a href="https://www.electrikjam.com/do-guitarists-know-every-scale/" data-lasso-id="216528">every guitarist</a> is going to want to program patches, and some players prefer the sound and feel of an actual amp on stage. Likewise, not every venue you play may be <em>ready</em> for your digital rig! Which means you will have to use the FRFR for the audience to hear you.</p>
+<p>The downside, of course, is the technology part. Not <a href="/do-guitarists-know-every-scale/" data-lasso-id="216528">every guitarist</a> is going to want to program patches, and some players prefer the sound and feel of an actual amp on stage. Likewise, not every venue you play may be <em>ready</em> for your digital rig! Which means you will have to use the FRFR for the audience to hear you.</p>
 
 
 

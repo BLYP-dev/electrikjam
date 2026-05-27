@@ -40,11 +40,11 @@ seo:
 
 
 
-<p>I suppose the first thing we can talk about is how Fishman differs from <a href="https://www.electrikjam.com/what-makes-an-electric-guitar-sound-good-the-theory-of-tone/" data-type="post" data-id="568" data-lasso-id="116">traditional pickups</a>. Fishman doesn&#8217;t use traditional wiring with copper winds like a traditional pickup. In fact, they use a sort of circuit board as the meat of the pickup.</p>
+<p>I suppose the first thing we can talk about is how Fishman differs from <a href="/what-makes-an-electric-guitar-sound-good-the-theory-of-tone/" data-type="post" data-id="568" data-lasso-id="116">traditional pickups</a>. Fishman doesn&#8217;t use traditional wiring with copper winds like a traditional pickup. In fact, they use a sort of circuit board as the meat of the pickup.</p>
 
 
 
-<p>This allows you to fine-tune the pickup&#8217;s sound quickly, and digitally. The onboard pre-amp is powered by a 9-volt battery. Just like other active-style pickups. Like most <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8165">active pickups</a>, they are virtually noiseless.</p>
+<p>This allows you to fine-tune the pickup&#8217;s sound quickly, and digitally. The onboard pre-amp is powered by a 9-volt battery. Just like other active-style pickups. Like most <a href="/what-are-active-pickups/" data-lasso-id="8165">active pickups</a>, they are virtually noiseless.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>But Fishman no doubt has its famous guitarist fans, mostly Metal artists. Why don&#8217;t we take a look at all of the artists that have made the <strong><a href="https://www.electrikjam.com/recommends/fishman-pickups/" data-lasso-id="117">switch to Fishman</a></strong> in the last two years or so:</p>
+<p>But Fishman no doubt has its famous guitarist fans, mostly Metal artists. Why don&#8217;t we take a look at all of the artists that have made the <strong><a href="/recommends/fishman-pickups/" data-lasso-id="117">switch to Fishman</a></strong> in the last two years or so:</p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><a data-lasso-id="2661" href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/"><strong>Matt Heafy (Trivium)</strong></a><strong> </strong></li><li><strong>Tosin Abasi</strong></li><li><strong>Willy Adler (Lamb of God)</strong></li><li><strong>Keith Merrow</strong></li><li><strong>Devin Townsend</strong></li><li><strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="5828">Steph Carpenter (Deftones)</a></strong></li><li><strong>Asking Alexandria</strong></li><li><strong>Matt Bellamy (Muse)</strong></li></ul>
+<ul class="wp-block-list"><li><a data-lasso-id="2661" href="/matt-heafy-epiphone-mkh-origins-les-paul/"><strong>Matt Heafy (Trivium)</strong></a><strong> </strong></li><li><strong>Tosin Abasi</strong></li><li><strong>Willy Adler (Lamb of God)</strong></li><li><strong>Keith Merrow</strong></li><li><strong>Devin Townsend</strong></li><li><strong><a href="/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="5828">Steph Carpenter (Deftones)</a></strong></li><li><strong>Asking Alexandria</strong></li><li><strong>Matt Bellamy (Muse)</strong></li></ul>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>I was never the super-critical guy, I’m not much for specs, but I like clean, full sounding pickups. <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251944">When I was first starting out, I was using a passive, overwound humbucker. And in 2000, when I started playing 7-string</a>, I used the active pickups that most people used at the time because they worked fine – simple as that. </strong></p><p><strong>I was introduced to them by my guitar tech, and I’ve been offered my own models multiple times in the past and they never really came to fruition. But we put them [Fluence] in, I jammed on them for 45 minutes and thought ‘these things are freaking great,’ I didn’t want to stop playing. Playing Voice 2 was like going back to my original overwound passives, which ironically are some of the same pickups that were used in creating the sounds for the Fluence.</strong></p><cite>Steph Carpenter in <a href="https://www.fishman.com/article/fishman-introduces-three-new-fluence-signature-series-pickup-sets/" data-lasso-id="5829" target="_blank" rel="noopener noreferrer nofollow">Fishman Press Release</a></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>I was never the super-critical guy, I’m not much for specs, but I like clean, full sounding pickups. <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251944">When I was first starting out, I was using a passive, overwound humbucker. And in 2000, when I started playing 7-string</a>, I used the active pickups that most people used at the time because they worked fine – simple as that. </strong></p><p><strong>I was introduced to them by my guitar tech, and I’ve been offered my own models multiple times in the past and they never really came to fruition. But we put them [Fluence] in, I jammed on them for 45 minutes and thought ‘these things are freaking great,’ I didn’t want to stop playing. Playing Voice 2 was like going back to my original overwound passives, which ironically are some of the same pickups that were used in creating the sounds for the Fluence.</strong></p><cite>Steph Carpenter in <a href="https://www.fishman.com/article/fishman-introduces-three-new-fluence-signature-series-pickup-sets/" data-lasso-id="5829" target="_blank" rel="noopener noreferrer nofollow">Fishman Press Release</a></cite></blockquote>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Voice 1</strong>: Modern Active Output. The ideal <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="118">active ceramic humbucker tone</a>. Crisp, searing crunch, tight bass with no mud, and a growl.</li><li><strong>Voice 2</strong>: Passive Dynamics. Organic, high output, passive ceramic tone. Superb distortion characteristics with Fluence dynamics and response.&nbsp;</li></ul>
+<ul class="wp-block-list"><li><strong>Voice 1</strong>: Modern Active Output. The ideal <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="118">active ceramic humbucker tone</a>. Crisp, searing crunch, tight bass with no mud, and a growl.</li><li><strong>Voice 2</strong>: Passive Dynamics. Organic, high output, passive ceramic tone. Superb distortion characteristics with Fluence dynamics and response.&nbsp;</li></ul>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>I have used the Fishman Fluence Modern set for about a year now. They have a home in my <a href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" data-lasso-id="119">Schecter guitar</a>. I have been a die-hard EMG pickup user for years now, so being a fan of actives already, Fishman should win me over pretty quick, right?</p>
+<p>I have used the Fishman Fluence Modern set for about a year now. They have a home in my <a href="/new-schecter-red-reign-e-series-2021/" data-lasso-id="119">Schecter guitar</a>. I have been a die-hard EMG pickup user for years now, so being a fan of actives already, Fishman should win me over pretty quick, right?</p>
 
 
 
@@ -140,23 +140,23 @@ seo:
 
 
 
-<p>Fishman did not win me over in the beginning. Mainly because they are voiced so differently than any pickup that I own. So with all of my &#8220;regular&#8221; settings on my <a data-lasso-id="120" href="https://www.electrikjam.com/boss-katana-50-reviews/">amp and pedalboard</a>, Fishman was very lackluster to my ears.</p>
+<p>Fishman did not win me over in the beginning. Mainly because they are voiced so differently than any pickup that I own. So with all of my &#8220;regular&#8221; settings on my <a data-lasso-id="120" href="/boss-katana-50-reviews/">amp and pedalboard</a>, Fishman was very lackluster to my ears.</p>
 
 
 
-<p>After trying several different settings, I found some usable tones from both voicings. But they sound very&#8230;sterile. The sound is a little too perfect to me. Even tuned down to <a data-lasso-id="121" href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/">B standard</a>, there is no&#8230;heaviness. No meat, or grind.</p>
+<p>After trying several different settings, I found some usable tones from both voicings. But they sound very&#8230;sterile. The sound is a little too perfect to me. Even tuned down to <a data-lasso-id="121" href="/d-standard-tuning-guide-how-to/">B standard</a>, there is no&#8230;heaviness. No meat, or grind.</p>
 
 
 
-<p>This works to Fishman&#8217;s advantage with the neck pickup. The lead tone with the Alnico neck is nice and fat. It reminds me of a <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="122">Les Paul</a> neck pickup with tone dialed back just a smidge. Add a little delay and reverb and you have a beautiful tone for a solo.</p>
+<p>This works to Fishman&#8217;s advantage with the neck pickup. The lead tone with the Alnico neck is nice and fat. It reminds me of a <a href="/types-of-guitars-guide/" data-lasso-id="122">Les Paul</a> neck pickup with tone dialed back just a smidge. Add a little delay and reverb and you have a beautiful tone for a solo.</p>
 
 
 
-<p>The bridge pickup I had to fight with. I tried it first through a <a href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/" data-lasso-id="123">loud tube amp</a> with the gain dialed in pretty high. It sounded just &#8216;okay&#8221; to me. I usually want a little bit more &#8220;growl&#8221; in my tone. Even with boost, and fuzz, I could not shake the &#8220;perfect&#8221; sound.</p>
+<p>The bridge pickup I had to fight with. I tried it first through a <a href="/the-best-guitar-amps-under-100-bucks/" data-lasso-id="123">loud tube amp</a> with the gain dialed in pretty high. It sounded just &#8216;okay&#8221; to me. I usually want a little bit more &#8220;growl&#8221; in my tone. Even with boost, and fuzz, I could not shake the &#8220;perfect&#8221; sound.</p>
 
 
 
-<p>I moved on to the <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="124">modeling amps and software</a> I own for my DAW. This is where Fishman totally failed me. I wish I could say that I got at least one tone that I could record with. But alas, I did not.</p>
+<p>I moved on to the <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="124">modeling amps and software</a> I own for my DAW. This is where Fishman totally failed me. I wish I could say that I got at least one tone that I could record with. But alas, I did not.</p>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p>The artist sets with other active <strong><a href="https://www.electrikjam.com/seymour-duncan-blackouts/" data-type="lasso-urls" data-id="4416" data-lasso-id="5830" rel="nofollow noopener" target="_blank" data-lasso-name="Seymour Duncan Blackouts">pickups like Seymour Duncan Blackout</a></strong> and EMG definitely sound better than their base model designs to me. </p>
+<p>The artist sets with other active <strong><a href="/seymour-duncan-blackouts/" data-type="lasso-urls" data-id="4416" data-lasso-id="5830" rel="nofollow noopener" target="_blank" data-lasso-name="Seymour Duncan Blackouts">pickups like Seymour Duncan Blackout</a></strong> and EMG definitely sound better than their base model designs to me. </p>
 
 
 

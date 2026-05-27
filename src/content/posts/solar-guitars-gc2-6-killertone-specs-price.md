@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>Priced well under $1000, the GC2.6 Killertone Jason Frankhouser signature model represents insane value for money. It ain&#8217;t a <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="267713">budget guitar</a></strong> by any stretch but it runs rings around most other $800 to $1000 electric guitars. </p>
+<p>Priced well under $1000, the GC2.6 Killertone Jason Frankhouser signature model represents insane value for money. It ain&#8217;t a <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="267713">budget guitar</a></strong> by any stretch but it runs rings around most other $800 to $1000 electric guitars. </p>
 
 
 

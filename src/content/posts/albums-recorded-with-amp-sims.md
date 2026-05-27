@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>Amp sims often spark heated debates among guitarists. Purists might scoff at digital emulations, swearing by the warmth and feel of tube amps. But here&#8217;s the kicker: some of your favorite records may have been <strong><a href="https://www.electrikjam.com/most-popular-amp-sims/" data-type="post" data-id="16551" data-lasso-id="271347">crafted using amp sims</a></strong>.</p>
+<p>Amp sims often spark heated debates among guitarists. Purists might scoff at digital emulations, swearing by the warmth and feel of tube amps. But here&#8217;s the kicker: some of your favorite records may have been <strong><a href="/most-popular-amp-sims/" data-type="post" data-id="16551" data-lasso-id="271347">crafted using amp sims</a></strong>.</p>
 
 
 
@@ -305,11 +305,11 @@ seo:
 
 
 
-<p>From Archetype plugins to <strong><a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="15466" data-lasso-id="271348">classic Line 6 gear</a></strong>, amp sims aren’t just for practice—they’re for serious studio work.</p>
+<p>From Archetype plugins to <strong><a href="/line-6/" data-type="page" data-id="15466" data-lasso-id="271348">classic Line 6 gear</a></strong>, amp sims aren’t just for practice—they’re for serious studio work.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/most-popular-amp-sims/" data-type="post" data-id="16551" data-lasso-id="271349">✅ Here&#8217;s the 8 best amp sims we recommend right now</a></strong></p>
+<p><strong><a href="/most-popular-amp-sims/" data-type="post" data-id="16551" data-lasso-id="271349">✅ Here&#8217;s the 8 best amp sims we recommend right now</a></strong></p>
 
 
 
@@ -317,7 +317,7 @@ seo:
 
 
 
-<p><strong>Fun Fact:</strong> Want to dive deeper into amp sims? Check out <a data-lasso-id="270419" href="https://www.electrikjam.com/stl-amphub-review/"><strong>this review of the STL Amphub</strong></a> to see why it’s a favorite among guitarists.</p>
+<p><strong>Fun Fact:</strong> Want to dive deeper into amp sims? Check out <a data-lasso-id="270419" href="/stl-amphub-review/"><strong>this review of the STL Amphub</strong></a> to see why it’s a favorite among guitarists.</p>
 
 
 

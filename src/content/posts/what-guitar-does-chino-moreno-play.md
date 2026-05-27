@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>Looking to pick up your first guitar? Make sure you check out our guide to the <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="243">best beginner guitars for 2020</a></strong>. </p>
+<p>Looking to pick up your first guitar? Make sure you check out our guide to the <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="243">best beginner guitars for 2020</a></strong>. </p>
 
 
 
@@ -62,15 +62,15 @@ seo:
 
 
 
-<p>In and around 2000, he started getting more serious with his guitar playing. He started off playing around with some of Steph’s guitars, but eventually settled on what he now uses – a 1996 <strong><a href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="1946">Gibson SG Standard</a></strong>.</p>
+<p>In and around 2000, he started getting more serious with his guitar playing. He started off playing around with some of Steph’s guitars, but eventually settled on what he now uses – a 1996 <strong><a href="/gibson-guitars/" data-lasso-id="1946">Gibson SG Standard</a></strong>.</p>
 
 
 
-<p>From 2000 onwards, Chino has contributed guitar parts to <a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="245">every Deftones album since White Pony</a>. He has a completely different style to Steph; it’s more ambient and chilled.</p>
+<p>From 2000 onwards, Chino has contributed guitar parts to <a href="/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="245">every Deftones album since White Pony</a>. He has a completely different style to Steph; it’s more ambient and chilled.</p>
 
 
 
-<p>Mellower albums like GORE were predominantly driven by Chino’s guitar parts, for instance, whereas heavier tracks and albums (like Around The Fur) are almost exclusively written and developed by <strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="246">Stephen Carpenter</a></strong> (either on his 8 or 9 string guitars).</p>
+<p>Mellower albums like GORE were predominantly driven by Chino’s guitar parts, for instance, whereas heavier tracks and albums (like Around The Fur) are almost exclusively written and developed by <strong><a href="/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="246">Stephen Carpenter</a></strong> (either on his 8 or 9 string guitars).</p>
 
 
 
@@ -78,11 +78,11 @@ seo:
 
 
 
-<p>In an interview, Chino noted that <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104011">ESP made him a custom Viper</a> guitar during pre-production of White Pony. ESP was and still is <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="247">Steph’s guitar brand of choice</a>. But Chino wasn’t content, he wanted the real-deal, so he went out and bought a <strong>Gibson SG Standard (1996)</strong>.</p>
+<p>In an interview, Chino noted that <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104011">ESP made him a custom Viper</a> guitar during pre-production of White Pony. ESP was and still is <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="247">Steph’s guitar brand of choice</a>. But Chino wasn’t content, he wanted the real-deal, so he went out and bought a <strong>Gibson SG Standard (1996)</strong>.</p>
 
 
 
-<p>Since then, the <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="248">Gibson SG Standard</a> has been Chino’s go-to guitar for all of his writing and live performances.</p>
+<p>Since then, the <a href="/types-of-guitars-guide/" data-lasso-id="248">Gibson SG Standard</a> has been Chino’s go-to guitar for all of his writing and live performances.</p>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<p>You can get the exact model <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Gibson SG Standard" href="https://www.electrikjam.com/recommends/gibson-sg-standard/" data-shortcode="true">HERE</a></strong>. </p>
+<p>You can get the exact model <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Gibson SG Standard" href="/recommends/gibson-sg-standard/" data-shortcode="true">HERE</a></strong>. </p>
 
 
 
@@ -98,11 +98,11 @@ seo:
 
 
 
-<p>Gibson has been making the SG since 1961 and while there have been <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Gibson SG Range (All Models)" href="https://www.electrikjam.com/recommends/gibson-sg-range-all-models/" data-shortcode="true">a number of new models</a></strong> introduced under the SG brand over the years, the SG Standard has remained largely unchanged.</p>
+<p>Gibson has been making the SG since 1961 and while there have been <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Gibson SG Range (All Models)" href="/recommends/gibson-sg-range-all-models/" data-shortcode="true">a number of new models</a></strong> introduced under the SG brand over the years, the SG Standard has remained largely unchanged.</p>
 
 
 
-<p>And rightly so, too! The <a href="https://www.electrikjam.com/what-guitar-does-tony-iommi-use-a-complete-overview/" data-lasso-id="254831">Gibson SG Standard is used by the likes of Tony Iommi</a><strong>, Angus Young, Derek Trucks, and Jeff Tweedy</strong>. And if it works for them, as well as Chino Moreno, then why mess with a winning formula, right?</p>
+<p>And rightly so, too! The <a href="/what-guitar-does-tony-iommi-use-a-complete-overview/" data-lasso-id="254831">Gibson SG Standard is used by the likes of Tony Iommi</a><strong>, Angus Young, Derek Trucks, and Jeff Tweedy</strong>. And if it works for them, as well as Chino Moreno, then why mess with a winning formula, right?</p>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<p>As you’d expect, the Gibson SG Standard is not cheap. You’re looking at anywhere from £900 on the used market to <strong><a href="https://www.electrikjam.com/recommends/gibson-sg-standard/" data-lasso-id="249">£1300 brand new</a></strong>. </p>
+<p>As you’d expect, the Gibson SG Standard is not cheap. You’re looking at anywhere from £900 on the used market to <strong><a href="/recommends/gibson-sg-standard/" data-lasso-id="249">£1300 brand new</a></strong>. </p>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<p>Gibson makes an <strong><a href="https://www.electrikjam.com/recommends/gibson-sg-range-all-models/" data-lasso-id="250">entire range of SG’s</a></strong>, so you have plenty of models to choose from, although if you do go the Gibson route, you will be paying top dollar for the guitar. </p>
+<p>Gibson makes an <strong><a href="/recommends/gibson-sg-range-all-models/" data-lasso-id="250">entire range of SG’s</a></strong>, so you have plenty of models to choose from, although if you do go the Gibson route, you will be paying top dollar for the guitar. </p>
 
 
 
@@ -130,11 +130,11 @@ seo:
 
 
 
-<p>My advice? If you want an SG-style guitar, but you cannot afford to pay four figures for one, <a href="https://www.electrikjam.com/epiphone-sg-colors/" data-lasso-id="3505">go with an Epiphone SG instead</a>.</p>
+<p>My advice? If you want an SG-style guitar, but you cannot afford to pay four figures for one, <a href="/epiphone-sg-colors/" data-lasso-id="3505">go with an Epiphone SG instead</a>.</p>
 
 
 
-<p>An Epiphone SG Standard will <strong><a href="https://www.electrikjam.com/recommends/epiphone-sg-standard/" data-lasso-id="251">set you back less than £500 </a></strong>in most cases. You get 22 frets on these models, Alnico Classic Pro humbuckers, 2x volume control, and 2x tone control knobs, making it an ideal choice for beginners or those that don’t need and/or want to spend the best part of a grand on a guitar.</p>
+<p>An Epiphone SG Standard will <strong><a href="/recommends/epiphone-sg-standard/" data-lasso-id="251">set you back less than £500 </a></strong>in most cases. You get 22 frets on these models, Alnico Classic Pro humbuckers, 2x volume control, and 2x tone control knobs, making it an ideal choice for beginners or those that don’t need and/or want to spend the best part of a grand on a guitar.</p>
 
 
 
@@ -144,7 +144,7 @@ https://www.youtube.com/watch?v=9m4dH8BR2Ik
 
 
 
-<p>We’re big fans of Epiphone here at ELECTRIKJAM, so if you’re more interested in value for money than brand names, we would always advise new players to <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="252">start with Epiphone models</a></strong> before dropping SERIOUS money on a similar Gibson model.</p>
+<p>We’re big fans of Epiphone here at ELECTRIKJAM, so if you’re more interested in value for money than brand names, we would always advise new players to <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="252">start with Epiphone models</a></strong> before dropping SERIOUS money on a similar Gibson model.</p>
 
 
 

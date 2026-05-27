@@ -62,27 +62,27 @@ seo:
 
 
 
-<p>The E1 Koa we are looking at today is in the upper echelon of the Diamond Series. That means this isn&#8217;t exactly a <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35976">budget guitar</a>. </p>
+<p>The E1 Koa we are looking at today is in the upper echelon of the Diamond Series. That means this isn&#8217;t exactly a <a href="/the-best-guitars-of-2021/" data-lasso-id="35976">budget guitar</a>. </p>
 
 
 
-<p>But these more expensive instruments mean more premium features right out of the box. Schecter already demonstrated in our <a href="https://www.electrikjam.com/best-guitars-for-metal/" data-type="post" data-id="906" data-lasso-id="289">&#8220;Best of&#8221; list </a>that they have the market cornered when it comes to quality. Only their sister company, <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104012">ESP</a> has a chance at competing in my opinion when it comes to &#8220;bang for your buck&#8221;.</p>
+<p>But these more expensive instruments mean more premium features right out of the box. Schecter already demonstrated in our <a href="/best-guitars-for-metal/" data-type="post" data-id="906" data-lasso-id="289">&#8220;Best of&#8221; list </a>that they have the market cornered when it comes to quality. Only their sister company, <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104012">ESP</a> has a chance at competing in my opinion when it comes to &#8220;bang for your buck&#8221;.</p>
 
 
 
-<p>These more expensive Diamond <a href="https://www.electrikjam.com/harley-benton-deluxe-series-guitars-review/" data-lasso-id="192583">Series guitars</a> are meant to bridge the gap between a standard model and their custom shop offerings. This is also where most of their &#8220;Artist&#8221; models reside, like <strong>Synyster Gates</strong>, <strong>Robert Smith</strong>, and <strong>Keith Merrow</strong>.</p>
+<p>These more expensive Diamond <a href="/harley-benton-deluxe-series-guitars-review/" data-lasso-id="192583">Series guitars</a> are meant to bridge the gap between a standard model and their custom shop offerings. This is also where most of their &#8220;Artist&#8221; models reside, like <strong>Synyster Gates</strong>, <strong>Robert Smith</strong>, and <strong>Keith Merrow</strong>.</p>
 
 
 
-<p>The E1 series is clearly <a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" data-lasso-id="12841">Schecter&#8217;s</a> take on the famous <strong>Explorer </strong>style. Over the years, many brands have taken the &#8220;Z&#8221; shape and made it their own&#8230; with a few tweaks.</p>
+<p>The E1 series is clearly <a href="/schecter-demon-6-worth-it-specs-price/" data-lasso-id="12841">Schecter&#8217;s</a> take on the famous <strong>Explorer </strong>style. Over the years, many brands have taken the &#8220;Z&#8221; shape and made it their own&#8230; with a few tweaks.</p>
 
 
 
-<p>To me, the E1 series has always looked like a combination between the <strong>Gibson Explorer</strong>, and the <a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="290">Ibanez Iceman/Destroyer</a>. Both guitars are angular and aggressive, with sharp corners and edges. Combine the two? You get the <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-lasso-id="40158">Schecter</a> E1 Series.</p>
+<p>To me, the E1 series has always looked like a combination between the <strong>Gibson Explorer</strong>, and the <a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="290">Ibanez Iceman/Destroyer</a>. Both guitars are angular and aggressive, with sharp corners and edges. Combine the two? You get the <a href="/schecter-nick-johnston-hss-review/" data-lasso-id="40158">Schecter</a> E1 Series.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44672">Schecter</a> has produced many E1 models over the past decade. The most popular models have probably been the <strong>Apocalypse </strong>model, or the<strong> E1 Custom</strong>. The recent <strong>SLS Elite</strong> series also comes in the E1 shape.</p>
+<p><a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44672">Schecter</a> has produced many E1 models over the past decade. The most popular models have probably been the <strong>Apocalypse </strong>model, or the<strong> E1 Custom</strong>. The recent <strong>SLS Elite</strong> series also comes in the E1 shape.</p>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<p><em>Look</em>, I get it. The Explorer shape is not for everyone. It&#8217;s big and bulky and a little cumbersome. But <a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="291">James Hetfield</a> still plays them right? <strong>Claudio Sanchez</strong> has used them for 20 years as well. There is something&#8230;sinister and mean about them. They just <em>look </em>Metal.</p>
+<p><em>Look</em>, I get it. The Explorer shape is not for everyone. It&#8217;s big and bulky and a little cumbersome. But <a href="/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="291">James Hetfield</a> still plays them right? <strong>Claudio Sanchez</strong> has used them for 20 years as well. There is something&#8230;sinister and mean about them. They just <em>look </em>Metal.</p>
 
 
 
@@ -106,11 +106,11 @@ seo:
 
 
 
-<p>Like most of Schecter&#8217;s upper-tier models, the E1 Koa comes loaded with premium features right out of the box. It also comes set up from the factory. Every <a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-lasso-id="158760">Schecter</a> I have owned came so well set up, I could have taken it out of the box and immediately to a stage!</p>
+<p>Like most of Schecter&#8217;s upper-tier models, the E1 Koa comes loaded with premium features right out of the box. It also comes set up from the factory. Every <a href="/schecter-omen-elite-2022-review/" data-lasso-id="158760">Schecter</a> I have owned came so well set up, I could have taken it out of the box and immediately to a stage!</p>
 
 
 
-<p>I have always loved this about the <a href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125520">more expensive Schecter models</a>, as I am not a person that tinkers too much. I like to have features already installed professionally, that I know I can count on from day one. I spent too many years customizing guitars, and never really being happy with the end result.</p>
+<p>I have always loved this about the <a href="/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125520">more expensive Schecter models</a>, as I am not a person that tinkers too much. I like to have features already installed professionally, that I know I can count on from day one. I spent too many years customizing guitars, and never really being happy with the end result.</p>
 
 
 
@@ -122,15 +122,15 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>2 Piece Koa Top</strong></li><li><strong>3 Piece Mahogany Neck</strong></li><li><strong>Ultra Access Neck Heel</strong></li><li><strong>C Shape Neck</strong></li><li><strong>Ernie Ball Compensated Nut</strong></li><li><strong>Block Inlays</strong></li><li><strong>Push/Pull Coil Tap</strong></li><li><strong>USA Custom Shop San Andreas Pickups</strong></li><li><strong>Tune-O-Matic bridge</strong></li><li><strong>Satin Finish and Hardware</strong></li><li><a href="https://www.electrikjam.com/what-are-locking-tuners/" data-lasso-id="28682"><strong>Locking Tuners</strong></a></li><li><strong>24.75 Scale Length</strong></li><li><strong>22 Frets</strong></li><li><strong>Rubber Grip Speed Knobs</strong></li><li><strong>Jumbo Frets</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>2 Piece Koa Top</strong></li><li><strong>3 Piece Mahogany Neck</strong></li><li><strong>Ultra Access Neck Heel</strong></li><li><strong>C Shape Neck</strong></li><li><strong>Ernie Ball Compensated Nut</strong></li><li><strong>Block Inlays</strong></li><li><strong>Push/Pull Coil Tap</strong></li><li><strong>USA Custom Shop San Andreas Pickups</strong></li><li><strong>Tune-O-Matic bridge</strong></li><li><strong>Satin Finish and Hardware</strong></li><li><a href="/what-are-locking-tuners/" data-lasso-id="28682"><strong>Locking Tuners</strong></a></li><li><strong>24.75 Scale Length</strong></li><li><strong>22 Frets</strong></li><li><strong>Rubber Grip Speed Knobs</strong></li><li><strong>Jumbo Frets</strong></li></ul>
 
 
 
-<p>I feel like <a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-lasso-id="198729">Schecter</a> put every single upgrade possible, into this guitar. There was a marked increase in quality and components after 2018 with their production model guitars. To me, this gives American Companies and other peers a real run for their money. Literally.</p>
+<p>I feel like <a href="/schecter-jack-fowler-traditional-review/" data-lasso-id="198729">Schecter</a> put every single upgrade possible, into this guitar. There was a marked increase in quality and components after 2018 with their production model guitars. To me, this gives American Companies and other peers a real run for their money. Literally.</p>
 
 
 
-<p>This model is made in South Korea, at the World Music Instrument factory. This is the same factory that makes <strong>ESP, Chapman, </strong><a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251744">PRS se</a>, and some high-end <strong>Epiphone</strong> models. They use high quality materials, and their construction rivals Japanese companies and even some American companies, if you ask me.</p>
+<p>This model is made in South Korea, at the World Music Instrument factory. This is the same factory that makes <strong>ESP, Chapman, </strong><a href="/prs-se-series-guitars-guide/" data-lasso-id="251744">PRS se</a>, and some high-end <strong>Epiphone</strong> models. They use high quality materials, and their construction rivals Japanese companies and even some American companies, if you ask me.</p>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<p>The carve on this neck reminds me a lot of my <a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="292">Gibson 50&#8217;s Les Paul</a>. Which is also a divisive feature on that particular guitar. Some people love it, and I happen to be that type of person.</p>
+<p>The carve on this neck reminds me a lot of my <a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="292">Gibson 50&#8217;s Les Paul</a>. Which is also a divisive feature on that particular guitar. Some people love it, and I happen to be that type of person.</p>
 
 
 
@@ -198,7 +198,7 @@ seo:
 
 
 
-<p><strong>Ernie Ball Compensated Nut:</strong> I have this on two of my <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22588">Schecter guitars</a> now, and it is by far the best nut I have ever had on any guitar. Hands down!</p>
+<p><strong>Ernie Ball Compensated Nut:</strong> I have this on two of my <a href="/schecter-demon-7-review/" data-lasso-id="22588">Schecter guitars</a> now, and it is by far the best nut I have ever had on any guitar. Hands down!</p>
 
 
 
@@ -208,15 +208,15 @@ seo:
 
 
 
-<p>Tuning stability is mostly reliant on the nut. Many guitars used to come with <a href="https://www.electrikjam.com/how-to-tune-a-guitar/" data-type="post" data-id="441" data-lasso-id="293">cheap plastic nuts</a> that would either be <em>just okay</em>, or would be<em> awful</em>. No in-between. So I always replaced the nut the same week I bought a new guitar. Especially when the guitar was going to be used for shows.</p>
+<p>Tuning stability is mostly reliant on the nut. Many guitars used to come with <a href="/how-to-tune-a-guitar/" data-type="post" data-id="441" data-lasso-id="293">cheap plastic nuts</a> that would either be <em>just okay</em>, or would be<em> awful</em>. No in-between. So I always replaced the nut the same week I bought a new guitar. Especially when the guitar was going to be used for shows.</p>
 
 
 
-<p>The compensated nut not only allows the string to move freely through the slots, but it helps to make <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" data-lasso-id="294">your intonation </a>even more solid. This stabilizes even the G string, which is usually the string that we have the most problems with considering tuning and intonation.</p>
+<p>The compensated nut not only allows the string to move freely through the slots, but it helps to make <a href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" data-lasso-id="294">your intonation </a>even more solid. This stabilizes even the G string, which is usually the string that we have the most problems with considering tuning and intonation.</p>
 
 
 
-<p>The compensated nut is just one more thing that you will not have to &#8220;fix&#8221; later on down the road. <a href="https://www.electrikjam.com/schecter-cr6-review/" data-lasso-id="72860">Schecter guitars</a> come &#8216;set up&#8221; from the factory, but even if you get one that needs a few tweaks with intonation, it will be a &#8220;set it and forget it&#8221; situation.</p>
+<p>The compensated nut is just one more thing that you will not have to &#8220;fix&#8221; later on down the road. <a href="/schecter-cr6-review/" data-lasso-id="72860">Schecter guitars</a> come &#8216;set up&#8221; from the factory, but even if you get one that needs a few tweaks with intonation, it will be a &#8220;set it and forget it&#8221; situation.</p>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<p><strong>San Andreas Custom Shop Pickups:</strong> When I saw the pictures of this guitar, I thought these were the legendary Anderson <a href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9098">Super Rock pickups that originally came with Schecters</a> years ago. </p>
+<p><strong>San Andreas Custom Shop Pickups:</strong> When I saw the pictures of this guitar, I thought these were the legendary Anderson <a href="/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9098">Super Rock pickups that originally came with Schecters</a> years ago. </p>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<p>These are so hot, that I had to back them off a little bit when I first got the guitar. They were almost as hot as my <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-100-legit/" data-type="post" data-id="716" data-lasso-id="296">Fishman Set</a>, so I adjusted them. But even when I screwed them down into the body a little further, they remained <em>extremely </em>clear. </p>
+<p>These are so hot, that I had to back them off a little bit when I first got the guitar. They were almost as hot as my <a href="/fishman-fluence-modern-review-is-the-hype-100-legit/" data-type="post" data-id="716" data-lasso-id="296">Fishman Set</a>, so I adjusted them. But even when I screwed them down into the body a little further, they remained <em>extremely </em>clear. </p>
 
 
 
@@ -252,11 +252,11 @@ seo:
 
 
 
-<p>The pickups have a neat engraved baseplate when you remove them from the body. Above the ornate baseplate is a triple-fold ceramic magnet. <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7444">Metal pickups</a> are almost always ceramic based, for the &#8220;bite&#8221; that the magnet provides.</p>
+<p>The pickups have a neat engraved baseplate when you remove them from the body. Above the ornate baseplate is a triple-fold ceramic magnet. <a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7444">Metal pickups</a> are almost always ceramic based, for the &#8220;bite&#8221; that the magnet provides.</p>
 
 
 
-<p>The mid and treble response is out of this world when under high gain or crunch sounds. The bridge <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7421">pickup has an aggressive tone</a>, while the neck pickup is still hot, yet subdued. Dial back the tone on the neck pickup and you get that &#8220;creamy&#8221; smooth lead tone, usually reserved for <strong>Les Pauls.</strong></p>
+<p>The mid and treble response is out of this world when under high gain or crunch sounds. The bridge <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7421">pickup has an aggressive tone</a>, while the neck pickup is still hot, yet subdued. Dial back the tone on the neck pickup and you get that &#8220;creamy&#8221; smooth lead tone, usually reserved for <strong>Les Pauls.</strong></p>
 
 
 
@@ -264,15 +264,15 @@ seo:
 
 
 
-<p>I ran the Schecter E1 Koa through a<strong> Mesa Dual Rectifier</strong>, and a<strong> Bogner Ubershall.</strong> The bridge pickup chugs of course, but the definition with both amps is fantastic. Even under high gain, <a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="297">complicated chords</a> rang out every note. It&#8217;s like playing in 4K definition.</p>
+<p>I ran the Schecter E1 Koa through a<strong> Mesa Dual Rectifier</strong>, and a<strong> Bogner Ubershall.</strong> The bridge pickup chugs of course, but the definition with both amps is fantastic. Even under high gain, <a href="/chord-voicing-extensions-for-metal/" data-lasso-id="297">complicated chords</a> rang out every note. It&#8217;s like playing in 4K definition.</p>
 
 
 
-<p>I wish I had a <a href="https://www.electrikjam.com/peavey-5150-vs-bugera-626/" data-type="post" data-id="803" data-lasso-id="298">Peavey 5150 </a>or 6505 to try it out with. I think these pickups would slay with one of those amps. But I was lucky to have <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-lasso-id="299">a couple amazing amps</a> to really test out these pickups!</p>
+<p>I wish I had a <a href="/peavey-5150-vs-bugera-626/" data-type="post" data-id="803" data-lasso-id="298">Peavey 5150 </a>or 6505 to try it out with. I think these pickups would slay with one of those amps. But I was lucky to have <a href="/best-practice-amps-for-beginners/" data-lasso-id="299">a couple amazing amps</a> to really test out these pickups!</p>
 
 
 
-<p>Through the Mesa, the pickups responded well to mids and bass, which is what the Mesa does best. <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69753">Palm mutes</a> push air through the speakers, and it sounds great. The Bogner is a more mid-range focused amplifier, but the San Andreas still held bass response and remained clear.</p>
+<p>Through the Mesa, the pickups responded well to mids and bass, which is what the Mesa does best. <a href="/guitar-muting-techniques/" data-lasso-id="69753">Palm mutes</a> push air through the speakers, and it sounds great. The Bogner is a more mid-range focused amplifier, but the San Andreas still held bass response and remained clear.</p>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<p>This bodes well when you are <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9531">recording guitar</a> tracks. Layering guitars is usually a pain since it is best to use multiple guitars to cover more sonic territory. I have to admit, it is nice to be able to access a <a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-lasso-id="300">good single coil tone</a> while recording without going back and forth between guitars.</p>
+<p>This bodes well when you are <a href="/must-have-for-recording-guitar/" data-lasso-id="9531">recording guitar</a> tracks. Layering guitars is usually a pain since it is best to use multiple guitars to cover more sonic territory. I have to admit, it is nice to be able to access a <a href="/killer-guitar-tone-without-hardware/" data-lasso-id="300">good single coil tone</a> while recording without going back and forth between guitars.</p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p>This makes the neck pickup&#8217;s clean tone to die for, especially through a <strong>Fender</strong> style clean amp. The pickups also respond well to reverb <a href="https://www.electrikjam.com/boss-gx-100-review/" data-lasso-id="94404">effects</a>, and delay when using a bright, gain-free tone. You wouldn&#8217;t expect an extreme guitar like this to sound pretty! </p>
+<p>This makes the neck pickup&#8217;s clean tone to die for, especially through a <strong>Fender</strong> style clean amp. The pickups also respond well to reverb <a href="/boss-gx-100-review/" data-lasso-id="94404">effects</a>, and delay when using a bright, gain-free tone. You wouldn&#8217;t expect an extreme guitar like this to sound pretty! </p>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<p>The bridge pickup has almost zero hum even when the coil is split and under gain. This adds a different dynamic for your sound when <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="301">recording</a>. So even if the bridge pup is not so great on it&#8217;s own, it works great for tracking purposes.</p>
+<p>The bridge pickup has almost zero hum even when the coil is split and under gain. This adds a different dynamic for your sound when <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="301">recording</a>. So even if the bridge pup is not so great on it&#8217;s own, it works great for tracking purposes.</p>
 
 
 
@@ -336,7 +336,7 @@ seo:
 
 
 
-<p>This guitar weighs a lot. On the scale it reads 8.9Lbs. I think this has a lot to do with the body shape, as well as the choice of wood. This is why <strong><a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236468">Gibson</strong> made so many <strong>Explorers</strong></a> with Korina/ Limba woods. It lightened the load on such a massive instrument.</p>
+<p>This guitar weighs a lot. On the scale it reads 8.9Lbs. I think this has a lot to do with the body shape, as well as the choice of wood. This is why <strong><a href="/gibson-80s-explorer-review/" data-lasso-id="236468">Gibson</strong> made so many <strong>Explorers</strong></a> with Korina/ Limba woods. It lightened the load on such a massive instrument.</p>
 
 
 

@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>The people over at BOSS Waza Craft have been teasing us on social media for a few weeks. I first thought all the hype was just about the reissue of the <a href="https://www.electrikjam.com/boss-hm2-pedal-finally-confirmed-new-for-2021/" class="rank-math-link" data-lasso-id="526">BOSS HM2 pedal</a>. Well, it was&#8230;but we did NOT see this coming!</p>
+<p>The people over at BOSS Waza Craft have been teasing us on social media for a few weeks. I first thought all the hype was just about the reissue of the <a href="/boss-hm2-pedal-finally-confirmed-new-for-2021/" class="rank-math-link" data-lasso-id="526">BOSS HM2 pedal</a>. Well, it was&#8230;but we did NOT see this coming!</p>
 
 
 
@@ -68,11 +68,11 @@ seo:
 
 
 
-<p>At one point, Korg Electronics owned the Sola Sound brand name, yet did not produce the Tone Bender. The first <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="527">Tone Bender Fuzz Pedals</a> were sold by their designer, Gary Hurst, through the Macari Brothers&#8217; Musical Exchange shops. They were made with <em>wooden enclosures</em>, and eventually moved on to folded metal. Just like pedals that we use now! These were the MK1 version.</p>
+<p>At one point, Korg Electronics owned the Sola Sound brand name, yet did not produce the Tone Bender. The first <a href="/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="527">Tone Bender Fuzz Pedals</a> were sold by their designer, Gary Hurst, through the Macari Brothers&#8217; Musical Exchange shops. They were made with <em>wooden enclosures</em>, and eventually moved on to folded metal. Just like pedals that we use now! These were the MK1 version.</p>
 
 
 
-<p>The Tone Bender MK1.5 was a two transistor, which is the same thing that the Dallas Fuzz Face and the <a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36084">Vox Fuzz was based on in 1968</a>. The latter were very popular, especially with <strong>David Gilmour </strong>and <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99498">Jimi Hendrix</a>. The Tone Bender was not as popular unfortunately. So the Mk1.5 is the official second version, although not noted as so.</p>
+<p>The Tone Bender MK1.5 was a two transistor, which is the same thing that the Dallas Fuzz Face and the <a href="/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36084">Vox Fuzz was based on in 1968</a>. The latter were very popular, especially with <strong>David Gilmour </strong>and <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99498">Jimi Hendrix</a>. The Tone Bender was not as popular unfortunately. So the Mk1.5 is the official second version, although not noted as so.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>The three way voltage selector works much like <a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="529">Digitech DOD Carcosa Fuzz</a>. This means that you can use the switch to alter the tone on a frequency level. You can really dial in your tone however you want, giving you more fuzz options than a tone knob could ever provide. So if you use multiple guitars, with different pickups, your possibilities are absolutely endless. This will not be a one dimensional pedal.</p>
+<p>The three way voltage selector works much like <a href="/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="529">Digitech DOD Carcosa Fuzz</a>. This means that you can use the switch to alter the tone on a frequency level. You can really dial in your tone however you want, giving you more fuzz options than a tone knob could ever provide. So if you use multiple guitars, with different pickups, your possibilities are absolutely endless. This will not be a one dimensional pedal.</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>The Germanium transistors are not only a tradition when it comes to classic fuzz tones, but a necessity. These transistors are much warmer sounding, and have more bite in the mid-range compared to the usual cheap silicone transistors found in most <a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125576">budget fuzz pedals</a>. This is an amazing feature that will faithfully reproduce the pre-distortion sounds of the 1970&#8217;s.</p>
+<p>The Germanium transistors are not only a tradition when it comes to classic fuzz tones, but a necessity. These transistors are much warmer sounding, and have more bite in the mid-range compared to the usual cheap silicone transistors found in most <a href="/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125576">budget fuzz pedals</a>. This is an amazing feature that will faithfully reproduce the pre-distortion sounds of the 1970&#8217;s.</p>
 
 
 
@@ -144,11 +144,11 @@ seo:
 
 
 
-<p>It seems that BOSS has shown a great amount of respect for the original Sola Sounds design, keeping all of the internal parts high quality. This is especially important when trying to dial in a warm fuzz tone. The Germanium parts make a big difference. So much so, that many people upgrade <a href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="530">cheaper pedals</a> with this circuitry.</p>
+<p>It seems that BOSS has shown a great amount of respect for the original Sola Sounds design, keeping all of the internal parts high quality. This is especially important when trying to dial in a warm fuzz tone. The Germanium parts make a big difference. So much so, that many people upgrade <a href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="530">cheaper pedals</a> with this circuitry.</p>
 
 
 
-<p>The Boss Tone Bender could easily be a great addition to your <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-lasso-id="531">Doom Metal</a> pedalboard! It seems like the versatility would be perfect for blending tones. I imagine that you could blend it with modern distortion to create a huge wall of sound.</p>
+<p>The Boss Tone Bender could easily be a great addition to your <a href="/doom-metal-beginners-guide/" data-lasso-id="531">Doom Metal</a> pedalboard! It seems like the versatility would be perfect for blending tones. I imagine that you could blend it with modern distortion to create a huge wall of sound.</p>
 
 
 

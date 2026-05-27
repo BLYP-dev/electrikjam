@@ -40,11 +40,11 @@ seo:
 
 
 
-<p>I remember clearly, the day I first asked this question to myself. I was watching <a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="43">Dimebag Darrell</a>, and thinking about all the crazy sounds he can make with the guitar. Then I started thinking:</p>
+<p>I remember clearly, the day I first asked this question to myself. I was watching <a href="/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="43">Dimebag Darrell</a>, and thinking about all the crazy sounds he can make with the guitar. Then I started thinking:</p>
 
 
 
-<p>He got a ton of his <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195348">licks from Eddie Van Halen</a>. He got his signature guitar from <a href="https://www.electrikjam.com/dean-guitars-2021-lineup-tons-of-awesome-new-models-and-classic-redesign/" data-lasso-id="44">Dean Guitars</a>. But wait for a second, who invented <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="45">the ACTUAL modern electric guitar?</a></strong></p>
+<p>He got a ton of his <a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195348">licks from Eddie Van Halen</a>. He got his signature guitar from <a href="/dean-guitars-2021-lineup-tons-of-awesome-new-models-and-classic-redesign/" data-lasso-id="44">Dean Guitars</a>. But wait for a second, who invented <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="45">the ACTUAL modern electric guitar?</a></strong></p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>He was commissioned work by the company to make guitar parts. Rickenbacker made tuning machines, and hand crafted <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7424">metal tops</a> for Dobro-style guitars. The Dobro worked to amplify the guitar naturally, but better things were on the horizon.</p>
+<p>He was commissioned work by the company to make guitar parts. Rickenbacker made tuning machines, and hand crafted <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7424">metal tops</a> for Dobro-style guitars. The Dobro worked to amplify the guitar naturally, but better things were on the horizon.</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p>George was a <a href="https://www.electrikjam.com/5-best-christmas-presents-for-guitar-players/" data-lasso-id="29818">guitar player</a> himself in a band. He constantly had issues with being heard when the rest of the band was playing. You see, George also invented the resonator/Dobro guitar to help amplify volume naturally. The same parts that Adolph Rickenbacker was making in his machine shop.</p>
+<p>George was a <a href="/5-best-christmas-presents-for-guitar-players/" data-lasso-id="29818">guitar player</a> himself in a band. He constantly had issues with being heard when the rest of the band was playing. You see, George also invented the resonator/Dobro guitar to help amplify volume naturally. The same parts that Adolph Rickenbacker was making in his machine shop.</p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p>The two F-holes made the guitar finally meet the standards of people wanting to preserve the actual acoustic tone. It sounded great plugged in to an <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="46">amp</a> and people were amazed. The electric guitar started to be accepted by professional musicians.</p>
+<p>The two F-holes made the guitar finally meet the standards of people wanting to preserve the actual acoustic tone. It sounded great plugged in to an <a href="/boss-katana-50-reviews/" data-lasso-id="46">amp</a> and people were amazed. The electric guitar started to be accepted by professional musicians.</p>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>Gibson started getting lambasted with order quotes for electric guitars. They made great acoustics and mandolins, but they were behind Rickenbacker. They had scoffed at the idea of an <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="47">electric guitar</a>, until customers started to demand it.</p>
+<p>Gibson started getting lambasted with order quotes for electric guitars. They made great acoustics and mandolins, but they were behind Rickenbacker. They had scoffed at the idea of an <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="47">electric guitar</a>, until customers started to demand it.</p>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<p>We are getting caught up now. There is a myth that Leo Fender created the first <a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="48">solid body guitar</a>. This is not completely true. Leo Fender <em>refined</em> it and <em>perfected</em> it. </p>
+<p>We are getting caught up now. There is a myth that Leo Fender created the first <a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="48">solid body guitar</a>. This is not completely true. Leo Fender <em>refined</em> it and <em>perfected</em> it. </p>
 
 
 
@@ -252,15 +252,15 @@ seo:
 
 
 
-<p>The Travis-Bigsby guitar featured a single-cut design, which reminds us of the <a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="49">infamous Les Paul by Gibson</a>. It had a single pickup in the bridge, which gave Merle his signature sound. Tone knobs were added after the initial design so he could better control his tone on stage.</p>
+<p>The Travis-Bigsby guitar featured a single-cut design, which reminds us of the <a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="49">infamous Les Paul by Gibson</a>. It had a single pickup in the bridge, which gave Merle his signature sound. Tone knobs were added after the initial design so he could better control his tone on stage.</p>
 
 
 
-<p>Electric guitar took a huge leap forward with Paul Bigsby&#8217;s master craftsmanship. Merle ended up <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8475">asking Paul</a> to make him a double cut version of the guitar using all of the same woods. Merle played shows for years with his new solid body electrics.</p>
+<p>Electric guitar took a huge leap forward with Paul Bigsby&#8217;s master craftsmanship. Merle ended up <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8475">asking Paul</a> to make him a double cut version of the guitar using all of the same woods. Merle played shows for years with his new solid body electrics.</p>
 
 
 
-<p>Gibson went on to design their own versions of solid body <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211327">electric guitars</a>. But it would be a decade before <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44950">Gibson caught up with their Les Paul models</a>.</p>
+<p>Gibson went on to design their own versions of solid body <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211327">electric guitars</a>. But it would be a decade before <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44950">Gibson caught up with their Les Paul models</a>.</p>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<p>Within a few years, Leo handed over his popular radio/equipment repair business to his friend, Dale Hyatt. Next, Leo re-branded himself as Fender Musical Instrument Company. His goal became mass producing electric <a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" data-lasso-id="48145">guitars for affordable prices</a>.</p>
+<p>Within a few years, Leo handed over his popular radio/equipment repair business to his friend, Dale Hyatt. Next, Leo re-branded himself as Fender Musical Instrument Company. His goal became mass producing electric <a href="/guitar-prices-going-up-in-2022/" data-lasso-id="48145">guitars for affordable prices</a>.</p>
 
 
 
@@ -320,11 +320,11 @@ seo:
 
 
 
-<p>In 1954, Leo hit another home run with the Stratocaster. The Stratocaster was a double cut design with three pickups instead of one. It also introduced a tremolo system that was <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="50">designed in-house by Fender</a>. Today the guitar is synonymous with Rock music and Blues. </p>
+<p>In 1954, Leo hit another home run with the Stratocaster. The Stratocaster was a double cut design with three pickups instead of one. It also introduced a tremolo system that was <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="50">designed in-house by Fender</a>. Today the guitar is synonymous with Rock music and Blues. </p>
 
 
 
-<p>We are used to seeing the &#8220;Strat&#8221; everywhere, aren&#8217;t we? Too many players to list rely on their <a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-lasso-id="51">Fender Strat</a> for their guitar needs. But when it was released, no one had ever seen <em>anything</em> like it. In fact, many people thought it would fail!</p>
+<p>We are used to seeing the &#8220;Strat&#8221; everywhere, aren&#8217;t we? Too many players to list rely on their <a href="/the-best-fender-strat-alternative-in-2021/" data-lasso-id="51">Fender Strat</a> for their guitar needs. But when it was released, no one had ever seen <em>anything</em> like it. In fact, many people thought it would fail!</p>
 
 
 
@@ -344,7 +344,7 @@ seo:
 
 
 
-<p>The colored paint jobs on the new models took off faster than the original Stratocaster. Musicians of the 50&#8217;s and early 60&#8217;s gravitated towards Fender. The Stratocaster and the Telecaster became the most <a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212784">played electric guitars</a> on the planet.</p>
+<p>The colored paint jobs on the new models took off faster than the original Stratocaster. Musicians of the 50&#8217;s and early 60&#8217;s gravitated towards Fender. The Stratocaster and the Telecaster became the most <a href="/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212784">played electric guitars</a> on the planet.</p>
 
 
 
@@ -368,11 +368,11 @@ seo:
 
 
 
-<p>The Gibson ES 335 was designed by Ted McCarty in 1958. Ted designed 4 different models of <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="52">semi-hollow body electrics, and one fully hollow body model</a>. The Gibson ES 335 took off by 1959.</p>
+<p>The Gibson ES 335 was designed by Ted McCarty in 1958. Ted designed 4 different models of <a href="/types-of-guitars-guide/" data-lasso-id="52">semi-hollow body electrics, and one fully hollow body model</a>. The Gibson ES 335 took off by 1959.</p>
 
 
 
-<p>Ted had a friend named Seth Lover who had an idea to compete with Leo Fender. Seth Lover had invented <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="53">the humbucker pickup</a> by putting two single coils together and reversing polarity. These pickups were more quiet, fatter sounding, and had a refined look. By 1960, Leo Fender had competition.</p>
+<p>Ted had a friend named Seth Lover who had an idea to compete with Leo Fender. Seth Lover had invented <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="53">the humbucker pickup</a> by putting two single coils together and reversing polarity. These pickups were more quiet, fatter sounding, and had a refined look. By 1960, Leo Fender had competition.</p>
 
 
 
@@ -384,7 +384,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-lasso-id="54">Gibson also made the move to absorb the Epiphone corporation</a> in 1957, and took over production of their original designs. Epiphone became the affordable end of Gibson, making Gibson&#8217;s designs beside the older Epiphone models. This tradition continues today.</p>
+<p><a href="/gibson-vs-epiphone-in-2021/" data-lasso-id="54">Gibson also made the move to absorb the Epiphone corporation</a> in 1957, and took over production of their original designs. Epiphone became the affordable end of Gibson, making Gibson&#8217;s designs beside the older Epiphone models. This tradition continues today.</p>
 
 
 
@@ -396,7 +396,7 @@ seo:
 
 
 
-<p>Next time you see an <a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" data-lasso-id="215704">electric guitar</a>, you will know exactly how that instrument came to be. No matter what the brand or style, every electric guitar shares the same DNA.</p>
+<p>Next time you see an <a href="/what-is-the-best-electric-guitar-brand/" data-lasso-id="215704">electric guitar</a>, you will know exactly how that instrument came to be. No matter what the brand or style, every electric guitar shares the same DNA.</p>
 
 
 
@@ -416,5 +416,5 @@ seo:
 
 
 
-<p>The future of the <a href="https://www.electrikjam.com/is-learning-electric-guitar-hard/" data-lasso-id="215692">electric guitar</a> is just as exciting as it&#8217;s past.</p>
+<p>The future of the <a href="/is-learning-electric-guitar-hard/" data-lasso-id="215692">electric guitar</a> is just as exciting as it&#8217;s past.</p>
 

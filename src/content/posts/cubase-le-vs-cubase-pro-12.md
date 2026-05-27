@@ -46,7 +46,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-is-cubase/" target="_blank" data-type="post" data-id="12265" rel="noopener" data-lasso-id="244117">Cubase</a></strong> is a renowned digital audio workstation (DAW), that offers different versions tailored to meet the diverse needs of music producers, home studios, sound designers, and enthusiasts. Two popular versions, <a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251754">Cubase LE and Cubase Pro</a>, offer distinct feature sets and functionality. </p>
+<p><strong><a href="/what-is-cubase/" target="_blank" data-type="post" data-id="12265" rel="noopener" data-lasso-id="244117">Cubase</a></strong> is a renowned digital audio workstation (DAW), that offers different versions tailored to meet the diverse needs of music producers, home studios, sound designers, and enthusiasts. Two popular versions, <a href="/what-is-cubase/" data-lasso-id="251754">Cubase LE and Cubase Pro</a>, offer distinct feature sets and functionality. </p>
 
 
 
@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>Picking a DAW can be just as personal as choosing an instrument. Just<strong><a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-type="post" data-id="6031" target="_blank" rel="noopener" data-lasso-id="244010"> like buying a new guitar</a></strong>, you have a set of features and specs that you are probably looking for, <strong><a href="https://www.electrikjam.com/is-cubase-free/" data-type="post" data-id="12306" target="_blank" rel="noopener" data-lasso-id="244011">as well as a budget</a></strong> in mind. The same parameters should be accounted for when choosing a DAW program.</p>
+<p>Picking a DAW can be just as personal as choosing an instrument. Just<strong><a href="/the-best-guitars-of-2021/" data-type="post" data-id="6031" target="_blank" rel="noopener" data-lasso-id="244010"> like buying a new guitar</a></strong>, you have a set of features and specs that you are probably looking for, <strong><a href="/is-cubase-free/" data-type="post" data-id="12306" target="_blank" rel="noopener" data-lasso-id="244011">as well as a budget</a></strong> in mind. The same parameters should be accounted for when choosing a DAW program.</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>Any LE version of Cubase can be upgraded to Cubase Pro anytime, at a discount. You can also use your Student ID to <strong><a href="https://www.electrikjam.com/is-cubase-free/" data-type="post" data-id="12306" target="_blank" rel="noopener" data-lasso-id="244118">receive a discount</a></strong> for any version of Cubase. There are many advantages to working with Cubase Pro.</p>
+<p>Any LE version of Cubase can be upgraded to Cubase Pro anytime, at a discount. You can also use your Student ID to <strong><a href="/is-cubase-free/" data-type="post" data-id="12306" target="_blank" rel="noopener" data-lasso-id="244118">receive a discount</a></strong> for any version of Cubase. There are many advantages to working with Cubase Pro.</p>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<p>The pros and cons are actually rather obvious when it comes to the different editions of Cubase 12. <strong><a href="https://www.electrikjam.com/is-cubase-free/" target="_blank" data-type="post" data-id="12306" rel="noopener" data-lasso-id="244013">Beginners can benefit from using the Light Editions </a></strong>that Steinberg offers. Not only are they less expensive, but the LE variants are initially easier to learn and use.</p>
+<p>The pros and cons are actually rather obvious when it comes to the different editions of Cubase 12. <strong><a href="/is-cubase-free/" target="_blank" data-type="post" data-id="12306" rel="noopener" data-lasso-id="244013">Beginners can benefit from using the Light Editions </a></strong>that Steinberg offers. Not only are they less expensive, but the LE variants are initially easier to learn and use.</p>
 
 
 

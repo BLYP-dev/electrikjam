@@ -47,19 +47,19 @@ seo:
 
 
 
-<p>The &#8220;Ibanez VS Jackson&#8221; debate started because both companies make popular &#8220;Super Strat&#8221; guitars. Ibanez had a hit in the late 80&#8217;s with the <a data-lasso-id="165931" href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener"><strong>JEM and RG Series</strong></a>, while Jackson had a head start on Ibanez by being popular <em>long before</em> then.</p>
+<p>The &#8220;Ibanez VS Jackson&#8221; debate started because both companies make popular &#8220;Super Strat&#8221; guitars. Ibanez had a hit in the late 80&#8217;s with the <a data-lasso-id="165931" href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener"><strong>JEM and RG Series</strong></a>, while Jackson had a head start on Ibanez by being popular <em>long before</em> then.</p>
 
 
 
-<p>The 80&#8217;s were all about the new idea of user-modified guitars.<a data-lasso-id="165932" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"> <strong>Eddie Van Halen</strong> </a>had almost single-handedly started the new &#8220;Super-Strat&#8221; fad. Suddenly everyone was playing modified <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216550">electric guitars</a> like Eddie. The companies like Charvel, Jackson, Kramer, and Fernandes were<em> thriving</em> from custom orders for these new Super-Strats.</p>
+<p>The 80&#8217;s were all about the new idea of user-modified guitars.<a data-lasso-id="165932" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"> <strong>Eddie Van Halen</strong> </a>had almost single-handedly started the new &#8220;Super-Strat&#8221; fad. Suddenly everyone was playing modified <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216550">electric guitars</a> like Eddie. The companies like Charvel, Jackson, Kramer, and Fernandes were<em> thriving</em> from custom orders for these new Super-Strats.</p>
 
 
 
-<p>Then other brands like Dean and BC Rich kicked it up a notch, and came up with some outlandish designs at the beginning of the 80&#8217;s. These might have railed against the basic Super-Strat style, but the features that mattered remained the same. Skinny necks, big frets, and <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-lasso-id="168253">Floyd Rose bridges</a> had taken over the market. Jackson was at the center though, and out-sold most of the other brands.</p>
+<p>Then other brands like Dean and BC Rich kicked it up a notch, and came up with some outlandish designs at the beginning of the 80&#8217;s. These might have railed against the basic Super-Strat style, but the features that mattered remained the same. Skinny necks, big frets, and <a href="/floyd-rose-bridge-setup-beginners/" data-lasso-id="168253">Floyd Rose bridges</a> had taken over the market. Jackson was at the center though, and out-sold most of the other brands.</p>
 
 
 
-<p>But not every company survived the past the 80&#8217;s since Grunge took over the music scene. These new guitarists of the 90&#8217;s were using older <a data-lasso-id="165974" href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener"><strong>Fenders</strong></a>, as well as many other forgotten brands. The &#8220;Decade Of Excess&#8221; was over the moment <a data-lasso-id="165933" href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener"><strong>Nirvana</strong></a> and Pearl Jam became the new style. Vintage 70&#8217;s Gear became a hot trend that still exists today.</p>
+<p>But not every company survived the past the 80&#8217;s since Grunge took over the music scene. These new guitarists of the 90&#8217;s were using older <a data-lasso-id="165974" href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener"><strong>Fenders</strong></a>, as well as many other forgotten brands. The &#8220;Decade Of Excess&#8221; was over the moment <a data-lasso-id="165933" href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener"><strong>Nirvana</strong></a> and Pearl Jam became the new style. Vintage 70&#8217;s Gear became a hot trend that still exists today.</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Skinny Necks For Fast Playing</strong></li><li><strong>Tall, Jumbo Frets</strong></li><li><strong>24 Frets/ Two Octaves</strong></li><li><strong>Super Strat, and Extreme Body Shapes (Flying V, Rhoades, and Explorer)</strong></li><li><strong>Hot Pickups: <a data-lasso-id="165934" data-lasso-name="EMG 57/66 Pickup Set" href="https://www.electrikjam.com/pxf-3/" data-type="lasso-urls" data-id="5816" target="_blank" rel="nofollow sponsored noopener">EMG</a>, <a data-lasso-id="165935" href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener">Fishman</a>,<a data-lasso-id="165936" href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener"> Duncan</a></strong></li><li><strong>Fixed Bridge, Or Floyd Rose Style Bridge</strong> <strong>Options</strong></li><li><strong>Lots Of Finish Options</strong></li><li><strong>Top Wood Options: Flame Maple, Quilted Maple</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Skinny Necks For Fast Playing</strong></li><li><strong>Tall, Jumbo Frets</strong></li><li><strong>24 Frets/ Two Octaves</strong></li><li><strong>Super Strat, and Extreme Body Shapes (Flying V, Rhoades, and Explorer)</strong></li><li><strong>Hot Pickups: <a data-lasso-id="165934" data-lasso-name="EMG 57/66 Pickup Set" href="/pxf-3/" data-type="lasso-urls" data-id="5816" target="_blank" rel="nofollow sponsored noopener">EMG</a>, <a data-lasso-id="165935" href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener">Fishman</a>,<a data-lasso-id="165936" href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener"> Duncan</a></strong></li><li><strong>Fixed Bridge, Or Floyd Rose Style Bridge</strong> <strong>Options</strong></li><li><strong>Lots Of Finish Options</strong></li><li><strong>Top Wood Options: Flame Maple, Quilted Maple</strong></li></ul>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>Today we are going to dig into the differences when it comes to Ibanez VS Jackson, and why one may be better than the other for some guitarists. There really isn&#8217;t a right or wrong answer here, and this applies to most <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-type="post" data-id="2545" target="_blank" rel="noopener" data-lasso-id="166799"><strong>guitar gear</strong></a>. What works for for you, may be a nightmare<a data-lasso-id="165975" href="https://www.electrikjam.com/doom-metal-rig/" data-type="post" data-id="9018" target="_blank" rel="noopener"> <strong>rig</strong> </a>for someone else!</p>
+<p>Today we are going to dig into the differences when it comes to Ibanez VS Jackson, and why one may be better than the other for some guitarists. There really isn&#8217;t a right or wrong answer here, and this applies to most <a href="/types-of-guitars-guide/" data-type="post" data-id="2545" target="_blank" rel="noopener" data-lasso-id="166799"><strong>guitar gear</strong></a>. What works for for you, may be a nightmare<a data-lasso-id="165975" href="/doom-metal-rig/" data-type="post" data-id="9018" target="_blank" rel="noopener"> <strong>rig</strong> </a>for someone else!</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p>They were both approached by <a data-lasso-id="165977" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>Eddie Van Halen</strong></a> in the 70&#8217;s, Grover and Wayne gave Eddie some of the parts for the first builds of the &#8220;FrankenStrat&#8221;. In fact, that famous <a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" data-lasso-id="180623">guitar was in a bucket that Wayne Charvel</a> had discarded, because the wood had a flaw. Eddie took it, and the rest is history!</p>
+<p>They were both approached by <a data-lasso-id="165977" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>Eddie Van Halen</strong></a> in the 70&#8217;s, Grover and Wayne gave Eddie some of the parts for the first builds of the &#8220;FrankenStrat&#8221;. In fact, that famous <a href="/charvel-pro-mod-dk24-review/" data-lasso-id="180623">guitar was in a bucket that Wayne Charvel</a> had discarded, because the wood had a flaw. Eddie took it, and the rest is history!</p>
 
 
 
@@ -143,11 +143,11 @@ seo:
 
 
 
-<p>Grover Jackson ended making <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184900">guitars for tons</a> of artists, like Phil Collen from <strong>Def Leppard</strong>, Dave Mustaine from <strong>Megadeth</strong>, and lots of other Metal artists in the 80&#8217;s. Jackson and Charvel thrived for quite a while, but ended up being sold off by Grover to IMC in Texas, at the height of the company&#8217;s popularity.</p>
+<p>Grover Jackson ended making <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184900">guitars for tons</a> of artists, like Phil Collen from <strong>Def Leppard</strong>, Dave Mustaine from <strong>Megadeth</strong>, and lots of other Metal artists in the 80&#8217;s. Jackson and Charvel thrived for quite a while, but ended up being sold off by Grover to IMC in Texas, at the height of the company&#8217;s popularity.</p>
 
 
 
-<p>Grover Jackson only worked with IMC in Texas for a short time. He then went on to work for Washburn guitars, and even helped to create the  <a href="https://www.electrikjam.com/what-guitar-does-dimebag-darrell-use/" data-lasso-id="254820">Dimebag Darrell  signature models</a>. Through the 90&#8217;s he worked for just about every guitar company, making designs for Rickenbacker, Washburn, Dean, and even G&amp;L Guitars. </p>
+<p>Grover Jackson only worked with IMC in Texas for a short time. He then went on to work for Washburn guitars, and even helped to create the  <a href="/what-guitar-does-dimebag-darrell-use/" data-lasso-id="254820">Dimebag Darrell  signature models</a>. Through the 90&#8217;s he worked for just about every guitar company, making designs for Rickenbacker, Washburn, Dean, and even G&amp;L Guitars. </p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>Hoshino also had a hand in making some of the Teisco guitars as well, from the Tama factory. These models were exported to the US and they are still collectible by many guitarists today. Eventually, Ibanez also joined in the <a href="https://www.electrikjam.com/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217657">electric guitar</a> game, and Teisco was shut down to focus on Ibanez exclusively.</p>
+<p>Hoshino also had a hand in making some of the Teisco guitars as well, from the Tama factory. These models were exported to the US and they are still collectible by many guitarists today. Eventually, Ibanez also joined in the <a href="/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217657">electric guitar</a> game, and Teisco was shut down to focus on Ibanez exclusively.</p>
 
 
 
@@ -175,19 +175,19 @@ seo:
 
 
 
-<p>When it comes to Ibanez VS Jackson, it would seem like Ibanez started on the wrong foot. copying other brands rarely puts you on the map. Ibanez knew that it needed a change, as the newer original designs were not selling very well. The company was on the brink of falling apart when <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="166800"><strong>Steve Vai </strong></a>stepped in. This lead to the birth of the JEM and the budget model <a href="https://www.electrikjam.com/ibanez-rg565-reinventing-a-classic-shredders-dream-guitar/" data-type="post" data-id="1555" target="_blank" rel="noopener" data-lasso-id="166801"><strong>RG Series</strong></a>.</p>
+<p>When it comes to Ibanez VS Jackson, it would seem like Ibanez started on the wrong foot. copying other brands rarely puts you on the map. Ibanez knew that it needed a change, as the newer original designs were not selling very well. The company was on the brink of falling apart when <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="166800"><strong>Steve Vai </strong></a>stepped in. This lead to the birth of the JEM and the budget model <a href="/ibanez-rg565-reinventing-a-classic-shredders-dream-guitar/" data-type="post" data-id="1555" target="_blank" rel="noopener" data-lasso-id="166801"><strong>RG Series</strong></a>.</p>
 
 
 
-<p>Ibanez had a hit with both the JEM and the RG Series throughout the 90&#8217;s. Ibanez then started experimenting, leading to the creation of the <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="166802"><strong>7 String Guitar</strong></a>, and even the<strong><a href="https://www.electrikjam.com/cheap-8-string-guitar/" data-type="post" data-id="2516" target="_blank" rel="noopener" data-lasso-id="166803"> 8 string</a></strong>. Ibanez is famously known for these designs, and <strong>Ibanez is now the third most popular <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237998">brand behind Fender and Gibson</a> guitars.</strong></p>
+<p>Ibanez had a hit with both the JEM and the RG Series throughout the 90&#8217;s. Ibanez then started experimenting, leading to the creation of the <a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="166802"><strong>7 String Guitar</strong></a>, and even the<strong><a href="/cheap-8-string-guitar/" data-type="post" data-id="2516" target="_blank" rel="noopener" data-lasso-id="166803"> 8 string</a></strong>. Ibanez is famously known for these designs, and <strong>Ibanez is now the third most popular <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237998">brand behind Fender and Gibson</a> guitars.</strong></p>
 
 
 
-<p><strong>Ibanez</strong> has quite the &#8220;comeback&#8221; story when you think about it. The high end <a class="wpil_keyword_link" href="https://www.electrikjam.com/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255010">Ibanez guitars</a> are still made in Japan, where the more affordable instruments are made in Indonesia and China. Ibanez is the chosen brand for a lot of Virtuoso guitar players, as well as experimental players.</p>
+<p><strong>Ibanez</strong> has quite the &#8220;comeback&#8221; story when you think about it. The high end <a class="wpil_keyword_link" href="/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255010">Ibanez guitars</a> are still made in Japan, where the more affordable instruments are made in Indonesia and China. Ibanez is the chosen brand for a lot of Virtuoso guitar players, as well as experimental players.</p>
 
 
 
-<p><strong>Jackson/Charvel </strong>on the other hand was sold to Fender in 2002, and this made a a huge impact on the way Jackson did business. There are still USA models made, but lots of Jackson guitars are made in the more affordable Fender factories (Mexico, China). If you want a breakdown of where ALL brands come from, <a href="https://www.electrikjam.com/where-guitars-are-made-2022/" data-type="post" data-id="8621" target="_blank" rel="noopener" data-lasso-id="166804"><strong>click here</strong></a>.</p>
+<p><strong>Jackson/Charvel </strong>on the other hand was sold to Fender in 2002, and this made a a huge impact on the way Jackson did business. There are still USA models made, but lots of Jackson guitars are made in the more affordable Fender factories (Mexico, China). If you want a breakdown of where ALL brands come from, <a href="/where-guitars-are-made-2022/" data-type="post" data-id="8621" target="_blank" rel="noopener" data-lasso-id="166804"><strong>click here</strong></a>.</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p>Ibanez also likes to use <strong>Dimarzio</strong> pickups in the high end models, although lately <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener" data-lasso-id="166805"><strong>Fishman</strong></a> has also been an option. Ibanez has had relations with Dimarzio since 1987, and the two companies have worked together for quite some time. Most other Ibanez hardware is either proprietary or Gotoh.</p>
+<p>Ibanez also likes to use <strong>Dimarzio</strong> pickups in the high end models, although lately <a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener" data-lasso-id="166805"><strong>Fishman</strong></a> has also been an option. Ibanez has had relations with Dimarzio since 1987, and the two companies have worked together for quite some time. Most other Ibanez hardware is either proprietary or Gotoh.</p>
 
 
 
@@ -219,11 +219,11 @@ seo:
 
 
 
-<p>It took a while for 7 string guitars to really take off, but when they did it was because of Ibanez (And Korn, for reviving them!). Now almost<em> every</em> &#8220;metal&#8221; guitar brand has a 7 string option. Ibanez took innovation even further <a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" target="_blank" rel="noopener" data-lasso-id="166806"><strong>working with Meshuggah to create the 8 string guitar. </strong></a></p>
+<p>It took a while for 7 string guitars to really take off, but when they did it was because of Ibanez (And Korn, for reviving them!). Now almost<em> every</em> &#8220;metal&#8221; guitar brand has a 7 string option. Ibanez took innovation even further <a href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" target="_blank" rel="noopener" data-lasso-id="166806"><strong>working with Meshuggah to create the 8 string guitar. </strong></a></p>
 
 
 
-<p><strong>Jackson</strong> on the other hand is still very much an &#8220;American Hot Rod&#8221; shop, even though it is owned by Fender now. Jackson uses Floyd Rose bridges on many models, and <strong><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener" data-lasso-id="166807">Seymour Duncan</a> </strong>pickups. In fact, Jackson has been &#8220;back to its roots&#8221; lately, releasing the classic models that made the brand famous.</p>
+<p><strong>Jackson</strong> on the other hand is still very much an &#8220;American Hot Rod&#8221; shop, even though it is owned by Fender now. Jackson uses Floyd Rose bridges on many models, and <strong><a href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener" data-lasso-id="166807">Seymour Duncan</a> </strong>pickups. In fact, Jackson has been &#8220;back to its roots&#8221; lately, releasing the classic models that made the brand famous.</p>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<p>Much like Ibanez, Jackson guitars also has a roster of famous guitarists. People like <strong>Jeff Loomis </strong>and <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218850">Misha from  Periphery</a>  have propelled the brand into a brand new age of modern shred and progressive rock. Jackson also makes legacy models with the <strong>Iron Maiden</strong> signature guitars, and Mick Thompson from <strong>Slipknot</strong>.</p>
+<p>Much like Ibanez, Jackson guitars also has a roster of famous guitarists. People like <strong>Jeff Loomis </strong>and <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218850">Misha from  Periphery</a>  have propelled the brand into a brand new age of modern shred and progressive rock. Jackson also makes legacy models with the <strong>Iron Maiden</strong> signature guitars, and Mick Thompson from <strong>Slipknot</strong>.</p>
 
 
 
@@ -251,11 +251,11 @@ seo:
 
 
 
-<p>Both brands focus mainly on your typical shredder-style guitars, but <em>the approach</em> is different when it comes to Ibanez VS Jackson. <a href="https://www.electrikjam.com/ibanez-rg570/" data-lasso-id="258059">Ibanez has some classic models</a>, but Ibanez seems to always be looking forward towards future innovation. <em>Ibanez is all about trying out new ideas</em>.</p>
+<p>Both brands focus mainly on your typical shredder-style guitars, but <em>the approach</em> is different when it comes to Ibanez VS Jackson. <a href="/ibanez-rg570/" data-lasso-id="258059">Ibanez has some classic models</a>, but Ibanez seems to always be looking forward towards future innovation. <em>Ibanez is all about trying out new ideas</em>.</p>
 
 
 
-<p>I think this is why Ibanez attracts so many virtuoso players. If you look at the artist roster for Ibanez, the main players are mostly virtuosic, innovative, and trailblazing guitarists. People like<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-nk4q6v/" data-type="lasso-urls" data-id="5336" target="_blank" rel="nofollow noopener" data-lasso-id="166808" data-lasso-name="Ibanez THBB10">Polyphia</a></strong>, <strong>Nita Strauss</strong>, <strong>Tosin Abasi</strong> (formerly), and <strong>Steve Vai</strong> are the poster children for Ibanez. Clearly, the company attracts some of the top players.</p>
+<p>I think this is why Ibanez attracts so many virtuoso players. If you look at the artist roster for Ibanez, the main players are mostly virtuosic, innovative, and trailblazing guitarists. People like<strong> <a href="/guitar-center-pxf-io-nk4q6v/" data-type="lasso-urls" data-id="5336" target="_blank" rel="nofollow noopener" data-lasso-id="166808" data-lasso-name="Ibanez THBB10">Polyphia</a></strong>, <strong>Nita Strauss</strong>, <strong>Tosin Abasi</strong> (formerly), and <strong>Steve Vai</strong> are the poster children for Ibanez. Clearly, the company attracts some of the top players.</p>
 
 
 

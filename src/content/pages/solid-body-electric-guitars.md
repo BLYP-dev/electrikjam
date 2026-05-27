@@ -543,7 +543,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="268338">Epiphone makes some truly amazing guitars for metal</a></strong> – from its Prophecy line to its Inspired By Gibson models. There’s an Epiphone for literally every genre. </p>
+<p><strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="268338">Epiphone makes some truly amazing guitars for metal</a></strong> – from its Prophecy line to its Inspired By Gibson models. There’s an Epiphone for literally every genre. </p>
 </div>
 
 
@@ -553,7 +553,7 @@ seo:
 
 
 
-<p>Wanna dial in that Adam Jones sound? Again, you’ll need a specific type of guitar and model. Fortunately for us, <strong><a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-price-release-date/" data-type="post" data-id="14298" data-lasso-id="268339">Mr. Jones now has his own signature Gibson</a></strong> (the pricey one) and Epiphone (the more affordable, but still pricey) models. </p>
+<p>Wanna dial in that Adam Jones sound? Again, you’ll need a specific type of guitar and model. Fortunately for us, <strong><a href="/adam-jones-epiphone-1979-les-paul-custom-price-release-date/" data-type="post" data-id="14298" data-lasso-id="268339">Mr. Jones now has his own signature Gibson</a></strong> (the pricey one) and Epiphone (the more affordable, but still pricey) models. </p>
 </div>
 
 
@@ -563,7 +563,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="268340">Fender is also a great option if you want to play metal</a></strong>; from its standard models like the Strat and Tele to its lesser known models like the awe-inspiring Squier Paranormal Baritone. </p>
+<p><strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="268340">Fender is also a great option if you want to play metal</a></strong>; from its standard models like the Strat and Tele to its lesser known models like the awe-inspiring Squier Paranormal Baritone. </p>
 </div>
 
 
@@ -600,7 +600,7 @@ seo:
 
 
 
-<p>If you’re smart, you’ll learn in Standard Tuning. Once you understand the neck, chords, scale patterns, and the notes, you can <strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="268342">experiment with alternative tunings</a></strong> like Drop D, D Standard, and more.</p>
+<p>If you’re smart, you’ll learn in Standard Tuning. Once you understand the neck, chords, scale patterns, and the notes, you can <strong><a href="/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="268342">experiment with alternative tunings</a></strong> like Drop D, D Standard, and more.</p>
 
 
 
@@ -609,7 +609,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="268343">Standard Tuning</a></strong>: Standard Tuning is what the vast majority of popular and classic guitar music is written in. Think of it as basecamp for your guitar, a place where you can build and understand how everything works.</p>
+<p><strong><a href="/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="268343">Standard Tuning</a></strong>: Standard Tuning is what the vast majority of popular and classic guitar music is written in. Think of it as basecamp for your guitar, a place where you can build and understand how everything works.</p>
 </div>
 
 
@@ -619,7 +619,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="268344">D Standard Tuning</a></strong>: D Standard Tuning is the same as Standard Tuning, except all of your strings are tuned DOWN a whole step. Standard Tuning looks like this: EADGBE, while D Standard looks like this DGCFAD.</p>
+<p><strong><a href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="268344">D Standard Tuning</a></strong>: D Standard Tuning is the same as Standard Tuning, except all of your strings are tuned DOWN a whole step. Standard Tuning looks like this: EADGBE, while D Standard looks like this DGCFAD.</p>
 </div>
 
 
@@ -629,7 +629,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="268345">Drop D Tuning</a></strong>: Drop D Tuning is where you turn the low e-string down a whole step to D while leaving all the other strings in Standard Tuning. This allows for one-finger power chords..</p>
+<p><strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="268345">Drop D Tuning</a></strong>: Drop D Tuning is where you turn the low e-string down a whole step to D while leaving all the other strings in Standard Tuning. This allows for one-finger power chords..</p>
 </div>
 
 
@@ -639,7 +639,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="268346">C Standard Tuning</a></strong>: C Standard Tuning is like D Standard Tuning except you’re tuning down another whole step. Josh Homme and other stoner rock bands like this tuning; it’s low and sounds incredibly heavy.</p>
+<p><strong><a href="/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="268346">C Standard Tuning</a></strong>: C Standard Tuning is like D Standard Tuning except you’re tuning down another whole step. Josh Homme and other stoner rock bands like this tuning; it’s low and sounds incredibly heavy.</p>
 </div>
 
 

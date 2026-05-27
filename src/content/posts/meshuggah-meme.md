@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Now, with bands as good as Meshuggah, this kind of thing never happens. Name any band; it could be <strong>Metallica, Deftones, Refurbished, Electric Wizard, YOB, Slayer, Radiohead</strong>, whoever. No one ever likes a band’s newest album the most, especially so soon after its release. If you haven’t heard <strong><a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-type="post" data-id="7528" data-lasso-id="104060">IMMUTABLE</a></strong> yet, this should pretty much tell you everything you need to know about it.</p>
+<p>Now, with bands as good as Meshuggah, this kind of thing never happens. Name any band; it could be <strong>Metallica, Deftones, Refurbished, Electric Wizard, YOB, Slayer, Radiohead</strong>, whoever. No one ever likes a band’s newest album the most, especially so soon after its release. If you haven’t heard <strong><a href="/meshuggah-immutable-review/" data-type="post" data-id="7528" data-lasso-id="104060">IMMUTABLE</a></strong> yet, this should pretty much tell you everything you need to know about it.</p>
 
 
 
@@ -97,5 +97,5 @@ seo:
 
 
 
-<p>Check out my <strong><a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-type="post" data-id="7528" data-lasso-id="104063">Meshuggah IMMUTABLE review</a></strong> for a full breakdown of the band’s incredible new album.</p>
+<p>Check out my <strong><a href="/meshuggah-immutable-review/" data-type="post" data-id="7528" data-lasso-id="104063">Meshuggah IMMUTABLE review</a></strong> for a full breakdown of the band’s incredible new album.</p>
 

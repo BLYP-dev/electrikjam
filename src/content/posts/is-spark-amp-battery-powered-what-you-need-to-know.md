@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>I remember when <strong><a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-type="post" data-id="1924" data-lasso-id="7473">Positive Grid’s Spark Amp launched</a></strong> at NAMM. I watched the launch with high expectations. But what <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="7474">Positive Grid</a></strong> unveiled was way beyond what I was expecting –&nbsp;the damn thing looked and sounded amazing.</p>
+<p>I remember when <strong><a href="/killer-guitar-tone-without-hardware/" data-type="post" data-id="1924" data-lasso-id="7473">Positive Grid’s Spark Amp launched</a></strong> at NAMM. I watched the launch with high expectations. But what <strong><a href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="7474">Positive Grid</a></strong> unveiled was way beyond what I was expecting –&nbsp;the damn thing looked and sounded amazing.</p>
 
 
 
@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>Powered by a 40W speaker, the Spark Amp is about the same size as <strong><a data-lasso-id="7475" href="https://www.electrikjam.com/best-lunchbox-amps/" data-type="post" data-id="1455">Orange’s Tiny Terror head</a></strong>, measuring in at 7.4 x 13.7 x 7.0 inches and weighing 11.4 pounds. Designed to be used at home, or in the studio, the Spark Amp doubles as a <strong><a data-lasso-id="7476" href="https://www.electrikjam.com/connect-guitar-to-macbook-guide/" data-type="post" data-id="2722">USB audio interface</a></strong> too, so you can connect it to your Mac/PC and things like Ableton and Garage Band.</p>
+<p>Powered by a 40W speaker, the Spark Amp is about the same size as <strong><a data-lasso-id="7475" href="/best-lunchbox-amps/" data-type="post" data-id="1455">Orange’s Tiny Terror head</a></strong>, measuring in at 7.4 x 13.7 x 7.0 inches and weighing 11.4 pounds. Designed to be used at home, or in the studio, the Spark Amp doubles as a <strong><a data-lasso-id="7476" href="/connect-guitar-to-macbook-guide/" data-type="post" data-id="2722">USB audio interface</a></strong> too, so you can connect it to your Mac/PC and things like Ableton and Garage Band.</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>The Spark MINI is also cheaper, packs in all the same features and tones, and is still VERY loud, thanks to its 10W speaker. Check out all the<strong> <a href="https://www.electrikjam.com/recommends/spark-mini/" data-lasso-id="104017">images and latest details for the MINI here</a>. </strong></p>
+<p>The Spark MINI is also cheaper, packs in all the same features and tones, and is still VERY loud, thanks to its 10W speaker. Check out all the<strong> <a href="/recommends/spark-mini/" data-lasso-id="104017">images and latest details for the MINI here</a>. </strong></p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>How loud is the Spark Amp? <strong>It’s REALLY loud. 40W is a lot of power. For playing guitar, even <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9537">recording guitar</a>, you have more than enough power and volume. And when it is in smart speaker mode, the Spark Amp can fill a large room with loud music, making it ideal for house and loft parties.</strong></p>
+<p>How loud is the Spark Amp? <strong>It’s REALLY loud. 40W is a lot of power. For playing guitar, even <a href="/must-have-for-recording-guitar/" data-lasso-id="9537">recording guitar</a>, you have more than enough power and volume. And when it is in smart speaker mode, the Spark Amp can fill a large room with loud music, making it ideal for house and loft parties.</strong></p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>What is ToneCloud? It is a repository where you can search for and try out other Spark users’ <a href="https://www.electrikjam.com/spark-amp-amp-list/" data-lasso-id="104845">saved guitar and amp sounds</a>. You can search by name –&nbsp;so, <a href="https://www.electrikjam.com/adam-jones-names-the-guitarists-that-influenced-him-most/" data-lasso-id="10868"><em>Tool</em></a>, or <strong><em>Mick Thomson</em></strong> –&nbsp;and some are really good, while others are utterly terrible, as you’d expect.</p>
+<p>What is ToneCloud? It is a repository where you can search for and try out other Spark users’ <a href="/spark-amp-amp-list/" data-lasso-id="104845">saved guitar and amp sounds</a>. You can search by name –&nbsp;so, <a href="/adam-jones-names-the-guitarists-that-influenced-him-most/" data-lasso-id="10868"><em>Tool</em></a>, or <strong><em>Mick Thomson</em></strong> –&nbsp;and some are really good, while others are utterly terrible, as you’d expect.</p>
 
 
 
@@ -131,9 +131,9 @@ seo:
 
 
 
-<p>I have a bunch of practice amps, but the Spark Amp has been my new, daily driver ever since I bought it. It has everything you need, and way, way more. I love that I can use it to transcribe YouTube music, play along with an AI drummer and bass player and that it doubles as a USB audio interface for <a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-lasso-id="114910">recording and demoing new stuff in Reaper</a>.</p>
+<p>I have a bunch of practice amps, but the Spark Amp has been my new, daily driver ever since I bought it. It has everything you need, and way, way more. I love that I can use it to transcribe YouTube music, play along with an AI drummer and bass player and that it doubles as a USB audio interface for <a href="/getting-started-with-reaper-daw/" data-lasso-id="114910">recording and demoing new stuff in Reaper</a>.</p>
 
 
 
-<p>I basically tell everyone I know that plays <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18329">guitar to get this amp</a>. It really is that good. <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">And for the price –&nbsp;$299/£180 </a></strong>–&nbsp;it&#8217;d be cheap at double the cost given everything that it can do. </p>
+<p>I basically tell everyone I know that plays <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18329">guitar to get this amp</a>. It really is that good. <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="/recommends/spark-amp/" data-shortcode="true">And for the price –&nbsp;$299/£180 </a></strong>–&nbsp;it&#8217;d be cheap at double the cost given everything that it can do. </p>
 

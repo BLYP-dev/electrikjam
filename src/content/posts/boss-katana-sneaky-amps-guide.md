@@ -36,7 +36,7 @@ seo:
 
 
 
-<p id="htoc-with-the-release-of-the-katana-3-amplifier-series-the-structure-of-the-amp-sounds-has-been-changed-so-far-user-reports-are-mixed-when-it-comes-to-compatibility-with-the-sneaky-amps-platform">With the <strong><a href="https://www.electrikjam.com/boss-katana-gen-3-100-review-its-complicated/" data-type="post" data-id="15385" data-lasso-id="271351">release of the Katana 3 Amplifier Series</a></strong>, the structure of the amp sounds has been changed. So far, user reports are mixed when it comes to compatibility with the Sneaky Amps platform.</p>
+<p id="htoc-with-the-release-of-the-katana-3-amplifier-series-the-structure-of-the-amp-sounds-has-been-changed-so-far-user-reports-are-mixed-when-it-comes-to-compatibility-with-the-sneaky-amps-platform">With the <strong><a href="/boss-katana-gen-3-100-review-its-complicated/" data-type="post" data-id="15385" data-lasso-id="271351">release of the Katana 3 Amplifier Series</a></strong>, the structure of the amp sounds has been changed. So far, user reports are mixed when it comes to compatibility with the Sneaky Amps platform.</p>
 
 
 
@@ -44,11 +44,11 @@ seo:
 
 
 
-<p id="htoc-boss-katana-mkii-vs-katana-3-here-s-how-they-re-different"><strong><a data-lasso-id="271352" href="https://www.electrikjam.com/boss-katana-mkii-vs-boss-katana-3-what-you-need-to-know/" data-type="post" data-id="15761">Boss Katana MKII vs Katana 3 &#8211; Here&#8217;s How They&#8217;re Different</a></strong></p>
+<p id="htoc-boss-katana-mkii-vs-katana-3-here-s-how-they-re-different"><strong><a data-lasso-id="271352" href="/boss-katana-mkii-vs-boss-katana-3-what-you-need-to-know/" data-type="post" data-id="15761">Boss Katana MKII vs Katana 3 &#8211; Here&#8217;s How They&#8217;re Different</a></strong></p>
 
 
 
-<p id="htoc-"><strong><a href="https://www.electrikjam.com/buying-guides/boss-katana/" data-type="buying-guides" data-id="17621">Boss Katana Amps: The Ultimate Buying Guide (All Models, All Budgets Considered)</a></strong></p>
+<p id="htoc-"><strong><a href="/buying-guides/boss-katana/" data-type="buying-guides" data-id="17621">Boss Katana Amps: The Ultimate Buying Guide (All Models, All Budgets Considered)</a></strong></p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 <h2 class="wp-block-heading" id="BOSS_Katana_Sneaky_Amps:_Where_Did_This_Come_From?"><strong>BOSS Katana Sneaky Amps: Where Did This Come From?</strong></h2>
 
 
-<p>We have given a lot of love to the <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-rn06xg/" target="_blank" data-type="lasso-urls" data-id="6630" rel="nofollow sponsored noopener" data-lasso-id="67028" data-lasso-name="BOSS Katana 100 MKII">BOSS Katana</a> </strong>series here at Electrikjam, and for very good reasons. It made the top choice when it comes to <a href="https://www.electrikjam.com/the-5-best-cheap-amps-you-can-gig-with/" target="_blank" data-type="post" data-id="6613" rel="noopener" data-lasso-id="67029"><strong>gigging amps</strong></a>. The reason the Katana is so popular is because it is so versatile when it comes to the tones that it can produce. You can play any genre of music with it, and it sounds great on stage. You would think that we have exhausted all of the different features of this amp, but&#8230;</p>
+<p>We have given a lot of love to the <strong><a href="/guitar-center-pxf-io-rn06xg/" target="_blank" data-type="lasso-urls" data-id="6630" rel="nofollow sponsored noopener" data-lasso-id="67028" data-lasso-name="BOSS Katana 100 MKII">BOSS Katana</a> </strong>series here at Electrikjam, and for very good reasons. It made the top choice when it comes to <a href="/the-5-best-cheap-amps-you-can-gig-with/" target="_blank" data-type="post" data-id="6613" rel="noopener" data-lasso-id="67029"><strong>gigging amps</strong></a>. The reason the Katana is so popular is because it is so versatile when it comes to the tones that it can produce. You can play any genre of music with it, and it sounds great on stage. You would think that we have exhausted all of the different features of this amp, but&#8230;</p>
 
 
 
@@ -80,11 +80,11 @@ seo:
 
 
 
-<p>We absolutely <em>have not</em> covered all of the features, apparently. I was scrolling through guitar forums and checking out some reviews on the <a href="https://www.electrikjam.com/boss-katana-go-review/" data-lasso-id="262749">BOSS Katana</a> before I bought one. I came across an article about the <strong>BOSS Katana Sneaky Amps</strong>. At first, this sounded like nonsense and I didn&#8217;t pay much attention to it.</p>
+<p>We absolutely <em>have not</em> covered all of the features, apparently. I was scrolling through guitar forums and checking out some reviews on the <a href="/boss-katana-go-review/" data-lasso-id="262749">BOSS Katana</a> before I bought one. I came across an article about the <strong>BOSS Katana Sneaky Amps</strong>. At first, this sounded like nonsense and I didn&#8217;t pay much attention to it.</p>
 
 
 
-<p>But then&#8230; someone on <a href="https://www.reddit.com/user/Guitarjunkie1980" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="67030">reddit</a> brought up the BOSS Katana Sneaky Amps in response to my <a href="https://www.electrikjam.com/the-5-best-cheap-amps-you-can-gig-with/" target="_blank" data-type="post" data-id="6613" rel="noopener" data-lasso-id="67031"><strong>review</strong></a>. I had been singing the praises of how many face-melting tones I have programmed for gigs, and a reddit user brought this &#8220;feature&#8221; to my attention. Being the second time I had heard this phrase, I decided to do some digging, and figure out what all of this really means.</p>
+<p>But then&#8230; someone on <a href="https://www.reddit.com/user/Guitarjunkie1980" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="67030">reddit</a> brought up the BOSS Katana Sneaky Amps in response to my <a href="/the-5-best-cheap-amps-you-can-gig-with/" target="_blank" data-type="post" data-id="6613" rel="noopener" data-lasso-id="67031"><strong>review</strong></a>. I had been singing the praises of how many face-melting tones I have programmed for gigs, and a reddit user brought this &#8220;feature&#8221; to my attention. Being the second time I had heard this phrase, I decided to do some digging, and figure out what all of this really means.</p>
 
 
 
@@ -114,15 +114,15 @@ seo:
 
 
 
-<p>BOSS has been making effects for a long time when it comes to <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" target="_blank" data-type="post" data-id="2938" rel="noopener" data-lasso-id="67032"><strong>pedals</strong></a>. I think every guitarist that uses pedals has at least <em>one</em> BOSS pedal that they really enjoy, and it will stay on the pedalboard through all kinds of transitions. For me, the<a href="https://www.electrikjam.com/boss-tu3-tune/" target="_blank" data-type="lasso-urls" data-id="3769" rel="nofollow noopener" data-lasso-id="67033" data-lasso-name="Boss TU-3 Tuner Pedal"> BOSS Tuner</a> has <em>always</em> been a staple of my rig. I think I have only owned 3 of these TU-X pedals over the course of 23 years. Two of them I lost. One at a gig, and then another at a festival show. The third one is still in my toolbox and has been for over a decade, but this is a serious testament to BOSS quality.</p>
+<p>BOSS has been making effects for a long time when it comes to <a href="/the-5-best-guitar-pedals-under-50-bucks/" target="_blank" data-type="post" data-id="2938" rel="noopener" data-lasso-id="67032"><strong>pedals</strong></a>. I think every guitarist that uses pedals has at least <em>one</em> BOSS pedal that they really enjoy, and it will stay on the pedalboard through all kinds of transitions. For me, the<a href="/boss-tu3-tune/" target="_blank" data-type="lasso-urls" data-id="3769" rel="nofollow noopener" data-lasso-id="67033" data-lasso-name="Boss TU-3 Tuner Pedal"> BOSS Tuner</a> has <em>always</em> been a staple of my rig. I think I have only owned 3 of these TU-X pedals over the course of 23 years. Two of them I lost. One at a gig, and then another at a festival show. The third one is still in my toolbox and has been for over a decade, but this is a serious testament to BOSS quality.</p>
 
 
 
-<p>Later on, BOSS moved into the digital realm in the early 2000&#8217;s to compete with other companies that were making multi-effects units. The first few attempts were hit or miss, until BOSS started using COSM technology. This technology goes all the way back to 1995, as it was first featured on the <strong>Roland VG8</strong> system. The VG8 effects unit was <em>way ahead</em> of it&#8217;s time, and it did a lot of cool modeling tricks long before<strong> <a href="https://www.electrikjam.com/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="67034">Line 6</a> </strong>ever created the <a href="https://www.electrikjam.com/line-6-pod-go-reviews/" target="_blank" data-type="post" data-id="4469" rel="noopener" data-lasso-id="67035"><strong>POD System</strong></a>. It had a fantastic acoustic simulator as well. Confused yet?</p>
+<p>Later on, BOSS moved into the digital realm in the early 2000&#8217;s to compete with other companies that were making multi-effects units. The first few attempts were hit or miss, until BOSS started using COSM technology. This technology goes all the way back to 1995, as it was first featured on the <strong>Roland VG8</strong> system. The VG8 effects unit was <em>way ahead</em> of it&#8217;s time, and it did a lot of cool modeling tricks long before<strong> <a href="/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="67034">Line 6</a> </strong>ever created the <a href="/line-6-pod-go-reviews/" target="_blank" data-type="post" data-id="4469" rel="noopener" data-lasso-id="67035"><strong>POD System</strong></a>. It had a fantastic acoustic simulator as well. Confused yet?</p>
 
 
 
-<p>You see, BOSS and Roland are the same company. The COSM technology is an acronym for “Composite Object Sound Modeling”. Roland used this already with it&#8217;s guitar synth pedals, and it was applied to the new lineup of BOSS effects units. The COSM technology was used with the <a data-lasso-id="67036" href="https://www.electrikjam.com/boss-gt1000-core-a-sneak-peek-at-the-powerful-mini-processor/" data-type="post" data-id="1575" target="_blank" rel="noopener"><strong>BOSS GT</strong></a> units, and it only got better with time. BOSS still uses this tech with the newest version of the<a data-lasso-id="67037" data-lasso-name="BOSS GT-1000 CORE" href="https://www.electrikjam.com/pxf-15/" data-type="lasso-urls" data-id="6674" target="_blank" rel="nofollow sponsored noopener"> <strong>BOSS GT-1000</strong></a>. Albeit, the moniker is different now and the sound quality is 10X better.</p>
+<p>You see, BOSS and Roland are the same company. The COSM technology is an acronym for “Composite Object Sound Modeling”. Roland used this already with it&#8217;s guitar synth pedals, and it was applied to the new lineup of BOSS effects units. The COSM technology was used with the <a data-lasso-id="67036" href="/boss-gt1000-core-a-sneak-peek-at-the-powerful-mini-processor/" data-type="post" data-id="1575" target="_blank" rel="noopener"><strong>BOSS GT</strong></a> units, and it only got better with time. BOSS still uses this tech with the newest version of the<a data-lasso-id="67037" data-lasso-name="BOSS GT-1000 CORE" href="/pxf-15/" data-type="lasso-urls" data-id="6674" target="_blank" rel="nofollow sponsored noopener"> <strong>BOSS GT-1000</strong></a>. Albeit, the moniker is different now and the sound quality is 10X better.</p>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<p>The BOSS Katana is a totally different idea, though. With it&#8217;s Class A/B power section and the limited amp models, the Katana is an <strong>amp first</strong>. This is the main appeal of the design, because you use the Katana totally different than you would an amp modeler. You treat the Katana like you would any other tube amp with multiple channels, especially if you have the <a href="https://www.electrikjam.com/pxf-9/" target="_blank" data-type="lasso-urls" data-id="6627" rel="nofollow sponsored noopener" data-lasso-id="67038" data-lasso-name="BOSS GA-FC Guitar Combo Foot Controller"><strong>footswitch</strong></a>. The lack of features make this amp simple, and the simplicity is what garners mass appeal. This is why it&#8217;s been the best-selling amp for years, and maybe <em>of all time</em>.</p>
+<p>The BOSS Katana is a totally different idea, though. With it&#8217;s Class A/B power section and the limited amp models, the Katana is an <strong>amp first</strong>. This is the main appeal of the design, because you use the Katana totally different than you would an amp modeler. You treat the Katana like you would any other tube amp with multiple channels, especially if you have the <a href="/pxf-9/" target="_blank" data-type="lasso-urls" data-id="6627" rel="nofollow sponsored noopener" data-lasso-id="67038" data-lasso-name="BOSS GA-FC Guitar Combo Foot Controller"><strong>footswitch</strong></a>. The lack of features make this amp simple, and the simplicity is what garners mass appeal. This is why it&#8217;s been the best-selling amp for years, and maybe <em>of all time</em>.</p>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<p>Part of the simplicity of the BOSS Katana when it comes to programming the unit is the amp models. Technically you only have 5 different options for the amp models. The Katana isn&#8217;t like a<a href="https://www.electrikjam.com/line-6-pod-go-reviews/" target="_blank" data-type="post" data-id="4469" rel="noopener" data-lasso-id="67039"> <strong>Line 6</strong></a> product, or something like the <strong><a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener" data-lasso-id="67040">Fender Mustang GTX</a>.</strong> Those have over 80 amp options that you can pick and choose from, all completely different amps to scroll through. <em>The Katana has 5 options for amps.</em></p>
+<p>Part of the simplicity of the BOSS Katana when it comes to programming the unit is the amp models. Technically you only have 5 different options for the amp models. The Katana isn&#8217;t like a<a href="/line-6-pod-go-reviews/" target="_blank" data-type="post" data-id="4469" rel="noopener" data-lasso-id="67039"> <strong>Line 6</strong></a> product, or something like the <strong><a href="/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener" data-lasso-id="67040">Fender Mustang GTX</a>.</strong> Those have over 80 amp options that you can pick and choose from, all completely different amps to scroll through. <em>The Katana has 5 options for amps.</em></p>
 
 
 
@@ -166,11 +166,11 @@ seo:
 
 
 
-<p>The Katana also lacks the usual speaker customization that modeling software features. With products like the <a data-lasso-id="67041" href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"><strong>Helix </strong></a>and other modeling tech, the speaker setup is usually a big feature. Every company does this in a different way, but they are more similar than different since most editing software lets you choose the type of speaker cabinet, the microphone used, and the distance/placement of the speaker mic. Sometimes you can upload third party impulse responses, and skip making your own. With the Katana, we get three impulse responses: Vintage, Modern, and Deep.</p>
+<p>The Katana also lacks the usual speaker customization that modeling software features. With products like the <a data-lasso-id="67041" href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"><strong>Helix </strong></a>and other modeling tech, the speaker setup is usually a big feature. Every company does this in a different way, but they are more similar than different since most editing software lets you choose the type of speaker cabinet, the microphone used, and the distance/placement of the speaker mic. Sometimes you can upload third party impulse responses, and skip making your own. With the Katana, we get three impulse responses: Vintage, Modern, and Deep.</p>
 
 
 
-<p>But now, we all <a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133455">know about the BOSS Katana</a> Sneaky Amps, and this brings quite a few more amp sounds into the mix (pun intended). These are hidden amp models, that are somewhere buried in the Katana software. These were never supposed to be discovered. These sounds are like the Ark of The Covenant, meant to be buried&#8230; and lost for all time.</p>
+<p>But now, we all <a href="/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133455">know about the BOSS Katana</a> Sneaky Amps, and this brings quite a few more amp sounds into the mix (pun intended). These are hidden amp models, that are somewhere buried in the Katana software. These were never supposed to be discovered. These sounds are like the Ark of The Covenant, meant to be buried&#8230; and lost for all time.</p>
 
 
 
@@ -314,15 +314,15 @@ seo:
 
 
 
-<p>The Fender amps sound really great, and they have a little bit of &#8220;something&#8221; that the stock <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140947">BOSS Katana clean/crunch tones</a> do not offer. I tried them out, and they work really well. The VOX models both have the signature VOX chime if you turn down the gain, but even with the gain turned up&#8230;these are good new tone options. With the VOX amps, your presence knob acts as the tone blend knob that VOX amps usually have! Cool!</p>
+<p>The Fender amps sound really great, and they have a little bit of &#8220;something&#8221; that the stock <a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140947">BOSS Katana clean/crunch tones</a> do not offer. I tried them out, and they work really well. The VOX models both have the signature VOX chime if you turn down the gain, but even with the gain turned up&#8230;these are good new tone options. With the VOX amps, your presence knob acts as the tone blend knob that VOX amps usually have! Cool!</p>
 
 
 
-<p>If you have already done some research involving the BOSS Katana Sneaky Amps, then you have probably heard people say that the Matchless DC-30 tone is pretty amazing. I played around with this tone for quite a while, and I managed to dial in a pretty sweet lead tone that sounds brilliant with my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="67044"><strong>Schecter NJ</strong></a>. This is by far my favorite out of all of the amps on this list.</p>
+<p>If you have already done some research involving the BOSS Katana Sneaky Amps, then you have probably heard people say that the Matchless DC-30 tone is pretty amazing. I played around with this tone for quite a while, and I managed to dial in a pretty sweet lead tone that sounds brilliant with my <a href="/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="67044"><strong>Schecter NJ</strong></a>. This is by far my favorite out of all of the amps on this list.</p>
 
 
 
-<p>Unfortunately, you can no longer get the <a data-lasso-id="67045" href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener"><strong>5150 </strong></a>and other high gain tones if your BOSS Katana and Tone Studio are updated, or you have the MKII version of the Katana. I tried everything I could to get it to work, and I came up empty handed. But there is another method to unlock the full potential of the Katana, and get your hands on the Sneaky Amps.</p>
+<p>Unfortunately, you can no longer get the <a data-lasso-id="67045" href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener"><strong>5150 </strong></a>and other high gain tones if your BOSS Katana and Tone Studio are updated, or you have the MKII version of the Katana. I tried everything I could to get it to work, and I came up empty handed. But there is another method to unlock the full potential of the Katana, and get your hands on the Sneaky Amps.</p>
 
 
 
@@ -532,7 +532,7 @@ seo:
 
 
 
-<p>The whole reason I bought this amp, was to have a simple amplifier to record with, and rock the stage. I have <strong><a href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" target="_blank" data-type="post" data-id="4918" rel="noopener" data-lasso-id="67048">Line 6</a> </strong>products, have owned a <a href="https://www.electrikjam.com/guitar-center-pxf-io-orylvw/" target="_blank" data-type="lasso-urls" data-id="5896" rel="nofollow sponsored noopener" data-lasso-id="67049" data-lasso-name="Kemper Profiler Stage Amp"><strong>Kemper</strong></a>, used an<a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="67050"> <strong>FRFR</strong> </a>setup in the past, and finally&#8230; I have used <a href="https://www.electrikjam.com/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176457">tube amps</a>. With the digital options, I always get overwhelmed by option paralysis. There are too many choices for me and I get lost dialing in a good tone. I find that I work best with some limitations set, and the Katana provides those limitations.</p>
+<p>The whole reason I bought this amp, was to have a simple amplifier to record with, and rock the stage. I have <strong><a href="/is-line-6-hx-stomp-worth-it/" target="_blank" data-type="post" data-id="4918" rel="noopener" data-lasso-id="67048">Line 6</a> </strong>products, have owned a <a href="/guitar-center-pxf-io-orylvw/" target="_blank" data-type="lasso-urls" data-id="5896" rel="nofollow sponsored noopener" data-lasso-id="67049" data-lasso-name="Kemper Profiler Stage Amp"><strong>Kemper</strong></a>, used an<a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="67050"> <strong>FRFR</strong> </a>setup in the past, and finally&#8230; I have used <a href="/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176457">tube amps</a>. With the digital options, I always get overwhelmed by option paralysis. There are too many choices for me and I get lost dialing in a good tone. I find that I work best with some limitations set, and the Katana provides those limitations.</p>
 
 
 

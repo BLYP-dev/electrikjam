@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>You even have amp companies trying to make products smaller and lighter, like <strong><a href="https://www.electrikjam.com/new-blackstar-st-james-review/" data-type="post" data-id="8424" target="_blank" rel="noopener" data-lasso-id="223230">the Blackstar St. James series from last year</a></strong>. Those Blackstar amps were very lightweight, but they were still large and cumbersome.</p>
+<p>You even have amp companies trying to make products smaller and lighter, like <strong><a href="/new-blackstar-st-james-review/" data-type="post" data-id="8424" target="_blank" rel="noopener" data-lasso-id="223230">the Blackstar St. James series from last year</a></strong>. Those Blackstar amps were very lightweight, but they were still large and cumbersome.</p>
 
 
 
@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>This is the problem, and why so many guitarists are considering a digital guitar rig. Not only is is hard to transport these big amps around, you usually have to<strong><a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="223231"> crank a tube amp</a></strong> for it to sound good. </p>
+<p>This is the problem, and why so many guitarists are considering a digital guitar rig. Not only is is hard to transport these big amps around, you usually have to<strong><a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="223231"> crank a tube amp</a></strong> for it to sound good. </p>
 
 
 
@@ -70,7 +70,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong>So are you thinking about going digital? Let&#8217;s take a look at the top 5 <a href="https://www.electrikjam.com/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225983">reasons why a digital guitar</a> rig might be the solution you are looking for!</strong></p>
+<p class="has-text-align-center"><strong>So are you thinking about going digital? Let&#8217;s take a look at the top 5 <a href="/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225983">reasons why a digital guitar</a> rig might be the solution you are looking for!</strong></p>
 
 
 
@@ -86,11 +86,11 @@ seo:
 
 
 
-<p>This is probably one of the biggest ones, especially for guitarists that do not want to lug around an amp anymore. A digital processor <strong><a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="223232">like the Helix</a></strong> or the immense <strong><a href="https://www.electrikjam.com/headrush-prime-first-look/" data-type="post" data-id="11193" target="_blank" rel="noopener" data-lasso-id="223233">new Headrush Prime</a></strong> is going to be so easy to get set up for a show.</p>
+<p>This is probably one of the biggest ones, especially for guitarists that do not want to lug around an amp anymore. A digital processor <strong><a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="223232">like the Helix</a></strong> or the immense <strong><a href="/headrush-prime-first-look/" data-type="post" data-id="11193" target="_blank" rel="noopener" data-lasso-id="223233">new Headrush Prime</a></strong> is going to be so easy to get set up for a show.</p>
 
 
 
-<p>Some people will want to <strong><a href="https://www.electrikjam.com/best-frfr-speaker/" data-type="post" data-id="11014" target="_blank" rel="noopener" data-lasso-id="223234">have an FRFR speaker </a></strong>on stage to either monitor their performance, or use the FRFR as the primary sound source while using digital gear. So an FRFR will add to the size of your digital guitar rig, but every stage/venue will be different.</p>
+<p>Some people will want to <strong><a href="/best-frfr-speaker/" data-type="post" data-id="11014" target="_blank" rel="noopener" data-lasso-id="223234">have an FRFR speaker </a></strong>on stage to either monitor their performance, or use the FRFR as the primary sound source while using digital gear. So an FRFR will add to the size of your digital guitar rig, but every stage/venue will be different.</p>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<p>The quality of the<strong><a href="https://www.electrikjam.com/line-6-guide/" data-type="post" data-id="9935" target="_blank" rel="noopener" data-lasso-id="223235"> effects you get from Line 6</a></strong>, for example, definitely rivals the quality of physical pedals that I used to have. When I use a Helix to record, I have hundreds of effects right at my fingertips. While my physical pedalboard was limited to what I had on the board.</p>
+<p>The quality of the<strong><a href="/line-6-guide/" data-type="post" data-id="9935" target="_blank" rel="noopener" data-lasso-id="223235"> effects you get from Line 6</a></strong>, for example, definitely rivals the quality of physical pedals that I used to have. When I use a Helix to record, I have hundreds of effects right at my fingertips. While my physical pedalboard was limited to what I had on the board.</p>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<p>Most of the time,<strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="223236"> I use my BOSS Katana </a></strong>for practice, and it has several distinct amp sounds. But when I am recording, I use STL Tones AmpHub. This gives me a multitude of different amp sounds to use at any given point in time. And that is just the plugin side of things in the studio.</p>
+<p>Most of the time,<strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="223236"> I use my BOSS Katana </a></strong>for practice, and it has several distinct amp sounds. But when I am recording, I use STL Tones AmpHub. This gives me a multitude of different amp sounds to use at any given point in time. And that is just the plugin side of things in the studio.</p>
 
 
 
@@ -272,11 +272,11 @@ seo:
 
 
 
-<p>You can dial in any sound you want, and most processors have &#8220;artist packs&#8221; that replicate the sounds from your favorite guitarists. Do you want to have a Marshall stack sound in your bedroom? A <strong><a href="https://www.electrikjam.com/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="223238">Peavey 5150 sound</a></strong> for your solos on stage?</p>
+<p>You can dial in any sound you want, and most processors have &#8220;artist packs&#8221; that replicate the sounds from your favorite guitarists. Do you want to have a Marshall stack sound in your bedroom? A <strong><a href="/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="223238">Peavey 5150 sound</a></strong> for your solos on stage?</p>
 
 
 
-<p>You can get just about any sound that you can imagine, and edit it however you want. The better units have more control, but even smaller <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="223239">budget models</a></strong> have a lot of great features these days. Even the pros have switched to some kind of digital guitar rig these days. People like:</p>
+<p>You can get just about any sound that you can imagine, and edit it however you want. The better units have more control, but even smaller <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="223239">budget models</a></strong> have a lot of great features these days. Even the pros have switched to some kind of digital guitar rig these days. People like:</p>
 
 
 
@@ -322,11 +322,11 @@ seo:
 
 
 
-<p>If you are just getting started with recording, then you have probably <strong><a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="223240">checked out what you will need</a></strong> to get started. The big thing that you need, is an interface of some sort. But most digital guitar rig processors have a &#8220;built-in&#8221; interface via USB!</p>
+<p>If you are just getting started with recording, then you have probably <strong><a href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="223240">checked out what you will need</a></strong> to get started. The big thing that you need, is an interface of some sort. But most digital guitar rig processors have a &#8220;built-in&#8221; interface via USB!</p>
 
 
 
-<p>This means all you need is to record is a USB cable, and your processor! But even if you don&#8217;t plan on using it as an interface, recording is MUCH easier than the <strong><a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="223241">traditional way of capturing guitar sounds</a></strong>. Usually, you would have to mic up your speaker/amp and that takes some experience, as well as some serious trial and error.</p>
+<p>This means all you need is to record is a USB cable, and your processor! But even if you don&#8217;t plan on using it as an interface, recording is MUCH easier than the <strong><a href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="223241">traditional way of capturing guitar sounds</a></strong>. Usually, you would have to mic up your speaker/amp and that takes some experience, as well as some serious trial and error.</p>
 
 
 
@@ -334,7 +334,7 @@ seo:
 
 
 
-<p>At a professional level, you can do a LOT with a digital guitar rig. I have used STL Tones, Line 6, and <strong><a href="https://www.electrikjam.com/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener" data-lasso-id="223242">Neural Amp Modeler lately in the studio</a></strong>. I have all kinds of tones saved, and ready to go when I am ready to start recording a song.</p>
+<p>At a professional level, you can do a LOT with a digital guitar rig. I have used STL Tones, Line 6, and <strong><a href="/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener" data-lasso-id="223242">Neural Amp Modeler lately in the studio</a></strong>. I have all kinds of tones saved, and ready to go when I am ready to start recording a song.</p>
 
 
 

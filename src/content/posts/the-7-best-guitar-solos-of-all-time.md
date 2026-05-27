@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>These are the best guitar solos of all time because they are remembered by <strong>everyone</strong>, even people that are <strong>not </strong>guitar players. That&#8217;s exactly what makes something timeless in nature. Sure, I would be able to replace every single one of these solos with something better, and more complex or harmonically rich. But my choices were from a <a href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-lasso-id="120184">guitar</a> player&#8217;s perspective, and solos that inspire us in the beginning. Why did you pick up a guitar for the first time?</p>
+<p>These are the best guitar solos of all time because they are remembered by <strong>everyone</strong>, even people that are <strong>not </strong>guitar players. That&#8217;s exactly what makes something timeless in nature. Sure, I would be able to replace every single one of these solos with something better, and more complex or harmonically rich. But my choices were from a <a href="/22-frets-vs-24-frets-explained/" data-lasso-id="120184">guitar</a> player&#8217;s perspective, and solos that inspire us in the beginning. Why did you pick up a guitar for the first time?</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>So what we are going to do today is break these down with musical terms, and talk about <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" target="_blank" data-type="post" data-id="6641" rel="noopener" data-lasso-id="77637"><strong>amps</strong></a> and <a href="https://www.electrikjam.com/best-electric-guitars/" target="_blank" data-type="page" data-id="4928" rel="noopener" data-lasso-id="77638"><strong>guitars</strong></a>. But we are also going to be looking at these solos from a listener&#8217;s perspective. <strong>Rick Beato</strong> does this pretty often on his popular YouTube channel. I love his videos, but we are going to try to blend what Rick does, with someone that has no musical knowledge at all. This is going to be an interesting balance!</p>
+<p>So what we are going to do today is break these down with musical terms, and talk about <a href="/the-best-budget-tube-amps/" target="_blank" data-type="post" data-id="6641" rel="noopener" data-lasso-id="77637"><strong>amps</strong></a> and <a href="/best-electric-guitars/" target="_blank" data-type="page" data-id="4928" rel="noopener" data-lasso-id="77638"><strong>guitars</strong></a>. But we are also going to be looking at these solos from a listener&#8217;s perspective. <strong>Rick Beato</strong> does this pretty often on his popular YouTube channel. I love his videos, but we are going to try to blend what Rick does, with someone that has no musical knowledge at all. This is going to be an interesting balance!</p>
 
 
 
@@ -119,11 +119,11 @@ seo:
 
 
 
-<p>The effects <a data-lasso-id="77644" href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-type="post" data-id="2863" target="_blank" rel="noopener"><strong>pedals</strong></a> that Eddie used help to transport the listener into another dimension. On top of the flashy tapping that sounds like someone playing guitar at light speed, the effects bounce the sound from the ear to ear in stereo reverb. For someone without a trained ear, this still sounds like an inhuman feat, and the last note trails off right into the next song, a cover of<strong> The Kinks</strong>. &#8220;Eruption&#8221; never gives the listener a second to catch their breath.</p>
+<p>The effects <a data-lasso-id="77644" href="/the-best-guitar-pedals-1968-2021/" data-type="post" data-id="2863" target="_blank" rel="noopener"><strong>pedals</strong></a> that Eddie used help to transport the listener into another dimension. On top of the flashy tapping that sounds like someone playing guitar at light speed, the effects bounce the sound from the ear to ear in stereo reverb. For someone without a trained ear, this still sounds like an inhuman feat, and the last note trails off right into the next song, a cover of<strong> The Kinks</strong>. &#8220;Eruption&#8221; never gives the listener a second to catch their breath.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195325">Eddie Van Halen</a> will be remembered forever for his amazing contributions to the zeitgeist of guitar playing and his innovations to the instrument. Eddie was a monster guitar player, that could also <a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238699">write a pop song</a>. The music appealed to guitar players because of Eddie&#8217;s technique, but it appealed to <em>everyone else</em> because his music was infectious and had memorable hooks. This is a talent that happens once in a lifetime, and Eddie will be missed but never forgotten.</p>
+<p><a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195325">Eddie Van Halen</a> will be remembered forever for his amazing contributions to the zeitgeist of guitar playing and his innovations to the instrument. Eddie was a monster guitar player, that could also <a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238699">write a pop song</a>. The music appealed to guitar players because of Eddie&#8217;s technique, but it appealed to <em>everyone else</em> because his music was infectious and had memorable hooks. This is a talent that happens once in a lifetime, and Eddie will be missed but never forgotten.</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>Gary was one of many guitarists that could have their own list of &#8220;best <a href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206354">guitar solos</a> of all time&#8221; because he has some many different songs to choose from. Gary also was the type of guitarist that used several different types of guitars. He is just as well known for using a <a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="77645"><strong>Fender </strong></a>Stratocaster as he is a Gibson<a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="77646"> <strong>Les Paul</strong></a>. In fact, he once played the famous &#8220;Greenie&#8221; 1959 Les Paul that Peter Green made a legend. Kirk Hammet owns this guitar these days!</p>
+<p>Gary was one of many guitarists that could have their own list of &#8220;best <a href="/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206354">guitar solos</a> of all time&#8221; because he has some many different songs to choose from. Gary also was the type of guitarist that used several different types of guitars. He is just as well known for using a <a href="/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="77645"><strong>Fender </strong></a>Stratocaster as he is a Gibson<a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="77646"> <strong>Les Paul</strong></a>. In fact, he once played the famous &#8220;Greenie&#8221; 1959 Les Paul that Peter Green made a legend. Kirk Hammet owns this guitar these days!</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>What makes this so cool for guitarists, is that there are a few rules broken here. The tonic is definitely A minor in this song, and the progression would usually call for the Aeolian mode for the solo parts. The chord pattern is a circle of fourths, which is interesting for a few reasons as well. Normally, you would use an E minor chord in an A minor progression, but not here. In this song, you use the harmonic <a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-lasso-id="127901">minor scale</a> in A, this changes that E chord to major instead of minor.</p>
+<p>What makes this so cool for guitarists, is that there are a few rules broken here. The tonic is definitely A minor in this song, and the progression would usually call for the Aeolian mode for the solo parts. The chord pattern is a circle of fourths, which is interesting for a few reasons as well. Normally, you would use an E minor chord in an A minor progression, but not here. In this song, you use the harmonic <a href="/theory-for-guitarists-the-minor-scale/" data-lasso-id="127901">minor scale</a> in A, this changes that E chord to major instead of minor.</p>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<p>Technically, this song is not written by Larry Carlton at all. This song was written by <strong>Steely Dan</strong>, and Larry just played the solo. You see, Larry was a session guitarist that played guitar on so many albums that it would be a whole article just to list them! he was all over famous albums, and even did some TV theme songs. These days Larry has a solo career, and even has his own signature guitars made by<strong> <a href="https://www.electrikjam.com/sire-guitars-l7-review/" target="_blank" data-type="post" data-id="6029" rel="noopener" data-lasso-id="77647">Sire Guitars</a></strong>.</p>
+<p>Technically, this song is not written by Larry Carlton at all. This song was written by <strong>Steely Dan</strong>, and Larry just played the solo. You see, Larry was a session guitarist that played guitar on so many albums that it would be a whole article just to list them! he was all over famous albums, and even did some TV theme songs. These days Larry has a solo career, and even has his own signature guitars made by<strong> <a href="/sire-guitars-l7-review/" target="_blank" data-type="post" data-id="6029" rel="noopener" data-lasso-id="77647">Sire Guitars</a></strong>.</p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p>But what makes this one of the best guitar solos of all time is how well is flows for the <strong>listener</strong>. Larry is <em>right in the pocket</em> when he launches into the solo, and the way he plays is just so smooth and easy to digest. <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="120216">The listener never gets bored with the solo, because it flows so well, and weaves in and out of the chord progressions</a>. You can<em> feel </em>every note Larry plays, with or without any music training. The whole song works well in transporting the listener to a different realm, possibly a dark one where this story takes place!</p>
+<p>But what makes this one of the best guitar solos of all time is how well is flows for the <strong>listener</strong>. Larry is <em>right in the pocket</em> when he launches into the solo, and the way he plays is just so smooth and easy to digest. <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="120216">The listener never gets bored with the solo, because it flows so well, and weaves in and out of the chord progressions</a>. You can<em> feel </em>every note Larry plays, with or without any music training. The whole song works well in transporting the listener to a different realm, possibly a dark one where this story takes place!</p>
 
 
 
@@ -255,11 +255,11 @@ seo:
 
 
 
-<p>At the end of the phrase, Joe kicks in with his signature pentatonic blues licks and bends while Don goes back to playing rhythm guitar. His phrasing matches what Don just played, but with different feel and phrasing. Then, at the end of Joe&#8217;s part, both guitarists <a href="https://www.electrikjam.com/how-do-you-practice-scales/" data-lasso-id="215792">play an ascending scale</a> pattern in harmonic unison. Once they reach the top note, they begin the famous scale pattern that will play out for the rest of the song, both in harmony. Even the bass is playing this pattern to accent the notes. Right when you feel like they are going on too long, the song abruptly ends.</p>
+<p>At the end of the phrase, Joe kicks in with his signature pentatonic blues licks and bends while Don goes back to playing rhythm guitar. His phrasing matches what Don just played, but with different feel and phrasing. Then, at the end of Joe&#8217;s part, both guitarists <a href="/how-do-you-practice-scales/" data-lasso-id="215792">play an ascending scale</a> pattern in harmonic unison. Once they reach the top note, they begin the famous scale pattern that will play out for the rest of the song, both in harmony. Even the bass is playing this pattern to accent the notes. Right when you feel like they are going on too long, the song abruptly ends.</p>
 
 
 
-<p>The solo &#8220;trade off&#8221; between the two guitarists acts like a duel between Joe and Don. This is so cool, and it <em>sounds </em>like a jam session. But the notes were<em> carefully </em>written by both guitarists and they play it the same almost every show. Most live footage I have seen has Don playing a double neck SG, or a <a href="https://www.electrikjam.com/gibson-les-paul-standard-link/" data-type="lasso-urls" data-id="6443" target="_blank" rel="nofollow noopener" data-lasso-id="77648" data-lasso-name="Gibson Les Paul Standard &#039;60s"><strong>Gibson</strong></a> Les Paul, and Joe is playing a<strong> <a href="https://www.electrikjam.com/pxf-17/" data-type="lasso-urls" data-id="6726" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="77649" data-lasso-name="Squier 40th Anniversary Telecaster">Fender Telecaster</a>.</strong> This gives both guys a unique tone, so when they play in unison, the guitars are together but <em>tonally</em> separate. </p>
+<p>The solo &#8220;trade off&#8221; between the two guitarists acts like a duel between Joe and Don. This is so cool, and it <em>sounds </em>like a jam session. But the notes were<em> carefully </em>written by both guitarists and they play it the same almost every show. Most live footage I have seen has Don playing a double neck SG, or a <a href="/gibson-les-paul-standard-link/" data-type="lasso-urls" data-id="6443" target="_blank" rel="nofollow noopener" data-lasso-id="77648" data-lasso-name="Gibson Les Paul Standard &#039;60s"><strong>Gibson</strong></a> Les Paul, and Joe is playing a<strong> <a href="/pxf-17/" data-type="lasso-urls" data-id="6726" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="77649" data-lasso-name="Squier 40th Anniversary Telecaster">Fender Telecaster</a>.</strong> This gives both guys a unique tone, so when they play in unison, the guitars are together but <em>tonally</em> separate. </p>
 
 
 
@@ -291,7 +291,7 @@ seo:
 
 
 
-<p>This list of the best guitar solos of all time wouldn&#8217;t be complete without Jimi. So I wanted to pick &#8220;All Along The Watchtower&#8221; to showcase the best solo for <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101456">Jimi Hendrix</a>. But as I dove into his entire catalog this morning before writing this article, I found tons of amazing solos. I couldn&#8217;t pick just one, because they are all amazing. Then I watched some live footage, where he would usually improvise the solo.</p>
+<p>This list of the best guitar solos of all time wouldn&#8217;t be complete without Jimi. So I wanted to pick &#8220;All Along The Watchtower&#8221; to showcase the best solo for <a href="/jimi-hendrix-guitar-tuning/" data-lasso-id="101456">Jimi Hendrix</a>. But as I dove into his entire catalog this morning before writing this article, I found tons of amazing solos. I couldn&#8217;t pick just one, because they are all amazing. Then I watched some live footage, where he would usually improvise the solo.</p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p>His solo style as out of this world, and it changed the landscape for guitar players forever. <a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125571">He used fuzz pedals</a> and cranked Marshall amps on the stage to weave feedback into his solos in a musical way. Jimi was very calculated when it came to his tone, even if it may have seemed like total chaos on the stage&#8230;it was all planned. He knew how to manipulate effects to do what he needed on stage, and he blazed the trail for gear heads everywhere.</p>
+<p>His solo style as out of this world, and it changed the landscape for guitar players forever. <a href="/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125571">He used fuzz pedals</a> and cranked Marshall amps on the stage to weave feedback into his solos in a musical way. Jimi was very calculated when it came to his tone, even if it may have seemed like total chaos on the stage&#8230;it was all planned. He knew how to manipulate effects to do what he needed on stage, and he blazed the trail for gear heads everywhere.</p>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<p>Mark had a secret weapon for sure, but it wasn&#8217;t tapping. He played with his<em> fingers</em>, and while tons of his riffs are amazing, &#8220;Sultans of Swing&#8221; is by far one of the best guitar solos of all time. For one, it&#8217;s the only guitar solo on this list that doesn&#8217;t have a high gain tone. The solo is all clean, played on a<a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-type="post" data-id="3336" target="_blank" rel="noopener" data-lasso-id="77650"> <strong>Fender Strat </strong></a>through a Fender Twin <strong><a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="77651">amp</a>.</strong> There is no distortion on this one, just outstanding technique.</p>
+<p>Mark had a secret weapon for sure, but it wasn&#8217;t tapping. He played with his<em> fingers</em>, and while tons of his riffs are amazing, &#8220;Sultans of Swing&#8221; is by far one of the best guitar solos of all time. For one, it&#8217;s the only guitar solo on this list that doesn&#8217;t have a high gain tone. The solo is all clean, played on a<a href="/the-best-fender-strat-alternative-in-2021/" data-type="post" data-id="3336" target="_blank" rel="noopener" data-lasso-id="77650"> <strong>Fender Strat </strong></a>through a Fender Twin <strong><a href="/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="77651">amp</a>.</strong> There is no distortion on this one, just outstanding technique.</p>
 
 
 
@@ -395,7 +395,7 @@ seo:
 
 
 
-<p>There is so much emotion being conveyed in this major key section, and several of David&#8217;s runs <a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104742">follow the drums</a> with a little bit of staccato that leads back into those famous bends. David stays mostly in one place during the D to A progression&#8230;until song moves to C and G. He switches modes, and it sounds very serious yet beautiful. The final descending scale ends on the tonic, perfectly. If this were all the song had, it would still be <em>legendary</em>.</p>
+<p>There is so much emotion being conveyed in this major key section, and several of David&#8217;s runs <a href="/ezdrummer-2-worth-it/" data-lasso-id="104742">follow the drums</a> with a little bit of staccato that leads back into those famous bends. David stays mostly in one place during the D to A progression&#8230;until song moves to C and G. He switches modes, and it sounds very serious yet beautiful. The final descending scale ends on the tonic, perfectly. If this were all the song had, it would still be <em>legendary</em>.</p>
 
 
 
@@ -427,7 +427,7 @@ seo:
 
 
 
-<p>These are not just great guitar solos that are isolated incidents. These are<strong> great guitar players</strong>, period. These are people that had/have something extremely special. Their talent and proficiency on the guitar is off the charts. I mean, I couldn&#8217;t even pick a song for <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99502">Jimi Hendrix</a>.</em> These are the best of the best, and they still inspire new generations. Hopefully, they inspire you to play better, and keep learning, improving&#8230;the way that they do me.</p>
+<p>These are not just great guitar solos that are isolated incidents. These are<strong> great guitar players</strong>, period. These are people that had/have something extremely special. Their talent and proficiency on the guitar is off the charts. I mean, I couldn&#8217;t even pick a song for <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99502">Jimi Hendrix</a>.</em> These are the best of the best, and they still inspire new generations. Hopefully, they inspire you to play better, and keep learning, improving&#8230;the way that they do me.</p>
 
 
 

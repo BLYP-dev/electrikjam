@@ -47,11 +47,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221304">With standard tuning</a>, <strong>your guitar is tuned EADGBE </strong>. This is the tuning most guitarists learn in. Usually, people think standard tuning is soft and too delicate for metal. They think you need to drop the strings a step or two to get that quintessential “metal chug” –&nbsp;but this isn’t entirely true.</p>
+<p><a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221304">With standard tuning</a>, <strong>your guitar is tuned EADGBE </strong>. This is the tuning most guitarists learn in. Usually, people think standard tuning is soft and too delicate for metal. They think you need to drop the strings a step or two to get that quintessential “metal chug” –&nbsp;but this isn’t entirely true.</p>
 
 
 
-<p>If you know what you’re doing with your guitar, you can make it sound as heavy as you like –&nbsp;regardless of tuning. Standard Tuning can –&nbsp;and does –&nbsp;sound just as heavy as dropped tunings. You just have to know what you’re doing and have a <strong><a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" data-lasso-id="142209">nice tone dialed in on your amp</a></strong>.</p>
+<p>If you know what you’re doing with your guitar, you can make it sound as heavy as you like –&nbsp;regardless of tuning. Standard Tuning can –&nbsp;and does –&nbsp;sound just as heavy as dropped tunings. You just have to know what you’re doing and have a <strong><a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" data-lasso-id="142209">nice tone dialed in on your amp</a></strong>.</p>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<p>Even today, in its current prog-rock guise, Opeth still uses Standard Tuning. The band has <strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="142210">experimented with Drop D</a></strong> on a couple of tracks but the vast majority of Opeth songs are written, recorded, and played in Standard Tuning.</p>
+<p>Even today, in its current prog-rock guise, Opeth still uses Standard Tuning. The band has <strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="142210">experimented with Drop D</a></strong> on a couple of tracks but the vast majority of Opeth songs are written, recorded, and played in Standard Tuning.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>And when you see <strong><a href="https://www.electrikjam.com/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-lasso-id="215949">EXACTLY what pedals Dimebag used</a></strong> to create his iconic guitar tone, you&#8217;ll start to appreciate just how good a guitarist he was – he only ever really used four! </p>
+<p>And when you see <strong><a href="/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-lasso-id="215949">EXACTLY what pedals Dimebag used</a></strong> to create his iconic guitar tone, you&#8217;ll start to appreciate just how good a guitarist he was – he only ever really used four! </p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>Dave Mustaine doesn’t like <strong><a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-type="post" data-id="7040" data-lasso-id="142211">drop tunings or lower alternative tunings</a></strong>. The reason? You lose detail and clarity. For this reason, Mustaine has been mainly using standard tuning for the past several decades. Sure, Megadeath has used alternate tunings but the vast majority of the band’s material is written in standard tuning.</p>
+<p>Dave Mustaine doesn’t like <strong><a href="/bands-that-play-in-d-standard/" data-type="post" data-id="7040" data-lasso-id="142211">drop tunings or lower alternative tunings</a></strong>. The reason? You lose detail and clarity. For this reason, Mustaine has been mainly using standard tuning for the past several decades. Sure, Megadeath has used alternate tunings but the vast majority of the band’s material is written in standard tuning.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>Slayer is about as metal as it gets. The band mostly plays in <strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" data-lasso-id="142212">Eb tuning</a></strong>, so half a step down from standard, but Slayer’s Show No Mercy album was recorded in standard tuning.</p>
+<p>Slayer is about as metal as it gets. The band mostly plays in <strong><a href="/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" data-lasso-id="142212">Eb tuning</a></strong>, so half a step down from standard, but Slayer’s Show No Mercy album was recorded in standard tuning.</p>
 
 
 

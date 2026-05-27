@@ -93,7 +93,7 @@ seo:
 
 
 
-<p>A lot of us are <strong><a href="https://www.electrikjam.com/the-best-amp-simulators-in-2021/" data-type="post" data-id="2687" data-lasso-id="259336">using amp sims in the studio</a></strong> these days, from professionals to bedroom guitarists. As a matter of fact, the project I have been working on at a professional studio features amp sims from <strong><a href="https://www.electrikjam.com/positive-grid-riff-review/" data-type="post" data-id="8083" data-lasso-id="259337">Positive Grid</a></strong> and <strong>Archetype</strong>.</p>
+<p>A lot of us are <strong><a href="/the-best-amp-simulators-in-2021/" data-type="post" data-id="2687" data-lasso-id="259336">using amp sims in the studio</a></strong> these days, from professionals to bedroom guitarists. As a matter of fact, the project I have been working on at a professional studio features amp sims from <strong><a href="/positive-grid-riff-review/" data-type="post" data-id="8083" data-lasso-id="259337">Positive Grid</a></strong> and <strong>Archetype</strong>.</p>
 
 
 
@@ -105,7 +105,7 @@ seo:
 
 
 
-<p><strong>The purpose of an amp simulator is to give you the closest tone possible as a real amp.</strong> If <strong><a data-lasso-id="259338" href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892">I set my STL Tones AmpHub </a></strong>to a &#8220;Fender Clean&#8221; then I expect it to be a glassy clean tone with a ton of midrange. Just like my actual Fender amp.</p>
+<p><strong>The purpose of an amp simulator is to give you the closest tone possible as a real amp.</strong> If <strong><a data-lasso-id="259338" href="/stl-amphub-review/" data-type="post" data-id="5892">I set my STL Tones AmpHub </a></strong>to a &#8220;Fender Clean&#8221; then I expect it to be a glassy clean tone with a ton of midrange. Just like my actual Fender amp.</p>
 
 
 
@@ -133,7 +133,7 @@ seo:
 
 
 
-<p>Gain staging is something we think about as guitarists all the time! We often <strong><a data-lasso-id="259361" href="https://www.electrikjam.com/alabs-guitar-pedals-preview/" data-type="post" data-id="13548">stack different pedals</a></strong> to achieve several levels of distortion/breakup. But we almost always start with a clean tone, and then stack gain on top. </p>
+<p>Gain staging is something we think about as guitarists all the time! We often <strong><a data-lasso-id="259361" href="/alabs-guitar-pedals-preview/" data-type="post" data-id="13548">stack different pedals</a></strong> to achieve several levels of distortion/breakup. But we almost always start with a clean tone, and then stack gain on top. </p>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<p>But we have forgotten a crucial piece of the signal chain: <strong><a data-lasso-id="259339" href="https://www.electrikjam.com/m-audio-releases-the-m-track-solo-and-duo/" data-type="post" data-id="1652">Your audio interface</a></strong>.</p>
+<p>But we have forgotten a crucial piece of the signal chain: <strong><a data-lasso-id="259339" href="/m-audio-releases-the-m-track-solo-and-duo/" data-type="post" data-id="1652">Your audio interface</a></strong>.</p>
 
 
 

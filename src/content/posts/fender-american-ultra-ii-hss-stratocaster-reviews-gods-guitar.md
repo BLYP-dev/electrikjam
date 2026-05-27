@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" data-type="new-guitar-releases" data-id="17879">Fender American Ultra II HSS Stratocaster </a></strong>is not your grandfather&#8217;s Strat. It is a <strong>professional-grade instrument built for the demands of </strong>modern players. Whether you&#8217;re a bedroom producer or a touring musician, this guitar is aimed squarely at you.</p>
+<p>The <strong><a href="/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" data-type="new-guitar-releases" data-id="17879">Fender American Ultra II HSS Stratocaster </a></strong>is not your grandfather&#8217;s Strat. It is a <strong>professional-grade instrument built for the demands of </strong>modern players. Whether you&#8217;re a bedroom producer or a touring musician, this guitar is aimed squarely at you.</p>
 
 
 
@@ -282,7 +282,7 @@ seo:
 
 
 
-<p>If you can stretch your funds, the <strong><a href="https://www.electrikjam.com/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" data-type="new-guitar-releases" data-id="17879">Fender American Ultra II HSS Stratocaster is one of the best investments</a></strong> you&#8217;ll make this year. </p>
+<p>If you can stretch your funds, the <strong><a href="/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" data-type="new-guitar-releases" data-id="17879">Fender American Ultra II HSS Stratocaster is one of the best investments</a></strong> you&#8217;ll make this year. </p>
 
 
 

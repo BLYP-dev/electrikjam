@@ -39,7 +39,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/fender-mustang-micro-uk-release-date/" data-lasso-id="1232">Fender has officially launched the Fender Mustang Micro amp</a></strong>, a small personal amplifier rig that is designed to fit inside your pocket. I literally just saw an ad for it on Instagram and had to do a post about it – it looks really cool.</p>
+<p><strong><a class="rank-math-link" href="/fender-mustang-micro-uk-release-date/" data-lasso-id="1232">Fender has officially launched the Fender Mustang Micro amp</a></strong>, a small personal amplifier rig that is designed to fit inside your pocket. I literally just saw an ad for it on Instagram and had to do a post about it – it looks really cool.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/fender-mustang-micro-bass/" class="rank-math-link" data-lasso-id="1233">Mustang Micro will also work with your bass guitar</a></strong> too.</p>
+<p>The <strong><a href="/fender-mustang-micro-bass/" class="rank-math-link" data-lasso-id="1233">Mustang Micro will also work with your bass guitar</a></strong> too.</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>RELATED: <a class="rank-math-link" href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="1235">How Long Does It Take To Get Good On Guitar?</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>RELATED: <a class="rank-math-link" href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="1235">How Long Does It Take To Get Good On Guitar?</a></strong></li></ul>
 
 
 
@@ -79,15 +79,15 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-lasso-id="42958">Fender Mustang</a> Micro is pretty simple to use; everything is analog with respect to buttons and controls. You have a volume control on the front of the device and buttons down the side for switching between amp profiles and effects.</p>
+<p>The <a href="/fender-mustang-gtx-100-review/" data-lasso-id="42958">Fender Mustang</a> Micro is pretty simple to use; everything is analog with respect to buttons and controls. You have a volume control on the front of the device and buttons down the side for switching between amp profiles and effects.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1236">Fender</a></strong> is kitted the Mustang Micro out with 12 specific amp profiles, so you can switch between crushing heavy metal tones and laid back clean tones and everything else in between. As noted earlier, the amp profiles are based on <strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1237">Fender’s Mustang GTX amplifiers</a></strong>.</p>
+<p><strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1236">Fender</a></strong> is kitted the Mustang Micro out with 12 specific amp profiles, so you can switch between crushing heavy metal tones and laid back clean tones and everything else in between. As noted earlier, the amp profiles are based on <strong><a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1237">Fender’s Mustang GTX amplifiers</a></strong>.</p>
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Coming from <a href="https://www.electrikjam.com/best-selling-guitars/" data-lasso-id="19196">the popular Mustang Series</a> of amplifiers, all you do is plug the Mustang Micro into your guitar, connect your favorite wired headphones or earbuds and choose your amp and effects settings. You won’t have the need to deal with pesky cords linked to an external amp, phone or computer to access a wide range of tones and silently play with a responsive touch and feel without annoying latency.</p><cite><strong><a class="rank-math-link" href="https://www.fender.com/en-GB/mustang-micro.html" data-lasso-id="1238" target="_blank" rel="noopener noreferrer nofollow">Fender</a></strong></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Coming from <a href="/best-selling-guitars/" data-lasso-id="19196">the popular Mustang Series</a> of amplifiers, all you do is plug the Mustang Micro into your guitar, connect your favorite wired headphones or earbuds and choose your amp and effects settings. You won’t have the need to deal with pesky cords linked to an external amp, phone or computer to access a wide range of tones and silently play with a responsive touch and feel without annoying latency.</p><cite><strong><a class="rank-math-link" href="https://www.fender.com/en-GB/mustang-micro.html" data-lasso-id="1238" target="_blank" rel="noopener noreferrer nofollow">Fender</a></strong></cite></blockquote>
 
 
 
@@ -95,11 +95,11 @@ seo:
 
 
 
-<p>The Fender Mustang Micro runs on an internal battery and <strong><a href="https://www.electrikjam.com/fender/" data-lasso-id="1809">Fender</a></strong> says it is good for around four hours of continuous playing. You have a USB connection on the device too for recharging or for <strong><a class="rank-math-link" data-lasso-id="1239" href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/">connecting your guitar to your computer to record stuff.</a></strong></p>
+<p>The Fender Mustang Micro runs on an internal battery and <strong><a href="/fender/" data-lasso-id="1809">Fender</a></strong> says it is good for around four hours of continuous playing. You have a USB connection on the device too for recharging or for <strong><a class="rank-math-link" data-lasso-id="1239" href="/how-to-record-electric-guitar-at-home-guide/">connecting your guitar to your computer to record stuff.</a></strong></p>
 
 
 
-<p>And this makes it <strong><a class="rank-math-link" href="https://www.electrikjam.com/connect-guitar-to-macbook-guide/" data-lasso-id="1240">a slightly cheaper alternative to the Focusrite Solo 3</a></strong>, albeit with far fewer recording and input features. </p>
+<p>And this makes it <strong><a class="rank-math-link" href="/connect-guitar-to-macbook-guide/" data-lasso-id="1240">a slightly cheaper alternative to the Focusrite Solo 3</a></strong>, albeit with far fewer recording and input features. </p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 <h3 class="rank-math-question ">Can You Record With The The Fender Mustang Micro?</h3>
 <div class="rank-math-answer ">
 
-<p>The Fender Mustang Micro, as well as having 12 pre-installed amp simulations, will also double as a <strong><a href="https://www.electrikjam.com/connect-guitar-to-macbook-guide/" class="rank-math-link">USB audio interface</a></strong> which means you can use it to connect your guitar to your PC and run it through DAWs like <strong><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link">Pro Tools, Ableton, and Reaper.</a></strong></p>
+<p>The Fender Mustang Micro, as well as having 12 pre-installed amp simulations, will also double as a <strong><a href="/connect-guitar-to-macbook-guide/" class="rank-math-link">USB audio interface</a></strong> which means you can use it to connect your guitar to your PC and run it through DAWs like <strong><a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link">Pro Tools, Ableton, and Reaper.</a></strong></p>
 
 </div>
 </div>

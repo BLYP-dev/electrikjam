@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>When I woke up on October 6th two years ago, I was having a pretty awesome day. I made some coffee, went to the gym, and basically did my whole morning routine where I am in my own world without distractions. Once I got home and started working, I saw that we had lost<a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" target="_blank" data-type="post" data-id="7670" rel="noopener" data-lasso-id="174860"> <strong>Eddie Van Halen</strong></a> to cancer at the age of 65.</p>
+<p>When I woke up on October 6th two years ago, I was having a pretty awesome day. I made some coffee, went to the gym, and basically did my whole morning routine where I am in my own world without distractions. Once I got home and started working, I saw that we had lost<a href="/eddie-van-halen-innovative-guitar-gear/" target="_blank" data-type="post" data-id="7670" rel="noopener" data-lasso-id="174860"> <strong>Eddie Van Halen</strong></a> to cancer at the age of 65.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>Not to mention he was also a composer, <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="174861"><strong>inventor</strong></a>, and <a href="https://www.attackmagazine.com/features/columns/the-unsung-synth-influence-of-eddie-van-halen/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="174862"><strong>multi-instrumentalist</strong></a>. Tracks like &#8220;Right Now&#8221; and &#8220;Jump&#8221; showed off his piano and synth chops. Its almost like Eddie was from a completely <em>different planet</em>. <strong>His biggest trick though, was he managed to appeal to the heavy metal fans, as well as the pop fans with <em>well crafted songs</em>.</strong></p>
+<p>Not to mention he was also a composer, <a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="174861"><strong>inventor</strong></a>, and <a href="https://www.attackmagazine.com/features/columns/the-unsung-synth-influence-of-eddie-van-halen/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="174862"><strong>multi-instrumentalist</strong></a>. Tracks like &#8220;Right Now&#8221; and &#8220;Jump&#8221; showed off his piano and synth chops. Its almost like Eddie was from a completely <em>different planet</em>. <strong>His biggest trick though, was he managed to appeal to the heavy metal fans, as well as the pop fans with <em>well crafted songs</em>.</strong></p>
 
 
 
@@ -95,11 +95,11 @@ seo:
 
 
 
-<p>Trying to find the best budget shredder guitars is easier than ever today. <a data-lasso-id="174863" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>Budget guitars</strong></a> have been a hot topic for a while now, and you can get a lot of guitar for the money these days. Guitars priced in the intermediate/midrange level have a lot to offer.</p>
+<p>Trying to find the best budget shredder guitars is easier than ever today. <a data-lasso-id="174863" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>Budget guitars</strong></a> have been a hot topic for a while now, and you can get a lot of guitar for the money these days. Guitars priced in the intermediate/midrange level have a lot to offer.</p>
 
 
 
-<p>$1200 may seem like a steep price for &#8220;the best budget shredder guitars&#8221;. That&#8217;s just the<em> limit </em>we have set, and most of these guitars come <em>well under </em>that price. But we have to take into account that these are <strong>not </strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254487">beginner guitars</a>, as well as the financial climate that we are living in these days. These are great guitars for the intermediate players, all the way up to pros.</p>
+<p>$1200 may seem like a steep price for &#8220;the best budget shredder guitars&#8221;. That&#8217;s just the<em> limit </em>we have set, and most of these guitars come <em>well under </em>that price. But we have to take into account that these are <strong>not </strong><a href="/best-guitar-for-beginners/" data-lasso-id="254487">beginner guitars</a>, as well as the financial climate that we are living in these days. These are great guitars for the intermediate players, all the way up to pros.</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>The features make the Charvel pro Mod seem like a &#8220;custom&#8221; instrument, or something straight from the Mod Shop. The<a data-lasso-id="174933" href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener"><strong> Duncan JB</strong></a> pickups are a staple in rock and metal, and work great in split-coil mode for single coil tones. The Floyd Rose 1000 should hold up to any abuse that you throw at it.</p>
+<p>The features make the Charvel pro Mod seem like a &#8220;custom&#8221; instrument, or something straight from the Mod Shop. The<a data-lasso-id="174933" href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener"><strong> Duncan JB</strong></a> pickups are a staple in rock and metal, and work great in split-coil mode for single coil tones. The Floyd Rose 1000 should hold up to any abuse that you throw at it.</p>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<p>While companies like Kramer got Eddie van Halen, Ibanez managed to get another shred master when <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="174934"><strong>Steve Vai </strong></a>came around. The RG was meant to be an affordable version of the Ibanez Jem in the beginning, but has since become its own thing over the years. This <em>particular</em> RG is ready for the stage or studio!</p>
+<p>While companies like Kramer got Eddie van Halen, Ibanez managed to get another shred master when <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="174934"><strong>Steve Vai </strong></a>came around. The RG was meant to be an affordable version of the Ibanez Jem in the beginning, but has since become its own thing over the years. This <em>particular</em> RG is ready for the stage or studio!</p>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<p>Ibanez is known to use mostly proprietary parts on the lower end models that are not made in Japan. Even then, some Japanese models are fitted with Ibanez branded pickups. The Edge bridge has been a staple of Ibanez design, and it works like a lower profile <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" target="_blank" data-type="post" data-id="9067" rel="noopener" data-lasso-id="174935"><strong>Floyd Rose</strong></a>.</p>
+<p>Ibanez is known to use mostly proprietary parts on the lower end models that are not made in Japan. Even then, some Japanese models are fitted with Ibanez branded pickups. The Edge bridge has been a staple of Ibanez design, and it works like a lower profile <a href="/floyd-rose-bridge-explained/" target="_blank" data-type="post" data-id="9067" rel="noopener" data-lasso-id="174935"><strong>Floyd Rose</strong></a>.</p>
 
 
 
@@ -243,15 +243,15 @@ seo:
 
 
 
-<p>You all know I am a Schecter player, and this guitar will be in my hands by the time this article is published. We couldn&#8217;t possibly make a list of the best budget shredder guitars without mentioning <strong><a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="175476">Schecter</a>.</strong> A lot of people like to diss Schecter for the older models that were &#8220;edgy&#8221;. But that is not where Schecter comes from, or where its going!</p>
+<p>You all know I am a Schecter player, and this guitar will be in my hands by the time this article is published. We couldn&#8217;t possibly make a list of the best budget shredder guitars without mentioning <strong><a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="175476">Schecter</a>.</strong> A lot of people like to diss Schecter for the older models that were &#8220;edgy&#8221;. But that is not where Schecter comes from, or where its going!</p>
 
 
 
-<p>Schecter has a rich heritage that stems back to the late 70&#8217;s. David Schecter opened his shop in 1976 in Van Nuys, California. The shop was a lot like Charvel, since it offered bodies, necks, parts, electronics, and all kinds of accessories to mod your guitar. The original <a href="https://www.electrikjam.com/schecter-traditional-van-nuys/" data-type="post" data-id="3017" target="_blank" rel="noopener" data-lasso-id="175477"><strong>Van Nuys</strong></a> models were hot-rodded Strat style models, and were <em>very</em> popular in the 80&#8217;s.</p>
+<p>Schecter has a rich heritage that stems back to the late 70&#8217;s. David Schecter opened his shop in 1976 in Van Nuys, California. The shop was a lot like Charvel, since it offered bodies, necks, parts, electronics, and all kinds of accessories to mod your guitar. The original <a href="/schecter-traditional-van-nuys/" data-type="post" data-id="3017" target="_blank" rel="noopener" data-lasso-id="175477"><strong>Van Nuys</strong></a> models were hot-rodded Strat style models, and were <em>very</em> popular in the 80&#8217;s.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231836">Schecter has been going back to basics lately with a lot of the newer models</a>, and the Sun Valley Super Shredder is one of the best budget shredder guitars on the market, period. When these first came out 4 years ago, people were blown away by the features you get for such an affordable price.</p>
+<p><a href="/schecter-mv-6-review/" data-lasso-id="231836">Schecter has been going back to basics lately with a lot of the newer models</a>, and the Sun Valley Super Shredder is one of the best budget shredder guitars on the market, period. When these first came out 4 years ago, people were blown away by the features you get for such an affordable price.</p>
 
 
 
@@ -259,11 +259,11 @@ seo:
 
 
 
-<p>I mean, <a href="https://www.electrikjam.com/line-6-3-5-update-explained/" data-lasso-id="197565">everything you need to know</a> about this guitar<strong> is in the name</strong>. But there are some really interesting details that make this one of the best budget shredder guitars you can buy. Starting with the mahogany body, which is definitely a strange choice for a Super Strat style guitar.</p>
+<p>I mean, <a href="/line-6-3-5-update-explained/" data-lasso-id="197565">everything you need to know</a> about this guitar<strong> is in the name</strong>. But there are some really interesting details that make this one of the best budget shredder guitars you can buy. Starting with the mahogany body, which is definitely a strange choice for a Super Strat style guitar.</p>
 
 
 
-<p>I would highly recommend getting one with the <a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener" data-lasso-id="175478"><strong>Sustainiac Pickup System</strong></a>. If you have never played with one before, they can be a LOT of fun. I have one on my <a href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="175479" data-lasso-name="Schecter Hellraiser FRS"><strong>Hellraiser FRS </strong></a>and I use it often. That being said, the EMG Retro-Active pickup system no slouch either. These are obviously based on a certain brand of pickups that rhymes with &#8220;Sunken&#8221; and they deliver a full, midrange throaty sound.</p>
+<p>I would highly recommend getting one with the <a href="/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener" data-lasso-id="175478"><strong>Sustainiac Pickup System</strong></a>. If you have never played with one before, they can be a LOT of fun. I have one on my <a href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="175479" data-lasso-name="Schecter Hellraiser FRS"><strong>Hellraiser FRS </strong></a>and I use it often. That being said, the EMG Retro-Active pickup system no slouch either. These are obviously based on a certain brand of pickups that rhymes with &#8220;Sunken&#8221; and they deliver a full, midrange throaty sound.</p>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<p>These come in some absolutely crazy colors, like the &#8220;Birch Green&#8221; above. All in all, the <a href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" target="_blank" data-type="post" data-id="4836" rel="noopener" data-lasso-id="175480"><strong>SVSS lineup</strong></a> really captures the feel, look, and attitude of everything that makes a throwback shredder guitar. After all, Schecter has more <em>than enough experience</em> in this area to make one of the best budget shredder guitars on the planet! </p>
+<p>These come in some absolutely crazy colors, like the &#8220;Birch Green&#8221; above. All in all, the <a href="/schecter-sun-valley-super-shredder-exotic-hardtail/" target="_blank" data-type="post" data-id="4836" rel="noopener" data-lasso-id="175480"><strong>SVSS lineup</strong></a> really captures the feel, look, and attitude of everything that makes a throwback shredder guitar. After all, Schecter has more <em>than enough experience</em> in this area to make one of the best budget shredder guitars on the planet! </p>
 
 
 
@@ -291,7 +291,7 @@ seo:
 
 
 
-<p><em>Surprise surprise</em>, right? Of course the best budget shredder guitars list would end with an <em>actual </em>EVH guitar. The EVH brand name is <a href="https://www.electrikjam.com/where-guitars-are-made-2022/" target="_blank" data-type="post" data-id="8621" rel="noopener" data-lasso-id="175481"><strong>owned</strong></a> by <a href="https://www.electrikjam.com/pxf-37/" data-type="lasso-urls" data-id="7494" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="175482" data-lasso-name="Fender Player Plus Stratocaster"><strong>Fender</strong></a> and over the last few years the striped models have made a huge comeback, even before Eddie&#8217;s untimely passing.</p>
+<p><em>Surprise surprise</em>, right? Of course the best budget shredder guitars list would end with an <em>actual </em>EVH guitar. The EVH brand name is <a href="/where-guitars-are-made-2022/" target="_blank" data-type="post" data-id="8621" rel="noopener" data-lasso-id="175481"><strong>owned</strong></a> by <a href="/pxf-37/" data-type="lasso-urls" data-id="7494" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="175482" data-lasso-name="Fender Player Plus Stratocaster"><strong>Fender</strong></a> and over the last few years the striped models have made a huge comeback, even before Eddie&#8217;s untimely passing.</p>
 
 
 
@@ -307,7 +307,7 @@ seo:
 
 
 
-<p>This thing is super lightweight, and the Basswood body is all one piece. The maple neck has the amazing compound radius that Jackson/Charvel and the other Fender brands are known for. I had forgotten just how much I like a compound radius until I tried out the <a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-type="post" data-id="9214" target="_blank" rel="noopener" data-lasso-id="175483"><strong>Jim Root Sig last week</strong></a>. The neck getting flatter as you go up means you never fret out with big bends.</p>
+<p>This thing is super lightweight, and the Basswood body is all one piece. The maple neck has the amazing compound radius that Jackson/Charvel and the other Fender brands are known for. I had forgotten just how much I like a compound radius until I tried out the <a href="/jim-root-charvel-pro-mod-guitar-review/" data-type="post" data-id="9214" target="_blank" rel="noopener" data-lasso-id="175483"><strong>Jim Root Sig last week</strong></a>. The neck getting flatter as you go up means you never fret out with big bends.</p>
 
 
 
@@ -343,11 +343,11 @@ seo:
 
 
 
-<p>People have spent their entire guitar journey to learning how to play like Eddie, and chase his tone. There is nothing wrong with that at all, and if that is what makes you happy as a guitarist, I say go for it. Any of these guitars have the tools you need to learn the techniques that Eddie used. Throw in a few pedals and a <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-6bvzme/" data-type="lasso-urls" data-id="5954" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="175484" data-lasso-name="Marshall DSL40CR 40W 1x12">Marshall</a> </strong>and you will definitely get there!</p>
+<p>People have spent their entire guitar journey to learning how to play like Eddie, and chase his tone. There is nothing wrong with that at all, and if that is what makes you happy as a guitarist, I say go for it. Any of these guitars have the tools you need to learn the techniques that Eddie used. Throw in a few pedals and a <strong><a href="/guitar-center-pxf-io-6bvzme/" data-type="lasso-urls" data-id="5954" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="175484" data-lasso-name="Marshall DSL40CR 40W 1x12">Marshall</a> </strong>and you will definitely get there!</p>
 
 
 
-<p>At the end of the day, there was only one EVH, and I don&#8217;t think we have ever seen another guitarist change so much in the culture of guitar so quickly (Maybe<a href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="175485"> <strong>Jimi</strong></a>). If you were alive in the 80&#8217;s, you know that everyone was trying to replicate the &#8220;EVH Sound&#8221;. Suddenly guitarists were tapping and dive-bombing everywhere to the point of it <em>becoming obnoxious</em>.</p>
+<p>At the end of the day, there was only one EVH, and I don&#8217;t think we have ever seen another guitarist change so much in the culture of guitar so quickly (Maybe<a href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="175485"> <strong>Jimi</strong></a>). If you were alive in the 80&#8217;s, you know that everyone was trying to replicate the &#8220;EVH Sound&#8221;. Suddenly guitarists were tapping and dive-bombing everywhere to the point of it <em>becoming obnoxious</em>.</p>
 
 
 

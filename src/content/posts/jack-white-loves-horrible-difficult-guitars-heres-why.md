@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Regardless of your opinion on <a href="https://www.electrikjam.com/jack-white-guitar-tuning/" data-lasso-id="120979">Jack White or The White Stripes</a>, it is nigh on impossible to have lived during the mid-to-late 2000s and have not encountered or heard the band. For many, The White Stripes were the soundtrack to the mid-to-late 2000s. White’s stripped-down blues rock, comprised of just himself on guitar and Meg White on drums, proved that rock music didn’t need to be fancy, polished, or complex. It just needed soul.</p>
+<p>Regardless of your opinion on <a href="/jack-white-guitar-tuning/" data-lasso-id="120979">Jack White or The White Stripes</a>, it is nigh on impossible to have lived during the mid-to-late 2000s and have not encountered or heard the band. For many, The White Stripes were the soundtrack to the mid-to-late 2000s. White’s stripped-down blues rock, comprised of just himself on guitar and Meg White on drums, proved that rock music didn’t need to be fancy, polished, or complex. It just needed soul.</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 		
 
 
-<p>But Jack didn’t play it because it was odd-looking or because it was red and white, although I’m sure this was also a major motivating factor. No, <a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125569">Jack White</a> chose to play a 1964 Montgomery Ward JB Hutto Airline because it <strong>was old, extremely difficult to play, and didn’t sound quite like anything else on the market</strong>. As guitarists go, you will not find many players that deliberately go out of their way to make their lives more difficult. But this is EXACTLY what Jack White did and it is the sole reason why he used the 1964 Montgomery Ward JB Hutto Airline.</p>
+<p>But Jack didn’t play it because it was odd-looking or because it was red and white, although I’m sure this was also a major motivating factor. No, <a href="/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125569">Jack White</a> chose to play a 1964 Montgomery Ward JB Hutto Airline because it <strong>was old, extremely difficult to play, and didn’t sound quite like anything else on the market</strong>. As guitarists go, you will not find many players that deliberately go out of their way to make their lives more difficult. But this is EXACTLY what Jack White did and it is the sole reason why he used the 1964 Montgomery Ward JB Hutto Airline.</p>
 
 
 
@@ -78,7 +78,7 @@ seo:
 
 
 
-<p>Jack rightly believes that music is not just about what you play; it is about where it comes from. He believes – and always has done – that music should come from the heart, from the soul. And it doesn’t matter what you have at your disposal to create it, it could be a <strong><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="120930">$5000 Gibson Les Paul </a></strong>or a <strong><a href="https://www.electrikjam.com/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" data-lasso-id="120931" rel="nofollow noopener" target="_blank" data-lasso-name="Squier Bullet Stratocaster HSS">$120 Squier Bullet Strat</a></strong>. If you’re good, and your music has heart, it will resonate with people.</p>
+<p>Jack rightly believes that music is not just about what you play; it is about where it comes from. He believes – and always has done – that music should come from the heart, from the soul. And it doesn’t matter what you have at your disposal to create it, it could be a <strong><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="120930">$5000 Gibson Les Paul </a></strong>or a <strong><a href="/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" data-lasso-id="120931" rel="nofollow noopener" target="_blank" data-lasso-name="Squier Bullet Stratocaster HSS">$120 Squier Bullet Strat</a></strong>. If you’re good, and your music has heart, it will resonate with people.</p>
 
 
 

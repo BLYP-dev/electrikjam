@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>Everybody knows the Gibson Les Paul. Whether a Custom, Junior, or a Standard, Gibson’s Les Paul has been a constant presence in music since the 1950s. <a href="https://www.electrikjam.com/the-forbidden-riff/" data-lasso-id="86011">Jimmy Page</a> used one. Slash uses them. Buzz Osbourne and <a href="https://www.electrikjam.com/how-tools-adam-jones-practices-guitar/" data-lasso-id="104787">Adam Jones</a> use them. Basically, in ALL eras of music, the Les Paul has been front and center. And not just in rock music either.</p>
+<p>Everybody knows the Gibson Les Paul. Whether a Custom, Junior, or a Standard, Gibson’s Les Paul has been a constant presence in music since the 1950s. <a href="/the-forbidden-riff/" data-lasso-id="86011">Jimmy Page</a> used one. Slash uses them. Buzz Osbourne and <a href="/how-tools-adam-jones-practices-guitar/" data-lasso-id="104787">Adam Jones</a> use them. Basically, in ALL eras of music, the Les Paul has been front and center. And not just in rock music either.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 			
-			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1024x853.png" alt="Is A Gibson Les Paul Worth It" class="wp-image-6460" title="" srcset="/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1024x853.png 1024w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-600x500.png 600w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-300x250.png 300w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-768x640.png 768w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1080x900.png 1080w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><meta charset="utf-8"><strong><a href="https://www.electrikjam.com/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="44909">Adam Jones From TOOL</a> With His <a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="44910">Gibson Les Paul Custom Silverburst</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1024x853.png" alt="Is A Gibson Les Paul Worth It" class="wp-image-6460" title="" srcset="/wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1024x853.png 1024w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-600x500.png 600w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-300x250.png 300w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-768x640.png 768w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It-1080x900.png 1080w, /wp-content/uploads/2022/01/Is-A-Gibson-Les-Paul-Worth-It.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><meta charset="utf-8"><strong><a href="/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="44909">Adam Jones From TOOL</a> With His <a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="44910">Gibson Les Paul Custom Silverburst</a></strong></figcaption></figure>
 			
 		
 
@@ -73,7 +73,7 @@ seo:
 
 
 
-<p>Beyond this, you have higher levels of quality control on Gibson guitars. They’re made to exacting standards by craftsmen that live and breathe guitar. You’re also paying for the <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237989">Gibson brand</a> name as well. It has a legacy all of its own, born from the fact that ALL the greats, from the 1950s to today, tend to use Gibson guitars (or Fender). This includes <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="44911">Jimmy Page, Adam Jones, Matt Pike, Peter Frampton, and Tony Iommi.</a></strong></p>
+<p>Beyond this, you have higher levels of quality control on Gibson guitars. They’re made to exacting standards by craftsmen that live and breathe guitar. You’re also paying for the <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237989">Gibson brand</a> name as well. It has a legacy all of its own, born from the fact that ALL the greats, from the 1950s to today, tend to use Gibson guitars (or Fender). This includes <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="44911">Jimmy Page, Adam Jones, Matt Pike, Peter Frampton, and Tony Iommi.</a></strong></p>
 
 
 
@@ -89,7 +89,7 @@ seo:
 
 
 
-<p>Scarcity is one of the biggest economic factors that denotes “value” – if something is rare, it is valuable. This is why gold and diamonds are worth something and your college degree are not. This is why vintage Gibson guitars can go for prices exceeding $20,000; they’re rare, highly sought after, and they sound different (better) <strong><a href="https://www.electrikjam.com/best-les-paul-copy/" data-type="post" data-id="4266" data-lasso-id="44912">than a $200 copy.</a></strong></p>
+<p>Scarcity is one of the biggest economic factors that denotes “value” – if something is rare, it is valuable. This is why gold and diamonds are worth something and your college degree are not. This is why vintage Gibson guitars can go for prices exceeding $20,000; they’re rare, highly sought after, and they sound different (better) <strong><a href="/best-les-paul-copy/" data-type="post" data-id="4266" data-lasso-id="44912">than a $200 copy.</a></strong></p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>Gibson has a legacy to think about, so it cannot just follow trends and change <a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" data-lasso-id="48146">things on its guitars</a> willy-nilly. You can get Gibson guitars with different pickup configurations, for instance, but even then, they’re all installed and hand-wound in the Gibson factory. This is done to ensure that nothing messes with the overall sound and tone of its guitars.</p>
+<p>Gibson has a legacy to think about, so it cannot just follow trends and change <a href="/guitar-prices-going-up-in-2022/" data-lasso-id="48146">things on its guitars</a> willy-nilly. You can get Gibson guitars with different pickup configurations, for instance, but even then, they’re all installed and hand-wound in the Gibson factory. This is done to ensure that nothing messes with the overall sound and tone of its guitars.</p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p>Did you know that the US dollar has lost 95% of its value since 1945? That’s pretty crazy, right? The money in your bank account, which isn’t backed by anything physical like gold or silver, is worth less today than it was <a href="https://www.electrikjam.com/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-lasso-id="152889">when Jimmy Hendrix played Woodstock</a>. A lot less.</p>
+<p>Did you know that the US dollar has lost 95% of its value since 1945? That’s pretty crazy, right? The money in your bank account, which isn’t backed by anything physical like gold or silver, is worth less today than it was <a href="/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-lasso-id="152889">when Jimmy Hendrix played Woodstock</a>. A lot less.</p>
 
 
 
@@ -225,7 +225,7 @@ seo:
 
 
 
-<p>This will depend, largely speaking, on your level of skill, your bank balance, and whether or not you’re a professional musician. If you’re just a hobbyist player and you’re relatively young (and don’t have much cash), buying a $3000 Gibson guitar doesn’t make much sense. You’d be far better off with a <strong><a href="https://www.electrikjam.com/epiphone-sg-standard-link/" data-type="lasso-urls" data-id="6259" data-lasso-id="44915" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Epiphone SG Standard">$499 Epiphone SG Standard</a></strong>.</p>
+<p>This will depend, largely speaking, on your level of skill, your bank balance, and whether or not you’re a professional musician. If you’re just a hobbyist player and you’re relatively young (and don’t have much cash), buying a $3000 Gibson guitar doesn’t make much sense. You’d be far better off with a <strong><a href="/epiphone-sg-standard-link/" data-type="lasso-urls" data-id="6259" data-lasso-id="44915" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Epiphone SG Standard">$499 Epiphone SG Standard</a></strong>.</p>
 
 
 
@@ -233,11 +233,11 @@ seo:
 
 
 
-<p>Is a Gibson essential? Hell no! You will get the same level of quality from a PRS guitar. <strong><a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" data-lasso-id="44916">Or a Fender.</a></strong> But if you’re into metal or heavier music, there is a reason why the Gibson SG and Gibson Les Paul are so popular. They just sound darker and heavier, thanks to their construction and the type of wood used. Les Paul guitars especially.</p>
+<p>Is a Gibson essential? Hell no! You will get the same level of quality from a PRS guitar. <strong><a href="/fender/" data-type="page" data-id="3818" data-lasso-id="44916">Or a Fender.</a></strong> But if you’re into metal or heavier music, there is a reason why the Gibson SG and Gibson Les Paul are so popular. They just sound darker and heavier, thanks to their construction and the type of wood used. Les Paul guitars especially.</p>
 
 
 
-<p>Nothing sounds quite like a <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="44917">Gibson Les Paul Standard or Custom</a></strong>. They have this depth to them, a low-end rumble that you simply cannot get with a Fender Strat or a Tele. This is why everybody from <strong><a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="44918">Jimmy Page</a></strong> to BORIS use Les Paul guitars. They use them to unleash that earth-shattering low-end, to create huge sounds. To sound HEAVY.</p>
+<p>Nothing sounds quite like a <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="44917">Gibson Les Paul Standard or Custom</a></strong>. They have this depth to them, a low-end rumble that you simply cannot get with a Fender Strat or a Tele. This is why everybody from <strong><a href="/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="44918">Jimmy Page</a></strong> to BORIS use Les Paul guitars. They use them to unleash that earth-shattering low-end, to create huge sounds. To sound HEAVY.</p>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/epiphone-sg-standard-link/" data-type="lasso-urls" data-id="6259" data-lasso-id="44919" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Epiphone SG Standard">I love the Epiphone SG Standard</a></strong>. For $499, I honestly don’t think you can get a better guitar for less money. The <strong><a href="https://www.electrikjam.com/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="44920" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">Epiphone Les Paul Prophecy</a></strong> is another amazing option. It retails for $899 and it runs Fishman Fluence pickups. If you want to play modern metal, the <strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="44921">Epiphone Les Paul Prophecy is a near-perfect option</a></strong> for aspiring guitarists that are pursuing a career in music.</p>
+<p><strong><a href="/epiphone-sg-standard-link/" data-type="lasso-urls" data-id="6259" data-lasso-id="44919" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Epiphone SG Standard">I love the Epiphone SG Standard</a></strong>. For $499, I honestly don’t think you can get a better guitar for less money. The <strong><a href="/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="44920" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">Epiphone Les Paul Prophecy</a></strong> is another amazing option. It retails for $899 and it runs Fishman Fluence pickups. If you want to play modern metal, the <strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="44921">Epiphone Les Paul Prophecy is a near-perfect option</a></strong> for aspiring guitarists that are pursuing a career in music.</p>
 
 
 
@@ -265,5 +265,5 @@ seo:
 
 
 
-<p>Or, if you want something a little different, <strong><a href="https://www.electrikjam.com/recommends/prs-se-standard-24/" data-lasso-id="44922">go with the PRS SE Standard 24</a></strong> – it is a beautiful guitar that plays like a dream. It costs just over $500 and is perhaps one of the best guitars on the market at this price point. And it&#8217;s a PRS guitar too, so it is built to excruciatingly exact standards by PRS’ craftsman. I own one of these and it is one of my most-played guitars.</p>
+<p>Or, if you want something a little different, <strong><a href="/recommends/prs-se-standard-24/" data-lasso-id="44922">go with the PRS SE Standard 24</a></strong> – it is a beautiful guitar that plays like a dream. It costs just over $500 and is perhaps one of the best guitars on the market at this price point. And it&#8217;s a PRS guitar too, so it is built to excruciatingly exact standards by PRS’ craftsman. I own one of these and it is one of my most-played guitars.</p>
 

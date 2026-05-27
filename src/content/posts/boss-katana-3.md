@@ -160,7 +160,7 @@ seo:
 
 
 
-<p>With the <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="265800">Katana MKII setting a high bar</a></strong> for modeling amps, expectations are high for the next generation. I am really interested to see what they do with it.</p>
+<p>With the <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="265800">Katana MKII setting a high bar</a></strong> for modeling amps, expectations are high for the next generation. I am really interested to see what they do with it.</p>
 
 
 

@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Regular readers will know, here as ELECTRIKJAM, <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="269559">we’re big fans of STL AmpHub</a></strong>; for the money, you really cannot go wrong with this package – it’s updated constantly and it delivers a ton of value.&nbsp;</p>
+<p>Regular readers will know, here as ELECTRIKJAM, <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="269559">we’re big fans of STL AmpHub</a></strong>; for the money, you really cannot go wrong with this package – it’s updated constantly and it delivers a ton of value.&nbsp;</p>
 
 
 
@@ -240,7 +240,7 @@ seo:
       <li><span>Pros:</span> Highly customizable, vast library, intuitive interface</li>
       <li><span>Cons:</span> Can be overwhelming, performance may vary on less powerful systems</li>
     </ul>
-<a href="https://www.electrikjam.com/recommends/bias-fx-2/" class="cta-button" data-lasso-id="269651">CHECK LATEST PRICES</a>
+<a href="/recommends/bias-fx-2/" class="cta-button" data-lasso-id="269651">CHECK LATEST PRICES</a>
   </div>
   
   <div class="amp-card-full">
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p>In fact, <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="269560">we described it as &#8220;absolutely AMAZING&#8221; in our review</a></strong>—and that’s no exaggeration. The beauty of AmpHub is how easy it is to dive in and start building your perfect virtual rig. Whether you&#8217;re a beginner or a seasoned player, its user-friendly interface lets you create and save custom tones without the headache.</p>
+<p>In fact, <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="269560">we described it as &#8220;absolutely AMAZING&#8221; in our review</a></strong>—and that’s no exaggeration. The beauty of AmpHub is how easy it is to dive in and start building your perfect virtual rig. Whether you&#8217;re a beginner or a seasoned player, its user-friendly interface lets you create and save custom tones without the headache.</p>
 
 
 

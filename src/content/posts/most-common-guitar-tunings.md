@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>But standard guitar tuning is just one of many different and alternative tunings you can use on the guitar. And the type of tuning you end up using will largely depend on the type of music you want to play. From metal and funk to sludge and doom, there’s a <a href="https://www.electrikjam.com/jack-white-guitar-tuning/" data-lasso-id="120983">myriad of guitar tuning options</a> out there. But what are the most commonly used guitar tunings?</p>
+<p>But standard guitar tuning is just one of many different and alternative tunings you can use on the guitar. And the type of tuning you end up using will largely depend on the type of music you want to play. From metal and funk to sludge and doom, there’s a <a href="/jack-white-guitar-tuning/" data-lasso-id="120983">myriad of guitar tuning options</a> out there. But what are the most commonly used guitar tunings?</p>
 
 
 
-<p>There are far more <strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="12159">alternate guitar tunings</a></strong> than we’ve listed below. If we listed them all, this post would be 10,000+ words long. Instead, we have focussed on the most commonly used guitar tunings in <a href="https://www.electrikjam.com/ghost-impera-review/" data-lasso-id="90551">classic rock and metal</a> during the last 50 years, covering everything from standard tuning to open tunings and, of course, drop tunings.</p>
+<p>There are far more <strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="12159">alternate guitar tunings</a></strong> than we’ve listed below. If we listed them all, this post would be 10,000+ words long. Instead, we have focussed on the most commonly used guitar tunings in <a href="/ghost-impera-review/" data-lasso-id="90551">classic rock and metal</a> during the last 50 years, covering everything from standard tuning to open tunings and, of course, drop tunings.</p>
 
 
 
@@ -65,11 +65,11 @@ seo:
 
 
 
-<p>The most commonly used guitar tuning across all genres of music <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101452">is, of course, standard tuning</a>, whereby the guitar is tuned as follows: EADGBE. If you buy a new guitar, it will ship to you in standard tuning. If you pick up a guitar in a store, it’ll be tuned to standard. Nearly all classic rock, folk, and blues are played in standard tuning. There’s a reason it is called “standard” after all.</p>
+<p>The most commonly used guitar tuning across all genres of music <a href="/jimi-hendrix-guitar-tuning/" data-lasso-id="101452">is, of course, standard tuning</a>, whereby the guitar is tuned as follows: EADGBE. If you buy a new guitar, it will ship to you in standard tuning. If you pick up a guitar in a store, it’ll be tuned to standard. Nearly all classic rock, folk, and blues are played in standard tuning. There’s a reason it is called “standard” after all.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221302">You might think “standard tuning” is boring</a>, that to achieve massively heavy sounds you need to tune down. Well, I’d invite you to listen to <strong><a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="12160">Metallica</a>, OPETH, and Dillinger Escape Plan – they all play in standard</strong>, and the latter two are about as heavy as it comes. Plus, all the greats – <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="12161">Hendrix, Clapton, Blackmore</a></strong> – all played in standard too, although a few of them, Hendrix, for instance, liked to tune down half a step for a slightly lower tone.</p>
+<p><a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221302">You might think “standard tuning” is boring</a>, that to achieve massively heavy sounds you need to tune down. Well, I’d invite you to listen to <strong><a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="12160">Metallica</a>, OPETH, and Dillinger Escape Plan – they all play in standard</strong>, and the latter two are about as heavy as it comes. Plus, all the greats – <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="12161">Hendrix, Clapton, Blackmore</a></strong> – all played in standard too, although a few of them, Hendrix, for instance, liked to tune down half a step for a slightly lower tone.</p>
 
 
 
@@ -77,7 +77,7 @@ seo:
 
 
 
-<p>When most people think of <strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="12162">Drop D tuning</a></strong>, they think of nu-metal. Bands like Korn and Limp Bizkit. And while it is true that <a href="https://www.electrikjam.com/drop-d-vs-drop-c-whats-the-difference/" data-lasso-id="69697">Drop D was massively popularised by these bands</a> in the early 2000s, Drop D had been doing its thang well before Fred Durst and Munky from Korn entered the scene. <a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36075">The Beatles used Drop D</a>, Kurt Cobain played in Drop D a lot and quite a few blues players from back in the day.</p>
+<p>When most people think of <strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="12162">Drop D tuning</a></strong>, they think of nu-metal. Bands like Korn and Limp Bizkit. And while it is true that <a href="/drop-d-vs-drop-c-whats-the-difference/" data-lasso-id="69697">Drop D was massively popularised by these bands</a> in the early 2000s, Drop D had been doing its thang well before Fred Durst and Munky from Korn entered the scene. <a href="/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36075">The Beatles used Drop D</a>, Kurt Cobain played in Drop D a lot and quite a few blues players from back in the day.</p>
 
 
 
@@ -89,7 +89,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>Bands That Use Drop D Tuning: Lamb of God, Nirvana, Foo Fighters, <a href="https://www.electrikjam.com/new-tool-album-release-date/" data-lasso-id="44147">TOOL</a>, Deftones, The Beatles, Neurosis, Slipknot, Trivium, Avenged Sevenfold</strong></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>Bands That Use Drop D Tuning: Lamb of God, Nirvana, Foo Fighters, <a href="/new-tool-album-release-date/" data-lasso-id="44147">TOOL</a>, Deftones, The Beatles, Neurosis, Slipknot, Trivium, Avenged Sevenfold</strong></p></blockquote>
 
 
 
@@ -97,7 +97,7 @@ seo:
 
 
 
-<p>Not to be confused with Drop D tuning, <strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="12163">D Standard tuning</a></strong> is where you drop each string on your guitar down a whole step. In Drop D, you only drop the sixth string down one full step. This tuning is popular with <a href="https://www.electrikjam.com/mastodon-setlist-for-upcoming-2021-tour-revealed/" data-lasso-id="18357">bands like Mastodon</a> as it creates a much darker tone but gives you all the freedom of playing in standard tuning.</p>
+<p>Not to be confused with Drop D tuning, <strong><a href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="12163">D Standard tuning</a></strong> is where you drop each string on your guitar down a whole step. In Drop D, you only drop the sixth string down one full step. This tuning is popular with <a href="/mastodon-setlist-for-upcoming-2021-tour-revealed/" data-lasso-id="18357">bands like Mastodon</a> as it creates a much darker tone but gives you all the freedom of playing in standard tuning.</p>
 
 
 
@@ -109,7 +109,7 @@ seo:
 
 
 
-<p><strong>Bands That Use D Standard Tuning: Mastodon, <a href="https://www.electrikjam.com/new-opeth-album-release-date/" data-lasso-id="67078">OPETH</a>, Death, Dream Theater, CKY, Children of Bodom, Chelsea Wolfe</strong></p>
+<p><strong>Bands That Use D Standard Tuning: Mastodon, <a href="/new-opeth-album-release-date/" data-lasso-id="67078">OPETH</a>, Death, Dream Theater, CKY, Children of Bodom, Chelsea Wolfe</strong></p>
 
 
 
@@ -117,11 +117,11 @@ seo:
 
 
 
-<p>If you want to get real heavy, real quick, <strong><a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" data-lasso-id="12164">Drop C tuning is where you want to turn next</a></strong>. Like Drop D tuning, with Drop C tuning you can play power chords with one finger. That’s because, once again, the root and the fifth have been smushed together on one fret. <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99322">But unlike Drop D tuning</a>, you will need to tune down all the strings on your guitar in Drop C.</p>
+<p>If you want to get real heavy, real quick, <strong><a href="/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" data-lasso-id="12164">Drop C tuning is where you want to turn next</a></strong>. Like Drop D tuning, with Drop C tuning you can play power chords with one finger. That’s because, once again, the root and the fifth have been smushed together on one fret. <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99322">But unlike Drop D tuning</a>, you will need to tune down all the strings on your guitar in Drop C.</p>
 
 
 
-<p>Basically, to tune your guitar to Drop C you <a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-lasso-id="86084">need to tune it to D Standard (DGCFAD)</a> and then drop your sixth string down another whole step to C. Once you’ve done that, you’ll be in Drop C tuning and you will immediately notice how much heavier EVERYTHING sounds. This type of tuning is great for metal, doom, and drone metal.</p>
+<p>Basically, to tune your guitar to Drop C you <a href="/bands-that-play-in-d-standard/" data-lasso-id="86084">need to tune it to D Standard (DGCFAD)</a> and then drop your sixth string down another whole step to C. Once you’ve done that, you’ll be in Drop C tuning and you will immediately notice how much heavier EVERYTHING sounds. This type of tuning is great for metal, doom, and drone metal.</p>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<p>If your guitar is set up for <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142218">standard tuning</a>, or even Drop D tuning, you may need to get thicker strings to play in Drop B or lower. The reason for this is simple: as you lower the tuning of your strings, they lose tension, and this can create noise and annoying vibrations. For lower tunings, you’ll want to use specific guitar strings designed for Drop B and Drop C tunings.</p>
+<p>If your guitar is set up for <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142218">standard tuning</a>, or even Drop D tuning, you may need to get thicker strings to play in Drop B or lower. The reason for this is simple: as you lower the tuning of your strings, they lose tension, and this can create noise and annoying vibrations. For lower tunings, you’ll want to use specific guitar strings designed for Drop B and Drop C tunings.</p>
 
 
 
@@ -153,7 +153,7 @@ seo:
 
 
 
-<p>If Drop B isn’t low enough for you, you can always take it one step further with Drop A tuning. <strong><a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-type="post" data-id="4496" data-lasso-id="12165">In Drop A tuning</a></strong> your guitar is tuned as follows: <strong>AEADF#B</strong> – this results in a ridiculously low sound that is ideal for sludge metal, doom, drone metal, and anything else that is slow and dirty.</p>
+<p>If Drop B isn’t low enough for you, you can always take it one step further with Drop A tuning. <strong><a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-type="post" data-id="4496" data-lasso-id="12165">In Drop A tuning</a></strong> your guitar is tuned as follows: <strong>AEADF#B</strong> – this results in a ridiculously low sound that is ideal for sludge metal, doom, drone metal, and anything else that is slow and dirty.</p>
 
 
 
@@ -167,11 +167,11 @@ seo:
 
 
 
-<p>Drop A tuning is a pretty extreme tuning for a six-string guitar, so you will need to change up the strings you’d normally use. <strong><a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" data-type="post" data-id="3389" data-lasso-id="12166">I recommend using .012-.056 gauge strings</a></strong>. This gage of string will allow you to tune down to Drop A and play normally. Do not try this tuning without swapping these strings in, it will sound awful – trust me, I know from experience.</p>
+<p>Drop A tuning is a pretty extreme tuning for a six-string guitar, so you will need to change up the strings you’d normally use. <strong><a href="/the-3-best-strings-for-drop-c-tuning/" data-type="post" data-id="3389" data-lasso-id="12166">I recommend using .012-.056 gauge strings</a></strong>. This gage of string will allow you to tune down to Drop A and play normally. Do not try this tuning without swapping these strings in, it will sound awful – trust me, I know from experience.</p>
 
 
 
-<p>Is Drop A necessary? I’d argue no; I think you can get all the heaviness required for metal, doom, and drone metal with Drop C tuning. Hell, even D Standard can sound heavy enough – just listen to early <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="12167">Mastodon records</a></strong> if you don’t believe me. As with all tunings, it is entirely up to you what you use. Drop A is pretty extreme, but you can get some great sounds out of it with the right setup.</p>
+<p>Is Drop A necessary? I’d argue no; I think you can get all the heaviness required for metal, doom, and drone metal with Drop C tuning. Hell, even D Standard can sound heavy enough – just listen to early <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="12167">Mastodon records</a></strong> if you don’t believe me. As with all tunings, it is entirely up to you what you use. Drop A is pretty extreme, but you can get some great sounds out of it with the right setup.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/open-g-tuning-explained/" data-lasso-id="233904">Open G Tuning is a bit of a weird one</a>. It isn’t used all that often, but it is a fairly common tuning in rock and blues. In Open G Tuning, you tune down to the sixth string to D, the five to G, the fourth to D, the third to G, the second to B, and the first to D, giving you <strong>DGDGBD</strong>.</p>
+<p><a href="/open-g-tuning-explained/" data-lasso-id="233904">Open G Tuning is a bit of a weird one</a>. It isn’t used all that often, but it is a fairly common tuning in rock and blues. In Open G Tuning, you tune down to the sixth string to D, the five to G, the fourth to D, the third to G, the second to B, and the first to D, giving you <strong>DGDGBD</strong>.</p>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<p>Open G Tuning is most famously used by <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="12168">Keith Richards of The Rolling Stones</a></strong>. With Open G Tuning, you can <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196510">play a G major chord</a> simply by strumming all the open strings. Pretty cool, right?</p>
+<p>Open G Tuning is most famously used by <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="12168">Keith Richards of The Rolling Stones</a></strong>. With Open G Tuning, you can <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196510">play a G major chord</a> simply by strumming all the open strings. Pretty cool, right?</p>
 
 
 

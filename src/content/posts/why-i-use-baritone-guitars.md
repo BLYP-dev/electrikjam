@@ -186,7 +186,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading" id="htoc-gretsch-g5260t-electromatic-jet-baritone-with-bigsby"><a href="https://www.electrikjam.com/new-guitar-releases/gretsch-g5260t-electromatic-jet-baritone-with-bigsby/" data-type="new-guitar-releases" data-id="18430">Gretsch G5260T Electromatic Jet Baritone with Bigsby</a></h3>
+<h3 class="wp-block-heading" id="htoc-gretsch-g5260t-electromatic-jet-baritone-with-bigsby"><a href="/new-guitar-releases/gretsch-g5260t-electromatic-jet-baritone-with-bigsby/" data-type="new-guitar-releases" data-id="18430">Gretsch G5260T Electromatic Jet Baritone with Bigsby</a></h3>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<p>This thing is dripping with retro character. It&#8217;s got a 29.75&#8243; scale length, so you can easily go to A standard without the tone getting mushy. Add in the Bigsby trem, and you&#8217;ve got surf, spaghetti western, and shoegaze sounds right at your fingertips.<strong><a href="https://www.electrikjam.com/new-guitar-releases/gretsch-g5260t-electromatic-jet-baritone-with-bigsby/"> I love it for ambient textures and layered overdubs</a></strong> where I want depth but not necessarily distortion.</p>
+<p>This thing is dripping with retro character. It&#8217;s got a 29.75&#8243; scale length, so you can easily go to A standard without the tone getting mushy. Add in the Bigsby trem, and you&#8217;ve got surf, spaghetti western, and shoegaze sounds right at your fingertips.<strong><a href="/new-guitar-releases/gretsch-g5260t-electromatic-jet-baritone-with-bigsby/"> I love it for ambient textures and layered overdubs</a></strong> where I want depth but not necessarily distortion.</p>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading" id="htoc-squier-classic-vibe-baritone-custom-telecaster"><a href="https://www.electrikjam.com/new-guitar-releases/squier-classic-vibe-baritone-custom-telecaster/" data-type="new-guitar-releases" data-id="18424">Squier Classic Vibe Baritone Custom Telecaster</a></h3>
+<h3 class="wp-block-heading" id="htoc-squier-classic-vibe-baritone-custom-telecaster"><a href="/new-guitar-releases/squier-classic-vibe-baritone-custom-telecaster/" data-type="new-guitar-releases" data-id="18424">Squier Classic Vibe Baritone Custom Telecaster</a></h3>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<p>Now we’re talking heavy duty. This one has a 27&#8243; scale, tuned to B standard out of the box. <strong><a href="https://www.electrikjam.com/new-guitar-releases/squier-classic-vibe-baritone-custom-telecaster/">It’s a workhorse for rock, punk, stoner metal,</a></strong> you name it. The Tele-style body makes it familiar, and the Classic Vibe pickups are surprisingly versatile. I’ve used this one in sessions for heavy rhythm parts and it just sits in the mix.</p>
+<p>Now we’re talking heavy duty. This one has a 27&#8243; scale, tuned to B standard out of the box. <strong><a href="/new-guitar-releases/squier-classic-vibe-baritone-custom-telecaster/">It’s a workhorse for rock, punk, stoner metal,</a></strong> you name it. The Tele-style body makes it familiar, and the Classic Vibe pickups are surprisingly versatile. I’ve used this one in sessions for heavy rhythm parts and it just sits in the mix.</p>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<li id="htoc-stephen-carpenter-deftones-tuning-down-to-a-and-beyond-on-baritone-7s-and-8s"><a href="https://www.electrikjam.com/artist-gear-guides/stephen-carpenter/" data-type="artist-gear-guides" data-id="17353"><strong>Stephen Carpenter (Deftones)</strong> </a>– Tuning down to A and beyond on baritone 7s and 8s</li>
+<li id="htoc-stephen-carpenter-deftones-tuning-down-to-a-and-beyond-on-baritone-7s-and-8s"><a href="/artist-gear-guides/stephen-carpenter/" data-type="artist-gear-guides" data-id="17353"><strong>Stephen Carpenter (Deftones)</strong> </a>– Tuning down to A and beyond on baritone 7s and 8s</li>
 
 
 

@@ -227,7 +227,7 @@ seo:
 
 
 
-<p>However, it&#8217;s also worth noting that DeMarco, like many artists, <strong><a href="#what-guitar-does-mac-demacro-use">uses a variety of guitar models</a></strong> from a range of brands in the studio to achieve the sound he&#8217;s looking for on a given track. In addition to his Teisco, <strong><a href="https://www.electrikjam.com/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="235708">he&#8217;s been known to use Fender guitars</a></strong> and a variety of other brands as well.</p>
+<p>However, it&#8217;s also worth noting that DeMarco, like many artists, <strong><a href="#what-guitar-does-mac-demacro-use">uses a variety of guitar models</a></strong> from a range of brands in the studio to achieve the sound he&#8217;s looking for on a given track. In addition to his Teisco, <strong><a href="/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="235708">he&#8217;s been known to use Fender guitars</a></strong> and a variety of other brands as well.</p>
 
 
 
@@ -247,5 +247,5 @@ seo:
 
 
 
-<p>In addition to the Teisco, he has also a massive fan of the <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="235709">Fender Stratocaster</a></strong> and now has his own Fender custom model. Mac has also played a 1992 Squier Telecaster as well, one he picked up from Japan apparently. And if you&#8217;re on a budget, <strong><a href="https://www.electrikjam.com/pxf-62/" data-type="lasso-urls" data-id="8521" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="235710" data-lasso-name="Squier Classic Vibe &#039;70s Stratocaster HSS">going the Squier route for your Strat</a></strong> is well worth it –&nbsp;you&#8217;ll pay WAY less (around $300/ and still get that classic Tele sound. </p>
+<p>In addition to the Teisco, he has also a massive fan of the <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="235709">Fender Stratocaster</a></strong> and now has his own Fender custom model. Mac has also played a 1992 Squier Telecaster as well, one he picked up from Japan apparently. And if you&#8217;re on a budget, <strong><a href="/pxf-62/" data-type="lasso-urls" data-id="8521" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="235710" data-lasso-name="Squier Classic Vibe &#039;70s Stratocaster HSS">going the Squier route for your Strat</a></strong> is well worth it –&nbsp;you&#8217;ll pay WAY less (around $300/ and still get that classic Tele sound. </p>
 

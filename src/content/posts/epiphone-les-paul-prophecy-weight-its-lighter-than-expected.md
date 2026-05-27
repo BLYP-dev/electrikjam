@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>The <a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="5896">Epiphone Les Paul Prophecy</a> is a stunning guitar with amazing pickups and a beautiful finish. We’re big fans. But how much does the Epiphone Les Paul Prophecy weigh? Let’s find out…</strong></p>
+<p><strong>The <a href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="5896">Epiphone Les Paul Prophecy</a> is a stunning guitar with amazing pickups and a beautiful finish. We’re big fans. But how much does the Epiphone Les Paul Prophecy weigh? Let’s find out…</strong></p>
 
 
 
@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>The Epiphone Les Paul Prophecy launched in 2020 and brought with it a myriad of updates and tweaks, including the addition of <strong><a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="5897">Fishman Fluence pickups</a></strong>. Designed for modern metal, the Epiphone Les Paul Prophecy is by far one of our favorite releases of the past 12 months.</p>
+<p>The Epiphone Les Paul Prophecy launched in 2020 and brought with it a myriad of updates and tweaks, including the addition of <strong><a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="5897">Fishman Fluence pickups</a></strong>. Designed for modern metal, the Epiphone Les Paul Prophecy is by far one of our favorite releases of the past 12 months.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>How did <strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="5898">Epiphone</a></strong> do this? Simple: <strong>it used modern weight-relief techniques</strong>, a process it calls “ultra-modern weight relief”, whereby the wood used for the body is hollowed out in places to create a lighter overall weight. This makes the <a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="7882">Epiphone Les Paul Prophecy</a> a comfier guitar to use for prolonged periods of time and easier to carry.</p>
+<p>How did <strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="5898">Epiphone</a></strong> do this? Simple: <strong>it used modern weight-relief techniques</strong>, a process it calls “ultra-modern weight relief”, whereby the wood used for the body is hollowed out in places to create a lighter overall weight. This makes the <a href="/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="7882">Epiphone Les Paul Prophecy</a> a comfier guitar to use for prolonged periods of time and easier to carry.</p>
 
 
 
@@ -69,11 +69,11 @@ seo:
 
 
 
-<p>Les Paul guitars by their very nature are heavy; this is the #1 reason why the <strong><a href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491" data-lasso-id="5899">Epiphone and Gibson SG</a></strong> exist. Back in the day, Gibson wanted to design a lightweight guitar to complete with <strong><a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" data-lasso-id="5900">Fender’s Tele and Strat models</a></strong>. And the Gibson SG was born.</p>
+<p>Les Paul guitars by their very nature are heavy; this is the #1 reason why the <strong><a href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491" data-lasso-id="5899">Epiphone and Gibson SG</a></strong> exist. Back in the day, Gibson wanted to design a lightweight guitar to complete with <strong><a href="/fender/" data-type="page" data-id="3818" data-lasso-id="5900">Fender’s Tele and Strat models</a></strong>. And the Gibson SG was born.</p>
 
 
 
-<p>If you’re looking for the lightest <strong><a href="https://www.electrikjam.com/best-les-paul-copy/" data-type="post" data-id="4266" data-lasso-id="5901">Les Paul style guitar</a></strong>, though, the Epiphone Les Paul Prophecy is one of the lightest and most feature-rich you can currently buy. And it is a perfect guitar for anyone in the metal genre, thanks to its asymmetrical SlimTaper neck and <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8222">Fishman Fluence pickups</a>.</p>
+<p>If you’re looking for the lightest <strong><a href="/best-les-paul-copy/" data-type="post" data-id="4266" data-lasso-id="5901">Les Paul style guitar</a></strong>, though, the Epiphone Les Paul Prophecy is one of the lightest and most feature-rich you can currently buy. And it is a perfect guitar for anyone in the metal genre, thanks to its asymmetrical SlimTaper neck and <a href="/what-are-active-pickups/" data-lasso-id="8222">Fishman Fluence pickups</a>.</p>
 
 
 
@@ -81,15 +81,15 @@ seo:
 
 
 
-<p>Epiphone has great pedigree in the metal scene. Plenty of pro players use Epiphone guitars. <strong><a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" data-type="post" data-id="4089" data-lasso-id="5902">Matt Heafy has a new Signature Epiphone model</a></strong> coming at some point in 2021. And he’s been a big name advocate of Epiphone for years now.</p>
+<p>Epiphone has great pedigree in the metal scene. Plenty of pro players use Epiphone guitars. <strong><a href="/matt-heafy-epiphone-mkh-origins-les-paul/" data-type="post" data-id="4089" data-lasso-id="5902">Matt Heafy has a new Signature Epiphone model</a></strong> coming at some point in 2021. And he’s been a big name advocate of Epiphone for years now.</p>
 
 
 
-<p>But the reason the Epiphone Les Paul Prophecy is so good for metal is to do with <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7445">its pickups</a> and neck. You see, Epiphone has clearly designed this guitar with speed and tonality in mind. It uses a pair of Fishman Fluence pickups that deliver three distinct tones, notes <a href="https://www.epiphone.com/en-US/Electric-Guitar/EPI3BX477/Olive-Tiger-Aged-Gloss" data-lasso-id="5903" target="_blank" rel="noopener noreferrer nofollow">Epiphone</a>: “a warm &#8220;Patent Applied For&#8221; vintage humbucker, a hot modern active humbucker sound, and a shimmering, optimized single-coil sound.”</p>
+<p>But the reason the Epiphone Les Paul Prophecy is so good for metal is to do with <a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7445">its pickups</a> and neck. You see, Epiphone has clearly designed this guitar with speed and tonality in mind. It uses a pair of Fishman Fluence pickups that deliver three distinct tones, notes <a href="https://www.epiphone.com/en-US/Electric-Guitar/EPI3BX477/Olive-Tiger-Aged-Gloss" data-lasso-id="5903" target="_blank" rel="noopener noreferrer nofollow">Epiphone</a>: “a warm &#8220;Patent Applied For&#8221; vintage humbucker, a hot modern active humbucker sound, and a shimmering, optimized single-coil sound.”</p>
 
 
 
-<p>Accessing these different tones is done via the Les Paul Prophecy’s push/pull volume and tone pots. The Les Paul Prophecy also packs in Grover locking Rotomatic <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-lasso-id="103377">tuners, Epiphone&#8217;s LockTone Tune-O-Matic bridge</a>, and tailpiece for improved, ear-wrecking sustain.</p>
+<p>Accessing these different tones is done via the Les Paul Prophecy’s push/pull volume and tone pots. The Les Paul Prophecy also packs in Grover locking Rotomatic <a href="/epiphone-les-paul-prophecy-colors/" data-lasso-id="103377">tuners, Epiphone&#8217;s LockTone Tune-O-Matic bridge</a>, and tailpiece for improved, ear-wrecking sustain.</p>
 
 
 
@@ -97,19 +97,19 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8468">Epiphone Les Paul</a> Prophecy is available in three color options: <strong>AAA figured maple top in Red Tiger Aged Gloss and Olive Tiger Aged Gloss, and plain top in Black Aged Gloss</strong>. I really, really dig the Olive Tiger Aged Gloss finish; it looks sublime, and pictures really do not do it justice.</p>
+<p>The <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8468">Epiphone Les Paul</a> Prophecy is available in three color options: <strong>AAA figured maple top in Red Tiger Aged Gloss and Olive Tiger Aged Gloss, and plain top in Black Aged Gloss</strong>. I really, really dig the Olive Tiger Aged Gloss finish; it looks sublime, and pictures really do not do it justice.</p>
 
 
 
-<p>Overall, the <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17470">Epiphone Les Paul</a> Prophecy is just a fantastic guitar from head to tail. This is the kind of guitar you take out of the box and never have to tweak and update; it has everything you need in its stock configuration.</p>
+<p>Overall, the <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17470">Epiphone Les Paul</a> Prophecy is just a fantastic guitar from head to tail. This is the kind of guitar you take out of the box and never have to tweak and update; it has everything you need in its stock configuration.</p>
 
 
 
-<p>In fact, in some areas, it even outclasses Gibson’s infinitely more expensive <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="5904">Custom and Standard models</a></strong>. You have a slimmer neck, for starters, which lends itself to faster playing, ideal for metal and thrash, and, of course, those Fishman Fluence pickups which are fast becoming the “standard” for modern metal bands.</p>
+<p>In fact, in some areas, it even outclasses Gibson’s infinitely more expensive <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="5904">Custom and Standard models</a></strong>. You have a slimmer neck, for starters, which lends itself to faster playing, ideal for metal and thrash, and, of course, those Fishman Fluence pickups which are fast becoming the “standard” for modern metal bands.</p>
 
 
 
-<p>And the best part? The Epiphone Les Paul Prophecy <strong><a href="https://www.electrikjam.com/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="5905" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">still costs a fraction of the price</a></strong> of a Les Paul from Gibson.</p>
+<p>And the best part? The Epiphone Les Paul Prophecy <strong><a href="/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="5905" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">still costs a fraction of the price</a></strong> of a Les Paul from Gibson.</p>
 
 
 

@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Hetfield has been chugging away for decades, overseeing the creation and release of some of the best-selling metal albums of all time. He also helped to bring <strong><a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="88505">Ghost</a></strong> to a wider audience too. For many, James Hetfield is the greatest metal rhythm guitarist of all time.</p>
+<p>Hetfield has been chugging away for decades, overseeing the creation and release of some of the best-selling metal albums of all time. He also helped to bring <strong><a href="/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="88505">Ghost</a></strong> to a wider audience too. For many, James Hetfield is the greatest metal rhythm guitarist of all time.</p>
 
 
 
@@ -48,11 +48,11 @@ seo:
 
 
 
-<p>His right hand is the stuff of legend. No one down picks quite like Mr. Hetfield. To watch him do it live is an otherworldly experience, as is finding out that many of <strong><a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="88506">Metallica’s fastest riffs</a></strong> are actually down-picked as well. This blew my mind when I was trying to learn some of the band’s songs back in the day.</p>
+<p>His right hand is the stuff of legend. No one down picks quite like Mr. Hetfield. To watch him do it live is an otherworldly experience, as is finding out that many of <strong><a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="88506">Metallica’s fastest riffs</a></strong> are actually down-picked as well. This blew my mind when I was trying to learn some of the band’s songs back in the day.</p>
 
 
 
-<p>Part of Metallica’s main appeal is its sound; the way the guitars sound, the drums, and the overall production of the records and the band’s live rig when they’re doing one of their monster world tours. But a major, key ingredient of Hetfield’s sound is his choice of guitar and the pickups he uses. Without these, Metallica just wouldn’t sound like <strong><a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-type="post" data-id="5643" data-lasso-id="88507">Metallica</a></strong>.</p>
+<p>Part of Metallica’s main appeal is its sound; the way the guitars sound, the drums, and the overall production of the records and the band’s live rig when they’re doing one of their monster world tours. But a major, key ingredient of Hetfield’s sound is his choice of guitar and the pickups he uses. Without these, Metallica just wouldn’t sound like <strong><a href="/new-metallica-album-release-date-new-songs-update/" data-type="post" data-id="5643" data-lasso-id="88507">Metallica</a></strong>.</p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<p><strong>Since the late-1980s, <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91763">James Hetfield has used ESP guitars.</a> He has a ton of models, including a couple of signature ones. Hetfield always used EMG pickups back in the day, usually EMG 81/60 pickups, but managed to get his own custom pickups –&nbsp;the Het Set – which was released in 2009. He now uses these more or less exclusively with Metallica.</strong></p>
+<p><strong>Since the late-1980s, <a href="/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91763">James Hetfield has used ESP guitars.</a> He has a ton of models, including a couple of signature ones. Hetfield always used EMG pickups back in the day, usually EMG 81/60 pickups, but managed to get his own custom pickups –&nbsp;the Het Set – which was released in 2009. He now uses these more or less exclusively with Metallica.</strong></p>
 
 
 
@@ -92,11 +92,11 @@ seo:
 
 
 
-<p>James Hetfield even has his own <strong><a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="88508">signature picks</a></strong>. I have actually tried them out and they’re a great option for players that want to play fast, thrash metal. I also love the designs and the fact they come in a really obnoxious color. As for whether they’ll get your downstroke as fast as Hetfield’s, don’t bet on it –&nbsp;his right hand apparently has a V12 turbo engine in it. I’ve played for years and I still have no idea how he downstrokes so fast.</p>
+<p>James Hetfield even has his own <strong><a href="/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="88508">signature picks</a></strong>. I have actually tried them out and they’re a great option for players that want to play fast, thrash metal. I also love the designs and the fact they come in a really obnoxious color. As for whether they’ll get your downstroke as fast as Hetfield’s, don’t bet on it –&nbsp;his right hand apparently has a V12 turbo engine in it. I’ve played for years and I still have no idea how he downstrokes so fast.</p>
 
 
 
-<p>As for guitars, <strong><a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="88509">Hetfield has literally HUNDREDS</a></strong>. Most of them are ESP and Gibson, although he does have at least one Fender Telecaster and a Gretsch also. Hetfield also has a pretty extensive collection of acoustics guitars too, as you can see below:</p>
+<p>As for guitars, <strong><a href="/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="88509">Hetfield has literally HUNDREDS</a></strong>. Most of them are ESP and Gibson, although he does have at least one Fender Telecaster and a Gretsch also. Hetfield also has a pretty extensive collection of acoustics guitars too, as you can see below:</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p>The current James Hetfield <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104015">signature model from ESP</a> is the ESP Iron Cross, a guitar that Hetfield has used extensively on the road, playing live, and in the studio since about 2008. Here’s the official spiel from ESP on Hetfield’s signature Iron Cross model:</p>
+<p>The current James Hetfield <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104015">signature model from ESP</a> is the ESP Iron Cross, a guitar that Hetfield has used extensively on the road, playing live, and in the studio since about 2008. Here’s the official spiel from ESP on Hetfield’s signature Iron Cross model:</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>And if you want to pick one up for yourself, <strong><a data-lasso-id="88510" data-lasso-name="ESP LTD James Hetfield Signature Iron Cross" href="https://www.electrikjam.com/esp-iron-cross/" data-type="lasso-urls" data-id="7087" target="_blank" rel="nofollow sponsored noopener">it’ll set you back around $1499</a></strong> which isn’t too bad for a signature model. </p>
+<p>And if you want to pick one up for yourself, <strong><a data-lasso-id="88510" data-lasso-name="ESP LTD James Hetfield Signature Iron Cross" href="/esp-iron-cross/" data-type="lasso-urls" data-id="7087" target="_blank" rel="nofollow sponsored noopener">it’ll set you back around $1499</a></strong> which isn’t too bad for a signature model. </p>
 
 
 
@@ -132,5 +132,5 @@ seo:
 
 
 
-<p>Or, if you want to get more from your current guitar, why not swap out your pickups for Hetfield&#8217;s pricey-but-very-good <strong><a href="https://www.electrikjam.com/emg-jh-set-pickups/" data-type="lasso-urls" data-id="7088" data-lasso-id="88512" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="EMG JH James Hetfield Humbucker Set">EMG JH Set pickups</a></strong>. Either way, it is infinitely cheaper than buying a new guitar. </p>
+<p>Or, if you want to get more from your current guitar, why not swap out your pickups for Hetfield&#8217;s pricey-but-very-good <strong><a href="/emg-jh-set-pickups/" data-type="lasso-urls" data-id="7088" data-lasso-id="88512" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="EMG JH James Hetfield Humbucker Set">EMG JH Set pickups</a></strong>. Either way, it is infinitely cheaper than buying a new guitar. </p>
 

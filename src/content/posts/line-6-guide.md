@@ -57,7 +57,7 @@ seo:
 
 
 
-<p>And Line 6 – in many, many ways – is like a journeyman&#8217;s <strong><a href="https://www.electrikjam.com/axe-fx-beginners-guide/" data-type="post" data-id="14260" data-lasso-id="261156">alternative to Axe-Fx</a></strong>; the prices are lower but you get all the power and control (minus a few bells and whistles, of course). </p>
+<p>And Line 6 – in many, many ways – is like a journeyman&#8217;s <strong><a href="/axe-fx-beginners-guide/" data-type="post" data-id="14260" data-lasso-id="261156">alternative to Axe-Fx</a></strong>; the prices are lower but you get all the power and control (minus a few bells and whistles, of course). </p>
 
 
 
@@ -145,7 +145,7 @@ seo:
 
 
 
-<p>The Helix is very powerful, and we have talked about how to <a href="https://www.electrikjam.com/line-6-helix-recording-techniques/" data-type="post" data-id="4209" target="_blank" rel="noopener" data-lasso-id="200313"><strong>record</strong></a> with it, and use it to the full capabilities. The recent<a href="https://www.electrikjam.com/line-6-3-50-update-explained/" data-type="post" data-id="9682" target="_blank" rel="noopener" data-lasso-id="200314"><strong> 3.50 update</strong> </a>has made the Helix <em>even more </em>user-friendly, and easier to program for <em>however </em>you want to use it. The biggest draw is just how much control you have over tone shaping.</p>
+<p>The Helix is very powerful, and we have talked about how to <a href="/line-6-helix-recording-techniques/" data-type="post" data-id="4209" target="_blank" rel="noopener" data-lasso-id="200313"><strong>record</strong></a> with it, and use it to the full capabilities. The recent<a href="/line-6-3-50-update-explained/" data-type="post" data-id="9682" target="_blank" rel="noopener" data-lasso-id="200314"><strong> 3.50 update</strong> </a>has made the Helix <em>even more </em>user-friendly, and easier to program for <em>however </em>you want to use it. The biggest draw is just how much control you have over tone shaping.</p>
 
 
 
@@ -227,7 +227,7 @@ seo:
 
 
 
-<p>Line 6 has recently changed the way the DSP works, which is what acts as &#8220;memory&#8221; in the Helix. <strong><a href="https://www.electrikjam.com/line-6-3-50-update-explained/" target="_blank" data-type="post" data-id="9682" rel="noopener" data-lasso-id="200315">The 3.50 update</a> </strong>made it <em>even easier </em>to be able to stack effects and choose different cabinets when you are editing patches. The visual &#8220;rig&#8221; on the Helix screen is easy to set up, and you can build entire setlists worth of patches.</p>
+<p>Line 6 has recently changed the way the DSP works, which is what acts as &#8220;memory&#8221; in the Helix. <strong><a href="/line-6-3-50-update-explained/" target="_blank" data-type="post" data-id="9682" rel="noopener" data-lasso-id="200315">The 3.50 update</a> </strong>made it <em>even easier </em>to be able to stack effects and choose different cabinets when you are editing patches. The visual &#8220;rig&#8221; on the Helix screen is easy to set up, and you can build entire setlists worth of patches.</p>
 
 
 
@@ -244,15 +244,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" data-lasso-id="200342">What Is A Line 6 Helix? We Break Down The Powerful Beast!</a></strong></li>
+<li><strong><a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" data-lasso-id="200342">What Is A Line 6 Helix? We Break Down The Powerful Beast!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" data-lasso-id="200343">Is Line 6 Helix Easy To Use? A Look Into The Powerful Processor!</a></strong></li>
+<li><strong><a href="/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" data-lasso-id="200343">Is Line 6 Helix Easy To Use? A Look Into The Powerful Processor!</a></strong></li>
 
 
 
-<li><strong><a data-lasso-id="200344" href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-type="post" data-id="3927">Line 6 Helix Reviews: Is It Worth Tossing Your Amp All Together?</a></strong></li>
+<li><strong><a data-lasso-id="200344" href="/line-6-helix-reviews-is-it-worth-it/" data-type="post" data-id="3927">Line 6 Helix Reviews: Is It Worth Tossing Your Amp All Together?</a></strong></li>
 </ul>
 
 
@@ -343,7 +343,7 @@ seo:
 
 
 
-<p>The Helix LT will do the work needed for just about <a href="https://www.electrikjam.com/do-guitarists-know-every-scale/" data-lasso-id="216531">every guitarist</a>. The flagship model absolutely does have better features, but do you <em>need</em> them? Personally, I think the Helix LT is the best buy for almost every guitarist. It has the power, just not as flashy!</p>
+<p>The Helix LT will do the work needed for just about <a href="/do-guitarists-know-every-scale/" data-lasso-id="216531">every guitarist</a>. The flagship model absolutely does have better features, but do you <em>need</em> them? Personally, I think the Helix LT is the best buy for almost every guitarist. It has the power, just not as flashy!</p>
 
 
 
@@ -352,7 +352,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a data-lasso-id="200345" href="https://www.electrikjam.com/line-6-helix-lt-reviews/" data-type="post" data-id="4472">Line 6 Helix LT Reviews: The Awesome Makeover That The Helix Needed!</a></strong></li>
+<li><strong><a data-lasso-id="200345" href="/line-6-helix-lt-reviews/" data-type="post" data-id="4472">Line 6 Helix LT Reviews: The Awesome Makeover That The Helix Needed!</a></strong></li>
 </ul>
 
 
@@ -428,11 +428,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" data-lasso-id="200346">Is Line 6 HX Stomp Worth it? A Second Opinion!</a></strong></li>
+<li><strong><a href="/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" data-lasso-id="200346">Is Line 6 HX Stomp Worth it? A Second Opinion!</a></strong></li>
 
 
 
-<li><strong><a data-lasso-id="200347" href="https://www.electrikjam.com/building-a-guitar-rig/" data-type="post" data-id="8500">Gigging On A Budget: Building A Guitar Rig For $1500 or LESS!</a></strong></li>
+<li><strong><a data-lasso-id="200347" href="/building-a-guitar-rig/" data-type="post" data-id="8500">Gigging On A Budget: Building A Guitar Rig For $1500 or LESS!</a></strong></li>
 </ul>
 
 
@@ -466,7 +466,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a data-lasso-id="200348" href="https://www.electrikjam.com/the-line-6-hx-stomp/" data-type="post" data-id="4221">Is The Line 6 HX Stomp Features Overview</a></strong></li>
+<li><strong><a data-lasso-id="200348" href="/the-line-6-hx-stomp/" data-type="post" data-id="4221">Is The Line 6 HX Stomp Features Overview</a></strong></li>
 </ul>
 
 
@@ -562,11 +562,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-type="post" data-id="4469" data-lasso-id="200349">Line 6 POD GO Reviews: The #1 Alternative To The Legendary Helix</a></strong></li>
+<li><strong><a href="/line-6-pod-go-reviews/" data-type="post" data-id="4469" data-lasso-id="200349">Line 6 POD GO Reviews: The #1 Alternative To The Legendary Helix</a></strong></li>
 
 
 
-<li><strong><a data-lasso-id="200350" href="https://www.electrikjam.com/the-best-amp-simulators-in-2021/" data-type="post" data-id="2687">The Best Amp Simulators To Buy Right Now</a></strong></li>
+<li><strong><a data-lasso-id="200350" href="/the-best-amp-simulators-in-2021/" data-type="post" data-id="2687">The Best Amp Simulators To Buy Right Now</a></strong></li>
 </ul>
 
 
@@ -615,7 +615,7 @@ seo:
 
 
 
-<p>But the biggest draw, even if you do use external amplification like an <a href="https://www.electrikjam.com/frfr-speaker-impedance-explained-understanding-the-basics/" data-lasso-id="218895">FRFR Speaker</a>, is that your rig is <strong>very small</strong>. The whole rig can easily be transported to any gig, and it works for many players. You can have tons of different sounds right at your feet in a portable option.</p>
+<p>But the biggest draw, even if you do use external amplification like an <a href="/frfr-speaker-impedance-explained-understanding-the-basics/" data-lasso-id="218895">FRFR Speaker</a>, is that your rig is <strong>very small</strong>. The whole rig can easily be transported to any gig, and it works for many players. You can have tons of different sounds right at your feet in a portable option.</p>
 
 
 
@@ -656,11 +656,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/line-6-catalyst-vs-boss-katana/" data-type="post" data-id="6934" data-lasso-id="200351">Line 6 Catalyst VS BOSS Katana: Which Amp Will Be #1?</a></strong></li>
+<li><strong><a href="/line-6-catalyst-vs-boss-katana/" data-type="post" data-id="6934" data-lasso-id="200351">Line 6 Catalyst VS BOSS Katana: Which Amp Will Be #1?</a></strong></li>
 
 
 
-<li><strong><a data-lasso-id="200352" href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924">Line 6 Catalyst 100 Review: A Giant Attempt To Catch Up With The Katana?</a></strong></li>
+<li><strong><a data-lasso-id="200352" href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924">Line 6 Catalyst 100 Review: A Giant Attempt To Catch Up With The Katana?</a></strong></li>
 </ul>
 
 
@@ -681,7 +681,7 @@ seo:
 
 
 
-<p>We have already done a great article on how to use the <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="200316"><strong>Line 6 Edit</strong></a>, including the <a href="https://www.electrikjam.com/line-6-3-50-update-explained/" data-type="post" data-id="9682" target="_blank" rel="noopener" data-lasso-id="200317"><strong>new update</strong></a>. One thing that every product we talked about today have in common, is they can all be connected to the Line 6 Edit. This allows you to really dial in the tone of your unit, and fine tune all of the effects.</p>
+<p>We have already done a great article on how to use the <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="200316"><strong>Line 6 Edit</strong></a>, including the <a href="/line-6-3-50-update-explained/" data-type="post" data-id="9682" target="_blank" rel="noopener" data-lasso-id="200317"><strong>new update</strong></a>. One thing that every product we talked about today have in common, is they can all be connected to the Line 6 Edit. This allows you to really dial in the tone of your unit, and fine tune all of the effects.</p>
 
 
 
@@ -702,7 +702,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a data-lasso-id="200353" href="https://www.electrikjam.com/what-is-line-6-edit/" data-type="post" data-id="5701">What Is Line 6 Edit? The #1 Guide To Crafting Amazing Tones!</a></strong></li>
+<li><strong><a data-lasso-id="200353" href="/what-is-line-6-edit/" data-type="post" data-id="5701">What Is Line 6 Edit? The #1 Guide To Crafting Amazing Tones!</a></strong></li>
 </ul>
 
 
@@ -744,7 +744,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a data-lasso-id="200354" href="https://www.electrikjam.com/line-6-helix-recording-techniques/" data-type="post" data-id="4209">Line 6 Helix Recording Techniques: The #1 Guide To Getting Started!</a></strong></li>
+<li><strong><a data-lasso-id="200354" href="/line-6-helix-recording-techniques/" data-type="post" data-id="4209">Line 6 Helix Recording Techniques: The #1 Guide To Getting Started!</a></strong></li>
 </ul>
 
 
@@ -777,11 +777,11 @@ seo:
 
 
 
-<p>But I also think that Line 6 is competing with the newer computer based amp sims, that come ready to play. Things like<a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="200318"> <strong>STL Tones</strong></a> and Archetype have become the norm for newer guitarists. So I think that Line 6 had to play catchup a little, and the 3.50 Update was exactly what was needed. It really breathes new life into the HX and Helix lineup.</p>
+<p>But I also think that Line 6 is competing with the newer computer based amp sims, that come ready to play. Things like<a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="200318"> <strong>STL Tones</strong></a> and Archetype have become the norm for newer guitarists. So I think that Line 6 had to play catchup a little, and the 3.50 Update was exactly what was needed. It really breathes new life into the HX and Helix lineup.</p>
 
 
 
-<p>So if you are just now getting into <a href="https://www.electrikjam.com/digital-guitar-rigs-5-reasons/" data-lasso-id="223256">digital guitar</a> systems, Line 6 is one of the industry standards. It offers a ton of options for guitarists that want to supplement their rig, or go completely digital. How you use these products is completely up to you, since they are all so versatile.</p>
+<p>So if you are just now getting into <a href="/digital-guitar-rigs-5-reasons/" data-lasso-id="223256">digital guitar</a> systems, Line 6 is one of the industry standards. It offers a ton of options for guitarists that want to supplement their rig, or go completely digital. How you use these products is completely up to you, since they are all so versatile.</p>
 
 
 
@@ -790,11 +790,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" data-lasso-id="200355">How To Mic A Guitar Amp: The 3 PRO Positions For Killer Tone!</a></strong></li>
+<li><strong><a href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" data-lasso-id="200355">How To Mic A Guitar Amp: The 3 PRO Positions For Killer Tone!</a></strong></li>
 
 
 
-<li><strong><a data-lasso-id="200356" href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892">STL AmpHub Review: The #1 Plugin For People That Hate Plugins!</a></strong></li>
+<li><strong><a data-lasso-id="200356" href="/stl-amphub-review/" data-type="post" data-id="5892">STL AmpHub Review: The #1 Plugin For People That Hate Plugins!</a></strong></li>
 </ul>
 
 
@@ -840,23 +840,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" data-lasso-id="200357">Expensive Amp Simulators: The PRO Solution For Every Studio</a></strong></li>
+<li><strong><a href="/expensive-amp-simulators/" data-type="post" data-id="2801" data-lasso-id="200357">Expensive Amp Simulators: The PRO Solution For Every Studio</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" data-lasso-id="200358">The Best Free Amp Simulators For Metal</a></strong></li>
+<li><strong><a href="/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" data-lasso-id="200358">The Best Free Amp Simulators For Metal</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" data-lasso-id="200359">The Best Amp Simulators</a></strong></li>
+<li><strong><a href="/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" data-lasso-id="200359">The Best Amp Simulators</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" data-lasso-id="200360">Guitar Amp Types Explained: The #1 Guide To Combos, Stacks, And Beyond!</a></strong></li>
+<li><strong><a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" data-lasso-id="200360">Guitar Amp Types Explained: The #1 Guide To Combos, Stacks, And Beyond!</a></strong></li>
 
 
 
-<li><strong><a data-lasso-id="200361" href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-type="post" data-id="8712">Guitar Amp Controls Explained: The 1st Step Towards AMAZING Tone!</a></strong></li>
+<li><strong><a data-lasso-id="200361" href="/guitar-amp-controls-explained/" data-type="post" data-id="8712">Guitar Amp Controls Explained: The 1st Step Towards AMAZING Tone!</a></strong></li>
 </ul>
 
 

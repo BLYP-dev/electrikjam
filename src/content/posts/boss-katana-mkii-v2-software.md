@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>We talk <strong>a lot </strong>about the <a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-type="post" data-id="8354" target="_blank" rel="noopener" data-lasso-id="140236"><strong>Katana here</strong></a>, because we absolutely <em>love</em> our Katanas in the ElectrikJam studio. I know that I personally use mine <em>every single day</em>. I use mine for recording, practice, and even when I am giving/receiving lessons. I use the BOSS Katana 100 constantly, and I wonder how I ever lived without it. Just last week, I <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="140237"><strong>listed the the main reasons</strong></a> I love my Katana, and most of you seemed to agree.</p>
+<p>We talk <strong>a lot </strong>about the <a href="/boss-katana-50-watt-vs-100-watt/" data-type="post" data-id="8354" target="_blank" rel="noopener" data-lasso-id="140236"><strong>Katana here</strong></a>, because we absolutely <em>love</em> our Katanas in the ElectrikJam studio. I know that I personally use mine <em>every single day</em>. I use mine for recording, practice, and even when I am giving/receiving lessons. I use the BOSS Katana 100 constantly, and I wonder how I ever lived without it. Just last week, I <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="140237"><strong>listed the the main reasons</strong></a> I love my Katana, and most of you seemed to agree.</p>
 
 
 
@@ -54,11 +54,11 @@ seo:
 
 
 
-<p>In our last article about the Katana, we talked about the &#8220;lesser known&#8221; features that I use often. That article had a lot of readers seeing the true power of the Katana for the first time! We have also taken a look at things like the &#8220;<a href="https://www.electrikjam.com/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" target="_blank" rel="noopener" data-lasso-id="140238"><strong>Sneaky Amps</strong></a>&#8220;, that make the Katana so interesting. I guess what I am saying, is that the Katana has already surprised users<em> time and time again</em>. The Katana is already an amazing product right out of the box, though. You don&#8217;t even need Tone Studio to have an amazing,<a href="https://www.electrikjam.com/gigging-on-a-budget/" target="_blank" data-type="post" data-id="8443" rel="noopener" data-lasso-id="140239"> <strong>budget</strong></a> amp.</p>
+<p>In our last article about the Katana, we talked about the &#8220;lesser known&#8221; features that I use often. That article had a lot of readers seeing the true power of the Katana for the first time! We have also taken a look at things like the &#8220;<a href="/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" target="_blank" rel="noopener" data-lasso-id="140238"><strong>Sneaky Amps</strong></a>&#8220;, that make the Katana so interesting. I guess what I am saying, is that the Katana has already surprised users<em> time and time again</em>. The Katana is already an amazing product right out of the box, though. You don&#8217;t even need Tone Studio to have an amazing,<a href="/gigging-on-a-budget/" target="_blank" data-type="post" data-id="8443" rel="noopener" data-lasso-id="140239"> <strong>budget</strong></a> amp.</p>
 
 
 
-<p>But the <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140945">BOSS Katana MKII Software for Tone Studio</a> that was just released has taken all of the things that I love, and made them even more accessible. But on top of that, we also get new effects, new FX chains, and some recording options that take the Katana to the <strong>next level</strong>. BOSS really hasn&#8217;t made a big deal about the new update, but I promise you&#8230;it is a <em>very </em>big deal. And the update is totally<strong> FREE</strong>.</p>
+<p>But the <a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140945">BOSS Katana MKII Software for Tone Studio</a> that was just released has taken all of the things that I love, and made them even more accessible. But on top of that, we also get new effects, new FX chains, and some recording options that take the Katana to the <strong>next level</strong>. BOSS really hasn&#8217;t made a big deal about the new update, but I promise you&#8230;it is a <em>very </em>big deal. And the update is totally<strong> FREE</strong>.</p>
 
 
 
@@ -150,15 +150,15 @@ seo:
 
 
 
-<p>The BOSS Katana MKII V2 software update adds a TON of what I call &#8220;quality of life&#8221; upgrades when it comes to setting up the Katana. These new features make the Katana much easier to<a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="140242"> <strong>gig with</strong></a>, <em>and</em> record with. You will see why as we go over each new feature individually. But I want you to know that these new features might add a lot, but the Katana is still one of the most<strong> simple</strong> &#8220;all in one&#8221; amps. These new features retain the <strong>simple vibe </strong>that Tone Studio has always had. Let&#8217;s dig in:</p>
+<p>The BOSS Katana MKII V2 software update adds a TON of what I call &#8220;quality of life&#8221; upgrades when it comes to setting up the Katana. These new features make the Katana much easier to<a href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="140242"> <strong>gig with</strong></a>, <em>and</em> record with. You will see why as we go over each new feature individually. But I want you to know that these new features might add a lot, but the Katana is still one of the most<strong> simple</strong> &#8220;all in one&#8221; amps. These new features retain the <strong>simple vibe </strong>that Tone Studio has always had. Let&#8217;s dig in:</p>
 
 
 
-<p><strong>3 Global EQ Presets: </strong>This is by far the most exciting part of the BOSS katana MKII V2 Software to me. In my <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="140243"><strong>One year Katana Review</strong></a> I talked a lot about how important the Global EQ settings were, and how underutilized this feature was. I have several Global EQ settings written down on a piece of paper for when I record. <strong>Now you can program 3 Global EQ Settings and save them in Tone Studio!</strong></p>
+<p><strong>3 Global EQ Presets: </strong>This is by far the most exciting part of the BOSS katana MKII V2 Software to me. In my <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="140243"><strong>One year Katana Review</strong></a> I talked a lot about how important the Global EQ settings were, and how underutilized this feature was. I have several Global EQ settings written down on a piece of paper for when I record. <strong>Now you can program 3 Global EQ Settings and save them in Tone Studio!</strong></p>
 
 
 
-<p>Having 3 Global EQ Settings already programmed is going to make my recording life <em>much easier</em>. I change the Global EQ depending on a variety of factors: the guitar, pickups, gain setting, number of strings, and <a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="140244"><strong>pickup position</strong></a>. The Global EQ is a powerful effect that can change your <em>whole sound</em>, and now you can save<strong> three in Tone Studio </strong>and recall them for <strong>any patch</strong>. It has the Red, Green, and yellow setting buttons on the main Tone Studio page. See Starred Section Below:</p>
+<p>Having 3 Global EQ Settings already programmed is going to make my recording life <em>much easier</em>. I change the Global EQ depending on a variety of factors: the guitar, pickups, gain setting, number of strings, and <a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="140244"><strong>pickup position</strong></a>. The Global EQ is a powerful effect that can change your <em>whole sound</em>, and now you can save<strong> three in Tone Studio </strong>and recall them for <strong>any patch</strong>. It has the Red, Green, and yellow setting buttons on the main Tone Studio page. See Starred Section Below:</p>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<p><strong>Solo Boost:</strong> Now this is not a new feature exactly, but now the Solo Boost has its <em>own EQ section</em>. You can also choose whether the Solo Boost is &#8220;Amp In/ Amp Out&#8221; and this will change the way the amp reacts to <em>your guitar</em>. The Solo Boost was always a cool feature, but now you have <em>control </em>over it. For example, if have one guitar with <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="140245"><strong>active pickups</strong></a> and it is louder than your <em>other guitar </em>at a gig, use the Solo Boost to compensate for the active pickup volume change on stage with a push of a button!</p>
+<p><strong>Solo Boost:</strong> Now this is not a new feature exactly, but now the Solo Boost has its <em>own EQ section</em>. You can also choose whether the Solo Boost is &#8220;Amp In/ Amp Out&#8221; and this will change the way the amp reacts to <em>your guitar</em>. The Solo Boost was always a cool feature, but now you have <em>control </em>over it. For example, if have one guitar with <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="140245"><strong>active pickups</strong></a> and it is louder than your <em>other guitar </em>at a gig, use the Solo Boost to compensate for the active pickup volume change on stage with a push of a button!</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p><strong>New Effects:</strong> The Solo EQ is counted as a new effect technically, but there are two new pedal effects in the BOSS Katana MKII V2 Software that are awesome! The first is a<strong> Pedal Bend</strong>, which allows you to use an expression pedal to change the pitch of the guitar. Now I don&#8217;t use an expression pedal with my Katana, so I cannot test this feature. But it should act like a controllable pitch bend, think of it like a <strong>Digitech Whammy </strong>pedal. It does that <strong>Dime</strong> <a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" target="_blank" rel="noopener" data-lasso-id="140246"><strong>Pantera</strong></a> effect, basically. <strong>Gojira</strong> are also famous for using this effect in &#8220;Stranded&#8221;.</p>
+<p><strong>New Effects:</strong> The Solo EQ is counted as a new effect technically, but there are two new pedal effects in the BOSS Katana MKII V2 Software that are awesome! The first is a<strong> Pedal Bend</strong>, which allows you to use an expression pedal to change the pitch of the guitar. Now I don&#8217;t use an expression pedal with my Katana, so I cannot test this feature. But it should act like a controllable pitch bend, think of it like a <strong>Digitech Whammy </strong>pedal. It does that <strong>Dime</strong> <a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" target="_blank" rel="noopener" data-lasso-id="140246"><strong>Pantera</strong></a> effect, basically. <strong>Gojira</strong> are also famous for using this effect in &#8220;Stranded&#8221;.</p>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<p>But the more exciting pedal that we get is the <strong>CENTA OD</strong>, which is based on the famously expensive KLON Centaur pedal. Now the KLON is out of most of our budgets by far, since these pedals go for thousands of dollars! <a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="140247"><strong>John Mayer</strong> </a>is famous for using this pedal, and it is a <em>VERY versatile</em> overdrive. It can be tame, or it can go all out Marshall crunch if you want. You should definitely try this pedal on the clean channel!</p>
+<p>But the more exciting pedal that we get is the <strong>CENTA OD</strong>, which is based on the famously expensive KLON Centaur pedal. Now the KLON is out of most of our budgets by far, since these pedals go for thousands of dollars! <a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="140247"><strong>John Mayer</strong> </a>is famous for using this pedal, and it is a <em>VERY versatile</em> overdrive. It can be tame, or it can go all out Marshall crunch if you want. You should definitely try this pedal on the clean channel!</p>
 
 
 
@@ -198,7 +198,7 @@ seo:
 
 
 
-<p>The last new feature that comes with the BOSS Katana MKII V2 Software update deserves its own section, in my opinion. This last feature is an absolute game changer for people that <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="140248"><strong>record at home </strong></a>with the Katana. This is a feature that I didn&#8217;t know I needed, but after spending the last few hours playing with it, I NEED this feature. That&#8217;s right, we finally get IR options on the Katana!</p>
+<p>The last new feature that comes with the BOSS Katana MKII V2 Software update deserves its own section, in my opinion. This last feature is an absolute game changer for people that <a href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="140248"><strong>record at home </strong></a>with the Katana. This is a feature that I didn&#8217;t know I needed, but after spending the last few hours playing with it, I NEED this feature. That&#8217;s right, we finally get IR options on the Katana!</p>
 
 
 
@@ -242,7 +242,7 @@ seo:
 
 
 
-<p>There is also a <strong>Mic Position</strong> is relative to where the mic is positioned on the <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="140249"><strong>speaker</strong></a> <strong>cone&#8217;s</strong> <strong>center</strong> of the virtual speaker. this can have a lot of impact on your sound as well. This can contour your guitar&#8217;s EQ a little. I found that the closer settings work best for high gain, and a little further away from the center of the cone works better for cleans. The further from the center you get, the more bass you get as a rule of thumb. I found about 3cm works for most of my tones, just like in real life applications!</p>
+<p>There is also a <strong>Mic Position</strong> is relative to where the mic is positioned on the <a href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="140249"><strong>speaker</strong></a> <strong>cone&#8217;s</strong> <strong>center</strong> of the virtual speaker. this can have a lot of impact on your sound as well. This can contour your guitar&#8217;s EQ a little. I found that the closer settings work best for high gain, and a little further away from the center of the cone works better for cleans. The further from the center you get, the more bass you get as a rule of thumb. I found about 3cm works for most of my tones, just like in real life applications!</p>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p>Does this compete with the <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="140250"><strong>Helix</strong></a> when it comes to configuring IR options and dialing in a tone? I don&#8217;t think so. But those are two different things. The Katana is not a full modeling suite, and the Helix is not a solid state amp. They are completely different in approach. That being said, the Katana is closer than ever to having those kind of options with the BOSS Katana MKII V2 Software. This is a game changer!</p>
+<p>Does this compete with the <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="140250"><strong>Helix</strong></a> when it comes to configuring IR options and dialing in a tone? I don&#8217;t think so. But those are two different things. The Katana is not a full modeling suite, and the Helix is not a solid state amp. They are completely different in approach. That being said, the Katana is closer than ever to having those kind of options with the BOSS Katana MKII V2 Software. This is a game changer!</p>
 
 
 

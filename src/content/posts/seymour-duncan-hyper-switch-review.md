@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>Controlling your guitar with a phone app sounds like a great big gimmick, I know. <strong><a href="https://www.electrikjam.com/we-need-to-talk-about-the-gtrs-intelligent-guitar/" data-type="post" data-id="3491" target="_blank" rel="noopener" data-lasso-id="235665">We took a look at the MOOER Guitar </a></strong>that had onboard effects and it was&#8230; underwhelming. But what if that idea was scaled down, and totally refined? Take the<em> gimmick</em> out of the equation, and make it a viable piece of gear that changes the game, brought to you by a trusted company. How would that be possible?</p>
+<p>Controlling your guitar with a phone app sounds like a great big gimmick, I know. <strong><a href="/we-need-to-talk-about-the-gtrs-intelligent-guitar/" data-type="post" data-id="3491" target="_blank" rel="noopener" data-lasso-id="235665">We took a look at the MOOER Guitar </a></strong>that had onboard effects and it was&#8230; underwhelming. But what if that idea was scaled down, and totally refined? Take the<em> gimmick</em> out of the equation, and make it a viable piece of gear that changes the game, brought to you by a trusted company. How would that be possible?</p>
 
 
 
@@ -58,15 +58,15 @@ seo:
 
 
 
-<p>The whole purpose of the 5-way is to get <strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="235454">different tones from the pickup positions</a></strong>. This can work in a lot of different pickup configurations, with the Stratocaster it does different blends the 3 single coil pickups. But the Strat didn&#8217;t always work this way, in fact, it was a bit of experimentation and mostly a happy accident!</p>
+<p>The whole purpose of the 5-way is to get <strong><a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="235454">different tones from the pickup positions</a></strong>. This can work in a lot of different pickup configurations, with the Stratocaster it does different blends the 3 single coil pickups. But the Strat didn&#8217;t always work this way, in fact, it was a bit of experimentation and mostly a happy accident!</p>
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" target="_blank" data-type="post" data-id="583" rel="noopener" data-lasso-id="235455">original versions of the Fender Stratocaster </a></strong>only had a <strong>3-way switch</strong>, which let you choose one of the three pickups at a time. But players started noticing that if you jammed a coin into the switch cavity, or a guitar pick, you could get &#8220;in between&#8221; positions.</p>
+<p>The <strong><a href="/who-invented-the-electric-guitar/" target="_blank" data-type="post" data-id="583" rel="noopener" data-lasso-id="235455">original versions of the Fender Stratocaster </a></strong>only had a <strong>3-way switch</strong>, which let you choose one of the three pickups at a time. But players started noticing that if you jammed a coin into the switch cavity, or a guitar pick, you could get &#8220;in between&#8221; positions.</p>
 
 
 
-<p>These positions are now very famous tones when it comes to the sound of a Stratocaster. The first &#8220;in between&#8221; position blends the neck and middle pickup, and gives you that classic &#8220;quack&#8221; from a Strat. In fact, <strong><a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" target="_blank" rel="noopener" data-lasso-id="235456">John Mayer uses this position a lot in his music</a></strong>.</p>
+<p>These positions are now very famous tones when it comes to the sound of a Stratocaster. The first &#8220;in between&#8221; position blends the neck and middle pickup, and gives you that classic &#8220;quack&#8221; from a Strat. In fact, <strong><a href="/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" target="_blank" rel="noopener" data-lasso-id="235456">John Mayer uses this position a lot in his music</a></strong>.</p>
 
 
 
@@ -82,7 +82,7 @@ seo:
 
 
 
-<p>But beyond that, there really hasn&#8217;t been a whole lot of innovation when it comes to guitar wiring layouts. <strong><a data-lasso-id="235457" href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener">We have seen active pickups catch on</a></strong>, and those have a built-in preamp in the guitar wiring. Again though, this idea was pioneered quite some time ago. </p>
+<p>But beyond that, there really hasn&#8217;t been a whole lot of innovation when it comes to guitar wiring layouts. <strong><a data-lasso-id="235457" href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener">We have seen active pickups catch on</a></strong>, and those have a built-in preamp in the guitar wiring. Again though, this idea was pioneered quite some time ago. </p>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<p>To be honest, it was time for a change when it comes to guitar wiring. We <strong><a data-lasso-id="235458" data-lasso-name="Line 6 Overview" href="https://www.electrikjam.com/line-6-guitar-center/" data-type="lasso-urls" data-id="9983" target="_blank" rel="nofollow sponsored noopener">have gear like the Helix </a></strong>and <strong><a data-lasso-id="235459" href="https://www.electrikjam.com/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener">Neural Amp Modeler </a></strong> that allows digital technology to achieve different tones in a highly-customizable way. We have Bluetooth apps for these modelers and pedalboards, so why haven&#8217;t we seen anything new with the actual guitar wiring that isn&#8217;t a gimmick?</p>
+<p>To be honest, it was time for a change when it comes to guitar wiring. We <strong><a data-lasso-id="235458" data-lasso-name="Line 6 Overview" href="/line-6-guitar-center/" data-type="lasso-urls" data-id="9983" target="_blank" rel="nofollow sponsored noopener">have gear like the Helix </a></strong>and <strong><a data-lasso-id="235459" href="/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener">Neural Amp Modeler </a></strong> that allows digital technology to achieve different tones in a highly-customizable way. We have Bluetooth apps for these modelers and pedalboards, so why haven&#8217;t we seen anything new with the actual guitar wiring that isn&#8217;t a gimmick?</p>
 
 
 
@@ -280,11 +280,11 @@ seo:
 
 
 
-<p>The Seymour Duncan Hyper Switch is a huge leap in technology. We have always been able to change the way our guitar tone sounds by using gear like amps, pedals, modelers, and multi-effects. But we have never had such control from the guitar itself, especially not from <strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="235667">a mainstream company like Duncan</a></strong>.</p>
+<p>The Seymour Duncan Hyper Switch is a huge leap in technology. We have always been able to change the way our guitar tone sounds by using gear like amps, pedals, modelers, and multi-effects. But we have never had such control from the guitar itself, especially not from <strong><a href="/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="235667">a mainstream company like Duncan</a></strong>.</p>
 
 
 
-<p>I will be installing the Hyper Switch into my favorite studio guitar, <strong><a href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" target="_blank" data-type="post" data-id="4836" rel="noopener" data-lasso-id="235668">my Schecter Sun Valley Exotic</a></strong>, <strong>ASAP</strong>. I cannot imagine how many different presets I will have programmed for my main studio guitar, but I know it will be very expansive. <strong>Because when you are in the studio, time is money</strong>.</p>
+<p>I will be installing the Hyper Switch into my favorite studio guitar, <strong><a href="/schecter-sun-valley-super-shredder-exotic-hardtail/" target="_blank" data-type="post" data-id="4836" rel="noopener" data-lasso-id="235668">my Schecter Sun Valley Exotic</a></strong>, <strong>ASAP</strong>. I cannot imagine how many different presets I will have programmed for my main studio guitar, but I know it will be very expansive. <strong>Because when you are in the studio, time is money</strong>.</p>
 
 
 

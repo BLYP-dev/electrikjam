@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>Well the honeymoon has been over for quite a while, and the Glarry GJazz Bass has been used by myself and others in the studio. So is it still holding up, and better yet is it as good as <strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="219544">the usual budget guitars</a></strong>?</p>
+<p>Well the honeymoon has been over for quite a while, and the Glarry GJazz Bass has been used by myself and others in the studio. So is it still holding up, and better yet is it as good as <strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="219544">the usual budget guitars</a></strong>?</p>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<p>The neck has a very thin satin finish, to the point that it almost feels like raw wood. I really like this feel, and Maple is a very solid wood for instrument necks. Maple is so commonly used because it is a hard wood, and keeps the neck straight (<strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" target="_blank" data-type="post" data-id="583" rel="noopener" data-lasso-id="219545">Leo Fender got it right</a></strong> in the 50&#8217;s).</p>
+<p>The neck has a very thin satin finish, to the point that it almost feels like raw wood. I really like this feel, and Maple is a very solid wood for instrument necks. Maple is so commonly used because it is a hard wood, and keeps the neck straight (<strong><a href="/who-invented-the-electric-guitar/" target="_blank" data-type="post" data-id="583" rel="noopener" data-lasso-id="219545">Leo Fender got it right</a></strong> in the 50&#8217;s).</p>
 
 
 
@@ -300,7 +300,7 @@ seo:
 
 
 
-<p>The only thing I can complain about as far as construction goes, is the logo has started to rub off. This is because in the studio, we use a clip-on tuner for the headstock. <strong><a href="https://www.electrikjam.com/best-electric-guitar-tuners/" target="_blank" data-type="post" data-id="862" rel="noopener" data-lasso-id="219546">The Snark tuner </a></strong>pad seems to have rubbed the logo off a little bit over time.</p>
+<p>The only thing I can complain about as far as construction goes, is the logo has started to rub off. This is because in the studio, we use a clip-on tuner for the headstock. <strong><a href="/best-electric-guitar-tuners/" target="_blank" data-type="post" data-id="862" rel="noopener" data-lasso-id="219546">The Snark tuner </a></strong>pad seems to have rubbed the logo off a little bit over time.</p>
 
 
 
@@ -466,7 +466,7 @@ seo:
 
 
 
-<p>If you are a pro, then this might be a great project bass, or a backup. Better yet, if you are a g<strong><a href="https://www.electrikjam.com/is-electric-guitar-harder-than-bass/" data-type="post" data-id="10470" target="_blank" rel="noopener" data-lasso-id="219548">uitar player that wants to learn bass </a></strong>then Glarry is a PERFECT option. If you end up liking bass as much as guitar you can upgrade your Glarry, or buy a nicer bass down the road.</p>
+<p>If you are a pro, then this might be a great project bass, or a backup. Better yet, if you are a g<strong><a href="/is-electric-guitar-harder-than-bass/" data-type="post" data-id="10470" target="_blank" rel="noopener" data-lasso-id="219548">uitar player that wants to learn bass </a></strong>then Glarry is a PERFECT option. If you end up liking bass as much as guitar you can upgrade your Glarry, or buy a nicer bass down the road.</p>
 
 
 

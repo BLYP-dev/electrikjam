@@ -43,19 +43,19 @@ seo:
 
 
 
-<p>I promise you, this will be the last time I talk about the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="140505"><strong>BOSS Katana</strong></a> for a while. But to be honest, it can be hard not to talk about this series of amps. They are pretty amazing for such a <a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="140506"><strong>budget guitar</strong></a> product. The release of the new<a href="https://www.electrikjam.com/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140507"> <strong>Tone Studio V2</strong> </a>upgrade has a huge effect on the function of this amp, especially when it comes to recording at home. We went over the new features, and I have had some time to really play with the new additions.</p>
+<p>I promise you, this will be the last time I talk about the <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="140505"><strong>BOSS Katana</strong></a> for a while. But to be honest, it can be hard not to talk about this series of amps. They are pretty amazing for such a <a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="140506"><strong>budget guitar</strong></a> product. The release of the new<a href="/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140507"> <strong>Tone Studio V2</strong> </a>upgrade has a huge effect on the function of this amp, especially when it comes to recording at home. We went over the new features, and I have had some time to really play with the new additions.</p>
 
 
 
-<p>But it was <em>always really easy</em> to get started recording with the BOSS Katana. Right from the get-go it was easy to use the traditional method of an interface. But you also get the USB function, that acts as its <em>own</em> interface if all you have is a computer. Either way, recording with the BOSS Katana was meant to be easy, even for the greenest of beginners. We have a <strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="140935">great list of DAWs</a> </strong>if you&#8217;re interested, Reaper is our favorite.</p>
+<p>But it was <em>always really easy</em> to get started recording with the BOSS Katana. Right from the get-go it was easy to use the traditional method of an interface. But you also get the USB function, that acts as its <em>own</em> interface if all you have is a computer. Either way, recording with the BOSS Katana was meant to be easy, even for the greenest of beginners. We have a <strong><a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="140935">great list of DAWs</a> </strong>if you&#8217;re interested, Reaper is our favorite.</p>
 
 
 
-<p>That&#8217;s the whole appeal of the BOSS Katana in a nutshell. It can be a great tool for <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="140508"><strong>beginners on a budget</strong></a>,  but it can also be appreciated by seasoned pros that want a killer tone. I used to swear by the rule that &#8220;tube amps are for pros&#8221; and solid state and modeling technology was for amateurs. Buy hey, times have seriously changed over the last decade or so, and it seems more guitarists are turning to<strong> <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="140509">amp</a></strong><a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="140510"> <strong>sims</strong> </a>and modelers to get the job done.</p>
+<p>That&#8217;s the whole appeal of the BOSS Katana in a nutshell. It can be a great tool for <a href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="140508"><strong>beginners on a budget</strong></a>,  but it can also be appreciated by seasoned pros that want a killer tone. I used to swear by the rule that &#8220;tube amps are for pros&#8221; and solid state and modeling technology was for amateurs. Buy hey, times have seriously changed over the last decade or so, and it seems more guitarists are turning to<strong> <a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="140509">amp</a></strong><a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="140510"> <strong>sims</strong> </a>and modelers to get the job done.</p>
 
 
 
-<p>Recording with the BOSS Katana falls somewhere in the middle of using something like a<strong> <a href="https://www.electrikjam.com/line-6-helix-lt-reviews/" data-type="post" data-id="4472" target="_blank" rel="noopener" data-lasso-id="140936">Helix</a></strong>, and using old-school tube amps. You can easily throw a mic in front on the Katana and crank it up to record. But the new Tone Studio V2 app has changed things immensely. Now we have a simple, but totally useful IR designer. Unfortunately, you cannot upload your own IR, but I found that I didn&#8217;t need that feature.</p>
+<p>Recording with the BOSS Katana falls somewhere in the middle of using something like a<strong> <a href="/line-6-helix-lt-reviews/" data-type="post" data-id="4472" target="_blank" rel="noopener" data-lasso-id="140936">Helix</a></strong>, and using old-school tube amps. You can easily throw a mic in front on the Katana and crank it up to record. But the new Tone Studio V2 app has changed things immensely. Now we have a simple, but totally useful IR designer. Unfortunately, you cannot upload your own IR, but I found that I didn&#8217;t need that feature.</p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>Recording with the BOSS Katana is never going to be on the level of the <a data-lasso-id="140511" href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"><strong>Helix </strong></a>or its ilk when it comes to these kind of options. The Helix Software is much more in-depth and has more <em>control</em> when it comes to cabinets and mics to choose from. That being said, I find things like the Line 6 Helix to be<em> a little too much</em>. In fact, I find that most modeling software has too many options, which is why I adore <a data-lasso-id="140512" href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener"><strong>STL Tones </strong></a>so much.</p>
+<p>Recording with the BOSS Katana is never going to be on the level of the <a data-lasso-id="140511" href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"><strong>Helix </strong></a>or its ilk when it comes to these kind of options. The Helix Software is much more in-depth and has more <em>control</em> when it comes to cabinets and mics to choose from. That being said, I find things like the Line 6 Helix to be<em> a little too much</em>. In fact, I find that most modeling software has too many options, which is why I adore <a data-lasso-id="140512" href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener"><strong>STL Tones </strong></a>so much.</p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>The First thing you want to do, is go to the <strong>Settings</strong> icon at the top of Tone Studio. If you need to update anything, we have an article<a href="https://www.electrikjam.com/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140937"> <strong>HERE</strong></a> that will walk you through the steps to update <em>everything</em>. Once you have that all sorted out, go to the <strong>Settings</strong> and pull up the <strong>Line Out Settings</strong>. By default, the mic options will be turned off and should look like the picture above.</p>
+<p>The First thing you want to do, is go to the <strong>Settings</strong> icon at the top of Tone Studio. If you need to update anything, we have an article<a href="/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140937"> <strong>HERE</strong></a> that will walk you through the steps to update <em>everything</em>. Once you have that all sorted out, go to the <strong>Settings</strong> and pull up the <strong>Line Out Settings</strong>. By default, the mic options will be turned off and should look like the picture above.</p>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<p>This is where you will probably have to experiment when it comes into dialing in tones. Recording with the BOSS Katana is going to be different for everyone, since we all have a different idea of what &#8220;good tone&#8221; can be. So while I can&#8217;t give you the exact parameters to dial in your tone,<strong> I can help you understand what each mic does.</strong> Each mic is based on popular microphones that are used in studios to mic a guitar <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="140938"><strong>speaker</strong></a>.</p>
+<p>This is where you will probably have to experiment when it comes into dialing in tones. Recording with the BOSS Katana is going to be different for everyone, since we all have a different idea of what &#8220;good tone&#8221; can be. So while I can&#8217;t give you the exact parameters to dial in your tone,<strong> I can help you understand what each mic does.</strong> Each mic is based on popular microphones that are used in studios to mic a guitar <a href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="140938"><strong>speaker</strong></a>.</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p>Condenser mic options are great for<strong> layering tracks </strong>if you are recording with the <a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155686">BOSS Katana</a>. Since they sound much different than a dynamic mic, they can be used to &#8220;fill in the gaps&#8221; of your mix if you have multiple guitar tracks in a song. <em>At least, that is how I have been using them</em>. YOU might primarily use the Condenser over the Dynamic. The choice really comes down to what sounds good to your ears.</p>
+<p>Condenser mic options are great for<strong> layering tracks </strong>if you are recording with the <a href="/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155686">BOSS Katana</a>. Since they sound much different than a dynamic mic, they can be used to &#8220;fill in the gaps&#8221; of your mix if you have multiple guitar tracks in a song. <em>At least, that is how I have been using them</em>. YOU might primarily use the Condenser over the Dynamic. The choice really comes down to what sounds good to your ears.</p>
 
 
 
@@ -307,7 +307,7 @@ seo:
 
 
 
-<p>Look, &#8220;Tone&#8221; can be a really subjective topic, especially among guitarists. There are plenty of guitarists that would never even attempt recording with the BOSS Katana. because they prefer <strong><a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="140940">tube amps</a></strong>. Personally, I think you should use whatever tool you think is the best for you. Music and guitar is a craft, as well as an art. So however you get to the sound that you want is completely up to you.</p>
+<p>Look, &#8220;Tone&#8221; can be a really subjective topic, especially among guitarists. There are plenty of guitarists that would never even attempt recording with the BOSS Katana. because they prefer <strong><a href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="140940">tube amps</a></strong>. Personally, I think you should use whatever tool you think is the best for you. Music and guitar is a craft, as well as an art. So however you get to the sound that you want is completely up to you.</p>
 
 
 

@@ -150,7 +150,7 @@ seo:
 
 
 
-<p>The trend of <a href="https://www.electrikjam.com/baroness-stone-review/" data-type="post" data-id="12680" data-lasso-id="263765">pandemic albums</a> is almost an inside joke with musicians these days, but that is exactly how this album came to be. This is a heavy album, both in sound and impact, that captures the &#8220;feel&#8221; of the last few years.</p>
+<p>The trend of <a href="/baroness-stone-review/" data-type="post" data-id="12680" data-lasso-id="263765">pandemic albums</a> is almost an inside joke with musicians these days, but that is exactly how this album came to be. This is a heavy album, both in sound and impact, that captures the &#8220;feel&#8221; of the last few years.</p>
 
 
 

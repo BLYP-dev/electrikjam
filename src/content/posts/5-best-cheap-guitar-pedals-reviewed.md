@@ -47,11 +47,11 @@ seo:
 
 
 
-<p>Look at people like <a href="https://jbonamassa.com/features/guitar-collection/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="183470"><strong>Joe Bonamossa</strong></a>. This guy has like 400 guitars, as well as a pedal collection that would fill up a warehouse (<em>I think it actually does, somewhere in the Cali suburbs</em>). <a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="183471"><strong>John Mayer</strong></a> has over 200 guitars and keeps around 20 in his home, <em>on top</em> of his crazy amp and pedal collection. People <em>pick on me</em> for having my lucky 7 guitars (and two basses, and an acoustic), and I am not crazy rich <em>at all</em>.</p>
+<p>Look at people like <a href="https://jbonamassa.com/features/guitar-collection/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="183470"><strong>Joe Bonamossa</strong></a>. This guy has like 400 guitars, as well as a pedal collection that would fill up a warehouse (<em>I think it actually does, somewhere in the Cali suburbs</em>). <a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="183471"><strong>John Mayer</strong></a> has over 200 guitars and keeps around 20 in his home, <em>on top</em> of his crazy amp and pedal collection. People <em>pick on me</em> for having my lucky 7 guitars (and two basses, and an acoustic), and I am not crazy rich <em>at all</em>.</p>
 
 
 
-<p>So why do guitarists do this? Well I can answer from a professional perspective that we <strong><em>sometimes need </em></strong>more than one guitar/amp/pedal because all guitars <em>sound different</em>. For example, an<strong> <a href="https://www.electrikjam.com/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener" data-lasso-id="183472">Ibanez</a></strong> is not going to play or sound like a <a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="183473"><strong>Fender Strat</strong></a>, even though they<em> look a lot alike</em> to the untrained eye.</p>
+<p>So why do guitarists do this? Well I can answer from a professional perspective that we <strong><em>sometimes need </em></strong>more than one guitar/amp/pedal because all guitars <em>sound different</em>. For example, an<strong> <a href="/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener" data-lasso-id="183472">Ibanez</a></strong> is not going to play or sound like a <a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="183473"><strong>Fender Strat</strong></a>, even though they<em> look a lot alike</em> to the untrained eye.</p>
 
 
 
@@ -59,15 +59,15 @@ seo:
 
 
 
-<p>But some of us just get bored with our tone, and we are constantly trying out new things to get &#8220;our sound&#8221;. Lately, I have found that cheap <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231153">guitar pedals</a> can be a very quick fix for G.A.S that doesn&#8217;t destroy your wallet. Buying guitars, <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="183474"><strong>pickups</strong></a>, or <a href="https://www.electrikjam.com/best-low-wattage-tube-amps-reviewed/" data-type="post" data-id="9326" target="_blank" rel="noopener" data-lasso-id="183475"><strong>amps</strong></a> can get expensive <em>quick</em>. But pedals can change your tone for cheap, if you are a smart shopper!</p>
+<p>But some of us just get bored with our tone, and we are constantly trying out new things to get &#8220;our sound&#8221;. Lately, I have found that cheap <a href="/gamma-guitar-pedals-review/" data-lasso-id="231153">guitar pedals</a> can be a very quick fix for G.A.S that doesn&#8217;t destroy your wallet. Buying guitars, <a href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="183474"><strong>pickups</strong></a>, or <a href="/best-low-wattage-tube-amps-reviewed/" data-type="post" data-id="9326" target="_blank" rel="noopener" data-lasso-id="183475"><strong>amps</strong></a> can get expensive <em>quick</em>. But pedals can change your tone for cheap, if you are a smart shopper!</p>
 
 
 
-<p>I look at pedals as an instant fix for anyone that has some serious G.A.S. Our gear should make us want to <em>play</em>, and<em> experiment</em>. Sometimes gear can inspire you to create something totally unique. <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="183476"><strong>EVH</strong></a> was famous for this, and would &#8220;Unchained&#8221; sound as cool as it does<em> without</em> that MXR flange pedal? Maybe, but maybe not.</p>
+<p>I look at pedals as an instant fix for anyone that has some serious G.A.S. Our gear should make us want to <em>play</em>, and<em> experiment</em>. Sometimes gear can inspire you to create something totally unique. <a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="183476"><strong>EVH</strong></a> was famous for this, and would &#8220;Unchained&#8221; sound as cool as it does<em> without</em> that MXR flange pedal? Maybe, but maybe not.</p>
 
 
 
-<p>Cheap guitar pedals used to sound like garbage when I was a kid. Most of the &#8220;off-brand&#8221; copy pedals ended up used once, then pawned off to an unsuspecting friend (Sorry Rob and Destin). But these days, you can find affordable pedals everywhere, <a href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-type="post" data-id="1175" target="_blank" rel="noopener" data-lasso-id="183477"><strong>even Amazon</strong> </a>has a &#8220;brand&#8221;.</p>
+<p>Cheap guitar pedals used to sound like garbage when I was a kid. Most of the &#8220;off-brand&#8221; copy pedals ended up used once, then pawned off to an unsuspecting friend (Sorry Rob and Destin). But these days, you can find affordable pedals everywhere, <a href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-type="post" data-id="1175" target="_blank" rel="noopener" data-lasso-id="183477"><strong>even Amazon</strong> </a>has a &#8220;brand&#8221;.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p>I find that if you skip trying to layer four different things, and use it like a traditional looper, it works great. I have been using it in the FX Loop of my<strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="183479"> BOSS Katana</a> </strong>for a while now, and its a great tool for coming up with solos,<a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="183480"> <strong>melodies</strong></a>, or harmony parts. But I never take it past the two &#8220;stacks&#8221; since it can get too complicated.</p>
+<p>I find that if you skip trying to layer four different things, and use it like a traditional looper, it works great. I have been using it in the FX Loop of my<strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="183479"> BOSS Katana</a> </strong>for a while now, and its a great tool for coming up with solos,<a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="183480"> <strong>melodies</strong></a>, or harmony parts. But I never take it past the two &#8220;stacks&#8221; since it can get too complicated.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>The Acoustic Loop 1 is a steal at this price, and as a mini-sized pedal, it won&#8217;t take up a lot of room on your<strong> <a href="https://www.electrikjam.com/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-type="post" data-id="7974" target="_blank" rel="noopener" data-lasso-id="183481">pedalboard</a></strong>. Loopers work best if your amp has an FX Loop, so that way you can record a clean sound to loop, and then change channels for the solo. The Acoustic is the best cheap looper I have came across this year, so grab one up and start jamming!</p>
+<p>The Acoustic Loop 1 is a steal at this price, and as a mini-sized pedal, it won&#8217;t take up a lot of room on your<strong> <a href="/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-type="post" data-id="7974" target="_blank" rel="noopener" data-lasso-id="183481">pedalboard</a></strong>. Loopers work best if your amp has an FX Loop, so that way you can record a clean sound to loop, and then change channels for the solo. The Acoustic is the best cheap looper I have came across this year, so grab one up and start jamming!</p>
 
 
 
@@ -139,11 +139,11 @@ seo:
 
 
 
-<p>We talk a lot about<a href="https://www.electrikjam.com/doom-metal-rig/" target="_blank" data-type="post" data-id="9018" rel="noopener" data-lasso-id="183482"> <strong>Doom Metal </strong></a>and Stoner Rock here at Electrikjam, because its a genre that we all appreciate deeply. Bands like<strong> Truckfighters</strong> and <a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" target="_blank" rel="noopener" data-lasso-id="183483"><strong>Sleep</strong></a> are big influences on all of our staff. With that being said, I think you know that we all appreciate some good<a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" target="_blank" data-type="post" data-id="1153" rel="noopener" data-lasso-id="183484"> <strong>fuzz pedals</strong></a>!</p>
+<p>We talk a lot about<a href="/doom-metal-rig/" target="_blank" data-type="post" data-id="9018" rel="noopener" data-lasso-id="183482"> <strong>Doom Metal </strong></a>and Stoner Rock here at Electrikjam, because its a genre that we all appreciate deeply. Bands like<strong> Truckfighters</strong> and <a href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" target="_blank" rel="noopener" data-lasso-id="183483"><strong>Sleep</strong></a> are big influences on all of our staff. With that being said, I think you know that we all appreciate some good<a href="/best-guitar-pedals-for-doom-metal/" target="_blank" data-type="post" data-id="1153" rel="noopener" data-lasso-id="183484"> <strong>fuzz pedals</strong></a>!</p>
 
 
 
-<p>If you don&#8217;t know the difference between fuzz and distortion, then check out <a href="https://www.electrikjam.com/fuzz-vs-distortion/" data-type="post" data-id="6200" target="_blank" rel="noopener" data-lasso-id="183485"><strong>our guide</strong></a>. There are a few ways to build a good fuzz pedal, and the components used will yield different results in texture and sound. One of the most popular is using germanium transistors, and that is not something you usually see on cheap guitar pedals.</p>
+<p>If you don&#8217;t know the difference between fuzz and distortion, then check out <a href="/fuzz-vs-distortion/" data-type="post" data-id="6200" target="_blank" rel="noopener" data-lasso-id="183485"><strong>our guide</strong></a>. There are a few ways to build a good fuzz pedal, and the components used will yield different results in texture and sound. One of the most popular is using germanium transistors, and that is not something you usually see on cheap guitar pedals.</p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>But I am glad I took a chance, and The General is one of the best cheap guitar pedals I have found recently. Germanium circuits tend to be more warm, so I found that this pedal works great with pickups with a lot of midrange boost, like my <a href="https://www.electrikjam.com/pxf-3/" data-type="lasso-urls" data-id="5816" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="183486" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG set</strong></a>.</p>
+<p>But I am glad I took a chance, and The General is one of the best cheap guitar pedals I have found recently. Germanium circuits tend to be more warm, so I found that this pedal works great with pickups with a lot of midrange boost, like my <a href="/pxf-3/" data-type="lasso-urls" data-id="5816" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="183486" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG set</strong></a>.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>The General is also one of the best fuzz pedals I have found for single coil pickups. My <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="183487"><strong>Schecter NJ</strong> </a>absolutely screams on the single coil neck pickup. Fuzz can sometimes sound like an ice pick with single coils, especially with cheap guitar pedals. The General stays warm no matter what.</p>
+<p>The General is also one of the best fuzz pedals I have found for single coil pickups. My <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="183487"><strong>Schecter NJ</strong> </a>absolutely screams on the single coil neck pickup. Fuzz can sometimes sound like an ice pick with single coils, especially with cheap guitar pedals. The General stays warm no matter what.</p>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<p>Before we get into why I think this is one of the best cheap <a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-lasso-id="200802">guitar pedals</a>, I want to talk about the name of the company. I had been pronouncing this name wrong for the last two years, apparently. Recently I reviewed the <a href="https://www.electrikjam.com/nux-mighty-amps-review/" data-type="post" data-id="8946" target="_blank" rel="noopener" data-lasso-id="183488"><strong>NUX amp series</strong></a>, and the representative corrected me on the name. It is pronounced &#8220;New X&#8221;. </p>
+<p>Before we get into why I think this is one of the best cheap <a href="/prs-guitar-pedals-reviewed/" data-lasso-id="200802">guitar pedals</a>, I want to talk about the name of the company. I had been pronouncing this name wrong for the last two years, apparently. Recently I reviewed the <a href="/nux-mighty-amps-review/" data-type="post" data-id="8946" target="_blank" rel="noopener" data-lasso-id="183488"><strong>NUX amp series</strong></a>, and the representative corrected me on the name. It is pronounced &#8220;New X&#8221;. </p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p>NUX calls this BJT technology, and it is a variable input gain circuit. Turn the gain down, and you get a very warm crunch tone. If you crank the gain, you get a solid distortion. But the real fun is in the &#8220;in between&#8221; positions that actually do mimic a tube amp&#8217;s breakup. It also responds well to your <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246500">guitar&#8217;s volume control</a>!</p>
+<p>NUX calls this BJT technology, and it is a variable input gain circuit. Turn the gain down, and you get a very warm crunch tone. If you crank the gain, you get a solid distortion. But the real fun is in the &#8220;in between&#8221; positions that actually do mimic a tube amp&#8217;s breakup. It also responds well to your <a href="/parts-of-an-electric-guitar/" data-lasso-id="246500">guitar&#8217;s volume control</a>!</p>
 
 
 
@@ -263,7 +263,7 @@ seo:
 
 
 
-<p>MXR/Dunlop is a pretty big company to be on a list of the best cheap guitar pedals, but here we are! MXR has made some classic pedals that many famous guitarists have used over the years. <a href="https://www.electrikjam.com/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="183489"><strong>Eddie Van Halen </strong></a>used their flange to craft some <em>iconic </em>riffs.</p>
+<p>MXR/Dunlop is a pretty big company to be on a list of the best cheap guitar pedals, but here we are! MXR has made some classic pedals that many famous guitarists have used over the years. <a href="/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="183489"><strong>Eddie Van Halen </strong></a>used their flange to craft some <em>iconic </em>riffs.</p>
 
 
 

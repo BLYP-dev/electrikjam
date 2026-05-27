@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>The time has come for my favorite time of the year! I absolutely adore Autumn and Winter, as well as all of the weather that comes with the changing of the seasons. Some people love Summer, but I love the cold weather. My birthday is also in November, which means new<a href="https://www.electrikjam.com/best-guitar-gear/" data-type="page" data-id="2760" target="_blank" rel="noopener" data-lasso-id="194002"><strong> guitar gear</strong></a> for me!</p>
+<p>The time has come for my favorite time of the year! I absolutely adore Autumn and Winter, as well as all of the weather that comes with the changing of the seasons. Some people love Summer, but I love the cold weather. My birthday is also in November, which means new<a href="/best-guitar-gear/" data-type="page" data-id="2760" target="_blank" rel="noopener" data-lasso-id="194002"><strong> guitar gear</strong></a> for me!</p>
 
 
 
-<p>I have seen a lot of forum comments that offer advice to <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener" data-lasso-id="194003"><strong>beginner guitarists</strong></a> when it comes to the effects of weather on your guitar as the seasons change. You see a lot of crazy information like how you should &#8220;wait to open the guitar&#8221; for 24 hours so it can acclimate to your house. This makes sense upon first glance, but does not apply for <em>most</em> guitars.</p>
+<p>I have seen a lot of forum comments that offer advice to <a href="/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener" data-lasso-id="194003"><strong>beginner guitarists</strong></a> when it comes to the effects of weather on your guitar as the seasons change. You see a lot of crazy information like how you should &#8220;wait to open the guitar&#8221; for 24 hours so it can acclimate to your house. This makes sense upon first glance, but does not apply for <em>most</em> guitars.</p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p>We absolutely <em>love</em> to <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-type="post" data-id="8983" target="_blank" rel="noopener" data-lasso-id="194004"><strong>dispel myths</strong> </a>here, and we enjoy passing along knowledge to our readers. In our &#8220;Myth&#8221; article we covered a lot of different<em> supposed facts</em> that get passed around the music community. We have debunked the string myths, &#8220;tone wood&#8221; arguments, and tons of other topics.</p>
+<p>We absolutely <em>love</em> to <a href="/the-top-7-electric-guitar-myths/" data-type="post" data-id="8983" target="_blank" rel="noopener" data-lasso-id="194004"><strong>dispel myths</strong> </a>here, and we enjoy passing along knowledge to our readers. In our &#8220;Myth&#8221; article we covered a lot of different<em> supposed facts</em> that get passed around the music community. We have debunked the string myths, &#8220;tone wood&#8221; arguments, and tons of other topics.</p>
 
 
 
@@ -95,11 +95,11 @@ seo:
 
 
 
-<p><strong>The Truth:</strong> There is actually some truth to this myth! But waiting for 24 hours or any amount of time is dependent on what<a href="https://www.electrikjam.com/electric-guitar-types-and-genres/" data-type="post" data-id="8114" target="_blank" rel="noopener" data-lasso-id="194005"> <strong>type of guitar </strong></a>is in the box, and also what <strong>kind of finish</strong> the guitar may have. The reason that you see this sticker on so many boxes is because <strong>certain guitars</strong> probably DO need some time to acclimate.</p>
+<p><strong>The Truth:</strong> There is actually some truth to this myth! But waiting for 24 hours or any amount of time is dependent on what<a href="/electric-guitar-types-and-genres/" data-type="post" data-id="8114" target="_blank" rel="noopener" data-lasso-id="194005"> <strong>type of guitar </strong></a>is in the box, and also what <strong>kind of finish</strong> the guitar may have. The reason that you see this sticker on so many boxes is because <strong>certain guitars</strong> probably DO need some time to acclimate.</p>
 
 
 
-<p>Acoustic <a href="https://www.electrikjam.com/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229706">guitars will absolutely</a> be more sensitive to climate changes, and humidity. Most <strong>expensive</strong> acoustic guitars have a thin finish, and wood <em>is</em> very flexible. This is even more true with a solid top guitar, that is just one piece of wood with bracing.<strong> When it comes to high end acoustic guitars, I would absolutely wait to open the box, and let it settle in its new home</strong>.</p>
+<p>Acoustic <a href="/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229706">guitars will absolutely</a> be more sensitive to climate changes, and humidity. Most <strong>expensive</strong> acoustic guitars have a thin finish, and wood <em>is</em> very flexible. This is even more true with a solid top guitar, that is just one piece of wood with bracing.<strong> When it comes to high end acoustic guitars, I would absolutely wait to open the box, and let it settle in its new home</strong>.</p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p><strong>What Should You Do?</strong> You should use your better judgement, or ask the seller of the guitar for instructions. If you are ordering a solid body electric with a thick Poly finish, then I think you will be fine. Some<a href="https://www.electrikjam.com/electric-guitar-types-and-genres/" data-type="post" data-id="8114" target="_blank" rel="noopener" data-lasso-id="194006"> <strong>semi-hollow</strong></a>, or hollow body guitars could possibly shift, but even then&#8230;probably not.</p>
+<p><strong>What Should You Do?</strong> You should use your better judgement, or ask the seller of the guitar for instructions. If you are ordering a solid body electric with a thick Poly finish, then I think you will be fine. Some<a href="/electric-guitar-types-and-genres/" data-type="post" data-id="8114" target="_blank" rel="noopener" data-lasso-id="194006"> <strong>semi-hollow</strong></a>, or hollow body guitars could possibly shift, but even then&#8230;probably not.</p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>Unfortunately, sometimes guitars will ship with a little bit of fret sprout in the dryer months. It just happens, and it can be fixed easily. A good fret job can be pricey, but if you want your guitar to play well, it is essential. <a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="194007"><strong>Budget guitars </strong></a>are the biggest offenders of shipping with fret sprout.</p>
+<p>Unfortunately, sometimes guitars will ship with a little bit of fret sprout in the dryer months. It just happens, and it can be fixed easily. A good fret job can be pricey, but if you want your guitar to play well, it is essential. <a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="194007"><strong>Budget guitars </strong></a>are the biggest offenders of shipping with fret sprout.</p>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<p>Whether you think fret sprout is acceptable on a brand new guitar or not, is going to change between <a href="https://www.electrikjam.com/do-guitarists-know-every-scale/" data-lasso-id="216532">every guitarist</a>. If you know how to fix it, then it probably isn&#8217;t a big deal. Most guitars will need a <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="194008"><strong>setup</strong> </a>and <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="194009"><strong>intonation</strong></a> when you first get it. Some guitarists will find it unacceptable, and that&#8217;s okay.</p>
+<p>Whether you think fret sprout is acceptable on a brand new guitar or not, is going to change between <a href="/do-guitarists-know-every-scale/" data-lasso-id="216532">every guitarist</a>. If you know how to fix it, then it probably isn&#8217;t a big deal. Most guitars will need a <a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="194008"><strong>setup</strong> </a>and <a href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="194009"><strong>intonation</strong></a> when you first get it. Some guitarists will find it unacceptable, and that&#8217;s okay.</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p><strong>So there is <em>some</em> truth to this myth</strong>, and it is going to really be a case by case basis when it comes to the effects of weather on your guitar finish. <strong>But we are talking about extremes here</strong>. If it is 0 degrees outside, and you have a Fender with a thin coat of Nitro, then maybe you should let it settle and acclimate <em>just to be sure</em>. A Poly finish <a href="https://www.electrikjam.com/epiphone-les-paul-traditional-pro-iv-limited-edition-electric-guitar-worn-metallic-gold-guitar-center/" data-type="lasso-urls" data-id="9026" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="194011" data-lasso-name="Epiphone Les Paul Traditional Pro IV Limited-Edition"><strong>Epiphone</strong></a> guitar on the other hand can come right out of the box immediately.</p>
+<p><strong>So there is <em>some</em> truth to this myth</strong>, and it is going to really be a case by case basis when it comes to the effects of weather on your guitar finish. <strong>But we are talking about extremes here</strong>. If it is 0 degrees outside, and you have a Fender with a thin coat of Nitro, then maybe you should let it settle and acclimate <em>just to be sure</em>. A Poly finish <a href="/epiphone-les-paul-traditional-pro-iv-limited-edition-electric-guitar-worn-metallic-gold-guitar-center/" data-type="lasso-urls" data-id="9026" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="194011" data-lasso-name="Epiphone Les Paul Traditional Pro IV Limited-Edition"><strong>Epiphone</strong></a> guitar on the other hand can come right out of the box immediately.</p>
 
 
 
@@ -227,7 +227,7 @@ seo:
 
 
 
-<p><strong>Like the &#8220;tone wood&#8221; argument that still pops up from time to time, myths of the effects of weather on your guitar<em> comes from acoustic guitars</em>.</strong> Because acoustic guitars can be incredibly sensitive to temperature changes and humidity! Just like an <a href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" data-lasso-id="202452">acoustic guitar&#8217;s wood can change the sound</a> drastically. However, this is not the case when it comes to electric guitars.</p>
+<p><strong>Like the &#8220;tone wood&#8221; argument that still pops up from time to time, myths of the effects of weather on your guitar<em> comes from acoustic guitars</em>.</strong> Because acoustic guitars can be incredibly sensitive to temperature changes and humidity! Just like an <a href="/best-acoustic-guitars-for-metal/" data-lasso-id="202452">acoustic guitar&#8217;s wood can change the sound</a> drastically. However, this is not the case when it comes to electric guitars.</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Know <em>your</em> guitar: Nitro is more sensitive than Poly when it comes to finishes.</strong></li><li><strong>When in doubt about a Nitro finish and shipping, don&#8217;t be afraid to ask the seller about waiting and general care.</strong></li><li><strong>Poly finishes absolutely will not crack, and 90% of solid body electrics have a Poly finish.</strong></li><li><strong>It takes extreme changes in temperature to affect Nitro finishes.</strong></li><li><strong>Fret sprout happens when the neck of your guitar is dry, this can be caused by <em>lots</em> of factors. Know your guitar neck, and keep it in shape!</strong></li><li><strong>Neck pocket cracks on bolt-on guitars, like Fender,<em> just happen</em>. You didn&#8217;t do anything to cause it, and the weather is not a factor. Neck pocket cracks also have <em>no bearing</em> on the structural integrity of the guitar.</strong></li><li><strong>Keeping your guitar in a case when not using it will not &#8220;save&#8221; you from anything.</strong></li><li><strong>A climate controlled environment like you house should be sufficient when it comes to <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211332">electric guitars.</a> Especially a solid body electric.</strong></li><li><strong>Don&#8217;t believe everything you see on the internet!</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Know <em>your</em> guitar: Nitro is more sensitive than Poly when it comes to finishes.</strong></li><li><strong>When in doubt about a Nitro finish and shipping, don&#8217;t be afraid to ask the seller about waiting and general care.</strong></li><li><strong>Poly finishes absolutely will not crack, and 90% of solid body electrics have a Poly finish.</strong></li><li><strong>It takes extreme changes in temperature to affect Nitro finishes.</strong></li><li><strong>Fret sprout happens when the neck of your guitar is dry, this can be caused by <em>lots</em> of factors. Know your guitar neck, and keep it in shape!</strong></li><li><strong>Neck pocket cracks on bolt-on guitars, like Fender,<em> just happen</em>. You didn&#8217;t do anything to cause it, and the weather is not a factor. Neck pocket cracks also have <em>no bearing</em> on the structural integrity of the guitar.</strong></li><li><strong>Keeping your guitar in a case when not using it will not &#8220;save&#8221; you from anything.</strong></li><li><strong>A climate controlled environment like you house should be sufficient when it comes to <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211332">electric guitars.</a> Especially a solid body electric.</strong></li><li><strong>Don&#8217;t believe everything you see on the internet!</strong></li></ul>
 
 
 

@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>The last time we tackled<strong><a data-lasso-id="164795" href="https://www.electrikjam.com/building-a-guitar-rig/" data-type="post" data-id="8500" target="_blank" rel="noopener"> &#8220;Gigging On a Budget&#8221;</a></strong> we took a look at your typical, versatile <a data-lasso-id="164796" href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener"><strong>&#8220;Rock&#8221; rig</strong></a>. The term &#8220;Rock&#8221; is pretty broad, and we had <em>multiple choices</em> for gear in that section. That&#8217;s because you can do a lot with different <a data-lasso-id="164797" href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener"><strong>types of amps</strong></a> and guitars. But now we are getting very <em>specific</em>.</p>
+<p>The last time we tackled<strong><a data-lasso-id="164795" href="/building-a-guitar-rig/" data-type="post" data-id="8500" target="_blank" rel="noopener"> &#8220;Gigging On a Budget&#8221;</a></strong> we took a look at your typical, versatile <a data-lasso-id="164796" href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener"><strong>&#8220;Rock&#8221; rig</strong></a>. The term &#8220;Rock&#8221; is pretty broad, and we had <em>multiple choices</em> for gear in that section. That&#8217;s because you can do a lot with different <a data-lasso-id="164797" href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener"><strong>types of amps</strong></a> and guitars. But now we are getting very <em>specific</em>.</p>
 
 
 
@@ -51,11 +51,11 @@ seo:
 
 
 
-<p>So what makes up the modern Doom Metal rig? Well we can take a look at some popular bands and figure out what they use. Bands like <strong>Pallbearer</strong> or <strong>Type O Negative</strong> have used heavy distortion, <a data-lasso-id="164798" href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" target="_blank" rel="noopener"><strong>low tunings</strong></a>, and fuzz on <em>everything</em>, while bands like <strong>Sleep</strong>, <strong>Intronaut, </strong>and <strong>Paradise Lost </strong>have a more <em>focused </em>approach.</p>
+<p>So what makes up the modern Doom Metal rig? Well we can take a look at some popular bands and figure out what they use. Bands like <strong>Pallbearer</strong> or <strong>Type O Negative</strong> have used heavy distortion, <a data-lasso-id="164798" href="/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" target="_blank" rel="noopener"><strong>low tunings</strong></a>, and fuzz on <em>everything</em>, while bands like <strong>Sleep</strong>, <strong>Intronaut, </strong>and <strong>Paradise Lost </strong>have a more <em>focused </em>approach.</p>
 
 
 
-<p>We can also look back at the <a data-lasso-id="164799" href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" target="_blank" rel="noopener"><strong>origins of Doom</strong></a>, with bands like <strong>Black Sabbath</strong> and <strong>Candlemass</strong>, as they are the ones that sculpted the genre. <strong>St Vitus </strong>and <strong><a data-lasso-id="164800" href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" target="_blank" rel="noopener">YOB</a></strong>  have more dynamics, and incorporate other metal genres into their particular style of Doom. Even bands like <a data-lasso-id="164801" href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" target="_blank" rel="noopener"><strong>Melvins</strong></a> have the influence of Doom Metal elements woven into their sound. There is no<em> &#8220;right&#8221; </em>way to build a Doom Metal rig.</p>
+<p>We can also look back at the <a data-lasso-id="164799" href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" target="_blank" rel="noopener"><strong>origins of Doom</strong></a>, with bands like <strong>Black Sabbath</strong> and <strong>Candlemass</strong>, as they are the ones that sculpted the genre. <strong>St Vitus </strong>and <strong><a data-lasso-id="164800" href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" target="_blank" rel="noopener">YOB</a></strong>  have more dynamics, and incorporate other metal genres into their particular style of Doom. Even bands like <a data-lasso-id="164801" href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" target="_blank" rel="noopener"><strong>Melvins</strong></a> have the influence of Doom Metal elements woven into their sound. There is no<em> &#8220;right&#8221; </em>way to build a Doom Metal rig.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>But since Doom Metal has become more and more popular, most of the legendary amps and guitars that the founders of Doom used, <em>have shot up in price</em>. Doom Metal artists were actually <a data-lasso-id="164802" href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" target="_blank" rel="noopener"><strong>thrifty back in the day</strong></a>, but the once obscure products and gear have now become mainstays in the guitar zeitgeist. Doom is a trend, and an <em>expensive one</em>.</p>
+<p>But since Doom Metal has become more and more popular, most of the legendary amps and guitars that the founders of Doom used, <em>have shot up in price</em>. Doom Metal artists were actually <a data-lasso-id="164802" href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" target="_blank" rel="noopener"><strong>thrifty back in the day</strong></a>, but the once obscure products and gear have now become mainstays in the guitar zeitgeist. Doom is a trend, and an <em>expensive one</em>.</p>
 
 
 
@@ -111,19 +111,19 @@ seo:
 
 
 
-<p>When we were discussing <a data-lasso-id="164803" href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-type="post" data-id="8983" target="_blank" rel="noopener"><strong>guitar myths</strong></a>, one of the standout points was just how important your <a data-lasso-id="164804" href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener"><strong>guitar amp</strong> </a>is to your <strong>overall tone</strong>. You can plug a cheap guitar up to a great sounding amp and it will probably sound <em>amazing</em>! Unfortunately the opposite is also true, and even the nicest guitars in the world will sound <em>cheap</em> through a bad amplifier.</p>
+<p>When we were discussing <a data-lasso-id="164803" href="/the-top-7-electric-guitar-myths/" data-type="post" data-id="8983" target="_blank" rel="noopener"><strong>guitar myths</strong></a>, one of the standout points was just how important your <a data-lasso-id="164804" href="/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener"><strong>guitar amp</strong> </a>is to your <strong>overall tone</strong>. You can plug a cheap guitar up to a great sounding amp and it will probably sound <em>amazing</em>! Unfortunately the opposite is also true, and even the nicest guitars in the world will sound <em>cheap</em> through a bad amplifier.</p>
 
 
 
-<p>Building a great Doom Metal rig needs some high wattage. Unfortunately when it comes to <em>our</em> budget, it will be hard to find a <strong><a data-lasso-id="165436" data-lasso-name="Tube Amps 2021: A Guide&#8230;" href="https://www.electrikjam.com/tube-amps/" data-type="lasso-urls" data-id="4568" target="_blank" rel="nofollow noopener">tube amp</a> </strong>that meets the criteria. We need some serious volume, and an amp that will be a <strong>good </strong><a href="https://www.electrikjam.com/gamma-g50-amplifier-review/" data-lasso-id="232771">pedal platform</a>.</p>
+<p>Building a great Doom Metal rig needs some high wattage. Unfortunately when it comes to <em>our</em> budget, it will be hard to find a <strong><a data-lasso-id="165436" data-lasso-name="Tube Amps 2021: A Guide&#8230;" href="/tube-amps/" data-type="lasso-urls" data-id="4568" target="_blank" rel="nofollow noopener">tube amp</a> </strong>that meets the criteria. We need some serious volume, and an amp that will be a <strong>good </strong><a href="/gamma-g50-amplifier-review/" data-lasso-id="232771">pedal platform</a>.</p>
 
 
 
-<p>Now it would be very easy to just say &#8220;Go out and buy a <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="165437"><strong>BOSS Katana MKII 100</strong> </a>watt and call it a day&#8221;. The Katana would definitely get the job done, and it fits the budget. But I want to also present another option, because we could use the Katana for literally EVERY genre when it comes to Gigging On A Budget.</p>
+<p>Now it would be very easy to just say &#8220;Go out and buy a <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="165437"><strong>BOSS Katana MKII 100</strong> </a>watt and call it a day&#8221;. The Katana would definitely get the job done, and it fits the budget. But I want to also present another option, because we could use the Katana for literally EVERY genre when it comes to Gigging On A Budget.</p>
 
 
 
-<p>I got to try out a pretty interesting amplifier recently made by <a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="165438"><strong>Line 6</strong></a>. The <strong><a href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="165439">Line 6 Catalyst</a> </strong>is a pretty great amp for guitarists that want to use it as a pedal platform. It also has some pretty great sounds all on its own, like the clean and crunch tones. But I&#8217;m not talking about the 100 watt combo, oh no&#8230;<strong>I am talking about the 200 <a href="https://www.electrikjam.com/blackstar-dept-10-amped-1-review/" data-lasso-id="172436">watt monster</a> that runs stereo.</strong></p>
+<p>I got to try out a pretty interesting amplifier recently made by <a href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="165438"><strong>Line 6</strong></a>. The <strong><a href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="165439">Line 6 Catalyst</a> </strong>is a pretty great amp for guitarists that want to use it as a pedal platform. It also has some pretty great sounds all on its own, like the clean and crunch tones. But I&#8217;m not talking about the 100 watt combo, oh no&#8230;<strong>I am talking about the 200 <a href="/blackstar-dept-10-amped-1-review/" data-lasso-id="172436">watt monster</a> that runs stereo.</strong></p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="165794">Our review</a></strong> goes into the tones of the Catalyst a little bit more, but the possibilities are <em>endless</em>. We need a solid &#8220;base tone&#8221; for the fuzz pedals that are going to be essential to the Doom Metal rig. I think the Catalyst is going to be the absolute best bet for an amp.</p>
+<p><strong><a href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="165794">Our review</a></strong> goes into the tones of the Catalyst a little bit more, but the possibilities are <em>endless</em>. We need a solid &#8220;base tone&#8221; for the fuzz pedals that are going to be essential to the Doom Metal rig. I think the Catalyst is going to be the absolute best bet for an amp.</p>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p>Your amp&#8217;s tone has a huge effect on how your fuzz pedals will react. The Line 6 Catalyst has the perfect Clean channel for fuzz. But you can also do a combo of the amp&#8217;s distortion and a fuzz pedal, which will give you a MASSIVE tone. Blending crunch tones with fuzz can give you incredible sounds like you hear on <a href="https://www.electrikjam.com/new-smashing-pumpkins-album-atum/" data-lasso-id="169493">&#8220;Siamese Dream&#8221; by  Smashing Pumpkins</a>.</p>
+<p>Your amp&#8217;s tone has a huge effect on how your fuzz pedals will react. The Line 6 Catalyst has the perfect Clean channel for fuzz. But you can also do a combo of the amp&#8217;s distortion and a fuzz pedal, which will give you a MASSIVE tone. Blending crunch tones with fuzz can give you incredible sounds like you hear on <a href="/new-smashing-pumpkins-album-atum/" data-lasso-id="169493">&#8220;Siamese Dream&#8221; by  Smashing Pumpkins</a>.</p>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<p>The guitar that is most associated with any Doom Metal rig is the <a data-lasso-id="165441" href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener"><strong>Gibson Les Paul</strong></a>. The Les Paul Custom has been used by all kinds of famous Doom guitarists. people like<strong> Matt Pike</strong>, <strong>Buzz Osbourne</strong>, <strong>Wata</strong> from <strong>Boris</strong>, and the list goes on on and on. It is an iconic guitar for the genre.</p>
+<p>The guitar that is most associated with any Doom Metal rig is the <a data-lasso-id="165441" href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener"><strong>Gibson Les Paul</strong></a>. The Les Paul Custom has been used by all kinds of famous Doom guitarists. people like<strong> Matt Pike</strong>, <strong>Buzz Osbourne</strong>, <strong>Wata</strong> from <strong>Boris</strong>, and the list goes on on and on. It is an iconic guitar for the genre.</p>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<p>But it should be pretty easy to find some great double humbucker guitars that fit the bill. These guitars have to be ready for the stage right out of the box, but still be in budget territory. I mean these have to be full of professional features but stay in our budget, this is why we LOVE <strong><a href="https://www.electrikjam.com/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="165442">Epiphone</a></strong>.</p>
+<p>But it should be pretty easy to find some great double humbucker guitars that fit the bill. These guitars have to be ready for the stage right out of the box, but still be in budget territory. I mean these have to be full of professional features but stay in our budget, this is why we LOVE <strong><a href="/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="165442">Epiphone</a></strong>.</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong><a href="https://www.electrikjam.com/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="165443">Epiphone Les Paul Traditional Pro</a></strong></li><li><strong><a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" target="_blank" data-type="post" data-id="8912" rel="noopener" data-lasso-id="165444">Schecter Omen Elite</a></strong></li><li><strong><a href="https://www.electrikjam.com/yamaha-revstar-element-review/" target="_blank" data-type="post" data-id="7174" rel="noopener" data-lasso-id="165445">Yamaha Revstar Element</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong><a href="/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="165443">Epiphone Les Paul Traditional Pro</a></strong></li><li><strong><a href="/schecter-omen-elite-2022-review/" target="_blank" data-type="post" data-id="8912" rel="noopener" data-lasso-id="165444">Schecter Omen Elite</a></strong></li><li><strong><a href="/yamaha-revstar-element-review/" target="_blank" data-type="post" data-id="7174" rel="noopener" data-lasso-id="165445">Yamaha Revstar Element</a></strong></li></ul>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<p>The Les Paul treble bleed circuit allows you to use the volume knob to control your gain level on stage, without losing any high end. This can work great for dynamics within a song, and you can &#8220;clean up&#8217; your tone without turning off the fuzz or distortion. The coil splits are not quite as good as a single coil pickup, but it has the<em> sound </em>of one, and it makes a total of 6<a data-lasso-id="165446" href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener"> <strong>pickup positions</strong></a> to choose from.</p>
+<p>The Les Paul treble bleed circuit allows you to use the volume knob to control your gain level on stage, without losing any high end. This can work great for dynamics within a song, and you can &#8220;clean up&#8217; your tone without turning off the fuzz or distortion. The coil splits are not quite as good as a single coil pickup, but it has the<em> sound </em>of one, and it makes a total of 6<a data-lasso-id="165446" href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener"> <strong>pickup positions</strong></a> to choose from.</p>
 
 
 
@@ -239,11 +239,11 @@ seo:
 
 
 
-<p><a data-lasso-id="165447" href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter </strong></a>is known for quality at <em>any</em> price point, and things like a TUSQ nut will help tuning stability. Like the Les Paul, it also has a fixed bridge. The super-Strat shape is not really something that you usually see in Doom Metal rigs, so the Schecter is a bit of a wild card on this list. But the quality and features make it a no-brainer for a gigging guitar.</p>
+<p><a data-lasso-id="165447" href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter </strong></a>is known for quality at <em>any</em> price point, and things like a TUSQ nut will help tuning stability. Like the Les Paul, it also has a fixed bridge. The super-Strat shape is not really something that you usually see in Doom Metal rigs, so the Schecter is a bit of a wild card on this list. But the quality and features make it a no-brainer for a gigging guitar.</p>
 
 
 
-<p><strong>The Yamaha Revstar Element</strong> was also recently reviewed, and I couldn&#8217;t believe how well this guitar played for the price point. Aesthetics-wise, this guitar fits right in for a Doom Metal rig. It looks a <em>little</em> like a Gibson SG, but it also looks like the <a href="https://www.electrikjam.com/how-to-souond-like-kyuss/" data-type="post" data-id="7183" target="_blank" rel="noopener" data-lasso-id="165448"><strong>Ovation models that Josh Homme</strong> </a>famously loves. The Yamaha Revstar looks pretty metal to me!</p>
+<p><strong>The Yamaha Revstar Element</strong> was also recently reviewed, and I couldn&#8217;t believe how well this guitar played for the price point. Aesthetics-wise, this guitar fits right in for a Doom Metal rig. It looks a <em>little</em> like a Gibson SG, but it also looks like the <a href="/how-to-souond-like-kyuss/" data-type="post" data-id="7183" target="_blank" rel="noopener" data-lasso-id="165448"><strong>Ovation models that Josh Homme</strong> </a>famously loves. The Yamaha Revstar looks pretty metal to me!</p>
 
 
 
@@ -351,11 +351,11 @@ seo:
 
 
 
-<p>Safe to say, you need cables, a tuner, and other stuff to have a stage ready Doom Metal rig. Luckily, we have about 200 bucks leftover to buy all of the things we need. Now a lot of guitarists will tell you that expensive cables &#8220;sound&#8221; better, and that is a bit of a <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" target="_blank" data-type="post" data-id="8983" rel="noopener" data-lasso-id="165795"><strong>myth</strong></a>.</p>
+<p>Safe to say, you need cables, a tuner, and other stuff to have a stage ready Doom Metal rig. Luckily, we have about 200 bucks leftover to buy all of the things we need. Now a lot of guitarists will tell you that expensive cables &#8220;sound&#8221; better, and that is a bit of a <a href="/the-top-7-electric-guitar-myths/" target="_blank" data-type="post" data-id="8983" rel="noopener" data-lasso-id="165795"><strong>myth</strong></a>.</p>
 
 
 
-<p class="has-text-align-center"><strong>We went over accessories in full on our other <a href="https://www.electrikjam.com/gigging-on-a-budget/" target="_blank" data-type="post" data-id="8443" rel="noopener" data-lasso-id="165796">Gigging On A Budget</a> article, and the same rings true for the Doom Metal rig.</strong></p>
+<p class="has-text-align-center"><strong>We went over accessories in full on our other <a href="/gigging-on-a-budget/" target="_blank" data-type="post" data-id="8443" rel="noopener" data-lasso-id="165796">Gigging On A Budget</a> article, and the same rings true for the Doom Metal rig.</strong></p>
 
 
 

@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>Mastodon’s latest LP, Hushed &amp; Grim, is still relatively new and it is a very solid record. It’s long too. And, as we noted in <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="216148">our review of Hushed &amp; Grim</a></strong>, it features some career-best performances from Troy, Bran and Brent.</p>
+<p>Mastodon’s latest LP, Hushed &amp; Grim, is still relatively new and it is a very solid record. It’s long too. And, as we noted in <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="216148">our review of Hushed &amp; Grim</a></strong>, it features some career-best performances from Troy, Bran and Brent.</p>
 
 
 
@@ -92,5 +92,5 @@ seo:
 
 
 
-<p>In the meantime, check out all <strong><a data-lasso-id="216150" href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-type="post" data-id="4856">the gear that Mastodon&#8217;s Brent and Bill use</a></strong> to craft their iconic riffs. And if you&#8217;re already a player, check out our guide on <strong><a href="https://www.electrikjam.com/how-to-sound-like-mastodon/" data-lasso-id="216610">how to sound like Mastodon</a></strong> – it covers all the gear, tunings, and amps you&#8217;ll need. </p>
+<p>In the meantime, check out all <strong><a data-lasso-id="216150" href="/what-guitars-do-mastodon-use/" data-type="post" data-id="4856">the gear that Mastodon&#8217;s Brent and Bill use</a></strong> to craft their iconic riffs. And if you&#8217;re already a player, check out our guide on <strong><a href="/how-to-sound-like-mastodon/" data-lasso-id="216610">how to sound like Mastodon</a></strong> – it covers all the gear, tunings, and amps you&#8217;ll need. </p>
 

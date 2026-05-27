@@ -43,15 +43,15 @@ seo:
 
 
 
-<p>We have talked a lot about the different <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="10834"><strong>variety of</strong> </a>Seymour Duncan Pickups, and how there is definitely something for every guitarist out there. Pickups can change the whole attitude of a guitar if that&#8217;s what you&#8217;re looking for. Sometimes,  guitarists are looking for more gain, others may be looking for more clarity and headroom. No matter what you are looking for, a good set of pickups can help you craft your special tone.</p>
+<p>We have talked a lot about the different <a href="/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="10834"><strong>variety of</strong> </a>Seymour Duncan Pickups, and how there is definitely something for every guitarist out there. Pickups can change the whole attitude of a guitar if that&#8217;s what you&#8217;re looking for. Sometimes,  guitarists are looking for more gain, others may be looking for more clarity and headroom. No matter what you are looking for, a good set of pickups can help you craft your special tone.</p>
 
 
 
-<p>The Seymour Duncan Pearly Gates set came from an absolute legend of a player, who also happened to have a &#8220;magic&#8221; <a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="10835"><strong>&#8217;59 Les Paul</strong></a>. You see, the &#8217;59 Les Paul models are something of a <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216549">&#8220;holy grail&#8221; guitar</a>. This was the year that <a class="wpil_keyword_link" href="https://www.electrikjam.com/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="10844">Gibson</a> made some changes, and the myth began that these were some of the best Les Paul guitars ever made. The neck was thicker, the top was a different type of maple&#8230;these guitars had <strong>MOJO</strong>.</p>
+<p>The Seymour Duncan Pearly Gates set came from an absolute legend of a player, who also happened to have a &#8220;magic&#8221; <a href="/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="10835"><strong>&#8217;59 Les Paul</strong></a>. You see, the &#8217;59 Les Paul models are something of a <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216549">&#8220;holy grail&#8221; guitar</a>. This was the year that <a class="wpil_keyword_link" href="/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="10844">Gibson</a> made some changes, and the myth began that these were some of the best Les Paul guitars ever made. The neck was thicker, the top was a different type of maple&#8230;these guitars had <strong>MOJO</strong>.</p>
 
 
 
-<p>Someone that happened to have one of these holy grail Les Pauls was <strong>Billy Gibbons</strong> from <strong>ZZ Top</strong>. His &#8217;59 Gibson was his number one guitar for years, and there was definitely something special about the tones it produced. Seymour Duncan approached Billy about the &#8220;Magic &#8217;59&#8221; the same way he approached <a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="10836"><strong>Jeff Beck</strong></a>. He wanted to recreate the sound of the pickups in Billy&#8217;s Les Paul, and Billy granted him permission.</p>
+<p>Someone that happened to have one of these holy grail Les Pauls was <strong>Billy Gibbons</strong> from <strong>ZZ Top</strong>. His &#8217;59 Gibson was his number one guitar for years, and there was definitely something special about the tones it produced. Seymour Duncan approached Billy about the &#8220;Magic &#8217;59&#8221; the same way he approached <a href="/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="10836"><strong>Jeff Beck</strong></a>. He wanted to recreate the sound of the pickups in Billy&#8217;s Les Paul, and Billy granted him permission.</p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/what-is-a-trembucker/" data-lasso-id="11088">Seymour Duncan</a> Pearly Gates is based on Billy&#8217;s famous Les Paul pickups, and it nails that tone. For this reason, you often see Pearly Gates pickups in Les Paul guitars, as that is what it was designed after. But I have also seen them used a lot in <strong><a href="https://www.electrikjam.com/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="10837">Fender guitars</a> </strong>equally. This is not a &#8220;one trick pony&#8221; set of pickups, and today we are going to take a  look from around the web at why they are so beloved.</p>
+<p>The <a href="/what-is-a-trembucker/" data-lasso-id="11088">Seymour Duncan</a> Pearly Gates is based on Billy&#8217;s famous Les Paul pickups, and it nails that tone. For this reason, you often see Pearly Gates pickups in Les Paul guitars, as that is what it was designed after. But I have also seen them used a lot in <strong><a href="/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="10837">Fender guitars</a> </strong>equally. This is not a &#8220;one trick pony&#8221; set of pickups, and today we are going to take a  look from around the web at why they are so beloved.</p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><a href="https://www.electrikjam.com/recommends/seymour-duncan-pearly-gates/" target="_blank" rel="noopener" data-lasso-id="90445"><strong>CLICK FOR BEST</strong> P<strong>RICES!</strong></a></p>
+<p class="has-text-align-center has-extra-small-font-size"><a href="/recommends/seymour-duncan-pearly-gates/" target="_blank" rel="noopener" data-lasso-id="90445"><strong>CLICK FOR BEST</strong> P<strong>RICES!</strong></a></p>
 </div></div>
 
 
@@ -109,7 +109,7 @@ seo:
 
 
 
-<p>But this is <em>not exactly</em> a &#8220;signature&#8221; model. It is more &#8220;<em>inspired by</em>&#8220;. While Billy uses the Pearly Gates, he also uses tons of other pickups on stage. He is not a man that is known for commitment, and he will play a Telecaster just as often as a Les Paul. Billy has one of <a href="https://www.electrikjam.com/johnny-depp-guitar-collection/" data-lasso-id="106809">the biggest guitar collections</a> in the world, so it&#8217;s no wonder he prefers variety!</p>
+<p>But this is <em>not exactly</em> a &#8220;signature&#8221; model. It is more &#8220;<em>inspired by</em>&#8220;. While Billy uses the Pearly Gates, he also uses tons of other pickups on stage. He is not a man that is known for commitment, and he will play a Telecaster just as often as a Les Paul. Billy has one of <a href="/johnny-depp-guitar-collection/" data-lasso-id="106809">the biggest guitar collections</a> in the world, so it&#8217;s no wonder he prefers variety!</p>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<p>That being said, these also have a single coil quality to them, in the way that the <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11595">Seymour Duncan Pearly Gates pickups</a> have a small amount of &#8220;quack&#8221; to them. This pronounced midrange is what gives the pickups their character, to me. I have rare heard a humbucker that can get such a defined sound. But if you run the Pearly Gates through a cranked <a href="https://www.electrikjam.com/mesa-boogie-badlander-a-new-metal-machine-for-2020/" target="_blank" data-type="post" data-id="1394" rel="noopener" data-lasso-id="10839"><strong>Mesa</strong></a> or Marshall, you will hear exactly what I am talking about.</p>
+<p>That being said, these also have a single coil quality to them, in the way that the <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11595">Seymour Duncan Pearly Gates pickups</a> have a small amount of &#8220;quack&#8221; to them. This pronounced midrange is what gives the pickups their character, to me. I have rare heard a humbucker that can get such a defined sound. But if you run the Pearly Gates through a cranked <a href="/mesa-boogie-badlander-a-new-metal-machine-for-2020/" target="_blank" data-type="post" data-id="1394" rel="noopener" data-lasso-id="10839"><strong>Mesa</strong></a> or Marshall, you will hear exactly what I am talking about.</p>
 
 
 
@@ -133,7 +133,7 @@ seo:
 
 
 
-<p>The neck pickup has all the same mid-range qualities as the bridge pickup. But if you turn the <a href="https://www.electrikjam.com/tone-knob-explained/" data-lasso-id="106709">tone knob</a> down just a little bit, you get an extremely &#8220;buttery&#8221; sound. This sound is synonymous with a lot of guitarist&#8217;s tones, but someone like <strong>Santana </strong>or <strong>Slash </strong>comes to mind when I hear the neck version of the Pearly Gates. To me, it has an almost vocal quality to it, and you can hear this sound all over ZZ Top records!</p>
+<p>The neck pickup has all the same mid-range qualities as the bridge pickup. But if you turn the <a href="/tone-knob-explained/" data-lasso-id="106709">tone knob</a> down just a little bit, you get an extremely &#8220;buttery&#8221; sound. This sound is synonymous with a lot of guitarist&#8217;s tones, but someone like <strong>Santana </strong>or <strong>Slash </strong>comes to mind when I hear the neck version of the Pearly Gates. To me, it has an almost vocal quality to it, and you can hear this sound all over ZZ Top records!</p>
 
 
 
@@ -179,11 +179,11 @@ seo:
 
 
 
-<p>As so many other reviewers have said, the <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-lasso-id="120191">Seymour Duncan</a> Pearly Gates Set is a great way to enhance your tone, but it is not going to make you sound just like Billy Gibbons. Everyone sounds different, and there are a million factors as to why you sound different from the next guitarist. But being unique is a good thing!</p>
+<p>As so many other reviewers have said, the <a href="/new-seymour-duncan-pickups-announced/" data-lasso-id="120191">Seymour Duncan</a> Pearly Gates Set is a great way to enhance your tone, but it is not going to make you sound just like Billy Gibbons. Everyone sounds different, and there are a million factors as to why you sound different from the next guitarist. But being unique is a good thing!</p>
 
 
 
-<p>You may never sound just like Billy, but you might be able to craft your tone around the versatility of the Pearly Gates set. I would not recommend these for anyone that is trying to get an Extreme Metal tone. But if you are <a href="https://www.electrikjam.com/pallbearer-gear-guitars-guide/" data-lasso-id="106804">going more for a Doom Metal tone</a>, or outright Texas Blues, the Pearly Gate are an excellent way to get started.</p>
+<p>You may never sound just like Billy, but you might be able to craft your tone around the versatility of the Pearly Gates set. I would not recommend these for anyone that is trying to get an Extreme Metal tone. But if you are <a href="/pallbearer-gear-guitars-guide/" data-lasso-id="106804">going more for a Doom Metal tone</a>, or outright Texas Blues, the Pearly Gate are an excellent way to get started.</p>
 
 
 
@@ -196,6 +196,6 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><a href="https://www.electrikjam.com/recommends/seymour-duncan-pearly-gates/" target="_blank" rel="noopener" data-lasso-id="90445"><strong>CLICK FOR BEST</strong> P<strong>RICES!</strong></a></p>
+<p class="has-text-align-center has-extra-small-font-size"><a href="/recommends/seymour-duncan-pearly-gates/" target="_blank" rel="noopener" data-lasso-id="90445"><strong>CLICK FOR BEST</strong> P<strong>RICES!</strong></a></p>
 </div></div>
 

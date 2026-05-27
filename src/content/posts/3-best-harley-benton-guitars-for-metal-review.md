@@ -402,7 +402,7 @@ seo:
 
 
 
-<p>The first models that were produced caught the attention of reviewers, and the quality seemed better than <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254476">what you usually get from a &#8220;beginner&#8221; guitar</a>. </p>
+<p>The first models that were produced caught the attention of reviewers, and the quality seemed better than <a href="/best-guitar-for-beginners/" data-lasso-id="254476">what you usually get from a &#8220;beginner&#8221; guitar</a>. </p>
 
 
 
@@ -414,15 +414,15 @@ seo:
 
 
 
-<p>There are plenty of people that put-down the brand, and import guitars <em>in general</em>. <a data-lasso-id="227728" href="https://www.electrikjam.com/new-harley-benton-25th-anniversary-guitars/">Harley Benton makes guitars</a> that are &#8220;inspired&#8221; by more expensive, famous models. </p>
+<p>There are plenty of people that put-down the brand, and import guitars <em>in general</em>. <a data-lasso-id="227728" href="/new-harley-benton-25th-anniversary-guitars/">Harley Benton makes guitars</a> that are &#8220;inspired&#8221; by more expensive, famous models. </p>
 
 
 
-<p>This leaves a bad taste in some consumer&#8217;s mouths. But a lot of Harley Benton models are based on guitars that you simply cannot obtain on the used market, like the <a data-lasso-id="188614" href="https://www.electrikjam.com/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"><strong>EX-84 Modern </strong></a>model.</p>
+<p>This leaves a bad taste in some consumer&#8217;s mouths. But a lot of Harley Benton models are based on guitars that you simply cannot obtain on the used market, like the <a data-lasso-id="188614" href="/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"><strong>EX-84 Modern </strong></a>model.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-1024x683.jpg" alt="harley benton guitar pickups guide" class="wp-image-16198" title="" srcset="/wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-1024x683.jpg 1024w, /wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-600x400.jpg 600w, /wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-300x200.jpg 300w, /wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-768x512.jpg 768w, /wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/harley-benton-guitar-pickups-guide/" data-type="post" data-id="16619">Read My Harley Benton Pickup Guide</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-1024x683.jpg" alt="harley benton guitar pickups guide" class="wp-image-16198" title="" srcset="/wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-1024x683.jpg 1024w, /wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-600x400.jpg 600w, /wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-300x200.jpg 300w, /wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52-768x512.jpg 768w, /wp-content/uploads/2024/09/Harley-Benton-SC-450-Plus-LD-Vintage-Series-TE-52.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="/harley-benton-guitar-pickups-guide/" data-type="post" data-id="16619">Read My Harley Benton Pickup Guide</a></strong></figcaption></figure>
 
 
 
@@ -430,11 +430,11 @@ seo:
 
 
 
-<p>There will always be <a data-lasso-id="188615" href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener"><strong>Fender</strong></a> and <a data-lasso-id="188616" href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener"><strong>Gibson</strong></a> purists, and there is nothing wrong with that. </p>
+<p>There will always be <a data-lasso-id="188615" href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener"><strong>Fender</strong></a> and <a data-lasso-id="188616" href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener"><strong>Gibson</strong></a> purists, and there is nothing wrong with that. </p>
 
 
 
-<p>But the reality is that not everyone can afford the big name brands. <a data-lasso-id="188617" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>Budget guitars</strong></a> <strong>have risen in popularity, for a good reason</strong>. </p>
+<p>But the reality is that not everyone can afford the big name brands. <a data-lasso-id="188617" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>Budget guitars</strong></a> <strong>have risen in popularity, for a good reason</strong>. </p>
 
 
 
@@ -442,7 +442,7 @@ seo:
 
 
 
-<p>We have<strong> <a data-lasso-id="188618" href="https://www.electrikjam.com/where-guitars-are-made-2022/" data-type="post" data-id="8621" target="_blank" rel="noopener">talked a lot</a></strong> about how CNC machines make it possible to craft guitars in a consistent manner. </p>
+<p>We have<strong> <a data-lasso-id="188618" href="/where-guitars-are-made-2022/" data-type="post" data-id="8621" target="_blank" rel="noopener">talked a lot</a></strong> about how CNC machines make it possible to craft guitars in a consistent manner. </p>
 
 
 
@@ -458,7 +458,7 @@ seo:
 
 
 
-<p>But even<strong> <a data-lasso-id="188619" data-lasso-name="PRS S2 Standard 22" href="https://www.electrikjam.com/guitar-center-pxf-io-ao27gr/" data-type="lasso-urls" data-id="5441" target="_blank" rel="nofollow sponsored noopener">PRS</a></strong> uses machines in guitar production these days! <strong>The amount of attention a guitar gets from an actual human is <em>what you pay for </em>in some instances.</strong></p>
+<p>But even<strong> <a data-lasso-id="188619" data-lasso-name="PRS S2 Standard 22" href="/guitar-center-pxf-io-ao27gr/" data-type="lasso-urls" data-id="5441" target="_blank" rel="nofollow sponsored noopener">PRS</a></strong> uses machines in guitar production these days! <strong>The amount of attention a guitar gets from an actual human is <em>what you pay for </em>in some instances.</strong></p>
 
 
 
@@ -478,7 +478,7 @@ seo:
 
 
 
-<p>The 3 best <a data-lasso-id="235135" href="https://www.electrikjam.com/harley-benton-dc-fat-p90-guitars-review/">Harley Benton guitars</a> for Metal that we are checking out today are amazing quality first and foremost because of that technology. </p>
+<p>The 3 best <a data-lasso-id="235135" href="/harley-benton-dc-fat-p90-guitars-review/">Harley Benton guitars</a> for Metal that we are checking out today are amazing quality first and foremost because of that technology. </p>
 
 
 
@@ -534,7 +534,7 @@ seo:
 
 
 
-<p>We wanted to find the guitars that would appeal to <a data-lasso-id="188620" href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener"><strong>shredders</strong></a>, as well as guitarists that just want to write riffs. We had some strict parameters to find the best of the best:</p>
+<p>We wanted to find the guitars that would appeal to <a data-lasso-id="188620" href="/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener"><strong>shredders</strong></a>, as well as guitarists that just want to write riffs. We had some strict parameters to find the best of the best:</p>
 
 
 
@@ -592,7 +592,7 @@ seo:
 
 
 
-<p>We wanted to cover everything, from <strong><a data-lasso-id="188621" href="https://www.electrikjam.com/doom-metal-rig/" data-type="post" data-id="9018" target="_blank" rel="noopener">Doom</a> </strong>to highly technical <a data-lasso-id="189560" href="https://www.electrikjam.com/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener"><strong>shredding</strong></a>. </p>
+<p>We wanted to cover everything, from <strong><a data-lasso-id="188621" href="/doom-metal-rig/" data-type="post" data-id="9018" target="_blank" rel="noopener">Doom</a> </strong>to highly technical <a data-lasso-id="189560" href="/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener"><strong>shredding</strong></a>. </p>
 
 
 
@@ -600,7 +600,7 @@ seo:
 
 
 
-<p>We already talked about <a href="https://www.electrikjam.com/harley-benton-ex-84-modern-guitar-review/" data-lasso-id="250260"><strong>the shipping process from Thomann</strong></a>, and how it only takes a week or so to get a guitar from Germany.</p>
+<p>We already talked about <a href="/harley-benton-ex-84-modern-guitar-review/" data-lasso-id="250260"><strong>the shipping process from Thomann</strong></a>, and how it only takes a week or so to get a guitar from Germany.</p>
 
 
 
@@ -632,7 +632,7 @@ seo:
 
 
 
-<p>The Harley Benton R-446 looks fairly simple and straightforward upon first glance. But it has a few tricks under the hood that make this an <a href="https://www.electrikjam.com/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229708">absolute beast of a guitar</a>. Let&#8217;s take a look at the features that make this guitar so awesome for those about to rock (We salute you!):</p>
+<p>The Harley Benton R-446 looks fairly simple and straightforward upon first glance. But it has a few tricks under the hood that make this an <a href="/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229708">absolute beast of a guitar</a>. Let&#8217;s take a look at the features that make this guitar so awesome for those about to rock (We salute you!):</p>
 
 
 
@@ -702,7 +702,7 @@ seo:
 
 
 
-<p><strong>The Body</strong> is one of the main attractions on the Harley Benton R-446. This is definitely inspired by<strong> <a data-lasso-id="188623" href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener">Schecter</a> </strong>and Ibanez without copying either of those shapes. This looks very much like a Schecter C-1, but with a few more curves. The whole body is just dripping with metallic coolness!</p>
+<p><strong>The Body</strong> is one of the main attractions on the Harley Benton R-446. This is definitely inspired by<strong> <a data-lasso-id="188623" href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener">Schecter</a> </strong>and Ibanez without copying either of those shapes. This looks very much like a Schecter C-1, but with a few more curves. The whole body is just dripping with metallic coolness!</p>
 
 
 
@@ -710,7 +710,7 @@ seo:
 
 
 
-<p>But the awesome part is the lower horn, that has a very intentional carve, that allows you to get your hand up to the upper frets, all the way up to the 24th fret! This is a feature that you usually see on much more expensive guitars, like a<a data-lasso-id="188624" href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" data-type="post" data-id="9398" target="_blank" rel="noopener"> <strong>Charvel</strong></a>. You hand fits into the grooves really well to reach the upper frets.</p>
+<p>But the awesome part is the lower horn, that has a very intentional carve, that allows you to get your hand up to the upper frets, all the way up to the 24th fret! This is a feature that you usually see on much more expensive guitars, like a<a data-lasso-id="188624" href="/charvel-pro-mod-dk24-review/" data-type="post" data-id="9398" target="_blank" rel="noopener"> <strong>Charvel</strong></a>. You hand fits into the grooves really well to reach the upper frets.</p>
 
 
 
@@ -722,15 +722,15 @@ seo:
 
 
 
-<p>This neck feels absolutely great, and to me it feels like a ESP-style neck, with a flatter Ibanez radius. This neck is perfect for riffing <em>and</em> shredding. &#8220;Effortless&#8221; is the best word I can come up with, when it comes to this neck. This would be a great <a data-lasso-id="188625" href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener"><strong>beginner guitar</strong></a> for anyone that likes Metal since it is <em>so easy</em> to play. <strong>People with small hands</strong> will definitely appreciate the neck shape!</p>
+<p>This neck feels absolutely great, and to me it feels like a ESP-style neck, with a flatter Ibanez radius. This neck is perfect for riffing <em>and</em> shredding. &#8220;Effortless&#8221; is the best word I can come up with, when it comes to this neck. This would be a great <a data-lasso-id="188625" href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener"><strong>beginner guitar</strong></a> for anyone that likes Metal since it is <em>so easy</em> to play. <strong>People with small hands</strong> will definitely appreciate the neck shape!</p>
 
 
 
-<p><strong>The Pickups</strong> are the secret weapon on the Harley Benton R-446, and a <em>huge surprise</em> at this price point. ARTEC makes some great budget pickups, and while these have the &#8220;look&#8221; of<strong> <a data-lasso-id="188626" href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener">active pickups</a></strong> they are <em>actually passive</em>. The flat plastic covers just happen<em> to look</em> like an active pickup.</p>
+<p><strong>The Pickups</strong> are the secret weapon on the Harley Benton R-446, and a <em>huge surprise</em> at this price point. ARTEC makes some great budget pickups, and while these have the &#8220;look&#8221; of<strong> <a data-lasso-id="188626" href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener">active pickups</a></strong> they are <em>actually passive</em>. The flat plastic covers just happen<em> to look</em> like an active pickup.</p>
 
 
 
-<p>These are ceramic magnet humbuckers that are perfect for high gain tones, but the switch is a 5-way! This gives you 5 different pickup tones. The<strong> <a data-lasso-id="188627" href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener">in-between positions</a></strong> are single coil sounds while the first, middle, and last positions are full on humbucker tomes. This gives you <em>5 totally different tones</em> without using a coil-tap knob.</p>
+<p>These are ceramic magnet humbuckers that are perfect for high gain tones, but the switch is a 5-way! This gives you 5 different pickup tones. The<strong> <a data-lasso-id="188627" href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener">in-between positions</a></strong> are single coil sounds while the first, middle, and last positions are full on humbucker tomes. This gives you <em>5 totally different tones</em> without using a coil-tap knob.</p>
 
 
 
@@ -738,7 +738,7 @@ seo:
 
 
 
-<p><strong>The Hardware</strong> is the weak point on this guitar, mainly the tuners. The nut is plastic and the tuners are regular quality that you see on most budget guitars. The bridge is just fine, and needs no modification. But the tuners and the nut could definitely be better.<a data-lasso-id="188628" href="https://www.electrikjam.com/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"> <strong>This can be a cheap fix though</strong></a>!</p>
+<p><strong>The Hardware</strong> is the weak point on this guitar, mainly the tuners. The nut is plastic and the tuners are regular quality that you see on most budget guitars. The bridge is just fine, and needs no modification. But the tuners and the nut could definitely be better.<a data-lasso-id="188628" href="/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"> <strong>This can be a cheap fix though</strong></a>!</p>
 
 
 
@@ -746,7 +746,7 @@ seo:
 
 
 
-<p>I would add locking tuners, and a TUSQ nut to this guitar to make it stage-worthy. The rest of the guitar already sounds great and plays well! We noodled with it on the<a data-lasso-id="188629" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong> BOSS Katana</strong></a>, and it really excelled with high gain tones. The mid-scooped pickups sound is perfect for<a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" target="_blank" data-type="post" data-id="3542" rel="noopener" data-lasso-id="189561"> <strong>Pantera</strong></a> tones.</p>
+<p>I would add locking tuners, and a TUSQ nut to this guitar to make it stage-worthy. The rest of the guitar already sounds great and plays well! We noodled with it on the<a data-lasso-id="188629" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong> BOSS Katana</strong></a>, and it really excelled with high gain tones. The mid-scooped pickups sound is perfect for<a href="/pantera-albums-ranked-in-order-of-heaviness/" target="_blank" data-type="post" data-id="3542" rel="noopener" data-lasso-id="189561"> <strong>Pantera</strong></a> tones.</p>
 
 
 
@@ -774,7 +774,7 @@ seo:
 
 
 
-<p>The Harley Benton SC Custom might be <em>double</em> the price of the R-446, but the features reflect the price hike <em>and then some</em>. Like most Harley Benton models, the SC Custom blends a couple of really iconic guitars. This time, the guitar is a mish-mash of DNA from a <a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" target="_blank" rel="noopener" data-lasso-id="189219"><strong>Les Paul Custom</strong></a>, and an ESP Eclipse. But it isn&#8217;t really anything like <em>either</em> of those guitars.</p>
+<p>The Harley Benton SC Custom might be <em>double</em> the price of the R-446, but the features reflect the price hike <em>and then some</em>. Like most Harley Benton models, the SC Custom blends a couple of really iconic guitars. This time, the guitar is a mish-mash of DNA from a <a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" target="_blank" rel="noopener" data-lasso-id="189219"><strong>Les Paul Custom</strong></a>, and an ESP Eclipse. But it isn&#8217;t really anything like <em>either</em> of those guitars.</p>
 
 
 
@@ -868,11 +868,11 @@ seo:
 
 
 
-<p>The body of the SC Custom is a little thinner than you would find on the Big-G <a href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206357">single cut guitars</a>. But it also has a belly cut in the back, and this makes it rest against the body comfortably. The neck joint/heel is almost non-existent, making it easy to reach the upper frets. The lower horn is also recessed further back than the &#8220;standard&#8221; single cut guitars.</p>
+<p>The body of the SC Custom is a little thinner than you would find on the Big-G <a href="/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206357">single cut guitars</a>. But it also has a belly cut in the back, and this makes it rest against the body comfortably. The neck joint/heel is almost non-existent, making it easy to reach the upper frets. The lower horn is also recessed further back than the &#8220;standard&#8221; single cut guitars.</p>
 
 
 
-<p><strong>The Neck </strong>is downright amazing, and the &#8220;Modern C&#8221; will feel very familiar to anyone that has ever played an ESP Eclipse, or <a data-lasso-id="189220" data-lasso-name="Schecter Hellraiser FRS" href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener"><strong>Schecter Hellraiser</strong></a>. The matte finish makes the neck feel fast, and easy to play. The frets are large, making big bends effortless. This also adds to feel of this guitar being <em>made to shred</em>.</p>
+<p><strong>The Neck </strong>is downright amazing, and the &#8220;Modern C&#8221; will feel very familiar to anyone that has ever played an ESP Eclipse, or <a data-lasso-id="189220" data-lasso-name="Schecter Hellraiser FRS" href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener"><strong>Schecter Hellraiser</strong></a>. The matte finish makes the neck feel fast, and easy to play. The frets are large, making big bends effortless. This also adds to feel of this guitar being <em>made to shred</em>.</p>
 
 
 
@@ -880,11 +880,11 @@ seo:
 
 
 
-<p><strong>The Pickups</strong> are EMG Retro-Active 70&#8217;s, and we have discussed them in detail before. Basically, they are active versions of the &#8220;70&#8217;s Sound&#8221; PAF that points at a particular player. I can think of a lot of guitarists that got started in the 70&#8217;s, but I am pretty sure these are based on <a data-lasso-id="189221" href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener">EVH</a>. The Retro-Active 70&#8217;s set boosts the mids, while also providing<em> great</em> bass response.</p>
+<p><strong>The Pickups</strong> are EMG Retro-Active 70&#8217;s, and we have discussed them in detail before. Basically, they are active versions of the &#8220;70&#8217;s Sound&#8221; PAF that points at a particular player. I can think of a lot of guitarists that got started in the 70&#8217;s, but I am pretty sure these are based on <a data-lasso-id="189221" href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener">EVH</a>. The Retro-Active 70&#8217;s set boosts the mids, while also providing<em> great</em> bass response.</p>
 
 
 
-<p><strong>The Hardware</strong> is all Wilkinson name brand, and this is where Harley Benton quality goes way up from the cheaper models. The bridge feels solid, and all of the saddles will hold up over time. The locking tuners are something you might not know you need, but once you use <a href="https://www.electrikjam.com/what-are-locking-tuners/" data-type="post" data-id="5971" target="_blank" rel="noopener" data-lasso-id="189563"><strong>locking tuners</strong></a> <em>you never go back</em>. It makes string changes a breeze and I can&#8217;t live without locking tuners these days.</p>
+<p><strong>The Hardware</strong> is all Wilkinson name brand, and this is where Harley Benton quality goes way up from the cheaper models. The bridge feels solid, and all of the saddles will hold up over time. The locking tuners are something you might not know you need, but once you use <a href="/what-are-locking-tuners/" data-type="post" data-id="5971" target="_blank" rel="noopener" data-lasso-id="189563"><strong>locking tuners</strong></a> <em>you never go back</em>. It makes string changes a breeze and I can&#8217;t live without locking tuners these days.</p>
 
 
 
@@ -986,7 +986,7 @@ seo:
 
 
 
-<p><strong>Out Of The Box</strong> the guitar was mostly set up. The low E string needed a little tweaking to get the <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="189222"><strong>intonation</strong></a> spot on. The string height was a little high too, but that&#8217;s an easy fix. There were no sharp fret ends on either side of the neck. Which is a plus, because stainless frets are hard to work on! I stretched the strings and tuned it up, and it was totally playable.</p>
+<p><strong>Out Of The Box</strong> the guitar was mostly set up. The low E string needed a little tweaking to get the <a href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="189222"><strong>intonation</strong></a> spot on. The string height was a little high too, but that&#8217;s an easy fix. There were no sharp fret ends on either side of the neck. Which is a plus, because stainless frets are hard to work on! I stretched the strings and tuned it up, and it was totally playable.</p>
 
 
 
@@ -998,7 +998,7 @@ seo:
 
 
 
-<p><strong>The Neck </strong>is the absolute star of the show here, and<strong> I am pretty sure I will be buying this guitar.</strong> This is one of the most comfortable necks I have ever played, and the best comparison that I can think of is my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="189223"><strong>Schecter Nick Johnston</strong></a>,<strong> which is twice the price of this guitar</strong>. The two necks are very similar in feel and construction.</p>
+<p><strong>The Neck </strong>is the absolute star of the show here, and<strong> I am pretty sure I will be buying this guitar.</strong> This is one of the most comfortable necks I have ever played, and the best comparison that I can think of is my <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="189223"><strong>Schecter Nick Johnston</strong></a>,<strong> which is twice the price of this guitar</strong>. The two necks are very similar in feel and construction.</p>
 
 
 
@@ -1014,15 +1014,15 @@ seo:
 
 
 
-<p><strong>The Pickups</strong> are one of the main reasons this is one of the best Harley Benton Guitars for Metal. We have talked about the EMG Hot 70&#8217;s pickups to death at this point. they sound great for everything, and the mid-boost works well for <a href="https://www.electrikjam.com/most-common-guitar-tunings/" target="_blank" data-type="post" data-id="5246" rel="noopener" data-lasso-id="189564"><strong>tuning down</strong></a>. I would love to put this guitar in <a data-lasso-id="189224" href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" target="_blank" rel="noopener"><strong>Drop C</strong></a>!</p>
+<p><strong>The Pickups</strong> are one of the main reasons this is one of the best Harley Benton Guitars for Metal. We have talked about the EMG Hot 70&#8217;s pickups to death at this point. they sound great for everything, and the mid-boost works well for <a href="/most-common-guitar-tunings/" target="_blank" data-type="post" data-id="5246" rel="noopener" data-lasso-id="189564"><strong>tuning down</strong></a>. I would love to put this guitar in <a data-lasso-id="189224" href="/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" target="_blank" rel="noopener"><strong>Drop C</strong></a>!</p>
 
 
 
-<p>The Harley Benton Fusion-T HT EMG is absolutely astonishing, and this is a guitar that plays well above the price point. Being completely honest, this feels like a <a data-lasso-id="189225" href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener"><strong>mid-tier Schecter</strong></a>. Something like the <a data-lasso-id="189226" href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener"><strong>Sun Valley Super Shredder</strong></a> feels<em> just like</em> this guitar, at more than double the price.</p>
+<p>The Harley Benton Fusion-T HT EMG is absolutely astonishing, and this is a guitar that plays well above the price point. Being completely honest, this feels like a <a data-lasso-id="189225" href="/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener"><strong>mid-tier Schecter</strong></a>. Something like the <a data-lasso-id="189226" href="/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener"><strong>Sun Valley Super Shredder</strong></a> feels<em> just like</em> this guitar, at more than double the price.</p>
 
 
 
-<p>But I don&#8217;t just mean the <em>features and build </em>of the guitar when I compare it to a Schecter or Charvel. <strong>I mean the way it plays as well</strong>. If there was no brand name on the headstock I would think this is a much more expensive guitar. Blindfolded I would say it was a new <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231835">Schecter model</a>, and I think that speaks volumes when it comes to the best Harley Benton Guitars for Metal.</p>
+<p>But I don&#8217;t just mean the <em>features and build </em>of the guitar when I compare it to a Schecter or Charvel. <strong>I mean the way it plays as well</strong>. If there was no brand name on the headstock I would think this is a much more expensive guitar. Blindfolded I would say it was a new <a href="/schecter-mv-6-review/" data-lasso-id="231835">Schecter model</a>, and I think that speaks volumes when it comes to the best Harley Benton Guitars for Metal.</p>
 
 
 
@@ -1030,7 +1030,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/the-best-gig-bags/" data-type="post" data-id="6566" target="_blank" rel="noopener" data-lasso-id="189565">Gig Bag</a> </strong>that comes with these guitars is really nice, and rivals some of the more expensive brand&#8217;s offerings. I wouldn&#8217;t mind having a few Thomann brand gig bags myself! These are well padded, and they have room for pedals, picks, or sheet music.</p>
+<p>The <strong><a href="/the-best-gig-bags/" data-type="post" data-id="6566" target="_blank" rel="noopener" data-lasso-id="189565">Gig Bag</a> </strong>that comes with these guitars is really nice, and rivals some of the more expensive brand&#8217;s offerings. I wouldn&#8217;t mind having a few Thomann brand gig bags myself! These are well padded, and they have room for pedals, picks, or sheet music.</p>
 
 
 
@@ -1197,7 +1197,7 @@ seo:
 
 
 
-<p>I played a <strong><a data-lasso-id="189227" href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" target="_blank" rel="noopener">Squier</a> </strong>on stage for years, and no one ever came up to me after the show and demeaned me for playing it. So why do we care about what the name on the headstock says?</p>
+<p>I played a <strong><a data-lasso-id="189227" href="/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" target="_blank" rel="noopener">Squier</a> </strong>on stage for years, and no one ever came up to me after the show and demeaned me for playing it. So why do we care about what the name on the headstock says?</p>
 
 
 
@@ -1205,7 +1205,7 @@ seo:
 
 
 
-<p>If you <em>sound fantastic</em> on stage, playing a guitar that you love, then who cares what you&#8217;re using? <a data-lasso-id="189228" href="https://www.electrikjam.com/jack-white-loves-horrible-difficult-guitars-heres-why/" data-type="post" data-id="8093" target="_blank" rel="noopener"><strong>Jack White played plastic guitars from department stores for years and no one batted an eye</strong></a>.</p>
+<p>If you <em>sound fantastic</em> on stage, playing a guitar that you love, then who cares what you&#8217;re using? <a data-lasso-id="189228" href="/jack-white-loves-horrible-difficult-guitars-heres-why/" data-type="post" data-id="8093" target="_blank" rel="noopener"><strong>Jack White played plastic guitars from department stores for years and no one batted an eye</strong></a>.</p>
 
 
 
@@ -1229,7 +1229,7 @@ seo:
 
 
 
-<p>But the other two? It would involve maybe an hour on my workbench to get them setup the way I like. Pair either of those guitars with my <a data-lasso-id="189229" href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener"><strong>BOSS Katana</strong> </a>and<em> I would be set</em> for the stage.</p>
+<p>But the other two? It would involve maybe an hour on my workbench to get them setup the way I like. Pair either of those guitars with my <a data-lasso-id="189229" href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener"><strong>BOSS Katana</strong> </a>and<em> I would be set</em> for the stage.</p>
 
 
 
@@ -1241,7 +1241,7 @@ seo:
 
 
 
-<p>We have one more <a data-lasso-id="192580" href="https://www.electrikjam.com/harley-benton-deluxe-series-guitars-review/">series of Harley Benton guitars</a> to check out this month, and I can&#8217;t wait to see what we have in store for us! </p>
+<p>We have one more <a data-lasso-id="192580" href="/harley-benton-deluxe-series-guitars-review/">series of Harley Benton guitars</a> to check out this month, and I can&#8217;t wait to see what we have in store for us! </p>
 
 
 

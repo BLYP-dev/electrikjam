@@ -45,11 +45,11 @@ seo:
 
 
 
-<p>We have been taking a look at the newer Glarry guitars and basses, and the 2022-2023 lineup has seen some improvements over some of the older models. That being said, we were definitely impressed with <strong><a href="https://www.electrikjam.com/glarry-gst-electric-guitar-review/" target="_blank" data-type="post" data-id="11160" rel="noopener" data-lasso-id="227377">the older GST model that we received for review</a></strong>.</p>
+<p>We have been taking a look at the newer Glarry guitars and basses, and the 2022-2023 lineup has seen some improvements over some of the older models. That being said, we were definitely impressed with <strong><a href="/glarry-gst-electric-guitar-review/" target="_blank" data-type="post" data-id="11160" rel="noopener" data-lasso-id="227377">the older GST model that we received for review</a></strong>.</p>
 
 
 
-<p>It can be hard to believe, but you can buy a fully functioning guitar for less money than I spent on a night out last weekend! Sure, the quality of the hardware is a weak point, <strong><a href="https://www.electrikjam.com/glarry-mods-can-glarry-guitars-be-upgraded/" data-type="post" data-id="11330" target="_blank" rel="noopener" data-lasso-id="227378">but that is easily fixed with some cheap upgrades.</a></strong> </p>
+<p>It can be hard to believe, but you can buy a fully functioning guitar for less money than I spent on a night out last weekend! Sure, the quality of the hardware is a weak point, <strong><a href="/glarry-mods-can-glarry-guitars-be-upgraded/" data-type="post" data-id="11330" target="_blank" rel="noopener" data-lasso-id="227378">but that is easily fixed with some cheap upgrades.</a></strong> </p>
 
 
 
@@ -61,7 +61,7 @@ seo:
 
 
 
-<p>I know that Glarry guitars and basses are a divisive topic in the community, and I get it. When you play the Glarry right next to a $1500 guitar, the difference is going to be very obvious. But put the Glarry next to a <a href="https://www.electrikjam.com/the-new-199-squier-sonic-series/" data-lasso-id="228754">Squier Bullet</a>, you will have a hard time telling the difference.</p>
+<p>I know that Glarry guitars and basses are a divisive topic in the community, and I get it. When you play the Glarry right next to a $1500 guitar, the difference is going to be very obvious. But put the Glarry next to a <a href="/the-new-199-squier-sonic-series/" data-lasso-id="228754">Squier Bullet</a>, you will have a hard time telling the difference.</p>
 
 
 
@@ -69,7 +69,7 @@ seo:
 
 
 
-<p>I personally <strong><a href="https://www.electrikjam.com/the-glarry-gjazz-bass-review/" data-type="post" data-id="11176" target="_blank" rel="noopener" data-lasso-id="227379">purchased the Glarry GJazz Bass for my home studio</a></strong>, as I needed a cheap bass with single coil pickups. This bass was great for the money, and it sparked my interest in Glarry guitars and basses as a company. Hence, the recent deep-dive I have been doing on these products.</p>
+<p>I personally <strong><a href="/the-glarry-gjazz-bass-review/" data-type="post" data-id="11176" target="_blank" rel="noopener" data-lasso-id="227379">purchased the Glarry GJazz Bass for my home studio</a></strong>, as I needed a cheap bass with single coil pickups. This bass was great for the money, and it sparked my interest in Glarry guitars and basses as a company. Hence, the recent deep-dive I have been doing on these products.</p>
 
 
 
@@ -153,7 +153,7 @@ seo:
 
 
 
-<p>The neck has some great looking Pearloid-style inlays, and medium jumbo frets which is also a new feature. Topping all of this off is a bone nut, instead of the generic plastic. <strong><a href="https://www.electrikjam.com/solving-guitar-tuning-issues-tutorial/" data-type="post" data-id="10273" target="_blank" rel="noopener" data-lasso-id="227380">The nut is where most tuning issues happen</a></strong>, so this is a good thing, since bone is much harder than plastic.</p>
+<p>The neck has some great looking Pearloid-style inlays, and medium jumbo frets which is also a new feature. Topping all of this off is a bone nut, instead of the generic plastic. <strong><a href="/solving-guitar-tuning-issues-tutorial/" data-type="post" data-id="10273" target="_blank" rel="noopener" data-lasso-id="227380">The nut is where most tuning issues happen</a></strong>, so this is a good thing, since bone is much harder than plastic.</p>
 
 
 
@@ -165,7 +165,7 @@ seo:
 
 
 
-<p>The bone nut, set-neck design, and the fun finishes are a step in the right direction for Glarry when it comes to the quality and low price. The new amp cable that comes with this guitar is a vintage braided style, which is <em>much better</em> than the usual cables <strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="227381">you get with budget guitars.</a></strong></p>
+<p>The bone nut, set-neck design, and the fun finishes are a step in the right direction for Glarry when it comes to the quality and low price. The new amp cable that comes with this guitar is a vintage braided style, which is <em>much better</em> than the usual cables <strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="227381">you get with budget guitars.</a></strong></p>
 
 
 
@@ -185,11 +185,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener" data-lasso-id="227382">Kurt Cobain</a></strong> was a big fan of the Fender Mustang, and the Glarry GMF takes that design and changes a few things, while keeping the desired short scale. The frets being so much closer together on a 24&#8221; scale guitar makes chord changes easier.</p>
+<p><strong><a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener" data-lasso-id="227382">Kurt Cobain</a></strong> was a big fan of the Fender Mustang, and the Glarry GMF takes that design and changes a few things, while keeping the desired short scale. The frets being so much closer together on a 24&#8221; scale guitar makes chord changes easier.</p>
 
 
 
-<p>But some people just prefer the 24&#8221; scale because they have smaller hands. This <strong><a href="https://www.electrikjam.com/types-of-guitars-guide/" target="_blank" data-type="post" data-id="2545" rel="noopener" data-lasso-id="227383">style of guitar</a></strong> was originally designed with younger students in mind. But it is just as popular with adult players of all genres.</p>
+<p>But some people just prefer the 24&#8221; scale because they have smaller hands. This <strong><a href="/types-of-guitars-guide/" target="_blank" data-type="post" data-id="2545" rel="noopener" data-lasso-id="227383">style of guitar</a></strong> was originally designed with younger students in mind. But it is just as popular with adult players of all genres.</p>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<p>Overall, if you have ever wanted to try out a short scale guitar, whether it is for comfort reasons or alternate high tunings, the Glarry GMF is a good place to start. Likewise, it is a <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254478">great guitar for younger beginners</a> that may have small hands.</p>
+<p>Overall, if you have ever wanted to try out a short scale guitar, whether it is for comfort reasons or alternate high tunings, the Glarry GMF is a good place to start. Likewise, it is a <a href="/best-guitar-for-beginners/" data-lasso-id="254478">great guitar for younger beginners</a> that may have small hands.</p>
 
 
 
@@ -205,7 +205,7 @@ seo:
 
 
 
-<p>The dual humbuckers are a nice touch as well for the GIB Bass, giving you a huge amount of tonal control. They look like active pickups, but they are definitely passive. The low B string is absolutely BOOMING through <strong><a href="https://www.electrikjam.com/neural-amp-modeler/" target="_blank" data-type="post" data-id="11218" rel="noopener" data-lasso-id="227384">an Ampeg amp sim</a></strong>!</p>
+<p>The dual humbuckers are a nice touch as well for the GIB Bass, giving you a huge amount of tonal control. They look like active pickups, but they are definitely passive. The low B string is absolutely BOOMING through <strong><a href="/neural-amp-modeler/" target="_blank" data-type="post" data-id="11218" rel="noopener" data-lasso-id="227384">an Ampeg amp sim</a></strong>!</p>
 
 
 
@@ -217,7 +217,7 @@ seo:
 
 
 
-<p>Again, both would be a great mod platform if you ended up liking the guitar, and we have <strong><a href="https://www.electrikjam.com/glarry-mods-can-glarry-guitars-be-upgraded/" data-type="post" data-id="11330" target="_blank" rel="noopener" data-lasso-id="227385">all the specs you need in one article</a></strong> when it comes to parts that fit. Most Glarry guitars and basses use metric parts that you can find used for cheap.</p>
+<p>Again, both would be a great mod platform if you ended up liking the guitar, and we have <strong><a href="/glarry-mods-can-glarry-guitars-be-upgraded/" data-type="post" data-id="11330" target="_blank" rel="noopener" data-lasso-id="227385">all the specs you need in one article</a></strong> when it comes to parts that fit. Most Glarry guitars and basses use metric parts that you can find used for cheap.</p>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<p>This is your standard Super-Strat style guitar, with dual humbuckers and a three way switch. It has a trem, but I would totally block it and make this a &#8220;fixed&#8221; bridge guitar. This would solve any tuning issues, and make <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" target="_blank" data-type="post" data-id="7372" rel="noopener" data-lasso-id="227386">the guitar great for down-tuning</a></strong>.</p>
+<p>This is your standard Super-Strat style guitar, with dual humbuckers and a three way switch. It has a trem, but I would totally block it and make this a &#8220;fixed&#8221; bridge guitar. This would solve any tuning issues, and make <strong><a href="/best-strings-for-drop-tuning/" target="_blank" data-type="post" data-id="7372" rel="noopener" data-lasso-id="227386">the guitar great for down-tuning</a></strong>.</p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p>It honestly isn&#8217;t rocket science when it comes to doing regular guitar maintenance, and doing simple things like setting string height and <strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="227387">intonating your instrument </a></strong>are easy to learn. If you are completely lost? There are videos all over the internet that will walk you though the process, step by step. </p>
+<p>It honestly isn&#8217;t rocket science when it comes to doing regular guitar maintenance, and doing simple things like setting string height and <strong><a href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="227387">intonating your instrument </a></strong>are easy to learn. If you are completely lost? There are videos all over the internet that will walk you though the process, step by step. </p>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<p>Stay tuned to what we do <strong><a href="https://www.electrikjam.com/glarry-gst-electric-guitar-review/" target="_blank" data-type="post" data-id="11160" rel="noopener" data-lasso-id="227388">to the Electrikjam Glarry GST</a></strong>! The mods are already started, and I am filming the entire process. I think I can turn this Glarry into a <em>great </em>guitar with just a few easy mods. In fact, I KNOW I am going to turn this guitar into something special.</p>
+<p>Stay tuned to what we do <strong><a href="/glarry-gst-electric-guitar-review/" target="_blank" data-type="post" data-id="11160" rel="noopener" data-lasso-id="227388">to the Electrikjam Glarry GST</a></strong>! The mods are already started, and I am filming the entire process. I think I can turn this Glarry into a <em>great </em>guitar with just a few easy mods. In fact, I KNOW I am going to turn this guitar into something special.</p>
 
 
 

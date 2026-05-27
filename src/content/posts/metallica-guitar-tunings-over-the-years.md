@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>Metallica guitar tunings over the years have actually been pretty varied, although they are known mostly for using <a href="https://www.electrikjam.com/guitar-tuning/" data-lasso-id="1707">standard tuning</a>. You would be surprised at how many tunings this legendary band have used! Today we take a loook at the songs, and all of their tunings!</strong></p>
+<p><strong>Metallica guitar tunings over the years have actually been pretty varied, although they are known mostly for using <a href="/guitar-tuning/" data-lasso-id="1707">standard tuning</a>. You would be surprised at how many tunings this legendary band have used! Today we take a loook at the songs, and all of their tunings!</strong></p>
 
 
 
@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>Metallica. Quite possibly the most famous metal band of all time. They have won several Grammys, and released tons of content to the masses. Millions of albums have been sold. My mother knows who <a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-lasso-id="1370">Metallica</a> are!</p>
+<p>Metallica. Quite possibly the most famous metal band of all time. They have won several Grammys, and released tons of content to the masses. Millions of albums have been sold. My mother knows who <a href="/metallica-songs-complete-list-inc-covers-rarities/" data-lasso-id="1370">Metallica</a> are!</p>
 
 
 
@@ -47,15 +47,15 @@ seo:
 
 
 
-<p>After the late 80&#8217;s <a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17570">Metallica</a> released some of their biggest albums, and flooded MTV and local radio stations all over the world. Some people say that they &#8216;toned down&#8221; their sound a little, to be more digestible for the public. I disagree, but that is another article<em> entirely</em>!</p>
+<p>After the late 80&#8217;s <a href="/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17570">Metallica</a> released some of their biggest albums, and flooded MTV and local radio stations all over the world. Some people say that they &#8216;toned down&#8221; their sound a little, to be more digestible for the public. I disagree, but that is another article<em> entirely</em>!</p>
 
 
 
-<p>Metallica is one of the few Metal bands known for using <a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-lasso-id="12173">standard tuning</a> almost exclusively. I assure you, though, this is definitely <em>not the case</em>. <a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="1371">James Hetfield</a> has often used different tunings, and you probably didn&#8217;t even notice it! Today we are going to look at the Metallica guitar tunings, and list the songs that feature them.</p>
+<p>Metallica is one of the few Metal bands known for using <a href="/most-common-guitar-tunings/" data-lasso-id="12173">standard tuning</a> almost exclusively. I assure you, though, this is definitely <em>not the case</em>. <a href="/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="1371">James Hetfield</a> has often used different tunings, and you probably didn&#8217;t even notice it! Today we are going to look at the Metallica guitar tunings, and list the songs that feature them.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="1372"><strong><span style="color: #9b51e0;" class="ugb-highlight">There are many guitar tunings out there now, that are commonly used for Metal</span></strong></a>. But you have to remember, that Metallica blazed the trail when it came to Metal music! They started with <a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-lasso-id="1373">Standard tuning</a>, as that is what almost everyone used at the time.</p>
+<p><a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="1372"><strong><span style="color: #9b51e0;" class="ugb-highlight">There are many guitar tunings out there now, that are commonly used for Metal</span></strong></a>. But you have to remember, that Metallica blazed the trail when it came to Metal music! They started with <a href="/d-standard-tuning-guide-how-to/" data-lasso-id="1373">Standard tuning</a>, as that is what almost everyone used at the time.</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>Personally, <a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="1374">I didn&#8217;t hear the change until I tried to learn how to play the songs from &#8220;Load&#8221;</a>&#8220;. And when they play live? I really don&#8217;t notice the difference much. Lots of <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2797">classic Metal bands</a> tuned down for these same reasons. The sequel album, &#8220;Reload&#8221; also featured E flat tuning.</p>
+<p>Personally, <a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="1374">I didn&#8217;t hear the change until I tried to learn how to play the songs from &#8220;Load&#8221;</a>&#8220;. And when they play live? I really don&#8217;t notice the difference much. Lots of <a href="/90s-metal-bands/" data-lasso-id="2797">classic Metal bands</a> tuned down for these same reasons. The sequel album, &#8220;Reload&#8221; also featured E flat tuning.</p>
 
 
 
@@ -95,11 +95,11 @@ seo:
 
 
 
-<p>This is one of the Metallica guitar tunings that <em>most</em> people know about, since it has been used several times. D Standard is just Standard tuning, down a full step. There has been a misnomer that Metallica used <a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="1375">Drop D</a> for the songs I am about to list, but this is not true. If you go over the studio notes, you can see exactly how they achieved their sound!</p>
+<p>This is one of the Metallica guitar tunings that <em>most</em> people know about, since it has been used several times. D Standard is just Standard tuning, down a full step. There has been a misnomer that Metallica used <a href="/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="1375">Drop D</a> for the songs I am about to list, but this is not true. If you go over the studio notes, you can see exactly how they achieved their sound!</p>
 
 
 
-<p><a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-lasso-id="86083">D Standard Songs</a> in order of release:</p>
+<p><a href="/bands-that-play-in-d-standard/" data-lasso-id="86083">D Standard Songs</a> in order of release:</p>
 
 
 
@@ -107,11 +107,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" class="rank-math-link" data-lasso-id="1376"><strong><span style="color: #9b51e0;" class="ugb-highlight">D Standard is a popular tuning in Metal Music these days</span></strong></a>, as it is the pre-cursor to Drop C tuning, but it was almost unheard of for the time. Often I have seen tabs of these songs that say &#8220;Drop D&#8221;. This is incorrect, and makes the song much harder to play! There is no doubt though, that these songs are<strong> HEAVY</strong>.</p>
+<p><a href="/bands-that-use-drop-c-tuning/" class="rank-math-link" data-lasso-id="1376"><strong><span style="color: #9b51e0;" class="ugb-highlight">D Standard is a popular tuning in Metal Music these days</span></strong></a>, as it is the pre-cursor to Drop C tuning, but it was almost unheard of for the time. Often I have seen tabs of these songs that say &#8220;Drop D&#8221;. This is incorrect, and makes the song much harder to play! There is no doubt though, that these songs are<strong> HEAVY</strong>.</p>
 
 
 
-<p>But Metallica <a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" data-lasso-id="1377">guitar tunings</a> have used Drop D before. It&#8217;s just much more rare&#8230;</p>
+<p>But Metallica <a href="/the-3-best-strings-for-drop-c-tuning/" data-lasso-id="1377">guitar tunings</a> have used Drop D before. It&#8217;s just much more rare&#8230;</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p>Strangely enough, the most popular alternate tuning, <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99332">Drop D</a>, is not a popular tuning with Metallica. There are only two songs that feature Drop D exclusively:</p>
+<p>Strangely enough, the most popular alternate tuning, <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99332">Drop D</a>, is not a popular tuning with Metallica. There are only two songs that feature Drop D exclusively:</p>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<p>I would have thought of all the Metallica guitar tunings, this one would have been much more popular. However, I think that James has a <em>very</em> specific style of constructing riffs, and he is much more comfortable using D Standard. I believe this is just due to how he likes to <a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238698">write songs</a> and is a testament to his play style. Who would have thought that Drop D would be such a <em>rarity </em>among the Metallica guitar tunings?</p>
+<p>I would have thought of all the Metallica guitar tunings, this one would have been much more popular. However, I think that James has a <em>very</em> specific style of constructing riffs, and he is much more comfortable using D Standard. I believe this is just due to how he likes to <a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238698">write songs</a> and is a testament to his play style. Who would have thought that Drop D would be such a <em>rarity </em>among the Metallica guitar tunings?</p>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<p>&#8220;Dirty Window&#8221; is an anomaly on the famously-panned album &#8220;St. Anger&#8221;. Most of this album is tuned much lower, but I imagine this one of the first tracks written/composed for this album. maybe it was even a layover from the &#8220;Load&#8221; albums? Therefore, <a href="https://www.electrikjam.com/drop-d-vs-drop-c-whats-the-difference/" data-lasso-id="69695">it was in Drop D</a>, half a step down. Strangely enough, this is the only song in this tuning on the whole album!</p>
+<p>&#8220;Dirty Window&#8221; is an anomaly on the famously-panned album &#8220;St. Anger&#8221;. Most of this album is tuned much lower, but I imagine this one of the first tracks written/composed for this album. maybe it was even a layover from the &#8220;Load&#8221; albums? Therefore, <a href="/drop-d-vs-drop-c-whats-the-difference/" data-lasso-id="69695">it was in Drop D</a>, half a step down. Strangely enough, this is the only song in this tuning on the whole album!</p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p>The late 90&#8217;s and early 2000&#8217;s saw the rise of &#8220;Nu-Metal&#8221;. This new style had a huge impact on the Metal community. Around this time you saw bands like<strong> Korn</strong>, who were tuning down to A standard, which is <em>incredibly low</em>. Now Metallica had not made many missteps in the career at this point (My opinion). <a href="https://www.electrikjam.com/every-time-i-die-guitar-tunings/" data-lasso-id="3079">They had stuck to the famous Metallica guitar tunings</a>, and their usual formula for writing a song.</p>
+<p>The late 90&#8217;s and early 2000&#8217;s saw the rise of &#8220;Nu-Metal&#8221;. This new style had a huge impact on the Metal community. Around this time you saw bands like<strong> Korn</strong>, who were tuning down to A standard, which is <em>incredibly low</em>. Now Metallica had not made many missteps in the career at this point (My opinion). <a href="/every-time-i-die-guitar-tunings/" data-lasso-id="3079">They had stuck to the famous Metallica guitar tunings</a>, and their usual formula for writing a song.</p>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<p>What should have been the heaviest album of all for Metallica, was badly produced and widely panned. They also decided to affix the trend of eliminating <a href="https://www.electrikjam.com/the-7-best-guitar-solos-of-all-time/" data-lasso-id="77655">guitar solos</a> from the songs. Fans of the band almost always list this album as their least favorite. I can understand why, but I applaud the band for trying something new.<em> It just did not work.</em></p>
+<p>What should have been the heaviest album of all for Metallica, was badly produced and widely panned. They also decided to affix the trend of eliminating <a href="/the-7-best-guitar-solos-of-all-time/" data-lasso-id="77655">guitar solos</a> from the songs. Fans of the band almost always list this album as their least favorite. I can understand why, but I applaud the band for trying something new.<em> It just did not work.</em></p>
 
 
 
@@ -223,11 +223,11 @@ seo:
 
 
 
-<p>Only two songs are in this tuning. One is from the &#8220;St. Anger&#8221; sessions. I do not know the story behind these two tracks at all, unfortunately! What I do know, is that <a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="1379"><strong><span style="color: #9b51e0;" class="ugb-highlight">ESP Guitars</span></strong></a> sent James and Kirk a few 7 string guitars when the band decided to try out new tunings.</p>
+<p>Only two songs are in this tuning. One is from the &#8220;St. Anger&#8221; sessions. I do not know the story behind these two tracks at all, unfortunately! What I do know, is that <a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="1379"><strong><span style="color: #9b51e0;" class="ugb-highlight">ESP Guitars</span></strong></a> sent James and Kirk a few 7 string guitars when the band decided to try out new tunings.</p>
 
 
 
-<p>If they were using a <a href="https://www.electrikjam.com/the-top-5-extended-range-guitars-for-2021-going-low/" class="rank-math-link" data-lasso-id="1380"><strong><span style="color: #9b51e0;" class="ugb-highlight">7 string guitar tuned half a step down</span></strong></a>, then it would make sense how these songs came to be. personally, I would have loved to hear a Metallica album with <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="1381">7 string guitars</a>! But I suppose this is probably just a fluke when it comes to Metallica guitar tunings.</p>
+<p>If they were using a <a href="/the-top-5-extended-range-guitars-for-2021-going-low/" class="rank-math-link" data-lasso-id="1380"><strong><span style="color: #9b51e0;" class="ugb-highlight">7 string guitar tuned half a step down</span></strong></a>, then it would make sense how these songs came to be. personally, I would have loved to hear a Metallica album with <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="1381">7 string guitars</a>! But I suppose this is probably just a fluke when it comes to Metallica guitar tunings.</p>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<p>&#8220;Ride The Lightning&#8221; was recorded/produced/mastered in a hurry. The band had been touring non-stop around Europe. This album was rushed to say the least, when it came to <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1382">production</a>. And if you remember what I said in the beginning of this article, Metallica was doing<em> almost everything</em> on their own.</p>
+<p>&#8220;Ride The Lightning&#8221; was recorded/produced/mastered in a hurry. The band had been touring non-stop around Europe. This album was rushed to say the least, when it came to <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1382">production</a>. And if you remember what I said in the beginning of this article, Metallica was doing<em> almost everything</em> on their own.</p>
 
 
 

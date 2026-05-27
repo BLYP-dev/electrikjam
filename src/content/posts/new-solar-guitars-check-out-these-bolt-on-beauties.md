@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>The New Solar Bolt On Series is a grand take on the originals, released just over a year ago. I somehow completely missed these gorgeous instruments when talking about<a href="https://www.electrikjam.com/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="461"> the best guitars for metal.</a> Looking back, I almost feel embarrassed.</p>
+<p>The New Solar Bolt On Series is a grand take on the originals, released just over a year ago. I somehow completely missed these gorgeous instruments when talking about<a href="/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="461"> the best guitars for metal.</a> Looking back, I almost feel embarrassed.</p>
 
 
 
@@ -72,11 +72,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Roasted Maple Necks/Fretboards</strong></li><li><strong>Alder Body</strong></li><li><strong>Bolt On Neck</strong></li><li><strong>12th Fret Solar Logo</strong></li><li><strong>Stainless Steel Frets</strong></li><li><strong>Super Jumbo Frets</strong></li><li><strong>Graphite Nut</strong></li><li><strong>Seymour Duncan Solar </strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="462">Single Coil and Humbucker</a></li><li><strong>Luminlay Glowing Side Dots</strong></li><li><strong>25.5 Scale</strong></li><li><strong>Locking Tuners</strong></li><li><strong>Choice of Floyd Rose 1000, Evertune, or Fixed Bridge</strong></li><li><strong>Several Color Options</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Roasted Maple Necks/Fretboards</strong></li><li><strong>Alder Body</strong></li><li><strong>Bolt On Neck</strong></li><li><strong>12th Fret Solar Logo</strong></li><li><strong>Stainless Steel Frets</strong></li><li><strong>Super Jumbo Frets</strong></li><li><strong>Graphite Nut</strong></li><li><strong>Seymour Duncan Solar </strong><a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="462">Single Coil and Humbucker</a></li><li><strong>Luminlay Glowing Side Dots</strong></li><li><strong>25.5 Scale</strong></li><li><strong>Locking Tuners</strong></li><li><strong>Choice of Floyd Rose 1000, Evertune, or Fixed Bridge</strong></li><li><strong>Several Color Options</strong></li></ul>
 
 
 
-<p>It&#8217;s pretty clear that Solar wanted these to be full-featured models with pro specs. This is a pretty rare case, seeing so many premium features on a guitar model that sits right around the $1000 price point. But this past year has been pretty competitive, with Schecter and <a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="463">Epiphone</a> absolutely slaying the competition.</p>
+<p>It&#8217;s pretty clear that Solar wanted these to be full-featured models with pro specs. This is a pretty rare case, seeing so many premium features on a guitar model that sits right around the $1000 price point. But this past year has been pretty competitive, with Schecter and <a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="463">Epiphone</a> absolutely slaying the competition.</p>
 
 
 
@@ -92,15 +92,15 @@ seo:
 
 
 
-<p>For gigging guitarists, Luminlay side dots can save you on a dark stage. There is nothing worse than trying to <a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-lasso-id="464">navigate the fretboard</a> in a dark setting, where the lighting is either non-existent or the lighting guy just plain hates you. They charge like glow-in-the-dark stickers, and the charge lasts for hours.</p>
+<p>For gigging guitarists, Luminlay side dots can save you on a dark stage. There is nothing worse than trying to <a href="/how-to-find-fretboard-notes-guitar/" data-lasso-id="464">navigate the fretboard</a> in a dark setting, where the lighting is either non-existent or the lighting guy just plain hates you. They charge like glow-in-the-dark stickers, and the charge lasts for hours.</p>
 
 
 
-<p>Roasted Maple necks have been a big trend this year also. For mainstream <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="465">guitar companies like Fender</a>, roasted maple is usually only found on much more expensive models. I think it is nice aesthetic touch, and stands out as being different and unique. This process also makes the neck more stable. Does it affect the sound? I will leave that up to you.</p>
+<p>Roasted Maple necks have been a big trend this year also. For mainstream <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="465">guitar companies like Fender</a>, roasted maple is usually only found on much more expensive models. I think it is nice aesthetic touch, and stands out as being different and unique. This process also makes the neck more stable. Does it affect the sound? I will leave that up to you.</p>
 
 
 
-<p>Then there is the Evertune Bridge. This can be a point of contention for many guitarists. The promise of a bridge that will never go out of tune, regardless the conditions creates a love/hate situation for a lot of people. If you play in one tuning, and rarely switch, I think the Evertune can be a lifesaver. I have yet to try one, but it seems very appealing to me for studio work. I usually only play in <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142231">standard tuning</a>.</p>
+<p>Then there is the Evertune Bridge. This can be a point of contention for many guitarists. The promise of a bridge that will never go out of tune, regardless the conditions creates a love/hate situation for a lot of people. If you play in one tuning, and rarely switch, I think the Evertune can be a lifesaver. I have yet to try one, but it seems very appealing to me for studio work. I usually only play in <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142231">standard tuning</a>.</p>
 
 
 
@@ -124,11 +124,11 @@ seo:
 
 
 
-<p><strong>AB1.6FRCAR</strong>: Another six string model. This model comes with a <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167821">Floyd Rose 1000 bridge</a>. The finish is Candy Apple Red.</p>
+<p><strong>AB1.6FRCAR</strong>: Another six string model. This model comes with a <a href="/floyd-rose-bridge-explained/" data-lasso-id="167821">Floyd Rose 1000 bridge</a>. The finish is Candy Apple Red.</p>
 
 
 
-<p><strong>AB1.7BOP Artist Model</strong>: This is a seven string variant, with the highest specs. <a href="https://www.electrikjam.com/the-top-5-guitars-evertune-bridge/" data-lasso-id="466">This model comes with an Evertune Bridge</a>, Volume only controls, and a &#8220;open pore&#8221; finish. This is the nicest of all the new Solar guitars. The artist editions are limited in quantity.</p>
+<p><strong>AB1.7BOP Artist Model</strong>: This is a seven string variant, with the highest specs. <a href="/the-top-5-guitars-evertune-bridge/" data-lasso-id="466">This model comes with an Evertune Bridge</a>, Volume only controls, and a &#8220;open pore&#8221; finish. This is the nicest of all the new Solar guitars. The artist editions are limited in quantity.</p>
 
 
 

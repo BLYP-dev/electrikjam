@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>By the end of this guide, you&#8217;ll have a solid understanding of DADGAD tuning and how it compares to standard guitar tuning. <strong><a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" target="_blank" data-type="post" data-id="12148" rel="noopener" data-lasso-id="238704">Sometimes using a capo</a></strong> or changing tuning can put you at an advantage when you are writing riffs.</p>
+<p>By the end of this guide, you&#8217;ll have a solid understanding of DADGAD tuning and how it compares to standard guitar tuning. <strong><a href="/using-a-capo-a-comprehensive-guide/" target="_blank" data-type="post" data-id="12148" rel="noopener" data-lasso-id="238704">Sometimes using a capo</a></strong> or changing tuning can put you at an advantage when you are writing riffs.</p>
 
 
 
@@ -166,11 +166,11 @@ seo:
 
 
 
-<p>Once you&#8217;ve completed these steps, your guitar should be in DADGAD tuning! You will notice that <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251762">traditional chord shapes</a> do not work very well, but we will cover that as well. If you do a little bit of experimenting, you will start to <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251805">understand how the chords work</a>.</p>
+<p>Once you&#8217;ve completed these steps, your guitar should be in DADGAD tuning! You will notice that <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251762">traditional chord shapes</a> do not work very well, but we will cover that as well. If you do a little bit of experimenting, you will start to <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251805">understand how the chords work</a>.</p>
 
 
 
-<p>The bottom two strings<strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" target="_blank" rel="noopener" data-lasso-id="237946"> work just like Drop D tuning</a></strong>, so that is a good place to start to wrap your head around how DADGAD tuning works. But the rest of the strings will work with different shapes, and that is what makes this so much fun!</p>
+<p>The bottom two strings<strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" target="_blank" rel="noopener" data-lasso-id="237946"> work just like Drop D tuning</a></strong>, so that is a good place to start to wrap your head around how DADGAD tuning works. But the rest of the strings will work with different shapes, and that is what makes this so much fun!</p>
 
 
 
@@ -214,7 +214,7 @@ seo:
 
 
 
-<p>You can most certainly use DADGAD tuning with a capo, especially if you want to transpose the key of a song. The capo acts like a <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246512">&#8220;movable nut&#8221;</a> for your guitar. So if you wanted a song to be in the key of E, simply move the capo to the second fret.</p>
+<p>You can most certainly use DADGAD tuning with a capo, especially if you want to transpose the key of a song. The capo acts like a <a href="/parts-of-an-electric-guitar/" data-lasso-id="246512">&#8220;movable nut&#8221;</a> for your guitar. So if you wanted a song to be in the key of E, simply move the capo to the second fret.</p>
 
 
 
@@ -263,39 +263,39 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" target="_blank" data-type="post" data-id="5202" rel="noopener" data-lasso-id="237976">Drop D Tuning For Beginners</a></strong></li>
+<li><strong><a href="/drop-d-tuning-guitar-guide/" target="_blank" data-type="post" data-id="5202" rel="noopener" data-lasso-id="237976">Drop D Tuning For Beginners</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/drop-d-vs-drop-c-whats-the-difference/" target="_blank" data-type="post" data-id="6745" rel="noopener" data-lasso-id="237977">The Difference Between Drop D and Drop C</a></strong></li>
+<li><strong><a href="/drop-d-vs-drop-c-whats-the-difference/" target="_blank" data-type="post" data-id="6745" rel="noopener" data-lasso-id="237977">The Difference Between Drop D and Drop C</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/open-g-tuning-explained/" target="_blank" data-type="post" data-id="11687" rel="noopener" data-lasso-id="237978">Open G Tuning: How It Works</a></strong></li>
+<li><strong><a href="/open-g-tuning-explained/" target="_blank" data-type="post" data-id="11687" rel="noopener" data-lasso-id="237978">Open G Tuning: How It Works</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" target="_blank" data-type="post" data-id="11231" rel="noopener" data-lasso-id="237979">Standard Guitar Tuning Explained</a></strong></li>
+<li><strong><a href="/standard-tuning-guitar-explained-history/" target="_blank" data-type="post" data-id="11231" rel="noopener" data-lasso-id="237979">Standard Guitar Tuning Explained</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" target="_blank" data-type="post" data-id="10787" rel="noopener" data-lasso-id="237980">E Flat Tuning: Why Jimi Hendrix Used It</a></strong></li>
+<li><strong><a href="/why-did-hendrix-play-in-e-flat-tuning/" target="_blank" data-type="post" data-id="10787" rel="noopener" data-lasso-id="237980">E Flat Tuning: Why Jimi Hendrix Used It</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/baritone-guitar-tuning-guide/" target="_blank" data-type="post" data-id="11702" rel="noopener" data-lasso-id="237981">Baritone Guitar Tuning: Going LOW</a></strong></li>
+<li><strong><a href="/baritone-guitar-tuning-guide/" target="_blank" data-type="post" data-id="11702" rel="noopener" data-lasso-id="237981">Baritone Guitar Tuning: Going LOW</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" target="_blank" data-type="post" data-id="8536" rel="noopener" data-lasso-id="237982">10 Metal Bands That Play In Standard Tuning</a></strong></li>
+<li><strong><a href="/10-metal-bands-that-play-in-standard-tuning/" target="_blank" data-type="post" data-id="8536" rel="noopener" data-lasso-id="237982">10 Metal Bands That Play In Standard Tuning</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" target="_blank" data-type="post" data-id="3692" rel="noopener" data-lasso-id="237983">D Standard Tuning: How It Works</a></strong></li>
+<li><strong><a href="/d-standard-tuning-guide-how-to/" target="_blank" data-type="post" data-id="3692" rel="noopener" data-lasso-id="237983">D Standard Tuning: How It Works</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" target="_blank" data-type="post" data-id="5246" rel="noopener" data-lasso-id="237984">The Most Common Guitar Tunings In Rock Music</a></strong></li>
+<li><strong><a href="/most-common-guitar-tunings/" target="_blank" data-type="post" data-id="5246" rel="noopener" data-lasso-id="237984">The Most Common Guitar Tunings In Rock Music</a></strong></li>
 </ul>
 
 

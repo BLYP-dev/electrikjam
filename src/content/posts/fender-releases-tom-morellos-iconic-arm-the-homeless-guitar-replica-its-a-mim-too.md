@@ -84,7 +84,7 @@ seo:
 
 
 
-<p>Me? I&#8217;d take a <strong><a href="https://www.electrikjam.com/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" data-type="post" data-id="18174">Fender American Ultra 2 Stratocaster</a> </strong>over one of these every day of the week and twice on a Sunday. </p>
+<p>Me? I&#8217;d take a <strong><a href="/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" data-type="post" data-id="18174">Fender American Ultra 2 Stratocaster</a> </strong>over one of these every day of the week and twice on a Sunday. </p>
 
 
 

@@ -46,11 +46,11 @@ seo:
 
 
 
-<p>Being a Schecter player, I lurk on <em>all of the forums</em>. The<a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="199511"> </a><strong><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="199512">Nick Johnston Models</a> </strong>were a huge surprise to everyone in the community. Not only were these some fantastic guitars, I think a lot of us became fans of Nick&#8217;s music through this guitar. I know I did!</p>
+<p>Being a Schecter player, I lurk on <em>all of the forums</em>. The<a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="199511"> </a><strong><a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="199512">Nick Johnston Models</a> </strong>were a huge surprise to everyone in the community. Not only were these some fantastic guitars, I think a lot of us became fans of Nick&#8217;s music through this guitar. I know I did!</p>
 
 
 
-<p><a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247840">Schecter Guitars</a> has a huge roster of Artists, both big and small. <em>All kinds</em> of people have played Schecter guitars on stage and when it comes to the PT models, <strong>Eddie Vedder </strong>is a big fan apparently. But the PT models were originally made for<strong> Pete Townsend</strong>, sort of.</p>
+<p><a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247840">Schecter Guitars</a> has a huge roster of Artists, both big and small. <em>All kinds</em> of people have played Schecter guitars on stage and when it comes to the PT models, <strong>Eddie Vedder </strong>is a big fan apparently. But the PT models were originally made for<strong> Pete Townsend</strong>, sort of.</p>
 
 
 
@@ -58,7 +58,7 @@ seo:
 
 
 
-<p>The PT has not been the best-selling <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231845">model when it comes to Schecter</a> guitars. The new Nick Johnston PT Models are an effort to fix that. Even the massively versatile PT PRO models rarely sell very well. This seems strange, since the PT is the antithesis of your usual Tele.</p>
+<p>The PT has not been the best-selling <a href="/schecter-mv-6-review/" data-lasso-id="231845">model when it comes to Schecter</a> guitars. The new Nick Johnston PT Models are an effort to fix that. Even the massively versatile PT PRO models rarely sell very well. This seems strange, since the PT is the antithesis of your usual Tele.</p>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<p>The Schecter Machine Gun Kelly PT has a lot of upgraded features that Schecter is known for lately. You get just about every upgrade that<em> you can possibly imagine</em>. There is also beauty in simplicity, with a single volume knob/single humbucker for the control layout. Hey, it was good enough for <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="199513"><strong>EVH</strong></a>.</p>
+<p>The Schecter Machine Gun Kelly PT has a lot of upgraded features that Schecter is known for lately. You get just about every upgrade that<em> you can possibly imagine</em>. There is also beauty in simplicity, with a single volume knob/single humbucker for the control layout. Hey, it was good enough for <a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="199513"><strong>EVH</strong></a>.</p>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p><strong>Out of the box</strong> the setup was great, as usual with<a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="199515"> <strong>Schecter Guitars</strong></a>. The neck was pretty straight, and the intonation was dead on. Both models I tried had a perfectly cut nut as well. The fretwork is also the usual Schecter quality, and the pink model had a couple of sharp fret ends. It is Fall, and the humidity has dropped, so that is to be expected.</p>
+<p><strong>Out of the box</strong> the setup was great, as usual with<a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="199515"> <strong>Schecter Guitars</strong></a>. The neck was pretty straight, and the intonation was dead on. Both models I tried had a perfectly cut nut as well. The fretwork is also the usual Schecter quality, and the pink model had a couple of sharp fret ends. It is Fall, and the humidity has dropped, so that is to be expected.</p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p><strong>The Neck</strong> is one of my favorite Schecter necks next to the <a href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener" data-lasso-id="199516"><strong>Nick Johnston</strong></a> models. They have a similar feel, being nice and flat (14&#8221; Radius). But the back has the &#8220;Thin C&#8221; profile that actually <em>feels</em> like a C shape and not a D shape. The NJ models are vey similar, and while they make look like a &#8220;traditional&#8221; shape, these necks play <em>much faster</em> than a Tele.</p>
+<p><strong>The Neck</strong> is one of my favorite Schecter necks next to the <a href="/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener" data-lasso-id="199516"><strong>Nick Johnston</strong></a> models. They have a similar feel, being nice and flat (14&#8221; Radius). But the back has the &#8220;Thin C&#8221; profile that actually <em>feels</em> like a C shape and not a D shape. The NJ models are vey similar, and while they make look like a &#8220;traditional&#8221; shape, these necks play <em>much faster</em> than a Tele.</p>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<p>Schecter is a company that offers a lot of different guitars for different types of players. I am looking at my rack here in the studio, and I have a lot of &#8220;classic&#8221; bases covered with my Schecter guitars. But I also have some dripping in abalone with a<a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="199517"> <strong>Floyd Rose</strong></a>. Schecter has been trying to shed the &#8220;Metal guitar&#8221; image for a few years now, and be more well-rounded.</p>
+<p>Schecter is a company that offers a lot of different guitars for different types of players. I am looking at my rack here in the studio, and I have a lot of &#8220;classic&#8221; bases covered with my Schecter guitars. But I also have some dripping in abalone with a<a href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="199517"> <strong>Floyd Rose</strong></a>. Schecter has been trying to shed the &#8220;Metal guitar&#8221; image for a few years now, and be more well-rounded.</p>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<p><strong>If you want to be mad at Schecter for an artist guitar that is undeserving, check out the</strong> <strong><a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-type="post" data-id="9870" target="_blank" rel="noopener" data-lasso-id="199518">Jack Fowler traditional model</a>.</strong> Not only is it literally just a NJ with humbuckers, I don&#8217;t think Jack is <em>even promoting</em> the guitar. I know I couldn&#8217;t find anything about him using them online, and he is no longer active with his band. Is Jack doing on-the-road clinics like Nick to promote the guitar? </p>
+<p><strong>If you want to be mad at Schecter for an artist guitar that is undeserving, check out the</strong> <strong><a href="/schecter-jack-fowler-traditional-review/" data-type="post" data-id="9870" target="_blank" rel="noopener" data-lasso-id="199518">Jack Fowler traditional model</a>.</strong> Not only is it literally just a NJ with humbuckers, I don&#8217;t think Jack is <em>even promoting</em> the guitar. I know I couldn&#8217;t find anything about him using them online, and he is no longer active with his band. Is Jack doing on-the-road clinics like Nick to promote the guitar? </p>
 
 
 

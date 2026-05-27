@@ -42,19 +42,19 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="1941">Gibson guitars</a></strong>, from the iconic Les Paul to its SG, are well-known, instantly recognizable guitars that are used (and have been used) by some of the best guitarists of all time.</p>
+<p><strong><a href="/gibson-guitars/" data-lasso-id="1941">Gibson guitars</a></strong>, from the iconic Les Paul to its SG, are well-known, instantly recognizable guitars that are used (and have been used) by some of the best guitarists of all time.</p>
 
 
 
-<p>Everybody from <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1207">Buzz Osbourne to Jimmy Page</a></strong> has used Gibson guitars (usually Les Pauls). But what if you cannot afford a Gibson? Most people buy an Epiphone. </p>
+<p>Everybody from <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1207">Buzz Osbourne to Jimmy Page</a></strong> has used Gibson guitars (usually Les Pauls). But what if you cannot afford a Gibson? Most people buy an Epiphone. </p>
 
 
 
-<p>They buy Epiphone because Epiphone guitars – most notably its <a data-lasso-id="1208" href="https://www.electrikjam.com/types-of-guitars-guide/">Les Paul and SG models</a> – are pretty much as good as Gibson&#8217;s these days. <meta charset="utf-8">Just A LOT cheaper. </p>
+<p>They buy Epiphone because Epiphone guitars – most notably its <a data-lasso-id="1208" href="/types-of-guitars-guide/">Les Paul and SG models</a> – are pretty much as good as Gibson&#8217;s these days. <meta charset="utf-8">Just A LOT cheaper. </p>
 
 
 
-<p>And that is why plenty of professional players, guys like <strong><a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" data-type="post" data-id="4089" data-lasso-id="6382">Matt Heafy of Trivium</a></strong>, use Epiphone. </p>
+<p>And that is why plenty of professional players, guys like <strong><a href="/matt-heafy-epiphone-mkh-origins-les-paul/" data-type="post" data-id="4089" data-lasso-id="6382">Matt Heafy of Trivium</a></strong>, use Epiphone. </p>
 
 
 
@@ -66,7 +66,7 @@ seo:
 
 
 
-<p>Chibson – which means “Chinese Gibson” –&nbsp;is a Chinese guitar company that essentially makes carbon copies of <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link" data-lasso-id="1209">iconic Gibson guitars like the Les Paul Custom</a></strong>.</p>
+<p>Chibson – which means “Chinese Gibson” –&nbsp;is a Chinese guitar company that essentially makes carbon copies of <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link" data-lasso-id="1209">iconic Gibson guitars like the Les Paul Custom</a></strong>.</p>
 
 
 
@@ -74,19 +74,19 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="743" src="/wp-content/uploads/2021/04/Chibson-Guitars-1024x743.png" alt="" class="wp-image-2747" title="" srcset="/wp-content/uploads/2021/04/Chibson-Guitars-1024x743.png 1024w, /wp-content/uploads/2021/04/Chibson-Guitars-600x435.png 600w, /wp-content/uploads/2021/04/Chibson-Guitars-300x218.png 300w, /wp-content/uploads/2021/04/Chibson-Guitars-768x557.png 768w, /wp-content/uploads/2021/04/Chibson-Guitars-1536x1115.png 1536w, /wp-content/uploads/2021/04/Chibson-Guitars-1080x784.png 1080w, /wp-content/uploads/2021/04/Chibson-Guitars.png 1618w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Chibson Rip Off of <a href="https://www.electrikjam.com/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="2578">Zak Wylde&#8217;s Guitar</a></strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="743" src="/wp-content/uploads/2021/04/Chibson-Guitars-1024x743.png" alt="" class="wp-image-2747" title="" srcset="/wp-content/uploads/2021/04/Chibson-Guitars-1024x743.png 1024w, /wp-content/uploads/2021/04/Chibson-Guitars-600x435.png 600w, /wp-content/uploads/2021/04/Chibson-Guitars-300x218.png 300w, /wp-content/uploads/2021/04/Chibson-Guitars-768x557.png 768w, /wp-content/uploads/2021/04/Chibson-Guitars-1536x1115.png 1536w, /wp-content/uploads/2021/04/Chibson-Guitars-1080x784.png 1080w, /wp-content/uploads/2021/04/Chibson-Guitars.png 1618w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Chibson Rip Off of <a href="/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="2578">Zak Wylde&#8217;s Guitar</a></strong></figcaption></figure></div>
 
 
 
-<p>How much less? <strong>You can get a Gibson <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4664">Les Paul clone</a> for about $170</strong>, and it will be based more or less exactly on the exact styling, shape, and form of the Les Paul Custom.</p>
+<p>How much less? <strong>You can get a Gibson <a href="/best-les-paul-copy/" data-lasso-id="4664">Les Paul clone</a> for about $170</strong>, and it will be based more or less exactly on the exact styling, shape, and form of the Les Paul Custom.</p>
 
 
 
-<p>I know what you’re thinking –&nbsp;how is this possible? If you can <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17477">buy a knock-off Gibson Les Paul</a> Custom for less than $200, why aren’t more people doing it?</p>
+<p>I know what you’re thinking –&nbsp;how is this possible? If you can <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17477">buy a knock-off Gibson Les Paul</a> Custom for less than $200, why aren’t more people doing it?</p>
 
 
 
-<p>The main reason for this is that they suck. Also, from an ethical perspective, it really isn’t particularly commendable. Chibson is stealing <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195400">Gibson’s Les Paul IP</a> –&nbsp;there’s no way around this.</p>
+<p>The main reason for this is that they suck. Also, from an ethical perspective, it really isn’t particularly commendable. Chibson is stealing <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195400">Gibson’s Les Paul IP</a> –&nbsp;there’s no way around this.</p>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<p>And China’s factories have access to nearly all the schematics and designs for everything from iPhones to <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="1210">electric guitars</a>. </p>
+<p>And China’s factories have access to nearly all the schematics and designs for everything from iPhones to <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="1210">electric guitars</a>. </p>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<p>China doesn’t care about IP law, nothing is sacred in its manufacturing universe. And this applies to phones, tablets, trainers, glasses, and, yes, even <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216552">electric guitars</a>.</p>
+<p>China doesn’t care about IP law, nothing is sacred in its manufacturing universe. And this applies to phones, tablets, trainers, glasses, and, yes, even <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216552">electric guitars</a>.</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>One of the Chibson’s most unique things, however, is that it will let you design your guitar from the ground-up. You can <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246480">pick the color, the finish, the wood types</a>, the pickups, even the design that goes on the headstock.</p>
+<p>One of the Chibson’s most unique things, however, is that it will let you design your guitar from the ground-up. You can <a href="/parts-of-an-electric-guitar/" data-lasso-id="246480">pick the color, the finish, the wood types</a>, the pickups, even the design that goes on the headstock.</p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<p>Why? <a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1211">Cheap components</a> and poor workmanship combined. Put these two things together and you have a recipe for disaster when you’re talking about electric guitars.</p>
+<p>Why? <a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1211">Cheap components</a> and poor workmanship combined. Put these two things together and you have a recipe for disaster when you’re talking about electric guitars.</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p>To the untrained eye, it might actually be pretty hard to spot a Chibson. The main reason for this is that you can request that your Chibson guitar has the same headstock design as <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link" data-lasso-id="1212">a proper Les Paul Custom or Standard.</a></strong></p>
+<p>To the untrained eye, it might actually be pretty hard to spot a Chibson. The main reason for this is that you can request that your Chibson guitar has the same headstock design as <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link" data-lasso-id="1212">a proper Les Paul Custom or Standard.</a></strong></p>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<p>The weight will feel off, the guitar less balanced. And then there’s the components and little tell signs that what you are holding is not a <strong><a href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" class="rank-math-link" data-lasso-id="1213">$2000 Gibson Les Paul Custom</a></strong>.</p>
+<p>The weight will feel off, the guitar less balanced. And then there’s the components and little tell signs that what you are holding is not a <strong><a href="/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" class="rank-math-link" data-lasso-id="1213">$2000 Gibson Les Paul Custom</a></strong>.</p>
 
 
 
@@ -236,11 +236,11 @@ seo:
 
 
 
-<p>Instead, if you cannot afford a Gibson Les Paul, <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="1215">go and get yourself an Epiphone Les Paul instead</a></strong> –&nbsp;they’re infinitely cheaper and, in most cases, just as good.</p>
+<p>Instead, if you cannot afford a Gibson Les Paul, <strong><a href="/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="1215">go and get yourself an Epiphone Les Paul instead</a></strong> –&nbsp;they’re infinitely cheaper and, in most cases, just as good.</p>
 
 
 
-<p><strong><a class="rank-math-link" data-lasso-id="1216" href="https://www.electrikjam.com/recommends/epiphone-les-paul-classic/">My personal favorite right now would be this one</a></strong> – I’ve had one for 12 months and it plays until anything else in my collection. For tone, playability, and overall spec, it is as good as a <a data-lasso-id="1217" href="https://www.electrikjam.com/jimmy-page-favorite-guitar/">Gibson Les Paul Standard</a> in my book.</p>
+<p><strong><a class="rank-math-link" data-lasso-id="1216" href="/recommends/epiphone-les-paul-classic/">My personal favorite right now would be this one</a></strong> – I’ve had one for 12 months and it plays until anything else in my collection. For tone, playability, and overall spec, it is as good as a <a data-lasso-id="1217" href="/jimmy-page-favorite-guitar/">Gibson Les Paul Standard</a> in my book.</p>
 
 
 

@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>Formed out of the ashes of <a href="https://www.electrikjam.com/how-to-souond-like-kyuss/" data-lasso-id="90400">Homme’s first band, KYUSS</a>, Queens of The Stone Age first began working in 1995. The band’s first record, on which Homme played everything apart from drums, dropped in 1998. This was the band’s self-titled record, <strong><em>Queens of The Stone Age.</em></strong></p>
+<p>Formed out of the ashes of <a href="/how-to-souond-like-kyuss/" data-lasso-id="90400">Homme’s first band, KYUSS</a>, Queens of The Stone Age first began working in 1995. The band’s first record, on which Homme played everything apart from drums, dropped in 1998. This was the band’s self-titled record, <strong><em>Queens of The Stone Age.</em></strong></p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p>After this came the now-seminal record <strong><em>Rated R</em></strong> in 2000. This record, for me at least, was what really put <a href="https://www.electrikjam.com/what-pickups-does-josh-homme-use/" data-lasso-id="88451">Josh Homme and QOTSA</a> on the map. The songwriting was outstanding, thanks in no small part to Nick Oliveri joining the band, and the production was notably higher than on the band’s 1998 self-titled debut.</p>
+<p>After this came the now-seminal record <strong><em>Rated R</em></strong> in 2000. This record, for me at least, was what really put <a href="/what-pickups-does-josh-homme-use/" data-lasso-id="88451">Josh Homme and QOTSA</a> on the map. The songwriting was outstanding, thanks in no small part to Nick Oliveri joining the band, and the production was notably higher than on the band’s 1998 self-titled debut.</p>
 
 
 
@@ -81,7 +81,7 @@ seo:
 		
 
 
-<p>I cannot think of many bands – save for <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="84774">Pantera, Metallica, and maybe Slayer</a></strong> – that had quite as good a start to their respective musical careers as Queens. Its first three albums were brilliant, unique, engaging and unlike anything else on the market at the time, cementing Homme as a titan of the rock scene.</p>
+<p>I cannot think of many bands – save for <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="84774">Pantera, Metallica, and maybe Slayer</a></strong> – that had quite as good a start to their respective musical careers as Queens. Its first three albums were brilliant, unique, engaging and unlike anything else on the market at the time, cementing Homme as a titan of the rock scene.</p>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 
-<p>Homme has a family, is going through an ongoing custody battle was his ex-wife, Brody Dalle, and this will obviously take a toll on his creative output and focus on Queens of The Stone Age. Add in the recent death of long-time QOTSA collaborator and close friend, Mark Lanegan, and it is easy to understand why <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="84776">Homme</a></strong> is moving away from long-lasting, world-spanning touring duties.</p>
+<p>Homme has a family, is going through an ongoing custody battle was his ex-wife, Brody Dalle, and this will obviously take a toll on his creative output and focus on Queens of The Stone Age. Add in the recent death of long-time QOTSA collaborator and close friend, Mark Lanegan, and it is easy to understand why <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="84776">Homme</a></strong> is moving away from long-lasting, world-spanning touring duties.</p>
 
 
 
@@ -117,11 +117,11 @@ seo:
 
 
 
-<p><strong>Homme hasn’t said there won’t be a new Queens of The Stone Age album and <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="84777">Billy Gibbons</a> HAS said he has been working with Homme on a new album, so there is definitely plenty of hope for a new Queens of The Stone Age album in either late-2022 or early 2023. The difference with this one, however, will be that Homme will not be doing extensive touring to support it.</strong></p>
+<p><strong>Homme hasn’t said there won’t be a new Queens of The Stone Age album and <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="84777">Billy Gibbons</a> HAS said he has been working with Homme on a new album, so there is definitely plenty of hope for a new Queens of The Stone Age album in either late-2022 or early 2023. The difference with this one, however, will be that Homme will not be doing extensive touring to support it.</strong></p>
 
 
 
-<p>Back in 2007, Homme discussed the idea of using other forms of media to support albums – kind of like what NIN does. He has also expressed interest in working as a film score composer, again, like Trent Reznor. Homme is also a renowned producer and has side projects as well – The Desert Sessions, Eagles of Death Metal, and <a href="https://www.electrikjam.com/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91576">Them Crooked Vultures</a>.</p>
+<p>Back in 2007, Homme discussed the idea of using other forms of media to support albums – kind of like what NIN does. He has also expressed interest in working as a film score composer, again, like Trent Reznor. Homme is also a renowned producer and has side projects as well – The Desert Sessions, Eagles of Death Metal, and <a href="/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91576">Them Crooked Vultures</a>.</p>
 
 
 

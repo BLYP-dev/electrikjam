@@ -403,7 +403,7 @@ seo:
 
 
 
-<p>But it really needn’t be –&nbsp;not if you know some quick, simple chord progressions like the five <strong><a data-lasso-id="218915" href="https://www.electrikjam.com/most-commonly-used-chord-progressions-rock-music/" data-type="post" data-id="11079">most commonly used chord progressions in rock</a></strong> music, for instance.</p>
+<p>But it really needn’t be –&nbsp;not if you know some quick, simple chord progressions like the five <strong><a data-lasso-id="218915" href="/most-commonly-used-chord-progressions-rock-music/" data-type="post" data-id="11079">most commonly used chord progressions in rock</a></strong> music, for instance.</p>
 
 
 
@@ -419,15 +419,15 @@ seo:
 
 
 
-<p>And if that sounds too simple, too good to be true, I have news for you: <strong><a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238702">writing songs</a> is actually really simple</strong> –&nbsp;most classic songs are basically three or four chords.</p>
+<p>And if that sounds too simple, too good to be true, I have news for you: <strong><a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238702">writing songs</a> is actually really simple</strong> –&nbsp;most classic songs are basically three or four chords.</p>
 
 
 
-<p>In fact, <strong><a data-lasso-id="250195" href="https://www.electrikjam.com/guitar-chord-progressions-guide/">learning some classic chord progressions</a></strong>, committing them to memory, and understanding how they work, is one of the fastest ways to not only improve your playing and sound ten times better, but it will also help you to better understand how songs –&nbsp;million-selling hit songs –&nbsp;are actually put together. </p>
+<p>In fact, <strong><a data-lasso-id="250195" href="/guitar-chord-progressions-guide/">learning some classic chord progressions</a></strong>, committing them to memory, and understanding how they work, is one of the fastest ways to not only improve your playing and sound ten times better, but it will also help you to better understand how songs –&nbsp;million-selling hit songs –&nbsp;are actually put together. </p>
 
 
 
-<p>And when you know how to do that and you can record yourself, you can progress on to <strong><a data-lasso-id="266293" href="https://www.electrikjam.com/mastering-101-beginners-guide/" data-type="page" data-id="14680">learning how to master your own music</a></strong> so that it sounds professional.</p>
+<p>And when you know how to do that and you can record yourself, you can progress on to <strong><a data-lasso-id="266293" href="/mastering-101-beginners-guide/" data-type="page" data-id="14680">learning how to master your own music</a></strong> so that it sounds professional.</p>
 
 
 
@@ -557,7 +557,7 @@ seo:
 
 
 
-<p>Many songs start life as a series of open chord progressions and are then <strong><a data-lasso-id="120210" href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596">transposed into power chords</a></strong> or individual note runs for lead parts.</p>
+<p>Many songs start life as a series of open chord progressions and are then <strong><a data-lasso-id="120210" href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596">transposed into power chords</a></strong> or individual note runs for lead parts.</p>
 
 
 
@@ -833,7 +833,7 @@ seo:
 
 
 
-<p>And the best part about learning all of these progressions, or cherry-picking a few to focus on, is that you don’t need to learn any <a data-lasso-id="127897" href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/">theory –&nbsp;things like keys or modes</a>. </p>
+<p>And the best part about learning all of these progressions, or cherry-picking a few to focus on, is that you don’t need to learn any <a data-lasso-id="127897" href="/theory-for-guitarists-the-minor-scale/">theory –&nbsp;things like keys or modes</a>. </p>
 
 
 
@@ -887,7 +887,7 @@ seo:
 
 
 
-<p>And if two chords are good enough for The Boss, it’s almost certainly good enough for you too, so don’t go thinking you need to be able to play like <strong><a data-lasso-id="120211" href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103">Steve Vai</a></strong> or <strong><a data-lasso-id="120212" href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292">Tosin Abasi</a></strong> before you can start working on your own, original compositions. </p>
+<p>And if two chords are good enough for The Boss, it’s almost certainly good enough for you too, so don’t go thinking you need to be able to play like <strong><a data-lasso-id="120211" href="/guitarists-that-use-axe-fx/" data-type="post" data-id="7103">Steve Vai</a></strong> or <strong><a data-lasso-id="120212" href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292">Tosin Abasi</a></strong> before you can start working on your own, original compositions. </p>
 
 
 

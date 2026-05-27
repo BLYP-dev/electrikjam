@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>But there are <em>many</em> different versions of those scales. Which notes you play in a scale is based on the key of the song, and the<em> type of chords</em> used – also known as its <strong><a href="https://www.electrikjam.com/guitar-chord-progressions-guide/" data-lasso-id="250203">chord progression</a></strong>.</p>
+<p>But there are <em>many</em> different versions of those scales. Which notes you play in a scale is based on the key of the song, and the<em> type of chords</em> used – also known as its <strong><a href="/guitar-chord-progressions-guide/" data-lasso-id="250203">chord progression</a></strong>.</p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>However, Blues and <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251807">Pop Music is usually just a few chords</a> and it is easy to figure out. You can use the <strong>Major Scale </strong>or The <strong>Minor Pentatonic</strong> in <em>most</em> cases. What about learning scales for more complicated music?</p>
+<p>However, Blues and <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251807">Pop Music is usually just a few chords</a> and it is easy to figure out. You can use the <strong>Major Scale </strong>or The <strong>Minor Pentatonic</strong> in <em>most</em> cases. What about learning scales for more complicated music?</p>
 
 
 
@@ -135,23 +135,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" target="_blank" data-type="post" data-id="7596" rel="noopener" data-lasso-id="216517">Beginner&#8217;s Music Theory</a></strong></li>
+<li><strong><a href="/beginner-music-theory-for-guitarists/" target="_blank" data-type="post" data-id="7596" rel="noopener" data-lasso-id="216517">Beginner&#8217;s Music Theory</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" target="_blank" data-type="post" data-id="8193" rel="noopener" data-lasso-id="216518">Minor Scale And 6th Mode Explained</a></strong></li>
+<li><strong><a href="/theory-for-guitarists-the-minor-scale/" target="_blank" data-type="post" data-id="8193" rel="noopener" data-lasso-id="216518">Minor Scale And 6th Mode Explained</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/how-do-you-practice-scales/" target="_blank" data-type="post" data-id="10603" rel="noopener" data-lasso-id="216519">How Do You Practice Scales?</a></strong></li>
+<li><strong><a href="/how-do-you-practice-scales/" target="_blank" data-type="post" data-id="10603" rel="noopener" data-lasso-id="216519">How Do You Practice Scales?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" target="_blank" data-type="post" data-id="6848" rel="noopener" data-lasso-id="216520">Learn Your Fretboard!</a></strong></li>
+<li><strong><a href="/guitar-fretboard-notes-learn/" target="_blank" data-type="post" data-id="6848" rel="noopener" data-lasso-id="216520">Learn Your Fretboard!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-intervals-for-beginners/" target="_blank" data-type="post" data-id="8221" rel="noopener" data-lasso-id="216521">Learning How To Use Intervals</a></strong></li>
+<li><strong><a href="/guitar-intervals-for-beginners/" target="_blank" data-type="post" data-id="8221" rel="noopener" data-lasso-id="216521">Learning How To Use Intervals</a></strong></li>
 </ul>
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<p>No, we do not&#8230; but music is a <strong>language</strong> at the end of the day. Think about how you learned language, and how even now you probably hear new words all the time! Music is exactly the same as language, and even though I have <a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216922">played for 30 years</a>, I <strong>STILL</strong> learn new things <em>constantly</em>. <strong>So if music is language, then Scales are just different ways of making a sentence.</strong></p>
+<p>No, we do not&#8230; but music is a <strong>language</strong> at the end of the day. Think about how you learned language, and how even now you probably hear new words all the time! Music is exactly the same as language, and even though I have <a href="/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216922">played for 30 years</a>, I <strong>STILL</strong> learn new things <em>constantly</em>. <strong>So if music is language, then Scales are just different ways of making a sentence.</strong></p>
 
 
 
@@ -238,7 +238,7 @@ seo:
 
 
 
-<p>Some players stick to one genre and guitar style, and that is totally okay. People like <strong><a href="https://www.electrikjam.com/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-type="post" data-id="10630" target="_blank" rel="noopener" data-lasso-id="216522">Dimebag from Pantera had a very distinct style</a></strong>. Then you have <strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="216523">players like Jimi Hendrix </a></strong>who used Blues and Rock together to create a style. Stevie Ray Vaughan was mostly a Blues player. Mastering one style of guitar is great!</p>
+<p>Some players stick to one genre and guitar style, and that is totally okay. People like <strong><a href="/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-type="post" data-id="10630" target="_blank" rel="noopener" data-lasso-id="216522">Dimebag from Pantera had a very distinct style</a></strong>. Then you have <strong><a href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="216523">players like Jimi Hendrix </a></strong>who used Blues and Rock together to create a style. Stevie Ray Vaughan was mostly a Blues player. Mastering one style of guitar is great!</p>
 
 
 

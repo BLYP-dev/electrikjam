@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>Best alternative? Jones now has an Epiphone model – <strong><a href="https://www.electrikjam.com/epiphone-adam-jones-les-paul-custom-art-collection-julie-heffernans-self-portrait-as-not-dead-yet-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14069" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260245" data-lasso-name="Epiphone Adam Jones Les Paul Custom Art">it&#8217;s way cheaper at $1299</a></strong> and packs in all the core spec you&#8217;ll need to dial-in Jones&#8217; trademark sound.</p>
+<p>Best alternative? Jones now has an Epiphone model – <strong><a href="/epiphone-adam-jones-les-paul-custom-art-collection-julie-heffernans-self-portrait-as-not-dead-yet-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14069" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260245" data-lasso-name="Epiphone Adam Jones Les Paul Custom Art">it&#8217;s way cheaper at $1299</a></strong> and packs in all the core spec you&#8217;ll need to dial-in Jones&#8217; trademark sound.</p>
 </div></div>
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<p>But what if you could get much of <strong><a href="https://www.electrikjam.com/epiphone-adam-jones-les-paul-custom-art-collection-julie-heffernans-self-portrait-as-not-dead-yet-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14069" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260247" data-lasso-name="Epiphone Adam Jones Les Paul Custom Art">the same style and tone for like $1299</a></strong>? That’d be cool, right? Well, that’s exactly what the Epiphone Adam Jones Les Paul Custom Art Collection is all about. </p>
+<p>But what if you could get much of <strong><a href="/epiphone-adam-jones-les-paul-custom-art-collection-julie-heffernans-self-portrait-as-not-dead-yet-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14069" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260247" data-lasso-name="Epiphone Adam Jones Les Paul Custom Art">the same style and tone for like $1299</a></strong>? That’d be cool, right? Well, that’s exactly what the Epiphone Adam Jones Les Paul Custom Art Collection is all about. </p>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<p>And for mere mortals like us, the Epiphone Adam Jones Les Paul Custom Art Collection is the closest we’ll ever get to owning Jones’ signature model. Me? I’d probably <strong><a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-type="post" data-id="7671" data-lasso-id="260248">go with an Epiphone Prophecy</a></strong> over Jones’ model (you get more bang for your buck, specs-wise) but that’s just me. </p>
+<p>And for mere mortals like us, the Epiphone Adam Jones Les Paul Custom Art Collection is the closest we’ll ever get to owning Jones’ signature model. Me? I’d probably <strong><a href="/epiphone-les-paul-prophecy-colors/" data-type="post" data-id="7671" data-lasso-id="260248">go with an Epiphone Prophecy</a></strong> over Jones’ model (you get more bang for your buck, specs-wise) but that’s just me. </p>
 
 
 

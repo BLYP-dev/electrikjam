@@ -140,7 +140,7 @@ seo:
 
 
 
-<p><strong>These are the &#8220;bare basics&#8221; that every guitarist should just always have at home, <em>even if you usually take your guitar to a tech for setups</em>. </strong>This is total beginner stuff, and everyone has a different preference for these products. I like the <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-do5103/" data-type="lasso-urls" data-id="6006" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="240098" data-lasso-name="Music Nomad String Fuel">Music Nomad products for polish and fretboard cleaner</a></strong>.</p>
+<p><strong>These are the &#8220;bare basics&#8221; that every guitarist should just always have at home, <em>even if you usually take your guitar to a tech for setups</em>. </strong>This is total beginner stuff, and everyone has a different preference for these products. I like the <strong><a href="/guitar-center-pxf-io-do5103/" data-type="lasso-urls" data-id="6006" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="240098" data-lasso-name="Music Nomad String Fuel">Music Nomad products for polish and fretboard cleaner</a></strong>.</p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p>Once you have <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="240099">decided on a string gauge for your style</a></strong>, you should have some extra sets in your toolkit. That way, you can keep a regular schedule of maintenance. I like to polish the guitar, and clean the fretboard/frets every time I change strings, which is often.</p>
+<p>Once you have <strong><a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="240099">decided on a string gauge for your style</a></strong>, you should have some extra sets in your toolkit. That way, you can keep a regular schedule of maintenance. I like to polish the guitar, and clean the fretboard/frets every time I change strings, which is often.</p>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<p>By empowering yourself with the knowledge and tools required for guitar maintenance, you can achieve greater control over your instrument&#8217;s setup and maybe unleash some of your creativity! You can set up the guitar exactly how you want it, or<strong><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="240100"> mod it to your own specifications</a></strong>!</p>
+<p>By empowering yourself with the knowledge and tools required for guitar maintenance, you can achieve greater control over your instrument&#8217;s setup and maybe unleash some of your creativity! You can set up the guitar exactly how you want it, or<strong><a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="240100"> mod it to your own specifications</a></strong>!</p>
 
 
 
@@ -205,7 +205,7 @@ seo:
 
 
 
-<li><strong>Capo: </strong>Apart from<strong><a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-type="post" data-id="12148" target="_blank" rel="noopener" data-lasso-id="240101"> its role in changing the key of a song</a></strong>, a capo can aid in assessing and adjusting intonation and action at different fret positions. It&#8217;s a versatile tool for setting up string height.</li>
+<li><strong>Capo: </strong>Apart from<strong><a href="/using-a-capo-a-comprehensive-guide/" data-type="post" data-id="12148" target="_blank" rel="noopener" data-lasso-id="240101"> its role in changing the key of a song</a></strong>, a capo can aid in assessing and adjusting intonation and action at different fret positions. It&#8217;s a versatile tool for setting up string height.</li>
 
 
 
@@ -214,7 +214,7 @@ seo:
 
 
 
-<p><strong>Your guitar probably came with a large hex key for the truss rod, and a smaller one for bridge adjustments.</strong> Some guitars will come with more than two, especially if <strong><a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="240102">you have a Floyd Rose Trem System</a></strong> equipped on your guitar. Make note of the sizes, so you can replace them as needed.</p>
+<p><strong>Your guitar probably came with a large hex key for the truss rod, and a smaller one for bridge adjustments.</strong> Some guitars will come with more than two, especially if <strong><a href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="240102">you have a Floyd Rose Trem System</a></strong> equipped on your guitar. Make note of the sizes, so you can replace them as needed.</p>
 
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<p>Just like <strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="240103">a Floyd Rose needs different sizes of Allen keys to set up</a></strong>, your guitar also needs different screwdriver sizes for different screws. Using a screwdriver that is too big can strip out the smaller screws like the <strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="240104">intonation screws on the bridge</a></strong>.</p>
+<p>Just like <strong><a href="/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="240103">a Floyd Rose needs different sizes of Allen keys to set up</a></strong>, your guitar also needs different screwdriver sizes for different screws. Using a screwdriver that is too big can strip out the smaller screws like the <strong><a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="240104">intonation screws on the bridge</a></strong>.</p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p><strong>Again, doing electronic work is<em> not </em>for everyone </strong>and sometimes it is better to just take your guitar to a tech. But if you have the time, it can be very easy to learn. <strong><a href="https://www.electrikjam.com/glarry-mods-can-glarry-guitars-be-upgraded/" data-type="post" data-id="11330" target="_blank" rel="noopener" data-lasso-id="240105">I bought a very cheap guitar to work on, and learned how to solder.</a></strong></p>
+<p><strong>Again, doing electronic work is<em> not </em>for everyone </strong>and sometimes it is better to just take your guitar to a tech. But if you have the time, it can be very easy to learn. <strong><a href="/glarry-mods-can-glarry-guitars-be-upgraded/" data-type="post" data-id="11330" target="_blank" rel="noopener" data-lasso-id="240105">I bought a very cheap guitar to work on, and learned how to solder.</a></strong></p>
 
 
 
@@ -364,7 +364,7 @@ seo:
 
 
 
-<p>Your guitar, <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="240106">even if it is a budget model</a></strong>, is probably<em> very </em>resilient. If you do small adjustments, then you most certainly will NOT break your guitar. It can actually be very difficult to &#8220;break&#8221; your guitar, even if you were trying!</p>
+<p>Your guitar, <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="240106">even if it is a budget model</a></strong>, is probably<em> very </em>resilient. If you do small adjustments, then you most certainly will NOT break your guitar. It can actually be very difficult to &#8220;break&#8221; your guitar, even if you were trying!</p>
 
 
 
@@ -472,7 +472,7 @@ seo:
 <h3 class="rank-math-question ">Will I Break My Guitar If I Try To Work On It?</h3>
 <div class="rank-math-answer ">
 
-<p>Your guitar, <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noreferrer noopener">even if it is a budget model</a></strong>, is probably<em> very </em>resilient. If you do small adjustments, then you most certainly will NOT break your guitar. It can actually be very difficult to &#8220;break&#8221; your guitar, even if you were trying!</p>
+<p>Your guitar, <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noreferrer noopener">even if it is a budget model</a></strong>, is probably<em> very </em>resilient. If you do small adjustments, then you most certainly will NOT break your guitar. It can actually be very difficult to &#8220;break&#8221; your guitar, even if you were trying!</p>
 <p>There are many myths out there that can scare guitar players away from doing home setups, most of them involve breaking the guitar neck. As long as you make small, incremental adjustments to your guitar and have the correct tools, you will not harm your guitar. Whether it is adjusting the truss rod, or setting your string height, you should <strong>go slow and take your time.</strong></p>
 
 </div>

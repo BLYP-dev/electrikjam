@@ -57,7 +57,7 @@ seo:
 
 
 
-<p>These Diamond Series import models, are the main focus for Schecter Guitars as a company. Since these guitars are available all over the world. They also have various price tiers for these models. This means that Schecter has something to offer when it comes to <strong><a data-lasso-id="201793" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener">budget guitars</a> </strong>for beginners, but also have more <strong>professional-grade</strong> instruments as well.</p>
+<p>These Diamond Series import models, are the main focus for Schecter Guitars as a company. Since these guitars are available all over the world. They also have various price tiers for these models. This means that Schecter has something to offer when it comes to <strong><a data-lasso-id="201793" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener">budget guitars</a> </strong>for beginners, but also have more <strong>professional-grade</strong> instruments as well.</p>
 
 
 
@@ -65,7 +65,7 @@ seo:
 
 
 
-<p>Schecter makes a lot of different types of guitars for the Diamond Series. These range from popular &#8220;classic&#8221; styles, all the way to more unique &#8220;exclusive&#8221; styles. The last 5 years have been very important for Schecter, as the company has offered more variety than ever. There is something for everyone, and today we will go over the difference in price tiers, models, and <a href="https://www.electrikjam.com/electric-guitar-types-and-genres/" target="_blank" data-type="post" data-id="8114" rel="noopener" data-lasso-id="201794"><strong>guitar types</strong></a>.</p>
+<p>Schecter makes a lot of different types of guitars for the Diamond Series. These range from popular &#8220;classic&#8221; styles, all the way to more unique &#8220;exclusive&#8221; styles. The last 5 years have been very important for Schecter, as the company has offered more variety than ever. There is something for everyone, and today we will go over the difference in price tiers, models, and <a href="/electric-guitar-types-and-genres/" target="_blank" data-type="post" data-id="8114" rel="noopener" data-lasso-id="201794"><strong>guitar types</strong></a>.</p>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<p>This was because buying replacement parts for the major brands was often difficult. Even if you could get a replacement neck for your Fender, for instance, your options were limited. <strong><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="201795">Eddie Van Halen</a></strong> had sparked an interest in modifying your guitars, and this became a<em> huge trend</em> in the 80&#8217;s. David Schecter made tons of parts to make your guitar a &#8220;Super Strat&#8221;.</p>
+<p>This was because buying replacement parts for the major brands was often difficult. Even if you could get a replacement neck for your Fender, for instance, your options were limited. <strong><a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="201795">Eddie Van Halen</a></strong> had sparked an interest in modifying your guitars, and this became a<em> huge trend</em> in the 80&#8217;s. David Schecter made tons of parts to make your guitar a &#8220;Super Strat&#8221;.</p>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<p>Like <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" target="_blank" rel="noopener" data-lasso-id="201797">Harley Benton</a></strong>, there are plenty of familiar shapes to choose from. These are classic designs that most guitarists<em> prefer</em> to play. They say the classics never go out of style, and those kinds of guitars are available. But where Schecter Guitars really shines is the features that are offered for the cost.</p>
+<p>Like <strong><a href="/harley-benton-guitars-guide/" target="_blank" rel="noopener" data-lasso-id="201797">Harley Benton</a></strong>, there are plenty of familiar shapes to choose from. These are classic designs that most guitarists<em> prefer</em> to play. They say the classics never go out of style, and those kinds of guitars are available. But where Schecter Guitars really shines is the features that are offered for the cost.</p>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<li><strong>Omen Elite/Extreme Series:</strong> Like their less expensive counterparts, these are bolt on guitars. This where the finish options change, and you get better quality hardware like <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="201798"><strong>Floyd Rose Bridges</strong></a>. Comes in 6 and 7 string models, including multi-scale.</li>
+<li><strong>Omen Elite/Extreme Series:</strong> Like their less expensive counterparts, these are bolt on guitars. This where the finish options change, and you get better quality hardware like <a href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="201798"><strong>Floyd Rose Bridges</strong></a>. Comes in 6 and 7 string models, including multi-scale.</li>
 
 
 
@@ -415,7 +415,7 @@ seo:
 
 
 
-<p>But even the lower end of Schecter guitars, like the <a data-lasso-id="201802" href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener"><strong>Demon Series</strong></a> that we so highly praised on our review, is a great buy. For example, I added some locking tuners to that Demon model, and now it is one of the main guitars in the studio. It gets used all the time by myself, and clients alike!</p>
+<p>But even the lower end of Schecter guitars, like the <a data-lasso-id="201802" href="/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener"><strong>Demon Series</strong></a> that we so highly praised on our review, is a great buy. For example, I added some locking tuners to that Demon model, and now it is one of the main guitars in the studio. It gets used all the time by myself, and clients alike!</p>
 
 
 
@@ -499,11 +499,11 @@ seo:
 
 
 
-<p><strong>Schecter Guitars are one of the only companies that offer a left handed model of almost every production guitar. </strong>Even the Diamond series has a vast array of choices when it comes to <a data-lasso-id="203342" href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener"><strong>lefty guitars</strong></a>. Schecter tries to offer lefty models in more than one finish option, which is rare from any guitar brand. <strong>Schecter is almost always mentioned when it comes to left handed guitar communities, since every model can be found in a lefty version.</strong></p>
+<p><strong>Schecter Guitars are one of the only companies that offer a left handed model of almost every production guitar. </strong>Even the Diamond series has a vast array of choices when it comes to <a data-lasso-id="203342" href="/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener"><strong>lefty guitars</strong></a>. Schecter tries to offer lefty models in more than one finish option, which is rare from any guitar brand. <strong>Schecter is almost always mentioned when it comes to left handed guitar communities, since every model can be found in a lefty version.</strong></p>
 
 
 
-<p><strong>Schecter is also one of the only brands that offers 7 string guitars in baritone scale length exclusively.</strong> <strong>This is deliberate, and a signature design feature of Schecter Guitars.</strong> Most other companies offer 7 string guitars in standard scale: 25.5. All <a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="248995">Schecter 7 string</a> guitars, even the budget models, are baritone scale: 26.5. This ensures that the bottom string has enough tension, plays more smoothly, and stays in tune better.</p>
+<p><strong>Schecter is also one of the only brands that offers 7 string guitars in baritone scale length exclusively.</strong> <strong>This is deliberate, and a signature design feature of Schecter Guitars.</strong> Most other companies offer 7 string guitars in standard scale: 25.5. All <a href="/schecter-sunset-triad-review/" data-lasso-id="248995">Schecter 7 string</a> guitars, even the budget models, are baritone scale: 26.5. This ensures that the bottom string has enough tension, plays more smoothly, and stays in tune better.</p>
 
 
 
@@ -527,7 +527,7 @@ seo:
 
 
 
-<p>We have already talked about the many different price tiers that Schecter Guitars has to offer. <strong>These prices reflect the features more than the quality when it comes to Schecter Guitars.</strong> Pictured above is the budget friendly <a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-type="post" data-id="8912" target="_blank" rel="noopener" data-lasso-id="203343"><strong>Omen Elite</strong></a> model. We named this guitar one of the &#8220;best buys&#8221; for 2022, because of the quality and features.</p>
+<p>We have already talked about the many different price tiers that Schecter Guitars has to offer. <strong>These prices reflect the features more than the quality when it comes to Schecter Guitars.</strong> Pictured above is the budget friendly <a href="/schecter-omen-elite-2022-review/" data-type="post" data-id="8912" target="_blank" rel="noopener" data-lasso-id="203343"><strong>Omen Elite</strong></a> model. We named this guitar one of the &#8220;best buys&#8221; for 2022, because of the quality and features.</p>
 
 
 
@@ -677,7 +677,7 @@ seo:
 
 
 
-<p>The use of exotic woods is something Schecter has been testing the waters with over the last few years. For example, the <a data-lasso-id="203344" href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener"><strong>Koa Series</strong></a>. The <a data-lasso-id="203345" href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" data-type="post" data-id="4836" target="_blank" rel="noopener"><strong>Sun Valley Super Shredder Series </strong></a>also used some exotic woods like Black Limba and Zircote. Since these woods all have naturally different grain patterns, <strong>every guitar is unique</strong>.</p>
+<p>The use of exotic woods is something Schecter has been testing the waters with over the last few years. For example, the <a data-lasso-id="203344" href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener"><strong>Koa Series</strong></a>. The <a data-lasso-id="203345" href="/schecter-sun-valley-super-shredder-exotic-hardtail/" data-type="post" data-id="4836" target="_blank" rel="noopener"><strong>Sun Valley Super Shredder Series </strong></a>also used some exotic woods like Black Limba and Zircote. Since these woods all have naturally different grain patterns, <strong>every guitar is unique</strong>.</p>
 
 
 
@@ -693,7 +693,7 @@ seo:
 
 
 
-<p><strong>Schecter Guitars is known for using some of the best pickups and hardware available, and even make some of the pickups in the USA Custom shop. Beyond that, Schecter is also partnered with big brands like EMG Pickups, Fishman Fluence, Lundgren, and Sustainiac. As of 2022, Schecter is the only major company to offer mass produced guitars with the <a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener" data-lasso-id="203346">Sustainiac Pickup System</a>.</strong></p>
+<p><strong>Schecter Guitars is known for using some of the best pickups and hardware available, and even make some of the pickups in the USA Custom shop. Beyond that, Schecter is also partnered with big brands like EMG Pickups, Fishman Fluence, Lundgren, and Sustainiac. As of 2022, Schecter is the only major company to offer mass produced guitars with the <a href="/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener" data-lasso-id="203346">Sustainiac Pickup System</a>.</strong></p>
 
 
 
@@ -761,7 +761,7 @@ seo:
 
 
 
-<p>Not listed in the picture are the more &#8220;retro&#8221; guitars that Schecter also makes. These include an offset guitar called the <strong>Ultra</strong>. <strong>Robert Smith</strong> has been using the Ultra models for years, and has a signature called the <strong>Ultra Cure</strong>. You also have the jazz box styled <strong>Corsair</strong> Series, which are a modern take on the 50&#8217;s <a href="https://www.electrikjam.com/electric-guitar-types-and-genres/" data-type="post" data-id="8114" target="_blank" rel="noopener" data-lasso-id="203409"><strong>semi-hollow</strong></a> guitar shapes.</p>
+<p>Not listed in the picture are the more &#8220;retro&#8221; guitars that Schecter also makes. These include an offset guitar called the <strong>Ultra</strong>. <strong>Robert Smith</strong> has been using the Ultra models for years, and has a signature called the <strong>Ultra Cure</strong>. You also have the jazz box styled <strong>Corsair</strong> Series, which are a modern take on the 50&#8217;s <a href="/electric-guitar-types-and-genres/" data-type="post" data-id="8114" target="_blank" rel="noopener" data-lasso-id="203409"><strong>semi-hollow</strong></a> guitar shapes.</p>
 
 
 
@@ -785,7 +785,7 @@ seo:
 
 
 
-<p>There is a misconception that &#8220;Schecter only makes Metal guitars&#8221; that has been a subject of debate among the guitar community. <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="203347"><strong>Nick Johnston</strong></a> however, really turned the company around when he designed his Strat-Style signature guitar. Nick has since released a Telecaster style model as well, taking Schecter back to its roots.</p>
+<p>There is a misconception that &#8220;Schecter only makes Metal guitars&#8221; that has been a subject of debate among the guitar community. <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="203347"><strong>Nick Johnston</strong></a> however, really turned the company around when he designed his Strat-Style signature guitar. Nick has since released a Telecaster style model as well, taking Schecter back to its roots.</p>
 
 
 
@@ -939,11 +939,11 @@ seo:
 
 
 
-<p><strong>The other issue that many people complained about with older models involved the neck designs.</strong> I have played some older Schecter guitars, and some of them <em>did have a very thick neck</em>. This was even more apparent when you compared them to say, <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255034">an Ibanez guitar</a>. The neck carves were often bulky, and this really showed on the 7 string models in particular. </p>
+<p><strong>The other issue that many people complained about with older models involved the neck designs.</strong> I have played some older Schecter guitars, and some of them <em>did have a very thick neck</em>. This was even more apparent when you compared them to say, <a href="/ibanez-guitars/" data-lasso-id="255034">an Ibanez guitar</a>. The neck carves were often bulky, and this really showed on the 7 string models in particular. </p>
 
 
 
-<p>That being said, neck shapes are very subjective. Personally, <em>I like a fatter neck on most of my guitars</em>. But I do understand the complaints from customers expecting a more &#8220;shred&#8221; style of guitar. <strong>Schecter Guitars started to correct this around 2010.</strong> The necks became slimmer, and the extended range necks got extra attention from <strong>Keith Merrow</strong>. <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251945">The Schecter KM7 is now widely regarded as one of the most &#8220;perfect&#8221; 7 string guitar necks</a> on the market.</p>
+<p>That being said, neck shapes are very subjective. Personally, <em>I like a fatter neck on most of my guitars</em>. But I do understand the complaints from customers expecting a more &#8220;shred&#8221; style of guitar. <strong>Schecter Guitars started to correct this around 2010.</strong> The necks became slimmer, and the extended range necks got extra attention from <strong>Keith Merrow</strong>. <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251945">The Schecter KM7 is now widely regarded as one of the most &#8220;perfect&#8221; 7 string guitar necks</a> on the market.</p>
 
 
 
@@ -979,7 +979,7 @@ seo:
 
 
 
-<p>Yes, The<strong> <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="203410">Nick Johnston Traditiona</a></strong><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="203411">l</a> looks a <em>lot</em> like a Fender if you just take a quick look at it. But once you play it, you will know that this is a guitar that is very much <em>unlike a Fender</em>. I have owned mine for a year now, and it is one of my favorite guitars. If you want these to &#8220;do the Fender thing&#8221; when it comes to sounds, they will deliver that in spades.</p>
+<p>Yes, The<strong> <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="203410">Nick Johnston Traditiona</a></strong><a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="203411">l</a> looks a <em>lot</em> like a Fender if you just take a quick look at it. But once you play it, you will know that this is a guitar that is very much <em>unlike a Fender</em>. I have owned mine for a year now, and it is one of my favorite guitars. If you want these to &#8220;do the Fender thing&#8221; when it comes to sounds, they will deliver that in spades.</p>
 
 
 

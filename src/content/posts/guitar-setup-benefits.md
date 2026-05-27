@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>But you can learn to do them yourself, <strong><a href="https://www.electrikjam.com/electric-guitar/new-guitar-setup-checklist/" data-lasso-id="269535">we have a guitar setup checklist</a></strong> that you can use to get down the basics.&nbsp;</p>
+<p>But you can learn to do them yourself, <strong><a href="/electric-guitar/new-guitar-setup-checklist/" data-lasso-id="269535">we have a guitar setup checklist</a></strong> that you can use to get down the basics.&nbsp;</p>
 
 
 
@@ -140,7 +140,7 @@ seo:
     </div>
   </div>
 
-  <p>For a complete guitar setup checklist, <a href="https://www.electrikjam.com/electric-guitar/new-guitar-setup-checklist/" target="_blank" rel="noopener" data-lasso-id="269536">get your free new guitar setup checklist PDF today</a>.</p>
+  <p>For a complete guitar setup checklist, <a href="/electric-guitar/new-guitar-setup-checklist/" target="_blank" rel="noopener" data-lasso-id="269536">get your free new guitar setup checklist PDF today</a>.</p>
 </div>
 
 <style>

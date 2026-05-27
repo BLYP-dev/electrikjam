@@ -53,7 +53,7 @@ seo:
 <div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex">
 
 
-<p class="has-link-color has-small-font-size wp-elements-66e1746f21fb73e43643cfc502a5406c"><strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="265748">READ MY FULL REVIEW</a></strong></p>
+<p class="has-link-color has-small-font-size wp-elements-66e1746f21fb73e43643cfc502a5406c"><strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="265748">READ MY FULL REVIEW</a></strong></p>
 </div>
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<p>We have taken a look at the best &#8220;bang for your buck&#8221;<strong> <a data-lasso-id="53300" href="https://www.electrikjam.com/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener">practice amps</a> </strong>before, and those are great when you are learning how to play at home. Most of the practice amps, including amps like the <strong><a data-lasso-id="53301" href="https://www.electrikjam.com/how-heavy-is-the-spark-amp-lets-find-out/" target="_blank" data-type="post" data-id="4459" rel="noopener">Spark</a>,</strong> are great for learning at home at low volumes/with headphones. There are also useful tools like the <a data-lasso-id="53302" href="https://www.electrikjam.com/fender-mustang-micro-features-price/" target="_blank" data-type="post" data-id="2700" rel="noopener"><strong>Mustang Micro</strong></a> by Fender that is amazing for jamming at home, while you are learning. These are all great for practicing, but taking them to a gig? These aforementioned products are not going to work.</p>
+<p>We have taken a look at the best &#8220;bang for your buck&#8221;<strong> <a data-lasso-id="53300" href="/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener">practice amps</a> </strong>before, and those are great when you are learning how to play at home. Most of the practice amps, including amps like the <strong><a data-lasso-id="53301" href="/how-heavy-is-the-spark-amp-lets-find-out/" target="_blank" data-type="post" data-id="4459" rel="noopener">Spark</a>,</strong> are great for learning at home at low volumes/with headphones. There are also useful tools like the <a data-lasso-id="53302" href="/fender-mustang-micro-features-price/" target="_blank" data-type="post" data-id="2700" rel="noopener"><strong>Mustang Micro</strong></a> by Fender that is amazing for jamming at home, while you are learning. These are all great for practicing, but taking them to a gig? These aforementioned products are not going to work.</p>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<p>This is another reason I wanted these amps to be combo amps. I wanted them to be portable and easy to move back and forth from gigs to your home. This is ideal, since you can dial your tones in <em>at home</em>, and then put them to use at your next gig. That way, you are never fiddling with your amp at a show, or at <strong><a href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener" data-lasso-id="53303">band practice</a>.</strong> With all of that said&#8230;</p>
+<p>This is another reason I wanted these amps to be combo amps. I wanted them to be portable and easy to move back and forth from gigs to your home. This is ideal, since you can dial your tones in <em>at home</em>, and then put them to use at your next gig. That way, you are never fiddling with your amp at a show, or at <strong><a href="/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener" data-lasso-id="53303">band practice</a>.</strong> With all of that said&#8230;</p>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p>I had a blast reviewing the <a data-lasso-id="53304" href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener"><strong>Fender Mustang GTX</strong></a> amp, and I knew this was going to be a cheap amp you can gig with from my original review. When it comes to features, this has just about everything you need for home practice as well as playing shows. We went over all of the details in depth with the review, so I will just list them here. If there is something specific you wanted to know about the Fender Mustang GTX, please refer to our review. I tried out <em>every feature</em>, and this amp has a bunch of them!<br></p>
+<p>I had a blast reviewing the <a data-lasso-id="53304" href="/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener"><strong>Fender Mustang GTX</strong></a> amp, and I knew this was going to be a cheap amp you can gig with from my original review. When it comes to features, this has just about everything you need for home practice as well as playing shows. We went over all of the details in depth with the review, so I will just list them here. If there is something specific you wanted to know about the Fender Mustang GTX, please refer to our review. I tried out <em>every feature</em>, and this amp has a bunch of them!<br></p>
 
 
 
@@ -330,7 +330,7 @@ seo:
 
 
 
-<p><strong>Ok, I know what you&#8217;re thinking. </strong>When it comes to cheap amps you can gig with the Line 6 Spyder is almost a meme. But don&#8217;t let the reputation throw you off course. We took our time and did a full <a data-lasso-id="53306" href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" target="_blank" data-type="post" data-id="5661" rel="noopener"><strong>test review </strong></a>of the newer Spyder series, and they are not as bad as the older models. If you check out my full review, you&#8217;ll see why I have changed my mind about these amps, and<em> you should too</em>! It has plenty of features:</p>
+<p><strong>Ok, I know what you&#8217;re thinking. </strong>When it comes to cheap amps you can gig with the Line 6 Spyder is almost a meme. But don&#8217;t let the reputation throw you off course. We took our time and did a full <a data-lasso-id="53306" href="/are-line-6-guitar-amps-bad/" target="_blank" data-type="post" data-id="5661" rel="noopener"><strong>test review </strong></a>of the newer Spyder series, and they are not as bad as the older models. If you check out my full review, you&#8217;ll see why I have changed my mind about these amps, and<em> you should too</em>! It has plenty of features:</p>
 
 
 
@@ -364,11 +364,11 @@ seo:
 
 
 
-<p> <strong>What Makes This A Great Amp For Gigging:</strong> The original Spyder amps were such a joke because they sounded fine when you played them alone in a practice setting. However, once you tried to record with one or play a show, it just sounded weak and sad. So Line 6 applied most of the<a data-lasso-id="53307" href="https://www.electrikjam.com/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener"> <strong>Helix </strong></a>technology to these new amps, changing the way the amp <em>reacted</em> in a band setting. The Spyder amps now have better speaker modeling, better amp models, <em>and</em> better effects.</p>
+<p> <strong>What Makes This A Great Amp For Gigging:</strong> The original Spyder amps were such a joke because they sounded fine when you played them alone in a practice setting. However, once you tried to record with one or play a show, it just sounded weak and sad. So Line 6 applied most of the<a data-lasso-id="53307" href="/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener"> <strong>Helix </strong></a>technology to these new amps, changing the way the amp <em>reacted</em> in a band setting. The Spyder amps now have better speaker modeling, better amp models, <em>and</em> better effects.</p>
 
 
 
-<p>Like the Fender Amp, this is another one that you will have to program for live use. In fact, most of the cheap amps you can gig with are going to take a <em>little bit of work </em>on your part. But the <a href="https://www.electrikjam.com/what-is-line-6-edit/" target="_blank" data-type="post" data-id="5701" rel="noopener" data-lasso-id="54163"><strong>Line 6 Edit app</strong></a> is easy to set up, and once you have your amp connected, you can tweak every patch to perfection. This is important, because you will probably need to make your own patches since the stock sounds are&#8230;not great.</p>
+<p>Like the Fender Amp, this is another one that you will have to program for live use. In fact, most of the cheap amps you can gig with are going to take a <em>little bit of work </em>on your part. But the <a href="/what-is-line-6-edit/" target="_blank" data-type="post" data-id="5701" rel="noopener" data-lasso-id="54163"><strong>Line 6 Edit app</strong></a> is easy to set up, and once you have your amp connected, you can tweak every patch to perfection. This is important, because you will probably need to make your own patches since the stock sounds are&#8230;not great.</p>
 
 
 
@@ -376,7 +376,7 @@ seo:
 
 
 
-<p>All of the patches and effects can be controlled via<a href="https://www.electrikjam.com/guitar-center-pxf-io-jrjxbn/" target="_blank" data-type="lasso-urls" data-id="6615" rel="nofollow sponsored noopener" data-lasso-id="53308" data-lasso-name="Line 6 FBV Express Guitar Footswitch"> <strong>Line 6 FBV Footswitch</strong></a> sold separately. If you want to get really advanced, you can get the <a href="https://www.guitarcenter.com/Line-6/FBV-3-Advanced-Guitar-Footswitch-1500000001098.gc?pfm=arecs&amp;irclickid=&amp;irpid=3004829&amp;irmpname=&amp;source=4ACJWXX2&amp;irgwc=1" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="53309"><strong>Line 6 Expanded Controller</strong></a> that acts as a midi-based footswitch platform. Either way, if you&#8217;re willing to put in a<em> little bit </em>of work, this is one of the best cheap amps you can gig with.</p>
+<p>All of the patches and effects can be controlled via<a href="/guitar-center-pxf-io-jrjxbn/" target="_blank" data-type="lasso-urls" data-id="6615" rel="nofollow sponsored noopener" data-lasso-id="53308" data-lasso-name="Line 6 FBV Express Guitar Footswitch"> <strong>Line 6 FBV Footswitch</strong></a> sold separately. If you want to get really advanced, you can get the <a href="https://www.guitarcenter.com/Line-6/FBV-3-Advanced-Guitar-Footswitch-1500000001098.gc?pfm=arecs&amp;irclickid=&amp;irpid=3004829&amp;irmpname=&amp;source=4ACJWXX2&amp;irgwc=1" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="53309"><strong>Line 6 Expanded Controller</strong></a> that acts as a midi-based footswitch platform. Either way, if you&#8217;re willing to put in a<em> little bit </em>of work, this is one of the best cheap amps you can gig with.</p>
 
 
 
@@ -396,7 +396,7 @@ seo:
 
 
 
-<p>This would not be a list of cheap amps you can gig with if we didn&#8217;t mention Peavey at least once! Peavey makes some really amazing amplifiers that span all kinds of price points. The most famous amp that Peavey makes is definitely the iconic<a href="https://www.electrikjam.com/peavey-5150-vs-bugera-626/" target="_blank" data-type="post" data-id="803" rel="noopener" data-lasso-id="54164"> <strong>5150</strong> </a>and 6505. These high gain monsters have dominated the metal guitar industry for decades now. But what about Peavey&#8217;s other products?</p>
+<p>This would not be a list of cheap amps you can gig with if we didn&#8217;t mention Peavey at least once! Peavey makes some really amazing amplifiers that span all kinds of price points. The most famous amp that Peavey makes is definitely the iconic<a href="/peavey-5150-vs-bugera-626/" target="_blank" data-type="post" data-id="803" rel="noopener" data-lasso-id="54164"> <strong>5150</strong> </a>and 6505. These high gain monsters have dominated the metal guitar industry for decades now. But what about Peavey&#8217;s other products?</p>
 
 
 
@@ -462,7 +462,7 @@ seo:
 
 
 
-<p>If you are the type of person that likes to have their own <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="53310"><strong>pedalboard</strong></a>, and you already have <strong><a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" target="_blank" data-type="post" data-id="2938" rel="noopener" data-lasso-id="53311">pedals</a> </strong>that you love, this is your amp. The Bandit 112 has a dedicated FX loop for all of your modulation pedals like chorus, flange, and delay. You could also use a distortion pedal with the clean sound, but I would say you should<em> try the distortion channel first</em>.</p>
+<p>If you are the type of person that likes to have their own <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="53310"><strong>pedalboard</strong></a>, and you already have <strong><a href="/the-5-best-guitar-pedals-under-50-bucks/" target="_blank" data-type="post" data-id="2938" rel="noopener" data-lasso-id="53311">pedals</a> </strong>that you love, this is your amp. The Bandit 112 has a dedicated FX loop for all of your modulation pedals like chorus, flange, and delay. You could also use a distortion pedal with the clean sound, but I would say you should<em> try the distortion channel first</em>.</p>
 
 
 
@@ -470,7 +470,7 @@ seo:
 
 
 
-<p>When it comes to the second channel, you have the same type of options. &#8220;Classic&#8221; and &#8220;modern&#8221; both give you a fantastic crunch <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-lasso-id="62708">tone that mimics a cranked tube amp</a> really well. The &#8220;high gain&#8221; mode is <em>very close</em> to the sound of a Peavey 5150 Amp. You would never think that this little amp would put out such a brutal sound! Distortion sounds are one of the most important aspects of cheap amps you can gig with.</p>
+<p>When it comes to the second channel, you have the same type of options. &#8220;Classic&#8221; and &#8220;modern&#8221; both give you a fantastic crunch <a href="/the-best-budget-tube-amps/" data-lasso-id="62708">tone that mimics a cranked tube amp</a> really well. The &#8220;high gain&#8221; mode is <em>very close</em> to the sound of a Peavey 5150 Amp. You would never think that this little amp would put out such a brutal sound! Distortion sounds are one of the most important aspects of cheap amps you can gig with.</p>
 
 
 
@@ -478,7 +478,7 @@ seo:
 
 
 
-<p>However, if you need effects then you can always buy some awesome<a data-lasso-id="53312" href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" target="_blank" data-type="post" data-id="2863" rel="noopener"> <strong>pedals</strong></a> with the money you&#8217;ll save from buying this affordable amp. Peavey designed it&#8217;s amps to work with just about any 2 button footswitch on the market, so you can solve the channel switching on stage for a low cost. If this sounds like the type of player you are, then this amp is perfection!</p>
+<p>However, if you need effects then you can always buy some awesome<a data-lasso-id="53312" href="/the-best-guitar-pedals-1968-2021/" target="_blank" data-type="post" data-id="2863" rel="noopener"> <strong>pedals</strong></a> with the money you&#8217;ll save from buying this affordable amp. Peavey designed it&#8217;s amps to work with just about any 2 button footswitch on the market, so you can solve the channel switching on stage for a low cost. If this sounds like the type of player you are, then this amp is perfection!</p>
 
 
 
@@ -572,7 +572,7 @@ seo:
 
 
 
-<p>It really pushes some bass response with the 12&#8221; speakers on the high gain channel. Even with the gain turned up pretty high, it never really gets &#8220;fizzy&#8221; or off-putting. You can do everything from<strong> Metallica</strong> to <a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-lasso-id="101286">Meshuggah</a> with this amp. The best part is even if you have the bass bottomed out, the two <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-lasso-id="90320">Celestion speakers</a> can handle it. Switching between the two channels once you have them set is easy with the <em>included </em>footswitch.</p>
+<p>It really pushes some bass response with the 12&#8221; speakers on the high gain channel. Even with the gain turned up pretty high, it never really gets &#8220;fizzy&#8221; or off-putting. You can do everything from<strong> Metallica</strong> to <a href="/meshuggah-immutable-review/" data-lasso-id="101286">Meshuggah</a> with this amp. The best part is even if you have the bass bottomed out, the two <a href="/the-best-celestion-speakers/" data-lasso-id="90320">Celestion speakers</a> can handle it. Switching between the two channels once you have them set is easy with the <em>included </em>footswitch.</p>
 
 
 
@@ -620,7 +620,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><a href="https://www.electrikjam.com/guitar-center-pxf-io-qog53x/" target="_blank" data-type="lasso-urls" data-id="6623" rel="nofollow sponsored noopener" data-lasso-id="53313" data-lasso-name="Peavey VYPYR X3 Amp"><strong>Preorder The Peavy VYPYR X3 TODAY! Ships In February!</strong></a></p>
+<p class="has-text-align-center"><a href="/guitar-center-pxf-io-qog53x/" target="_blank" data-type="lasso-urls" data-id="6623" rel="nofollow sponsored noopener" data-lasso-id="53313" data-lasso-name="Peavey VYPYR X3 Amp"><strong>Preorder The Peavy VYPYR X3 TODAY! Ships In February!</strong></a></p>
 
 
 
@@ -632,15 +632,15 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Boss-Katana-100-MKII.webp" alt="cheap amps you can gig with" class="wp-image-6625" title="" srcset="/wp-content/uploads/2022/01/Boss-Katana-100-MKII.webp 720w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-300x300.webp 300w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-100x100.webp 100w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-600x600.webp 600w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133457"><strong>Boss Katana</strong></a><strong> 100 In Limited Edition White</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="720" height="720" src="/wp-content/uploads/2022/01/Boss-Katana-100-MKII.webp" alt="cheap amps you can gig with" class="wp-image-6625" title="" srcset="/wp-content/uploads/2022/01/Boss-Katana-100-MKII.webp 720w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-300x300.webp 300w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-100x100.webp 100w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-600x600.webp 600w, /wp-content/uploads/2022/01/Boss-Katana-100-MKII-150x150.webp 150w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="wp-element-caption"><a href="/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133457"><strong>Boss Katana</strong></a><strong> 100 In Limited Edition White</strong></figcaption></figure>
 
 
 
-<p>Well, I suppose this is not a big surprise to anyone if you read our articles often or you happen to know me, personally. The <a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155689">BOSS Katana</a> is the penultimate digital amp, and it reigns at the top of cheap amps you can gig with. <strong>This is my current amp for gigging, and it will be my rig when I support my album that will be coming out later this year.</strong> You heard that correctly, I have ditched my big tube amps and now I use just the Katana.</p>
+<p>Well, I suppose this is not a big surprise to anyone if you read our articles often or you happen to know me, personally. The <a href="/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155689">BOSS Katana</a> is the penultimate digital amp, and it reigns at the top of cheap amps you can gig with. <strong>This is my current amp for gigging, and it will be my rig when I support my album that will be coming out later this year.</strong> You heard that correctly, I have ditched my big tube amps and now I use just the Katana.</p>
 
 
 
-<p>In case you missed the <a data-lasso-id="53314" href="https://www.electrikjam.com/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener">l<strong>ast time</strong> </a>we spoke about this amazing amp, let me refresh your memory. The BOSS Katana has every feature you could possibly want in an amplifier. <em><strong>Period.</strong></em> It is the king of cheap amps you can gig with, and it has sold more units than <em>any other</em> modern amplifier. Let&#8217;s take a look at the specs:</p>
+<p>In case you missed the <a data-lasso-id="53314" href="/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener">l<strong>ast time</strong> </a>we spoke about this amazing amp, let me refresh your memory. The BOSS Katana has every feature you could possibly want in an amplifier. <em><strong>Period.</strong></em> It is the king of cheap amps you can gig with, and it has sold more units than <em>any other</em> modern amplifier. Let&#8217;s take a look at the specs:</p>
 
 
 
@@ -698,7 +698,7 @@ seo:
 
 
 
-<p>The Katana should be treated like a &#8220;real&#8221; amp with digital effects, <em>not </em>as a modeler. The other amps on this list, like the<strong> <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener" data-lasso-id="54165">Fender GTX 100</a></strong>, have a <em>multitude</em> of amp models built in. The Katana does not, since it really only has the 5 amp models to choose from. Of course, you can edit all of these models with the Tone Studio App.</p>
+<p>The Katana should be treated like a &#8220;real&#8221; amp with digital effects, <em>not </em>as a modeler. The other amps on this list, like the<strong> <a href="/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener" data-lasso-id="54165">Fender GTX 100</a></strong>, have a <em>multitude</em> of amp models built in. The Katana does not, since it really only has the 5 amp models to choose from. Of course, you can edit all of these models with the Tone Studio App.</p>
 
 
 
@@ -706,7 +706,7 @@ seo:
 
 
 
-<p>The Katana 100 can also use the <a href="https://www.electrikjam.com/pxf-9/" target="_blank" data-type="lasso-urls" data-id="6627" rel="nofollow sponsored noopener" data-lasso-id="54166" data-lasso-name="BOSS GA-FC Guitar Combo Foot Controller"><strong>BOSS GA-FC Footswitch</strong></a> to control <em>everything</em>. You can switch between channels, presets, effects, and amp models with this footswitch. You can add expression pedals to the GA-FC, to control volume effects and wah-wah. If you combine this footswitch with the FX loop/Pedals, you have <em>endless possibilities</em> for tone. </p>
+<p>The Katana 100 can also use the <a href="/pxf-9/" target="_blank" data-type="lasso-urls" data-id="6627" rel="nofollow sponsored noopener" data-lasso-id="54166" data-lasso-name="BOSS GA-FC Guitar Combo Foot Controller"><strong>BOSS GA-FC Footswitch</strong></a> to control <em>everything</em>. You can switch between channels, presets, effects, and amp models with this footswitch. You can add expression pedals to the GA-FC, to control volume effects and wah-wah. If you combine this footswitch with the FX loop/Pedals, you have <em>endless possibilities</em> for tone. </p>
 
 
 
@@ -718,7 +718,7 @@ seo:
 
 
 
-<p>But if I am being honest, you can use the Katana with the presets that it comes with <em>out of the box</em>. I found all of the preset sounds on the panel dial to be <em>more than usable</em>. In fact, I haven&#8217;t even touched the clean amp tone presets for my live performances. I only tweaked the high gain channels to be compatible with all of my guitars with <a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="54167"><strong>active pickups. </strong></a></p>
+<p>But if I am being honest, you can use the Katana with the presets that it comes with <em>out of the box</em>. I found all of the preset sounds on the panel dial to be <em>more than usable</em>. In fact, I haven&#8217;t even touched the clean amp tone presets for my live performances. I only tweaked the high gain channels to be compatible with all of my guitars with <a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="54167"><strong>active pickups. </strong></a></p>
 
 
 
@@ -726,7 +726,7 @@ seo:
 
 
 
-<p>If for some reason you decide that you no longer like the BOSS Katana&#8217;s sounds, you can also use the 100 watt version as a <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="54168"><strong>FRFR Speaker</strong></a>. I was a little weary of this feature, since the speaker and power section seemed to be tailored to being an actual guitar amp. But I plugged up my <a href="https://www.electrikjam.com/guitar-center-pxf-io-3peqek/" target="_blank" data-type="lasso-urls" data-id="4481" rel="nofollow noopener" data-lasso-id="54169" data-lasso-name="Line 6 Helix LT Edition"><strong>Helix</strong></a> to the &#8220;Power In&#8221; jack, and it works great! All of my Helix <a href="https://www.electrikjam.com/what-is-line-6-edit/" target="_blank" data-type="post" data-id="5701" rel="noopener" data-lasso-id="54170"><strong>patches</strong></a> came through the Katana with robust clarity. It&#8217;s <em>positively ridiculous</em> how much you can do with the Katana.</p>
+<p>If for some reason you decide that you no longer like the BOSS Katana&#8217;s sounds, you can also use the 100 watt version as a <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="54168"><strong>FRFR Speaker</strong></a>. I was a little weary of this feature, since the speaker and power section seemed to be tailored to being an actual guitar amp. But I plugged up my <a href="/guitar-center-pxf-io-3peqek/" target="_blank" data-type="lasso-urls" data-id="4481" rel="nofollow noopener" data-lasso-id="54169" data-lasso-name="Line 6 Helix LT Edition"><strong>Helix</strong></a> to the &#8220;Power In&#8221; jack, and it works great! All of my Helix <a href="/what-is-line-6-edit/" target="_blank" data-type="post" data-id="5701" rel="noopener" data-lasso-id="54170"><strong>patches</strong></a> came through the Katana with robust clarity. It&#8217;s <em>positively ridiculous</em> how much you can do with the Katana.</p>
 
 
 
@@ -750,7 +750,7 @@ seo:
 
 
 
-<p>Look, I have been doing this at a professional level for over 20 years now, and while some of these amps may seem too cheap to gig with, I assure you they are not. I could use <em>any one of these</em> amps to play a gig with! In fact, the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-lasso-id="195490">BOSS Katana</a> is my main amp these days. But I could make any of these amps work for a show, with a day&#8217;s notice. To the naysayers out there, <em><strong>don&#8217;t knock it until you&#8217;ve tried it</strong></em>.</p>
+<p>Look, I have been doing this at a professional level for over 20 years now, and while some of these amps may seem too cheap to gig with, I assure you they are not. I could use <em>any one of these</em> amps to play a gig with! In fact, the <a href="/boss-katana-100-mkii-review/" data-lasso-id="195490">BOSS Katana</a> is my main amp these days. But I could make any of these amps work for a show, with a day&#8217;s notice. To the naysayers out there, <em><strong>don&#8217;t knock it until you&#8217;ve tried it</strong></em>.</p>
 
 
 
@@ -766,7 +766,7 @@ seo:
 
 
 
-<p>But times have really changed, and technology has caught up.<strong> I say all the time that we live in the best time ever for guitar players.</strong> I truly believe this, because affordable gear is <em>more than usable </em>these days. In fact, you could pair any of these amps with a guitar from our <a data-lasso-id="54171" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>budget section,</strong></a> and have a <em>GREAT</em> live rig! Just because it&#8217;s affordable, doesn&#8217;t mean its bad! So pick up one of these cheap amps you can gig with, and <em>get on stage</em>!</p>
+<p>But times have really changed, and technology has caught up.<strong> I say all the time that we live in the best time ever for guitar players.</strong> I truly believe this, because affordable gear is <em>more than usable </em>these days. In fact, you could pair any of these amps with a guitar from our <a data-lasso-id="54171" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>budget section,</strong></a> and have a <em>GREAT</em> live rig! Just because it&#8217;s affordable, doesn&#8217;t mean its bad! So pick up one of these cheap amps you can gig with, and <em>get on stage</em>!</p>
 
 
 

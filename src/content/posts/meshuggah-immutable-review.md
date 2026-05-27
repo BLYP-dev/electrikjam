@@ -39,15 +39,15 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="101283" href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843">Meshuggah</a></strong> has been caving people’s heads in for three decades, and its latest album shows no signs of the band letting up. I first “got into” Meshuggah back in the early-2000s –&nbsp;back before its music was called djent. But it was the album <strong>NOTHING</strong> that really put the band on the map for me. It was on this album that <strong><a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="101290">they startled using 8-string guitars</a></strong>.</p>
+<p><strong><a data-lasso-id="101283" href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843">Meshuggah</a></strong> has been caving people’s heads in for three decades, and its latest album shows no signs of the band letting up. I first “got into” Meshuggah back in the early-2000s –&nbsp;back before its music was called djent. But it was the album <strong>NOTHING</strong> that really put the band on the map for me. It was on this album that <strong><a href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="101290">they startled using 8-string guitars</a></strong>.</p>
 
 
 
-<p>Tonally, <strong>NOTHING</strong> sounded unlike anything I’d ever heard before. The guitars alone just sounded bonkers. Back then, an 8-string guitar was more or less like a hen with teeth. In this sense, <a href="https://www.electrikjam.com/what-guitar-amps-do-meshuggah-use/" data-lasso-id="101423">Meshuggah was something of a pioneer</a>. And, yes, plenty of other bands copied them on their journey down the 8-string rabbit hole.</p>
+<p>Tonally, <strong>NOTHING</strong> sounded unlike anything I’d ever heard before. The guitars alone just sounded bonkers. Back then, an 8-string guitar was more or less like a hen with teeth. In this sense, <a href="/what-guitar-amps-do-meshuggah-use/" data-lasso-id="101423">Meshuggah was something of a pioneer</a>. And, yes, plenty of other bands copied them on their journey down the 8-string rabbit hole.</p>
 
 
 
-<p>Why am I talking about <strong>NOTHING</strong>? Because I like to ground my reviews in context. For me, <strong>NOTHING</strong> presented the first time Meshuggah really changed its sound. Listen to <strong>NOTHING</strong> and the record they released before it –&nbsp;it sounds like a different band, tonally. That’s the power of <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184906">guitar tone</a>, right there.</p>
+<p>Why am I talking about <strong>NOTHING</strong>? Because I like to ground my reviews in context. For me, <strong>NOTHING</strong> presented the first time Meshuggah really changed its sound. Listen to <strong>NOTHING</strong> and the record they released before it –&nbsp;it sounds like a different band, tonally. That’s the power of <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184906">guitar tone</a>, right there.</p>
 
 
 
@@ -71,11 +71,11 @@ seo:
 
 
 
-<p>I don’t think there is a weak moment on the entire album, impressive for this style of music. Even the quieter, more reflective tracks like Past Tense have enough going on, odd movements and strange chord changes, to keep your ear invested. Stand-out <a href="https://www.electrikjam.com/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234406">tracks on the album</a>, for me, include <strong>The Abysmal Eye</strong>, <strong>They Move Below</strong>, <strong>Past Tense</strong>, <strong>Kaleidoscope</strong>, and <strong>The Faultless</strong>. In these tracks, I definitely felt like I was hearing something truly new from the band.</p>
+<p>I don’t think there is a weak moment on the entire album, impressive for this style of music. Even the quieter, more reflective tracks like Past Tense have enough going on, odd movements and strange chord changes, to keep your ear invested. Stand-out <a href="/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234406">tracks on the album</a>, for me, include <strong>The Abysmal Eye</strong>, <strong>They Move Below</strong>, <strong>Past Tense</strong>, <strong>Kaleidoscope</strong>, and <strong>The Faultless</strong>. In these tracks, I definitely felt like I was hearing something truly new from the band.</p>
 
 
 
-<p>Meshuggah wrote this album the same way it wrote its preceding one&nbsp;–&nbsp;on a computer. Tomas Haake, drummer and lyricist, <a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104751">writes all of his drum parts on a computer</a> inside Cubase, the guitarists will then layer guitars over the top of the programmed drums. This gets the general theme of the song down, ready for live recording.</p>
+<p>Meshuggah wrote this album the same way it wrote its preceding one&nbsp;–&nbsp;on a computer. Tomas Haake, drummer and lyricist, <a href="/ezdrummer-2-worth-it/" data-lasso-id="104751">writes all of his drum parts on a computer</a> inside Cubase, the guitarists will then layer guitars over the top of the programmed drums. This gets the general theme of the song down, ready for live recording.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p>They all just sound inhumanly good, nailing their parts with precision and, as usual, the band’s iconic, razor-sharp tone. From the guitars of Fredrik Thordendal and Mårten Hagström to the otherworldly drumming of Tomas Haake that is so good it makes <strong><a href="https://www.electrikjam.com/new-tool-album-release-date/" data-type="post" data-id="6381" data-lasso-id="101291">TOOL&#8217;s Danny Carey</a></strong> sound like Lars Ulrich, Meshuggah is –&nbsp;and has been for the last 20 years – the musical benchmark for precision metal. Nothing else gets even remotely close to what these guys do.</p>
+<p>They all just sound inhumanly good, nailing their parts with precision and, as usual, the band’s iconic, razor-sharp tone. From the guitars of Fredrik Thordendal and Mårten Hagström to the otherworldly drumming of Tomas Haake that is so good it makes <strong><a href="/new-tool-album-release-date/" data-type="post" data-id="6381" data-lasso-id="101291">TOOL&#8217;s Danny Carey</a></strong> sound like Lars Ulrich, Meshuggah is –&nbsp;and has been for the last 20 years – the musical benchmark for precision metal. Nothing else gets even remotely close to what these guys do.</p>
 
 
 
@@ -145,7 +145,7 @@ seo:
 
 
 
-<p>Overall, Meshuggah’s <strong>IMMUTABLE </strong>is by far one of the band’s best albums in recent memory, no mean feat when you consider that <a href="https://www.electrikjam.com/meshuggah-meme/" data-lasso-id="104065">Meshuggah does not make bad records</a>. <strong>IMMUTABLE</strong> is better than <strong>The Violent Sleep of Reason</strong>, in my opinion, having a lot more memorable moments, all the usual heaviness, and some new and really beautiful parts that, for me, make it one of the best new metal albums of the last few years. If you’re a fan of Meshuggah, you’ll love what the guys have done on this record.</p>
+<p>Overall, Meshuggah’s <strong>IMMUTABLE </strong>is by far one of the band’s best albums in recent memory, no mean feat when you consider that <a href="/meshuggah-meme/" data-lasso-id="104065">Meshuggah does not make bad records</a>. <strong>IMMUTABLE</strong> is better than <strong>The Violent Sleep of Reason</strong>, in my opinion, having a lot more memorable moments, all the usual heaviness, and some new and really beautiful parts that, for me, make it one of the best new metal albums of the last few years. If you’re a fan of Meshuggah, you’ll love what the guys have done on this record.</p>
 
 
 

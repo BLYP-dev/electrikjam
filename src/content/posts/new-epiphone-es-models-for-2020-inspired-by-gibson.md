@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>This has been an crazy year for <a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2594">Epiphone</a>. We have seen the classic lineup completely expand, and seen popular models change their designs. The lineup continues to expand with the new Epiphone ES models &#8220;Inspired By Gibson&#8221;.</strong></p>
+<p><strong>This has been an crazy year for <a href="/epiphone-guitars/" data-lasso-id="2594">Epiphone</a>. We have seen the classic lineup completely expand, and seen popular models change their designs. The lineup continues to expand with the new Epiphone ES models &#8220;Inspired By Gibson&#8221;.</strong></p>
 
 
 
@@ -55,11 +55,11 @@ seo:
 
 
 
-<p>These new models are beautiful, affordable editions of the more expensive Gibson versions. And in 2021, Epiphone is releasing a <strong><a href="https://www.electrikjam.com/epiphone-slash-signature-series/" class="rank-math-link" data-lasso-id="452">Slash Signature Series</a></strong> too, so the company&#8217;s hot-streak looks set to continue in the new year. </p>
+<p>These new models are beautiful, affordable editions of the more expensive Gibson versions. And in 2021, Epiphone is releasing a <strong><a href="/epiphone-slash-signature-series/" class="rank-math-link" data-lasso-id="452">Slash Signature Series</a></strong> too, so the company&#8217;s hot-streak looks set to continue in the new year. </p>
 
 
 
-<p>Over the past few weeks we have taken a gander at the <a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="453">Epiphone Prophecy Series</a>, which is tailored to Metal players with epic features. Just as we were catching our breath, Epiphone drops the <a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="454">legendary &#8220;59 Les Paul models</a>. In fact, the <a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-lasso-id="455">&#8217;59 Les Paul series</a> is a complete collaboration with the Gibson Custom shop, with premium parts.</p>
+<p>Over the past few weeks we have taken a gander at the <a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="453">Epiphone Prophecy Series</a>, which is tailored to Metal players with epic features. Just as we were catching our breath, Epiphone drops the <a href="/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="454">legendary &#8220;59 Les Paul models</a>. In fact, the <a href="/jimmy-page-favorite-guitar/" data-lasso-id="455">&#8217;59 Les Paul series</a> is a complete collaboration with the Gibson Custom shop, with premium parts.</p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-lasso-id="456">Epiphone</a></strong> has always made a few of the ES models over the years. But this year, the ante has been upped to the maximum level with professional features. This comes in the form of two specific models:</p>
+<p><strong><a class="rank-math-link" href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-lasso-id="456">Epiphone</a></strong> has always made a few of the ES models over the years. But this year, the ante has been upped to the maximum level with professional features. This comes in the form of two specific models:</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p><strong>ES 339:</strong> The Epiphone ES 339 (<em>Top Image</em>) is <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9529">essentially the same guitar</a> as the 335, but with a smaller, lighter body. These changes to size and weight are more modern. The features between two models remains the same.</p>
+<p><strong>ES 339:</strong> The Epiphone ES 339 (<em>Top Image</em>) is <a href="/must-have-for-recording-guitar/" data-lasso-id="9529">essentially the same guitar</a> as the 335, but with a smaller, lighter body. These changes to size and weight are more modern. The features between two models remains the same.</p>
 
 
 
@@ -139,11 +139,11 @@ seo:
 
 
 
-<p><strong>YES!</strong> We are most definitely a website that specializes in Metal of all genres. You may think that semi-hollow <a href="https://www.electrikjam.com/sire-guitars-l7-review/" data-lasso-id="37750">guitars like the new Epiphone</a> ES Models would be awful for Metal and Rock, right?</p>
+<p><strong>YES!</strong> We are most definitely a website that specializes in Metal of all genres. You may think that semi-hollow <a href="/sire-guitars-l7-review/" data-lasso-id="37750">guitars like the new Epiphone</a> ES Models would be awful for Metal and Rock, right?</p>
 
 
 
-<p>You would be <em>dead wrong</em>! There are many guitarists out there that use the ES 335 and ES 339 for heavy music. <a href="https://www.electrikjam.com/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="8214"><strong>Chelsea Wolfe</strong></a> ss a great example. She uses her semi-hollow <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237999">Gibson to play her brand</a> of pitch black Sludge Metal on albums like &#8220;Abyss.</p>
+<p>You would be <em>dead wrong</em>! There are many guitarists out there that use the ES 335 and ES 339 for heavy music. <a href="/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="8214"><strong>Chelsea Wolfe</strong></a> ss a great example. She uses her semi-hollow <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237999">Gibson to play her brand</a> of pitch black Sludge Metal on albums like &#8220;Abyss.</p>
 
 
 
@@ -151,15 +151,15 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84781"><strong>Josh Homme</strong></a> also famously recorded a good portion of &#8221; Lullabies To Paralyze&#8221; with an Epiphone ES 335 &#8220;Dot&#8221; model. Since that album, the Dot has been a staple of the<strong> Queens Of The Stone Age</strong> sound. It may not be conventional, but you can&#8217;t deny the results.</p>
+<p><a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84781"><strong>Josh Homme</strong></a> also famously recorded a good portion of &#8221; Lullabies To Paralyze&#8221; with an Epiphone ES 335 &#8220;Dot&#8221; model. Since that album, the Dot has been a staple of the<strong> Queens Of The Stone Age</strong> sound. It may not be conventional, but you can&#8217;t deny the results.</p>
 
 
 
-<p>There is a mindset that semi-hollow guitars are only for Blues or Jazz music. The reality is that guitar is a tool to create sound, and the semi-hollow sound lends itself to a different flavor of sonic distinction. You can get heavy with just about any type of guitar, <a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="457">as we have talked about before.</a></p>
+<p>There is a mindset that semi-hollow guitars are only for Blues or Jazz music. The reality is that guitar is a tool to create sound, and the semi-hollow sound lends itself to a different flavor of sonic distinction. You can get heavy with just about any type of guitar, <a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="457">as we have talked about before.</a></p>
 
 
 
-<p>These ES models can sound mean and dirty just as much as a <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="458">Les Paul</a>. There is the issue of feedback under high gain. But a good noise gate can easily tame the feedback, and you are free to chug away on your semi-hollow guitar. Metal is about free expression and treading new waters of sound. The world can be boring; be different!</p>
+<p>These ES models can sound mean and dirty just as much as a <a href="/types-of-guitars-guide/" data-lasso-id="458">Les Paul</a>. There is the issue of feedback under high gain. But a good noise gate can easily tame the feedback, and you are free to chug away on your semi-hollow guitar. Metal is about free expression and treading new waters of sound. The world can be boring; be different!</p>
 
 
 

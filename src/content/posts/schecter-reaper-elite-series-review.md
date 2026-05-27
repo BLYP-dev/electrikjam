@@ -50,15 +50,15 @@ seo:
 
 
 
-<p>That isn&#8217;t to say that the original Reaper wasn&#8217;t <em>striking</em> in appearance, because it most certainly drew some attention! But gone was all of the Abalone binding and things that made <a data-lasso-id="208160" href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter as a brand</strong></a> the subject of sometimes&#8230;harsh criticism (<em>I LIKE the fun designs, personally</em>). The Reaper was a new design, but it was also pretty unique in a sea of &#8220;Burl top guitars&#8221; in 2018.</p>
+<p>That isn&#8217;t to say that the original Reaper wasn&#8217;t <em>striking</em> in appearance, because it most certainly drew some attention! But gone was all of the Abalone binding and things that made <a data-lasso-id="208160" href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter as a brand</strong></a> the subject of sometimes&#8230;harsh criticism (<em>I LIKE the fun designs, personally</em>). The Reaper was a new design, but it was also pretty unique in a sea of &#8220;Burl top guitars&#8221; in 2018.</p>
 
 
 
-<p>The original Reaper featured a double cutaway body, and a Burl top with a cutaway to bare wood for the forearm slope. The back of the guitar was unfinished wood, with a 5 piece neck thru construction. It had the <a data-lasso-id="208161" href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener"><strong>Sustainiac</strong></a> option, <a data-lasso-id="208162" href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener"><strong>Floyd Rose</strong></a>, and even a multi-scale <a data-lasso-id="208163" href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener"><strong>7 string</strong></a>. The Reaper offered a lot of high end features for what was a reasonably &#8220;mid-range priced&#8221; guitar.</p>
+<p>The original Reaper featured a double cutaway body, and a Burl top with a cutaway to bare wood for the forearm slope. The back of the guitar was unfinished wood, with a 5 piece neck thru construction. It had the <a data-lasso-id="208161" href="/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener"><strong>Sustainiac</strong></a> option, <a data-lasso-id="208162" href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener"><strong>Floyd Rose</strong></a>, and even a multi-scale <a data-lasso-id="208163" href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener"><strong>7 string</strong></a>. The Reaper offered a lot of high end features for what was a reasonably &#8220;mid-range priced&#8221; guitar.</p>
 
 
 
-<p>Last week I said in my <a data-lasso-id="208164" href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-type="post" data-id="10173" target="_blank" rel="noopener"><strong>Solo II Supreme review</strong></a>, that I wish Schecter would take some of the other popular models and give them the &#8220;supreme&#8221; treatment. This means amazing Flame Maple tops, with beautiful finishes. <strong>But those Solo II models also had every upgrade imaginable, making them a<em> great </em>choice for any professional guitarist.</strong></p>
+<p>Last week I said in my <a data-lasso-id="208164" href="/schecter-solo-ii-supreme-guitar-review/" data-type="post" data-id="10173" target="_blank" rel="noopener"><strong>Solo II Supreme review</strong></a>, that I wish Schecter would take some of the other popular models and give them the &#8220;supreme&#8221; treatment. This means amazing Flame Maple tops, with beautiful finishes. <strong>But those Solo II models also had every upgrade imaginable, making them a<em> great </em>choice for any professional guitarist.</strong></p>
 
 
 
@@ -66,7 +66,7 @@ seo:
 
 
 
-<p>Luckily, I got to try out the <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231847">Schecter Reaper Elite Series this past</a> week. I don&#8217;t want to spoil the review for you, but this <em>might be one of the best production guitars that I have come across</em>. Like I said, there are a lot of design elements taken directly from the USA Custom Shop, and South Korea <em>definitely</em> knows how to build a guitar.</p>
+<p>Luckily, I got to try out the <a href="/schecter-mv-6-review/" data-lasso-id="231847">Schecter Reaper Elite Series this past</a> week. I don&#8217;t want to spoil the review for you, but this <em>might be one of the best production guitars that I have come across</em>. Like I said, there are a lot of design elements taken directly from the USA Custom Shop, and South Korea <em>definitely</em> knows how to build a guitar.</p>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>We got to check out a Blood Burst Fixed Bridge, and Deep Ocean Blue Floyd Rose.<strong> I know this is a famous complaint when it comes to <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247841">Schecter Guitars</a>, but if you are paying $1500 for a guitar&#8230;maybe throw in a gig bag? </strong>I know a hard case is a lot to ask for in this economy, but a nice gig bag would be better than a cardboard box. Just a small thing!</p>
+<p>We got to check out a Blood Burst Fixed Bridge, and Deep Ocean Blue Floyd Rose.<strong> I know this is a famous complaint when it comes to <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247841">Schecter Guitars</a>, but if you are paying $1500 for a guitar&#8230;maybe throw in a gig bag? </strong>I know a hard case is a lot to ask for in this economy, but a nice gig bag would be better than a cardboard box. Just a small thing!</p>
 
 
 
@@ -212,11 +212,11 @@ seo:
 
 
 
-<p><strong>The Deep Ocean Blue Floyd Rose</strong> was also visually flawless. There was one slightly questionable part of the binding next to the bottom strap button, but it was barely noticeable (a rough patch). Now<a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="208696"><strong> with a Floyd Rose</strong></a>, you usually have to set it up the way YOU like it. But the Floyd was set up to be playable, and just needed a tune up. If it were my guitar, I would lower the Floyd slightly. <strong>The fretwork again, is impeccable.</strong></p>
+<p><strong>The Deep Ocean Blue Floyd Rose</strong> was also visually flawless. There was one slightly questionable part of the binding next to the bottom strap button, but it was barely noticeable (a rough patch). Now<a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="208696"><strong> with a Floyd Rose</strong></a>, you usually have to set it up the way YOU like it. But the Floyd was set up to be playable, and just needed a tune up. If it were my guitar, I would lower the Floyd slightly. <strong>The fretwork again, is impeccable.</strong></p>
 
 
 
-<p>It has been very cold in the United States, so I was scared that the fretwork on the Schecter Reaper Elite Series might have been affected. I expected maybe some minimal amount of fret sprout, but they were both fine. <strong>Both guitars <a href="https://www.electrikjam.com/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229704">absolutely</a> needed a tweak of the truss rod right out of the box.</strong> <em>This happens with just about any guitar that you get right out of the box.</em></p>
+<p>It has been very cold in the United States, so I was scared that the fretwork on the Schecter Reaper Elite Series might have been affected. I expected maybe some minimal amount of fret sprout, but they were both fine. <strong>Both guitars <a href="/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229704">absolutely</a> needed a tweak of the truss rod right out of the box.</strong> <em>This happens with just about any guitar that you get right out of the box.</em></p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="248998">Schecter Reaper Elite Series would not be complete without a 7 string</a> variant, and this is a really COOL guitar. Out of the box, there were no finish issues and the binding was fantastic. The frets were also great and each one was perfectly level. However, we did have some fret sprout on the bass side on the neck. This does not affect playability at all, and I blame our recent weather. The neck seemed rather dry, so that might be an easy fix!</p>
+<p>The <a href="/schecter-sunset-triad-review/" data-lasso-id="248998">Schecter Reaper Elite Series would not be complete without a 7 string</a> variant, and this is a really COOL guitar. Out of the box, there were no finish issues and the binding was fantastic. The frets were also great and each one was perfectly level. However, we did have some fret sprout on the bass side on the neck. This does not affect playability at all, and I blame our recent weather. The neck seemed rather dry, so that might be an easy fix!</p>
 
 
 
@@ -268,11 +268,11 @@ seo:
 
 
 
-<p><strong>The Neck </strong>is the same as the original Reaper, and the &#8220;Ultra Thin C&#8221; translates well over to the Wenge neck. This is probably as close to an <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255035">Ibanez neck</a> that you will ever get from Schecter, but it is still very comfortable. The shoulders are not very pronounced, so it &#8220;feels&#8221; fast when moving up and down. <em>But without being so thin that your hand cramps up.</em></p>
+<p><strong>The Neck </strong>is the same as the original Reaper, and the &#8220;Ultra Thin C&#8221; translates well over to the Wenge neck. This is probably as close to an <a href="/ibanez-guitars/" data-lasso-id="255035">Ibanez neck</a> that you will ever get from Schecter, but it is still very comfortable. The shoulders are not very pronounced, so it &#8220;feels&#8221; fast when moving up and down. <em>But without being so thin that your hand cramps up.</em></p>
 
 
 
-<p>I have tried Wenge necks before, with the<a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="208697"> <strong>Nick Johnston</strong></a> models, and I<em> loved</em> the feel. The Schecter Reaper Elite Series might be <strong>my favorite new neck</strong>! I liked the Original Reaper neck a lot, but the feel of Wenge is absolutely amazing in you hands. You cannot really feel the grain or pores, but you can <em>see </em>them. This is a satin finish that may get slippery over time as you play it, which is an easy fix (Some steel wool will fix it).</p>
+<p>I have tried Wenge necks before, with the<a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="208697"> <strong>Nick Johnston</strong></a> models, and I<em> loved</em> the feel. The Schecter Reaper Elite Series might be <strong>my favorite new neck</strong>! I liked the Original Reaper neck a lot, but the feel of Wenge is absolutely amazing in you hands. You cannot really feel the grain or pores, but you can <em>see </em>them. This is a satin finish that may get slippery over time as you play it, which is an easy fix (Some steel wool will fix it).</p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p><strong>The Specs </strong>on both models are the <em>best of the best</em>. The fixed bridge option has the high mass Hipshot bridge, with matching Hipshot locking tuners. I have put these tuners on my <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="208698"><strong>Demon 7 </strong></a>and I love how <em>accurate</em> these are when tuning up. The Floyd version gets Grover, and I wish it had locking tuners as well. I put locking tuners on my Floyd Rose guitars, and <em>maybe that makes me weird?</em></p>
+<p><strong>The Specs </strong>on both models are the <em>best of the best</em>. The fixed bridge option has the high mass Hipshot bridge, with matching Hipshot locking tuners. I have put these tuners on my <a href="/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="208698"><strong>Demon 7 </strong></a>and I love how <em>accurate</em> these are when tuning up. The Floyd version gets Grover, and I wish it had locking tuners as well. I put locking tuners on my Floyd Rose guitars, and <em>maybe that makes me weird?</em></p>
 
 
 
@@ -324,7 +324,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-type="post" data-id="8124" target="_blank" rel="noopener" data-lasso-id="208699"><strong>Rob Scallon Signature</strong></a> was the first Schecter model that I played with this new feature. The &#8220;fan&#8221; is totally different, and easier to play. <strong>This is because the &#8220;zero fret&#8217; is on the 7th fret, instead of being higher up.</strong> <strong>Most companies use the 12th fret as the zero fret, or the &#8220;straight&#8221; fret.</strong> By using the 7th fret, it makes the fan of the frets less &#8220;dramatic&#8221; across the neck.</p>
+<p>The <a href="/new-schecter-rob-scallon-guitars-review/" data-type="post" data-id="8124" target="_blank" rel="noopener" data-lasso-id="208699"><strong>Rob Scallon Signature</strong></a> was the first Schecter model that I played with this new feature. The &#8220;fan&#8221; is totally different, and easier to play. <strong>This is because the &#8220;zero fret&#8217; is on the 7th fret, instead of being higher up.</strong> <strong>Most companies use the 12th fret as the zero fret, or the &#8220;straight&#8221; fret.</strong> By using the 7th fret, it makes the fan of the frets less &#8220;dramatic&#8221; across the neck.</p>
 
 
 
@@ -360,7 +360,7 @@ seo:
 
 
 
-<p>These sound great in the two six string models, which are in <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-type="post" data-id="8536" target="_blank" rel="noopener" data-lasso-id="208700"><strong>standard tuning</strong></a>. But the 7 string I tuned down to<strong> <a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="208701">drop A</a></strong>, which is where I think you start to get <em>muddy</em> with most pickups. <strong>It sounded crystal clear, even with lower ranged chords.</strong> You could easily tune lower, and <em>never lose</em> that punch and clarity.</p>
+<p>These sound great in the two six string models, which are in <a href="/10-metal-bands-that-play-in-standard-tuning/" data-type="post" data-id="8536" target="_blank" rel="noopener" data-lasso-id="208700"><strong>standard tuning</strong></a>. But the 7 string I tuned down to<strong> <a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="208701">drop A</a></strong>, which is where I think you start to get <em>muddy</em> with most pickups. <strong>It sounded crystal clear, even with lower ranged chords.</strong> You could easily tune lower, and <em>never lose</em> that punch and clarity.</p>
 
 
 

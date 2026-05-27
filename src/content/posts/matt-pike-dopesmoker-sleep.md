@@ -36,11 +36,11 @@ seo:
 
 
 
-<p>SLEEP formed in the late-1980s. <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="1252">Fuelled by a love of Black Sabbath and weed</a></strong>, the San Jose doom trio, in a relatively short space of time, had a huge impact on the underground music scene during the early 1990s.</p>
+<p>SLEEP formed in the late-1980s. <strong><a href="/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="1252">Fuelled by a love of Black Sabbath and weed</a></strong>, the San Jose doom trio, in a relatively short space of time, had a huge impact on the underground music scene during the early 1990s.</p>
 
 
 
-<p>This was an era when Nirvana were dominating MTV, when <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1253">the Melvins were touring their seminal Houdini album</a></strong>. A time when Soundgarden were recording, touring and working on new material.</p>
+<p>This was an era when Nirvana were dominating MTV, when <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1253">the Melvins were touring their seminal Houdini album</a></strong>. A time when Soundgarden were recording, touring and working on new material.</p>
 
 
 
@@ -48,7 +48,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>FYI – <a class="rank-math-link" href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="1254">Wanna Learn Guitar Properly? Read This…</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>FYI – <a class="rank-math-link" href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="1254">Wanna Learn Guitar Properly? Read This…</a></strong></li></ul>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>Pike uses feedback, distortion, blues riffs, the pentatonic scale, and low-tunings to achieve <a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-lasso-id="1255">his distinctive guitar tone</a>. <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link" data-lasso-id="1256">He&#8217;s also a big Gibson Les Paul advocate</a></strong> and he always plays shirtless. </p>
+<p>Pike uses feedback, distortion, blues riffs, the pentatonic scale, and low-tunings to achieve <a href="/killer-guitar-tone-without-hardware/" data-lasso-id="1255">his distinctive guitar tone</a>. <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link" data-lasso-id="1256">He&#8217;s also a big Gibson Les Paul advocate</a></strong> and he always plays shirtless. </p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-lasso-id="1257">Al and Matt Pike</a>, in his own words, were “smoking a lot of weed” and dropping acid on a pretty regular basis. It was during this period, a period of being pissed off at their label’s demands, that Pike and co started thinking about a concept album that would eventually become DOPESMOKER.</p>
+<p><a href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-lasso-id="1257">Al and Matt Pike</a>, in his own words, were “smoking a lot of weed” and dropping acid on a pretty regular basis. It was during this period, a period of being pissed off at their label’s demands, that Pike and co started thinking about a concept album that would eventually become DOPESMOKER.</p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="980" height="653" src="/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="" class="wp-image-2820" title="" srcset="/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, /wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, /wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, /wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, /wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /><figcaption>Matt Pike Rocking His <strong><a href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" class="rank-math-link" data-lasso-id="1259">Gibson Les Paul Standard</a></strong>, Shirtless Of Course&#8230;</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="980" height="653" src="/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="" class="wp-image-2820" title="" srcset="/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, /wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, /wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, /wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, /wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /><figcaption>Matt Pike Rocking His <strong><a href="/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" class="rank-math-link" data-lasso-id="1259">Gibson Les Paul Standard</a></strong>, Shirtless Of Course&#8230;</figcaption></figure>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>After a battle with Earache Records, SLEEP were eventually free to sign with London Records, a label that during this period did not have any <a href="https://www.electrikjam.com/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="1260">metal bands</a> on its books. London promised SLEEP complete artistic freedom for the album that would eventually become DOPESMOKER/Jerusalem.</p>
+<p>After a battle with Earache Records, SLEEP were eventually free to sign with London Records, a label that during this period did not have any <a href="/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="1260">metal bands</a> on its books. London promised SLEEP complete artistic freedom for the album that would eventually become DOPESMOKER/Jerusalem.</p>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<p>In order to make DOPESMOKER/Jerusalem sound as loud and huge as possible, <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5825">SLEEP had some custom amps made</a>. According to Pike, the amps were so loud that you could not stand in the same room as them. In order to capture this mountain of sound, SLEEP and its engineers used 12 room-microphones to capture the complete dynamic profile of the amp and the acoustics of the room.</p>
+<p>In order to make DOPESMOKER/Jerusalem sound as loud and huge as possible, <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5825">SLEEP had some custom amps made</a>. According to Pike, the amps were so loud that you could not stand in the same room as them. In order to capture this mountain of sound, SLEEP and its engineers used 12 room-microphones to capture the complete dynamic profile of the amp and the acoustics of the room.</p>
 
 
 
@@ -271,7 +271,7 @@ seo:
 <h3 class="rank-math-question ">What Guitar Does Matt Pike Use? </h3>
 <div class="rank-math-answer ">
 
-<p>Matt Pike uses a <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link">Gibson Les Paul Custom</a></strong>. However, Pike uses his own custom pickups. And those pickups are as follows: Dragonauts in bridge and neck, and a Dirty Hesher in middle.</p>
+<p>Matt Pike uses a <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link">Gibson Les Paul Custom</a></strong>. However, Pike uses his own custom pickups. And those pickups are as follows: Dragonauts in bridge and neck, and a Dirty Hesher in middle.</p>
 
 </div>
 </div>

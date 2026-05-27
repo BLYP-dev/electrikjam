@@ -45,7 +45,7 @@ seo:
 
 
 
-<p>Chances are, if you’re on this site, reading about drop tunings on guitar, you like <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="97815">metal or doom or sludge</a></strong> and you want to start playing in lower tunings to dial in that HEAVY guitar sound.</p>
+<p>Chances are, if you’re on this site, reading about drop tunings on guitar, you like <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="97815">metal or doom or sludge</a></strong> and you want to start playing in lower tunings to dial in that HEAVY guitar sound.</p>
 
 
 
@@ -53,15 +53,15 @@ seo:
 
 
 
-<p>You could potentially take a set of standard gauge strings to <strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="97816">Drop D</a></strong> but that’d be about as far as you’d get before string tension became an issue. For instance, if your guitar is in standard tuning and you take it down to <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="97817">C Standard</a></strong>, for instance, the strings will feel awful – they’ll be wobbly and sound like crap.</p>
+<p>You could potentially take a set of standard gauge strings to <strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="97816">Drop D</a></strong> but that’d be about as far as you’d get before string tension became an issue. For instance, if your guitar is in standard tuning and you take it down to <strong><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="97817">C Standard</a></strong>, for instance, the strings will feel awful – they’ll be wobbly and sound like crap.</p>
 
 
 
-<p>This happens because the guitar strings you use for standard tuning and Drop D have a different gauge than the ones you use for much lower tunings like <strong><a href="https://www.electrikjam.com/tag/guitar-tuning/" data-lasso-id="97818">C Standard and Drop C and B Standard</a></strong>. As a general rule of thumb, the lower your tuning, the higher your string tension needs to be – without adequate tension you get fret noise.</p>
+<p>This happens because the guitar strings you use for standard tuning and Drop D have a different gauge than the ones you use for much lower tunings like <strong><a href="/tag/guitar-tuning/" data-lasso-id="97818">C Standard and Drop C and B Standard</a></strong>. As a general rule of thumb, the lower your tuning, the higher your string tension needs to be – without adequate tension you get fret noise.</p>
 
 
 
-<p>Ideally, you want the exact same tension you had in <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142227">standard tuning</a> when you tune down. That way, your guitar will play the same, sound great, and stay in tune for longer – again, if the strings move too much, as they do when there’s not enough tension, they stretch more and lose their tuning quicker. Tension is king when it comes to <a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216928">playing in lower tunings</a>. And this is where different string gauges come into play…</p>
+<p>Ideally, you want the exact same tension you had in <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142227">standard tuning</a> when you tune down. That way, your guitar will play the same, sound great, and stay in tune for longer – again, if the strings move too much, as they do when there’s not enough tension, they stretch more and lose their tuning quicker. Tension is king when it comes to <a href="/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216928">playing in lower tunings</a>. And this is where different string gauges come into play…</p>
 
 
 
@@ -73,7 +73,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>D STANDARD – <strong><a href="https://www.electrikjam.com/exl-117/" target="_blank" rel="nofollow noopener" data-lasso-id="97819" data-lasso-name="D&#039;Addario EXL117">D&#8217;Addario EXL117</a></strong></strong></li><li><strong>C STANDARD – <strong><a href="https://guitar-center.pxf.io/e4xnqQ" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="97820" data-lasso-name="D&#039;Addario EXL148 Nickel-Wound, Drop C Tuning Electric Guitar Strings | Guitar Center">D&#8217;Addario XL148</a></strong></strong></li><li><strong>DROP C – <strong><a href="https://guitar-center.pxf.io/e4xnqQ" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="97821" data-lasso-name="D&#039;Addario EXL148 Nickel-Wound, Drop C Tuning Electric Guitar Strings | Guitar Center">D&#8217;Addario XL148</a></strong></strong></li><li><strong>B STANDARD – <a href="https://guitar-center.pxf.io/GjYbn9" data-lasso-id="97822" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="D&#039;Addario NYXL1356W Medium Electric Guitar Strings | Guitar Center"><strong>D&#8217;Addario NYXL1356W</strong></a></strong></li><li><strong>DROP B – <a href="https://guitar-center.pxf.io/GjYbn9" data-lasso-id="97823" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="D&#039;Addario NYXL1356W Medium Electric Guitar Strings | Guitar Center"><strong>D&#8217;Addario NYXL1356W</strong></a></strong></li><li><strong>A STANDARD – <strong><a href="https://guitar-center.pxf.io/JrYkJ7" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="97824" data-lasso-name="DR Strings Drop-Down Tuning Big-Heavy Guitar Strings | Guitar Center">DR Strings Drop-Down Tuning Big-Heavy</a></strong></strong></li><li><strong>DROP A – <a href="https://guitar-center.pxf.io/JrYkJ7" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="97825" data-lasso-name="DR Strings Drop-Down Tuning Big-Heavy Guitar Strings | Guitar Center">DR Strings Drop-Down Tuning Big-Heavy</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>D STANDARD – <strong><a href="/exl-117/" target="_blank" rel="nofollow noopener" data-lasso-id="97819" data-lasso-name="D&#039;Addario EXL117">D&#8217;Addario EXL117</a></strong></strong></li><li><strong>C STANDARD – <strong><a href="https://guitar-center.pxf.io/e4xnqQ" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="97820" data-lasso-name="D&#039;Addario EXL148 Nickel-Wound, Drop C Tuning Electric Guitar Strings | Guitar Center">D&#8217;Addario XL148</a></strong></strong></li><li><strong>DROP C – <strong><a href="https://guitar-center.pxf.io/e4xnqQ" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="97821" data-lasso-name="D&#039;Addario EXL148 Nickel-Wound, Drop C Tuning Electric Guitar Strings | Guitar Center">D&#8217;Addario XL148</a></strong></strong></li><li><strong>B STANDARD – <a href="https://guitar-center.pxf.io/GjYbn9" data-lasso-id="97822" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="D&#039;Addario NYXL1356W Medium Electric Guitar Strings | Guitar Center"><strong>D&#8217;Addario NYXL1356W</strong></a></strong></li><li><strong>DROP B – <a href="https://guitar-center.pxf.io/GjYbn9" data-lasso-id="97823" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="D&#039;Addario NYXL1356W Medium Electric Guitar Strings | Guitar Center"><strong>D&#8217;Addario NYXL1356W</strong></a></strong></li><li><strong>A STANDARD – <strong><a href="https://guitar-center.pxf.io/JrYkJ7" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="97824" data-lasso-name="DR Strings Drop-Down Tuning Big-Heavy Guitar Strings | Guitar Center">DR Strings Drop-Down Tuning Big-Heavy</a></strong></strong></li><li><strong>DROP A – <a href="https://guitar-center.pxf.io/JrYkJ7" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="97825" data-lasso-name="DR Strings Drop-Down Tuning Big-Heavy Guitar Strings | Guitar Center">DR Strings Drop-Down Tuning Big-Heavy</a></strong></li></ul>
 
 
 
@@ -111,11 +111,11 @@ seo:
 
 
 
-<p>For instance, a Les Paul-style guitar has a shorter scale length than a <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="97826">Strat or Tele-style guitar</a></strong>. This means that, on the Les Paul, your strings would naturally feel more forgiving than they would on the Strat or Tele in standard tuning and using the exact same strings because the scale length is shorter, so there’s less natural tension acting on the strings.</p>
+<p>For instance, a Les Paul-style guitar has a shorter scale length than a <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="97826">Strat or Tele-style guitar</a></strong>. This means that, on the Les Paul, your strings would naturally feel more forgiving than they would on the Strat or Tele in standard tuning and using the exact same strings because the scale length is shorter, so there’s less natural tension acting on the strings.</p>
 
 
 
-<p>Similarly, if you decided to tune the Strat or Tele down to, say, <strong><a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-type="post" data-id="7040" data-lasso-id="97827">D Standard</a></strong>, you’d have more wriggle room with tension because these styles of guitars have naturally higher tension – the distance from the bridge to the nut, AKA scale length, is longer.</p>
+<p>Similarly, if you decided to tune the Strat or Tele down to, say, <strong><a href="/bands-that-play-in-d-standard/" data-type="post" data-id="7040" data-lasso-id="97827">D Standard</a></strong>, you’d have more wriggle room with tension because these styles of guitars have naturally higher tension – the distance from the bridge to the nut, AKA scale length, is longer.</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p>Another example: <strong><a href="https://www.electrikjam.com/types-of-guitars-guide/" data-type="post" data-id="2545" data-lasso-id="97828">if you have a baritone guitar</a></strong>, the scale length is even longer, so you’d have even more tension on the strings – using the same tuning and strings as we did above – and this would make it harder to play. When the tension is too high, the strings are harder to bend, for instance, and this will have a direct effect on your playing.</p>
+<p>Another example: <strong><a href="/types-of-guitars-guide/" data-type="post" data-id="2545" data-lasso-id="97828">if you have a baritone guitar</a></strong>, the scale length is even longer, so you’d have even more tension on the strings – using the same tuning and strings as we did above – and this would make it harder to play. When the tension is too high, the strings are harder to bend, for instance, and this will have a direct effect on your playing.</p>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<p>When it comes to guitar strings – for electric guitars – the most common options, with respect to build materials, are nickel and steel strings. If you want to play metal – or doom or sludge – you’ll be using lots of <strong><a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-type="post" data-id="2938" data-lasso-id="97829">fuzz, overdrive, and/or distortion</a></strong>. If you want a warmer, fuller sound you’ll want to go with nickel-base strings.</p>
+<p>When it comes to guitar strings – for electric guitars – the most common options, with respect to build materials, are nickel and steel strings. If you want to play metal – or doom or sludge – you’ll be using lots of <strong><a href="/the-5-best-guitar-pedals-under-50-bucks/" data-type="post" data-id="2938" data-lasso-id="97829">fuzz, overdrive, and/or distortion</a></strong>. If you want a warmer, fuller sound you’ll want to go with nickel-base strings.</p>
 
 
 
@@ -155,5 +155,5 @@ seo:
 
 
 
-<p>And if you need more advice on different guitar tunings, make sure you <strong><a href="https://www.electrikjam.com/tag/guitar-tuning/" data-lasso-id="97830">check out our Guitar Tuning Resource Center</a></strong> – it has pretty much everything you’ll ever need to know about different guitar tunings inside it.</p>
+<p>And if you need more advice on different guitar tunings, make sure you <strong><a href="/tag/guitar-tuning/" data-lasso-id="97830">check out our Guitar Tuning Resource Center</a></strong> – it has pretty much everything you’ll ever need to know about different guitar tunings inside it.</p>
 

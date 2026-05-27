@@ -72,7 +72,7 @@ seo:
 
 
 
-<li><strong>Guitar Type</strong>: The type of guitar you have will affect the string gauge you choose. This mostly matters when we are <strong><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="218935">looking at different scale lengths</a></strong>.</li>
+<li><strong>Guitar Type</strong>: The type of guitar you have will affect the string gauge you choose. This mostly matters when we are <strong><a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="218935">looking at different scale lengths</a></strong>.</li>
 
 
 
@@ -121,7 +121,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-type="post" data-id="9267" target="_blank" rel="noopener" data-lasso-id="218936">Coated strings have become very popular recently</a></strong>, and they definitely last longer than &#8220;regular&#8221; strings. They also cost twice as much as regular strings, so this is a personal choice since they do feel different when you are playing. </p>
+<p><strong><a href="/expensive-guitar-strings-reviewed-worth-it/" data-type="post" data-id="9267" target="_blank" rel="noopener" data-lasso-id="218936">Coated strings have become very popular recently</a></strong>, and they definitely last longer than &#8220;regular&#8221; strings. They also cost twice as much as regular strings, so this is a personal choice since they do feel different when you are playing. </p>
 
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<p>Some brands do offer different materials that are going to help with longevity <strong><a href="https://www.electrikjam.com/daddario-nyxl1046-light-electric-guitar-strings-guitar-center/" data-type="lasso-urls" data-id="9278" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="218937" data-lasso-name="D&#039;Addario NYXL1046 Light Electric Guitar Strings">like NYXL</a></strong>, but it does not have a major effect on affect tone. These strings do hold tune better, since they are made from different, stronger metals.</p>
+<p>Some brands do offer different materials that are going to help with longevity <strong><a href="/daddario-nyxl1046-light-electric-guitar-strings-guitar-center/" data-type="lasso-urls" data-id="9278" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="218937" data-lasso-name="D&#039;Addario NYXL1046 Light Electric Guitar Strings">like NYXL</a></strong>, but it does not have a major effect on affect tone. These strings do hold tune better, since they are made from different, stronger metals.</p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>There are many types of guitar string gauges, but we want to cover the ones that get used the most. Here are some of the most common string gauges for different types of <strong><a href="https://www.electrikjam.com/how-to-tune-a-guitar/" target="_blank" data-type="post" data-id="441" rel="noopener" data-lasso-id="218938">guitars for Standard 440 Tuning</a></strong>:</p>
+<p>There are many types of guitar string gauges, but we want to cover the ones that get used the most. Here are some of the most common string gauges for different types of <strong><a href="/how-to-tune-a-guitar/" target="_blank" data-type="post" data-id="441" rel="noopener" data-lasso-id="218938">guitars for Standard 440 Tuning</a></strong>:</p>
 
 
 
@@ -245,7 +245,7 @@ seo:
 
 
 
-<p>All of these gauges are pretty common <a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221317">when it comes to standard tuning</a>. But different companies may ship your guitar with different string gauges, depending on the guitar brand.</p>
+<p>All of these gauges are pretty common <a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221317">when it comes to standard tuning</a>. But different companies may ship your guitar with different string gauges, depending on the guitar brand.</p>
 
 
 
@@ -281,7 +281,7 @@ seo:
 
 
 
-<p>All of these gauges will work great for minor de-tuning applications as well. If you want to <strong><a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" target="_blank" data-type="post" data-id="10787" rel="noopener" data-lasso-id="218939">tune down a half step</a></strong>, or if you want <strong><a href="https://www.electrikjam.com/drop-d-vs-drop-c-whats-the-difference/" target="_blank" data-type="post" data-id="6745" rel="noopener" data-lasso-id="218940">to try Drop D tuning</a></strong>, these gauges will be great.</p>
+<p>All of these gauges will work great for minor de-tuning applications as well. If you want to <strong><a href="/why-did-hendrix-play-in-e-flat-tuning/" target="_blank" data-type="post" data-id="10787" rel="noopener" data-lasso-id="218939">tune down a half step</a></strong>, or if you want <strong><a href="/drop-d-vs-drop-c-whats-the-difference/" target="_blank" data-type="post" data-id="6745" rel="noopener" data-lasso-id="218940">to try Drop D tuning</a></strong>, these gauges will be great.</p>
 
 
 
@@ -307,7 +307,7 @@ seo:
 
 
 
-<p>If you plan to <strong><a data-lasso-id="218941" href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener">tune down your guitar past Drop D tuning</a></strong>, you are going to need some thicker strings. If you try to tune down to D Standard with stock strings, they will probably be too floppy.</p>
+<p>If you plan to <strong><a data-lasso-id="218941" href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener">tune down your guitar past Drop D tuning</a></strong>, you are going to need some thicker strings. If you try to tune down to D Standard with stock strings, they will probably be too floppy.</p>
 
 
 
@@ -315,7 +315,7 @@ seo:
 
 
 
-<p>There is not really an official <a href="https://www.electrikjam.com/a-beginners-guide-to-dadgad-tuning/" data-lasso-id="237987">&#8220;guide&#8221; when it comes to guitar string gauges for tuning</a> down. You may have to try out a few different sets until you find your preferred tension.</p>
+<p>There is not really an official <a href="/a-beginners-guide-to-dadgad-tuning/" data-lasso-id="237987">&#8220;guide&#8221; when it comes to guitar string gauges for tuning</a> down. You may have to try out a few different sets until you find your preferred tension.</p>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<p>I recommend beginners to stay in standard tuning <strong><a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="218945">until you learn the notes of the fretboard</a></strong>. Tuning down will probably confuse most beginners while learning the basics.</p>
+<p>I recommend beginners to stay in standard tuning <strong><a href="/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="218945">until you learn the notes of the fretboard</a></strong>. Tuning down will probably confuse most beginners while learning the basics.</p>
 
 
 
@@ -465,7 +465,7 @@ seo:
 
 
 
-<p>You amp has EQ built-in that will have a much larger impact on your tone than your strings. <strong><a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="218946">Your speaker produces the overall sound</a></strong>, and it is just as important as your amplifier.</p>
+<p>You amp has EQ built-in that will have a much larger impact on your tone than your strings. <strong><a href="/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="218946">Your speaker produces the overall sound</a></strong>, and it is just as important as your amplifier.</p>
 
 
 
@@ -537,11 +537,11 @@ seo:
 
 
 
-<p>This can be a double-edged sword when it comes to beginners. It can be very difficult to play a heavy gauge, especially when you are just <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251766">starting to learn chords</a>. But heavy strings can also be a good learning tool.</p>
+<p>This can be a double-edged sword when it comes to beginners. It can be very difficult to play a heavy gauge, especially when you are just <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251766">starting to learn chords</a>. But heavy strings can also be a good learning tool.</p>
 
 
 
-<p>This is why <strong><a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-type="post" data-id="10336" target="_blank" rel="noopener" data-lasso-id="218947">some guitarists start playing on acoustic guitars </a></strong>instead of an electric one. Acoustic guitars have larger string gauges, and are not as easy to play as electric.</p>
+<p>This is why <strong><a href="/is-electric-guitar-ok-for-beginners/" data-type="post" data-id="10336" target="_blank" rel="noopener" data-lasso-id="218947">some guitarists start playing on acoustic guitars </a></strong>instead of an electric one. Acoustic guitars have larger string gauges, and are not as easy to play as electric.</p>
 
 
 
@@ -619,7 +619,7 @@ seo:
 
 
 
-<p>A big thing to consider if you are changing your string gauge, is your guitar&#8217;s setup. <strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="218943">If you have a floating bridge</a></strong>, it will need to be rebalanced/recalibrated. Likewise, you will probably also <strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="218944">have to reset your intonation</a></strong>, since the strings are holding more/less tension.</p>
+<p>A big thing to consider if you are changing your string gauge, is your guitar&#8217;s setup. <strong><a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="218943">If you have a floating bridge</a></strong>, it will need to be rebalanced/recalibrated. Likewise, you will probably also <strong><a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="218944">have to reset your intonation</a></strong>, since the strings are holding more/less tension.</p>
 
 
 
@@ -631,7 +631,7 @@ seo:
 
 
 
-<p>But the most <strong><a href="https://www.electrikjam.com/solving-guitar-tuning-issues-tutorial/" data-type="post" data-id="10273" target="_blank" rel="noopener" data-lasso-id="218948">important part of tuning stability</a></strong> is to make sure your nut is cut to the correct size. The other thing to remember, is to always stretch your strings.</p>
+<p>But the most <strong><a href="/solving-guitar-tuning-issues-tutorial/" data-type="post" data-id="10273" target="_blank" rel="noopener" data-lasso-id="218948">important part of tuning stability</a></strong> is to make sure your nut is cut to the correct size. The other thing to remember, is to always stretch your strings.</p>
 
 
 
@@ -723,7 +723,7 @@ seo:
 
 
 
-<p>So if you <strong><a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" target="_blank" data-type="post" data-id="9067" rel="noopener" data-lasso-id="218949">have a floating bridge like a Floyd Rose</a></strong>, you will need to adjust the tension of the springs in the back of the guitar. If this is not something you are experienced with, then take your guitar to a tech.</p>
+<p>So if you <strong><a href="/floyd-rose-bridge-explained/" target="_blank" data-type="post" data-id="9067" rel="noopener" data-lasso-id="218949">have a floating bridge like a Floyd Rose</a></strong>, you will need to adjust the tension of the springs in the back of the guitar. If this is not something you are experienced with, then take your guitar to a tech.</p>
 
 
 
@@ -837,7 +837,7 @@ seo:
 
 
 
-<p>But those factors are not in your control. Guitar companies make a guitar with a specific neck carve and body style. <strong><a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" target="_blank" data-type="post" data-id="10546" rel="noopener" data-lasso-id="218950">The top three guitar companies</a></strong> use different scale lengths as well.</p>
+<p>But those factors are not in your control. Guitar companies make a guitar with a specific neck carve and body style. <strong><a href="/what-is-the-best-electric-guitar-brand/" target="_blank" data-type="post" data-id="10546" rel="noopener" data-lasso-id="218950">The top three guitar companies</a></strong> use different scale lengths as well.</p>
 
 
 

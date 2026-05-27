@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Every morning I like to browse the Reddit forums about guitar while I drink coffee and wake up. Most of the time I am looking at people&#8217;s<a data-lasso-id="166875" href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener"> </a><strong><a data-lasso-id="166876" href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener">&#8220;NGD&#8221;</a> </strong>or &#8220;New Guitar Day&#8221;. People get a new guitar and post about it with pictures. Looking at guitars first thing in the morning is a proven method of making your day better!</p>
+<p>Every morning I like to browse the Reddit forums about guitar while I drink coffee and wake up. Most of the time I am looking at people&#8217;s<a data-lasso-id="166875" href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener"> </a><strong><a data-lasso-id="166876" href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener">&#8220;NGD&#8221;</a> </strong>or &#8220;New Guitar Day&#8221;. People get a new guitar and post about it with pictures. Looking at guitars first thing in the morning is a proven method of making your day better!</p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>There are all<a data-lasso-id="166877" href="https://www.electrikjam.com/types-of-guitars-guide/" data-type="post" data-id="2545" target="_blank" rel="noopener"> <strong>types of guitars</strong> </a>out there, and having at least one guitar with a Floyd Rose bridge is a <em>great </em>addition to your arsenal. You can do a myriad of techniques with a Floyd, and some people like<a data-lasso-id="166878" href="https://soundcloud.com/chris-horton-1/firsts?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing" target="_blank" rel="noopener noreferrer nofollow"> <strong>myself</strong></a>, <strong><a data-lasso-id="166879" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener">Eddie Van Halen</a></strong>, and<a data-lasso-id="166880" href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener"> <strong>Steve Vai</strong> </a>have made it part of their <em>whole guitar style</em>. I <em>love</em> having a floating trem, and there are<em> lots of cool things you can do with one.</em></p>
+<p>There are all<a data-lasso-id="166877" href="/types-of-guitars-guide/" data-type="post" data-id="2545" target="_blank" rel="noopener"> <strong>types of guitars</strong> </a>out there, and having at least one guitar with a Floyd Rose bridge is a <em>great </em>addition to your arsenal. You can do a myriad of techniques with a Floyd, and some people like<a data-lasso-id="166878" href="https://soundcloud.com/chris-horton-1/firsts?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing" target="_blank" rel="noopener noreferrer nofollow"> <strong>myself</strong></a>, <strong><a data-lasso-id="166879" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener">Eddie Van Halen</a></strong>, and<a data-lasso-id="166880" href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener"> <strong>Steve Vai</strong> </a>have made it part of their <em>whole guitar style</em>. I <em>love</em> having a floating trem, and there are<em> lots of cool things you can do with one.</em></p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p><strong>A floating electric guitar bridge is usually <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246498">called a Tremolo bridge</a>, or a &#8220;trem&#8221; for short. This means the bridge sits on a pivot, like a fulcrum lever. The tension of the strings is equal to the tension of the springs in the back of the guitar, causing the bridge to &#8220;float&#8221;. This allows the user to make vibrato effects by pulling up or down on the trem arm, or &#8220;Whammy Bar&#8221;. </strong></p>
+<p><strong>A floating electric guitar bridge is usually <a href="/parts-of-an-electric-guitar/" data-lasso-id="246498">called a Tremolo bridge</a>, or a &#8220;trem&#8221; for short. This means the bridge sits on a pivot, like a fulcrum lever. The tension of the strings is equal to the tension of the springs in the back of the guitar, causing the bridge to &#8220;float&#8221;. This allows the user to make vibrato effects by pulling up or down on the trem arm, or &#8220;Whammy Bar&#8221;. </strong></p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>Today we are going to talk about what a Floyd Rose bridge is, where it came from, and <em>how to use it properly</em>. We are also going to go over how to set up the bridge in a<a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" rel="noopener" data-lasso-id="168246"> <strong>separate article</strong></a>, since it is <em>not as hard</em> as you think. We can also talk about some things that might <em>make your life easier</em> with a Floyd Rose bridge.</p>
+<p>Today we are going to talk about what a Floyd Rose bridge is, where it came from, and <em>how to use it properly</em>. We are also going to go over how to set up the bridge in a<a href="/floyd-rose-bridge-setup-beginners/" target="_blank" rel="noopener" data-lasso-id="168246"> <strong>separate article</strong></a>, since it is <em>not as hard</em> as you think. We can also talk about some things that might <em>make your life easier</em> with a Floyd Rose bridge.</p>
 
 
 
@@ -108,11 +108,11 @@ seo:
 
 
 
-<p>If there is anyone to associate the Floyd Rose bridge with, it is probably<a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="167803"> <strong>Eddie Van Halen</strong></a>. He really brought the idea to the mainstream in the early 80s since guitarists wondered how he was making those <em>outlandish sounds</em>. For a while, people even thought Eddie was using synthesizers to trick people into thinking it was a guitar making the sounds!</p>
+<p>If there is anyone to associate the Floyd Rose bridge with, it is probably<a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="167803"> <strong>Eddie Van Halen</strong></a>. He really brought the idea to the mainstream in the early 80s since guitarists wondered how he was making those <em>outlandish sounds</em>. For a while, people even thought Eddie was using synthesizers to trick people into thinking it was a guitar making the sounds!</p>
 
 
 
-<p>But Eddie wasn&#8217;t the guy that designed the bridge in the first place. You see, Floyd D. Rose also liked playing with the whammy bar on his own guitars, but like everyone else, he had a problem keeping them in tune. The<a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="167804"> <strong>Fender Stratocaster</strong></a> bridge was the first real attempt at making a &#8220;fulcrum&#8221; style bridge, and it had remained unchanged for decades. That was about to change, in a big way!</p>
+<p>But Eddie wasn&#8217;t the guy that designed the bridge in the first place. You see, Floyd D. Rose also liked playing with the whammy bar on his own guitars, but like everyone else, he had a problem keeping them in tune. The<a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="167804"> <strong>Fender Stratocaster</strong></a> bridge was the first real attempt at making a &#8220;fulcrum&#8221; style bridge, and it had remained unchanged for decades. That was about to change, in a big way!</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>People had told Floyd to lube the nut of the guitar, as well as locking the strings around the tuning pegs. These tricks all helped, but Floyd wanted something stable, that would <em>never go out of tune</em>. He started working on the Floyd Rose bridge in 1976, starting with the <a href="https://www.electrikjam.com/anatomy-of-the-electric-guitar-guide/" target="_blank" data-type="post" data-id="450" rel="noopener" data-lasso-id="167805"><strong>nut</strong></a>.</p>
+<p>People had told Floyd to lube the nut of the guitar, as well as locking the strings around the tuning pegs. These tricks all helped, but Floyd wanted something stable, that would <em>never go out of tune</em>. He started working on the Floyd Rose bridge in 1976, starting with the <a href="/anatomy-of-the-electric-guitar-guide/" target="_blank" data-type="post" data-id="450" rel="noopener" data-lasso-id="167805"><strong>nut</strong></a>.</p>
 
 
 
@@ -132,11 +132,11 @@ seo:
 
 
 
-<p>He ended up making an entire bridge system that could be intonated just like a<a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="167806"><strong> Fender</strong></a>, but the parts all locked down, even the intonation screws. He then combined the bridge portion with a redesigned locking nut. To his surprise, this system <em>worked</em>, and held up without wearing down. Word got out, and 4 very famous guitarists ended up with the first prototypes:</p>
+<p>He ended up making an entire bridge system that could be intonated just like a<a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="167806"><strong> Fender</strong></a>, but the parts all locked down, even the intonation screws. He then combined the bridge portion with a redesigned locking nut. To his surprise, this system <em>worked</em>, and held up without wearing down. Word got out, and 4 very famous guitarists ended up with the first prototypes:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>Eddie Van Halen</strong></li><li><strong>Neil Schon (Journey)</strong></li><li><strong>Brad Gillis (Night Ranger)</strong></li><li><strong><a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="167807">Steve Vai</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>Eddie Van Halen</strong></li><li><strong>Neil Schon (Journey)</strong></li><li><strong>Brad Gillis (Night Ranger)</strong></li><li><strong><a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="167807">Steve Vai</a></strong></li></ul>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>Floyd Rose had taken a lot of feedback from the guitarists that used the bridge, most famously from Eddie Van Halen. Eddie has some suggestions regarding the Floyd Rose Bridge, and some features were changed here and there. <a href="https://www.electrikjam.com/the-ibanez-jem-777/" target="_blank" data-type="post" data-id="7392" rel="noopener" data-lasso-id="167809"><strong>Steve Vai famously wanted the bridge to bend backwards</strong></a>, leading to routing the body of his guitar so he could &#8220;pull up&#8221;.</p>
+<p>Floyd Rose had taken a lot of feedback from the guitarists that used the bridge, most famously from Eddie Van Halen. Eddie has some suggestions regarding the Floyd Rose Bridge, and some features were changed here and there. <a href="/the-ibanez-jem-777/" target="_blank" data-type="post" data-id="7392" rel="noopener" data-lasso-id="167809"><strong>Steve Vai famously wanted the bridge to bend backwards</strong></a>, leading to routing the body of his guitar so he could &#8220;pull up&#8221;.</p>
 
 
 
@@ -336,11 +336,11 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" rel="noopener" data-lasso-id="168247">Learning how to set up a Floyd Rose can be easier than you ever thought!</a></strong></p>
+<p class="has-text-align-center"><strong><a href="/floyd-rose-bridge-setup-beginners/" target="_blank" rel="noopener" data-lasso-id="168247">Learning how to set up a Floyd Rose can be easier than you ever thought!</a></strong></p>
 
 
 
-<p><strong>But don&#8217;t let a bad first impression throw you off the idea of a Floyd.</strong> Guitar stuff can be confusing for most beginners and intermediates. If you have tried a Floyd-equipped guitar before, and you just couldn&#8217;t get it set up, maybe you should give it another shot! <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" rel="noopener" data-lasso-id="168248"><strong>Setting up a Floyd from scratch</strong></a> is <em>not </em>as hard as some people make it out to be.</p>
+<p><strong>But don&#8217;t let a bad first impression throw you off the idea of a Floyd.</strong> Guitar stuff can be confusing for most beginners and intermediates. If you have tried a Floyd-equipped guitar before, and you just couldn&#8217;t get it set up, maybe you should give it another shot! <a href="/floyd-rose-bridge-setup-beginners/" target="_blank" rel="noopener" data-lasso-id="168248"><strong>Setting up a Floyd from scratch</strong></a> is <em>not </em>as hard as some people make it out to be.</p>
 
 
 

@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>Or, you could save yourself thousands and <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265758">use my Mastering 101 Framework</a></strong> –&nbsp;it&#8217;s a step-by-step process that anyone can follow and is based on my own 20+ years experience working as a mastering engineer. </p>
+<p>Or, you could save yourself thousands and <strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265758">use my Mastering 101 Framework</a></strong> –&nbsp;it&#8217;s a step-by-step process that anyone can follow and is based on my own 20+ years experience working as a mastering engineer. </p>
 </div></div>
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<p>First off, let&#8217;s define what mastering is. <strong><a href="https://www.electrikjam.com/audio-mastering/" data-type="post" data-id="14779" data-lasso-id="264438">Mastering is the final stage of audio post-production</a></strong>, where a mastering engineer optimizes the final mix of a song for distribution. </p>
+<p>First off, let&#8217;s define what mastering is. <strong><a href="/audio-mastering/" data-type="post" data-id="14779" data-lasso-id="264438">Mastering is the final stage of audio post-production</a></strong>, where a mastering engineer optimizes the final mix of a song for distribution. </p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p>Or, you can save yourself a few thousand bucks, <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265759">buy my Mastering 101 Framework</a></strong>, and learn to do it yourself. </p>
+<p>Or, you can save yourself a few thousand bucks, <strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265759">buy my Mastering 101 Framework</a></strong>, and learn to do it yourself. </p>
 
 
 

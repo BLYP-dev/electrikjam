@@ -40,15 +40,15 @@ seo:
 
 
 
-<p>You have amazing options from <strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="99595">Boss, Fender, and even the likes of Positive Grid</a></strong>, as well as a huge, ever-growing selection of <strong><a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" data-lasso-id="99596">FRFR speakers</a></strong> for the more digitally minded players out there.</p>
+<p>You have amazing options from <strong><a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="99595">Boss, Fender, and even the likes of Positive Grid</a></strong>, as well as a huge, ever-growing selection of <strong><a href="/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" data-lasso-id="99596">FRFR speakers</a></strong> for the more digitally minded players out there.</p>
 
 
 
-<p>But there is one practice amp that has stood the test of time, has ALWAYS sounded great and has been used by <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-lasso-id="154616">beginners and guitar</a> greats the globe over. And that amp is the Orange Crush –&nbsp;or, any of the models available inside Orange’s Crush amp series.</p>
+<p>But there is one practice amp that has stood the test of time, has ALWAYS sounded great and has been used by <a href="/choosing-a-guitar-amplifier/" data-lasso-id="154616">beginners and guitar</a> greats the globe over. And that amp is the Orange Crush –&nbsp;or, any of the models available inside Orange’s Crush amp series.</p>
 
 
 
-<p>My practice amp for YEARS, my go-to setup, the one I use more than any other, is an Orange Crush amp.&nbsp;The exact model? <strong><a href="https://www.electrikjam.com/orange-crush-amps/" data-lasso-id="99597" rel="nofollow noopener" target="_blank" data-lasso-name="Orange Crush Amps  ALL MODELS">The Orange Crush 20RT</a></strong>; it has lived and served in my home office for many, many years now. The Crush 20RT is a 20W solid-state amp that, like other amps in the Crush range, delivers stunning tube-like tones that are ideal for rock and metal.</p>
+<p>My practice amp for YEARS, my go-to setup, the one I use more than any other, is an Orange Crush amp.&nbsp;The exact model? <strong><a href="/orange-crush-amps/" data-lasso-id="99597" rel="nofollow noopener" target="_blank" data-lasso-name="Orange Crush Amps  ALL MODELS">The Orange Crush 20RT</a></strong>; it has lived and served in my home office for many, many years now. The Crush 20RT is a 20W solid-state amp that, like other amps in the Crush range, delivers stunning tube-like tones that are ideal for rock and metal.</p>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p>The best Orange Crush amp for your exact needs will depend entirely on what you intend to do with it. If you’re playing with a live band regularly, you’ll need something with some punch. Personally,&nbsp;I’d recommend either the <strong><a href="https://www.electrikjam.com/orange-crush-amps/" data-lasso-id="99598" rel="nofollow noopener" target="_blank" data-lasso-name="Orange Crush Amps  ALL MODELS">Orange Crush 35RT</a></strong> on the budget end of the spectrum or the <strong><a href="https://www.electrikjam.com/orange-crush-amps/" data-lasso-id="99599" rel="nofollow noopener" target="_blank" data-lasso-name="Orange Crush Amps  ALL MODELS">Orange Super Crush 100</a></strong> on the more expensive end of things.</p>
+<p>The best Orange Crush amp for your exact needs will depend entirely on what you intend to do with it. If you’re playing with a live band regularly, you’ll need something with some punch. Personally,&nbsp;I’d recommend either the <strong><a href="/orange-crush-amps/" data-lasso-id="99598" rel="nofollow noopener" target="_blank" data-lasso-name="Orange Crush Amps  ALL MODELS">Orange Crush 35RT</a></strong> on the budget end of the spectrum or the <strong><a href="/orange-crush-amps/" data-lasso-id="99599" rel="nofollow noopener" target="_blank" data-lasso-name="Orange Crush Amps  ALL MODELS">Orange Super Crush 100</a></strong> on the more expensive end of things.</p>
 
 
 
@@ -188,5 +188,5 @@ seo:
 
 
 
-<p>Check out ALL the Orange Crush models –&nbsp;<strong><a href="https://www.electrikjam.com/orange-crush-amps/" data-type="lasso-urls" data-id="7477" data-lasso-id="99600" rel="nofollow noopener" target="_blank" data-lasso-name="Orange Crush Amps  ALL MODELS">there are loads of options</a></strong> across a range of price points. </p>
+<p>Check out ALL the Orange Crush models –&nbsp;<strong><a href="/orange-crush-amps/" data-type="lasso-urls" data-id="7477" data-lasso-id="99600" rel="nofollow noopener" target="_blank" data-lasso-name="Orange Crush Amps  ALL MODELS">there are loads of options</a></strong> across a range of price points. </p>
 

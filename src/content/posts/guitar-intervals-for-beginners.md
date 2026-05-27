@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>If you have spent any time learning <a data-lasso-id="128190" href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener"><strong>music theory</strong></a> or <a data-lasso-id="128191" href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener"><strong>scales</strong></a>, then you have probably ran into <strong>Intervals</strong>. When I first started taking lessons, I learned about Intervals in the most <em>dry and boring </em>way possible. In fact, just trying to do it by rote memory made it <em>harder</em> for me to learn. But in reality, the concept is pretty easy to grasp once you<strong> <em>see it</em></strong>. It is even easier when you are putting the information to use &#8220;hands on&#8221;.</p>
+<p>If you have spent any time learning <a data-lasso-id="128190" href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener"><strong>music theory</strong></a> or <a data-lasso-id="128191" href="/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener"><strong>scales</strong></a>, then you have probably ran into <strong>Intervals</strong>. When I first started taking lessons, I learned about Intervals in the most <em>dry and boring </em>way possible. In fact, just trying to do it by rote memory made it <em>harder</em> for me to learn. But in reality, the concept is pretty easy to grasp once you<strong> <em>see it</em></strong>. It is even easier when you are putting the information to use &#8220;hands on&#8221;.</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>These “Qualities” are <a href="https://www.electrikjam.com/how-do-you-practice-scales/" data-lasso-id="215789">important when adding a note into a scale</a> or chord, and certain added notes can change a scale or chord from <strong>Major to Minor</strong>. In fact, just <em>one note</em> can be the difference! We will get into this in greater detail. But for now, just<em> remember those quality names.</em> <strong>The easiest distinction for you to hear in music is the difference between Major and Minor.</strong> But Augmented and Diminished are just as important, but less used.</p>
+<p>These “Qualities” are <a href="/how-do-you-practice-scales/" data-lasso-id="215789">important when adding a note into a scale</a> or chord, and certain added notes can change a scale or chord from <strong>Major to Minor</strong>. In fact, just <em>one note</em> can be the difference! We will get into this in greater detail. But for now, just<em> remember those quality names.</em> <strong>The easiest distinction for you to hear in music is the difference between Major and Minor.</strong> But Augmented and Diminished are just as important, but less used.</p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>These series of 8 notes all have a&nbsp;<strong>Interval Number</strong>, and that is where we get into the real function of Intervals. Each step/fret/note between your Root Note and the octave has a<em>&nbsp;different number</em>, but the&nbsp;<strong>Root Note is always “1</strong>“. These numbers are important when looking at<a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" target="_blank" data-type="post" data-id="8193" rel="noopener" data-lasso-id="128192"> <strong>scales</strong></a>, because it will help you understand what makes the&nbsp;<strong>Quality</strong>&nbsp;of a scale. Adding sharps and flats will change the Quality of a scale or chord. The&nbsp;<a href="https://en.wikipedia.org/wiki/Major_scale" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="128193"><strong>C Major Scale</strong></a>&nbsp;for example, has<strong>&nbsp;no sharps or flats</strong>. The number system is easy to remember:</p>
+<p>These series of 8 notes all have a&nbsp;<strong>Interval Number</strong>, and that is where we get into the real function of Intervals. Each step/fret/note between your Root Note and the octave has a<em>&nbsp;different number</em>, but the&nbsp;<strong>Root Note is always “1</strong>“. These numbers are important when looking at<a href="/theory-for-guitarists-the-minor-scale/" target="_blank" data-type="post" data-id="8193" rel="noopener" data-lasso-id="128192"> <strong>scales</strong></a>, because it will help you understand what makes the&nbsp;<strong>Quality</strong>&nbsp;of a scale. Adding sharps and flats will change the Quality of a scale or chord. The&nbsp;<a href="https://en.wikipedia.org/wiki/Major_scale" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="128193"><strong>C Major Scale</strong></a>&nbsp;for example, has<strong>&nbsp;no sharps or flats</strong>. The number system is easy to remember:</p>
 
 
 
@@ -135,11 +135,11 @@ seo:
 
 
 
-<p>Looking at the fretboard as a series of numbered Intervals can take some getting used to, just like learning the <a data-lasso-id="128194" href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" target="_blank" rel="noopener"><strong>notes of the fretboard</strong></a>. I know, it seems like <em>more</em> work since you already learned the notes and NOW they have numbers too! But as you dive into more basic music theory, it will start to become almost second nature when you look at scales. You will start to hear the subtle difference adding a Perfect Fourth, for instance, makes when building chords and scales.</p>
+<p>Looking at the fretboard as a series of numbered Intervals can take some getting used to, just like learning the <a data-lasso-id="128194" href="/guitar-fretboard-notes-learn/" target="_blank" rel="noopener"><strong>notes of the fretboard</strong></a>. I know, it seems like <em>more</em> work since you already learned the notes and NOW they have numbers too! But as you dive into more basic music theory, it will start to become almost second nature when you look at scales. You will start to hear the subtle difference adding a Perfect Fourth, for instance, makes when building chords and scales.</p>
 
 
 
-<p><strong>Check out <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="128195">The Major Scale</a> and <a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" target="_blank" rel="noopener" data-lasso-id="128196">The Minor Scale</a> to see how Intervals play a<em> huge</em> part in the way a scale can sound! Both of these lessons will show you how the Intervals change the sound of a scale.</strong> <strong>In fact, maybe you should leave those lesson windows open as we move on to chords, for reference.</strong></p>
+<p><strong>Check out <a href="/basic-music-theory-for-guitarists-major-scale/" data-type="post" data-id="8174" target="_blank" rel="noopener" data-lasso-id="128195">The Major Scale</a> and <a href="/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" target="_blank" rel="noopener" data-lasso-id="128196">The Minor Scale</a> to see how Intervals play a<em> huge</em> part in the way a scale can sound! Both of these lessons will show you how the Intervals change the sound of a scale.</strong> <strong>In fact, maybe you should leave those lesson windows open as we move on to chords, for reference.</strong></p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>So we know how the Intervals work individually in a scale pattern, and how they can change the whole sound by adding just <em>one note</em> in some cases. <a data-lasso-id="128197" href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" target="_blank" rel="noopener"><strong>The Melodic Minor </strong></a>Scale is almost a Major Scale when we look at it on paper. But that<strong> Flat Third</strong> in the Melodic Minor Scale keeps the tension going, and makes the scale <em>remain</em> Minor, albeit a little<em> weird</em>.</p>
+<p>So we know how the Intervals work individually in a scale pattern, and how they can change the whole sound by adding just <em>one note</em> in some cases. <a data-lasso-id="128197" href="/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" target="_blank" rel="noopener"><strong>The Melodic Minor </strong></a>Scale is almost a Major Scale when we look at it on paper. But that<strong> Flat Third</strong> in the Melodic Minor Scale keeps the tension going, and makes the scale <em>remain</em> Minor, albeit a little<em> weird</em>.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>No matter where you play a Power Chord, up and down the neck, it is going to be made up of those three  Intervals. But a Power Chord by itself is &#8220;neutral&#8221; by nature, technically. It is neither Major or Minor in this simple form. So what do we add to turn a G Power Chord into a Minor? Well if you check out the <a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" target="_blank" rel="noopener" data-lasso-id="128445"><strong>Natural Minor Scale</strong></a>, you will definitely get your answer. We need at least one <strong>Flat</strong>, don&#8217;t we?</p>
+<p>No matter where you play a Power Chord, up and down the neck, it is going to be made up of those three  Intervals. But a Power Chord by itself is &#8220;neutral&#8221; by nature, technically. It is neither Major or Minor in this simple form. So what do we add to turn a G Power Chord into a Minor? Well if you check out the <a href="/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" target="_blank" rel="noopener" data-lasso-id="128445"><strong>Natural Minor Scale</strong></a>, you will definitely get your answer. We need at least one <strong>Flat</strong>, don&#8217;t we?</p>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<p>An Augmented Chord is a Major Triad with a <strong>Sharp</strong> <strong>Fifth/Flat Sixth</strong> (They are the same thing). You often may see them written as C+, or maybe C+7. We say these out loud as &#8220;C add Nine&#8221;. Augmented chords can sound a little dissonant, and add some serious tension to a <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196508">chord progression</a>. Let&#8217;s look at the most basic form of an Augmented Chord in the Key of C:</p>
+<p>An Augmented Chord is a Major Triad with a <strong>Sharp</strong> <strong>Fifth/Flat Sixth</strong> (They are the same thing). You often may see them written as C+, or maybe C+7. We say these out loud as &#8220;C add Nine&#8221;. Augmented chords can sound a little dissonant, and add some serious tension to a <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196508">chord progression</a>. Let&#8217;s look at the most basic form of an Augmented Chord in the Key of C:</p>
 
 
 

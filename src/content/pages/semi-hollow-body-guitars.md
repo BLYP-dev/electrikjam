@@ -449,7 +449,7 @@ seo:
 
 
 
-<p>Need something cheaper? <strong><a href="https://www.electrikjam.com/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-type="post" data-id="1427" data-lasso-id="268422">Check out the Epiphone Dot</a></strong> – the guitar Josh Homme used on Songs For The Deaf. </p>
+<p>Need something cheaper? <strong><a href="/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-type="post" data-id="1427" data-lasso-id="268422">Check out the Epiphone Dot</a></strong> – the guitar Josh Homme used on Songs For The Deaf. </p>
 </div>
 
 
@@ -491,7 +491,7 @@ seo:
 
 
 
-<p>This guitar is equipped with <strong><a href="https://www.electrikjam.com/p90-pickups-guide/" data-type="post" data-id="8654" data-lasso-id="268424">P-90 pickups</a></strong>, delivering a raw yet refined tone</p>
+<p>This guitar is equipped with <strong><a href="/p90-pickups-guide/" data-type="post" data-id="8654" data-lasso-id="268424">P-90 pickups</a></strong>, delivering a raw yet refined tone</p>
 </div>
 
 
@@ -511,7 +511,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" data-lasso-id="268425">Epiphone Casino was used by both John Lennon and Paul McCartney</a></strong> on nearly all of the Beatles&#8217; records. </p>
+<p>The <strong><a href="/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" data-lasso-id="268425">Epiphone Casino was used by both John Lennon and Paul McCartney</a></strong> on nearly all of the Beatles&#8217; records. </p>
 </div>
 
 
@@ -543,7 +543,7 @@ seo:
 
 
 
-<p>For players who want a semi-hollow sound without breaking the bank, <strong><a href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="268427">the Ibanez Artcore Series offers excellent value</a></strong></p>
+<p>For players who want a semi-hollow sound without breaking the bank, <strong><a href="/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="268427">the Ibanez Artcore Series offers excellent value</a></strong></p>
 </div>
 
 

@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>There are generally three different preferred methods when it comes to holding an <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-lasso-id="164560">electric guitar</a>, as follows:</p>
+<p>There are generally three different preferred methods when it comes to holding an <a href="/the-top-7-electric-guitar-myths/" data-lasso-id="164560">electric guitar</a>, as follows:</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>Now it should be said that different guitar body shapes can definitely render different methods. Such as a<a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="408"> <strong>Flying V</strong> or <strong>Explorer</strong></a> style guitar. If you have ever held either of these, you&#8217;ll know that they have an odd shape that is <em>not</em> balanced. The Flying V, in particular, is best for playing while standing up.</p>
+<p>Now it should be said that different guitar body shapes can definitely render different methods. Such as a<a href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="408"> <strong>Flying V</strong> or <strong>Explorer</strong></a> style guitar. If you have ever held either of these, you&#8217;ll know that they have an odd shape that is <em>not</em> balanced. The Flying V, in particular, is best for playing while standing up.</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217654">Electric guitars</a> by nature are designed to be played standing up, when it comes to ergonomics. If you are practicing to eventually play onstage, then getting used to the guitar balancing with the weight on your shoulder is important.</p>
+<p><a href="/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217654">Electric guitars</a> by nature are designed to be played standing up, when it comes to ergonomics. If you are practicing to eventually play onstage, then getting used to the guitar balancing with the weight on your shoulder is important.</p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<p>Many formal <a href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-lasso-id="120186">guitar</a> teachers will teach you to sit with a strap in beginner&#8217;s lessons. I know mine did! Later in this article, we will discuss actually standing with the guitar strap, and if you have practiced with it sitting down, it will feel more natural.</p>
+<p>Many formal <a href="/22-frets-vs-24-frets-explained/" data-lasso-id="120186">guitar</a> teachers will teach you to sit with a strap in beginner&#8217;s lessons. I know mine did! Later in this article, we will discuss actually standing with the guitar strap, and if you have practiced with it sitting down, it will feel more natural.</p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>Your knee acts as a balancing beam for the lower half of the guitar. This works well for Stratocasters and <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="409">Les Pauls</a>. This is because the guitars are well-balanced and ergonomic in most situations. You should have no problem getting used to holding your <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211321">electric guitar</a> this way.</p>
+<p>Your knee acts as a balancing beam for the lower half of the guitar. This works well for Stratocasters and <a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="409">Les Pauls</a>. This is because the guitars are well-balanced and ergonomic in most situations. You should have no problem getting used to holding your <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211321">electric guitar</a> this way.</p>
 
 
 
@@ -140,15 +140,15 @@ seo:
 
 
 
-<p>This position has a lot of advantages, even for a new player! While this method has it&#8217;s roots in the <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="410">acoustic guitar</a>, it can also be used with an electric. Many guitar teachers will also show you this method when you are starting out.</p>
+<p>This position has a lot of advantages, even for a new player! While this method has it&#8217;s roots in the <a href="/types-of-guitars-guide/" data-lasso-id="410">acoustic guitar</a>, it can also be used with an electric. Many guitar teachers will also show you this method when you are starting out.</p>
 
 
 
-<p>If you are an intermediate <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-lasso-id="102921">level guitarist</a>, this position can feel almost alien at first if you have been using the first position we talked about for a while. Getting used to it as a beginner is a great idea!</p>
+<p>If you are an intermediate <a href="/beginner-music-theory-for-guitarists/" data-lasso-id="102921">level guitarist</a>, this position can feel almost alien at first if you have been using the first position we talked about for a while. Getting used to it as a beginner is a great idea!</p>
 
 
 
-<p>Classical Position can be used in a myriad of different situations. Holding your guitar this way gives you easier access to the higher frets, while at the same time <a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="411">allowing you to form chords easier</a> up and down the neck! But it takes a little practice to get used to&#8230;</p>
+<p>Classical Position can be used in a myriad of different situations. Holding your guitar this way gives you easier access to the higher frets, while at the same time <a href="/chord-voicing-extensions-for-metal/" data-lasso-id="411">allowing you to form chords easier</a> up and down the neck! But it takes a little practice to get used to&#8230;</p>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<p>So is Classical Position for you? Well, you really won&#8217;t know until you try it! Experimenting is an essential exercise when <a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="412">learning to play guitar</a>. You may surprise yourself later on, and use the Classical Position to play a guitar part you were originally struggling with.</p>
+<p>So is Classical Position for you? Well, you really won&#8217;t know until you try it! Experimenting is an essential exercise when <a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="412">learning to play guitar</a>. You may surprise yourself later on, and use the Classical Position to play a guitar part you were originally struggling with.</p>
 
 
 
@@ -172,11 +172,11 @@ seo:
 
 
 
-<p>Standing up with your <a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" data-lasso-id="215699">electric guitar</a> is the &#8220;final form&#8221; when it comes to learning how to hold your electric guitar. If you plan on taking the stage one day, this will be your default position.</p>
+<p>Standing up with your <a href="/what-is-the-best-electric-guitar-brand/" data-lasso-id="215699">electric guitar</a> is the &#8220;final form&#8221; when it comes to learning how to hold your electric guitar. If you plan on taking the stage one day, this will be your default position.</p>
 
 
 
-<p>There is a misnomer about where to set your strap height when you are standing up. Particularly in Metal, you will see guitars slung very low, below the belt buckle. <a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="413">This may work for James Hetfield</a>, but it probably isn&#8217;t the greatest practice for a beginner.</p>
+<p>There is a misnomer about where to set your strap height when you are standing up. Particularly in Metal, you will see guitars slung very low, below the belt buckle. <a href="/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="413">This may work for James Hetfield</a>, but it probably isn&#8217;t the greatest practice for a beginner.</p>
 
 
 
@@ -208,11 +208,11 @@ seo:
 
 
 
-<p>Holding your <a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212785">electric guitar</a> seems like such an simple thing when you think about it. But bad habits can easily rear their ugly heads, especially in the beginning! If you start with the proper posture and position, you ensure your future of playing guitar will be much more satisfying.</p>
+<p>Holding your <a href="/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212785">electric guitar</a> seems like such an simple thing when you think about it. But bad habits can easily rear their ugly heads, especially in the beginning! If you start with the proper posture and position, you ensure your future of playing guitar will be much more satisfying.</p>
 
 
 
-<p>This comes from hard-learned personal experience. I never took any lessons in the beginning of my guitar journey. So I just &#8220;winged it&#8221; when it came to guitar posture. It was more than a decade before I learned the proper ways to hold an <a href="https://www.electrikjam.com/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218270">electric guitar</a>.</p>
+<p>This comes from hard-learned personal experience. I never took any lessons in the beginning of my guitar journey. So I just &#8220;winged it&#8221; when it came to guitar posture. It was more than a decade before I learned the proper ways to hold an <a href="/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218270">electric guitar</a>.</p>
 
 
 

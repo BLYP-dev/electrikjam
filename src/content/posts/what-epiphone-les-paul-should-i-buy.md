@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>We absolutely LOVE<a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="17452"> </a><strong><a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="17453">Epiphone</a> </strong>here at Electrikjam. Not only are Epiphone guitars affordable, but these are usually fantastic instruments out of the box with<em> tons </em>of features. Epiphone sometimes gets a bad rap for being a budget brand guitar, and I think that is hugely unfair. <a class="wpil_keyword_link" href="https://www.electrikjam.com/epiphone-guitars/" title="Epiphone" data-wpil-keyword-link="linked" data-lasso-id="17484">Epiphone</a> makes some top tier instruments, and some are &#8220;Epiphone Exclusives&#8221; that you cannot even find from Gibson.</p>
+<p>We absolutely LOVE<a href="/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="17452"> </a><strong><a href="/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="17453">Epiphone</a> </strong>here at Electrikjam. Not only are Epiphone guitars affordable, but these are usually fantastic instruments out of the box with<em> tons </em>of features. Epiphone sometimes gets a bad rap for being a budget brand guitar, and I think that is hugely unfair. <a class="wpil_keyword_link" href="/epiphone-guitars/" title="Epiphone" data-wpil-keyword-link="linked" data-lasso-id="17484">Epiphone</a> makes some top tier instruments, and some are &#8220;Epiphone Exclusives&#8221; that you cannot even find from Gibson.</p>
 
 
 
-<p>These days, I see just as many Epiphone guitars being played by pros, as I do Gibson. I think that is a true testament to the modern day quality of Epiphone. This is a far cry from the days of being <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="238002">&#8220;Gibson&#8217;s little brother&#8221; when it comes to brand</a> recognition. Epiphone is totally it&#8217;s own thing these days, and the newer models show just how far they have come.</p>
+<p>These days, I see just as many Epiphone guitars being played by pros, as I do Gibson. I think that is a true testament to the modern day quality of Epiphone. This is a far cry from the days of being <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="238002">&#8220;Gibson&#8217;s little brother&#8221; when it comes to brand</a> recognition. Epiphone is totally it&#8217;s own thing these days, and the newer models show just how far they have come.</p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p>Beginner guitars often have a bad reputation, but I think that is an outdated opinion. <a href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-lasso-id="175507">Budget guitars</a> these days are made with CNC machines that rarely make a mistake. 30 years ago, a budget guitar might have been unplayable, but times have definitely changed. You even see <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" target="_blank" data-type="post" data-id="5136" rel="noopener" data-lasso-id="17454"><strong>professionals</strong> </a>using budget guitars on stage these days!</p>
+<p>Beginner guitars often have a bad reputation, but I think that is an outdated opinion. <a href="/evh-the-5-best-budget-shredder-guitars/" data-lasso-id="175507">Budget guitars</a> these days are made with CNC machines that rarely make a mistake. 30 years ago, a budget guitar might have been unplayable, but times have definitely changed. You even see <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" target="_blank" data-type="post" data-id="5136" rel="noopener" data-lasso-id="17454"><strong>professionals</strong> </a>using budget guitars on stage these days!</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>We have done a <a href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" target="_blank" data-type="post" data-id="3402" rel="noopener" data-lasso-id="17455"><strong>full review</strong> </a>already on the Epiphone Les Paul Special, and we talked a lot about what makes this a great guitar for beginners. It has the shape, and overall design of a regular Les Paul&#8230; just stripped down a bit. You get the &#8220;essence&#8221; of what any Les Paul should be, without any of the higher end features that you see on the more expensive models. This is a &#8220;no frills&#8221; type of guitar, but it is also one of the best for anyone starting out.</p>
+<p>We have done a <a href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" target="_blank" data-type="post" data-id="3402" rel="noopener" data-lasso-id="17455"><strong>full review</strong> </a>already on the Epiphone Les Paul Special, and we talked a lot about what makes this a great guitar for beginners. It has the shape, and overall design of a regular Les Paul&#8230; just stripped down a bit. You get the &#8220;essence&#8221; of what any Les Paul should be, without any of the higher end features that you see on the more expensive models. This is a &#8220;no frills&#8221; type of guitar, but it is also one of the best for anyone starting out.</p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>We <a href="https://www.electrikjam.com/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="17456"><strong>have praised</strong> </a>this model before as well, and it took the #1 spot for the best beginner guitar. This is a proper Les Paul, without any of the flash. If I were asking myself &#8220;What Epiphone Les Paul should I buy?&#8221;&#8230;then the answer would probably be the Les Paul Studio if I were a beginner. It is a small step above the Special model, but that small step can mean a lot for a new player.</p>
+<p>We <a href="/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="17456"><strong>have praised</strong> </a>this model before as well, and it took the #1 spot for the best beginner guitar. This is a proper Les Paul, without any of the flash. If I were asking myself &#8220;What Epiphone Les Paul should I buy?&#8221;&#8230;then the answer would probably be the Les Paul Studio if I were a beginner. It is a small step above the Special model, but that small step can mean a lot for a new player.</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>This is it! This is the start of the intermediate line of Epiphone <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195421">Les Paul</a> models that hold the tradition of the Gibson counterparts. These are fully equipped to be the next logical step for anyone that is ready to take guitar playing seriously. While the beginner models were lacking in the feature department, the Standard line is not lacking at all:</p>
+<p>This is it! This is the start of the intermediate line of Epiphone <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195421">Les Paul</a> models that hold the tradition of the Gibson counterparts. These are fully equipped to be the next logical step for anyone that is ready to take guitar playing seriously. While the beginner models were lacking in the feature department, the Standard line is not lacking at all:</p>
 
 
 
@@ -199,11 +199,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Les Paul Custom</strong></li><li><strong>Les Paul Standard Pro</strong></li><li><strong>Artist Models</strong></li><li><strong><a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="17458">Special Edition Models</a> </strong></li><li><strong>Limited Edition Models</strong></li><li><strong>Les Paul Modern </strong></li><li><strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" target="_blank" data-type="post" data-id="1231" rel="noopener" data-lasso-id="17459">Prophecy Series</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>Les Paul Custom</strong></li><li><strong>Les Paul Standard Pro</strong></li><li><strong>Artist Models</strong></li><li><strong><a href="/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="17458">Special Edition Models</a> </strong></li><li><strong>Limited Edition Models</strong></li><li><strong>Les Paul Modern </strong></li><li><strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" target="_blank" data-type="post" data-id="1231" rel="noopener" data-lasso-id="17459">Prophecy Series</a></strong></li></ul>
 
 
 
-<p>All of the models with these names attached come with some really impressive features, while still staying in &#8220;budget guitar&#8221; territory. Now when I say &#8220;budget&#8221; what I mean is these are usually still under $1000. The Artist Models are at the top of the class when it comes to the Pro Series. The <a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" target="_blank" data-type="post" data-id="4089" rel="noopener" data-lasso-id="17460"><strong>Matt Heafy </strong></a>Les Paul is a great example of what Epiphone has to offer when you up the budget a little.</p>
+<p>All of the models with these names attached come with some really impressive features, while still staying in &#8220;budget guitar&#8221; territory. Now when I say &#8220;budget&#8221; what I mean is these are usually still under $1000. The Artist Models are at the top of the class when it comes to the Pro Series. The <a href="/matt-heafy-epiphone-mkh-origins-les-paul/" target="_blank" data-type="post" data-id="4089" rel="noopener" data-lasso-id="17460"><strong>Matt Heafy </strong></a>Les Paul is a great example of what Epiphone has to offer when you up the budget a little.</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p>The Prophecy Series is also an amazing example. These are guitars that are built to shred, and they come with all kinds of modern touches that you cant even find on a Gibson! The Prophecy models have<strong> <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="17461">Fishman Fluence</a></strong><a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="17462"> </a>pickups pre-installed. Just because it says &#8220;Epiphone&#8221; on the headstock, does not mean that is cheap. I would <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-lasso-id="103381">put the Prophecy head-to-head with a Gibson</a> any day of the week!</p>
+<p>The Prophecy Series is also an amazing example. These are guitars that are built to shred, and they come with all kinds of modern touches that you cant even find on a Gibson! The Prophecy models have<strong> <a href="/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="17461">Fishman Fluence</a></strong><a href="/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="17462"> </a>pickups pre-installed. Just because it says &#8220;Epiphone&#8221; on the headstock, does not mean that is cheap. I would <a href="/epiphone-les-paul-prophecy-colors/" data-lasso-id="103381">put the Prophecy head-to-head with a Gibson</a> any day of the week!</p>
 
 
 

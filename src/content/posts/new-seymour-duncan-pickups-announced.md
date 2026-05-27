@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>Seymour Duncan pickups are a staple of the modern guitar industry. Every few years, Duncan adds new pickups to keep up with the times, especially when it comes to<a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="119965"><strong> rock and metal.</strong></a> If you have been playing guitar for a while, chances are you have came across a set of Duncan pickups that you really liked. I certainly know <a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener" data-lasso-id="119966"><strong>I have</strong></a>!</p>
+<p>Seymour Duncan pickups are a staple of the modern guitar industry. Every few years, Duncan adds new pickups to keep up with the times, especially when it comes to<a href="/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="119965"><strong> rock and metal.</strong></a> If you have been playing guitar for a while, chances are you have came across a set of Duncan pickups that you really liked. I certainly know <a href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener" data-lasso-id="119966"><strong>I have</strong></a>!</p>
 
 
 
-<p>But as much as Seymour Duncan likes to keep things modern, as a designer he also likes<em> heritage</em>. He started his pickup designs in 1976, inspired by people like <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="119967"><strong>Les Paul</strong></a> and later on, legends like<a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" target="_blank" rel="noopener" data-lasso-id="119968"> <strong>Seth Lover</strong></a>. Those pickups that he designed in the 70&#8217;s and early 80&#8217;s are<em> still</em> very popular today. The<strong> <a href="https://www.electrikjam.com/seymour-duncan-jb-jazz-pickup/" data-type="lasso-urls" data-id="4639" target="_blank" rel="nofollow noopener" data-lasso-id="119969" data-lasso-name="Duncan JB/Jazz Combo">JB Humbucker</a></strong>, and <a href="https://www.electrikjam.com/seymour-duncan-pearly-gates-reviews/" data-type="post" data-id="5085" target="_blank" rel="noopener" data-lasso-id="119970"><strong>Pearly Gates</strong></a> are just two examples of long running pickups that still hold a legacy. When it comes to guitars, <strong>legacy and consistency</strong> can be <em>very</em> important for many players.</p>
+<p>But as much as Seymour Duncan likes to keep things modern, as a designer he also likes<em> heritage</em>. He started his pickup designs in 1976, inspired by people like <a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="119967"><strong>Les Paul</strong></a> and later on, legends like<a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" target="_blank" rel="noopener" data-lasso-id="119968"> <strong>Seth Lover</strong></a>. Those pickups that he designed in the 70&#8217;s and early 80&#8217;s are<em> still</em> very popular today. The<strong> <a href="/seymour-duncan-jb-jazz-pickup/" data-type="lasso-urls" data-id="4639" target="_blank" rel="nofollow noopener" data-lasso-id="119969" data-lasso-name="Duncan JB/Jazz Combo">JB Humbucker</a></strong>, and <a href="/seymour-duncan-pearly-gates-reviews/" data-type="post" data-id="5085" target="_blank" rel="noopener" data-lasso-id="119970"><strong>Pearly Gates</strong></a> are just two examples of long running pickups that still hold a legacy. When it comes to guitars, <strong>legacy and consistency</strong> can be <em>very</em> important for many players.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p><strong>The three New Seymour Duncan Pickups are not &#8220;signature&#8221; pickups, but I think we all know what the names seem to imply.</strong> Due to branding issues, Duncan obviously can&#8217;t use specific names. But like some <a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="119971"><strong>amp sim</strong></a> models, I think we can all use our imaginations when it comes to the inspiration behind each new model.</p>
+<p><strong>The three New Seymour Duncan Pickups are not &#8220;signature&#8221; pickups, but I think we all know what the names seem to imply.</strong> Due to branding issues, Duncan obviously can&#8217;t use specific names. But like some <a href="/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="119971"><strong>amp sim</strong></a> models, I think we can all use our imaginations when it comes to the inspiration behind each new model.</p>
 
 
 
@@ -83,11 +83,11 @@ seo:
 
 
 
-<p>The 70&#8217;s was a good time for Seymour Duncan, especially after he met <strong>Jeff Beck</strong>. The<a data-lasso-id="119972" data-lasso-name="Duncan JB/Jazz Combo" href="https://www.electrikjam.com/seymour-duncan-jb-jazz-pickup/" data-type="lasso-urls" data-id="4639" target="_blank" rel="nofollow noopener"><strong> JB Pickup</strong></a> was designed for Jeff to use with his Telecaster on tour, and while Duncan never got the rights to use Jeff&#8217;s name, we all know the JB pickup&#8217;s <em>story</em>. To be honest, Duncan worked with a lot of artists back then, especially in the 1970&#8217;s. He was known as the guy that will &#8220;hot rod&#8221; your pickups and give them new life.</p>
+<p>The 70&#8217;s was a good time for Seymour Duncan, especially after he met <strong>Jeff Beck</strong>. The<a data-lasso-id="119972" data-lasso-name="Duncan JB/Jazz Combo" href="/seymour-duncan-jb-jazz-pickup/" data-type="lasso-urls" data-id="4639" target="_blank" rel="nofollow noopener"><strong> JB Pickup</strong></a> was designed for Jeff to use with his Telecaster on tour, and while Duncan never got the rights to use Jeff&#8217;s name, we all know the JB pickup&#8217;s <em>story</em>. To be honest, Duncan worked with a lot of artists back then, especially in the 1970&#8217;s. He was known as the guy that will &#8220;hot rod&#8221; your pickups and give them new life.</p>
 
 
 
-<p><a data-lasso-id="119973" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>Eddie Van Halen</strong></a> was famous for designing his own guitars, and the original &#8220;FrankenStrat&#8221; had an old PAF style pickup in the <a data-lasso-id="119974" href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener"><strong>bridge position</strong></a>. This PAF was supposedly taken from an old semi-hollow guitar, and it was just not getting the job done for Ed. But when it came time to fix that old humbucker, Eddie went to Seymour Duncan for help. He had some very specific instructions on what he wanted in a pickup. </p>
+<p><a data-lasso-id="119973" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>Eddie Van Halen</strong></a> was famous for designing his own guitars, and the original &#8220;FrankenStrat&#8221; had an old PAF style pickup in the <a data-lasso-id="119974" href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener"><strong>bridge position</strong></a>. This PAF was supposedly taken from an old semi-hollow guitar, and it was just not getting the job done for Ed. But when it came time to fix that old humbucker, Eddie went to Seymour Duncan for help. He had some very specific instructions on what he wanted in a pickup. </p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>So that means tons of <a href="https://www.electrikjam.com/top-5-underrated-guitarists/" data-lasso-id="233854">modern players</a> that need a little versatility may really like the new &#8220;78 Humbucker. Having a humbucker that does high gain, and being able to do a convincing coil tap is extremely popular these days. The new &#8217;78 can do both with ease, and should be highly responsive to volume knob controls and dynamics.</p>
+<p>So that means tons of <a href="/top-5-underrated-guitarists/" data-lasso-id="233854">modern players</a> that need a little versatility may really like the new &#8220;78 Humbucker. Having a humbucker that does high gain, and being able to do a convincing coil tap is extremely popular these days. The new &#8217;78 can do both with ease, and should be highly responsive to volume knob controls and dynamics.</p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>There is a single, mythical &#8217;59 Les Paul that became a legend all on its own. Sure, many<strong> <a data-lasso-id="119976" href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" data-type="post" data-id="1336" target="_blank" rel="noopener">&#8217;59 Les Paul</a></strong> guitars are highly sought-after instruments. The &#8217;59 is the <a class="wpil_keyword_link" href="https://www.electrikjam.com/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="233855">Gibson</a> Holy Grail to enthusiasts. But one was <em>so special</em> that it was dubbed by the owner &#8220;The Magic Guitar&#8221;. It has been bought and sold several times over the years, and it currently resides with <strong>Metallica </strong>guitarist<strong> Kirk Hammet</strong>.</p>
+<p>There is a single, mythical &#8217;59 Les Paul that became a legend all on its own. Sure, many<strong> <a data-lasso-id="119976" href="/new-for-2020-epiphone-59-les-paul/" data-type="post" data-id="1336" target="_blank" rel="noopener">&#8217;59 Les Paul</a></strong> guitars are highly sought-after instruments. The &#8217;59 is the <a class="wpil_keyword_link" href="/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="233855">Gibson</a> Holy Grail to enthusiasts. But one was <em>so special</em> that it was dubbed by the owner &#8220;The Magic Guitar&#8221;. It has been bought and sold several times over the years, and it currently resides with <strong>Metallica </strong>guitarist<strong> Kirk Hammet</strong>.</p>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<p><a data-lasso-id="119977" href="https://www.electrikjam.com/the-7-best-guitar-solos-of-all-time/" data-type="post" data-id="6884" target="_blank" rel="noopener"><strong>Gary Moore</strong></a> ended up with the guitar when it was loaned to him by Green. Moore loved the guitar so much that he bought it from Peter Green for $300, the same amount Green paid for it. The &#8217;59 LP then became the most used guitar in Moore&#8217;s collection, because there was something <em>very special</em> about this Les Paul. Falling on financial problems, Gary Moore sold it to Kirk in 2006. But what made it so &#8220;magic&#8221;?</p>
+<p><a data-lasso-id="119977" href="/the-7-best-guitar-solos-of-all-time/" data-type="post" data-id="6884" target="_blank" rel="noopener"><strong>Gary Moore</strong></a> ended up with the guitar when it was loaned to him by Green. Moore loved the guitar so much that he bought it from Peter Green for $300, the same amount Green paid for it. The &#8217;59 LP then became the most used guitar in Moore&#8217;s collection, because there was something <em>very special</em> about this Les Paul. Falling on financial problems, Gary Moore sold it to Kirk in 2006. But what made it so &#8220;magic&#8221;?</p>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<p>Now I imagine a vast majority of people are going to install these in their Les Paul, whether Gibson or <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-type="post" data-id="5585" target="_blank" rel="noopener" data-lasso-id="119978"><strong>Epiphone</strong></a>. But since these have a 4 conductor wire, you can also coil tap/split them. This opens up a whole world of unique tones that could be beneficial in all kinds of guitars. I think they would work great for more experimental music, and could go in any dual humbucker guitar.</p>
+<p>Now I imagine a vast majority of people are going to install these in their Les Paul, whether Gibson or <a href="/what-epiphone-les-paul-should-i-buy/" data-type="post" data-id="5585" target="_blank" rel="noopener" data-lasso-id="119978"><strong>Epiphone</strong></a>. But since these have a 4 conductor wire, you can also coil tap/split them. This opens up a whole world of unique tones that could be beneficial in all kinds of guitars. I think they would work great for more experimental music, and could go in any dual humbucker guitar.</p>
 
 
 
@@ -261,7 +261,7 @@ seo:
 
 
 
-<p>But what you will be getting is a balanced set of vintage inspired PAF style pickups. Now would this set be good for all kinds of styles? <em>I absolutely think so.</em> You don&#8217;t <em>need</em> high output pickups to play heavy music. In fact, the clarity of the High Voltage set might even be a benefit when it comes to <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="120178"><strong>high gain</strong></a>, or fuzz tones. The clarity can add definition to high gain chords, without being ear-piercing in tonal quality.</p>
+<p>But what you will be getting is a balanced set of vintage inspired PAF style pickups. Now would this set be good for all kinds of styles? <em>I absolutely think so.</em> You don&#8217;t <em>need</em> high output pickups to play heavy music. In fact, the clarity of the High Voltage set might even be a benefit when it comes to <a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="120178"><strong>high gain</strong></a>, or fuzz tones. The clarity can add definition to high gain chords, without being ear-piercing in tonal quality.</p>
 
 
 
@@ -289,7 +289,7 @@ seo:
 
 
 
-<p>There really is something for everyone with all three different pickup types here. From EVH heaviness and tapping harmonics, to bluesy riffing, each pickup has a different flavor. I always say that pickups, amps, and <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="120179"><strong>your speaker</strong></a> have the biggest effect on your actual tone. Yes, &#8220;tone is in the fingers&#8221; when it comes down to how you play. But a great set of pickups can take your sound to the next level!</p>
+<p>There really is something for everyone with all three different pickup types here. From EVH heaviness and tapping harmonics, to bluesy riffing, each pickup has a different flavor. I always say that pickups, amps, and <a href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="120179"><strong>your speaker</strong></a> have the biggest effect on your actual tone. Yes, &#8220;tone is in the fingers&#8221; when it comes down to how you play. But a great set of pickups can take your sound to the next level!</p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

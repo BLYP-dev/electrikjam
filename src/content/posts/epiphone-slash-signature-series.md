@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>Slash already has his own Gibson signature series. That lineup of Les Pauls launched in 2020. But the Guns N’ Roses guitarist just confirmed –&nbsp;via Instagram –&nbsp;that he is teaming up with <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="677">Epiphone</a></strong> for another signature series that will use the same finish options as the Gibson line. </p>
+<p>Slash already has his own Gibson signature series. That lineup of Les Pauls launched in 2020. But the Guns N’ Roses guitarist just confirmed –&nbsp;via Instagram –&nbsp;that he is teaming up with <strong><a href="/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="677">Epiphone</a></strong> for another signature series that will use the same finish options as the Gibson line. </p>
 
 
 
-<p>Me? I&#8217;m still in LOVE with Slash&#8217;s Epiphone Firebird which is <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/slash-epiphone-firebird/" data-lasso-id="678">now available for less than $600!</a></strong></p>
+<p>Me? I&#8217;m still in LOVE with Slash&#8217;s Epiphone Firebird which is <strong><a class="rank-math-link" href="/recommends/slash-epiphone-firebird/" data-lasso-id="678">now available for less than $600!</a></strong></p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>As you can see, the guitars look totally badass –&nbsp;just as you’d expect from Slash and <strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2591">Epiphone</a></strong>. The Goldtop model has been requested for years, and just like the popular <a class="rank-math-link" data-lasso-id="680" href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/">&#8217;59 Epiphone</a>, it seems like Epi is listening to their customers for 2021.</p>
+<p>As you can see, the guitars look totally badass –&nbsp;just as you’d expect from Slash and <strong><a href="/epiphone-guitars/" data-lasso-id="2591">Epiphone</a></strong>. The Goldtop model has been requested for years, and just like the popular <a class="rank-math-link" data-lasso-id="680" href="/new-for-2020-epiphone-59-les-paul/">&#8217;59 Epiphone</a>, it seems like Epi is listening to their customers for 2021.</p>
 
 
 
@@ -79,15 +79,15 @@ seo:
 
 
 
-<p>So, if Epiphone can match, or provide something equally good, for considerably less money (anywhere from $900 to $1200), I think this new line of Epiphone Slash signature guitars will, once again, tempt many players away from <a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-lasso-id="681">Gibson</a> and into the loving arms of Epiphone during 2021 and beyond.</p>
+<p>So, if Epiphone can match, or provide something equally good, for considerably less money (anywhere from $900 to $1200), I think this new line of Epiphone Slash signature guitars will, once again, tempt many players away from <a href="/gibson-vs-epiphone-in-2021/" data-lasso-id="681">Gibson</a> and into the loving arms of Epiphone during 2021 and beyond.</p>
 
 
 
-<p>Just like Epiphone has done with <strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="682">its incredible SG and Les Paul series of guitars. </a></strong></p>
+<p>Just like Epiphone has done with <strong><a class="rank-math-link" href="/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="682">its incredible SG and Les Paul series of guitars. </a></strong></p>
 
 
 
-<p>If Epiphone follows suit with what they have done with some of their other high spec guitars, we may see upgraded electronics. Slash uses a &#8220;treble bleed&#8221; on all of his guitars, that allows you to bring the <a href="https://www.electrikjam.com/tone-knob-explained/" data-lasso-id="106712">tone knob</a> down a little, without any &#8220;muffled&#8221; sound. This is the &#8220;secret&#8221; to his buttery leads!</p>
+<p>If Epiphone follows suit with what they have done with some of their other high spec guitars, we may see upgraded electronics. Slash uses a &#8220;treble bleed&#8221; on all of his guitars, that allows you to bring the <a href="/tone-knob-explained/" data-lasso-id="106712">tone knob</a> down a little, without any &#8220;muffled&#8221; sound. This is the &#8220;secret&#8221; to his buttery leads!</p>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 
-<p>Epiphone has been killing it for the last 12 months, so I do not expect the company to pull any punches with the Epiphone Slash Signature Series. I mean, the company’s <strong><a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="683">50s Les Paul Standard</a></strong> and <strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="684">Prophecy range of guitars</a></strong> were super generous with the specs, so I don’t see Slash’s Signature Series being any different.</p>
+<p>Epiphone has been killing it for the last 12 months, so I do not expect the company to pull any punches with the Epiphone Slash Signature Series. I mean, the company’s <strong><a href="/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="683">50s Les Paul Standard</a></strong> and <strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="684">Prophecy range of guitars</a></strong> were super generous with the specs, so I don’t see Slash’s Signature Series being any different.</p>
 
 
 
@@ -117,7 +117,7 @@ seo:
 
 
 
-<p>Whatever happens, these Epiphone Slash Signature Series will be a fair amount cheaper (and maybe better) than Slash’s existent Gibson signature series <strong><a href="https://www.electrikjam.com/recommends/gibson-slash-signature-series/" class="rank-math-link" data-lasso-id="685">(check them out here)</a></strong> models. </p>
+<p>Whatever happens, these Epiphone Slash Signature Series will be a fair amount cheaper (and maybe better) than Slash’s existent Gibson signature series <strong><a href="/recommends/gibson-slash-signature-series/" class="rank-math-link" data-lasso-id="685">(check them out here)</a></strong> models. </p>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<p>Or, just get yourself the totally amazing Slash Epiphone Firebird – it is truly a thing of beauty <strong><a class="rank-math-link" data-lasso-id="686" href="https://www.electrikjam.com/recommends/slash-epiphone-firebird/">(and the price is very approachable too)</a></strong>.</p>
+<p>Or, just get yourself the totally amazing Slash Epiphone Firebird – it is truly a thing of beauty <strong><a class="rank-math-link" data-lasso-id="686" href="/recommends/slash-epiphone-firebird/">(and the price is very approachable too)</a></strong>.</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
 </div></div>
 
 

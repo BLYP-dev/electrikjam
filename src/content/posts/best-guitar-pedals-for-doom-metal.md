@@ -44,19 +44,19 @@ seo:
 
 
 
-<p>We have been talking a lot about <a class="rank-math-link" href="https://www.electrikjam.com/doom-metal-beginners-guide/" type="post" id="1042" data-lasso-id="336">Doom Metal</a> here lately, and that&#8217;s because it is such a fun genre to explore. Not to mention, I am a life-long fan. The whole vibe of Doom Metal is about ambience and melancholy. Often moving at a glacial pace, building up basic riffs into huge walls of sound.</p>
+<p>We have been talking a lot about <a class="rank-math-link" href="/doom-metal-beginners-guide/" type="post" id="1042" data-lasso-id="336">Doom Metal</a> here lately, and that&#8217;s because it is such a fun genre to explore. Not to mention, I am a life-long fan. The whole vibe of Doom Metal is about ambience and melancholy. Often moving at a glacial pace, building up basic riffs into huge walls of sound.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="337">The coolest aspects of Doom Metal</a></strong> have remained relatively untouched for decades, all the while new gear continues to be released each year. Many guitarists have vintage gear that is the benchmark for their sound.</p>
+<p><strong><a href="/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="337">The coolest aspects of Doom Metal</a></strong> have remained relatively untouched for decades, all the while new gear continues to be released each year. Many guitarists have vintage gear that is the benchmark for their sound.</p>
 
 
 
-<p>That&#8217;s not to say that <strong><a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="338">guitarists that play Doom Metal</a></strong> never switch up their gear, because they certainly do. However there are some staples when it comes to pedals that almost every Doom Metal guitarist uses, <a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="339">as well as guitars</a>. One of those staples, is <em><strong>FUZZ</strong></em>.</p>
+<p>That&#8217;s not to say that <strong><a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="338">guitarists that play Doom Metal</a></strong> never switch up their gear, because they certainly do. However there are some staples when it comes to pedals that almost every Doom Metal guitarist uses, <a href="/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="339">as well as guitars</a>. One of those staples, is <em><strong>FUZZ</strong></em>.</p>
 
 
 
-<ul class="wp-block-list"><li><strong>RELATED: <a class="rank-math-link" href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-lasso-id="340">The #1 Best Guitar Pedals You Can Buy</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>RELATED: <a class="rank-math-link" href="/the-best-guitar-pedals-1968-2021/" data-lasso-id="340">The #1 Best Guitar Pedals You Can Buy</a></strong></li></ul>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg" alt="" class="wp-image-1157" title="" srcset="/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Big-Muff-Pi-300x300.jpg 300w, /wp-content/uploads/2020/10/Big-Muff-Pi-100x100.jpg 100w, /wp-content/uploads/2020/10/Big-Muff-Pi-600x600.jpg 600w, /wp-content/uploads/2020/10/Big-Muff-Pi-150x150.jpg 150w, /wp-content/uploads/2020/10/Big-Muff-Pi-768x768.jpg 768w, /wp-content/uploads/2020/10/Big-Muff-Pi-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/Big-Muff-Pi.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125578">Big Muff Pi Pedal</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg" alt="" class="wp-image-1157" title="" srcset="/wp-content/uploads/2020/10/Big-Muff-Pi-1024x1024.jpg 1024w, /wp-content/uploads/2020/10/Big-Muff-Pi-300x300.jpg 300w, /wp-content/uploads/2020/10/Big-Muff-Pi-100x100.jpg 100w, /wp-content/uploads/2020/10/Big-Muff-Pi-600x600.jpg 600w, /wp-content/uploads/2020/10/Big-Muff-Pi-150x150.jpg 150w, /wp-content/uploads/2020/10/Big-Muff-Pi-768x768.jpg 768w, /wp-content/uploads/2020/10/Big-Muff-Pi-1536x1536.jpg 1536w, /wp-content/uploads/2020/10/Big-Muff-Pi.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125578">Big Muff Pi Pedal</a></figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/big-muff-pi/" data-lasso-id="341">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/big-muff-pi/" data-lasso-id="341">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/darkglass-duality-fuzz/" data-lasso-id="342">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/darkglass-duality-fuzz/" data-lasso-id="342">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -160,19 +160,19 @@ seo:
 
 
 
-<p>The good thing about this gem of a pedal is that is does one thing really well: Raunchy Distortion. The circuit inside the ProCo Rat is almost a <a href="https://www.electrikjam.com/fuzz-vs-distortion/" data-lasso-id="36500">hybrid of distortion and fuzz</a>, controlled by the &#8220;filter&#8221; knob that acts like a tone knob or a low pass filter.</p>
+<p>The good thing about this gem of a pedal is that is does one thing really well: Raunchy Distortion. The circuit inside the ProCo Rat is almost a <a href="/fuzz-vs-distortion/" data-lasso-id="36500">hybrid of distortion and fuzz</a>, controlled by the &#8220;filter&#8221; knob that acts like a tone knob or a low pass filter.</p>
 
 
 
-<p>The reason this pedal gets so much attention is because while it works great on it&#8217;s own, it also works great with other distortion pedal, like the <a href="https://www.electrikjam.com/best-guitar-pedals-for-metal-our-top-choices-for-2020/" data-type="post" data-id="1126" data-lasso-id="343">BOSS DS1.</a> It adds extra bite and grit to your distorted tones and can easily be switched on and off during a song.</p>
+<p>The reason this pedal gets so much attention is because while it works great on it&#8217;s own, it also works great with other distortion pedal, like the <a href="/best-guitar-pedals-for-metal-our-top-choices-for-2020/" data-type="post" data-id="1126" data-lasso-id="343">BOSS DS1.</a> It adds extra bite and grit to your distorted tones and can easily be switched on and off during a song.</p>
 
 
 
-<p>So if you ever tried The Rat alone, and you didn&#8217;t like it, then maybe you should try it with your favorite distortion, or even your amp&#8217;s own natural sound. Because it is so filthy, you may be quick to discredit The Rat. But that dirty tone is exactly what makes it special and why it is one of the best <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231157">guitar pedals</a> for Doom Metal.</p>
+<p>So if you ever tried The Rat alone, and you didn&#8217;t like it, then maybe you should try it with your favorite distortion, or even your amp&#8217;s own natural sound. Because it is so filthy, you may be quick to discredit The Rat. But that dirty tone is exactly what makes it special and why it is one of the best <a href="/gamma-guitar-pedals-review/" data-lasso-id="231157">guitar pedals</a> for Doom Metal.</p>
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/proco-rat-pedal/" data-lasso-id="344">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/proco-rat-pedal/" data-lasso-id="344">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/jhs-series-3-fuzz-pedal/" data-lasso-id="345">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/jhs-series-3-fuzz-pedal/" data-lasso-id="345">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -244,15 +244,15 @@ seo:
 
 
 
-<p>You see, Carcosa is the island home to the Yellow King, the bringer of madness and DOOM to everyone. A Robert W. Chambers novel is kind of an obscure reference for something like a <a href="https://www.electrikjam.com/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183496">guitar pedal</a>. But that just makes it more interesting and sinister to me.</p>
+<p>You see, Carcosa is the island home to the Yellow King, the bringer of madness and DOOM to everyone. A Robert W. Chambers novel is kind of an obscure reference for something like a <a href="/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183496">guitar pedal</a>. But that just makes it more interesting and sinister to me.</p>
 
 
 
-<p>That&#8217;s a lot to take in for a <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="346">guitar pedal</a>. But it lives up to it&#8217;s name as the bringer of all things Doom! Sounds expensive right? It&#8217;s not!</p>
+<p>That&#8217;s a lot to take in for a <a href="/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="346">guitar pedal</a>. But it lives up to it&#8217;s name as the bringer of all things Doom! Sounds expensive right? It&#8217;s not!</p>
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/dod-carcosa-fuzz-pedal/" data-lasso-id="347">&gt; VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/dod-carcosa-fuzz-pedal/" data-lasso-id="347">&gt; VIEW PRICES</a></strong></p>
 
 
 
@@ -268,15 +268,15 @@ seo:
 
 
 
-<p>Sure, you can just ape some other famous <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5462">Doom metal guitarist&#8217;s tone</a>, and be happy. But where the real fun happens is exploring all of the options out there. Metal is more popular than ever these days, and this is a buyer&#8217;s market for products. </p>
+<p>Sure, you can just ape some other famous <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5462">Doom metal guitarist&#8217;s tone</a>, and be happy. But where the real fun happens is exploring all of the options out there. Metal is more popular than ever these days, and this is a buyer&#8217;s market for products. </p>
 
 
 
-<p>Maybe you are just now <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="348">building your first pedalboard,</a> and you&#8217;re looking for something to make your sound &#8220;your own&#8221;. Any choice on this list will definitely put you in the right direction for ultimate Doom riffing. Whether it&#8217;s a new school pedal that has a ton of options, or something simple like the Big Muff, fuzz is <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5812">where your tone starts with Doom Metal</a>.</p>
+<p>Maybe you are just now <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="348">building your first pedalboard,</a> and you&#8217;re looking for something to make your sound &#8220;your own&#8221;. Any choice on this list will definitely put you in the right direction for ultimate Doom riffing. Whether it&#8217;s a new school pedal that has a ton of options, or something simple like the Big Muff, fuzz is <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5812">where your tone starts with Doom Metal</a>.</p>
 
 
 
-<p>There&#8217;s no formula for getting the right tones and sounds for something as vast as Doom Metal. <a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-lasso-id="349">Bands like  Sleep</a>  and <strong>Truck Fighters </strong>may have helped define the genre and modernize it more, but you certainly don&#8217;t have to chase their tones.</p>
+<p>There&#8217;s no formula for getting the right tones and sounds for something as vast as Doom Metal. <a href="/matt-pike-dopesmoker-sleep/" data-lasso-id="349">Bands like  Sleep</a>  and <strong>Truck Fighters </strong>may have helped define the genre and modernize it more, but you certainly don&#8217;t have to chase their tones.</p>
 
 
 

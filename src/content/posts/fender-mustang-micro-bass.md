@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>If you caught <strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" class="rank-math-link" data-lasso-id="1183">our launch post on the Fender Mustang Micro</a></strong>, you’ll know we were pretty excited about this awesome little gizmo. Taking Fender’s already-awesome Mustang GTX amp profiles, the Mustang Micro has additional effects and even an EQ setting.</p>
+<p>If you caught <strong><a href="/fender-mustang-micro-features-price/" class="rank-math-link" data-lasso-id="1183">our launch post on the Fender Mustang Micro</a></strong>, you’ll know we were pretty excited about this awesome little gizmo. Taking Fender’s already-awesome Mustang GTX amp profiles, the Mustang Micro has additional effects and even an EQ setting.</p>
 
 
 
@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>For practice, <strong><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="1184">for recording down ideas</a></strong>, and for basically everything else you can think of, the Fender Mustang Micro is a must-have piece of kit. I’d go as far as saying that if you’re brand new to guitar, get the Mustang Micro <strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1185">instead of a practice amp</a></strong>.</p>
+<p>For practice, <strong><a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="1184">for recording down ideas</a></strong>, and for basically everything else you can think of, the Fender Mustang Micro is a must-have piece of kit. I’d go as far as saying that if you’re brand new to guitar, get the Mustang Micro <strong><a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1185">instead of a practice amp</a></strong>.</p>
 
 
 
@@ -67,11 +67,11 @@ seo:
 
 
 
-<p><strong>RELATED: <a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" class="rank-math-link" data-lasso-id="1186">The Best Free Guitar Amp Simulators For Metal &amp; Rock Music</a></strong></p>
+<p><strong>RELATED: <a href="/the-best-free-amp-simulators-in-2021/" class="rank-math-link" data-lasso-id="1186">The Best Free Guitar Amp Simulators For Metal &amp; Rock Music</a></strong></p>
 
 
 
-<p>A bass guitar is a very different animal to the electric guitar, however, so things that’ll work great when using the <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-lasso-id="42957">Fender Mustang</a> Micro on a guitar might not work too well on a bass.</p>
+<p>A bass guitar is a very different animal to the electric guitar, however, so things that’ll work great when using the <a href="/fender-mustang-gtx-100-review/" data-lasso-id="42957">Fender Mustang</a> Micro on a guitar might not work too well on a bass.</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>Everything is done on the actual unit too; so there’s no requirement to have a certain phone or app. For me, this is a really big plus. <strong><a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" class="rank-math-link" data-lasso-id="1187">As much as I love the Spark amp</a></strong>, I do find having to use my phone to run it kind of annoying.</p>
+<p>Everything is done on the actual unit too; so there’s no requirement to have a certain phone or app. For me, this is a really big plus. <strong><a href="/killer-guitar-tone-without-hardware/" class="rank-math-link" data-lasso-id="1187">As much as I love the Spark amp</a></strong>, I do find having to use my phone to run it kind of annoying.</p>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/how-heavy-is-the-spark-amp-lets-find-out/" data-lasso-id="5942">And unlike the Spark Amp</a>, the Fender Mustang Micro is designed to be completely portable. I mean, the entire unit will sit squarely in the palm of your hand, so you can literally take it anywhere and everywhere, making playing your electric guitar (or bass) on the beach a real possibility.</p>
+<p><a href="/how-heavy-is-the-spark-amp-lets-find-out/" data-lasso-id="5942">And unlike the Spark Amp</a>, the Fender Mustang Micro is designed to be completely portable. I mean, the entire unit will sit squarely in the palm of your hand, so you can literally take it anywhere and everywhere, making playing your electric guitar (or bass) on the beach a real possibility.</p>
 
 
 
@@ -115,11 +115,11 @@ seo:
 
 
 
-<p>You can also use it as a USB Audio Interface as well, meaning you can <strong><a class="rank-math-link" href="https://www.electrikjam.com/connect-guitar-to-macbook-guide/" data-lasso-id="1188">connect your guitar to your MacBook or PC</a></strong>. </p>
+<p>You can also use it as a USB Audio Interface as well, meaning you can <strong><a class="rank-math-link" href="/connect-guitar-to-macbook-guide/" data-lasso-id="1188">connect your guitar to your MacBook or PC</a></strong>. </p>
 
 
 
-<p>It works with headphones –&nbsp;both wired and wireless –&nbsp;so it is completely silent; you can sit in your living room with your family and play. They’ll hear the strings, but you’ll hear a full on <strong><a href="https://www.electrikjam.com/fender/" data-lasso-id="1810">Fender Mustang GTX</a></strong> amp profile via your headphones, complete with fully customisable effects and an EQ.</p>
+<p>It works with headphones –&nbsp;both wired and wireless –&nbsp;so it is completely silent; you can sit in your living room with your family and play. They’ll hear the strings, but you’ll hear a full on <strong><a href="/fender/" data-lasso-id="1810">Fender Mustang GTX</a></strong> amp profile via your headphones, complete with fully customisable effects and an EQ.</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p>And let’s be frank about amps, if you want to buy one –&nbsp;<strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1189">even a small practice one</a></strong> –&nbsp;you’ll have to drop quite a bit of money on one in order to get a decent sound. With the Fender Mustang Micro, you’ll pay less than $90/£90 and get access to Fender’s incredible Mustang GTX amp profiles which sound truly amazing.</p>
+<p>And let’s be frank about amps, if you want to buy one –&nbsp;<strong><a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1189">even a small practice one</a></strong> –&nbsp;you’ll have to drop quite a bit of money on one in order to get a decent sound. With the Fender Mustang Micro, you’ll pay less than $90/£90 and get access to Fender’s incredible Mustang GTX amp profiles which sound truly amazing.</p>
 
 
 

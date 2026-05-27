@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>But when<a data-lasso-id="142595" href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener"> <strong>recording at home</strong></a>, most of us don&#8217;t have $5000 monitors to use for playback and referencing. So we use our cars, or our home stereo to try and get the mastered track to the right volume, and <em>nail the mix</em>. </p>
+<p>But when<a data-lasso-id="142595" href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener"> <strong>recording at home</strong></a>, most of us don&#8217;t have $5000 monitors to use for playback and referencing. So we use our cars, or our home stereo to try and get the mastered track to the right volume, and <em>nail the mix</em>. </p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p>If your song has quiet/loud dynamics, then pick a track that does that too! Then put it at the bottom of your mixdown, on a separate track in your<a data-lasso-id="142596" href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener"><strong> DAW</strong></a>. Keep it muted, and toggle back and forth with your song, to see if the volumes and dynamics match.</p>
+<p>If your song has quiet/loud dynamics, then pick a track that does that too! Then put it at the bottom of your mixdown, on a separate track in your<a data-lasso-id="142596" href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener"><strong> DAW</strong></a>. Keep it muted, and toggle back and forth with your song, to see if the volumes and dynamics match.</p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>1. Make a private Soundcloud or dropbox account for your test mixes.</strong></li><li><strong>2. Make sure your track and your reference track are as close as possible in your DAW.</strong></li><li><strong>3. Have 3 devices that you check your finished song on. For example: Car, Headphones, Stereo.</strong></li><li><strong>4. Have an extra set of ears, like a <a data-lasso-id="142597" href="https://www.electrikjam.com/starting-a-band-part-2/" data-type="post" data-id="6850" target="_blank" rel="noopener">bandmate</a>, or friend to listen with you.</strong></li><li><strong>5. make sure your track fits the parameters (Luffs) of the platform you use.</strong></li></ul>
+<ul class="wp-block-list"><li><strong>1. Make a private Soundcloud or dropbox account for your test mixes.</strong></li><li><strong>2. Make sure your track and your reference track are as close as possible in your DAW.</strong></li><li><strong>3. Have 3 devices that you check your finished song on. For example: Car, Headphones, Stereo.</strong></li><li><strong>4. Have an extra set of ears, like a <a data-lasso-id="142597" href="/starting-a-band-part-2/" data-type="post" data-id="6850" target="_blank" rel="noopener">bandmate</a>, or friend to listen with you.</strong></li><li><strong>5. make sure your track fits the parameters (Luffs) of the platform you use.</strong></li></ul>
 
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<p>I also tried these with my studio interface and my <a data-lasso-id="142599" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener">BOSS Katana</a> amplifier. </p>
+<p>I also tried these with my studio interface and my <a data-lasso-id="142599" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener">BOSS Katana</a> amplifier. </p>
 
 
 

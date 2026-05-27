@@ -455,7 +455,7 @@ seo:
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
-<h3 class="wp-block-heading has-medium-font-size"><strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="268248">Single Coil vs Humbucker Pickups</a></strong></h3>
+<h3 class="wp-block-heading has-medium-font-size"><strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="268248">Single Coil vs Humbucker Pickups</a></strong></h3>
 
 
 
@@ -475,7 +475,7 @@ seo:
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
-<h3 class="wp-block-heading has-medium-font-size"><strong><a href="https://www.electrikjam.com/what-are-p90-pickups-good-for-lets-find-out/" data-type="post" data-id="5912" data-lasso-id="268249">What Are P90 Pickups? </a></strong></h3>
+<h3 class="wp-block-heading has-medium-font-size"><strong><a href="/what-are-p90-pickups-good-for-lets-find-out/" data-type="post" data-id="5912" data-lasso-id="268249">What Are P90 Pickups? </a></strong></h3>
 
 
 
@@ -495,7 +495,7 @@ seo:
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
-<h3 class="wp-block-heading has-medium-font-size"><strong><a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" data-lasso-id="268250">Active vs Passive Pickups Explained</a></strong></h3>
+<h3 class="wp-block-heading has-medium-font-size"><strong><a href="/what-are-active-pickups/" data-type="post" data-id="4712" data-lasso-id="268250">Active vs Passive Pickups Explained</a></strong></h3>
 
 
 
@@ -526,7 +526,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/electric-guitar-body-woods/" data-type="page" data-id="13604" data-lasso-id="268251">The type of wood used in a guitar</a></strong> significantly affects its tone. <strong>Alder</strong> is commonly used for its balanced, full sound, while <strong>mahogany</strong> offers warmth and resonance, making it a favorite for solid body guitars like the Les Paul. </p>
+<p><strong><a href="/electric-guitar-body-woods/" data-type="page" data-id="13604" data-lasso-id="268251">The type of wood used in a guitar</a></strong> significantly affects its tone. <strong>Alder</strong> is commonly used for its balanced, full sound, while <strong>mahogany</strong> offers warmth and resonance, making it a favorite for solid body guitars like the Les Paul. </p>
 
 
 
@@ -550,7 +550,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-type="post" data-id="12440" data-lasso-id="268252">A guitar’s neck type and fretboard</a></strong> material play a crucial role in its feel and playability. </p>
+<p><strong><a href="/parts-of-an-electric-guitar/" data-type="post" data-id="12440" data-lasso-id="268252">A guitar’s neck type and fretboard</a></strong> material play a crucial role in its feel and playability. </p>
 
 
 
@@ -727,7 +727,7 @@ seo:
 
 
 
-<p>Guitars with <strong>humbucking pickups</strong> and fast necks are essential. Models like the <strong><a href="https://www.electrikjam.com/ibanez-rg570/" data-type="post" data-id="13675" data-lasso-id="268254">Ibanez RG</a></strong> and ESP guitars, often with extended-range options (7 or 8 strings), provide the heavy, high-output tone metal guitarists need. </p>
+<p>Guitars with <strong>humbucking pickups</strong> and fast necks are essential. Models like the <strong><a href="/ibanez-rg570/" data-type="post" data-id="13675" data-lasso-id="268254">Ibanez RG</a></strong> and ESP guitars, often with extended-range options (7 or 8 strings), provide the heavy, high-output tone metal guitarists need. </p>
 </div>
 </div>
 </div>
@@ -810,7 +810,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-legends/jimi-hendrix/" data-type="guitar-legends" data-id="14031" data-lasso-id="268256">Jimi Hendrix revolutionized guitar playing</a></strong> with his innovative use of the Stratocaster. </p>
+<p><strong><a href="/guitar-legends/jimi-hendrix/" data-type="guitar-legends" data-id="14031" data-lasso-id="268256">Jimi Hendrix revolutionized guitar playing</a></strong> with his innovative use of the Stratocaster. </p>
 
 
 
@@ -830,7 +830,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-legends/adam-jones/" data-type="guitar-legends" data-id="14052" data-lasso-id="268257">Adam Jones is the dude from TOOL</a></strong> and he is one of the most successful guitarists alive today. Not bad for a dude that’s only released a handful of albums over the span of three decades. </p>
+<p><strong><a href="/guitar-legends/adam-jones/" data-type="guitar-legends" data-id="14052" data-lasso-id="268257">Adam Jones is the dude from TOOL</a></strong> and he is one of the most successful guitarists alive today. Not bad for a dude that’s only released a handful of albums over the span of three decades. </p>
 
 
 
@@ -850,7 +850,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-guitar-does-tony-iommi-use-a-complete-overview/" data-type="post" data-id="13306" data-lasso-id="268258">As the lead guitarist of Black Sabbath</a></strong>, Tony Iommi’s use of the Gibson SG helped shape the sound of heavy metal. </p>
+<p><strong><a href="/what-guitar-does-tony-iommi-use-a-complete-overview/" data-type="post" data-id="13306" data-lasso-id="268258">As the lead guitarist of Black Sabbath</a></strong>, Tony Iommi’s use of the Gibson SG helped shape the sound of heavy metal. </p>
 
 
 
@@ -870,7 +870,7 @@ seo:
 
 
 
-<p>Few images are more iconic than <strong><a href="https://www.electrikjam.com/epiphone-slash-signature-series/" data-type="post" data-id="1762" data-lasso-id="268259">Slash</a></strong>, cigarette hanging from his mouth, wielding his Gibson Les Paul. </p>
+<p>Few images are more iconic than <strong><a href="/epiphone-slash-signature-series/" data-type="post" data-id="1762" data-lasso-id="268259">Slash</a></strong>, cigarette hanging from his mouth, wielding his Gibson Les Paul. </p>
 
 
 
@@ -886,15 +886,15 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="268260">Jimmy Page</a></strong> is arguably one of the greatest guitarists to have ever walked the earth. With Led Zeppelin, Page write and recorded some of the most influential and iconic rock music of all time – everybody likes Zeppelin. </p>
+<p><strong><a href="/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="268260">Jimmy Page</a></strong> is arguably one of the greatest guitarists to have ever walked the earth. With Led Zeppelin, Page write and recorded some of the most influential and iconic rock music of all time – everybody likes Zeppelin. </p>
 
 
 
-<p>Without Jimmy, we wouldn’t have 90% of the bands we know and love today. From rock bands like AC/DC to stoner rock icons like <strong><a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" data-lasso-id="268261">Matt Pike</a></strong> and <strong><a href="https://www.electrikjam.com/how-to-souond-like-kyuss/" data-type="post" data-id="7183" data-lasso-id="268262">Josh Homme</a></strong>, Jimmy Page inspired them all. </p>
+<p>Without Jimmy, we wouldn’t have 90% of the bands we know and love today. From rock bands like AC/DC to stoner rock icons like <strong><a href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" data-lasso-id="268261">Matt Pike</a></strong> and <strong><a href="/how-to-souond-like-kyuss/" data-type="post" data-id="7183" data-lasso-id="268262">Josh Homme</a></strong>, Jimmy Page inspired them all. </p>
 
 
 
-<p>And Jimmy’s guitar of choice (at least on stage)? The Gibson Les Paul. He was also partial to a double-necked SG too (which was <strong><a href="https://www.electrikjam.com/jimmy-page-50000-gibson-eds-1275-doubleneck/" data-type="post" data-id="14465" data-lasso-id="268263">re-released by Gibson back in 2023</a></strong> for the princely sum of £12,000!)</p>
+<p>And Jimmy’s guitar of choice (at least on stage)? The Gibson Les Paul. He was also partial to a double-necked SG too (which was <strong><a href="/jimmy-page-50000-gibson-eds-1275-doubleneck/" data-type="post" data-id="14465" data-lasso-id="268263">re-released by Gibson back in 2023</a></strong> for the princely sum of £12,000!)</p>
 
 
 
@@ -906,7 +906,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="268264">Kurt Cobain</a></strong> died at 27 but is now remembered – rightly or wrongly – as the true face of grunge music. </p>
+<p><strong><a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="268264">Kurt Cobain</a></strong> died at 27 but is now remembered – rightly or wrongly – as the true face of grunge music. </p>
 
 
 
@@ -922,7 +922,7 @@ seo:
 
 
 
-<p>Kurt he even got his own signature model too in the form of the <strong><a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="268265">Fender Jag-Stang</a></strong>, a hybrid of the Fender Jaguar and Fender Mustang. </p>
+<p>Kurt he even got his own signature model too in the form of the <strong><a href="/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="268265">Fender Jag-Stang</a></strong>, a hybrid of the Fender Jaguar and Fender Mustang. </p>
 
 
 

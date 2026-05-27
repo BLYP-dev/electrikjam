@@ -88,15 +88,15 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" class="rank-math-link" data-lasso-id="127">I studied obscure chord voicing and extensions</a></strong>. I learnt about the <a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-lasso-id="128">difference between brands like Gibson and Epiphone</a>. </p>
+<p><strong><a href="/chord-voicing-extensions-for-metal/" class="rank-math-link" data-lasso-id="127">I studied obscure chord voicing and extensions</a></strong>. I learnt about the <a href="/gibson-vs-epiphone-in-2021/" data-lasso-id="128">difference between brands like Gibson and Epiphone</a>. </p>
 
 
 
-<p>I also focused heavily on understanding the basics – <strong><a href="https://www.electrikjam.com/how-to-palm-mute/" class="rank-math-link" data-lasso-id="129">things like palm muting</a></strong>, <strong><a href="https://www.electrikjam.com/evan-hope-interview-the-reddit-shredder/" class="rank-math-link" data-lasso-id="130">picking techniques</a></strong>, and <strong><a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" class="rank-math-link" data-lasso-id="131">power chords</a></strong>. </p>
+<p>I also focused heavily on understanding the basics – <strong><a href="/how-to-palm-mute/" class="rank-math-link" data-lasso-id="129">things like palm muting</a></strong>, <strong><a href="/evan-hope-interview-the-reddit-shredder/" class="rank-math-link" data-lasso-id="130">picking techniques</a></strong>, and <strong><a href="/bands-that-use-drop-c-tuning/" class="rank-math-link" data-lasso-id="131">power chords</a></strong>. </p>
 
 
 
-<p>You often see these ads on social media about &#8220;Play Guitar Like A Pro in 6 Weeks&#8221; and I think that confuses a ton of people. Learning an instrument is <em>slow</em> at the beginning. If you&#8217;re <a href="https://www.electrikjam.com/schecter-cr6-review/" data-lasso-id="72861">shredding guitar</a> in 6 weeks&#8230;that&#8217;s great! But that is probably not the case.</p>
+<p>You often see these ads on social media about &#8220;Play Guitar Like A Pro in 6 Weeks&#8221; and I think that confuses a ton of people. Learning an instrument is <em>slow</em> at the beginning. If you&#8217;re <a href="/schecter-cr6-review/" data-lasso-id="72861">shredding guitar</a> in 6 weeks&#8230;that&#8217;s great! But that is probably not the case.</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>This is probably the #1 reason people quit playing <a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12778">guitar in the beginning</a>. I can see why! But like everything else, it gets better over time. It may be frustrating at first, but you eventually get past it.</p>
+<p>This is probably the #1 reason people quit playing <a href="/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12778">guitar in the beginning</a>. I can see why! But like everything else, it gets better over time. It may be frustrating at first, but you eventually get past it.</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<p>For me, that person was Slash from Guns and Roses. I saw him playing in music videos on TV and I knew I had to be like that. I needed to learn how to make the <a href="https://www.electrikjam.com/every-time-i-die-guitar-tunings/" data-lasso-id="3085">guitar scream and sing at the same time</a>.</p>
+<p>For me, that person was Slash from Guns and Roses. I saw him playing in music videos on TV and I knew I had to be like that. I needed to learn how to make the <a href="/every-time-i-die-guitar-tunings/" data-lasso-id="3085">guitar scream and sing at the same time</a>.</p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5464">Most famous virtuoso guitarists</a> have thousands of hours behind them in practice. THOUSANDS of hours, <em>you read that correctly the first time</em>. To reach their level, you will need to do the same.</p>
+<p><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5464">Most famous virtuoso guitarists</a> have thousands of hours behind them in practice. THOUSANDS of hours, <em>you read that correctly the first time</em>. To reach their level, you will need to do the same.</p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<p>But many people get irritated with the idea in the early stages, and rightfully so. You can play <a href="https://www.electrikjam.com/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211728">guitar for your entire life and not learn</a> everything. That sounds like a downer at first, but it&#8217;s a blessing in disguise.</p>
+<p>But many people get irritated with the idea in the early stages, and rightfully so. You can play <a href="/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211728">guitar for your entire life and not learn</a> everything. That sounds like a downer at first, but it&#8217;s a blessing in disguise.</p>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<p>My advice? <strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="132">Get a decent practice amp</a></strong> – or, if your budget can stretch, <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="133">something like BIAS FX 2</a></strong>; it will make your practicing way more engaging and interesting. </p>
+<p>My advice? <strong><a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="132">Get a decent practice amp</a></strong> – or, if your budget can stretch, <strong><a href="/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="133">something like BIAS FX 2</a></strong>; it will make your practicing way more engaging and interesting. </p>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>Nothing feels better than <strong><a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" class="rank-math-link" data-lasso-id="134">learning a new song or technique</a></strong>. Learning something new boosts your confidence, and keeps you hungry to learn. Guitar can do this almost daily, if you want it to.</p>
+<p>Nothing feels better than <strong><a href="/chord-voicing-extensions-for-metal/" class="rank-math-link" data-lasso-id="134">learning a new song or technique</a></strong>. Learning something new boosts your confidence, and keeps you hungry to learn. Guitar can do this almost daily, if you want it to.</p>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<p>These days, you can get a <a type="post" id="505" href="https://www.electrikjam.com/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="135"><strong>brilliant guitar that is ideal for beginners</strong> </a>for well under $600. Some people may be fine with an affordable setup for most of their lives. </p>
+<p>These days, you can get a <a type="post" id="505" href="/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="135"><strong>brilliant guitar that is ideal for beginners</strong> </a>for well under $600. Some people may be fine with an affordable setup for most of their lives. </p>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/how-to-buy-expensive-guitar-for-less/" class="rank-math-link" data-lasso-id="136">Really nice guitars</a></strong> start around the $1000 dollar range. That may sound like a lot at the end of the day, but at least you don&#8217;t play violin. Classical instruments usually range between $5000-$45,000.</p>
+<p><strong><a href="/how-to-buy-expensive-guitar-for-less/" class="rank-math-link" data-lasso-id="136">Really nice guitars</a></strong> start around the $1000 dollar range. That may sound like a lot at the end of the day, but at least you don&#8217;t play violin. Classical instruments usually range between $5000-$45,000.</p>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<p>No artist wants to admit it, but it happens to the best of us. We get writer&#8217;s block. We  get stuck in our practice routine. Maybe there is a <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69762">technique</a> that we just cannot get down.</p>
+<p>No artist wants to admit it, but it happens to the best of us. We get writer&#8217;s block. We  get stuck in our practice routine. Maybe there is a <a href="/guitar-muting-techniques/" data-lasso-id="69762">technique</a> that we just cannot get down.</p>
 
 
 

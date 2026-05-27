@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>In the world of computer-based editing software, the list gets longer every year. New digital audio workstations pop up all the time, but not many stick around unless they have something new to offer. In 2009, <strong><a data-lasso-id="250604" href="https://www.electrikjam.com/what-is-presonus-studio-one/" data-type="post" data-id="12646" target="_blank" rel="noopener">Studio One</a></strong> hit the scene as an affordable option to the bigger DAW brands.</p>
+<p>In the world of computer-based editing software, the list gets longer every year. New digital audio workstations pop up all the time, but not many stick around unless they have something new to offer. In 2009, <strong><a data-lasso-id="250604" href="/what-is-presonus-studio-one/" data-type="post" data-id="12646" target="_blank" rel="noopener">Studio One</a></strong> hit the scene as an affordable option to the bigger DAW brands.</p>
 
 
 
@@ -82,7 +82,7 @@ seo:
 
 
 
-<p>PreSonus had over a decade of other DAWs like <a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251757">Cubase</a> and Pro Tools to study, and the designers definitely took notes. Studio One took all of the good parts of those DAWs, but removed a lot of the excess and bloat.</p>
+<p>PreSonus had over a decade of other DAWs like <a href="/what-is-cubase/" data-lasso-id="251757">Cubase</a> and Pro Tools to study, and the designers definitely took notes. Studio One took all of the good parts of those DAWs, but removed a lot of the excess and bloat.</p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<p>Version 1.0 marked the beginning of Studio One&#8217;s journey as a DAW that prioritized user-friendly design while embracing cutting-edge technology. Copies of Studio One were included with many PreSonus interfaces and other hardware, <strong><a href="https://www.electrikjam.com/best-midi-keyboards/" target="_blank" data-type="post" data-id="12719" rel="noopener" data-lasso-id="250605">like MIDI controllers</a></strong>.</p>
+<p>Version 1.0 marked the beginning of Studio One&#8217;s journey as a DAW that prioritized user-friendly design while embracing cutting-edge technology. Copies of Studio One were included with many PreSonus interfaces and other hardware, <strong><a href="/best-midi-keyboards/" target="_blank" data-type="post" data-id="12719" rel="noopener" data-lasso-id="250605">like MIDI controllers</a></strong>.</p>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<p>Along with the mixing and mastering additions, we also see a <strong><a href="https://www.electrikjam.com/best-midi-keyboards/" data-type="post" data-id="12719" target="_blank" rel="noopener" data-lasso-id="250694">MIDI drum editor</a></strong>. Using drum plugins to create demos and finished products alike has become commonplace, and Studio One picked up on the trend. The other trend that had become popular is the use of Melodyne and Auto Tune, also incorporated in Version 4.</p>
+<p>Along with the mixing and mastering additions, we also see a <strong><a href="/best-midi-keyboards/" data-type="post" data-id="12719" target="_blank" rel="noopener" data-lasso-id="250694">MIDI drum editor</a></strong>. Using drum plugins to create demos and finished products alike has become commonplace, and Studio One picked up on the trend. The other trend that had become popular is the use of Melodyne and Auto Tune, also incorporated in Version 4.</p>
 
 
 

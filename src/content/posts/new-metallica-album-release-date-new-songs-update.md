@@ -69,11 +69,11 @@ seo:
 
 
 
-<p>Ulrich and <strong><a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="17564">Hetfield</a></strong> have apparently been very busy though, working out new songs and compositions. If you’ve ever seen any of the myriad videos of Metallica writing songs and making albums on YouTube, <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91766">you’ll know that it is Hetfield</a> and Ulrich, predominantly, that arrange and piece together the songs, usually based around series of Hetfield riffs.</p>
+<p>Ulrich and <strong><a href="/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="17564">Hetfield</a></strong> have apparently been very busy though, working out new songs and compositions. If you’ve ever seen any of the myriad videos of Metallica writing songs and making albums on YouTube, <a href="/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91766">you’ll know that it is Hetfield</a> and Ulrich, predominantly, that arrange and piece together the songs, usually based around series of Hetfield riffs.</p>
 
 
 
-<p>The fact that Metallica has 10 new songs done, or nearly done, is very promising. How many would it need for a new album? 10 would suffice, sure, but given the time between albums, and the fact that Metallica is feeling <strong><em>“so rejuvenated”</em></strong> it is entirely possible we could get another double-album from the boys – just like <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="17565">Mastodon’s new LP, Hushed and Grim.</a></strong></p>
+<p>The fact that Metallica has 10 new songs done, or nearly done, is very promising. How many would it need for a new album? 10 would suffice, sure, but given the time between albums, and the fact that Metallica is feeling <strong><em>“so rejuvenated”</em></strong> it is entirely possible we could get another double-album from the boys – just like <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="17565">Mastodon’s new LP, Hushed and Grim.</a></strong></p>
 
 
 
@@ -93,7 +93,7 @@ seo:
 
 
 
-<p>Unlike a lot of metal bands, Metallica doesn’t really need to release new music. If it booked a tour now, the entire thing would sell out. No one would care that the band didn’t play new music – everybody is there for <strong><a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" data-lasso-id="17566">the band&#8217;s classics</a></strong> anyway. Metallica knows this, it gives the band leverage, space to breath. This is what the Rolling Stones have done for years.</p>
+<p>Unlike a lot of metal bands, Metallica doesn’t really need to release new music. If it booked a tour now, the entire thing would sell out. No one would care that the band didn’t play new music – everybody is there for <strong><a href="/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" data-lasso-id="17566">the band&#8217;s classics</a></strong> anyway. Metallica knows this, it gives the band leverage, space to breath. This is what the Rolling Stones have done for years.</p>
 
 
 
@@ -129,5 +129,5 @@ seo:
 
 
 
-<p>And while a new Metallica album would be awesome, especially after how good <strong><em>Hardwired… To Self-Destruct</em></strong> was, you can take solace in the fact that there is awesome new music dropping left, right, and center at the moment. Two of our absolute favorites right now are <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="17567">Mastodon’s new album, Hushed and Grim</a></strong>, and <strong><a href="https://www.electrikjam.com/every-time-i-die-radical-album-review-the-boys-are-back-with-brutality/" data-type="post" data-id="5181" data-lasso-id="17568">Every Time I Die’s Radical</a></strong> – they’re both killer records that are well worth a listen.</p>
+<p>And while a new Metallica album would be awesome, especially after how good <strong><em>Hardwired… To Self-Destruct</em></strong> was, you can take solace in the fact that there is awesome new music dropping left, right, and center at the moment. Two of our absolute favorites right now are <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="17567">Mastodon’s new album, Hushed and Grim</a></strong>, and <strong><a href="/every-time-i-die-radical-album-review-the-boys-are-back-with-brutality/" data-type="post" data-id="5181" data-lasso-id="17568">Every Time I Die’s Radical</a></strong> – they’re both killer records that are well worth a listen.</p>
 

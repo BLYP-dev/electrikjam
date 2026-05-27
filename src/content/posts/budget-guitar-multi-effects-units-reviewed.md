@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Being a <a data-lasso-id="184085" href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener"><strong>gigging guitarist</strong></a> has always been a blessing and a curse. Back in the day, you found a guitar you liked, and an <a data-lasso-id="184086" href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener"><strong>amplifier</strong></a>. But then, you needed to build up <em>your pedalboard as well</em> if you wanted to have any effects. Some people still have the luxury of doing things this way, and <em>more power to you</em>.</p>
+<p>Being a <a data-lasso-id="184085" href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener"><strong>gigging guitarist</strong></a> has always been a blessing and a curse. Back in the day, you found a guitar you liked, and an <a data-lasso-id="184086" href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener"><strong>amplifier</strong></a>. But then, you needed to build up <em>your pedalboard as well</em> if you wanted to have any effects. Some people still have the luxury of doing things this way, and <em>more power to you</em>.</p>
 
 
 
@@ -51,19 +51,19 @@ seo:
 
 
 
-<p>The <a data-lasso-id="184087" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong>BOSS Katana </strong></a>has solved most of my problems when it comes to live/gigs. With the <a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-type="post" data-id="8846" target="_blank" rel="noopener" data-lasso-id="184881"><strong>GA-FC footswitch</strong></a>, I can do just about everything that I need for a gig. I also have a <a href="https://www.electrikjam.com/the-5-best-wah-pedals-for-metal-review/" target="_blank" data-type="post" data-id="9165" rel="noopener" data-lasso-id="184882"><strong>Wah pedal</strong></a> in my effects chain. But I have also been exploring my options for going even less, <em>even smaller</em>. Which brought me to <a data-lasso-id="184088" href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"><strong>a Helix</strong></a>.</p>
+<p>The <a data-lasso-id="184087" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong>BOSS Katana </strong></a>has solved most of my problems when it comes to live/gigs. With the <a href="/boss-ga-fc-ex-footswitch-new/" data-type="post" data-id="8846" target="_blank" rel="noopener" data-lasso-id="184881"><strong>GA-FC footswitch</strong></a>, I can do just about everything that I need for a gig. I also have a <a href="/the-5-best-wah-pedals-for-metal-review/" target="_blank" data-type="post" data-id="9165" rel="noopener" data-lasso-id="184882"><strong>Wah pedal</strong></a> in my effects chain. But I have also been exploring my options for going even less, <em>even smaller</em>. Which brought me to <a data-lasso-id="184088" href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"><strong>a Helix</strong></a>.</p>
 
 
 
-<p>I think the<a data-lasso-id="184089" href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"> <strong>Line 6 </strong></a>Helix is just an absolute<em> beast</em>, and for most guitarists it will have everything you need to gig or record. But then again, it has a lot of features that <em>I never even touch</em>. Hooking it up to the Line 6 Editor can be downright daunting for someone like me that gets<strong> option paralysis</strong>. But there is another problem for most guitarists; it is <em>expensive</em>.</p>
+<p>I think the<a data-lasso-id="184089" href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"> <strong>Line 6 </strong></a>Helix is just an absolute<em> beast</em>, and for most guitarists it will have everything you need to gig or record. But then again, it has a lot of features that <em>I never even touch</em>. Hooking it up to the Line 6 Editor can be downright daunting for someone like me that gets<strong> option paralysis</strong>. But there is another problem for most guitarists; it is <em>expensive</em>.</p>
 
 
 
-<p>There was a time when Line 6 products were looked at as toys. The original POD series was a fun little gimmick. But <a href="https://www.electrikjam.com/line-6-3-5-update-explained/" data-lasso-id="197568">Line 6 has done everything</a> it can to shed that image over the last decade, starting with the POD HD500. Since then, Line 6 has become<em> much more</em> than just a gimmick, seen on stages <em>everywhere</em>.</p>
+<p>There was a time when Line 6 products were looked at as toys. The original POD series was a fun little gimmick. But <a href="/line-6-3-5-update-explained/" data-lasso-id="197568">Line 6 has done everything</a> it can to shed that image over the last decade, starting with the POD HD500. Since then, Line 6 has become<em> much more</em> than just a gimmick, seen on stages <em>everywhere</em>.</p>
 
 
 
-<p>Of course you also have the <a data-lasso-id="184090" href="https://www.electrikjam.com/line-6-helix-lt-reviews/" data-type="post" data-id="4472" target="_blank" rel="noopener"><strong>Helix LT</strong></a>, for a slightly reduced price. But it is <em>still</em> over $1000, so I wondered what<strong><em> budget</em> guitar multi effects</strong> units might have to offer. Now when I say<strong> budget</strong>, I mean definitely under $500. In fact, I made a whole list of parameters that these budget options had to meet.</p>
+<p>Of course you also have the <a data-lasso-id="184090" href="/line-6-helix-lt-reviews/" data-type="post" data-id="4472" target="_blank" rel="noopener"><strong>Helix LT</strong></a>, for a slightly reduced price. But it is <em>still</em> over $1000, so I wondered what<strong><em> budget</em> guitar multi effects</strong> units might have to offer. Now when I say<strong> budget</strong>, I mean definitely under $500. In fact, I made a whole list of parameters that these budget options had to meet.</p>
 
 
 
@@ -91,11 +91,11 @@ seo:
 
 
 
-<p>Finding budget guitar multi effects units that hit all of those needs, was not easy. There are some great products that could act as a<em> supplement</em> to your existing rig, like the<strong> <a href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener" data-lasso-id="184091">HX Stomp</a></strong> by Line 6. But I wanted these to be an &#8220;all in one&#8221; solution that you could carry from the stage to studio.</p>
+<p>Finding budget guitar multi effects units that hit all of those needs, was not easy. There are some great products that could act as a<em> supplement</em> to your existing rig, like the<strong> <a href="/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener" data-lasso-id="184091">HX Stomp</a></strong> by Line 6. But I wanted these to be an &#8220;all in one&#8221; solution that you could carry from the stage to studio.</p>
 
 
 
-<p>This means they have to have <strong>balanced output</strong> to work with a gig venue&#8217;s soundboard, or a studio interface. But they also need to work with an FRFR for situations where you need the unit to work like an <strong>amp and cab</strong>. If you plan on going digital, an <strong><a data-lasso-id="184092" href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-type="post" data-id="4226" target="_blank" rel="noopener">FRFR</a> </strong>is a great backup to have. <a data-lasso-id="184093" href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" target="_blank" rel="noopener"><strong>Headrush</strong></a> makes a super-affordable one that works <em>great</em>.</p>
+<p>This means they have to have <strong>balanced output</strong> to work with a gig venue&#8217;s soundboard, or a studio interface. But they also need to work with an FRFR for situations where you need the unit to work like an <strong>amp and cab</strong>. If you plan on going digital, an <strong><a data-lasso-id="184092" href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-type="post" data-id="4226" target="_blank" rel="noopener">FRFR</a> </strong>is a great backup to have. <a data-lasso-id="184093" href="/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" target="_blank" rel="noopener"><strong>Headrush</strong></a> makes a super-affordable one that works <em>great</em>.</p>
 
 
 
@@ -251,11 +251,11 @@ seo:
 
 
 
-<p>The Aliasing I experienced came from some of the high/medium gain sounds. Like when I let a note ring out and die off, it sounded really <em>unnatural</em>. Almost like what you hear when trying to get feedback naturally with <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="184884"><strong>active pickups</strong></a>. It&#8217;s a weird, <em>artificial kind of sound</em> that is really hard to explain.</p>
+<p>The Aliasing I experienced came from some of the high/medium gain sounds. Like when I let a note ring out and die off, it sounded really <em>unnatural</em>. Almost like what you hear when trying to get feedback naturally with <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="184884"><strong>active pickups</strong></a>. It&#8217;s a weird, <em>artificial kind of sound</em> that is really hard to explain.</p>
 
 
 
-<p>Overall, the Headrush is great <a href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-lasso-id="192587">budget guitar</a> multi effects unit that would be great for the stage or the studio. This is much more rugged than the ZOOM, and it&#8217;s small footprint is perfect for most guitarists that want to downsize. But the Headrush could also be a great studio tool, since it is the perfect &#8220;desktop size.</p>
+<p>Overall, the Headrush is great <a href="/harley-benton-standard-series-guitar-review/" data-lasso-id="192587">budget guitar</a> multi effects unit that would be great for the stage or the studio. This is much more rugged than the ZOOM, and it&#8217;s small footprint is perfect for most guitarists that want to downsize. But the Headrush could also be a great studio tool, since it is the perfect &#8220;desktop size.</p>
 
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<p>I can keep this one short, since when it comes to budget guitar multi effects processors,<strong> <em>Line 6 invented it</em>.</strong> Not only that, but we have already done a deep dive into the <strong><a href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener" data-lasso-id="184885">POD GO</a> </strong>and <a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener" data-lasso-id="184886"><strong>Helix Series</strong></a>. We have already said just about everything possible in praise of Line 6.</p>
+<p>I can keep this one short, since when it comes to budget guitar multi effects processors,<strong> <em>Line 6 invented it</em>.</strong> Not only that, but we have already done a deep dive into the <strong><a href="/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener" data-lasso-id="184885">POD GO</a> </strong>and <a href="/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener" data-lasso-id="184886"><strong>Helix Series</strong></a>. We have already said just about everything possible in praise of Line 6.</p>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<p>This is basically the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="184887"><strong>BOSS Katana</strong></a> in a pedal form, and it even uses some of the same tones that you see in the <a href="https://www.electrikjam.com/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" target="_blank" rel="noopener" data-lasso-id="184888"><strong>Katana Sneaky Amps</strong></a>. It uses the same <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="184889"><strong>BOSS Tone Studio</strong></a> software as the Katana. It has essentially the same sounds and effects that you hear from the Katana. I know we talk a lot about the Katana here, but the amp is just amazing on every level.</p>
+<p>This is basically the <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="184887"><strong>BOSS Katana</strong></a> in a pedal form, and it even uses some of the same tones that you see in the <a href="/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" target="_blank" rel="noopener" data-lasso-id="184888"><strong>Katana Sneaky Amps</strong></a>. It uses the same <a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="184889"><strong>BOSS Tone Studio</strong></a> software as the Katana. It has essentially the same sounds and effects that you hear from the Katana. I know we talk a lot about the Katana here, but the amp is just amazing on every level.</p>
 
 
 
@@ -375,7 +375,7 @@ seo:
 
 
 
-<p>I was pretty apprehensive about using digital modelers for quite a while, but over the years it has been a huge help in the studio, as well as the stage. I still use real amps to record, but I also use stuff like <a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="184890"><strong>STL</strong> <strong>Tones</strong></a>, and various other<a href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener" data-lasso-id="184891"> <strong>amp sim</strong></a> technology. </p>
+<p>I was pretty apprehensive about using digital modelers for quite a while, but over the years it has been a huge help in the studio, as well as the stage. I still use real amps to record, but I also use stuff like <a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="184890"><strong>STL</strong> <strong>Tones</strong></a>, and various other<a href="/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener" data-lasso-id="184891"> <strong>amp sim</strong></a> technology. </p>
 
 
 

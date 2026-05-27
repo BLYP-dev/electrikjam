@@ -45,7 +45,7 @@ seo:
 
 
 
-<p>For me, this is a big deal. <strong><a href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="252020">I love Teles</a></strong>. The way they look, the neck, that distinctive twanginess. But the Thinline is a different beast entirely. It does all the usual Tele stuff we know and love, just with an added dimension of sonic brilliance that you simply do not get on standard Tele models. </p>
+<p>For me, this is a big deal. <strong><a href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="252020">I love Teles</a></strong>. The way they look, the neck, that distinctive twanginess. But the Thinline is a different beast entirely. It does all the usual Tele stuff we know and love, just with an added dimension of sonic brilliance that you simply do not get on standard Tele models. </p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><a href="https://www.electrikjam.com/who-plays-fender-thinline-telecaster/" data-lasso-id="252364"><strong>Fender Telecaster Thinline Deluxe</strong>:</a> Features upgraded elements compared to the standard Thinline such as higher quality pickups and refined aesthetics.</li>
+<li><a href="/who-plays-fender-thinline-telecaster/" data-lasso-id="252364"><strong>Fender Telecaster Thinline Deluxe</strong>:</a> Features upgraded elements compared to the standard Thinline such as higher quality pickups and refined aesthetics.</li>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/fender-meteora-vs-fender-telecaster-which-is-best/" data-type="post" data-id="12761" data-lasso-id="252021">When I pick up a Standard Telecaster,</a></strong> the first thing I notice is its bright, cutting tone. The solid body construction of the Standard Telecaster is a significant factor contributing to this sharp, clear tone. </p>
+<p><strong><a href="/fender-meteora-vs-fender-telecaster-which-is-best/" data-type="post" data-id="12761" data-lasso-id="252021">When I pick up a Standard Telecaster,</a></strong> the first thing I notice is its bright, cutting tone. The solid body construction of the Standard Telecaster is a significant factor contributing to this sharp, clear tone. </p>
 
 
 
@@ -387,9 +387,9 @@ seo:
 
 
 
-<p>Whether it&#8217;s the vintage allure or the modern iterations, the Thinline holds a unique spot in the panethon of guitars and with inexpensive Squier models <strong><a href="https://www.electrikjam.com/squier-classic-vibe-60s-telecaster-thinline-electric-guitar-natural-guitar-center/" data-type="lasso-urls" data-id="13075" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252022" data-lasso-name="Squier Classic Vibe &#039;60s Telecaster Thinline">retailing for in and around $449</a>,</strong> it has never been easier to try one out and see how it plays. </p>
+<p>Whether it&#8217;s the vintage allure or the modern iterations, the Thinline holds a unique spot in the panethon of guitars and with inexpensive Squier models <strong><a href="/squier-classic-vibe-60s-telecaster-thinline-electric-guitar-natural-guitar-center/" data-type="lasso-urls" data-id="13075" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252022" data-lasso-name="Squier Classic Vibe &#039;60s Telecaster Thinline">retailing for in and around $449</a>,</strong> it has never been easier to try one out and see how it plays. </p>
 
 
 
-<p>Or, if you want to try out a dirt cheap Tele that sounds utterly brilliant, be sure to <strong><a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-type="post" data-id="11873" data-lasso-id="252023">check out Harley Benton&#8217;s excellent Tele lineup of guitars. </a></strong></p>
+<p>Or, if you want to try out a dirt cheap Tele that sounds utterly brilliant, be sure to <strong><a href="/best-harley-benton-telecaster/" data-type="post" data-id="11873" data-lasso-id="252023">check out Harley Benton&#8217;s excellent Tele lineup of guitars. </a></strong></p>
 

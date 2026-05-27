@@ -39,19 +39,19 @@ seo:
 
 
 
-<p>Metal is all about tone. Getting the heaviest sound possible doesn’t always require that you tune down. Opeth and The Dillinger Escape Plan both play in <strong><a href="https://www.electrikjam.com/guitar-tuning/" data-lasso-id="1708">standard tuning</a></strong> and they’re heavier than a ton of bricks.</p>
+<p>Metal is all about tone. Getting the heaviest sound possible doesn’t always require that you tune down. Opeth and The Dillinger Escape Plan both play in <strong><a href="/guitar-tuning/" data-lasso-id="1708">standard tuning</a></strong> and they’re heavier than a ton of bricks.</p>
 
 
 
-<p>And this is ALL down to their <strong><a class="rank-math-link" href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="778">masterful use of chord voicing and extensions. </a></strong></p>
+<p>And this is ALL down to their <strong><a class="rank-math-link" href="/chord-voicing-extensions-for-metal/" data-lasso-id="778">masterful use of chord voicing and extensions. </a></strong></p>
 
 
 
-<p>But for that lovely-sounding, low-end chug we all love so much, you’ll want to tune down a few steps from standard. Drop D is a very popular choice, of course, and is used by <a data-lasso-id="779" href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/">bands like TOOL</a> and Lamb of God.</p>
+<p>But for that lovely-sounding, low-end chug we all love so much, you’ll want to tune down a few steps from standard. Drop D is a very popular choice, of course, and is used by <a data-lasso-id="779" href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/">bands like TOOL</a> and Lamb of God.</p>
 
 
 
-<p>But what if you want to go even lowlier? Well, the next stop of the down-tuning train from <a data-lasso-id="780" href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/">Drop D</a> is, of course, Drop C. And <a data-lasso-id="781" href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/">Drop C tuning</a> is just about as low as you can go on a standard, six-string guitar without the strings getting too wobbly.</p>
+<p>But what if you want to go even lowlier? Well, the next stop of the down-tuning train from <a data-lasso-id="780" href="/d-standard-tuning-guide-how-to/">Drop D</a> is, of course, Drop C. And <a data-lasso-id="781" href="/the-3-best-strings-for-drop-c-tuning/">Drop C tuning</a> is just about as low as you can go on a standard, six-string guitar without the strings getting too wobbly.</p>
 
 
 
@@ -71,11 +71,11 @@ seo:
 
 
 
-<p><strong>PRO TIP –&nbsp;if you’re using thin <a href="https://www.electrikjam.com/guitar-string-gauges-guide/" data-lasso-id="218953">gauge strings</a>, you might struggle going this low. Make sure you get the right strings for this type of tuning. Check out the guides below for more information: </strong></p>
+<p><strong>PRO TIP –&nbsp;if you’re using thin <a href="/guitar-string-gauges-guide/" data-lasso-id="218953">gauge strings</a>, you might struggle going this low. Make sure you get the right strings for this type of tuning. Check out the guides below for more information: </strong></p>
 
 
 
-<ul class="wp-block-list"><li><strong><a class="rank-math-link" data-lasso-id="782" href="https://www.electrikjam.com/best-strings-for-a-gibson-les-paul/">Best Strings For Metal &amp; Down-Tuning</a></strong></li><li><strong><a class="rank-math-link" data-lasso-id="783" href="https://www.electrikjam.com/best-guitars-for-doom-metal/">Best Guitar For Doom/Sludge Metal</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong><a class="rank-math-link" data-lasso-id="782" href="/best-strings-for-a-gibson-les-paul/">Best Strings For Metal &amp; Down-Tuning</a></strong></li><li><strong><a class="rank-math-link" data-lasso-id="783" href="/best-guitars-for-doom-metal/">Best Guitar For Doom/Sludge Metal</a></strong></li></ul>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-lasso-id="784">Matt Pike</a> is one of the most influential doom/sludge players of the last 20 years. He doesn’t always use Drop C tuning, <a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-lasso-id="785">most Sleep is in C Standard</a>, but Pike does use Drop C a lot in High on Fire.</p>
+<p><a href="/matt-pike-dopesmoker-sleep/" data-lasso-id="784">Matt Pike</a> is one of the most influential doom/sludge players of the last 20 years. He doesn’t always use Drop C tuning, <a href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-lasso-id="785">most Sleep is in C Standard</a>, but Pike does use Drop C a lot in High on Fire.</p>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<p>Before the <a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="786">Deftones</a> got into eight and nine string guitars, they were big advocates of Drop C tuning, as well as drop D# which they used pretty extensively on Around The Fur.</p>
+<p>Before the <a href="/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="786">Deftones</a> got into eight and nine string guitars, they were big advocates of Drop C tuning, as well as drop D# which they used pretty extensively on Around The Fur.</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>Industrial pioneers Ministry broke convention back in the day when they switched down to drop c tuning on the album The Last Sucker. At this point, most other industrial bands <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99334">were using drop d tuning</a>. And the effect was instantly recognisable – Ministry sounded even heavier.</p>
+<p>Industrial pioneers Ministry broke convention back in the day when they switched down to drop c tuning on the album The Last Sucker. At this point, most other industrial bands <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99334">were using drop d tuning</a>. And the effect was instantly recognisable – Ministry sounded even heavier.</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>Drawing plenty of influence from Lord Pike, <a href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2556">Mastodon</a> use a wide range of tunings –&nbsp;from A Standard to D Standard and pretty much everything else in between. They don’t use drop c tuning exclusively, but they do use it on a few songs. And one of them happens to be one of their best –&nbsp;Oblivion, from the Crack The Skye album (arguably its last truly great record).</p>
+<p>Drawing plenty of influence from Lord Pike, <a href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2556">Mastodon</a> use a wide range of tunings –&nbsp;from A Standard to D Standard and pretty much everything else in between. They don’t use drop c tuning exclusively, but they do use it on a few songs. And one of them happens to be one of their best –&nbsp;Oblivion, from the Crack The Skye album (arguably its last truly great record).</p>
 
 
 
@@ -193,7 +193,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2799">I love the Melvins</a>. They’re one of my favorite bands of ALL TIME. I’m even wearing a Houdini shirt as I write this post. Fronted by Buzz Osborne, the Melvins pretty much invented the sludge metal genre. Boris even took its name from a Melvins song. So, yeah, the Melvins are a big deal.</p>
+<p><a href="/90s-metal-bands/" data-lasso-id="2799">I love the Melvins</a>. They’re one of my favorite bands of ALL TIME. I’m even wearing a Houdini shirt as I write this post. Fronted by Buzz Osborne, the Melvins pretty much invented the sludge metal genre. Boris even took its name from a Melvins song. So, yeah, the Melvins are a big deal.</p>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<p>Stoned Jesus also play, pretty much exclusively, in <a href="https://www.electrikjam.com/drop-d-vs-drop-c-whats-the-difference/" data-lasso-id="69689">drop c</a> too –&nbsp;this is why their sound is so low and fat-sounding. They’re not fast by any stretch of the imagination, but for bluesy-sounding pseudo-doom, they’re well worth a look.</p>
+<p>Stoned Jesus also play, pretty much exclusively, in <a href="/drop-d-vs-drop-c-whats-the-difference/" data-lasso-id="69689">drop c</a> too –&nbsp;this is why their sound is so low and fat-sounding. They’re not fast by any stretch of the imagination, but for bluesy-sounding pseudo-doom, they’re well worth a look.</p>
 
 
 
@@ -229,7 +229,7 @@ seo:
 
 
 
-<p>Arguably one of the most consistently brilliant bands working today, <a href="https://www.electrikjam.com/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="8213">Converge</a> has been pumping out killer records for over 20 years. And since around the Jane Doe era, the band’s guitarist, Kurt Ballou, has been a big fan of Drop C tuning.</p>
+<p>Arguably one of the most consistently brilliant bands working today, <a href="/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="8213">Converge</a> has been pumping out killer records for over 20 years. And since around the Jane Doe era, the band’s guitarist, Kurt Ballou, has been a big fan of Drop C tuning.</p>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<p>August Burns Red are a metal-core band that have been around and producing records since the early-2000s. Throughout this time, the band has used <a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-lasso-id="12175">drop c tuning</a> as standard on most of its studio albums.</p>
+<p>August Burns Red are a metal-core band that have been around and producing records since the early-2000s. Throughout this time, the band has used <a href="/most-common-guitar-tunings/" data-lasso-id="12175">drop c tuning</a> as standard on most of its studio albums.</p>
 
 
 
@@ -261,7 +261,7 @@ seo:
 
 
 
-<p>Slipknot’s guitar tuning has evolved a lot over the years, ranging <strong><a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-type="post" data-id="4496" data-lasso-id="6314">from drop D to drop A</a></strong>. The Iowa metal band has, however, used drop c tuning on plenty of its songs. Again, drop C is NOT Slipknot’s main tuning, but they have used it to good effect on plenty of classic tunes.</p>
+<p>Slipknot’s guitar tuning has evolved a lot over the years, ranging <strong><a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-type="post" data-id="4496" data-lasso-id="6314">from drop D to drop A</a></strong>. The Iowa metal band has, however, used drop c tuning on plenty of its songs. Again, drop C is NOT Slipknot’s main tuning, but they have used it to good effect on plenty of classic tunes.</p>
 
 
 
@@ -269,7 +269,7 @@ seo:
 
 
 
-<p>You got the tuning down. But now you need to make it sound good. And for that, <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="788">there&#8217;s nothing better than BIAS FX 2</a></strong>, a complete tone solution that you can run through your PC. </p>
+<p>You got the tuning down. But now you need to make it sound good. And for that, <strong><a href="/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="788">there&#8217;s nothing better than BIAS FX 2</a></strong>, a complete tone solution that you can run through your PC. </p>
 
 
 
@@ -277,7 +277,7 @@ seo:
 
 
 
-<p>And if you need help picking out your first guitar, check out our <strong><a class="rank-math-link" data-lasso-id="789" href="https://www.electrikjam.com/best-guitar-for-beginners/">guide to the best guitars for beginners (that want to play metal). </a></strong></p>
+<p>And if you need help picking out your first guitar, check out our <strong><a class="rank-math-link" data-lasso-id="789" href="/best-guitar-for-beginners/">guide to the best guitars for beginners (that want to play metal). </a></strong></p>
 
 
 

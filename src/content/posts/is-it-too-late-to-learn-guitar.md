@@ -40,11 +40,11 @@ seo:
 
 
 
-<p>I have been a guitar teacher now, on and off, for about 10 years. In total, I have played guitar almost 30 years, almost 3/4 of my life! That is a long time to dedicate so many hours of your life to <em>one single thing</em>: <strong>Guitar</strong>. With that being said, I also have students that are beginners, all the way to people on par with my own playing! They are also all ages, between 14 and 63 <a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216924">years old</a>!</p>
+<p>I have been a guitar teacher now, on and off, for about 10 years. In total, I have played guitar almost 30 years, almost 3/4 of my life! That is a long time to dedicate so many hours of your life to <em>one single thing</em>: <strong>Guitar</strong>. With that being said, I also have students that are beginners, all the way to people on par with my own playing! They are also all ages, between 14 and 63 <a href="/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216924">years old</a>!</p>
 
 
 
-<p>So is it too late to <a href="https://www.electrikjam.com/is-learning-electric-guitar-hard/" data-lasso-id="215682">learn guitar</a>? I honestly don&#8217;t think so, and there is a lot of science that backs that up! Certainly, as we get older we have more responsibilities, and more things that we have to remember daily. But there is always time that we can set aside for music.</p>
+<p>So is it too late to <a href="/is-learning-electric-guitar-hard/" data-lasso-id="215682">learn guitar</a>? I honestly don&#8217;t think so, and there is a lot of science that backs that up! Certainly, as we get older we have more responsibilities, and more things that we have to remember daily. But there is always time that we can set aside for music.</p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p>Some new guitarists just want to know <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251808">basic chords</a>, so they can play their favorite songs. Other people want to learn guitar a little more in depth, and <strong><a data-lasso-id="214073" href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener">learn how to apply music theory to write </a></strong>their own songs. I have also had late-starters that became highly <em>proficient</em> in just a couple of years!</p>
+<p>Some new guitarists just want to know <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251808">basic chords</a>, so they can play their favorite songs. Other people want to learn guitar a little more in depth, and <strong><a data-lasso-id="214073" href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener">learn how to apply music theory to write </a></strong>their own songs. I have also had late-starters that became highly <em>proficient</em> in just a couple of years!</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>The first thing is finding a good teacher, or online resource that can get you started. We h<strong><a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-type="post" data-id="10336" target="_blank" rel="noopener" data-lasso-id="214193">ave a guide to get you started with electric guitar</a></strong>, or <strong><a href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" data-type="post" data-id="10133" target="_blank" rel="noopener" data-lasso-id="214194">acoustic if you prefer</a></strong>. Once you have your guitar, you need to think about what you are going to do with it!</p>
+<p>The first thing is finding a good teacher, or online resource that can get you started. We h<strong><a href="/is-electric-guitar-ok-for-beginners/" data-type="post" data-id="10336" target="_blank" rel="noopener" data-lasso-id="214193">ave a guide to get you started with electric guitar</a></strong>, or <strong><a href="/best-acoustic-guitars-for-metal/" data-type="post" data-id="10133" target="_blank" rel="noopener" data-lasso-id="214194">acoustic if you prefer</a></strong>. Once you have your guitar, you need to think about what you are going to do with it!</p>
 
 
 

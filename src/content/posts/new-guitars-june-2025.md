@@ -52,7 +52,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/fender-standard-telecaster/">Fender Standard Telecaster</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/fender-standard-telecaster/">Fender Standard Telecaster</a></h3>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<p>👉 <a href="https://www.electrikjam.com/category/gear/guitars/fender/">More Fender coverage here</a></p>
+<p>👉 <a href="/category/gear/guitars/fender/">More Fender coverage here</a></p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/fender-jack-white-triplecaster-telecaster/">Fender Jack White Triplecaster Telecaster</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/fender-jack-white-triplecaster-telecaster/">Fender Jack White Triplecaster Telecaster</a></h3>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/epiphone-les-paul-custom-quilt-limited-edition/">Epiphone Les Paul Custom Quilt Limited-Edition</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/epiphone-les-paul-custom-quilt-limited-edition/">Epiphone Les Paul Custom Quilt Limited-Edition</a></h3>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>👉 Check out more <a href="https://www.electrikjam.com/category/news/epiphone-news/">Epiphone news here</a></p>
+<p>👉 Check out more <a href="/category/news/epiphone-news/">Epiphone news here</a></p>
 
 
 
@@ -150,7 +150,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/schecter-demon-6-fr-s/">Schecter Demon-6 FR-S</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/schecter-demon-6-fr-s/">Schecter Demon-6 FR-S</a></h3>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<p>👉 Dive into more <a href="https://www.electrikjam.com/category/gear/guitars/schecter/">Schecter releases here</a></p>
+<p>👉 Dive into more <a href="/category/gear/guitars/schecter/">Schecter releases here</a></p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/gibson-les-paul-standard-60s-double-trouble/">Gibson Les Paul Standard ’60s Double Trouble</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/gibson-les-paul-standard-60s-double-trouble/">Gibson Les Paul Standard ’60s Double Trouble</a></h3>
 
 
 
@@ -210,7 +210,7 @@ seo:
 
 
 
-<p>👉 See more from <a href="https://www.electrikjam.com/category/gear/guitars/gibson/">Gibson here</a></p>
+<p>👉 See more from <a href="/category/gear/guitars/gibson/">Gibson here</a></p>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/prs-se-studio-standard/">PRS SE Studio Standard</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/prs-se-studio-standard/">PRS SE Studio Standard</a></h3>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p>👉 More <a href="https://www.electrikjam.com/category/news/prs-news/">PRS news drops right here</a></p>
+<p>👉 More <a href="/category/news/prs-news/">PRS news drops right here</a></p>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/squier-classic-vibe-60s-jazzmaster/">Squier Classic Vibe ’60s Jazzmaster</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/squier-classic-vibe-60s-jazzmaster/">Squier Classic Vibe ’60s Jazzmaster</a></h3>
 
 
 
@@ -278,7 +278,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/squier-classic-vibe-60s-custom-telecaster-sh/">Squier Classic Vibe ’60s Custom Telecaster SH</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/squier-classic-vibe-60s-custom-telecaster-sh/">Squier Classic Vibe ’60s Custom Telecaster SH</a></h3>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p>👉 <a href="https://www.electrikjam.com/category/news/squier-news/">Squier news archive lives here</a></p>
+<p>👉 <a href="/category/news/squier-news/">Squier news archive lives here</a></p>
 
 
 
@@ -312,7 +312,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/jackson-pro-series-signature-lee-malia-lm-87/">Jackson Pro Series Signature Lee Malia LM-87</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/jackson-pro-series-signature-lee-malia-lm-87/">Jackson Pro Series Signature Lee Malia LM-87</a></h3>
 
 
 
@@ -334,7 +334,7 @@ seo:
 
 
 
-<h3 class="wp-block-heading"><a href="https://www.electrikjam.com/new-guitar-releases/evh-sa-126-special-limited-editon-satin-shell-pink/">EVH SA-126 Special Limited-Edition</a></h3>
+<h3 class="wp-block-heading"><a href="/new-guitar-releases/evh-sa-126-special-limited-editon-satin-shell-pink/">EVH SA-126 Special Limited-Edition</a></h3>
 
 
 
@@ -408,15 +408,15 @@ seo:
 
 
 
-<p><strong>Q: Which is the best budget guitar released this month?</strong><br><strong>A:</strong> The <a href="https://www.electrikjam.com/new-guitar-releases/squier-classic-vibe-60s-jazzmaster/" data-type="new-guitar-releases" data-id="17270">Squier Classic Vibe ’60s Jazzmaster</a> takes the crown—solid feel, killer tones, and sub-$400.</p>
+<p><strong>Q: Which is the best budget guitar released this month?</strong><br><strong>A:</strong> The <a href="/new-guitar-releases/squier-classic-vibe-60s-jazzmaster/" data-type="new-guitar-releases" data-id="17270">Squier Classic Vibe ’60s Jazzmaster</a> takes the crown—solid feel, killer tones, and sub-$400.</p>
 
 
 
-<p><strong>Q: What’s the most versatile guitar on the list?</strong><br><strong>A:</strong> The <a href="https://www.electrikjam.com/new-guitar-releases/prs-se-studio-standard/" data-type="new-guitar-releases" data-id="17273">PRS SE Studio Standard</a>. It handles everything from blues to hard rock effortlessly.</p>
+<p><strong>Q: What’s the most versatile guitar on the list?</strong><br><strong>A:</strong> The <a href="/new-guitar-releases/prs-se-studio-standard/" data-type="new-guitar-releases" data-id="17273">PRS SE Studio Standard</a>. It handles everything from blues to hard rock effortlessly.</p>
 
 
 
-<p><strong>Q: Any sleeper picks?</strong><br><strong>A:</strong> The <a href="https://www.electrikjam.com/new-guitar-releases/schecter-demon-6-fr-s/" data-type="new-guitar-releases" data-id="17278">Schecter Demon-6 FR-S</a>. Don’t let the price fool you—it’s gig-ready out of the box.</p>
+<p><strong>Q: Any sleeper picks?</strong><br><strong>A:</strong> The <a href="/new-guitar-releases/schecter-demon-6-fr-s/" data-type="new-guitar-releases" data-id="17278">Schecter Demon-6 FR-S</a>. Don’t let the price fool you—it’s gig-ready out of the box.</p>
 
 
 

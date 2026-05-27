@@ -42,11 +42,11 @@ seo:
 
 
 
-<p>When starting to work in studios, there were two &#8220;industry standards&#8221; that most recording facilities used often. I <strong><a data-lasso-id="243579" href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener">noticed that Cubase </a></strong>and <strong>Pro Tools</strong> were the main two DAW programs that big studios favored. Both had the same feel, but totally different advantages/disadvantages.</p>
+<p>When starting to work in studios, there were two &#8220;industry standards&#8221; that most recording facilities used often. I <strong><a data-lasso-id="243579" href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener">noticed that Cubase </a></strong>and <strong>Pro Tools</strong> were the main two DAW programs that big studios favored. Both had the same feel, but totally different advantages/disadvantages.</p>
 
 
 
-<p>The studio that I worked with the <a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251755">most preferred Cubase</a>, so I learned a lot about the popular DAW in a short period of time. It is a powerful DAW that works with most 3rd party plugins, which makes it perfect for just about any studio. But is Cubase easy to use? </p>
+<p>The studio that I worked with the <a href="/what-is-cubase/" data-lasso-id="251755">most preferred Cubase</a>, so I learned a lot about the popular DAW in a short period of time. It is a powerful DAW that works with most 3rd party plugins, which makes it perfect for just about any studio. But is Cubase easy to use? </p>
 
 
 
@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>Cubase worked well for me over the years <strong><a data-lasso-id="243580" href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener">until I switched to Reaper</a></strong> in 2012. I only switched because Reaper works better for me at home. Many professional studios currently use Cubase 12 however, since it was so popular from the get-go.</p>
+<p>Cubase worked well for me over the years <strong><a data-lasso-id="243580" href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener">until I switched to Reaper</a></strong> in 2012. I only switched because Reaper works better for me at home. Many professional studios currently use Cubase 12 however, since it was so popular from the get-go.</p>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<p>Of course, Cubase also supports 3rd party plugins and VSTs. There are<strong><a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="243744"> lots of free amp sims</a></strong>, and other types of plugins out there to take advantage of, and Cubase can run most of them. But starting you out with so many virtual instruments gets you acclimated to VSTs as a beginner.</p>
+<p>Of course, Cubase also supports 3rd party plugins and VSTs. There are<strong><a href="/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="243744"> lots of free amp sims</a></strong>, and other types of plugins out there to take advantage of, and Cubase can run most of them. But starting you out with so many virtual instruments gets you acclimated to VSTs as a beginner.</p>
 
 
 
@@ -208,11 +208,11 @@ seo:
 
 
 
-<p>This is a very important feature that many artists are looking for these days. MIDI editing can be a pain, and a very tedious process with the wrong user interface. <strong><a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" target="_blank" data-type="post" data-id="7814" rel="noopener" data-lasso-id="243745">This is especially true for artists that program MIDI drums</a></strong>, which almost every does these days.</p>
+<p>This is a very important feature that many artists are looking for these days. MIDI editing can be a pain, and a very tedious process with the wrong user interface. <strong><a href="/ezdrummer-2-worth-it/" target="_blank" data-type="post" data-id="7814" rel="noopener" data-lasso-id="243745">This is especially true for artists that program MIDI drums</a></strong>, which almost every does these days.</p>
 
 
 
-<p>The MIDI interface is why<strong><a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-type="post" data-id="10952" target="_blank" rel="noopener" data-lasso-id="243746"> so many bands like Periphery</a></strong> use Cubase for making demos. Programming drums can be a real pain, but the Cubase interface makes it easy to copy and paste certain sections. It also uses keyboard shortcuts to a great advantage.</p>
+<p>The MIDI interface is why<strong><a href="/periphery-djent-is-not-a-genre-album-review/" data-type="post" data-id="10952" target="_blank" rel="noopener" data-lasso-id="243746"> so many bands like Periphery</a></strong> use Cubase for making demos. Programming drums can be a real pain, but the Cubase interface makes it easy to copy and paste certain sections. It also uses keyboard shortcuts to a great advantage.</p>
 
 
 

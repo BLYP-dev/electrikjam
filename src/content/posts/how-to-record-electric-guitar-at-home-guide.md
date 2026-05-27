@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Chances are, if you are reading this, you have your <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="358">guitar setup</a> ready. Maybe you have been playing for a while now, and you&#8217;re itching to get some of your ideas and riffs recorded. That&#8217;s a good feeling, isn&#8217;t it?</p>
+<p>Chances are, if you are reading this, you have your <a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="358">guitar setup</a> ready. Maybe you have been playing for a while now, and you&#8217;re itching to get some of your ideas and riffs recorded. That&#8217;s a good feeling, isn&#8217;t it?</p>
 
 
 
@@ -52,11 +52,11 @@ seo:
 
 
 
-<p><strong>The good news:</strong> It is much easier these days to <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9523">record your guitar</a> tracks at home. All you need is a computer and a few other ingredients to get started. Some of the things you need, you probably already have! Years ago, you needed to shell out a fortune for recording gear.</p>
+<p><strong>The good news:</strong> It is much easier these days to <a href="/must-have-for-recording-guitar/" data-lasso-id="9523">record your guitar</a> tracks at home. All you need is a computer and a few other ingredients to get started. Some of the things you need, you probably already have! Years ago, you needed to shell out a fortune for recording gear.</p>
 
 
 
-<p>Nowadays, you get <strong><a class="rank-math-link" href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-lasso-id="359">access to thousands of tube amps and effects for less than the cost of a night out </a></strong>with your buddies. </p>
+<p>Nowadays, you get <strong><a class="rank-math-link" href="/what-is-bias-fx-2-guide/" data-lasso-id="359">access to thousands of tube amps and effects for less than the cost of a night out </a></strong>with your buddies. </p>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li>A Guitar</li><li>An amp, or <a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" data-lasso-id="360">Processor</a></li><li>A Pedal Setup (If that&#8217;s your thing)</li><li>Some Basic Computer Skills</li></ul>
+<ul class="wp-block-list"><li>A Guitar</li><li>An amp, or <a href="/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" data-lasso-id="360">Processor</a></li><li>A Pedal Setup (If that&#8217;s your thing)</li><li>Some Basic Computer Skills</li></ul>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>There are different ways to use an interface. You can plug in directly and use an amp sim (<strong>more on this later</strong>) or you can use a microphone to mic your <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18331">guitar amp</a>. You can also use a <a href="https://www.electrikjam.com/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="361">guitar processor/guitar amp</a> straight into the interface. We will get to how all of this works, I promise!</p>
+<p>There are different ways to use an interface. You can plug in directly and use an amp sim (<strong>more on this later</strong>) or you can use a microphone to mic your <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18331">guitar amp</a>. You can also use a <a href="/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="361">guitar processor/guitar amp</a> straight into the interface. We will get to how all of this works, I promise!</p>
 
 
 
@@ -156,11 +156,11 @@ seo:
 
 
 
-<p>The Focusrite Scarlett is &#8220;plug and play&#8221;. You computer will automatically download the drivers and other <a href="https://www.electrikjam.com/starting-a-band-part-2/" data-lasso-id="73632">essential parts</a> to get the interface working. So being tech savvy isn&#8217;t important. Computer knowledge isn&#8217;t going to stand in the way of you getting the unit up and running.</p>
+<p>The Focusrite Scarlett is &#8220;plug and play&#8221;. You computer will automatically download the drivers and other <a href="/starting-a-band-part-2/" data-lasso-id="73632">essential parts</a> to get the interface working. So being tech savvy isn&#8217;t important. Computer knowledge isn&#8217;t going to stand in the way of you getting the unit up and running.</p>
 
 
 
-<p>The built in preamp does a lot for your guitar sound, the only downside being that you can&#8217;t really control the natural <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140954">tone of the recorded</a> sound. On the plus side, the preamp is pretty subtle and only adds a bit of depth and clarity. </p>
+<p>The built in preamp does a lot for your guitar sound, the only downside being that you can&#8217;t really control the natural <a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140954">tone of the recorded</a> sound. On the plus side, the preamp is pretty subtle and only adds a bit of depth and clarity. </p>
 
 
 
@@ -323,7 +323,7 @@ seo:
 
 
 
-<p>While Audacity is a very bare bones program, <a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-lasso-id="114905">Reaper is a fully professional DAW</a>. It comes with a whole suite of plugins (over 100) and it is used in quite a few big studios. While Audacity is made for any type of audio, Reaper is more for <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="363">music production</a>.</p>
+<p>While Audacity is a very bare bones program, <a href="/getting-started-with-reaper-daw/" data-lasso-id="114905">Reaper is a fully professional DAW</a>. It comes with a whole suite of plugins (over 100) and it is used in quite a few big studios. While Audacity is made for any type of audio, Reaper is more for <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="363">music production</a>.</p>
 
 
 
@@ -347,7 +347,7 @@ seo:
 
 
 
-<p><strong>There are other free DAW programs out there</strong>, but I wanted to pick the two easiest ones to get started. You can&#8217;t go wrong with either of the choices, and you will be ready to learn how to record <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211322">electric guitar</a>.</p>
+<p><strong>There are other free DAW programs out there</strong>, but I wanted to pick the two easiest ones to get started. You can&#8217;t go wrong with either of the choices, and you will be ready to learn how to record <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211322">electric guitar</a>.</p>
 
 
 
@@ -371,7 +371,7 @@ seo:
 
 
 
-<p>There are basically four ways to get started recording <a href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-lasso-id="120181">guitar</a>, and it is all based on your current equipment. Let&#8217;s take a look at the ways to record guitar:</p>
+<p>There are basically four ways to get started recording <a href="/22-frets-vs-24-frets-explained/" data-lasso-id="120181">guitar</a>, and it is all based on your current equipment. Let&#8217;s take a look at the ways to record guitar:</p>
 
 
 
@@ -431,7 +431,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-lasso-id="88578">If you own a guitar processor</a>, then you probably already have some patches that you like to use frequently, or you have custom made your own patches. Every processor has a &#8220;mono out&#8221; that you use to plug into an interface. So you literally plug it in, adjust the volume, and get to recording!</p>
+<p><a href="/guitarists-that-use-axe-fx/" data-lasso-id="88578">If you own a guitar processor</a>, then you probably already have some patches that you like to use frequently, or you have custom made your own patches. Every processor has a &#8220;mono out&#8221; that you use to plug into an interface. So you literally plug it in, adjust the volume, and get to recording!</p>
 
 
 
@@ -443,7 +443,7 @@ seo:
 
 
 
-<p>If you have a popular modeling amp like the Fender Mustang, <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="365">or the BOSS Katana</a>, then you can use these amps with your interface as well. <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="366">We wrote why these amps were such a good choice for beginners</a>, and one of the reasons is how easy it is to record with them!</p>
+<p>If you have a popular modeling amp like the Fender Mustang, <a href="/boss-katana-50-reviews/" data-lasso-id="365">or the BOSS Katana</a>, then you can use these amps with your interface as well. <a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="366">We wrote why these amps were such a good choice for beginners</a>, and one of the reasons is how easy it is to record with them!</p>
 
 
 
@@ -455,7 +455,7 @@ seo:
 
 
 
-<p>I have done this with the <a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133461">BOSS Katana</a> amp, more than once to do guitar overdubs on an album. The modeling tech has come a long way, and it sounds very natural through your interface. I found that you just need adjust the volume of the amp. The tones remain intact!</p>
+<p>I have done this with the <a href="/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133461">BOSS Katana</a> amp, more than once to do guitar overdubs on an album. The modeling tech has come a long way, and it sounds very natural through your interface. I found that you just need adjust the volume of the amp. The tones remain intact!</p>
 
 
 
@@ -467,7 +467,7 @@ seo:
 
 
 
-<p>Amplifier simulators are the newest, and most popular way to record your <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-lasso-id="164561">electric guitar</a> these days.  They started getting popular with Amplitube and BiasFX by Positive grid. Over the past three years, they have become an important tool for guitarists.</p>
+<p>Amplifier simulators are the newest, and most popular way to record your <a href="/the-top-7-electric-guitar-myths/" data-lasso-id="164561">electric guitar</a> these days.  They started getting popular with Amplitube and BiasFX by Positive grid. Over the past three years, they have become an important tool for guitarists.</p>
 
 
 
@@ -483,7 +483,7 @@ seo:
 
 
 
-<p>Because the technology has reached a much higher point in quality. These sound great, and come at all kinds of different price points. But most are certainly cheaper than a real amp, and a full <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="367">pedalboard</a>.</p>
+<p>Because the technology has reached a much higher point in quality. These sound great, and come at all kinds of different price points. But most are certainly cheaper than a real amp, and a full <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="367">pedalboard</a>.</p>
 
 
 
@@ -515,7 +515,7 @@ seo:
 
 
 
-<p>Amped Roots is tailored for Metal guitarists, and the free version comes in the form of the signature sound of Ryan &#8220;Fluff&#8221;. The popular Youtuber based his amp on the popular <a href="https://www.electrikjam.com/peavey-5150-vs-bugera-626/" data-type="post" data-id="803" data-lasso-id="368">5150/6505</a>, with some interesting tweaks. There are also other models he is working on, like the Friedman Demo version, which is a paid feature.</p>
+<p>Amped Roots is tailored for Metal guitarists, and the free version comes in the form of the signature sound of Ryan &#8220;Fluff&#8221;. The popular Youtuber based his amp on the popular <a href="/peavey-5150-vs-bugera-626/" data-type="post" data-id="803" data-lasso-id="368">5150/6505</a>, with some interesting tweaks. There are also other models he is working on, like the Friedman Demo version, which is a paid feature.</p>
 
 
 
@@ -565,7 +565,7 @@ seo:
 
 
 
-<p>This is the final one on my short list of <a href="https://www.electrikjam.com/bias-fx-amp-list/" data-lasso-id="369">Metal amp sims</a>, but it right up there in quality with the other two. The Kuassa is not exactly based on any amp in particular, although the settings are reminiscent of the Peavey 5150. The tone, however, is totally unique. At least it is for me&#8230;</p>
+<p>This is the final one on my short list of <a href="/bias-fx-amp-list/" data-lasso-id="369">Metal amp sims</a>, but it right up there in quality with the other two. The Kuassa is not exactly based on any amp in particular, although the settings are reminiscent of the Peavey 5150. The tone, however, is totally unique. At least it is for me&#8230;</p>
 
 
 

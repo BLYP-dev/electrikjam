@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>Prior to all the legal shenanigans kicking off, Ghost recorded an EP in 2013 titled If You Have Ghost. This record was produced by <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="14383">Dave Grohl</a></strong>, and the Foo Fighter’s main man even played drums on the album. Grohl is also rumored to have done a Nameless Ghoul suit and played with the band live on a few occasions too.</p>
+<p>Prior to all the legal shenanigans kicking off, Ghost recorded an EP in 2013 titled If You Have Ghost. This record was produced by <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="14383">Dave Grohl</a></strong>, and the Foo Fighter’s main man even played drums on the album. Grohl is also rumored to have done a Nameless Ghoul suit and played with the band live on a few occasions too.</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>One of Ghost’s biggest fans is none other than <strong><a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="14384">Metallica’s James Hetfield</a></strong>. Hetfield first heard Ghost back in 2011 and subsequently invited Ghost out to support <a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17571">Metallica</a> on its North American tour, exposing Ghost to hundreds of thousands of new fans.</p>
+<p>One of Ghost’s biggest fans is none other than <strong><a href="/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="14384">Metallica’s James Hetfield</a></strong>. Hetfield first heard Ghost back in 2011 and subsequently invited Ghost out to support <a href="/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17571">Metallica</a> on its North American tour, exposing Ghost to hundreds of thousands of new fans.</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<p>Because of Ghost’s satanic imagery, and the fact that America is VERY Christian in certain parts, Ghost has run into plenty of trouble when playing in America. When recording Infestissumam in Nashville, Ghost was unable to find singers that were willing to do backing vocals <a href="https://www.electrikjam.com/the-forbidden-riff/" data-lasso-id="86008">– the lyrics were too satanic</a>, apparently.</p>
+<p>Because of Ghost’s satanic imagery, and the fact that America is VERY Christian in certain parts, Ghost has run into plenty of trouble when playing in America. When recording Infestissumam in Nashville, Ghost was unable to find singers that were willing to do backing vocals <a href="/the-forbidden-riff/" data-lasso-id="86008">– the lyrics were too satanic</a>, apparently.</p>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>The <a href="https://www.electrikjam.com/what-guitars-do-ghost-use-a-ghoulish-guide/" data-lasso-id="91680">former GHOST members</a> are asking the court to order Forge to disclose the company&#8217;s revenues and expenses for the financial years 2011 to 2016 as well as to reveal the company&#8217;s assets as of December 31, 2016. If he fails to act as ordered, they are asking the court to force Forge to pay a penalty of SEK 200,000 (approximately $22,000), or an amount that the court considers reasonable. </strong></p><p><strong>According to the lawsuit, GHOST was formed in 2010 and Forge, through his company, has been collecting all revenues from the sale of the band&#8217;s merchandise and music recordings. The GHOST leader did not at any time provide the other musicians with the company&#8217;s financial statements, the lawsuit claims, and has instead insisted that the company was not yet profitable.</strong></p><cite><strong><a href="https://www.blabbermouth.net/news/ghost-leader-slapped-with-lawsuit-by-former-members/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="14385">BLABBER MOUTH</a></strong></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>The <a href="/what-guitars-do-ghost-use-a-ghoulish-guide/" data-lasso-id="91680">former GHOST members</a> are asking the court to order Forge to disclose the company&#8217;s revenues and expenses for the financial years 2011 to 2016 as well as to reveal the company&#8217;s assets as of December 31, 2016. If he fails to act as ordered, they are asking the court to force Forge to pay a penalty of SEK 200,000 (approximately $22,000), or an amount that the court considers reasonable. </strong></p><p><strong>According to the lawsuit, GHOST was formed in 2010 and Forge, through his company, has been collecting all revenues from the sale of the band&#8217;s merchandise and music recordings. The GHOST leader did not at any time provide the other musicians with the company&#8217;s financial statements, the lawsuit claims, and has instead insisted that the company was not yet profitable.</strong></p><cite><strong><a href="https://www.blabbermouth.net/news/ghost-leader-slapped-with-lawsuit-by-former-members/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="14385">BLABBER MOUTH</a></strong></cite></blockquote>
 
 
 
@@ -210,11 +210,11 @@ seo:
 
 
 
-<p>Forge writes and records most of Ghost’s albums by himself. He does, however, use session musicians when <a href="https://www.electrikjam.com/best-ghost-album/" data-lasso-id="91796">recording Ghost albums</a>. But the session musicians he uses in the studio to record the albums, oddly, are not the same musicians that make up The Nameless Ghouls when Ghost plays live and tours.</p>
+<p>Forge writes and records most of Ghost’s albums by himself. He does, however, use session musicians when <a href="/best-ghost-album/" data-lasso-id="91796">recording Ghost albums</a>. But the session musicians he uses in the studio to record the albums, oddly, are not the same musicians that make up The Nameless Ghouls when Ghost plays live and tours.</p>
 
 
 
-<p>As noted earlier, <a href="https://www.electrikjam.com/what-guitar-tuning-do-ghost-use/" data-lasso-id="90469">Forge views Ghost as a solo project</a>. Like Nine Inch Nails or <a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16011">Queens of The Stone Age</a>, to an extent, there is only one, core member. In this respect, Tobias Forge. The setup ensures he has complete creative control and owns and controls all the revenue generated by Ghost.</p>
+<p>As noted earlier, <a href="/what-guitar-tuning-do-ghost-use/" data-lasso-id="90469">Forge views Ghost as a solo project</a>. Like Nine Inch Nails or <a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16011">Queens of The Stone Age</a>, to an extent, there is only one, core member. In this respect, Tobias Forge. The setup ensures he has complete creative control and owns and controls all the revenue generated by Ghost.</p>
 
 
 
@@ -230,5 +230,5 @@ seo:
 
 
 
-<p>Ghost is currently <a href="https://www.electrikjam.com/ghost-impera-review/" data-lasso-id="90555">working on a new album</a>. The as-yet-untitled album is currently being recorded and likely won’t be out until 2022. Ghost released the single Hunter’s Moon in 2021. And you can <strong><a href="https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1?si=yiydeUW4SIOlJHn61JsQ5A" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="14386">check that song out here</a></strong>.</p>
+<p>Ghost is currently <a href="/ghost-impera-review/" data-lasso-id="90555">working on a new album</a>. The as-yet-untitled album is currently being recorded and likely won’t be out until 2022. Ghost released the single Hunter’s Moon in 2021. And you can <strong><a href="https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1?si=yiydeUW4SIOlJHn61JsQ5A" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="14386">check that song out here</a></strong>.</p>
 

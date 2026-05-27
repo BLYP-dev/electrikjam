@@ -77,7 +77,7 @@ seo:
 
 
 
-<p>On tour, weight matters. This is why more and more <strong><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="260849">artists have switched to Axe-FX.&nbsp;</a></strong></p>
+<p>On tour, weight matters. This is why more and more <strong><a href="/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="260849">artists have switched to Axe-FX.&nbsp;</a></strong></p>
 
 
 
@@ -405,7 +405,7 @@ seo:
 
 
 
-<p>The Axe-Fx reigns supreme but isn’t the only option. Other major amp modelers include the <strong><a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" data-lasso-id="260850">Line 6 Helix series</a></strong> and <strong><a href="https://www.electrikjam.com/boss-gt1000-core-a-sneak-peek-at-the-powerful-mini-processor/" data-type="post" data-id="1575" data-lasso-id="260851">Boss GT-1000CORE</a></strong>. </p>
+<p>The Axe-Fx reigns supreme but isn’t the only option. Other major amp modelers include the <strong><a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" data-lasso-id="260850">Line 6 Helix series</a></strong> and <strong><a href="/boss-gt1000-core-a-sneak-peek-at-the-powerful-mini-processor/" data-type="post" data-id="1575" data-lasso-id="260851">Boss GT-1000CORE</a></strong>. </p>
 
 
 
@@ -413,7 +413,7 @@ seo:
 
 
 
-<p>Check out our full guide to the <strong><a href="https://www.electrikjam.com/axe-fx-alternatives/" data-type="post" data-id="14376" data-lasso-id="262123">best (cheaper) Axe-Fx alternatives</a></strong> we&#8217;ve tested during the past 18 months. </p>
+<p>Check out our full guide to the <strong><a href="/axe-fx-alternatives/" data-type="post" data-id="14376" data-lasso-id="262123">best (cheaper) Axe-Fx alternatives</a></strong> we&#8217;ve tested during the past 18 months. </p>
 
 
 
@@ -483,7 +483,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png" alt="What Pickups Does James Hetfield Use" class="wp-image-7090" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="260852">James Hetfield and Metallica have been using Axe-Fx for years</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png" alt="What Pickups Does James Hetfield Use" class="wp-image-7090" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-James-Hetfield-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="260852">James Hetfield and Metallica have been using Axe-Fx for years</a></strong></figcaption></figure>
 
 
 

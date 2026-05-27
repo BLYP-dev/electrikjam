@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>But the truth is, the guys at Sire guitars have been working on this for <em>quite a while</em>, since 1995 in fact. Kyle, the owner of Sire guitars could have done what everyone usually does when it comes to making guitars overseas. He could have outsourced the work to a major factory. Most brands build the guitars in say&#8230;the<a href="https://www.electrikjam.com/cort-g300-pro-a-take-on-affordable-boutique/" target="_blank" data-type="post" data-id="1949" rel="noopener" data-lasso-id="37732"><strong> Cort </strong></a>factory in Indonesia right? </p>
+<p>But the truth is, the guys at Sire guitars have been working on this for <em>quite a while</em>, since 1995 in fact. Kyle, the owner of Sire guitars could have done what everyone usually does when it comes to making guitars overseas. He could have outsourced the work to a major factory. Most brands build the guitars in say&#8230;the<a href="/cort-g300-pro-a-take-on-affordable-boutique/" target="_blank" data-type="post" data-id="1949" rel="noopener" data-lasso-id="37732"><strong> Cort </strong></a>factory in Indonesia right? </p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p>Other brands like <a href="https://www.electrikjam.com/https-guitar-center-pxf-io-ry2jry/" target="_blank" data-type="lasso-urls" data-id="6034" rel="nofollow sponsored noopener" data-lasso-id="37733" data-lasso-name="Schecter Sun Valley Super Shredder Exotic Hardtail"><strong>Schecter</strong></a> only use two factories to get the job done. Schecter uses one Indonesian factory, and then the famous <strong><a href="https://www.southkoreayp.com/company/13345/WORLD_MUSICAL_INSTRUMENTS_CO_Ltd" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="37734">World Music Factory</a> </strong>in South Korea (for the higher end products). This is why <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44676">Schecter has consistent quality</a>, especially with the Korean line of instruments. But there are limitations to what can be done with these factories, and you have to order <strong><em>huge</em></strong> numbers for these factories to even consider your brand. </p>
+<p>Other brands like <a href="/https-guitar-center-pxf-io-ry2jry/" target="_blank" data-type="lasso-urls" data-id="6034" rel="nofollow sponsored noopener" data-lasso-id="37733" data-lasso-name="Schecter Sun Valley Super Shredder Exotic Hardtail"><strong>Schecter</strong></a> only use two factories to get the job done. Schecter uses one Indonesian factory, and then the famous <strong><a href="https://www.southkoreayp.com/company/13345/WORLD_MUSICAL_INSTRUMENTS_CO_Ltd" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="37734">World Music Factory</a> </strong>in South Korea (for the higher end products). This is why <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44676">Schecter has consistent quality</a>, especially with the Korean line of instruments. But there are limitations to what can be done with these factories, and you have to order <strong><em>huge</em></strong> numbers for these factories to even consider your brand. </p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>Now Larry usually plays a<a href="https://www.electrikjam.com/types-of-guitars-guide/" target="_blank" data-type="post" data-id="2545" rel="noopener" data-lasso-id="37735"> <strong>semi-hollow</strong></a> guitar, but he also plays a variety of Start style, and Les Paul style guitars when it comes to detailed studio work. The Sire Guitars L7 has all of the features that Larry asked for, and it is a guitar that punches well above it&#8217;s price tag. The features you get are<em> insane</em> for the price:</p>
+<p>Now Larry usually plays a<a href="/types-of-guitars-guide/" target="_blank" data-type="post" data-id="2545" rel="noopener" data-lasso-id="37735"> <strong>semi-hollow</strong></a> guitar, but he also plays a variety of Start style, and Les Paul style guitars when it comes to detailed studio work. The Sire Guitars L7 has all of the features that Larry asked for, and it is a guitar that punches well above it&#8217;s price tag. The features you get are<em> insane</em> for the price:</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p><strong>Where do I start with the Sire Guitars L7? </strong>I suppose I could start with the construction, because this thing is <em>solid</em> as hell! The body is 4 pieces of Mahogany, just like<a href="https://www.electrikjam.com/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="37736"><strong> Epipho</strong>n<strong>e</strong></a> Les Paul guitars and other budget brands. This makes the guitar pretty heavy, and it weighs about 8.5lbs. I certainly did not expect this to be a one piece body like a high end <a href="https://www.electrikjam.com/gibson-guitars/" target="_blank" data-type="page" data-id="3878" rel="noopener" data-lasso-id="37737"><strong>Gibson</strong></a>, so I was not surprised. </p>
+<p><strong>Where do I start with the Sire Guitars L7? </strong>I suppose I could start with the construction, because this thing is <em>solid</em> as hell! The body is 4 pieces of Mahogany, just like<a href="/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="37736"><strong> Epipho</strong>n<strong>e</strong></a> Les Paul guitars and other budget brands. This makes the guitar pretty heavy, and it weighs about 8.5lbs. I certainly did not expect this to be a one piece body like a high end <a href="/gibson-guitars/" target="_blank" data-type="page" data-id="3878" rel="noopener" data-lasso-id="37737"><strong>Gibson</strong></a>, so I was not surprised. </p>
 
 
 
@@ -131,11 +131,11 @@ seo:
 
 
 
-<p>The C shaped neck is somewhere between a 60&#8217;s model &#8220;Slim Taper&#8221; neck, and the thicker 50&#8217;s style neck that I personally<em> love</em>. My favorite neck is the<a href="https://www.electrikjam.com/https-guitar-center-pxf-io-p0bvkr/" target="_blank" data-type="lasso-urls" data-id="6222" rel="nofollow sponsored noopener" data-lasso-id="37738" data-lasso-name="Epiphone 1959 Les Paul Special Edition"><strong> Les Paul 59</strong></a> and it is hard to find that proper neck on most guitar models. But the Sire Guitars L7 is definitely in between, making it very comfortable. I call these &#8220;Goldilocks Necks&#8221; for this reason!</p>
+<p>The C shaped neck is somewhere between a 60&#8217;s model &#8220;Slim Taper&#8221; neck, and the thicker 50&#8217;s style neck that I personally<em> love</em>. My favorite neck is the<a href="/https-guitar-center-pxf-io-p0bvkr/" target="_blank" data-type="lasso-urls" data-id="6222" rel="nofollow sponsored noopener" data-lasso-id="37738" data-lasso-name="Epiphone 1959 Les Paul Special Edition"><strong> Les Paul 59</strong></a> and it is hard to find that proper neck on most guitar models. But the Sire Guitars L7 is definitely in between, making it very comfortable. I call these &#8220;Goldilocks Necks&#8221; for this reason!</p>
 
 
 
-<p>The satin neck finish just adds to the overall feel. This feels more like a <a href="https://www.electrikjam.com/guitar-center-pxf-io-e4aqvz/" target="_blank" data-type="lasso-urls" data-id="6070" rel="nofollow sponsored noopener" data-lasso-id="37739" data-lasso-name="Gibson Les Paul tribute"><strong>Gibson Les Paul</strong></a> that I used to own, and loved. You can see that guitar in my picture at the bottom of the article. <strong>Note: This neck is two pieces, and has a scarf joint like PRS, making it highly stable</strong>. <strong>But Some people dislike a scarf joint, and prefer a one piece neck.</strong></p>
+<p>The satin neck finish just adds to the overall feel. This feels more like a <a href="/guitar-center-pxf-io-e4aqvz/" target="_blank" data-type="lasso-urls" data-id="6070" rel="nofollow sponsored noopener" data-lasso-id="37739" data-lasso-name="Gibson Les Paul tribute"><strong>Gibson Les Paul</strong></a> that I used to own, and loved. You can see that guitar in my picture at the bottom of the article. <strong>Note: This neck is two pieces, and has a scarf joint like PRS, making it highly stable</strong>. <strong>But Some people dislike a scarf joint, and prefer a one piece neck.</strong></p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>We should also note that this has a proper maple cap for the top, but it is not a Flame Maple top. The Flame effect is added by using a thin Veneer, as you would expect for a <a href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-lasso-id="175505">budget guitar</a>. But the veneer looks to be about 2mm thick, so it looks <em>great</em> and has a 3D effect to it. Personally, I don&#8217;t care about having a AAA Flame top, as it does not add to tone at all. The real maple cap however, definitely changes the tone and sucks ups some of those low frequencies.</p>
+<p>We should also note that this has a proper maple cap for the top, but it is not a Flame Maple top. The Flame effect is added by using a thin Veneer, as you would expect for a <a href="/evh-the-5-best-budget-shredder-guitars/" data-lasso-id="175505">budget guitar</a>. But the veneer looks to be about 2mm thick, so it looks <em>great</em> and has a 3D effect to it. Personally, I don&#8217;t care about having a AAA Flame top, as it does not add to tone at all. The real maple cap however, definitely changes the tone and sucks ups some of those low frequencies.</p>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<p>Both pickups sit in the 7k ohm range, with the bridge being just slightly higher at 7.6k when measured. So these are not &#8220;hot&#8221; pickups like you would get with some <a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="37740"><strong>Seymour Duncan</strong></a> sets. These pickups also don&#8217;t do the PAF style sound either. Construction-wise, these sit somewhere in the middle of all of these popular pickups. I have no idea what kind of magnets are being used, but they sound like Alnico.</p>
+<p>Both pickups sit in the 7k ohm range, with the bridge being just slightly higher at 7.6k when measured. So these are not &#8220;hot&#8221; pickups like you would get with some <a href="/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="37740"><strong>Seymour Duncan</strong></a> sets. These pickups also don&#8217;t do the PAF style sound either. Construction-wise, these sit somewhere in the middle of all of these popular pickups. I have no idea what kind of magnets are being used, but they sound like Alnico.</p>
 
 
 
@@ -187,11 +187,11 @@ seo:
 
 
 
-<p>What I found most interesting, was the<strong> treble bleed circuit</strong> when I opened the back panel. Now some guitars come with this, like <a href="https://www.electrikjam.com/are-reverend-guitars-any-good/" target="_blank" data-type="post" data-id="5550" rel="noopener" data-lasso-id="37741"><strong>Reverend</strong></a>, but most times this is an<em> upgrade you do yourself</em>. If you wonder <strong>what this does</strong>, it makes the volume control <em>actually work</em>. The circuit allows you to dial down the volume control on the guitar without losing any high end, or sounding muffled. This is a feature that most pros have on their guitars, and I couldn&#8217;t believe this was on a budget guitar.</p>
+<p>What I found most interesting, was the<strong> treble bleed circuit</strong> when I opened the back panel. Now some guitars come with this, like <a href="/are-reverend-guitars-any-good/" target="_blank" data-type="post" data-id="5550" rel="noopener" data-lasso-id="37741"><strong>Reverend</strong></a>, but most times this is an<em> upgrade you do yourself</em>. If you wonder <strong>what this does</strong>, it makes the volume control <em>actually work</em>. The circuit allows you to dial down the volume control on the guitar without losing any high end, or sounding muffled. This is a feature that most pros have on their guitars, and I couldn&#8217;t believe this was on a budget guitar.</p>
 
 
 
-<p>There was one letdown, and I was kind of sad about this. The tone controls work fine, but not like a usual LP style guitar. I usually turn the <a href="https://www.electrikjam.com/tone-knob-explained/" data-lasso-id="106711">tone knob</a> down a bit for the neck pickups to get that smooth, creamy <strong>Slash </strong>tone. This is also called the <strong>Eric Clapton</strong> &#8220;Woman&#8221; tone. I could not get this to work with the Sire Guitars L7, and I think it&#8217;s due to the pot&#8217;s quality, and the fact that these are very bright pickups. This is an easy fix, and I could just replace the potentiometer with something higher quality.</p>
+<p>There was one letdown, and I was kind of sad about this. The tone controls work fine, but not like a usual LP style guitar. I usually turn the <a href="/tone-knob-explained/" data-lasso-id="106711">tone knob</a> down a bit for the neck pickups to get that smooth, creamy <strong>Slash </strong>tone. This is also called the <strong>Eric Clapton</strong> &#8220;Woman&#8221; tone. I could not get this to work with the Sire Guitars L7, and I think it&#8217;s due to the pot&#8217;s quality, and the fact that these are very bright pickups. This is an easy fix, and I could just replace the potentiometer with something higher quality.</p>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<p>You can definitely get a metal tone with these pickups, and it will chug with the best of them. But it really shines when you add copious amounts of <a href="https://www.electrikjam.com/fuzz-vs-distortion/" target="_blank" data-type="post" data-id="6200" rel="noopener" data-lasso-id="37742"><strong>fuzz</strong></a>. Usually a fuzz pedal will dull the sound of any guitar, but with the Sire Guitars L7 it has so much top end in the bridge that you get clarity even when playing <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" target="_blank" data-type="post" data-id="1042" rel="noopener" data-lasso-id="37743"><strong>Doom</strong></a> style fuzz tones.</p>
+<p>You can definitely get a metal tone with these pickups, and it will chug with the best of them. But it really shines when you add copious amounts of <a href="/fuzz-vs-distortion/" target="_blank" data-type="post" data-id="6200" rel="noopener" data-lasso-id="37742"><strong>fuzz</strong></a>. Usually a fuzz pedal will dull the sound of any guitar, but with the Sire Guitars L7 it has so much top end in the bridge that you get clarity even when playing <a href="/doom-metal-beginners-guide/" target="_blank" data-type="post" data-id="1042" rel="noopener" data-lasso-id="37743"><strong>Doom</strong></a> style fuzz tones.</p>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<p>I am rarely impressed with a <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-lasso-id="37751">budget guitar</a></strong> the way that I am with the Sire Guitars L7. I almost never get blown away by cheaper guitars. I can see how some of the cheaper guitars are great for the money, and I enjoy them for what they are. But this guitar is a totally different animal. </p>
+<p>I am rarely impressed with a <strong><a href="/best-budget-guitars/" data-lasso-id="37751">budget guitar</a></strong> the way that I am with the Sire Guitars L7. I almost never get blown away by cheaper guitars. I can see how some of the cheaper guitars are great for the money, and I enjoy them for what they are. But this guitar is a totally different animal. </p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>If you want a Sire Guitars L7, they are currently out of stock in America <em>BUT</em> there are more on the way as we speak! You should reserve yours today by clicking <a href="https://www.electrikjam.com/guitar-center-pxf-io-dvblr5/" target="_blank" data-type="lasso-urls" data-id="6058" rel="nofollow sponsored noopener" data-lasso-id="37744" data-lasso-name="Sire L7"><strong>here</strong></a>. These sell out quick once they get in stock, so go ahead and reserve yours<strong> NOW</strong> if you want one. </p>
+<p>If you want a Sire Guitars L7, they are currently out of stock in America <em>BUT</em> there are more on the way as we speak! You should reserve yours today by clicking <a href="/guitar-center-pxf-io-dvblr5/" target="_blank" data-type="lasso-urls" data-id="6058" rel="nofollow sponsored noopener" data-lasso-id="37744" data-lasso-name="Sire L7"><strong>here</strong></a>. These sell out quick once they get in stock, so go ahead and reserve yours<strong> NOW</strong> if you want one. </p>
 
 
 

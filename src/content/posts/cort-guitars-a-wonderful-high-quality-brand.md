@@ -38,7 +38,7 @@ seo:
 
 
 
-<p>Big companies like Ibanez, Fender, G&amp;L, <a href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" data-lasso-id="576">Schecter</a> and others have all contracted Cort Guitars to make affordable models for them at some point. These models are generally held in high regard for their quality and craftsmanship. Many guitar forums talk about the amazing quality the Cort Guitars factory produces for bigger brands.</p>
+<p>Big companies like Ibanez, Fender, G&amp;L, <a href="/new-schecter-red-reign-e-series-2021/" data-lasso-id="576">Schecter</a> and others have all contracted Cort Guitars to make affordable models for them at some point. These models are generally held in high regard for their quality and craftsmanship. Many guitar forums talk about the amazing quality the Cort Guitars factory produces for bigger brands.</p>
 
 
 
@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>Like most people, I have often overlooked Cort Guitars as a stand-alone brand. Otherwise, I would have definitely included them in some of our <a href="https://www.electrikjam.com/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="577">&#8220;best of&#8221; lists</a>. I just didn&#8217;t know about these original models! I mean, I knew they made their own <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="578">brand of guitars</a>, but I had no idea how expansive the lineup was.</p>
+<p>Like most people, I have often overlooked Cort Guitars as a stand-alone brand. Otherwise, I would have definitely included them in some of our <a href="/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="577">&#8220;best of&#8221; lists</a>. I just didn&#8217;t know about these original models! I mean, I knew they made their own <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="578">brand of guitars</a>, but I had no idea how expansive the lineup was.</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/matt-bellamy-guitar-cort-manson-mbc-1/" data-lasso-id="579">The Cort MBM-1 is the signature guitar of Matt Bellamy</a></strong> of the band<strong> MUSE</strong>. This guitar is a collaboration with Matt, Manson Guitars, and Cort. The MBM-1 is created exactly to Matt&#8217;s specs and features:</p>
+<p><strong><a class="rank-math-link" href="/matt-bellamy-guitar-cort-manson-mbc-1/" data-lasso-id="579">The Cort MBM-1 is the signature guitar of Matt Bellamy</a></strong> of the band<strong> MUSE</strong>. This guitar is a collaboration with Matt, Manson Guitars, and Cort. The MBM-1 is created exactly to Matt&#8217;s specs and features:</p>
 
 
 
@@ -104,11 +104,11 @@ seo:
 
 
 
-<p>The solution was to make an affordable version of Matt&#8217;s custom Manson guitars. The collaboration with Cort Guitars means you can get <strong><a class="rank-math-link" href="https://www.electrikjam.com/matt-bellamy-guitar-cort-manson-mbc-1/" data-lasso-id="580">the same guitar that Matt Bellamy uses</a></strong> on stage, for less than half the price!</p>
+<p>The solution was to make an affordable version of Matt&#8217;s custom Manson guitars. The collaboration with Cort Guitars means you can get <strong><a class="rank-math-link" href="/matt-bellamy-guitar-cort-manson-mbc-1/" data-lasso-id="580">the same guitar that Matt Bellamy uses</a></strong> on stage, for less than half the price!</p>
 
 
 
-<p>While the guitar looks simple, it actually has quite a few cool features, starting with the neck profile. The neck has a &#8220;soft V&#8221; profile that is usually <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="581">only found on Fender guitars</a>. But this one has a compound radius, making the neck flatter as you ascend, and making it easier to solo.</p>
+<p>While the guitar looks simple, it actually has quite a few cool features, starting with the neck profile. The neck has a &#8220;soft V&#8221; profile that is usually <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="581">only found on Fender guitars</a>. But this one has a compound radius, making the neck flatter as you ascend, and making it easier to solo.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>Overall, this is a great guitar for just about any genre, but the Manson <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11600">pickups are perfect for Metal</a>, and everything in between. Like most of Cort&#8217;s offerings, this is a lot of guitar for the money. But what about some of their original models?</p>
+<p>Overall, this is a great guitar for just about any genre, but the Manson <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11600">pickups are perfect for Metal</a>, and everything in between. Like most of Cort&#8217;s offerings, this is a lot of guitar for the money. But what about some of their original models?</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p>Sometimes simple is better. Some people don&#8217;t need a ton of fancy features to get their shred on. The <a href="https://www.electrikjam.com/cort-g300-pro-a-take-on-affordable-boutique/" data-lasso-id="582">Cort Guitars</a> KX300 is a simplistic Metal-focused guitar, that despite it&#8217;s looks, carries a ton of great features:</p>
+<p>Sometimes simple is better. Some people don&#8217;t need a ton of fancy features to get their shred on. The <a href="/cort-g300-pro-a-take-on-affordable-boutique/" data-lasso-id="582">Cort Guitars</a> KX300 is a simplistic Metal-focused guitar, that despite it&#8217;s looks, carries a ton of great features:</p>
 
 
 
@@ -198,7 +198,7 @@ seo:
 
 
 
-<p>You get a proper <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167823">Floyd Rose</a>, and name brand pickups with the X300, with a great looking flamed top. So what about taking up a notch to the X500?</p>
+<p>You get a proper <a href="/floyd-rose-bridge-explained/" data-lasso-id="167823">Floyd Rose</a>, and name brand pickups with the X300, with a great looking flamed top. So what about taking up a notch to the X500?</p>
 
 
 
@@ -214,7 +214,7 @@ seo:
 
 
 
-<p>Which one is better? Well that&#8217;s a personal preference. Some people like a neck through construction and they think it provides a &#8220;snappier&#8221; tone. Otherwise, both <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14316">models are designed to be great metal guitars</a>.</p>
+<p>Which one is better? Well that&#8217;s a personal preference. Some people like a neck through construction and they think it provides a &#8220;snappier&#8221; tone. Otherwise, both <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14316">models are designed to be great metal guitars</a>.</p>
 
 
 
@@ -230,11 +230,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Swamp Ash Body</strong></li><li><strong>Flame Maple Top</strong></li><li><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7449"><strong>Seymour Duncan SH2N &amp; TB4 Humbuckers</a> </strong></li><li><strong>Custom Wired Electronics</strong></li><li><strong>Cort CFAIII Tremolo</strong></li><li><strong>Recessed Tremolo Route</strong></li><li><strong>Ebony </strong><a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12772">Fretboard</a></li><li><strong>3 Piece Maple/Panga Panga Neck</strong></li><li><strong>Luminlay Side Dots</strong></li><li><strong>Stainless Steel Frets</strong></li><li><strong>Locking Tuners</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Swamp Ash Body</strong></li><li><strong>Flame Maple Top</strong></li><li><a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7449"><strong>Seymour Duncan SH2N &amp; TB4 Humbuckers</a> </strong></li><li><strong>Custom Wired Electronics</strong></li><li><strong>Cort CFAIII Tremolo</strong></li><li><strong>Recessed Tremolo Route</strong></li><li><strong>Ebony </strong><a href="/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12772">Fretboard</a></li><li><strong>3 Piece Maple/Panga Panga Neck</strong></li><li><strong>Luminlay Side Dots</strong></li><li><strong>Stainless Steel Frets</strong></li><li><strong>Locking Tuners</strong></li></ul>
 
 
 
-<p>The X700 series has a huge amount of features for the price, and is truly the top of the line when it comes to Cort Guitars. The name brand <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7418">Seymour Duncan pickups</a> do everything from Jazz, to all out Metal. They are custom wired to have a &#8220;Tapped&#8221; and &#8220;out of phase&#8221; position for both pickups.</p>
+<p>The X700 series has a huge amount of features for the price, and is truly the top of the line when it comes to Cort Guitars. The name brand <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7418">Seymour Duncan pickups</a> do everything from Jazz, to all out Metal. They are custom wired to have a &#8220;Tapped&#8221; and &#8220;out of phase&#8221; position for both pickups.</p>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<p>The KX series 7 and 8 string models both have a beautiful spalted maple/poplar burl top. Both models also come with <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="583">Fishman Fluence Pickups</a> and they have a fanned fret, multi-scale design. Both models have a lot to offer to the extended range crowd, and are packed with premium features.</p>
+<p>The KX series 7 and 8 string models both have a beautiful spalted maple/poplar burl top. Both models also come with <a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="583">Fishman Fluence Pickups</a> and they have a fanned fret, multi-scale design. Both models have a lot to offer to the extended range crowd, and are packed with premium features.</p>
 
 
 
@@ -280,7 +280,7 @@ seo:
 
 
 
-<p>Cort <a href="https://www.electrikjam.com/electrikjam-link/" data-lasso-id="19873" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Guitars seems to have the market</a> cornered when it comes to metal-focused instruments. The extended range series is fantastic for the 7 and 8 string shredders out there. It&#8217;s easy to see why Ibanez contracted Cort Guitars at one time!</p>
+<p>Cort <a href="/electrikjam-link/" data-lasso-id="19873" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Guitars seems to have the market</a> cornered when it comes to metal-focused instruments. The extended range series is fantastic for the 7 and 8 string shredders out there. It&#8217;s easy to see why Ibanez contracted Cort Guitars at one time!</p>
 
 
 
@@ -292,7 +292,7 @@ seo:
 
 
 
-<p>But those of us that do stumble across Cort Guitars, we find a great line of instruments that cover all the genres. I only listed the Rock/Metal focused guitars. They have a whole line that would appeal to classic model enthusiasts as well. Not to mention, <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="584">the expansive acoustic lineup</a>.</p>
+<p>But those of us that do stumble across Cort Guitars, we find a great line of instruments that cover all the genres. I only listed the Rock/Metal focused guitars. They have a whole line that would appeal to classic model enthusiasts as well. Not to mention, <a href="/types-of-guitars-guide/" data-lasso-id="584">the expansive acoustic lineup</a>.</p>
 
 
 

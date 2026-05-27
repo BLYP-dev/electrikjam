@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>Since the first lockdowns in March, until the present here at the end of the year, it&#8217;s easy to see lots of people are playing guitar. On a personal level, I have probably played more this year than I have in almost a decade. I have talked about <a href="https://www.electrikjam.com/learning-guitar-guide-what-to-expect/" class="rank-math-link" data-lasso-id="468">guitar being a perfect cure for boredom</a> before, and I stand by that statement.</p>
+<p>Since the first lockdowns in March, until the present here at the end of the year, it&#8217;s easy to see lots of people are playing guitar. On a personal level, I have probably played more this year than I have in almost a decade. I have talked about <a href="/learning-guitar-guide-what-to-expect/" class="rank-math-link" data-lasso-id="468">guitar being a perfect cure for boredom</a> before, and I stand by that statement.</p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="469">Fender Guitar</a> sales plummeted at the beginning of the year. Once shutdowns began nationally, &nbsp;Fender’s factories in Corona, California, and Ensenada, Mexico, shut down, furloughing hundreds of employees. Its headquarters in Scottsdale, Arizona, shuttered, as did its Hollywood hub, where CEO Andy Mooney and his management team work:</p>
+<p><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="469">Fender Guitar</a> sales plummeted at the beginning of the year. Once shutdowns began nationally, &nbsp;Fender’s factories in Corona, California, and Ensenada, Mexico, shut down, furloughing hundreds of employees. Its headquarters in Scottsdale, Arizona, shuttered, as did its Hollywood hub, where CEO Andy Mooney and his management team work:</p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p>In a strange twist of fate, Fender Guitar Sales started seeing an upward trend. Their third-quarter report showed a 17% gain over last year&#8217;s sales. <strong><a href="https://www.electrikjam.com/fender/" data-lasso-id="1813">Fender Guitar</a></strong> sales is looking at over 700 Million dollars projected. This is compared to last year&#8217;s 600 million total.</p>
+<p>In a strange twist of fate, Fender Guitar Sales started seeing an upward trend. Their third-quarter report showed a 17% gain over last year&#8217;s sales. <strong><a href="/fender/" data-lasso-id="1813">Fender Guitar</a></strong> sales is looking at over 700 Million dollars projected. This is compared to last year&#8217;s 600 million total.</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/thomann-usa-shipping-times-costs-a-complete-guide/" data-lasso-id="251557">Not mention the giant Thomann</a>, headquartered in Germany, as well as more pedestrian retailers like Amazon, Walmart and Target. While the shops and stores may close, the internet never closes.</p>
+<p><a href="/thomann-usa-shipping-times-costs-a-complete-guide/" data-lasso-id="251557">Not mention the giant Thomann</a>, headquartered in Germany, as well as more pedestrian retailers like Amazon, Walmart and Target. While the shops and stores may close, the internet never closes.</p>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<p>It&#8217;s no surprise that Fender Guitar sales have been through the roof. The company is a <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="471">&#8220;legacy&#8221; brand</a> that people know and trust. people who have never held a guitar before recognize <a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-lasso-id="472">the shape and appearance of a Fender Stratocaster</a>. The brand is iconic.</p>
+<p>It&#8217;s no surprise that Fender Guitar sales have been through the roof. The company is a <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="471">&#8220;legacy&#8221; brand</a> that people know and trust. people who have never held a guitar before recognize <a href="/the-best-fender-strat-alternative-in-2021/" data-lasso-id="472">the shape and appearance of a Fender Stratocaster</a>. The brand is iconic.</p>
 
 
 

@@ -224,11 +224,11 @@ seo:
 
 
 
-<p>The average weight of an electric guitar tends to hover around 8 pounds (approximately 3.6 kilograms), although this can vary widely depending on the model and materials used. <a href="https://www.electrikjam.com/fender-telecaster-thinline-guide-history/" data-lasso-id="252027">Guitars with semi-hollow or hollow bodies</a>, for example, are typically lighter than their solid-body counterparts.</p>
+<p>The average weight of an electric guitar tends to hover around 8 pounds (approximately 3.6 kilograms), although this can vary widely depending on the model and materials used. <a href="/fender-telecaster-thinline-guide-history/" data-lasso-id="252027">Guitars with semi-hollow or hollow bodies</a>, for example, are typically lighter than their solid-body counterparts.</p>
 
 
 
-<p>Plus, modern Les Paul guitars – both <strong><a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-type="post" data-id="3350" data-lasso-id="235374">Epiphone and Gibson</a></strong> –&nbsp;are now significantly lighter than they were in the 1970s, for instance, thanks to innovative weight-relief technologies that keep all the best bits (the tonal richness) but reduce the gross weight of the assembled guitar. </p>
+<p>Plus, modern Les Paul guitars – both <strong><a href="/gibson-vs-epiphone-in-2021/" data-type="post" data-id="3350" data-lasso-id="235374">Epiphone and Gibson</a></strong> –&nbsp;are now significantly lighter than they were in the 1970s, for instance, thanks to innovative weight-relief technologies that keep all the best bits (the tonal richness) but reduce the gross weight of the assembled guitar. </p>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="235375" href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454">Gibson&#8217;s Les Paul </a></strong>has been known to be something of a back-breaker, especially the older, vintage models that do not have any chambering (weight relief systems) inside them. But, again, what&#8217;s a little back pain if you&#8217;re getting killer tone? </p>
+<p><strong><a data-lasso-id="235375" href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454">Gibson&#8217;s Les Paul </a></strong>has been known to be something of a back-breaker, especially the older, vintage models that do not have any chambering (weight relief systems) inside them. But, again, what&#8217;s a little back pain if you&#8217;re getting killer tone? </p>
 
 
 
@@ -261,7 +261,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li>Wood Type: <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246511">The type of wood used for the body of the guitar</a> is the most significant factor. Denser woods like mahogany and maple are heavier, while lighter woods include alder, basswood, and poplar.</li>
+<li>Wood Type: <a href="/parts-of-an-electric-guitar/" data-lasso-id="246511">The type of wood used for the body of the guitar</a> is the most significant factor. Denser woods like mahogany and maple are heavier, while lighter woods include alder, basswood, and poplar.</li>
 
 
 
@@ -302,7 +302,7 @@ seo:
 
 
 
-<p>While some players swear by the thick, resonant <strong><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="235376">tone of a heavy Les Paul</a></strong>, others prefer the bright, <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="235377">punchy sound of a lighter Stratocaster</a></strong>. </p>
+<p>While some players swear by the thick, resonant <strong><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="235376">tone of a heavy Les Paul</a></strong>, others prefer the bright, <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="235377">punchy sound of a lighter Stratocaster</a></strong>. </p>
 
 
 
@@ -342,7 +342,7 @@ seo:
 
 
 
-<p>And if you need some advice on what guitar to get and you&#8217;re a beginner, <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="266292">here&#8217;s my top picks right now</a></strong> (based on 20+ years of touring, testing, recording and playing).</p>
+<p>And if you need some advice on what guitar to get and you&#8217;re a beginner, <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="266292">here&#8217;s my top picks right now</a></strong> (based on 20+ years of touring, testing, recording and playing).</p>
 
 
 

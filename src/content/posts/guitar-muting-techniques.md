@@ -74,7 +74,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-lasso-id="73656">Learning correct guitar muting techniques is the quickest way</a> to make your playing sound more professional. In fact, I would say it is important for any new players to spend at least a week learning these techniques. <strong>Once you have them down, you’ll automatically sound about 60% better than before</strong> – I know, I know, that sounds crazy. But it is 100% true.</p>
+<p><a href="/guitar-fretboard-notes-learn/" data-lasso-id="73656">Learning correct guitar muting techniques is the quickest way</a> to make your playing sound more professional. In fact, I would say it is important for any new players to spend at least a week learning these techniques. <strong>Once you have them down, you’ll automatically sound about 60% better than before</strong> – I know, I know, that sounds crazy. But it is 100% true.</p>
 
 
 
@@ -82,7 +82,7 @@ seo:
 
 
 
-<p>You already know how to palm mute, right? If not read <strong><a href="https://www.electrikjam.com/how-to-palm-mute/" data-type="post" data-id="1640" data-lasso-id="69744">this guide on palm muting</a></strong> first. Once you have that down, you can progress to what I call “rolling palm muting”, whereby you use your palm in increasing increments to mute out strings as you move down from E, to A, to D, to G, and to, B, and then E.</p>
+<p>You already know how to palm mute, right? If not read <strong><a href="/how-to-palm-mute/" data-type="post" data-id="1640" data-lasso-id="69744">this guide on palm muting</a></strong> first. Once you have that down, you can progress to what I call “rolling palm muting”, whereby you use your palm in increasing increments to mute out strings as you move down from E, to A, to D, to G, and to, B, and then E.</p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 		
 
 
-<p>This left-hand muting technique isn’t just for lead guitar, however, it will also tighten up your rhythm playing too. Try it with an E power chord. First, play the E power chord without left-hand muting. Then try it with left-hand muting. Hear the difference? One <strong><a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="69745">sounds like James Hetfield</a></strong>, the other sounds like a bag of feral cats. And THIS is the power of correct muting technique.</p>
+<p>This left-hand muting technique isn’t just for lead guitar, however, it will also tighten up your rhythm playing too. Try it with an E power chord. First, play the E power chord without left-hand muting. Then try it with left-hand muting. Hear the difference? One <strong><a href="/what-guitar-pick-does-james-hetfield-use/" data-type="post" data-id="2103" data-lasso-id="69745">sounds like James Hetfield</a></strong>, the other sounds like a bag of feral cats. And THIS is the power of correct muting technique.</p>
 
 
 

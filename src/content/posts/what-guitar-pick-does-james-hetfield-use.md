@@ -28,7 +28,7 @@ seo:
 ---
 
 
-<p><strong>Known for creating some of the best riffs ever and having one of the fastest right hands in the business, this dude needs ZERO introductions. But what <a href="https://www.electrikjam.com/best-picks-for-metal/" class="rank-math-link" data-lasso-id="1552">guitar pick</a> does James Hetfield actually use?</strong></p>
+<p><strong>Known for creating some of the best riffs ever and having one of the fastest right hands in the business, this dude needs ZERO introductions. But what <a href="/best-picks-for-metal/" class="rank-math-link" data-lasso-id="1552">guitar pick</a> does James Hetfield actually use?</strong></p>
 
 
 
@@ -40,11 +40,11 @@ seo:
 
 
 
-<p>The master of the downstroke, Hetfield has been pumping out <strong><a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" class="rank-math-link" data-lasso-id="1553">killer riffs</a></strong> longer than most of the people reading this have been alive. Now well into his fifties, Hetfield shows no signs of slowing down.</p>
+<p>The master of the downstroke, Hetfield has been pumping out <strong><a href="/bands-that-use-drop-c-tuning/" class="rank-math-link" data-lasso-id="1553">killer riffs</a></strong> longer than most of the people reading this have been alive. Now well into his fifties, Hetfield shows no signs of slowing down.</p>
 
 
 
-<p><strong>RELATED: <a class="rank-math-link" href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="1554">What is The Best Way To Learn Guitar? A Tale of Patience and Pain…</a></strong></p>
+<p><strong>RELATED: <a class="rank-math-link" href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="1554">What is The Best Way To Learn Guitar? A Tale of Patience and Pain…</a></strong></p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>The guy hits notes like no one else. And is also one of the best <a href="https://www.electrikjam.com/john-frusciante-explains-how-to-play-cant-stop-properly/" data-lasso-id="103271">string muting experts</a> in the game, a skill he doesn’t get nearly enough credit for.</p>
+<p>The guy hits notes like no one else. And is also one of the best <a href="/john-frusciante-explains-how-to-play-cant-stop-properly/" data-lasso-id="103271">string muting experts</a> in the game, a skill he doesn’t get nearly enough credit for.</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="938" height="792" src="/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick.png" alt="" class="wp-image-2105" title="" srcset="/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick.png 938w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-600x507.png 600w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-300x253.png 300w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-768x648.png 768w" sizes="(max-width: 938px) 100vw, 938px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/james-hetfield-black-fang-pick/" data-lasso-id="1555">BUY YOURS NOW</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="938" height="792" src="/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick.png" alt="" class="wp-image-2105" title="" srcset="/wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick.png 938w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-600x507.png 600w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-300x253.png 300w, /wp-content/uploads/2021/02/James-Hetfield-Black-Fang-Pick-768x648.png 768w" sizes="(max-width: 938px) 100vw, 938px" /><figcaption><strong><a class="rank-math-link" href="/recommends/james-hetfield-black-fang-pick/" data-lasso-id="1555">BUY YOURS NOW</a></strong></figcaption></figure>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<p>It also features an exaggerated point, much like the Dunlop Jazz III, currently <strong><a href="https://www.electrikjam.com/best-picks-for-metal/" class="rank-math-link" data-lasso-id="1556">our #1 favorite guitar pick for metal</a></strong>, that allows for fast, precise playing just like the gods of rock demand.</p>
+<p>It also features an exaggerated point, much like the Dunlop Jazz III, currently <strong><a href="/best-picks-for-metal/" class="rank-math-link" data-lasso-id="1556">our #1 favorite guitar pick for metal</a></strong>, that allows for fast, precise playing just like the gods of rock demand.</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="940" height="834" src="/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick.png" alt="James Hetfield White Fang Pick" class="wp-image-2117" title="" srcset="/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick.png 940w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-600x532.png 600w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-300x266.png 300w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-768x681.png 768w" sizes="(max-width: 940px) 100vw, 940px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/james-hetfield-white-fang-pick/" data-lasso-id="1557">BUY YOURS NOW</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="940" height="834" src="/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick.png" alt="James Hetfield White Fang Pick" class="wp-image-2117" title="" srcset="/wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick.png 940w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-600x532.png 600w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-300x266.png 300w, /wp-content/uploads/2021/02/James-Hetfield-White-Fang-Pick-768x681.png 768w" sizes="(max-width: 940px) 100vw, 940px" /><figcaption><strong><a class="rank-math-link" href="/recommends/james-hetfield-white-fang-pick/" data-lasso-id="1557">BUY YOURS NOW</a></strong></figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>Plenty of collectors have been scammed by this too, whereby scammers by the standard White Fang pick and scratch off the dash above the “D”, and attempt to sell it as <a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17579">official Metallica gear</a>.</p>
+<p>Plenty of collectors have been scammed by this too, whereby scammers by the standard White Fang pick and scratch off the dash above the “D”, and attempt to sell it as <a href="/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17579">official Metallica gear</a>.</p>
 
 
 
@@ -136,23 +136,23 @@ seo:
 
 
 
-<p>And here’s a list of some of James Hetfield’s most notable custom <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" data-lasso-id="15993">guitars from the last</a> 30 years:</p>
+<p>And here’s a list of some of James Hetfield’s most notable custom <a href="/which-guitar-strings-last-longest/" data-lasso-id="15993">guitars from the last</a> 30 years:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>1969 Gibson SG Standard</strong></li><li><strong>1984 <a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236474">Gibson Explorer</a> “So What”</strong></li><li><strong>1984 Gibson Explorer “More Beer”</strong></li><li><strong>1985 Jackson King V Custom “Kill Bon Jovi”</strong></li><li><strong>1987 ESP MX220 “Eet Fuk”</strong></li><li><strong>1987 ESP MX220 “So Fucking What”</strong></li><li><strong>1988 ESP MX220 “Fuk Em Up”</strong></li><li><strong>1996 ESP MX250 “Elk Skull”</strong></li></ul>
+<ul class="wp-block-list"><li><strong>1969 Gibson SG Standard</strong></li><li><strong>1984 <a href="/gibson-80s-explorer-review/" data-lasso-id="236474">Gibson Explorer</a> “So What”</strong></li><li><strong>1984 Gibson Explorer “More Beer”</strong></li><li><strong>1985 Jackson King V Custom “Kill Bon Jovi”</strong></li><li><strong>1987 ESP MX220 “Eet Fuk”</strong></li><li><strong>1987 ESP MX220 “So Fucking What”</strong></li><li><strong>1988 ESP MX220 “Fuk Em Up”</strong></li><li><strong>1996 ESP MX250 “Elk Skull”</strong></li></ul>
 
 
 
-<p>And here&#8217;s what <a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-lasso-id="88518">guitars James Hetfield plays</a> in the studio and when Metallica are on tour: </p>
+<p>And here&#8217;s what <a href="/what-pickups-does-james-hetfield-use/" data-lasso-id="88518">guitars James Hetfield plays</a> in the studio and when Metallica are on tour: </p>
 
 
 
-<ul class="wp-block-list"><li><strong>Ken Lawrence Custom Explorer Natural</strong></li><li><strong>ESP Custom Black Explorer &#8211; Deerskull Inlay</strong></li><li><strong>ESP Custom Black Explorer &#8211; Snake Inlay</strong></li><li><strong>ESP Custom Black Explorer &#8211; Wood-Burn Deer</strong></li><li><strong>ESP Custom Black Explorer &#8211; Black Diamond Plate</strong></li><li><strong>ESP Custom Black Explorer &#8211; Silver Diamond Plate</strong></li><li><strong>ESP Custom Black Explorer &#8211; Bright Diamond Plate</strong></li><li><strong>ESP Custom Black Flying V &#8211; Green Flames</strong></li><li><strong>ESP Custom Black Flying V &#8211; Hot Rod Flames</strong></li><li><strong>ESP Custom Black &#8220;Fuel&#8221; Les Paul Style with Gold Pinstripe</strong></li><li><strong>ESP Custom Black &amp; White Pinstripe Les Paul</strong></li><li><strong>ESP Custom Black &amp; Gold Pinstripe Les Paul</strong></li><li><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44943"><strong>Gibson Les Paul Custom</a> </strong></li><li><strong>ESP New Model Black Explorer &#8211; Mother-of-Pearl Inlay</strong></li><li><strong>Electra 2236 Flying Wedge (Gibson Flying V replica)</strong></li><li><strong>Gibson Explorer</strong></li><li><strong>Gibson Explorer &#8220;MORE BEER&#8221;</strong></li><li><strong>White ESP Explorer &#8220;EET FUK&#8221;</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Ken Lawrence Custom Explorer Natural</strong></li><li><strong>ESP Custom Black Explorer &#8211; Deerskull Inlay</strong></li><li><strong>ESP Custom Black Explorer &#8211; Snake Inlay</strong></li><li><strong>ESP Custom Black Explorer &#8211; Wood-Burn Deer</strong></li><li><strong>ESP Custom Black Explorer &#8211; Black Diamond Plate</strong></li><li><strong>ESP Custom Black Explorer &#8211; Silver Diamond Plate</strong></li><li><strong>ESP Custom Black Explorer &#8211; Bright Diamond Plate</strong></li><li><strong>ESP Custom Black Flying V &#8211; Green Flames</strong></li><li><strong>ESP Custom Black Flying V &#8211; Hot Rod Flames</strong></li><li><strong>ESP Custom Black &#8220;Fuel&#8221; Les Paul Style with Gold Pinstripe</strong></li><li><strong>ESP Custom Black &amp; White Pinstripe Les Paul</strong></li><li><strong>ESP Custom Black &amp; Gold Pinstripe Les Paul</strong></li><li><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44943"><strong>Gibson Les Paul Custom</a> </strong></li><li><strong>ESP New Model Black Explorer &#8211; Mother-of-Pearl Inlay</strong></li><li><strong>Electra 2236 Flying Wedge (Gibson Flying V replica)</strong></li><li><strong>Gibson Explorer</strong></li><li><strong>Gibson Explorer &#8220;MORE BEER&#8221;</strong></li><li><strong>White ESP Explorer &#8220;EET FUK&#8221;</strong></li></ul>
 
 
 
-<p>Back in the day, however, Hetfield’s first proper touring guitar –&nbsp;the one he used in early days of Metallica –&nbsp;was a Flying V copy made in Japan by Electra. Hetfield made some customisations to it, however, adding in a <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7450">Seymour Duncan Invader</a> (SH-8) pickup.</p>
+<p>Back in the day, however, Hetfield’s first proper touring guitar –&nbsp;the one he used in early days of Metallica –&nbsp;was a Flying V copy made in Japan by Electra. Hetfield made some customisations to it, however, adding in a <a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7450">Seymour Duncan Invader</a> (SH-8) pickup.</p>
 
 
 
@@ -160,11 +160,11 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="917" height="637" src="/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS.png" alt="" class="wp-image-2114" title="" srcset="/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS.png 917w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-600x417.png 600w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-300x208.png 300w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-768x533.png 768w" sizes="(max-width: 917px) 100vw, 917px" /><figcaption><strong>James&#8217; Daily Driver –&nbsp;<a class="rank-math-link" href="https://www.electrikjam.com/recommends/esp-ltd-iron-cross/" data-lasso-id="1558">View Latest Prices Here</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="917" height="637" src="/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS.png" alt="" class="wp-image-2114" title="" srcset="/wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS.png 917w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-600x417.png 600w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-300x208.png 300w, /wp-content/uploads/2021/02/ESP-LTD-IRON-CROSS-768x533.png 768w" sizes="(max-width: 917px) 100vw, 917px" /><figcaption><strong>James&#8217; Daily Driver –&nbsp;<a class="rank-math-link" href="/recommends/esp-ltd-iron-cross/" data-lasso-id="1558">View Latest Prices Here</a></strong></figcaption></figure>
 
 
 
-<p>From the 1990s onwards, <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91768">Hetfield has been an ESP man though and through</a>. His latest <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104007">ESP signature model is the ESP LTD Iron Cross</a>. And unlike most signature models, <strong><a href="https://www.electrikjam.com/recommends/esp-ltd-iron-cross/" class="rank-math-link" data-lasso-id="1559">it is actually pretty reasonably priced</a>. </strong></p>
+<p>From the 1990s onwards, <a href="/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91768">Hetfield has been an ESP man though and through</a>. His latest <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104007">ESP signature model is the ESP LTD Iron Cross</a>. And unlike most signature models, <strong><a href="/recommends/esp-ltd-iron-cross/" class="rank-math-link" data-lasso-id="1559">it is actually pretty reasonably priced</a>. </strong></p>
 
 
 

@@ -34,7 +34,7 @@ seo:
 ---
 
 
-<p><strong>The PRS</strong> <strong>SE Silver Sky is the most talked about guitar release right now. It seems like every YouTube video is about this guitar. I got to play one this week at a local dealer. Is it <a href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174804">worth the hype</a>?</strong></p>
+<p><strong>The PRS</strong> <strong>SE Silver Sky is the most talked about guitar release right now. It seems like every YouTube video is about this guitar. I got to play one this week at a local dealer. Is it <a href="/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174804">worth the hype</a>?</strong></p>
 
 
 
@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>Let&#8217;s get something out of the way before we really dig into this guitar review. I am shamelessly <a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-lasso-id="102998">a huge fan of  John Mayer</a>. To me, he is a conundrum. John is quite a mysterious person when it comes to his own music. There is no doubt that he is a wonderful addition to <strong>Dead And Company</strong>, and he fills the shoes of <strong>Jerry Garcia</strong>. Many guitarists would be scared to death to play with the <strong>Grateful Dead</strong>, but John took the gig and he does a fantastic job.</p>
+<p>Let&#8217;s get something out of the way before we really dig into this guitar review. I am shamelessly <a href="/why-john-mayer-ditched-fender-for-prs/" data-lasso-id="102998">a huge fan of  John Mayer</a>. To me, he is a conundrum. John is quite a mysterious person when it comes to his own music. There is no doubt that he is a wonderful addition to <strong>Dead And Company</strong>, and he fills the shoes of <strong>Jerry Garcia</strong>. Many guitarists would be scared to death to play with the <strong>Grateful Dead</strong>, but John took the gig and he does a fantastic job.</p>
 
 
 
@@ -66,11 +66,11 @@ seo:
 
 
 
-<p>The PRS SE Silver Sky is the <a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251739">more affordable version of the USA-made Silver Sky</a>. John is known for his guitar tone just as much as he is known for his playing. John was with <a href="https://www.electrikjam.com/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="48993"><strong>Fender</strong></a> for over a decade when he made the switch to<a href="https://www.electrikjam.com/guitar-center-pxf-io-qnvga5/" target="_blank" data-type="lasso-urls" data-id="6061" rel="nofollow sponsored noopener" data-lasso-id="48994" data-lasso-name="PRS Custom 24 SE"><strong> PRS</strong></a>. People were a little surprised, since the<a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="48995"> <strong>Stratocaster</strong></a> is such an important part of John&#8217;s tone. The single coil pickups and his custom Two-Rock Amplifiers is the &#8220;sound&#8221; of John Mayer.</p>
+<p>The PRS SE Silver Sky is the <a href="/prs-se-series-guitars-guide/" data-lasso-id="251739">more affordable version of the USA-made Silver Sky</a>. John is known for his guitar tone just as much as he is known for his playing. John was with <a href="/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="48993"><strong>Fender</strong></a> for over a decade when he made the switch to<a href="/guitar-center-pxf-io-qnvga5/" target="_blank" data-type="lasso-urls" data-id="6061" rel="nofollow sponsored noopener" data-lasso-id="48994" data-lasso-name="PRS Custom 24 SE"><strong> PRS</strong></a>. People were a little surprised, since the<a href="/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="48995"> <strong>Stratocaster</strong></a> is such an important part of John&#8217;s tone. The single coil pickups and his custom Two-Rock Amplifiers is the &#8220;sound&#8221; of John Mayer.</p>
 
 
 
-<p>But <a href="https://prsguitars.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="48996"><strong>Paul Reed Smith</strong></a> was up for the challenge when it came to designing a &#8220;Strat&#8221; for John. In fact, when the<a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="48997"><strong> Silver Sky </strong></a>first came out, it was the subject of tons of controversy. It was called &#8220;an expensive Fender rip off&#8221; by initial reviewers. Then, people started to play the PRS Silver Sky models, and they realized just how <em>wrong</em> that first impression was. The Silver Sky was not just another Stratocaster copy, it was unique in a lot of ways.</p>
+<p>But <a href="https://prsguitars.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="48996"><strong>Paul Reed Smith</strong></a> was up for the challenge when it came to designing a &#8220;Strat&#8221; for John. In fact, when the<a href="/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="48997"><strong> Silver Sky </strong></a>first came out, it was the subject of tons of controversy. It was called &#8220;an expensive Fender rip off&#8221; by initial reviewers. Then, people started to play the PRS Silver Sky models, and they realized just how <em>wrong</em> that first impression was. The Silver Sky was not just another Stratocaster copy, it was unique in a lot of ways.</p>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<p>The USA PRS <a href="https://www.electrikjam.com/prs-launches-beautiful-new-silver-sky/" data-lasso-id="241635">Silver Sky was a collaborative design</a> between John and Paul Reed Smith. John had a 60&#8217;s Fender that he loved, and the neck of the Silver Sky was patterned after that vintage guitar. The Silver Sky may look like &#8220;just a Strat&#8221; to most people, but there are differences where it counts. Let&#8217;s take a look at the specs of the PRS SE Silver Sky:</p>
+<p>The USA PRS <a href="/prs-launches-beautiful-new-silver-sky/" data-lasso-id="241635">Silver Sky was a collaborative design</a> between John and Paul Reed Smith. John had a 60&#8217;s Fender that he loved, and the neck of the Silver Sky was patterned after that vintage guitar. The Silver Sky may look like &#8220;just a Strat&#8221; to most people, but there are differences where it counts. Let&#8217;s take a look at the specs of the PRS SE Silver Sky:</p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>The neck feels like a vintage Strat, with maybe a<em> little bit</em> more of a chunky feeling. The frets have a &#8220;narrow tall&#8221; feel to them, and are a <em>smidgen</em> thicker than a Fender. Something about the neck that may take getting used to is the radius. Sitting at 8.5&#8221;, the fretboard has slightly more curve than a Fender. This means that super-low action is not going to work. But the action was set from the factory <em>relatively</em> low, and it was easy to play. This neck is easier to play than my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="48998"><strong>Schecter NJ</strong></a>, which is saying a lot!</p>
+<p>The neck feels like a vintage Strat, with maybe a<em> little bit</em> more of a chunky feeling. The frets have a &#8220;narrow tall&#8221; feel to them, and are a <em>smidgen</em> thicker than a Fender. Something about the neck that may take getting used to is the radius. Sitting at 8.5&#8221;, the fretboard has slightly more curve than a Fender. This means that super-low action is not going to work. But the action was set from the factory <em>relatively</em> low, and it was easy to play. This neck is easier to play than my <a href="/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="48998"><strong>Schecter NJ</strong></a>, which is saying a lot!</p>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<p>Unlike most Strat style guitars, the PRS Silver Sky pickups are all three <em>identical</em>. This is a little weird for a 3 <a href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206360">single coil guitar</a>. Usually the middle and bridge pickups have different output values, and different model numbers. But the Silver Sky uses the same pickup, just in 3 different positions. This gives you a balanced tone across all 5<em> switch</em> positions.</p>
+<p>Unlike most Strat style guitars, the PRS Silver Sky pickups are all three <em>identical</em>. This is a little weird for a 3 <a href="/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206360">single coil guitar</a>. Usually the middle and bridge pickups have different output values, and different model numbers. But the Silver Sky uses the same pickup, just in 3 different positions. This gives you a balanced tone across all 5<em> switch</em> positions.</p>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<p>As I said at the beginning, I got to try both of these guitars<em> together</em>. I was plugged into a Fender Twin, and I had a <a href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" target="_blank" data-type="post" data-id="2863" rel="noopener" data-lasso-id="48999"><strong>BOSS Blues Driver</strong></a> in front of the amp. I did not change the settings once I had them dialed in for the USA Silver Sky. I tried to make the comparison as fair as possible. The results I got, were <em>incredibly</em> surprising.</p>
+<p>As I said at the beginning, I got to try both of these guitars<em> together</em>. I was plugged into a Fender Twin, and I had a <a href="/the-best-guitar-pedals-1968-2021/" target="_blank" data-type="post" data-id="2863" rel="noopener" data-lasso-id="48999"><strong>BOSS Blues Driver</strong></a> in front of the amp. I did not change the settings once I had them dialed in for the USA Silver Sky. I tried to make the comparison as fair as possible. The results I got, were <em>incredibly</em> surprising.</p>
 
 
 
@@ -212,11 +212,11 @@ seo:
 
 
 
-<p>Like I said, I wish I had something to complain about when it comes to this guitar. Even if it were just something small to nitpick about, I would feel better. I hold PRS up to a seriously high standard. Hell, I used to be a PRS player! I never owned an SE model, since both of mine were USA models. They were some of the best guitars I ever played, and the attention to detail was absolutely insane. I only <a href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125524">moved to Schecter</a> because it suits my style better.</p>
+<p>Like I said, I wish I had something to complain about when it comes to this guitar. Even if it were just something small to nitpick about, I would feel better. I hold PRS up to a seriously high standard. Hell, I used to be a PRS player! I never owned an SE model, since both of mine were USA models. They were some of the best guitars I ever played, and the attention to detail was absolutely insane. I only <a href="/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125524">moved to Schecter</a> because it suits my style better.</p>
 
 
 
-<p>If you told me that this was an American PRS, and let me play it, I would believe you. This is a seriously high quality guitar, and I cant believe that it&#8217;s under $1000. In fact, this is priced right at $850. Just like the <a href="https://www.electrikjam.com/https-guitar-center-pxf-io-rnrged/" target="_blank" data-type="lasso-urls" data-id="6075" rel="nofollow sponsored noopener" data-lasso-id="49000" data-lasso-name="Fender Player Series HSS"><strong>Fender Playe</strong>r</a> Series. I don&#8217;t think for one second that this pricing is on accident. This is made to compete with MIM Fender guitars, <em><strong>and it will.</strong></em> Let me also say this, since things are <a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" target="_blank" data-type="post" data-id="6404" rel="noopener" data-lasso-id="49001"><strong>not normal</strong></a> in the world:</p>
+<p>If you told me that this was an American PRS, and let me play it, I would believe you. This is a seriously high quality guitar, and I cant believe that it&#8217;s under $1000. In fact, this is priced right at $850. Just like the <a href="/https-guitar-center-pxf-io-rnrged/" target="_blank" data-type="lasso-urls" data-id="6075" rel="nofollow sponsored noopener" data-lasso-id="49000" data-lasso-name="Fender Player Series HSS"><strong>Fender Playe</strong>r</a> Series. I don&#8217;t think for one second that this pricing is on accident. This is made to compete with MIM Fender guitars, <em><strong>and it will.</strong></em> Let me also say this, since things are <a href="/guitar-prices-going-up-in-2022/" target="_blank" data-type="post" data-id="6404" rel="noopener" data-lasso-id="49001"><strong>not normal</strong></a> in the world:</p>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<p>Congrats to PRS. John and Paul Reed Smith knocked it out of the park yet again. This is a really great deal if you are in the market for a Strat Style guitar, and Fender just doesn&#8217;t cut it for you. If you want one, <strong>I would go ahead and order it <a href="https://www.electrikjam.com/guitar-center-pxf-io-n1aexr/" target="_blank" data-type="lasso-urls" data-id="6552" rel="nofollow sponsored noopener" data-lasso-id="49002" data-lasso-name="PRS SE Silver Sky">NOW.</a></strong></p>
+<p>Congrats to PRS. John and Paul Reed Smith knocked it out of the park yet again. This is a really great deal if you are in the market for a Strat Style guitar, and Fender just doesn&#8217;t cut it for you. If you want one, <strong>I would go ahead and order it <a href="/guitar-center-pxf-io-n1aexr/" target="_blank" data-type="lasso-urls" data-id="6552" rel="nofollow sponsored noopener" data-lasso-id="49002" data-lasso-name="PRS SE Silver Sky">NOW.</a></strong></p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

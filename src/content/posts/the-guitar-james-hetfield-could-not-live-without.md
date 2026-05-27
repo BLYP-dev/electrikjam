@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>James Hetfield has A LOT of guitars. In terms of sheer numbers, the current roster of guitars used by Hetfield probably costs in the region of a few hundred thousand dollars. <strong><a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="91747">Hetfield even has his own signature pickups</a></strong> these days too. </p>
+<p>James Hetfield has A LOT of guitars. In terms of sheer numbers, the current roster of guitars used by Hetfield probably costs in the region of a few hundred thousand dollars. <strong><a href="/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="91747">Hetfield even has his own signature pickups</a></strong> these days too. </p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>Since the late-1980s, Papa Het has been onboard the good ship ESP, following his acrimonious split from Gibson. Since then, Hetfield has released a string of signature ESP models, had a load of custom models made based on his exact specifications, and even had ESP made him Explorer and Les Paul style guitars, all outfitted with his <strong><a href="https://www.electrikjam.com/emg-jh-set-pickups/" data-type="lasso-urls" data-id="7088" data-lasso-id="91748" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="EMG JH James Hetfield Humbucker Set">signature EMG Het Set pickups</a></strong>.</p>
+<p>Since the late-1980s, Papa Het has been onboard the good ship ESP, following his acrimonious split from Gibson. Since then, Hetfield has released a string of signature ESP models, had a load of custom models made based on his exact specifications, and even had ESP made him Explorer and Les Paul style guitars, all outfitted with his <strong><a href="/emg-jh-set-pickups/" data-type="lasso-urls" data-id="7088" data-lasso-id="91748" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="EMG JH James Hetfield Humbucker Set">signature EMG Het Set pickups</a></strong>.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>Looking back at James Hetfield’s arsenal of guitars – and it really is an arsenal – a couple of things really stand out to me. First, Hetfield is <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104014">100% committed to ESP</a>. Nearly all of his most-used <a href="https://www.electrikjam.com/where-guitars-are-made-2022/" data-lasso-id="145495">guitars are made</a> by ESP. Second, he tends to favor Les Paul, Explorer, and Fly V-style designs. Watch any live Metallica performance from the last 10 years – he only ever uses these styles.</p>
+<p>Looking back at James Hetfield’s arsenal of guitars – and it really is an arsenal – a couple of things really stand out to me. First, Hetfield is <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104014">100% committed to ESP</a>. Nearly all of his most-used <a href="/where-guitars-are-made-2022/" data-lasso-id="145495">guitars are made</a> by ESP. Second, he tends to favor Les Paul, Explorer, and Fly V-style designs. Watch any live Metallica performance from the last 10 years – he only ever uses these styles.</p>
 
 
 
@@ -88,11 +88,11 @@ seo:
 
 
 
-<p>Hetfield isn’t alone in his love for the Flying V-style design. <strong><a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="91750">Mastodon’s Brent Hinds</a></strong> is also a huge fan of Flying V-style guitars. As was Randy Rhodes. You don’t see that many Flying V-style guitars used much these days, so it is nice to see Hetfield keeping the classic design alive and kicking.</p>
+<p>Hetfield isn’t alone in his love for the Flying V-style design. <strong><a href="/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="91750">Mastodon’s Brent Hinds</a></strong> is also a huge fan of Flying V-style guitars. As was Randy Rhodes. You don’t see that many Flying V-style guitars used much these days, so it is nice to see Hetfield keeping the classic design alive and kicking.</p>
 
 
 
-<p>And <strong><a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="91751">Hetfield’s bromance with Ghost</a></strong>, and the fact that Ghost are big fans of Metallica, seems to have informed the band’s choice of guitars as well. <strong><a href="https://www.electrikjam.com/what-guitars-do-ghost-use-a-ghoulish-guide/" data-type="post" data-id="7274" data-lasso-id="91752">Ghost use Explorer-style guitars</a></strong>, either from Gibson or Hagstrom, when playing live, and have done since the beginning. From 2016 onwards, Ghost tends to use Hagström Fantomen Custom guitars <strong><a href="https://www.electrikjam.com/hagstrom-fantomen-guitar/" data-type="lasso-urls" data-id="7276" data-lasso-id="91753" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Hagstrom Fantomen Electric Guitar">(and they are truly a thing of beauty)</a></strong>.</p>
+<p>And <strong><a href="/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="91751">Hetfield’s bromance with Ghost</a></strong>, and the fact that Ghost are big fans of Metallica, seems to have informed the band’s choice of guitars as well. <strong><a href="/what-guitars-do-ghost-use-a-ghoulish-guide/" data-type="post" data-id="7274" data-lasso-id="91752">Ghost use Explorer-style guitars</a></strong>, either from Gibson or Hagstrom, when playing live, and have done since the beginning. From 2016 onwards, Ghost tends to use Hagström Fantomen Custom guitars <strong><a href="/hagstrom-fantomen-guitar/" data-type="lasso-urls" data-id="7276" data-lasso-id="91753" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Hagstrom Fantomen Electric Guitar">(and they are truly a thing of beauty)</a></strong>.</p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong><a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="91754">What Pickups Does James Hetfield Use?</a></strong></li><li><strong><a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="91755">What Pick Does James Hetfield Use?</a></strong></li><li><strong><a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="91756">Metallica Guitar Tuning: A Guide – 1980 to 2022</a></strong></li><li><strong><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="91757">15 Guitarists That Use Axe FX</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong><a href="/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="91754">What Pickups Does James Hetfield Use?</a></strong></li><li><strong><a href="/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="91755">What Pick Does James Hetfield Use?</a></strong></li><li><strong><a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="91756">Metallica Guitar Tuning: A Guide – 1980 to 2022</a></strong></li><li><strong><a href="/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="91757">15 Guitarists That Use Axe FX</a></strong></li></ul>
 
 
 

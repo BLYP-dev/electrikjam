@@ -49,11 +49,11 @@ seo:
 
 
 
-<p>After all, it is now harder than ever to spot a fake Fender – <strong><a href="https://www.electrikjam.com/what-are-chibson-guitars/" data-type="post" data-id="2746" data-lasso-id="258767">or a Chibson for that matter</a></strong>. If it looks odd or doesn&#8217;t quite sound right, you could have a duck on your hands. </p>
+<p>After all, it is now harder than ever to spot a fake Fender – <strong><a href="/what-are-chibson-guitars/" data-type="post" data-id="2746" data-lasso-id="258767">or a Chibson for that matter</a></strong>. If it looks odd or doesn&#8217;t quite sound right, you could have a duck on your hands. </p>
 
 
 
-<p>The only way to be sure if your <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="258768">Fender Stratocaster</a></strong> is real is to run through the checks listed out below. </p>
+<p>The only way to be sure if your <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="258768">Fender Stratocaster</a></strong> is real is to run through the checks listed out below. </p>
 
 
 
@@ -269,23 +269,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="258769">Fender Stratocaster Review</a></strong></li>
+<li><strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="258769">Fender Stratocaster Review</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="258770">Fender Telecaster Review</a></strong></li>
+<li><strong><a href="/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="258770">Fender Telecaster Review</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="258771">Fender Meteora Review</a></strong></li>
+<li><strong><a href="/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="258771">Fender Meteora Review</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-meteora-vs-fender-telecaster-which-is-best/" data-type="post" data-id="12761" data-lasso-id="258772">Fender Meteora vs Fender Telecaster: Which Is Best?</a></strong></li>
+<li><strong><a href="/fender-meteora-vs-fender-telecaster-which-is-best/" data-type="post" data-id="12761" data-lasso-id="258772">Fender Meteora vs Fender Telecaster: Which Is Best?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="258773">Telecaster vs Jazzmaster: History, Legacy &amp; Differences Compared</a></strong></li>
+<li><strong><a href="/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="258773">Telecaster vs Jazzmaster: History, Legacy &amp; Differences Compared</a></strong></li>
 </ul>
 
 
@@ -295,23 +295,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/how-to-set-up-fender-meteora/" data-type="post" data-id="12751" data-lasso-id="258774">How to Set Up Fender Meteora: Pro Tips &amp; Tricks</a></strong></li>
+<li><strong><a href="/how-to-set-up-fender-meteora/" data-type="post" data-id="12751" data-lasso-id="258774">How to Set Up Fender Meteora: Pro Tips &amp; Tricks</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-stratocaster-price-guide/" data-type="post" data-id="10939" data-lasso-id="258775">Fender Stratocaster Price Guide: All Models &amp; Series Compared</a></strong></li>
+<li><strong><a href="/fender-stratocaster-price-guide/" data-type="post" data-id="10939" data-lasso-id="258775">Fender Stratocaster Price Guide: All Models &amp; Series Compared</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="258776">Fender Player Stratocaster Pickups: A Complete Guide…</a></strong></li>
+<li><strong><a href="/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="258776">Fender Player Stratocaster Pickups: A Complete Guide…</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" data-lasso-id="258777">Fender Price Tiers Explained: All You Need To Know</a></strong></li>
+<li><strong><a href="/fender-price-tiers-explained/" data-type="post" data-id="7446" data-lasso-id="258777">Fender Price Tiers Explained: All You Need To Know</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="258778">The Best Fender Guitars For Metal</a></strong></li>
+<li><strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="258778">The Best Fender Guitars For Metal</a></strong></li>
 </ul>
 </div></div>
 

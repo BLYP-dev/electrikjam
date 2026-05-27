@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>So you&#8217;ve got your hands on a <strong><a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="249943">Fender Meteora</a></strong>, a guitar that&#8217;s as unique in design as it is in sound. But before you dive into those riffs and solos, you&#8217;ll want to make sure it&#8217;s set up correctly. </p>
+<p>So you&#8217;ve got your hands on a <strong><a href="/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="249943">Fender Meteora</a></strong>, a guitar that&#8217;s as unique in design as it is in sound. But before you dive into those riffs and solos, you&#8217;ll want to make sure it&#8217;s set up correctly. </p>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<p>And, as noted <strong><a href="https://www.electrikjam.com/fender-meteora-vs-fender-telecaster-which-is-best/" data-lasso-id="250049">inside our Tele vs Meteora guide</a></strong>, the Fender Meteora isn&#8217;t without its QC issues, so getting acquainted with guitar maintenance, if you own a Meteora, is probably a worthwhile investment of your time. </p>
+<p>And, as noted <strong><a href="/fender-meteora-vs-fender-telecaster-which-is-best/" data-lasso-id="250049">inside our Tele vs Meteora guide</a></strong>, the Fender Meteora isn&#8217;t without its QC issues, so getting acquainted with guitar maintenance, if you own a Meteora, is probably a worthwhile investment of your time. </p>
 
 
 

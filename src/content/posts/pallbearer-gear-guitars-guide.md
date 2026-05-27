@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>But Pallbearer’s guitar tone was what set them apart from the crowd right from the get-go; it sounded amazing, and also completely unique. The band effortlessly blends elements of folk, doom, metal, and even prog together with a deftness you seldom come across much these days, with obvious exceptions like with <strong><a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="106787">bands like Yob</a></strong>.</p>
+<p>But Pallbearer’s guitar tone was what set them apart from the crowd right from the get-go; it sounded amazing, and also completely unique. The band effortlessly blends elements of folk, doom, metal, and even prog together with a deftness you seldom come across much these days, with obvious exceptions like with <strong><a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="106787">bands like Yob</a></strong>.</p>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong><a data-lasso-id="106788" data-lasso-name="PRS S2 Vela" href="https://www.electrikjam.com/prs-s2-vela-link/" data-type="lasso-urls" data-id="7903" target="_blank" rel="nofollow sponsored noopener">PRS S2 Vela</a> –</strong>&nbsp;Campbell has stated in interviews that he uses his two PRS guitars most for recording and when playing live. The guitars you hear on each of the band’s records will either be his <a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="234005">PRS S2 Vela or his PRS SE 277 Semi-Hollow Soapbar Baritone</a>. Loaded with a PRS-designed DS-01 humbucker and the Type-D Single coil in the bass pickup position, the S2 Vela has an incredibly bright and punchy tone, hence why Campbell loves and uses his so much.</li><li><strong><a data-lasso-id="106789" data-lasso-name="PRS SE 277 Baritone" href="https://www.electrikjam.com/prs-se-277-baritone-link/" data-type="lasso-urls" data-id="7905" target="_blank" rel="nofollow sponsored noopener">PRS SE 277 Semi-Hollow Soapbar Baritone</a> –</strong> The PRS SE 277 Semi-Hollow is an affordable (under $800) guitar that runs 2x PRS SE Soapbar pickups and features a rosewood fingerboard and a chambered mahogany body. For overall tone, this guitar is most likely largely responsible for Pallbearer’s earthy, huge guitar one. Semi-hollow guitars, when set up correctly, sound incredible.</li><li><strong><a data-lasso-id="106790" data-lasso-name="Epiphone Les Paul Custom" href="https://www.electrikjam.com/epiphone-les-paul-custom-link/" data-type="lasso-urls" data-id="4261" target="_blank" rel="nofollow noopener">Gibson Les Paul Custom</a> –</strong>&nbsp;When it comes to doom metal, and rock and metal music in general, the Gibson Les Paul Custom is about as common as fuzz pedals and high gain amps. Campbell has stated that he used his buddy Jordan Wagner’s 1978 Gibson Les Paul Custom silverburst for a few days during a recording session. He apparently loved its pickups, saying they have a proper “bark” to them.</li></ul>
+<ul class="wp-block-list"><li><strong><a data-lasso-id="106788" data-lasso-name="PRS S2 Vela" href="/prs-s2-vela-link/" data-type="lasso-urls" data-id="7903" target="_blank" rel="nofollow sponsored noopener">PRS S2 Vela</a> –</strong>&nbsp;Campbell has stated in interviews that he uses his two PRS guitars most for recording and when playing live. The guitars you hear on each of the band’s records will either be his <a href="/best-baritone-guitars-for-metal/" data-lasso-id="234005">PRS S2 Vela or his PRS SE 277 Semi-Hollow Soapbar Baritone</a>. Loaded with a PRS-designed DS-01 humbucker and the Type-D Single coil in the bass pickup position, the S2 Vela has an incredibly bright and punchy tone, hence why Campbell loves and uses his so much.</li><li><strong><a data-lasso-id="106789" data-lasso-name="PRS SE 277 Baritone" href="/prs-se-277-baritone-link/" data-type="lasso-urls" data-id="7905" target="_blank" rel="nofollow sponsored noopener">PRS SE 277 Semi-Hollow Soapbar Baritone</a> –</strong> The PRS SE 277 Semi-Hollow is an affordable (under $800) guitar that runs 2x PRS SE Soapbar pickups and features a rosewood fingerboard and a chambered mahogany body. For overall tone, this guitar is most likely largely responsible for Pallbearer’s earthy, huge guitar one. Semi-hollow guitars, when set up correctly, sound incredible.</li><li><strong><a data-lasso-id="106790" data-lasso-name="Epiphone Les Paul Custom" href="/epiphone-les-paul-custom-link/" data-type="lasso-urls" data-id="4261" target="_blank" rel="nofollow noopener">Gibson Les Paul Custom</a> –</strong>&nbsp;When it comes to doom metal, and rock and metal music in general, the Gibson Les Paul Custom is about as common as fuzz pedals and high gain amps. Campbell has stated that he used his buddy Jordan Wagner’s 1978 Gibson Les Paul Custom silverburst for a few days during a recording session. He apparently loved its pickups, saying they have a proper “bark” to them.</li></ul>
 
 
 
@@ -92,11 +92,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251943">Campbell started using a 7-string guitar</a> in and around 2017. According to Campbell, the reason for this was that he tends to learn, practice, and play in standard, so he needed a guitar that was essentially tuned to standard but also had a LOW 7th string for going into “Pallbearer” rhythm mode.</p>
+<p><a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251943">Campbell started using a 7-string guitar</a> in and around 2017. According to Campbell, the reason for this was that he tends to learn, practice, and play in standard, so he needed a guitar that was essentially tuned to standard but also had a LOW 7th string for going into “Pallbearer” rhythm mode.</p>
 
 
 
-<p>When using a 7-string guitar, he uses one made by ESP, Campbell has it tuned <strong>AEADGBE</strong>, while Pallbearer’s other guitarist, Devin Holt, is tuned down to Drop A which is A–E–A–D–F#–B. The guitar tuning <strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="106791">AEADGBE</a></strong> is essentially standard tuning for a 7-string, just with the addition of a low A string. </p>
+<p>When using a 7-string guitar, he uses one made by ESP, Campbell has it tuned <strong>AEADGBE</strong>, while Pallbearer’s other guitarist, Devin Holt, is tuned down to Drop A which is A–E–A–D–F#–B. The guitar tuning <strong><a href="/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="106791">AEADGBE</a></strong> is essentially standard tuning for a 7-string, just with the addition of a low A string. </p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>Campbell is also a big fan of OWNING his tone as well. If you’re in the studio, for instance, and you have access to loads of exotic amps and cabinets, you can create truly amazing sounds. But if you cannot recreate this live what’s the point? Campbell likes to be able to create as much of his <a href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" data-lasso-id="202453">guitar sound</a> live as possible.</p>
+<p>Campbell is also a big fan of OWNING his tone as well. If you’re in the studio, for instance, and you have access to loads of exotic amps and cabinets, you can create truly amazing sounds. But if you cannot recreate this live what’s the point? Campbell likes to be able to create as much of his <a href="/best-acoustic-guitars-for-metal/" data-lasso-id="202453">guitar sound</a> live as possible.</p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>As noted in the intro to this post, Campbell’s main guitar is a <strong><a href="https://www.electrikjam.com/prs-s2-vela-link/" data-type="lasso-urls" data-id="7903" data-lasso-id="106793" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="PRS S2 Vela">PRS S2 Vela</a></strong>. This is a pricey model. But the sound quality, build material, and pickups are utterly brilliant. If you’re looking to spend in the region of $1200 on a guitar, the PRS S2 Vela is a brilliant option. <strong><a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" data-lasso-id="106794">John Mayer left Fender for PRS too</a></strong>, so that should tell you everything you need to know about just how good PRS guitars are. </p>
+<p>As noted in the intro to this post, Campbell’s main guitar is a <strong><a href="/prs-s2-vela-link/" data-type="lasso-urls" data-id="7903" data-lasso-id="106793" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="PRS S2 Vela">PRS S2 Vela</a></strong>. This is a pricey model. But the sound quality, build material, and pickups are utterly brilliant. If you’re looking to spend in the region of $1200 on a guitar, the PRS S2 Vela is a brilliant option. <strong><a href="/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" data-lasso-id="106794">John Mayer left Fender for PRS too</a></strong>, so that should tell you everything you need to know about just how good PRS guitars are. </p>
 
 
 
@@ -156,5 +156,5 @@ seo:
 
 
 
-<p>And if you’re more into baritone guitars, Campbell’s PRS SE 277 Semi-Hollow Soapbar Baritone is <strong><a href="https://www.electrikjam.com/prs-se-277-baritone-link/" data-type="lasso-urls" data-id="7905" data-lasso-id="106795" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="PRS SE 277 Baritone">actually rather affordable</a></strong> for a PRS model. You can pick one up for in and around 800 bucks which, for a semi-hollow PRS, is a damn good price. And this thing will really sing as well. It might just be one of our favorite baritone guitars on the market right now for its overall tone and looks.</p>
+<p>And if you’re more into baritone guitars, Campbell’s PRS SE 277 Semi-Hollow Soapbar Baritone is <strong><a href="/prs-se-277-baritone-link/" data-type="lasso-urls" data-id="7905" data-lasso-id="106795" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="PRS SE 277 Baritone">actually rather affordable</a></strong> for a PRS model. You can pick one up for in and around 800 bucks which, for a semi-hollow PRS, is a damn good price. And this thing will really sing as well. It might just be one of our favorite baritone guitars on the market right now for its overall tone and looks.</p>
 

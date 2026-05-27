@@ -33,7 +33,7 @@ seo:
 
 
 
-<p><strong>We have been taking a look at Harley Benton Guitars lately, and seeing what the <a href="https://www.electrikjam.com/best-budget-guitars/" data-lasso-id="37752">budget guitar brand</a> has to offer. How is the flagship Harley Benton DNAfx? Today we take a look, and see if it&#8217;s worth it.</strong></p>
+<p><strong>We have been taking a look at Harley Benton Guitars lately, and seeing what the <a href="/best-budget-guitars/" data-lasso-id="37752">budget guitar brand</a> has to offer. How is the flagship Harley Benton DNAfx? Today we take a look, and see if it&#8217;s worth it.</strong></p>
 
 
 
@@ -45,15 +45,15 @@ seo:
 
 
 
-<p>We have tried out the <a data-lasso-id="26163" href="https://www.electrikjam.com/electrikjam-link/" target="_blank" data-type="post" data-id="5767" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"><strong>Fusion Series</strong></a>, and the new <a data-lasso-id="26164" href="https://www.electrikjam.com/harley-benton-amarok-review/" target="_blank" data-type="post" data-id="5842" rel="noopener"><strong>Amarok</strong></a> guitars. Much to our surprise, these were not just cheap knockoffs of better instruments. They were well made, and the Amarok could easily be a<strong> <a data-lasso-id="26165" href="https://www.electrikjam.com/guitar-tone-guide-tips-tricks-beginners/" target="_blank" data-type="post" data-id="568" rel="noopener">professional</a></strong> instrument for a guitarist on a budget.</p>
+<p>We have tried out the <a data-lasso-id="26163" href="/electrikjam-link/" target="_blank" data-type="post" data-id="5767" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB"><strong>Fusion Series</strong></a>, and the new <a data-lasso-id="26164" href="/harley-benton-amarok-review/" target="_blank" data-type="post" data-id="5842" rel="noopener"><strong>Amarok</strong></a> guitars. Much to our surprise, these were not just cheap knockoffs of better instruments. They were well made, and the Amarok could easily be a<strong> <a data-lasso-id="26165" href="/guitar-tone-guide-tips-tricks-beginners/" target="_blank" data-type="post" data-id="568" rel="noopener">professional</a></strong> instrument for a guitarist on a budget.</p>
 
 
 
-<p>So the nice people at <a data-lasso-id="26166" href="https://www.thomannmusic.com/" target="_blank" rel="noopener noreferrer nofollow"><strong>Thomann Music</strong></a> actually have <em>all kinds</em> of Harley Benton products geared towards musicians, that range from cables and accessories, to amplifiers and pedals. The <strong><a data-lasso-id="227733" href="https://www.electrikjam.com/new-harley-benton-25th-anniversary-guitars/">Harley Benton</a> DNAfx </strong>is the company&#8217;s first attempt at making a full range FX unit. Now I can&#8217;t imagine this will rival something like the <a data-lasso-id="26167" href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"><strong>Helix</strong></a>, at such a low, budget price. But I have been wrong about <a data-lasso-id="235137" href="https://www.electrikjam.com/harley-benton-dc-fat-p90-guitars-review/">Harley Benton</a> before!</p>
+<p>So the nice people at <a data-lasso-id="26166" href="https://www.thomannmusic.com/" target="_blank" rel="noopener noreferrer nofollow"><strong>Thomann Music</strong></a> actually have <em>all kinds</em> of Harley Benton products geared towards musicians, that range from cables and accessories, to amplifiers and pedals. The <strong><a data-lasso-id="227733" href="/new-harley-benton-25th-anniversary-guitars/">Harley Benton</a> DNAfx </strong>is the company&#8217;s first attempt at making a full range FX unit. Now I can&#8217;t imagine this will rival something like the <a data-lasso-id="26167" href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"><strong>Helix</strong></a>, at such a low, budget price. But I have been wrong about <a data-lasso-id="235137" href="/harley-benton-dc-fat-p90-guitars-review/">Harley Benton</a> before!</p>
 
 
 
-<p>Today we are going to take a look at the Harley Benton DNAfx, and see how it stacks up to other models in it&#8217;s price range. I imagine this will be something like the<strong> <a href="https://www.electrikjam.com/we-need-to-talk-about-the-gtrs-intelligent-guitar/" target="_blank" data-type="post" data-id="3491" rel="noopener" data-lasso-id="26168">MOOER</a></strong> products, but we won&#8217;t know until we really dig in to all of the features. So sit back, grab your favorite beverage, and let&#8217;s take a look at this Harley Benton DNAfx unit.</p>
+<p>Today we are going to take a look at the Harley Benton DNAfx, and see how it stacks up to other models in it&#8217;s price range. I imagine this will be something like the<strong> <a href="/we-need-to-talk-about-the-gtrs-intelligent-guitar/" target="_blank" data-type="post" data-id="3491" rel="noopener" data-lasso-id="26168">MOOER</a></strong> products, but we won&#8217;t know until we really dig in to all of the features. So sit back, grab your favorite beverage, and let&#8217;s take a look at this Harley Benton DNAfx unit.</p>
 
 
 
@@ -69,11 +69,11 @@ seo:
 
 
 
-<p>I think that sometimes with <a data-lasso-id="94400" href="https://www.electrikjam.com/boss-gx-100-review/">effects</a> units, simplicity is key. I was a huge fan of the <a data-lasso-id="26169" href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener"><strong>HX Stomp</strong></a> because it was so small and easy to use for desktop recording, and adding to your existing FX loop for gigs. </p>
+<p>I think that sometimes with <a data-lasso-id="94400" href="/boss-gx-100-review/">effects</a> units, simplicity is key. I was a huge fan of the <a data-lasso-id="26169" href="/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener"><strong>HX Stomp</strong></a> because it was so small and easy to use for desktop recording, and adding to your existing FX loop for gigs. </p>
 
 
 
-<p>It looks like the Harley Benton DNAfx has taken some cues from<a data-lasso-id="26170" href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"><strong>Line 6</strong> </a>when it comes to being compact, and user friendly. This can work as a floor unit, but also doesn&#8217;t take up much desk space if you are recording.</p>
+<p>It looks like the Harley Benton DNAfx has taken some cues from<a data-lasso-id="26170" href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"><strong>Line 6</strong> </a>when it comes to being compact, and user friendly. This can work as a floor unit, but also doesn&#8217;t take up much desk space if you are recording.</p>
 
 
 
@@ -195,7 +195,7 @@ seo:
 
 
 
-<p>There are tons of amplifier models (55 to be exact) and they range from pristine clean, to straight up shred. There are typical Marshall and <a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="26178">Fender</a> models, with a few high gain emulations. The cool thing about the <a href="https://www.electrikjam.com/nux-mighty-amps-review/" data-lasso-id="159874">amp models</a>, is that you can change the entire amp if you want. There is a setting where you can go through the EQ and volume controls like a regular amp. But you can even change out what kind of tube setup the amp is using. Do you want a Metal amp with EL34 preamp tubes? You can do it!</p>
+<p>There are tons of amplifier models (55 to be exact) and they range from pristine clean, to straight up shred. There are typical Marshall and <a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="26178">Fender</a> models, with a few high gain emulations. The cool thing about the <a href="/nux-mighty-amps-review/" data-lasso-id="159874">amp models</a>, is that you can change the entire amp if you want. There is a setting where you can go through the EQ and volume controls like a regular amp. But you can even change out what kind of tube setup the amp is using. Do you want a Metal amp with EL34 preamp tubes? You can do it!</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p>The expression <a href="https://www.electrikjam.com/blackstar-dept-10-review/" data-lasso-id="200818">pedal is programmable</a> for each patch. So you can make the pedal control just about any effect value you want. It also acts as a volume pedal by default, and this works great with the high gain sounds, as you can bring the gain down quickly with the pedal. The Harley Benton DNAfx expression pedal is aluminum, so if you kick it on for a wah wah controlled solo, it can take the beating.</p>
+<p>The expression <a href="/blackstar-dept-10-review/" data-lasso-id="200818">pedal is programmable</a> for each patch. So you can make the pedal control just about any effect value you want. It also acts as a volume pedal by default, and this works great with the high gain sounds, as you can bring the gain down quickly with the pedal. The Harley Benton DNAfx expression pedal is aluminum, so if you kick it on for a wah wah controlled solo, it can take the beating.</p>
 
 
 
@@ -227,11 +227,11 @@ seo:
 
 
 
-<p>The built-in drum machine is okay. It certainly doesn&#8217;t blow me away, but I honestly don&#8217;t think that is what it&#8217;s for. I think it is meant to be used a writing tool. <a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104745">Once you have a drum beat set</a>, you can then write a riff over the drums, and loop it. Once you have a loop going, you can come up with a melody or <a href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206361">guitar solo</a>! But if you expect to use the Harley Benton DNAfx drum machine live, you&#8217;re going to be <em>very</em> disappointed.</p>
+<p>The built-in drum machine is okay. It certainly doesn&#8217;t blow me away, but I honestly don&#8217;t think that is what it&#8217;s for. I think it is meant to be used a writing tool. <a href="/ezdrummer-2-worth-it/" data-lasso-id="104745">Once you have a drum beat set</a>, you can then write a riff over the drums, and loop it. Once you have a loop going, you can come up with a melody or <a href="/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206361">guitar solo</a>! But if you expect to use the Harley Benton DNAfx drum machine live, you&#8217;re going to be <em>very</em> disappointed.</p>
 
 
 
-<p>The unit works amazingly with an FRFR cabinet, and there is even a special deal at Thomann that sells the pedal and the FRFR cab as a <a href="https://www.electrikjam.com/https-electrikjam-com-recommends-harley-benton-dnafx-with-frfr-cab/" target="_blank" data-type="lasso-urls" data-id="5928" rel="nofollow sponsored noopener" data-lasso-id="26171" data-lasso-name="Harley Benton DNAfx GiT Bundle"><strong>package deal </strong></a>for<em> $414.00</em>. This is a crazy deal for a fully functional live setup. If you only have a few tones that you need live, this is the perfect solution. You only have the simple up and down buttons on the unit, so if you program it correctly you could easily pull off a show with this rig. Alternatively, you could also add this to your <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="26172"><strong>pedalboar</strong></a><strong><a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="26173">d</a>.</strong></p>
+<p>The unit works amazingly with an FRFR cabinet, and there is even a special deal at Thomann that sells the pedal and the FRFR cab as a <a href="/https-electrikjam-com-recommends-harley-benton-dnafx-with-frfr-cab/" target="_blank" data-type="lasso-urls" data-id="5928" rel="nofollow sponsored noopener" data-lasso-id="26171" data-lasso-name="Harley Benton DNAfx GiT Bundle"><strong>package deal </strong></a>for<em> $414.00</em>. This is a crazy deal for a fully functional live setup. If you only have a few tones that you need live, this is the perfect solution. You only have the simple up and down buttons on the unit, so if you program it correctly you could easily pull off a show with this rig. Alternatively, you could also add this to your <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="26172"><strong>pedalboar</strong></a><strong><a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="26173">d</a>.</strong></p>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<p>Technology is crazy these days, and I would&#8217;ve killed for something like the Harley Benton DNAfx unit when I was just getting good at guitar. And for such a <a href="https://www.electrikjam.com/https-electrikjam-com-recommends-harley-benton-dnafx-processor/" target="_blank" data-type="lasso-urls" data-id="5932" rel="nofollow sponsored noopener" data-lasso-id="26174" data-lasso-name="Harley Benton DNAfx"><strong>low price</strong></a>, this thing is a steal. It could be a great addition to your existing live rig, or even take the place of a bigger live rig with the addition of an <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="26175"><strong>FRFR </strong></a>cabinet. A lot of these sounds really blew me away, and I am pretty hard to impress when it comes to <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="26176"><strong>amp sims</strong></a>.</p>
+<p>Technology is crazy these days, and I would&#8217;ve killed for something like the Harley Benton DNAfx unit when I was just getting good at guitar. And for such a <a href="/https-electrikjam-com-recommends-harley-benton-dnafx-processor/" target="_blank" data-type="lasso-urls" data-id="5932" rel="nofollow sponsored noopener" data-lasso-id="26174" data-lasso-name="Harley Benton DNAfx"><strong>low price</strong></a>, this thing is a steal. It could be a great addition to your existing live rig, or even take the place of a bigger live rig with the addition of an <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="26175"><strong>FRFR </strong></a>cabinet. A lot of these sounds really blew me away, and I am pretty hard to impress when it comes to <a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="26176"><strong>amp sims</strong></a>.</p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/https-electrikjam-com-recommends-harley-benton-dnafx-pro/" data-lasso-id="29808" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton DNAfx GiT Pro">Harley Benton DNAfx is a great beginner&#8217;s processor</a>, but it can also be appreciated by pros on a tight budget. I always go into a review with a hint of skepticism, no matter what the product may be. But there are honestly some great tones to be had with this unit, with minimal effort. This is great as a compact practice/writing tool as well. Thomann just recently got a new batch of these in, so the time to buy is now!</p>
+<p>The <a href="/https-electrikjam-com-recommends-harley-benton-dnafx-pro/" data-lasso-id="29808" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton DNAfx GiT Pro">Harley Benton DNAfx is a great beginner&#8217;s processor</a>, but it can also be appreciated by pros on a tight budget. I always go into a review with a hint of skepticism, no matter what the product may be. But there are honestly some great tones to be had with this unit, with minimal effort. This is great as a compact practice/writing tool as well. Thomann just recently got a new batch of these in, so the time to buy is now!</p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

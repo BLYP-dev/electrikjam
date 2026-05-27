@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/fender-telecaster-thinline-guide-history/" data-type="post" data-id="13063" data-lasso-id="252076">Fender Telecaster Thinline</a></strong> does not get any way near the credit it deserves. For tones, there&#8217;s nothing else quite like it. You get that Tele twang with an added ocean of depth beneath it. That&#8217;s cool, right? I mean, WHO wouldn&#8217;t want that? </p>
+<p>The <strong><a href="/fender-telecaster-thinline-guide-history/" data-type="post" data-id="13063" data-lasso-id="252076">Fender Telecaster Thinline</a></strong> does not get any way near the credit it deserves. For tones, there&#8217;s nothing else quite like it. You get that Tele twang with an added ocean of depth beneath it. That&#8217;s cool, right? I mean, WHO wouldn&#8217;t want that? </p>
 
 
 

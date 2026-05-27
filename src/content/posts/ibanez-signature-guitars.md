@@ -806,7 +806,7 @@ seo:
 
 
 
-<p>Crafted in collaboration with Scott LePage of Living Colour, the <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255013">Ibanez KRYS model</a> is a chameleon in the guitar world.</p>
+<p>Crafted in collaboration with Scott LePage of Living Colour, the <a href="/ibanez-guitars/" data-lasso-id="255013">Ibanez KRYS model</a> is a chameleon in the guitar world.</p>
 
 
 
@@ -1899,10 +1899,10 @@ seo:
 
 
 
-<p>For those who want the Ibanez experience without the hefty price tag, <strong><a href="https://www.electrikjam.com/ibanez-grga120-gio-rga-series-electric-guitar-black-night-guitar-center/" data-type="lasso-urls" data-id="13242" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="255003" data-lasso-name="Ibanez GIO GRG20Z">the Ibanez Gio series</a></strong> is the go-to choice. </p>
+<p>For those who want the Ibanez experience without the hefty price tag, <strong><a href="/ibanez-grga120-gio-rga-series-electric-guitar-black-night-guitar-center/" data-type="lasso-urls" data-id="13242" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="255003" data-lasso-name="Ibanez GIO GRG20Z">the Ibanez Gio series</a></strong> is the go-to choice. </p>
 
 
 
-<p>These guitars are designed for players who demand quality and affordability. They offer a comfortable playing experience and <a href="https://www.electrikjam.com/ibanez-rg570/" data-lasso-id="258058">the classic Ibanez look</a>, making them ideal for beginners or those on a tight budget.</p>
+<p>These guitars are designed for players who demand quality and affordability. They offer a comfortable playing experience and <a href="/ibanez-rg570/" data-lasso-id="258058">the classic Ibanez look</a>, making them ideal for beginners or those on a tight budget.</p>
 </div></div>
 

@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>Positive Grid made waves in the music industry with its <strong><a href="https://www.electrikjam.com/is-spark-amp-worth-it/" data-type="post" data-id="1924" data-lasso-id="251112">Spark Amp</a></strong>, and now it is back with some new hardware: a 140W FRFR speaker called The Spark Cab.  </p>
+<p>Positive Grid made waves in the music industry with its <strong><a href="/is-spark-amp-worth-it/" data-type="post" data-id="1924" data-lasso-id="251112">Spark Amp</a></strong>, and now it is back with some new hardware: a 140W FRFR speaker called The Spark Cab.  </p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/best-frfr-speaker/" data-type="post" data-id="11014" data-lasso-id="251113">FRFR speakers are all the rage</a></strong> these days. But there are already plenty of established players in the market, ranging from Line 6 to Headrush to Kemper. Does the Spark Cab have the chops to slot itself in and capture some marketshare? </p>
+<p><strong><a href="/best-frfr-speaker/" data-type="post" data-id="11014" data-lasso-id="251113">FRFR speakers are all the rage</a></strong> these days. But there are already plenty of established players in the market, ranging from Line 6 to Headrush to Kemper. Does the Spark Cab have the chops to slot itself in and capture some marketshare? </p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>As someone that has a Spark Amp, I’m not really sure how these two things will go together. I mean, sure, the Cab is an FRFR speaker like the <strong><a href="https://www.electrikjam.com/line-6-catalyst-vs-boss-katana/" data-type="post" data-id="6934" data-lasso-id="251114">Line 6 and Headrush</a></strong>. </p>
+<p>As someone that has a Spark Amp, I’m not really sure how these two things will go together. I mean, sure, the Cab is an FRFR speaker like the <strong><a href="/line-6-catalyst-vs-boss-katana/" data-type="post" data-id="6934" data-lasso-id="251114">Line 6 and Headrush</a></strong>. </p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>Ironically, this was the initial thing that attracted me to the Spark Amp but after a solid 18 months of using it, I ended up <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="251115">switching to the Boss Katana 100W MK2. </a></strong></p>
+<p>Ironically, this was the initial thing that attracted me to the Spark Amp but after a solid 18 months of using it, I ended up <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="251115">switching to the Boss Katana 100W MK2. </a></strong></p>
 
 
 

@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>The first thing you should probably do is put down the guitar, and<a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" target="_blank" rel="noopener" data-lasso-id="168252"> <strong>read our article</strong></a> on how a Floyd Rose bridge actually works. This is simple physics, there is no mysticism going on here at all. A Floyd Rose bridge setup relies on a <strong>fulcrum lever system</strong>, but you <em>don&#8217;t need</em> an engineering degree to understand how it works. However, this can be <em>very</em> confusing for <strong>beginner guitarists</strong>!</p>
+<p>The first thing you should probably do is put down the guitar, and<a href="/floyd-rose-bridge-explained/" target="_blank" rel="noopener" data-lasso-id="168252"> <strong>read our article</strong></a> on how a Floyd Rose bridge actually works. This is simple physics, there is no mysticism going on here at all. A Floyd Rose bridge setup relies on a <strong>fulcrum lever system</strong>, but you <em>don&#8217;t need</em> an engineering degree to understand how it works. However, this can be <em>very</em> confusing for <strong>beginner guitarists</strong>!</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p><strong>Chances are, your Floyd Rose bridge setup was probably done at the factory, or the store that you bought your guitar from.</strong> Every company uses different brands and gauges of strings. For example, <a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="168238"><strong>Fender</strong></a> uses Bullet 9&#8217;s straight from the factory. <a data-lasso-id="167962" href="https://www.schecterguitars.com/" target="_blank" rel="noopener noreferrer nofollow"><strong>Schecter</strong></a> uses <a data-lasso-id="167963" data-lasso-name="Ernie Ball 3 String Set Pack" href="https://www.electrikjam.com/guitar-center-pxf-io-qnz1yq/" data-type="lasso-urls" data-id="5501" target="_blank" rel="nofollow sponsored noopener"><strong>Ernie Ball Regular Slinky</strong></a> <strong>10&#8217;s</strong> for their Floyd guitars. The best way to find out the gauge and brand is to check the &#8220;official&#8221; site for your guitar brand.</p>
+<p><strong>Chances are, your Floyd Rose bridge setup was probably done at the factory, or the store that you bought your guitar from.</strong> Every company uses different brands and gauges of strings. For example, <a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="168238"><strong>Fender</strong></a> uses Bullet 9&#8217;s straight from the factory. <a data-lasso-id="167962" href="https://www.schecterguitars.com/" target="_blank" rel="noopener noreferrer nofollow"><strong>Schecter</strong></a> uses <a data-lasso-id="167963" data-lasso-name="Ernie Ball 3 String Set Pack" href="/guitar-center-pxf-io-qnz1yq/" data-type="lasso-urls" data-id="5501" target="_blank" rel="nofollow sponsored noopener"><strong>Ernie Ball Regular Slinky</strong></a> <strong>10&#8217;s</strong> for their Floyd guitars. The best way to find out the gauge and brand is to check the &#8220;official&#8221; site for your guitar brand.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p><strong>The strings you pick need to reflect the ONE tuning you plan on using</strong>. You can use our <a data-lasso-id="167964" href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener"><strong>guide here</strong></a> if you are wondering which strings are best for your desired tuning. You also need to pick a <a data-lasso-id="167965" href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" target="_blank" rel="noopener"><strong>tuning </strong></a>to <strong>stick with</strong>. Floyd Rose Bridges are designed to be stable, so changing tunings will mean repeating this ENTIRE process every single time! <strong>Its best to pick a tuning/string type and stick with it</strong>.</p>
+<p><strong>The strings you pick need to reflect the ONE tuning you plan on using</strong>. You can use our <a data-lasso-id="167964" href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener"><strong>guide here</strong></a> if you are wondering which strings are best for your desired tuning. You also need to pick a <a data-lasso-id="167965" href="/most-common-guitar-tunings/" data-type="post" data-id="5246" target="_blank" rel="noopener"><strong>tuning </strong></a>to <strong>stick with</strong>. Floyd Rose Bridges are designed to be stable, so changing tunings will mean repeating this ENTIRE process every single time! <strong>Its best to pick a tuning/string type and stick with it</strong>.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>There are also products that you can use, that are designed for blocking your Floyd. You can use a <a data-lasso-id="167966" data-lasso-name="Floyd Rose Tremolo Stop Lock Nickel | Guitar Center" href="https://www.electrikjam.com/floyd-rose-tremolo-stop-lock-nickel-guitar-center/" data-type="lasso-urls" data-id="9120" target="_blank" rel="nofollow sponsored noopener"><strong>&#8220;Trem</strong> <strong>Stopper&#8221; </strong></a>that will make things easy when changing strings. Floyd Rose even makes <a data-lasso-id="167967" data-lasso-name="Floyd Rose The Tremolo Buddy Clamping Maintenance Tool" href="https://www.electrikjam.com/floyd-rose-the-tremolo-buddy-clamping-maintenance-tool-guitar-center/" data-type="lasso-urls" data-id="9122" target="_blank" rel="nofollow sponsored noopener"><strong>The Tremolo Buddy</strong></a> Clamp that will keep your bar depressed, keeping the bridge level while you work on your guitar! But I just use a simple piece of wood, and a cloth to protect the finish.</p>
+<p>There are also products that you can use, that are designed for blocking your Floyd. You can use a <a data-lasso-id="167966" data-lasso-name="Floyd Rose Tremolo Stop Lock Nickel | Guitar Center" href="/floyd-rose-tremolo-stop-lock-nickel-guitar-center/" data-type="lasso-urls" data-id="9120" target="_blank" rel="nofollow sponsored noopener"><strong>&#8220;Trem</strong> <strong>Stopper&#8221; </strong></a>that will make things easy when changing strings. Floyd Rose even makes <a data-lasso-id="167967" data-lasso-name="Floyd Rose The Tremolo Buddy Clamping Maintenance Tool" href="/floyd-rose-the-tremolo-buddy-clamping-maintenance-tool-guitar-center/" data-type="lasso-urls" data-id="9122" target="_blank" rel="nofollow sponsored noopener"><strong>The Tremolo Buddy</strong></a> Clamp that will keep your bar depressed, keeping the bridge level while you work on your guitar! But I just use a simple piece of wood, and a cloth to protect the finish.</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p><strong>This is probably the part that everyone has the most trouble with.</strong> Find something that <em>works for you</em>. You can buy the <a href="https://www.electrikjam.com/floyd-rose-the-tremolo-buddy-clamping-maintenance-tool-guitar-center/" target="_blank" data-type="lasso-urls" data-id="9122" rel="nofollow sponsored noopener" data-lasso-id="168239" data-lasso-name="Floyd Rose The Tremolo Buddy Clamping Maintenance Tool"><strong>gadgets</strong></a> that we mentioned in the first step, or you could fashion a piece of wood like I have. As I said above, some people even use simple things like popsicle sticks!</p>
+<p><strong>This is probably the part that everyone has the most trouble with.</strong> Find something that <em>works for you</em>. You can buy the <a href="/floyd-rose-the-tremolo-buddy-clamping-maintenance-tool-guitar-center/" target="_blank" data-type="lasso-urls" data-id="9122" rel="nofollow sponsored noopener" data-lasso-id="168239" data-lasso-name="Floyd Rose The Tremolo Buddy Clamping Maintenance Tool"><strong>gadgets</strong></a> that we mentioned in the first step, or you could fashion a piece of wood like I have. As I said above, some people even use simple things like popsicle sticks!</p>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>If the <a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216925">tuning is flat</a>, but the bridge is level, then tighten the springs and tune again to pitch</strong></li><li><strong>If your tuning is <em>sharp</em>, but the bridge is level, then loosen the springs and tune again to pitch</strong></li><li><strong>Or:</strong></li><li><strong>If you are in tune, but the bridge is <em>pulling forward</em>, tighten the springs a tune again to pitch</strong></li><li><strong>If you are in tune, but the bridge is <em>still sunk into the body</em>, loosen the springs and tune again to pitch</strong></li></ul>
+<ul class="wp-block-list"><li><strong>If the <a href="/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216925">tuning is flat</a>, but the bridge is level, then tighten the springs and tune again to pitch</strong></li><li><strong>If your tuning is <em>sharp</em>, but the bridge is level, then loosen the springs and tune again to pitch</strong></li><li><strong>Or:</strong></li><li><strong>If you are in tune, but the bridge is <em>pulling forward</em>, tighten the springs a tune again to pitch</strong></li><li><strong>If you are in tune, but the bridge is <em>still sunk into the body</em>, loosen the springs and tune again to pitch</strong></li></ul>
 
 
 

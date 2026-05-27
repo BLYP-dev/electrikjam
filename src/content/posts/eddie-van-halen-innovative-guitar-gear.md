@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>We recently talked about <strong>Steve Vai</strong>, and <strong><a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-lasso-id="104311">the creation of the Ibanez Jem</a></strong>. That guitar definitely changed the whole landscape of future guitars made by Ibanez, as well as the countless other brands these days that make similar guitars. But all of those ideas that Vai had, were built on the foundation of another player. In fact, he might be the most important player in all of rock and metal. Not only was his style unique in a way no one had ever heard before, but he also created and invented gear.</p>
+<p>We recently talked about <strong>Steve Vai</strong>, and <strong><a href="/the-ibanez-jem-777/" data-lasso-id="104311">the creation of the Ibanez Jem</a></strong>. That guitar definitely changed the whole landscape of future guitars made by Ibanez, as well as the countless other brands these days that make similar guitars. But all of those ideas that Vai had, were built on the foundation of another player. In fact, he might be the most important player in all of rock and metal. Not only was his style unique in a way no one had ever heard before, but he also created and invented gear.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>The story begins with a 1961<a href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener" data-lasso-id="103868"> <strong>Fender</strong></a> Stratocaster. Eddie had been playing these for a while, and had two at the time that he either bought from Wayne Charvel, or Dave <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="103869"><strong>Schecter</strong></a>. These had various pickup swaps in a short period of time, with Eddie chasing a particular tone. But they all ended up the same; one humbucker in the bridge, and a single master volume control. So Eddie had at least figured out that part of his setup.</p>
+<p>The story begins with a 1961<a href="/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener" data-lasso-id="103868"> <strong>Fender</strong></a> Stratocaster. Eddie had been playing these for a while, and had two at the time that he either bought from Wayne Charvel, or Dave <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="103869"><strong>Schecter</strong></a>. These had various pickup swaps in a short period of time, with Eddie chasing a particular tone. But they all ended up the same; one humbucker in the bridge, and a single master volume control. So Eddie had at least figured out that part of his setup.</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>To finish the guitar, he needed other parts from his Fender Strat, so he cannibalized the Fender guitars and placed the parts on the Charvel body. It only lasted two shows before Ed started changing it up more. He painted the body gloss black, and added the mint green pickguard from his 1961 Strat. But then this was short lived as well, as sometime over the Summer of 1976, Eddie Van Halen saw a punk rock guitarist named Chip Kinman playing at a club. Chip had a striped <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" target="_blank" data-type="post" data-id="880" rel="noopener" data-lasso-id="103870">Les Paul</a>,</strong> and Eddie copied it.</p>
+<p>To finish the guitar, he needed other parts from his Fender Strat, so he cannibalized the Fender guitars and placed the parts on the Charvel body. It only lasted two shows before Ed started changing it up more. He painted the body gloss black, and added the mint green pickguard from his 1961 Strat. But then this was short lived as well, as sometime over the Summer of 1976, Eddie Van Halen saw a punk rock guitarist named Chip Kinman playing at a club. Chip had a striped <strong><a href="/best-epiphone-les-paul-models/" target="_blank" data-type="post" data-id="880" rel="noopener" data-lasso-id="103870">Les Paul</a>,</strong> and Eddie copied it.</p>
 
 
 
@@ -132,11 +132,11 @@ seo:
 
 
 
-<p>Eddie put a lot of effort into keeping his tone, and guitar designs a secret. Jackson had really crossed the line by producing copies of his guitar. Ed was never the guy that was 100% happy with his gear, and constantly experimented. Around 1980, <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255016">Eddie Van Halen also briefly played an Ibanez  Destroyer</a> <strong>that he also customized with the red/white/black paint job. Going into the next decade, Eddie had a few ideas&#8230;</p>
+<p>Eddie put a lot of effort into keeping his tone, and guitar designs a secret. Jackson had really crossed the line by producing copies of his guitar. Ed was never the guy that was 100% happy with his gear, and constantly experimented. Around 1980, <a href="/ibanez-guitars/" data-lasso-id="255016">Eddie Van Halen also briefly played an Ibanez  Destroyer</a> <strong>that he also customized with the red/white/black paint job. Going into the next decade, Eddie had a few ideas&#8230;</p>
 
 
 
-<p><strong>*<em>The &#8220;Bumblebee&#8221; model was laid to rest with Dimebag Darrell of <a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" target="_blank" rel="noopener" data-lasso-id="104247">Pantera</a>. Dime had always said that this was his favorite guitar, and Eddie Van Halen was his biggest inspiration. Always a class act, Ed showed up to Dime&#8217;s funeral with the guitar, and he personally put it in the casket with Dime at the funeral.</em> </strong></p>
+<p><strong>*<em>The &#8220;Bumblebee&#8221; model was laid to rest with Dimebag Darrell of <a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" target="_blank" rel="noopener" data-lasso-id="104247">Pantera</a>. Dime had always said that this was his favorite guitar, and Eddie Van Halen was his biggest inspiration. Always a class act, Ed showed up to Dime&#8217;s funeral with the guitar, and he personally put it in the casket with Dime at the funeral.</em> </strong></p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>Eddie Van Halen was instrumental in helping Floyd Rose design the trem that we see today, suggesting a locking nut. Eventually, you see Eddie using Floyds on all of his guitars by about 1980. These Floyd models were pretty primitive compared to the ones that we see today on shredder guitars, but they did the job. Eddie was a sort of test subject for the different <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-lasso-id="168258">Floyd Rose</a> Models. The FRT5 is closest to what we see today, and it was the first to feature fine tuners.</p>
+<p>Eddie Van Halen was instrumental in helping Floyd Rose design the trem that we see today, suggesting a locking nut. Eventually, you see Eddie using Floyds on all of his guitars by about 1980. These Floyd models were pretty primitive compared to the ones that we see today on shredder guitars, but they did the job. Eddie was a sort of test subject for the different <a href="/floyd-rose-bridge-setup-beginners/" data-lasso-id="168258">Floyd Rose</a> Models. The FRT5 is closest to what we see today, and it was the first to feature fine tuners.</p>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<p>Eddie Van Halen played the FrankenStrat for years to come, even if he had an endorsement deal with another company, like Kramer. Little things were added over the years, like different pickups and a real German <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167826">Floyd Rose</a> in the 90&#8217;s. But after the 90&#8217;s, it seems like he quit experimenting with the FrankenStrat all together, even though he still played it live. This is because he had a <em>totally new idea</em> in the works for a guitar&#8230;</p>
+<p>Eddie Van Halen played the FrankenStrat for years to come, even if he had an endorsement deal with another company, like Kramer. Little things were added over the years, like different pickups and a real German <a href="/floyd-rose-bridge-explained/" data-lasso-id="167826">Floyd Rose</a> in the 90&#8217;s. But after the 90&#8217;s, it seems like he quit experimenting with the FrankenStrat all together, even though he still played it live. This is because he had a <em>totally new idea</em> in the works for a guitar&#8230;</p>
 
 
 
@@ -232,7 +232,7 @@ seo:
 
 
 
-<p>Unfortunately, Peavey and Eddie Van Halen split ways in 2004. This was after <a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" target="_blank" data-type="post" data-id="7444" rel="noopener" data-lasso-id="104670"><strong>Fender</strong></a>/Charvel started making replicas of his original FrankenStrat models for Eddie to play on tour. Jim DeCola went to Fender/Charvel and he tried for a few years to get Eddie on board. When he showed Eddie that he could still make the Wolfgang to the high specs that Eddie wanted, Ed finally relented and took his endorsement to Fender. The Fender Wolfgang, and the<strong> <a data-lasso-id="104249" data-lasso-name="EVH 5150 Iconic Series 40W 1x12 Combo" href="https://www.electrikjam.com/pxf-13/" data-type="lasso-urls" data-id="6655" target="_blank" rel="nofollow sponsored noopener">5150 III</a></strong> amps are still made, and hugely popular.</p>
+<p>Unfortunately, Peavey and Eddie Van Halen split ways in 2004. This was after <a href="/fender-meteora-players-plus-review-2022/" target="_blank" data-type="post" data-id="7444" rel="noopener" data-lasso-id="104670"><strong>Fender</strong></a>/Charvel started making replicas of his original FrankenStrat models for Eddie to play on tour. Jim DeCola went to Fender/Charvel and he tried for a few years to get Eddie on board. When he showed Eddie that he could still make the Wolfgang to the high specs that Eddie wanted, Ed finally relented and took his endorsement to Fender. The Fender Wolfgang, and the<strong> <a data-lasso-id="104249" data-lasso-name="EVH 5150 Iconic Series 40W 1x12 Combo" href="/pxf-13/" data-type="lasso-urls" data-id="6655" target="_blank" rel="nofollow sponsored noopener">5150 III</a></strong> amps are still made, and hugely popular.</p>
 
 
 
@@ -252,11 +252,11 @@ seo:
 
 
 
-<p>We will have a whole different article on the <a href="https://www.electrikjam.com/the-peavey-5150-history/" target="_blank" rel="noopener" data-lasso-id="104671"><strong>Peavey 5150 that you can find here</strong></a>. I feel like this amp is so inspiring, that it needs its own write-up. Eddie might be gone, but I don&#8217;t think his legacy will ever be forgotten. Eddie Van Halen shocked the world first with his <em>technique</em>, but then with his innovative designs that we still use today. He inspired me, and several generations not only to pick up a guitar but to take the guitar to new heights.</p>
+<p>We will have a whole different article on the <a href="/the-peavey-5150-history/" target="_blank" rel="noopener" data-lasso-id="104671"><strong>Peavey 5150 that you can find here</strong></a>. I feel like this amp is so inspiring, that it needs its own write-up. Eddie might be gone, but I don&#8217;t think his legacy will ever be forgotten. Eddie Van Halen shocked the world first with his <em>technique</em>, but then with his innovative designs that we still use today. He inspired me, and several generations not only to pick up a guitar but to take the guitar to new heights.</p>
 
 
 
-<p>Eddie Van Halen had a style that no one had ever heard until the first time &#8220;Eruption&#8221; was heard on Van Halen I. The high-speed tapping sounded like it was from another planet. But Ed was also an amazing rhythm player, that wrote great songs using unconventional chords. One listen to &#8220;Hot For Teacher&#8221; is all you need to realize just how great of a player Eddie was. I think he is just as important as <a data-lasso-id="104250" href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener"><strong>Jimi Hendrix</strong></a> when it comes to the guitar zeitgeist and history.</p>
+<p>Eddie Van Halen had a style that no one had ever heard until the first time &#8220;Eruption&#8221; was heard on Van Halen I. The high-speed tapping sounded like it was from another planet. But Ed was also an amazing rhythm player, that wrote great songs using unconventional chords. One listen to &#8220;Hot For Teacher&#8221; is all you need to realize just how great of a player Eddie was. I think he is just as important as <a data-lasso-id="104250" href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener"><strong>Jimi Hendrix</strong></a> when it comes to the guitar zeitgeist and history.</p>
 
 
 

@@ -180,11 +180,11 @@ seo:
 
 
 
-<p>The eventual result was the <strong><a data-lasso-id="265983" href="https://www.electrikjam.com/the-david-ross-winter-storm-review-an-awesome-3-in-1-pedal/" data-type="post" data-id="10528">Winter Storm Overdrive</a></strong>, David&#8217;s first pedal offering. See, the Submersion Octave Fuzz is part of a trilogy, of intentionally quirky pedals that have been inspiring to many guitarists.</p>
+<p>The eventual result was the <strong><a data-lasso-id="265983" href="/the-david-ross-winter-storm-review-an-awesome-3-in-1-pedal/" data-type="post" data-id="10528">Winter Storm Overdrive</a></strong>, David&#8217;s first pedal offering. See, the Submersion Octave Fuzz is part of a trilogy, of intentionally quirky pedals that have been inspiring to many guitarists.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/david-ross-spellbook-pedal-review/" data-type="post" data-id="12403" data-lasso-id="266284">The Spellbook Pedal</a></strong> was the next pedal we saw after his take on a modern overdrive with the Winter Storm. This self-oscillating fuzz inspired me to write a full track, which you now hear at the beginning of every episode of <strong><a data-lasso-id="265985" href="https://open.spotify.com/show/3lzBEYsSsbCSUeQEpQs9RH" target="_blank" rel="noopener noreferrer nofollow">our podcast</a></strong>!</p>
+<p><strong><a href="/david-ross-spellbook-pedal-review/" data-type="post" data-id="12403" data-lasso-id="266284">The Spellbook Pedal</a></strong> was the next pedal we saw after his take on a modern overdrive with the Winter Storm. This self-oscillating fuzz inspired me to write a full track, which you now hear at the beginning of every episode of <strong><a data-lasso-id="265985" href="https://open.spotify.com/show/3lzBEYsSsbCSUeQEpQs9RH" target="_blank" rel="noopener noreferrer nofollow">our podcast</a></strong>!</p>
 
 
 

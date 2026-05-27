@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p>If you&#8217;re a guitarist who values raw performance over flashy aesthetics, the new <strong><a href="https://www.electrikjam.com/recommends/esp-ltd-deluxe-ec-01ft/" target="_blank" rel="noopener" data-lasso-id="270950">ESP LTD Deluxe EC-01FT</a></strong> might be your next obsession. This sleek single-cutaway guitar is a stripped-down beast, borrowing its silhouette from the famed Eclipse series but turning the intensity up a notch with pro-grade features and a no-nonsense attitude.</p>
+<p>If you&#8217;re a guitarist who values raw performance over flashy aesthetics, the new <strong><a href="/recommends/esp-ltd-deluxe-ec-01ft/" target="_blank" rel="noopener" data-lasso-id="270950">ESP LTD Deluxe EC-01FT</a></strong> might be your next obsession. This sleek single-cutaway guitar is a stripped-down beast, borrowing its silhouette from the famed Eclipse series but turning the intensity up a notch with pro-grade features and a no-nonsense attitude.</p>
 
 
 
@@ -81,7 +81,7 @@ seo:
 
 
 
-<p>This pickup is a triple ceramic monster, blending DNA from the <strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="270939">Seymour Duncan Custom and Black Winter pickups</a></strong>. It’s a tone chameleon, capable of moving from sharp, high-gain riffs to pristine cleans.</p>
+<p>This pickup is a triple ceramic monster, blending DNA from the <strong><a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="270939">Seymour Duncan Custom and Black Winter pickups</a></strong>. It’s a tone chameleon, capable of moving from sharp, high-gain riffs to pristine cleans.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<li><strong>Price</strong>: <strong><a href="https://www.electrikjam.com/recommends/esp-ltd-deluxe-ec-01ft/" data-lasso-id="270952"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">$1,099</mark></a></strong></li>
+<li><strong>Price</strong>: <strong><a href="/recommends/esp-ltd-deluxe-ec-01ft/" data-lasso-id="270952"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">$1,099</mark></a></strong></li>
 </ul>
 </div>
 

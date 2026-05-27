@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>During an interview with <strong><a href="https://www.ultimate-guitar.com/news/interviews/from_the_archive_john_frusciante_talks_why_his_main_guitar_is_fender_strat__not_les_paul.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="103261">Ultimate Guitar</a></strong>, way back in 2004, Frusciante sat down with the magazine to discuss his love of Fender guitars, why he’s started using Gibson Les Paul models, and why he switched from <strong><a href="https://www.electrikjam.com/orange-crush-amp/" data-type="post" data-id="7475" data-lasso-id="103262">Orange amps</a></strong> over to <strong><a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="103263">Vox amps</a></strong>. It’s a great read, so if you’re interested in Frusciante, you should definitely check it out.</p>
+<p>During an interview with <strong><a href="https://www.ultimate-guitar.com/news/interviews/from_the_archive_john_frusciante_talks_why_his_main_guitar_is_fender_strat__not_les_paul.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="103261">Ultimate Guitar</a></strong>, way back in 2004, Frusciante sat down with the magazine to discuss his love of Fender guitars, why he’s started using Gibson Les Paul models, and why he switched from <strong><a href="/orange-crush-amp/" data-type="post" data-id="7475" data-lasso-id="103262">Orange amps</a></strong> over to <strong><a href="/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="103263">Vox amps</a></strong>. It’s a great read, so if you’re interested in Frusciante, you should definitely check it out.</p>
 
 
 
@@ -78,7 +78,7 @@ seo:
 
 
 
-<p>There’s a quote below from Frusciante, where he explains how he mutes, and the correct way to play <strong><em>“Don’t Stop” </em></strong>by the Chilli Peppers. Again, to get Frusciante’s guitar tone you will need to learn left-hand muting. There’s just no way around it. <strong><a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" data-lasso-id="103264">You’ll also probably need a Fender Strat</a></strong> to get the same kind of twang and bounce that Frusciante is known for.</p>
+<p>There’s a quote below from Frusciante, where he explains how he mutes, and the correct way to play <strong><em>“Don’t Stop” </em></strong>by the Chilli Peppers. Again, to get Frusciante’s guitar tone you will need to learn left-hand muting. There’s just no way around it. <strong><a href="/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" data-lasso-id="103264">You’ll also probably need a Fender Strat</a></strong> to get the same kind of twang and bounce that Frusciante is known for.</p>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<p>To be frank, <strong><a href="https://www.electrikjam.com/guitar-muting-techniques/" data-type="post" data-id="6767" data-lasso-id="103265">a solid foundation with guitar string muting</a></strong> – both left and right-hand muting – is one of the main things that separates an average guitarist from a very good one, with respect to overall tone and sound. If you want to sound like a tighter, more professional guitarist, you should invest plenty of time and effort in <strong><a href="https://www.electrikjam.com/guitar-muting-techniques/" data-type="post" data-id="6767" data-lasso-id="103266">learning proper left-hand muting</a></strong>.</p>
+<p>To be frank, <strong><a href="/guitar-muting-techniques/" data-type="post" data-id="6767" data-lasso-id="103265">a solid foundation with guitar string muting</a></strong> – both left and right-hand muting – is one of the main things that separates an average guitarist from a very good one, with respect to overall tone and sound. If you want to sound like a tighter, more professional guitarist, you should invest plenty of time and effort in <strong><a href="/guitar-muting-techniques/" data-type="post" data-id="6767" data-lasso-id="103266">learning proper left-hand muting</a></strong>.</p>
 
 
 

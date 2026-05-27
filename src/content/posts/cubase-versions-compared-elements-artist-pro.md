@@ -40,7 +40,7 @@ seo:
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">Scenario</th><th class="has-text-align-center" data-align="center">Best Version</th><th class="has-text-align-center" data-align="center">Why It Works</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">🎧 Just starting out, tight budget</td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-elements/">Elements 14</a></strong></td><td class="has-text-align-center" data-align="center">Affordable, solid tools, can handle full songs</td></tr><tr><td class="has-text-align-center" data-align="center">🎸 Recording serious guitar tracks at home</td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-artist-2/">Artist 14</a></strong></td><td class="has-text-align-center" data-align="center">Unlimited tracks, good FX, great for long-term growth</td></tr><tr><td class="has-text-align-center" data-align="center">🎚️ Full studio setup, mixing clients</td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-pro/">Pro 14</a></strong></td><td class="has-text-align-center" data-align="center">Complete feature set, best for pros and perfectionists</td></tr><tr><td class="has-text-align-center" data-align="center">🧪 Testing waters with new gear</td><td class="has-text-align-center" data-align="center"><strong>AI / LE 14</strong></td><td class="has-text-align-center" data-align="center">Free with hardware, decent for learning and demoing stuff</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">Scenario</th><th class="has-text-align-center" data-align="center">Best Version</th><th class="has-text-align-center" data-align="center">Why It Works</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">🎧 Just starting out, tight budget</td><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-elements/">Elements 14</a></strong></td><td class="has-text-align-center" data-align="center">Affordable, solid tools, can handle full songs</td></tr><tr><td class="has-text-align-center" data-align="center">🎸 Recording serious guitar tracks at home</td><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-artist-2/">Artist 14</a></strong></td><td class="has-text-align-center" data-align="center">Unlimited tracks, good FX, great for long-term growth</td></tr><tr><td class="has-text-align-center" data-align="center">🎚️ Full studio setup, mixing clients</td><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-pro/">Pro 14</a></strong></td><td class="has-text-align-center" data-align="center">Complete feature set, best for pros and perfectionists</td></tr><tr><td class="has-text-align-center" data-align="center">🧪 Testing waters with new gear</td><td class="has-text-align-center" data-align="center"><strong>AI / LE 14</strong></td><td class="has-text-align-center" data-align="center">Free with hardware, decent for learning and demoing stuff</td></tr></tbody></table></figure>
 
 
 
@@ -69,11 +69,11 @@ seo:
 
 
 <ul class="wp-block-list is-style-list-check-circle">
-<li><a href="https://www.electrikjam.com/recommends/cubase-14-artist-2/"><strong>Cubase Artist 14</strong> </a>is the sweet spot for most metal guitarists. It’s powerful, affordable, and built for serious home recording.</li>
+<li><a href="/recommends/cubase-14-artist-2/"><strong>Cubase Artist 14</strong> </a>is the sweet spot for most metal guitarists. It’s powerful, affordable, and built for serious home recording.</li>
 
 
 
-<li>But hey, <strong><a href="https://www.electrikjam.com/recommends/cubase-14-elements/">Cubase Elements 14</a></strong> can totally carry a full EP too—if you’re creative and know how to work within limits.</li>
+<li>But hey, <strong><a href="/recommends/cubase-14-elements/">Cubase Elements 14</a></strong> can totally carry a full EP too—if you’re creative and know how to work within limits.</li>
 </ul>
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p>(We have a guide on <strong><a href="https://www.electrikjam.com/system-requirements-for-cubase-12/" data-type="post" data-id="12600">system requirements for Cubase too</a></strong>, so check that out before pulling the trigger on anything).</p>
+<p>(We have a guide on <strong><a href="/system-requirements-for-cubase-12/" data-type="post" data-id="12600">system requirements for Cubase too</a></strong>, so check that out before pulling the trigger on anything).</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout" style="border-right-color:var(--wp--preset--color--main);border-right-width:5px;border-bottom-color:var(--wp--preset--color--main);border-bottom-width:6px"><thead><tr><th class="has-text-align-center" data-align="center">Version</th><th class="has-text-align-center" data-align="center">Best For</th><th class="has-text-align-center" data-align="center">Key Limits</th><th class="has-text-align-center" data-align="center">Cost</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-pro/">Pro 14</a></strong></td><td class="has-text-align-center" data-align="center">Full-time creators, scoring, mixing</td><td class="has-text-align-center" data-align="center">None – full feature set</td><td class="has-text-align-center" data-align="center">💰 $579</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-artist-2/">Artist 14</a></strong></td><td class="has-text-align-center" data-align="center">Serious home producers</td><td class="has-text-align-center" data-align="center">No Atmos/Modulators/Control Room</td><td class="has-text-align-center" data-align="center">💵 $329</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-elements/">Elements 14</a></strong></td><td class="has-text-align-center" data-align="center">Beginners, songwriters</td><td class="has-text-align-center" data-align="center">48 tracks, limited tuning tools</td><td class="has-text-align-center" data-align="center">💲 $99</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-elements/">AI / LE 14</a></strong></td><td class="has-text-align-center" data-align="center">First-timers w/ Steinberg gear</td><td class="has-text-align-center" data-align="center">16 tracks, minimal FX + instruments</td><td class="has-text-align-center" data-align="center">🎁 Free</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout" style="border-right-color:var(--wp--preset--color--main);border-right-width:5px;border-bottom-color:var(--wp--preset--color--main);border-bottom-width:6px"><thead><tr><th class="has-text-align-center" data-align="center">Version</th><th class="has-text-align-center" data-align="center">Best For</th><th class="has-text-align-center" data-align="center">Key Limits</th><th class="has-text-align-center" data-align="center">Cost</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-pro/">Pro 14</a></strong></td><td class="has-text-align-center" data-align="center">Full-time creators, scoring, mixing</td><td class="has-text-align-center" data-align="center">None – full feature set</td><td class="has-text-align-center" data-align="center">💰 $579</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-artist-2/">Artist 14</a></strong></td><td class="has-text-align-center" data-align="center">Serious home producers</td><td class="has-text-align-center" data-align="center">No Atmos/Modulators/Control Room</td><td class="has-text-align-center" data-align="center">💵 $329</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-elements/">Elements 14</a></strong></td><td class="has-text-align-center" data-align="center">Beginners, songwriters</td><td class="has-text-align-center" data-align="center">48 tracks, limited tuning tools</td><td class="has-text-align-center" data-align="center">💲 $99</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-elements/">AI / LE 14</a></strong></td><td class="has-text-align-center" data-align="center">First-timers w/ Steinberg gear</td><td class="has-text-align-center" data-align="center">16 tracks, minimal FX + instruments</td><td class="has-text-align-center" data-align="center">🎁 Free</td></tr></tbody></table></figure>
 
 
 
@@ -479,15 +479,15 @@ seo:
 
 
 
-<p>For the absolute – but focussed and dedicated – beginner, <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Cubase 14 Artist" href="https://www.electrikjam.com/recommends/cubase-14-artist/" data-shortcode="true">Artist or Elements will be more than enough</a></strong> to get you to the stage where you’re component enough to produce your own music and put it out on Spotify. </p>
+<p>For the absolute – but focussed and dedicated – beginner, <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Cubase 14 Artist" href="/recommends/cubase-14-artist/" data-shortcode="true">Artist or Elements will be more than enough</a></strong> to get you to the stage where you’re component enough to produce your own music and put it out on Spotify. </p>
 
 
 
-<p>I&#8217;ve been recording bands professionally for years and <strong><a href="https://www.electrikjam.com/recommends/cubase-14-artist/">I only ever use Elements</a></strong>; it literally has everything I need. I do all my mastering in Reaper, however, as that&#8217;s how I learned to do it in studios in LA. </p>
+<p>I&#8217;ve been recording bands professionally for years and <strong><a href="/recommends/cubase-14-artist/">I only ever use Elements</a></strong>; it literally has everything I need. I do all my mastering in Reaper, however, as that&#8217;s how I learned to do it in studios in LA. </p>
 
 
 
-<p>If you want to learn and follow my exact music mastering process, you can <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024">download my PDF guide here</a></strong> – it&#8217;ll get you from Gary No-Skills to pro-sounding recordings in no time. </p>
+<p>If you want to learn and follow my exact music mastering process, you can <strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024">download my PDF guide here</a></strong> – it&#8217;ll get you from Gary No-Skills to pro-sounding recordings in no time. </p>
 
 
 
@@ -519,7 +519,7 @@ seo:
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout" style="border-right-color:var(--wp--preset--color--main);border-right-width:5px;border-bottom-color:var(--wp--preset--color--main);border-bottom-width:6px"><thead><tr><th class="has-text-align-center" data-align="center">Scenario</th><th class="has-text-align-center" data-align="center">Best Version</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">Full-blown studio, client work, scoring gigs</td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-pro/">Pro 14</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center">Solo metal artist making full albums</td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-artist-2/">Artist 14</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center">Recording riffs, covers, and playthroughs</td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-elements/">Elements 14</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center">Just starting out with new gear</td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-elements/">AI / LE 14</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center">Podcasting or YouTube voiceovers</td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/cubase-14-elements/">Elements or AI</a></strong></td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout" style="border-right-color:var(--wp--preset--color--main);border-right-width:5px;border-bottom-color:var(--wp--preset--color--main);border-bottom-width:6px"><thead><tr><th class="has-text-align-center" data-align="center">Scenario</th><th class="has-text-align-center" data-align="center">Best Version</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">Full-blown studio, client work, scoring gigs</td><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-pro/">Pro 14</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center">Solo metal artist making full albums</td><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-artist-2/">Artist 14</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center">Recording riffs, covers, and playthroughs</td><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-elements/">Elements 14</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center">Just starting out with new gear</td><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-elements/">AI / LE 14</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center">Podcasting or YouTube voiceovers</td><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/cubase-14-elements/">Elements or AI</a></strong></td></tr></tbody></table></figure>
 
 
 
@@ -555,11 +555,11 @@ seo:
 
 
 
-<p>For metal guitarists especially, <strong><a href="https://www.electrikjam.com/recommends/cubase-14-artist-2/">Cubase Artist 14 hits that sweet spot</a></strong> of power and price; it&#8217;s affordable enough for most people and it&#8217;ll give you access to everything you need to start your honing your craft. </p>
+<p>For metal guitarists especially, <strong><a href="/recommends/cubase-14-artist-2/">Cubase Artist 14 hits that sweet spot</a></strong> of power and price; it&#8217;s affordable enough for most people and it&#8217;ll give you access to everything you need to start your honing your craft. </p>
 
 
 
-<p>But even Elements – <strong><a href="https://www.electrikjam.com/recommends/cubase-14-elements/">the cheaper version</a></strong> – can carry a full EP if you know how to push it. Both are great starting points. If you&#8217;re more serious and dedicated; like, you KNOW this is what you wanna do, <strong><a href="https://www.electrikjam.com/recommends/cubase-14-artist-2/">go with Cubase 14 Artist. </a></strong></p>
+<p>But even Elements – <strong><a href="/recommends/cubase-14-elements/">the cheaper version</a></strong> – can carry a full EP if you know how to push it. Both are great starting points. If you&#8217;re more serious and dedicated; like, you KNOW this is what you wanna do, <strong><a href="/recommends/cubase-14-artist-2/">go with Cubase 14 Artist. </a></strong></p>
 
 
 

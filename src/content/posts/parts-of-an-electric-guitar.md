@@ -190,7 +190,7 @@ seo:
 
 
 
-<li><strong><a href="https://www.electrikjam.com/what-are-locking-tuners/" data-type="post" data-id="5971" data-lasso-id="246439">Locking tuners</a></strong> are a special type of tuning peg designed to enhance tuning stability. They work by clamping down on the string as it&#8217;s threaded through the post, preventing slippage and reducing the need for frequent retuning. These are particularly useful for players who use tremolo systems or play aggressively, as these can often cause strings to go out of tune. The downside is that they are more complex to restring and are typically more expensive than standard tuners.</li>
+<li><strong><a href="/what-are-locking-tuners/" data-type="post" data-id="5971" data-lasso-id="246439">Locking tuners</a></strong> are a special type of tuning peg designed to enhance tuning stability. They work by clamping down on the string as it&#8217;s threaded through the post, preventing slippage and reducing the need for frequent retuning. These are particularly useful for players who use tremolo systems or play aggressively, as these can often cause strings to go out of tune. The downside is that they are more complex to restring and are typically more expensive than standard tuners.</li>
 
 
 
@@ -317,7 +317,7 @@ seo:
 
 
 
-<p>Necks are typically made from hardwoods due to their strength and tonal properties. Common woods include <strong><a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-type="post" data-id="8983" data-lasso-id="246440">maple, mahogany, and rosewood</a></strong>:</p>
+<p>Necks are typically made from hardwoods due to their strength and tonal properties. Common woods include <strong><a href="/the-top-7-electric-guitar-myths/" data-type="post" data-id="8983" data-lasso-id="246440">maple, mahogany, and rosewood</a></strong>:</p>
 
 
 
@@ -351,7 +351,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" data-lasso-id="246441">The fretboard</a></strong>, also known as the fingerboard, is a flat surface usually on the front side of the neck, where you press down the strings against the frets to produce different notes. It&#8217;s a crucial part of the guitar in terms of both playability and tone.</p>
+<p><strong><a href="/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" data-lasso-id="246441">The fretboard</a></strong>, also known as the fingerboard, is a flat surface usually on the front side of the neck, where you press down the strings against the frets to produce different notes. It&#8217;s a crucial part of the guitar in terms of both playability and tone.</p>
 
 
 
@@ -459,7 +459,7 @@ seo:
 
 
 
-<p>A crucial aspect of <strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" data-lasso-id="246442">fret installation</a></strong> is ensuring correct spacing. The placement of the frets according to mathematical principles ensures accurate intonation, which means your guitar will sound in tune as you play up the neck.</p>
+<p>A crucial aspect of <strong><a href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" data-lasso-id="246442">fret installation</a></strong> is ensuring correct spacing. The placement of the frets according to mathematical principles ensures accurate intonation, which means your guitar will sound in tune as you play up the neck.</p>
 
 
 
@@ -507,7 +507,7 @@ seo:
 
 
 
-<p>Solid body electric guitars provide a bright tone with long sustain, whereas <a data-lasso-id="252025" href="https://www.electrikjam.com/fender-telecaster-thinline-guide-history/">semi-hollow and hollow body guitars</a> have a warmer tone and often produce a unique resonance akin to acoustic guitars.</p>
+<p>Solid body electric guitars provide a bright tone with long sustain, whereas <a data-lasso-id="252025" href="/fender-telecaster-thinline-guide-history/">semi-hollow and hollow body guitars</a> have a warmer tone and often produce a unique resonance akin to acoustic guitars.</p>
 
 
 
@@ -515,7 +515,7 @@ seo:
 
 
 
-<p>The cutaways in the guitar body — the scoops made in the design near the neck — are to provide easier access to the upper frets. There are generally two types of cutaways: <strong>single (found on models like the <a data-lasso-id="246443" href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287">Fender Telecaster</a>) and double (as seen on the <a data-lasso-id="246444" href="https://www.electrikjam.com/fender-stratocaster-price-guide/" data-type="post" data-id="10939">Stratocaster</a> and many <a data-lasso-id="246445" href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456">Gibson models</a>).</strong></p>
+<p>The cutaways in the guitar body — the scoops made in the design near the neck — are to provide easier access to the upper frets. There are generally two types of cutaways: <strong>single (found on models like the <a data-lasso-id="246443" href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287">Fender Telecaster</a>) and double (as seen on the <a data-lasso-id="246444" href="/fender-stratocaster-price-guide/" data-type="post" data-id="10939">Stratocaster</a> and many <a data-lasso-id="246445" href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456">Gibson models</a>).</strong></p>
 
 
 
@@ -564,16 +564,16 @@ seo:
 
 
 <ol class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="246446">Single-coil pickups</a></strong> are the oldest type of electric guitar pickup and are known for their bright and crisp sound. However, they tend to produce a hum, especially in high-gain settings or under certain lighting conditions, due to their susceptibility to electromagnetic interference.</li>
+<li><strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="246446">Single-coil pickups</a></strong> are the oldest type of electric guitar pickup and are known for their bright and crisp sound. However, they tend to produce a hum, especially in high-gain settings or under certain lighting conditions, due to their susceptibility to electromagnetic interference.</li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="246447">Humbucker pickups</a></strong>, as the name implies, are designed to &#8216;buck the hum.&#8217; They consist of two single-coil pickups wired together out-of-phase, which cancels out the interference noise. Humbuckers generally have a warmer, thicker, and louder output compared to single-coils.</li>
+<li><strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="246447">Humbucker pickups</a></strong>, as the name implies, are designed to &#8216;buck the hum.&#8217; They consist of two single-coil pickups wired together out-of-phase, which cancels out the interference noise. Humbuckers generally have a warmer, thicker, and louder output compared to single-coils.</li>
 </ol>
 
 
 
-<p>There&#8217;s also a <strong><a href="https://www.electrikjam.com/p90-pickups-guide/" data-type="post" data-id="8654" data-lasso-id="246448">subtype of pickup known as a P-90</a></strong>, which delivers a tone that falls sonically between a single-coil and a humbucker. It&#8217;s a single-coil design, but it&#8217;s wider and has more coil windings, delivering a punchier, fuller tone while still retaining some of the brightness of single-coils.</p>
+<p>There&#8217;s also a <strong><a href="/p90-pickups-guide/" data-type="post" data-id="8654" data-lasso-id="246448">subtype of pickup known as a P-90</a></strong>, which delivers a tone that falls sonically between a single-coil and a humbucker. It&#8217;s a single-coil design, but it&#8217;s wider and has more coil windings, delivering a punchier, fuller tone while still retaining some of the brightness of single-coils.</p>
 
 
 
@@ -638,7 +638,7 @@ seo:
 
 
 
-<li><strong><a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" data-lasso-id="246449">Floyd Rose bridges</a></strong> are a specific type of tremolo bridge that locks the strings both at the bridge and at the nut, providing extreme tuning stability even with heavy tremolo use. They are complex to set up and maintain, but they are favored by many rock and metal guitarists for their ability to perform large pitch bends and dive-bombs.</li>
+<li><strong><a href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" data-lasso-id="246449">Floyd Rose bridges</a></strong> are a specific type of tremolo bridge that locks the strings both at the bridge and at the nut, providing extreme tuning stability even with heavy tremolo use. They are complex to set up and maintain, but they are favored by many rock and metal guitarists for their ability to perform large pitch bends and dive-bombs.</li>
 
 
 
@@ -699,7 +699,7 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="246450" href="https://www.electrikjam.com/tone-knob-explained/" data-type="post" data-id="7879">A guitar&#8217;s tone knob</a></strong> is essentially a low-pass filter, which allows low-frequency sounds to pass through while progressively reducing the higher frequencies as the knob is turned down. </p>
+<p><strong><a data-lasso-id="246450" href="/tone-knob-explained/" data-type="post" data-id="7879">A guitar&#8217;s tone knob</a></strong> is essentially a low-pass filter, which allows low-frequency sounds to pass through while progressively reducing the higher frequencies as the knob is turned down. </p>
 
 
 
@@ -751,7 +751,7 @@ seo:
 
 
 
-<p>The <strong><a data-lasso-id="246451" href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941">design and functionality of pickup selectors</a></strong> can vary significantly depending on the type of guitar. </p>
+<p>The <strong><a data-lasso-id="246451" href="/guitar-pickup-positions/" data-type="post" data-id="7941">design and functionality of pickup selectors</a></strong> can vary significantly depending on the type of guitar. </p>
 
 
 
@@ -781,11 +781,11 @@ seo:
 
 
 
-<p>Moreover, guitars like the <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="246452">Brian May Red Special</a></strong> feature individual on/off switches for each pickup, allowing for a wide variety of pickup combinations.</p>
+<p>Moreover, guitars like the <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="246452">Brian May Red Special</a></strong> feature individual on/off switches for each pickup, allowing for a wide variety of pickup combinations.</p>
 
 
 
-<p><strong><a data-lasso-id="246453" href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941">Understanding your guitar&#8217;s pickup selector</a></strong> and the range of sounds it offers is an essential part of mastering your instrument. </p>
+<p><strong><a data-lasso-id="246453" href="/guitar-pickup-positions/" data-type="post" data-id="7941">Understanding your guitar&#8217;s pickup selector</a></strong> and the range of sounds it offers is an essential part of mastering your instrument. </p>
 
 
 
@@ -809,7 +809,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" data-lasso-id="246454">creation of an electric guitar</a></strong> is a beautiful blend of precision engineering and meticulous handcrafting. It requires a deep understanding of both science and art to produce an instrument that not only sounds excellent but also feels good in the player&#8217;s hands. </p>
+<p>The <strong><a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" data-lasso-id="246454">creation of an electric guitar</a></strong> is a beautiful blend of precision engineering and meticulous handcrafting. It requires a deep understanding of both science and art to produce an instrument that not only sounds excellent but also feels good in the player&#8217;s hands. </p>
 
 
 
@@ -866,7 +866,7 @@ seo:
 
 
 
-<li><strong>Basswood</strong>: Basswood is a lightweight wood that has a balanced, even tone. Its soft nature can dampen sharp highs and boost midrange. It&#8217;s often used in <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255014">Ibanez and other shred-focused guitars</a>.</li>
+<li><strong>Basswood</strong>: Basswood is a lightweight wood that has a balanced, even tone. Its soft nature can dampen sharp highs and boost midrange. It&#8217;s often used in <a href="/ibanez-guitars/" data-lasso-id="255014">Ibanez and other shred-focused guitars</a>.</li>
 </ul>
 
 
@@ -959,7 +959,7 @@ seo:
 
 
 
-<p>This was why Leo Fender, when <strong><a data-lasso-id="246456" href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-type="post" data-id="11971">designing the Fender Telecaster</a></strong>, opted for a bolt-on neck design; he wanted the guitar to be easy to maintain and fix. </p>
+<p>This was why Leo Fender, when <strong><a data-lasso-id="246456" href="/telecaster-vs-jazzmaster/" data-type="post" data-id="11971">designing the Fender Telecaster</a></strong>, opted for a bolt-on neck design; he wanted the guitar to be easy to maintain and fix. </p>
 
 
 
@@ -991,7 +991,7 @@ seo:
 
 
 
-<p>Guitars with neck-through-body construction, like <strong><a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-type="post" data-id="2129" data-lasso-id="246457">certain models from BC Rich or Ibanez</a></strong>, are often favored by players who require long sustain, such as heavy metal guitarists.</p>
+<p>Guitars with neck-through-body construction, like <strong><a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-type="post" data-id="2129" data-lasso-id="246457">certain models from BC Rich or Ibanez</a></strong>, are often favored by players who require long sustain, such as heavy metal guitarists.</p>
 
 
 
@@ -1023,7 +1023,7 @@ seo:
 
 
 
-<p>However, the quality of components and the care taken during installation can vary significantly, especially when comparing <strong><a data-lasso-id="246458" href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-type="post" data-id="3350">high-end (expensive) guitars to entry-level (cheap) models</a></strong>.</p>
+<p>However, the quality of components and the care taken during installation can vary significantly, especially when comparing <strong><a data-lasso-id="246458" href="/gibson-vs-epiphone-in-2021/" data-type="post" data-id="3350">high-end (expensive) guitars to entry-level (cheap) models</a></strong>.</p>
 
 
 
@@ -1031,7 +1031,7 @@ seo:
 
 
 
-<p>In high-end guitars, manufacturers often use <strong><a data-lasso-id="246459" href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588">top-quality pickups</a></strong> made by well-respected brands, or they may produce their own high-quality pickups. </p>
+<p>In high-end guitars, manufacturers often use <strong><a data-lasso-id="246459" href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588">top-quality pickups</a></strong> made by well-respected brands, or they may produce their own high-quality pickups. </p>
 
 
 
@@ -1047,7 +1047,7 @@ seo:
 
 
 
-<p>While these can still produce a decent sound, they might lack the clarity, balance, and <strong><a data-lasso-id="246460" href="https://www.electrikjam.com/5-beginner-guitar-mistakes/" data-type="post" data-id="12408">tonal richness of higher-end pickups</a></strong>.</p>
+<p>While these can still produce a decent sound, they might lack the clarity, balance, and <strong><a data-lasso-id="246460" href="/5-beginner-guitar-mistakes/" data-type="post" data-id="12408">tonal richness of higher-end pickups</a></strong>.</p>
 
 
 
@@ -1115,7 +1115,7 @@ seo:
 
 
 
-<p>This part of the <strong><a data-lasso-id="246461" href="https://www.electrikjam.com/harley-benton-guitars-guide/">allure of brands like Harley Benton</a></strong> and Squier; they&#8217;re cheap to acquire and can be modded very easily. <strong><a data-lasso-id="246462" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670">Eddie Van Halen was also a fan of this approach</a></strong> to designing and creating guitars too. </p>
+<p>This part of the <strong><a data-lasso-id="246461" href="/harley-benton-guitars-guide/">allure of brands like Harley Benton</a></strong> and Squier; they&#8217;re cheap to acquire and can be modded very easily. <strong><a data-lasso-id="246462" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670">Eddie Van Halen was also a fan of this approach</a></strong> to designing and creating guitars too. </p>
 
 
 
@@ -1227,7 +1227,7 @@ seo:
 
 
 
-<p>The type of finish, and its thickness, can potentially <strong><a data-lasso-id="246463" href="https://www.electrikjam.com/guitar-tone-guide-tips-tricks-beginners/" data-type="post" data-id="568">impact the guitar&#8217;s tone and resonance</a></strong>. </p>
+<p>The type of finish, and its thickness, can potentially <strong><a data-lasso-id="246463" href="/guitar-tone-guide-tips-tricks-beginners/" data-type="post" data-id="568">impact the guitar&#8217;s tone and resonance</a></strong>. </p>
 
 
 
@@ -1347,7 +1347,7 @@ seo:
 
 
 
-<p>Any guitar can be professionally set up post-purchase to ensure it plays its best, and any aspiring guitarist can learn <strong><a data-lasso-id="246464" href="https://www.electrikjam.com/guitar-maintenance-101/" data-type="post" data-id="12211">how to setup a guitar properly</a></strong>. It takes time and some tools, but the process can be learned fairly easily.</p>
+<p>Any guitar can be professionally set up post-purchase to ensure it plays its best, and any aspiring guitarist can learn <strong><a data-lasso-id="246464" href="/guitar-maintenance-101/" data-type="post" data-id="12211">how to setup a guitar properly</a></strong>. It takes time and some tools, but the process can be learned fairly easily.</p>
 
 
 

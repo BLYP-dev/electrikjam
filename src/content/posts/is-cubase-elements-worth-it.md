@@ -42,11 +42,11 @@ seo:
 
 
 
-<p>Cubase Elements is the &#8220;middle of the road&#8221; version of <strong><a href="https://www.electrikjam.com/what-is-cubase/" target="_blank" data-type="post" data-id="12265" rel="noopener" data-lasso-id="244094">Cubase</a></strong>, and it has a ton of features that could help a beginner producer really come into their own style. Unlike the previous LE versions, Elements offers a few more features and less restrictions when it comes to things like track limitations.</p>
+<p>Cubase Elements is the &#8220;middle of the road&#8221; version of <strong><a href="/what-is-cubase/" target="_blank" data-type="post" data-id="12265" rel="noopener" data-lasso-id="244094">Cubase</a></strong>, and it has a ton of features that could help a beginner producer really come into their own style. Unlike the previous LE versions, Elements offers a few more features and less restrictions when it comes to things like track limitations.</p>
 
 
 
-<p>Cubase has been around for a long time, and has always offered &#8220;Light&#8221; editions next to the full fledged &#8220;Pro&#8221; editions. This is not only to save money during the initial purchase, but it also <a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251753">makes Cubase easier to learn</a> without being too complex. Many users start with the more affordable options, and upgrade to Cubase Pro or Cubase Artist.</p>
+<p>Cubase has been around for a long time, and has always offered &#8220;Light&#8221; editions next to the full fledged &#8220;Pro&#8221; editions. This is not only to save money during the initial purchase, but it also <a href="/what-is-cubase/" data-lasso-id="251753">makes Cubase easier to learn</a> without being too complex. Many users start with the more affordable options, and upgrade to Cubase Pro or Cubase Artist.</p>
 
 
 
@@ -70,7 +70,7 @@ seo:
 
 
 
-<p>But if you have some hardware like a MIDI keyboard, then you probably know how to use a VST and program MIDI instruments. Other <strong><a data-lasso-id="244071" href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-type="post" data-id="7814" target="_blank" rel="noopener">programs like EZ Drummer </a></strong>are popular these days as well, so MIDI editing is a very big deal now, even for beginners.</p>
+<p>But if you have some hardware like a MIDI keyboard, then you probably know how to use a VST and program MIDI instruments. Other <strong><a data-lasso-id="244071" href="/ezdrummer-2-worth-it/" data-type="post" data-id="7814" target="_blank" rel="noopener">programs like EZ Drummer </a></strong>are popular these days as well, so MIDI editing is a very big deal now, even for beginners.</p>
 
 
 

@@ -39,7 +39,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="258816">Doom metal</a></strong>, a subgenre that evolved from the heavy metal scene, is known for its slow tempos, thick sound, and an aura of sorrow and dread. It started with <strong><a href="https://www.electrikjam.com/what-guitar-does-tony-iommi-use-a-complete-overview/" data-type="post" data-id="13306" data-lasso-id="258817">bands like Black Sabbath</a></strong>, Saint Vitus, and Trouble in the 1970s and has been growing and evolving ever since. </p>
+<p><strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="258816">Doom metal</a></strong>, a subgenre that evolved from the heavy metal scene, is known for its slow tempos, thick sound, and an aura of sorrow and dread. It started with <strong><a href="/what-guitar-does-tony-iommi-use-a-complete-overview/" data-type="post" data-id="13306" data-lasso-id="258817">bands like Black Sabbath</a></strong>, Saint Vitus, and Trouble in the 1970s and has been growing and evolving ever since. </p>
 
 
 

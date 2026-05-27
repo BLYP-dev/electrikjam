@@ -63,11 +63,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/2024-prs-se-lineup-unveiled-new-models-expanded-color-range/" data-lasso-id="251558">PRS launched the new models</a> that make up the PRS 2021 lineup last night on their Youtube channel as a virtual event, since Winter NAMM is not happening this year. The presentation was amazing to say the least! The crew not only presented the prototypes for the new models, but also demoed the sounds and highlighted features.</p>
+<p><a href="/2024-prs-se-lineup-unveiled-new-models-expanded-color-range/" data-lasso-id="251558">PRS launched the new models</a> that make up the PRS 2021 lineup last night on their Youtube channel as a virtual event, since Winter NAMM is not happening this year. The presentation was amazing to say the least! The crew not only presented the prototypes for the new models, but also demoed the sounds and highlighted features.</p>
 
 
 
-<p>Usually, we would list the specs, and say a few things about each instrument, but that isn&#8217;t how <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44666">PRS</a> wants to be presented, so I will use their descriptions for the PRS 2021 Lineup. I don&#8217;t mind them being particular with their press, as I think it just adds more personality.</p>
+<p>Usually, we would list the specs, and say a few things about each instrument, but that isn&#8217;t how <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44666">PRS</a> wants to be presented, so I will use their descriptions for the PRS 2021 Lineup. I don&#8217;t mind them being particular with their press, as I think it just adds more personality.</p>
 
 
 
@@ -83,11 +83,11 @@ seo:
 
 
 
-<p>The Lunar Ice <a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-lasso-id="49009">Silver Sky</a> is the most talked about instrument of the PRS 2021 lineup. These are limited to only <em>1000 pieces</em>, and will be sought after by collectors all over the world. At first glance, the Silver Sky looks like another guitar, that will go <em>un-named</em>. But I assure you, it&#8217;s not.</p>
+<p>The Lunar Ice <a href="/prs-se-silver-sky-review-2022/" data-lasso-id="49009">Silver Sky</a> is the most talked about instrument of the PRS 2021 lineup. These are limited to only <em>1000 pieces</em>, and will be sought after by collectors all over the world. At first glance, the Silver Sky looks like another guitar, that will go <em>un-named</em>. But I assure you, it&#8217;s not.</p>
 
 
 
-<p><em>&#8220;The PRS Silver Sky is an idealized version of a vintage single-coil <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35982">guitar where every</a> detail adds up and sets this guitar apart from the pack and the past. The result of a close collaboration between Grammy Award-winning <a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-lasso-id="102997">musician John Mayer and Paul Reed Smith</a>, the Silver Sky is based off of years of development. </em></p>
+<p><em>&#8220;The PRS Silver Sky is an idealized version of a vintage single-coil <a href="/the-best-guitars-of-2021/" data-lasso-id="35982">guitar where every</a> detail adds up and sets this guitar apart from the pack and the past. The result of a close collaboration between Grammy Award-winning <a href="/why-john-mayer-ditched-fender-for-prs/" data-lasso-id="102997">musician John Mayer and Paul Reed Smith</a>, the Silver Sky is based off of years of development. </em></p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>This guitar is just plain gorgeous. It comes with all the bells and whistles you would expect from PRS, and what separates the Silver Sky from the &#8220;other brand&#8221; is the attention to detail. Especially with the tremolo system, and upgraded electronics. This is a versatile monster of a guitar, and while PRS doesn&#8217;t usually make <a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="719">our lists</a>, it&#8217;s worth noting how impeccably designed the Silver Sky is.</p>
+<p>This guitar is just plain gorgeous. It comes with all the bells and whistles you would expect from PRS, and what separates the Silver Sky from the &#8220;other brand&#8221; is the attention to detail. Especially with the tremolo system, and upgraded electronics. This is a versatile monster of a guitar, and while PRS doesn&#8217;t usually make <a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="719">our lists</a>, it&#8217;s worth noting how impeccably designed the Silver Sky is.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/prs-launches-beautiful-new-silver-sky/" data-lasso-id="241637">Silver Sky is not only it&#8217;s own original design</a>, but something entirely new to the guitar pantheon.</p>
+<p>The <a href="/prs-launches-beautiful-new-silver-sky/" data-lasso-id="241637">Silver Sky is not only it&#8217;s own original design</a>, but something entirely new to the guitar pantheon.</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>This new addition to the PRS 2021 Lineup is probably the most versatile when it comes to dialing in a tone. You have so many options at the flick of a switch. This guitar could just as easily be used for <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-lasso-id="721">Doom</a> as it could be used for Blues. In the studio, the new Core Semi-Hollow could probably be your main weapon.</p>
+<p>This new addition to the PRS 2021 Lineup is probably the most versatile when it comes to dialing in a tone. You have so many options at the flick of a switch. This guitar could just as easily be used for <a href="/doom-metal-beginners-guide/" data-lasso-id="721">Doom</a> as it could be used for Blues. In the studio, the new Core Semi-Hollow could probably be your main weapon.</p>
 
 
 
@@ -161,7 +161,7 @@ seo:
 
 
 
-<p>The PRS studio is a welcome addition to the PRS 2021 Lineup, as it has been missing for a few years! I am glad to see it back, with a few design choices that make it <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="722">the ultimate guitar</a> for gigging. It has a wide variety of sonic palates that most guitars can only dream of having.</p>
+<p>The PRS studio is a welcome addition to the PRS 2021 Lineup, as it has been missing for a few years! I am glad to see it back, with a few design choices that make it <a href="/types-of-guitars-guide/" data-lasso-id="722">the ultimate guitar</a> for gigging. It has a wide variety of sonic palates that most guitars can only dream of having.</p>
 
 
 
@@ -209,7 +209,7 @@ seo:
 
 
 
-<p><em>Featuring mini-toggle coil tap switches, the Custom 24-08 has eight <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="723">different pickup settings</a> that provide an array of humbucking and singlecoil tones. For classic PRS playability, reliability, and tone with ultimate flexibility, check out the Custom 24-08.&nbsp;&#8220;</em></p>
+<p><em>Featuring mini-toggle coil tap switches, the Custom 24-08 has eight <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="723">different pickup settings</a> that provide an array of humbucking and singlecoil tones. For classic PRS playability, reliability, and tone with ultimate flexibility, check out the Custom 24-08.&nbsp;&#8220;</em></p>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<p>It would be easy to discount The Fiore as a &#8220;Silver Sky with a Humbucker&#8221;. However, that does not seem to be the case. The Fiore looks like it could also be a great guitar for the studio, with the H-S-S pick configuration. I have always been a fan of <a href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9094">&#8220;super shredder&#8221;</a> guitars with this pickup configuration, as they can do anything!</p>
+<p>It would be easy to discount The Fiore as a &#8220;Silver Sky with a Humbucker&#8221;. However, that does not seem to be the case. The Fiore looks like it could also be a great guitar for the studio, with the H-S-S pick configuration. I have always been a fan of <a href="/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9094">&#8220;super shredder&#8221;</a> guitars with this pickup configuration, as they can do anything!</p>
 
 
 
@@ -269,7 +269,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251740">SE series is the affordable line of PRS guitars</a>, made in the Far East, but don&#8217;t let that dissuade you. These may be more affordable, but every SE guitar is put through the same quality paces as the Core USA guitars. </p>
+<p>The <a href="/prs-se-series-guitars-guide/" data-lasso-id="251740">SE series is the affordable line of PRS guitars</a>, made in the Far East, but don&#8217;t let that dissuade you. These may be more affordable, but every SE guitar is put through the same quality paces as the Core USA guitars. </p>
 
 
 
@@ -341,15 +341,15 @@ seo:
 
 
 
-<p>Look, I know PRS are often called &#8220;Lawyer <a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-lasso-id="15500">Guitars&#8221; and I think</a> that is a negative, crappy way to look at them. In fact, I think it is downright unfair to say that. PRS use the most quality woods, make their own hardware and electronics, and are designed totally in the USA.</p>
+<p>Look, I know PRS are often called &#8220;Lawyer <a href="/does-the-do-it-all-guitar-exist/" data-lasso-id="15500">Guitars&#8221; and I think</a> that is a negative, crappy way to look at them. In fact, I think it is downright unfair to say that. PRS use the most quality woods, make their own hardware and electronics, and are designed totally in the USA.</p>
 
 
 
-<p>Paul often defends the <a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" data-lasso-id="48142">prices of his guitars</a>, comparing them to classical instruments, and he has a point. If I played Violin, I would only own one&#8230;and it would set me back about $20,000 if I were a pro player.</p>
+<p>Paul often defends the <a href="/guitar-prices-going-up-in-2022/" data-lasso-id="48142">prices of his guitars</a>, comparing them to classical instruments, and he has a point. If I played Violin, I would only own one&#8230;and it would set me back about $20,000 if I were a pro player.</p>
 
 
 
-<p>Obviously the guitar world is different. But maybe that&#8217;s because we are SPOILED. We are living in the <a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="724">golden age of guitars</a>. Never in history have you been able to get so many features for such an affordable price. The PRS 2021 Lineup has some affordable options, but they also have those &#8220;Lawyer Guitars&#8221;.</p>
+<p>Obviously the guitar world is different. But maybe that&#8217;s because we are SPOILED. We are living in the <a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="724">golden age of guitars</a>. Never in history have you been able to get so many features for such an affordable price. The PRS 2021 Lineup has some affordable options, but they also have those &#8220;Lawyer Guitars&#8221;.</p>
 
 
 

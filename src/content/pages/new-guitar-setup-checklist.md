@@ -51,7 +51,7 @@ seo:
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
-<h3 class="wp-block-heading has-medium-font-size"><a href="https://www.electrikjam.com/best-electric-guitars/" data-type="page" data-id="2760" data-lasso-id="269124"><strong>The Best Guitars Guide</strong></a></h3>
+<h3 class="wp-block-heading has-medium-font-size"><a href="/best-electric-guitars/" data-type="page" data-id="2760" data-lasso-id="269124"><strong>The Best Guitars Guide</strong></a></h3>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
-<h3 class="wp-block-heading has-medium-font-size"><strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="269125">Guitar Tuning 101</a></strong></h3>
+<h3 class="wp-block-heading has-medium-font-size"><strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="269125">Guitar Tuning 101</a></strong></h3>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f5f3bcb8 wp-block-group-is-layout-constrained">
-<h3 class="wp-block-heading has-medium-font-size"><strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024" data-lasso-id="269126">Learn To Master Like A Pro</a></strong></h3>
+<h3 class="wp-block-heading has-medium-font-size"><strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024" data-lasso-id="269126">Learn To Master Like A Pro</a></strong></h3>
 
 
 

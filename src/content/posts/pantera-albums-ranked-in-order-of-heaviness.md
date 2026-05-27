@@ -36,7 +36,7 @@ seo:
 
 
 
-<p>Pantera is synonymous with metal. You cannot talk about metal music without mentioning them. <strong><a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="1636">Next to Metallica</a></strong>, Pantera is perhaps one of the most influential and beloved metal bands to ever walk the earth.</p>
+<p>Pantera is synonymous with metal. You cannot talk about metal music without mentioning them. <strong><a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="1636">Next to Metallica</a></strong>, Pantera is perhaps one of the most influential and beloved metal bands to ever walk the earth.</p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p><strong><em>Reinventing The Steel</em></strong> was the last studio album Pantera released. The band wasn’t in a good place when they recorded it; <a href="https://www.electrikjam.com/new-down-album/" data-lasso-id="104806">Phil Anselmo</a> didn’t even record his vocals with the band, preferring to do it by himself, away from Rex, Dime, and Vinnie Paul.</p>
+<p><strong><em>Reinventing The Steel</em></strong> was the last studio album Pantera released. The band wasn’t in a good place when they recorded it; <a href="/new-down-album/" data-lasso-id="104806">Phil Anselmo</a> didn’t even record his vocals with the band, preferring to do it by himself, away from Rex, Dime, and Vinnie Paul.</p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p><strong>Cowboys From Hell </strong>was <a href="https://www.electrikjam.com/pantera-reunion-tour/" data-lasso-id="140272">the album that put Pantera on the map</a>. It was an amazing album too, featuring end-to-end bangers like the title track, <strong><em>Cowboys From Hell, Domination, The Sleep</em></strong>, <strong><em>Cemetery Gates</em></strong>. And pretty much every single other track on the album.</p>
+<p><strong>Cowboys From Hell </strong>was <a href="/pantera-reunion-tour/" data-lasso-id="140272">the album that put Pantera on the map</a>. It was an amazing album too, featuring end-to-end bangers like the title track, <strong><em>Cowboys From Hell, Domination, The Sleep</em></strong>, <strong><em>Cemetery Gates</em></strong>. And pretty much every single other track on the album.</p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>And <strong><em>Cowboys From Hell</em></strong> is a heavy album too, but it is not Pantera’s heaviest work. A lot of this is down to <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1637">production</a>. The album, while beautifully executed and performed, does lack the PUNCH of some of Pantera’s other records.</p>
+<p>And <strong><em>Cowboys From Hell</em></strong> is a heavy album too, but it is not Pantera’s heaviest work. A lot of this is down to <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1637">production</a>. The album, while beautifully executed and performed, does lack the PUNCH of some of Pantera’s other records.</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p>1994’s <strong><em>Far Beyond Driven</em></strong> is one of Pantera’s first “brutally” heavy albums. The sound of this record is enormous, thanks in no small part to Terry Date’s mastery of the dials in the studio. From the <a href="https://www.electrikjam.com/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183500">guitar tone</a> to the snare drum, the sound engineering on this album is superb.</p>
+<p>1994’s <strong><em>Far Beyond Driven</em></strong> is one of Pantera’s first “brutally” heavy albums. The sound of this record is enormous, thanks in no small part to Terry Date’s mastery of the dials in the studio. From the <a href="/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183500">guitar tone</a> to the snare drum, the sound engineering on this album is superb.</p>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<p>Steve Huey of AllMusic rated the album 4.5 out of 5 stars, describing it as <strong>&#8220;One of the most <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2790">influential heavy metal albums of the 1990s”</a> </strong>. Huey was bang on the money too; <strong><em>Vulgar</em></strong> is easily the most accessible, fun-yet-still-incredibly-heavy album in Pantera’s back catalog.</p>
+<p>Steve Huey of AllMusic rated the album 4.5 out of 5 stars, describing it as <strong>&#8220;One of the most <a href="/90s-metal-bands/" data-lasso-id="2790">influential heavy metal albums of the 1990s”</a> </strong>. Huey was bang on the money too; <strong><em>Vulgar</em></strong> is easily the most accessible, fun-yet-still-incredibly-heavy album in Pantera’s back catalog.</p>
 
 
 
@@ -232,7 +232,7 @@ seo:
 
 
 
-<p>And if you want to know more about how Dime got his tone, check out this <strong><a href="https://www.electrikjam.com/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-lasso-id="215950">guide to Dimebag&#8217;s pedalboard</a></strong> – it covers all of his essential pedals. </p>
+<p>And if you want to know more about how Dime got his tone, check out this <strong><a href="/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-lasso-id="215950">guide to Dimebag&#8217;s pedalboard</a></strong> – it covers all of his essential pedals. </p>
 
 
 

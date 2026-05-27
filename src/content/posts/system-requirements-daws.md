@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>If you want to record music at home, you’re going to need a computer. But not just any, old computer. <strong><a href="https://www.electrikjam.com/choosing-a-music-production-pc-101/" data-type="post" data-id="15540" data-lasso-id="270300">You need a decent CPU, for starters, and RAM</a></strong> – AKA memory – and plenty of it. </p>
+<p>If you want to record music at home, you’re going to need a computer. But not just any, old computer. <strong><a href="/choosing-a-music-production-pc-101/" data-type="post" data-id="15540" data-lasso-id="270300">You need a decent CPU, for starters, and RAM</a></strong> – AKA memory – and plenty of it. </p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p>In simple terms, a <strong><a href="https://www.electrikjam.com/category/daws/" data-lasso-id="270301">DAW is software that lets you record</a></strong>, edit, mix, and produce audio files. Think of it as your virtual studio where all the magic happens.</p>
+<p>In simple terms, a <strong><a href="/category/daws/" data-lasso-id="270301">DAW is software that lets you record</a></strong>, edit, mix, and produce audio files. Think of it as your virtual studio where all the magic happens.</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>If you&#8217;re learning to record and produce music, choose one <strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" data-lasso-id="270302">(I like Reaper because its amazingly scalable and free)</a></strong>, and learn it inside out. </p>
+<p>If you&#8217;re learning to record and produce music, choose one <strong><a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" data-lasso-id="270302">(I like Reaper because its amazingly scalable and free)</a></strong>, and learn it inside out. </p>
 
 
 
@@ -416,7 +416,7 @@ seo:
 
 
 <div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-289c189c wp-block-group-is-layout-flex">
-<p class="has-base-color has-text-color has-link-color has-small-font-size wp-elements-6c7c583f474c3635d663a78143ce5046" id="htoc-read-more" style="text-decoration:underline"><strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024" data-lasso-id="270303">Learn How To Master Your Music Like A Pro</a></strong></p>
+<p class="has-base-color has-text-color has-link-color has-small-font-size wp-elements-6c7c583f474c3635d663a78143ce5046" id="htoc-read-more" style="text-decoration:underline"><strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024" data-lasso-id="270303">Learn How To Master Your Music Like A Pro</a></strong></p>
 </div>
 </div>
 </div>

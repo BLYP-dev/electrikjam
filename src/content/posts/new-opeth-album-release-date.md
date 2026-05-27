@@ -41,7 +41,7 @@ seo:
 
 
 
-<p><strong>UPDATE: <a href="https://www.electrikjam.com/opeth-the-last-will-and-testament-reviews-reactions/" data-type="post" data-id="16734" data-lasso-id="270384">Opeth&#8217;s Last Will &amp; Testament has been released</a>. </strong></p>
+<p><strong>UPDATE: <a href="/opeth-the-last-will-and-testament-reviews-reactions/" data-type="post" data-id="16734" data-lasso-id="270384">Opeth&#8217;s Last Will &amp; Testament has been released</a>. </strong></p>
 
 
 
@@ -50,7 +50,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><a href="https://www.electrikjam.com/opeth-the-last-will-and-testament-reviews-reactions/" data-lasso-id="270385"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg" alt="Opeth’s The Last Will and Testament Is Here Initial Reactions &amp; Reviews" class="wp-image-16735" style="border-radius:20px;object-fit:cover" title="" srcset="/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg 1200w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-600x400.jpg 600w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-300x200.jpg 300w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
+<figure class="wp-block-image size-full has-custom-border"><a href="/opeth-the-last-will-and-testament-reviews-reactions/" data-lasso-id="270385"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg" alt="Opeth’s The Last Will and Testament Is Here Initial Reactions &amp; Reviews" class="wp-image-16735" style="border-radius:20px;object-fit:cover" title="" srcset="/wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews.jpg 1200w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-600x400.jpg 600w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-300x200.jpg 300w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-1024x683.jpg 1024w, /wp-content/uploads/2024/11/Opeths-The-Last-Will-and-Testament-Is-Here-Initial-Reactions-Reviews-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
 </div>
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p>Because there has been a distinct lack of touring, many bands and artists have been holed up working on new material. Mastodon, for instance, produced some of its best work to date during the COVID pandemic, with its <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="67069">Hushed and Grim record</a></strong> which is an utter masterpiece of epic proportions. But what about OPETH? Has Mikael Åkerfeldt been busy during lockdown, working on a new OPETH album?</p>
+<p>Because there has been a distinct lack of touring, many bands and artists have been holed up working on new material. Mastodon, for instance, produced some of its best work to date during the COVID pandemic, with its <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="67069">Hushed and Grim record</a></strong> which is an utter masterpiece of epic proportions. But what about OPETH? Has Mikael Åkerfeldt been busy during lockdown, working on a new OPETH album?</p>
 
 
 
@@ -117,11 +117,11 @@ seo:
 
 
 
-<p>As a composer, <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="67071">Åkerfeldt has plenty of chops</a></strong>, so I cannot wait to hear his soundtrack work on the Netflix show whenever that arrives. As for OPETH, I would really like a new record from the band. I don’t feel like In Cauda Venenum would be a good way to end things for a band with such a rich history. The record was generally well-received by the music press but I just found it a little flat compared to the band’s other records.</p>
+<p>As a composer, <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="67071">Åkerfeldt has plenty of chops</a></strong>, so I cannot wait to hear his soundtrack work on the Netflix show whenever that arrives. As for OPETH, I would really like a new record from the band. I don’t feel like In Cauda Venenum would be a good way to end things for a band with such a rich history. The record was generally well-received by the music press but I just found it a little flat compared to the band’s other records.</p>
 
 
 
-<p>Who knows, maybe OPETH –&nbsp;or Åkerfeldt –&nbsp;has lost his passion for the band and wants to wind things down? I don’t buy into this sentiment. OPETH has a huge following and, <a href="https://www.electrikjam.com/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="111000">like TOOL</a>, makes a killing when it goes on tour. Åkerfeldt isn’t going to put an end to that anytime soon, not when he’s not yet established as a film composer.</p>
+<p>Who knows, maybe OPETH –&nbsp;or Åkerfeldt –&nbsp;has lost his passion for the band and wants to wind things down? I don’t buy into this sentiment. OPETH has a huge following and, <a href="/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="111000">like TOOL</a>, makes a killing when it goes on tour. Åkerfeldt isn’t going to put an end to that anytime soon, not when he’s not yet established as a film composer.</p>
 
 
 
@@ -138,10 +138,10 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a data-lasso-id="67080" href="https://www.electrikjam.com/new-tool-album-release-date/" data-type="post" data-id="6381">New TOOL Album Release Date</a></strong></li>
+<li><strong><a data-lasso-id="67080" href="/new-tool-album-release-date/" data-type="post" data-id="6381">New TOOL Album Release Date</a></strong></li>
 
 
 
-<li><strong><a data-lasso-id="67081" href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-type="post" data-id="5643">New Metallica Album: When Will It Drop? </a></strong></li>
+<li><strong><a data-lasso-id="67081" href="/new-metallica-album-release-date-new-songs-update/" data-type="post" data-id="5643">New Metallica Album: When Will It Drop? </a></strong></li>
 </ul>
 

@@ -39,7 +39,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="15522">Mastodon’s new Hushed and Grim record</a></strong> is now widely available. Lyrically, it is one of Mastodon’s most personal records. It is also one of the best records Mastodon has produced in years, showing that even after 20+ years the band can still innovate.</p>
+<p><strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="15522">Mastodon’s new Hushed and Grim record</a></strong> is now widely available. Lyrically, it is one of Mastodon’s most personal records. It is also one of the best records Mastodon has produced in years, showing that even after 20+ years the band can still innovate.</p>
 
 
 
@@ -629,5 +629,5 @@ seo:
 
 
 
-<p>Check out our <strong><a data-lasso-id="15523" href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124">review of Hushed and Grim</a></strong> for a detailed breakdown of <strong><a data-lasso-id="15524" href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-type="post" data-id="3981">Mastodon&#8217;s newest album</a></strong>. And if you&#8217;re a guitarist, we have a detailed guide on <strong><a href="https://www.electrikjam.com/how-to-sound-like-mastodon/" data-lasso-id="216612">how to create a guitar tone just like Mastodon. </a></strong></p>
+<p>Check out our <strong><a data-lasso-id="15523" href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124">review of Hushed and Grim</a></strong> for a detailed breakdown of <strong><a data-lasso-id="15524" href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-type="post" data-id="3981">Mastodon&#8217;s newest album</a></strong>. And if you&#8217;re a guitarist, we have a detailed guide on <strong><a href="/how-to-sound-like-mastodon/" data-lasso-id="216612">how to create a guitar tone just like Mastodon. </a></strong></p>
 

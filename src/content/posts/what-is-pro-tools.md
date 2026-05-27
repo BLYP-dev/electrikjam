@@ -81,7 +81,7 @@ seo:
 
 
 
-<p>Our advice? <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="264091">Go with Cubase</a></strong>. It&#8217;s cheaper, simpler, and just as effective for recording. </p>
+<p>Our advice? <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="264091">Go with Cubase</a></strong>. It&#8217;s cheaper, simpler, and just as effective for recording. </p>
 </div></div>
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<p>From that, the two friends also studied <strong><a href="https://www.electrikjam.com/best-midi-keyboards/" data-type="post" data-id="12719" data-lasso-id="252835">MIDI </a></strong>sound design. Like most people in the late 80s and early 90s, it was clear to them that analog recording was taking a new direction. Everyone from <strong>Nine Inch Nails</strong> to pop radio hits were becoming &#8220;hybrid&#8221; projects.</p>
+<p>From that, the two friends also studied <strong><a href="/best-midi-keyboards/" data-type="post" data-id="12719" data-lasso-id="252835">MIDI </a></strong>sound design. Like most people in the late 80s and early 90s, it was clear to them that analog recording was taking a new direction. Everyone from <strong>Nine Inch Nails</strong> to pop radio hits were becoming &#8220;hybrid&#8221; projects.</p>
 
 
 
@@ -286,7 +286,7 @@ seo:
 
 
 
-<p>Pro Tools was probably the first DAW to really support 3rd party plugins. The DAW itself has a full suite of instruments, effects, and mastering tools. Many producers prefer using outside sources, however. This feature is even more prevalent today, as <a data-lasso-id="254848" href="https://www.electrikjam.com/neural-amp-modeler/">many studios use amp sims</a> and drum programs.</p>
+<p>Pro Tools was probably the first DAW to really support 3rd party plugins. The DAW itself has a full suite of instruments, effects, and mastering tools. Many producers prefer using outside sources, however. This feature is even more prevalent today, as <a data-lasso-id="254848" href="/neural-amp-modeler/">many studios use amp sims</a> and drum programs.</p>
 
 
 
@@ -594,7 +594,7 @@ seo:
 
 
 
-<p><strong>Personally, I think there are other DAWs – <a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="264092">notably Cubase 13</a> – that will be a better introduction into recording.</strong> If your school forces you to use Pro Tools, then that is how you should learn, but as a home enthusiast&#8230; there are better options.</p>
+<p><strong>Personally, I think there are other DAWs – <a href="/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="264092">notably Cubase 13</a> – that will be a better introduction into recording.</strong> If your school forces you to use Pro Tools, then that is how you should learn, but as a home enthusiast&#8230; there are better options.</p>
 
 
 

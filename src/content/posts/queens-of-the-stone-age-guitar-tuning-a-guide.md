@@ -55,11 +55,11 @@ seo:
 
 
 
-<p>Homme says he likes to “take things away” rather than add additional things into the mix. And this approach, <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="16005">alongside his gear choice</a></strong>, is what makes his sound so immediately recognizable. From Songs For The Deaf to KYUSS’ Blues For The Red Sun, Homme’s career is expansive, seminal, and always interesting.</p>
+<p>Homme says he likes to “take things away” rather than add additional things into the mix. And this approach, <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="16005">alongside his gear choice</a></strong>, is what makes his sound so immediately recognizable. From Songs For The Deaf to KYUSS’ Blues For The Red Sun, Homme’s career is expansive, seminal, and always interesting.</p>
 
 
 
-<p>But what guitar tuning does Josh Homme use? What tuning did he use in KYUSS and what does he use in <a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84779">Queens of The Stone Age</a>? As always, tuning is a key component of a band’s sound. It affects everything. And Homme’s choice of guitar tuning is part of the reason why his riffs sound so heavy…</p>
+<p>But what guitar tuning does Josh Homme use? What tuning did he use in KYUSS and what does he use in <a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84779">Queens of The Stone Age</a>? As always, tuning is a key component of a band’s sound. It affects everything. And Homme’s choice of guitar tuning is part of the reason why his riffs sound so heavy…</p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p><a data-lasso-id="90399" href="https://www.electrikjam.com/how-to-souond-like-kyuss/"><strong>Whether playing in KYUSS or Queens of The Stone Age</strong></a><strong>, Josh Homme predominantly uses C Standard tuning (or, at least he did on the earlier albums). </strong></p>
+<p><a data-lasso-id="90399" href="/how-to-souond-like-kyuss/"><strong>Whether playing in KYUSS or Queens of The Stone Age</strong></a><strong>, Josh Homme predominantly uses C Standard tuning (or, at least he did on the earlier albums). </strong></p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>A lot of Queens of The Stone Age’s later records feature <a data-lasso-id="221314" href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/">songs in Standard tuning</a> as well. But the vast majority of Josh Homme’s output sees his guitar tuned to C Standard. </p>
+<p>A lot of Queens of The Stone Age’s later records feature <a data-lasso-id="221314" href="/standard-tuning-guitar-explained-history/">songs in Standard tuning</a> as well. But the vast majority of Josh Homme’s output sees his guitar tuned to C Standard. </p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>This is why bands like <strong><a data-lasso-id="16006" href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491">SLEEP also favor C Standard tuning</a></strong>.</p>
+<p>This is why bands like <strong><a data-lasso-id="16006" href="/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491">SLEEP also favor C Standard tuning</a></strong>.</p>
 
 
 
@@ -318,7 +318,7 @@ seo:
 
 
 
-<li>Someone&#8217;s in the Wolf &#8211; <a data-lasso-id="233905" href="https://www.electrikjam.com/open-g-tuning-explained/">Open G</a></li>
+<li>Someone&#8217;s in the Wolf &#8211; <a data-lasso-id="233905" href="/open-g-tuning-explained/">Open G</a></li>
 
 
 
@@ -376,7 +376,7 @@ seo:
 
 
 
-<li>Battery Acid &#8211; E standard but can be played in <a class="wpil_keyword_link" title="drop D" data-wpil-keyword-link="linked" data-lasso-id="16007" href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/">drop D</a></li>
+<li>Battery Acid &#8211; E standard but can be played in <a class="wpil_keyword_link" title="drop D" data-wpil-keyword-link="linked" data-lasso-id="16007" href="/drop-d-tuning-guitar-guide/">drop D</a></li>
 
 
 
@@ -488,7 +488,7 @@ seo:
 <div class="wp-block-query alignfull is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-8057 post type-post status-publish format-standard has-post-thumbnail hentry category-music-theory tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2023/10/49-EPIC-Chord-Progressions.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="49 EPIC Chord Progressions" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2023/10/49-EPIC-Chord-Progressions.png 1200w, /wp-content/uploads/2023/10/49-EPIC-Chord-Progressions-600x400.png 600w, /wp-content/uploads/2023/10/49-EPIC-Chord-Progressions-300x200.png 300w, /wp-content/uploads/2023/10/49-EPIC-Chord-Progressions-1024x683.png 1024w, /wp-content/uploads/2023/10/49-EPIC-Chord-Progressions-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -514,7 +514,7 @@ seo:
 </li><li class="wp-block-post post-6946 post type-post status-publish format-standard has-post-thumbnail hentry category-guitar-technique tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/guitar-technique/" rel="tag">Guitar Technique</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/guitar-technique/" rel="tag">Guitar Technique</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar-.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="EASY Way To Play An F Chord on Guitar" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar-.png 1200w, /wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar--600x400.png 600w, /wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar--300x200.png 300w, /wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar--1024x683.png 1024w, /wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar--768x512.png 768w, /wp-content/uploads/2022/02/EASY-Way-To-Play-An-F-Chord-on-Guitar--1080x720.png 1080w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -540,7 +540,7 @@ seo:
 </li><li class="wp-block-post post-12782 post type-post status-publish format-standard has-post-thumbnail hentry category-music-theory tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2023/09/learn-guitar-chord-progressions.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Guitar chord progressions for beginners" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2023/09/learn-guitar-chord-progressions.png 1200w, /wp-content/uploads/2023/09/learn-guitar-chord-progressions-600x400.png 600w, /wp-content/uploads/2023/09/learn-guitar-chord-progressions-300x200.png 300w, /wp-content/uploads/2023/09/learn-guitar-chord-progressions-1024x683.png 1024w, /wp-content/uploads/2023/09/learn-guitar-chord-progressions-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -566,7 +566,7 @@ seo:
 </li><li class="wp-block-post post-7596 post type-post status-publish format-standard has-post-thumbnail hentry category-music-theory tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/04/Untitled-design-3.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Music Theory" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2022/04/Untitled-design-3.png 1200w, /wp-content/uploads/2022/04/Untitled-design-3-600x400.png 600w, /wp-content/uploads/2022/04/Untitled-design-3-300x200.png 300w, /wp-content/uploads/2022/04/Untitled-design-3-1024x683.png 1024w, /wp-content/uploads/2022/04/Untitled-design-3-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -592,7 +592,7 @@ seo:
 </li><li class="wp-block-post post-10678 post type-post status-publish format-standard has-post-thumbnail hentry category-tutorials tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/" rel="tag">Tutorials</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/" rel="tag">Tutorials</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2023/02/Scales-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2023/02/Scales-1.png 1200w, /wp-content/uploads/2023/02/Scales-1-600x400.png 600w, /wp-content/uploads/2023/02/Scales-1-300x200.png 300w, /wp-content/uploads/2023/02/Scales-1-1024x683.png 1024w, /wp-content/uploads/2023/02/Scales-1-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -618,7 +618,7 @@ seo:
 </li><li class="wp-block-post post-11079 post type-post status-publish format-standard has-post-thumbnail hentry category-music-theory tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Most Commonly Used Chord Progressions In Rock" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock.png 1200w, /wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-600x400.png 600w, /wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-300x200.png 300w, /wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-1024x683.png 1024w, /wp-content/uploads/2023/03/Most-Commonly-Used-Chord-Progressions-In-Rock-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -644,7 +644,7 @@ seo:
 </li><li class="wp-block-post post-12227 post type-post status-publish format-standard has-post-thumbnail hentry category-guitar-technique tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/guitar-technique/" rel="tag">Guitar Technique</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/guitar-technique/" rel="tag">Guitar Technique</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2023/06/Scales.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Memorizing guitar scales" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2023/06/Scales.png 1200w, /wp-content/uploads/2023/06/Scales-600x400.png 600w, /wp-content/uploads/2023/06/Scales-300x200.png 300w, /wp-content/uploads/2023/06/Scales-1024x683.png 1024w, /wp-content/uploads/2023/06/Scales-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -670,7 +670,7 @@ seo:
 </li><li class="wp-block-post post-12222 post type-post status-publish format-standard has-post-thumbnail hentry category-guitar-technique tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/guitar-technique/" rel="tag">Guitar Technique</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/guitar-technique/" rel="tag">Guitar Technique</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-cover.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Electric Guitar Easier than Piano" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-cover.png 1200w, /wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-cover-600x400.png 600w, /wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-cover-300x200.png 300w, /wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-cover-1024x683.png 1024w, /wp-content/uploads/2023/05/Electric-Guitar-Easier-than-Piano-cover-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -696,7 +696,7 @@ seo:
 </li><li class="wp-block-post post-8221 post type-post status-publish format-standard has-post-thumbnail hentry category-music-theory tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/05/Intervals-Guitar-Fretboard-Learn.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Intervals" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2022/05/Intervals-Guitar-Fretboard-Learn.png 1200w, /wp-content/uploads/2022/05/Intervals-Guitar-Fretboard-Learn-600x400.png 600w, /wp-content/uploads/2022/05/Intervals-Guitar-Fretboard-Learn-300x200.png 300w, /wp-content/uploads/2022/05/Intervals-Guitar-Fretboard-Learn-1024x683.png 1024w, /wp-content/uploads/2022/05/Intervals-Guitar-Fretboard-Learn-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -722,7 +722,7 @@ seo:
 </li><li class="wp-block-post post-8193 post type-post status-publish format-standard has-post-thumbnail hentry category-music-theory tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/05/Theory-for-guitarists.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="theory for guitarists" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2022/05/Theory-for-guitarists.png 1200w, /wp-content/uploads/2022/05/Theory-for-guitarists-600x400.png 600w, /wp-content/uploads/2022/05/Theory-for-guitarists-300x200.png 300w, /wp-content/uploads/2022/05/Theory-for-guitarists-1024x683.png 1024w, /wp-content/uploads/2022/05/Theory-for-guitarists-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 
@@ -748,7 +748,7 @@ seo:
 </li><li class="wp-block-post post-8174 post type-post status-publish format-standard has-post-thumbnail hentry category-music-theory tag-music-theory">
 
 <div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="https://www.electrikjam.com/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><div class="taxonomy-category wp-block-post-terms"><a href="/category/tutorials/music-theory/" rel="tag">Music Theory</a></div>
 
 <figure class="wp-block-post-featured-image"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/05/Music-Theory-basics.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Music Theory Basics" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2022/05/Music-Theory-basics.png 1200w, /wp-content/uploads/2022/05/Music-Theory-basics-600x400.png 600w, /wp-content/uploads/2022/05/Music-Theory-basics-300x200.png 300w, /wp-content/uploads/2022/05/Music-Theory-basics-1024x683.png 1024w, /wp-content/uploads/2022/05/Music-Theory-basics-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></figure></div>
 

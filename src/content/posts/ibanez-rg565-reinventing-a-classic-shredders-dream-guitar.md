@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="532">The Ibanez RG series is well-known</a> in the Metal community for being a perfect option for shredders everywhere. But the new Ibanez RG565 puts a interesting spin on the beloved series, and brings back a classic.</strong></p>
+<p><strong><a class="rank-math-link" href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="532">The Ibanez RG series is well-known</a> in the Metal community for being a perfect option for shredders everywhere. But the new Ibanez RG565 puts a interesting spin on the beloved series, and brings back a classic.</strong></p>
 
 
 
@@ -47,19 +47,19 @@ seo:
 
 
 
-<p>But Ibanez went on to tweak the RG model more than a few times. Making a hardtail version, <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="533">7 string Universe</a>, and many other variants. Eventually, in the early 90&#8217;s they made the Ibanez RG565. The RG565 was a departure from the usual design in a lot of ways, but unfortunately it wasn&#8217;t very popular. </p>
+<p>But Ibanez went on to tweak the RG model more than a few times. Making a hardtail version, <a href="/types-of-guitars-guide/" data-lasso-id="533">7 string Universe</a>, and many other variants. Eventually, in the early 90&#8217;s they made the Ibanez RG565. The RG565 was a departure from the usual design in a lot of ways, but unfortunately it wasn&#8217;t very popular. </p>
 
 
 
-<p>It was not the design or the features of the Ibanez RG565 that landed it in the forgotten pile. It was the birth of Grunge, and overall lack of interest in Metal music and shredding. In the early 90&#8217;s <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="534">Fender</a> and Gibson dominated the market. leaving Ibanez, B.C. Rich and other Metal focused brands on the sidelines. The Ibanez RG565 was discontinued after just <em>one year</em> of production.</p>
+<p>It was not the design or the features of the Ibanez RG565 that landed it in the forgotten pile. It was the birth of Grunge, and overall lack of interest in Metal music and shredding. In the early 90&#8217;s <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="534">Fender</a> and Gibson dominated the market. leaving Ibanez, B.C. Rich and other Metal focused brands on the sidelines. The Ibanez RG565 was discontinued after just <em>one year</em> of production.</p>
 
 
 
-<p>But it only took a few years for Metal to make a comeback when it came to the <a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-lasso-id="200806">guitar market</a>, and the 2000&#8217;s have seen a huge resurgence of guitar players that like to shred. Believe me, Ibanez has taken full advantage of that.</p>
+<p>But it only took a few years for Metal to make a comeback when it came to the <a href="/prs-guitar-pedals-reviewed/" data-lasso-id="200806">guitar market</a>, and the 2000&#8217;s have seen a huge resurgence of guitar players that like to shred. Believe me, Ibanez has taken full advantage of that.</p>
 
 
 
-<p>This is not the first time we have seen the Ibanez RG565 make a comeback. It was reissued in 2010 as a limited model, made in Indonesia. But it wasn&#8217;t until now that we see it in all it&#8217;s original glory. This is all thanks to the Genesis Collection, which revisits <a href="https://www.electrikjam.com/ibanez-rg570/" data-lasso-id="258057">classic Ibanez models</a>.</p>
+<p>This is not the first time we have seen the Ibanez RG565 make a comeback. It was reissued in 2010 as a limited model, made in Indonesia. But it wasn&#8217;t until now that we see it in all it&#8217;s original glory. This is all thanks to the Genesis Collection, which revisits <a href="/ibanez-rg570/" data-lasso-id="258057">classic Ibanez models</a>.</p>
 
 
 
@@ -83,11 +83,11 @@ seo:
 
 
 
-<p>The standout features are definitely the pickups in this model. The only Ibanez I can think of that has a single coil/humbucker setup is the <strong><a href="https://www.ibanez.com/eu/artists/detail/183.html" class="rank-math-link" data-lasso-id="535" target="_blank" rel="noopener noreferrer nofollow">Joe Satriani </a></strong>model. This pickup configuration seems to be getting more popular, as the <a href="https://www.electrikjam.com/new-solar-guitars-check-out-these-bolt-on-beauties/" class="rank-math-link" data-lasso-id="536">New Solar guitars </a>are set up the same way.</p>
+<p>The standout features are definitely the pickups in this model. The only Ibanez I can think of that has a single coil/humbucker setup is the <strong><a href="https://www.ibanez.com/eu/artists/detail/183.html" class="rank-math-link" data-lasso-id="535" target="_blank" rel="noopener noreferrer nofollow">Joe Satriani </a></strong>model. This pickup configuration seems to be getting more popular, as the <a href="/new-solar-guitars-check-out-these-bolt-on-beauties/" class="rank-math-link" data-lasso-id="536">New Solar guitars </a>are set up the same way.</p>
 
 
 
-<p>The neck pickup is a blade style single coil that is extra hot, while still retaining some warmth. Much like the <strong>Satriani</strong> models, this lends the Ibanez RG565 to being very versatile. Not only will the neck pickup be <a href="https://www.electrikjam.com/p90-pickups-guide/" data-lasso-id="145606">good for clean tones</a>, it can also add some extra flair to your solos by offering a different tone than a humbucker can give.</p>
+<p>The neck pickup is a blade style single coil that is extra hot, while still retaining some warmth. Much like the <strong>Satriani</strong> models, this lends the Ibanez RG565 to being very versatile. Not only will the neck pickup be <a href="/p90-pickups-guide/" data-lasso-id="145606">good for clean tones</a>, it can also add some extra flair to your solos by offering a different tone than a humbucker can give.</p>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<p>The five way switch allows you to split both pickups, to get a single coil/out of phase sound. This is pretty common with <a class="wpil_keyword_link" href="https://www.electrikjam.com/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255005">Ibanez guitars</a>, and adds a ton of tonal options.</p>
+<p>The five way switch allows you to split both pickups, to get a single coil/out of phase sound. This is pretty common with <a class="wpil_keyword_link" href="/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255005">Ibanez guitars</a>, and adds a ton of tonal options.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>The other standout features are the reverse <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246474">headstock and the maple fretboard</a>. The reverse headstock is a fan favorite among Ibanez lovers, and is not featured on enough models in my opinion. The same goes for maple fretboards, as Ibanez usually goes with rosewood or some other dark wood variant. </p>
+<p>The other standout features are the reverse <a href="/parts-of-an-electric-guitar/" data-lasso-id="246474">headstock and the maple fretboard</a>. The reverse headstock is a fan favorite among Ibanez lovers, and is not featured on enough models in my opinion. The same goes for maple fretboards, as Ibanez usually goes with rosewood or some other dark wood variant. </p>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/the-2021-ibanez-ichi10/" data-lasso-id="537">Ibanez flooded the market</a> with the Indonesian made models over the last decade, and almost ignored the Prestige Japan Models. These models, <a href="https://www.electrikjam.com/ibanez-iron-label-2021/" data-lasso-id="538">such as the Iron label</a>, were popular. While Ibanez expanded the affordable lines, isolation set in for the original consumer base: People who wanted a perfectly crafted shred machine.</p>
+<p><a href="/the-2021-ibanez-ichi10/" data-lasso-id="537">Ibanez flooded the market</a> with the Indonesian made models over the last decade, and almost ignored the Prestige Japan Models. These models, <a href="/ibanez-iron-label-2021/" data-lasso-id="538">such as the Iron label</a>, were popular. While Ibanez expanded the affordable lines, isolation set in for the original consumer base: People who wanted a perfectly crafted shred machine.</p>
 
 
 

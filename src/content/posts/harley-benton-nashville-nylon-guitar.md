@@ -61,7 +61,7 @@ seo:
 
 
 
-<p class="has-small-font-size">Seriously, if you&#8217;re nylon-curious or need a comfy gig-ready hybrid, <strong><a href="https://www.electrikjam.com/recommends/harley-benton-nashville-nylon/">for $299/£299 this one’s hard to beat.</a></strong></p>
+<p class="has-small-font-size">Seriously, if you&#8217;re nylon-curious or need a comfy gig-ready hybrid, <strong><a href="/recommends/harley-benton-nashville-nylon/">for $299/£299 this one’s hard to beat.</a></strong></p>
 
 
 

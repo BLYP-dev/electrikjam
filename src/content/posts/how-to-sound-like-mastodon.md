@@ -78,7 +78,7 @@ seo:
 
 
 
-<p>Hushed &amp; Grim was an incredible album. Arguably, the band’s most proggy to date. And that’s fine. But Bill Kelliher has officially confirmed that with <strong><a href="https://www.electrikjam.com/new-mastodon-album/" data-type="post" data-id="10681" data-lasso-id="216596">the band’s next album will be A LOT HEAVIER</a></strong>.</p>
+<p>Hushed &amp; Grim was an incredible album. Arguably, the band’s most proggy to date. And that’s fine. But Bill Kelliher has officially confirmed that with <strong><a href="/new-mastodon-album/" data-type="post" data-id="10681" data-lasso-id="216596">the band’s next album will be A LOT HEAVIER</a></strong>.</p>
 
 
 
@@ -106,11 +106,11 @@ seo:
 
 
 
-<p>Brent Hinds and Bill Kelliher both <strong><a data-lasso-id="216597" href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-type="post" data-id="4856">use a variety of guitars</a></strong> in their playing Bill used to play Gibson Les Paul guitars a lot but then he inked a deal with ESP, much like James Hetfield, and has been playing them for over the best part of the last decade. </p>
+<p>Brent Hinds and Bill Kelliher both <strong><a data-lasso-id="216597" href="/what-guitars-do-mastodon-use/" data-type="post" data-id="4856">use a variety of guitars</a></strong> in their playing Bill used to play Gibson Les Paul guitars a lot but then he inked a deal with ESP, much like James Hetfield, and has been playing them for over the best part of the last decade. </p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="264299">Bill left Gibson</a></strong> because – to be blunt – they weren&#8217;t interested in creating models specific to his requirements, whereas ESP was eager to work with Kelliher and we&#8217;ve seen a slew of signature models released during their partnership, most notably the Sparrowhawk. </p>
+<p><strong><a href="/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="264299">Bill left Gibson</a></strong> because – to be blunt – they weren&#8217;t interested in creating models specific to his requirements, whereas ESP was eager to work with Kelliher and we&#8217;ve seen a slew of signature models released during their partnership, most notably the Sparrowhawk. </p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<li><a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236469">Gibson Explorer</a> (Bill)</li>
+<li><a href="/gibson-80s-explorer-review/" data-lasso-id="236469">Gibson Explorer</a> (Bill)</li>
 
 
 
@@ -205,7 +205,7 @@ seo:
 
 
 <div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-289c189c wp-block-group-is-layout-flex">
-<p class="has-primary-color has-text-color has-link-color wp-elements-f505b2395d19cefa71afe0b58403dff2" style="text-decoration:underline">✅ <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" data-lasso-id="264300">The Best Budget Electric Guitars</a></strong></p>
+<p class="has-primary-color has-text-color has-link-color wp-elements-f505b2395d19cefa71afe0b58403dff2" style="text-decoration:underline">✅ <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" data-lasso-id="264300">The Best Budget Electric Guitars</a></strong></p>
 </div>
 </div>
 </div>
@@ -216,11 +216,11 @@ seo:
 
 
 
-<p>But if you cannot afford Gibson prices, like most people, you plenty of other <strong><a href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" data-type="post" data-id="1871" data-lasso-id="264301">Les Paul-style alternatives</a></strong>.</p>
+<p>But if you cannot afford Gibson prices, like most people, you plenty of other <strong><a href="/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" data-type="post" data-id="1871" data-lasso-id="264301">Les Paul-style alternatives</a></strong>.</p>
 
 
 
-<p>Our current favorite right now would have to be the <strong><a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-type="post" data-id="7671" data-lasso-id="216598">Epiphone Les Paul Prophecy</a></strong> or, for a cheaper alternative, the <strong><a href="https://www.electrikjam.com/epiphone-les-paul-custom-link/" data-type="lasso-urls" data-id="4261" rel="nofollow noopener" target="_blank" data-lasso-id="216599" data-lasso-name="Epiphone Les Paul Custom">Epiphone Les Paul Custom</a></strong>.</p>
+<p>Our current favorite right now would have to be the <strong><a href="/epiphone-les-paul-prophecy-colors/" data-type="post" data-id="7671" data-lasso-id="216598">Epiphone Les Paul Prophecy</a></strong> or, for a cheaper alternative, the <strong><a href="/epiphone-les-paul-custom-link/" data-type="lasso-urls" data-id="4261" rel="nofollow noopener" target="_blank" data-lasso-id="216599" data-lasso-name="Epiphone Les Paul Custom">Epiphone Les Paul Custom</a></strong>.</p>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<p>Hell, <strong><a data-lasso-id="216600" href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-type="post" data-id="2416">one of our all-time favorite guitars, the Epiphone SG</a></strong>, retails for around $399.99 and is an absolute beast when it comes to creating a thick, heavy metal guitar tone.</p>
+<p>Hell, <strong><a data-lasso-id="216600" href="/epiphone-sg-vs-epiphone-les-paul/" data-type="post" data-id="2416">one of our all-time favorite guitars, the Epiphone SG</a></strong>, retails for around $399.99 and is an absolute beast when it comes to creating a thick, heavy metal guitar tone.</p>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p>Plenty of Mastodon is in <strong><a data-lasso-id="216601" href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692">D Standard (DGCFAD)</a></strong> which is a whole step down from Standard Tuning (EADGBE).</p>
+<p>Plenty of Mastodon is in <strong><a data-lasso-id="216601" href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692">D Standard (DGCFAD)</a></strong> which is a whole step down from Standard Tuning (EADGBE).</p>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<p>Keep in mind, if you want to use these lowered tunings you will need to <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" data-lasso-id="216602">use strings designed for lower tunings.</a></strong></p>
+<p>Keep in mind, if you want to use these lowered tunings you will need to <strong><a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" data-lasso-id="216602">use strings designed for lower tunings.</a></strong></p>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<p>All the patterns and shapes are the same, ditto chords, only with D Standard you&#8217;re a whole step lower which is what gives Mastodon that &#8220;heavier&#8221; sound when compared to <strong><a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-type="post" data-id="8536" data-lasso-id="264302">metal bands that play in Standard Tuning. </a></strong></p>
+<p>All the patterns and shapes are the same, ditto chords, only with D Standard you&#8217;re a whole step lower which is what gives Mastodon that &#8220;heavier&#8221; sound when compared to <strong><a href="/10-metal-bands-that-play-in-standard-tuning/" data-type="post" data-id="8536" data-lasso-id="264302">metal bands that play in Standard Tuning. </a></strong></p>
 
 
 
@@ -332,11 +332,11 @@ seo:
 
 
 
-<p>If you&#8217;re looking to emulate Mastodon&#8217;s sound on a budget, there are plenty of affordable options available that can get you close. Look for <strong><a href="https://www.electrikjam.com/the-5-best-cheap-amps-you-can-gig-with/" data-type="post" data-id="6613" data-lasso-id="264304">high-gain amps with plenty of midrange</a></strong> and bass response.</p>
+<p>If you&#8217;re looking to emulate Mastodon&#8217;s sound on a budget, there are plenty of affordable options available that can get you close. Look for <strong><a href="/the-5-best-cheap-amps-you-can-gig-with/" data-type="post" data-id="6613" data-lasso-id="264304">high-gain amps with plenty of midrange</a></strong> and bass response.</p>
 
 
 
-<p>Alternatively, you can get damn close with software like <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="264305">STL AmpHub</a></strong> if you don&#8217;t fancy spending thousands on amps and cabinets. STL is cheap – like $9.99 a month – and you can mix and master hundreds of amps and cabinet combos. </p>
+<p>Alternatively, you can get damn close with software like <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="264305">STL AmpHub</a></strong> if you don&#8217;t fancy spending thousands on amps and cabinets. STL is cheap – like $9.99 a month – and you can mix and master hundreds of amps and cabinet combos. </p>
 
 
 
@@ -394,7 +394,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.premierguitar.com/rig-rundown-mastodon-2014" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="216603">Premier Guitar</a></strong> has a detailed guide on what pedals Mastodon were using on its most recent <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="216604">Hushed &amp; Grim</a></strong> tour.</p>
+<p><strong><a href="https://www.premierguitar.com/rig-rundown-mastodon-2014" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="216603">Premier Guitar</a></strong> has a detailed guide on what pedals Mastodon were using on its most recent <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="216604">Hushed &amp; Grim</a></strong> tour.</p>
 
 
 
@@ -438,7 +438,7 @@ seo:
 
 
 
-<p>Bill’s pedalboard has now been replaced by the Fractal Axe-Fx II. These are very pricey but as noted inside <strong><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="216605">our review of Fractal Axe-Fx II</a></strong>, if you have the money or are a professional player, this is about as good as it gets right now for sound quality and reliability.</p>
+<p>Bill’s pedalboard has now been replaced by the Fractal Axe-Fx II. These are very pricey but as noted inside <strong><a href="/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="216605">our review of Fractal Axe-Fx II</a></strong>, if you have the money or are a professional player, this is about as good as it gets right now for sound quality and reliability.</p>
 
 
 
@@ -492,7 +492,7 @@ seo:
 
 
 
-<p>You&#8217;ll also need to <strong><a href="https://www.electrikjam.com/online-guitar-modes-tool-learn-all-the-shapes-tabs/" data-type="page" data-id="14564" data-lasso-id="264306">get acquainted with the Phrygian mode</a></strong>. This mode, which is often used in metal music, is what adds that eerie, iconic sound to many of the band&#8217;s best riffs</p>
+<p>You&#8217;ll also need to <strong><a href="/online-guitar-modes-tool-learn-all-the-shapes-tabs/" data-type="page" data-id="14564" data-lasso-id="264306">get acquainted with the Phrygian mode</a></strong>. This mode, which is often used in metal music, is what adds that eerie, iconic sound to many of the band&#8217;s best riffs</p>
 
 
 
@@ -526,27 +526,27 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-type="post" data-id="8057" data-lasso-id="250497">10 Beautiful Chord Progressions For Guitar – No Theory Required!</a></strong></li>
+<li><strong><a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-type="post" data-id="8057" data-lasso-id="250497">10 Beautiful Chord Progressions For Guitar – No Theory Required!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/memorizing-guitar-scales-101/" data-type="post" data-id="12227" data-lasso-id="250498">Memorizing Guitar Scales 101: Awesome Tools For Beginner Guitarists</a></strong></li>
+<li><strong><a href="/memorizing-guitar-scales-101/" data-type="post" data-id="12227" data-lasso-id="250498">Memorizing Guitar Scales 101: Awesome Tools For Beginner Guitarists</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/most-commonly-used-chord-progressions-rock-music/" data-type="post" data-id="11079" data-lasso-id="250499">The 5 Most Commonly Used Chord Progressions In Rock</a></strong></li>
+<li><strong><a href="/most-commonly-used-chord-progressions-rock-music/" data-type="post" data-id="11079" data-lasso-id="250499">The 5 Most Commonly Used Chord Progressions In Rock</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-intervals-for-beginners/" data-type="post" data-id="8221" data-lasso-id="250500">Intervals For Beginners: The #1 Way To Unlock The ENTIRE Fretboard!</a></strong></li>
+<li><strong><a href="/guitar-intervals-for-beginners/" data-type="post" data-id="8221" data-lasso-id="250500">Intervals For Beginners: The #1 Way To Unlock The ENTIRE Fretboard!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" data-lasso-id="250501">Minor Scale &amp; 6th Mode Explained: Guitar Theory For Beginners</a></strong></li>
+<li><strong><a href="/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" data-lasso-id="250501">Minor Scale &amp; 6th Mode Explained: Guitar Theory For Beginners</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" data-lasso-id="250502">Beginner Music Theory For Guitarists: The #1 Way To Level Up Your Playing!</a></strong></li>
+<li><strong><a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" data-lasso-id="250502">Beginner Music Theory For Guitarists: The #1 Way To Level Up Your Playing!</a></strong></li>
 </ul>
 </div></div>
 

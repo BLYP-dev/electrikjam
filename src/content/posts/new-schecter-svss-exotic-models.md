@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Due to Covid, there have been some serious manufacturing problems in the world of guitars. We saw several companies like <a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="1383"><strong><span style="color: #9b51e0;" class="ugb-highlight">ESP</span></strong></a>,<a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="1384"><strong><span style="color: #9b51e0;" class="ugb-highlight"> Ibanez</span></strong></a>, and <a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="1385"><strong><span style="color: #9b51e0;" class="ugb-highlight">Cort</span></strong></a> show off what they have to offer for 2021. This was mostly during the Winter NAMM period, and even though some lineups were limited, most companies had a least a few models.</p>
+<p>Due to Covid, there have been some serious manufacturing problems in the world of guitars. We saw several companies like <a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="1383"><strong><span style="color: #9b51e0;" class="ugb-highlight">ESP</span></strong></a>,<a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="1384"><strong><span style="color: #9b51e0;" class="ugb-highlight"> Ibanez</span></strong></a>, and <a href="/cort-multi-scale-guitars-new-beautiful-models-for-2021/" class="rank-math-link" data-lasso-id="1385"><strong><span style="color: #9b51e0;" class="ugb-highlight">Cort</span></strong></a> show off what they have to offer for 2021. This was mostly during the Winter NAMM period, and even though some lineups were limited, most companies had a least a few models.</p>
 
 
 
@@ -51,15 +51,15 @@ seo:
 
 
 
-<p>The truth is: We aren&#8217;t exactly sure what is going on, except that Covid is probably responsible. I waited out the Winter NAMM period for any news of <a href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" data-lasso-id="1386">new models from Schecter</a>, and I never got a solid answer.</p>
+<p>The truth is: We aren&#8217;t exactly sure what is going on, except that Covid is probably responsible. I waited out the Winter NAMM period for any news of <a href="/new-schecter-red-reign-e-series-2021/" data-lasso-id="1386">new models from Schecter</a>, and I never got a solid answer.</p>
 
 
 
-<p>Schecter has long been a <em>huge</em> company when it comes to making solid, Metal guitars built for speed and shred. Unfortunately, the past year the California company has been mostly silent about the new lineup for 2021. That is, until now. We are finally getting a look at the <strong>Schecter SVSS Exotic</strong>, and if this is any indication of the designs that are coming for <a href="https://www.electrikjam.com/summer-namm-2022-our-1-picks-new-gear/" data-lasso-id="128857">Summer NAMM</a>, we are in for a real treat!</p>
+<p>Schecter has long been a <em>huge</em> company when it comes to making solid, Metal guitars built for speed and shred. Unfortunately, the past year the California company has been mostly silent about the new lineup for 2021. That is, until now. We are finally getting a look at the <strong>Schecter SVSS Exotic</strong>, and if this is any indication of the designs that are coming for <a href="/summer-namm-2022-our-1-picks-new-gear/" data-lasso-id="128857">Summer NAMM</a>, we are in for a real treat!</p>
 
 
 
-<p>So what is an &#8220;SVSS&#8221;? The SVSS series, or <a href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9093">&#8220;Sun Valley Super Shredder&#8221;</a>, is meant to be a tribute to the old-school, parts-caster shred machines from the 1980&#8217;s. These are stripped down and ready to play some <em>blazing fast leads</em>. They were originally equipped with EMG pickups and <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167814">Floyd Rose bridges</a>. Not to mention, they come in some really cool 80&#8217;s inspired colors!</p>
+<p>So what is an &#8220;SVSS&#8221;? The SVSS series, or <a href="/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9093">&#8220;Sun Valley Super Shredder&#8221;</a>, is meant to be a tribute to the old-school, parts-caster shred machines from the 1980&#8217;s. These are stripped down and ready to play some <em>blazing fast leads</em>. They were originally equipped with EMG pickups and <a href="/floyd-rose-bridge-explained/" data-lasso-id="167814">Floyd Rose bridges</a>. Not to mention, they come in some really cool 80&#8217;s inspired colors!</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>The new <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231838">Schecter SVSS Exotic series currently has two models</a> that were just released. Both models use premium woods this time around, while the original series used more traditional woods, like Maple and Alder. The new Schecter SVSS Exotic still retains the same features that made the original series so cool, but with a few modifications.</p>
+<p>The new <a href="/schecter-mv-6-review/" data-lasso-id="231838">Schecter SVSS Exotic series currently has two models</a> that were just released. Both models use premium woods this time around, while the original series used more traditional woods, like Maple and Alder. The new Schecter SVSS Exotic still retains the same features that made the original series so cool, but with a few modifications.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>The Schecter SVSS Exotic Ziricote model has a few aesthetic differences from it&#8217;s brother. This model has the same Black Limba bosy, but with a dark Ziricote top. <a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-lasso-id="39710">This model also has the same Schecter Custom Shop pickups</a>, but this time they have black covers. The hardware this time is black metal, both the knobs and the 5 way switch.</p>
+<p>The Schecter SVSS Exotic Ziricote model has a few aesthetic differences from it&#8217;s brother. This model has the same Black Limba bosy, but with a dark Ziricote top. <a href="/sustainiac-pickup-fixes/" data-lasso-id="39710">This model also has the same Schecter Custom Shop pickups</a>, but this time they have black covers. The hardware this time is black metal, both the knobs and the 5 way switch.</p>
 
 
 
@@ -123,11 +123,11 @@ seo:
 
 
 
-<p><strong>The Floyd Rose 1500 Bridge</strong> is a fantastic feature to start with. Most <a href="https://www.electrikjam.com/aio-wolf-guitars-review-2021/" data-lasso-id="21769">guitars under a certain price</a> point come with the Floyd Rose Special, which is a bridge that I don&#8217;t even think should exist. The Special models are notoriously known for being unreliable and I think that turns some people off of these bridges for the rest of their lives. This makes me kind of sad, because a proper Floyd, that is well set up, can be a fantastic tool!</p>
+<p><strong>The Floyd Rose 1500 Bridge</strong> is a fantastic feature to start with. Most <a href="/aio-wolf-guitars-review-2021/" data-lasso-id="21769">guitars under a certain price</a> point come with the Floyd Rose Special, which is a bridge that I don&#8217;t even think should exist. The Special models are notoriously known for being unreliable and I think that turns some people off of these bridges for the rest of their lives. This makes me kind of sad, because a proper Floyd, that is well set up, can be a fantastic tool!</p>
 
 
 
-<p>The 1500 series is exclusive to <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-lasso-id="40159">Schecter</a> and takes all of the worry out of using a &#8220;budget&#8221; Floyd Rose. This is as close to the &#8220;real deal&#8221; that you can get on a <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35983">budget guitar</a>.</p>
+<p>The 1500 series is exclusive to <a href="/schecter-nick-johnston-hss-review/" data-lasso-id="40159">Schecter</a> and takes all of the worry out of using a &#8220;budget&#8221; Floyd Rose. This is as close to the &#8220;real deal&#8221; that you can get on a <a href="/the-best-guitars-of-2021/" data-lasso-id="35983">budget guitar</a>.</p>
 
 
 
@@ -135,11 +135,11 @@ seo:
 
 
 
-<p><strong>The Custom Shop Pickups</strong> have replaced the EMG Retroactive set from the original SVSS. Both <a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="249000">Schecter SVSS Exotic models have the Sunset</a> Strip/Pasadena Custom shop Pickups. I assure you, these are not cheap imitation pickups. <a href="https://www.electrikjam.com/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="1388"><strong><span style="color: #9b51e0;" class="ugb-highlight">I&#8217;ve talked about them before in my review of another Schecter model.</span></strong></a></p>
+<p><strong>The Custom Shop Pickups</strong> have replaced the EMG Retroactive set from the original SVSS. Both <a href="/schecter-sunset-triad-review/" data-lasso-id="249000">Schecter SVSS Exotic models have the Sunset</a> Strip/Pasadena Custom shop Pickups. I assure you, these are not cheap imitation pickups. <a href="/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="1388"><strong><span style="color: #9b51e0;" class="ugb-highlight">I&#8217;ve talked about them before in my review of another Schecter model.</span></strong></a></p>
 
 
 
-<p>These are very well designed, <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="1389">high output humbuckers</a>! Personally I think they fit the SVSS series much better than the EMG set did. This is supposed to be a full on shred machine right? These pickups are also great in split coil mode, and you can get some really great <a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1390"><strong><span style="color: #9b51e0;" class="ugb-highlight">Fender</span></strong></a> type sounds out of them. This is done with the 5 way switch on these models, with the &#8220;in between&#8221; selections being the split modes.</p>
+<p>These are very well designed, <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="1389">high output humbuckers</a>! Personally I think they fit the SVSS series much better than the EMG set did. This is supposed to be a full on shred machine right? These pickups are also great in split coil mode, and you can get some really great <a href="/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1390"><strong><span style="color: #9b51e0;" class="ugb-highlight">Fender</span></strong></a> type sounds out of them. This is done with the 5 way switch on these models, with the &#8220;in between&#8221; selections being the split modes.</p>
 
 
 

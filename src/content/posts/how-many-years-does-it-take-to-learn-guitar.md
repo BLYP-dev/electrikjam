@@ -76,7 +76,7 @@ seo:
 
 
 
-<p>Saying that a guitarist is &#8220;intermediate&#8221; is a pretty broad term, so what does that mean? I think we can break it down, and make it a little bit easier to understand. Many players wonder &#8220;where they are&#8221; when it comes to <a href="https://www.electrikjam.com/is-learning-electric-guitar-hard/" data-lasso-id="215688">learning guitar</a>. In fact, I think that most beginners worry <em>TOO </em>much about their level of playing. I think a player that is intermediate has a few distinctive qualities:</p>
+<p>Saying that a guitarist is &#8220;intermediate&#8221; is a pretty broad term, so what does that mean? I think we can break it down, and make it a little bit easier to understand. Many players wonder &#8220;where they are&#8221; when it comes to <a href="/is-learning-electric-guitar-hard/" data-lasso-id="215688">learning guitar</a>. In fact, I think that most beginners worry <em>TOO </em>much about their level of playing. I think a player that is intermediate has a few distinctive qualities:</p>
 
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<p>But with a solid routine, most students end up being highly proficient after just their first year! Usually by the second year, many guitarists have moved on to things like<strong> <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="211392">music theory</a></strong>, and other advanced concepts. If you haven&#8217;t reached that level yet, that&#8217;s completely ok!<strong> Everyone learns at a different pace.</strong></p>
+<p>But with a solid routine, most students end up being highly proficient after just their first year! Usually by the second year, many guitarists have moved on to things like<strong> <a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="211392">music theory</a></strong>, and other advanced concepts. If you haven&#8217;t reached that level yet, that&#8217;s completely ok!<strong> Everyone learns at a different pace.</strong></p>
 
 
 
@@ -163,23 +163,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-type="post" data-id="10336" target="_blank" rel="noopener" data-lasso-id="211420"><strong>Electric Or Acoustic For Beginners?</strong></a></li>
+<li><a href="/is-electric-guitar-ok-for-beginners/" data-type="post" data-id="10336" target="_blank" rel="noopener" data-lasso-id="211420"><strong>Electric Or Acoustic For Beginners?</strong></a></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="211421">Best Beginner Guitars</a></strong></li>
+<li><strong><a href="/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="211421">Best Beginner Guitars</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="211422">Best Beginner Amps</a></strong></li>
+<li><strong><a href="/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="211422">Best Beginner Amps</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="211423">The BOSS Katana: The Best Home Amp!</a></strong></li>
+<li><strong><a href="/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="211423">The BOSS Katana: The Best Home Amp!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="211424">Best Budget Guitars For Any Player!</a></strong></li>
+<li><strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="211424">Best Budget Guitars For Any Player!</a></strong></li>
 </ul>
 
 

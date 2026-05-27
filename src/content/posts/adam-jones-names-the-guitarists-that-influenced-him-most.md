@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>For the last two decades, Adam Jones has been one of the most<strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="10860"> influential guitarists</a></strong> working in music. No one sounds like Jones. And if they do, it is because they’ve lifted elements of his unique and instantly recognizable style of playing.</p>
+<p>For the last two decades, Adam Jones has been one of the most<strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="10860"> influential guitarists</a></strong> working in music. No one sounds like Jones. And if they do, it is because they’ve lifted elements of his unique and instantly recognizable style of playing.</p>
 
 
 
-<p>Jones plays predominantly in <strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="10861">drop D tuning</a></strong> and he ALWAYS plays a <strong><a href="https://www.electrikjam.com/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="10862">Gibson Les Paul Custom</a></strong>. But beyond these constants, his sound – and the way he plays – is constantly evolving. From TOOL’s first sludge/grunge-infused LP, Undertow, to the soaring prog-drenched highs of Lateralus and 10,000 Days, Jones’ guitar playing is as majestic as it is heavy.</p>
+<p>Jones plays predominantly in <strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="10861">drop D tuning</a></strong> and he ALWAYS plays a <strong><a href="/what-pickups-does-adam-jones-use/" data-type="post" data-id="4906" data-lasso-id="10862">Gibson Les Paul Custom</a></strong>. But beyond these constants, his sound – and the way he plays – is constantly evolving. From TOOL’s first sludge/grunge-infused LP, Undertow, to the soaring prog-drenched highs of Lateralus and 10,000 Days, Jones’ guitar playing is as majestic as it is heavy.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>But who were the guitarists that inspired <a href="https://www.electrikjam.com/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="110996">Adam Jones</a>? Who were the biggest influences to him when he was growing up and learning to play and hone his own unique sound? As always, there’s a few well-known influences as well as a couple of more esoteric ones.</p>
+<p>But who were the guitarists that inspired <a href="/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="110996">Adam Jones</a>? Who were the biggest influences to him when he was growing up and learning to play and hone his own unique sound? As always, there’s a few well-known influences as well as a couple of more esoteric ones.</p>
 
 
 
@@ -69,7 +69,7 @@ seo:
 
 
 
-<p>Everybody loves Buzz. As the main songwriter and driving force behind the <strong><em>Melvins</em></strong>, <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="10863">Buzz Osbourne</a></strong> is one of the most influential guitarists alive and working today. Buzz has inspired the playing style of everyone from Adam Jones to <a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-lasso-id="106853">Kurt Cobain</a>.</p>
+<p>Everybody loves Buzz. As the main songwriter and driving force behind the <strong><em>Melvins</em></strong>, <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="10863">Buzz Osbourne</a></strong> is one of the most influential guitarists alive and working today. Buzz has inspired the playing style of everyone from Adam Jones to <a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-lasso-id="106853">Kurt Cobain</a>.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
 </div></div>
 
 

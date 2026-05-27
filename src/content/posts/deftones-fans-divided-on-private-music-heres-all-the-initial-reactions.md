@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p>The long-awaited <strong><a href="https://www.electrikjam.com/album-reviews/deftones-private-music-review/" data-type="album-reviews" data-id="17965">Private Music album from Deftones</a></strong> has landed, and as expected, the internet is buzzing — or more accurately, <strong>Reddit is conflicted</strong>. </p>
+<p>The long-awaited <strong><a href="/album-reviews/deftones-private-music-review/" data-type="album-reviews" data-id="17965">Private Music album from Deftones</a></strong> has landed, and as expected, the internet is buzzing — or more accurately, <strong>Reddit is conflicted</strong>. </p>
 
 
 

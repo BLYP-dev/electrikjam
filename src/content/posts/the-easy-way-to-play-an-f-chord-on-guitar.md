@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>If you cannot manage a full barre chord for your F chord, or you’re looking for a heavier, more minor sound, go with an F power chord shape instead. You can do this with use two fingers, no barring necessary. If you’re playing <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="84707">faster, heavier music</a></strong> the F power chord is likely all you’ll ever need anyway.</p>
+<p>If you cannot manage a full barre chord for your F chord, or you’re looking for a heavier, more minor sound, go with an F power chord shape instead. You can do this with use two fingers, no barring necessary. If you’re playing <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="84707">faster, heavier music</a></strong> the F power chord is likely all you’ll ever need anyway.</p>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<p>If you want to add more nuance to your playing and your overall sound, incorporating SUS chords is a very simple hack to make your guitar stand out in the mix. Here’s how to play a variety of F SUS 4 chords on the <a href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-lasso-id="120182">guitar</a>.</p>
+<p>If you want to add more nuance to your playing and your overall sound, incorporating SUS chords is a very simple hack to make your guitar stand out in the mix. Here’s how to play a variety of F SUS 4 chords on the <a href="/22-frets-vs-24-frets-explained/" data-lasso-id="120182">guitar</a>.</p>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<p>For instance, <a data-lasso-id="120217" href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/">try this chord progression:</a> <strong>F Major &gt; F SUS 4 &gt; F Major </strong>. Sounds good, right? Nice and nuanced and packed with tension. This is exactly what SUS chords are designed for.</p>
+<p>For instance, <a data-lasso-id="120217" href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/">try this chord progression:</a> <strong>F Major &gt; F SUS 4 &gt; F Major </strong>. Sounds good, right? Nice and nuanced and packed with tension. This is exactly what SUS chords are designed for.</p>
 
 
 
@@ -289,7 +289,7 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="84706" href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692">Making a barre chord</a></strong> this high up is always tricky for beginners.</p>
+<p><strong><a data-lasso-id="84706" href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692">Making a barre chord</a></strong> this high up is always tricky for beginners.</p>
 
 
 
@@ -384,7 +384,7 @@ seo:
 
 
 
-<p id="htoc-think-music-theory-is-boring-and-dull-think-you-don-t-need-it-well-think-again-learning-even-just-a-little-theory-will-10x-your-playing-in-a-matter-of-weeks">Think&nbsp;<a href="https://www.electrikjam.com/music-theory-guitarists/">music theory</a>&nbsp;is boring and dull? Think you don’t need it? Well, think again –&nbsp;learning even just a little theory will 10x your playing in a matter of weeks.</p>
+<p id="htoc-think-music-theory-is-boring-and-dull-think-you-don-t-need-it-well-think-again-learning-even-just-a-little-theory-will-10x-your-playing-in-a-matter-of-weeks">Think&nbsp;<a href="/music-theory-guitarists/">music theory</a>&nbsp;is boring and dull? Think you don’t need it? Well, think again –&nbsp;learning even just a little theory will 10x your playing in a matter of weeks.</p>
 
 
 
@@ -397,27 +397,27 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/">10 Beautiful Chord Progressions For Guitar – No Theory Required!</a></strong></li>
+<li><strong><a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/">10 Beautiful Chord Progressions For Guitar – No Theory Required!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/memorizing-guitar-scales-101/">Memorizing Guitar Scales 101: Awesome Tools For Beginner Guitarists</a></strong></li>
+<li><strong><a href="/memorizing-guitar-scales-101/">Memorizing Guitar Scales 101: Awesome Tools For Beginner Guitarists</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/most-commonly-used-chord-progressions-rock-music/">The 5 Most Commonly Used Chord Progressions In Rock</a></strong></li>
+<li><strong><a href="/most-commonly-used-chord-progressions-rock-music/">The 5 Most Commonly Used Chord Progressions In Rock</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-intervals-for-beginners/">Intervals For Beginners: The #1 Way To Unlock The ENTIRE Fretboard!</a></strong></li>
+<li><strong><a href="/guitar-intervals-for-beginners/">Intervals For Beginners: The #1 Way To Unlock The ENTIRE Fretboard!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/">Minor Scale &amp; 6th Mode Explained: Guitar Theory For Beginners</a></strong></li>
+<li><strong><a href="/theory-for-guitarists-the-minor-scale/">Minor Scale &amp; 6th Mode Explained: Guitar Theory For Beginners</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/">Beginner Music Theory For Guitarists: The #1 Way To Level Up Your Playing!</a></strong></li>
+<li><strong><a href="/beginner-music-theory-for-guitarists/">Beginner Music Theory For Guitarists: The #1 Way To Level Up Your Playing!</a></strong></li>
 </ul>
 </div>
 

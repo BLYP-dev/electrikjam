@@ -51,15 +51,15 @@ seo:
 
 
 
-<p>I eventually started to rely on tube amp combos, and when Blackstar released the<a data-lasso-id="135485" href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener"><strong> HT40 model</strong></a>, I thought I had found pretty much the perfect amp<em> for me</em>. It was your usual 12&#8221; combo amp, that was perfect for just about any sized gig. I changed a lot about my rig over the years, but that Blackstar amp was the constant. It was the backbone of my sound, whether I was playing in a Blues Rock band, or my weird Math-Metal endeavors. But even that combo amp was still <em>heavy</em>.</p>
+<p>I eventually started to rely on tube amp combos, and when Blackstar released the<a data-lasso-id="135485" href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener"><strong> HT40 model</strong></a>, I thought I had found pretty much the perfect amp<em> for me</em>. It was your usual 12&#8221; combo amp, that was perfect for just about any sized gig. I changed a lot about my rig over the years, but that Blackstar amp was the constant. It was the backbone of my sound, whether I was playing in a Blues Rock band, or my weird Math-Metal endeavors. But even that combo amp was still <em>heavy</em>.</p>
 
 
 
-<p>Blackstar is one of those companies that do <a href="https://www.electrikjam.com/nux-mighty-amps-review/" data-lasso-id="159875">awesome amps</a> that range from cheap, solid state amps to all tube monsters that the pros use. I feel like Blackstar has done a little bit of everything at this point, and the Blackstar St. James is the natural progression for the company. It interweaves a little bit of modern technology with classic tube amp features. It was only a matter of time before a company like Blackstar combined all kinds of technology with all tube designs.</p>
+<p>Blackstar is one of those companies that do <a href="/nux-mighty-amps-review/" data-lasso-id="159875">awesome amps</a> that range from cheap, solid state amps to all tube monsters that the pros use. I feel like Blackstar has done a little bit of everything at this point, and the Blackstar St. James is the natural progression for the company. It interweaves a little bit of modern technology with classic tube amp features. It was only a matter of time before a company like Blackstar combined all kinds of technology with all tube designs.</p>
 
 
 
-<p>The new Blackstar St. James amplifier series seems to be the answer for gigging guitarists that want a tube amp, but hate lugging the heavy things around. Some guitarists already circumvent this problem by using<strong> <a href="https://www.electrikjam.com/best-lunchbox-amps/" data-type="post" data-id="1455" target="_blank" rel="noopener" data-lasso-id="135486">lunchbox amps</a></strong>, or they plug direct with something like the<a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="135487"> <strong>Line 6 Helix</strong></a>. Either way, guitar players seem fed up with lugging gear around, and I don&#8217;t blame them.</p>
+<p>The new Blackstar St. James amplifier series seems to be the answer for gigging guitarists that want a tube amp, but hate lugging the heavy things around. Some guitarists already circumvent this problem by using<strong> <a href="/best-lunchbox-amps/" data-type="post" data-id="1455" target="_blank" rel="noopener" data-lasso-id="135486">lunchbox amps</a></strong>, or they plug direct with something like the<a href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="135487"> <strong>Line 6 Helix</strong></a>. Either way, guitar players seem fed up with lugging gear around, and I don&#8217;t blame them.</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>The Blackstar St. James combos come in two different variations that are made for different applications. Both are pretty much the same in every way, until you get to the tubes that are used. The EL34 is obviously made for great clean tones, and British-style crunch. Then we have the 6L6 version that is geared more towards heavy, high-gain tones. Blackstar <em>usually </em>tries to cover all of these <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149203">tones in <strong>one</strong> amp</a>.</p>
+<p>The Blackstar St. James combos come in two different variations that are made for different applications. Both are pretty much the same in every way, until you get to the tubes that are used. The EL34 is obviously made for great clean tones, and British-style crunch. Then we have the 6L6 version that is geared more towards heavy, high-gain tones. Blackstar <em>usually </em>tries to cover all of these <a href="/guitar-amp-controls-explained/" data-lasso-id="149203">tones in <strong>one</strong> amp</a>.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p><strong>Both amps weighed in right at 26lbs, give or take when we put them on the scale. This is by far the most lightweight tube amp I have ever picked up. For a comparison, my <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="135495">BOSS Katana 100</a> watt combo weighs 32lbs, and I regard THAT as being a lightweight amp!</strong></p>
+<p><strong>Both amps weighed in right at 26lbs, give or take when we put them on the scale. This is by far the most lightweight tube amp I have ever picked up. For a comparison, my <a href="/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="135495">BOSS Katana 100</a> watt combo weighs 32lbs, and I regard THAT as being a lightweight amp!</strong></p>
 
 
 
@@ -147,11 +147,11 @@ seo:
 
 
 
-<p>The wood that is used is a &#8220;Candlenut Plywood&#8221;. Now for the record, I never really buy into guitar myths about wood, whether we are talking abut guitars themselves<em> or</em> speaker cabinets. I believe that the <strong><a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="136619">speaker of the amp</a>,</strong> and the guitar pickups are going to be the <em>main source of your sound</em>. This being an <strong>open back cabinet</strong> <em>does </em>have an effect on the sound. I feel like you get better bass response out of an open back cabinet, but that is just my preference.</p>
+<p>The wood that is used is a &#8220;Candlenut Plywood&#8221;. Now for the record, I never really buy into guitar myths about wood, whether we are talking abut guitars themselves<em> or</em> speaker cabinets. I believe that the <strong><a href="/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="136619">speaker of the amp</a>,</strong> and the guitar pickups are going to be the <em>main source of your sound</em>. This being an <strong>open back cabinet</strong> <em>does </em>have an effect on the sound. I feel like you get better bass response out of an open back cabinet, but that is just my preference.</p>
 
 
 
-<p>So if you do a little research, it turns out that <a href="https://www.wood-database.com/candlenut/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="136620"><strong>Candlenut</strong></a> Plywood composite should be pretty good for making a speaker cabinet. The more interesting part is the new lightweight speaker that Blackstar and <strong><a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="136621">Celestion</a> </strong>designed. These are based on the classic &#8220;Vintage 30&#8221; Celestion, but the magnet is ferrite as opposed to neodymium. This cuts down on some of the weight, while still giving you a speaker sound that guitar players are familiar with.</p>
+<p>So if you do a little research, it turns out that <a href="https://www.wood-database.com/candlenut/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="136620"><strong>Candlenut</strong></a> Plywood composite should be pretty good for making a speaker cabinet. The more interesting part is the new lightweight speaker that Blackstar and <strong><a href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="136621">Celestion</a> </strong>designed. These are based on the classic &#8220;Vintage 30&#8221; Celestion, but the magnet is ferrite as opposed to neodymium. This cuts down on some of the weight, while still giving you a speaker sound that guitar players are familiar with.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>The weird angle starts to make sense when we take a look at the back of the amp, since it saves valuable space. You have a ton of options back there, starting with the dedicated FX Loop. So many people use lopper pedals these days, that having an <a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-type="post" data-id="8354" target="_blank" rel="noopener" data-lasso-id="136622"><strong>FX Loop</strong></a> is almost a <em>necessity</em>. You also have a regular headphone output jack, and various speaker outputs in case you want to add a cabinet. But that negates the whole idea of a compact, lightweight tube amp!</p>
+<p>The weird angle starts to make sense when we take a look at the back of the amp, since it saves valuable space. You have a ton of options back there, starting with the dedicated FX Loop. So many people use lopper pedals these days, that having an <a href="/boss-katana-50-watt-vs-100-watt/" data-type="post" data-id="8354" target="_blank" rel="noopener" data-lasso-id="136622"><strong>FX Loop</strong></a> is almost a <em>necessity</em>. You also have a regular headphone output jack, and various speaker outputs in case you want to add a cabinet. But that negates the whole idea of a compact, lightweight tube amp!</p>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<p>But all of those things are pretty standard on any combo amp these days. Things get really interesting when we take a look at the USB feature. So many musicians <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="136623"><strong>record at home</strong></a> these days, going direct. You also see more musicians having a &#8216;silent stage&#8221;, which means everything runs direct into the front of the house, and the musicians wear ear monitors. The Blackstar St. James has some <em>serious</em> options to fit this new trend!</p>
+<p>But all of those things are pretty standard on any combo amp these days. Things get really interesting when we take a look at the USB feature. So many musicians <a href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="136623"><strong>record at home</strong></a> these days, going direct. You also see more musicians having a &#8216;silent stage&#8221;, which means everything runs direct into the front of the house, and the musicians wear ear monitors. The Blackstar St. James has some <em>serious</em> options to fit this new trend!</p>
 
 
 
@@ -211,11 +211,11 @@ seo:
 
 
 
-<p>I will go ahead and spoil this whole thing for you by saying both amps are awesome, and sound exactly how you think they would sound&#8230;<em>mostly</em>. I honestly like them both! Both of the Blackstar St. James combos delivered some serious tones, and the only time I used any pedals was to test out the FX Loop. The rest of the time, I plugged directly into the amp. I used my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="136625"><strong>Schecter Nick Johnston</strong></a> to test these out, since it is a versatile HSS.</p>
+<p>I will go ahead and spoil this whole thing for you by saying both amps are awesome, and sound exactly how you think they would sound&#8230;<em>mostly</em>. I honestly like them both! Both of the Blackstar St. James combos delivered some serious tones, and the only time I used any pedals was to test out the FX Loop. The rest of the time, I plugged directly into the amp. I used my <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="136625"><strong>Schecter Nick Johnston</strong></a> to test these out, since it is a versatile HSS.</p>
 
 
 
-<p>The Blackstar St. James has a lot of technology built into it, and that usually would turn me off when it comes to a &#8220;classic&#8221; tube amp. I either prefer a pure tube amp, or a modeling amp like the <a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155693">BOSS Katana</a>. Mixing the two seemed like a bad idea to me, but I am happy to report that it works. You don&#8217;t <em>have to</em> use any of the gadgetry on this amp. You can just plug in and play as it is. <em>But the features are there</em> if you want to dive into that, or you need it for live/studio use.</p>
+<p>The Blackstar St. James has a lot of technology built into it, and that usually would turn me off when it comes to a &#8220;classic&#8221; tube amp. I either prefer a pure tube amp, or a modeling amp like the <a href="/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155693">BOSS Katana</a>. Mixing the two seemed like a bad idea to me, but I am happy to report that it works. You don&#8217;t <em>have to</em> use any of the gadgetry on this amp. You can just plug in and play as it is. <em>But the features are there</em> if you want to dive into that, or you need it for live/studio use.</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p><strong>Blackstar St. James EL34 Version:</strong> The best way I could describe the sound of this amp is a Fender Blues Jr. on STEROIDS. The clean channel does that big, open clean tone that we all know and love. I found that the open back cab gives you a ton of low end, even with all of the EQ set to noon. The digital reverb sounds great, and you can get some brilliant single coil chime out of the clean channel. The is a ton of headroom too, if you want to use some<strong> <a href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-type="post" data-id="2863" target="_blank" rel="noopener" data-lasso-id="136626">pedals</a></strong>.</p>
+<p><strong>Blackstar St. James EL34 Version:</strong> The best way I could describe the sound of this amp is a Fender Blues Jr. on STEROIDS. The clean channel does that big, open clean tone that we all know and love. I found that the open back cab gives you a ton of low end, even with all of the EQ set to noon. The digital reverb sounds great, and you can get some brilliant single coil chime out of the clean channel. The is a ton of headroom too, if you want to use some<strong> <a href="/the-best-guitar-pedals-1968-2021/" data-type="post" data-id="2863" target="_blank" rel="noopener" data-lasso-id="136626">pedals</a></strong>.</p>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<p>The second channel does a great British crunch sound that leans more towards a VOX than a Marshall in my opinion. This is because the Blackstar St. James seems to love some midrange. You can scoop it out if you want, but even with the dial at noon, it sounds saturated and mid-focused. This sounds great when you turn on the boost for solos. The <strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="136627">neck position</a> </strong>single coil sounded like <em>pure butter</em> on channel two with the boost on. Depending on EQ, you can do<strong> Guns N Roses</strong>, or <strong>Queen</strong> with this channel.</p>
+<p>The second channel does a great British crunch sound that leans more towards a VOX than a Marshall in my opinion. This is because the Blackstar St. James seems to love some midrange. You can scoop it out if you want, but even with the dial at noon, it sounds saturated and mid-focused. This sounds great when you turn on the boost for solos. The <strong><a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="136627">neck position</a> </strong>single coil sounded like <em>pure butter</em> on channel two with the boost on. Depending on EQ, you can do<strong> Guns N Roses</strong>, or <strong>Queen</strong> with this channel.</p>
 
 
 
@@ -263,11 +263,11 @@ seo:
 
 
 
-<p>For the gain channel I switched over to humbuckers, and I was surprised that this is not the Peavey 5150 tone I was expecting. This is a much more organic sounding high gain. The bass is super tight, so you can chug all you want. But this is much more like a Marshall high gain, than something modern. That being said, I did try out a <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" target="_blank" rel="noopener" data-lasso-id="136628"><strong>7 string</strong></a> guitar. It works, but this is not a &#8220;modern&#8221; high gain amp <em>by any means</em>. It just doesn&#8217;t have that kind of <em>focus</em>.</p>
+<p>For the gain channel I switched over to humbuckers, and I was surprised that this is not the Peavey 5150 tone I was expecting. This is a much more organic sounding high gain. The bass is super tight, so you can chug all you want. But this is much more like a Marshall high gain, than something modern. That being said, I did try out a <a href="/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" target="_blank" rel="noopener" data-lasso-id="136628"><strong>7 string</strong></a> guitar. It works, but this is not a &#8220;modern&#8221; high gain amp <em>by any means</em>. It just doesn&#8217;t have that kind of <em>focus</em>.</p>
 
 
 
-<p>The boost function only reinforces my opinion, where it boosts the midrange. I was expecting the &#8220;Tube Screamer in front of a Peavey&#8221; type of boost, but it wasn&#8217;t <em>that at all</em>. The &#8220;sag&#8221; option tightens up everything nicely, but we are still closer to vintage Mesa Boogie territory. That being said, I am not complaining in the slightest! You can scoop the midrange out, and get that <a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" target="_blank" rel="noopener" data-lasso-id="136629"><strong>Pantera</strong></a> sound, but it is still a little <em>wooly</em>. I like it, <em>a lot</em>!</p>
+<p>The boost function only reinforces my opinion, where it boosts the midrange. I was expecting the &#8220;Tube Screamer in front of a Peavey&#8221; type of boost, but it wasn&#8217;t <em>that at all</em>. The &#8220;sag&#8221; option tightens up everything nicely, but we are still closer to vintage Mesa Boogie territory. That being said, I am not complaining in the slightest! You can scoop the midrange out, and get that <a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" target="_blank" rel="noopener" data-lasso-id="136629"><strong>Pantera</strong></a> sound, but it is still a little <em>wooly</em>. I like it, <em>a lot</em>!</p>
 
 
 

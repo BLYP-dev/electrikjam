@@ -40,15 +40,15 @@ seo:
 
 
 
-<p>I get this question from students so often, that I thought it was time to write an article about it. I have had 13 year old students ask about the guitar pickup positions, as well as some students older than me! They ask what the difference is, and why do we even have<em> so many</em> options? The answer lies in the design of the <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211331">electric guitar</a> itself, and different positions can change your whole sound.</p>
+<p>I get this question from students so often, that I thought it was time to write an article about it. I have had 13 year old students ask about the guitar pickup positions, as well as some students older than me! They ask what the difference is, and why do we even have<em> so many</em> options? The answer lies in the design of the <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211331">electric guitar</a> itself, and different positions can change your whole sound.</p>
 
 
 
-<p>Modifying your guitar with different <a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-type="post" data-id="7944" target="_blank" rel="noopener" data-lasso-id="110903"><strong>pickups</strong></a>, and different wiring has taken off in popularity over the last 30 years. Guitarists in the past often bought a guitar, and just used it as-is since there were not many aftermarket options. The 1980&#8217;s saw all kinds of innovations, and now it is almost standard to swap out some parts on your guitar. But if you are a beginner, it is important to figure out how guitar pickup positions work, at a base level, before you start ripping stuff out.</p>
+<p>Modifying your guitar with different <a href="/kurt-cobain-pickups/" data-type="post" data-id="7944" target="_blank" rel="noopener" data-lasso-id="110903"><strong>pickups</strong></a>, and different wiring has taken off in popularity over the last 30 years. Guitarists in the past often bought a guitar, and just used it as-is since there were not many aftermarket options. The 1980&#8217;s saw all kinds of innovations, and now it is almost standard to swap out some parts on your guitar. But if you are a beginner, it is important to figure out how guitar pickup positions work, at a base level, before you start ripping stuff out.</p>
 
 
 
-<p>My very first guitar was an absolutely terrible <a href="https://www.electrikjam.com/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" target="_blank" rel="noopener" data-lasso-id="110904"><strong>Stratocaster</strong></a> knockoff that cost about $90 at the time, in 1993. That would still only be the equivalent of about $180.00 today (adjusted for inflation), so this was a <a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="110905"><strong>cheap guitar</strong></a> for sure. Budget guitars were not as nice as they are these days! Later on, I got something <a href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="110906"><strong>much nicer </strong></a>when I delved into<a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-type="post" data-id="4807" target="_blank" rel="noopener" data-lasso-id="110907"><strong> Epiphone</strong></a> territory. I will always remember that first guitar though, because it had a 5-way pickup selector.</p>
+<p>My very first guitar was an absolutely terrible <a href="/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" target="_blank" rel="noopener" data-lasso-id="110904"><strong>Stratocaster</strong></a> knockoff that cost about $90 at the time, in 1993. That would still only be the equivalent of about $180.00 today (adjusted for inflation), so this was a <a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="110905"><strong>cheap guitar</strong></a> for sure. Budget guitars were not as nice as they are these days! Later on, I got something <a href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="110906"><strong>much nicer </strong></a>when I delved into<a href="/what-is-the-best-quality-epiphone-les-paul/" data-type="post" data-id="4807" target="_blank" rel="noopener" data-lasso-id="110907"><strong> Epiphone</strong></a> territory. I will always remember that first guitar though, because it had a 5-way pickup selector.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>There are a lot of different ways to wire a guitar and change the sound, and we have already talked about the <a href="https://www.electrikjam.com/tone-knob-explained/" data-type="post" data-id="7879" target="_blank" rel="noopener" data-lasso-id="110908"><strong>tone and volume</strong></a> knobs. But most guitars come with<em> </em>guitar pickup positions to choose from, as well. These two type of pickup configurations are what you will find on most <a href="https://www.electrikjam.com/guitar-string-gauges-guide/" data-lasso-id="218951">beginner guitars</a>, and most guitars in general. The pickup selectors also work <em>pretty much</em> the same, no matter what kind of guitar you have. </p>
+<p>There are a lot of different ways to wire a guitar and change the sound, and we have already talked about the <a href="/tone-knob-explained/" data-type="post" data-id="7879" target="_blank" rel="noopener" data-lasso-id="110908"><strong>tone and volume</strong></a> knobs. But most guitars come with<em> </em>guitar pickup positions to choose from, as well. These two type of pickup configurations are what you will find on most <a href="/guitar-string-gauges-guide/" data-lasso-id="218951">beginner guitars</a>, and most guitars in general. The pickup selectors also work <em>pretty much</em> the same, no matter what kind of guitar you have. </p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p>Lots of things factor into this. The <a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="110909"><strong>scale length</strong></a> of the guitar has an effect on how much the strings ring out, and where the pickups are positioned. Likewise, having 22 or 24 frets also has an effect on where the pickup physically sits. The wood resonating when you strum the guitar also has an effect, as well as the thickness of the strings. There is <em>so much</em> that goes into the guitar pickup positions, and why they sound the way they do!</p>
+<p>Lots of things factor into this. The <a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="110909"><strong>scale length</strong></a> of the guitar has an effect on how much the strings ring out, and where the pickups are positioned. Likewise, having 22 or 24 frets also has an effect on where the pickup physically sits. The wood resonating when you strum the guitar also has an effect, as well as the thickness of the strings. There is <em>so much</em> that goes into the guitar pickup positions, and why they sound the way they do!</p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>Early hollow body electric guitars in the 1940&#8217;s only had <em>one</em> pickup, and it was in the neck position. Later on, with solid body/semi hollow guitars in particular, the bridge position was added. Some metal and hard rock guitarists <em>only </em>use the bridge pickup, like <strong><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="110910">Eddie Van Halen did with his original &#8220;FrankenStrat&#8221;</a>.</strong> That&#8217;s why you see so many metal guitars that<em> only </em>have a bridge pickup.<strong> Usually it is a humbucker in the bridge position.</strong></p>
+<p>Early hollow body electric guitars in the 1940&#8217;s only had <em>one</em> pickup, and it was in the neck position. Later on, with solid body/semi hollow guitars in particular, the bridge position was added. Some metal and hard rock guitarists <em>only </em>use the bridge pickup, like <strong><a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="110910">Eddie Van Halen did with his original &#8220;FrankenStrat&#8221;</a>.</strong> That&#8217;s why you see so many metal guitars that<em> only </em>have a bridge pickup.<strong> Usually it is a humbucker in the bridge position.</strong></p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p><strong>Having 24 frets also changes the sound of the instrument, and the guitar pickup positions. </strong>This puts the neck pickup just slightly closer to the <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246491">bridge of the guitar</a>. You may not think a few millimeters may change the tone when it comes to guitar pickup positions. But technically, the neck pickup <em><strong>IS</strong></em> closer to the bridge, making it have a little more treble. For this reason, many people prefer a 22 fret guitar, to have the neck pickup in the &#8220;proper&#8221; position. But both are just <strong>options</strong>, and it is totally up to the player.</p>
+<p><strong>Having 24 frets also changes the sound of the instrument, and the guitar pickup positions. </strong>This puts the neck pickup just slightly closer to the <a href="/parts-of-an-electric-guitar/" data-lasso-id="246491">bridge of the guitar</a>. You may not think a few millimeters may change the tone when it comes to guitar pickup positions. But technically, the neck pickup <em><strong>IS</strong></em> closer to the bridge, making it have a little more treble. For this reason, many people prefer a 22 fret guitar, to have the neck pickup in the &#8220;proper&#8221; position. But both are just <strong>options</strong>, and it is totally up to the player.</p>
 
 
 
@@ -146,7 +146,7 @@ seo:
 		
 
 
-<p>When it comes to guitar pickup positions, one of the most famous and easiest to learn is the <a href="https://www.electrikjam.com/epiphone-les-paul-studio-link-2/" target="_blank" data-type="lasso-urls" data-id="5372" rel="nofollow noopener" data-lasso-id="110911" data-lasso-name="Epiphone Les Paul Studio"><strong>Les Paul </strong></a>style. This is usually a dual humbucker setup, with a <strong>3 position switch</strong>. On some dual humbucker models, you might find that the switch is up on the top, or down by the knobs. Either way, it does the exact same thing. You have three positions to choose from:</p>
+<p>When it comes to guitar pickup positions, one of the most famous and easiest to learn is the <a href="/epiphone-les-paul-studio-link-2/" target="_blank" data-type="lasso-urls" data-id="5372" rel="nofollow noopener" data-lasso-id="110911" data-lasso-name="Epiphone Les Paul Studio"><strong>Les Paul </strong></a>style. This is usually a dual humbucker setup, with a <strong>3 position switch</strong>. On some dual humbucker models, you might find that the switch is up on the top, or down by the knobs. Either way, it does the exact same thing. You have three positions to choose from:</p>
 
 
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<p>On a <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="110912"><strong>Les Paul</strong></a>, the &#8220;poker chip&#8221; piece under the switch is actually a<em> little bit deceptive </em>when it comes to <em>describing</em> the pickups. The poker chip usually says &#8220;Treble/Rhythm&#8221; in gold lettering. While the neck pickup can be used for rhythm playing, it<em> rarely</em> is. The treble description is more accurate for the bridge position, since the bridge humbucker will not be as thick sounding as the neck humbucker.</p>
+<p>On a <a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="110912"><strong>Les Paul</strong></a>, the &#8220;poker chip&#8221; piece under the switch is actually a<em> little bit deceptive </em>when it comes to <em>describing</em> the pickups. The poker chip usually says &#8220;Treble/Rhythm&#8221; in gold lettering. While the neck pickup can be used for rhythm playing, it<em> rarely</em> is. The treble description is more accurate for the bridge position, since the bridge humbucker will not be as thick sounding as the neck humbucker.</p>
 
 
 
@@ -170,11 +170,11 @@ seo:
 
 
 
-<p>The <strong>middle position</strong> is both humbuckers at the same time. Now logic would make you think that this position is going to be louder, but it isn&#8217;t. It is a <em>blend </em>of both pickups, and this is my favorite position for clean rhythm sounds. This is also a good choice for playing solos, as it gives you more treble/clarity than just the neck pickup alone. <a href="https://www.electrikjam.com/the-7-best-guitar-solos-of-all-time/" data-type="post" data-id="6884" target="_blank" rel="noopener" data-lasso-id="110913"><strong>Gary Moore</strong></a> was famous for using this position to get his lead tones, and he later modified the wiring to accent this.</p>
+<p>The <strong>middle position</strong> is both humbuckers at the same time. Now logic would make you think that this position is going to be louder, but it isn&#8217;t. It is a <em>blend </em>of both pickups, and this is my favorite position for clean rhythm sounds. This is also a good choice for playing solos, as it gives you more treble/clarity than just the neck pickup alone. <a href="/the-7-best-guitar-solos-of-all-time/" data-type="post" data-id="6884" target="_blank" rel="noopener" data-lasso-id="110913"><strong>Gary Moore</strong></a> was famous for using this position to get his lead tones, and he later modified the wiring to accent this.</p>
 
 
 
-<p>The <strong>bridge position</strong> might sound a little bit&#8230;<em> frail </em>to you at first. This is not the case, since most metal players will use the bridge pickup to get that famous <strong>chug</strong> sound. The bridge pickups provides the clarity and output you need for <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196516">playing heavy chords</a>, making it perfect for rhythm guitar parts. Just about every metal riff you hear is played on the bridge position, and usually with a <a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="110914"><strong>humbucker</strong></a>. The bridge also cuts through the mix, making it good for solos too.</p>
+<p>The <strong>bridge position</strong> might sound a little bit&#8230;<em> frail </em>to you at first. This is not the case, since most metal players will use the bridge pickup to get that famous <strong>chug</strong> sound. The bridge pickups provides the clarity and output you need for <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196516">playing heavy chords</a>, making it perfect for rhythm guitar parts. Just about every metal riff you hear is played on the bridge position, and usually with a <a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="110914"><strong>humbucker</strong></a>. The bridge also cuts through the mix, making it good for solos too.</p>
 
 
 
@@ -192,11 +192,11 @@ seo:
 
 
 
-<p>A good example of a player that uses <em>all of the guitar pickup positions</em> is <strong>Slash</strong>, who favors a <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener" data-lasso-id="110915"><strong>Les Paul</strong></a>. His lead tone is built on using the <strong>neck pickup</strong> for solos, with the tone knob turned down. His rhythm tone is almost always the <strong>bridge pickup</strong>, with some high gain from his Marshall amps. <strong>Carlos Santana</strong> also uses this method with his playing, and his neck pickup tone is the signature sound of <strong>Santana</strong>.</p>
+<p>A good example of a player that uses <em>all of the guitar pickup positions</em> is <strong>Slash</strong>, who favors a <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener" data-lasso-id="110915"><strong>Les Paul</strong></a>. His lead tone is built on using the <strong>neck pickup</strong> for solos, with the tone knob turned down. His rhythm tone is almost always the <strong>bridge pickup</strong>, with some high gain from his Marshall amps. <strong>Carlos Santana</strong> also uses this method with his playing, and his neck pickup tone is the signature sound of <strong>Santana</strong>.</p>
 
 
 
-<p>This is how you use the <strong>3 way switch</strong> on most dual pickup guitars, and it doesn&#8217;t matter if the pickups are <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="110916"><strong>active</strong></a> or <a href="https://en.wikipedia.org/wiki/Pickup_(music_technology)" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="110917"><strong>passive</strong></a>. The idea, and application remains the same. But what about other guitars that are not dual pickup configurations? Well, those can seem really complicated at first, but they really aren&#8217;t. Let&#8217;s take a look at the most famous example&#8230;</p>
+<p>This is how you use the <strong>3 way switch</strong> on most dual pickup guitars, and it doesn&#8217;t matter if the pickups are <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="110916"><strong>active</strong></a> or <a href="https://en.wikipedia.org/wiki/Pickup_(music_technology)" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="110917"><strong>passive</strong></a>. The idea, and application remains the same. But what about other guitars that are not dual pickup configurations? Well, those can seem really complicated at first, but they really aren&#8217;t. Let&#8217;s take a look at the most famous example&#8230;</p>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<p>But Leo Fender didn&#8217;t <em>start</em> with the 5 way switch! The original design for the Strat only had a <strong>3 way switch </strong>to begin with. Many famous players like <strong>Eric Clapton</strong> and<a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" target="_blank" rel="noopener" data-lasso-id="110918"> </a><strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" target="_blank" rel="noopener" data-lasso-id="110919">Jimi Hendrix</a> </strong>started doing something different with their Strats. Players started jamming the switch in the &#8220;in between&#8221; positions. They did this by blocking the switch with a coin, or anything else they could find. But why would they do this?</p>
+<p>But Leo Fender didn&#8217;t <em>start</em> with the 5 way switch! The original design for the Strat only had a <strong>3 way switch </strong>to begin with. Many famous players like <strong>Eric Clapton</strong> and<a href="/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" target="_blank" rel="noopener" data-lasso-id="110918"> </a><strong><a href="/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" target="_blank" rel="noopener" data-lasso-id="110919">Jimi Hendrix</a> </strong>started doing something different with their Strats. Players started jamming the switch in the &#8220;in between&#8221; positions. They did this by blocking the switch with a coin, or anything else they could find. But why would they do this?</p>
 
 
 
@@ -250,7 +250,7 @@ seo:
 
 
 
-<p>The third position is the <strong>middle pickup</strong> all by itself. I think out of all of the guitar pickup positions, this one gets overlooked the most. I think the middle pickup sounds great all by itself, and I use it on my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="110923"><strong>Schecter NJ to record beautiful clean tones.</strong></a> To me, it has an almost acoustic guitar quality to the sound. Don&#8217;t over look this one for playing clean chords and arpeggiated notes!</p>
+<p>The third position is the <strong>middle pickup</strong> all by itself. I think out of all of the guitar pickup positions, this one gets overlooked the most. I think the middle pickup sounds great all by itself, and I use it on my <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="110923"><strong>Schecter NJ to record beautiful clean tones.</strong></a> To me, it has an almost acoustic guitar quality to the sound. Don&#8217;t over look this one for playing clean chords and arpeggiated notes!</p>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p>The fifth position is the <strong>bridge pickup </strong>all by itself. Some people ignore this guitar pickup position because the bridge pickup can have an &#8220;ice pick&#8221; quality to it, since it has so much treble. This pickup has a dedicated tone knob for that reason. If you <a href="https://www.electrikjam.com/tone-knob-explained/" data-type="post" data-id="7879" target="_blank" rel="noopener" data-lasso-id="110924"><strong>use the tone knob</strong></a> to dial out some of that treble, you get a <em>great</em> solo tone from the bridge pickup. <strong>David Gilmour</strong> is known for using this guitar pickup position for playing some of his most famous solos.</p>
+<p>The fifth position is the <strong>bridge pickup </strong>all by itself. Some people ignore this guitar pickup position because the bridge pickup can have an &#8220;ice pick&#8221; quality to it, since it has so much treble. This pickup has a dedicated tone knob for that reason. If you <a href="/tone-knob-explained/" data-type="post" data-id="7879" target="_blank" rel="noopener" data-lasso-id="110924"><strong>use the tone knob</strong></a> to dial out some of that treble, you get a <em>great</em> solo tone from the bridge pickup. <strong>David Gilmour</strong> is known for using this guitar pickup position for playing some of his most famous solos.</p>
 
 
 
@@ -266,11 +266,11 @@ seo:
 
 
 
-<p>Some Stratocasters may have a humbucker for the fifth position <strong>bridge pickup.</strong> These are called HSS, or &#8220;Fat Strats&#8221;. But the same rules apply no matter what the bridge pickup may be. Some metal players prefer to have a humbucker in the bridge of their Strats to get a solid rhythm tone for chugging, but still have the single coils for cleans parts. A Stratocaster with a humbucker in the bridge can be very<a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" target="_blank" data-type="post" data-id="5415" rel="noopener" data-lasso-id="110925"> <strong>versatile</strong></a>, no matter what kind of music you play.</p>
+<p>Some Stratocasters may have a humbucker for the fifth position <strong>bridge pickup.</strong> These are called HSS, or &#8220;Fat Strats&#8221;. But the same rules apply no matter what the bridge pickup may be. Some metal players prefer to have a humbucker in the bridge of their Strats to get a solid rhythm tone for chugging, but still have the single coils for cleans parts. A Stratocaster with a humbucker in the bridge can be very<a href="/does-the-do-it-all-guitar-exist/" target="_blank" data-type="post" data-id="5415" rel="noopener" data-lasso-id="110925"> <strong>versatile</strong></a>, no matter what kind of music you play.</p>
 
 
 
-<p>You may have heard of the term <strong>&#8220;Super Strat&#8221; </strong>before, and most of these also have a 5 way switch, <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255028">especially guitars made by Ibanez</a>. The rules are basically the same with these guitars, as the different guitar pickup positions have blended options. Guitars like the<a href="https://www.electrikjam.com/the-ibanez-jem-777/" target="_blank" data-type="post" data-id="7392" rel="noopener" data-lasso-id="110926"> <strong>Ibanez JEM</strong></a> is famous for blending the single coil in the middle position, with the dual humbuckers. This gives you a multitude of options when it comes to dialing in your tone.</p>
+<p>You may have heard of the term <strong>&#8220;Super Strat&#8221; </strong>before, and most of these also have a 5 way switch, <a href="/ibanez-guitars/" data-lasso-id="255028">especially guitars made by Ibanez</a>. The rules are basically the same with these guitars, as the different guitar pickup positions have blended options. Guitars like the<a href="/the-ibanez-jem-777/" target="_blank" data-type="post" data-id="7392" rel="noopener" data-lasso-id="110926"> <strong>Ibanez JEM</strong></a> is famous for blending the single coil in the middle position, with the dual humbuckers. This gives you a multitude of options when it comes to dialing in your tone.</p>
 
 
 

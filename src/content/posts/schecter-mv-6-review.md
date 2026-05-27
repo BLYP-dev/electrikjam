@@ -49,23 +49,23 @@ seo:
 
 
 
-<p>This means guitars need to cover a lot of tonal ground, and have more features and options. Newer guitarists are looking for <strong><a data-lasso-id="231335" href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" target="_blank" rel="noopener">guitars that &#8220;can do it all&#8221;</a></strong> when it comes to tones. This is good news for me, because this is the type of guitarist I have ALWAYS been!</p>
+<p>This means guitars need to cover a lot of tonal ground, and have more features and options. Newer guitarists are looking for <strong><a data-lasso-id="231335" href="/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" target="_blank" rel="noopener">guitars that &#8220;can do it all&#8221;</a></strong> when it comes to tones. This is good news for me, because this is the type of guitarist I have ALWAYS been!</p>
 
 
 
-<p>We have seen <strong><a href="https://www.electrikjam.com/ibanez-tod10-tim-henson-guitar-review/" data-type="post" data-id="10270" target="_blank" rel="noopener" data-lasso-id="231827">Ibanez go down this road with the AZ Series</a></strong>, and I really like the &#8220;modern meets shred&#8221; ideas that many guitar companies are brewing up. There is something for everyone, and we are truly living in the Golden Age of Guitar.</p>
+<p>We have seen <strong><a href="/ibanez-tod10-tim-henson-guitar-review/" data-type="post" data-id="10270" target="_blank" rel="noopener" data-lasso-id="231827">Ibanez go down this road with the AZ Series</a></strong>, and I really like the &#8220;modern meets shred&#8221; ideas that many guitar companies are brewing up. There is something for everyone, and we are truly living in the Golden Age of Guitar.</p>
 
 
 
-<p>The <strong>Schecter MV-6 (Multi-Voice 6)</strong> may seem like a wild move from the brand, since it is known for being the &#8220;Metal&#8221; company. But that isn&#8217;t exactly where Schecter started, <strong><a data-lasso-id="231336" href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener">which we have talked about before</a></strong>. <strong>Schecter started as an &#8220;official&#8221; Fender replacement parts company.</strong></p>
+<p>The <strong>Schecter MV-6 (Multi-Voice 6)</strong> may seem like a wild move from the brand, since it is known for being the &#8220;Metal&#8221; company. But that isn&#8217;t exactly where Schecter started, <strong><a data-lasso-id="231336" href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener">which we have talked about before</a></strong>. <strong>Schecter started as an &#8220;official&#8221; Fender replacement parts company.</strong></p>
 
 
 
-<p>Schecter made official replacements parts for Fender, and that was a great relationship for a while. That is, until <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247843">Schecter started building their own guitars</a> out of those parts, and these models rivaled Fender guitars at NAMM 1986. That&#8217;s when the relationship ended with a lawsuit threat, and the rest is history.</p>
+<p>Schecter made official replacements parts for Fender, and that was a great relationship for a while. That is, until <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247843">Schecter started building their own guitars</a> out of those parts, and these models rivaled Fender guitars at NAMM 1986. That&#8217;s when the relationship ended with a lawsuit threat, and the rest is history.</p>
 
 
 
-<p>The Schecter MV-6 is right in line with the guitars that the company used to make, back in the day, but with an interesting spin. The MV-6 is also keeping up with what Schecter has been doing<em> lately</em>. <strong><a data-lasso-id="231337" href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener">The Nick Johnston Signature was a sleeper hit</a></strong>, and has caused a lot of guitarists to take notice of Schecter.</p>
+<p>The Schecter MV-6 is right in line with the guitars that the company used to make, back in the day, but with an interesting spin. The MV-6 is also keeping up with what Schecter has been doing<em> lately</em>. <strong><a data-lasso-id="231337" href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener">The Nick Johnston Signature was a sleeper hit</a></strong>, and has caused a lot of guitarists to take notice of Schecter.</p>
 
 
 
@@ -93,7 +93,7 @@ seo:
 
 
 
-<p>Now, I am not saying that Schecter is going to stop making the <strong><a href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="231828" data-lasso-name="Schecter Hellraiser FRS">trademark Hellraiser</a></strong>, or other Super-Strats <strong><a data-lasso-id="231338" href="https://www.electrikjam.com/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener">like the Reaper Series</a></strong>. Nor <em>should </em>the company stop producing those models. I&#8217;m sure that those are not going away anytime soon, so worry not. I seriously doubt that any of the more &#8220;extreme&#8221; models will fall out of favor as a niche option.</p>
+<p>Now, I am not saying that Schecter is going to stop making the <strong><a href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="231828" data-lasso-name="Schecter Hellraiser FRS">trademark Hellraiser</a></strong>, or other Super-Strats <strong><a data-lasso-id="231338" href="/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener">like the Reaper Series</a></strong>. Nor <em>should </em>the company stop producing those models. I&#8217;m sure that those are not going away anytime soon, so worry not. I seriously doubt that any of the more &#8220;extreme&#8221; models will fall out of favor as a niche option.</p>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<p>Feature-wise, the Schecter MV-6 has everything you have come to expect from Schecter, even on the <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="231829">budget models</a></strong>. You get locking tuners, and a TUSQ nut that ensures that you will stay in tune when you are abusing the trem system, just like the NJ models.</p>
+<p>Feature-wise, the Schecter MV-6 has everything you have come to expect from Schecter, even on the <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="231829">budget models</a></strong>. You get locking tuners, and a TUSQ nut that ensures that you will stay in tune when you are abusing the trem system, just like the NJ models.</p>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<p>The 2-point trem system is also the same in many ways, but Schecter has upgraded the MV-6 to have stainless saddles. These should last a lifetime, since stainless saddles are much harder than the usual plain steel. These saddles are also much less likely to strip out, when <strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="231831">adjusting the height and intonation</a></strong>.</p>
+<p>The 2-point trem system is also the same in many ways, but Schecter has upgraded the MV-6 to have stainless saddles. These should last a lifetime, since stainless saddles are much harder than the usual plain steel. These saddles are also much less likely to strip out, when <strong><a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="231831">adjusting the height and intonation</a></strong>.</p>
 
 
 
@@ -339,7 +339,7 @@ seo:
 
 
 
-<p>I originally said &#8221; I have never seen a pickup layout like this&#8221; on my first draft of the article. But then I found the Squier Contemporary Stratocaster that has a similar layout. Despite the fact that it may not be breaking new ground in design, per se, the <a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="248994">Schecter MV-6 does offer some unique</a> tones.</p>
+<p>I originally said &#8221; I have never seen a pickup layout like this&#8221; on my first draft of the article. But then I found the Squier Contemporary Stratocaster that has a similar layout. Despite the fact that it may not be breaking new ground in design, per se, the <a href="/schecter-sunset-triad-review/" data-lasso-id="248994">Schecter MV-6 does offer some unique</a> tones.</p>
 
 
 
@@ -355,7 +355,7 @@ seo:
 
 
 
-<p>Finally, you have an option on the Schecter MV-6 that allows you to have all of the pickups on at the same time, as well as two of the single coils in parallel. This gives you the &#8220;quack&#8221; position of a Strat in theory, but again&#8230; <strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="231832">the pickup positions</a></strong> are different in placement. </p>
+<p>Finally, you have an option on the Schecter MV-6 that allows you to have all of the pickups on at the same time, as well as two of the single coils in parallel. This gives you the &#8220;quack&#8221; position of a Strat in theory, but again&#8230; <strong><a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="231832">the pickup positions</a></strong> are different in placement. </p>
 
 
 

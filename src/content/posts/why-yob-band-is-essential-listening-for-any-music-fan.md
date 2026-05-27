@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>YOB is different. YOB is one of those bands, <a href="https://www.electrikjam.com/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="110999">like TOOL or Rush</a>, that kind of defies generalization. Yes, YOB is a metal band. Yes, YOB is a doom band. And, yes, YOB has elements of sludge too. But YOB is also much, much more than this too –&nbsp;they have something extraordinarily special in music: they’re not only unique but incredibly creative.</p>
+<p>YOB is different. YOB is one of those bands, <a href="/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="110999">like TOOL or Rush</a>, that kind of defies generalization. Yes, YOB is a metal band. Yes, YOB is a doom band. And, yes, YOB has elements of sludge too. But YOB is also much, much more than this too –&nbsp;they have something extraordinarily special in music: they’re not only unique but incredibly creative.</p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>Mike Scheidt sings –&nbsp;his voice a unique mix of gravel and honey –&nbsp;while doing things with his guitar that I have never seen before. I was kind of memorized watching him; <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="84709">his choice of chords</a>, his phrasings –&nbsp;everything was just weird and bizarre. But it all sounded so good, so unique, so original. It was heavy, of course, but there is a dynamic at play YOB’s music that is sorely lacking in many of its contemporaries and peers.</p>
+<p>Mike Scheidt sings –&nbsp;his voice a unique mix of gravel and honey –&nbsp;while doing things with his guitar that I have never seen before. I was kind of memorized watching him; <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="84709">his choice of chords</a>, his phrasings –&nbsp;everything was just weird and bizarre. But it all sounded so good, so unique, so original. It was heavy, of course, but there is a dynamic at play YOB’s music that is sorely lacking in many of its contemporaries and peers.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>Mike Scheidt has always been at the forefront, however, in the driving seat. It is his vision that has evolved the YOB that was stated in 1996 to the YOB that we have today. His influences, his playing style –&nbsp;it really is something else –&nbsp;and his tone and overall philosophy are what make YOB not only a great band but something I feel we’ll be talking about in the decades to come –&nbsp;<strong><a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="36108">like The Beatles</a></strong>, Tool, Radiohead. Special bands.</p>
+<p>Mike Scheidt has always been at the forefront, however, in the driving seat. It is his vision that has evolved the YOB that was stated in 1996 to the YOB that we have today. His influences, his playing style –&nbsp;it really is something else –&nbsp;and his tone and overall philosophy are what make YOB not only a great band but something I feel we’ll be talking about in the decades to come –&nbsp;<strong><a href="/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="36108">like The Beatles</a></strong>, Tool, Radiohead. Special bands.</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>Clearing The Path To Ascend was a critically acclaimed album; Rolling Stone adored it, as did plenty of other mainstream music rags. And remember: <strong>up to this point, YOB was cast as just another sludge/doom band</strong>. This album showed the world that, <a href="https://www.electrikjam.com/new-tool-album-release-date/" data-lasso-id="44145">like TOOL</a> or Rush or Mastodon, there was way more depth to YOB’s music.</p>
+<p>Clearing The Path To Ascend was a critically acclaimed album; Rolling Stone adored it, as did plenty of other mainstream music rags. And remember: <strong>up to this point, YOB was cast as just another sludge/doom band</strong>. This album showed the world that, <a href="/new-tool-album-release-date/" data-lasso-id="44145">like TOOL</a> or Rush or Mastodon, there was way more depth to YOB’s music.</p>
 
 
 

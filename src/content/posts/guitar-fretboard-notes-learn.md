@@ -39,15 +39,15 @@ seo:
 
 
 
-<p>One of the most intimidating aspects of learning to play guitar is navigating the fretboard. You have six strings –&nbsp;on most <a href="https://www.electrikjam.com/guitar-string-gauges-guide/" data-lasso-id="218952">guitars</a> –&nbsp;and the strings are tuned EADGBE. Out of this equation, however, you have literally hundreds of potential notes and positions.</p>
+<p>One of the most intimidating aspects of learning to play guitar is navigating the fretboard. You have six strings –&nbsp;on most <a href="/guitar-string-gauges-guide/" data-lasso-id="218952">guitars</a> –&nbsp;and the strings are tuned EADGBE. Out of this equation, however, you have literally hundreds of potential notes and positions.</p>
 
 
 
-<p>So how do you memorize ALL of the notes on the fretboard? There are tons of ways to do this but most of them are painful and difficult for beginners to understand. This method for quickly understanding the <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246488">guitar fretboard</a>, however, requires no music theory, no experience, and hardly any time at all.</p>
+<p>So how do you memorize ALL of the notes on the fretboard? There are tons of ways to do this but most of them are painful and difficult for beginners to understand. This method for quickly understanding the <a href="/parts-of-an-electric-guitar/" data-lasso-id="246488">guitar fretboard</a>, however, requires no music theory, no experience, and hardly any time at all.</p>
 
 
 
-<p>All you’ll <a href="https://www.electrikjam.com/line-6-3-5-update-explained/" data-lasso-id="197564">need to know</a> is the major scale and, more specifically, how to play it. But don’t worry, this is really simple stuff. And once you have the <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125932">major scale</a> down –&nbsp;even for just one position, say A –&nbsp;it will open up the guitar neck like never before. Sounds too good to be true? It ain’t –&nbsp;read on for more information…</p>
+<p>All you’ll <a href="/line-6-3-5-update-explained/" data-lasso-id="197564">need to know</a> is the major scale and, more specifically, how to play it. But don’t worry, this is really simple stuff. And once you have the <a href="/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125932">major scale</a> down –&nbsp;even for just one position, say A –&nbsp;it will open up the guitar neck like never before. Sounds too good to be true? It ain’t –&nbsp;read on for more information…</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>I said you need to <a href="https://www.electrikjam.com/do-guitarists-know-every-scale/" data-lasso-id="216526">know the major scale</a> right? Well, let’s get that out of the way. As I said, it is <em>really easy</em>. But first, you <a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212779">need to know that the guitar’s</a> musical alphabet too –&nbsp;it goes <strong>A, B, C, D, E, F, and G</strong>, and then it restarts again, so if you’re on <strong>G your next note in the alphabet is A and so on</strong>. <strong>Start on a B, then you go to C, D, E, F, G</strong>, and so on. It makes an<strong> eternal loop</strong>!</p>
+<p>I said you need to <a href="/do-guitarists-know-every-scale/" data-lasso-id="216526">know the major scale</a> right? Well, let’s get that out of the way. As I said, it is <em>really easy</em>. But first, you <a href="/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212779">need to know that the guitar’s</a> musical alphabet too –&nbsp;it goes <strong>A, B, C, D, E, F, and G</strong>, and then it restarts again, so if you’re on <strong>G your next note in the alphabet is A and so on</strong>. <strong>Start on a B, then you go to C, D, E, F, G</strong>, and so on. It makes an<strong> eternal loop</strong>!</p>
 
 
 
@@ -95,11 +95,11 @@ seo:
 
 
 
-<p>Using this little hack, you’ve just unlocked a solid portion of the fretboard –&nbsp;15 notes, basically. More than enough to start expanding your riffs, developing licks, and finding notes easier. You now have the positions for an entire array of notes. And from these notes, you can build out other scales like <strong><a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-type="post" data-id="5271" data-lasso-id="73647">the pentatonic scale</a></strong> from locations on the fretboard that AREN’T just on the low E string.</p>
+<p>Using this little hack, you’ve just unlocked a solid portion of the fretboard –&nbsp;15 notes, basically. More than enough to start expanding your riffs, developing licks, and finding notes easier. You now have the positions for an entire array of notes. And from these notes, you can build out other scales like <strong><a href="/fretboard-hacks-that-every-beginner-should-know/" data-type="post" data-id="5271" data-lasso-id="73647">the pentatonic scale</a></strong> from locations on the fretboard that AREN’T just on the low E string.</p>
 
 
 
-<p>This isn’t a guide to learning the ENTIRE fretboard; it is more of a <strong>quick </strong><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-lasso-id="102919">music theory hack for beginners</a> to get you started with some quick wins while navigating the fretboard. You only have to learn the notes up to the 12th fret really, if you want to break it down and make it easier! <strong>The notes just repeat after the 12th fret.</strong></p>
+<p>This isn’t a guide to learning the ENTIRE fretboard; it is more of a <strong>quick </strong><a href="/beginner-music-theory-for-guitarists/" data-lasso-id="102919">music theory hack for beginners</a> to get you started with some quick wins while navigating the fretboard. You only have to learn the notes up to the 12th fret really, if you want to break it down and make it easier! <strong>The notes just repeat after the 12th fret.</strong></p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p>In order to expand this idea out beyond our G example, you’ll <a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133454">need to know</a> more about scale degrees – the space between notes. And that when you’re dealing with B notes and E notes there’s no sharp note after them as you move down the neck, so B goes straight to C –&nbsp;a half step –&nbsp;and E goes straight to F, another half step.</p>
+<p>In order to expand this idea out beyond our G example, you’ll <a href="/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133454">need to know</a> more about scale degrees – the space between notes. And that when you’re dealing with B notes and E notes there’s no sharp note after them as you move down the neck, so B goes straight to C –&nbsp;a half step –&nbsp;and E goes straight to F, another half step.</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>The brilliant thing about <strong><a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-type="post" data-id="5271" data-lasso-id="73648">learning the fretboard</a></strong> this way is that you can use the positions you already know to quickly find loads more. For instance, say you know where A is on the low E string. Using this pattern, you can now just count down the notes as follows:</p>
+<p>The brilliant thing about <strong><a href="/fretboard-hacks-that-every-beginner-should-know/" data-type="post" data-id="5271" data-lasso-id="73648">learning the fretboard</a></strong> this way is that you can use the positions you already know to quickly find loads more. For instance, say you know where A is on the low E string. Using this pattern, you can now just count down the notes as follows:</p>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<p>If you’re new to guitar, I’d just use this fretboard hack for strings E to D, so the lowest three strings. And because the high E string is the same as the low E string, you also know the positions there too. Using this method will help you start thinking outside the low E string for rooting out your notes. After a week or so of using this hack, you’ll know more or less <strong><a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-type="post" data-id="3034" data-lasso-id="73649">every note on the fretboard</a></strong> between the strings E and D.</p>
+<p>If you’re new to guitar, I’d just use this fretboard hack for strings E to D, so the lowest three strings. And because the high E string is the same as the low E string, you also know the positions there too. Using this method will help you start thinking outside the low E string for rooting out your notes. After a week or so of using this hack, you’ll know more or less <strong><a href="/how-to-find-fretboard-notes-guitar/" data-type="post" data-id="3034" data-lasso-id="73649">every note on the fretboard</a></strong> between the strings E and D.</p>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<p>This lesson is the first of what we call &#8220;breakthrough moments&#8221; in guitar. The <a href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-lasso-id="120185">guitar</a> fretboard looks very complicated at first, but using this hack you may get the other impression: <strong>the guitar fretboard repeats itself in an eternal loop, and it is actually quite limited!</strong> When I came across this concept, that&#8217;s the feeling I had&#8230;the guitar fretboard isn&#8217;t as expansive as I thought!</p>
+<p>This lesson is the first of what we call &#8220;breakthrough moments&#8221; in guitar. The <a href="/22-frets-vs-24-frets-explained/" data-lasso-id="120185">guitar</a> fretboard looks very complicated at first, but using this hack you may get the other impression: <strong>the guitar fretboard repeats itself in an eternal loop, and it is actually quite limited!</strong> When I came across this concept, that&#8217;s the feeling I had&#8230;the guitar fretboard isn&#8217;t as expansive as I thought!</p>
 
 
 

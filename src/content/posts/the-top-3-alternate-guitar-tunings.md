@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>Have you ever been in a rut when it comes to writing some new riffs? I know I have, and sometimes you just hit a wall, creatively. In fact, the #1 symptom of writer&#8217;s block is the lack of that creative &#8220;spark&#8221;. That intangible feeling you get when <a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238695">writing songs</a>.</p>
+<p>Have you ever been in a rut when it comes to writing some new riffs? I know I have, and sometimes you just hit a wall, creatively. In fact, the #1 symptom of writer&#8217;s block is the lack of that creative &#8220;spark&#8221;. That intangible feeling you get when <a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238695">writing songs</a>.</p>
 
 
 
@@ -58,19 +58,19 @@ seo:
 
 
 
-<p>Bands like <strong>Sonic Youth</strong> used creative tunings to create an entirely new sound and genre. Modern bands like <strong>Death Cab For Cutie</strong> also use alternate tunings to create riffs, atmosphere, and layers in their songs. Even <strong><a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" target="_blank" data-type="post" data-id="10952" rel="noopener" data-lasso-id="237818">bands like Periphery </a></strong>use interesting tunings to make the sound of a song interesting and fresh.</p>
+<p>Bands like <strong>Sonic Youth</strong> used creative tunings to create an entirely new sound and genre. Modern bands like <strong>Death Cab For Cutie</strong> also use alternate tunings to create riffs, atmosphere, and layers in their songs. Even <strong><a href="/periphery-djent-is-not-a-genre-album-review/" target="_blank" data-type="post" data-id="10952" rel="noopener" data-lasso-id="237818">bands like Periphery </a></strong>use interesting tunings to make the sound of a song interesting and fresh.</p>
 
 
 
-<p>Some artists like <strong>The Devin Townsend Project </strong>use one alternate tuning to define their entire style. In Devin&#8217;s case, he writes everything in an altered Open C tuning. This allows Devin to write some heavy riffs, but also creates <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251763">interesting chords</a> and drones for the lighter sections.</p>
+<p>Some artists like <strong>The Devin Townsend Project </strong>use one alternate tuning to define their entire style. In Devin&#8217;s case, he writes everything in an altered Open C tuning. This allows Devin to write some heavy riffs, but also creates <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251763">interesting chords</a> and drones for the lighter sections.</p>
 
 
 
-<p>They whole point is versatility. Sure, plenty of guitarists write<strong><a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" target="_blank" data-type="post" data-id="8536" rel="noopener" data-lasso-id="238360"> their entire career in Standard Tuning</a></strong> and never change. I mean, we call it &#8220;Standard&#8221; for a good reason, but sometimes you need a new <em>sound </em>to inspire you.</p>
+<p>They whole point is versatility. Sure, plenty of guitarists write<strong><a href="/10-metal-bands-that-play-in-standard-tuning/" target="_blank" data-type="post" data-id="8536" rel="noopener" data-lasso-id="238360"> their entire career in Standard Tuning</a></strong> and never change. I mean, we call it &#8220;Standard&#8221; for a good reason, but sometimes you need a new <em>sound </em>to inspire you.</p>
 
 
 
-<p>We have covered<strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="237819"> some popular tunings</a></strong> here before, like E Flat and Drop D. Those are certainly good for inspiring new sounds, but we wanted to explore a little further than that today. These alternate guitar tunings are less common, and may change the way you write!</p>
+<p>We have covered<strong><a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="237819"> some popular tunings</a></strong> here before, like E Flat and Drop D. Those are certainly good for inspiring new sounds, but we wanted to explore a little further than that today. These alternate guitar tunings are less common, and may change the way you write!</p>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<p>By exploring alternate tunings, you can <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251806">discover fresh chord voicings</a>, find unique melodic patterns, and tap into unexplored musical territories. Alternate guitar tunings offer a myriad of advantages that make them an excellent choice for guitarists of all levels.</p>
+<p>By exploring alternate tunings, you can <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251806">discover fresh chord voicings</a>, find unique melodic patterns, and tap into unexplored musical territories. Alternate guitar tunings offer a myriad of advantages that make them an excellent choice for guitarists of all levels.</p>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/a-beginners-guide-to-dadgad-tuning/" data-type="post" data-id="12078" target="_blank" rel="noopener" data-lasso-id="238361">DADGAD tuning is an alternative guitar tuning</a></strong> that offers a unique and rich sound, and we have talked about it before. It is named after the open strings of the guitar when tuned to this particular configuration. In DADGAD tuning, the six guitar strings are tuned to the following pitches, from low to high:</p>
+<p><strong><a href="/a-beginners-guide-to-dadgad-tuning/" data-type="post" data-id="12078" target="_blank" rel="noopener" data-lasso-id="238361">DADGAD tuning is an alternative guitar tuning</a></strong> that offers a unique and rich sound, and we have talked about it before. It is named after the open strings of the guitar when tuned to this particular configuration. In DADGAD tuning, the six guitar strings are tuned to the following pitches, from low to high:</p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<p>You can <strong><a href="https://www.electrikjam.com/a-beginners-guide-to-dadgad-tuning/" data-type="post" data-id="12078" target="_blank" rel="noopener" data-lasso-id="238362">check out our full article on on DADGAD</a></strong> tuning, which includes some of the most famous songs ever written with this popular alternate guitar tuning. The most popular is probably &#8220;Kashmir&#8221; by <strong>Led Zeppelin,</strong> but there are many others!</p>
+<p>You can <strong><a href="/a-beginners-guide-to-dadgad-tuning/" data-type="post" data-id="12078" target="_blank" rel="noopener" data-lasso-id="238362">check out our full article on on DADGAD</a></strong> tuning, which includes some of the most famous songs ever written with this popular alternate guitar tuning. The most popular is probably &#8220;Kashmir&#8221; by <strong>Led Zeppelin,</strong> but there are many others!</p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p>Like DADGAD, <strong><a href="https://www.electrikjam.com/open-g-tuning-explained/" data-type="post" data-id="11687" target="_blank" rel="noopener" data-lasso-id="238364">we have talked about Open G tuning before </a></strong>in another article, which is exactly why we decided to include this tuning in our top 3. It is used often in rock, but especially in heavy Blues-Rock like <strong>The Black Crowes </strong>and similar bands. Blues guitarists uses alternate guitar tunings all the time, and the <strong>Rolling Stones </strong>built their <em>whole sound</em> on this tuning!</p>
+<p>Like DADGAD, <strong><a href="/open-g-tuning-explained/" data-type="post" data-id="11687" target="_blank" rel="noopener" data-lasso-id="238364">we have talked about Open G tuning before </a></strong>in another article, which is exactly why we decided to include this tuning in our top 3. It is used often in rock, but especially in heavy Blues-Rock like <strong>The Black Crowes </strong>and similar bands. Blues guitarists uses alternate guitar tunings all the time, and the <strong>Rolling Stones </strong>built their <em>whole sound</em> on this tuning!</p>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<p>When it comes to Open C tuning, this might be the least explored of all of the alternate guitar tunings. It really comes down to going so low, and that means you might need to <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" target="_blank" data-type="post" data-id="7372" rel="noopener" data-lasso-id="238365">change your guitar strings</a></strong>. You may also <strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="238366">have to intonate your guitar </a></strong>for this tuning as well.</p>
+<p>When it comes to Open C tuning, this might be the least explored of all of the alternate guitar tunings. It really comes down to going so low, and that means you might need to <strong><a href="/best-strings-for-drop-tuning/" target="_blank" data-type="post" data-id="7372" rel="noopener" data-lasso-id="238365">change your guitar strings</a></strong>. You may also <strong><a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="238366">have to intonate your guitar </a></strong>for this tuning as well.</p>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<p>There are a lot of possibilities when it comes to using Open C, and bands like Periphery have modified it for songs like &#8220;Marigold&#8221;. That <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" target="_blank" data-type="post" data-id="7372" rel="noopener" data-lasso-id="238703">low C string may need a heavier string gauge</a></strong>, but it might be worth it for the change of perspective.</p>
+<p>There are a lot of possibilities when it comes to using Open C, and bands like Periphery have modified it for songs like &#8220;Marigold&#8221;. That <strong><a href="/best-strings-for-drop-tuning/" target="_blank" data-type="post" data-id="7372" rel="noopener" data-lasso-id="238703">low C string may need a heavier string gauge</a></strong>, but it might be worth it for the change of perspective.</p>
 
 
 

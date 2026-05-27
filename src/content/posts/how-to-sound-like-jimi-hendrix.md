@@ -142,11 +142,11 @@ seo:
 
 
 
-<p>But you shouldn&#8217;t really be a stickler for these kind of details. It&#8217;s overkill. You also don&#8217;t need to break the bank with a <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="259858">high-end Fender Strat model</a></strong>, either – if cash is tight. </p>
+<p>But you shouldn&#8217;t really be a stickler for these kind of details. It&#8217;s overkill. You also don&#8217;t need to break the bank with a <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="259858">high-end Fender Strat model</a></strong>, either – if cash is tight. </p>
 
 
 
-<p>You can get much the same tonal qualities loved by Hendrix with one of Fender&#8217;s Squier Strat models. <strong><a href="https://www.electrikjam.com/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" data-lasso-id="259859">The Squier Bullet Strat is bloody brilliant</a></strong>, extremely affordable, and sounds great out the box. </p>
+<p>You can get much the same tonal qualities loved by Hendrix with one of Fender&#8217;s Squier Strat models. <strong><a href="/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" data-lasso-id="259859">The Squier Bullet Strat is bloody brilliant</a></strong>, extremely affordable, and sounds great out the box. </p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>If you&#8217;re on a budget, using an Amp Sim like <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="259860">STL AmpHub</a></strong> or <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="259861">Positive Grid&#8217;s BIAS FX 2</a></strong> is going to be the quickest way to unlocking a Hendrix-like guitar tone without spending thousands of tube amps and cabinets. </p>
+<p>If you&#8217;re on a budget, using an Amp Sim like <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="259860">STL AmpHub</a></strong> or <strong><a href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="259861">Positive Grid&#8217;s BIAS FX 2</a></strong> is going to be the quickest way to unlocking a Hendrix-like guitar tone without spending thousands of tube amps and cabinets. </p>
 
 
 
@@ -282,7 +282,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong>Guitar</strong>: Fender Stratocaster, flipped for left-hand play 🔄 For budget-conscious, go with <strong><a href="https://www.electrikjam.com/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" rel="nofollow noopener" target="_blank" data-lasso-id="259862" data-lasso-name="Squier Bullet Stratocaster HSS">Squier Bullet Stratocaster</a></strong></li>
+<li><strong>Guitar</strong>: Fender Stratocaster, flipped for left-hand play 🔄 For budget-conscious, go with <strong><a href="/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" rel="nofollow noopener" target="_blank" data-lasso-id="259862" data-lasso-name="Squier Bullet Stratocaster HSS">Squier Bullet Stratocaster</a></strong></li>
 
 
 
@@ -322,7 +322,7 @@ seo:
 
 
 
-<li><strong>Key</strong>: Combine gear with <strong><a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-type="post" data-id="10787" data-lasso-id="259863">Hendrix&#8217;s playing style and tuning</a></strong> for authentic sound 🔑🎵</li>
+<li><strong>Key</strong>: Combine gear with <strong><a href="/why-did-hendrix-play-in-e-flat-tuning/" data-type="post" data-id="10787" data-lasso-id="259863">Hendrix&#8217;s playing style and tuning</a></strong> for authentic sound 🔑🎵</li>
 </ul>
 </div></div>
 

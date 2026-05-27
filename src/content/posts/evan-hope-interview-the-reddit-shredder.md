@@ -46,15 +46,15 @@ seo:
 
 
 
-<p>My name is Evan Hope, from Virginia Beach, VA. I am 30 years old and I&#8217;ve been playing guitar off and on since I was 13 or 14 years old. <a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104747">I used to play drums</a> for several years in the early 2000&#8217;s in&nbsp;a death metal band called OTIS.</p>
+<p>My name is Evan Hope, from Virginia Beach, VA. I am 30 years old and I&#8217;ve been playing guitar off and on since I was 13 or 14 years old. <a href="/ezdrummer-2-worth-it/" data-lasso-id="104747">I used to play drums</a> for several years in the early 2000&#8217;s in&nbsp;a death metal band called OTIS.</p>
 
 
 
-<p>&nbsp;I really only play extended range guitars, <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="158">specifically 8 strings</a>, and I really only use one guitar these days (I&#8217;m impressed!). I was a huge gear guy when I was younger, but once I found what I enjoyed, I pretty much called off the search!</p>
+<p>&nbsp;I really only play extended range guitars, <a href="/types-of-guitars-guide/" data-lasso-id="158">specifically 8 strings</a>, and I really only use one guitar these days (I&#8217;m impressed!). I was a huge gear guy when I was younger, but once I found what I enjoyed, I pretty much called off the search!</p>
 
 
 
-<p><br>I play a <strong><a href="https://www.electrikjam.com/recommends/strandberg-boden-original-8-string/" data-lasso-id="159">Strandberg Boden Original 8 String</a></strong>, tuned to Drop E, and it is loaded with <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-100-legit/" data-type="post" data-id="716" data-lasso-id="160">Fishman Fluence Modern</a> pickups.  I am in love with the Strandberg design. I can&#8217;t say enough good things about it, but it does seem to be a polarizing piece of gear.  </p>
+<p><br>I play a <strong><a href="/recommends/strandberg-boden-original-8-string/" data-lasso-id="159">Strandberg Boden Original 8 String</a></strong>, tuned to Drop E, and it is loaded with <a href="/fishman-fluence-modern-review-is-the-hype-100-legit/" data-type="post" data-id="716" data-lasso-id="160">Fishman Fluence Modern</a> pickups.  I am in love with the Strandberg design. I can&#8217;t say enough good things about it, but it does seem to be a polarizing piece of gear.  </p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>For amps: I used to play a Peavey 6505+ but have recently ditched my conventional amplifiers for the convenience of the<a href="https://www.electrikjam.com/recommends/line6-helix-guitar-processor/" data-lasso-id="161"> <strong>Line 6 Helix floor model</strong></a>. The only other piece of gear in my rig is an ISP Decimator that I use instead of the Helix noise gate.</p>
+<p>For amps: I used to play a Peavey 6505+ but have recently ditched my conventional amplifiers for the convenience of the<a href="/recommends/line6-helix-guitar-processor/" data-lasso-id="161"> <strong>Line 6 Helix floor model</strong></a>. The only other piece of gear in my rig is an ISP Decimator that I use instead of the Helix noise gate.</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<p>I started on drums when I was 8 or 9. My best friend&#8217;s mom was the school music teacher and he was already a monster on the drums before we even finished elementary school. So when we got to the end of middle school and wanted to <a href="https://www.electrikjam.com/starting-a-band-part-2/" data-lasso-id="73631">start a band</a>, I picked up the guitar because he was much better than me on the drums.&nbsp; </p>
+<p>I started on drums when I was 8 or 9. My best friend&#8217;s mom was the school music teacher and he was already a monster on the drums before we even finished elementary school. So when we got to the end of middle school and wanted to <a href="/starting-a-band-part-2/" data-lasso-id="73631">start a band</a>, I picked up the guitar because he was much better than me on the drums.&nbsp; </p>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<p><br>I credit a large amount of <a href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="162">the nuance in my technique</a> to Jesse Michel. He has a unique style of playing arpeggios where he will <em>descend </em>the arpeggio and immediately string-skip back to the high E string and descend again. I have shamelessly added this to my bag of tricks, but I fully credit him and his tablature for inspiring a lot of my current style!</p>
+<p><br>I credit a large amount of <a href="/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="162">the nuance in my technique</a> to Jesse Michel. He has a unique style of playing arpeggios where he will <em>descend </em>the arpeggio and immediately string-skip back to the high E string and descend again. I have shamelessly added this to my bag of tricks, but I fully credit him and his tablature for inspiring a lot of my current style!</p>
 
 
 
@@ -126,11 +126,11 @@ seo:
 
 
 
-<p>I firmly believe that <a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="164">anyone can learn to play fast</a>, but there are no short-cuts. Shred guitar has nothing to do with innate ability or talent. </p>
+<p>I firmly believe that <a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="164">anyone can learn to play fast</a>, but there are no short-cuts. Shred guitar has nothing to do with innate ability or talent. </p>
 
 
 
-<p>All of the guys you&#8217;ve ever heard playing blazing fast guitar have spent <a href="https://www.electrikjam.com/learning-guitar-guide-what-to-expect/" data-type="post" data-id="737" data-lasso-id="165">hundreds if not thousands of hours</a> in their bedroom grinding away. So, don&#8217;t be discouraged, just set that metronome slow and start building up your muscle memory. Muscle memory is the foundation of all of the techniques aspiring shredders covet.</p>
+<p>All of the guys you&#8217;ve ever heard playing blazing fast guitar have spent <a href="/learning-guitar-guide-what-to-expect/" data-type="post" data-id="737" data-lasso-id="165">hundreds if not thousands of hours</a> in their bedroom grinding away. So, don&#8217;t be discouraged, just set that metronome slow and start building up your muscle memory. Muscle memory is the foundation of all of the techniques aspiring shredders covet.</p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>&nbsp;I currently play&nbsp;for a death metal band called &#8220;The Eating Cave&#8221;. This is a recent project of mine, and I actually finished <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="166">recording guitars</a> for our debut LP &#8220;INGURGITATE&#8221; last night. </p>
+<p>&nbsp;I currently play&nbsp;for a death metal band called &#8220;The Eating Cave&#8221;. This is a recent project of mine, and I actually finished <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="166">recording guitars</a> for our debut LP &#8220;INGURGITATE&#8221; last night. </p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p>Get Evan&#8217;s guitar <strong><a href="https://www.electrikjam.com/recommends/strandberg-boden-original-8-string/" data-lasso-id="168">HERE</a></strong>. And his FX processor <strong><a href="https://www.electrikjam.com/recommends/line6-helix-guitar-processor/" data-lasso-id="169">HERE</a></strong>. </p>
+<p>Get Evan&#8217;s guitar <strong><a href="/recommends/strandberg-boden-original-8-string/" data-lasso-id="168">HERE</a></strong>. And his FX processor <strong><a href="/recommends/line6-helix-guitar-processor/" data-lasso-id="169">HERE</a></strong>. </p>
 
 
 

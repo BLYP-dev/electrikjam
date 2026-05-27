@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>Before choosing an electric guitar, it&#8217;s important to understand <strong><a href="https://www.electrikjam.com/electric-guitar-types/" data-type="page" data-id="13145" data-lasso-id="256324">the different types of guitar available</a></strong>. </p>
+<p>Before choosing an electric guitar, it&#8217;s important to understand <strong><a href="/electric-guitar-types/" data-type="page" data-id="13145" data-lasso-id="256324">the different types of guitar available</a></strong>. </p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/solid-body-electric-guitars/" data-type="page" data-id="13584" data-lasso-id="256325">Solid body guitars</a></strong> are the most common type of electric guitar. They are made from a solid piece of wood, which gives them a bright and punchy sound. They are also known for their sustain and are great for playing rock, metal, and other heavy styles of music.</p>
+<p><strong><a href="/solid-body-electric-guitars/" data-type="page" data-id="13584" data-lasso-id="256325">Solid body guitars</a></strong> are the most common type of electric guitar. They are made from a solid piece of wood, which gives them a bright and punchy sound. They are also known for their sustain and are great for playing rock, metal, and other heavy styles of music.</p>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/semi-hollow-body-guitars/" data-type="page" data-id="13590" data-lasso-id="256326">Semi-hollow body guitars</a></strong> have a solid center block with hollow wings, which gives them a warm and resonant sound. They are great for playing jazz, blues, and other styles of music that require a more mellow tone.</p>
+<p><strong><a href="/semi-hollow-body-guitars/" data-type="page" data-id="13590" data-lasso-id="256326">Semi-hollow body guitars</a></strong> have a solid center block with hollow wings, which gives them a warm and resonant sound. They are great for playing jazz, blues, and other styles of music that require a more mellow tone.</p>
 
 
 
@@ -165,37 +165,37 @@ seo:
 
 <div class="wp-block-uagb-container uagb-block-e107818d alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-container uagb-block-5de45502">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-lasso-id="256327"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/harley-benton-guitars.png" alt="harley benton guitars" class="wp-image-13293" title="" srcset="/wp-content/uploads/2023/11/harley-benton-guitars.png 500w, /wp-content/uploads/2023/11/harley-benton-guitars-300x300.png 300w, /wp-content/uploads/2023/11/harley-benton-guitars-100x100.png 100w, /wp-content/uploads/2023/11/harley-benton-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/harley-benton-guitars-guide/" data-lasso-id="256327"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/harley-benton-guitars.png" alt="harley benton guitars" class="wp-image-13293" title="" srcset="/wp-content/uploads/2023/11/harley-benton-guitars.png 500w, /wp-content/uploads/2023/11/harley-benton-guitars-300x300.png 300w, /wp-content/uploads/2023/11/harley-benton-guitars-100x100.png 100w, /wp-content/uploads/2023/11/harley-benton-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-99dccbc9">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-lasso-id="256328"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/epiphone-guitars.png" alt="epiphone guitars" class="wp-image-13292" title="" srcset="/wp-content/uploads/2023/11/epiphone-guitars.png 500w, /wp-content/uploads/2023/11/epiphone-guitars-300x300.png 300w, /wp-content/uploads/2023/11/epiphone-guitars-100x100.png 100w, /wp-content/uploads/2023/11/epiphone-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/best-epiphone-les-paul-models/" data-lasso-id="256328"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/epiphone-guitars.png" alt="epiphone guitars" class="wp-image-13292" title="" srcset="/wp-content/uploads/2023/11/epiphone-guitars.png 500w, /wp-content/uploads/2023/11/epiphone-guitars-300x300.png 300w, /wp-content/uploads/2023/11/epiphone-guitars-100x100.png 100w, /wp-content/uploads/2023/11/epiphone-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-ac539090">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/ultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="256329"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/schecter-guitars.png" alt="schecter guitars" class="wp-image-13291" title="" srcset="/wp-content/uploads/2023/11/schecter-guitars.png 500w, /wp-content/uploads/2023/11/schecter-guitars-300x300.png 300w, /wp-content/uploads/2023/11/schecter-guitars-100x100.png 100w, /wp-content/uploads/2023/11/schecter-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/ultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="256329"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/schecter-guitars.png" alt="schecter guitars" class="wp-image-13291" title="" srcset="/wp-content/uploads/2023/11/schecter-guitars.png 500w, /wp-content/uploads/2023/11/schecter-guitars-300x300.png 300w, /wp-content/uploads/2023/11/schecter-guitars-100x100.png 100w, /wp-content/uploads/2023/11/schecter-guitars-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-b57e5121">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="256330"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/PRS.png" alt="PRS" class="wp-image-13290" title="" srcset="/wp-content/uploads/2023/11/PRS.png 500w, /wp-content/uploads/2023/11/PRS-300x300.png 300w, /wp-content/uploads/2023/11/PRS-100x100.png 100w, /wp-content/uploads/2023/11/PRS-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/prs-se-series-guitars-guide/" data-lasso-id="256330"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/PRS.png" alt="PRS" class="wp-image-13290" title="" srcset="/wp-content/uploads/2023/11/PRS.png 500w, /wp-content/uploads/2023/11/PRS-300x300.png 300w, /wp-content/uploads/2023/11/PRS-100x100.png 100w, /wp-content/uploads/2023/11/PRS-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-23cf328f">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/fender-guitars/" data-lasso-id="256331"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/FENDER.png" alt="FENDER" class="wp-image-13289" title="" srcset="/wp-content/uploads/2023/11/FENDER.png 500w, /wp-content/uploads/2023/11/FENDER-300x300.png 300w, /wp-content/uploads/2023/11/FENDER-100x100.png 100w, /wp-content/uploads/2023/11/FENDER-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/fender-guitars/" data-lasso-id="256331"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/FENDER.png" alt="FENDER" class="wp-image-13289" title="" srcset="/wp-content/uploads/2023/11/FENDER.png 500w, /wp-content/uploads/2023/11/FENDER-300x300.png 300w, /wp-content/uploads/2023/11/FENDER-100x100.png 100w, /wp-content/uploads/2023/11/FENDER-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-uagb-container uagb-block-ed600674">
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="256332"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/GIBSON-1.png" alt="GIBSON (1)" class="wp-image-13288" title="" srcset="/wp-content/uploads/2023/11/GIBSON-1.png 500w, /wp-content/uploads/2023/11/GIBSON-1-300x300.png 300w, /wp-content/uploads/2023/11/GIBSON-1-100x100.png 100w, /wp-content/uploads/2023/11/GIBSON-1-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="256332"><img decoding="async" width="500" height="500" src="/wp-content/uploads/2023/11/GIBSON-1.png" alt="GIBSON (1)" class="wp-image-13288" title="" srcset="/wp-content/uploads/2023/11/GIBSON-1.png 500w, /wp-content/uploads/2023/11/GIBSON-1-300x300.png 300w, /wp-content/uploads/2023/11/GIBSON-1-100x100.png 100w, /wp-content/uploads/2023/11/GIBSON-1-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure>
 </div>
 </div></div>
 
@@ -217,7 +217,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="256333">Squier Affinity Stratocaster</a></strong> and <strong>Squier Classic Vibe ‘50s Stratocaster</strong> are two great options for beginners who are looking for a Fender guitar at an affordable price.</p>
+<p>The <strong><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="256333">Squier Affinity Stratocaster</a></strong> and <strong>Squier Classic Vibe ‘50s Stratocaster</strong> are two great options for beginners who are looking for a Fender guitar at an affordable price.</p>
 
 
 
@@ -229,7 +229,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="256334">The Epiphone Les Paul Studio</a></strong> is a great option for those who want to get the Les Paul sound without breaking the bank.</p>
+<p><strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="256334">The Epiphone Les Paul Studio</a></strong> is a great option for those who want to get the Les Paul sound without breaking the bank.</p>
 
 
 
@@ -241,7 +241,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="256335">The Ibanez RG450DX is a great option for beginners</a></strong> who are looking for a guitar that can handle heavy playing styles.</p>
+<p><strong><a href="/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="256335">The Ibanez RG450DX is a great option for beginners</a></strong> who are looking for a guitar that can handle heavy playing styles.</p>
 
 
 
@@ -249,7 +249,7 @@ seo:
 
 
 
-<p>Yamaha is a brand that is known for their affordable yet high-quality guitars. The <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="256336">Yamaha Pacifica 112V</a></strong> and <strong><a href="https://www.electrikjam.com/yamaha-revstar-element-review/" data-type="post" data-id="7174" data-lasso-id="256337">Yamaha Revstar Element RSE20</a></strong> are two great options for beginners who are looking for a guitar that is easy to play and sounds great.</p>
+<p>Yamaha is a brand that is known for their affordable yet high-quality guitars. The <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="256336">Yamaha Pacifica 112V</a></strong> and <strong><a href="/yamaha-revstar-element-review/" data-type="post" data-id="7174" data-lasso-id="256337">Yamaha Revstar Element RSE20</a></strong> are two great options for beginners who are looking for a guitar that is easy to play and sounds great.</p>
 
 
 
@@ -365,7 +365,7 @@ seo:
 
 
 
-<p>Getting the best value for your money is crucial when buying an electric guitar. One way to get the best value is to look for deals, especially during <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-black-friday-guitar-deals/" title="Black Friday" data-wpil-keyword-link="linked" data-lasso-id="257949">Black Friday</a> guitar deals. </p>
+<p>Getting the best value for your money is crucial when buying an electric guitar. One way to get the best value is to look for deals, especially during <a class="wpil_keyword_link" href="/best-black-friday-guitar-deals/" title="Black Friday" data-wpil-keyword-link="linked" data-lasso-id="257949">Black Friday</a> guitar deals. </p>
 
 
 
@@ -389,7 +389,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-1024x683.png" alt="is the Harley Benton SC-500 worth buying? Here&#039;s a complete guide on everything you need to know -- pros and cons" class="wp-image-13387" title="" srcset="/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-1024x683.png 1024w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-600x400.png 600w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-300x200.png 300w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-768x512.png 768w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">For Maximum Spec &amp; Tone, <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="256338">You CANNOT Go Wrong With Harley Benton Guitars</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-1024x683.png" alt="is the Harley Benton SC-500 worth buying? Here&#039;s a complete guide on everything you need to know -- pros and cons" class="wp-image-13387" title="" srcset="/wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-1024x683.png 1024w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-600x400.png 600w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-300x200.png 300w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series-768x512.png 768w, /wp-content/uploads/2023/11/Harley-Benton-SC-500-BK-Vintage-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">For Maximum Spec &amp; Tone, <strong><a href="/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="256338">You CANNOT Go Wrong With Harley Benton Guitars</a></strong></figcaption></figure>
 
 
 
@@ -397,7 +397,7 @@ seo:
 
 
 
-<p>When searching for the perfect electric guitar, <strong><a href="https://www.electrikjam.com/category/reviews/" data-lasso-id="256339">it&#8217;s essential to read reviews before buying</a></strong>. Reviews can provide valuable insight into the type, features, playability, comfort, and vintage style of the guitar. </p>
+<p>When searching for the perfect electric guitar, <strong><a href="/category/reviews/" data-lasso-id="256339">it&#8217;s essential to read reviews before buying</a></strong>. Reviews can provide valuable insight into the type, features, playability, comfort, and vintage style of the guitar. </p>
 
 
 
@@ -478,7 +478,7 @@ seo:
 
 
 
-<p>Some <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="256340">popular electric guitar models for beginners</a></strong> include the Squier Stratocaster, Epiphone Les Paul, Yamaha Pacifica, and Ibanez RG. These models offer a good balance of affordability, quality, and playability.</p>
+<p>Some <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="256340">popular electric guitar models for beginners</a></strong> include the Squier Stratocaster, Epiphone Les Paul, Yamaha Pacifica, and Ibanez RG. These models offer a good balance of affordability, quality, and playability.</p>
 
 
 

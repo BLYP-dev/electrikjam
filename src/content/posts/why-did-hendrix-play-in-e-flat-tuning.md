@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>Jimi set some trends for guitar players that <em>we still try to wrap our guitarist brains around today</em>! For example, we still study the way he mixed chords and lead lines together <em>effortlessly</em>. He was a trailblazer in all areas of guitar whether it was playing the instrument, or working with Jim Marshall to make it <em>louder</em> and <em>meaner</em>. <strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="216917">Combine this with Jimi&#8217;s unique approach to tone</a></strong>, and we have a true innovator.</p>
+<p>Jimi set some trends for guitar players that <em>we still try to wrap our guitarist brains around today</em>! For example, we still study the way he mixed chords and lead lines together <em>effortlessly</em>. He was a trailblazer in all areas of guitar whether it was playing the instrument, or working with Jim Marshall to make it <em>louder</em> and <em>meaner</em>. <strong><a href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="216917">Combine this with Jimi&#8217;s unique approach to tone</a></strong>, and we have a true innovator.</p>
 
 
 
@@ -204,11 +204,11 @@ seo:
 
 
 
-<p>The Fender Stratocaster has not changed much since it became the legend it is today. Honestly, I think the Strat is probably the most recognized guitar model on the planet. But at the time, it was a bit strange compared to the classic Gibson guitars. <strong>The main reason<a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="216918"> was the scale length</a></strong> <strong><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="216919">of the Stratocaster.</a></strong></p>
+<p>The Fender Stratocaster has not changed much since it became the legend it is today. Honestly, I think the Strat is probably the most recognized guitar model on the planet. But at the time, it was a bit strange compared to the classic Gibson guitars. <strong>The main reason<a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="216918"> was the scale length</a></strong> <strong><a href="/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="216919">of the Stratocaster.</a></strong></p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="216920">Leo Fender designed the Stratocaster</a></strong> to be a versatile electric guitar, that could attract all kinds of players. But Leo was not a guitarist, and the longer 25.5&#8221; scale length was a brand new concept. At the time, the Gibson scale length was the &#8220;standard&#8221;.</p>
+<p><strong><a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="216920">Leo Fender designed the Stratocaster</a></strong> to be a versatile electric guitar, that could attract all kinds of players. But Leo was not a guitarist, and the longer 25.5&#8221; scale length was a brand new concept. At the time, the Gibson scale length was the &#8220;standard&#8221;.</p>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p><strong>For the record, Jimi Hendrix did not <em>always</em> tune to E Flat</strong>. Some of his recorded songs were actually in <a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221316">standard tuning</a>, such as &#8220;Purple Haze. He also didn&#8217;t play Fender guitars exclusively, even though his name is almost synonymous with them. Jimi liked the sound of humbuckers for some of his slower jams, and he used Gibson guitars for those songs.</p>
+<p><strong>For the record, Jimi Hendrix did not <em>always</em> tune to E Flat</strong>. Some of his recorded songs were actually in <a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221316">standard tuning</a>, such as &#8220;Purple Haze. He also didn&#8217;t play Fender guitars exclusively, even though his name is almost synonymous with them. Jimi liked the sound of humbuckers for some of his slower jams, and he used Gibson guitars for those songs.</p>
 
 
 

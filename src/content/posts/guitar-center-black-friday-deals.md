@@ -36,11 +36,11 @@ seo:
 
 
 
-<p>Are you thinking about buying a new guitar? If you are, you might want to hold your horses. <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-black-friday-guitar-deals/" title="Black Friday" data-wpil-keyword-link="linked" data-lasso-id="257950">Black Friday</a> 2021 is just around the corner and there’ll be some great savings to be made on a massive range of guitars. Whether you’re looking to spend $3000 or $300, Black Friday is always a good time to pick up a new guitar.</p>
+<p>Are you thinking about buying a new guitar? If you are, you might want to hold your horses. <a class="wpil_keyword_link" href="/best-black-friday-guitar-deals/" title="Black Friday" data-wpil-keyword-link="linked" data-lasso-id="257950">Black Friday</a> 2021 is just around the corner and there’ll be some great savings to be made on a massive range of guitars. Whether you’re looking to spend $3000 or $300, Black Friday is always a good time to pick up a new guitar.</p>
 
 
 
-<p>Case in point: Guitar Center has <strong><a href="https://www.guitarcenter.com/?irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="17527">kicked off its sales event early</a></strong>, offering hundreds of dollars thousands of guitars – you have Epiphone, Fender, Squire, and Gibson all present and accounted for. There’s also plenty of deals on acoustic guitars as well if that’s more your speed. Me? I’m all about the <strong><a href="https://www.electrikjam.com/best-electric-guitars/" data-type="page" data-id="4928" data-lasso-id="17528">electric guitar</a></strong> these days. And I’m due a new one soon, so this Guitar Center sale couldn’t have come at a better time…</p>
+<p>Case in point: Guitar Center has <strong><a href="https://www.guitarcenter.com/?irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="17527">kicked off its sales event early</a></strong>, offering hundreds of dollars thousands of guitars – you have Epiphone, Fender, Squire, and Gibson all present and accounted for. There’s also plenty of deals on acoustic guitars as well if that’s more your speed. Me? I’m all about the <strong><a href="/best-electric-guitars/" data-type="page" data-id="4928" data-lasso-id="17528">electric guitar</a></strong> these days. And I’m due a new one soon, so this Guitar Center sale couldn’t have come at a better time…</p>
 
 
 
@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>You can check out ALL of Guitar Center’s Black Friday deals here. As I said in the intro, there are LOADS. Like several pages of deals across a range of <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44660">different guitar brands</a> and price points. Basically, whatever you’re looking for, you’ll find something that suits your needs.</p>
+<p>You can check out ALL of Guitar Center’s Black Friday deals here. As I said in the intro, there are LOADS. Like several pages of deals across a range of <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44660">different guitar brands</a> and price points. Basically, whatever you’re looking for, you’ll find something that suits your needs.</p>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<p>Me? I’m giving some serious consideration to picking up the <a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="17540">Fender</a> Player Stratocaster HSS. I’ve never owned a proper Fender before, and a <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="17537">Strat with HSS pickups</a></strong> is not only great for metal and rock, but it plays like an absolute dream. <strong><a href="https://www.guitarcenter.com/Fender/Player-Stratocaster-HSS-Plus-Top-Maple-Fingerboard-Limited-Edition-Electric-Guitar.gc?irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="17538">And for $749 (down from $859.99)</a></strong>, that’s about as cheap as it’ll ever get to pick up a Fender Strat.</p>
+<p>Me? I’m giving some serious consideration to picking up the <a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="17540">Fender</a> Player Stratocaster HSS. I’ve never owned a proper Fender before, and a <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="17537">Strat with HSS pickups</a></strong> is not only great for metal and rock, but it plays like an absolute dream. <strong><a href="https://www.guitarcenter.com/Fender/Player-Stratocaster-HSS-Plus-Top-Maple-Fingerboard-Limited-Edition-Electric-Guitar.gc?irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="17538">And for $749 (down from $859.99)</a></strong>, that’s about as cheap as it’ll ever get to pick up a Fender Strat.</p>
 
 
 

@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>We have been exploring <strong><a data-lasso-id="247044" href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener">Cubase</a></strong> lately, and comparing it to other DAWs after our initial review has been a fun experience. Mostly because Cubase is a very &#8220;traditional&#8221; DAW and when <strong><a data-lasso-id="247045" href="https://www.electrikjam.com/cubase-12-vs-ableton-live-11/" data-type="post" data-id="12499" target="_blank" rel="noopener">comparing it to something like Ableton Live </a></strong>has been a fun experience since the two programs are so vastly different.</p>
+<p>We have been exploring <strong><a data-lasso-id="247044" href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener">Cubase</a></strong> lately, and comparing it to other DAWs after our initial review has been a fun experience. Mostly because Cubase is a very &#8220;traditional&#8221; DAW and when <strong><a data-lasso-id="247045" href="/cubase-12-vs-ableton-live-11/" data-type="post" data-id="12499" target="_blank" rel="noopener">comparing it to something like Ableton Live </a></strong>has been a fun experience since the two programs are so vastly different.</p>
 
 
 
@@ -58,7 +58,7 @@ seo:
 
 
 
-<p>But years have passed, and while Apple still makes very powerful studio computers, the PC side of computing has caught up in various ways. <strong><a href="https://www.electrikjam.com/cubase-12-vs-ableton-live-11/" target="_blank" data-type="post" data-id="12499" rel="noopener" data-lasso-id="247245">Smaller DAW platforms</a></strong> that are more beginner-friendly have also made their way to the mainstream.</p>
+<p>But years have passed, and while Apple still makes very powerful studio computers, the PC side of computing has caught up in various ways. <strong><a href="/cubase-12-vs-ableton-live-11/" target="_blank" data-type="post" data-id="12499" rel="noopener" data-lasso-id="247245">Smaller DAW platforms</a></strong> that are more beginner-friendly have also made their way to the mainstream.</p>
 
 
 
@@ -396,7 +396,7 @@ seo:
 
 
 
-<p>The whole thing comes down to the subscription-based system that Pro Tools has decided to implement in recent years. The idea of not ever &#8220;owning&#8221; your copy of Pro Tools has scared away many users, who have moved to Cubase or <strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="247246">Reaper</a></strong> since the price has changed.</p>
+<p>The whole thing comes down to the subscription-based system that Pro Tools has decided to implement in recent years. The idea of not ever &#8220;owning&#8221; your copy of Pro Tools has scared away many users, who have moved to Cubase or <strong><a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="247246">Reaper</a></strong> since the price has changed.</p>
 
 
 
@@ -543,7 +543,7 @@ seo:
 <h3 class="rank-math-question ">Is Pro Tools The Best DAW Choice?</h3>
 <div class="rank-math-answer ">
 
-<p>Since there are many different DAW platforms these days, Pro Tools has many alternatives. One is <strong><a href="https://www.electrikjam.com/what-is-cubase/" target="_blank" data-type="post" data-id="12265" rel="noreferrer noopener">Cubase</a></strong>, a highly professional DAW that many artists use. Another is <strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" target="_blank" data-type="post" data-id="7991" rel="noreferrer noopener">Reaper</a></strong>, which is an economic DAW that many studios use.</p>
+<p>Since there are many different DAW platforms these days, Pro Tools has many alternatives. One is <strong><a href="/what-is-cubase/" target="_blank" data-type="post" data-id="12265" rel="noreferrer noopener">Cubase</a></strong>, a highly professional DAW that many artists use. Another is <strong><a href="/getting-started-with-reaper-daw/" target="_blank" data-type="post" data-id="7991" rel="noreferrer noopener">Reaper</a></strong>, which is an economic DAW that many studios use.</p>
 
 </div>
 </div>

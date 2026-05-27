@@ -308,7 +308,7 @@ seo:
 
 
 
-<p>So, once you know this, you can jam with a band and all you’ll need to know is the that you’re playing in G with a <strong><a href="https://www.electrikjam.com/guitar-chord-progressions-guide/" data-lasso-id="250200">I-IV-V progression</a></strong>.</p>
+<p>So, once you know this, you can jam with a band and all you’ll need to know is the that you’re playing in G with a <strong><a href="/guitar-chord-progressions-guide/" data-lasso-id="250200">I-IV-V progression</a></strong>.</p>
 
 
 
@@ -328,7 +328,7 @@ seo:
 
 
 
-<p>These numerals all represent positions that we call Intervals. We <strong><a href="https://www.electrikjam.com/guitar-intervals-for-beginners/" data-type="post" data-id="8221" target="_blank" rel="noopener" data-lasso-id="218934">have talked about Intervals before</a></strong> in great length, so this is just a quick crash course.</p>
+<p>These numerals all represent positions that we call Intervals. We <strong><a href="/guitar-intervals-for-beginners/" data-type="post" data-id="8221" target="_blank" rel="noopener" data-lasso-id="218934">have talked about Intervals before</a></strong> in great length, so this is just a quick crash course.</p>
 
 
 
@@ -504,7 +504,7 @@ seo:
 
 
 
-<p>Ghost is a great example of this: <strong><a href="https://www.electrikjam.com/ghost-impera-review/" data-type="post" data-id="7242" data-lasso-id="218913">Tobias Forge LOVES a classic chord progression</a></strong>, and this is part of why the band has been so successful.</p>
+<p>Ghost is a great example of this: <strong><a href="/ghost-impera-review/" data-type="post" data-id="7242" data-lasso-id="218913">Tobias Forge LOVES a classic chord progression</a></strong>, and this is part of why the band has been so successful.</p>
 
 
 
@@ -578,5 +578,5 @@ seo:
 
 
 
-<p>And if you need more chord progression inspiration, <strong><a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-type="post" data-id="8057" data-lasso-id="218914">check out these beautiful chord progressions</a></strong> for adding an extra bit of loveliness to your musical compositions. </p>
+<p>And if you need more chord progression inspiration, <strong><a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-type="post" data-id="8057" data-lasso-id="218914">check out these beautiful chord progressions</a></strong> for adding an extra bit of loveliness to your musical compositions. </p>
 

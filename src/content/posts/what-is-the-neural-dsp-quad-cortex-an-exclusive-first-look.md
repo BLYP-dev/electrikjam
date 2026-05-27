@@ -44,19 +44,19 @@ seo:
 
 
 
-<p>It&#8217;s a little difficult to wrap our minds around just how far amp sims and recording gear have come in the last 10 years. Items that were once t<a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="742">housands of dollars and reserved for studios</a>, are now available to the public for a budget cost. For a couple of grand, you can have a full studio in your house these days.</p>
+<p>It&#8217;s a little difficult to wrap our minds around just how far amp sims and recording gear have come in the last 10 years. Items that were once t<a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="742">housands of dollars and reserved for studios</a>, are now available to the public for a budget cost. For a couple of grand, you can have a full studio in your house these days.</p>
 
 
 
-<p>Nowadays, amp sims not only sound convincing, they are studio staples. It has become the norm to have a fully virtual <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-lasso-id="142274">guitar rig</a>, right on your laptop. For a few hundred bucks, you can run something like <a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="743">BIAS FX</a> and get all the sounds you need. The listener will probably be none the wiser, and you do not have to lug around any gear.</p>
+<p>Nowadays, amp sims not only sound convincing, they are studio staples. It has become the norm to have a fully virtual <a href="/gigging-on-a-budget/" data-lasso-id="142274">guitar rig</a>, right on your laptop. For a few hundred bucks, you can run something like <a href="/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="743">BIAS FX</a> and get all the sounds you need. The listener will probably be none the wiser, and you do not have to lug around any gear.</p>
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/connect-guitar-to-macbook-guide/" data-lasso-id="744">All you need to do this is an inexpensive USB audio interface</a></strong>, once you have this you can create professional-sounding tones that&#8217;ll make Billy Anderson jealous. </p>
+<p><strong><a class="rank-math-link" href="/connect-guitar-to-macbook-guide/" data-lasso-id="744">All you need to do this is an inexpensive USB audio interface</a></strong>, once you have this you can create professional-sounding tones that&#8217;ll make Billy Anderson jealous. </p>
 
 
 
-<p>But some people want at least some kind of hardware, to use as a controller base. This explains all of the Kemper and <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2514">Line 6 Helix</a> users. These small platforms still hold all <a href="https://www.electrikjam.com/expensive-amp-simulators/" data-lasso-id="745">the power of amp simulation</a>, and have onboard effects that you can use. They are portable, and easy to program. </p>
+<p>But some people want at least some kind of hardware, to use as a controller base. This explains all of the Kemper and <a href="/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2514">Line 6 Helix</a> users. These small platforms still hold all <a href="/expensive-amp-simulators/" data-lasso-id="745">the power of amp simulation</a>, and have onboard effects that you can use. They are portable, and easy to program. </p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>When it comes to being durable, it seems that the team at Neural DSP have thought of everything.  You won&#8217;t have to worry about traveling with the Neural DSP Quad Cortex, even in a <a href="https://www.electrikjam.com/the-best-gig-bags/" data-lasso-id="51431">gig bag</a> case. Which I am sure they sell.</p>
+<p>When it comes to being durable, it seems that the team at Neural DSP have thought of everything.  You won&#8217;t have to worry about traveling with the Neural DSP Quad Cortex, even in a <a href="/the-best-gig-bags/" data-lasso-id="51431">gig bag</a> case. Which I am sure they sell.</p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<p>With many effects processors, you have a limit to how many effects and amps you can blend and use at once, albeit most are pretty generous. I believe <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18323">Line 6 allows you to blend two or three amp</a> models, and maybe two IR models. Maybe a bit less than that, I am being liberal with my estimations, because that is paltry compared to what the Neural DSP Quad Cortex can do.</p>
+<p>With many effects processors, you have a limit to how many effects and amps you can blend and use at once, albeit most are pretty generous. I believe <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18323">Line 6 allows you to blend two or three amp</a> models, and maybe two IR models. Maybe a bit less than that, I am being liberal with my estimations, because that is paltry compared to what the Neural DSP Quad Cortex can do.</p>
 
 
 
@@ -106,11 +106,11 @@ seo:
 		
 
 
-<p>&#8220;<strong>Want to run four amplifier models, stereo reverbs, and a plethora of other effects simultaneously? Quad Cortex won’t even <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-lasso-id="10427">break a sweat.</strong> <strong>Quad Cortex is the most powerful</a> floor modeler on the planet. With 2GHz of dedicated DSP from its Quad-Core SHARC® architecture, this ludicrous amount of processing capacity provides limitless sound design possibilities.</strong>&#8220;</p>
+<p>&#8220;<strong>Want to run four amplifier models, stereo reverbs, and a plethora of other effects simultaneously? Quad Cortex won’t even <a href="/what-is-a-line-6-helix/" data-lasso-id="10427">break a sweat.</strong> <strong>Quad Cortex is the most powerful</a> floor modeler on the planet. With 2GHz of dedicated DSP from its Quad-Core SHARC® architecture, this ludicrous amount of processing capacity provides limitless sound design possibilities.</strong>&#8220;</p>
 
 
 
-<p>That&#8217;s&#8230; kind of nuts. That is a lot of power for a floor unit. That&#8217;s more than triple the power of <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4479">headrush, Helix, or Kemper</a>. In fact, that is more CPU than my auxiliary computer than I use in the studio for mixing. We are talking a CRAZY amount of power.</p>
+<p>That&#8217;s&#8230; kind of nuts. That is a lot of power for a floor unit. That&#8217;s more than triple the power of <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4479">headrush, Helix, or Kemper</a>. In fact, that is more CPU than my auxiliary computer than I use in the studio for mixing. We are talking a CRAZY amount of power.</p>
 
 
 
@@ -118,11 +118,11 @@ seo:
 
 
 
-<p>Blending amps can create a unique tone. You can have a <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5826">high gain amp</a>, mixed with a slightly dirty one, and blend a clean amp in with both. This will provide a huge amount of clarity to your guitar/bass signal. It will cut through the mix, and sound huge. I have experimented with adding a clean amp to my live rig, and mixed it with a dirty sound, at a 70/30 ratio. It adds a huge amount of clarity, even when you are chugging. To be fair, I stole this idea from albums made in the 70&#8217;s. <strong>Boston</strong> was famous for this sound. In modern times, you may hear this mix in <strong>Devin Townsend&#8217;s</strong> mixes.</p>
+<p>Blending amps can create a unique tone. You can have a <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5826">high gain amp</a>, mixed with a slightly dirty one, and blend a clean amp in with both. This will provide a huge amount of clarity to your guitar/bass signal. It will cut through the mix, and sound huge. I have experimented with adding a clean amp to my live rig, and mixed it with a dirty sound, at a 70/30 ratio. It adds a huge amount of clarity, even when you are chugging. To be fair, I stole this idea from albums made in the 70&#8217;s. <strong>Boston</strong> was famous for this sound. In modern times, you may hear this mix in <strong>Devin Townsend&#8217;s</strong> mixes.</p>
 
 
 
-<p>But that setup required my Mesa Boogie stack, and a <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="746">Fender Blues Jr</a>. They were ran through an A/B box and placed in stereo on separate places on the stage. It sounded awesome, but it wasn&#8217;t practical. I ditched the idea, and only reserve it for recording these days.</p>
+<p>But that setup required my Mesa Boogie stack, and a <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="746">Fender Blues Jr</a>. They were ran through an A/B box and placed in stereo on separate places on the stage. It sounded awesome, but it wasn&#8217;t practical. I ditched the idea, and only reserve it for recording these days.</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>Neural is known for making amp sims that replicate real amplifiers. They make artist packages under the &#8220;Archetype&#8221; moniker. <a href="https://neuraldsp.com/" class="rank-math-link" data-lasso-id="747" target="_blank" rel="noopener noreferrer nofollow">The Archetype models c</a>over everyone from Nolly, Gojira, Tosin Abasi, Misha Mansoor, and more. They make some awesome plugins of Fortin Amps, and everything from clean Fender-esque tones to <a href="https://www.electrikjam.com/peavey-5150-vs-bugera-626/" class="rank-math-link" data-lasso-id="748">Peavey 5150</a> sounds. There are also some more &#8220;vintage&#8221; in-between amps that can be programmed as well. It&#8217;s up to you to craft your sound the way you hear it in your head.</p>
+<p>Neural is known for making amp sims that replicate real amplifiers. They make artist packages under the &#8220;Archetype&#8221; moniker. <a href="https://neuraldsp.com/" class="rank-math-link" data-lasso-id="747" target="_blank" rel="noopener noreferrer nofollow">The Archetype models c</a>over everyone from Nolly, Gojira, Tosin Abasi, Misha Mansoor, and more. They make some awesome plugins of Fortin Amps, and everything from clean Fender-esque tones to <a href="/peavey-5150-vs-bugera-626/" class="rank-math-link" data-lasso-id="748">Peavey 5150</a> sounds. There are also some more &#8220;vintage&#8221; in-between amps that can be programmed as well. It&#8217;s up to you to craft your sound the way you hear it in your head.</p>
 
 
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<p>These effects include <a href="https://www.electrikjam.com/catalinbread-sabbra-cadabra-new/" data-lasso-id="749">overdrive</a>, delay, octaves, fuzz&#8230; pretty much anything you can think of. These can be stacked in any order you want. Unlike Helix or Headrush, you have no limits to how many banks the effects take up. This means the possibilities are limitless.</p>
+<p>These effects include <a href="/catalinbread-sabbra-cadabra-new/" data-lasso-id="749">overdrive</a>, delay, octaves, fuzz&#8230; pretty much anything you can think of. These can be stacked in any order you want. Unlike Helix or Headrush, you have no limits to how many banks the effects take up. This means the possibilities are limitless.</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>Inside the Cabism IR selections, is also a parametric EQ setting, that can further perfect your tone that you are crafting. We have talked about <a href="https://www.electrikjam.com/darkglass-element-review/" class="rank-math-link" data-lasso-id="750">Cabism before</a>, and it&#8217;s amazing. <strong>Of course can control this through an app!</strong></p>
+<p>Inside the Cabism IR selections, is also a parametric EQ setting, that can further perfect your tone that you are crafting. We have talked about <a href="/darkglass-element-review/" class="rank-math-link" data-lasso-id="750">Cabism before</a>, and it&#8217;s amazing. <strong>Of course can control this through an app!</strong></p>
 
 
 
@@ -274,7 +274,7 @@ seo:
 
 
 
-<p>This could easily become the only studio tool I need <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="751">when I am recording</a>. The neural DSP Quad Cortex could take the place of several processors that I have, and continue to hang on to because they might have a few sounds I like to use. </p>
+<p>This could easily become the only studio tool I need <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="751">when I am recording</a>. The neural DSP Quad Cortex could take the place of several processors that I have, and continue to hang on to because they might have a few sounds I like to use. </p>
 
 
 

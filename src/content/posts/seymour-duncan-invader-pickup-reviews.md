@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>We have been taking a <em>hard</em> look at<a data-lasso-id="11296" href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener"><strong> Duncan Pickups</strong></a> here lately, since they are such a great brand for Rock and Metal. The company has a lot of great options for passive and <a data-lasso-id="11297" href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener"><strong>active sets</strong></a>, and many of the pickup sets are geared specifically towards heavy music genres. Even something like the<a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="11584"> <strong>Duncan JB</strong></a>, which is versatile enough for Metal or literally anything you throw at it.</p>
+<p>We have been taking a <em>hard</em> look at<a data-lasso-id="11296" href="/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener"><strong> Duncan Pickups</strong></a> here lately, since they are such a great brand for Rock and Metal. The company has a lot of great options for passive and <a data-lasso-id="11297" href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener"><strong>active sets</strong></a>, and many of the pickup sets are geared specifically towards heavy music genres. Even something like the<a href="/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="11584"> <strong>Duncan JB</strong></a>, which is versatile enough for Metal or literally anything you throw at it.</p>
 
 
 
@@ -51,11 +51,11 @@ seo:
 
 
 
-<p>Lots of people in the realm of Metal guitar have <em>sworn</em> by Duncan Invaders. <a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-lasso-id="88519">People like <strong>James Hetfield</strong></a>, who used Invaders in his Flying V in the early days of <strong>Metallica</strong>. Someone else that swears by the Invader set is <strong>Synyster Gates</strong> from <strong>Avenged Seven Fold</strong>, as all of his custom <a data-lasso-id="11298" href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" target="_blank" data-type="post" data-id="3029" rel="noopener"><strong>Schecter</strong></a> guitars come installed with the Invader set. <a data-lasso-id="11299" href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" target="_blank" data-type="post" data-id="3565" rel="noopener"><strong>Matt Pike</strong></a> from the famous<strong> Sleep </strong>has even used the Invader before in some of his custom shop guitars. <strong>Troy Van Leeuwen</strong> From <a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16009">Queens of The Stone Age</a> and <strong>A Perfect Circle</strong> also uses them from time to time, depending on the band he is playing with at the time.</p>
+<p>Lots of people in the realm of Metal guitar have <em>sworn</em> by Duncan Invaders. <a href="/what-pickups-does-james-hetfield-use/" data-lasso-id="88519">People like <strong>James Hetfield</strong></a>, who used Invaders in his Flying V in the early days of <strong>Metallica</strong>. Someone else that swears by the Invader set is <strong>Synyster Gates</strong> from <strong>Avenged Seven Fold</strong>, as all of his custom <a data-lasso-id="11298" href="/new-schecter-red-reign-e-series-2021/" target="_blank" data-type="post" data-id="3029" rel="noopener"><strong>Schecter</strong></a> guitars come installed with the Invader set. <a data-lasso-id="11299" href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" target="_blank" data-type="post" data-id="3565" rel="noopener"><strong>Matt Pike</strong></a> from the famous<strong> Sleep </strong>has even used the Invader before in some of his custom shop guitars. <strong>Troy Van Leeuwen</strong> From <a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16009">Queens of The Stone Age</a> and <strong>A Perfect Circle</strong> also uses them from time to time, depending on the band he is playing with at the time.</p>
 
 
 
-<p><em>Nothing </em>screams METAL more than the Seymour Duncan Invader. These are made specifically for high gain applications, and come in 6, 7, and even 8 string variations. They even <em>look</em> mean, and a little intimidating! Today we take a look at the Seymour Duncan Invader set and go over the specs, features, and what the internet has to say about these <a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-lasso-id="39708">amazing pickups</a>.</p>
+<p><em>Nothing </em>screams METAL more than the Seymour Duncan Invader. These are made specifically for high gain applications, and come in 6, 7, and even 8 string variations. They even <em>look</em> mean, and a little intimidating! Today we take a look at the Seymour Duncan Invader set and go over the specs, features, and what the internet has to say about these <a href="/sustainiac-pickup-fixes/" data-lasso-id="39708">amazing pickups</a>.</p>
 
 
 
@@ -71,11 +71,11 @@ seo:
 
 
 
-<p>The Duncan Invader just looks like it is mean and aggressive, and it lives up to that expectation in every way. The Duncan official website says that the Invader will <a href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211011">&#8220;change your guitar&#8217;s</a> DNA&#8221; and this is definitely true! If you are looking for an uncompromising, dirty sound&#8230;this may be the pickup for you. It features:</p>
+<p>The Duncan Invader just looks like it is mean and aggressive, and it lives up to that expectation in every way. The Duncan official website says that the Invader will <a href="/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211011">&#8220;change your guitar&#8217;s</a> DNA&#8221; and this is definitely true! If you are looking for an uncompromising, dirty sound&#8230;this may be the pickup for you. It features:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>High output</strong></li><li><strong>Humbucker</strong></li><li><strong>Three ceramic magnets</strong></li><li><strong>Over-wound coils</strong></li><li><strong>12 black oxide screws</strong></li><li><strong>Wide magnetic field, works for any <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22589">guitar regardless of string</a> spacing</strong></li><li><strong>4-conductor Hookup</strong> <strong>(Coil Splitting)</strong></li><li><strong>6, 7, and 8 String Models Available</strong></li><li><strong>Great for aggressive music</strong></li><li><strong>Neck Position: 7.2k^D.C. Resistance</strong></li><li><strong>Bridge Position: 16.8k^Magnet: Ceramic Bar Resonant Peak</strong></li><li><strong>Neck Position: 8.0khz</strong></li></ul>
+<ul class="wp-block-list"><li><strong>High output</strong></li><li><strong>Humbucker</strong></li><li><strong>Three ceramic magnets</strong></li><li><strong>Over-wound coils</strong></li><li><strong>12 black oxide screws</strong></li><li><strong>Wide magnetic field, works for any <a href="/schecter-demon-7-review/" data-lasso-id="22589">guitar regardless of string</a> spacing</strong></li><li><strong>4-conductor Hookup</strong> <strong>(Coil Splitting)</strong></li><li><strong>6, 7, and 8 String Models Available</strong></li><li><strong>Great for aggressive music</strong></li><li><strong>Neck Position: 7.2k^D.C. Resistance</strong></li><li><strong>Bridge Position: 16.8k^Magnet: Ceramic Bar Resonant Peak</strong></li><li><strong>Neck Position: 8.0khz</strong></li></ul>
 
 
 
@@ -88,12 +88,12 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><a href="https://www.electrikjam.com/seymour-duncan-invader/" target="_blank" rel="nofollow noopener" data-lasso-id="90446" data-lasso-name="Seymour Duncan Invader Pickup"><strong>CHECK LATEST PRICES!</strong></a></p>
+<p class="has-text-align-center has-extra-small-font-size"><a href="/seymour-duncan-invader/" target="_blank" rel="nofollow noopener" data-lasso-id="90446" data-lasso-name="Seymour Duncan Invader Pickup"><strong>CHECK LATEST PRICES!</strong></a></p>
 </div></div>
 
 
 
-<p>My testing came from the <a href="https://www.electrikjam.com/recommends/schecter-synyster-gates-signature-guitar-center/" target="_blank" rel="noopener" data-lasso-id="11585"><strong>Synyster Gates Schecter </strong></a>Signature model. This guitar comes loaded with the Seymour Duncan Invader set. I borrowed it from a friend to really get a hang of how these pickups work with my various gear. This is one helluva guitar if you ask me, but I can see why the extreme shape and design <em>might</em> put off some guitarists.</p>
+<p>My testing came from the <a href="/recommends/schecter-synyster-gates-signature-guitar-center/" target="_blank" rel="noopener" data-lasso-id="11585"><strong>Synyster Gates Schecter </strong></a>Signature model. This guitar comes loaded with the Seymour Duncan Invader set. I borrowed it from a friend to really get a hang of how these pickups work with my various gear. This is one helluva guitar if you ask me, but I can see why the extreme shape and design <em>might</em> put off some guitarists.</p>
 
 
 
@@ -109,7 +109,7 @@ seo:
 
 
 
-<p>The bridge position pickup is an overwound humbucker that handles bass better than any other passive pickup I have ever used. The bridge Invader is perfect for chugging, especially with lower tunings like<strong> <a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" target="_blank" data-type="post" data-id="3692" rel="noopener" data-lasso-id="11586">D Standard</a>,</strong> or <a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" target="_blank" data-type="post" data-id="1491" rel="noopener" data-lasso-id="11587"><strong>anything lower</strong></a> than that. The increased magnetic field picks up even the lowest notes very clearly, and the string-to-string balance when <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196520">playing chords</a> is perfect. You will not miss a note!</p>
+<p>The bridge position pickup is an overwound humbucker that handles bass better than any other passive pickup I have ever used. The bridge Invader is perfect for chugging, especially with lower tunings like<strong> <a href="/d-standard-tuning-guide-how-to/" target="_blank" data-type="post" data-id="3692" rel="noopener" data-lasso-id="11586">D Standard</a>,</strong> or <a href="/doom-metal-tunings-the-top-5-best/" target="_blank" data-type="post" data-id="1491" rel="noopener" data-lasso-id="11587"><strong>anything lower</strong></a> than that. The increased magnetic field picks up even the lowest notes very clearly, and the string-to-string balance when <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196520">playing chords</a> is perfect. You will not miss a note!</p>
 
 
 
@@ -117,7 +117,7 @@ seo:
 
 
 
-<p>Both pickups from the Seymour Duncan Invader set have oodles and oodles of sustain. I tested this against some of my other <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="11592">guitars</a>, and with the same amp settings, the Seymour Duncan Invader holds a note much longer than most of my other pickups. This is great for playing leads, because you can hold a note or a harmonic for<em> DAYS</em>. </p>
+<p>Both pickups from the Seymour Duncan Invader set have oodles and oodles of sustain. I tested this against some of my other <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="11592">guitars</a>, and with the same amp settings, the Seymour Duncan Invader holds a note much longer than most of my other pickups. This is great for playing leads, because you can hold a note or a harmonic for<em> DAYS</em>. </p>
 
 
 
@@ -125,11 +125,11 @@ seo:
 
 
 
-<p>Something else I noticed, is that the Invader has such a wide magnetic field, that it does not have a <a href="https://www.electrikjam.com/what-is-a-trembucker/" target="_blank" data-type="post" data-id="5109" rel="noopener" data-lasso-id="11588"><strong>Trembucker</strong></a> option. There is only one model for the bridge position. This is because of the large pole pieces and huge spread. So if you were looking to buy the Invader for a trem-equipped guitar, just buy the standard model.</p>
+<p>Something else I noticed, is that the Invader has such a wide magnetic field, that it does not have a <a href="/what-is-a-trembucker/" target="_blank" data-type="post" data-id="5109" rel="noopener" data-lasso-id="11588"><strong>Trembucker</strong></a> option. There is only one model for the bridge position. This is because of the large pole pieces and huge spread. So if you were looking to buy the Invader for a trem-equipped guitar, just buy the standard model.</p>
 
 
 
-<p>There was only one drawback for me. If you are going for pristine clean tones, I am not sure that the Invader set is going to be for you. This is just my personal experience, but I have always struggled to get a good clean tone out of an Invader. But that is by design, I think. The Seymour Duncan Invader is made for handling <a href="https://www.electrikjam.com/fuzz-vs-distortion/" data-lasso-id="36509">distortion and fuzz</a>, and not for playing beautiful clean tones. But that&#8217;s just my opinion!</p>
+<p>There was only one drawback for me. If you are going for pristine clean tones, I am not sure that the Invader set is going to be for you. This is just my personal experience, but I have always struggled to get a good clean tone out of an Invader. But that is by design, I think. The Seymour Duncan Invader is made for handling <a href="/fuzz-vs-distortion/" data-lasso-id="36509">distortion and fuzz</a>, and not for playing beautiful clean tones. But that&#8217;s just my opinion!</p>
 
 
 
@@ -145,7 +145,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em><strong>Far from what I would consider a subtle boost, the <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-lasso-id="120190">Seymour Duncan Invader pickup</a> set completely transformed the tone of my guitar. There’s a distinct richness and crunchiness to the treble end, responding well to pick dynamics and small scrapes. This gives off a uniquely pleasing resonance amidst clean tones, especially with a delay effect added, similar to what you hear The Edge (David Evans) pull off on many of U2’s tracks.</strong></em></p><p><em><strong>The high output of the Invaders, particularly at the bridge, made it noticeably brighter than what I was expecting. Though it wasn’t too shrill or high-pitched. In most cases I found myself turning the tone knob back to balance things out, but once I did that it felt like I was getting a really broad frequency range. It was the best of both worlds on the high and low EQ spectrum.</strong></em></p><cite><a href="https://www.guitarworld.com/gear/seymour-duncan-invader-review-bridge-and-neck-pickup-set" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="11589">Guitar World</a></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em><strong>Far from what I would consider a subtle boost, the <a href="/new-seymour-duncan-pickups-announced/" data-lasso-id="120190">Seymour Duncan Invader pickup</a> set completely transformed the tone of my guitar. There’s a distinct richness and crunchiness to the treble end, responding well to pick dynamics and small scrapes. This gives off a uniquely pleasing resonance amidst clean tones, especially with a delay effect added, similar to what you hear The Edge (David Evans) pull off on many of U2’s tracks.</strong></em></p><p><em><strong>The high output of the Invaders, particularly at the bridge, made it noticeably brighter than what I was expecting. Though it wasn’t too shrill or high-pitched. In most cases I found myself turning the tone knob back to balance things out, but once I did that it felt like I was getting a really broad frequency range. It was the best of both worlds on the high and low EQ spectrum.</strong></em></p><cite><a href="https://www.guitarworld.com/gear/seymour-duncan-invader-review-bridge-and-neck-pickup-set" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="11589">Guitar World</a></cite></blockquote>
 
 
 

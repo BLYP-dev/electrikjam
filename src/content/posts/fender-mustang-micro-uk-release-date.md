@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>I had a spare £90 laying around, it was my birthday, so I thought what the hell, I’m going to get myself a <strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" class="rank-math-link" data-lasso-id="1244">Fender Mustang Micro.</a></strong></p>
+<p>I had a spare £90 laying around, it was my birthday, so I thought what the hell, I’m going to get myself a <strong><a href="/fender-mustang-micro-features-price/" class="rank-math-link" data-lasso-id="1244">Fender Mustang Micro.</a></strong></p>
 
 
 
-<p>The small, compact practice accessory which doubles as a <strong><a href="https://www.electrikjam.com/connect-guitar-to-macbook-guide/" class="rank-math-link" data-lasso-id="1245">USB audio interface</a></strong> features 12 amp simulations powered by <strong><a href="https://www.electrikjam.com/fender-mustang-micro-bass/" class="rank-math-link" data-lasso-id="1246">Fender’s Mustang GTX platform.</a></strong></p>
+<p>The small, compact practice accessory which doubles as a <strong><a href="/connect-guitar-to-macbook-guide/" class="rank-math-link" data-lasso-id="1245">USB audio interface</a></strong> features 12 amp simulations powered by <strong><a href="/fender-mustang-micro-bass/" class="rank-math-link" data-lasso-id="1246">Fender’s Mustang GTX platform.</a></strong></p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p>If you’re in the USA, the Fender Mustang Micro is now widely available. You can grab one direct from <strong><a href="https://www.electrikjam.com/fender/" data-lasso-id="1808">Fender</a></strong> – <strong><a class="rank-math-link" data-lasso-id="1248" href="https://www.fender.com/en-GB/guitar-amplifiers/headphone-amplifiers/mustang-micro/2311300000.html" target="_blank" rel="noopener noreferrer nofollow">here’s the latest deals page for the product.</a></strong></p>
+<p>If you’re in the USA, the Fender Mustang Micro is now widely available. You can grab one direct from <strong><a href="/fender/" data-lasso-id="1808">Fender</a></strong> – <strong><a class="rank-math-link" data-lasso-id="1248" href="https://www.fender.com/en-GB/guitar-amplifiers/headphone-amplifiers/mustang-micro/2311300000.html" target="_blank" rel="noopener noreferrer nofollow">here’s the latest deals page for the product.</a></strong></p>
 
 
 
@@ -87,11 +87,11 @@ seo:
 
 
 
-<p>I already own the <a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-lasso-id="1249">Spark Amp</a>, which is great, but it isn’t exactly portable. The Fender Mustang Micro, however, can fit in my pocket, so I can sit outside on nice nights and play my guitar in the garden.</p>
+<p>I already own the <a href="/killer-guitar-tone-without-hardware/" data-lasso-id="1249">Spark Amp</a>, which is great, but it isn’t exactly portable. The Fender Mustang Micro, however, can fit in my pocket, so I can sit outside on nice nights and play my guitar in the garden.</p>
 
 
 
-<p>The <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-lasso-id="42959">Fender Mustang</a> Micro doesn’t have any wires, unless you use wired headphones, and it runs on an internal battery that’ll last in and around four hours, according to Fender.</p>
+<p>The <a href="/fender-mustang-gtx-100-review/" data-lasso-id="42959">Fender Mustang</a> Micro doesn’t have any wires, unless you use wired headphones, and it runs on an internal battery that’ll last in and around four hours, according to Fender.</p>
 
 
 
@@ -99,11 +99,11 @@ seo:
 
 
 
-<p>Designed to help players play literally anywhere, the Fender Mustang Micro is essentially <strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" class="rank-math-link" data-lasso-id="1250">a more advanced version of VOX’s similar-sized mini guitar amp</a></strong>.</p>
+<p>Designed to help players play literally anywhere, the Fender Mustang Micro is essentially <strong><a href="/fender-mustang-micro-features-price/" class="rank-math-link" data-lasso-id="1250">a more advanced version of VOX’s similar-sized mini guitar amp</a></strong>.</p>
 
 
 
-<p>Only with the Fender Mustang Micro, you get support for bluetooth connectivity, so you can connect wireless headphones to it and jam out, and it comes with 12 of <a href="https://www.electrikjam.com/expensive-amp-simulators/" data-lasso-id="1251">Fender’s excellent Mustang GTX amp simulations</a> and guitar effects.</p>
+<p>Only with the Fender Mustang Micro, you get support for bluetooth connectivity, so you can connect wireless headphones to it and jam out, and it comes with 12 of <a href="/expensive-amp-simulators/" data-lasso-id="1251">Fender’s excellent Mustang GTX amp simulations</a> and guitar effects.</p>
 
 
 

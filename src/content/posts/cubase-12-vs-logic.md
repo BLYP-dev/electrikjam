@@ -54,11 +54,11 @@ seo:
 
 
 
-<p>But that doesn&#8217;t mean that Apple&#8217;s Logic DAW isn&#8217;t a great platform for recording audio and producing music. However, <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="244543">Cubase</a></strong> has been dominating the market since so many big-name artists openly state that they use it, perhaps just as many artists that use Logic.</p>
+<p>But that doesn&#8217;t mean that Apple&#8217;s Logic DAW isn&#8217;t a great platform for recording audio and producing music. However, <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="244543">Cubase</a></strong> has been dominating the market since so many big-name artists openly state that they use it, perhaps just as many artists that use Logic.</p>
 
 
 
-<p>This is because Logic is native only to Apple computers, and it cannot be used with Windows PC. On the other hand, Cubase can be used with both. <strong><a href="https://apps.apple.com/us/app/logic-pro-x/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="244544">Logic Pro costs just $200 </a></strong>if you own a recent Apple product, while <strong><a href="https://www.electrikjam.com/is-cubase-free/" target="_blank" data-type="post" data-id="12306" rel="noopener" data-lasso-id="244545">Cubase 12 Pro is a little more expensive</a></strong>.</p>
+<p>This is because Logic is native only to Apple computers, and it cannot be used with Windows PC. On the other hand, Cubase can be used with both. <strong><a href="https://apps.apple.com/us/app/logic-pro-x/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="244544">Logic Pro costs just $200 </a></strong>if you own a recent Apple product, while <strong><a href="/is-cubase-free/" target="_blank" data-type="post" data-id="12306" rel="noopener" data-lasso-id="244545">Cubase 12 Pro is a little more expensive</a></strong>.</p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>We have talked about <strong><a data-lasso-id="244546" href="https://www.electrikjam.com/is-cubase-easy-to-use-cubase-12/" data-type="post" data-id="12325" target="_blank" rel="noopener">how easy Cubase can be to use</a></strong>, from a beginner&#8217;s standpoint all the way to professional studio use. There is a learning curve to any DAW program, but most use the same basic approach. The fine details, workflow, and plugins are what differentiate DAWS from one another.</p>
+<p>We have talked about <strong><a data-lasso-id="244546" href="/is-cubase-easy-to-use-cubase-12/" data-type="post" data-id="12325" target="_blank" rel="noopener">how easy Cubase can be to use</a></strong>, from a beginner&#8217;s standpoint all the way to professional studio use. There is a learning curve to any DAW program, but most use the same basic approach. The fine details, workflow, and plugins are what differentiate DAWS from one another.</p>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<p>Cubase was designed to be easy to learn for beginners, as well as be complex and diverse enough to fine-tune a professional track. This is done using many different versions of Cubase, starting with <strong><a data-lasso-id="244547" href="https://www.electrikjam.com/is-cubase-elements-worth-it/" data-type="post" data-id="12351" target="_blank" rel="noopener">the Elements Edition</a></strong>. However, most users eventually upgrade to the more powerful &#8220;Pro&#8221; version of Cubase.</p>
+<p>Cubase was designed to be easy to learn for beginners, as well as be complex and diverse enough to fine-tune a professional track. This is done using many different versions of Cubase, starting with <strong><a data-lasso-id="244547" href="/is-cubase-elements-worth-it/" data-type="post" data-id="12351" target="_blank" rel="noopener">the Elements Edition</a></strong>. However, most users eventually upgrade to the more powerful &#8220;Pro&#8221; version of Cubase.</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>This is especially good if you already have plugins that you use for guitar or drum VSTs. <strong><a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" target="_blank" data-type="post" data-id="7814" rel="noopener" data-lasso-id="244564">Programs like EZ Drummer </a></strong>or Neural DSP products assemble themselves in Cubase effortlessly. The UI makes a convenient list of all programs and VSTs easy to find in Cubase.</p>
+<p>This is especially good if you already have plugins that you use for guitar or drum VSTs. <strong><a href="/ezdrummer-2-worth-it/" target="_blank" data-type="post" data-id="7814" rel="noopener" data-lasso-id="244564">Programs like EZ Drummer </a></strong>or Neural DSP products assemble themselves in Cubase effortlessly. The UI makes a convenient list of all programs and VSTs easy to find in Cubase.</p>
 
 
 

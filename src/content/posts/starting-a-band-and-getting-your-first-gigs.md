@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Starting a band and getting on stage is the end goal for a ton of guitarists. Sure, for a lot of guitar players, starting a band is the last thing on their minds. Some people just want to jam at home, and there is nothing wrong with that! <strong><a href="https://www.electrikjam.com/learning-guitar-guide-what-to-expect/" target="_blank" data-type="post" data-id="737" rel="noopener" data-lasso-id="1466"><span style="color: #9b51e0;" class="ugb-highlight">Some people like myself</span></a><span style="color: #9b51e0;" class="ugb-highlight">,</span></strong> had other goals in mind. I knew exactly what I wanted to do:<strong> <em>I wanted to be in a band.</em></strong></p>
+<p>Starting a band and getting on stage is the end goal for a ton of guitarists. Sure, for a lot of guitar players, starting a band is the last thing on their minds. Some people just want to jam at home, and there is nothing wrong with that! <strong><a href="/learning-guitar-guide-what-to-expect/" target="_blank" data-type="post" data-id="737" rel="noopener" data-lasso-id="1466"><span style="color: #9b51e0;" class="ugb-highlight">Some people like myself</span></a><span style="color: #9b51e0;" class="ugb-highlight">,</span></strong> had other goals in mind. I knew exactly what I wanted to do:<strong> <em>I wanted to be in a band.</em></strong></p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p>It&#8217;s also important that<strong> everyone</strong> has the gear needed to play. You do not need pro-level equipment to play shows when you&#8217;re first starting a band. But you DO need <em>adequate</em> equipment. You certainly don&#8217;t want to <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="1469"><strong><span style="color: #9b51e0;" class="ugb-highlight">show up with a practice amp </span></strong></a>and expect to play a show.</p>
+<p>It&#8217;s also important that<strong> everyone</strong> has the gear needed to play. You do not need pro-level equipment to play shows when you&#8217;re first starting a band. But you DO need <em>adequate</em> equipment. You certainly don&#8217;t want to <a href="/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="1469"><strong><span style="color: #9b51e0;" class="ugb-highlight">show up with a practice amp </span></strong></a>and expect to play a show.</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>When people are starting a band, this often gets overlooked. You should definitely know your local music community. If you want to be in a <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2788">Metal band</a>, you should befriend the other local Metal bands. These are the guys you&#8217;re going to be playing shows with!</p>
+<p>When people are starting a band, this often gets overlooked. You should definitely know your local music community. If you want to be in a <a href="/90s-metal-bands/" data-lasso-id="2788">Metal band</a>, you should befriend the other local Metal bands. These are the guys you&#8217;re going to be playing shows with!</p>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<p>I told you, <a href="https://www.electrikjam.com/starting-a-band-part-2/" data-lasso-id="73630">starting a band</a> is like being in business school, right?</p>
+<p>I told you, <a href="/starting-a-band-part-2/" data-lasso-id="73630">starting a band</a> is like being in business school, right?</p>
 
 
 
@@ -388,7 +388,7 @@ seo:
 
 
 
-<h2 class="has-text-align-center wp-block-heading" id="click-here-for-part-two"><a href="https://www.electrikjam.com/starting-a-band-part-2/" target="_blank" rel="noopener" data-lasso-id="73633">Click Here For Part Two!</a></h2>
+<h2 class="has-text-align-center wp-block-heading" id="click-here-for-part-two"><a href="/starting-a-band-part-2/" target="_blank" rel="noopener" data-lasso-id="73633">Click Here For Part Two!</a></h2>
 
 
 <div id="rank-math-faq" class="rank-math-block">

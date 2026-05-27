@@ -60,7 +60,7 @@ seo:
 
 
 
-<p>Listening back, I think Them Crooked Vultures is easily Homme’s best work since Songs For The Deaf. The riffs on this record are just bonkers-good, completely avant-garde, and are incomparable to QOSTA’s later output on albums like Villains. To my older ears, Them Crooked Vultures’ first album feels like the natural sequel to <strong><em><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="91571">QOTSA’s seminal Songs For The Deaf album</a></em></strong>.</p>
+<p>Listening back, I think Them Crooked Vultures is easily Homme’s best work since Songs For The Deaf. The riffs on this record are just bonkers-good, completely avant-garde, and are incomparable to QOSTA’s later output on albums like Villains. To my older ears, Them Crooked Vultures’ first album feels like the natural sequel to <strong><em><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="91571">QOTSA’s seminal Songs For The Deaf album</a></em></strong>.</p>
 
 
 
@@ -82,7 +82,7 @@ seo:
 
 
 
-<p>The only outlier at the moment is <strong><a href="https://www.electrikjam.com/what-pickups-does-josh-homme-use/" data-type="post" data-id="7070" data-lasso-id="91572">Josh Homme</a></strong>; although given his current troubles, this is kind of understandable. Homme did say that he was 100% up for doing a new Them Crooked Vultures record back in 2019 but added that it would be up to Dave Grohl to get the band back together. According to Homme, it is not his role to “organize” the band but he’d happily get together for album number two.</p>
+<p>The only outlier at the moment is <strong><a href="/what-pickups-does-josh-homme-use/" data-type="post" data-id="7070" data-lasso-id="91572">Josh Homme</a></strong>; although given his current troubles, this is kind of understandable. Homme did say that he was 100% up for doing a new Them Crooked Vultures record back in 2019 but added that it would be up to Dave Grohl to get the band back together. According to Homme, it is not his role to “organize” the band but he’d happily get together for album number two.</p>
 
 
 
@@ -118,11 +118,11 @@ seo:
 
 
 
-<p>Beyond this, we also have the prospect – or lack thereof – of a <strong><a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-type="post" data-id="6984" data-lasso-id="91574">new Queens of The Stone Age record</a></strong>. Again, Homme has stated that he is no longer interested in year-long touring schedules, so the next QOTSA album could be quite different from what came before. If we even get one; Homme could just as easily call it quits and work as a producer and collaborative artist.</p>
+<p>Beyond this, we also have the prospect – or lack thereof – of a <strong><a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-type="post" data-id="6984" data-lasso-id="91574">new Queens of The Stone Age record</a></strong>. Again, Homme has stated that he is no longer interested in year-long touring schedules, so the next QOTSA album could be quite different from what came before. If we even get one; Homme could just as easily call it quits and work as a producer and collaborative artist.</p>
 
 
 
-<p>Homme has even talked about doing smaller, more sporadic EPs with Queens – similar to <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="91575">Mastodon’s Cold, Dark Place</a></strong> – with a focus on using multimedia and video to promote the albums. This is an interesting idea and one that, given the stature of Queens, would almost certainly work. The music industry has changed a lot in recent years, the idea of full albums every few years, and extensive touring, while still fine and dandy, does now feel a little long in the tooth.</p>
+<p>Homme has even talked about doing smaller, more sporadic EPs with Queens – similar to <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="91575">Mastodon’s Cold, Dark Place</a></strong> – with a focus on using multimedia and video to promote the albums. This is an interesting idea and one that, given the stature of Queens, would almost certainly work. The music industry has changed a lot in recent years, the idea of full albums every few years, and extensive touring, while still fine and dandy, does now feel a little long in the tooth.</p>
 
 
 

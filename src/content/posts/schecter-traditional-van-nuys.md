@@ -43,19 +43,19 @@ seo:
 
 
 
-<p>Schecter, like many companies, got delayed over the past year. Whether that was due to Covid, or due to the lack of parts or materials, <a href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" data-lasso-id="1391">Schecter</a> is running a little behind.<strong> But</strong> now it looks like the new models are finally starting to trickle out just in time for <strong><a href="https://www.namm.org/summer/2021" target="_blank" rel="noopener noreferrer nofollow" class="rank-math-link" data-lasso-id="1392"><span style="color: #9b51e0;" class="ugb-highlight">Summer NAMM.</span></a></strong> The Schecter Traditional Van Nuys is the newest addition to the new lineup.</p>
+<p>Schecter, like many companies, got delayed over the past year. Whether that was due to Covid, or due to the lack of parts or materials, <a href="/new-schecter-red-reign-e-series-2021/" data-lasso-id="1391">Schecter</a> is running a little behind.<strong> But</strong> now it looks like the new models are finally starting to trickle out just in time for <strong><a href="https://www.namm.org/summer/2021" target="_blank" rel="noopener noreferrer nofollow" class="rank-math-link" data-lasso-id="1392"><span style="color: #9b51e0;" class="ugb-highlight">Summer NAMM.</span></a></strong> The Schecter Traditional Van Nuys is the newest addition to the new lineup.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/new-schecter-svss-exotic-models/" target="_blank" data-type="post" data-id="3004" rel="noopener" class="rank-math-link" data-lasso-id="1393"><strong><span style="color: #9b51e0;" class="ugb-highlight">Last week we checked out the SVSS series, and Schecter</span></strong> </a>has definitely upped the ante when it comes to features and specs on those models.</p>
+<p><a href="/new-schecter-svss-exotic-models/" target="_blank" data-type="post" data-id="3004" rel="noopener" class="rank-math-link" data-lasso-id="1393"><strong><span style="color: #9b51e0;" class="ugb-highlight">Last week we checked out the SVSS series, and Schecter</span></strong> </a>has definitely upped the ante when it comes to features and specs on those models.</p>
 
 
 
-<p>Schecter has a few different price tiers of models that are offered these days. You have the lower tier Indonesian made models that start at a pretty low price point, most coming in under $500, while some go up to $900. Then, you have the South Korean made models that are manufactured in the WMI Factory. The South Korean models are extremely well made instruments for the money, <a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" data-type="post" data-id="1608" target="_blank" rel="noopener" class="rank-math-link" data-lasso-id="1394">a<strong><span style="color: #9b51e0;" class="ugb-highlight">nd other companies use this factory as well, like ESP</span></strong></a><a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" data-type="post" data-id="1608" class="rank-math-link" data-lasso-id="1395">.</a></p>
+<p>Schecter has a few different price tiers of models that are offered these days. You have the lower tier Indonesian made models that start at a pretty low price point, most coming in under $500, while some go up to $900. Then, you have the South Korean made models that are manufactured in the WMI Factory. The South Korean models are extremely well made instruments for the money, <a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" data-type="post" data-id="1608" target="_blank" rel="noopener" class="rank-math-link" data-lasso-id="1394">a<strong><span style="color: #9b51e0;" class="ugb-highlight">nd other companies use this factory as well, like ESP</span></strong></a><a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" data-type="post" data-id="1608" class="rank-math-link" data-lasso-id="1395">.</a></p>
 
 
 
-<p>But where Schecter really shines, is the USA Custom shop models. That is precisely what the <a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-lasso-id="198723">Schecter Traditional</a> Van Nuys models offer to replicate. These are not your usual Heavy metal focused guitars that we have come to know and love from Schecter. No Abalone, or skull inlays. These are simple, and utilitarian. </p>
+<p>But where Schecter really shines, is the USA Custom shop models. That is precisely what the <a href="/schecter-jack-fowler-traditional-review/" data-lasso-id="198723">Schecter Traditional</a> Van Nuys models offer to replicate. These are not your usual Heavy metal focused guitars that we have come to know and love from Schecter. No Abalone, or skull inlays. These are simple, and utilitarian. </p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>Let&#8217;s take a look at these new <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22595">Schecter Traditional Van Nuys guitars</a>, and see what kind of awesome magic they have under the hood!</p>
+<p>Let&#8217;s take a look at these new <a href="/schecter-demon-7-review/" data-lasso-id="22595">Schecter Traditional Van Nuys guitars</a>, and see what kind of awesome magic they have under the hood!</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>There are two different models this year in the brand new Van Nuys lineup. You get the C-1 Version, that is <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11264">&#8220;Strat Style&#8221;</a> when it comes to the body shape, and you get the famous PT Model version. Both models have some shared features:</p>
+<p>There are two different models this year in the brand new Van Nuys lineup. You get the C-1 Version, that is <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11264">&#8220;Strat Style&#8221;</a> when it comes to the body shape, and you get the famous PT Model version. Both models have some shared features:</p>
 
 
 
@@ -87,11 +87,11 @@ seo:
 
 
 
-<p>Both models have a light-weight Ash wood body, and a beautiful roasted maple neck. It seems like 2021 is the year of Roasted maple, as <a href="https://www.electrikjam.com/new-solar-guitars-check-out-these-bolt-on-beauties/" target="_blank" data-type="post" data-id="1443" rel="noopener" class="rank-math-link" data-lasso-id="1396"><strong><span style="color: #9b51e0;" class="ugb-highlight">every company seems to have jumped on that bandwagon</span></strong></a>. I certainly don&#8217;t see this as a bad thing, as roasted Maple is a sturdy wood, and a perfect material for the neck&#8217;s construction.</p>
+<p>Both models have a light-weight Ash wood body, and a beautiful roasted maple neck. It seems like 2021 is the year of Roasted maple, as <a href="/new-solar-guitars-check-out-these-bolt-on-beauties/" target="_blank" data-type="post" data-id="1443" rel="noopener" class="rank-math-link" data-lasso-id="1396"><strong><span style="color: #9b51e0;" class="ugb-highlight">every company seems to have jumped on that bandwagon</span></strong></a>. I certainly don&#8217;t see this as a bad thing, as roasted Maple is a sturdy wood, and a perfect material for the neck&#8217;s construction.</p>
 
 
 
-<p>Both <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231839">Schecter Traditional Van Nuys models</a> also sport a Graph Tech nut and locking tuners. This goes hand in hand with the Vintage Style Trem Bridge. Anyone that has ever owned a <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="1397">Fender</a> knows that these kinds of trems rely heavily on the nut for tuning stability. </p>
+<p>Both <a href="/schecter-mv-6-review/" data-lasso-id="231839">Schecter Traditional Van Nuys models</a> also sport a Graph Tech nut and locking tuners. This goes hand in hand with the Vintage Style Trem Bridge. Anyone that has ever owned a <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="1397">Fender</a> knows that these kinds of trems rely heavily on the nut for tuning stability. </p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-lasso-id="40156">Schecter Traditional Van Nuys C-1 HSS</a> pickup combo has tons of tonal options. The two single coil pickups are Schecter&#8217;s own &#8220;MonsterTone&#8221; Custom Shop pickups. These pickups are pretty high output for your normal single coils, but that doesn&#8217;t mean that you can&#8217;t get some<span style="color: #9b51e0;" class="ugb-highlight"><strong> <a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" target="_blank" data-type="post" data-id="2532" rel="noopener" class="rank-math-link" data-lasso-id="1398">great Fender-esque</a></strong> </span>tones out of them.</p>
+<p>The <a href="/schecter-nick-johnston-hss-review/" data-lasso-id="40156">Schecter Traditional Van Nuys C-1 HSS</a> pickup combo has tons of tonal options. The two single coil pickups are Schecter&#8217;s own &#8220;MonsterTone&#8221; Custom Shop pickups. These pickups are pretty high output for your normal single coils, but that doesn&#8217;t mean that you can&#8217;t get some<span style="color: #9b51e0;" class="ugb-highlight"><strong> <a href="/the-best-fender-guitars-for-metal-our-1-picks/" target="_blank" data-type="post" data-id="2532" rel="noopener" class="rank-math-link" data-lasso-id="1398">great Fender-esque</a></strong> </span>tones out of them.</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p>The bridge pickup is is more like the Schecter that we know and love. The &#8220;Super Rock Vintage&#8221; pickup is <a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" data-lasso-id="1399">ready to chug</a>, or lend itself to soaring lead tones. These are modeled after the<a href="https://www.electrikjam.com/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" class="rank-math-link" data-lasso-id="1400"> <strong><span style="color: #9b51e0;" class="ugb-highlight">famous Anderson Super Rock pickup</span></strong>s </a>that were a staple of the Schecter Custom shop in the 80&#8217;s and 90&#8217;s. This humbucker <em>absolutely screams</em>!</p>
+<p>The bridge pickup is is more like the Schecter that we know and love. The &#8220;Super Rock Vintage&#8221; pickup is <a href="/the-3-best-strings-for-drop-c-tuning/" data-lasso-id="1399">ready to chug</a>, or lend itself to soaring lead tones. These are modeled after the<a href="/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" class="rank-math-link" data-lasso-id="1400"> <strong><span style="color: #9b51e0;" class="ugb-highlight">famous Anderson Super Rock pickup</span></strong>s </a>that were a staple of the Schecter Custom shop in the 80&#8217;s and 90&#8217;s. This humbucker <em>absolutely screams</em>!</p>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p>The simple control layout is very appealing to me. It has a single volume, and tone knob. You also get an<strong><a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" target="_blank" data-type="post" data-id="1679" rel="noopener" class="rank-math-link" data-lasso-id="1401"><span style="color: #9b51e0;" class="ugb-highlight"> Ibanez style</span></a><span style="color: #9b51e0;" class="ugb-highlight"> </span></strong>5 way switch with a vintage Tele Knob. It&#8217;s a small feature that is easily overlooked, but I thought it was a really cool touch!</p>
+<p>The simple control layout is very appealing to me. It has a single volume, and tone knob. You also get an<strong><a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" target="_blank" data-type="post" data-id="1679" rel="noopener" class="rank-math-link" data-lasso-id="1401"><span style="color: #9b51e0;" class="ugb-highlight"> Ibanez style</span></a><span style="color: #9b51e0;" class="ugb-highlight"> </span></strong>5 way switch with a vintage Tele Knob. It&#8217;s a small feature that is easily overlooked, but I thought it was a really cool touch!</p>
 
 
 

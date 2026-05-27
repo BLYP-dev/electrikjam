@@ -267,7 +267,7 @@ seo:
 
 
 
-<p><strong>The low weight is a godsend for any player.</strong> While it suffers from neck dive, a simple strap fixes it. You gain the ability to move freely on stage, <strong>a non-negotiable professional requirement</strong>, and the SG delivers this over the <strong><a href="https://www.electrikjam.com/gibson-les-paul-standard-60s-review/" data-type="post" data-id="18106">Les Paul 60s which is damn heavy. </a></strong></p>
+<p><strong>The low weight is a godsend for any player.</strong> While it suffers from neck dive, a simple strap fixes it. You gain the ability to move freely on stage, <strong>a non-negotiable professional requirement</strong>, and the SG delivers this over the <strong><a href="/gibson-les-paul-standard-60s-review/" data-type="post" data-id="18106">Les Paul 60s which is damn heavy. </a></strong></p>
 
 
 

@@ -104,7 +104,7 @@ seo:
 
 
 
-<p>If you take a look at <strong><a href="https://www.electrikjam.com/cubase-12-vs-pro-tools-studio/" data-type="post" data-id="12507" target="_blank" rel="noopener" data-lasso-id="248173">any of our DAW tutorials</a></strong>, it can be confusing as to where you should start. Ableton Live benefits from having a large community online that can help guide you, as well as the actual software tutorials available in-program and on YouTube.</p>
+<p>If you take a look at <strong><a href="/cubase-12-vs-pro-tools-studio/" data-type="post" data-id="12507" target="_blank" rel="noopener" data-lasso-id="248173">any of our DAW tutorials</a></strong>, it can be confusing as to where you should start. Ableton Live benefits from having a large community online that can help guide you, as well as the actual software tutorials available in-program and on YouTube.</p>
 
 
 

@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>And another cool thing? As noted in our <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217904">Fender Player Stratocaster review</a></strong>, the differences between Fender’s MIM and MIA is basically non-existent these days.</p>
+<p>And another cool thing? As noted in our <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217904">Fender Player Stratocaster review</a></strong>, the differences between Fender’s MIM and MIA is basically non-existent these days.</p>
 
 
 
@@ -266,5 +266,5 @@ seo:
 
 
 
-<p>Basically, if you want to play rock and/or metal, <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217905">go for the Fender Player Stratocaster HSS</a></strong>. </p>
+<p>Basically, if you want to play rock and/or metal, <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217905">go for the Fender Player Stratocaster HSS</a></strong>. </p>
 

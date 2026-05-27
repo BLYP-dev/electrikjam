@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>Gus Sinaro is a one man powerhouse, handling most of the writing duties as well as juggling the <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="400">production and recording</a> side of things as well. Gus is a one man, Metal wrecking crew in both the studio and stage.</p>
+<p>Gus Sinaro is a one man powerhouse, handling most of the writing duties as well as juggling the <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="400">production and recording</a> side of things as well. Gus is a one man, Metal wrecking crew in both the studio and stage.</p>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<p>Gus Sinaro is a Brazilian-born <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5472">Metal guitarist</a> that knows all about having a vision. Gus had caught the Metal bug at an early age with <a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-lasso-id="401">bands like Metallica</a>, Alice in Chains and Iron Maiden. After moving to the United States at the age of 17, he knew exactly what he wanted to do with his life; be in a kick-ass band.</p>
+<p>Gus Sinaro is a Brazilian-born <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5472">Metal guitarist</a> that knows all about having a vision. Gus had caught the Metal bug at an early age with <a href="/metallica-guitar-tunings-over-the-years/" data-lasso-id="401">bands like Metallica</a>, Alice in Chains and Iron Maiden. After moving to the United States at the age of 17, he knew exactly what he wanted to do with his life; be in a kick-ass band.</p>
 
 
 
@@ -102,11 +102,11 @@ seo:
 
 
 
-<p><em>SINARO started as a solo project idea back in 2010. I decided to make <a href="https://www.electrikjam.com/brand-new-sinaro-playthrough-2021/" data-lasso-id="21756">Sinaro my priority and main band</a> in 2014, due to my old band Symphony of Malice going on an indefinite hiatus. The solo band turned into a full Metal/Rock outfit and has Collaborated with the late Oli Herbert (All That Remains) and <a href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9095">super shredder</a> Andy James (Five Finger Death Punch). </em></p>
+<p><em>SINARO started as a solo project idea back in 2010. I decided to make <a href="/brand-new-sinaro-playthrough-2021/" data-lasso-id="21756">Sinaro my priority and main band</a> in 2014, due to my old band Symphony of Malice going on an indefinite hiatus. The solo band turned into a full Metal/Rock outfit and has Collaborated with the late Oli Herbert (All That Remains) and <a href="/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9095">super shredder</a> Andy James (Five Finger Death Punch). </em></p>
 
 
 
-<p><em>Sinaro is influenced by Classic Thrash and Heavy Metal bands such as <a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-lasso-id="402">Metallica</a>, Megadeth, Testament, Iron Maiden,Pantera, Machine Head as well as more recent acts like Trivium, Silent Civilian, Killswitch Engage, Lamb of God, Bullet for my Valentine to name a few.</em></p>
+<p><em>Sinaro is influenced by Classic Thrash and Heavy Metal bands such as <a href="/metallica-songs-complete-list-inc-covers-rarities/" data-lasso-id="402">Metallica</a>, Megadeth, Testament, Iron Maiden,Pantera, Machine Head as well as more recent acts like Trivium, Silent Civilian, Killswitch Engage, Lamb of God, Bullet for my Valentine to name a few.</em></p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p><em>My latest tour rig was the simplest setup I have had by far. <strong>ESP </strong>6 &amp; 7 Guitars with <strong>EMG </strong>pickups and <strong><a href="https://www.electrikjam.com/best-strings-for-a-gibson-les-paul/" data-lasso-id="5808">Ernie Ball </strong>strings</a>. As far as amp and pedals, Hughes &amp; Kettner Black Spirit 200 floorboard along with <a href="https://www.electrikjam.com/the-line-6-hx-stomp/" data-lasso-id="5750">Line 6 wireless unit</a>, ISP mini noise Decimator, Precision drive by Horizon pedals, Korg Tuner pedal. </em></p>
+<p><em>My latest tour rig was the simplest setup I have had by far. <strong>ESP </strong>6 &amp; 7 Guitars with <strong>EMG </strong>pickups and <strong><a href="/best-strings-for-a-gibson-les-paul/" data-lasso-id="5808">Ernie Ball </strong>strings</a>. As far as amp and pedals, Hughes &amp; Kettner Black Spirit 200 floorboard along with <a href="/the-line-6-hx-stomp/" data-lasso-id="5750">Line 6 wireless unit</a>, ISP mini noise Decimator, Precision drive by Horizon pedals, Korg Tuner pedal. </em></p>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<p><em>Mike Cassano&#8217;s latest tour rig was <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="403">ESP 7 string</a> and Aristides 6 string with Ernie Ball strings. Mike uses a <a href="https://www.electrikjam.com/line-6-helix-recording-techniques-the-1-guide-to-getting-started/" data-lasso-id="4154">Helix Line</a> 6 pedalboard along with Line 6 wireless unit.</em></p>
+<p><em>Mike Cassano&#8217;s latest tour rig was <a href="/types-of-guitars-guide/" data-lasso-id="403">ESP 7 string</a> and Aristides 6 string with Ernie Ball strings. Mike uses a <a href="/line-6-helix-recording-techniques-the-1-guide-to-getting-started/" data-lasso-id="4154">Helix Line</a> 6 pedalboard along with Line 6 wireless unit.</em></p>
 
 
 

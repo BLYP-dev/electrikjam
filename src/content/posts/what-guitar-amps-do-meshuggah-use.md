@@ -40,15 +40,15 @@ seo:
 
 
 
-<p>Over the years, Meshuggah has been known to use <strong><a href="https://www.electrikjam.com/what-is-line-6-edit/" data-type="post" data-id="5701" data-lasso-id="101412">Line 6</a></strong> and <strong>AXE FX</strong>, both live and in the studio, which allowed the band’s guitarists – Fredrik Thordendal, Mårten Hagström, and Dick Lövgren – to plug directly into the PA system and get the exact same tone at every show. There’s no guesswork involved: <strong>you plug in and you get the exact same sound every damn time.</strong></p>
+<p>Over the years, Meshuggah has been known to use <strong><a href="/what-is-line-6-edit/" data-type="post" data-id="5701" data-lasso-id="101412">Line 6</a></strong> and <strong>AXE FX</strong>, both live and in the studio, which allowed the band’s guitarists – Fredrik Thordendal, Mårten Hagström, and Dick Lövgren – to plug directly into the PA system and get the exact same tone at every show. There’s no guesswork involved: <strong>you plug in and you get the exact same sound every damn time.</strong></p>
 
 
 
-<p>For touring bands, this reliability and consistency are one of the main drawers of using tech like Axe FX – <strong><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="101413">even Metallica use AXE FX</a></strong> these days. But AXE FX isn’t the only tech <a href="https://www.electrikjam.com/meshuggah-meme/" data-lasso-id="104064">Meshuggah</a> uses on their guitar rigs. The band also use laptops in live situations to switch between patches and effects automatically.</p>
+<p>For touring bands, this reliability and consistency are one of the main drawers of using tech like Axe FX – <strong><a href="/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="101413">even Metallica use AXE FX</a></strong> these days. But AXE FX isn’t the only tech <a href="/meshuggah-meme/" data-lasso-id="104064">Meshuggah</a> uses on their guitar rigs. The band also use laptops in live situations to switch between patches and effects automatically.</p>
 
 
 
-<p>Like all guitarists, the band use a selection of <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149208">guitar amps</a> as well – both live and in the studio – and from just before the release of <strong><em>The Violent Sleep of Reason</em></strong>, the band commissioned some custom-built 50W amplifiers from Fortin.</p>
+<p>Like all guitarists, the band use a selection of <a href="/guitar-amp-controls-explained/" data-lasso-id="149208">guitar amps</a> as well – both live and in the studio – and from just before the release of <strong><em>The Violent Sleep of Reason</em></strong>, the band commissioned some custom-built 50W amplifiers from Fortin.</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<p>As far as I am aware, however, the band is currently using AXE FX for its live shows, meaning they plug directly into the PA system with all the effects controlled by laptops, <a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251758">running Cubase, backstage</a>. This means no physical amps are required, as everything is created and managed digitally.</p>
+<p>As far as I am aware, however, the band is currently using AXE FX for its live shows, meaning they plug directly into the PA system with all the effects controlled by laptops, <a href="/what-is-cubase/" data-lasso-id="251758">running Cubase, backstage</a>. This means no physical amps are required, as everything is created and managed digitally.</p>
 
 
 
@@ -126,19 +126,19 @@ seo:
 
 
 
-<p>As for the FX and everything else that goes into making Meshuggah’s tone, well… that’s another story entirely. But we do know that Frederik of Meshuggah is a big fan of the Fortin 33 Fredrik Thordendal Signature Pedal, so getting your hands on one of them probably wouldn’t hurt if you’re trying to emulate Meshuggah’s <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-lasso-id="155189">guitar tone</a>.</p>
+<p>As for the FX and everything else that goes into making Meshuggah’s tone, well… that’s another story entirely. But we do know that Frederik of Meshuggah is a big fan of the Fortin 33 Fredrik Thordendal Signature Pedal, so getting your hands on one of them probably wouldn’t hurt if you’re trying to emulate Meshuggah’s <a href="/how-to-mic-a-guitar-amp/" data-lasso-id="155189">guitar tone</a>.</p>
 
 
 
-<p>As for the guitars used by Meshuggah, the guys have a few 8-string guitars in rotation these days – we’ve already covered them inside our feature on <strong><a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="101414">The Guitars Used By Meshuggah</a></strong>. Beyond this, you’ll also need to invest in <strong><a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="101415">something like Axe FX III</a></strong> as well, and <strong><a href="https://www.steinberg.net/cubase/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="101416">Cubase</a></strong> – this is what Meshuggah has used to create its effects for decades, both live and in the studio.</p>
+<p>As for the guitars used by Meshuggah, the guys have a few 8-string guitars in rotation these days – we’ve already covered them inside our feature on <strong><a href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="101414">The Guitars Used By Meshuggah</a></strong>. Beyond this, you’ll also need to invest in <strong><a href="/guitarists-that-use-axe-fx/" data-type="post" data-id="7103" data-lasso-id="101415">something like Axe FX III</a></strong> as well, and <strong><a href="https://www.steinberg.net/cubase/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="101416">Cubase</a></strong> – this is what Meshuggah has used to create its effects for decades, both live and in the studio.</p>
 
 
 
-<p>If you&#8217;re looking for a slightly <strong><a href="https://www.electrikjam.com/cheap-8-string-guitar/" data-type="post" data-id="2516" data-lasso-id="101417">more affordable 8-string guitar</a></strong>, you do have some excellent options right now – this one being <strong><a href="https://www.electrikjam.com/schecter-demon-8-8-string-electric-guitar-link/" data-type="lasso-urls" data-id="5413" data-lasso-id="101418" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Schecter Demon-8">our current #1 recommendation</a></strong>. </p>
+<p>If you&#8217;re looking for a slightly <strong><a href="/cheap-8-string-guitar/" data-type="post" data-id="2516" data-lasso-id="101417">more affordable 8-string guitar</a></strong>, you do have some excellent options right now – this one being <strong><a href="/schecter-demon-8-8-string-electric-guitar-link/" data-type="lasso-urls" data-id="5413" data-lasso-id="101418" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Schecter Demon-8">our current #1 recommendation</a></strong>. </p>
 
 
 
-<p>And if you’re interested in a detailed overview of Meshuggah’s latest album, IMMUTABLE, you can check out <strong><a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-type="post" data-id="7528" data-lasso-id="101419">ELECTRIKJAM’s Meshuggah IMMUTABLE review</a></strong> for more details on the new album. Spoiler alert: it is really, really good. The band, even after 32 years, is still innovating. And they’ve never sounded better.</p>
+<p>And if you’re interested in a detailed overview of Meshuggah’s latest album, IMMUTABLE, you can check out <strong><a href="/meshuggah-immutable-review/" data-type="post" data-id="7528" data-lasso-id="101419">ELECTRIKJAM’s Meshuggah IMMUTABLE review</a></strong> for more details on the new album. Spoiler alert: it is really, really good. The band, even after 32 years, is still innovating. And they’ve never sounded better.</p>
 
 
 

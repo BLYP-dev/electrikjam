@@ -47,19 +47,19 @@ seo:
 
 
 
-<p>The prices changed with the <a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-lasso-id="8625">Helix because the technology was much more powerful</a> and advanced. The Helix was in direct competition with things like The Kemper, and AXE-FX. </p>
+<p>The prices changed with the <a href="/is-line-6-helix-easy-to-use/" data-lasso-id="8625">Helix because the technology was much more powerful</a> and advanced. The Helix was in direct competition with things like The Kemper, and AXE-FX. </p>
 
 
 
-<p>I felt a little betrayed that my <a href="https://www.electrikjam.com/the-line-6-hx-stomp/" data-lasso-id="6948">budget-friendly Line 6</a> products were so expensive now. But on the other hand, the Helix is a <em>PRO </em>piece of gear. I <a href="https://www.electrikjam.com/do-guitarists-know-every-scale/" data-lasso-id="216529">know a lot of guitarists</a> in the business that switched to Helix and never looked back.</p>
+<p>I felt a little betrayed that my <a href="/the-line-6-hx-stomp/" data-lasso-id="6948">budget-friendly Line 6</a> products were so expensive now. But on the other hand, the Helix is a <em>PRO </em>piece of gear. I <a href="/do-guitarists-know-every-scale/" data-lasso-id="216529">know a lot of guitarists</a> in the business that switched to Helix and never looked back.</p>
 
 
 
-<p>So when the Helix first came out, I was a<em> little </em>disappointed. It was pretty expensive, and a little out of my budget. The <a data-lasso-id="6822" href="https://www.electrikjam.com/line-6-helix-lt-reviews/" target="_blank" data-type="post" data-id="4472" rel="noopener"><strong>Helix LT Edition</strong></a> helped this price problem out a tiny<em> </em>bit, but it was still $1000 for the LT Edition. That can be steep for someone on a budget. </p>
+<p>So when the Helix first came out, I was a<em> little </em>disappointed. It was pretty expensive, and a little out of my budget. The <a data-lasso-id="6822" href="/line-6-helix-lt-reviews/" target="_blank" data-type="post" data-id="4472" rel="noopener"><strong>Helix LT Edition</strong></a> helped this price problem out a tiny<em> </em>bit, but it was still $1000 for the LT Edition. That can be steep for someone on a budget. </p>
 
 
 
-<p><a data-lasso-id="6823" data-lasso-name="Line 6 HX Stomp" href="https://www.electrikjam.com/line-6-helix-stomp-pedal/" target="_blank" data-type="lasso-urls" data-id="4345" rel="nofollow noopener"><strong>The HX Stomp</strong></a> became my only option if I wanted to stick with Line 6 and not empty my wallet completely. That is until I found the <strong><a href="https://www.electrikjam.com/line-6-pod-express-review/" data-lasso-id="263282">Line 6 POD</a> GO.</strong></p>
+<p><a data-lasso-id="6823" data-lasso-name="Line 6 HX Stomp" href="/line-6-helix-stomp-pedal/" target="_blank" data-type="lasso-urls" data-id="4345" rel="nofollow noopener"><strong>The HX Stomp</strong></a> became my only option if I wanted to stick with Line 6 and not empty my wallet completely. That is until I found the <strong><a href="/line-6-pod-express-review/" data-lasso-id="263282">Line 6 POD</a> GO.</strong></p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Streamlined floor processor with more than 270 Helix and legacy amp, stomp, and cabinet models</strong></li><li><strong>Lightweight, tour-grade build quality</strong></li><li><strong>Designed to sound great into an amp, <a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-lasso-id="77730">FRFR CAB</a>,  or PA </strong></li><li><strong>Captures the tone and feel of playing through real tube <a href="https://www.electrikjam.com/what-are-power-amp-pedals-explained/" data-lasso-id="200814">amps and pedal</a> effects</strong></li><li><strong>Large color screen is easy to see from standing position, even in the dark</strong></li><li><strong>Onboard expression pedal unlocks dynamic wah, volume, and rotary effects</strong></li><li><strong>Snapshots feature lets you save and recall tones for each section of a song</strong></li><li><strong>Supports third-party cabinet impulse responses for greater expandability</strong></li><li><strong>4 x 4 USB audio interface delivers tones directly into a recording session in 24-bit/96kHz</strong></li><li><strong>Onboard <a href="https://www.electrikjam.com/boss-gx-100-review/" data-lasso-id="94399">effects</a> loop and headphone output</strong></li><li><strong>Dry amp output lets you monitor through a traditional rig while sending processed tones to FOH</strong></li><li><strong>256 Presets (2 setlists with 32 banks x 4 presets</strong></li><li><strong>200+ effects (Helix &amp; Legacy combined), Up to 10 simultaneous FX (6 fixed, 4 flexible)</strong></li><li><strong>80+ Guitar/Bass Amps, 39 Cabinets, 16 Mic Models</strong></li><li><strong>Custom/3rd Party IR Support, Store up to 128 IRs</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Streamlined floor processor with more than 270 Helix and legacy amp, stomp, and cabinet models</strong></li><li><strong>Lightweight, tour-grade build quality</strong></li><li><strong>Designed to sound great into an amp, <a href="/best-frfr-guitar-speaker-under-300/" data-lasso-id="77730">FRFR CAB</a>,  or PA </strong></li><li><strong>Captures the tone and feel of playing through real tube <a href="/what-are-power-amp-pedals-explained/" data-lasso-id="200814">amps and pedal</a> effects</strong></li><li><strong>Large color screen is easy to see from standing position, even in the dark</strong></li><li><strong>Onboard expression pedal unlocks dynamic wah, volume, and rotary effects</strong></li><li><strong>Snapshots feature lets you save and recall tones for each section of a song</strong></li><li><strong>Supports third-party cabinet impulse responses for greater expandability</strong></li><li><strong>4 x 4 USB audio interface delivers tones directly into a recording session in 24-bit/96kHz</strong></li><li><strong>Onboard <a href="/boss-gx-100-review/" data-lasso-id="94399">effects</a> loop and headphone output</strong></li><li><strong>Dry amp output lets you monitor through a traditional rig while sending processed tones to FOH</strong></li><li><strong>256 Presets (2 setlists with 32 banks x 4 presets</strong></li><li><strong>200+ effects (Helix &amp; Legacy combined), Up to 10 simultaneous FX (6 fixed, 4 flexible)</strong></li><li><strong>80+ Guitar/Bass Amps, 39 Cabinets, 16 Mic Models</strong></li><li><strong>Custom/3rd Party IR Support, Store up to 128 IRs</strong></li></ul>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>The main thing to think about when it comes to the Line 6 POD GO, is that it is<em><strong> not</strong></em> a Helix. Let&#8217;s just get that out of the way. It uses a lot of the <em>sounds</em> from the Helix, but unlike the <a href="https://www.electrikjam.com/guitar-center-pxf-io-3peqek/" target="_blank" data-type="lasso-urls" data-id="4481" rel="nofollow noopener" data-lasso-id="6824" data-lasso-name="Line 6 Helix LT Edition"><strong>Helix LT</strong></a>, it is not just a &#8220;cheaper Helix&#8221;. There is a reason that the unit is going by the &#8220;POD&#8221; moniker, instead of the Helix/HX. But that does not mean that this is a bad unit by any stretch. In fact, it is more of a hybrid unit!</p>
+<p>The main thing to think about when it comes to the Line 6 POD GO, is that it is<em><strong> not</strong></em> a Helix. Let&#8217;s just get that out of the way. It uses a lot of the <em>sounds</em> from the Helix, but unlike the <a href="/guitar-center-pxf-io-3peqek/" target="_blank" data-type="lasso-urls" data-id="4481" rel="nofollow noopener" data-lasso-id="6824" data-lasso-name="Line 6 Helix LT Edition"><strong>Helix LT</strong></a>, it is not just a &#8220;cheaper Helix&#8221;. There is a reason that the unit is going by the &#8220;POD&#8221; moniker, instead of the Helix/HX. But that does not mean that this is a bad unit by any stretch. In fact, it is more of a hybrid unit!</p>
 
 
 
@@ -99,11 +99,11 @@ seo:
 
 
 
-<p>With the POD GO app, you can control all of the parameters for each patch via phone or tablet. This is done easily, because blockchains for amps and effects are locked. So you only have a certain amount of amp and effect combos available. This may be limiting to someone that is used to editing the Helix, but if you are looking for <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149211">amazing tones</a> that get dialed in easily, the Line 6 POD GO is going to be more up your alley. I do not find it to be limiting at all, as I can get just about any tone I want out of the POD GO.</p>
+<p>With the POD GO app, you can control all of the parameters for each patch via phone or tablet. This is done easily, because blockchains for amps and effects are locked. So you only have a certain amount of amp and effect combos available. This may be limiting to someone that is used to editing the Helix, but if you are looking for <a href="/guitar-amp-controls-explained/" data-lasso-id="149211">amazing tones</a> that get dialed in easily, the Line 6 POD GO is going to be more up your alley. I do not find it to be limiting at all, as I can get just about any tone I want out of the POD GO.</p>
 
 
 
-<p>As far as tones go, you have tons of different <a href="https://www.electrikjam.com/nux-mighty-amps-review/" data-lasso-id="159872">amp models</a> and effects. Some you will recognize from the POD series, but others you will notice are straight from the Helix! This combines all of the strengths of both the Helix and the POD series into a hybrid unit, without any filler. There are over 200 effects, and 80 amp sims pulled from both the &#8220;POD Legacy&#8221; series and the Helix/HX. You get the best of both worlds with the Line 6 POD GO.</p>
+<p>As far as tones go, you have tons of different <a href="/nux-mighty-amps-review/" data-lasso-id="159872">amp models</a> and effects. Some you will recognize from the POD series, but others you will notice are straight from the Helix! This combines all of the strengths of both the Helix and the POD series into a hybrid unit, without any filler. There are over 200 effects, and 80 amp sims pulled from both the &#8220;POD Legacy&#8221; series and the Helix/HX. You get the best of both worlds with the Line 6 POD GO.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p>The rear of the Line 6 POD GO has plenty of options, whether you want to use it to record with, or use live with an <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="6825"><strong>FRFR cab</strong></a>. It <em>does not</em> have the same amount of options as the Helix, or the Helix LT. It has only one input, and two outputs for stereo configuration. This is going to be more than enough for most guitarists, but you<em> are</em> missing the XLR I/O. To be honest with you, the Helix Floor has a <em>little too much</em> for me when it comes to input/output options. The Line 6 POD GO is simple, and I really like that!</p>
+<p>The rear of the Line 6 POD GO has plenty of options, whether you want to use it to record with, or use live with an <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener" data-lasso-id="6825"><strong>FRFR cab</strong></a>. It <em>does not</em> have the same amount of options as the Helix, or the Helix LT. It has only one input, and two outputs for stereo configuration. This is going to be more than enough for most guitarists, but you<em> are</em> missing the XLR I/O. To be honest with you, the Helix Floor has a <em>little too much</em> for me when it comes to input/output options. The Line 6 POD GO is simple, and I really like that!</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p>One of the best features is that you can store over 100 user cabinet IR settings in the Line 6 POD GO. This is a <em><strong>great</strong></em> feature, and I am so glad that more companies are allowing this. The cabinets that come with the POD GO are all pretty amazing on their own. But for Metal, I have several IR settings that I personally prefer, that mimic a Mesa Boogie 4X12. I have used these IRs since I got my hands on the<strong> <a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="6826">MOOER FX</a> </strong>unit. It&#8217;s very cool to be able to use these in conjunction with the POD and HX amp sims.</p>
+<p>One of the best features is that you can store over 100 user cabinet IR settings in the Line 6 POD GO. This is a <em><strong>great</strong></em> feature, and I am so glad that more companies are allowing this. The cabinets that come with the POD GO are all pretty amazing on their own. But for Metal, I have several IR settings that I personally prefer, that mimic a Mesa Boogie 4X12. I have used these IRs since I got my hands on the<strong> <a href="/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="6826">MOOER FX</a> </strong>unit. It&#8217;s very cool to be able to use these in conjunction with the POD and HX amp sims.</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>Finally, there are two different versions of the Line 6 POD GO. There is one that is the standard unit, and the newer version that is totally wireless! The wireless version is $100 more, but it comes with the <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18313">Line 6 G10 wireless adapter that plugs into your guitar&#8217;s</a> input jack. It is set up out of the box, and ready to go wireless without any fuss!</p>
+<p>Finally, there are two different versions of the Line 6 POD GO. There is one that is the standard unit, and the newer version that is totally wireless! The wireless version is $100 more, but it comes with the <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18313">Line 6 G10 wireless adapter that plugs into your guitar&#8217;s</a> input jack. It is set up out of the box, and ready to go wireless without any fuss!</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>Look, the Line 6 POD GO is <em>not</em> going to be for everyone. For the guitarists that need deep editing, different I/O routings, and multi polyphonic tracking effects&#8230; it is <em>not</em> going to do all of that. People who are looking for a seriously in-depth experience should go for the <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-lasso-id="10425">Helix line</a>.</p>
+<p>Look, the Line 6 POD GO is <em>not</em> going to be for everyone. For the guitarists that need deep editing, different I/O routings, and multi polyphonic tracking effects&#8230; it is <em>not</em> going to do all of that. People who are looking for a seriously in-depth experience should go for the <a href="/what-is-a-line-6-helix/" data-lasso-id="10425">Helix line</a>.</p>
 
 
 
@@ -191,5 +191,5 @@ seo:
 
 
 
-<p>And the Pod Go could be just what you&#8217;ve been searching for, <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-4eeng0/" data-type="lasso-urls" data-id="4527" data-lasso-id="6839" rel="nofollow noopener" target="_blank" data-lasso-name="Line 6 POD GO Effects Unit">especially with its sub-$500 price tag. </a></strong></p>
+<p>And the Pod Go could be just what you&#8217;ve been searching for, <strong><a href="/guitar-center-pxf-io-4eeng0/" data-type="lasso-urls" data-id="4527" data-lasso-id="6839" rel="nofollow noopener" target="_blank" data-lasso-name="Line 6 POD GO Effects Unit">especially with its sub-$500 price tag. </a></strong></p>
 

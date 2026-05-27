@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="515">Epiphone</a> has been doing a stellar job of taking some of their older, forgotten models and revamping them for 2020. One of my favorites, the Epiphone Wilshire is getting the same treatment.</strong></p>
+<p><strong><a class="rank-math-link" href="/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="515">Epiphone</a> has been doing a stellar job of taking some of their older, forgotten models and revamping them for 2020. One of my favorites, the Epiphone Wilshire is getting the same treatment.</strong></p>
 
 
 
@@ -47,11 +47,11 @@ seo:
 
 
 
-<p>Epiphone this year has been all about their &#8220;Inspired By Gibson&#8221; line, which takes <a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="516">older models</a>, and even <a href="https://prophecy" class="rank-math-link" data-lasso-id="517" target="_blank" rel="noopener noreferrer nofollow">newer ones</a> and takes them up to Gibson design standards. But what if the guitar isn&#8217;t a Gibson model?</p>
+<p>Epiphone this year has been all about their &#8220;Inspired By Gibson&#8221; line, which takes <a href="/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="516">older models</a>, and even <a href="https://prophecy" class="rank-math-link" data-lasso-id="517" target="_blank" rel="noopener noreferrer nofollow">newer ones</a> and takes them up to Gibson design standards. But what if the guitar isn&#8217;t a Gibson model?</p>
 
 
 
-<p>Epiphone only has a few models that have been produced that are not part of the Gibson family, and the Wilshire is definitely one of them. It is unique to <strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2592">Epiphone</a></strong>, and has a long history that predates any Gibson involvement.</p>
+<p>Epiphone only has a few models that have been produced that are not part of the Gibson family, and the Wilshire is definitely one of them. It is unique to <strong><a href="/epiphone-guitars/" data-lasso-id="2592">Epiphone</a></strong>, and has a long history that predates any Gibson involvement.</p>
 
 
 
@@ -59,11 +59,11 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-lasso-id="518">Unlike Epiphone&#8217;s SG guitars</a></strong> which has sold by the boat-load since the 1960s. </p>
+<p><strong><a class="rank-math-link" href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-lasso-id="518">Unlike Epiphone&#8217;s SG guitars</a></strong> which has sold by the boat-load since the 1960s. </p>
 
 
 
-<p>It was then released again in the 1980&#8217;s with two <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="519">humbucker pickups</a>. Once again, it sold pretty well, but never took off as a flagship model. So the Epiphone Wilshire became a bit of a &#8220;cult status&#8221; guitar. It was reissued again in 2009, and that&#8217;s when I got my hands on one. Once again, it never became associated with a genre or famous player. The Wilshire just&#8230;was.</p>
+<p>It was then released again in the 1980&#8217;s with two <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="519">humbucker pickups</a>. Once again, it sold pretty well, but never took off as a flagship model. So the Epiphone Wilshire became a bit of a &#8220;cult status&#8221; guitar. It was reissued again in 2009, and that&#8217;s when I got my hands on one. Once again, it never became associated with a genre or famous player. The Wilshire just&#8230;was.</p>
 
 
 
@@ -79,11 +79,11 @@ seo:
 
 
 
-<p>The Epiphone Wilshire started off as a two pickup guitar, with P-90 pickups and a 4 knob control layout. But it has been everything in between over the years when it comes to features. As mentioned earlier, the Wilshire never became a Flagship model, and <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5463">no famous guitarists ever exclusively used them</a>.</p>
+<p>The Epiphone Wilshire started off as a two pickup guitar, with P-90 pickups and a 4 knob control layout. But it has been everything in between over the years when it comes to features. As mentioned earlier, the Wilshire never became a Flagship model, and <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5463">no famous guitarists ever exclusively used them</a>.</p>
 
 
 
-<p>Many people used The Epiphone Wilshire as a modding platform. Often swapping out <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8221">pickups and electronics</a> to suit the player&#8217;s needs. This was <a href="https://www.electrikjam.com/best-selling-guitars/" data-lasso-id="19197">especially popular in the 80&#8217;s</a>.</p>
+<p>Many people used The Epiphone Wilshire as a modding platform. Often swapping out <a href="/what-are-active-pickups/" data-lasso-id="8221">pickups and electronics</a> to suit the player&#8217;s needs. This was <a href="/best-selling-guitars/" data-lasso-id="19197">especially popular in the 80&#8217;s</a>.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p><strong>The Crestwood</strong> is the most interesting of the lot in my eyes. The new Crestwood has two mini-humbuckers of <a href="https://www.electrikjam.com/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-lasso-id="520">Epiphone design</a>. Ivory Tuning buttons on vintage machine heads make the &#8220;period correct&#8221; headstock look vintage. The other standout feature is the trem system, that is Epiphone designed but works like a Bigsby. This model also has upgraded CTS Pots and wiring.</p>
+<p><strong>The Crestwood</strong> is the most interesting of the lot in my eyes. The new Crestwood has two mini-humbuckers of <a href="/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-lasso-id="520">Epiphone design</a>. Ivory Tuning buttons on vintage machine heads make the &#8220;period correct&#8221; headstock look vintage. The other standout feature is the trem system, that is Epiphone designed but works like a Bigsby. This model also has upgraded CTS Pots and wiring.</p>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<p>If you go back to the top of the article though, you&#8217;ll see me playing in a band with one. The band I played in was certainly a Metal band. We were very heavy. I often used the Wilshire for <a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-lasso-id="521">drop tunings</a>, and it worked great. There was something cool about playing a guitar on stage that everyone asked about after the show. Because <em>they had never seen one</em>.</p>
+<p>If you go back to the top of the article though, you&#8217;ll see me playing in a band with one. The band I played in was certainly a Metal band. We were very heavy. I often used the Wilshire for <a href="/bands-that-use-drop-c-tuning/" data-lasso-id="521">drop tunings</a>, and it worked great. There was something cool about playing a guitar on stage that everyone asked about after the show. Because <em>they had never seen one</em>.</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>The P-90 pickups in the new models would be perfect for <a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="522">Doom Metal</a>, or any other fuzzed out genre you prefer. <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="523">Like Les Pauls</a>, or any other vintage styled instrument, the sky is the limit as to what can be done with them.</p>
+<p>The P-90 pickups in the new models would be perfect for <a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="522">Doom Metal</a>, or any other fuzzed out genre you prefer. <a href="/types-of-guitars-guide/" data-lasso-id="523">Like Les Pauls</a>, or any other vintage styled instrument, the sky is the limit as to what can be done with them.</p>
 
 
 

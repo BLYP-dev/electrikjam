@@ -59,7 +59,7 @@ seo:
 
 
 
-<p id="htoc-d-addario-exl110-10-46-ernie-ball-regular-slinky-10-46">🎯 <strong><a href="https://www.electrikjam.com/recommends/daddario-exl110-10-46/" data-lasso-id="271244">D’Addario EXL110 (10-46)</a><br>🎯 <a href="https://www.electrikjam.com/recommends/ernie-ball-regular-slinky-10-46/" data-lasso-id="271245">Ernie Ball Regular Slinky (10-46)</a></strong></p>
+<p id="htoc-d-addario-exl110-10-46-ernie-ball-regular-slinky-10-46">🎯 <strong><a href="/recommends/daddario-exl110-10-46/" data-lasso-id="271244">D’Addario EXL110 (10-46)</a><br>🎯 <a href="/recommends/ernie-ball-regular-slinky-10-46/" data-lasso-id="271245">Ernie Ball Regular Slinky (10-46)</a></strong></p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p id="htoc-d-addario-exl140-10-52-ernie-ball-skinny-top-heavy-bottom-10-52"><strong>💥 <a href="https://www.electrikjam.com/recommends/daddario-exl140-10-52/" data-lasso-id="271246">D’Addario EXL140 (10-52)</a><br>💥 <a href="https://www.electrikjam.com/recommends/ernie-ball-skinny-top-heavy-bottom-10-52/" data-lasso-id="271247">Ernie Ball Skinny Top Heavy Bottom (10-52)</a></strong></p>
+<p id="htoc-d-addario-exl140-10-52-ernie-ball-skinny-top-heavy-bottom-10-52"><strong>💥 <a href="/recommends/daddario-exl140-10-52/" data-lasso-id="271246">D’Addario EXL140 (10-52)</a><br>💥 <a href="/recommends/ernie-ball-skinny-top-heavy-bottom-10-52/" data-lasso-id="271247">Ernie Ball Skinny Top Heavy Bottom (10-52)</a></strong></p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p id="htoc-d-addario-exl148-12-60-ernie-ball-beefy-slinky-11-54"><strong>🔥 <a href="https://www.electrikjam.com/recommends/daddario-exl148-12-60/" data-lasso-id="271248">D’Addario EXL148 (12-60)</a><br>🔥 <a href="https://www.electrikjam.com/recommends/ernie-ball-beefy-slinky-11-54/" data-lasso-id="271249">Ernie Ball Beefy Slinky (11-54)</a></strong></p>
+<p id="htoc-d-addario-exl148-12-60-ernie-ball-beefy-slinky-11-54"><strong>🔥 <a href="/recommends/daddario-exl148-12-60/" data-lasso-id="271248">D’Addario EXL148 (12-60)</a><br>🔥 <a href="/recommends/ernie-ball-beefy-slinky-11-54/" data-lasso-id="271249">Ernie Ball Beefy Slinky (11-54)</a></strong></p>
 
 
 
@@ -119,11 +119,11 @@ seo:
 
 
 
-<p id="htoc-d-addario-nyxl1260-12-60"><strong>🚀 <a href="https://www.electrikjam.com/recommends/daddario-nyxl1260-12-60/" data-lasso-id="271250">D’Addario NYXL1260 (12-60)</a></strong></p>
+<p id="htoc-d-addario-nyxl1260-12-60"><strong>🚀 <a href="/recommends/daddario-nyxl1260-12-60/" data-lasso-id="271250">D’Addario NYXL1260 (12-60)</a></strong></p>
 
 
 
-<p id="htoc-elixir-nanoweb-heavy-11-49"><strong>🚀 <a href="https://www.electrikjam.com/recommends/elixir-nanoweb-heavy-11-49/" data-lasso-id="271251">Elixir Nanoweb Heavy (11-49)</a></strong></p>
+<p id="htoc-elixir-nanoweb-heavy-11-49"><strong>🚀 <a href="/recommends/elixir-nanoweb-heavy-11-49/" data-lasso-id="271251">Elixir Nanoweb Heavy (11-49)</a></strong></p>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<p><strong><strong>🔗 <a href="https://www.electrikjam.com/recommends/daddario-exl110-10-46/" data-lasso-id="271252">Get These Strings</a></strong></strong></p>
+<p><strong><strong>🔗 <a href="/recommends/daddario-exl110-10-46/" data-lasso-id="271252">Get These Strings</a></strong></strong></p>
 
 
 
@@ -208,11 +208,11 @@ seo:
 
 
 
-<p><strong>🔗 <a href="https://www.electrikjam.com/recommends/ernie-ball-regular-slinky-10-46/" data-lasso-id="271253">Get These Strings</a></strong></p>
+<p><strong>🔗 <a href="/recommends/ernie-ball-regular-slinky-10-46/" data-lasso-id="271253">Get These Strings</a></strong></p>
 
 
 
-<p>Want more tips on rocking standard tuning? Check out our <strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="271007">guide on iconic guitar tunings</a>​.</strong></p>
+<p>Want more tips on rocking standard tuning? Check out our <strong><a href="/standard-tuning-guitar-explained-history/" data-lasso-id="271007">guide on iconic guitar tunings</a>​.</strong></p>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p><strong>🔗 <a href="https://www.electrikjam.com/recommends/daddario-exl140-10-52/" data-lasso-id="271254">Get These Strings</a></strong></p>
+<p><strong>🔗 <a href="/recommends/daddario-exl140-10-52/" data-lasso-id="271254">Get These Strings</a></strong></p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p><strong>🔗 <a href="https://www.electrikjam.com/recommends/ernie-ball-skinny-top-heavy-bottom-10-52/" data-lasso-id="271255">Get These Strings</a></strong></p>
+<p><strong>🔗 <a href="/recommends/ernie-ball-skinny-top-heavy-bottom-10-52/" data-lasso-id="271255">Get These Strings</a></strong></p>
 
 
 
@@ -304,7 +304,7 @@ seo:
 
 
 
-<p>Thinking about adding Drop D to your arsenal? Learn more about its versatility in our <strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-lasso-id="271008">drop tuning guide</a>​.</strong></p>
+<p>Thinking about adding Drop D to your arsenal? Learn more about its versatility in our <strong><a href="/drop-d-tuning-guitar-guide/" data-lasso-id="271008">drop tuning guide</a>​.</strong></p>
 
 
 
@@ -320,7 +320,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" style="border-radius:20px" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Back when QOTSA were good, <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="271256">Josh Homme tuned all the way down to C Standard.</a></strong> Nowadays, he&#8217;s more of a Standard Tuning guy.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png" alt="What Pickups Does Josh Homme Use" class="wp-image-7071" style="border-radius:20px" title="" srcset="/wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1024x683.png 1024w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-600x400.png 600w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-300x200.png 300w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-768x512.png 768w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use-1080x720.png 1080w, /wp-content/uploads/2022/03/What-Pickups-Does-Josh-Homme-Use.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Back when QOTSA were good, <strong><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="271256">Josh Homme tuned all the way down to C Standard.</a></strong> Nowadays, he&#8217;s more of a Standard Tuning guy.</figcaption></figure>
 
 
 
@@ -333,11 +333,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-d-addario-exl148-extra-heavy-12-60-perfect-for-maintaining-tightness-without-buzz"><strong><a href="https://www.electrikjam.com/recommends/daddario-exl148-12-60/" data-lasso-id="271257">D’Addario EXL148 Extra Heavy (12-60)</a></strong>: Perfect for maintaining tightness without buzz.</li>
+<li id="htoc-d-addario-exl148-extra-heavy-12-60-perfect-for-maintaining-tightness-without-buzz"><strong><a href="/recommends/daddario-exl148-12-60/" data-lasso-id="271257">D’Addario EXL148 Extra Heavy (12-60)</a></strong>: Perfect for maintaining tightness without buzz.</li>
 
 
 
-<li id="htoc-ernie-ball-beefy-slinky-11-54-a-go-to-for-balanced-playability"><strong><a href="https://www.electrikjam.com/recommends/ernie-ball-beefy-slinky-11-54/" data-lasso-id="271258">Ernie Ball Beefy Slinky (11-54)</a></strong>: A go-to for balanced playability.</li>
+<li id="htoc-ernie-ball-beefy-slinky-11-54-a-go-to-for-balanced-playability"><strong><a href="/recommends/ernie-ball-beefy-slinky-11-54/" data-lasso-id="271258">Ernie Ball Beefy Slinky (11-54)</a></strong>: A go-to for balanced playability.</li>
 </ul>
 
 
@@ -347,11 +347,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-d-addario-nyxl1260-extra-heavy-12-60-offers-incredible-durability-and-tuning-stability"><strong><a href="https://www.electrikjam.com/recommends/daddario-nyxl1260-12-60/" data-lasso-id="271259">D’Addario NYXL1260 Extra Heavy (12-60)</a></strong>: Offers incredible durability and tuning stability.</li>
+<li id="htoc-d-addario-nyxl1260-extra-heavy-12-60-offers-incredible-durability-and-tuning-stability"><strong><a href="/recommends/daddario-nyxl1260-12-60/" data-lasso-id="271259">D’Addario NYXL1260 Extra Heavy (12-60)</a></strong>: Offers incredible durability and tuning stability.</li>
 
 
 
-<li id="htoc-elixir-nanoweb-heavy-these-strings-are-pricey-but-they-re-so-worth-it-they-last-around-3x-longer-than-any-other-brand-on-the-market"><strong><a href="https://www.electrikjam.com/recommends/elixir-nanoweb-heavy-11-49/" data-lasso-id="271260">Elixir Nanoweb Heavy</a></strong>: These strings are pricey but they&#8217;re so worth it; they last around 3x longer than any other brand on the market. </li>
+<li id="htoc-elixir-nanoweb-heavy-these-strings-are-pricey-but-they-re-so-worth-it-they-last-around-3x-longer-than-any-other-brand-on-the-market"><strong><a href="/recommends/elixir-nanoweb-heavy-11-49/" data-lasso-id="271260">Elixir Nanoweb Heavy</a></strong>: These strings are pricey but they&#8217;re so worth it; they last around 3x longer than any other brand on the market. </li>
 </ul>
 
 
@@ -374,7 +374,7 @@ seo:
 
 
 
-<p>Need a primer on lower tunings? Don’t miss our <a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-lasso-id="271009"><strong>in-depth D Standard guide</strong></a>​.</p>
+<p>Need a primer on lower tunings? Don’t miss our <a href="/d-standard-tuning-guide-how-to/" data-lasso-id="271009"><strong>in-depth D Standard guide</strong></a>​.</p>
 
 
 
@@ -402,7 +402,7 @@ seo:
 
 
 
-<p>Remember, string preference is personal, and experimentation is key. If you’re changing gauges, <strong><a href="https://www.electrikjam.com/electric-guitar/new-guitar-setup-checklist/" data-type="page" data-id="15799" data-lasso-id="271010">give your guitar a proper setup to avoid intonation headaches</a></strong>. Trust me—your guitar will thank you.</p>
+<p>Remember, string preference is personal, and experimentation is key. If you’re changing gauges, <strong><a href="/electric-guitar/new-guitar-setup-checklist/" data-type="page" data-id="15799" data-lasso-id="271010">give your guitar a proper setup to avoid intonation headaches</a></strong>. Trust me—your guitar will thank you.</p>
 
 
 

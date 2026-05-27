@@ -46,19 +46,19 @@ seo:
 
 
 
-<p>The Blackstar IDCore Series is one of my most recommended amps. I always tell people how much I love mine, and I use it daily for practice. I added it to the <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="700"><strong>best practice Amps List</strong></a> from last year, and I have a feeling it will make the list again for 2021!</p>
+<p>The Blackstar IDCore Series is one of my most recommended amps. I always tell people how much I love mine, and I use it daily for practice. I added it to the <a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="700"><strong>best practice Amps List</strong></a> from last year, and I have a feeling it will make the list again for 2021!</p>
 
 
 
-<p>These amps come in 3 different models, and the best part is that all of them are affordable – <strong><a href="https://www.electrikjam.com/recommends/blackstar-idcore-10-v3/" class="rank-math-link" data-lasso-id="701">like $129 affordable</a></strong>. </p>
+<p>These amps come in 3 different models, and the best part is that all of them are affordable – <strong><a href="/recommends/blackstar-idcore-10-v3/" class="rank-math-link" data-lasso-id="701">like $129 affordable</a></strong>. </p>
 
 
 
-<p>The landscape for what makes a good practice amp has changed this year with the advent of <a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="702"><strong>BIAS FX</strong></a>. You need more options than ever before if you want to compete.</p>
+<p>The landscape for what makes a good practice amp has changed this year with the advent of <a href="/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="702"><strong>BIAS FX</strong></a>. You need more options than ever before if you want to compete.</p>
 
 
 
-<p>Blackstar started as a scion from the famous Marshall Amplifiers company. The lead team over at Blackstar knew exactly how to made a <a href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/" data-lasso-id="703">hot-rodded Metal tube amp</a>, and their initial success was based on their designs Marshall had denied. But times changed, and modeling software became the norm. At first, Blackstar fell behind.</p>
+<p>Blackstar started as a scion from the famous Marshall Amplifiers company. The lead team over at Blackstar knew exactly how to made a <a href="/the-best-guitar-amps-under-100-bucks/" data-lasso-id="703">hot-rodded Metal tube amp</a>, and their initial success was based on their designs Marshall had denied. But times changed, and modeling software became the norm. At first, Blackstar fell behind.</p>
 
 
 
@@ -70,7 +70,7 @@ seo:
 
 
 
-<p>It looks like Blackstar IDCore V3 has managed to pack even more features into a tiny package at a <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/blackstar-idcore-10-v3/" data-lasso-id="704">great price point</a></strong>. Let&#8217;s dig in and take a look!</p>
+<p>It looks like Blackstar IDCore V3 has managed to pack even more features into a tiny package at a <strong><a class="rank-math-link" href="/recommends/blackstar-idcore-10-v3/" data-lasso-id="704">great price point</a></strong>. Let&#8217;s dig in and take a look!</p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 		
 
 
-<p>The <a href="https://www.electrikjam.com/boss-gx-100-review/" data-lasso-id="94405">Effects</a> buttons, and the Effects dial still work the same as well, You have Delay, Reverb, and Modulation. The Effects knob stores your presets, and has a knob for the level and blend. </p>
+<p>The <a href="/boss-gx-100-review/" data-lasso-id="94405">Effects</a> buttons, and the Effects dial still work the same as well, You have Delay, Reverb, and Modulation. The Effects knob stores your presets, and has a knob for the level and blend. </p>
 
 
 
@@ -134,11 +134,11 @@ seo:
 
 
 
-<p><strong>The Free Architect Software</strong> is the first big update to the Blackstar IDCore V3 series. This new software allows you to easily deep edit all of your saved patches, without being too complicated or hard to program. This is simplicity at it&#8217;s finest. This is technically just an add-on feature, since all of the <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="223251">amp models</a> are set nearly perfect from the factory. Almost every tone you can imagine, can be created, easily.</p>
+<p><strong>The Free Architect Software</strong> is the first big update to the Blackstar IDCore V3 series. This new software allows you to easily deep edit all of your saved patches, without being too complicated or hard to program. This is simplicity at it&#8217;s finest. This is technically just an add-on feature, since all of the <a href="/neural-amp-modeler/" data-lasso-id="223251">amp models</a> are set nearly perfect from the factory. Almost every tone you can imagine, can be created, easily.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="802" height="600" src="/wp-content/uploads/2021/01/idcore-v3-new-cabrig.jpg" alt="" class="wp-image-1785" title="" srcset="/wp-content/uploads/2021/01/idcore-v3-new-cabrig.jpg 802w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-600x449.jpg 600w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-300x224.jpg 300w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-768x575.jpg 768w" sizes="(max-width: 802px) 100vw, 802px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/blackstar-idcore-10-v3/" data-lasso-id="705">Best Price Online – $129 (Down From $189.99)</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="802" height="600" src="/wp-content/uploads/2021/01/idcore-v3-new-cabrig.jpg" alt="" class="wp-image-1785" title="" srcset="/wp-content/uploads/2021/01/idcore-v3-new-cabrig.jpg 802w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-600x449.jpg 600w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-300x224.jpg 300w, /wp-content/uploads/2021/01/idcore-v3-new-cabrig-768x575.jpg 768w" sizes="(max-width: 802px) 100vw, 802px" /><figcaption><strong><a class="rank-math-link" href="/recommends/blackstar-idcore-10-v3/" data-lasso-id="705">Best Price Online – $129 (Down From $189.99)</a></strong></figcaption></figure>
 
 
 
@@ -150,7 +150,7 @@ seo:
 
 
 
-<p>This is a basic version of Cab Simulation, or Impulse Response, and it is <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9533">essential when you are crafting tones for recording</a>. A good cab can make or break a tone. <a href="https://blackstaramps.com/idcore-v3/" class="rank-math-link" data-lasso-id="706" target="_blank" rel="noopener noreferrer nofollow">From Blackstar Official</a>:</p>
+<p>This is a basic version of Cab Simulation, or Impulse Response, and it is <a href="/must-have-for-recording-guitar/" data-lasso-id="9533">essential when you are crafting tones for recording</a>. A good cab can make or break a tone. <a href="https://blackstaramps.com/idcore-v3/" class="rank-math-link" data-lasso-id="706" target="_blank" rel="noopener noreferrer nofollow">From Blackstar Official</a>:</p>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong> <a href="https://www.electrikjam.com/m-audio-releases-the-m-track-solo-and-duo/" data-lasso-id="707">4-channel USB audio</a> makes low-latency recording and professional re-amping simple, turning your amp an audio interface.</strong></li><li><strong> Small in size, but delivers huge tones from a cool-looking compact amp.</strong></li><li><strong> Cab Rig Lite is our next-generation Cab Simulator, with user-configurable controls for elements such as cabinet, mic and room environment.</strong></li><li><strong> Direct to device recording and livestreaming made easy using a TRRS 3.5mm cable for input/output live streaming to a compatible device (i.e. iPhone, Android phone)</strong></li></ul>
+<ul class="wp-block-list"><li><strong> <a href="/m-audio-releases-the-m-track-solo-and-duo/" data-lasso-id="707">4-channel USB audio</a> makes low-latency recording and professional re-amping simple, turning your amp an audio interface.</strong></li><li><strong> Small in size, but delivers huge tones from a cool-looking compact amp.</strong></li><li><strong> Cab Rig Lite is our next-generation Cab Simulator, with user-configurable controls for elements such as cabinet, mic and room environment.</strong></li><li><strong> Direct to device recording and livestreaming made easy using a TRRS 3.5mm cable for input/output live streaming to a compatible device (i.e. iPhone, Android phone)</strong></li></ul>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<p>No more video editing software, or posting videos with &#8220;room sound&#8221;. The <a href="https://www.electrikjam.com/blackstar-silverline-special-review/" data-lasso-id="44368">Blackstar IDCore V3 does all of the heavy</a> lifting for you. Of course, you better practice your chops if you plan to go live!</p>
+<p>No more video editing software, or posting videos with &#8220;room sound&#8221;. The <a href="/blackstar-silverline-special-review/" data-lasso-id="44368">Blackstar IDCore V3 does all of the heavy</a> lifting for you. Of course, you better practice your chops if you plan to go live!</p>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<p>And <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/blackstar-idcore-10-v3/" data-lasso-id="708">it only costs 129 bucks!</a></strong> What&#8217;s not to like!? </p>
+<p>And <strong><a class="rank-math-link" href="/recommends/blackstar-idcore-10-v3/" data-lasso-id="708">it only costs 129 bucks!</a></strong> What&#8217;s not to like!? </p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

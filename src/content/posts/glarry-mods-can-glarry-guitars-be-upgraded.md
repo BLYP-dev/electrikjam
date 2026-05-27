@@ -68,11 +68,11 @@ seo:
 
 
 
-<p>While Glarry instruments are great for beginners, we also have explored the idea of mods in our reviews. Our original review took the approach of not just a <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254489">guitar for beginners</a>, but experienced guitarists on a budget that might want a<strong> mod platform</strong>. In fact, the <strong><a href="https://www.electrikjam.com/glarry-gst-electric-guitar-review/" data-type="post" data-id="11160" target="_blank" rel="noopener" data-lasso-id="225264">review guitar we were sent</a></strong> is being modified as we speak! </p>
+<p>While Glarry instruments are great for beginners, we also have explored the idea of mods in our reviews. Our original review took the approach of not just a <a href="/best-guitar-for-beginners/" data-lasso-id="254489">guitar for beginners</a>, but experienced guitarists on a budget that might want a<strong> mod platform</strong>. In fact, the <strong><a href="/glarry-gst-electric-guitar-review/" data-type="post" data-id="11160" target="_blank" rel="noopener" data-lasso-id="225264">review guitar we were sent</a></strong> is being modified as we speak! </p>
 
 
 
-<p>Glarry mods have been a big subject on guitar forums, and some people have made incredibly unique mods on their guitars and basses. We talked about this with our <strong><a data-lasso-id="223264" href="https://www.electrikjam.com/glarry-gst-electric-guitar-review/" data-type="post" data-id="11160" target="_blank" rel="noopener">Glarry GST Guitar review</a></strong>, and we planned to do some fun mods on that model.</p>
+<p>Glarry mods have been a big subject on guitar forums, and some people have made incredibly unique mods on their guitars and basses. We talked about this with our <strong><a data-lasso-id="223264" href="/glarry-gst-electric-guitar-review/" data-type="post" data-id="11160" target="_blank" rel="noopener">Glarry GST Guitar review</a></strong>, and we planned to do some fun mods on that model.</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p><strong>The first thing you should do, is change the strings!</strong> This is the quickest way to get your Glarry playing and sounding better almost immediately, as the stock strings are VERY hit and miss on <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231160">budget guitars</a>.</p>
+<p><strong>The first thing you should do, is change the strings!</strong> This is the quickest way to get your Glarry playing and sounding better almost immediately, as the stock strings are VERY hit and miss on <a href="/gamma-guitar-pedals-review/" data-lasso-id="231160">budget guitars</a>.</p>
 
 
 
@@ -176,11 +176,11 @@ seo:
 
 
 
-<p>This is totally personal preference, and everyone is different. Personally, <strong><a href="https://www.electrikjam.com/what-are-locking-tuners/" target="_blank" data-type="post" data-id="5971" rel="noopener" data-lasso-id="225265">I prefer locking tuners</a></strong> since they make string changes a breeze. But locking tuners definitely cost more money, and some of them cost more than the Glarry guitar!</p>
+<p>This is totally personal preference, and everyone is different. Personally, <strong><a href="/what-are-locking-tuners/" target="_blank" data-type="post" data-id="5971" rel="noopener" data-lasso-id="225265">I prefer locking tuners</a></strong> since they make string changes a breeze. But locking tuners definitely cost more money, and some of them cost more than the Glarry guitar!</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/glarry-gst-electric-guitar-review/" data-type="post" data-id="11160" target="_blank" rel="noopener" data-lasso-id="225266">The Glarry GST</a> and other &#8220;in line&#8221; tuner designs as well as the 3&#215;3 designs are metric 10mm holes.</strong> This opens up a world of possibilities when it comes to aftermarket tuners. In fact, Fender/Squier tuners are a direct fit. Keep in mind, that you may need to drill if you use Fender Locking Tuners since they use two tabs on the back to hold the tuner in place.</p>
+<p><strong><a href="/glarry-gst-electric-guitar-review/" data-type="post" data-id="11160" target="_blank" rel="noopener" data-lasso-id="225266">The Glarry GST</a> and other &#8220;in line&#8221; tuner designs as well as the 3&#215;3 designs are metric 10mm holes.</strong> This opens up a world of possibilities when it comes to aftermarket tuners. In fact, Fender/Squier tuners are a direct fit. Keep in mind, that you may need to drill if you use Fender Locking Tuners since they use two tabs on the back to hold the tuner in place.</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p>So <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-9wy5nw/" data-type="lasso-urls" data-id="5978" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="225267" data-lasso-name="Fender Locking Tuner Set">Fender parts </a></strong>are a direct replacement, as well as <strong><a href="https://www.toneninja.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="225268">companies like Tone Ninja</a></strong>. Take notice where the set screw is located on your Glarry, to avoid drilling any extra holes. I found some used Fender locking tuners that I plan to use, as I don&#8217;t mind drilling.</p>
+<p>So <strong><a href="/guitar-center-pxf-io-9wy5nw/" data-type="lasso-urls" data-id="5978" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="225267" data-lasso-name="Fender Locking Tuner Set">Fender parts </a></strong>are a direct replacement, as well as <strong><a href="https://www.toneninja.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="225268">companies like Tone Ninja</a></strong>. Take notice where the set screw is located on your Glarry, to avoid drilling any extra holes. I found some used Fender locking tuners that I plan to use, as I don&#8217;t mind drilling.</p>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<p>I think that a lot of guitarists get a little confused when their guitar is constantly going out of tune. Usually guitarists will think that this is the fault of the tuners, and that is rarely the case. Tuning issues <strong><a href="https://www.electrikjam.com/solving-guitar-tuning-issues-tutorial/" target="_blank" data-type="post" data-id="10273" rel="noopener" data-lasso-id="225269">usually happen at the nut</a></strong>.</p>
+<p>I think that a lot of guitarists get a little confused when their guitar is constantly going out of tune. Usually guitarists will think that this is the fault of the tuners, and that is rarely the case. Tuning issues <strong><a href="/solving-guitar-tuning-issues-tutorial/" target="_blank" data-type="post" data-id="10273" rel="noopener" data-lasso-id="225269">usually happen at the nut</a></strong>.</p>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<p>The nut on my Glarry GST is cut just fine, and the guitar stays in tune during normal play. But it can always be better right? There are much better materials out there, and I recommend bone or s<strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-wd2mgm/" target="_blank" data-type="lasso-urls" data-id="5980" rel="nofollow sponsored noopener" data-lasso-id="225270" data-lasso-name="Graph Tech TUSQ Nut">ynthetic bone like TUSQ.</a></strong></p>
+<p>The nut on my Glarry GST is cut just fine, and the guitar stays in tune during normal play. But it can always be better right? There are much better materials out there, and I recommend bone or s<strong><a href="/guitar-center-pxf-io-wd2mgm/" target="_blank" data-type="lasso-urls" data-id="5980" rel="nofollow sponsored noopener" data-lasso-id="225270" data-lasso-name="Graph Tech TUSQ Nut">ynthetic bone like TUSQ.</a></strong></p>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<p><strong>Glarry basses also use a 42mm nut width, and many companies make these replacements.</strong> Although, the nut was perfectly cut on <strong><a href="https://www.electrikjam.com/the-glarry-gjazz-bass-review/" data-type="post" data-id="11176" target="_blank" rel="noopener" data-lasso-id="225271">my Glarry GJazz Bass </a></strong>that I purchased for the studio, the nut is still plastic so I might change it at some point.</p>
+<p><strong>Glarry basses also use a 42mm nut width, and many companies make these replacements.</strong> Although, the nut was perfectly cut on <strong><a href="/the-glarry-gjazz-bass-review/" data-type="post" data-id="11176" target="_blank" rel="noopener" data-lasso-id="225271">my Glarry GJazz Bass </a></strong>that I purchased for the studio, the nut is still plastic so I might change it at some point.</p>
 
 
 
@@ -310,7 +310,7 @@ seo:
 
 
 
-<p><strong>It seems like Fender MIM and <a href="https://www.electrikjam.com/the-new-199-squier-sonic-series/" data-lasso-id="228760">Squier</a> parts will be a direct fit.</strong> I bought a used Fender MIM &#8220;Vintage&#8221; bridge, and the six-screw design lines up perfectly. The larger bridge block also fits just fine into the Glarry GST body. </p>
+<p><strong>It seems like Fender MIM and <a href="/the-new-199-squier-sonic-series/" data-lasso-id="228760">Squier</a> parts will be a direct fit.</strong> I bought a used Fender MIM &#8220;Vintage&#8221; bridge, and the six-screw design lines up perfectly. The larger bridge block also fits just fine into the Glarry GST body. </p>
 
 
 
@@ -322,7 +322,7 @@ seo:
 
 
 
-<p>The Tele-Style Glarry models already have a good bridge, and the saddles are the weak point. I would get the compensated T-Style saddles since they are a direct replacement. All you would have to do afterwards <strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="225272">is intonate your guitar.</a></strong></p>
+<p>The Tele-Style Glarry models already have a good bridge, and the saddles are the weak point. I would get the compensated T-Style saddles since they are a direct replacement. All you would have to do afterwards <strong><a href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="225272">is intonate your guitar.</a></strong></p>
 
 
 

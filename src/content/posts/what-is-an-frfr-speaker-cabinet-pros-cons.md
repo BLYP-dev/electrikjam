@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>And you don&#8217;t even have to spend a lot of money on an FRFR speaker either – <strong><a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-lasso-id="218930">this FRFR speaker costs less than $300. </a></strong></p>
+<p>And you don&#8217;t even have to spend a lot of money on an FRFR speaker either – <strong><a href="/best-frfr-guitar-speaker-under-300/" data-lasso-id="218930">this FRFR speaker costs less than $300. </a></strong></p>
 
 
 
@@ -157,5 +157,5 @@ seo:
 
 
 
-<p>Now that’s out of the way, here&#8217;s a selection of<strong><a href="https://www.electrikjam.com/best-frfr-speaker/" data-type="post" data-id="11014" data-lasso-id="218931"> the best FRFR speakers you can buy right now</a></strong>. </p>
+<p>Now that’s out of the way, here&#8217;s a selection of<strong><a href="/best-frfr-speaker/" data-type="post" data-id="11014" data-lasso-id="218931"> the best FRFR speakers you can buy right now</a></strong>. </p>
 

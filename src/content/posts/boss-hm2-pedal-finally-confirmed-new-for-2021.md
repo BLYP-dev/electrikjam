@@ -52,11 +52,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>RELATED: <a href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" class="rank-math-link" data-lasso-id="487">The Best Guitar Pedals Ever Created: 1968 to 2021…</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>RELATED: <a href="/the-best-guitar-pedals-1968-2021/" class="rank-math-link" data-lasso-id="487">The Best Guitar Pedals Ever Created: 1968 to 2021…</a></strong></li></ul>
 
 
 
-<p>The HM2 was famous for a lot of tones, but the first time I heard about the pedal was with David Gilmour of<strong> Pink Floyd</strong> fame in 1984. David replaced pedals in his rig all the time, constantly switching it up. His mainstay of his tone is a<a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="488"> fuzz pedal,</a> always. But the Boss HM2 pedal took over the fuzz duties for a little while. But why?</p>
+<p>The HM2 was famous for a lot of tones, but the first time I heard about the pedal was with David Gilmour of<strong> Pink Floyd</strong> fame in 1984. David replaced pedals in his rig all the time, constantly switching it up. His mainstay of his tone is a<a href="/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="488"> fuzz pedal,</a> always. But the Boss HM2 pedal took over the fuzz duties for a little while. But why?</p>
 
 
 
@@ -64,15 +64,15 @@ seo:
 
 
 
-<p>You see, the HM2 isn&#8217;t exactly a <strong><a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="489">distortion pedal OR a fuzz pedal</a></strong>, it&#8217;s a bit of a mistake&#8230;</p>
+<p>You see, the HM2 isn&#8217;t exactly a <strong><a href="/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="489">distortion pedal OR a fuzz pedal</a></strong>, it&#8217;s a bit of a mistake&#8230;</p>
 
 
 
-<p>New To Pedals? Check out our guide on <strong><a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" class="rank-math-link" data-lasso-id="490">building-out your first pedal board. </a></strong></p>
+<p>New To Pedals? Check out our guide on <strong><a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" class="rank-math-link" data-lasso-id="490">building-out your first pedal board. </a></strong></p>
 
 
 
-<p>The sound was supposed to sound like a Marshall Stack, turned up to 10. This dimed out gain monster of a pedal had a couple of features that others just didn&#8217;t have. The main thing being the &#8220;Color Mix&#8221; controls that take the place of the EQ of the pedal. These controls act almost like the <strong>tone shift</strong> of current<a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" class="rank-math-link" data-lasso-id="491"> Marshall DSL amps</a>. These two knobs effect the frequency more than your regular EQ and could dip past -20db, if you wanted.</p>
+<p>The sound was supposed to sound like a Marshall Stack, turned up to 10. This dimed out gain monster of a pedal had a couple of features that others just didn&#8217;t have. The main thing being the &#8220;Color Mix&#8221; controls that take the place of the EQ of the pedal. These controls act almost like the <strong>tone shift</strong> of current<a href="/the-5-best-amps-for-doom-metal-in-2020/" class="rank-math-link" data-lasso-id="491"> Marshall DSL amps</a>. These two knobs effect the frequency more than your regular EQ and could dip past -20db, if you wanted.</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>The first Swedish <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2792">Death Metal Band</a> to use the Boss HM2 pedal was probably <strong>Entombed </strong>on their album &#8220;Left Hand Path&#8221;. The production notes mention that each guitar channel was a <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-lasso-id="492">Peavey practice amp</a> with a Boss HM2, with the center channel guitar being a Boss DS1. The sound was insanity. It sounded like a &#8220;buzzsaw&#8221;.</p>
+<p>The first Swedish <a href="/90s-metal-bands/" data-lasso-id="2792">Death Metal Band</a> to use the Boss HM2 pedal was probably <strong>Entombed </strong>on their album &#8220;Left Hand Path&#8221;. The production notes mention that each guitar channel was a <a href="/best-practice-amps-for-beginners/" data-lasso-id="492">Peavey practice amp</a> with a Boss HM2, with the center channel guitar being a Boss DS1. The sound was insanity. It sounded like a &#8220;buzzsaw&#8221;.</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2020/11/waza_craft_ogp-1024x538.jpg" alt="" class="wp-image-1485" title="" srcset="/wp-content/uploads/2020/11/waza_craft_ogp-1024x538.jpg 1024w, /wp-content/uploads/2020/11/waza_craft_ogp-600x315.jpg 600w, /wp-content/uploads/2020/11/waza_craft_ogp-300x158.jpg 300w, /wp-content/uploads/2020/11/waza_craft_ogp-768x403.jpg 768w, /wp-content/uploads/2020/11/waza_craft_ogp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/waza-distortion-pedal/" data-lasso-id="493">VIEW LATEST PRICES</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2020/11/waza_craft_ogp-1024x538.jpg" alt="" class="wp-image-1485" title="" srcset="/wp-content/uploads/2020/11/waza_craft_ogp-1024x538.jpg 1024w, /wp-content/uploads/2020/11/waza_craft_ogp-600x315.jpg 600w, /wp-content/uploads/2020/11/waza_craft_ogp-300x158.jpg 300w, /wp-content/uploads/2020/11/waza_craft_ogp-768x403.jpg 768w, /wp-content/uploads/2020/11/waza_craft_ogp.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a class="rank-math-link" href="/recommends/waza-distortion-pedal/" data-lasso-id="493">VIEW LATEST PRICES</a></strong></figcaption></figure>
 
 
 
@@ -132,11 +132,11 @@ seo:
 
 
 
-<p>If you have always wanted that filthy distortion tone, but you&#8217;re just not willing to shell out $250 for a <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="496">used guitar pedal</a>, then 2021 will finally be your year! While Waza Craft pedals are usually much more expensive than their original counterparts, the quality is also much higher. </p>
+<p>If you have always wanted that filthy distortion tone, but you&#8217;re just not willing to shell out $250 for a <a href="/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="496">used guitar pedal</a>, then 2021 will finally be your year! While Waza Craft pedals are usually much more expensive than their original counterparts, the quality is also much higher. </p>
 
 
 
-<p>Most Waza Pedals <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/waza-distortion-pedal/" data-lasso-id="497">come in at $150 or so</a></strong>.</p>
+<p>Most Waza Pedals <strong><a class="rank-math-link" href="/recommends/waza-distortion-pedal/" data-lasso-id="497">come in at $150 or so</a></strong>.</p>
 
 
 

@@ -58,7 +58,7 @@ seo:
 
 
 
-<p id="htoc-">Need some advice on what guitar to get? Check out <strong><a href="https://www.electrikjam.com/best-electric-guitars/" data-type="page" data-id="4928">the best electric guitars we reviewed in the last 12 months. </a></strong></p>
+<p id="htoc-">Need some advice on what guitar to get? Check out <strong><a href="/best-electric-guitars/" data-type="page" data-id="4928">the best electric guitars we reviewed in the last 12 months. </a></strong></p>
 </div>
 
 
@@ -128,11 +128,11 @@ seo:
 
 
 
-<p>But <strong><a href="https://www.electrikjam.com/guitar-brands/squier-electric-guitars/" data-type="guitar-brands" data-id="14164">Squier&#8217;s more expensive models like the &#8217;60&#8217;s Classic Vibe</a></strong> are bloody great intermediate guitars that pack in a ton of great hardware and playability for around 40% less than a basic, bare-bones &#8220;proper&#8221; Fender. </p>
+<p>But <strong><a href="/guitar-brands/squier-electric-guitars/" data-type="guitar-brands" data-id="14164">Squier&#8217;s more expensive models like the &#8217;60&#8217;s Classic Vibe</a></strong> are bloody great intermediate guitars that pack in a ton of great hardware and playability for around 40% less than a basic, bare-bones &#8220;proper&#8221; Fender. </p>
 
 
 
-<p>Brant Bjork has played a Squier Stratocaster for most of his career; he now uses a MIM Fender, but he did some of his best work with a Squier. My point? Don&#8217;t write-off Squier&#8217;s more premium models; they serve up <strong><a href="https://www.electrikjam.com/brand-of-guitar/squier/">some of the best value for money on the market right now. </a></strong></p>
+<p>Brant Bjork has played a Squier Stratocaster for most of his career; he now uses a MIM Fender, but he did some of his best work with a Squier. My point? Don&#8217;t write-off Squier&#8217;s more premium models; they serve up <strong><a href="/brand-of-guitar/squier/">some of the best value for money on the market right now. </a></strong></p>
 
 
 
@@ -170,7 +170,7 @@ seo:
 
 
 
-<p>This is the new “real Fender” entry point and the first time in years Fender has had an Indonesian-built line under the main logo. They&#8217;re great guitars, for sure, but <strong><a href="https://www.electrikjam.com/best-guitar-deals/save-170-fender-player-ii-stratocaster-hss/" data-type="best-guitar-deals" data-id="17576">I&#8217;d recommend you go for the Player II series over the standard.</a></strong> You get way more bang for your buck and much more choice when it comes to things like pickups and finishes. </p>
+<p>This is the new “real Fender” entry point and the first time in years Fender has had an Indonesian-built line under the main logo. They&#8217;re great guitars, for sure, but <strong><a href="/best-guitar-deals/save-170-fender-player-ii-stratocaster-hss/" data-type="best-guitar-deals" data-id="17576">I&#8217;d recommend you go for the Player II series over the standard.</a></strong> You get way more bang for your buck and much more choice when it comes to things like pickups and finishes. </p>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p>If I were in the market to buy a Fender guitar right now, and I had a solid decade or so of playing under my belt, <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Fender Player II Stratocaster HSS Deal" href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster-hss-deal/" data-shortcode="true">I&#8217;d be looking squarely at Fender&#8217;s Player II series of guitars. </a></strong></p>
+<p>If I were in the market to buy a Fender guitar right now, and I had a solid decade or so of playing under my belt, <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Fender Player II Stratocaster HSS Deal" href="/recommends/fender-player-ii-stratocaster-hss-deal/" data-shortcode="true">I&#8217;d be looking squarely at Fender&#8217;s Player II series of guitars. </a></strong></p>
 
 
 
@@ -1089,15 +1089,15 @@ seo:
 
 
 <ul class="wp-block-list is-style-list-check-circle">
-<li id="htoc-beginner-go-with-something-from-squier-the-300-models-are-superb-but-its-enty-level-models-are-great-learning-platforms"><strong>Beginner?</strong> <strong><a href="https://www.electrikjam.com/brand-of-guitar/squier/">Go with something from Squier</a></strong>; the $300+ models are superb, but its enty-level models are great learning platforms. </li>
+<li id="htoc-beginner-go-with-something-from-squier-the-300-models-are-superb-but-its-enty-level-models-are-great-learning-platforms"><strong>Beginner?</strong> <strong><a href="/brand-of-guitar/squier/">Go with something from Squier</a></strong>; the $300+ models are superb, but its enty-level models are great learning platforms. </li>
 
 
 
-<li id="htoc-intermediate-go-with-a-high-end-squier-classic-vibe-or-a-standard-series-fender-want-more-bang-for-your-buck-check-out-the-player-ii-series"><strong>Intermediate?</strong> <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Squier Classic Vibe &#039;60s Custom Telecaster SH" href="https://www.electrikjam.com/recommends/squier-classic-vibe-60s-custom-telecaster-sh/" data-shortcode="true">Go with a high-end Squier (Classic Vibe)</a></strong> or a Standard series Fender. Want more bang for your buck, <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Fender Player II Stratocaster HSS Deal" href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster-hss-deal/" data-shortcode="true">check out the Player II Series</a>.</strong></li>
+<li id="htoc-intermediate-go-with-a-high-end-squier-classic-vibe-or-a-standard-series-fender-want-more-bang-for-your-buck-check-out-the-player-ii-series"><strong>Intermediate?</strong> <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Squier Classic Vibe &#039;60s Custom Telecaster SH" href="/recommends/squier-classic-vibe-60s-custom-telecaster-sh/" data-shortcode="true">Go with a high-end Squier (Classic Vibe)</a></strong> or a Standard series Fender. Want more bang for your buck, <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Fender Player II Stratocaster HSS Deal" href="/recommends/fender-player-ii-stratocaster-hss-deal/" data-shortcode="true">check out the Player II Series</a>.</strong></li>
 
 
 
-<li id="htoc-pro-option-american-ultra-ii-or-luxe-series-are-where-it-s-at-for-unbeatable-quality-and-tone-but-if-you-re-a-pro-you-already-knew-that-need-something-special-go-the-custom-shop-route"><strong>Pro Option?</strong> <strong><a href="https://www.electrikjam.com/recommends/fender-american-ultra-ii-stratocaster-hss/">American Ultra II or Luxe series </a></strong>are where it&#8217;s at for unbeatable quality and tone. But if you&#8217;re a pro, you already knew that. Need something special? Go the custom shop route. </li>
+<li id="htoc-pro-option-american-ultra-ii-or-luxe-series-are-where-it-s-at-for-unbeatable-quality-and-tone-but-if-you-re-a-pro-you-already-knew-that-need-something-special-go-the-custom-shop-route"><strong>Pro Option?</strong> <strong><a href="/recommends/fender-american-ultra-ii-stratocaster-hss/">American Ultra II or Luxe series </a></strong>are where it&#8217;s at for unbeatable quality and tone. But if you&#8217;re a pro, you already knew that. Need something special? Go the custom shop route. </li>
 </ul>
 
 
@@ -1106,7 +1106,7 @@ seo:
 
 
 
-<p>The Fender price tiers start pretty low with the classic designs, and <strong><a href="https://www.electrikjam.com/best-guitar-deals/">there is even a HUGE SALE going on right now</a></strong> for various models.</p>
+<p>The Fender price tiers start pretty low with the classic designs, and <strong><a href="/best-guitar-deals/">there is even a HUGE SALE going on right now</a></strong> for various models.</p>
 
 
 
@@ -1158,7 +1158,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/brand-of-guitar/fender/">Here&#8217;s the best Fender guitars I&#8217;ve tested</a></strong> (across all the main price points) in the last 12 months. </p>
+<p><strong><a href="/brand-of-guitar/fender/">Here&#8217;s the best Fender guitars I&#8217;ve tested</a></strong> (across all the main price points) in the last 12 months. </p>
 
 
 

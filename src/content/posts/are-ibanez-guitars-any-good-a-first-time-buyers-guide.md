@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>Ibanez has yet to reach any of our <a href="https://www.electrikjam.com/best-guitar-gear/" class="rank-math-link" data-lasso-id="1105"><strong>recommended gear suggestions</strong></a>. But this isn&#8217;t because they are bad guitars, at all.</p>
+<p>Ibanez has yet to reach any of our <a href="/best-guitar-gear/" class="rank-math-link" data-lasso-id="1105"><strong>recommended gear suggestions</strong></a>. But this isn&#8217;t because they are bad guitars, at all.</p>
 
 
 
@@ -55,19 +55,19 @@ seo:
 
 
 
-<p>Ibanez was also one of the <strong><a href="https://www.electrikjam.com/the-top-5-extended-range-guitars-for-2021-going-low/" class="rank-math-link" data-lasso-id="1106">first guitar brands to embrace 7 and 8 string guitars</a></strong>; it made the first prototype 8 string <strong><a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" class="rank-math-link" data-lasso-id="1107">guitars used by Meshuggah</a></strong> back when they started the whole djent scene in the mid-2000s.</p>
+<p>Ibanez was also one of the <strong><a href="/the-top-5-extended-range-guitars-for-2021-going-low/" class="rank-math-link" data-lasso-id="1106">first guitar brands to embrace 7 and 8 string guitars</a></strong>; it made the first prototype 8 string <strong><a href="/what-guitars-do-meshuggah-use/" class="rank-math-link" data-lasso-id="1107">guitars used by Meshuggah</a></strong> back when they started the whole djent scene in the mid-2000s.</p>
 
 
 
-<p>So, the short answer to this question is simple: <strong>Ibanez makes great guitars, it produces a huge volume of models that cater to all levels of budget, and it has plenty of extended range and 7 and <a href="https://www.electrikjam.com/cheap-8-string-guitar/" data-lasso-id="1108">8 string guitar options</a> too </strong>. </p>
+<p>So, the short answer to this question is simple: <strong>Ibanez makes great guitars, it produces a huge volume of models that cater to all levels of budget, and it has plenty of extended range and 7 and <a href="/cheap-8-string-guitar/" data-lasso-id="1108">8 string guitar options</a> too </strong>. </p>
 
 
 
-<p>Bottomline? <a class="wpil_keyword_link" href="https://www.electrikjam.com/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255006">Ibanez guitars</a> kick ass. And if you’re into metal, they’re a great option –&nbsp;<strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="1109">especially for beginners</a></strong>.</p>
+<p>Bottomline? <a class="wpil_keyword_link" href="/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255006">Ibanez guitars</a> kick ass. And if you’re into metal, they’re a great option –&nbsp;<strong><a href="/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="1109">especially for beginners</a></strong>.</p>
 
 
 
-<p>We have already <a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="1110">taken an extensive look at the 2020/2021 Ibanez lineup,</a> and it was certainly impressive!</p>
+<p>We have already <a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="1110">taken an extensive look at the 2020/2021 Ibanez lineup,</a> and it was certainly impressive!</p>
 
 
 
@@ -75,11 +75,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/the-2021-ibanez-ichi10/" data-lasso-id="1111">Ibanez really cornered the Super Strat market</a> with the RG Series. The RG is just a little sharper, a little meaner. The neck is much flatter and more thin than your usual <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="1112">Fender Strat</a>, making it easier to SHRED.</p>
+<p><a href="/the-2021-ibanez-ichi10/" data-lasso-id="1111">Ibanez really cornered the Super Strat market</a> with the RG Series. The RG is just a little sharper, a little meaner. The neck is much flatter and more thin than your usual <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="1112">Fender Strat</a>, making it easier to SHRED.</p>
 
 
 
-<p>But are <a href="https://www.electrikjam.com/ibanez-tod10-tim-henson-guitar-review/" data-lasso-id="210147">Ibanez Guitars</a> any good? We are going to look at the different price tiers, history, and <a href="https://www.electrikjam.com/ibanez-signature-guitars/" data-lasso-id="255041">quality of Ibanez guitars</a> to see if one would be the right fit for you!</p>
+<p>But are <a href="/ibanez-tod10-tim-henson-guitar-review/" data-lasso-id="210147">Ibanez Guitars</a> any good? We are going to look at the different price tiers, history, and <a href="/ibanez-signature-guitars/" data-lasso-id="255041">quality of Ibanez guitars</a> to see if one would be the right fit for you!</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>Ibanez is known these days for being a very innovative Japanese company, known for attention to detail. Ibanez also likes to take some big risks! For instance, Ibanez made the very first production <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="1113">7 and 8 string guitars</a>! Ibanez doesn&#8217;t mind thinking outside of the box and take a chance on something new.</p>
+<p>Ibanez is known these days for being a very innovative Japanese company, known for attention to detail. Ibanez also likes to take some big risks! For instance, Ibanez made the very first production <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="1113">7 and 8 string guitars</a>! Ibanez doesn&#8217;t mind thinking outside of the box and take a chance on something new.</p>
 
 
 
@@ -99,15 +99,15 @@ seo:
 
 
 
-<p>But Ibanez did not start as a <a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189576" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">Metal guitar</a> company at all! If you are wondering how a Latin word like &#8220;Ibanez&#8221; came from a Japanese manufacturer, you&#8217;re not alone.</p>
+<p>But Ibanez did not start as a <a href="/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189576" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">Metal guitar</a> company at all! If you are wondering how a Latin word like &#8220;Ibanez&#8221; came from a Japanese manufacturer, you&#8217;re not alone.</p>
 
 
 
-<p>Ibanez started making Spanish Style guitars in the 1908, and the name was inspired by the legendary guitar luthier, <a href="https://en.wikipedia.org/wiki/Salvador_Ib%C3%A1%C3%B1ez" class="rank-math-link" data-lasso-id="1114" target="_blank" rel="noopener noreferrer nofollow">Salvador Ibanez.</a> The modern era of Ibanez didn&#8217;t start until the late 50&#8217;s and early 60&#8217;s. The guitars Ibanez produced were pretty far from being traditional, and were not as popular as other <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="1115">electric guitar companies</a>.</p>
+<p>Ibanez started making Spanish Style guitars in the 1908, and the name was inspired by the legendary guitar luthier, <a href="https://en.wikipedia.org/wiki/Salvador_Ib%C3%A1%C3%B1ez" class="rank-math-link" data-lasso-id="1114" target="_blank" rel="noopener noreferrer nofollow">Salvador Ibanez.</a> The modern era of Ibanez didn&#8217;t start until the late 50&#8217;s and early 60&#8217;s. The guitars Ibanez produced were pretty far from being traditional, and were not as popular as other <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="1115">electric guitar companies</a>.</p>
 
 
 
-<p>During the 1970&#8217;s Ibanez began copying famous brands like <a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="1116">Epiphone</a>, Gibson, and Fender. This resulted in a lawsuit from the mainstream brands, so Ibanez spent the late 70&#8217;s redesigning the business model. This is when Ibanez started making original designs, and began gaining attention. especially with models like the &#8220;Iceman&#8221;!</p>
+<p>During the 1970&#8217;s Ibanez began copying famous brands like <a href="/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="1116">Epiphone</a>, Gibson, and Fender. This resulted in a lawsuit from the mainstream brands, so Ibanez spent the late 70&#8217;s redesigning the business model. This is when Ibanez started making original designs, and began gaining attention. especially with models like the &#8220;Iceman&#8221;!</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>Not everyone can afford a top of the line Prestige Model Ibanez, and that is precisely why there are more affordable options. The <strong>Axiom Series</strong>, <strong>Iron Label, </strong>and <strong>Premium Series</strong> are all made in Indonesia, some by <a href="https://www.electrikjam.com/cort-guitars-a-wonderful-high-quality-brand/" class="rank-math-link" data-lasso-id="1117">The Cort factory.</a> This keeps costs down for the consumer, while retaining the famous Ibanez designs.</p>
+<p>Not everyone can afford a top of the line Prestige Model Ibanez, and that is precisely why there are more affordable options. The <strong>Axiom Series</strong>, <strong>Iron Label, </strong>and <strong>Premium Series</strong> are all made in Indonesia, some by <a href="/cort-guitars-a-wonderful-high-quality-brand/" class="rank-math-link" data-lasso-id="1117">The Cort factory.</a> This keeps costs down for the consumer, while retaining the famous Ibanez designs.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p>Right below the Premium Series, you have the Axiom Series and the <a href="https://www.electrikjam.com/ibanez-iron-label-2021/" data-lasso-id="1118">Iron Label Series</a>. These are also great mid-tier guitars. Most models come with name brand pickups, and great hardware. All of these options sit between $899-$1200 or so.</p>
+<p>Right below the Premium Series, you have the Axiom Series and the <a href="/ibanez-iron-label-2021/" data-lasso-id="1118">Iron Label Series</a>. These are also great mid-tier guitars. Most models come with name brand pickups, and great hardware. All of these options sit between $899-$1200 or so.</p>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<p>When asking &#8220;are Ibanez <a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-lasso-id="15496">Guitars any good&#8221; I think</a> it is important to take a look at all of the options, and definitely the less expensive models into account. These are great gigging instruments, and probably the most popular among your &#8220;everyday&#8221; players.</p>
+<p>When asking &#8220;are Ibanez <a href="/does-the-do-it-all-guitar-exist/" data-lasso-id="15496">Guitars any good&#8221; I think</a> it is important to take a look at all of the options, and definitely the less expensive models into account. These are great gigging instruments, and probably the most popular among your &#8220;everyday&#8221; players.</p>
 
 
 
@@ -203,11 +203,11 @@ seo:
 
 
 
-<p>The word &#8220;affordable&#8221; can sometimes leave a bad taste in your mouth when you are shopping for a new guitar. But <a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1119">affordable doesn&#8217;t have to mean &#8220;cheap&#8221;</a>, especially these days. </p>
+<p>The word &#8220;affordable&#8221; can sometimes leave a bad taste in your mouth when you are shopping for a new guitar. But <a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1119">affordable doesn&#8217;t have to mean &#8220;cheap&#8221;</a>, especially these days. </p>
 
 
 
-<p><a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1120">Modern guitar production</a>, with CNC machines make it hard to find even a budget model that is &#8220;cheap&#8221; or &#8220;bad&#8221;.  Most factories produce great playing guitars, at lower price points. This wasn&#8217;t always the case with affordable instruments. </p>
+<p><a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1120">Modern guitar production</a>, with CNC machines make it hard to find even a budget model that is &#8220;cheap&#8221; or &#8220;bad&#8221;.  Most factories produce great playing guitars, at lower price points. This wasn&#8217;t always the case with affordable instruments. </p>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<p>The best thing about a large company like Ibanez, is that there is something for <em>everyone</em>. There is a <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14311">guitar for every budget</a>, and the quality is pretty great with Ibanez guitars. I have had a few QC issues in the past, but that happens with any brand.</p>
+<p>The best thing about a large company like Ibanez, is that there is something for <em>everyone</em>. There is a <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14311">guitar for every budget</a>, and the quality is pretty great with Ibanez guitars. I have had a few QC issues in the past, but that happens with any brand.</p>
 
 
 

@@ -73,7 +73,7 @@ seo:
 
 
 
-<p>I don&#8217;t believe in many things but one thing I do believe in is that any new album needs time to steep. I&#8217;m writing this just days after the release of <a href="https://www.electrikjam.com/album-reviews/deftones-private-music-review/" data-type="album-reviews" data-id="17965"><strong>Private Music</strong></a>, so I haven&#8217;t included it in this list. It wouldn&#8217;t be fair; I haven&#8217;t given it enough time to stew in my subconscious.</p>
+<p>I don&#8217;t believe in many things but one thing I do believe in is that any new album needs time to steep. I&#8217;m writing this just days after the release of <a href="/album-reviews/deftones-private-music-review/" data-type="album-reviews" data-id="17965"><strong>Private Music</strong></a>, so I haven&#8217;t included it in this list. It wouldn&#8217;t be fair; I haven&#8217;t given it enough time to stew in my subconscious.</p>
 
 
 

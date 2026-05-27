@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>If you want to play metal, you need a pick that can help you play fast and precisely. Not all picks are designed the same. I’ve been playing for close to 20 years, professionally, and my go-to pick for the last decade has been <strong><a href="https://www.electrikjam.com/dunlop-jazz-iii-link/" data-type="lasso-urls" data-id="4004" data-lasso-id="14343" rel="nofollow noopener" target="_blank" data-lasso-name="Dunlop Jazz III">the Dunlop Jazz III</a></strong> – it is a near-perfect pick for metal and rock.</p>
+<p>If you want to play metal, you need a pick that can help you play fast and precisely. Not all picks are designed the same. I’ve been playing for close to 20 years, professionally, and my go-to pick for the last decade has been <strong><a href="/dunlop-jazz-iii-link/" data-type="lasso-urls" data-id="4004" data-lasso-id="14343" rel="nofollow noopener" target="_blank" data-lasso-name="Dunlop Jazz III">the Dunlop Jazz III</a></strong> – it is a near-perfect pick for metal and rock.</p>
 
 
 
@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>I do have other favorites that I have used over the years, picks like the <strong><a href="https://www.electrikjam.com/fender-351-heavy/" data-type="lasso-urls" data-id="4005" data-lasso-id="14344" rel="nofollow noopener" target="_blank" data-lasso-name="Fender 351 Heavy">Fender 351 Heavy</a></strong> and the <strong><a href="https://www.electrikjam.com/ernie-ball-prodigy-link/" data-type="lasso-urls" data-id="4006" data-lasso-id="14345" rel="nofollow noopener" target="_blank" data-lasso-name="Ernie Ball Prodigy">Ernie Ball Prodigy</a></strong>, but the overall best for speed, accuracy, and grip is Dunlop’s Jazz III – for me, nothing else comes close to how good this particular pick is for metal and rock music.</p>
+<p>I do have other favorites that I have used over the years, picks like the <strong><a href="/fender-351-heavy/" data-type="lasso-urls" data-id="4005" data-lasso-id="14344" rel="nofollow noopener" target="_blank" data-lasso-name="Fender 351 Heavy">Fender 351 Heavy</a></strong> and the <strong><a href="/ernie-ball-prodigy-link/" data-type="lasso-urls" data-id="4006" data-lasso-id="14345" rel="nofollow noopener" target="_blank" data-lasso-name="Ernie Ball Prodigy">Ernie Ball Prodigy</a></strong>, but the overall best for speed, accuracy, and grip is Dunlop’s Jazz III – for me, nothing else comes close to how good this particular pick is for metal and rock music.</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>But finally you find one or two that work for you. Just like <a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" class="rank-math-link" data-lasso-id="864"><strong>James Hetfield did with his current guitar picks</strong>.</a></p>
+<p>But finally you find one or two that work for you. Just like <a href="/what-guitar-pick-does-james-hetfield-use/" class="rank-math-link" data-lasso-id="864"><strong>James Hetfield did with his current guitar picks</strong>.</a></p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>And a good pick, combined with great technique, and <strong><a class="rank-math-link" href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="865">a solid understanding of chord voicing and extensions</a></strong> is a surefire way to seriously up your playing. </p>
+<p>And a good pick, combined with great technique, and <strong><a class="rank-math-link" href="/chord-voicing-extensions-for-metal/" data-lasso-id="865">a solid understanding of chord voicing and extensions</a></strong> is a surefire way to seriously up your playing. </p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p>But <strong><a class="rank-math-link" href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" data-lasso-id="866">if you&#8217;re thinking about recording at home</a></strong>, you&#8217;ll want a pick that works for you –&nbsp;no one likes sloppy takes, after all!</p>
+<p>But <strong><a class="rank-math-link" href="/how-to-record-electric-guitar-at-home-guide/" data-lasso-id="866">if you&#8217;re thinking about recording at home</a></strong>, you&#8217;ll want a pick that works for you –&nbsp;no one likes sloppy takes, after all!</p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="867">Pick attack</a> is all about how you have personalized your right hand technique. Some players strike the strings lightly. This is called having a &#8220;light touch&#8221;.</p>
+<p><a href="/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="867">Pick attack</a> is all about how you have personalized your right hand technique. Some players strike the strings lightly. This is called having a &#8220;light touch&#8221;.</p>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p>The Dunlop Jazz III has been around for a long time and has been <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5466">used by many famous guitarists</a>. But it wasn&#8217;t always used for Metal guitar. It&#8217;s popularity began with it&#8217;s namesake.</p>
+<p>The Dunlop Jazz III has been around for a long time and has been <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5466">used by many famous guitarists</a>. But it wasn&#8217;t always used for Metal guitar. It&#8217;s popularity began with it&#8217;s namesake.</p>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<p>The Dunlop Tortex is another classic choice that still sells like hotcakes today. The .88mm and the 1.0mm picks were made popular in the &#8217;80s and were used by some big names. Some people would say the <em>biggest</em> names since <a data-lasso-id="873" href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/">Metallica</a> endorsed them for years!</p>
+<p>The Dunlop Tortex is another classic choice that still sells like hotcakes today. The .88mm and the 1.0mm picks were made popular in the &#8217;80s and were used by some big names. Some people would say the <em>biggest</em> names since <a data-lasso-id="873" href="/metallica-guitar-tunings-over-the-years/">Metallica</a> endorsed them for years!</p>
 
 
 

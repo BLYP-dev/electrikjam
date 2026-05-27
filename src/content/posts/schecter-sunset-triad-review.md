@@ -45,7 +45,7 @@ seo:
 
 
 
-<p>Everyone knows that <strong><a href="https://www.electrikjam.com/ultimate-schecter-guitars-buyers-guide-2023/" data-type="post" data-id="10117" target="_blank" rel="noopener" data-lasso-id="248978">we love Schecter around here</a></strong>, and I play them exclusively myself. People often ask my why I am so loyal to Schecter, and that answer is very simple for me. In fact, I think most of the Schecter fan base shares the same opinions that I have.</p>
+<p>Everyone knows that <strong><a href="/ultimate-schecter-guitars-buyers-guide-2023/" data-type="post" data-id="10117" target="_blank" rel="noopener" data-lasso-id="248978">we love Schecter around here</a></strong>, and I play them exclusively myself. People often ask my why I am so loyal to Schecter, and that answer is very simple for me. In fact, I think most of the Schecter fan base shares the same opinions that I have.</p>
 
 
 
@@ -57,11 +57,11 @@ seo:
 
 
 
-<p>You get features like stainless steel frets, USA pickups, name brand hardware, locking tuners, and <strong><a data-lasso-id="248979" href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener">even Sustainiac Pickups</a></strong>. The best part is that you get these features on the <strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="249017">affordable import guitars</a></strong>, not just the custom shop offerings. </p>
+<p>You get features like stainless steel frets, USA pickups, name brand hardware, locking tuners, and <strong><a data-lasso-id="248979" href="/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener">even Sustainiac Pickups</a></strong>. The best part is that you get these features on the <strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="249017">affordable import guitars</a></strong>, not just the custom shop offerings. </p>
 
 
 
-<p>Now that isn&#8217;t an <strong><a href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" target="_blank" data-type="post" data-id="10308" rel="noopener" data-lasso-id="249018">insult to PRS SE</a></strong> or Fender, by any means. But neither of those companies offer those kinds of options on the lower price tier. Schecter is in a league of its own when it comes to bargain, and have been for years.</p>
+<p>Now that isn&#8217;t an <strong><a href="/prs-se-mark-holcomb-guitars-review/" target="_blank" data-type="post" data-id="10308" rel="noopener" data-lasso-id="249018">insult to PRS SE</a></strong> or Fender, by any means. But neither of those companies offer those kinds of options on the lower price tier. Schecter is in a league of its own when it comes to bargain, and have been for years.</p>
 
 
 
@@ -69,11 +69,11 @@ seo:
 
 
 
-<p>So far, we have seen a plethora of models released this year from Schecter. These range from the more <strong><a href="https://www.electrikjam.com/schecter-mv-6-review/" data-type="post" data-id="11592" target="_blank" rel="noopener" data-lasso-id="248980">traditional MV-6 Series</a></strong>, to the <strong><a href="https://www.electrikjam.com/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener" data-lasso-id="248981">metal-focused Reaper Elite Series</a></strong>. It seems like Schecter has something to offer just about everyone this year, and the company continues to surprise us!</p>
+<p>So far, we have seen a plethora of models released this year from Schecter. These range from the more <strong><a href="/schecter-mv-6-review/" data-type="post" data-id="11592" target="_blank" rel="noopener" data-lasso-id="248980">traditional MV-6 Series</a></strong>, to the <strong><a href="/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener" data-lasso-id="248981">metal-focused Reaper Elite Series</a></strong>. It seems like Schecter has something to offer just about everyone this year, and the company continues to surprise us!</p>
 
 
 
-<p>The Schecter Sunset Triad is the newest model in 2023, and it has been causing quite a stir on the internet because of the pickup layout. So how does the new triple Apocalypse humbucker work? What is the difference between the 6 string and <a href="https://www.electrikjam.com/7-string-guitar-tuning/" data-lasso-id="251939">7 string variants</a>?</p>
+<p>The Schecter Sunset Triad is the newest model in 2023, and it has been causing quite a stir on the internet because of the pickup layout. So how does the new triple Apocalypse humbucker work? What is the difference between the 6 string and <a href="/7-string-guitar-tuning/" data-lasso-id="251939">7 string variants</a>?</p>
 
 
 
@@ -227,11 +227,11 @@ seo:
 
 
 
-<p>All of <strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="248982">these pickup positions</a></strong> offer a ridiculous amount of tones, making the Schecter Sunset Triad an absolute weapon in the studio. You can get everything from bone-crushing chugs to bell-like clean tones out of one guitar. </p>
+<p>All of <strong><a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="248982">these pickup positions</a></strong> offer a ridiculous amount of tones, making the Schecter Sunset Triad an absolute weapon in the studio. You can get everything from bone-crushing chugs to bell-like clean tones out of one guitar. </p>
 
 
 
-<p>We often talk about guitars that have ultimate versatility, <strong><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="248983">something like the Nick Johnston HSS</a></strong> for example, can do just about any tone that you want. In fact, I often recommend an HSS setup for anyone that wants to play multiple genres. But the Sunset Triad takes all of that to the next level.</p>
+<p>We often talk about guitars that have ultimate versatility, <strong><a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="248983">something like the Nick Johnston HSS</a></strong> for example, can do just about any tone that you want. In fact, I often recommend an HSS setup for anyone that wants to play multiple genres. But the Sunset Triad takes all of that to the next level.</p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p>The neck feels a lot like the Mach Series or the KM Standard models. This is particularly nice on the 7 string, and I had no problem <strong><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="248984">getting used to the baritone scale</a></strong>. On the 6 string this feels pretty close to an Ibanez to me, so if you like thin necks, you will love the new Sunset Series. The neck is satin, and easy to play.</p>
+<p>The neck feels a lot like the Mach Series or the KM Standard models. This is particularly nice on the 7 string, and I had no problem <strong><a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="248984">getting used to the baritone scale</a></strong>. On the 6 string this feels pretty close to an Ibanez to me, so if you like thin necks, you will love the new Sunset Series. The neck is satin, and easy to play.</p>
 
 
 
@@ -301,7 +301,7 @@ seo:
 
 
 
-<p>Some of you may think that I just favor Schecter in most of these articles, but I have been critical before. <strong><a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-type="post" data-id="9870" target="_blank" rel="noopener" data-lasso-id="248985">The Jack Fowler model, for instance</a></strong>, was just a Nick Johnston model with humbuckers without any further innovation. I definitely pointed that out in my review, and there have been other misses as well over the years. No company is perfect.</p>
+<p>Some of you may think that I just favor Schecter in most of these articles, but I have been critical before. <strong><a href="/schecter-jack-fowler-traditional-review/" data-type="post" data-id="9870" target="_blank" rel="noopener" data-lasso-id="248985">The Jack Fowler model, for instance</a></strong>, was just a Nick Johnston model with humbuckers without any further innovation. I definitely pointed that out in my review, and there have been other misses as well over the years. No company is perfect.</p>
 
 
 
@@ -329,7 +329,7 @@ seo:
 
 
 
-<p>Whether you opt for the 6-string or <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251942">7-string model</a>, the Sunset Triad Guitar invites you to explore uncharted musical territories while basking in its simplistic design coupled with the innovation of its technology.</p>
+<p>Whether you opt for the 6-string or <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251942">7-string model</a>, the Sunset Triad Guitar invites you to explore uncharted musical territories while basking in its simplistic design coupled with the innovation of its technology.</p>
 
 
 

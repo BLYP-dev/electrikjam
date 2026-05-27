@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>If this is your first time reading an Electrikjam article, then let me go ahead and tell you how much we <em>adore</em> the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="155676"><strong>BOSS Katana</strong></a>. Every member of our staff owns one, and I use mine<em> every day</em> for students and professional studio work. We ALL love the<a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" target="_blank" data-type="post" data-id="8477" rel="noopener" data-lasso-id="155677"><strong> Katana</strong></a> for different reasons!</p>
+<p>If this is your first time reading an Electrikjam article, then let me go ahead and tell you how much we <em>adore</em> the <a href="/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="155676"><strong>BOSS Katana</strong></a>. Every member of our staff owns one, and I use mine<em> every day</em> for students and professional studio work. We ALL love the<a href="/recording-with-the-boss-katana-explained/" target="_blank" data-type="post" data-id="8477" rel="noopener" data-lasso-id="155677"><strong> Katana</strong></a> for different reasons!</p>
 
 
 
@@ -48,11 +48,11 @@ seo:
 
 
 
-<p>Just recently, the Boss Tone Studio received a big <a href="https://www.electrikjam.com/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="155679"><strong>Katana Update</strong></a> with the V2 software. BOSS listened to the public, and gave us some new features to play with when we are dialing in tones. The next thing consumers focused on, was <strong>controlling the new features.</strong> Especially the new whammy-style effect.</p>
+<p>Just recently, the Boss Tone Studio received a big <a href="/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="155679"><strong>Katana Update</strong></a> with the V2 software. BOSS listened to the public, and gave us some new features to play with when we are dialing in tones. The next thing consumers focused on, was <strong>controlling the new features.</strong> Especially the new whammy-style effect.</p>
 
 
 
-<p>The problem with the original <a href="https://www.electrikjam.com/pxf-9/" data-type="lasso-urls" data-id="6627" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="155680" data-lasso-name="BOSS GA-FC Guitar Combo Foot Controller"><strong>BOSS GA FC </strong></a>is that there is only one single expression pedal input, and volume input. This was fine for Katana users who used it for Wah effects. But now we suddenly have more than one effect that can be assigned to the expression pedal. You can see the problem, here.</p>
+<p>The problem with the original <a href="/pxf-9/" data-type="lasso-urls" data-id="6627" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="155680" data-lasso-name="BOSS GA-FC Guitar Combo Foot Controller"><strong>BOSS GA FC </strong></a>is that there is only one single expression pedal input, and volume input. This was fine for Katana users who used it for Wah effects. But now we suddenly have more than one effect that can be assigned to the expression pedal. You can see the problem, here.</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<p>So with the popularity of the <a href="https://www.electrikjam.com/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="155681" data-lasso-name="BOSS Katana 100 MKII"><strong>Katana MKII</strong></a> models, it was <em>definitely time for an overhaul</em>. Now you can still use the BOSS GA FC EX with other devices, but this time it was designed more with the Katana MKII as a priority. I am sure that BOSS had this all planned for 2022, and the new V2 software along with the footswitch is<em> no coincidence.</em></p>
+<p>So with the popularity of the <a href="/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="155681" data-lasso-name="BOSS Katana 100 MKII"><strong>Katana MKII</strong></a> models, it was <em>definitely time for an overhaul</em>. Now you can still use the BOSS GA FC EX with other devices, but this time it was designed more with the Katana MKII as a priority. I am sure that BOSS had this all planned for 2022, and the new V2 software along with the footswitch is<em> no coincidence.</em></p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>The new BOSS GA FC EX was clearly designed for the people that want the Katana to be the &#8220;brains&#8221; of their <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="155682"><strong>entire rig</strong></a>. The Katana has the functionality available to be an &#8220;all in one&#8221; solution for most users, but was always held back by the footswitch. Finally, we have all of the tools we need to<em> fully control</em> the Katana.</p>
+<p>The new BOSS GA FC EX was clearly designed for the people that want the Katana to be the &#8220;brains&#8221; of their <a href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="155682"><strong>entire rig</strong></a>. The Katana has the functionality available to be an &#8220;all in one&#8221; solution for most users, but was always held back by the footswitch. Finally, we have all of the tools we need to<em> fully control</em> the Katana.</p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>One can act as a volume pedal, one can be your <a href="https://www.electrikjam.com/the-5-best-wah-pedals-for-metal-review/" data-lasso-id="169479">Wah pedal</a>, and the third input can be a control for one of the new features from the Katana V2 software. That third input could be assigned to your whammy/pitch bend feature if you want. This would allow you to immediately down-tune or dive the pitch up and down as you wish.</p>
+<p>One can act as a volume pedal, one can be your <a href="/the-5-best-wah-pedals-for-metal-review/" data-lasso-id="169479">Wah pedal</a>, and the third input can be a control for one of the new features from the Katana V2 software. That third input could be assigned to your whammy/pitch bend feature if you want. This would allow you to immediately down-tune or dive the pitch up and down as you wish.</p>
 
 
 

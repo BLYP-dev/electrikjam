@@ -42,7 +42,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/is-spark-amp-worth-it/" data-type="post" data-id="1924" data-lasso-id="235309">Positive Grid’s Spark Amp</a></strong> is one of the most innovative and impressive practice amps on the market. Packed with myriad features and controlled by an app on your phone, the Spark Amp is one of the quickest ways to create EPIC-sounding guitar tones with its <strong><a href="https://www.electrikjam.com/spark-amp-amp-list/" data-type="post" data-id="7858" data-lasso-id="235310">myriad guitar tones and effects</a></strong>. </p>
+<p><strong><a href="/is-spark-amp-worth-it/" data-type="post" data-id="1924" data-lasso-id="235309">Positive Grid’s Spark Amp</a></strong> is one of the most innovative and impressive practice amps on the market. Packed with myriad features and controlled by an app on your phone, the Spark Amp is one of the quickest ways to create EPIC-sounding guitar tones with its <strong><a href="/spark-amp-amp-list/" data-type="post" data-id="7858" data-lasso-id="235310">myriad guitar tones and effects</a></strong>. </p>
 
 
 
@@ -233,14 +233,14 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/is-spark-amp-worth-it/" data-type="post" data-id="1924" data-lasso-id="235312">Spark Amp Review</a></strong></li>
+<li><strong><a href="/is-spark-amp-worth-it/" data-type="post" data-id="1924" data-lasso-id="235312">Spark Amp Review</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/positive-grid-spark-mini-reviews-is-it-100-legit/" data-type="post" data-id="8274" data-lasso-id="235313">Spark Amp Mini Review</a></strong></li>
+<li><strong><a href="/positive-grid-spark-mini-reviews-is-it-100-legit/" data-type="post" data-id="8274" data-lasso-id="235313">Spark Amp Mini Review</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/bias-fx-vs-bias-fx-2/" data-type="post" data-id="10651" data-lasso-id="235314">BIAS FX 2 Review</a></strong></li>
+<li><strong><a href="/bias-fx-vs-bias-fx-2/" data-type="post" data-id="10651" data-lasso-id="235314">BIAS FX 2 Review</a></strong></li>
 </ul>
 

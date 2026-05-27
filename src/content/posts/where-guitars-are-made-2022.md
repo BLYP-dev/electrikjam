@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>But back then, it was tough to find a <a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145781">good deal on an electric guitar</a>. When you moved on to<a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="145465"> </a><strong><a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="145466">Squier</a> </strong>and <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" target="_blank" rel="noopener" data-lasso-id="145467"><strong>Epiphone</strong></a>, the prices were drastically higher than a $99 knock-off. My spending money was definitely limited as a teen, even though I worked a weekend job.</p>
+<p>But back then, it was tough to find a <a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145781">good deal on an electric guitar</a>. When you moved on to<a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="145465"> </a><strong><a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="145466">Squier</a> </strong>and <a href="/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" target="_blank" rel="noopener" data-lasso-id="145467"><strong>Epiphone</strong></a>, the prices were drastically higher than a $99 knock-off. My spending money was definitely limited as a teen, even though I worked a weekend job.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>But there has been a huge surge of interest in <a href="https://www.electrikjam.com/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211731">guitar over the last 10 years</a> or so. More people are picking up the guitar for the first time, than any other point in history. This is because budget guitars aren&#8217;t bound to being useless firewood anymore.</p>
+<p>But there has been a huge surge of interest in <a href="/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211731">guitar over the last 10 years</a> or so. More people are picking up the guitar for the first time, than any other point in history. This is because budget guitars aren&#8217;t bound to being useless firewood anymore.</p>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p>So today we are going to take a look at the different guitar brands that we have covered a little bit already in out <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="145468"><strong>budget guitar</strong> </a>section, and the more expensive models as well. We are also going to look at some major brands, and which factories actually produce these guitars.</p>
+<p>So today we are going to take a look at the different guitar brands that we have covered a little bit already in out <a href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="145468"><strong>budget guitar</strong> </a>section, and the more expensive models as well. We are also going to look at some major brands, and which factories actually produce these guitars.</p>
 
 
 
@@ -127,11 +127,11 @@ seo:
 
 
 
-<p>The thing is, one brand may come from several different sources! This is most prevalent with budget guitars, but it <em>also</em> applies to higher end models from companies like LTD and<strong> <a href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener" data-lasso-id="145469">Schecter</a></strong>. In fact, we see a lot of guitars that come from the Far East in <em>every</em> company.</p>
+<p>The thing is, one brand may come from several different sources! This is most prevalent with budget guitars, but it <em>also</em> applies to higher end models from companies like LTD and<strong> <a href="/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener" data-lasso-id="145469">Schecter</a></strong>. In fact, we see a lot of guitars that come from the Far East in <em>every</em> company.</p>
 
 
 
-<p>There are some guitarists that prefer to buy USA made guitars ONLY. There is nothing wrong with that mentality, but we have explored companies like<a href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener" data-lasso-id="145470"> <strong>Fender </strong></a>in detail and showed that it really didn&#8217;t matter as much as we originally thought. Made in Mexico Fenders are <em>awfully close </em>to their USA cousins when it comes to quality!</p>
+<p>There are some guitarists that prefer to buy USA made guitars ONLY. There is nothing wrong with that mentality, but we have explored companies like<a href="/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener" data-lasso-id="145470"> <strong>Fender </strong></a>in detail and showed that it really didn&#8217;t matter as much as we originally thought. Made in Mexico Fenders are <em>awfully close </em>to their USA cousins when it comes to quality!</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>Fender had <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-type="post" data-id="1475" target="_blank" rel="noopener" data-lasso-id="145471"><strong>record sales</strong></a> over the last two years, and its easy to see why! The company literally owns a good portion of the <em>entire </em>guitar market. But Fender applies different price tiers to each brand, based on features and origin. Where guitars are made by Fender is shown in the different price tiers, with USA always being the most expensive.</p>
+<p>Fender had <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-type="post" data-id="1475" target="_blank" rel="noopener" data-lasso-id="145471"><strong>record sales</strong></a> over the last two years, and its easy to see why! The company literally owns a good portion of the <em>entire </em>guitar market. But Fender applies different price tiers to each brand, based on features and origin. Where guitars are made by Fender is shown in the different price tiers, with USA always being the most expensive.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>China: <em>Squier, and entry level Jacksons/Gretsch</em></strong></li><li><strong>Indonesia: Squier, Jackson Standards, </strong><a href="https://www.electrikjam.com/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145654">Gretsch</a></li><li><strong>Korea: </strong><strong>Gretsch</strong>, <strong>some <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231843">past Squier models</strong></strong></a></em></li><li><strong>Mexico: <em>Fender, Charvel, Jackson</em></strong></li><li><strong>USA: <em>Fender, Custom Shop, Charvel, Jackson Artist, EVH</em></strong></li></ul>
+<ul class="wp-block-list"><li><strong>China: <em>Squier, and entry level Jacksons/Gretsch</em></strong></li><li><strong>Indonesia: Squier, Jackson Standards, </strong><a href="/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145654">Gretsch</a></li><li><strong>Korea: </strong><strong>Gretsch</strong>, <strong>some <a href="/schecter-mv-6-review/" data-lasso-id="231843">past Squier models</strong></strong></a></em></li><li><strong>Mexico: <em>Fender, Charvel, Jackson</em></strong></li><li><strong>USA: <em>Fender, Custom Shop, Charvel, Jackson Artist, EVH</em></strong></li></ul>
 
 
 
@@ -199,15 +199,15 @@ seo:
 
 
 
-<p>The Fender shop in Mexico is where all of the &#8220;core&#8221; models are made. This is where the <a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="145472"><strong>Player Series</strong></a>, and most of the production<a href="https://www.electrikjam.com/pxf-2/" data-type="lasso-urls" data-id="5444" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="145473" data-lasso-name="Charvel Pro Mod DK24"><strong> Charvel</strong></a> guitars are made. The Ensenada, Mexico factory is known for producing some <em>really</em> high quality guitars, with great features and specs.</p>
+<p>The Fender shop in Mexico is where all of the &#8220;core&#8221; models are made. This is where the <a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="145472"><strong>Player Series</strong></a>, and most of the production<a href="/pxf-2/" data-type="lasso-urls" data-id="5444" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="145473" data-lasso-name="Charvel Pro Mod DK24"><strong> Charvel</strong></a> guitars are made. The Ensenada, Mexico factory is known for producing some <em>really</em> high quality guitars, with great features and specs.</p>
 
 
 
-<p>The Fender USA factory is reserved for the top of the line models. This also includes the EVH lineup, that makes replicas of <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195342">Eddie Van Halen&#8217;s famous guitars</a>. The Custom Shop is on a <em>whole different level</em> or quality, and the guitars that are produced there are all built by hand.</p>
+<p>The Fender USA factory is reserved for the top of the line models. This also includes the EVH lineup, that makes replicas of <a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195342">Eddie Van Halen&#8217;s famous guitars</a>. The Custom Shop is on a <em>whole different level</em> or quality, and the guitars that are produced there are all built by hand.</p>
 
 
 
-<p>So while Fender may be known for <em>starting </em>as an American company, you can see that instruments are made all over the world for the different brands under the Fender umbrella. Most of the Chinese guitars are meant for beginners, while the <strong><a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="145474">Indonesian models</a> </strong>I have played have been really nice!</p>
+<p>So while Fender may be known for <em>starting </em>as an American company, you can see that instruments are made all over the world for the different brands under the Fender umbrella. Most of the Chinese guitars are meant for beginners, while the <strong><a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="145474">Indonesian models</a> </strong>I have played have been really nice!</p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p><strong>I honestly don&#8217;t know</strong>. I feel like Fender is a &#8220;case by case&#8221; basis. The <a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-lasso-id="178766">Squier Classic Vibe</a> Series is the perfect example of being way more than just a &#8220;beginner&#8221; guitar. But sometimes, you just get a dud.</p>
+<p><strong>I honestly don&#8217;t know</strong>. I feel like Fender is a &#8220;case by case&#8221; basis. The <a href="/squier-baritone-telecaster-custom-review/" data-lasso-id="178766">Squier Classic Vibe</a> Series is the perfect example of being way more than just a &#8220;beginner&#8221; guitar. But sometimes, you just get a dud.</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p>When it comes to where guitars are made, <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener" data-lasso-id="145475"><strong>Gibson Guitars</strong></a> has a very similar model to Fender. Gibson is known as an American brand by default, but Gibson also owns <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="145476"><strong>Epiphone</strong></a>. Gibson was in stiff competition with Epiphone, until the Epiphone brand was bought in 1957.</p>
+<p>When it comes to where guitars are made, <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener" data-lasso-id="145475"><strong>Gibson Guitars</strong></a> has a very similar model to Fender. Gibson is known as an American brand by default, but Gibson also owns <a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="145476"><strong>Epiphone</strong></a>. Gibson was in stiff competition with Epiphone, until the Epiphone brand was bought in 1957.</p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p>If a guitar is well made, and sounds great&#8230;I don&#8217;t think it matters where it was made. Epiphone is the best example of this that I can think of when it comes to this point. LOTS of pro guitarists have used Epiphone, like <a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" target="_blank" rel="noopener" data-lasso-id="145477"><strong>The Beatles</strong></a> and <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" target="_blank" rel="noopener" data-lasso-id="145478"><strong>Trivium</strong></a>! Some pro guitarists have no problem playing a guitar built overseas.</p>
+<p>If a guitar is well made, and sounds great&#8230;I don&#8217;t think it matters where it was made. Epiphone is the best example of this that I can think of when it comes to this point. LOTS of pro guitarists have used Epiphone, like <a href="/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" target="_blank" rel="noopener" data-lasso-id="145477"><strong>The Beatles</strong></a> and <a href="/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" target="_blank" rel="noopener" data-lasso-id="145478"><strong>Trivium</strong></a>! Some pro guitarists have no problem playing a guitar built overseas.</p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p>On the other hand, more complicated guitar designs that come with name brand hardware will be more expensive to make. These usually have all kinds of upgrades, and come with name brand pickups like <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="145480"><strong>Duncan</strong></a> and <a href="https://www.electrikjam.com/pxf-3/" data-type="lasso-urls" data-id="5816" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="145481" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG</strong></a>. The CNC machine may have to be reset a lot as well, driving up the cost.</p>
+<p>On the other hand, more complicated guitar designs that come with name brand hardware will be more expensive to make. These usually have all kinds of upgrades, and come with name brand pickups like <a href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="145480"><strong>Duncan</strong></a> and <a href="/pxf-3/" data-type="lasso-urls" data-id="5816" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="145481" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG</strong></a>. The CNC machine may have to be reset a lot as well, driving up the cost.</p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p>A good example of the &#8220;higher end&#8221; models that come from WMIC would be <a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="145482"><strong>Schecter</strong></a>. The <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-mxgqjk/" data-type="lasso-urls" data-id="6065" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="145483" data-lasso-name="Schecter KM-7 Lambo Green">Keith Merrow</a> </strong>models and Schecter SLS designs all cost over $1300 MSRP. All of the high end Schecter models that are mass produced are made in the WMIC factory, while the lower priced Schecter models are made in Indonesia. </p>
+<p>A good example of the &#8220;higher end&#8221; models that come from WMIC would be <a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="145482"><strong>Schecter</strong></a>. The <strong><a href="/guitar-center-pxf-io-mxgqjk/" data-type="lasso-urls" data-id="6065" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="145483" data-lasso-name="Schecter KM-7 Lambo Green">Keith Merrow</a> </strong>models and Schecter SLS designs all cost over $1300 MSRP. All of the high end Schecter models that are mass produced are made in the WMIC factory, while the lower priced Schecter models are made in Indonesia. </p>
 
 
 
@@ -319,7 +319,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>BC Rich</strong> <strong>(Standard line Made in China)</strong></li><li><strong>Brian May Signature Guitars</strong></li><li><strong>Chapman Guitars</strong></li><li><strong>Dean (Standard line is made in China and Indonesia)</strong></li><li><strong>Diamond/DBZ</strong></li><li><strong>Eastwood</strong></li><li><strong>Gretsch (Electromatic models)</strong></li><li><strong>Guild (Newark St. models)</strong></li><li><strong>Line 6</strong></li><li><strong>LTD (By ESP)</strong></li><li><strong>Michael Kelly Guitars</strong></li><li><strong>Ormsby (GTR Standard line)</strong></li><li><strong>PRS SE (Until 2020)</strong></li><li><strong><a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247838">Schecter Guitar</a> Research (Artist Models, SLS, Banshee, KM, Hellraiser)</strong></li><li><strong>Wylde Audio (sub-brand of Schecter)</strong></li></ul>
+<ul class="wp-block-list"><li><strong>BC Rich</strong> <strong>(Standard line Made in China)</strong></li><li><strong>Brian May Signature Guitars</strong></li><li><strong>Chapman Guitars</strong></li><li><strong>Dean (Standard line is made in China and Indonesia)</strong></li><li><strong>Diamond/DBZ</strong></li><li><strong>Eastwood</strong></li><li><strong>Gretsch (Electromatic models)</strong></li><li><strong>Guild (Newark St. models)</strong></li><li><strong>Line 6</strong></li><li><strong>LTD (By ESP)</strong></li><li><strong>Michael Kelly Guitars</strong></li><li><strong>Ormsby (GTR Standard line)</strong></li><li><strong>PRS SE (Until 2020)</strong></li><li><strong><a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247838">Schecter Guitar</a> Research (Artist Models, SLS, Banshee, KM, Hellraiser)</strong></li><li><strong>Wylde Audio (sub-brand of Schecter)</strong></li></ul>
 
 
 
@@ -331,15 +331,15 @@ seo:
 
 
 
-<p>Most WMIC guitars go through a rigorous QC check before they ship to the brand. Then, the brand will usually go over the instruments <em>again</em>. You see this on LTD and <a href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206353">Schecter guitars</a>, on the back sticker. It usually shows who inspected the guitar, and set it up to company spec.</p>
+<p>Most WMIC guitars go through a rigorous QC check before they ship to the brand. Then, the brand will usually go over the instruments <em>again</em>. You see this on LTD and <a href="/schecter-solo-ii-supreme-guitar-review/" data-lasso-id="206353">Schecter guitars</a>, on the back sticker. It usually shows who inspected the guitar, and set it up to company spec.</p>
 
 
 
-<p>So WMIC has made some very respectable guitars over the years. Unfortunately, they lost a few companies in 2019. The biggest one is <a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" target="_blank" rel="noopener" data-lasso-id="145484"><strong>PRS</strong></a>, since the brand wanted to move to Cort, in Indonesia. Cort makes a few brands, but now the main focus is on PRS SE instruments, which means more time and detail can go into the PRS guitars.</p>
+<p>So WMIC has made some very respectable guitars over the years. Unfortunately, they lost a few companies in 2019. The biggest one is <a href="/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" target="_blank" rel="noopener" data-lasso-id="145484"><strong>PRS</strong></a>, since the brand wanted to move to Cort, in Indonesia. Cort makes a few brands, but now the main focus is on PRS SE instruments, which means more time and detail can go into the PRS guitars.</p>
 
 
 
-<p>Schecter also moved a few models in the mid-range price tier to Cort. Schecter did this for the same reason that PRS moved a few models away from WMIC. The best example is the <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="145485"><strong>Schecter Nick Johnston</strong></a> Series, which is under $1000. Don&#8217;t let that price fool you though, you can check our review and others. Cort<em> knocked it out of the park </em>with these Schecter NJ models.</p>
+<p>Schecter also moved a few models in the mid-range price tier to Cort. Schecter did this for the same reason that PRS moved a few models away from WMIC. The best example is the <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="145485"><strong>Schecter Nick Johnston</strong></a> Series, which is under $1000. Don&#8217;t let that price fool you though, you can check our review and others. Cort<em> knocked it out of the park </em>with these Schecter NJ models.</p>
 
 
 
@@ -367,7 +367,7 @@ seo:
 
 
 
-<p>I have to admit, it was pretty tough for me to get out of the mindset that import guitars were trash. When you grow up worrying about where guitars are made before you make a purchase, it almost becomes second nature to look at the back of a <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246494">headstock</a> in the music store.</p>
+<p>I have to admit, it was pretty tough for me to get out of the mindset that import guitars were trash. When you grow up worrying about where guitars are made before you make a purchase, it almost becomes second nature to look at the back of a <a href="/parts-of-an-electric-guitar/" data-lasso-id="246494">headstock</a> in the music store.</p>
 
 
 

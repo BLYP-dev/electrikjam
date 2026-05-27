@@ -36,7 +36,7 @@ seo:
 
 
 
-<p>The forbidden riff isn’t actually forbidden, and it is actually one of the greatest rock songs ever committed to tape. If you don’t already know, the forbidden riff is <strong><a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048" data-lasso-id="86005">Led Zeppelin’s Stairway To Heaven</a></strong>. And the reason it is considered “forbidden” has to do with Wayne’s World, a movie that came out in the early 1990s.</p>
+<p>The forbidden riff isn’t actually forbidden, and it is actually one of the greatest rock songs ever committed to tape. If you don’t already know, the forbidden riff is <strong><a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048" data-lasso-id="86005">Led Zeppelin’s Stairway To Heaven</a></strong>. And the reason it is considered “forbidden” has to do with Wayne’s World, a movie that came out in the early 1990s.</p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-lasso-id="133512">The Beatles</a> featured Aleister Crowley on their St. Pepper album cover and plenty of musicians loved his work, including Jimmy Page and David Bowie. Paige even bought Crowley’s old house on a loch in Scotland. But Aleister Crowley wasn’t a satanist. If anything, he was a magician or mage –&nbsp;he worked with spirits and guides (and demons, but not demons in the sense of bible-belt demons; they’re closer to the daimons of ancient Greece and Egypt).</p>
+<p><a href="/beatles-albums-in-order/" data-lasso-id="133512">The Beatles</a> featured Aleister Crowley on their St. Pepper album cover and plenty of musicians loved his work, including Jimmy Page and David Bowie. Paige even bought Crowley’s old house on a loch in Scotland. But Aleister Crowley wasn’t a satanist. If anything, he was a magician or mage –&nbsp;he worked with spirits and guides (and demons, but not demons in the sense of bible-belt demons; they’re closer to the daimons of ancient Greece and Egypt).</p>
 
 
 
@@ -94,7 +94,7 @@ seo:
 		
 
 
-<p>This odd theory was popularised by Christian nut-job and radio host, Michael Mills, in the 1980s. Mills had a massive listener base and spent a good deal of time explaining why Stairway To Heaven was indeed satanic. It contained hidden messages, so, of course, this was planned by Satanists like Page and Plant. God knows what Mills thinks of <strong><a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="86014">bands like Ghost</a></strong>!?</p>
+<p>This odd theory was popularised by Christian nut-job and radio host, Michael Mills, in the 1980s. Mills had a massive listener base and spent a good deal of time explaining why Stairway To Heaven was indeed satanic. It contained hidden messages, so, of course, this was planned by Satanists like Page and Plant. God knows what Mills thinks of <strong><a href="/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="86014">bands like Ghost</a></strong>!?</p>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>If you playback the records, I’m being serious here even though it’s crazy, but, if you playback the records there was something that says ‘Paul Is Dead’ and then they started to playback a whole manner of records. Of course, we were going to be main candidates for it, and somebody said, ‘It says my sweet satan in it’, and I thought, ‘Gosh, it’s hard enough writing music one way round</strong></p><cite><strong><a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="86006">Jimmy Page</a></strong></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>If you playback the records, I’m being serious here even though it’s crazy, but, if you playback the records there was something that says ‘Paul Is Dead’ and then they started to playback a whole manner of records. Of course, we were going to be main candidates for it, and somebody said, ‘It says my sweet satan in it’, and I thought, ‘Gosh, it’s hard enough writing music one way round</strong></p><cite><strong><a href="/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="86006">Jimmy Page</a></strong></cite></blockquote>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<p>What does this all mean? Pretty simple, really: the forbidden riff is not forbidden. You can play Stairway to Heaven as much as you like. The idea of it being forbidden comes, initially from Wayne’s World, but it also has ties to claims made by Christian radio host Michael Mills, and also because, as a song, Stairway To Heaven, is one of the first tunes everybody <a href="https://www.electrikjam.com/is-learning-electric-guitar-hard/" data-lasso-id="215683">learns on guitar</a>.</p>
+<p>What does this all mean? Pretty simple, really: the forbidden riff is not forbidden. You can play Stairway to Heaven as much as you like. The idea of it being forbidden comes, initially from Wayne’s World, but it also has ties to claims made by Christian radio host Michael Mills, and also because, as a song, Stairway To Heaven, is one of the first tunes everybody <a href="/is-learning-electric-guitar-hard/" data-lasso-id="215683">learns on guitar</a>.</p>
 
 
 

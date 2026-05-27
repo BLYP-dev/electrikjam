@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>There is a lot that can easily fit into the &#8220;myth&#8221; section of guitar sorcery. Some people swear by a certain set of tubes, or the swear by a certain brand of pickups.<strong> Eric Johnson </strong>was said to be able to tell what brand of battery was in <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="660">his guitar pedals</a>. I respect Eric a lot, but come on bro.</p>
+<p>There is a lot that can easily fit into the &#8220;myth&#8221; section of guitar sorcery. Some people swear by a certain set of tubes, or the swear by a certain brand of pickups.<strong> Eric Johnson </strong>was said to be able to tell what brand of battery was in <a href="/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="660">his guitar pedals</a>. I respect Eric a lot, but come on bro.</p>
 
 
 
@@ -56,11 +56,11 @@ seo:
 
 
 
-<p>Like apparently the only way to play metal these days is with <a href="https://www.electrikjam.com/peavey-5150-vs-bugera-626/" class="rank-math-link" data-lasso-id="661">a 5150</a> and vintage Celestion speakers. And don&#8217;t use EMG pickups! These online arguments point people in the wrong direction doing this, and homogenizes the sound of so many artists.</p>
+<p>Like apparently the only way to play metal these days is with <a href="/peavey-5150-vs-bugera-626/" class="rank-math-link" data-lasso-id="661">a 5150</a> and vintage Celestion speakers. And don&#8217;t use EMG pickups! These online arguments point people in the wrong direction doing this, and homogenizes the sound of so many artists.</p>
 
 
 
-<p>One of these many arguments, or points of contention, come from guitar cables. There are all kinds of <a href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174799">expensive guitar</a> cables out there, but then there are also people who solder together their own cables to use on stage. Which one is better?</p>
+<p>One of these many arguments, or points of contention, come from guitar cables. There are all kinds of <a href="/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174799">expensive guitar</a> cables out there, but then there are also people who solder together their own cables to use on stage. Which one is better?</p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p>So what&#8217;s the answer? Are expensive guitar cables better? We are going to answer this question first, before I get to my top 5 recommendations. You&#8217;re probably no stranger to how our <a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="662">Top 5 lists work</a>, and this one is no different.</p>
+<p>So what&#8217;s the answer? Are expensive guitar cables better? We are going to answer this question first, before I get to my top 5 recommendations. You&#8217;re probably no stranger to how our <a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="662">Top 5 lists work</a>, and this one is no different.</p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p>The &#8220;Comparison Cable&#8221; is my go-to that I use every day. It is the store brand for <a href="https://www.electrikjam.com/guitar-center-bankruptcy-2020-restructuring-deals/" data-lasso-id="663">Guitar Center</a> and it cost <strong>$16.99</strong>. It does not have any broad claims behind it. This is your basic cable. It&#8217;s not even close to being an expensive guitar cable.</p>
+<p>The &#8220;Comparison Cable&#8221; is my go-to that I use every day. It is the store brand for <a href="/guitar-center-bankruptcy-2020-restructuring-deals/" data-lasso-id="663">Guitar Center</a> and it cost <strong>$16.99</strong>. It does not have any broad claims behind it. This is your basic cable. It&#8217;s not even close to being an expensive guitar cable.</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>So I played with both cables, through an amp, for about an hour or so. I noticed no difference. The &#8220;Control Guitar&#8221; is my <strong>Schecter</strong> SLS Elite, outfitted with <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="665">Fishman Fluence Pickups</a>, and no special mods. The <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8218">active pickups</a> are balanced, and that&#8217;s why I chose this guitar.</p>
+<p>So I played with both cables, through an amp, for about an hour or so. I noticed no difference. The &#8220;Control Guitar&#8221; is my <strong>Schecter</strong> SLS Elite, outfitted with <a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="665">Fishman Fluence Pickups</a>, and no special mods. The <a href="/what-are-active-pickups/" data-lasso-id="8218">active pickups</a> are balanced, and that&#8217;s why I chose this guitar.</p>
 
 
 
@@ -132,11 +132,11 @@ seo:
 
 
 
-<p>Playing directly through the amp in the room, I noticed almost no difference between the two cables. I used the same settings for both cables on my <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-lasso-id="666">Blackstar HT-40 Tube amp</a>. If anything, the expensive guitar cable made by lava Cables, was slightly more mid-range heavy. But the difference was so slight, that I needed to switch back and forth several times.</p>
+<p>Playing directly through the amp in the room, I noticed almost no difference between the two cables. I used the same settings for both cables on my <a href="/best-practice-amps-for-beginners/" data-lasso-id="666">Blackstar HT-40 Tube amp</a>. If anything, the expensive guitar cable made by lava Cables, was slightly more mid-range heavy. But the difference was so slight, that I needed to switch back and forth several times.</p>
 
 
 
-<p>Now, onto the second test. I then plugged <a href="https://www.electrikjam.com/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" data-lasso-id="667">my Blackstar amp</a> directly into my DAW. You can see no plugins were used. I recorded the same riff, on two different tracks to a metronome. The results were&#8230; well, just look at the waveforms:</p>
+<p>Now, onto the second test. I then plugged <a href="/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" data-lasso-id="667">my Blackstar amp</a> directly into my DAW. You can see no plugins were used. I recorded the same riff, on two different tracks to a metronome. The results were&#8230; well, just look at the waveforms:</p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p>But I broke down the meta-data of each track also. The expensive guitar cables waveform<strong> DID </strong>have a little more treble, and midrange in the track, compared to the <a href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-lasso-id="175509">budget guitar</a> cable. But it was negligible when I looked at the EQ peaks. Nothing the human ear could pick up, in my opinion. In fact, playing the tracks at the same time made the recording sound out of phase.</p>
+<p>But I broke down the meta-data of each track also. The expensive guitar cables waveform<strong> DID </strong>have a little more treble, and midrange in the track, compared to the <a href="/evh-the-5-best-budget-shredder-guitars/" data-lasso-id="175509">budget guitar</a> cable. But it was negligible when I looked at the EQ peaks. Nothing the human ear could pick up, in my opinion. In fact, playing the tracks at the same time made the recording sound out of phase.</p>
 
 
 
@@ -198,7 +198,7 @@ seo:
 		
 
 
-<p>These are great affordable guitar cables. <a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="668">Ibanez is a known brand</a>, that makes some affordable gear for any guitarist. These guitar cables come in 10 Ft, 20 Ft, and 100 Ft. </p>
+<p>These are great affordable guitar cables. <a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="668">Ibanez is a known brand</a>, that makes some affordable gear for any guitarist. These guitar cables come in 10 Ft, 20 Ft, and 100 Ft. </p>
 
 
 
@@ -217,7 +217,7 @@ seo:
 
 
 
-<p>Harley Benton has been making a name for themselves lately, making everything under the sun when it comes to guitars. <a href="https://www.electrikjam.com/electrikjam-link/" data-lasso-id="19878" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Harley Benton</a> is the &#8220;In House&#8221; brand for Thomann Music, and most of their products are out of this world when it comes to budget, quality gear.</p>
+<p>Harley Benton has been making a name for themselves lately, making everything under the sun when it comes to guitars. <a href="/electrikjam-link/" data-lasso-id="19878" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Harley Benton</a> is the &#8220;In House&#8221; brand for Thomann Music, and most of their products are out of this world when it comes to budget, quality gear.</p>
 
 
 <hr class="wp-block-separator"/>
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p>Ernie Ball is another brand that needs no introduction. They make some of the<a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="672"> best strings on the market</a>. The Ernie Ball cables are very rugged, and made out of premium materials. This makes them a little more expensive, but still in budget territory.</p>
+<p>Ernie Ball is another brand that needs no introduction. They make some of the<a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="672"> best strings on the market</a>. The Ernie Ball cables are very rugged, and made out of premium materials. This makes them a little more expensive, but still in budget territory.</p>
 
 
 
@@ -280,7 +280,7 @@ seo:
 
 
 
-<p>But what is most impressive about D&#8217;addario and the Planet Waves series is the &#8220;kits&#8221; you can buy like seen in the picture. You can make any length of cable you need for building your <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" class="rank-math-link" data-lasso-id="674">pedalboard</a>, or you can make just<em> one </em>cable and use the other parts for spares! The kit comes with all you need for years of use.</p>
+<p>But what is most impressive about D&#8217;addario and the Planet Waves series is the &#8220;kits&#8221; you can buy like seen in the picture. You can make any length of cable you need for building your <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" class="rank-math-link" data-lasso-id="674">pedalboard</a>, or you can make just<em> one </em>cable and use the other parts for spares! The kit comes with all you need for years of use.</p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p>If you play electric guitar, then<a href="https://www.electrikjam.com/essential-electric-guitar-gear-everyone-should-own-a-beginners-guide/" class="rank-math-link" data-lasso-id="676"> having a guitar cable is essential</a>. But to what end should the quality be? Expensive guitar cables make a lot of promises, but I can&#8217;t tell the difference.</p>
+<p>If you play electric guitar, then<a href="/essential-electric-guitar-gear-everyone-should-own-a-beginners-guide/" class="rank-math-link" data-lasso-id="676"> having a guitar cable is essential</a>. But to what end should the quality be? Expensive guitar cables make a lot of promises, but I can&#8217;t tell the difference.</p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p>Expensive guitar cables are probably nice to have if you re playing Madison Square Garden, or Wembley Arena next week. But if you are playing at a dive bar, or the local VFW&#8230; I don&#8217;t <a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-lasso-id="15493">think anyone is going to care about your guitar</a> cables!</p>
+<p>Expensive guitar cables are probably nice to have if you re playing Madison Square Garden, or Wembley Arena next week. But if you are playing at a dive bar, or the local VFW&#8230; I don&#8217;t <a href="/does-the-do-it-all-guitar-exist/" data-lasso-id="15493">think anyone is going to care about your guitar</a> cables!</p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

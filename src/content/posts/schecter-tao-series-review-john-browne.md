@@ -54,15 +54,15 @@ seo:
 
 
 
-<p>Like a lot of us,<strong><a href="https://www.youtube.com/channel/UC1VLey4KHEALRvqD3wSiGUA" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="214043"> John Browne has a YouTube channel and he is obsessed with guitars and gear.</a></strong> Over the years he has praised <strong><a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="214044">Schecter Guitars</a></strong> for the quality and features that the brand has to offer. John even added a few to his personal collection after checking them out for reviews. As a Schecter fan, I certainly don&#8217;t blame him!</p>
+<p>Like a lot of us,<strong><a href="https://www.youtube.com/channel/UC1VLey4KHEALRvqD3wSiGUA" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="214043"> John Browne has a YouTube channel and he is obsessed with guitars and gear.</a></strong> Over the years he has praised <strong><a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="214044">Schecter Guitars</a></strong> for the quality and features that the brand has to offer. John even added a few to his personal collection after checking them out for reviews. As a Schecter fan, I certainly don&#8217;t blame him!</p>
 
 
 
-<p>Recently, he had released some playthrough videos of a <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247842">Schecter guitar</a> that looked a lot like the KM Series. Schecter fans all over social media shared screenshots of the guitar, thinking that maybe it was just a &#8220;one off&#8221; guitar. Others speculated that John had moved to being a Schecter Artist, and they were right! The Schecter Tao Series was announced right after the video leaked.</p>
+<p>Recently, he had released some playthrough videos of a <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247842">Schecter guitar</a> that looked a lot like the KM Series. Schecter fans all over social media shared screenshots of the guitar, thinking that maybe it was just a &#8220;one off&#8221; guitar. Others speculated that John had moved to being a Schecter Artist, and they were right! The Schecter Tao Series was announced right after the video leaked.</p>
 
 
 
-<p>There has been a huge migration of artists lately in the Metal genre moving over to Schecter. Aaron Marshall from<strong> Intervals</strong> recently made the switch, as well as<strong><a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-type="post" data-id="9870" target="_blank" rel="noopener" data-lasso-id="214045"> our recent review with Jack Fowler</a></strong>. So why are these artists leaving other companies to move to Schecter?</p>
+<p>There has been a huge migration of artists lately in the Metal genre moving over to Schecter. Aaron Marshall from<strong> Intervals</strong> recently made the switch, as well as<strong><a href="/schecter-jack-fowler-traditional-review/" data-type="post" data-id="9870" target="_blank" rel="noopener" data-lasso-id="214045"> our recent review with Jack Fowler</a></strong>. So why are these artists leaving other companies to move to Schecter?</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong>We got to check out the new <a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="248997">Schecter Tao 6 string</a>, and if the entire series is anything like this&#8230;we all should start saving up our money right now!</strong></p>
+<p class="has-text-align-center"><strong>We got to check out the new <a href="/schecter-sunset-triad-review/" data-lasso-id="248997">Schecter Tao 6 string</a>, and if the entire series is anything like this&#8230;we all should start saving up our money right now!</strong></p>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<p>I am happy to say, that the Schecter Tao looks deceptively simple, but it packs some quality. It is almost a blend of the KM Series, USA Custom Shop, and <strong><a href="https://www.electrikjam.com/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener" data-lasso-id="214046">The Reaper Series that we recently checked out</a></strong>. The Schecter Tao looks like something straight out of the custom shop, but the price is <em>well under </em>custom prices. The specs are outrageous for this beast:</p>
+<p>I am happy to say, that the Schecter Tao looks deceptively simple, but it packs some quality. It is almost a blend of the KM Series, USA Custom Shop, and <strong><a href="/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener" data-lasso-id="214046">The Reaper Series that we recently checked out</a></strong>. The Schecter Tao looks like something straight out of the custom shop, but the price is <em>well under </em>custom prices. The specs are outrageous for this beast:</p>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p>Right out of the box, the finish is much brighter and richer than what <em>any</em> of the photos have shown. I have been keeping tabs on this guitar since it was announced, and the moment our affiliate got one I rushed over to see it. The Flame Maple veneer is like most <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231848">Schecter models</a>, and it has a real &#8220;3D&#8221; look to it. Purple is my favorite color, this shade in fact, <em>exactly</em>.</p>
+<p>Right out of the box, the finish is much brighter and richer than what <em>any</em> of the photos have shown. I have been keeping tabs on this guitar since it was announced, and the moment our affiliate got one I rushed over to see it. The Flame Maple veneer is like most <a href="/schecter-mv-6-review/" data-lasso-id="231848">Schecter models</a>, and it has a real &#8220;3D&#8221; look to it. Purple is my favorite color, this shade in fact, <em>exactly</em>.</p>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<p><strong>The Hardware </strong>is all Hipshot, and I have come to really appreciate most of the Hipshot products. I have the open gear locking tuners on <strong><a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-type="post" data-id="8912" target="_blank" rel="noopener" data-lasso-id="214047">my personal guitar, the Omen Elite 7</a></strong>. The tuners are all perfect, and very precise just like my own set. The Hipshot bridge is something I have become accustomed to as well, and I love how compact and &#8220;out of the way&#8221; this bridge is when it comes to playing.</p>
+<p><strong>The Hardware </strong>is all Hipshot, and I have come to really appreciate most of the Hipshot products. I have the open gear locking tuners on <strong><a href="/schecter-omen-elite-2022-review/" data-type="post" data-id="8912" target="_blank" rel="noopener" data-lasso-id="214047">my personal guitar, the Omen Elite 7</a></strong>. The tuners are all perfect, and very precise just like my own set. The Hipshot bridge is something I have become accustomed to as well, and I love how compact and &#8220;out of the way&#8221; this bridge is when it comes to playing.</p>
 
 
 
@@ -236,11 +236,11 @@ seo:
 
 
 
-<p>That being said, the neck is extremely fast. I play in the classical position most of the time, and this neck just feels so unobtrusive. Like, it works as a perfect thumb rest for gliding up and down the neck <a href="https://www.electrikjam.com/how-do-you-practice-scales/" data-lasso-id="215793">playing scales</a>. I wish I had the Reaper still, so I could compare both. But they seem very similar when it comes to feel and carve.</p>
+<p>That being said, the neck is extremely fast. I play in the classical position most of the time, and this neck just feels so unobtrusive. Like, it works as a perfect thumb rest for gliding up and down the neck <a href="/how-do-you-practice-scales/" data-lasso-id="215793">playing scales</a>. I wish I had the Reaper still, so I could compare both. But they seem very similar when it comes to feel and carve.</p>
 
 
 
-<p>The neck &#8220;reveal&#8221; carve on the headstock is one of my favorite touches when it comes to Schecter design. I believe I first saw it on the standard Reaper guitars, and now on the Schecter Tao. You can see all of the pieces that make up the neck on the headstock. The TUSQ nut was cut perfectly, and it fits into the slot without any overhang or &#8220;poking&#8221; your hand when you <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251760">play an F chord</a>.</p>
+<p>The neck &#8220;reveal&#8221; carve on the headstock is one of my favorite touches when it comes to Schecter design. I believe I first saw it on the standard Reaper guitars, and now on the Schecter Tao. You can see all of the pieces that make up the neck on the headstock. The TUSQ nut was cut perfectly, and it fits into the slot without any overhang or &#8220;poking&#8221; your hand when you <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251760">play an F chord</a>.</p>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p><strong>The Colossus</strong> bridge pickup is a total monster. I maxed out the gain on both the 5150 and <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="214048">BOSS Katana Amp that we frequently use</a></strong>, and the sound remains crystal clear. I would compare these to something Bare Knuckle would make, which is a <em>huge compliment, Schecter</em>. There is no flub in the low end, and no spiky treble either. Just a super-tight midrange focused sound that is <em>highly</em> articulate across every string.</p>
+<p><strong>The Colossus</strong> bridge pickup is a total monster. I maxed out the gain on both the 5150 and <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="214048">BOSS Katana Amp that we frequently use</a></strong>, and the sound remains crystal clear. I would compare these to something Bare Knuckle would make, which is a <em>huge compliment, Schecter</em>. There is no flub in the low end, and no spiky treble either. Just a super-tight midrange focused sound that is <em>highly</em> articulate across every string.</p>
 
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<p>I honestly don&#8217;t know. I cant find any fault in the Schecter Tao. Maybe if it had <strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="214049">a Floyd Rose Bridge</a></strong> I would say it was the <strong>perfect </strong>guitar. But honestly, I think this is about the best that Schecter and Korea could possibly have to offer under $2000. This review section is usually longer, but this guitar is pretty much perfect for any Metal guitarist. I don&#8217;t know what else to say about the Schecter Tao!</p>
+<p>I honestly don&#8217;t know. I cant find any fault in the Schecter Tao. Maybe if it had <strong><a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="214049">a Floyd Rose Bridge</a></strong> I would say it was the <strong>perfect </strong>guitar. But honestly, I think this is about the best that Schecter and Korea could possibly have to offer under $2000. This review section is usually longer, but this guitar is pretty much perfect for any Metal guitarist. I don&#8217;t know what else to say about the Schecter Tao!</p>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<p>I cannot wait to get my hands on the Schecter Tao 7 string, and <em>I have already started saving up for it</em>. The combination of the amazingly articulate pickups, and super thin neck make this <a href="https://www.electrikjam.com/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229703">guitar an absolute</a> shred machine. I can only imagine the same quality will carry over to the 7 and 8 string models.</p>
+<p>I cannot wait to get my hands on the Schecter Tao 7 string, and <em>I have already started saving up for it</em>. The combination of the amazingly articulate pickups, and super thin neck make this <a href="/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229703">guitar an absolute</a> shred machine. I can only imagine the same quality will carry over to the 7 and 8 string models.</p>
 
 
 

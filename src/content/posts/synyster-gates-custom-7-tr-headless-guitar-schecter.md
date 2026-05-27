@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>The Synyster Gates Custom-7 TR Headless is available now at launch <strong><a href="https://www.electrikjam.com/recommends/schecter-synyster-gates-custom-7-tr-headless/" target="_blank" rel="noopener" data-lasso-id="270560">prices of $2,299</a></strong> for the right-handed model and $2,349 for the left-handed version. </p>
+<p>The Synyster Gates Custom-7 TR Headless is available now at launch <strong><a href="/recommends/schecter-synyster-gates-custom-7-tr-headless/" target="_blank" rel="noopener" data-lasso-id="270560">prices of $2,299</a></strong> for the right-handed model and $2,349 for the left-handed version. </p>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p>You can <strong><a href="https://www.electrikjam.com/recommends/schecter-synyster-gates-custom-7-tr-headless/" target="_blank" rel="noopener" data-lasso-id="270561">pre-order the guitar over at Guitar Center</a></strong> now. </p>
+<p>You can <strong><a href="/recommends/schecter-synyster-gates-custom-7-tr-headless/" target="_blank" rel="noopener" data-lasso-id="270561">pre-order the guitar over at Guitar Center</a></strong> now. </p>
 
 
 

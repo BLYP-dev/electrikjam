@@ -61,11 +61,11 @@ seo:
 
 
 
-<p><a data-lasso-id="72834" href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener"><strong>Schecter is notorious</strong> </a>for not really advertising great guitars, for whatever reason. But then there are 5 star reviews all over the retailer sites, so I was confused after playing it for a couple of hours. <strong>Spoiler</strong>: It <em>really</em> impressed me!</p>
+<p><a data-lasso-id="72834" href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener"><strong>Schecter is notorious</strong> </a>for not really advertising great guitars, for whatever reason. But then there are 5 star reviews all over the retailer sites, so I was confused after playing it for a couple of hours. <strong>Spoiler</strong>: It <em>really</em> impressed me!</p>
 
 
 
-<p>Yes, we definitely talk about <a data-lasso-id="72835" href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter</strong></a> a <em>lot </em>here, and it would be easy to say that because I am a Schecter player, I have some kind of brand bias. But the truth of the matter is, we talk about Schecter for the same reasons we talk about <a data-lasso-id="72836" href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener"><strong>Epiphone</strong></a>. </p>
+<p>Yes, we definitely talk about <a data-lasso-id="72835" href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter</strong></a> a <em>lot </em>here, and it would be easy to say that because I am a Schecter player, I have some kind of brand bias. But the truth of the matter is, we talk about Schecter for the same reasons we talk about <a data-lasso-id="72836" href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener"><strong>Epiphone</strong></a>. </p>
 
 
 
@@ -73,15 +73,15 @@ seo:
 
 
 
-<p>I play <a data-lasso-id="206359" href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/">Schecter guitars</a> exclusively, so I get try<strong> a lot </strong>of these guitars out on a regular basis. Now this also attributes the idea of some bias when it comes to these reviews, but there have been several <a data-lasso-id="158759" href="https://www.electrikjam.com/schecter-omen-elite-2022-review/">Schecter</a> guitars that I did not like at all. </p>
+<p>I play <a data-lasso-id="206359" href="/schecter-solo-ii-supreme-guitar-review/">Schecter guitars</a> exclusively, so I get try<strong> a lot </strong>of these guitars out on a regular basis. Now this also attributes the idea of some bias when it comes to these reviews, but there have been several <a data-lasso-id="158759" href="/schecter-omen-elite-2022-review/">Schecter</a> guitars that I did not like at all. </p>
 
 
 
-<p>Particularly the <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251950">SLS Elite 7 String guitars</a>. </p>
+<p>Particularly the <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251950">SLS Elite 7 String guitars</a>. </p>
 
 
 
-<p>There was nothing about that guitar that I liked! I didn&#8217;t like the neck, or the <a data-lasso-id="72837" href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener"><strong>Fishman Pickups</strong></a>. But that&#8217;s okay, I don&#8217;t have to like everything the brand has to offer to <em>be a Schecter player</em>.</p>
+<p>There was nothing about that guitar that I liked! I didn&#8217;t like the neck, or the <a data-lasso-id="72837" href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener"><strong>Fishman Pickups</strong></a>. But that&#8217;s okay, I don&#8217;t have to like everything the brand has to offer to <em>be a Schecter player</em>.</p>
 
 
 
@@ -89,11 +89,11 @@ seo:
 
 
 
-<p>Luckily, <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231841">Schecter makes tons of different models</a> and I think there is something out there for everyone. The <a data-lasso-id="72838" href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"><strong>NJ Traditional</strong></a> is a great example of how Schecter can make plenty of guitars that <em>are not just </em>made for shredders or metal players. But at the same time, Schecter does metal guitars <em>really well</em>!</p>
+<p>Luckily, <a href="/schecter-mv-6-review/" data-lasso-id="231841">Schecter makes tons of different models</a> and I think there is something out there for everyone. The <a data-lasso-id="72838" href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"><strong>NJ Traditional</strong></a> is a great example of how Schecter can make plenty of guitars that <em>are not just </em>made for shredders or metal players. But at the same time, Schecter does metal guitars <em>really well</em>!</p>
 
 
 
-<p>Let&#8217;s not kid ourselves here, when guitarists think about Schecter the main model that comes up is probably the <a data-lasso-id="72839" data-lasso-name="Schecter Hellraiser FRS" href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener"><strong>Hellraiser</strong></a>. </p>
+<p>Let&#8217;s not kid ourselves here, when guitarists think about Schecter the main model that comes up is probably the <a data-lasso-id="72839" data-lasso-name="Schecter Hellraiser FRS" href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener"><strong>Hellraiser</strong></a>. </p>
 
 
 
@@ -137,11 +137,11 @@ seo:
 
 
 
-<p>The Schecter CR6 may look a bit spartan upon first glance, and that&#8217;s a pretty fair assumption. It may be fair to say that this guitar is built for a specific type of player, and that would be fair as well. This is a stripped down metal machine that is built for shredding. It also comes in a Floyd Rose version, but the ones that I got to test were all fixed bridge. So while it may look a little bare and sparse, this <a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" target="_blank" data-type="post" data-id="6404" rel="noopener" data-lasso-id="72840"><strong>affordable</strong> </a>guitar is more versatile than you would think.</p>
+<p>The Schecter CR6 may look a bit spartan upon first glance, and that&#8217;s a pretty fair assumption. It may be fair to say that this guitar is built for a specific type of player, and that would be fair as well. This is a stripped down metal machine that is built for shredding. It also comes in a Floyd Rose version, but the ones that I got to test were all fixed bridge. So while it may look a little bare and sparse, this <a href="/guitar-prices-going-up-in-2022/" target="_blank" data-type="post" data-id="6404" rel="noopener" data-lasso-id="72840"><strong>affordable</strong> </a>guitar is more versatile than you would think.</p>
 
 
 
-<p>The CR6 is a step above the new <strong>Omen Elite</strong> models, but still similar. From the front, the CR6 looks like so many of the other C Series guitars, but this one is <em>pretty special</em>. The Schecter CR6 has quite a few features that you won&#8217;t find on other Schecter C models. It also comes in<a href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener" data-lasso-id="72841"> <strong>lefty models</strong></a>! But let&#8217;s go over the basic stuff first before we take a deeper look.</p>
+<p>The CR6 is a step above the new <strong>Omen Elite</strong> models, but still similar. From the front, the CR6 looks like so many of the other C Series guitars, but this one is <em>pretty special</em>. The Schecter CR6 has quite a few features that you won&#8217;t find on other Schecter C models. It also comes in<a href="/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener" data-lasso-id="72841"> <strong>lefty models</strong></a>! But let&#8217;s go over the basic stuff first before we take a deeper look.</p>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<p>My main three studio guitars are all a C Series. The <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="72842"><strong>Demon 7</strong> </a>and The <a href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="72843" data-lasso-name="Schecter Hellraiser FRS"><strong>Hellraiser</strong></a> get the most recording time so I am pretty familiar with the C shape body style. The Schecter CR6 is totally different with the body style, starting with being a lot thinner. There is no arch top like the usual C shape guitars, and this is much closer to the Reaper line. It&#8217;s almost a hybrid of the two guitars, mixing aesthetics of both body styles to make the Schecter CR6. </p>
+<p>My main three studio guitars are all a C Series. The <a href="/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="72842"><strong>Demon 7</strong> </a>and The <a href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="72843" data-lasso-name="Schecter Hellraiser FRS"><strong>Hellraiser</strong></a> get the most recording time so I am pretty familiar with the C shape body style. The Schecter CR6 is totally different with the body style, starting with being a lot thinner. There is no arch top like the usual C shape guitars, and this is much closer to the Reaper line. It&#8217;s almost a hybrid of the two guitars, mixing aesthetics of both body styles to make the Schecter CR6. </p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>The headstock is angled back, but don&#8217;t fear, the Schecter CR6 has a solid volute to make sure the headstock doesn&#8217;t break off (Looking at you, Gibson!). The tuners are in house branded and look like Grover, but they work well and aren&#8217;t &#8220;grainy&#8221; or difficult to turn. I thought that these CR6 models came with <strong>locking tuners</strong>, but this is one of the features that remind you this is a <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184903">budget guitar</a>. The reverse headstock is a nice touch, and some people prefer it for down tuning, since you have a little bit more room for string tension. The TUSQ nut is a premium feature, and helps you stay in tune.</p>
+<p>The headstock is angled back, but don&#8217;t fear, the Schecter CR6 has a solid volute to make sure the headstock doesn&#8217;t break off (Looking at you, Gibson!). The tuners are in house branded and look like Grover, but they work well and aren&#8217;t &#8220;grainy&#8221; or difficult to turn. I thought that these CR6 models came with <strong>locking tuners</strong>, but this is one of the features that remind you this is a <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184903">budget guitar</a>. The reverse headstock is a nice touch, and some people prefer it for down tuning, since you have a little bit more room for string tension. The TUSQ nut is a premium feature, and helps you stay in tune.</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p>The Apocalypse Pickups are a big selling point for this guitar, and their construction is definitely not something you see everyday. These pickups are Alnico V based, but they have Ceramic magnets mixed in on the flanks. This is pretty unique, and it makes for interesting blends of sound. Alnico V is a powerful magnet made for clarity, while the ceramic additions are bright and mid-scooped. At 14k, these are high output and you would expect something like an<strong> <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="72845">Invader</a></strong><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="72846"> </a>kind of tone. But this magnet combo is special, and not what I expected at all.</p>
+<p>The Apocalypse Pickups are a big selling point for this guitar, and their construction is definitely not something you see everyday. These pickups are Alnico V based, but they have Ceramic magnets mixed in on the flanks. This is pretty unique, and it makes for interesting blends of sound. Alnico V is a powerful magnet made for clarity, while the ceramic additions are bright and mid-scooped. At 14k, these are high output and you would expect something like an<strong> <a href="/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="72845">Invader</a></strong><a href="/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="72846"> </a>kind of tone. But this magnet combo is special, and not what I expected at all.</p>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<p>The bridge pickup is a total BEAST. It has the power of a scooped ceramic pickup that is made to chug, but then the Alnico magnet makes the tone have clarity. So you get the best of both worlds when playing high gain power chords. However, complex chords sound out of this world since the string to string clarity is dialed in so well. You can hear <strong>every note</strong> in a chord, even through a cranked <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="72847"><strong>BOSS Katana</strong> </a>on the &#8220;Brown&#8221; channel. It almost sounds like an <a href="https://www.electrikjam.com/pxf-3/" target="_blank" data-type="lasso-urls" data-id="5816" rel="nofollow sponsored noopener" data-lasso-id="72848" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG</strong></a> pickup to me, and that&#8217;s <em>mind-blowing </em>on an affordable guitar.</p>
+<p>The bridge pickup is a total BEAST. It has the power of a scooped ceramic pickup that is made to chug, but then the Alnico magnet makes the tone have clarity. So you get the best of both worlds when playing high gain power chords. However, complex chords sound out of this world since the string to string clarity is dialed in so well. You can hear <strong>every note</strong> in a chord, even through a cranked <a href="/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="72847"><strong>BOSS Katana</strong> </a>on the &#8220;Brown&#8221; channel. It almost sounds like an <a href="/pxf-3/" target="_blank" data-type="lasso-urls" data-id="5816" rel="nofollow sponsored noopener" data-lasso-id="72848" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG</strong></a> pickup to me, and that&#8217;s <em>mind-blowing </em>on an affordable guitar.</p>
 
 
 
@@ -275,11 +275,11 @@ seo:
 
 
 
-<p>If I had to record an entire song with only one guitar, and I had the CR6 as my only option&#8230;I would have no issues at all. There are more than enough tone variants to be had with this guitar to make it a monster in the studio. Between the useable split coil tones, and that beast of a bridge pickup, you could record some killer tracks. I would something like <a href="https://www.electrikjam.com/stl-amphub-review/" target="_blank" data-type="post" data-id="5892" rel="noopener" data-lasso-id="72849"><strong>STL</strong> </a>and be able to do a whole song without crossing frequencies and sounding rough.</p>
+<p>If I had to record an entire song with only one guitar, and I had the CR6 as my only option&#8230;I would have no issues at all. There are more than enough tone variants to be had with this guitar to make it a monster in the studio. Between the useable split coil tones, and that beast of a bridge pickup, you could record some killer tracks. I would something like <a href="/stl-amphub-review/" target="_blank" data-type="post" data-id="5892" rel="noopener" data-lasso-id="72849"><strong>STL</strong> </a>and be able to do a whole song without crossing frequencies and sounding rough.</p>
 
 
 
-<p>Guys, I know I sound like a Schecter shill at this point, but this is honestly a great guitar that can do all kinds of different tones. If you are stepping up from beginner status to intermediate, this may be the perfect choice for you. This has totally different quality than any <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" target="_blank" rel="noopener" data-lasso-id="72850"><strong>beginner</strong></a> guitar would ever have. It&#8217;s affordable enough for the masses, but good enough for a pro. Much like several other <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247836">Schecter guitars</a> that I have reviewed, I plan on buying one of these now. I sold <em>myself </em>on this one, but really the guitar speaks for itself.</p>
+<p>Guys, I know I sound like a Schecter shill at this point, but this is honestly a great guitar that can do all kinds of different tones. If you are stepping up from beginner status to intermediate, this may be the perfect choice for you. This has totally different quality than any <a href="/best-guitar-for-beginners/" data-type="post" data-id="505" target="_blank" rel="noopener" data-lasso-id="72850"><strong>beginner</strong></a> guitar would ever have. It&#8217;s affordable enough for the masses, but good enough for a pro. Much like several other <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247836">Schecter guitars</a> that I have reviewed, I plan on buying one of these now. I sold <em>myself </em>on this one, but really the guitar speaks for itself.</p>
 
 
 
@@ -287,7 +287,7 @@ seo:
 
 
 
-<p>Other than the tuner preference, I honestly have zero complaints. This is a great guitar for the studio or the stage, and it can definitely be used in a professional environment. This <em>feels </em>like a high end Ibanez to me, and I played<a href="https://www.electrikjam.com/ibanez-az-essentials-review/" target="_blank" data-type="post" data-id="6366" rel="noopener" data-lasso-id="72851"> <strong>Ibanez</strong></a> for quite a few years. I would love to have one of these for recording, because there are so many tones that you can get when it comes to high gain. The bridge pickup is something I would use for overdubs because it has so much &#8220;oomph&#8221;. But that can easily translate to the stage as well.</p>
+<p>Other than the tuner preference, I honestly have zero complaints. This is a great guitar for the studio or the stage, and it can definitely be used in a professional environment. This <em>feels </em>like a high end Ibanez to me, and I played<a href="/ibanez-az-essentials-review/" target="_blank" data-type="post" data-id="6366" rel="noopener" data-lasso-id="72851"> <strong>Ibanez</strong></a> for quite a few years. I would love to have one of these for recording, because there are so many tones that you can get when it comes to high gain. The bridge pickup is something I would use for overdubs because it has so much &#8220;oomph&#8221;. But that can easily translate to the stage as well.</p>
 
 
 

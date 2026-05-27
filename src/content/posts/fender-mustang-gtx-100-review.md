@@ -47,11 +47,11 @@ seo:
 
 
 
-<p>The<strong> <a href="https://www.electrikjam.com/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="42944">Fender</a> </strong> Mustang GTX 100 is technically part of the <strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" target="_blank" data-type="post" data-id="2700" rel="noopener" data-lasso-id="42945">Mustang Series</a> </strong>of amplifiers that have been hugely popular since the initial release 10 years ago. These small modeling amps started out as a great tool for bedroom guitarists, but then became something else all together when the high wattage versions were released. I had one of the original 40 watt versions, and I used it a <em>lot</em> for practice.</p>
+<p>The<strong> <a href="/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="42944">Fender</a> </strong> Mustang GTX 100 is technically part of the <strong><a href="/fender-mustang-micro-features-price/" target="_blank" data-type="post" data-id="2700" rel="noopener" data-lasso-id="42945">Mustang Series</a> </strong>of amplifiers that have been hugely popular since the initial release 10 years ago. These small modeling amps started out as a great tool for bedroom guitarists, but then became something else all together when the high wattage versions were released. I had one of the original 40 watt versions, and I used it a <em>lot</em> for practice.</p>
 
 
 
-<p>Of course, modeling technology has come a long way since 2011. Now we have some of the best modeling tech around, whether it&#8217;s a <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="42946"><strong>plugin</strong></a> or a product like a <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener" data-lasso-id="42947"><strong>Line 6 Helix.</strong></a> While those are great options for recording and home use, there are also great options for gigging like the<strong> <a href="https://www.electrikjam.com/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="42948">Boss Katana</a></strong>. The Katana seems to pretty much dominate the medium-sized modeling amp world, but then&#8230; there is the Fender Mustang GTX 100.</p>
+<p>Of course, modeling technology has come a long way since 2011. Now we have some of the best modeling tech around, whether it&#8217;s a <a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="42946"><strong>plugin</strong></a> or a product like a <a href="/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener" data-lasso-id="42947"><strong>Line 6 Helix.</strong></a> While those are great options for recording and home use, there are also great options for gigging like the<strong> <a href="/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="42948">Boss Katana</a></strong>. The Katana seems to pretty much dominate the medium-sized modeling amp world, but then&#8230; there is the Fender Mustang GTX 100.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>For a lot of guitarists, I think the Fender Mustang GTX 100 might be the most affordable option for<a href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener" data-lasso-id="42949"><strong> gigging</strong></a>. In fact, you might not even need your<strong> <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="42950">pedalboard</a></strong> anymore! It is also perfect for recording, but I think this is a crazy deal for a live amp.</p>
+<p>For a lot of guitarists, I think the Fender Mustang GTX 100 might be the most affordable option for<a href="/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener" data-lasso-id="42949"><strong> gigging</strong></a>. In fact, you might not even need your<strong> <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="42950">pedalboard</a></strong> anymore! It is also perfect for recording, but I think this is a crazy deal for a live amp.</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>To test this amp, I used my<a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="42951"><strong> Schecter Nick Johnston</strong></a> to get some single coil Strat sounds for clean tones. But I also used my <a href="https://www.electrikjam.com/pxf-8/" target="_blank" data-type="lasso-urls" data-id="6298" rel="nofollow sponsored noopener" data-lasso-id="42952" data-lasso-name="Schecter Hellraiser FRS"><strong>Schecter Hellraiser</strong></a> to try out the high gain tones. The EMG pickups in the Hellraiser were ideal for dialing in the high gain stuff. Both guitars worked great with the Fender Mustang GTX 100. I wanted two guitars that were sonic opposites to try out the amp.</p>
+<p>To test this amp, I used my<a href="/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="42951"><strong> Schecter Nick Johnston</strong></a> to get some single coil Strat sounds for clean tones. But I also used my <a href="/pxf-8/" target="_blank" data-type="lasso-urls" data-id="6298" rel="nofollow sponsored noopener" data-lasso-id="42952" data-lasso-name="Schecter Hellraiser FRS"><strong>Schecter Hellraiser</strong></a> to try out the high gain tones. The EMG pickups in the Hellraiser were ideal for dialing in the high gain stuff. Both guitars worked great with the Fender Mustang GTX 100. I wanted two guitars that were sonic opposites to try out the amp.</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p>The &#8220;90&#8217;s American&#8221; amplifier model was the one that I had the most fun with. This is a full-on Metal tone, that you can scoop out to get the classic  <a href="https://www.electrikjam.com/pantera-reunion-tour/" data-lasso-id="140276">Pantera  type of sound</a>. But if you dial in a little bit of midrange, you get more of a <strong>Metallica</strong> tone. I added a little bit of delay/reverb and it gets this beautiful<em> liquid-sounding </em>solo tone. But you also get Orange, Mesa, Marshall, and just about everything in between to choose between when it comes to high gain.</p>
+<p>The &#8220;90&#8217;s American&#8221; amplifier model was the one that I had the most fun with. This is a full-on Metal tone, that you can scoop out to get the classic  <a href="/pantera-reunion-tour/" data-lasso-id="140276">Pantera  type of sound</a>. But if you dial in a little bit of midrange, you get more of a <strong>Metallica</strong> tone. I added a little bit of delay/reverb and it gets this beautiful<em> liquid-sounding </em>solo tone. But you also get Orange, Mesa, Marshall, and just about everything in between to choose between when it comes to high gain.</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>So as a gigging amp, the Fender Mustang GTX 100 has a little bit of everything that you would need. But if you wanted to <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" target="_blank" data-type="post" data-id="4877" rel="noopener" data-lasso-id="42954"><strong>record</strong> </a>with it, then you have some really versatile options. You have the regular 1/4&#8221; L/R outputs that you would plug into an interface. But you also have a stereo XLR output as well. This means that you can plug into any mixing board or interface and get the same tone that you use live.</p>
+<p>So as a gigging amp, the Fender Mustang GTX 100 has a little bit of everything that you would need. But if you wanted to <a href="/must-have-for-recording-guitar/" target="_blank" data-type="post" data-id="4877" rel="noopener" data-lasso-id="42954"><strong>record</strong> </a>with it, then you have some really versatile options. You have the regular 1/4&#8221; L/R outputs that you would plug into an interface. But you also have a stereo XLR output as well. This means that you can plug into any mixing board or interface and get the same tone that you use live.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>Let&#8217;s talk about the Fender Mustang GTX 100 and it&#8217;s speaker. You don&#8217;t often see a <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-lasso-id="90321">Celestion speaker</a> on a modeling amp, but here we are! I think that this has a lot to do with the huge bass response you get out of this amp. Other modeling <a href="https://www.electrikjam.com/boss-katana-sneaky-amps-guide/" data-lasso-id="67057">amps like the BOSS Katana</a> seem to lack bass response on high gain sounds. The bass is very full, and it seems like the Celestion dials out the &#8220;honk&#8221; that some modelers have as well. </p>
+<p>Let&#8217;s talk about the Fender Mustang GTX 100 and it&#8217;s speaker. You don&#8217;t often see a <a href="/the-best-celestion-speakers/" data-lasso-id="90321">Celestion speaker</a> on a modeling amp, but here we are! I think that this has a lot to do with the huge bass response you get out of this amp. Other modeling <a href="/boss-katana-sneaky-amps-guide/" data-lasso-id="67057">amps like the BOSS Katana</a> seem to lack bass response on high gain sounds. The bass is very full, and it seems like the Celestion dials out the &#8220;honk&#8221; that some modelers have as well. </p>
 
 
 

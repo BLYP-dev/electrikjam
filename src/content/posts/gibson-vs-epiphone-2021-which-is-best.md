@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>While it is easier to point the similarities than it is to point out the differences, for whatever reason&#8230;this is a <em>big </em>deal. <strong><a href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="1944">Gibson</a></strong> is what we call a &#8220;legacy&#8217; company, while Epiphone makes affordable guitars mostly based on Gibson models. What do I mean by &#8220;legacy&#8221; company?</p>
+<p>While it is easier to point the similarities than it is to point out the differences, for whatever reason&#8230;this is a <em>big </em>deal. <strong><a href="/gibson-guitars/" data-lasso-id="1944">Gibson</a></strong> is what we call a &#8220;legacy&#8217; company, while Epiphone makes affordable guitars mostly based on Gibson models. What do I mean by &#8220;legacy&#8221; company?</p>
 
 
 
@@ -59,11 +59,11 @@ seo:
 
 
 
-<p>Epiphone on the other hand, does whatever it wants. 2020 is proof of this, as many different models hit the market. While Epiphone may base some of their models on classic Gibson designs, Epiphone is not afraid to change things up. <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-lasso-id="252382">Epiphone has become more than just the &#8220;affordable Gibson&#8221;</a> and has moved on to being a wholly original company.</p>
+<p>Epiphone on the other hand, does whatever it wants. 2020 is proof of this, as many different models hit the market. While Epiphone may base some of their models on classic Gibson designs, Epiphone is not afraid to change things up. <a href="/epiphone-matt-heafy-origins-review/" data-lasso-id="252382">Epiphone has become more than just the &#8220;affordable Gibson&#8221;</a> and has moved on to being a wholly original company.</p>
 
 
 
-<p>And that&#8217;s why we did a full deep-dive on the <strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="753">Epiphone Les Paul vs Epiphone SG </a></strong>to see which is the best overall guitar. </p>
+<p>And that&#8217;s why we did a full deep-dive on the <strong><a class="rank-math-link" href="/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="753">Epiphone Les Paul vs Epiphone SG </a></strong>to see which is the best overall guitar. </p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>Either a guitar sounds good, or it doesn&#8217;t. I do not believe in the &#8216;tone wood&#8221; idea. Look at <a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="754">Buzz Osborne</a>! He plays solid metal guitars! I believe tone wood is just a way to market a products to you. Nothing more. </p>
+<p>Either a guitar sounds good, or it doesn&#8217;t. I do not believe in the &#8216;tone wood&#8221; idea. Look at <a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="754">Buzz Osborne</a>! He plays solid metal guitars! I believe tone wood is just a way to market a products to you. Nothing more. </p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p><strong>Electronics:</strong> Now THIS is going to probably be the biggest difference when it comes down to the Gibson Vs Epiphone comparison. Over the past year, <a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="755">Epiphone has stepped up their game</a> when it comes to stock electronics. But that hasn&#8217;t always been the case.</p>
+<p><strong>Electronics:</strong> Now THIS is going to probably be the biggest difference when it comes down to the Gibson Vs Epiphone comparison. Over the past year, <a href="/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="755">Epiphone has stepped up their game</a> when it comes to stock electronics. But that hasn&#8217;t always been the case.</p>
 
 
 
@@ -135,11 +135,11 @@ seo:
 
 
 
-<p>In the past, people would just upgrade the electronics on their <a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" data-lasso-id="2663">Epiphone guitars</a> themselves. This adds extra cost to your purchase, but not much. Even buying after-market electronics, and having them installed, is cheaper than buying a Gibson.</p>
+<p>In the past, people would just upgrade the electronics on their <a href="/matt-heafy-epiphone-mkh-origins-les-paul/" data-lasso-id="2663">Epiphone guitars</a> themselves. This adds extra cost to your purchase, but not much. Even buying after-market electronics, and having them installed, is cheaper than buying a Gibson.</p>
 
 
 
-<p>But this past year closes the gap when it comes to Gibson Vs Epiphone. The electronics have been updated on almost all of the higher end Epiphone models, and some even have <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="756">Fishman Pickups</a>. This is a game changer for Epiphone, and puts them just under the quality of a Gibson.</p>
+<p>But this past year closes the gap when it comes to Gibson Vs Epiphone. The electronics have been updated on almost all of the higher end Epiphone models, and some even have <a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="756">Fishman Pickups</a>. This is a game changer for Epiphone, and puts them just under the quality of a Gibson.</p>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<p><strong>Point Of Origin: </strong>To me, it seems this is the <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8470">real stigma of the Gibson Vs Epiphone</a> argument. There is a myth that &#8220;Made In USA&#8221; on the back of the headstock <a href="https://www.reddit.com/r/Guitar/comments/2fpm3c/why_are_guitars_made_in_the_us_such_a_big_deal/" rel="nofollow noopener" class="rank-math-link" data-lasso-id="759" target="_blank">makes a guitar <em>better</em> somehow</a>. I definitely do not see this as the case.</p>
+<p><strong>Point Of Origin: </strong>To me, it seems this is the <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8470">real stigma of the Gibson Vs Epiphone</a> argument. There is a myth that &#8220;Made In USA&#8221; on the back of the headstock <a href="https://www.reddit.com/r/Guitar/comments/2fpm3c/why_are_guitars_made_in_the_us_such_a_big_deal/" rel="nofollow noopener" class="rank-math-link" data-lasso-id="759" target="_blank">makes a guitar <em>better</em> somehow</a>. I definitely do not see this as the case.</p>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<p>But this is the core idea about <a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-lasso-id="764">Gibson vs Epiphone:</a> A good guitar, is a good guitar. <em>Regardless of where it was made.</em></p>
+<p>But this is the core idea about <a href="/gibson-vs-epiphone-in-2021/" data-lasso-id="764">Gibson vs Epiphone:</a> A good guitar, is a good guitar. <em>Regardless of where it was made.</em></p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p>No one cares what kind of guitar you play. Especially not the audience. In fact, most audience members have no idea what kind of guitar you are playing. Mostly, because <em>they do not play guitar</em>. The girl/guy in the front row that is dancing while you&#8217;re playing doesn&#8217;t care about <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="765">what the brand name is on your guitar</a>. All she/he cares about is that<em> you can play.</em></p>
+<p>No one cares what kind of guitar you play. Especially not the audience. In fact, most audience members have no idea what kind of guitar you are playing. Mostly, because <em>they do not play guitar</em>. The girl/guy in the front row that is dancing while you&#8217;re playing doesn&#8217;t care about <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="765">what the brand name is on your guitar</a>. All she/he cares about is that<em> you can play.</em></p>
 
 
 
@@ -251,7 +251,7 @@ seo:
 
 
 
-<p>So after much debate, I have decided that my personal opinion is that Epiphone exceeds Gibson in almost every way, these days. Not only is <a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132444">Epiphone more budget friendly</a>, but Epiphone has listened to it&#8217;s customers over the years, and have made changes to the lineup. Gibson hasn&#8217;t.</p>
+<p>So after much debate, I have decided that my personal opinion is that Epiphone exceeds Gibson in almost every way, these days. Not only is <a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132444">Epiphone more budget friendly</a>, but Epiphone has listened to it&#8217;s customers over the years, and have made changes to the lineup. Gibson hasn&#8217;t.</p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p>An <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8789">Epiphone customer is more likely wanting a quality</a> instrument for an affordable price. There is nothing wrong with that mindset, and if you want to modify it, then you can. But to be honest, Epiphone is great out of the box these days. Epiphone also has<a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="766"> more variety</a>.</p>
+<p>An <a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8789">Epiphone customer is more likely wanting a quality</a> instrument for an affordable price. There is nothing wrong with that mindset, and if you want to modify it, then you can. But to be honest, Epiphone is great out of the box these days. Epiphone also has<a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="766"> more variety</a>.</p>
 
 
 

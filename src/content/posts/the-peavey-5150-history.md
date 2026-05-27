@@ -44,7 +44,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="104663"><strong>Eddie Van Halen</strong></a> wasn&#8217;t just a great songwriter though, he also designed all kinds of guitars and gear. His collaborations with famous designers is stuff of legends these days. The Peavey 5150 amplifier is one of those inventions that he designed to get his unique sound. Eddie was always chasing tone, and he had a wall of Marshall amps that served him well over the years. But he needed something that really defined him, and that&#8217;s where the Peavey 5150 steps in.</p>
+<p><a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="104663"><strong>Eddie Van Halen</strong></a> wasn&#8217;t just a great songwriter though, he also designed all kinds of guitars and gear. His collaborations with famous designers is stuff of legends these days. The Peavey 5150 amplifier is one of those inventions that he designed to get his unique sound. Eddie was always chasing tone, and he had a wall of Marshall amps that served him well over the years. But he needed something that really defined him, and that&#8217;s where the Peavey 5150 steps in.</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>The original &#8220;Block Letter&#8221; versions of the amp, before the signature change are highly sought after. The claim was, that something changed between the block letter, and &#8220;signature&#8221; versions. But this is only <em>half </em>true. Peavey had run out of Sylvania tubes, so the new &#8220;signature&#8221; amps had Ruby Brand tubes instead. The claim was, this changed the tone. In reality, tubes have very little impact on the tone of an amp. The <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="104664"><strong>speakers</strong></a> are much more important! Don&#8217;t believe me? Watch Glenn Fricker&#8217;s <a href="https://youtu.be/VaO7MmghoqA" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="104665"><strong>video</strong></a> on the subject.</p>
+<p>The original &#8220;Block Letter&#8221; versions of the amp, before the signature change are highly sought after. The claim was, that something changed between the block letter, and &#8220;signature&#8221; versions. But this is only <em>half </em>true. Peavey had run out of Sylvania tubes, so the new &#8220;signature&#8221; amps had Ruby Brand tubes instead. The claim was, this changed the tone. In reality, tubes have very little impact on the tone of an amp. The <a href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="104664"><strong>speakers</strong></a> are much more important! Don&#8217;t believe me? Watch Glenn Fricker&#8217;s <a href="https://youtu.be/VaO7MmghoqA" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="104665"><strong>video</strong></a> on the subject.</p>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<p>As we discussed in <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="104667"><strong>another article</strong></a>, we saw Eddie move over to Fender/Charvel for all of his signature gear. This started with just guitars, but then the 5150 III was announced. This is a overhaul over the original Peavey 5150 in a lot of ways. The Peavey 5150 and 6505 have remained 2 channel amps. The new 5150 III is a <em>three</em> channel monster, with all kinds of cool design choices. Fender gave Eddie Van Halen free reign with his new EVH product lineup, and it shows!</p>
+<p>As we discussed in <a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="104667"><strong>another article</strong></a>, we saw Eddie move over to Fender/Charvel for all of his signature gear. This started with just guitars, but then the 5150 III was announced. This is a overhaul over the original Peavey 5150 in a lot of ways. The Peavey 5150 and 6505 have remained 2 channel amps. The new 5150 III is a <em>three</em> channel monster, with all kinds of cool design choices. Fender gave Eddie Van Halen free reign with his new EVH product lineup, and it shows!</p>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p>I think we all appreciate Eddie Van Halen for his playing, since he basically changed the landscape of guitar playing<em> forever</em>. I am glad that his technical prowess is still studied today, and I am sure it will be for years to come. <strong>I often say that Eddie Van Halen is <a href="https://www.electrikjam.com/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-lasso-id="152887">just as important as Jimi Hendrix</a>, and I truly believe that. He changed the way we all look at guitar. </strong></p>
+<p>I think we all appreciate Eddie Van Halen for his playing, since he basically changed the landscape of guitar playing<em> forever</em>. I am glad that his technical prowess is still studied today, and I am sure it will be for years to come. <strong>I often say that Eddie Van Halen is <a href="/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-lasso-id="152887">just as important as Jimi Hendrix</a>, and I truly believe that. He changed the way we all look at guitar. </strong></p>
 
 
 

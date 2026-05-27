@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>It is really hard to think of Ibanez as anything but the company that has all of the virtuoso shredders under it&#8217;s roster. I mean, we have <strong>Steve Vai </strong>as the tip of the spear when it comes to Ibanez. The Vai guitars, and subsequently the<a href="https://www.ibanez.com/usa/products/search/electric_guitars/list/?cf_search_product_code=rg" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="44102"> <strong>RG Seri</strong></a><strong><a href="https://www.ibanez.com/usa/products/search/electric_guitars/list/?cf_search_product_code=rg" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="44103">es</a>,</strong> are the best selling artist guitars <em>ever</em>. No other signature guitar even <em>comes close</em> to the sales numbers that the <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-zdba6z/" data-type="lasso-urls" data-id="5329" data-lasso-id="44104" rel="nofollow noopener" target="_blank" data-lasso-name="Ibanez Jem JR">Jem</a> </strong>and the RG have accumulated over the past 35 years.</p>
+<p>It is really hard to think of Ibanez as anything but the company that has all of the virtuoso shredders under it&#8217;s roster. I mean, we have <strong>Steve Vai </strong>as the tip of the spear when it comes to Ibanez. The Vai guitars, and subsequently the<a href="https://www.ibanez.com/usa/products/search/electric_guitars/list/?cf_search_product_code=rg" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="44102"> <strong>RG Seri</strong></a><strong><a href="https://www.ibanez.com/usa/products/search/electric_guitars/list/?cf_search_product_code=rg" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="44103">es</a>,</strong> are the best selling artist guitars <em>ever</em>. No other signature guitar even <em>comes close</em> to the sales numbers that the <strong><a href="/guitar-center-pxf-io-zdba6z/" data-type="lasso-urls" data-id="5329" data-lasso-id="44104" rel="nofollow noopener" target="_blank" data-lasso-name="Ibanez Jem JR">Jem</a> </strong>and the RG have accumulated over the past 35 years.</p>
 
 
 
@@ -54,19 +54,19 @@ seo:
 
 
 
-<p>When <strong>Polyphia</strong> blew up, the band was known to be faithful Ibanez endorsers. Tim and Scott from the band had been playing Ibanez RG <a href="https://www.electrikjam.com/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211736">guitars for years</a>, but they had a new sound in mind that required single coil pickups and a total redesign of their usual Ibanez models. What we got, was the <a href="https://www.electrikjam.com/guitar-center-pxf-io-nk4q6v/" target="_blank" data-type="lasso-urls" data-id="5336" rel="nofollow noopener" data-lasso-id="44105" data-lasso-name="Ibanez THBB10"><strong>AZ Series</strong></a>. </p>
+<p>When <strong>Polyphia</strong> blew up, the band was known to be faithful Ibanez endorsers. Tim and Scott from the band had been playing Ibanez RG <a href="/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211736">guitars for years</a>, but they had a new sound in mind that required single coil pickups and a total redesign of their usual Ibanez models. What we got, was the <a href="/guitar-center-pxf-io-nk4q6v/" target="_blank" data-type="lasso-urls" data-id="5336" rel="nofollow noopener" data-lasso-id="44105" data-lasso-name="Ibanez THBB10"><strong>AZ Series</strong></a>. </p>
 
 
 
-<p>There has been this weird revival of more classic guitars the last few years, and I really like this idea. For example, the <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="44106"><strong>Nick Johnston Schecter</strong></a> is based on a classic style, but with modern features you would never find on a Fender. The same can be said of the newer Ibanez series. These are classic styled guitars, with single coils and traditional bridges. But the catch is that the Ibanez AZ Series is made in Japan, and <em>very</em> expensive.</p>
+<p>There has been this weird revival of more classic guitars the last few years, and I really like this idea. For example, the <a href="/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="44106"><strong>Nick Johnston Schecter</strong></a> is based on a classic style, but with modern features you would never find on a Fender. The same can be said of the newer Ibanez series. These are classic styled guitars, with single coils and traditional bridges. But the catch is that the Ibanez AZ Series is made in Japan, and <em>very</em> expensive.</p>
 
 
 
-<p>The <a href="https://www.electrikjam.com/ibanez-vs-jackson/" data-lasso-id="166812">brand new Ibanez</a> AZ Essentials guitars this year is supposed to close the gap in price tiers. These are meant to be beginner/intermediate guitars that are easy to play <em>and</em> maintain. But the best part, is the price. These are going for under $400 and have been designed from the ground up&#8230; with the beginner in mind.</p>
+<p>The <a href="/ibanez-vs-jackson/" data-lasso-id="166812">brand new Ibanez</a> AZ Essentials guitars this year is supposed to close the gap in price tiers. These are meant to be beginner/intermediate guitars that are easy to play <em>and</em> maintain. But the best part, is the price. These are going for under $400 and have been designed from the ground up&#8230; with the beginner in mind.</p>
 
 
 
-<p>But just because <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254483">these are beginner guitars</a>, doesn&#8217;t mean that they are lacking in features. I actually got to try these out for a couple of days, I and I have a lot of thoughts regarding the Ibanez AZ Essentials guitars. Today we are going to take a look at what these guitars have to offer the beginner and the more experienced guitarist.</p>
+<p>But just because <a href="/best-guitar-for-beginners/" data-lasso-id="254483">these are beginner guitars</a>, doesn&#8217;t mean that they are lacking in features. I actually got to try these out for a couple of days, I and I have a lot of thoughts regarding the Ibanez AZ Essentials guitars. Today we are going to take a look at what these guitars have to offer the beginner and the more experienced guitarist.</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 		
 
 
-<p>So the whole idea behind the Ibanez AZ Essentials guitars is that it has all of the essential parts of a basic guitar. This series actually reminds me of a <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-qo473a/" target="_blank" data-type="lasso-urls" data-id="5452" rel="nofollow sponsored noopener" data-lasso-id="44107" data-lasso-name="Yamaha Pacifica 612VII">Yamaha Pacifica</a> </strong>more than anything. There are a few different models of the new Ibanez AZ but they all share similar features. You have:</p>
+<p>So the whole idea behind the Ibanez AZ Essentials guitars is that it has all of the essential parts of a basic guitar. This series actually reminds me of a <strong><a href="/guitar-center-pxf-io-qo473a/" target="_blank" data-type="lasso-urls" data-id="5452" rel="nofollow sponsored noopener" data-lasso-id="44107" data-lasso-name="Yamaha Pacifica 612VII">Yamaha Pacifica</a> </strong>more than anything. There are a few different models of the new Ibanez AZ but they all share similar features. You have:</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>You also get a choice of 5 different colors, that vary across the different models. It&#8217;s important to note that even though these are <a class="wpil_keyword_link" href="https://www.electrikjam.com/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255008">Ibanez guitars</a>, they are <em><strong>not a shredder&#8217;s guitar</strong></em>. These are geared towards a more classic sound, and really aimed at the intermediate guitarist that is &#8220;trying to figure out their sound&#8221;. Since these guitars are sort of &#8220;do it all guitars&#8221; with the pickup options you have available. But we will get to the sounds later, the features go first:</p>
+<p>You also get a choice of 5 different colors, that vary across the different models. It&#8217;s important to note that even though these are <a class="wpil_keyword_link" href="/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255008">Ibanez guitars</a>, they are <em><strong>not a shredder&#8217;s guitar</strong></em>. These are geared towards a more classic sound, and really aimed at the intermediate guitarist that is &#8220;trying to figure out their sound&#8221;. Since these guitars are sort of &#8220;do it all guitars&#8221; with the pickup options you have available. But we will get to the sounds later, the features go first:</p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-lasso-id="102996">The Ibanez AZ Essentials Series is designed from the ground up by Ibanez and <strong>Tomo Fujita</strong> who is most famous for being a Berklee professor (the one that taught<strong> John Mayer</strong>)</a>. So the basic idea is to make a guitar that you can learn on, <em>effectively</em>. Many beginner guitars can be really poor quality, and make even the most talented players give up. There is nothing worse than trying to learn guitar and the guitar won&#8217;t hold tune&#8230; or keeps<em> fighting you</em>.</p>
+<p><a href="/why-john-mayer-ditched-fender-for-prs/" data-lasso-id="102996">The Ibanez AZ Essentials Series is designed from the ground up by Ibanez and <strong>Tomo Fujita</strong> who is most famous for being a Berklee professor (the one that taught<strong> John Mayer</strong>)</a>. So the basic idea is to make a guitar that you can learn on, <em>effectively</em>. Many beginner guitars can be really poor quality, and make even the most talented players give up. There is nothing worse than trying to learn guitar and the guitar won&#8217;t hold tune&#8230; or keeps<em> fighting you</em>.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>The first thing I want to talk about is the neck. This is a slim, flat neck and it feels absolutely wonderful. The 25&#8221; scale length puts you between a Les Paul and a Stratocaster scale-wise, and this will help you learn how to do bends easier. The frets were also well done on the two models that I tried, and there were no sharp ends to cut your hands on. The satin finish on the back feels great, and it actually feels like a much more <a href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174805">expensive guitar</a>.</p>
+<p>The first thing I want to talk about is the neck. This is a slim, flat neck and it feels absolutely wonderful. The 25&#8221; scale length puts you between a Les Paul and a Stratocaster scale-wise, and this will help you learn how to do bends easier. The frets were also well done on the two models that I tried, and there were no sharp ends to cut your hands on. The satin finish on the back feels great, and it actually feels like a much more <a href="/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174805">expensive guitar</a>.</p>
 
 
 
@@ -128,11 +128,11 @@ seo:
 
 
 
-<p>All of the hardware is pretty good. You have standard tuners, a decent nut, and the plastic knobs are a classic design. The bridges of both models is where things get interesting. The string saddles are designed to be lower profile, and omit the set screws poking out of the top of each saddle. This is super comfortable for a new guitarist learning how to <a href="https://www.electrikjam.com/how-to-palm-mute/" target="_blank" data-type="post" data-id="1640" rel="noopener" data-lasso-id="44109"><strong>palm mute</strong></a>. The controls are also out of the way, which is a problem I constantly complain about with Fender Strats.</p>
+<p>All of the hardware is pretty good. You have standard tuners, a decent nut, and the plastic knobs are a classic design. The bridges of both models is where things get interesting. The string saddles are designed to be lower profile, and omit the set screws poking out of the top of each saddle. This is super comfortable for a new guitarist learning how to <a href="/how-to-palm-mute/" target="_blank" data-type="post" data-id="1640" rel="noopener" data-lasso-id="44109"><strong>palm mute</strong></a>. The controls are also out of the way, which is a problem I constantly complain about with Fender Strats.</p>
 
 
 
-<p>Not only are the bridge saddles designed to be more comfortable, they are also functional. These are easy to adjust whether you choose the Trem version, or the fixed bridge. Personally, I would suggest the fixed bridge for beginners, and the trem system for more intermediate players. Just because a trem system can be a pain in the ass for beginners to set up. But either way, both are easy to set<a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="44110"> <strong>intonation</strong> </a>and string height.</p>
+<p>Not only are the bridge saddles designed to be more comfortable, they are also functional. These are easy to adjust whether you choose the Trem version, or the fixed bridge. Personally, I would suggest the fixed bridge for beginners, and the trem system for more intermediate players. Just because a trem system can be a pain in the ass for beginners to set up. But either way, both are easy to set<a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="44110"> <strong>intonation</strong> </a>and string height.</p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p>Which speaking of, the Ibanez AZ Essentials Pickups are all really great. I was a little blown away by how good these pickups sounded through the <a href="https://www.electrikjam.com/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="44111"><strong>BOSS Katana</strong></a> I was using. The single coils have a real snarky punch to them, and the humbuckers can handle high gain really well for what they are. I would not say that these pickups are for metal, per se. But they can do that if you want! There are a lot of different sounds you can get out of these pickups, especially with the Dyna-Switch.</p>
+<p>Which speaking of, the Ibanez AZ Essentials Pickups are all really great. I was a little blown away by how good these pickups sounded through the <a href="/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="44111"><strong>BOSS Katana</strong></a> I was using. The single coils have a real snarky punch to them, and the humbuckers can handle high gain really well for what they are. I would not say that these pickups are for metal, per se. But they can do that if you want! There are a lot of different sounds you can get out of these pickups, especially with the Dyna-Switch.</p>
 
 
 
@@ -170,15 +170,15 @@ seo:
 
 
 
-<p>As much as we talk about how much <a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="44112"><strong>nicer </strong></a><strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="44113">beginner</a> </strong>guitars are these days, there are still some really bad ones out there. In most cases, you certainly get what you pay for. That being said, I think the Ibanez AZ Essentials is a step in the right direction for beginner/intermediate guitarists. In fact, this might even be a real &#8220;first&#8221;.</p>
+<p>As much as we talk about how much <a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="44112"><strong>nicer </strong></a><strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="44113">beginner</a> </strong>guitars are these days, there are still some really bad ones out there. In most cases, you certainly get what you pay for. That being said, I think the Ibanez AZ Essentials is a step in the right direction for beginner/intermediate guitarists. In fact, this might even be a real &#8220;first&#8221;.</p>
 
 
 
-<p>I mean, I honestly cannot think of a major brand that has said &#8220;these guitars are specifically enhanced for beginners&#8221; before. Some cheaper guitars like<strong> <a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" target="_blank" data-type="post" data-id="6277" rel="noopener" data-lasso-id="44114">Squier</a></strong> we <em>assume </em>are just better for beginners, but the brand never explicitly states this. Ibanez have specifically designed these guitars to be great for the beginner. I think this is really cool!</p>
+<p>I mean, I honestly cannot think of a major brand that has said &#8220;these guitars are specifically enhanced for beginners&#8221; before. Some cheaper guitars like<strong> <a href="/squier-contemporary-telecaster-review/" target="_blank" data-type="post" data-id="6277" rel="noopener" data-lasso-id="44114">Squier</a></strong> we <em>assume </em>are just better for beginners, but the brand never explicitly states this. Ibanez have specifically designed these guitars to be great for the beginner. I think this is really cool!</p>
 
 
 
-<p>You also get a whole lot of guitar for the<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-jwvnj6/" target="_blank" data-type="lasso-urls" data-id="6370" rel="nofollow sponsored noopener" data-lasso-id="44115" data-lasso-name="Ibanez AZ Essentials Guitar">price point</a>.</strong> Sitting at $350, this is right in the zone of some other brands that offer <em>way less</em>. I think Ibanez really wants to convey that while this is a <a href="https://www.electrikjam.com/epiphone-power-players-guitar-review/" data-lasso-id="156643">beginner guitar</a>, this is not a cheap beginner guitar.</em> This is not a toy by any means, it&#8217;s legit in <em>every way</em>.</p>
+<p>You also get a whole lot of guitar for the<strong> <a href="/guitar-center-pxf-io-jwvnj6/" target="_blank" data-type="lasso-urls" data-id="6370" rel="nofollow sponsored noopener" data-lasso-id="44115" data-lasso-name="Ibanez AZ Essentials Guitar">price point</a>.</strong> Sitting at $350, this is right in the zone of some other brands that offer <em>way less</em>. I think Ibanez really wants to convey that while this is a <a href="/epiphone-power-players-guitar-review/" data-lasso-id="156643">beginner guitar</a>, this is not a cheap beginner guitar.</em> This is not a toy by any means, it&#8217;s legit in <em>every way</em>.</p>
 
 
 

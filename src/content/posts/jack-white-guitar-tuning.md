@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>As one of the most celebrated and well-known guitarists in recent history, <strong><a href="https://www.electrikjam.com/jack-white-loves-horrible-difficult-guitars-heres-why/" data-type="post" data-id="8093" data-lasso-id="120971">a lot has been made about Jack’s playing</a></strong>. People have called him sloppy and/or over-rated which is frankly insane. Yes, his songs might be easy to play, but they’re certainly not easy to write, a distinction that is lost on far too many people. You don’t need to have Steve Vai-level skills to sell millions of albums – you just need to be able to write good songs.</p>
+<p>As one of the most celebrated and well-known guitarists in recent history, <strong><a href="/jack-white-loves-horrible-difficult-guitars-heres-why/" data-type="post" data-id="8093" data-lasso-id="120971">a lot has been made about Jack’s playing</a></strong>. People have called him sloppy and/or over-rated which is frankly insane. Yes, his songs might be easy to play, but they’re certainly not easy to write, a distinction that is lost on far too many people. You don’t need to have Steve Vai-level skills to sell millions of albums – you just need to be able to write good songs.</p>
 
 
 
@@ -73,7 +73,7 @@ seo:
 
 
 
-<p>When it comes to guitar tunings, Jack White mainly sticks to <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142229">standard blues tunings</a> for his guitar: Standard tuning, Open D tuning, and Open G tuning. He also dabbles with Drop D from time to time too. The vast, vast majority of The White Stripe’s most well-known songs are, however, recorded and played in <strong><a href="https://electrikjam.com/guitar-tuning/" data-lasso-id="120972" target="_blank" rel="noopener noreferrer nofollow">standard tuning – EADGBE</a></strong>.</p>
+<p>When it comes to guitar tunings, Jack White mainly sticks to <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142229">standard blues tunings</a> for his guitar: Standard tuning, Open D tuning, and Open G tuning. He also dabbles with Drop D from time to time too. The vast, vast majority of The White Stripe’s most well-known songs are, however, recorded and played in <strong><a href="/guitar-tuning/" data-lasso-id="120972" target="_blank" rel="noopener noreferrer nofollow">standard tuning – EADGBE</a></strong>.</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>If you just want to learn and play White Stripes songs, however, just <a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221303">keep your guitar in standard tuning</a> –&nbsp;nearly all of his White Stripes era songs are in standard.</p>
+<p>If you just want to learn and play White Stripes songs, however, just <a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221303">keep your guitar in standard tuning</a> –&nbsp;nearly all of his White Stripes era songs are in standard.</p>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p>And like all classic rock bands, The Raconteurs predominantly play in standard tuning, so EADGBE. And the main reason for this is that A) Brendan Benson tends to play in standard, and so too does Jack White, and B) nearly all classic rock, from KISS to AC/DC, is in standard. Some bands tuned down half a step which gives the sound a slightly lower register – <strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" data-lasso-id="120973">Jimi Hendrix used this tuning</a></strong>, as did <strong><a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="120974">Kurt Cobain</a></strong> – but as far as I’m aware, all of The Raconteurs&#8217; songs are in standard tuning.</p>
+<p>And like all classic rock bands, The Raconteurs predominantly play in standard tuning, so EADGBE. And the main reason for this is that A) Brendan Benson tends to play in standard, and so too does Jack White, and B) nearly all classic rock, from KISS to AC/DC, is in standard. Some bands tuned down half a step which gives the sound a slightly lower register – <strong><a href="/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" data-lasso-id="120973">Jimi Hendrix used this tuning</a></strong>, as did <strong><a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="120974">Kurt Cobain</a></strong> – but as far as I’m aware, all of The Raconteurs&#8217; songs are in standard tuning.</p>
 
 
 
@@ -111,11 +111,11 @@ seo:
 
 
 
-<p>As noted in the introduction, Jack White tends to stick to three main guitar tunings: Standard Tuning, <a href="https://www.electrikjam.com/open-g-tuning-explained/" data-lasso-id="233903">Open D tuning, and Open G tuning</a>. Most of Jack’s material –&nbsp;solo or otherwise –&nbsp;is usually in standard tuning, so you don’t need to worry too much about Open D and Open G.</p>
+<p>As noted in the introduction, Jack White tends to stick to three main guitar tunings: Standard Tuning, <a href="/open-g-tuning-explained/" data-lasso-id="233903">Open D tuning, and Open G tuning</a>. Most of Jack’s material –&nbsp;solo or otherwise –&nbsp;is usually in standard tuning, so you don’t need to worry too much about Open D and Open G.</p>
 
 
 
-<p>Open D tuning is NOT the same as <strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="120975">Drop D tuning</a></strong>. This is important to remember. With Open D tuning, your low E string is lowered to D, your A string and D string stay the same, your G string is tuned F#, your B string drops to A, and your high E string to D.</p>
+<p>Open D tuning is NOT the same as <strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="120975">Drop D tuning</a></strong>. This is important to remember. With Open D tuning, your low E string is lowered to D, your A string and D string stay the same, your G string is tuned F#, your B string drops to A, and your high E string to D.</p>
 
 
 
@@ -123,9 +123,9 @@ seo:
 
 
 
-<p>To get the “bass sound” on Seven Nation Army, <strong><a href="https://www.electrikjam.com/recommends/digitech-whammy-pitch-shifting-guitar-effects-pedal/" data-lasso-id="120976">Jack uses a DigiTech Whammy</a></strong> that has an octave switch on it. When activated, the DigiTech Whammy will drop the signal a full octave which is what makes Jack’s guitar sound like a bass guitar in the intro and verses. In the choruses, he simply switches it back, and the guitar reverts to Open D tuning, completely changing the dynamics of his guitar tone.</p>
+<p>To get the “bass sound” on Seven Nation Army, <strong><a href="/recommends/digitech-whammy-pitch-shifting-guitar-effects-pedal/" data-lasso-id="120976">Jack uses a DigiTech Whammy</a></strong> that has an octave switch on it. When activated, the DigiTech Whammy will drop the signal a full octave which is what makes Jack’s guitar sound like a bass guitar in the intro and verses. In the choruses, he simply switches it back, and the guitar reverts to Open D tuning, completely changing the dynamics of his guitar tone.</p>
 
 
 
-<p>Jack also uses the DigiTech Whammy on other tunes too to create that bassier, weird guitar tone. A few obvious examples are The Hardest Button to Button and Blue Orchid. In order to play either of these tunes or Seven Nation Army, true to the record, <strong><a href="https://www.electrikjam.com/recommends/digitech-whammy-pitch-shifting-guitar-effects-pedal/" data-lasso-id="120977">you’ll need a DigiTech Whammy pedal.</a></strong> As pedals go, it is one of the most useful you can have on your pedalboard. And if Jack White’s a fan, you know it is well worth your time and money!</p>
+<p>Jack also uses the DigiTech Whammy on other tunes too to create that bassier, weird guitar tone. A few obvious examples are The Hardest Button to Button and Blue Orchid. In order to play either of these tunes or Seven Nation Army, true to the record, <strong><a href="/recommends/digitech-whammy-pitch-shifting-guitar-effects-pedal/" data-lasso-id="120977">you’ll need a DigiTech Whammy pedal.</a></strong> As pedals go, it is one of the most useful you can have on your pedalboard. And if Jack White’s a fan, you know it is well worth your time and money!</p>
 

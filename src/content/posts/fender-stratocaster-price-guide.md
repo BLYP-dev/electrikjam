@@ -98,11 +98,11 @@ seo:
 
 
 
-<p>The Standard – Made in Mexico (MIM) – line of its guitars was replaced with the new Player series and, as we noted inside our <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="218307">Fender Player Stratocaster review</a></strong>, the changes were significant, to say the least.</p>
+<p>The Standard – Made in Mexico (MIM) – line of its guitars was replaced with the new Player series and, as we noted inside our <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="218307">Fender Player Stratocaster review</a></strong>, the changes were significant, to say the least.</p>
 
 
 
-<p>To be frank, we literally couldn’t find any reason why anyone – pro or otherwise – would buy an American Fender over a <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-lasso-id="218308">Mexican-built Player series</a></strong>.</p>
+<p>To be frank, we literally couldn’t find any reason why anyone – pro or otherwise – would buy an American Fender over a <strong><a href="/fender-player-stratocaster-reviews/" data-lasso-id="218308">Mexican-built Player series</a></strong>.</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>For more information on pickup configuration, check out our <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-pickups-guide/" data-type="post" data-id="10892" data-lasso-id="218309">Fender Stratocaster Pickups Guide: SSS vs HSS</a></strong> – it covers everything you need to know. </p>
+<p>For more information on pickup configuration, check out our <strong><a href="/fender-player-stratocaster-pickups-guide/" data-type="post" data-id="10892" data-lasso-id="218309">Fender Stratocaster Pickups Guide: SSS vs HSS</a></strong> – it covers everything you need to know. </p>
 
 
 
@@ -248,5 +248,5 @@ seo:
 
 
 
-<p>And that is why <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="218310">we recommend the Fender Player Stratocaster</a></strong> to anyone that’ll listen. It is a phenomenal guitar that looks, sounds, and plays just as well its $2000+ American-made bigger brothers.</p>
+<p>And that is why <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="218310">we recommend the Fender Player Stratocaster</a></strong> to anyone that’ll listen. It is a phenomenal guitar that looks, sounds, and plays just as well its $2000+ American-made bigger brothers.</p>
 

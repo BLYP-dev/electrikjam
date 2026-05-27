@@ -82,7 +82,7 @@ seo:
 
 
 
-<p>So, yeah: <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="252352">if you thought Fender guitars couldn&#8217;t be used for metal</a></strong>, you&#8217;d be dead wrong. <a href="https://www.electrikjam.com/who-plays-fender-jazzmaster/" data-lasso-id="252798">Root has played custom Fender models</a> since day one with Slipknot. </p>
+<p>So, yeah: <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="252352">if you thought Fender guitars couldn&#8217;t be used for metal</a></strong>, you&#8217;d be dead wrong. <a href="/who-plays-fender-jazzmaster/" data-lasso-id="252798">Root has played custom Fender models</a> since day one with Slipknot. </p>
 
 
 
@@ -319,7 +319,7 @@ seo:
 
 
 
-<p>Jim Root continues to have a strong partnership with the brand, as evidenced by his multiple signature models. Charvel is owned by Fender, so, no Jim Root has NOT left Fender <strong><a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" data-lasso-id="252354">(unlike John Mayer). </a></strong></p>
+<p>Jim Root continues to have a strong partnership with the brand, as evidenced by his multiple signature models. Charvel is owned by Fender, so, no Jim Root has NOT left Fender <strong><a href="/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" data-lasso-id="252354">(unlike John Mayer). </a></strong></p>
 
 
 

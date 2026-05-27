@@ -48,19 +48,19 @@ seo:
 
 
 
-<p>So I looked up the <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="555">production notes</a> for the album.</p>
+<p>So I looked up the <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="555">production notes</a> for the album.</p>
 
 
 
-<ul class="wp-block-list"><li><strong><a class="rank-math-link" href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-lasso-id="556">RELATED: The Best Guitar Pedals of All Time</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong><a class="rank-math-link" href="/the-best-guitar-pedals-1968-2021/" data-lasso-id="556">RELATED: The Best Guitar Pedals of All Time</a></strong></li></ul>
 
 
 
-<p>Unfortunately, there isn&#8217;t much info about the solo, or the pedals used. I found an interview with<strong><a href="https://www.electrikjam.com/carstens-grace-creating-a-masterpiece-amplifier-with-billy-corgan-for-2020/" class="rank-math-link" data-lasso-id="557"> Billy Corgan</a></strong>, and he said he didn&#8217;t remember what was used for &#8220;Zero&#8221;, or the incredibly heavy bridge section of &#8220;Bullet With Butterfly Wings&#8221;. He had just put tons of pedal together, and played the take.</p>
+<p>Unfortunately, there isn&#8217;t much info about the solo, or the pedals used. I found an interview with<strong><a href="/carstens-grace-creating-a-masterpiece-amplifier-with-billy-corgan-for-2020/" class="rank-math-link" data-lasso-id="557"> Billy Corgan</a></strong>, and he said he didn&#8217;t remember what was used for &#8220;Zero&#8221;, or the incredibly heavy bridge section of &#8220;Bullet With Butterfly Wings&#8221;. He had just put tons of pedal together, and played the take.</p>
 
 
 
-<p>But it got me thinking about the weirdest <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231156">guitar pedals</a>, and how so many are useful to get an otherworldly sound. There is of course, a dark side to these weird pedals. So let&#8217;s explore both!</p>
+<p>But it got me thinking about the weirdest <a href="/gamma-guitar-pedals-review/" data-lasso-id="231156">guitar pedals</a>, and how so many are useful to get an otherworldly sound. There is of course, a dark side to these weird pedals. So let&#8217;s explore both!</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>Well, it certainly does classic fuzz tones. It has all the regular features that any <a href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="558">distortion/fuzz pedal</a> would have. There is a 3 band EQ section with a gain knob, and level mix. Seems pedestrian right?</p>
+<p>Well, it certainly does classic fuzz tones. It has all the regular features that any <a href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="558">distortion/fuzz pedal</a> would have. There is a 3 band EQ section with a gain knob, and level mix. Seems pedestrian right?</p>
 
 
 
@@ -206,7 +206,7 @@ seo:
 
 
 
-<p>The EHX Mainframe can do pristine distortion tones just fine, if that&#8217;s what you want. But it gets really interesting is when you bring the bitrate down to 16 bit, or even all the way down to 1 bit. This <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9526">essentially transforms your guitar</a> signal into an Atari.</p>
+<p>The EHX Mainframe can do pristine distortion tones just fine, if that&#8217;s what you want. But it gets really interesting is when you bring the bitrate down to 16 bit, or even all the way down to 1 bit. This <a href="/must-have-for-recording-guitar/" data-lasso-id="9526">essentially transforms your guitar</a> signal into an Atari.</p>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<p>If you&#8217;re looking for the weirdest <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="560">guitar pedals</a>, this is the weirdest. Just watch the video:</p>
+<p>If you&#8217;re looking for the weirdest <a href="/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="560">guitar pedals</a>, this is the weirdest. Just watch the video:</p>
 
 
 

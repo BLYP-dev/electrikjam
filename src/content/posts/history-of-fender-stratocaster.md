@@ -146,7 +146,7 @@ seo:
 
 
 
-<p>Modern Fender Strats now come with humbuckers, of course, in Fender&#8217;s HSS configuration. For more information on this, please check out the <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-pickups-guide/" data-type="post" data-id="10892" data-lasso-id="217933">differences between Fender&#8217;s HSS and SSS Pickup configurations. </a></strong></p>
+<p>Modern Fender Strats now come with humbuckers, of course, in Fender&#8217;s HSS configuration. For more information on this, please check out the <strong><a href="/fender-player-stratocaster-pickups-guide/" data-type="post" data-id="10892" data-lasso-id="217933">differences between Fender&#8217;s HSS and SSS Pickup configurations. </a></strong></p>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<p>And one of the most popular Strat models is <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217934">Fender’s new Player Stratocaster</a></strong> series which are cheaper than Made in America Strats but look, play, and sound just as good.</p>
+<p>And one of the most popular Strat models is <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217934">Fender’s new Player Stratocaster</a></strong> series which are cheaper than Made in America Strats but look, play, and sound just as good.</p>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png" alt="Fender-Player-Stratocaster-review" class="wp-image-10884" title="" srcset="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217935">The Beautiful &amp; Stunning Fender Player Stratocaster</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png" alt="Fender-Player-Stratocaster-review" class="wp-image-10884" title="" srcset="/wp-content/uploads/2023/02/Fender-Player-Stratocaster-1024x683.png 1024w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-600x400.png 600w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-300x200.png 300w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster-768x512.png 768w, /wp-content/uploads/2023/02/Fender-Player-Stratocaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217935">The Beautiful &amp; Stunning Fender Player Stratocaster</a></strong></figcaption></figure>
 
 
 
@@ -206,5 +206,5 @@ seo:
 
 
 
-<p>And my advice, to anyone, would be to ignore Made in America models and <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217936">go for a Player Series Strat</a></strong> – they look and play just as good and they&#8217;re A LOT cheaper!</p>
+<p>And my advice, to anyone, would be to ignore Made in America models and <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="217936">go for a Player Series Strat</a></strong> – they look and play just as good and they&#8217;re A LOT cheaper!</p>
 

@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>DGCFAD is an <a href="https://www.electrikjam.com/guitar-tuning/" data-lasso-id="1703">alternate tuning</a> you can use on your guitar that is a whole step down from EADGBE. It sounds heavier too which is great for rock, metal, and blues</strong></p>
+<p><strong>DGCFAD is an <a href="/guitar-tuning/" data-lasso-id="1703">alternate tuning</a> you can use on your guitar that is a whole step down from EADGBE. It sounds heavier too which is great for rock, metal, and blues</strong></p>
 
 
 
@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>Ever wondered why certain <strong><a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" data-lasso-id="1678">Metallica songs</a></strong> &#8211; songs like <strong><em>Seek and Destroy</em></strong>, for instance &#8211; sound WAY HEAVIER than others?&nbsp;</p>
+<p>Ever wondered why certain <strong><a href="/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" data-lasso-id="1678">Metallica songs</a></strong> &#8211; songs like <strong><em>Seek and Destroy</em></strong>, for instance &#8211; sound WAY HEAVIER than others?&nbsp;</p>
 
 
 
@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>This guitar tuning is known as <strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="1679">D Standard</a></strong>. </p>
+<p>This guitar tuning is known as <strong><a href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="1679">D Standard</a></strong>. </p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>This makes the overall sound of your guitar lower, darker, and, in the parlance of metal, heavier. This is why DGCFAD is so popular with metal bands like Metallica, <a href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2554">Mastodon</a>, GHOST, and plenty of others.&nbsp;</p>
+<p>This makes the overall sound of your guitar lower, darker, and, in the parlance of metal, heavier. This is why DGCFAD is so popular with metal bands like Metallica, <a href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2554">Mastodon</a>, GHOST, and plenty of others.&nbsp;</p>
 
 
 
@@ -67,11 +67,11 @@ seo:
 
 
 
-<p>The genius of DGCFAD is that the intervals between the notes of each string are kept intact, so all the <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196511">chords and scales</a>, and patterns you use in standard tuning work exactly the same when your guitar is tuned to DGCFAD.&nbsp;</p>
+<p>The genius of DGCFAD is that the intervals between the notes of each string are kept intact, so all the <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196511">chords and scales</a>, and patterns you use in standard tuning work exactly the same when your guitar is tuned to DGCFAD.&nbsp;</p>
 
 
 
-<p>DGCFAD <a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221311">works just the same as standard tuning</a>. You play <strong><a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-type="post" data-id="2151" data-lasso-id="1680">power chords the same, SUS chords the same</a></strong>, all your pentatonic patterns are the same. The only thing you have to remember is that the notes of the strings have changed; they’re now one step lower than they used to be.&nbsp;</p>
+<p>DGCFAD <a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221311">works just the same as standard tuning</a>. You play <strong><a href="/chord-voicing-extensions-for-metal/" data-type="post" data-id="2151" data-lasso-id="1680">power chords the same, SUS chords the same</a></strong>, all your pentatonic patterns are the same. The only thing you have to remember is that the notes of the strings have changed; they’re now one step lower than they used to be.&nbsp;</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>It’s <a href="https://www.electrikjam.com/what-guitar-tuning-do-ghost-use/" data-lasso-id="90470">pretty easy to tune your guitar down</a> to DGCFAD. If you have a tuner for your guitar or an app on your phone, simply switch it on, and start on your bottom string (the fat one). <strong>Tune it down to D</strong>.&nbsp;</p>
+<p>It’s <a href="/what-guitar-tuning-do-ghost-use/" data-lasso-id="90470">pretty easy to tune your guitar down</a> to DGCFAD. If you have a tuner for your guitar or an app on your phone, simply switch it on, and start on your bottom string (the fat one). <strong>Tune it down to D</strong>.&nbsp;</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>Run your pick through the <a href="https://www.electrikjam.com/best-strings-for-a-gibson-les-paul/" data-lasso-id="5804">strings</a>. Congrats, you’re now in DGCFAD tuning. It sounds better, right? Just like standard but with a much darker, heavier edge to it. This tuning is great for rock, metal, and blues. Or, if you have a lower vocal range or prefer singing slightly lower.&nbsp;</p>
+<p>Run your pick through the <a href="/best-strings-for-a-gibson-les-paul/" data-lasso-id="5804">strings</a>. Congrats, you’re now in DGCFAD tuning. It sounds better, right? Just like standard but with a much darker, heavier edge to it. This tuning is great for rock, metal, and blues. Or, if you have a lower vocal range or prefer singing slightly lower.&nbsp;</p>
 
 
 
@@ -99,19 +99,19 @@ seo:
 
 
 
-<p>You can play any song you know in standard tuning in <a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-lasso-id="86088">DGCFAD</a>. You’re just one step down, so <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142215">any song written in standard tuning</a> transposes down to DGCFAD. It’ll be in a different key, but it will still sound like that song, just a little heavier and darker.&nbsp;</p>
+<p>You can play any song you know in standard tuning in <a href="/bands-that-play-in-d-standard/" data-lasso-id="86088">DGCFAD</a>. You’re just one step down, so <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142215">any song written in standard tuning</a> transposes down to DGCFAD. It’ll be in a different key, but it will still sound like that song, just a little heavier and darker.&nbsp;</p>
 
 
 
-<p>When it comes to metal, <a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-lasso-id="9127">a lot of Mastodon stuff</a> is in DGCFAD. Metallica’s <strong>Seek And Destroy</strong> is perhaps its most popular song in DGCFAD. Another cool thing about DGCFAD tuning? You can play songs that are in <a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-lasso-id="12172">C Standard tuning</a> too. Ditto B and A tuning, although you’ll need a new set of strings for that.&nbsp;</p>
+<p>When it comes to metal, <a href="/what-guitars-do-mastodon-use/" data-lasso-id="9127">a lot of Mastodon stuff</a> is in DGCFAD. Metallica’s <strong>Seek And Destroy</strong> is perhaps its most popular song in DGCFAD. Another cool thing about DGCFAD tuning? You can play songs that are in <a href="/most-common-guitar-tunings/" data-lasso-id="12172">C Standard tuning</a> too. Ditto B and A tuning, although you’ll need a new set of strings for that.&nbsp;</p>
 
 
 
-<p>Again, it won’t sound the same as the record &#8211; <strong><a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="1681">C standard is A LOT lower</a></strong>, for instance &#8211; but it will sound similar, just slightly higher and in a different key. This is good if you like playing a lot of <strong><a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="1682">stoner/doom stuff</a></strong> but your guitar doesn’t like being tuned down too low.&nbsp;</p>
+<p>Again, it won’t sound the same as the record &#8211; <strong><a href="/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="1681">C standard is A LOT lower</a></strong>, for instance &#8211; but it will sound similar, just slightly higher and in a different key. This is good if you like playing a lot of <strong><a href="/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="1682">stoner/doom stuff</a></strong> but your guitar doesn’t like being tuned down too low.&nbsp;</p>
 
 
 
-<p>And one of the best riffs to learn in your new, lower tuning is Dragonaut by Sleep. Again, <strong><a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" data-lasso-id="1683">Matt Pike’s guitar</a></strong> is tuned down to C Standard. But you can play this <a href="https://www.electrikjam.com/every-time-i-die-guitar-tunings/" data-lasso-id="3081">tune in D Standard and it sounds more or less just as good; it’s not quite as heavy-sounding but it is good enough, especially if you don’t or cannot tune your guitar</a> down to C Standard.&nbsp;</p>
+<p>And one of the best riffs to learn in your new, lower tuning is Dragonaut by Sleep. Again, <strong><a href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" data-lasso-id="1683">Matt Pike’s guitar</a></strong> is tuned down to C Standard. But you can play this <a href="/every-time-i-die-guitar-tunings/" data-lasso-id="3081">tune in D Standard and it sounds more or less just as good; it’s not quite as heavy-sounding but it is good enough, especially if you don’t or cannot tune your guitar</a> down to C Standard.&nbsp;</p>
 
 
 

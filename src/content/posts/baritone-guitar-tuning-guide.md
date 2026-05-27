@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>If you’re looking for a new sound and you’ve already <strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="233914">messed around with alternate tunings</a></strong> and maybe 7 and 8-string guitars, perhaps it is time to try out a baritone guitar?</p>
+<p>If you’re looking for a new sound and you’ve already <strong><a href="/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="233914">messed around with alternate tunings</a></strong> and maybe 7 and 8-string guitars, perhaps it is time to try out a baritone guitar?</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="234000">The Best Baritone Guitars For Metal</a></strong></li>
+<li><strong><a href="/best-baritone-guitars-for-metal/" data-lasso-id="234000">The Best Baritone Guitars For Metal</a></strong></li>
 </ul>
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p>In this article, we&#8217;ll delve into the world of baritone guitar tuning, discussing its history, tuning methods, and frequently asked questions. By the end, you&#8217;ll be well-equipped to tackle this unique instrument and unleash your <a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238696">creativity in a whole new way</a>.</p>
+<p>In this article, we&#8217;ll delve into the world of baritone guitar tuning, discussing its history, tuning methods, and frequently asked questions. By the end, you&#8217;ll be well-equipped to tackle this unique instrument and unleash your <a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238696">creativity in a whole new way</a>.</p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-lasso-id="233915"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-1024x683.png" alt="baritone telecaster" class="wp-image-9379" title="" srcset="/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-1024x683.png 1024w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-600x400.png 600w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-300x200.png 300w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-768x512.png 768w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image aligncenter size-large"><a href="/squier-baritone-telecaster-custom-review/" data-lasso-id="233915"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-1024x683.png" alt="baritone telecaster" class="wp-image-9379" title="" srcset="/wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-1024x683.png 1024w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-600x400.png 600w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-300x200.png 300w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster-768x512.png 768w, /wp-content/uploads/2022/10/Squier-Classic-Vibe-Baritone-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<p>Typical baritone guitar tuning is very <strong><a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="234015">similar to using a 7 string guitar</a></strong>, since you have the low B string on a baritone. Some players that tried 7 string guitars, end up preferring a baritone guitar instead.</p>
+<p>Typical baritone guitar tuning is very <strong><a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="234015">similar to using a 7 string guitar</a></strong>, since you have the low B string on a baritone. Some players that tried 7 string guitars, end up preferring a baritone guitar instead.</p>
 
 
 
@@ -200,5 +200,5 @@ seo:
 
 
 
-<p>And the best part? You don&#8217;t even need to pay much for a quality one –&nbsp;<strong><a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" data-lasso-id="233916">this Squier Classic Vibe Baritone Telecaster Custom</a></strong> is utterly outstanding and it retails for hardly anything at all. Perfect for dipping your toes in the sultry waters of baritone guitars&#8230; </p>
+<p>And the best part? You don&#8217;t even need to pay much for a quality one –&nbsp;<strong><a href="/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" data-lasso-id="233916">this Squier Classic Vibe Baritone Telecaster Custom</a></strong> is utterly outstanding and it retails for hardly anything at all. Perfect for dipping your toes in the sultry waters of baritone guitars&#8230; </p>
 

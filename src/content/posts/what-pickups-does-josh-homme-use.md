@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>Josh Homme basically invented dessert, stoner rock with his first band KYUSS. KYUSS then split over “creative differences” and Homme formed Queens of The Stone Age, and then something rare and beautiful happened: lightning struck twice. And this really is a testament to just how good a musician Homme is – most players never manage “do it” twice. Even immortals like <strong><a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="88441">Jimmy Page.</a></strong></p>
+<p>Josh Homme basically invented dessert, stoner rock with his first band KYUSS. KYUSS then split over “creative differences” and Homme formed Queens of The Stone Age, and then something rare and beautiful happened: lightning struck twice. And this really is a testament to just how good a musician Homme is – most players never manage “do it” twice. Even immortals like <strong><a href="/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="88441">Jimmy Page.</a></strong></p>
 
 
 
-<p>Since the early 1990s, Homme has been one of the important, visionary songwriters working in rock music. He has a slew of classic albums under his belt – Rated R, Songs For The Deaf, and the self-titled QOTSA album – and is currently said to be working on a follow up to 2017’s Villains with ZZ Top’s Billy Gibbons, although the <strong><a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-type="post" data-id="6984" data-lasso-id="88442">new album’s release date</a></strong> is currently unknown.</p>
+<p>Since the early 1990s, Homme has been one of the important, visionary songwriters working in rock music. He has a slew of classic albums under his belt – Rated R, Songs For The Deaf, and the self-titled QOTSA album – and is currently said to be working on a follow up to 2017’s Villains with ZZ Top’s Billy Gibbons, although the <strong><a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-type="post" data-id="6984" data-lasso-id="88442">new album’s release date</a></strong> is currently unknown.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>In total, it is believed that Josh Homme owns and uses around 35 guitars, including acoustics from Martin and a slew of hardbody and semi-hollow electric guitars. He also owns a <strong><a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" data-lasso-id="88443">Fender Telecaster</a></strong> which he can be seen playing in Noisey’s Guitar Moves video and a Gibson Marauder. Save for the Tele, the vast majority of Homme’s guitars are, like his playing, eccentric, eclectic, and very unique.</p>
+<p>In total, it is believed that Josh Homme owns and uses around 35 guitars, including acoustics from Martin and a slew of hardbody and semi-hollow electric guitars. He also owns a <strong><a href="/fender/" data-type="page" data-id="3818" data-lasso-id="88443">Fender Telecaster</a></strong> which he can be seen playing in Noisey’s Guitar Moves video and a Gibson Marauder. Save for the Tele, the vast majority of Homme’s guitars are, like his playing, eccentric, eclectic, and very unique.</p>
 
 
 
@@ -85,7 +85,7 @@ seo:
 
 
 
-<p>As for the <strong>Hot Rails by Seymour Duncan</strong>, they’re single coil ‘rails’ sized humbuckers designed to deliver high output signals, pack in loads of midrange – ideal when you’re tuned down to C Standard – and a very aggressive crunch. They’re also brilliant for lead and solo work. Again, we’re not sure which guitar Homme uses these in; most likely, <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="88444">it’d be his Fender Telecaster</a></strong> – but that’s just my best guess.</p>
+<p>As for the <strong>Hot Rails by Seymour Duncan</strong>, they’re single coil ‘rails’ sized humbuckers designed to deliver high output signals, pack in loads of midrange – ideal when you’re tuned down to C Standard – and a very aggressive crunch. They’re also brilliant for lead and solo work. Again, we’re not sure which guitar Homme uses these in; most likely, <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="88444">it’d be his Fender Telecaster</a></strong> – but that’s just my best guess.</p>
 
 
 
@@ -105,5 +105,5 @@ seo:
 
 
 
-<p>But it is his riffs and ear for odd chord voicings and completely unique lead guitar parts that make <a href="https://www.electrikjam.com/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91577">Homme’s sound</a> so, well… Josh Homme. There are hundreds of amazing guitars working today, but there are only a select few you can instantly recognize from just a few seconds of their playing. Homme is one of these guys; he is now very much one of the greats which is why I cannot wait to hear what he does next on the as-yet-unannounced <strong><a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-type="post" data-id="6984" data-lasso-id="88445">new Queens of The Stone Age album</a></strong>.</p>
+<p>But it is his riffs and ear for odd chord voicings and completely unique lead guitar parts that make <a href="/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91577">Homme’s sound</a> so, well… Josh Homme. There are hundreds of amazing guitars working today, but there are only a select few you can instantly recognize from just a few seconds of their playing. Homme is one of these guys; he is now very much one of the greats which is why I cannot wait to hear what he does next on the as-yet-unannounced <strong><a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-type="post" data-id="6984" data-lasso-id="88445">new Queens of The Stone Age album</a></strong>.</p>
 

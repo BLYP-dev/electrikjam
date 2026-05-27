@@ -94,11 +94,11 @@ seo:
 
 
 
-<p>Life is stressful enough without stressing yourself out with your hobbies. Some people learn the <a data-lasso-id="102913" href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-type="post" data-id="6946" target="_blank" rel="noopener"><strong>basics</strong></a>, and enjoy themselves just fine. </p>
+<p>Life is stressful enough without stressing yourself out with your hobbies. Some people learn the <a data-lasso-id="102913" href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-type="post" data-id="6946" target="_blank" rel="noopener"><strong>basics</strong></a>, and enjoy themselves just fine. </p>
 
 
 
-<p>Some players find themselves at an intermediate point, knowing <a data-lasso-id="102914" href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener"><strong>some of the notes</strong></a>, but never really progressing from there. </p>
+<p>Some players find themselves at an intermediate point, knowing <a data-lasso-id="102914" href="/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener"><strong>some of the notes</strong></a>, but never really progressing from there. </p>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<p>Musicians think differently, and see more of the <em>whole picture</em> by using things like music theory. Someone like <strong>Hans Zimmer</strong> is a guitar player at heart, but he composes full movie scores as a <em>musician</em>, and he has written some of <strong><a href="https://www.electrikjam.com/guitar-chord-progressions-guide/" data-lasso-id="250206">the most iconic chord progressions of all time</a></strong>. </p>
+<p>Musicians think differently, and see more of the <em>whole picture</em> by using things like music theory. Someone like <strong>Hans Zimmer</strong> is a guitar player at heart, but he composes full movie scores as a <em>musician</em>, and he has written some of <strong><a href="/guitar-chord-progressions-guide/" data-lasso-id="250206">the most iconic chord progressions of all time</a></strong>. </p>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<p>Before we start, there is a huge misunderstanding when it comes to <a data-lasso-id="127898" href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/">guitarists and theory</a>. Some <a data-lasso-id="216524" href="https://www.electrikjam.com/do-guitarists-know-every-scale/">guitarists think that knowing</a> theory will harm their creativity in some way. </p>
+<p>Before we start, there is a huge misunderstanding when it comes to <a data-lasso-id="127898" href="/theory-for-guitarists-the-minor-scale/">guitarists and theory</a>. Some <a data-lasso-id="216524" href="/do-guitarists-know-every-scale/">guitarists think that knowing</a> theory will harm their creativity in some way. </p>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<p>Understanding music theory can lead to all kinds of things, but mostly it will help you <a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238693">write better songs</a>, and understand why you wrote it! I&#8217;m sure that if you&#8217;re a guitar player, you have probably written some cool riffs. Wouldn&#8217;t it be good to understand what makes them work so well? Or maybe you have a favorite song to play on guitar, and with music theory you can break down why that song is so much fun to play. Beginner music theory is like being a music detective, picking out clues to the bigger picture.</p>
+<p>Understanding music theory can lead to all kinds of things, but mostly it will help you <a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238693">write better songs</a>, and understand why you wrote it! I&#8217;m sure that if you&#8217;re a guitar player, you have probably written some cool riffs. Wouldn&#8217;t it be good to understand what makes them work so well? Or maybe you have a favorite song to play on guitar, and with music theory you can break down why that song is so much fun to play. Beginner music theory is like being a music detective, picking out clues to the bigger picture.</p>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<p>Melody is best described as a series of notes that sticks out singularly, from the rest of the music. When you listen to music, you might focus on other things like the chord progressions or <a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104741">drum beat</a>. But the main thing that you probably pay attention to is the vocals or guitar solo. That&#8217;s because these are the easiest ways to convey melody in a song. The &#8220;hook&#8221; of a song is usually the chorus, or a repeating part of a song that is<em> infectious</em>. It is the part of the song that makes you remember it, and makes it unique.</p>
+<p>Melody is best described as a series of notes that sticks out singularly, from the rest of the music. When you listen to music, you might focus on other things like the chord progressions or <a href="/ezdrummer-2-worth-it/" data-lasso-id="104741">drum beat</a>. But the main thing that you probably pay attention to is the vocals or guitar solo. That&#8217;s because these are the easiest ways to convey melody in a song. The &#8220;hook&#8221; of a song is usually the chorus, or a repeating part of a song that is<em> infectious</em>. It is the part of the song that makes you remember it, and makes it unique.</p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<p>Melody is the most important part of beginner music theory, but its also the hardest the really master. Writing a great melody that will be remembered by people, is the hardest part of songwriting. Some people can just write a great melody, <a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-lasso-id="106856">like  Kurt Cobain</a>. He wrote complicated, but memorable melodies without knowing beginner music theory. He just knew the right notes to hit, by instinct alone, because he had an ear for melody. Unfortunately most of us have to work at it!</p>
+<p>Melody is the most important part of beginner music theory, but its also the hardest the really master. Writing a great melody that will be remembered by people, is the hardest part of songwriting. Some people can just write a great melody, <a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-lasso-id="106856">like  Kurt Cobain</a>. He wrote complicated, but memorable melodies without knowing beginner music theory. He just knew the right notes to hit, by instinct alone, because he had an ear for melody. Unfortunately most of us have to work at it!</p>
 
 
 
@@ -278,7 +278,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="120213">The <strong>Dominant </strong>chords are what make the chord progression</a> feel &#8220;tense&#8221; or dramatic and are usually opposing to the Tonic. In blues music and rock music the Dominant is what makes a song have its signature sound. Jimi Hendrix&#8217;s &#8220;Red House&#8221; is a <strong>I IV V</strong> blues pattern, ending with the Dominant chord. This is why the <strong>I IV V</strong> progression is so popular, because it takes from all three categories of harmony. let&#8217;s take a look at what I mean, by <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246489">looking at the fretboard</a> with the <strong>Tonic of C </strong>but replacing the notes with the harmony numbers:</p>
+<p><a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="120213">The <strong>Dominant </strong>chords are what make the chord progression</a> feel &#8220;tense&#8221; or dramatic and are usually opposing to the Tonic. In blues music and rock music the Dominant is what makes a song have its signature sound. Jimi Hendrix&#8217;s &#8220;Red House&#8221; is a <strong>I IV V</strong> blues pattern, ending with the Dominant chord. This is why the <strong>I IV V</strong> progression is so popular, because it takes from all three categories of harmony. let&#8217;s take a look at what I mean, by <a href="/parts-of-an-electric-guitar/" data-lasso-id="246489">looking at the fretboard</a> with the <strong>Tonic of C </strong>but replacing the notes with the harmony numbers:</p>
 
 
 
@@ -318,7 +318,7 @@ seo:
 
 
 
-<p>You have more than likely heard about the circle of fifths at some point whether in a lesson, or just in passing. The circle of fifths is a common principle in beginner <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125933">music theory for guitarists</a>. It is a way to visualize and organize the 12 keys of music in intervals of fifths. Each key has 7 notes that work well with it in a scale, up to the octave note of the <strong>Tonic</strong>.</p>
+<p>You have more than likely heard about the circle of fifths at some point whether in a lesson, or just in passing. The circle of fifths is a common principle in beginner <a href="/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125933">music theory for guitarists</a>. It is a way to visualize and organize the 12 keys of music in intervals of fifths. Each key has 7 notes that work well with it in a scale, up to the octave note of the <strong>Tonic</strong>.</p>
 
 
 
@@ -374,7 +374,7 @@ seo:
 
 
 
-<p>You can write the coolest harmony and chord structure, with an amazing melody&#8230;but <strong>Rhythm</strong> is what holds it all together! The thing about rhythm, is it can be as simple as 4/4 time&#8230;or you can get into heavy syncopation like <a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-type="post" data-id="7528" target="_blank" rel="noopener" data-lasso-id="102916"><strong>Meshuggah</strong></a> in 4/4 time. There are polyrhythmic concepts too, that add different meters in a song. But at the core, it can be broken down a <em>lot easier</em> than that.</p>
+<p>You can write the coolest harmony and chord structure, with an amazing melody&#8230;but <strong>Rhythm</strong> is what holds it all together! The thing about rhythm, is it can be as simple as 4/4 time&#8230;or you can get into heavy syncopation like <a href="/meshuggah-immutable-review/" data-type="post" data-id="7528" target="_blank" rel="noopener" data-lasso-id="102916"><strong>Meshuggah</strong></a> in 4/4 time. There are polyrhythmic concepts too, that add different meters in a song. But at the core, it can be broken down a <em>lot easier</em> than that.</p>
 
 
 
@@ -458,7 +458,7 @@ seo:
 
 
 
-<p>In the next article, we will talk about how to read music. This will put all of these concepts into action, and make things <em>really</em> connect. Hopefully you see that as a guitarist, music theory isn&#8217;t going to <em>hurt your</em> <em>creativity</em>. Its just a tool, and the only thing that can put a damper on your creativity is <em>you</em>. Understanding how music works, and training your ear is just another skill that you can add to your toolbox. It really is no different than choosing a <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" target="_blank" rel="noopener" data-lasso-id="102917"><strong>guitar</strong></a>, or <a href="https://www.electrikjam.com/orange-crush-amp/" data-type="post" data-id="7475" target="_blank" rel="noopener" data-lasso-id="102918"><strong>amp</strong></a> to help build your style and tone.</p>
+<p>In the next article, we will talk about how to read music. This will put all of these concepts into action, and make things <em>really</em> connect. Hopefully you see that as a guitarist, music theory isn&#8217;t going to <em>hurt your</em> <em>creativity</em>. Its just a tool, and the only thing that can put a damper on your creativity is <em>you</em>. Understanding how music works, and training your ear is just another skill that you can add to your toolbox. It really is no different than choosing a <a href="/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" target="_blank" rel="noopener" data-lasso-id="102917"><strong>guitar</strong></a>, or <a href="/orange-crush-amp/" data-type="post" data-id="7475" target="_blank" rel="noopener" data-lasso-id="102918"><strong>amp</strong></a> to help build your style and tone.</p>
 
 
 

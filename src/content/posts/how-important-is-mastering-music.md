@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>I spent 20+ years learning how to master, I do it as a side-business, professionally, alongside running this site. If you want to know my exact process, it&#8217;s all laid out inside my <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/">Mastering Music 101 Framework.</a></strong> </p>
+<p>I spent 20+ years learning how to master, I do it as a side-business, professionally, alongside running this site. If you want to know my exact process, it&#8217;s all laid out inside my <strong><a href="/product/mastering-101-the-complete-beginner-framework/">Mastering Music 101 Framework.</a></strong> </p>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<p>Our <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/">Mastering 101: The Complete Beginner&#8217;s Framework</a></strong> is built exactly for this — 20+ years of mastering knowledge condensed into 50 practical, actionable pages, with no paid tools required. It takes you through the entire home mastering process step by step, from signal chain setup to final export.</p>
+<p>Our <strong><a href="/product/mastering-101-the-complete-beginner-framework/">Mastering 101: The Complete Beginner&#8217;s Framework</a></strong> is built exactly for this — 20+ years of mastering knowledge condensed into 50 practical, actionable pages, with no paid tools required. It takes you through the entire home mastering process step by step, from signal chain setup to final export.</p>
 
 
 
@@ -169,6 +169,6 @@ seo:
 
 
 
-<p>Learn how to do it at home, this week for less than the cost of a McDonald&#8217;s, a beer, and a pack of smokes with my <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/">Music Mastering 101 Framework</a></strong>. </p>
+<p>Learn how to do it at home, this week for less than the cost of a McDonald&#8217;s, a beer, and a pack of smokes with my <strong><a href="/product/mastering-101-the-complete-beginner-framework/">Music Mastering 101 Framework</a></strong>. </p>
 </blockquote>
 

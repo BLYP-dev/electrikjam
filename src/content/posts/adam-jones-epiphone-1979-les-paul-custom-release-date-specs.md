@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>As expected, the Instagram post reveals a few details about Adam Jones’ incoming Epiphone Signature model. It’ll be closely based on his <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195399">1979 Gibson Les Paul Custom in Silverburst</a> which means it will almost certainly run the same pickups as Adam runs on his Gibson model, a modern Epiphone headstock, TOM/Stop-Tail, and custom style inlay blocks.</p>
+<p>As expected, the Instagram post reveals a few details about Adam Jones’ incoming Epiphone Signature model. It’ll be closely based on his <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195399">1979 Gibson Les Paul Custom in Silverburst</a> which means it will almost certainly run the same pickups as Adam runs on his Gibson model, a modern Epiphone headstock, TOM/Stop-Tail, and custom style inlay blocks.</p>
 
 
 
@@ -58,7 +58,7 @@ seo:
 
 
 
-<p>It’s been a big month already for Epiphone, what with the release of Matt Heafy’s new Origins model – you can check out <strong><a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" data-lasso-id="132437">our review of Mat’s Origins Epiphone Les Paul</a></strong> right now for more details. But the release of an Adam Jones Epiphone model would be HUGE, dwarfing pretty much everything else the company will do inside the next 12 months. The only question now is how much will the Adam Jones Epiphone Signature model cost? My best guess? Well over $1200 – probably close to $1500.</p>
+<p>It’s been a big month already for Epiphone, what with the release of Matt Heafy’s new Origins model – you can check out <strong><a href="/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" data-lasso-id="132437">our review of Mat’s Origins Epiphone Les Paul</a></strong> right now for more details. But the release of an Adam Jones Epiphone model would be HUGE, dwarfing pretty much everything else the company will do inside the next 12 months. The only question now is how much will the Adam Jones Epiphone Signature model cost? My best guess? Well over $1200 – probably close to $1500.</p>
 
 
 
@@ -70,7 +70,7 @@ seo:
 
 
 
-<p>What does this mean? Well, if Adam’s most recent <a data-lasso-id="1362" href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/">Gibson Les Paul signature model</a>, the silverburst 1979 Les Paul Custom, was a little too pricey for you, there could be an equally good alternative on its way later this year.</p>
+<p>What does this mean? Well, if Adam’s most recent <a data-lasso-id="1362" href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/">Gibson Les Paul signature model</a>, the silverburst 1979 Les Paul Custom, was a little too pricey for you, there could be an equally good alternative on its way later this year.</p>
 
 
 
@@ -82,7 +82,7 @@ seo:
 
 
 
-<p>The first option, the good one, is that Adam is working on an honest-to-goodness <strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2586">Epiphone</a></strong> version of his amazing 1979 Les Paul Custom.</p>
+<p>The first option, the good one, is that Adam is working on an honest-to-goodness <strong><a href="/epiphone-guitars/" data-lasso-id="2586">Epiphone</a></strong> version of his amazing 1979 Les Paul Custom.</p>
 
 
 
@@ -90,27 +90,27 @@ seo:
 
 
 
-<p>In the Instagram post, Adam simply said: “more prototypes” –&nbsp;indicating that work is indeed underway on an <a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-lasso-id="1364">Epiphone version of his signature 1979 Gibson Les Paul Custom</a>.</p>
+<p>In the Instagram post, Adam simply said: “more prototypes” –&nbsp;indicating that work is indeed underway on an <a href="/gibson-vs-epiphone-in-2021/" data-lasso-id="1364">Epiphone version of his signature 1979 Gibson Les Paul Custom</a>.</p>
 
 
 
-<p>And this has got me a little hot under the collar. I love TOOL, I love Adam, and <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="1365">I love Les Pauls</a></strong>. But, alas, I cannot afford Gibson money. With an Epiphone model, however, I could potentially stretch it.</p>
+<p>And this has got me a little hot under the collar. I love TOOL, I love Adam, and <strong><a href="/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="1365">I love Les Pauls</a></strong>. But, alas, I cannot afford Gibson money. With an Epiphone model, however, I could potentially stretch it.</p>
 
 
 
-<p>And if <strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="1366">Epiphone’s 2020 and 2021 output</a></strong> are anything to go by, the 1979 Epiphone Les Paul Custom (in Adam’s signature Silverburst) will have much the same spec and components as the Gibson model, but retail for considerably less.</p>
+<p>And if <strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="1366">Epiphone’s 2020 and 2021 output</a></strong> are anything to go by, the 1979 Epiphone Les Paul Custom (in Adam’s signature Silverburst) will have much the same spec and components as the Gibson model, but retail for considerably less.</p>
 
 
 
-<p><strong>RELATED: <a href="https://www.electrikjam.com/gibson-vs-epiphone-2021-which-is-best/" class="rank-math-link" data-lasso-id="1367">Gibson vs Epiphone: What&#8217;s The Difference? </a></strong></p>
+<p><strong>RELATED: <a href="/gibson-vs-epiphone-2021-which-is-best/" class="rank-math-link" data-lasso-id="1367">Gibson vs Epiphone: What&#8217;s The Difference? </a></strong></p>
 
 
 
-<p>The “other” less-good option is that Adam is simply releasing a <strong><a href="https://www.electrikjam.com/best-cases-for-epiphone-les-paul/" class="rank-math-link" data-lasso-id="1368">1979-branded guitar case</a></strong>, so you can pretend you have a really expensive guitar. This latter option isn’t likely, however –&nbsp;an Epiphone version, aimed at the mass market, makes way more sense both fiscally and from a marketing perspective.</p>
+<p>The “other” less-good option is that Adam is simply releasing a <strong><a href="/best-cases-for-epiphone-les-paul/" class="rank-math-link" data-lasso-id="1368">1979-branded guitar case</a></strong>, so you can pretend you have a really expensive guitar. This latter option isn’t likely, however –&nbsp;an Epiphone version, aimed at the mass market, makes way more sense both fiscally and from a marketing perspective.</p>
 
 
 
-<p>If this <a href="https://www.electrikjam.com/are-indio-guitars-legit/" data-lasso-id="19077">guitar is legit</a>, which I’m assuming it is –&nbsp;why else would Adam tease it? –&nbsp;then I’d expect much the same hardware as his Gibson model; that means <strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" class="rank-math-link" data-lasso-id="1369">Seymour Duncan pickups</a></strong>, the same finish (more or less), and largely similar electronics.</p>
+<p>If this <a href="/are-indio-guitars-legit/" data-lasso-id="19077">guitar is legit</a>, which I’m assuming it is –&nbsp;why else would Adam tease it? –&nbsp;then I’d expect much the same hardware as his Gibson model; that means <strong><a href="/humbuckers-vs-single-coil-pickups/" class="rank-math-link" data-lasso-id="1369">Seymour Duncan pickups</a></strong>, the same finish (more or less), and largely similar electronics.</p>
 
 
 
@@ -118,15 +118,15 @@ seo:
 
 
 
-<p>The next logical question is will Adam’s signature 1979 <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17473">Epiphone Les Paul</a> be a limited edition run? It very well could be: Epiphone knows how well received the Gibson model was, so it stands to reason this model will do similar or, more likely, even better numbers.</p>
+<p>The next logical question is will Adam’s signature 1979 <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17473">Epiphone Les Paul</a> be a limited edition run? It very well could be: Epiphone knows how well received the Gibson model was, so it stands to reason this model will do similar or, more likely, even better numbers.</p>
 
 
 
-<p>As for release dates, nothing has been confirmed about when you’ll be able to buy <a href="https://www.electrikjam.com/what-pickups-does-adam-jones-use/" data-lasso-id="9569">Adam Jones’</a> signature 1979 Epiphone Les Paul Custom, although the fact that he has teased it, most likely with the permission of Epiphone, indicates a launch and release date cannot be too far away.</p>
+<p>As for release dates, nothing has been confirmed about when you’ll be able to buy <a href="/what-pickups-does-adam-jones-use/" data-lasso-id="9569">Adam Jones’</a> signature 1979 Epiphone Les Paul Custom, although the fact that he has teased it, most likely with the permission of Epiphone, indicates a launch and release date cannot be too far away.</p>
 
 
 
-<p><strong>I’d expect to see Adam’s signature <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8796">Epiphone Les Paul</a> released within</strong> the next couple of months. How much will Adam Jones’ <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8474">Epiphone Les Paul</a> Custom cost? That’s the million-dollar question. My guess? $1200 to $1600.</p>
+<p><strong>I’d expect to see Adam’s signature <a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8796">Epiphone Les Paul</a> released within</strong> the next couple of months. How much will Adam Jones’ <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8474">Epiphone Les Paul</a> Custom cost? That’s the million-dollar question. My guess? $1200 to $1600.</p>
 
 
 

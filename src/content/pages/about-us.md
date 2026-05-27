@@ -32,7 +32,7 @@ seo:
 
 
 
-<p>Need advice on certain guitar styles? Want to know what the best picks are for certain styles of guitar playing? Our Tutorials section is where we store the collected wisdom of our team. Inside, you’ll find guides on everything from <a data-lasso-id="2" href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/"><strong>tuning your guitar</strong></a> to installing new pick-ups and everything else in between.</p>
+<p>Need advice on certain guitar styles? Want to know what the best picks are for certain styles of guitar playing? Our Tutorials section is where we store the collected wisdom of our team. Inside, you’ll find guides on everything from <a data-lasso-id="2" href="/dgcfad-the-guitar-tuning-of-the-gods/"><strong>tuning your guitar</strong></a> to installing new pick-ups and everything else in between.</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p>Pretty simple. Over the course of the past 25+ years, our team has extensive experience with thousands of items related to guitars –&nbsp;from amps to<strong> <a data-lasso-id="3" href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/">pedals</a>,</strong> as well as recording equipment and software.</p>
+<p>Pretty simple. Over the course of the past 25+ years, our team has extensive experience with thousands of items related to guitars –&nbsp;from amps to<strong> <a data-lasso-id="3" href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/">pedals</a>,</strong> as well as recording equipment and software.</p>
 
 
 

@@ -49,7 +49,7 @@ seo:
 
 
 
-<p>Last week we got to take a look at the brand new <a href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="84682"><strong>Line 6 Catalyst 100 </strong></a>amplifier. At first, I wanted to do a direct comparison with the<a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="84683"> <strong>BOSS Katana</strong></a>, because<a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="84684"><strong> Line 6</strong> </a>isn&#8217;t fooling anyone here. Even the<strong> names</strong> have the same alliteration, and there is no denying that Line 6 took some aesthetic design notes from the Katana. But instead of making last week&#8217;s article a &#8220;Line 6 Catalyst VS <a href="https://www.electrikjam.com/boss-katana-go-review/" data-lasso-id="262748">BOSS Katana&#8221;</a> type of article, I stayed neutral and reviewed the amp alone.</p>
+<p>Last week we got to take a look at the brand new <a href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="84682"><strong>Line 6 Catalyst 100 </strong></a>amplifier. At first, I wanted to do a direct comparison with the<a href="/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="84683"> <strong>BOSS Katana</strong></a>, because<a href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="84684"><strong> Line 6</strong> </a>isn&#8217;t fooling anyone here. Even the<strong> names</strong> have the same alliteration, and there is no denying that Line 6 took some aesthetic design notes from the Katana. But instead of making last week&#8217;s article a &#8220;Line 6 Catalyst VS <a href="/boss-katana-go-review/" data-lasso-id="262748">BOSS Katana&#8221;</a> type of article, I stayed neutral and reviewed the amp alone.</p>
 
 
 
@@ -61,7 +61,7 @@ seo:
 
 
 
-<p>Over the weekend, I spent time with both amps at my local affiliate store, and I did all of these comparisons side by side. To eliminate any variables I decided to bring a guitar that I know really well, that has a lot of tonal options. I used my <strong><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="84685">Schecter NJ HSS</a> </strong>to test both amps since it has single coils, and a humbucker.</p>
+<p>Over the weekend, I spent time with both amps at my local affiliate store, and I did all of these comparisons side by side. To eliminate any variables I decided to bring a guitar that I know really well, that has a lot of tonal options. I used my <strong><a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="84685">Schecter NJ HSS</a> </strong>to test both amps since it has single coils, and a humbucker.</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>Both amps also have a similar cabinet design, with an open back. This open back feature has always been a favorite for me with <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="84686"><strong>solid state</strong></a> amps. It seems to help with the bass response for me, as there is a place for the air you&#8217;re pushing to be released. Some people prefer closed back cabinets, and I think that works with dedicated speaker cabs on <strong>tube amps</strong>. But<em> not </em>with a solid state combo.</p>
+<p>Both amps also have a similar cabinet design, with an open back. This open back feature has always been a favorite for me with <a href="/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="84686"><strong>solid state</strong></a> amps. It seems to help with the bass response for me, as there is a place for the air you&#8217;re pushing to be released. Some people prefer closed back cabinets, and I think that works with dedicated speaker cabs on <strong>tube amps</strong>. But<em> not </em>with a solid state combo.</p>
 
 
 
@@ -153,7 +153,7 @@ seo:
 
 
 
-<p>This is the hardest part to compare when it comes to the Line 6 Catalyst VS BOSS Katana, because the Line 6 has more amps to choose from at first glance. But the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-lasso-id="195469">BOSS Katana</a> added the &#8220;Variation&#8221; button for the MKII series, so technically you have 8 different models. We are taking the &#8220;Acoustic&#8221; setting <em>out of the comparison</em>, because we are using an <strong>electric guitar</strong>. So Line 6 has 6 different amps, and BOSS has 8 to choose from, technically.</p>
+<p>This is the hardest part to compare when it comes to the Line 6 Catalyst VS BOSS Katana, because the Line 6 has more amps to choose from at first glance. But the <a href="/boss-katana-100-mkii-review/" data-lasso-id="195469">BOSS Katana</a> added the &#8220;Variation&#8221; button for the MKII series, so technically you have 8 different models. We are taking the &#8220;Acoustic&#8221; setting <em>out of the comparison</em>, because we are using an <strong>electric guitar</strong>. So Line 6 has 6 different amps, and BOSS has 8 to choose from, technically.</p>
 
 
 
@@ -161,11 +161,11 @@ seo:
 
 
 
-<p><strong>Clean Setting:</strong> The Line 6 Catalyst has an pretty great clean tone that is obviously built around a Fender Twin, or similar clean amp with<strong> massive</strong> headroom. This is a great way to start building a tone because the Clean setting is pretty basic. I think this is totally on purpose, so you can color this channel with effects from external pedals. Since you can also use the Catalyst with pedals, or something like the<strong> <a href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener" data-lasso-id="84689">HX Stomp</a></strong>. In fact, this is encouraged!</p>
+<p><strong>Clean Setting:</strong> The Line 6 Catalyst has an pretty great clean tone that is obviously built around a Fender Twin, or similar clean amp with<strong> massive</strong> headroom. This is a great way to start building a tone because the Clean setting is pretty basic. I think this is totally on purpose, so you can color this channel with effects from external pedals. Since you can also use the Catalyst with pedals, or something like the<strong> <a href="/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener" data-lasso-id="84689">HX Stomp</a></strong>. In fact, this is encouraged!</p>
 
 
 
-<p>The Line 6 Catalyst is a perfect <a href="https://www.electrikjam.com/gamma-g50-amplifier-review/" data-lasso-id="232769">pedal platform</a> with this channel. So I don&#8217;t really find the channel on its own very interesting, but you can surely get by with this as a clean tone for recording and live purposes. The massive amount of headroom allows you to have tons of volume without the signal clipping. The Clean setting lacks a little bit of character, but I think that is intentional.</p>
+<p>The Line 6 Catalyst is a perfect <a href="/gamma-g50-amplifier-review/" data-lasso-id="232769">pedal platform</a> with this channel. So I don&#8217;t really find the channel on its own very interesting, but you can surely get by with this as a clean tone for recording and live purposes. The massive amount of headroom allows you to have tons of volume without the signal clipping. The Clean setting lacks a little bit of character, but I think that is intentional.</p>
 
 
 
@@ -185,7 +185,7 @@ seo:
 
 
 
-<p>The Catalyst Crunch reacts really well to volume controls on your guitar, as well as tone. You don&#8217;t lose any playing dynamics at all when you lower the volume on the guitar. So it acts very much like a<a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="84690"><strong> tube amp</strong></a> in response. Line 6 has nailed this for a long time, and even the POD HD series responded well to dynamics. This setting is also harmonically rich when you play big, <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196550">open chords</a>. Each note rings out very well, and there is some<em> great sustain</em> with humbuckers.</p>
+<p>The Catalyst Crunch reacts really well to volume controls on your guitar, as well as tone. You don&#8217;t lose any playing dynamics at all when you lower the volume on the guitar. So it acts very much like a<a href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="84690"><strong> tube amp</strong></a> in response. Line 6 has nailed this for a long time, and even the POD HD series responded well to dynamics. This setting is also harmonically rich when you play big, <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196550">open chords</a>. Each note rings out very well, and there is some<em> great sustain</em> with humbuckers.</p>
 
 
 
@@ -213,7 +213,7 @@ seo:
 
 
 
-<p>This is a tough call for me, so it deserves its own section in the Line 6 Catalyst VS BOSS Katana comparison we are doing today. Line 6 is known for making some of the best high gain models on the planet with the <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="84691"><strong>Helix</strong></a> products. The Catalyst takes all of the great high gain tones and blends them together, while the BOSS Katana has two different options for high gain. <strong>For this test, changing the knob settings was necessary.</strong></p>
+<p>This is a tough call for me, so it deserves its own section in the Line 6 Catalyst VS BOSS Katana comparison we are doing today. Line 6 is known for making some of the best high gain models on the planet with the <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="84691"><strong>Helix</strong></a> products. The Catalyst takes all of the great high gain tones and blends them together, while the BOSS Katana has two different options for high gain. <strong>For this test, changing the knob settings was necessary.</strong></p>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<p>I feel like both amps are going to be for different types of players. Line 6 offers more options for clean and medium gain tones. For example, the Chime channel on the Catalyst is very much like a VOX AC15, and this is not really a <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140946">tone that is immediately available on the BOSS Katana</a>. Sure, the BOSS can dial in something similar, but it doesn&#8217;t have the same dedicated setting. The Catalyst has several options for clean to medium gain.</p>
+<p>I feel like both amps are going to be for different types of players. Line 6 offers more options for clean and medium gain tones. For example, the Chime channel on the Catalyst is very much like a VOX AC15, and this is not really a <a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140946">tone that is immediately available on the BOSS Katana</a>. Sure, the BOSS can dial in something similar, but it doesn&#8217;t have the same dedicated setting. The Catalyst has several options for clean to medium gain.</p>
 
 
 
@@ -261,7 +261,7 @@ seo:
 
 
 
-<p>The Catalyst has more of a &#8220;<a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" target="_blank" rel="noopener" data-lasso-id="84692"><strong>do it all</strong></a>&#8221; kind of appeal. We talk about &#8220;do it all&#8221; kind of products a lot, and for some guitarists the Catalyst is going to be perfect. For example, someone who plays in a blues band and a heavy rock band, the Catalyst will cover both of those gigs for you. The Katana will as well, but it will take some tweaking. Catalyst does this <em>right out of the box</em>.</p>
+<p>The Catalyst has more of a &#8220;<a href="/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" target="_blank" rel="noopener" data-lasso-id="84692"><strong>do it all</strong></a>&#8221; kind of appeal. We talk about &#8220;do it all&#8221; kind of products a lot, and for some guitarists the Catalyst is going to be perfect. For example, someone who plays in a blues band and a heavy rock band, the Catalyst will cover both of those gigs for you. The Katana will as well, but it will take some tweaking. Catalyst does this <em>right out of the box</em>.</p>
 
 
 
@@ -297,11 +297,11 @@ seo:
 
 
 
-<p>Line 6 is known for its high quality effects and for some people, the whole appeal of Line 6 is the vast library of effects. Well, the Catalyst has all of this built in, and in my <a href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" target="_blank" rel="noopener" data-lasso-id="84693"><strong>rundown</strong> </a>of the Catalyst, I listed every single effects it has. Line 6 has programmed about 25 different effects into the Catalyst in every category of effects types. But that seems a little&#8230;sparse?</p>
+<p>Line 6 is known for its high quality effects and for some people, the whole appeal of Line 6 is the vast library of effects. Well, the Catalyst has all of this built in, and in my <a href="/new-line-6-catalyst-100-amp-review/" target="_blank" rel="noopener" data-lasso-id="84693"><strong>rundown</strong> </a>of the Catalyst, I listed every single effects it has. Line 6 has programmed about 25 different effects into the Catalyst in every category of effects types. But that seems a little&#8230;sparse?</p>
 
 
 
-<p>The BOSS Katana has a digital representation of all of the famous BOSS<strong> <a href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-type="post" data-id="2863" target="_blank" rel="noopener" data-lasso-id="84694">pedals</a></strong> from over the years. BOSS has replicated over 65 different effects pedals for the Katana. But most of these are <em>only</em> accessible from the editor. Out of the box, there are 3 different effects for each bank on the top of the amp.</p>
+<p>The BOSS Katana has a digital representation of all of the famous BOSS<strong> <a href="/the-best-guitar-pedals-1968-2021/" data-type="post" data-id="2863" target="_blank" rel="noopener" data-lasso-id="84694">pedals</a></strong> from over the years. BOSS has replicated over 65 different effects pedals for the Katana. But most of these are <em>only</em> accessible from the editor. Out of the box, there are 3 different effects for each bank on the top of the amp.</p>
 
 
 
@@ -375,7 +375,7 @@ seo:
 
 
 
-<p>But then we have the issue of recalling all of those patches that you have spent crafting with your computer. <strong>The Katana</strong> uses the <a href="https://www.electrikjam.com/pxf-9/" data-type="lasso-urls" data-id="6627" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="84695" data-lasso-name="BOSS GA-FC Guitar Combo Foot Controller"><strong>Roland GA-FC</strong></a> controller. This allows you to scroll through all of your banks and user patches, turn effects on and off, and even switch back to the panel knob for control. This means you have<strong> 9 different selections</strong> that you can pull up from the footswitch. This footswitch is $150, but you will <em>need</em> it for live use unless you stay on one channel and use your own pedals.</p>
+<p>But then we have the issue of recalling all of those patches that you have spent crafting with your computer. <strong>The Katana</strong> uses the <a href="/pxf-9/" data-type="lasso-urls" data-id="6627" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="84695" data-lasso-name="BOSS GA-FC Guitar Combo Foot Controller"><strong>Roland GA-FC</strong></a> controller. This allows you to scroll through all of your banks and user patches, turn effects on and off, and even switch back to the panel knob for control. This means you have<strong> 9 different selections</strong> that you can pull up from the footswitch. This footswitch is $150, but you will <em>need</em> it for live use unless you stay on one channel and use your own pedals.</p>
 
 
 

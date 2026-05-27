@@ -159,7 +159,7 @@ seo:
 
 
 <div class="wp-block-ultimate-post-button-group ultp-block-e2693a"><div class="ultp-button-wrapper ultp-anim-none">
-<div class="wp-block-ultimate-post-button ultp-block-d36b4d ultp-button-layout1"><div class="ultp-btnIcon-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48"><g><path d="M24 4.1A19.9 19.9 0 1 1 4.1 24 19.922 19.922 0 0 1 24 4.1M24 0a24 24 0 1 0 24 24A24 24 0 0 0 24 0"></path><path stroke="rgba(0,0,0,0)" stroke-miterlimit="10" d="M22.551 34.324a2.048 2.048 0 0 1 0-2.9l5.376-5.377H15.125a2.05 2.05 0 0 1 0-4.1h12.8l-5.374-5.373a2.05 2.05 0 1 1 2.9-2.9l8.845 8.843.063.062 1.416 1.42-1.422 1.422-.055.055-8.849 8.848a2.047 2.047 0 0 1-2.9 0Z"></path></g></svg></div><div class="ultp-button-text"><a href="https://www.electrikjam.com/harley-benton-sc-500-bk-vintage-series-thomann-uk/?offid=1&amp;affid=635" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="254926" data-lasso-name="Harley Benton SC-500 BK Vintage Series">CHECK LATEST PRICES</a></div></div>
+<div class="wp-block-ultimate-post-button ultp-block-d36b4d ultp-button-layout1"><div class="ultp-btnIcon-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48"><g><path d="M24 4.1A19.9 19.9 0 1 1 4.1 24 19.922 19.922 0 0 1 24 4.1M24 0a24 24 0 1 0 24 24A24 24 0 0 0 24 0"></path><path stroke="rgba(0,0,0,0)" stroke-miterlimit="10" d="M22.551 34.324a2.048 2.048 0 0 1 0-2.9l5.376-5.377H15.125a2.05 2.05 0 0 1 0-4.1h12.8l-5.374-5.373a2.05 2.05 0 1 1 2.9-2.9l8.845 8.843.063.062 1.416 1.42-1.422 1.422-.055.055-8.849 8.848a2.047 2.047 0 0 1-2.9 0Z"></path></g></svg></div><div class="ultp-button-text"><a href="/harley-benton-sc-500-bk-vintage-series-thomann-uk/?offid=1&amp;affid=635" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="254926" data-lasso-name="Harley Benton SC-500 BK Vintage Series">CHECK LATEST PRICES</a></div></div>
 </div></div>
 </div></div>
 
@@ -173,7 +173,7 @@ seo:
 
 
 
-<p>So when I first laid eyes on the Harley Benton SC-500 BK Vintage Series, I knew it was a guitar I had to try out. Long time readers will already know <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="254927">we&#8217;re big fans of Harley Benton</a></strong> here at ELECTRIKJAM. </p>
+<p>So when I first laid eyes on the Harley Benton SC-500 BK Vintage Series, I knew it was a guitar I had to try out. Long time readers will already know <strong><a href="/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="254927">we&#8217;re big fans of Harley Benton</a></strong> here at ELECTRIKJAM. </p>
 
 
 
@@ -341,7 +341,7 @@ seo:
 
 
 
-<p>And if that sounds like you, I&#8217;d definitely <strong><a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-type="lasso-urls" data-id="12824" rel="nofollow noopener" target="_blank" data-lasso-id="254928" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">check out some of Harley Benton&#8217;s slightly more expensive model</a></strong>s. They&#8217;re still excellent value for money but they&#8217;re packing things like EMG pickups (and this makes A LOT of difference). </p>
+<p>And if that sounds like you, I&#8217;d definitely <strong><a href="/3-best-harley-benton-guitars-for-metal-review/" data-type="lasso-urls" data-id="12824" rel="nofollow noopener" target="_blank" data-lasso-id="254928" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">check out some of Harley Benton&#8217;s slightly more expensive model</a></strong>s. They&#8217;re still excellent value for money but they&#8217;re packing things like EMG pickups (and this makes A LOT of difference). </p>
 
 
 
@@ -389,7 +389,7 @@ seo:
 
 
 
-<p>For most beginners or budget-focused players, the SC-500 will likely exceed expectations. <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="254929">As a first-time, beginner&#8217;s guitar</a></strong> it is a brilliant option. I&#8217;d take one of these over a Squier Tele / Strat Bullet any day of the week. </p>
+<p>For most beginners or budget-focused players, the SC-500 will likely exceed expectations. <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="254929">As a first-time, beginner&#8217;s guitar</a></strong> it is a brilliant option. I&#8217;d take one of these over a Squier Tele / Strat Bullet any day of the week. </p>
 
 
 

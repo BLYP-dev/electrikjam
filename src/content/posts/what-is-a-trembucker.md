@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>If you have ever been interested in buying some aftermarket pickups, you will notice that there are <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="11082"><strong>tons of options</strong></a> out there. There are <a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="11083"><strong>active pickups</strong></a>, and then there are passive pickups. You even have pickups that are meant to be used for certain genres. Every pickup manufacturer has a pretty wide variety of choices.</p>
+<p>If you have ever been interested in buying some aftermarket pickups, you will notice that there are <a href="/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="11082"><strong>tons of options</strong></a> out there. There are <a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="11083"><strong>active pickups</strong></a>, and then there are passive pickups. You even have pickups that are meant to be used for certain genres. Every pickup manufacturer has a pretty wide variety of choices.</p>
 
 
 
@@ -59,15 +59,15 @@ seo:
 
 
 
-<p><strong>A &#8220;Trembucker&#8221; or &#8220;F-Spaced&#8221; pickup is designed for <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="11087">guitars</a> that have a Fender style tremolo system, or a Floyd Rose Trem system. The Trembucker pickup is spaced slightly larger than your standard humbucker, as the string spacing for a trem-equipped guitar is slightly larger than that of a fixed bridge guitar. A standard humbucker is usually 2.695 inches, while a Trembucker measures in at 2.790 inches.</strong></p>
+<p><strong>A &#8220;Trembucker&#8221; or &#8220;F-Spaced&#8221; pickup is designed for <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="11087">guitars</a> that have a Fender style tremolo system, or a Floyd Rose Trem system. The Trembucker pickup is spaced slightly larger than your standard humbucker, as the string spacing for a trem-equipped guitar is slightly larger than that of a fixed bridge guitar. A standard humbucker is usually 2.695 inches, while a Trembucker measures in at 2.790 inches.</strong></p>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="905" height="543" src="/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg" alt="" class="wp-image-4677" title="" srcset="/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg 905w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-600x360.jpg 600w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-300x180.jpg 300w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-768x461.jpg 768w" sizes="(max-width: 905px) 100vw, 905px" /><figcaption><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="11085"><strong><em>Duncan JB Trembucker</em></strong></a></figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="905" height="543" src="/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg" alt="" class="wp-image-4677" title="" srcset="/wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519.jpg 905w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-600x360.jpg 600w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-300x180.jpg 300w, /wp-content/uploads/2021/09/sh4jb-jeff-beck-model-humbucker-white-hd-61519-768x461.jpg 768w" sizes="(max-width: 905px) 100vw, 905px" /><figcaption><a href="/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="11085"><strong><em>Duncan JB Trembucker</em></strong></a></figcaption></figure>
 
 
 
-<p>So it all comes down to your guitar&#8217;s model, and bridge style. If you have a fixed bridge guitar like a <strong><a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="11086">Les Paul</a>,</strong> then you need the<em> standard</em> version of the humbucker. But if you have a Trem system, the you should to look into getting a Trembucker, or &#8220;F-Spaced&#8221; sized pickup. <strong>Seymour Duncan</strong> and<strong> Dimarzio</strong> Pickups currently offer the most options when it comes to Trembucker sized pickups. However the term &#8220;Trembucker&#8221; is<em><strong> strictly a <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11603">Seymour Duncan</a> term.</strong></em></p>
+<p>So it all comes down to your guitar&#8217;s model, and bridge style. If you have a fixed bridge guitar like a <strong><a href="/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="11086">Les Paul</a>,</strong> then you need the<em> standard</em> version of the humbucker. But if you have a Trem system, the you should to look into getting a Trembucker, or &#8220;F-Spaced&#8221; sized pickup. <strong>Seymour Duncan</strong> and<strong> Dimarzio</strong> Pickups currently offer the most options when it comes to Trembucker sized pickups. However the term &#8220;Trembucker&#8221; is<em><strong> strictly a <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11603">Seymour Duncan</a> term.</strong></em></p>
 
 
 
@@ -84,12 +84,12 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><a href="https://www.electrikjam.com/recommends/seymour-duncan-pearly-gates/" target="_blank" rel="noopener" data-lasso-id="90445"><strong>CLICK FOR BEST</strong> P<strong>RICES!</strong></a></p>
+<p class="has-text-align-center has-extra-small-font-size"><a href="/recommends/seymour-duncan-pearly-gates/" target="_blank" rel="noopener" data-lasso-id="90445"><strong>CLICK FOR BEST</strong> P<strong>RICES!</strong></a></p>
 </div></div>
 
 
 
-<p>It is also important to note that the<strong> bridge position pickup</strong> is the one that needs to be Trembucker sized. Because this is going to be the widest point for the string spread on a <a href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-lasso-id="120187">guitar</a> with a trem system. This will ensure that the strings line up perfectly with the pole pieces of the bridge pickup. The neck pickup is at a smaller spread when it comes to string spacing, usually, since the spread gets slimmer the closer we get to the nut of the guitar.</p>
+<p>It is also important to note that the<strong> bridge position pickup</strong> is the one that needs to be Trembucker sized. Because this is going to be the widest point for the string spread on a <a href="/22-frets-vs-24-frets-explained/" data-lasso-id="120187">guitar</a> with a trem system. This will ensure that the strings line up perfectly with the pole pieces of the bridge pickup. The neck pickup is at a smaller spread when it comes to string spacing, usually, since the spread gets slimmer the closer we get to the nut of the guitar.</p>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 
-<p>However, if you look at<strong> <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195326">Eddie Van Halen&#8217;s </strong>famous &#8220;Frakenstrat&#8221; guitar</a> that he recorded with, and played <em>thousands</em> of shows with&#8230;it is <em>definitely off</em>. It looks like Eddie just <a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12775">hacked up the body of his guitar</a>, and shoved a pickup in the cavity, in a slanted mount position. Well, it looks like that because that is <em>exactly </em>what he did! Did it change the tone, since the pole pieces did not line up with the strings?</p>
+<p>However, if you look at<strong> <a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195326">Eddie Van Halen&#8217;s </strong>famous &#8220;Frakenstrat&#8221; guitar</a> that he recorded with, and played <em>thousands</em> of shows with&#8230;it is <em>definitely off</em>. It looks like Eddie just <a href="/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12775">hacked up the body of his guitar</a>, and shoved a pickup in the cavity, in a slanted mount position. Well, it looks like that because that is <em>exactly </em>what he did! Did it change the tone, since the pole pieces did not line up with the strings?</p>
 
 
 
@@ -117,7 +117,7 @@ seo:
 
 
 
-<p>I have to admit, I am a little embarrassed that I did not know what a Trembucker was until just recently. But at the same time, I usually use active pickups on my guitars that have a <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-lasso-id="168256">Floyd Rose</a>. So it is understandable as to why I have never seen the term too often.</p>
+<p>I have to admit, I am a little embarrassed that I did not know what a Trembucker was until just recently. But at the same time, I usually use active pickups on my guitars that have a <a href="/floyd-rose-bridge-setup-beginners/" data-lasso-id="168256">Floyd Rose</a>. So it is understandable as to why I have never seen the term too often.</p>
 
 
 

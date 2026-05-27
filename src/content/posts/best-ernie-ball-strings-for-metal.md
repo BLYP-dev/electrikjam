@@ -149,7 +149,7 @@ seo:
 
 
 
-<p>When it comes to metal guitar, <strong><a href="https://www.electrikjam.com/electric-guitar-strings/" data-type="page" data-id="14127" data-lasso-id="260642">having the right strings is crucial</a></strong>. You need that thick, heavy sound, solid tuning stability even when riffing hard, and slick playability to shred those lightning solos. </p>
+<p>When it comes to metal guitar, <strong><a href="/electric-guitar-strings/" data-type="page" data-id="14127" data-lasso-id="260642">having the right strings is crucial</a></strong>. You need that thick, heavy sound, solid tuning stability even when riffing hard, and slick playability to shred those lightning solos. </p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p>As we already established, my #1 pick right now are <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-kjz590/" data-type="lasso-urls" data-id="5502" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260643" data-lasso-name="Ernie Ball Paradigm">Ernie Ball&#8217;s Paradigm strings</a></strong>. They&#8217;re incredible, insanely durable, and they last ages between changes. </p>
+<p>As we already established, my #1 pick right now are <strong><a href="/guitar-center-pxf-io-kjz590/" data-type="lasso-urls" data-id="5502" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260643" data-lasso-name="Ernie Ball Paradigm">Ernie Ball&#8217;s Paradigm strings</a></strong>. They&#8217;re incredible, insanely durable, and they last ages between changes. </p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p>For metal, <a href="https://www.electrikjam.com/ernie-ball-10-46-strings/" rel="nofollow noopener" target="_blank" data-lasso-id="260644" data-lasso-name="Ernie Ball 10-46"><strong>I recommend the Regular Slinky</strong></a> over the Super or other models. The 11-48 gauge still has nice and tight wound construction but just a bit lighter than Super Slinky for solid low-end chunk without losing top-end flexibility needed for leads.</p>
+<p>For metal, <a href="/ernie-ball-10-46-strings/" rel="nofollow noopener" target="_blank" data-lasso-id="260644" data-lasso-name="Ernie Ball 10-46"><strong>I recommend the Regular Slinky</strong></a> over the Super or other models. The 11-48 gauge still has nice and tight wound construction but just a bit lighter than Super Slinky for solid low-end chunk without losing top-end flexibility needed for leads.</p>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<p>If you want to get truly nasty tones, look no further than Ernie Ball&#8217;s fattest metal strings &#8211; <strong><a href="https://www.electrikjam.com/ernie-ball-mammoth-slinky-nickel-wound-electric-guitar-strings-gauge-12-62-guitar-center/" data-type="lasso-urls" data-id="14241" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260645" data-lasso-name="Ernie Ball Mammoth Slinky Nickel">the Mammoth Slinky set.</a></strong></p>
+<p>If you want to get truly nasty tones, look no further than Ernie Ball&#8217;s fattest metal strings &#8211; <strong><a href="/ernie-ball-mammoth-slinky-nickel-wound-electric-guitar-strings-gauge-12-62-guitar-center/" data-type="lasso-urls" data-id="14241" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260645" data-lasso-name="Ernie Ball Mammoth Slinky Nickel">the Mammoth Slinky set.</a></strong></p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p>And I really do quite like them a lot, <strong><a href="https://www.electrikjam.com/ernie-ball-2215-nickel-skinny-top-heavy-bottom-electric-guitar-strings-guitar-center/" data-type="lasso-urls" data-id="14242" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260646" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom">check out the pricing details here. </a></strong></p>
+<p>And I really do quite like them a lot, <strong><a href="/ernie-ball-2215-nickel-skinny-top-heavy-bottom-electric-guitar-strings-guitar-center/" data-type="lasso-urls" data-id="14242" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260646" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom">check out the pricing details here. </a></strong></p>
 
 
 

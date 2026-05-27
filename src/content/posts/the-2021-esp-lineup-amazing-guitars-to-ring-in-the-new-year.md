@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>ESP/LTD have been a huge company when it comes to guitars specifically built for Metal. ESP has a long roster of Metal artists like <strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" class="rank-math-link" data-lasso-id="564">Steph Carpenter</a></strong>, <strong>James Hetfield</strong>, and newer artists like<strong> Gojira</strong>. The realm of affordable, Metal-focused guitars has been a booming business over the last decade and ESP has been a huge player.</p>
+<p>ESP/LTD have been a huge company when it comes to guitars specifically built for Metal. ESP has a long roster of Metal artists like <strong><a href="/steph-carpenters-9-string-esp-guitar/" class="rank-math-link" data-lasso-id="564">Steph Carpenter</a></strong>, <strong>James Hetfield</strong>, and newer artists like<strong> Gojira</strong>. The realm of affordable, Metal-focused guitars has been a booming business over the last decade and ESP has been a huge player.</p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>This past year, we have seen some huge upgrades coming standard on ESP/LTD guitars. Many models come with <a href="https://www.electrikjam.com/how-many-frets-are-on-a-les-paul-epiphone/" data-lasso-id="565">stainless steel frets</a>, and name brand hardware/pickups. The 2021 ESP lineup seems to be following suit, with standard features being upgraded even further.</p>
+<p>This past year, we have seen some huge upgrades coming standard on ESP/LTD guitars. Many models come with <a href="/how-many-frets-are-on-a-les-paul-epiphone/" data-lasso-id="565">stainless steel frets</a>, and name brand hardware/pickups. The 2021 ESP lineup seems to be following suit, with standard features being upgraded even further.</p>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<p>Other features include a set of <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-100-legit/" class="rank-math-link" data-lasso-id="566">Fishman Fluence Modern Pickups</a>, a recessed Gotoh Bridge, and stainless steel frets. This guitar features a three-piece roasted maple neck with an extra thin U-shaped profile and bolt on construction.</p>
+<p>Other features include a set of <a href="/fishman-fluence-modern-review-is-the-hype-100-legit/" class="rank-math-link" data-lasso-id="566">Fishman Fluence Modern Pickups</a>, a recessed Gotoh Bridge, and stainless steel frets. This guitar features a three-piece roasted maple neck with an extra thin U-shaped profile and bolt on construction.</p>
 
 
 
@@ -96,11 +96,11 @@ seo:
 
 
 
-<p>Mike Schleibaum of DC-based melodic death metal band <strong>Darkest Hour </strong>has been <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104010">an ESP artist</a> for a very long time. This year he finally gets his own signature model, based on the ESP Arrow that Alexi Laiho is famous for using.</p>
+<p>Mike Schleibaum of DC-based melodic death metal band <strong>Darkest Hour </strong>has been <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104010">an ESP artist</a> for a very long time. This year he finally gets his own signature model, based on the ESP Arrow that Alexi Laiho is famous for using.</p>
 
 
 
-<p>The MSV-1 may look a little sparse at first glance, but it is packed with features. The MSV-1 offers neck-thru-body construction, a mahogany body with maple cap, 24 extra-jumbo stainless steel frets, block inlays, Grover tuners, a Floyd Rose 1000 bridge, and a single EMG JH (<a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="567">James Hetfield</a> signature) active pickup.</p>
+<p>The MSV-1 may look a little sparse at first glance, but it is packed with features. The MSV-1 offers neck-thru-body construction, a mahogany body with maple cap, 24 extra-jumbo stainless steel frets, block inlays, Grover tuners, a Floyd Rose 1000 bridge, and a single EMG JH (<a href="/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="567">James Hetfield</a> signature) active pickup.</p>
 
 
 
@@ -136,11 +136,11 @@ seo:
 
 
 
-<p>A Signature Series guitar for <a href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2552">Bill Kelliher (<strong>Mastodon</strong></a>) that is not entirely new, as it has been in production for a while. But the 2021 ESP Lineup is giving the Sparrowhawk a few tweaks.</p>
+<p>A Signature Series guitar for <a href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2552">Bill Kelliher (<strong>Mastodon</strong></a>) that is not entirely new, as it has been in production for a while. But the 2021 ESP Lineup is giving the Sparrowhawk a few tweaks.</p>
 
 
 
-<p>The Sparrowhawk is now being offered with <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7448">Seymour Duncan</a> Distortion set w/ custom covers and is available in a Gloss Black finish. The Sparrowhawk&#8217;s gold hardware ties everything together. Bill likes to switch things up with his rig, and his guitar is a reflection of that.</p>
+<p>The Sparrowhawk is now being offered with <a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7448">Seymour Duncan</a> Distortion set w/ custom covers and is available in a Gloss Black finish. The Sparrowhawk&#8217;s gold hardware ties everything together. Bill likes to switch things up with his rig, and his guitar is a reflection of that.</p>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<p>The Evertune bridge has become extremely popular over the last few years, and it is very exciting to see so many production model <a href="https://www.electrikjam.com/the-top-5-guitars-evertune-bridge/" data-lasso-id="568">guitars coming with Evertune</a> as a standard feature. Evertune is a great feature if you are a touring musician, or a studio musician. <em>You cannot get your guitar to go out of tune, no matter what the conditions are.</em></p>
+<p>The Evertune bridge has become extremely popular over the last few years, and it is very exciting to see so many production model <a href="/the-top-5-guitars-evertune-bridge/" data-lasso-id="568">guitars coming with Evertune</a> as a standard feature. Evertune is a great feature if you are a touring musician, or a studio musician. <em>You cannot get your guitar to go out of tune, no matter what the conditions are.</em></p>
 
 
 
@@ -232,11 +232,11 @@ seo:
 
 
 
-<p>First up, we have the H-1000B <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="569">8 string guitar</a>. The <strong>H-1008 Baritone EverTune</strong> is an absolute beast of a guitar, with eight strings, 27” baritone scale, 24 extra-jumbo stainless steel frets, the innovative EverTune constant tension bridge, and a set of EMG 85-8H and EMG 81-8H active <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7417">pickups for brutally aggressive tones</a>.</p>
+<p>First up, we have the H-1000B <a href="/types-of-guitars-guide/" data-lasso-id="569">8 string guitar</a>. The <strong>H-1008 Baritone EverTune</strong> is an absolute beast of a guitar, with eight strings, 27” baritone scale, 24 extra-jumbo stainless steel frets, the innovative EverTune constant tension bridge, and a set of EMG 85-8H and EMG 81-8H active <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7417">pickups for brutally aggressive tones</a>.</p>
 
 
 
-<p>The second addition is the gorgeous TE-1000, which <a href="https://www.electrikjam.com/ibanez-tod10-tim-henson-guitar-review/" data-lasso-id="210148">blends a classic shape with modern</a> features. The <strong>LTD Deluxe TE-1000 EverTune</strong> is available in a great-looking Charcoal Metallic Satin finish, and has set-thru construction at 25.5” scale. This guitar includes 24 extra-jumbo stainless steel frets, an EverTune bridge, and a set of EMG 60-RTW (with coil splitting) and EMG 81 <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8166">active pickups</a>.</p>
+<p>The second addition is the gorgeous TE-1000, which <a href="/ibanez-tod10-tim-henson-guitar-review/" data-lasso-id="210148">blends a classic shape with modern</a> features. The <strong>LTD Deluxe TE-1000 EverTune</strong> is available in a great-looking Charcoal Metallic Satin finish, and has set-thru construction at 25.5” scale. This guitar includes 24 extra-jumbo stainless steel frets, an EverTune bridge, and a set of EMG 60-RTW (with coil splitting) and EMG 81 <a href="/what-are-active-pickups/" data-lasso-id="8166">active pickups</a>.</p>
 
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<p>I don&#8217;t like to field-strip my guitar and do tons of upgrades anymore. That ship has sailed for me and I would rather have a great instrument from day one. The 2021 ESP lineup seems to understand this, and more companies have been doing the same, like <strong>Schecter</strong> and <strong><a href="https://www.electrikjam.com/new-solar-guitars-check-out-these-bolt-on-beauties/" class="rank-math-link" data-lasso-id="570">Solar</a></strong>.</p>
+<p>I don&#8217;t like to field-strip my guitar and do tons of upgrades anymore. That ship has sailed for me and I would rather have a great instrument from day one. The 2021 ESP lineup seems to understand this, and more companies have been doing the same, like <strong>Schecter</strong> and <strong><a href="/new-solar-guitars-check-out-these-bolt-on-beauties/" class="rank-math-link" data-lasso-id="570">Solar</a></strong>.</p>
 
 
 

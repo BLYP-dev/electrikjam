@@ -46,11 +46,11 @@ seo:
 
 
 
-<p>We have been talking about Harley Benton for the last month, and we are finally checking out the most basic models. The Harley Benton Standard Series doesn&#8217;t add anything feature-wise. Unlike the<a data-lasso-id="192495" href="https://www.electrikjam.com/harley-benton-deluxe-series-guitars-review/" data-type="post" data-id="9579" target="_blank" rel="noopener"> <strong>Deluxe</strong> <strong>Models</strong></a> or the ones we <em>loved</em> for<a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" target="_blank" data-type="post" data-id="9517" rel="nofollow noopener" data-lasso-id="192572" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!"><strong> heavier music</strong></a>!</p>
+<p>We have been talking about Harley Benton for the last month, and we are finally checking out the most basic models. The Harley Benton Standard Series doesn&#8217;t add anything feature-wise. Unlike the<a data-lasso-id="192495" href="/harley-benton-deluxe-series-guitars-review/" data-type="post" data-id="9579" target="_blank" rel="noopener"> <strong>Deluxe</strong> <strong>Models</strong></a> or the ones we <em>loved</em> for<a href="/3-best-harley-benton-guitars-for-metal-review/" target="_blank" data-type="post" data-id="9517" rel="nofollow noopener" data-lasso-id="192572" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!"><strong> heavier music</strong></a>!</p>
 
 
 
-<p>They do not have extreme shapes like the <a data-lasso-id="192496" href="https://www.electrikjam.com/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"><strong>EX-84</strong></a>, or the elegant yet dangerous<strong> <a data-lasso-id="192497" href="https://www.electrikjam.com/electrikjam-link/" data-type="post" data-id="5767" target="_blank" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Fusion III</a></strong> models. No, these are VERY basic <a data-lasso-id="192498" href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-type="post" data-id="9517" target="_blank" rel="nofollow noopener" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!"><strong>Harley Benton</strong></a> guitars. These are the <strong>most simple and straight-forward</strong> guitar designs that Harley Benton has to offer.</p>
+<p>They do not have extreme shapes like the <a data-lasso-id="192496" href="/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener"><strong>EX-84</strong></a>, or the elegant yet dangerous<strong> <a data-lasso-id="192497" href="/electrikjam-link/" data-type="post" data-id="5767" target="_blank" rel="nofollow sponsored noopener" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Fusion III</a></strong> models. No, these are VERY basic <a data-lasso-id="192498" href="/3-best-harley-benton-guitars-for-metal-review/" data-type="post" data-id="9517" target="_blank" rel="nofollow noopener" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!"><strong>Harley Benton</strong></a> guitars. These are the <strong>most simple and straight-forward</strong> guitar designs that Harley Benton has to offer.</p>
 
 
 
@@ -58,7 +58,7 @@ seo:
 
 
 
-<p>Today we are going to answer all of these questions, and check out some of the <a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="235278">cheapest models that Harley Benton</a> has to offer. <strong>These guitars all come under $150, even when you factor in the international shipping if you&#8217;re<em> not</em> in Europe!</strong></p>
+<p>Today we are going to answer all of these questions, and check out some of the <a href="/best-harley-benton-telecaster/" data-lasso-id="235278">cheapest models that Harley Benton</a> has to offer. <strong>These guitars all come under $150, even when you factor in the international shipping if you&#8217;re<em> not</em> in Europe!</strong></p>
 
 
 
@@ -66,11 +66,11 @@ seo:
 
 
 
-<p>Computers make the machines accurate down to the millimeter. But Harley Benton also doesn&#8217;t advertise like bigger guitar companies. Benton is a &#8220;house brand&#8221; for Thomann Music, so those savings get passed down to you. The guitars are made in the same Indonesian factories that so many other brands use, including <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="192499"><strong>Fender</strong></a>, <a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="192500"><strong>Schecter</strong></a>, and many more!</p>
+<p>Computers make the machines accurate down to the millimeter. But Harley Benton also doesn&#8217;t advertise like bigger guitar companies. Benton is a &#8220;house brand&#8221; for Thomann Music, so those savings get passed down to you. The guitars are made in the same Indonesian factories that so many other brands use, including <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="192499"><strong>Fender</strong></a>, <a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="192500"><strong>Schecter</strong></a>, and many more!</p>
 
 
 
-<p>So that explains the low price, but how good are these guitars? Today we take a look at the most popular models that the Harley Benton Standard Series has to offer. Like usual, we will not be going easy on these guitars just because they are cheap. <strong>We are going to hold them to the same standard </strong>as <strong><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" target="_blank" data-type="post" data-id="3709" rel="noopener" data-lasso-id="192501">Squier</a> </strong>and <a href="https://www.electrikjam.com/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="192502"><strong>Epiphone</strong></a>-the obvious competition.</p>
+<p>So that explains the low price, but how good are these guitars? Today we take a look at the most popular models that the Harley Benton Standard Series has to offer. Like usual, we will not be going easy on these guitars just because they are cheap. <strong>We are going to hold them to the same standard </strong>as <strong><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" target="_blank" data-type="post" data-id="3709" rel="noopener" data-lasso-id="192501">Squier</a> </strong>and <a href="/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="192502"><strong>Epiphone</strong></a>-the obvious competition.</p>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<p>With the addition of <a data-lasso-id="192503" href="https://www.electrikjam.com/what-are-locking-tuners/" data-type="post" data-id="5971" target="_blank" rel="noopener"><strong>locking tuners</strong></a>, (Only <a href="https://www.electrikjam.com/harley-benton-parts-locking-tuners-6l-black-thomann-united-states/" target="_blank" data-type="lasso-urls" data-id="9618" rel="nofollow sponsored noopener" data-lasso-id="192573" data-lasso-name="Harley Benton Parts Locking Tuners 6L Black"><strong>$40 from Thomann</strong></a>) I would absolutely use this guitar on stage <em>without changing anything else</em>. Maybe I would change the nut, but the sample guitar we got to try out had a <strong>perfectly cut plastic nut</strong>. There is a lot to talk about with this guitar, so let&#8217;s just check out the features:</p>
+<p>With the addition of <a data-lasso-id="192503" href="/what-are-locking-tuners/" data-type="post" data-id="5971" target="_blank" rel="noopener"><strong>locking tuners</strong></a>, (Only <a href="/harley-benton-parts-locking-tuners-6l-black-thomann-united-states/" target="_blank" data-type="lasso-urls" data-id="9618" rel="nofollow sponsored noopener" data-lasso-id="192573" data-lasso-name="Harley Benton Parts Locking Tuners 6L Black"><strong>$40 from Thomann</strong></a>) I would absolutely use this guitar on stage <em>without changing anything else</em>. Maybe I would change the nut, but the sample guitar we got to try out had a <strong>perfectly cut plastic nut</strong>. There is a lot to talk about with this guitar, so let&#8217;s just check out the features:</p>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<p><strong>The Neck</strong> on this guitar is absolutely to die for, and it feels a lot like my favorite <a href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener" data-lasso-id="192504"><strong>Schecter neck</strong></a>. It has a familiar C shape, but this is a very slim neck. It<em> was made</em> for fast runs and heavy riffing. This is the second time Harley Benton has nailed the neck carve for me.</p>
+<p><strong>The Neck</strong> on this guitar is absolutely to die for, and it feels a lot like my favorite <a href="/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener" data-lasso-id="192504"><strong>Schecter neck</strong></a>. It has a familiar C shape, but this is a very slim neck. It<em> was made</em> for fast runs and heavy riffing. This is the second time Harley Benton has nailed the neck carve for me.</p>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<p>The best feature on this guitar by a mile is the HBZ active pickups. I tried them out through my <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="192505"><strong>BOSS</strong> <strong>Katana</strong></a> first, and then used some VST programs on my computer to confirm what I was hearing. These are clear, articulate, and extremely hot pickups. The genius of this guitar is the single volume control.</p>
+<p>The best feature on this guitar by a mile is the HBZ active pickups. I tried them out through my <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="192505"><strong>BOSS</strong> <strong>Katana</strong></a> first, and then used some VST programs on my computer to confirm what I was hearing. These are clear, articulate, and extremely hot pickups. The genius of this guitar is the single volume control.</p>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<p>The HBZ pickups are actually really close to sounding like the famous EMG 81 in a lot of ways. They have that clarity and compression that you expect from an <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="192506"><strong>active pickup</strong></a>. I would usually never do a sound sample for such a budget guitar, but I did for this one because you have to hear it!</p>
+<p>The HBZ pickups are actually really close to sounding like the famous EMG 81 in a lot of ways. They have that clarity and compression that you expect from an <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="192506"><strong>active pickup</strong></a>. I would usually never do a sound sample for such a budget guitar, but I did for this one because you have to hear it!</p>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p><strong>The Pickups</strong> are again really good for what you&#8217;re paying and the humbucker is pretty good! You can get a decent chug from the humbucker model, and it sounds great for leads. That being said, playing my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="192507"><strong>Nick</strong> <strong>Johnston</strong></a> directly after playing this guitar, the sound quality was noticeably better.<strong> But my NJ costs 8 times as much as this guitar, <em>I would hope it sounds better</em>.</strong></p>
+<p><strong>The Pickups</strong> are again really good for what you&#8217;re paying and the humbucker is pretty good! You can get a decent chug from the humbucker model, and it sounds great for leads. That being said, playing my <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="192507"><strong>Nick</strong> <strong>Johnston</strong></a> directly after playing this guitar, the sound quality was noticeably better.<strong> But my NJ costs 8 times as much as this guitar, <em>I would hope it sounds better</em>.</strong></p>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p>Like a <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="192508"><strong>Floyd Rose</strong></a>, all trem systems are a matter of balance. I see posts all the time on reddit about &#8220;my bridge is messed up&#8221;.<strong> I managed to get the Sunburst model setup really well, but the trem was still not usable.</strong> Look, I am just being straight with you here.</p>
+<p>Like a <a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="192508"><strong>Floyd Rose</strong></a>, all trem systems are a matter of balance. I see posts all the time on reddit about &#8220;my bridge is messed up&#8221;.<strong> I managed to get the Sunburst model setup really well, but the trem was still not usable.</strong> Look, I am just being straight with you here.</p>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<p>If I were a beginner, I would just &#8220;deck&#8221; this trem and use the guitar as a fixed bridge setup. That being said, it plays and feels great for the price. The bridge is an issue that you will run into with just about every cheap Strat (<a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-lasso-id="213187">and even some expensive Fenders)</a>. </p>
+<p>If I were a beginner, I would just &#8220;deck&#8221; this trem and use the guitar as a fixed bridge setup. That being said, it plays and feels great for the price. The bridge is an issue that you will run into with just about every cheap Strat (<a href="/fender-meteora-players-plus-review-2022/" data-lasso-id="213187">and even some expensive Fenders)</a>. </p>
 
 
 
@@ -280,7 +280,7 @@ seo:
 
 
 
-<p>Overall, the <strong>Harley Benton Standard Series</strong> doesn&#8217;t hold up to the <a data-lasso-id="192509" href="https://www.electrikjam.com/harley-benton-deluxe-series-guitars-review/" data-type="post" data-id="9579" target="_blank" rel="noopener"><strong>other models</strong></a> that we have checked out lately. But these are the bare basic guitars, and they can&#8217;t really be compared to the guitars that cost double the price.</p>
+<p>Overall, the <strong>Harley Benton Standard Series</strong> doesn&#8217;t hold up to the <a data-lasso-id="192509" href="/harley-benton-deluxe-series-guitars-review/" data-type="post" data-id="9579" target="_blank" rel="noopener"><strong>other models</strong></a> that we have checked out lately. But these are the bare basic guitars, and they can&#8217;t really be compared to the guitars that cost double the price.</p>
 
 
 

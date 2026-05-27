@@ -39,19 +39,19 @@ seo:
 
 
 
-<p>This is a debate that I have seen for years all over internet forums. I have also heard it from guitarists before the internet was ever a thing. People always seem to ask &#8220;Is an <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8782">Epiphone a real Les Paul?&#8221;</a>&#8220;. The answer is a little bit complex. But more importantly&#8230;why would someone even ask this question?</p>
+<p>This is a debate that I have seen for years all over internet forums. I have also heard it from guitarists before the internet was ever a thing. People always seem to ask &#8220;Is an <a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8782">Epiphone a real Les Paul?&#8221;</a>&#8220;. The answer is a little bit complex. But more importantly&#8230;why would someone even ask this question?</p>
 
 
 
-<p>I don&#8217;t think it is any secret that we are big fans of <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" target="_blank" data-type="post" data-id="880" rel="noopener" data-lasso-id="8459"><strong>Epiphone</strong></a> here at Electrikjam. It is really easy to just dismiss Epiphone as being a &#8220;budget <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237996">brand Gibson</a> guitar. But the thing is: Epiphone is it&#8217;s own thing <em>completely</em>. But while Epiphone is it&#8217;s own company, it is also the only company that makes faithful reproductions of popular Gibson models, as Gibson is the parent company.</p>
+<p>I don&#8217;t think it is any secret that we are big fans of <a href="/best-epiphone-les-paul-models/" target="_blank" data-type="post" data-id="880" rel="noopener" data-lasso-id="8459"><strong>Epiphone</strong></a> here at Electrikjam. It is really easy to just dismiss Epiphone as being a &#8220;budget <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237996">brand Gibson</a> guitar. But the thing is: Epiphone is it&#8217;s own thing <em>completely</em>. But while Epiphone is it&#8217;s own company, it is also the only company that makes faithful reproductions of popular Gibson models, as Gibson is the parent company.</p>
 
 
 
-<p>But a lot of guitarists shun cheaper guitars, in favor of Gibson and other expensive guitars. The same thing happens when it comes to <a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" target="_blank" data-type="post" data-id="3939" rel="noopener" data-lasso-id="8460"><strong>Fender</strong></a> guitars, as well. Some people call this &#8220;guitar snobbery&#8221;. I call it &#8220;preference&#8221; since you can&#8217;t help what you like!</p>
+<p>But a lot of guitarists shun cheaper guitars, in favor of Gibson and other expensive guitars. The same thing happens when it comes to <a href="/fender-jaguar-kurt-cobain/" target="_blank" data-type="post" data-id="3939" rel="noopener" data-lasso-id="8460"><strong>Fender</strong></a> guitars, as well. Some people call this &#8220;guitar snobbery&#8221;. I call it &#8220;preference&#8221; since you can&#8217;t help what you like!</p>
 
 
 
-<p><a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="8476">Fender</a> has a cheaper version of all of the most popular models, made in Mexico, when the main line of guitars is made in Corona California. Personally, I have never been able to tell a big difference between a Mexi Fender and an American one. Both guitars could be good/bad. Fender also an even more affordable brand in <a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" target="_blank" data-type="post" data-id="3709" rel="noopener" data-lasso-id="8461"><strong>Squier</strong></a>, made in China and Indonesia.</p>
+<p><a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="8476">Fender</a> has a cheaper version of all of the most popular models, made in Mexico, when the main line of guitars is made in Corona California. Personally, I have never been able to tell a big difference between a Mexi Fender and an American one. Both guitars could be good/bad. Fender also an even more affordable brand in <a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" target="_blank" data-type="post" data-id="3709" rel="noopener" data-lasso-id="8461"><strong>Squier</strong></a>, made in China and Indonesia.</p>
 
 
 
@@ -67,15 +67,15 @@ seo:
 
 
 
-<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic.jpg" alt="Epiphone Les Paul Classic" class="wp-image-4399" title="" srcset="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic.jpg 600w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-300x300.jpg 300w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-100x100.jpg 100w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>An <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17471">Epiphone Les Paul</a> Classic</figcaption></figure>
+<figure class="wp-block-image size-full aligncenter"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic.jpg" alt="Epiphone Les Paul Classic" class="wp-image-4399" title="" srcset="/wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic.jpg 600w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-300x300.jpg 300w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-100x100.jpg 100w, /wp-content/uploads/2021/09/Epiphone-Les-Paul-Classic-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>An <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17471">Epiphone Les Paul</a> Classic</figcaption></figure>
 
 
 
-<p>So what does that mean for you as a consumer? Well it depends on a lot of things, starting with your<em> budget</em>. <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44935">Gibson Les Paul guitars can be pretty pricey</a>. They start usually around $1000 and can go all the way up to $5000, depending on the model. The &#8216;historic models&#8221; by Gibson are usually the most expensive, as they take the most work to produce.</p>
+<p>So what does that mean for you as a consumer? Well it depends on a lot of things, starting with your<em> budget</em>. <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44935">Gibson Les Paul guitars can be pretty pricey</a>. They start usually around $1000 and can go all the way up to $5000, depending on the model. The &#8216;historic models&#8221; by Gibson are usually the most expensive, as they take the most work to produce.</p>
 
 
 
-<p>But in essence, an Epiphone is definitely still a Les Paul. Whether you are looking at the budget &#8220;Standard&#8221; series, or something more premium like the<strong> <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" target="_blank" data-type="post" data-id="4452" rel="noopener" data-lasso-id="8462">Prophecy</a></strong> models. Epiphone and Gibson have more in common than they differ!</p>
+<p>But in essence, an Epiphone is definitely still a Les Paul. Whether you are looking at the budget &#8220;Standard&#8221; series, or something more premium like the<strong> <a href="/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" target="_blank" data-type="post" data-id="4452" rel="noopener" data-lasso-id="8462">Prophecy</a></strong> models. Epiphone and Gibson have more in common than they differ!</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>The quality of woods is different as well. This is most evident in the maple tops used. Epiphone will use a veneer for the &#8220;flame effect&#8221; while Gibson uses AAA Flamed Maple for the more expensive models. Epiphone also uses a thicker poly finish on the wood, while Gibson uses Nitro. We have talked about <a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" target="_blank" data-type="post" data-id="3350" rel="noopener" data-lasso-id="8463"><strong>these differences</strong></a> before, and it is either not a big deal, or a<em> total deal breaker</em> depending on the guitarist.</p>
+<p>The quality of woods is different as well. This is most evident in the maple tops used. Epiphone will use a veneer for the &#8220;flame effect&#8221; while Gibson uses AAA Flamed Maple for the more expensive models. Epiphone also uses a thicker poly finish on the wood, while Gibson uses Nitro. We have talked about <a href="/gibson-vs-epiphone-in-2021/" target="_blank" data-type="post" data-id="3350" rel="noopener" data-lasso-id="8463"><strong>these differences</strong></a> before, and it is either not a big deal, or a<em> total deal breaker</em> depending on the guitarist.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>Epiphone also makes<strong> </strong><a href="https://www.epiphone.com/en-US/Collection/Artist" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="8464"><strong>signature models</strong></a>, more so than Gibson, actually! Gibson makes a few signature models, but they are rarely available to your everyday customers, and <em>very</em> expensive. Some models, Like the one that <a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" target="_blank" data-type="post" data-id="4089" rel="noopener" data-lasso-id="8465"><strong>Matt Heafy </strong></a>plays from Trivium, can <em>only</em> be found as an <em>Epiphone version</em>. So if you are into signature models, then Epiphone is your best bet. Most are limited editions that come with a case, and a certificate of authenticity. These Epiphone models are functional collector&#8217;s items!</p>
+<p>Epiphone also makes<strong> </strong><a href="https://www.epiphone.com/en-US/Collection/Artist" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="8464"><strong>signature models</strong></a>, more so than Gibson, actually! Gibson makes a few signature models, but they are rarely available to your everyday customers, and <em>very</em> expensive. Some models, Like the one that <a href="/matt-heafy-epiphone-mkh-origins-les-paul/" target="_blank" data-type="post" data-id="4089" rel="noopener" data-lasso-id="8465"><strong>Matt Heafy </strong></a>plays from Trivium, can <em>only</em> be found as an <em>Epiphone version</em>. So if you are into signature models, then Epiphone is your best bet. Most are limited editions that come with a case, and a certificate of authenticity. These Epiphone models are functional collector&#8217;s items!</p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>But Epiphone makes one hell of a guitar for people on a budget, especially<strong> <a href="https://www.electrikjam.com/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="8466">beginners.</a></strong> I had an Epiphone Les Paul for years, and it grew with me! I changed the pickups and tuners, and eventually I changed the nut on it as well. It was a great sounding guitar, and used in many pro situations. </p>
+<p>But Epiphone makes one hell of a guitar for people on a budget, especially<strong> <a href="/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="8466">beginners.</a></strong> I had an Epiphone Les Paul for years, and it grew with me! I changed the pickups and tuners, and eventually I changed the nut on it as well. It was a great sounding guitar, and used in many pro situations. </p>
 
 
 

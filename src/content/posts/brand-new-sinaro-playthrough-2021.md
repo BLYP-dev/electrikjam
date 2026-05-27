@@ -40,11 +40,11 @@ seo:
 
 
 
-<p>This past year, we have taken a look at some great albums that were spawned during lockdown. I got to speak to <a href="https://www.electrikjam.com/spiritbox-eternal-blue-review/" target="_blank" data-type="post" data-id="4309" rel="noopener" data-lasso-id="21742"><strong>Spiritbox</strong></a> and review the &#8220;Eternal Blue&#8221; album this year. We have also checked out the new stuff from <a href="https://www.electrikjam.com/every-time-i-die-radical-album-review-the-boys-are-back-with-brutality/" target="_blank" data-type="post" data-id="5181" rel="noopener" data-lasso-id="21743"><strong>Every Time I Die</strong></a>, and <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" target="_blank" data-type="post" data-id="5124" rel="noopener" data-lasso-id="21744">Mastodon</a>.</strong> The lockdowns might have put a hold on touring, but bands definitely didn&#8217;t just hang up the towel and quit. The internet has been a huge advantage for big, touring bands.</p>
+<p>This past year, we have taken a look at some great albums that were spawned during lockdown. I got to speak to <a href="/spiritbox-eternal-blue-review/" target="_blank" data-type="post" data-id="4309" rel="noopener" data-lasso-id="21742"><strong>Spiritbox</strong></a> and review the &#8220;Eternal Blue&#8221; album this year. We have also checked out the new stuff from <a href="/every-time-i-die-radical-album-review-the-boys-are-back-with-brutality/" target="_blank" data-type="post" data-id="5181" rel="noopener" data-lasso-id="21743"><strong>Every Time I Die</strong></a>, and <strong><a href="/mastodon-hushed-and-grim-review/" target="_blank" data-type="post" data-id="5124" rel="noopener" data-lasso-id="21744">Mastodon</a>.</strong> The lockdowns might have put a hold on touring, but bands definitely didn&#8217;t just hang up the towel and quit. The internet has been a huge advantage for big, touring bands.</p>
 
 
 
-<p>There have been virtual concerts, online album release parties, and all kinds of other ways for bands to engage with fans. Luckily, things are getting back on track for most bands, as shows have started popping up more and more across the country. But to say it was a gut punch for most artists when tours were being cancelled, is an understatement. We talked with <a href="https://www.electrikjam.com/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" target="_blank" data-type="post" data-id="1281" rel="noopener" data-lasso-id="21745"><strong>Sinaro</strong></a> earlier this year about the lockdowns, disappointments, and cancelled tours.</p>
+<p>There have been virtual concerts, online album release parties, and all kinds of other ways for bands to engage with fans. Luckily, things are getting back on track for most bands, as shows have started popping up more and more across the country. But to say it was a gut punch for most artists when tours were being cancelled, is an understatement. We talked with <a href="/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" target="_blank" data-type="post" data-id="1281" rel="noopener" data-lasso-id="21745"><strong>Sinaro</strong></a> earlier this year about the lockdowns, disappointments, and cancelled tours.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>If you are unfamiliar with Sinaro, you are missing out on some seriously <em>awesome</em> Metal. I like to think of Sinaro as a band that picked up where <a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" target="_blank" data-type="post" data-id="2988" rel="noopener" data-lasso-id="21747"><strong>Metallica</strong></a> left off in the late 80&#8217;s&#8230; carrying the torch, and progressing further than their peers. Gus writes some really interesting riffs that harken back to 80&#8217;s thrash just as much as he pulls from more modern influences. The result is a no holds barred approach to songwriting that can be melodic<em> and </em>brutal at the same time:</p>
+<p>If you are unfamiliar with Sinaro, you are missing out on some seriously <em>awesome</em> Metal. I like to think of Sinaro as a band that picked up where <a href="/metallica-guitar-tunings-over-the-years/" target="_blank" data-type="post" data-id="2988" rel="noopener" data-lasso-id="21747"><strong>Metallica</strong></a> left off in the late 80&#8217;s&#8230; carrying the torch, and progressing further than their peers. Gus writes some really interesting riffs that harken back to 80&#8217;s thrash just as much as he pulls from more modern influences. The result is a no holds barred approach to songwriting that can be melodic<em> and </em>brutal at the same time:</p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>We seem to live in an age where Metal has been very homogenized, and everyone is <em>still</em> trying to be the next <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218839">Periphery</a> or <strong>Architects</strong>. Progressive metal is certainly a trend that doesn&#8217;t seem to have an end in sight. But it&#8217;s not that I dislike Prog Metal at all, I quite enjoy it. But it is no longer special if <em>everyone</em> is doing it. Some bands have changed their whole style just to cash in.</p>
+<p>We seem to live in an age where Metal has been very homogenized, and everyone is <em>still</em> trying to be the next <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218839">Periphery</a> or <strong>Architects</strong>. Progressive metal is certainly a trend that doesn&#8217;t seem to have an end in sight. But it&#8217;s not that I dislike Prog Metal at all, I quite enjoy it. But it is no longer special if <em>everyone</em> is doing it. Some bands have changed their whole style just to cash in.</p>
 
 
 
@@ -80,11 +80,11 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong><em>&#8220;Extinction&#8221; sets the tone for &#8220;The Living Dead&#8221; album and was hugely inspired by Metallica’s &#8220;Blackened&#8221; and &#8220;&#8230;And Justice for All&#8221; album. It’s scary that the lyrical content of that Metallica album is still relevant today and the riffs are just as menacing as they were over 30 years ago. An absolute masterpiece in my eyes. </em></strong></p><p><em><strong>I also obviously infused some of my other influences in writing “The Living Dead” album. You can hear a blend of some <a href="https://www.electrikjam.com/pantera-reunion-tour/" data-lasso-id="140270">Pantera</a>, Machine Head, Megadeth, Annihilator, Trivium, All That Remains, and many more. </strong></em></p><p><em><strong>Fun fact: I wrote and recorded all <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="21755">guitars</a>, bass and vocals for all of SINARO albums out there! I’m glad I was able to achieve the vision I had in my head and established the band&#8217;s sound. But, I do look forward to collaborating with my band now, and writing new material as a collective instead of me doing all the hard work!&#8221;</strong></em></p><cite><strong>Gus Sinaro</strong></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong><em>&#8220;Extinction&#8221; sets the tone for &#8220;The Living Dead&#8221; album and was hugely inspired by Metallica’s &#8220;Blackened&#8221; and &#8220;&#8230;And Justice for All&#8221; album. It’s scary that the lyrical content of that Metallica album is still relevant today and the riffs are just as menacing as they were over 30 years ago. An absolute masterpiece in my eyes. </em></strong></p><p><em><strong>I also obviously infused some of my other influences in writing “The Living Dead” album. You can hear a blend of some <a href="/pantera-reunion-tour/" data-lasso-id="140270">Pantera</a>, Machine Head, Megadeth, Annihilator, Trivium, All That Remains, and many more. </strong></em></p><p><em><strong>Fun fact: I wrote and recorded all <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="21755">guitars</a>, bass and vocals for all of SINARO albums out there! I’m glad I was able to achieve the vision I had in my head and established the band&#8217;s sound. But, I do look forward to collaborating with my band now, and writing new material as a collective instead of me doing all the hard work!&#8221;</strong></em></p><cite><strong>Gus Sinaro</strong></cite></blockquote>
 
 
 
-<p>&#8220;Extinction&#8221; acts as the <em>perfect</em> opener for the album, to me. You get some very soothing harmonized guitar melodies at the beginning over <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196549">clean guitar chords</a>. This almost lulls you into a false sense of security. You know you&#8217;re about to get smacked with a riff any moment now! When the riff does finally kick in, it&#8217;s a brutal <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="21749"><strong>7 string</strong> </a>punch in the teeth. The riff reminds me of something Carcass would have written in the 90&#8217;s, but we are just getting warmed up!</p>
+<p>&#8220;Extinction&#8221; acts as the <em>perfect</em> opener for the album, to me. You get some very soothing harmonized guitar melodies at the beginning over <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196549">clean guitar chords</a>. This almost lulls you into a false sense of security. You know you&#8217;re about to get smacked with a riff any moment now! When the riff does finally kick in, it&#8217;s a brutal <a href="/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="21749"><strong>7 string</strong> </a>punch in the teeth. The riff reminds me of something Carcass would have written in the 90&#8217;s, but we are just getting warmed up!</p>
 
 
 
@@ -106,11 +106,11 @@ seo:
 
 
 
-<p>Gus Sinaro used his typical setup for the recording, something he calls the<strong> &#8220;Three E&#8217;s&#8221;</strong>. <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104016">This refers to ESP Guitars</a>, EMG Pickups, and Ernie Ball.:</p>
+<p>Gus Sinaro used his typical setup for the recording, something he calls the<strong> &#8220;Three E&#8217;s&#8221;</strong>. <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104016">This refers to ESP Guitars</a>, EMG Pickups, and Ernie Ball.:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>ESP/LTD Guitars</strong> <strong>(MH Models)</strong></li><li><strong>EMG Pickups </strong><strong>(<a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91762">Hetfield Set and The 57/66 Set)</a> </strong></li><li><strong>Hughes And Kettner Amps</strong></li><li><strong>KHDK Pedals</strong></li><li><strong>Ernie Ball Strings</strong></li></ul>
+<ul class="wp-block-list"><li><strong>ESP/LTD Guitars</strong> <strong>(MH Models)</strong></li><li><strong>EMG Pickups </strong><strong>(<a href="/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91762">Hetfield Set and The 57/66 Set)</a> </strong></li><li><strong>Hughes And Kettner Amps</strong></li><li><strong>KHDK Pedals</strong></li><li><strong>Ernie Ball Strings</strong></li></ul>
 
 
 

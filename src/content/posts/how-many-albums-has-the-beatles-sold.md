@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>🔝 <strong>Top Performers</strong>: <strong><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="265742">Abbey Road and The Beatles (White Album) </a></strong>follow closely with sales of nearly 20 million and 14 million respectively. 🏅</p>
+<p>🔝 <strong>Top Performers</strong>: <strong><a href="/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="265742">Abbey Road and The Beatles (White Album) </a></strong>follow closely with sales of nearly 20 million and 14 million respectively. 🏅</p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/beatles-albums-in-order-1024x683.png" alt="beatles albums in order and other interesting stats" class="wp-image-14982" title="" srcset="/wp-content/uploads/2023/01/beatles-albums-in-order-1024x683.png 1024w, /wp-content/uploads/2023/01/beatles-albums-in-order-600x400.png 600w, /wp-content/uploads/2023/01/beatles-albums-in-order-300x200.png 300w, /wp-content/uploads/2023/01/beatles-albums-in-order-768x512.png 768w, /wp-content/uploads/2023/01/beatles-albums-in-order.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="265745">Beatles Albums In Order: A Deep Dive Covering Stats, Reception, Impact &amp; More</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/beatles-albums-in-order-1024x683.png" alt="beatles albums in order and other interesting stats" class="wp-image-14982" title="" srcset="/wp-content/uploads/2023/01/beatles-albums-in-order-1024x683.png 1024w, /wp-content/uploads/2023/01/beatles-albums-in-order-600x400.png 600w, /wp-content/uploads/2023/01/beatles-albums-in-order-300x200.png 300w, /wp-content/uploads/2023/01/beatles-albums-in-order-768x512.png 768w, /wp-content/uploads/2023/01/beatles-albums-in-order.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="265745">Beatles Albums In Order: A Deep Dive Covering Stats, Reception, Impact &amp; More</a></strong></figcaption></figure>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 <div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-289c189c wp-block-group-is-layout-flex">
-<p class="has-base-color has-text-color has-link-color has-small-font-size wp-elements-9e21d8d18ba3322e3d5a538d4958e5ca" style="text-decoration:underline"><strong><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="265746">GUIDE: The Beatles Albums In Order</a></strong></p>
+<p class="has-base-color has-text-color has-link-color has-small-font-size wp-elements-9e21d8d18ba3322e3d5a538d4958e5ca" style="text-decoration:underline"><strong><a href="/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="265746">GUIDE: The Beatles Albums In Order</a></strong></p>
 
 
 

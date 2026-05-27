@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>Doom Metal is all about being heavy, slow and foreboding. Sure, you can achieve a heavy guitar sound in <a href="https://www.electrikjam.com/guitar-tuning/" data-lasso-id="1705">standard tuning</a>. But there are several different Doom Metal tunings that the pros prefer. Today, we take a look at the top 5!</strong></p>
+<p><strong>Doom Metal is all about being heavy, slow and foreboding. Sure, you can achieve a heavy guitar sound in <a href="/guitar-tuning/" data-lasso-id="1705">standard tuning</a>. But there are several different Doom Metal tunings that the pros prefer. Today, we take a look at the top 5!</strong></p>
 
 
 
@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Over the past month or so we have talked about<a href="https://www.electrikjam.com/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="1418"> Doom Metal extensively</a>. And to be fair, we can probably continue to talk about it for a long time. Doom Metal is one of the only genres of metal that really hasn&#8217;t changed too much over the years.</p>
+<p>Over the past month or so we have talked about<a href="/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="1418"> Doom Metal extensively</a>. And to be fair, we can probably continue to talk about it for a long time. Doom Metal is one of the only genres of metal that really hasn&#8217;t changed too much over the years.</p>
 
 
 
@@ -51,11 +51,11 @@ seo:
 
 
 
-<p>So we have talked about<a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="1419"> guitars</a>,<a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" class="rank-math-link" data-lasso-id="1420"> amps</a>, and even <a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="1421">pedals</a>. Now it&#8217;s time to move on to our final phase&#8230;Doom Metal Tunings.</p>
+<p>So we have talked about<a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="1419"> guitars</a>,<a href="/the-5-best-amps-for-doom-metal-in-2020/" class="rank-math-link" data-lasso-id="1420"> amps</a>, and even <a href="/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="1421">pedals</a>. Now it&#8217;s time to move on to our final phase&#8230;Doom Metal Tunings.</p>
 
 
 
-<p>We are going to run through each <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1422">tuning</a> like this, as we try to explore why a tuning works:</p>
+<p>We are going to run through each <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1422">tuning</a> like this, as we try to explore why a tuning works:</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>If you are just getting into Doom/Stoner/Sludge the <a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="1423">Drop D tuning is where it&#8217;s at</a>! Especially if you have <a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216930">played in Standard Tuning</a> for a while. The low string being tuned down takes a little while to get used to. But it is definitely worth exploring!</p>
+<p>If you are just getting into Doom/Stoner/Sludge the <a href="/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="1423">Drop D tuning is where it&#8217;s at</a>! Especially if you have <a href="/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216930">played in Standard Tuning</a> for a while. The low string being tuned down takes a little while to get used to. But it is definitely worth exploring!</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>Drop D is the basis for a<em> lot </em>of the tunings that will be mentioned here. Almost <a href="https://www.electrikjam.com/drop-d-vs-drop-c-whats-the-difference/" data-lasso-id="69696">all drop tunings</a> are based on Drop D, just with different notes. There are tons of bands that have used Drop D:</p>
+<p>Drop D is the basis for a<em> lot </em>of the tunings that will be mentioned here. Almost <a href="/drop-d-vs-drop-c-whats-the-difference/" data-lasso-id="69696">all drop tunings</a> are based on Drop D, just with different notes. There are tons of bands that have used Drop D:</p>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<p>Drop D is like the starting point for <a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="1424">learning about drop tunings</a>. It gives you a good reference of how other drop tunings work, without needing to <a href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211013">change much about your guitar</a>, strings, or setup. Just tune down that lowest string one step down! So to make a D chord&#8230;</p>
+<p>Drop D is like the starting point for <a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="1424">learning about drop tunings</a>. It gives you a good reference of how other drop tunings work, without needing to <a href="/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211013">change much about your guitar</a>, strings, or setup. Just tune down that lowest string one step down! So to make a D chord&#8230;</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>Drop D is interesting because it changes the dynamic of how you play. But if you like standard tuning yet you want to go a little lower, <a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-lasso-id="12176">then D standard is the way to go</a>. <a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221307">Just like standard tuning</a> goes from E to E&#8230; D standard tuning does from D to D.</p>
+<p>Drop D is interesting because it changes the dynamic of how you play. But if you like standard tuning yet you want to go a little lower, <a href="/most-common-guitar-tunings/" data-lasso-id="12176">then D standard is the way to go</a>. <a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221307">Just like standard tuning</a> goes from E to E&#8230; D standard tuning does from D to D.</p>
 
 
 
@@ -119,11 +119,11 @@ seo:
 
 
 
-<p>D standard is <a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-lasso-id="1425">used a ton in Metal music, and is probably most popular for being used by  Metallica</a>  in the songs &#8221; Sad But True&#8221; and &#8220;The Thing That Should Not Be&#8221;. Both of these songs are perfect examples of going<em> slow and low.</em></p>
+<p>D standard is <a href="/metallica-guitar-tunings-over-the-years/" data-lasso-id="1425">used a ton in Metal music, and is probably most popular for being used by  Metallica</a>  in the songs &#8221; Sad But True&#8221; and &#8220;The Thing That Should Not Be&#8221;. Both of these songs are perfect examples of going<em> slow and low.</em></p>
 
 
 
-<p><a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125936">Scales work the same way</a> that they would work in standard tuning. You should use this tuning if you are familiar to chord voicings in standard, as it is identical&#8230;just lower in pitch. </p>
+<p><a href="/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125936">Scales work the same way</a> that they would work in standard tuning. You should use this tuning if you are familiar to chord voicings in standard, as it is identical&#8230;just lower in pitch. </p>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/ernie-ball-11-54/" class="rank-math-link" data-lasso-id="1426">&gt; GET THESE STRINGS</a></strong></p>
+<p><strong><a href="/recommends/ernie-ball-11-54/" class="rank-math-link" data-lasso-id="1426">&gt; GET THESE STRINGS</a></strong></p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>For modern doom metal, this seems to be the most popular option when it comes to tunings. Drop C is half a step down from <a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-lasso-id="86085">D Standard</a>. So the tuning is the same, but you just drop the 6th string down to C</p>
+<p>For modern doom metal, this seems to be the most popular option when it comes to tunings. Drop C is half a step down from <a href="/bands-that-play-in-d-standard/" data-lasso-id="86085">D Standard</a>. So the tuning is the same, but you just drop the 6th string down to C</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>As far as strings go, I use the same strings as <a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-lasso-id="1427">mentioned above for D standard tuning</a>. Once again, just dropping the bottom string doesn&#8217;t throw anything out of whack. The lowest string is a .54 in the Ernie Ball Set, and should handle the job fine.</p>
+<p>As far as strings go, I use the same strings as <a href="/d-standard-tuning-guide-how-to/" data-lasso-id="1427">mentioned above for D standard tuning</a>. Once again, just dropping the bottom string doesn&#8217;t throw anything out of whack. The lowest string is a .54 in the Ernie Ball Set, and should handle the job fine.</p>
 
 
 
@@ -191,15 +191,15 @@ seo:
 
 
 
-<p>C standard tuning is <a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-lasso-id="1428">not as popular as drop C</a> in the Doom Metal world. Some of the same bands that play in drop C, eventually moved on to play in C standard, or they switch back and forth between the two.</p>
+<p>C standard tuning is <a href="/bands-that-use-drop-c-tuning/" data-lasso-id="1428">not as popular as drop C</a> in the Doom Metal world. Some of the same bands that play in drop C, eventually moved on to play in C standard, or they switch back and forth between the two.</p>
 
 
 
-<ul class="wp-block-list"><li>High on Fire</li><li><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16008">Queens of The Stone Age</a></li><li>The Sword</li><li>Royal Blood</li><li><a href="https://www.electrikjam.com/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="8215">Chelsea Wolf</a></li><li>Sepultura</li><li>Mrs. Piss</li><li>Early Soundgarden</li></ul>
+<ul class="wp-block-list"><li>High on Fire</li><li><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16008">Queens of The Stone Age</a></li><li>The Sword</li><li>Royal Blood</li><li><a href="/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="8215">Chelsea Wolf</a></li><li>Sepultura</li><li>Mrs. Piss</li><li>Early Soundgarden</li></ul>
 
 
 
-<p>I enjoy playing in C standard. While it&#8217;s not <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142222">the most popular of doom metal tunings, for some people the feel of standard tuning just works better</a> for them. <strong><a class="rank-math-link" href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-lasso-id="1429">Sleep&#8217;s Matt Pike tends to favor this tuning</a></strong>. He used it on DOPESMOKER and Holy Mountain. </p>
+<p>I enjoy playing in C standard. While it&#8217;s not <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142222">the most popular of doom metal tunings, for some people the feel of standard tuning just works better</a> for them. <strong><a class="rank-math-link" href="/matt-pike-dopesmoker-sleep/" data-lasso-id="1429">Sleep&#8217;s Matt Pike tends to favor this tuning</a></strong>. He used it on DOPESMOKER and Holy Mountain. </p>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/ernie-ball-12s/" class="rank-math-link" data-lasso-id="1430">&gt; GET THESE STRINGS</a></strong></p>
+<p><strong><a href="/recommends/ernie-ball-12s/" class="rank-math-link" data-lasso-id="1430">&gt; GET THESE STRINGS</a></strong></p>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<p>As far as bands go, drop B is definitely not as popular when it comes to Doom Metal tunings, but there are a few bands that use it. And the bands that use it have an iconic sound because they are tuned so low. Some of these bands listed are more than just <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2793">Doom Metal bands</a>, but they certainly borrow from the genre often.</p>
+<p>As far as bands go, drop B is definitely not as popular when it comes to Doom Metal tunings, but there are a few bands that use it. And the bands that use it have an iconic sound because they are tuned so low. Some of these bands listed are more than just <a href="/90s-metal-bands/" data-lasso-id="2793">Doom Metal bands</a>, but they certainly borrow from the genre often.</p>
 
 
 
@@ -247,11 +247,11 @@ seo:
 
 
 
-<p>As mentioned earlier, drop B is really low. Your Guitar will definitely need a full setup. I recommend &#8220;Mammoth Slinky&#8221; strings by <a href="https://www.music-man.com/" class="rank-math-link" data-lasso-id="1431" target="_blank" rel="noopener noreferrer nofollow">Ernie Ball</a>. This is a set of strings made especially for <a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" data-lasso-id="1432">drop B or drop A tuning</a>, and they work great. If you take a look at <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="1433">7 string guitars (B standard</a>) or baritone guitar sets, youll see that the Mammoth string gauges are pretty similar.</p>
+<p>As mentioned earlier, drop B is really low. Your Guitar will definitely need a full setup. I recommend &#8220;Mammoth Slinky&#8221; strings by <a href="https://www.music-man.com/" class="rank-math-link" data-lasso-id="1431" target="_blank" rel="noopener noreferrer nofollow">Ernie Ball</a>. This is a set of strings made especially for <a href="/the-3-best-strings-for-drop-c-tuning/" data-lasso-id="1432">drop B or drop A tuning</a>, and they work great. If you take a look at <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="1433">7 string guitars (B standard</a>) or baritone guitar sets, youll see that the Mammoth string gauges are pretty similar.</p>
 
 
 
-<p>For this reason, you may need to cut the nut on your guitar, to fit the strings. You will also have to adjust the neck, string height, and intonation. I recommend using a specific guitar for <a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="1434">drop B tuning</a>, aside from your main guitar.</p>
+<p>For this reason, you may need to cut the nut on your guitar, to fit the strings. You will also have to adjust the neck, string height, and intonation. I recommend using a specific guitar for <a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="1434">drop B tuning</a>, aside from your main guitar.</p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/ernie-ball-mammoth/" class="rank-math-link" data-lasso-id="1435">&gt; GET THESE STRINGS</a></strong></p>
+<p><strong><a href="/recommends/ernie-ball-mammoth/" class="rank-math-link" data-lasso-id="1435">&gt; GET THESE STRINGS</a></strong></p>
 
 
 
@@ -301,7 +301,7 @@ seo:
 
 
 
-<p>On the devil&#8217;s advocate side of things, <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99325">drop tunings are a good tool</a>, but guitar is a mid-range instrument. I feel like if you go too low, you take the character out of the guitar that makes it&#8230;well, a guitar. This is why I didn&#8217;t list anything past drop B. I feel like anything past that is going into <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1436">baritone territory</a>.</p>
+<p>On the devil&#8217;s advocate side of things, <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99325">drop tunings are a good tool</a>, but guitar is a mid-range instrument. I feel like if you go too low, you take the character out of the guitar that makes it&#8230;well, a guitar. This is why I didn&#8217;t list anything past drop B. I feel like anything past that is going into <a href="/types-of-guitars-guide/" data-lasso-id="1436">baritone territory</a>.</p>
 
 
 

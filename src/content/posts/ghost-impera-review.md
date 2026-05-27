@@ -39,15 +39,15 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="90544">Ghost has changed quite a bit</a></strong> since it first exploded onto the global music scene back in 2014. Fronted by the now outed Tobias Forge, Ghost is no longer as mysterious as it once was despite the masks and the ever-changing persona of Forge when fronting the band.</p>
+<p><strong><a href="/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="90544">Ghost has changed quite a bit</a></strong> since it first exploded onto the global music scene back in 2014. Fronted by the now outed Tobias Forge, Ghost is no longer as mysterious as it once was despite the masks and the ever-changing persona of Forge when fronting the band.</p>
 
 
 
-<p>Now five albums deep, Ghost is one of the biggest bands working today. <strong><a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="90545">James Hetfield is a big fan</a></strong> and so too are millions of people the world over. Me? I took a while to warm to Ghost. I always liked its branding but I was never sold on Forge’s vocals –&nbsp;at least not right away. Even on now-classic albums like <strong><em>Meliora</em></strong>, I found Forge’s vocals a little weak, a bit too nasal.</p>
+<p>Now five albums deep, Ghost is one of the biggest bands working today. <strong><a href="/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="90545">James Hetfield is a big fan</a></strong> and so too are millions of people the world over. Me? I took a while to warm to Ghost. I always liked its branding but I was never sold on Forge’s vocals –&nbsp;at least not right away. Even on now-classic albums like <strong><em>Meliora</em></strong>, I found Forge’s vocals a little weak, a bit too nasal.</p>
 
 
 
-<p>The music has always been killer. Forge is a brilliant songwriter; he knows his way around the guitar and has <strong><a href="https://www.electrikjam.com/what-guitar-tuning-do-ghost-use/" data-type="post" data-id="7230" data-lasso-id="90546">produced a raft of iconic guitar riffs</a></strong> and bass lines. From the dreary, doom-drenched <strong><em>Opus</em></strong> <strong><em>Eponymous</em></strong>, complete with plenty of ecclesiastically themed horror keyboards, to my personal favorite, <strong><em>Meliora</em></strong>, and the genre-smashing cabaret-styled <strong><em>Prequelle</em></strong>, show that Forge is always up for doing something different, taking the band in new and unexpected directions.</p>
+<p>The music has always been killer. Forge is a brilliant songwriter; he knows his way around the guitar and has <strong><a href="/what-guitar-tuning-do-ghost-use/" data-type="post" data-id="7230" data-lasso-id="90546">produced a raft of iconic guitar riffs</a></strong> and bass lines. From the dreary, doom-drenched <strong><em>Opus</em></strong> <strong><em>Eponymous</em></strong>, complete with plenty of ecclesiastically themed horror keyboards, to my personal favorite, <strong><em>Meliora</em></strong>, and the genre-smashing cabaret-styled <strong><em>Prequelle</em></strong>, show that Forge is always up for doing something different, taking the band in new and unexpected directions.</p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>IMPERA, <a data-lasso-id="91795" href="https://www.electrikjam.com/best-ghost-album/">like most other Ghost albums</a>, is a concept album; <strong>it is about the fall of empires</strong>. And like other Ghost records, it has a killer intro track that sets the mood for the rest of the record. Things move pretty quickly on IMPERA, switching from what can only be described as classic rock-style ballads to heavier, riffier stuff. Personally, I like Ghost best when it is doing the latter.</p>
+<p>IMPERA, <a data-lasso-id="91795" href="/best-ghost-album/">like most other Ghost albums</a>, is a concept album; <strong>it is about the fall of empires</strong>. And like other Ghost records, it has a killer intro track that sets the mood for the rest of the record. Things move pretty quickly on IMPERA, switching from what can only be described as classic rock-style ballads to heavier, riffier stuff. Personally, I like Ghost best when it is doing the latter.</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>But Crowley and, more specifically, his religion, Thelema, has had plenty of musical followers over the years, including David Bowie and <strong><a href="https://www.electrikjam.com/the-forbidden-riff/" data-type="post" data-id="7023" data-lasso-id="95551">Jimmy Page</a></strong> – Page even bought Crowley’s old house in Scotland. Crowley also featured prominently on <strong><a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" data-lasso-id="95552">The Beatle’s Sargent Pepper’s album</a></strong> cover, alongside other esoteric luminaries.</p>
+<p>But Crowley and, more specifically, his religion, Thelema, has had plenty of musical followers over the years, including David Bowie and <strong><a href="/the-forbidden-riff/" data-type="post" data-id="7023" data-lasso-id="95551">Jimmy Page</a></strong> – Page even bought Crowley’s old house in Scotland. Crowley also featured prominently on <strong><a href="/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" data-lasso-id="95552">The Beatle’s Sargent Pepper’s album</a></strong> cover, alongside other esoteric luminaries.</p>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p><strong><em>IMPERA</em></strong> does sound gorgeous on a decent set of studio monitors, though, and the production is brilliant. The <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184905">guitar tones</a>, as always, are superb. The drums sound huge. Even the more theatrical, orchestral stuff fits in well with the theme of the record. As records go, <strong><em>IMPERA</em></strong> shows yet more evolution in Ghost’s sound. The only question is whether or not you like the direction the band is going in.</p>
+<p><strong><em>IMPERA</em></strong> does sound gorgeous on a decent set of studio monitors, though, and the production is brilliant. The <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184905">guitar tones</a>, as always, are superb. The drums sound huge. Even the more theatrical, orchestral stuff fits in well with the theme of the record. As records go, <strong><em>IMPERA</em></strong> shows yet more evolution in Ghost’s sound. The only question is whether or not you like the direction the band is going in.</p>
 
 
 

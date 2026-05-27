@@ -40,15 +40,15 @@ seo:
 
 
 
-<p><strong>Guitar, for the most part, is a portable instrument.<span style="color: #9b51e0;" class="ugb-highlight"> <a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" target="_blank" data-type="post" data-id="583" rel="noopener" data-lasso-id="1536">It was invented to be so</a></span></strong>! The acoustic guitar can go a long way when it comes to portability. It has a sound hole that amplifies it. The <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1537">acoustic guitar</a> is pretty loud all on its own.</em> But when it comes to electric guitars, you need something to amplify the sound. This makes electric guitars much less portable.</p>
+<p><strong>Guitar, for the most part, is a portable instrument.<span style="color: #9b51e0;" class="ugb-highlight"> <a href="/who-invented-the-electric-guitar/" target="_blank" data-type="post" data-id="583" rel="noopener" data-lasso-id="1536">It was invented to be so</a></span></strong>! The acoustic guitar can go a long way when it comes to portability. It has a sound hole that amplifies it. The <a href="/types-of-guitars-guide/" data-lasso-id="1537">acoustic guitar</a> is pretty loud all on its own.</em> But when it comes to electric guitars, you need something to amplify the sound. This makes electric guitars much less portable.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="1538">Mini guitar amps</a> have always been a thing, even 40-50 years ago. Most of these were tiny and battery powered, and they could be taken wherever you go<strong>.<a href="https://en.wikipedia.org/wiki/Pignose" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1539"><span style="color: #9b51e0;" class="ugb-highlight"> I think the Pignose was one of the first</span> </a>r</strong>eally portable amps of yester-year. The original Pignose was a bare-bones amp that was highly portable. But the catch, was that it lacked most of the features that a larger amp would have. It was operated by a single control.</p>
+<p><a href="/boss-katana-50-reviews/" data-lasso-id="1538">Mini guitar amps</a> have always been a thing, even 40-50 years ago. Most of these were tiny and battery powered, and they could be taken wherever you go<strong>.<a href="https://en.wikipedia.org/wiki/Pignose" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1539"><span style="color: #9b51e0;" class="ugb-highlight"> I think the Pignose was one of the first</span> </a>r</strong>eally portable amps of yester-year. The original Pignose was a bare-bones amp that was highly portable. But the catch, was that it lacked most of the features that a larger amp would have. It was operated by a single control.</p>
 
 
 
-<p>The original Pignose amplifier was a single channel amp with basic controls. There were no built in effects or anything of the sort. These little single channel <a href="https://www.electrikjam.com/what-are-power-amp-pedals-explained/" data-lasso-id="200812">amps are powered</a> by 6 AA batteries, and have rubber knobs. Despite the simplicity off these little guys, big artists modded them and even used them on albums. <a href="https://www.electrikjam.com/the-forbidden-riff/" data-lasso-id="86013"><strong>Led Zeppelin</strong></a> being one of the biggest names to <em>use them on albums</em>. It has since gone down in history as one of the best mini <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18312">guitar amps</a>.</p>
+<p>The original Pignose amplifier was a single channel amp with basic controls. There were no built in effects or anything of the sort. These little single channel <a href="/what-are-power-amp-pedals-explained/" data-lasso-id="200812">amps are powered</a> by 6 AA batteries, and have rubber knobs. Despite the simplicity off these little guys, big artists modded them and even used them on albums. <a href="/the-forbidden-riff/" data-lasso-id="86013"><strong>Led Zeppelin</strong></a> being one of the biggest names to <em>use them on albums</em>. It has since gone down in history as one of the best mini <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18312">guitar amps</a>.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>But times have changed, and the best mini <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-lasso-id="155188">guitar amps</a> have loads of features these days! We have come a long way when you look at solid-state technology! Companies have been making tiny versions of the most popular amps for the last 5-7 years, and they have been a huge success for people on the go. Today we take a look at the best mini <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149205">guitar amps</a>, and check out the features that they have!</p>
+<p>But times have changed, and the best mini <a href="/how-to-mic-a-guitar-amp/" data-lasso-id="155188">guitar amps</a> have loads of features these days! We have come a long way when you look at solid-state technology! Companies have been making tiny versions of the most popular amps for the last 5-7 years, and they have been a huge success for people on the go. Today we take a look at the best mini <a href="/guitar-amp-controls-explained/" data-lasso-id="149205">guitar amps</a>, and check out the features that they have!</p>
 
 
 
@@ -84,15 +84,15 @@ seo:
 
 
 
-<p>The only other controls you get are volume and gain, and to be honest&#8230;that is pretty generous for an amp that can fit in your <strong><a href="https://www.electrikjam.com/the-best-gig-bags/" data-lasso-id="51430">gig bag</a> or backpack</strong>. You also get some cool delay <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184902">effects for lead tones</a>. With the controls you can dial in high gain Metal tones or<em> clean-ish </em>tones. I say clean-ish, because I cannot really get a sparkling clean <a href="https://www.electrikjam.com/the-5-best-cheap-amps-you-can-gig-with/" data-lasso-id="54184">tone with this amp</a>. But your mileage may vary.</p>
+<p>The only other controls you get are volume and gain, and to be honest&#8230;that is pretty generous for an amp that can fit in your <strong><a href="/the-best-gig-bags/" data-lasso-id="51430">gig bag</a> or backpack</strong>. You also get some cool delay <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184902">effects for lead tones</a>. With the controls you can dial in high gain Metal tones or<em> clean-ish </em>tones. I say clean-ish, because I cannot really get a sparkling clean <a href="/the-5-best-cheap-amps-you-can-gig-with/" data-lasso-id="54184">tone with this amp</a>. But your mileage may vary.</p>
 
 
 
-<p>The Blackstar FLY might have reinvigorated the trend of tiny amps, but it&#8217;s also remained one of the best mini <a href="https://www.electrikjam.com/electrikjam-link/" data-lasso-id="19867" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">guitar amps on the market</a>. Lot&#8217;s of <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5476">pro guitarists</a> use these backstage, and on the road! But the trend that Blackstar set, has been taken up by many other companies.</p>
+<p>The Blackstar FLY might have reinvigorated the trend of tiny amps, but it&#8217;s also remained one of the best mini <a href="/electrikjam-link/" data-lasso-id="19867" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">guitar amps on the market</a>. Lot&#8217;s of <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5476">pro guitarists</a> use these backstage, and on the road! But the trend that Blackstar set, has been taken up by many other companies.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/blackstar-fly/" target="_blank" rel="noopener" data-lasso-id="1540"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
+<p><strong><a href="/recommends/blackstar-fly/" target="_blank" rel="noopener" data-lasso-id="1540"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
 
 
 
@@ -104,11 +104,11 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/07/Katana.jpg" alt="" class="wp-image-3451" width="840" height="504" title="" srcset="/wp-content/uploads/2021/07/Katana.jpg 600w, /wp-content/uploads/2021/07/Katana-300x180.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155690"><strong>BOSS Katana</a> MINI</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/07/Katana.jpg" alt="" class="wp-image-3451" width="840" height="504" title="" srcset="/wp-content/uploads/2021/07/Katana.jpg 600w, /wp-content/uploads/2021/07/Katana-300x180.jpg 300w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em><a href="/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155690"><strong>BOSS Katana</a> MINI</strong></em></figcaption></figure>
 
 
 
-<p>We have <strong><a href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/" target="_blank" rel="noopener" data-lasso-id="1541"><span style="color: #9b51e0;" class="ugb-highlight">talked about the BOSS Katana more than once</span></a></strong>, here. The Katana series varies from this tiny little guy, all the way to 100 watt monsters built for the stage. The <a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133458">BOSS katana</a> series really pushes the limits of what a modeling amp can do, with several different customizable amp presets, that range between high gain to pristine clean. The features are similar to most amps this size.</p>
+<p>We have <strong><a href="/the-best-guitar-amps-under-100-bucks/" target="_blank" rel="noopener" data-lasso-id="1541"><span style="color: #9b51e0;" class="ugb-highlight">talked about the BOSS Katana more than once</span></a></strong>, here. The Katana series varies from this tiny little guy, all the way to 100 watt monsters built for the stage. The <a href="/boss-katana-50-watt-vs-100-watt/" data-lasso-id="133458">BOSS katana</a> series really pushes the limits of what a modeling amp can do, with several different customizable amp presets, that range between high gain to pristine clean. The features are similar to most amps this size.</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/boss-katana-mini/" target="_blank" rel="noopener" data-lasso-id="1542"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
+<p><strong><a href="/recommends/boss-katana-mini/" target="_blank" rel="noopener" data-lasso-id="1542"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<p>By far, the Yamaha THR is the best sounding of the mini <a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212788">guitar amps</a> to my ears. You have 5 different sounds that you can tweak that range from Fender-like clean tones all the way to high-gain Rock tones. These sound awfully close to their full size <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-lasso-id="62706">tube amp</a> counterparts, and you can really dial them in with the control set.</p>
+<p>By far, the Yamaha THR is the best sounding of the mini <a href="/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212788">guitar amps</a> to my ears. You have 5 different sounds that you can tweak that range from Fender-like clean tones all the way to high-gain Rock tones. These sound awfully close to their full size <a href="/the-best-budget-tube-amps/" data-lasso-id="62706">tube amp</a> counterparts, and you can really dial them in with the control set.</p>
 
 
 
@@ -166,11 +166,11 @@ seo:
 
 
 
-<p>The Yamaha THR is the perfect option for a person wanting a &#8220;desktop&#8221; amp more than something portable. Although, I imagine you could easily pack the <a href="https://www.electrikjam.com/yamaha-revstar-element-review/" data-lasso-id="91540">Yamaha</a> up if you wanted!</p>
+<p>The Yamaha THR is the perfect option for a person wanting a &#8220;desktop&#8221; amp more than something portable. Although, I imagine you could easily pack the <a href="/yamaha-revstar-element-review/" data-lasso-id="91540">Yamaha</a> up if you wanted!</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/3453-2/" target="_blank" rel="noopener" data-lasso-id="1543"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW THE LATEST PRICES</span></a></strong></p>
+<p><strong><a href="/recommends/3453-2/" target="_blank" rel="noopener" data-lasso-id="1543"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW THE LATEST PRICES</span></a></strong></p>
 
 
 

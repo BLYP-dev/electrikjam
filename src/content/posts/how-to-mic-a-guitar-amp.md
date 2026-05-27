@@ -43,15 +43,15 @@ seo:
 
 
 
-<p>Recording is much easier these days when it comes to <a data-lasso-id="154846" href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener"><strong>amp sims</strong></a>, and processors like the <a data-lasso-id="154847" href="https://www.electrikjam.com/line-6-helix-recording-techniques/" data-type="post" data-id="4209" target="_blank" rel="noopener"><strong>Helix</strong></a>. Those methods are super easy, especially if you use the USB function. But if all you have is a guitar amp, then that complicates things.</p>
+<p>Recording is much easier these days when it comes to <a data-lasso-id="154846" href="/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener"><strong>amp sims</strong></a>, and processors like the <a data-lasso-id="154847" href="/line-6-helix-recording-techniques/" data-type="post" data-id="4209" target="_blank" rel="noopener"><strong>Helix</strong></a>. Those methods are super easy, especially if you use the USB function. But if all you have is a guitar amp, then that complicates things.</p>
 
 
 
-<p>Many<a data-lasso-id="154848" href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener"> <strong>modern amps</strong></a>, like the <a data-lasso-id="154849" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong>BOSS Katana</strong> </a>has a USB function as well. But your regular old <a data-lasso-id="154850" href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener"><strong>tube amp</strong></a> is probably not going to have that kind of tech built in. Older tube amps in particular will have to be mic&#8217;d up to capture the sound when recording. Using a mic is pretty old school, and has been used in recording since <em>forever</em>.</p>
+<p>Many<a data-lasso-id="154848" href="/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener"> <strong>modern amps</strong></a>, like the <a data-lasso-id="154849" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong>BOSS Katana</strong> </a>has a USB function as well. But your regular old <a data-lasso-id="154850" href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener"><strong>tube amp</strong></a> is probably not going to have that kind of tech built in. Older tube amps in particular will have to be mic&#8217;d up to capture the sound when recording. Using a mic is pretty old school, and has been used in recording since <em>forever</em>.</p>
 
 
 
-<p>The thing is, once you learn how to mic<em> your</em> guitar amp, you will be able to mic just about <em>any </em>guitar amp. Not just yours! The process is pretty much the same no matter what kind of amp you are using. <a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="155177"><strong>Stack or combo</strong></a>, <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" target="_blank" data-type="post" data-id="8761" rel="noopener" data-lasso-id="155178"><strong>tube or solid state</strong></a>, the process remains virtually the same across the board.</p>
+<p>The thing is, once you learn how to mic<em> your</em> guitar amp, you will be able to mic just about <em>any </em>guitar amp. Not just yours! The process is pretty much the same no matter what kind of amp you are using. <a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="155177"><strong>Stack or combo</strong></a>, <a href="/choosing-a-guitar-amplifier/" target="_blank" data-type="post" data-id="8761" rel="noopener" data-lasso-id="155178"><strong>tube or solid state</strong></a>, the process remains virtually the same across the board.</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p><strong>Note: If you <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254838">use amp sims</a> that feature cabinet controls, and NEVER plan on putting a mic up to a real speaker, this guide can still help you! If you have ever wondered how to properly dial in your impulse response, or digital speaker controls, this guide will </strong><strong>shine</strong> <strong> some  light  on  what  those  features  are  doing </strong>!</em></strong></p>
+<p><strong>Note: If you <a href="/neural-amp-modeler/" data-lasso-id="254838">use amp sims</a> that feature cabinet controls, and NEVER plan on putting a mic up to a real speaker, this guide can still help you! If you have ever wondered how to properly dial in your impulse response, or digital speaker controls, this guide will </strong><strong>shine</strong> <strong> some  light  on  what  those  features  are  doing </strong>!</em></strong></p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p><strong>The absolute first thing you want to do, is dial in your tone exactly how you want it.</strong> Chances are, you already have a sound in mind or you have your amp set the way it usually stays for <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="155179"><strong>shows</strong></a>. This can always be adjusted later, but its best to just have it dialed in the way you want.</p>
+<p><strong>The absolute first thing you want to do, is dial in your tone exactly how you want it.</strong> Chances are, you already have a sound in mind or you have your amp set the way it usually stays for <a href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="155179"><strong>shows</strong></a>. This can always be adjusted later, but its best to just have it dialed in the way you want.</p>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p><strong>Have a small mic stand handy.</strong> If you don&#8217;t have one of the smaller &#8220;desktop&#8221; <a href="https://www.electrikjam.com/gator-compact-base-bass-drum-and-amp-mic-stand-guitar-center/" target="_blank" data-type="lasso-urls" data-id="8831" rel="nofollow sponsored noopener" data-lasso-id="155180" data-lasso-name="Gator Compact Amp Mic Stand"><strong>mic stands</strong></a>, you can also position a boom mic downwards. Either way, you want the mic to be <em>easy to move around</em>. Most of all, you want the mic to be <strong>stable </strong>so it doesn&#8217;t move while you are recording.</p>
+<p><strong>Have a small mic stand handy.</strong> If you don&#8217;t have one of the smaller &#8220;desktop&#8221; <a href="/gator-compact-base-bass-drum-and-amp-mic-stand-guitar-center/" target="_blank" data-type="lasso-urls" data-id="8831" rel="nofollow sponsored noopener" data-lasso-id="155180" data-lasso-name="Gator Compact Amp Mic Stand"><strong>mic stands</strong></a>, you can also position a boom mic downwards. Either way, you want the mic to be <em>easy to move around</em>. Most of all, you want the mic to be <strong>stable </strong>so it doesn&#8217;t move while you are recording.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p><strong>Have the amp at you usual &#8220;playing&#8221; volume.</strong> This means your &#8220;stage volume&#8221; if you are playing in a band. You want the amp to be pretty loud, and this rule goes double if you have a <a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="155181"><strong>tube amp</strong></a>. You are trying to catch your amp in its &#8220;natural environment&#8221; so to speak, <strong>so you need it at the volume it sounds best.</strong></p>
+<p><strong>Have the amp at you usual &#8220;playing&#8221; volume.</strong> This means your &#8220;stage volume&#8221; if you are playing in a band. You want the amp to be pretty loud, and this rule goes double if you have a <a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="155181"><strong>tube amp</strong></a>. You are trying to catch your amp in its &#8220;natural environment&#8221; so to speak, <strong>so you need it at the volume it sounds best.</strong></p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p>This position is the mic position that you often see the soundman at a gig start with because it responds well to <strong>high volumes</strong>. It gets some of the cone&#8217;s mid frequencies in the mix, but also captures a good bit of bass and low-midrange. If your amp is naturally mid-heavy, like a <a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="254839">Fender</a>, this might be the sweet spot.</p>
+<p>This position is the mic position that you often see the soundman at a gig start with because it responds well to <strong>high volumes</strong>. It gets some of the cone&#8217;s mid frequencies in the mix, but also captures a good bit of bass and low-midrange. If your amp is naturally mid-heavy, like a <a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="254839">Fender</a>, this might be the sweet spot.</p>
 
 
 

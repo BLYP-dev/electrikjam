@@ -54,11 +54,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="258052">Ibanez makes a slew of killer guitars</a></strong> but it is guitars like the RG570 which helped the brand cement itself as one of the most beloved and trusted guitar brands on the planet. </p>
+<p><strong><a href="/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="258052">Ibanez makes a slew of killer guitars</a></strong> but it is guitars like the RG570 which helped the brand cement itself as one of the most beloved and trusted guitar brands on the planet. </p>
 
 
 
-<p>I never owned the Ibanez RG570 but I know people that did and they loved it. In fact, my good buddy Troy still has his OG Ibanez RG570 and he says it sounds just as good today as it did back in 1998 when he picked it up (although he did swap out the pickups for a set of <strong><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" data-lasso-id="258053">Seymour Duncan&#8217;s JB Model</a></strong>). </p>
+<p>I never owned the Ibanez RG570 but I know people that did and they loved it. In fact, my good buddy Troy still has his OG Ibanez RG570 and he says it sounds just as good today as it did back in 1998 when he picked it up (although he did swap out the pickups for a set of <strong><a href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" data-lasso-id="258053">Seymour Duncan&#8217;s JB Model</a></strong>). </p>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<p>Here&#8217;s a full breakdown of <strong><a href="https://www.electrikjam.com/ibanez-signature-guitars/" data-type="post" data-id="13462" data-lasso-id="258054">Ibanez&#8217;s current signature guitars</a></strong>. </p>
+<p>Here&#8217;s a full breakdown of <strong><a href="/ibanez-signature-guitars/" data-type="post" data-id="13462" data-lasso-id="258054">Ibanez&#8217;s current signature guitars</a></strong>. </p>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<p>The RG570&#8217;s production ran until 2002 in the USA and briefly in Europe. It was <strong><a href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="258055">replaced by the RG1570</a></strong> in 2003, part of Ibanez&#8217;s expanded Prestige line. Not familiar with Ibanez&#8217;s Prestige line? Here&#8217;s the skinny: </p>
+<p>The RG570&#8217;s production ran until 2002 in the USA and briefly in Europe. It was <strong><a href="/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="258055">replaced by the RG1570</a></strong> in 2003, part of Ibanez&#8217;s expanded Prestige line. Not familiar with Ibanez&#8217;s Prestige line? Here&#8217;s the skinny: </p>
 
 
 
@@ -290,7 +290,7 @@ seo:
 
 
 
-<p>Wanna know more about Ibanez guitars? Here&#8217;s a complete <strong><a href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="258056">beginner&#8217;s guide to getting started with Ibanez guitars. </a></strong></p>
+<p>Wanna know more about Ibanez guitars? Here&#8217;s a complete <strong><a href="/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="258056">beginner&#8217;s guide to getting started with Ibanez guitars. </a></strong></p>
 
 
 

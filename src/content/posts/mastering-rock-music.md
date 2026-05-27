@@ -112,7 +112,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="636" src="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png" alt="" class="wp-image-14686" title="" srcset="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png 1024w, /wp-content/uploads/2024/04/Mastering-techniques-600x373.png 600w, /wp-content/uploads/2024/04/Mastering-techniques-300x186.png 300w, /wp-content/uploads/2024/04/Mastering-techniques-768x477.png 768w, /wp-content/uploads/2024/04/Mastering-techniques-1536x955.png 1536w, /wp-content/uploads/2024/04/Mastering-techniques-2048x1273.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265567">A Screenshot From My Mastering 101: The Complete Beginner&#8217;s Framework</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="636" src="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png" alt="" class="wp-image-14686" title="" srcset="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png 1024w, /wp-content/uploads/2024/04/Mastering-techniques-600x373.png 600w, /wp-content/uploads/2024/04/Mastering-techniques-300x186.png 300w, /wp-content/uploads/2024/04/Mastering-techniques-768x477.png 768w, /wp-content/uploads/2024/04/Mastering-techniques-1536x955.png 1536w, /wp-content/uploads/2024/04/Mastering-techniques-2048x1273.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265567">A Screenshot From My Mastering 101: The Complete Beginner&#8217;s Framework</a></strong></figcaption></figure>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p>While there are many <a href="https://www.electrikjam.com/is-ai-mastering-worth-it/" target="_blank" rel="noopener" data-lasso-id="265568">AI mastering tools</a> available that claim to make the process easier, the truth is that <a href="https://www.electrikjam.com/is-it-hard-to-learn-music-mastering-yes-heres-why/" target="_blank" rel="noopener" data-lasso-id="265569">learning to master your own music is a valuable skill</a> that can benefit you throughout your career. </p>
+<p>While there are many <a href="/is-ai-mastering-worth-it/" target="_blank" rel="noopener" data-lasso-id="265568">AI mastering tools</a> available that claim to make the process easier, the truth is that <a href="/is-it-hard-to-learn-music-mastering-yes-heres-why/" target="_blank" rel="noopener" data-lasso-id="265569">learning to master your own music is a valuable skill</a> that can benefit you throughout your career. </p>
 
 
 
@@ -192,11 +192,11 @@ seo:
 
 
 
-<p>If you&#8217;re just starting out with rock music mastering, there are plenty of <a href="https://www.electrikjam.com/audio-mastering/" target="_blank" rel="noopener" data-lasso-id="265570">free tools and resources available</a> to help you get started. </p>
+<p>If you&#8217;re just starting out with rock music mastering, there are plenty of <a href="/audio-mastering/" target="_blank" rel="noopener" data-lasso-id="265570">free tools and resources available</a> to help you get started. </p>
 
 
 
-<p>My guide –&nbsp;<strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265571">Mastering 101: The Complete Beginner’s Framework</a></strong> –&nbsp;is designed to take you, step-by-step through the entire process. Is it beginner friendly? Yes, it is designed for someone with zero experience.&nbsp;</p>
+<p>My guide –&nbsp;<strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265571">Mastering 101: The Complete Beginner’s Framework</a></strong> –&nbsp;is designed to take you, step-by-step through the entire process. Is it beginner friendly? Yes, it is designed for someone with zero experience.&nbsp;</p>
 
 
 

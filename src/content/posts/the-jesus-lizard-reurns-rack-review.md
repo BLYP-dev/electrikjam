@@ -161,7 +161,7 @@ seo:
 
 
 
-<p>I was knee-deep into 90&#8217;s rock when I first heard The Jesus Lizard. Bands like Nirvana, <a href="https://www.electrikjam.com/album-reviews/melvins-tarantula-heart/" data-type="album-reviews" data-id="15318" data-lasso-id="269453"><strong>The Melvins</strong></a>, and Mudhoney were all the rage. Grunge had taken over the scene, 120 Minutes came on MTV weekly. It was a good time to be alive!</p>
+<p>I was knee-deep into 90&#8217;s rock when I first heard The Jesus Lizard. Bands like Nirvana, <a href="/album-reviews/melvins-tarantula-heart/" data-type="album-reviews" data-id="15318" data-lasso-id="269453"><strong>The Melvins</strong></a>, and Mudhoney were all the rage. Grunge had taken over the scene, 120 Minutes came on MTV weekly. It was a good time to be alive!</p>
 
 
 

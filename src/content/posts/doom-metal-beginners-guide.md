@@ -44,7 +44,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="281">Check Out The Best Guitars For Doom Metal</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong><a href="/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="281">Check Out The Best Guitars For Doom Metal</a></strong></li></ul>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<p>Tony Iommi essentially created “the doom sound” with his focus on slow, groovy, blues-laced riffs. Iommi’s approach to guitar, his tone, the way he wrote riffs, and how he used&nbsp;minor pentatonic scales has influenced every one from <a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-lasso-id="282">Metallica to EYEHATEGOD</a>.</p>
+<p>Tony Iommi essentially created “the doom sound” with his focus on slow, groovy, blues-laced riffs. Iommi’s approach to guitar, his tone, the way he wrote riffs, and how he used&nbsp;minor pentatonic scales has influenced every one from <a href="/metallica-guitar-tunings-over-the-years/" data-lasso-id="282">Metallica to EYEHATEGOD</a>.</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/wp-content/uploads/2020/10/Tony-Iommi-Fingers-1024x682.png" alt="" class="wp-image-1047" title="" srcset="/wp-content/uploads/2020/10/Tony-Iommi-Fingers-1024x682.png 1024w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-600x400.png 600w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-300x200.png 300w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-768x512.png 768w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers.png 1048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Tony Iommi&#8217;s Fingers –&nbsp;<strong><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="283">Check Out His Custom Epiphone SG Here</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/wp-content/uploads/2020/10/Tony-Iommi-Fingers-1024x682.png" alt="" class="wp-image-1047" title="" srcset="/wp-content/uploads/2020/10/Tony-Iommi-Fingers-1024x682.png 1024w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-600x400.png 600w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-300x200.png 300w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers-768x512.png 768w, /wp-content/uploads/2020/10/Tony-Iommi-Fingers.png 1048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Tony Iommi&#8217;s Fingers –&nbsp;<strong><a href="/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="283">Check Out His Custom Epiphone SG Here</a></strong></figcaption></figure>
 
 
 
@@ -138,19 +138,19 @@ seo:
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=WioN8dx5nAk
-</div><figcaption><a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="284"><strong>James Hetfield</a> Discusses How Black Sabbath Changed His Life</strong></figcaption></figure>
+</div><figcaption><a href="/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="284"><strong>James Hetfield</a> Discusses How Black Sabbath Changed His Life</strong></figcaption></figure>
 
 
 
-<p>But it wasn’t just doom metal that Sabbath inspired. Without Sabbath, <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2789">half of the metal bands we know</a> and love from the past 20 years probably wouldn’t exist.</p>
+<p>But it wasn’t just doom metal that Sabbath inspired. Without Sabbath, <a href="/90s-metal-bands/" data-lasso-id="2789">half of the metal bands we know</a> and love from the past 20 years probably wouldn’t exist.</p>
 
 
 
-<p>Bands like <strong><a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-lasso-id="285">Metallica</a>, Mastodon, Neurosis, Melvins. Hell, even Nirvana</strong>.</p>
+<p>Bands like <strong><a href="/metallica-songs-complete-list-inc-covers-rarities/" data-lasso-id="285">Metallica</a>, Mastodon, Neurosis, Melvins. Hell, even Nirvana</strong>.</p>
 
 
 
-<p>And Matt Pike, our lord and saviour, <strong><a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-lasso-id="286">wouldn&#8217;t have written DOPESMOKER</a></strong>.</p>
+<p>And Matt Pike, our lord and saviour, <strong><a href="/matt-pike-dopesmoker-sleep/" data-lasso-id="286">wouldn&#8217;t have written DOPESMOKER</a></strong>.</p>
 
 
 
@@ -170,7 +170,7 @@ https://www.youtube.com/watch?v=WioN8dx5nAk
 
 
 
-<p>When you think of <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5811">doom metal</a> nowadays, however, you have to think of it as Master Category. Inside this master category, there are many sub-genres of doom metal but the main (meaning most popular) are as follows:</p>
+<p>When you think of <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5811">doom metal</a> nowadays, however, you have to think of it as Master Category. Inside this master category, there are many sub-genres of doom metal but the main (meaning most popular) are as follows:</p>
 
 
 
@@ -182,7 +182,7 @@ https://www.youtube.com/watch?v=WioN8dx5nAk
 
 
 
-<ul class="wp-block-list"><li><strong>Sludge Metal –</strong>&nbsp;Sludge Metal is slow and heavy. The emphasis here is on slow, huge-sounding riffs. Bands like Melvins, BONGZILLA, and <a href="https://www.electrikjam.com/new-down-album/" data-lasso-id="104807">EYEHATEGOD</a> fit this category nicely with their slow, blues-style guitar riffs and pummelling percussion sections.</li><li><strong>Stoner Metal –</strong>&nbsp;Perhaps the most popular sub-genre born from Doom metal, stoner rock (or metal) is a similar to sludge metal, though it is often more upbeat and faster. Bands of this genre include Kyuss, Fu Mancho, Brant Bjork, and <a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16012">early Queens of The Stone Age</a>.</li><li><strong>Funeral Metal –</strong>&nbsp;Or, funeral dirge music, is slow and features heavily distorted guitars, synthesisers, and keyboards. Like doom metal, the idea here is slowness. The <a href="https://www.electrikjam.com/every-time-i-die-guitar-tunings/" data-lasso-id="3083">guitars are tuned</a> down low, the vocals can be melodic or screamed. Funeral doom has plenty of ambient elements too.</li><li><strong>Drone Doom –</strong>&nbsp;Doom drone is largely about noise; long, sustained passages of noise, usually guitars, though occasionally other elements like synths, that, when combined together, create a kind of wall of heavy ambient music. Sunn O))), Earth, and Boris are some of the key bands in this genre. Light on actual riffs and heavy on mood, drone doom is perhaps the least accessible sub-genre of doom metal.</li><li><strong>Death Doom –&nbsp;Death Doom brings in elements of death metal (<a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104746">double bass kick drums</a>) and growling vocals into the doom genre. Death doom music is still very slow, <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="287">the guitars are still tuned low</a>, and music is very heavy. Death doom bands include: Winter, My Dying Bridge, Early <a href="https://www.electrikjam.com/new-opeth-album-release-date/" data-lasso-id="67079">Opeth</a>, Paradise Lost, and Autopsy.</li></ul>
+<ul class="wp-block-list"><li><strong>Sludge Metal –</strong>&nbsp;Sludge Metal is slow and heavy. The emphasis here is on slow, huge-sounding riffs. Bands like Melvins, BONGZILLA, and <a href="/new-down-album/" data-lasso-id="104807">EYEHATEGOD</a> fit this category nicely with their slow, blues-style guitar riffs and pummelling percussion sections.</li><li><strong>Stoner Metal –</strong>&nbsp;Perhaps the most popular sub-genre born from Doom metal, stoner rock (or metal) is a similar to sludge metal, though it is often more upbeat and faster. Bands of this genre include Kyuss, Fu Mancho, Brant Bjork, and <a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16012">early Queens of The Stone Age</a>.</li><li><strong>Funeral Metal –</strong>&nbsp;Or, funeral dirge music, is slow and features heavily distorted guitars, synthesisers, and keyboards. Like doom metal, the idea here is slowness. The <a href="/every-time-i-die-guitar-tunings/" data-lasso-id="3083">guitars are tuned</a> down low, the vocals can be melodic or screamed. Funeral doom has plenty of ambient elements too.</li><li><strong>Drone Doom –</strong>&nbsp;Doom drone is largely about noise; long, sustained passages of noise, usually guitars, though occasionally other elements like synths, that, when combined together, create a kind of wall of heavy ambient music. Sunn O))), Earth, and Boris are some of the key bands in this genre. Light on actual riffs and heavy on mood, drone doom is perhaps the least accessible sub-genre of doom metal.</li><li><strong>Death Doom –&nbsp;Death Doom brings in elements of death metal (<a href="/ezdrummer-2-worth-it/" data-lasso-id="104746">double bass kick drums</a>) and growling vocals into the doom genre. Death doom music is still very slow, <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="287">the guitars are still tuned low</a>, and music is very heavy. Death doom bands include: Winter, My Dying Bridge, Early <a href="/new-opeth-album-release-date/" data-lasso-id="67079">Opeth</a>, Paradise Lost, and Autopsy.</li></ul>
 
 
 
@@ -212,7 +212,7 @@ https://www.youtube.com/watch?v=WioN8dx5nAk
 
 
 
-<p>If you’re looking to get into doom metal, I’d recommend starting with bands like Melvins, <a href="https://www.electrikjam.com/how-to-souond-like-kyuss/" data-lasso-id="90402">Kyuss</a>, Earth, Opeth’s first few albums (the good ones), and bands like Neurosis.</p>
+<p>If you’re looking to get into doom metal, I’d recommend starting with bands like Melvins, <a href="/how-to-souond-like-kyuss/" data-lasso-id="90402">Kyuss</a>, Earth, Opeth’s first few albums (the good ones), and bands like Neurosis.</p>
 
 
 
@@ -224,15 +224,15 @@ https://www.youtube.com/watch?v=WioN8dx5nAk
 
 
 
-<p>HEX by Earth is one of the finest doom metal albums of all time. If you want to get into semi-drone metal, HEX is a great place to start. And Dylan Carlson is by far and away one of <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5745">the most inventive and unique guitarists</a> working right now.</p>
+<p>HEX by Earth is one of the finest doom metal albums of all time. If you want to get into semi-drone metal, HEX is a great place to start. And Dylan Carlson is by far and away one of <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5745">the most inventive and unique guitarists</a> working right now.</p>
 
 
 
-<p>I’d also STRONGLY recommend anyone that hasn’t already <a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-lasso-id="36111">check out YOB</a> and Bell Witch.</p>
+<p>I’d also STRONGLY recommend anyone that hasn’t already <a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-lasso-id="36111">check out YOB</a> and Bell Witch.</p>
 
 
 
-<p>YOB could be described as a doom band, especially its earlier stuff, but <a href="https://www.electrikjam.com/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="288">like all good metal bands</a> it is very hard to pin them down in terms of genre.</p>
+<p>YOB could be described as a doom band, especially its earlier stuff, but <a href="/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="288">like all good metal bands</a> it is very hard to pin them down in terms of genre.</p>
 
 
 

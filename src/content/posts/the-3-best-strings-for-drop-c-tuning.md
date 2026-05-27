@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>Getting the right strings for <a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="1951">Drop C Tuning</a> can be a hard choice. Heck, getting the right strings for <em>any </em>tuning can be a real pain. Today we check out the 5 best brands for tuning down low.</strong></p>
+<p><strong>Getting the right strings for <a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="1951">Drop C Tuning</a> can be a hard choice. Heck, getting the right strings for <em>any </em>tuning can be a real pain. Today we check out the 5 best brands for tuning down low.</strong></p>
 
 
 
@@ -43,7 +43,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" target="_blank" data-type="post" data-id="1491" rel="noopener" data-lasso-id="1487"><span style="color: #9b51e0;" class="ugb-highlight">Drop C is a very popular tuning</span></a><span style="color: #9b51e0;" class="ugb-highlight"> </span></strong>across several Metal genres these days. Drop C tuning really became popular with <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" target="_blank" data-type="post" data-id="1042" rel="noopener" data-lasso-id="1488"><strong><span style="color: #9b51e0;" class="ugb-highlight">Doom Metal enthusiasts</span></strong></a> like <strong>Sleep</strong>, and<strong> The Sword</strong>. But there has also been a revival with Prog Rock genres too, with bands like <strong>Periphery</strong>. Some other genres like Metalcore also use Drop C, like <strong>Norma Jean</strong> and<strong> Converge</strong>. </p>
+<p><strong><a href="/doom-metal-tunings-the-top-5-best/" target="_blank" data-type="post" data-id="1491" rel="noopener" data-lasso-id="1487"><span style="color: #9b51e0;" class="ugb-highlight">Drop C is a very popular tuning</span></a><span style="color: #9b51e0;" class="ugb-highlight"> </span></strong>across several Metal genres these days. Drop C tuning really became popular with <a href="/doom-metal-beginners-guide/" target="_blank" data-type="post" data-id="1042" rel="noopener" data-lasso-id="1488"><strong><span style="color: #9b51e0;" class="ugb-highlight">Doom Metal enthusiasts</span></strong></a> like <strong>Sleep</strong>, and<strong> The Sword</strong>. But there has also been a revival with Prog Rock genres too, with bands like <strong>Periphery</strong>. Some other genres like Metalcore also use Drop C, like <strong>Norma Jean</strong> and<strong> Converge</strong>. </p>
 
 
 
@@ -51,15 +51,15 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="1489">Drop C is pretty versatile, and works the same way that Drop D tuning</a> works in theory. The two lowest strings work in tandem to make a one finger power chord. This means you can play <em>faster riffs, easier</em>. I also like that Drop C is a low tuning, while still keeping the guitar in the &#8220;mid range&#8221; of the mix. It&#8217;s heavy, but not <em>too</em> heavy.</p>
+<p><a href="/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="1489">Drop C is pretty versatile, and works the same way that Drop D tuning</a> works in theory. The two lowest strings work in tandem to make a one finger power chord. This means you can play <em>faster riffs, easier</em>. I also like that Drop C is a low tuning, while still keeping the guitar in the &#8220;mid range&#8221; of the mix. It&#8217;s heavy, but not <em>too</em> heavy.</p>
 
 
 
-<p>While tuning lower definitely makes things sound a little heavier, alternate tunings are more than<strong> just</strong> that. Different tunings can be a &#8220;secret weapon&#8221; <a href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener" data-lasso-id="1490"><strong><span style="color: #9b51e0;" class="ugb-highlight">for your band</span></strong></a>. Utilizing different tunings can change the <a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238694">way you write a song</a> or riff. I know if I am in a rut, I usually try out a different tuning to see if it opens any new doors to my creativity. Nine times out of ten, it helps me come up with a new idea!</p>
+<p>While tuning lower definitely makes things sound a little heavier, alternate tunings are more than<strong> just</strong> that. Different tunings can be a &#8220;secret weapon&#8221; <a href="/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener" data-lasso-id="1490"><strong><span style="color: #9b51e0;" class="ugb-highlight">for your band</span></strong></a>. Utilizing different tunings can change the <a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238694">way you write a song</a> or riff. I know if I am in a rut, I usually try out a different tuning to see if it opens any new doors to my creativity. Nine times out of ten, it helps me come up with a new idea!</p>
 
 
 
-<p>I like to look at tunings like a piece of gear. If you are looking for a new sound, or a new way of writing songs, then sometimes a <a href="https://www.electrikjam.com/the-5-weirdest-guitar-pedals/" target="_blank" data-type="post" data-id="1586" rel="noopener" data-lasso-id="1491"><strong><span style="color: #9b51e0;" class="ugb-highlight">different guitar pedal</span></strong> </a>might be the key to finding your new voice. I look at different tunings as a tool, and Drop C can definitely change the way you write a riff&#8230; or even a whole album!</p>
+<p>I like to look at tunings like a piece of gear. If you are looking for a new sound, or a new way of writing songs, then sometimes a <a href="/the-5-weirdest-guitar-pedals/" target="_blank" data-type="post" data-id="1586" rel="noopener" data-lasso-id="1491"><strong><span style="color: #9b51e0;" class="ugb-highlight">different guitar pedal</span></strong> </a>might be the key to finding your new voice. I look at different tunings as a tool, and Drop C can definitely change the way you write a riff&#8230; or even a whole album!</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>Drop C is the whole guitar <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1492">tuned down a full step to D standard</a>, with the heaviest string tuned down <strong>another step </strong>. From highest string to lowest, the tuning is:</p>
+<p>Drop C is the whole guitar <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1492">tuned down a full step to D standard</a>, with the heaviest string tuned down <strong>another step </strong>. From highest string to lowest, the tuning is:</p>
 
 
 
@@ -79,11 +79,11 @@ seo:
 
 
 
-<p>So tuning down this far might sound really cool, but you need to prepare! Your strings for Drop C are going to be much different than the ones that you use for standard. They definitely need to be a heavier gauge to compensate since you&#8217;re going <em>down</em>. Lighter gauges <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142221">used for standard tuning</a> will probably be pretty floppy.</p>
+<p>So tuning down this far might sound really cool, but you need to prepare! Your strings for Drop C are going to be much different than the ones that you use for standard. They definitely need to be a heavier gauge to compensate since you&#8217;re going <em>down</em>. Lighter gauges <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142221">used for standard tuning</a> will probably be pretty floppy.</p>
 
 
 
-<p>This is particularly true when considering the scale length of your guitar. If you&#8217;re not sure what the scale length of your guitar is, I recommend you check out our<a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="1494"><strong><span style="color: #9b51e0;" class="ugb-highlight"> Complete Guide To Scale Length</span></strong></a>. This way, you can make sure you have the right <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" data-lasso-id="15990">strings for the specific brand of guitar</a> you own!</p>
+<p>This is particularly true when considering the scale length of your guitar. If you&#8217;re not sure what the scale length of your guitar is, I recommend you check out our<a href="/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="1494"><strong><span style="color: #9b51e0;" class="ugb-highlight"> Complete Guide To Scale Length</span></strong></a>. This way, you can make sure you have the right <a href="/which-guitar-strings-last-longest/" data-lasso-id="15990">strings for the specific brand of guitar</a> you own!</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p><strong>We will discuss scale length, and how it effects each set of strings on this list.</strong> We will also discuss play styles, and how the string gauges will make a difference in the way you play. So let&#8217;s take a look at our picks for <a href="https://www.electrikjam.com/best-strings-for-a-gibson-les-paul/" data-lasso-id="5802">the best strings</a> for Drop C!</p>
+<p><strong>We will discuss scale length, and how it effects each set of strings on this list.</strong> We will also discuss play styles, and how the string gauges will make a difference in the way you play. So let&#8217;s take a look at our picks for <a href="/best-strings-for-a-gibson-les-paul/" data-lasso-id="5802">the best strings</a> for Drop C!</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/ernie-ball-12s/" target="_blank" rel="nofollow noopener" data-lasso-id="1495"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES FROM ERNIE BALL</span></strong></a></p>
+<p><a href="/recommends/ernie-ball-12s/" target="_blank" rel="nofollow noopener" data-lasso-id="1495"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES FROM ERNIE BALL</span></strong></a></p>
 
 
 
@@ -143,11 +143,11 @@ seo:
 
 
 
-<p><strong>D&#8217;Adarrio </strong>is another brand that has been around for years, and are very trustworthy. I often switch between Ernie Ball and D&#8217;Adarrio as I think both companies make great products. However, the NYXL line of strings for <a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-lasso-id="12179">Drop C tuning</a> is something totally different than what other brands offer.</p>
+<p><strong>D&#8217;Adarrio </strong>is another brand that has been around for years, and are very trustworthy. I often switch between Ernie Ball and D&#8217;Adarrio as I think both companies make great products. However, the NYXL line of strings for <a href="/most-common-guitar-tunings/" data-lasso-id="12179">Drop C tuning</a> is something totally different than what other brands offer.</p>
 
 
 
-<p>The 11-52 gauge set is another versatile option when looking for strings for Drop C tuning. When it comes to scale length, I personally think these work best with &#8220;Fender Scale&#8221; or 25.5&#8221;. But I have also tried them on a <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1496">Les Paul</a> before and I was pleasantly surprised. With any scale length, this set just <em>works</em>.</p>
+<p>The 11-52 gauge set is another versatile option when looking for strings for Drop C tuning. When it comes to scale length, I personally think these work best with &#8220;Fender Scale&#8221; or 25.5&#8221;. But I have also tried them on a <a href="/types-of-guitars-guide/" data-lasso-id="1496">Les Paul</a> before and I was pleasantly surprised. With any scale length, this set just <em>works</em>.</p>
 
 
 
@@ -159,11 +159,11 @@ seo:
 
 
 
-<p>This gauge is perfect for people looking to be able to chug on the heavier strings in Drop C, but also retain some elasticity in the treble strings for solos. This is a slightly lighter gauge, and that makes bends easier. Some people may find the lower strings a little too &#8220;floppy&#8221; for their tastes. Especially with a shorter scale guitar, like<a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" target="_blank" data-type="post" data-id="2454" rel="noopener" data-lasso-id="1497"> <strong><span style="color: #9b51e0;" class="ugb-highlight">a Les Paul</span></strong></a>.</p>
+<p>This gauge is perfect for people looking to be able to chug on the heavier strings in Drop C, but also retain some elasticity in the treble strings for solos. This is a slightly lighter gauge, and that makes bends easier. Some people may find the lower strings a little too &#8220;floppy&#8221; for their tastes. Especially with a shorter scale guitar, like<a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" target="_blank" data-type="post" data-id="2454" rel="noopener" data-lasso-id="1497"> <strong><span style="color: #9b51e0;" class="ugb-highlight">a Les Paul</span></strong></a>.</p>
 
 
 
-<p>So if you need your strings for Drop C to be a tad more &#8220;bendy&#8221;, this is the perfect set. These are also optimal when dealing with a <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167812">Floyd Rose bridge</a>, or any other type of locking tremolo since sometimes thick strings can cause a problem in the string blocks.</p>
+<p>So if you need your strings for Drop C to be a tad more &#8220;bendy&#8221;, this is the perfect set. These are also optimal when dealing with a <a href="/floyd-rose-bridge-explained/" data-lasso-id="167812">Floyd Rose bridge</a>, or any other type of locking tremolo since sometimes thick strings can cause a problem in the string blocks.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/nyxl-12-52/" target="_blank" rel="nofollow noopener" data-lasso-id="1498"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></strong></a></p>
+<p><a href="/recommends/nyxl-12-52/" target="_blank" rel="nofollow noopener" data-lasso-id="1498"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></strong></a></p>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<p>My main guitar for Drop C tuning also happens to have a <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-lasso-id="168255">Floyd Rose</a> tremolo system. This causes strings to sometimes break when you do a heavy dive-bomb with the whammy bar. I saw the videos of people abusing the strings, and I tried it out myself. <em>I could not get the strings to break</em>.</p>
+<p>My main guitar for Drop C tuning also happens to have a <a href="/floyd-rose-bridge-setup-beginners/" data-lasso-id="168255">Floyd Rose</a> tremolo system. This causes strings to sometimes break when you do a heavy dive-bomb with the whammy bar. I saw the videos of people abusing the strings, and I tried it out myself. <em>I could not get the strings to break</em>.</p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/ernie-ball-paradigm-11-54/" target="_blank" rel="nofollow noopener" data-lasso-id="1499"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></strong></a></p>
+<p><a href="/recommends/ernie-ball-paradigm-11-54/" target="_blank" rel="nofollow noopener" data-lasso-id="1499"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></strong></a></p>
 
 
 

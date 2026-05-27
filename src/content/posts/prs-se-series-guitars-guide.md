@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>In the sprawling realm of guitar innovation, <strong><a href="https://www.electrikjam.com/guitar-brands/prs-guitars/" data-type="guitar-brands" data-id="14028" data-lasso-id="260250">PRS guitars</a></strong> have surged ahead, challenging legacy giants like Fender and Gibson.&nbsp;</p>
+<p>In the sprawling realm of guitar innovation, <strong><a href="/guitar-brands/prs-guitars/" data-type="guitar-brands" data-id="14028" data-lasso-id="260250">PRS guitars</a></strong> have surged ahead, challenging legacy giants like Fender and Gibson.&nbsp;</p>
 
 
 
@@ -58,7 +58,7 @@ seo:
 
 
 
-<p>And stick around until the end because we’re going to be going through all the latest models and detailing which is best for anyone who’s looking to upgrade from a <a data-lasso-id="254474" href="https://www.electrikjam.com/best-guitar-for-beginners/">cheap, beginner guitar</a>.&nbsp;</p>
+<p>And stick around until the end because we’re going to be going through all the latest models and detailing which is best for anyone who’s looking to upgrade from a <a data-lasso-id="254474" href="/best-guitar-for-beginners/">cheap, beginner guitar</a>.&nbsp;</p>
 
 
 
@@ -326,7 +326,7 @@ seo:
 
 
 
-<p>Paul Reed Smith&#8217;s legendary PRS Custom 24 set a gold standard in guitar craftsmanship and acoustics. The SE collection, albeit with its nuances, stands as a torchbearer to this heritage. The <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-qnvga5/" data-type="lasso-urls" data-id="6061" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="251732" data-lasso-name="PRS Custom 24 SE">PRS Custom SE 24</a></strong>, in particular, has clinched praise for delivering unparalleled value in its price bracket.</p>
+<p>Paul Reed Smith&#8217;s legendary PRS Custom 24 set a gold standard in guitar craftsmanship and acoustics. The SE collection, albeit with its nuances, stands as a torchbearer to this heritage. The <strong><a href="/guitar-center-pxf-io-qnvga5/" data-type="lasso-urls" data-id="6061" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="251732" data-lasso-name="PRS Custom 24 SE">PRS Custom SE 24</a></strong>, in particular, has clinched praise for delivering unparalleled value in its price bracket.</p>
 
 
 
@@ -334,15 +334,15 @@ seo:
 
 
 
-<p>With a slew of Signature SE models co-engineered with music stalwarts, including John Mayer, who <strong><a href="https://www.electrikjam.com/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" data-lasso-id="251733">ditched Fender to move to PRS</a></strong>, the SE lineup runs literal rings around Fender’s Squier brand of cost-effective Fender guitars in every area that counts.&nbsp;</p>
+<p>With a slew of Signature SE models co-engineered with music stalwarts, including John Mayer, who <strong><a href="/why-john-mayer-ditched-fender-for-prs/" data-type="post" data-id="7615" data-lasso-id="251733">ditched Fender to move to PRS</a></strong>, the SE lineup runs literal rings around Fender’s Squier brand of cost-effective Fender guitars in every area that counts.&nbsp;</p>
 
 
 
-<p>Where <strong><a href="https://www.electrikjam.com/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" data-lasso-id="251734">brands like Squier</a></strong> are marketed as entry-level, cheap guitars, PRS’ SE lineup is kind of a mid-range offering that sits above them in price (and quality) but still keeps things well below the cost of a proper Fender / Gibson / PRS / Charvel model.&nbsp;</p>
+<p>Where <strong><a href="/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" data-lasso-id="251734">brands like Squier</a></strong> are marketed as entry-level, cheap guitars, PRS’ SE lineup is kind of a mid-range offering that sits above them in price (and quality) but still keeps things well below the cost of a proper Fender / Gibson / PRS / Charvel model.&nbsp;</p>
 
 
 
-<p>Bottom line? If you’re an intermediate or even advanced player, I think you’ll find plenty to like inside PRS’ SE lineup of guitars. <strong><a data-lasso-id="251735" href="https://www.electrikjam.com/2024-prs-se-lineup-unveiled-new-models-expanded-color-range/" data-type="post" data-id="12917">Its new 2024 models</a></strong> are devastatingly good-looking too, picking up where the now-iconic OG SE models left off.&nbsp;</p>
+<p>Bottom line? If you’re an intermediate or even advanced player, I think you’ll find plenty to like inside PRS’ SE lineup of guitars. <strong><a data-lasso-id="251735" href="/2024-prs-se-lineup-unveiled-new-models-expanded-color-range/" data-type="post" data-id="12917">Its new 2024 models</a></strong> are devastatingly good-looking too, picking up where the now-iconic OG SE models left off.&nbsp;</p>
 
 
 
@@ -374,7 +374,7 @@ seo:
 
 
 
-<p>But for most people, the PRS SE Standard 24 is going to be all you ever need from a guitar. It&#8217;s well priced, it can play any style of music from jazz to doom metal and it plays wonderfully well, way better than my Gibson Les Paul Standard and as good as my Fender Telecaster <strong><a data-lasso-id="251736" data-lasso-name="PRS SE Standard 24" href="https://www.electrikjam.com/prs-se-standard-24-08-electric-guitar-translucent-blue-guitar-center/" data-type="lasso-urls" data-id="12963" target="_blank" rel="nofollow sponsored noopener">(and its about $400 cheaper)</a></strong>. </p>
+<p>But for most people, the PRS SE Standard 24 is going to be all you ever need from a guitar. It&#8217;s well priced, it can play any style of music from jazz to doom metal and it plays wonderfully well, way better than my Gibson Les Paul Standard and as good as my Fender Telecaster <strong><a data-lasso-id="251736" data-lasso-name="PRS SE Standard 24" href="/prs-se-standard-24-08-electric-guitar-translucent-blue-guitar-center/" data-type="lasso-urls" data-id="12963" target="_blank" rel="nofollow sponsored noopener">(and its about $400 cheaper)</a></strong>. </p>
 
 
 

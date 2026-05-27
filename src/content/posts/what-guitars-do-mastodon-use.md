@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>But what guitars do Brent Hinds and Bill Kelliher use? Now that <strong><a data-lasso-id="9118" href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-type="post" data-id="3981">Mastodon is kind of a big deal</a></strong>, both Brent and Bill have signature models out and lucrative endorsements in place, as well as their personal collections of rare and custom guitars. But what do they use most when playing with Mastodon?</p>
+<p>But what guitars do Brent Hinds and Bill Kelliher use? Now that <strong><a data-lasso-id="9118" href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-type="post" data-id="3981">Mastodon is kind of a big deal</a></strong>, both Brent and Bill have signature models out and lucrative endorsements in place, as well as their personal collections of rare and custom guitars. But what do they use most when playing with Mastodon?</p>
 
 
 
@@ -58,7 +58,7 @@ seo:
 
 
 
-<p>As a guitar player, Brent Hinds has plenty of chops. The guy is in his element smashing out <strong><a data-lasso-id="9119" href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-type="post" data-id="4496">slow, chuggin&#8217; riffs</a></strong>, playing country music, bluegrass, acoustic numbers, and face-melting solos and lead guitar. </p>
+<p>As a guitar player, Brent Hinds has plenty of chops. The guy is in his element smashing out <strong><a data-lasso-id="9119" href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-type="post" data-id="4496">slow, chuggin&#8217; riffs</a></strong>, playing country music, bluegrass, acoustic numbers, and face-melting solos and lead guitar. </p>
 
 
 
@@ -74,15 +74,15 @@ seo:
 
 
 
-<p><a data-lasso-id="18355" href="https://www.electrikjam.com/mastodon-setlist-for-upcoming-2021-tour-revealed/">If you’ve seen Mastodon play live</a>, or caught any of their recording sessions on YouTube, you’ll know that Brent Hinds is a massive fan of Gibson’s Flying V. </p>
+<p><a data-lasso-id="18355" href="/mastodon-setlist-for-upcoming-2021-tour-revealed/">If you’ve seen Mastodon play live</a>, or caught any of their recording sessions on YouTube, you’ll know that Brent Hinds is a massive fan of Gibson’s Flying V. </p>
 
 
 
-<p>He also likes <a class="wpil_keyword_link" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="9123" href="https://www.electrikjam.com/gibson-guitars/">Gibson</a> SG models too. In 2005, Hinds commissioned a Silverburst Flying V from Gibson. </p>
+<p>He also likes <a class="wpil_keyword_link" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="9123" href="/gibson-guitars/">Gibson</a> SG models too. In 2005, Hinds commissioned a Silverburst Flying V from Gibson. </p>
 
 
 
-<p>This beast is fitted with Gibson Classic ’57 humbuckers and strung with D’Addario XL Nickel Wound 0.60’s to keep tension on <strong><a data-lasso-id="9120" href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692">lower tunings</a></strong>. </p>
+<p>This beast is fitted with Gibson Classic ’57 humbuckers and strung with D’Addario XL Nickel Wound 0.60’s to keep tension on <strong><a data-lasso-id="9120" href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692">lower tunings</a></strong>. </p>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<p>Beyond his Flying V guitars, Hinds is also a massive fan of <strong><a data-lasso-id="9121" href="https://www.electrikjam.com/gibson-vs-epiphone-2021-which-is-best/" data-type="post" data-id="1888">Gibson SG guitars</a></strong> –&nbsp;he owns a bunch. </p>
+<p>Beyond his Flying V guitars, Hinds is also a massive fan of <strong><a data-lasso-id="9121" href="/gibson-vs-epiphone-2021-which-is-best/" data-type="post" data-id="1888">Gibson SG guitars</a></strong> –&nbsp;he owns a bunch. </p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>Bill Kelliher is a well-known fan of the <a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236471">Gibson Explorer</a>. He is also an outspoken Gibson exile, after moving from Gibson to ESP a few years ago. </p>
+<p>Bill Kelliher is a well-known fan of the <a href="/gibson-80s-explorer-review/" data-lasso-id="236471">Gibson Explorer</a>. He is also an outspoken Gibson exile, after moving from Gibson to ESP a few years ago. </p>
 
 
 
@@ -132,11 +132,11 @@ seo:
 
 
 
-<p>I’ve seen Mastodon numerous times over the years, and Kelliher often plays Les Paul-style guitars. On occasion, it is <a data-lasso-id="44939" href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/">his Gibson Les Paul</a>. </p>
+<p>I’ve seen Mastodon numerous times over the years, and Kelliher often plays Les Paul-style guitars. On occasion, it is <a data-lasso-id="44939" href="/is-a-gibson-les-paul-worth-it-my-2-cents/">his Gibson Les Paul</a>. </p>
 
 
 
-<p>But most of the time it is his <strong>signature ESP Custom Shop model</strong>, of which he has a bunch. ESP’s Signature Bill Kelliher Eclipse, as it’s officially known, runs <a data-lasso-id="11092" href="https://www.electrikjam.com/what-is-a-trembucker/">Seymour Duncan</a> Distortion pickups and has a 24.75in scale for dialing in those complex, technical Mastodon riffs.</p>
+<p>But most of the time it is his <strong>signature ESP Custom Shop model</strong>, of which he has a bunch. ESP’s Signature Bill Kelliher Eclipse, as it’s officially known, runs <a data-lasso-id="11092" href="/what-is-a-trembucker/">Seymour Duncan</a> Distortion pickups and has a 24.75in scale for dialing in those complex, technical Mastodon riffs.</p>
 
 
 
@@ -157,11 +157,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104009"><strong>It was a breath of fresh air working with ESP.</strong></a><strong> They were interested and would ask me what gauge strings I played and what tunings I play – Gibson never cared about any of that stuff. </strong></p>
+<p><a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104009"><strong>It was a breath of fresh air working with ESP.</strong></a><strong> They were interested and would ask me what gauge strings I played and what tunings I play – Gibson never cared about any of that stuff. </strong></p>
 
 
 
-<p><strong>Every guy <a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-lasso-id="88520">I talk to – I mean, look at James Hetfield.</a> He was at Gibson, played Gibson stuff and they didn’t want to work with him, so he went to ESP. And he’s one of the biggest f***ing guitar players in our kind of music.<strong>Bill</strong> <strong> Kelliher </strong></strong></p>
+<p><strong>Every guy <a href="/what-pickups-does-james-hetfield-use/" data-lasso-id="88520">I talk to – I mean, look at James Hetfield.</a> He was at Gibson, played Gibson stuff and they didn’t want to work with him, so he went to ESP. And he’s one of the biggest f***ing guitar players in our kind of music.<strong>Bill</strong> <strong> Kelliher </strong></strong></p>
 </blockquote>
 
 
@@ -170,9 +170,9 @@ seo:
 
 
 
-<p>And with a <strong><a data-lasso-id="9122" href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-type="post" data-id="3981">new Mastodon album</a></strong> just around the corner, you can bet your ass that all of the guitars listed above have been putting the hours in these past 12 months. Check out the first <strong><a data-lasso-id="11162" href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/">reviews for Hushed and Grim</a></strong>. </p>
+<p>And with a <strong><a data-lasso-id="9122" href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-type="post" data-id="3981">new Mastodon album</a></strong> just around the corner, you can bet your ass that all of the guitars listed above have been putting the hours in these past 12 months. Check out the first <strong><a data-lasso-id="11162" href="/mastodon-hushed-and-grim-review/">reviews for Hushed and Grim</a></strong>. </p>
 
 
 
-<p>And if you want to go more in depth on Mastodon&#8217;s guitar tone, check out our guide on <strong><a href="https://www.electrikjam.com/how-to-sound-like-mastodon/" data-lasso-id="216614">how to sound like Mastodon</a></strong> – it covers everything you need to know. </p>
+<p>And if you want to go more in depth on Mastodon&#8217;s guitar tone, check out our guide on <strong><a href="/how-to-sound-like-mastodon/" data-lasso-id="216614">how to sound like Mastodon</a></strong> – it covers everything you need to know. </p>
 

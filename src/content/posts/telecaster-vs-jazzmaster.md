@@ -110,7 +110,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/fender-telecaster-thinline-guide-history/" data-lasso-id="252024">The Custom Telecaster, with a double-bound body, was introduced in 1959, and the Thinline and Deluxe models</a>, featuring semi-hollow bodies and humbucking pickups, were introduced in the late 1960s and early 1970s.</p>
+<p><a href="/fender-telecaster-thinline-guide-history/" data-lasso-id="252024">The Custom Telecaster, with a double-bound body, was introduced in 1959, and the Thinline and Deluxe models</a>, featuring semi-hollow bodies and humbucking pickups, were introduced in the late 1960s and early 1970s.</p>
 
 
 
@@ -320,7 +320,7 @@ seo:
 
 
 
-<p>Although plenty of stoner rock and metal bands use Telecasters too –&nbsp;and Strats. <a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-lasso-id="252361">Jim Root of Slipknot</a> has used Fender guitars since day one, and Brant Bjork ALWAYS plays Strats. </p>
+<p>Although plenty of stoner rock and metal bands use Telecasters too –&nbsp;and Strats. <a href="/jim-root-signature-guitars/" data-lasso-id="252361">Jim Root of Slipknot</a> has used Fender guitars since day one, and Brant Bjork ALWAYS plays Strats. </p>
 
 
 
@@ -534,7 +534,7 @@ seo:
 
 
 
-<p>Telecasters are renowned for their ability to handle low action without excessive fret buzz, which can make playing easier and faster. The string tension on a Telecaster is generally higher because of its <strong><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" data-lasso-id="236008">longer scale length (25.5 inches)</a></strong>, providing a snappy, responsive feel. </p>
+<p>Telecasters are renowned for their ability to handle low action without excessive fret buzz, which can make playing easier and faster. The string tension on a Telecaster is generally higher because of its <strong><a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" data-lasso-id="236008">longer scale length (25.5 inches)</a></strong>, providing a snappy, responsive feel. </p>
 
 
 
@@ -542,7 +542,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" data-lasso-id="236009">Jazzmasters have a shorter scale length</a></strong> (also 25.5 inches, but due to the behind-the-bridge design, the effective scale length feels shorter), which results in slightly lower string tension. </p>
+<p><strong><a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" data-lasso-id="236009">Jazzmasters have a shorter scale length</a></strong> (also 25.5 inches, but due to the behind-the-bridge design, the effective scale length feels shorter), which results in slightly lower string tension. </p>
 
 
 
@@ -730,7 +730,7 @@ seo:
 
 
 
-<p>Fender&#8217;s more affordable <strong><a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" data-lasso-id="236010">Squier brand offers Telecaster models</a></strong> for as low as $200, making it a viable option for beginners or those on a tight budget.</p>
+<p>Fender&#8217;s more affordable <strong><a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" data-lasso-id="236010">Squier brand offers Telecaster models</a></strong> for as low as $200, making it a viable option for beginners or those on a tight budget.</p>
 
 
 
@@ -738,7 +738,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/who-plays-fender-jazzmaster/" data-lasso-id="252792">The Fender Jazzmaster</a>, first introduced in 1958, was initially designed with jazz musicians in mind, but it quickly found favor among surf rockers and later indie musicians for its distinct tone. </p>
+<p><a href="/who-plays-fender-jazzmaster/" data-lasso-id="252792">The Fender Jazzmaster</a>, first introduced in 1958, was initially designed with jazz musicians in mind, but it quickly found favor among surf rockers and later indie musicians for its distinct tone. </p>
 
 
 
@@ -746,7 +746,7 @@ seo:
 
 
 
-<p>The Mexican-made Player Jazzmaster is more affordable, falling in the $700 to $900 range. Squier also offers Jazzmaster models, <strong><a href="https://www.electrikjam.com/pxf-18/" data-type="lasso-urls" data-id="6729" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="236011" data-lasso-name="Squier 40th Anniversary Jazzmaster">with prices starting as low as $300.</a></strong></p>
+<p>The Mexican-made Player Jazzmaster is more affordable, falling in the $700 to $900 range. Squier also offers Jazzmaster models, <strong><a href="/pxf-18/" data-type="lasso-urls" data-id="6729" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="236011" data-lasso-name="Squier 40th Anniversary Jazzmaster">with prices starting as low as $300.</a></strong></p>
 
 
 
@@ -890,11 +890,11 @@ seo:
 
 
 
-<p>Nowadays, you’re literally spoilt for choice (especially when it comes to Telecasters), as plenty of guitar brands (<strong><a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" data-type="post" data-id="10546" data-lasso-id="236012">Schecter, ESP, Charvel, and Harley Benton to name just a few)</a></strong> all make Tele-style electric guitars.</p>
+<p>Nowadays, you’re literally spoilt for choice (especially when it comes to Telecasters), as plenty of guitar brands (<strong><a href="/what-is-the-best-electric-guitar-brand/" data-type="post" data-id="10546" data-lasso-id="236012">Schecter, ESP, Charvel, and Harley Benton to name just a few)</a></strong> all make Tele-style electric guitars.</p>
 
 
 
-<p>And there’s basically a Tele-style guitar for every genre of music out there; Fender makes a ton of variants – some with single coils, some with humbuckers, and some with single coils and humbuckers. Or you have pure metal options like <strong><a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-type="post" data-id="9214" data-lasso-id="236013">Jim Root’s Signature Tele and Jazzmaster models</a></strong>.</p>
+<p>And there’s basically a Tele-style guitar for every genre of music out there; Fender makes a ton of variants – some with single coils, some with humbuckers, and some with single coils and humbuckers. Or you have pure metal options like <strong><a href="/jim-root-charvel-pro-mod-guitar-review/" data-type="post" data-id="9214" data-lasso-id="236013">Jim Root’s Signature Tele and Jazzmaster models</a></strong>.</p>
 
 
 

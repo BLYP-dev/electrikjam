@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>I have always been a big fan of <a href="https://www.electrikjam.com/new-blackstar-st-james-review/" data-type="post" data-id="8424" target="_blank" rel="noopener" data-lasso-id="172415"><strong>Blackstar</strong></a>, and I have talked a lot about how much I enjoyed gigging with the <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="172416" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>HT40</strong></a> over the years. I liked the idea of a couple of dudes from Marshall starting their own company, making amps that Marshall would probably never produce.</p>
+<p>I have always been a big fan of <a href="/new-blackstar-st-james-review/" data-type="post" data-id="8424" target="_blank" rel="noopener" data-lasso-id="172415"><strong>Blackstar</strong></a>, and I have talked a lot about how much I enjoyed gigging with the <a href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="172416" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>HT40</strong></a> over the years. I liked the idea of a couple of dudes from Marshall starting their own company, making amps that Marshall would probably never produce.</p>
 
 
 
@@ -51,11 +51,11 @@ seo:
 
 
 
-<p>Blackstar used the ISF on <a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="172417"><strong>tube amps</strong></a>, as well as the popular<a href="CORE%20Series" target="_blank" rel="noopener" data-lasso-id="172418"> </a><a href="https://www.electrikjam.com/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" data-type="post" data-id="1780" target="_blank" rel="noopener" data-lasso-id="172419"><strong>ID:CORE Series</strong></a> that were solid state. The Blackstar DEPT. 10 pedals were also very cool, and you could program those<em> up to a point</em>. Since then, Blackstar has given us the <a href="https://www.electrikjam.com/new-blackstar-st-james-review/" data-type="post" data-id="8424" target="_blank" rel="noopener" data-lasso-id="172420"><strong>ST. James </strong></a>amplifiers to think about too, the world&#8217;s lightest tube amps. Overall, Blackstar is just a great company, right?</p>
+<p>Blackstar used the ISF on <a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="172417"><strong>tube amps</strong></a>, as well as the popular<a href="CORE%20Series" target="_blank" rel="noopener" data-lasso-id="172418"> </a><a href="/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" data-type="post" data-id="1780" target="_blank" rel="noopener" data-lasso-id="172419"><strong>ID:CORE Series</strong></a> that were solid state. The Blackstar DEPT. 10 pedals were also very cool, and you could program those<em> up to a point</em>. Since then, Blackstar has given us the <a href="/new-blackstar-st-james-review/" data-type="post" data-id="8424" target="_blank" rel="noopener" data-lasso-id="172420"><strong>ST. James </strong></a>amplifiers to think about too, the world&#8217;s lightest tube amps. Overall, Blackstar is just a great company, right?</p>
 
 
 
-<p><strong>The new <a href="https://www.electrikjam.com/blackstar-dept-10-review/" data-lasso-id="200816">Blackstar DEPT. 10 AMPED 1 pedal</a> is something totally next level, though.</strong> I was not expected to be so surprised by this pedal, and Blackstar has literally thought of <strong>everything</strong>. I don&#8217;t even know where to start with this little pedal, but expect some serious gushing.</p>
+<p><strong>The new <a href="/blackstar-dept-10-review/" data-lasso-id="200816">Blackstar DEPT. 10 AMPED 1 pedal</a> is something totally next level, though.</strong> I was not expected to be so surprised by this pedal, and Blackstar has literally thought of <strong>everything</strong>. I don&#8217;t even know where to start with this little pedal, but expect some serious gushing.</p>
 
 
 
@@ -99,15 +99,15 @@ seo:
 
 
 
-<p>Where most of these types of pedals are just a power amp that can power your pedalboard/rig if it were to ever go dead in a live setting, the DEPT. 10 AMPED is more of an <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254837">amp modeler</a> ON TOP of being a power source. Let&#8217;s start with the controls on the top and what they do, because this is much more than just a power amp.</p>
+<p>Where most of these types of pedals are just a power amp that can power your pedalboard/rig if it were to ever go dead in a live setting, the DEPT. 10 AMPED is more of an <a href="/neural-amp-modeler/" data-lasso-id="254837">amp modeler</a> ON TOP of being a power source. Let&#8217;s start with the controls on the top and what they do, because this is much more than just a power amp.</p>
 
 
 
-<p>The top of the pedal features a simple gain knob, which is self-explanatory. The voicing switch allows you to switch between a UK/Marshall style sound with tons of gain and breakup options. The USA voicing is more of a Fender clean tone, with the expected amount of headroom. The FLAT option would be for a power amp only option, like running a<a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="172421"><strong> Line 6</strong></a> through it, for example.</p>
+<p>The top of the pedal features a simple gain knob, which is self-explanatory. The voicing switch allows you to switch between a UK/Marshall style sound with tons of gain and breakup options. The USA voicing is more of a Fender clean tone, with the expected amount of headroom. The FLAT option would be for a power amp only option, like running a<a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="172421"><strong> Line 6</strong></a> through it, for example.</p>
 
 
 
-<p>The FLAT voicing pairs with the LINEAR tube response option, and when you set the Blackstar DEPT. 10 AMPED 1 pedal to this option it becomes the perfect platform for a <a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener" data-lasso-id="172422"><strong>Helix</strong></a>, <a href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener" data-lasso-id="172423"><strong>POD GO</strong></a>, or <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-orylvw/" data-type="lasso-urls" data-id="5896" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="172424" data-lasso-name="Kemper Profiler Stage Amp">Kemper</a>.</strong> The FLAT setting makes the AMPED 1 a straight power amp, with the amp models and speaker IR (Cab Rig) turned off.</p>
+<p>The FLAT voicing pairs with the LINEAR tube response option, and when you set the Blackstar DEPT. 10 AMPED 1 pedal to this option it becomes the perfect platform for a <a href="/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener" data-lasso-id="172422"><strong>Helix</strong></a>, <a href="/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener" data-lasso-id="172423"><strong>POD GO</strong></a>, or <strong><a href="/guitar-center-pxf-io-orylvw/" data-type="lasso-urls" data-id="5896" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="172424" data-lasso-name="Kemper Profiler Stage Amp">Kemper</a>.</strong> The FLAT setting makes the AMPED 1 a straight power amp, with the amp models and speaker IR (Cab Rig) turned off.</p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p>This means the AMPED 1 can take the place of your amp all together. All you need is a cabinet to plug the AMPED 1 up to, and you have what would basically be a <a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="172425"><strong>Marshall stack</strong></a>, or a clean amp that you can use as a base for pedals.</p>
+<p>This means the AMPED 1 can take the place of your amp all together. All you need is a cabinet to plug the AMPED 1 up to, and you have what would basically be a <a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="172425"><strong>Marshall stack</strong></a>, or a clean amp that you can use as a base for pedals.</p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>Note: I did try out the AMPED 1 in straight power amp mode, and my Line 6 sounded great. I didn&#8217;t see the point in recording this, since the power amp does nothing to color the sound of the unit. So if you would rather use a cabinet over an <a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" target="_blank" data-type="post" data-id="6902" rel="noopener" data-lasso-id="172427"><strong>FRFR</strong></a>, this is a great option for 100 watts.</p>
+<p>Note: I did try out the AMPED 1 in straight power amp mode, and my Line 6 sounded great. I didn&#8217;t see the point in recording this, since the power amp does nothing to color the sound of the unit. So if you would rather use a cabinet over an <a href="/best-frfr-guitar-speaker-under-300/" target="_blank" data-type="post" data-id="6902" rel="noopener" data-lasso-id="172427"><strong>FRFR</strong></a>, this is a great option for 100 watts.</p>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<p>I used my trusty <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="172429"><strong>Schecter Nick Johnston HSS</strong></a> to record the demo, and I kept everything at noon on the EQ. The only thing I really changed was the VOICE switch in the middle of the track. The reverb is always on, set a little past half way. I switched to the humbucker for the high gain tone. But otherwise, this is what it sounds like<em> out of the box</em>!</p>
+<p>I used my trusty <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="172429"><strong>Schecter Nick Johnston HSS</strong></a> to record the demo, and I kept everything at noon on the EQ. The only thing I really changed was the VOICE switch in the middle of the track. The reverb is always on, set a little past half way. I switched to the humbucker for the high gain tone. But otherwise, this is what it sounds like<em> out of the box</em>!</p>
 
 
 
@@ -273,7 +273,7 @@ seo:
 
 
 
-<p>I think the AMPED 1 can appeal to a lot of different types of guitarists, and I am one of them! I like things as simple as they can be, which is why I like my <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="172430"><strong>BOSS Katana</strong></a> so much. It just delivers, without having to tweak too many settings or doing a deep dive into confusing software.</p>
+<p>I think the AMPED 1 can appeal to a lot of different types of guitarists, and I am one of them! I like things as simple as they can be, which is why I like my <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="172430"><strong>BOSS Katana</strong></a> so much. It just delivers, without having to tweak too many settings or doing a deep dive into confusing software.</p>
 
 
 

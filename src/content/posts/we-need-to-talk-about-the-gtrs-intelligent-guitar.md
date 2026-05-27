@@ -36,7 +36,7 @@ seo:
 
 
 
-<p><strong>Look</strong>, before we jump into what the GTRS is, and all of the features, I want to lay a disclaimer out first<a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="1544"><strong><span style="color: #9b51e0;" class="ugb-highlight">: I think MOOER make excellent products.</span></strong></a> It seems like MOOER know exactly what they are doing, and they mostly cater to the budget guitarist. Beginner players are often on a budget as well, and this is where MOOER really shines.</p>
+<p><strong>Look</strong>, before we jump into what the GTRS is, and all of the features, I want to lay a disclaimer out first<a href="/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="1544"><strong><span style="color: #9b51e0;" class="ugb-highlight">: I think MOOER make excellent products.</span></strong></a> It seems like MOOER know exactly what they are doing, and they mostly cater to the budget guitarist. Beginner players are often on a budget as well, and this is where MOOER really shines.</p>
 
 
 
@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>This is a company that gives you some really great effects pedals at a super low cost. The pedals are not super unique, but they are often on the list of the <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" target="_blank" data-type="post" data-id="2938" rel="noopener" data-lasso-id="1545"><strong><span style="color: #9b51e0;" class="ugb-highlight">best budget pedals, along with Behringer</span></strong></a>. The MOOER multi-effects units, on the other hand, are not only budget friendly but <em>really great quality</em>.<span style="color: #9b51e0;" class="ugb-highlight"> </span><strong><a href="https://www.mooeraudio.com/product/GE150-228.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1546"><span style="color: #9b51e0;" class="ugb-highlight">The MOOER GE150</span></a><span style="color: #9b51e0;" class="ugb-highlight"><a href="https://www.mooeraudio.com/product/GE150-228.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1547"> </a></span></strong>that we checked out allowed you to load your own cabinet IR into the unit, and also let you design just about any Amp combo you could imagine. And the GE150 <em>was the least expensive unit</em>. The larger flagship models can do so much more than the unit we tried.</p>
+<p>This is a company that gives you some really great effects pedals at a super low cost. The pedals are not super unique, but they are often on the list of the <a href="/the-5-best-guitar-pedals-under-50-bucks/" target="_blank" data-type="post" data-id="2938" rel="noopener" data-lasso-id="1545"><strong><span style="color: #9b51e0;" class="ugb-highlight">best budget pedals, along with Behringer</span></strong></a>. The MOOER multi-effects units, on the other hand, are not only budget friendly but <em>really great quality</em>.<span style="color: #9b51e0;" class="ugb-highlight"> </span><strong><a href="https://www.mooeraudio.com/product/GE150-228.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1546"><span style="color: #9b51e0;" class="ugb-highlight">The MOOER GE150</span></a><span style="color: #9b51e0;" class="ugb-highlight"><a href="https://www.mooeraudio.com/product/GE150-228.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="1547"> </a></span></strong>that we checked out allowed you to load your own cabinet IR into the unit, and also let you design just about any Amp combo you could imagine. And the GE150 <em>was the least expensive unit</em>. The larger flagship models can do so much more than the unit we tried.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>The new GTRS Intelligent Guitar is <em>basically </em>a regular HSS Stratocaster variant. <strong><span style="color: #9b51e0;" class="ugb-highlight">W</span><a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="1549"><span style="color: #9b51e0;" class="ugb-highlight">e see a ton of companies that make a great &#8220;Strat-Style guitar&#8221;</span></a></strong> and some even rival the original Fender models. The MOOER version checks all the features of the <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11257">&#8220;modern Strat&#8221;</a> design. Well, minus that weird glowing knob at the bottom&#8230;</p>
+<p>The new GTRS Intelligent Guitar is <em>basically </em>a regular HSS Stratocaster variant. <strong><span style="color: #9b51e0;" class="ugb-highlight">W</span><a href="/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="1549"><span style="color: #9b51e0;" class="ugb-highlight">e see a ton of companies that make a great &#8220;Strat-Style guitar&#8221;</span></a></strong> and some even rival the original Fender models. The MOOER version checks all the features of the <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11257">&#8220;modern Strat&#8221;</a> design. Well, minus that weird glowing knob at the bottom&#8230;</p>
 
 
 
@@ -88,11 +88,11 @@ seo:
 
 
 
-<p>Starting with a roasted maple neck <a href="https://www.electrikjam.com/new-solar-guitars-check-out-these-bolt-on-beauties/" target="_blank" data-type="post" data-id="1443" rel="noopener" data-lasso-id="1550"><strong><span style="color: #9b51e0;" class="ugb-highlight">that is all the rage these days</span></strong></a>. I like this feature, as roasted maple is a strong wood and creates fantastic neck stability (Which means less adjustments to keep it straight). The neck also has a few other modern features like a bone nut, and a flatter 14&#8221; radius. The feature that sticks out, is the vintage tuners on such a modern version of a Start-style guitar.</p>
+<p>Starting with a roasted maple neck <a href="/new-solar-guitars-check-out-these-bolt-on-beauties/" target="_blank" data-type="post" data-id="1443" rel="noopener" data-lasso-id="1550"><strong><span style="color: #9b51e0;" class="ugb-highlight">that is all the rage these days</span></strong></a>. I like this feature, as roasted maple is a strong wood and creates fantastic neck stability (Which means less adjustments to keep it straight). The neck also has a few other modern features like a bone nut, and a flatter 14&#8221; radius. The feature that sticks out, is the vintage tuners on such a modern version of a Start-style guitar.</p>
 
 
 
-<p>The body is made out of light-weight American Basswood, <a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" target="_blank" data-type="post" data-id="2129" rel="noopener" data-lasso-id="1551"><strong><span style="color: #9b51e0;" class="ugb-highlight">similar to what Ibanez </span></strong></a>uses for most of the RG Series. Whether Basswood is a good &#8220;tone wood&#8221; or not is something everyone can argue about. But it is definitely a stable wood, and is very light. The body has a traditional Strat shape, and the usual control layout&#8230;until we get to the last knob, which is the &#8220;super switch&#8221;. This knob controls the Intelligent Features, which we will get to (I promise). There is one tone knob, and one volume knob.</p>
+<p>The body is made out of light-weight American Basswood, <a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" target="_blank" data-type="post" data-id="2129" rel="noopener" data-lasso-id="1551"><strong><span style="color: #9b51e0;" class="ugb-highlight">similar to what Ibanez </span></strong></a>uses for most of the RG Series. Whether Basswood is a good &#8220;tone wood&#8221; or not is something everyone can argue about. But it is definitely a stable wood, and is very light. The body has a traditional Strat shape, and the usual control layout&#8230;until we get to the last knob, which is the &#8220;super switch&#8221;. This knob controls the Intelligent Features, which we will get to (I promise). There is one tone knob, and one volume knob.</p>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<p>This visual interface shows your different effects, <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254845">amp sims</a>, and presets. It&#8217;s certainly cool that you can design presets, and then save them to the guitar itself, and switch through them with the powered knob. These presets can also be stored in the cloud storage, and shared with other app users. At the top of the interface, you can also choose a drum pattern, or metronome for practicing. </p>
+<p>This visual interface shows your different effects, <a href="/neural-amp-modeler/" data-lasso-id="254845">amp sims</a>, and presets. It&#8217;s certainly cool that you can design presets, and then save them to the guitar itself, and switch through them with the powered knob. These presets can also be stored in the cloud storage, and shared with other app users. At the top of the interface, you can also choose a drum pattern, or metronome for practicing. </p>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p>I am of two minds regarding this kind of product: The first is that this is just a gimmick, and while the idea is cool&#8230;how practical is it? As we said before, <a href="https://www.electrikjam.com/the-line-6-hx-stomp/" data-lasso-id="5748">Line 6 Variax has been doing nearly the exact same thing, and Line 6 is a <strong>huge </strong>company</a>. MOOER is popular, but I would say that they are a little more <em>niche</em>. <em><strong>Who is going to buy this at the end of the day?</strong></em></p>
+<p>I am of two minds regarding this kind of product: The first is that this is just a gimmick, and while the idea is cool&#8230;how practical is it? As we said before, <a href="/the-line-6-hx-stomp/" data-lasso-id="5748">Line 6 Variax has been doing nearly the exact same thing, and Line 6 is a <strong>huge </strong>company</a>. MOOER is popular, but I would say that they are a little more <em>niche</em>. <em><strong>Who is going to buy this at the end of the day?</strong></em></p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p>MOOER&#8217;s amp models and effects are very well done, even in the <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14302">budget models</a>. The ability to load cabinet IRs from your collection, and tailor a preset exactly how you want is the greatest advantage that the GTRS has. MOOER really knocks it out of the park with the technology. But how <em>practical</em> is the GTRS?</p>
+<p>MOOER&#8217;s amp models and effects are very well done, even in the <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14302">budget models</a>. The ability to load cabinet IRs from your collection, and tailor a preset exactly how you want is the greatest advantage that the GTRS has. MOOER really knocks it out of the park with the technology. But how <em>practical</em> is the GTRS?</p>
 
 
 

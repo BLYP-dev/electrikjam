@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>If you&#8217;re a beginner guitarist, some of the scariest things to think about is notes and scales. There are 22-24 frets on most guitars, and each space between the frets represents a note. It can be downright intimidating if you really start to think about it. In fact, this is the #1 aspect of <a href="https://www.electrikjam.com/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211734">learning guitar</a> that usually puts beginners off entirely.</p>
+<p>If you&#8217;re a beginner guitarist, some of the scariest things to think about is notes and scales. There are 22-24 frets on most guitars, and each space between the frets represents a note. It can be downright intimidating if you really start to think about it. In fact, this is the #1 aspect of <a href="/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211734">learning guitar</a> that usually puts beginners off entirely.</p>
 
 
 
@@ -51,11 +51,11 @@ seo:
 
 
 
-<p>Sure, you can get by without knowing every note on the fretboard, but what if I told you that it may be easier than you think to &#8220;unlock&#8221; the fretboard? If you are currently staring at your <a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-lasso-id="15501">guitar and thinking</a> &#8220;this guy is crazy&#8221; then I completely understand. But there are some simple fretboard hacks that can help you master the fretboard much faster than you may think!</p>
+<p>Sure, you can get by without knowing every note on the fretboard, but what if I told you that it may be easier than you think to &#8220;unlock&#8221; the fretboard? If you are currently staring at your <a href="/does-the-do-it-all-guitar-exist/" data-lasso-id="15501">guitar and thinking</a> &#8220;this guy is crazy&#8221; then I completely understand. But there are some simple fretboard hacks that can help you master the fretboard much faster than you may think!</p>
 
 
 
-<p>Some of these may be obvious if you have been playing for a while, but others may surprise you! It is also important to note that this does not apply to <a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" target="_blank" data-type="post" data-id="5202" rel="noopener" data-lasso-id="12753"><strong>Drop tunings</strong></a> or <a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" target="_blank" data-type="post" data-id="4496" rel="noopener" data-lasso-id="12754"><strong>alternate tunings</strong></a>. All of these fretboard hacks are for <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142219">Standard tuning only</a>. Also, we will be going from &#8220;easy&#8221; to more complex as this list goes on. So if one of these throws you for a loop, don&#8217;t feel bad. Just keep learning!</p>
+<p>Some of these may be obvious if you have been playing for a while, but others may surprise you! It is also important to note that this does not apply to <a href="/drop-d-tuning-guitar-guide/" target="_blank" data-type="post" data-id="5202" rel="noopener" data-lasso-id="12753"><strong>Drop tunings</strong></a> or <a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" target="_blank" data-type="post" data-id="4496" rel="noopener" data-lasso-id="12754"><strong>alternate tunings</strong></a>. All of these fretboard hacks are for <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142219">Standard tuning only</a>. Also, we will be going from &#8220;easy&#8221; to more complex as this list goes on. So if one of these throws you for a loop, don&#8217;t feel bad. Just keep learning!</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p>The &#8220;other&#8221; notes that are not in the <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125937">major scale</a> are sharps (#) and flats (b). These notes are found in between the major notes. But they are directly related to the note before and after. A sharp note is half a step (one fret) <strong>up</strong>. A flat note is one fret <strong>down</strong>.</p>
+<p>The &#8220;other&#8221; notes that are not in the <a href="/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125937">major scale</a> are sharps (#) and flats (b). These notes are found in between the major notes. But they are directly related to the note before and after. A sharp note is half a step (one fret) <strong>up</strong>. A flat note is one fret <strong>down</strong>.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>I think the Blues scale is best learned right smack dab in the middle of the guitar, at the 5th fret (A Note). The Blues scale is a minor pentatonic at heart, and we will talk about that later. But just to get you started, let&#8217;s take a look at <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246483">the Blues scale in A minor, and the frets you play on the fretboard</a>. The dots represent the notes you play:</p>
+<p>I think the Blues scale is best learned right smack dab in the middle of the guitar, at the 5th fret (A Note). The Blues scale is a minor pentatonic at heart, and we will talk about that later. But just to get you started, let&#8217;s take a look at <a href="/parts-of-an-electric-guitar/" data-lasso-id="246483">the Blues scale in A minor, and the frets you play on the fretboard</a>. The dots represent the notes you play:</p>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<p>The four chord is going to be four note counts away form the tonic of A. If you count 4 notes from A not including sharps and flats on the fretboard, you get the D note. So the IV in this <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="120215">&#8220;I IV V chord progression&#8221;</a> is going to be D. This is easy to see, if you are counting properly:</p>
+<p>The four chord is going to be four note counts away form the tonic of A. If you count 4 notes from A not including sharps and flats on the fretboard, you get the D note. So the IV in this <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="120215">&#8220;I IV V chord progression&#8221;</a> is going to be D. This is easy to see, if you are counting properly:</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p>It is the 7th fret, on the D string. This is a lot closer than you would think a whole octave would be, but it is right there, and part of a<strong><a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" target="_blank" data-type="post" data-id="2151" rel="noopener" data-lasso-id="12755"> power chord</a>.</strong> You can use this same pattern for the A string, and the D string. The octave is always one string, and two frets away, <em>until you get to the B string</em>.</p>
+<p>It is the 7th fret, on the D string. This is a lot closer than you would think a whole octave would be, but it is right there, and part of a<strong><a href="/chord-voicing-extensions-for-metal/" target="_blank" data-type="post" data-id="2151" rel="noopener" data-lasso-id="12755"> power chord</a>.</strong> You can use this same pattern for the A string, and the D string. The octave is always one string, and two frets away, <em>until you get to the B string</em>.</p>
 
 
 
@@ -293,11 +293,11 @@ seo:
 		
 
 
-<p>Building a triad is a lot like building a I IV V pattern of <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="84708">chords</a>, like we discussed earlier. But instead of one-four-five, we are doing I III V. So if you find the F note on your fretboard, and add an A and a C&#8230; you have the I II V pattern. This is a triad!</p>
+<p>Building a triad is a lot like building a I IV V pattern of <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="84708">chords</a>, like we discussed earlier. But instead of one-four-five, we are doing I III V. So if you find the F note on your fretboard, and add an A and a C&#8230; you have the I II V pattern. This is a triad!</p>
 
 
 
-<p>Using numbers like I IV V, and I III V is <em>very</em> common in music, and once you learn this progression system, you can play just about anything on the guitar, with anyone! It&#8217;s very common in a <a href="https://www.electrikjam.com/brand-new-sinaro-playthrough-2021/" data-lasso-id="21759">band situation for someone to tell</a> you &#8221; We are playing a I IV V in the key of G&#8221;. It is up to <em>you</em> as the guitarist to know what the band leader means by this, and be able to figure out the chords.</p>
+<p>Using numbers like I IV V, and I III V is <em>very</em> common in music, and once you learn this progression system, you can play just about anything on the guitar, with anyone! It&#8217;s very common in a <a href="/brand-new-sinaro-playthrough-2021/" data-lasso-id="21759">band situation for someone to tell</a> you &#8221; We are playing a I IV V in the key of G&#8221;. It is up to <em>you</em> as the guitarist to know what the band leader means by this, and be able to figure out the chords.</p>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<p>Scales are usually seen as the big boogeyman of <a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-lasso-id="73654">learning the guitar fretboard</a>. When you look at a note chart, it seems like a lot of notes up and down the neck. But with what we have learned today, I think we can make learning scales a little easier, don&#8217;t you think?</p>
+<p>Scales are usually seen as the big boogeyman of <a href="/guitar-fretboard-notes-learn/" data-lasso-id="73654">learning the guitar fretboard</a>. When you look at a note chart, it seems like a lot of notes up and down the neck. But with what we have learned today, I think we can make learning scales a little easier, don&#8217;t you think?</p>
 
 
 
@@ -345,7 +345,7 @@ seo:
 		
 
 
-<p>Do you notice anything? First of all, the different octaves of E are highlighted in blue. Do you see a pattern here, that we talked about earlier when finding octaves? I definitely see the pattern, and this repeats for <em>any</em> note scale. If you look up an A <a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-lasso-id="127900">Minor scale</a>, you would see the same thing&#8230; the different octaves of A are everywhere.</p>
+<p>Do you notice anything? First of all, the different octaves of E are highlighted in blue. Do you see a pattern here, that we talked about earlier when finding octaves? I definitely see the pattern, and this repeats for <em>any</em> note scale. If you look up an A <a href="/theory-for-guitarists-the-minor-scale/" data-lasso-id="127900">Minor scale</a>, you would see the same thing&#8230; the different octaves of A are everywhere.</p>
 
 
 
@@ -365,7 +365,7 @@ seo:
 
 
 
-<p>Of course, other factors come into play with how a note pattern sounds. Different<strong> <a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" target="_blank" data-type="post" data-id="3389" rel="noopener" data-lasso-id="12757">strings</a></strong> for one. Also, different <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="12758"><strong>pickups</strong></a> can affect the overall tonality. Even the wood of the guitar has an effect&#8230;.</p>
+<p>Of course, other factors come into play with how a note pattern sounds. Different<strong> <a href="/the-3-best-strings-for-drop-c-tuning/" target="_blank" data-type="post" data-id="3389" rel="noopener" data-lasso-id="12757">strings</a></strong> for one. Also, different <a href="/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="12758"><strong>pickups</strong></a> can affect the overall tonality. Even the wood of the guitar has an effect&#8230;.</p>
 
 
 

@@ -44,7 +44,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="446">We recently went over the basics</a> you will need to record guitar. Whether it is for practice, or it is for professional purposes. We talked about simple ways to record your guitar using an interface. But what if you could bypass that interface?</p>
+<p><a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="446">We recently went over the basics</a> you will need to record guitar. Whether it is for practice, or it is for professional purposes. We talked about simple ways to record your guitar using an interface. But what if you could bypass that interface?</p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>The name is certainly a mouthful, but that&#8217;s because this little guy by Darkglass does a ton of different things and is <em>packed </em>with features. Darkglass has been knocking it out of the park with their products and have an impressive roster of <a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-lasso-id="101285">artists including <strong>Meshuggah</strong></a>, <strong>High on Fire</strong>, <strong>Tesseract</strong>, <strong>Knocked Loose, </strong>and many more.</p>
+<p>The name is certainly a mouthful, but that&#8217;s because this little guy by Darkglass does a ton of different things and is <em>packed </em>with features. Darkglass has been knocking it out of the park with their products and have an impressive roster of <a href="/meshuggah-immutable-review/" data-lasso-id="101285">artists including <strong>Meshuggah</strong></a>, <strong>High on Fire</strong>, <strong>Tesseract</strong>, <strong>Knocked Loose, </strong>and many more.</p>
 
 
 
@@ -64,11 +64,11 @@ seo:
 
 
 
-<p>The Darkglass Element looks like a simple <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="447">headphone amp</a> at first glance. But when you do a deep dive into the features and design, you see that it is much more than that. The Darkglass Element is<em> crazy</em>:</p>
+<p>The Darkglass Element looks like a simple <a href="/boss-katana-50-reviews/" data-lasso-id="447">headphone amp</a> at first glance. But when you do a deep dive into the features and design, you see that it is much more than that. The Darkglass Element is<em> crazy</em>:</p>
 
 
 
-<ul class="wp-block-list"><li>Instrument / <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2516">line / amp</a> input with switchable 0dB, -12dB, -30dB pads</li><li>900W amplifier (with external load) may be connected to input</li><li>Parallel output for connection to an amp</li><li>Aux In: 3.5mm TRS input lets you practice to backing tracks</li><li>Bluetooth: Stereo audio (A2DP) supports impulse loading via <strong>Darkglass Suite</strong></li><li>XLR output: balanced output for connection to PA, audio interface, etc.</li><li>Impulse response: 5 impulse slots and bypass setting</li><li>Headphones: 2 stereo outputs with individual volume controls and blend</li><li>USB: A USB-C Mac/PC connection for loading cabinet simulation impulse responses and controlling other settings</li></ul>
+<ul class="wp-block-list"><li>Instrument / <a href="/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2516">line / amp</a> input with switchable 0dB, -12dB, -30dB pads</li><li>900W amplifier (with external load) may be connected to input</li><li>Parallel output for connection to an amp</li><li>Aux In: 3.5mm TRS input lets you practice to backing tracks</li><li>Bluetooth: Stereo audio (A2DP) supports impulse loading via <strong>Darkglass Suite</strong></li><li>XLR output: balanced output for connection to PA, audio interface, etc.</li><li>Impulse response: 5 impulse slots and bypass setting</li><li>Headphones: 2 stereo outputs with individual volume controls and blend</li><li>USB: A USB-C Mac/PC connection for loading cabinet simulation impulse responses and controlling other settings</li></ul>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p>I have to admit, this sounds great for guitar and bass alike. Once you have loaded an impulse response to react to your amplifier, you are ready to record in my opinion. This gets a <a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-lasso-id="449">killer tone</a>, but it does take a little bit of scrolling through the mic presets to find a great one that works with your rig.</p>
+<p>I have to admit, this sounds great for guitar and bass alike. Once you have loaded an impulse response to react to your amplifier, you are ready to record in my opinion. This gets a <a href="/killer-guitar-tone-without-hardware/" data-lasso-id="449">killer tone</a>, but it does take a little bit of scrolling through the mic presets to find a great one that works with your rig.</p>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<p>That&#8217;s right, you can blend the sounds with the tactile sliders. Once you have the perfect sound dialed it, you can make note of it. This can be <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="450">a great solution for people recording guitar tracks</a> with their full live rig, without pissing off the whole neighborhood. </p>
+<p>That&#8217;s right, you can blend the sounds with the tactile sliders. Once you have the perfect sound dialed it, you can make note of it. This can be <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="450">a great solution for people recording guitar tracks</a> with their full live rig, without pissing off the whole neighborhood. </p>
 
 
 

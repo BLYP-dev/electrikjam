@@ -88,7 +88,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/electrikjam-podcast/" data-lasso-id="264273">Chris and I talk about this A LOT on the podcast</a></strong>. Stop chasing gear for specific sounds and/or tones, work with what you have, get experimental, actually limit yourself (gear-wise) and see what you can come up with.&nbsp;</p>
+<p><strong><a href="/electrikjam-podcast/" data-lasso-id="264273">Chris and I talk about this A LOT on the podcast</a></strong>. Stop chasing gear for specific sounds and/or tones, work with what you have, get experimental, actually limit yourself (gear-wise) and see what you can come up with.&nbsp;</p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-is-logic-pro/" data-lasso-id="264274">They use Apple Logic Pro as their main DAW</a></strong>, but generally eschew plug-ins and soft synths in favor of their hardware.</p>
+<p><strong><a href="/what-is-logic-pro/" data-lasso-id="264274">They use Apple Logic Pro as their main DAW</a></strong>, but generally eschew plug-ins and soft synths in favor of their hardware.</p>
 
 
 

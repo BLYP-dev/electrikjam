@@ -40,15 +40,15 @@ seo:
 
 
 
-<p>Guitar processors have came a long way in the past 10 years. even the less pricey ones. <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4478">Line 6</a> revolutionized the idea of portable guitar processors in 1999, with their famous POD system. Looking back now, those were not the greatest, but just like the <a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" data-lasso-id="73">evolution of the guitar</a>, the guitar processor has been refined over the years.</p>
+<p>Guitar processors have came a long way in the past 10 years. even the less pricey ones. <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4478">Line 6</a> revolutionized the idea of portable guitar processors in 1999, with their famous POD system. Looking back now, those were not the greatest, but just like the <a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" data-lasso-id="73">evolution of the guitar</a>, the guitar processor has been refined over the years.</p>
 
 
 
-<p>There are plenty of processors with state of the art sounds out there like the AxeFX and the <a href="https://www.electrikjam.com/line-6-helix-recording-techniques-the-1-guide-to-getting-started/" data-lasso-id="4152">Line 6 Helix</a>. The problem is that these come at at steep price, starting at over $1000 for the base models. These work great for the professional musician, but what about the beginner? The hobbyist?</p>
+<p>There are plenty of processors with state of the art sounds out there like the AxeFX and the <a href="/line-6-helix-recording-techniques-the-1-guide-to-getting-started/" data-lasso-id="4152">Line 6 Helix</a>. The problem is that these come at at steep price, starting at over $1000 for the base models. These work great for the professional musician, but what about the beginner? The hobbyist?</p>
 
 
 
-<p>That&#8217;s where <a href="https://www.electrikjam.com/we-need-to-talk-about-the-gtrs-intelligent-guitar/" data-lasso-id="74">MOOER</a> and Zoom step in. These units are affordable and tout all the same features that the more expensive units have.  These days being <a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="75">affordable doesn&#8217;t mean &#8220;cheap&#8221;</a> or lousy.</p>
+<p>That&#8217;s where <a href="/we-need-to-talk-about-the-gtrs-intelligent-guitar/" data-lasso-id="74">MOOER</a> and Zoom step in. These units are affordable and tout all the same features that the more expensive units have.  These days being <a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="75">affordable doesn&#8217;t mean &#8220;cheap&#8221;</a> or lousy.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>Mooer hasn&#8217;t been in the game very long at all. Only in the past few years have I seen the name mentioned on guitar forums and reviews. Mooer got it&#8217;s start making <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="76">affordable guitar pedals</a> that are a kind of &#8220;clone&#8221; of more expensive or rare devices. </p>
+<p>Mooer hasn&#8217;t been in the game very long at all. Only in the past few years have I seen the name mentioned on guitar forums and reviews. Mooer got it&#8217;s start making <a href="/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="76">affordable guitar pedals</a> that are a kind of &#8220;clone&#8221; of more expensive or rare devices. </p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>The MOOER G150 is the newer, most affordable unit currently offered by the company. The full range of effects units include a huge flagship model that still falls in at just under $1000. This is a bargain compared the <a href="https://www.electrikjam.com/line-6-helix-recording-techniques/" data-lasso-id="4179">industry giants like Line 6 Helix</a>, or Kemper.</p>
+<p>The MOOER G150 is the newer, most affordable unit currently offered by the company. The full range of effects units include a huge flagship model that still falls in at just under $1000. This is a bargain compared the <a href="/line-6-helix-recording-techniques/" data-lasso-id="4179">industry giants like Line 6 Helix</a>, or Kemper.</p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li>55 Amp Models (Based on popular brands)</li><li>151 Effects</li><li>200 User programmable patches</li><li>Full color screen</li><li>80 Second looper/recorder</li><li>40 Built in <a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104748">drum patterns</a></li><li>Tap tempo for delay effects</li><li>Expression/Wah pedal</li><li>Updatable software (Usb Connect)</li><li>26 User spots for cabinet IR (Impulse Response)</li><li>Practice metronome</li><li>AUX in port</li><li>Headphone Jack</li><li>Metal chassis construction</li></ul>
+<ul class="wp-block-list"><li>55 Amp Models (Based on popular brands)</li><li>151 Effects</li><li>200 User programmable patches</li><li>Full color screen</li><li>80 Second looper/recorder</li><li>40 Built in <a href="/ezdrummer-2-worth-it/" data-lasso-id="104748">drum patterns</a></li><li>Tap tempo for delay effects</li><li>Expression/Wah pedal</li><li>Updatable software (Usb Connect)</li><li>26 User spots for cabinet IR (Impulse Response)</li><li>Practice metronome</li><li>AUX in port</li><li>Headphone Jack</li><li>Metal chassis construction</li></ul>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>Usually only found in the more expensive processors, this unit can act as a recording interface. This means you can use the USB port <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="77">into your computer to record your guitar with your favorite DAW</a>. This is helpful for people that do not have a huge home setup for recording.</p>
+<p>Usually only found in the more expensive processors, this unit can act as a recording interface. This means you can use the USB port <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="77">into your computer to record your guitar with your favorite DAW</a>. This is helpful for people that do not have a huge home setup for recording.</p>
 
 
 
@@ -132,11 +132,11 @@ seo:
 
 
 
-<p>The clean amps based on Fender and Vox also have a great tone. These <a href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/" data-lasso-id="78">low gain amps</a> sound great with a touch of reverb. In the end, I had no trouble dialing in any tone I wanted.</p>
+<p>The clean amps based on Fender and Vox also have a great tone. These <a href="/the-best-guitar-amps-under-100-bucks/" data-lasso-id="78">low gain amps</a> sound great with a touch of reverb. In the end, I had no trouble dialing in any tone I wanted.</p>
 
 
 
-<p><strong>The Interface:</strong> While you can easily hook the MOOER up to your computer and edit the patches via USB, much like the<a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="79"> BOSS Katana </a>and Line 6 products, I found it<em> easier </em>to use the controls on the front of the device than the software.</p>
+<p><strong>The Interface:</strong> While you can easily hook the MOOER up to your computer and edit the patches via USB, much like the<a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="79"> BOSS Katana </a>and Line 6 products, I found it<em> easier </em>to use the controls on the front of the device than the software.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p>These Zoom pedals for years were in <a href="https://www.electrikjam.com/the-line-6-hx-stomp/" data-lasso-id="5747">direct competition with Line 6</a> when it came to making small, easy to use, guitar processors. Though Zoom never claimed the throne, often being overshadowed by Line 6 even though Zoom offered comparable features.</p>
+<p>These Zoom pedals for years were in <a href="/the-line-6-hx-stomp/" data-lasso-id="5747">direct competition with Line 6</a> when it came to making small, easy to use, guitar processors. Though Zoom never claimed the throne, often being overshadowed by Line 6 even though Zoom offered comparable features.</p>
 
 
 
@@ -195,11 +195,11 @@ seo:
 
 
 
-<p>The Zoom G1X Four comes packed with tons of effects and <a href="https://www.electrikjam.com/expensive-amp-simulators/" data-lasso-id="81">amp simulators</a>. Lets check out what it has to offer:</p>
+<p>The Zoom G1X Four comes packed with tons of effects and <a href="/expensive-amp-simulators/" data-lasso-id="81">amp simulators</a>. Lets check out what it has to offer:</p>
 
 
 
-<ul class="wp-block-list"><li>80 different effects</li><li>5 effects can be used at the same time</li><li>Zoom Guitar Lab software compatible</li><li>50 User patches/presets</li><li>30 Second looper</li><li>Expression/Wah pedal</li><li>Over 60 drum patterns and settings</li><li>Headphone jack</li><li>Battery powered, by 6 AA batteries</li><li>Chromatic tuner for <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="82">standard, drop, and open tunings</a></li><li>Built in Cabinet IR technology</li><li>Anti-feedback filter for all presets</li><li>USB connectivity</li></ul>
+<ul class="wp-block-list"><li>80 different effects</li><li>5 effects can be used at the same time</li><li>Zoom Guitar Lab software compatible</li><li>50 User patches/presets</li><li>30 Second looper</li><li>Expression/Wah pedal</li><li>Over 60 drum patterns and settings</li><li>Headphone jack</li><li>Battery powered, by 6 AA batteries</li><li>Chromatic tuner for <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="82">standard, drop, and open tunings</a></li><li>Built in Cabinet IR technology</li><li>Anti-feedback filter for all presets</li><li>USB connectivity</li></ul>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<p>That being said, you can also mimic other instruments! The Zoom allows you to use your electric guitar to say, emulate an <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="83">acoustic guitar</a> sound. The modulation can create vibrant and full sounding tones.</p>
+<p>That being said, you can also mimic other instruments! The Zoom allows you to use your electric guitar to say, emulate an <a href="/types-of-guitars-guide/" data-lasso-id="83">acoustic guitar</a> sound. The modulation can create vibrant and full sounding tones.</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p>The distortion can be used for anything, but it does Metal <em>particularly</em> well. There is even a patch called &#8220;Walk&#8221; that mimics <a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="84">Pantera</a> pretty accurately. The lower gain sounds are good for a basic crunch sound or Blues lead tone. The distortion sounds less digital than Zoom&#8217;s previous efforts, definitely a step up&#8230;</p>
+<p>The distortion can be used for anything, but it does Metal <em>particularly</em> well. There is even a patch called &#8220;Walk&#8221; that mimics <a href="/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="84">Pantera</a> pretty accurately. The lower gain sounds are good for a basic crunch sound or Blues lead tone. The distortion sounds less digital than Zoom&#8217;s previous efforts, definitely a step up&#8230;</p>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<p>If you want to use the Zoom A1X as an &#8220;effects only&#8221; option, you&#8217;re in luck. The Zoom&#8217;s cabinet IR can be turned off with a press of a button. This allows you to use the Zoom G1X Four into your <a href="https://www.electrikjam.com/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="85">favorite guitar amp</a> either through the effects loop, or in front of the amp.</p>
+<p>If you want to use the Zoom A1X as an &#8220;effects only&#8221; option, you&#8217;re in luck. The Zoom&#8217;s cabinet IR can be turned off with a press of a button. This allows you to use the Zoom G1X Four into your <a href="/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="85">favorite guitar amp</a> either through the effects loop, or in front of the amp.</p>
 
 
 
@@ -318,7 +318,7 @@ seo:
 
 
 
-<p><strong>POINT: <a href="https://www.electrikjam.com/recommends/mooer-ge150-amp-modelling/" data-lasso-id="87">MOOER</a></strong> </p>
+<p><strong>POINT: <a href="/recommends/mooer-ge150-amp-modelling/" data-lasso-id="87">MOOER</a></strong> </p>
 
 
 
@@ -374,7 +374,7 @@ seo:
 
 
 
-<p><strong>POINT: <a href="https://www.electrikjam.com/recommends/mooer-ge150-amp-modelling/" data-lasso-id="88">MOOER</a></strong></p>
+<p><strong>POINT: <a href="/recommends/mooer-ge150-amp-modelling/" data-lasso-id="88">MOOER</a></strong></p>
 
 
 
@@ -398,7 +398,7 @@ seo:
 
 
 
-<p>The MOOER is made of lightweight metal, but feels pretty substantial. The metal buttons are the same that you would find on any regular <a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-lasso-id="200804">guitar pedal</a> and they are meant for stomping on. Both buttons have a satisfying click to them.</p>
+<p>The MOOER is made of lightweight metal, but feels pretty substantial. The metal buttons are the same that you would find on any regular <a href="/prs-guitar-pedals-reviewed/" data-lasso-id="200804">guitar pedal</a> and they are meant for stomping on. Both buttons have a satisfying click to them.</p>
 
 
 
@@ -406,7 +406,7 @@ seo:
 
 
 
-<p><strong>POINT: <a href="https://www.electrikjam.com/recommends/mooer-ge150-amp-modelling/" data-lasso-id="89">MOOER</a></strong></p>
+<p><strong>POINT: <a href="/recommends/mooer-ge150-amp-modelling/" data-lasso-id="89">MOOER</a></strong></p>
 
 
 
@@ -418,7 +418,7 @@ seo:
 
 
 
-<p>Both units have a small physical footprint and could easily be put in your bag for on-the-go playing. Each unit is lightweight and compact. Both processors could easily fit in a small backpack or <a href="https://www.electrikjam.com/the-best-gig-bags/" data-lasso-id="51427">gig bag</a>.</p>
+<p>Both units have a small physical footprint and could easily be put in your bag for on-the-go playing. Each unit is lightweight and compact. Both processors could easily fit in a small backpack or <a href="/the-best-gig-bags/" data-lasso-id="51427">gig bag</a>.</p>
 
 
 
@@ -449,11 +449,11 @@ seo:
 
 
 
-<p>I honestly cannot believe the quality of both units since they come with such a budget-friendly price. <strong><a href="https://www.electrikjam.com/recommends/mooer-ge150-amp-modelling/" data-lasso-id="91">For hardly any money,</a></strong> you can be making some cool sounds. Which one you choose will be up to which features you prefer.</p>
+<p>I honestly cannot believe the quality of both units since they come with such a budget-friendly price. <strong><a href="/recommends/mooer-ge150-amp-modelling/" data-lasso-id="91">For hardly any money,</a></strong> you can be making some cool sounds. Which one you choose will be up to which features you prefer.</p>
 
 
 
-<p>Will either compete the <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2512">Line 6 Helix</a>? A Headrush Pedalboard? AxeFX?</p>
+<p>Will either compete the <a href="/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2512">Line 6 Helix</a>? A Headrush Pedalboard? AxeFX?</p>
 
 
 
@@ -461,7 +461,7 @@ seo:
 
 
 
-<p>But every guitarist doesn&#8217;t <a href="https://www.electrikjam.com/line-6-helix-lt-reviews/" data-lasso-id="6238">need a Helix</a>. Especially if you just record at home, or you need something to practice with quietly. Neither the Zoom nor the MOOER is overly complicated to use. They both pack a lot of punch for a seemingly &#8220;budget&#8221; piece of gear.</p>
+<p>But every guitarist doesn&#8217;t <a href="/line-6-helix-lt-reviews/" data-lasso-id="6238">need a Helix</a>. Especially if you just record at home, or you need something to practice with quietly. Neither the Zoom nor the MOOER is overly complicated to use. They both pack a lot of punch for a seemingly &#8220;budget&#8221; piece of gear.</p>
 
 
 
@@ -469,7 +469,7 @@ seo:
 
 
 
-<p>We are living in the true &#8220;Golden Age&#8221; of guitar! Gear and guitars have never been more affordable with outstanding quality. Pair one of these units with one of <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="92">our picks for beginners</a>, and you&#8217;ll be rocking in no time.</p>
+<p>We are living in the true &#8220;Golden Age&#8221; of guitar! Gear and guitars have never been more affordable with outstanding quality. Pair one of these units with one of <a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="92">our picks for beginners</a>, and you&#8217;ll be rocking in no time.</p>
 
 
 
@@ -477,7 +477,7 @@ seo:
 
 
 
-<p><strong>MOOER GE150 –&nbsp;<a class="thirstylink" rel="nofollow" target="_blank" title="Mooer GE150 Amp Modelling" href="https://www.electrikjam.com/recommends/mooer-ge150-amp-modelling/" data-shortcode="true">View Latest Prices</a><br>ZOOM G1X –&nbsp;<a class="thirstylink" rel="nofollow" target="_blank" title="Zoom G1X" href="https://www.electrikjam.com/recommends/zoom-g1x/" data-shortcode="true">View Latest Prices</a></strong></p>
+<p><strong>MOOER GE150 –&nbsp;<a class="thirstylink" rel="nofollow" target="_blank" title="Mooer GE150 Amp Modelling" href="/recommends/mooer-ge150-amp-modelling/" data-shortcode="true">View Latest Prices</a><br>ZOOM G1X –&nbsp;<a class="thirstylink" rel="nofollow" target="_blank" title="Zoom G1X" href="/recommends/zoom-g1x/" data-shortcode="true">View Latest Prices</a></strong></p>
 
 
 <p></p>

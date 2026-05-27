@@ -37,7 +37,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-is-ableton-live/" data-type="post" data-id="12564" data-lasso-id="249529">Ableton Live is a powerhouse</a></strong> for live performances, but it&#8217;s equally adept in the studio for music production. But what if you don&#8217;t have a MIDI controller? </p>
+<p><strong><a href="/what-is-ableton-live/" data-type="post" data-id="12564" data-lasso-id="249529">Ableton Live is a powerhouse</a></strong> for live performances, but it&#8217;s equally adept in the studio for music production. But what if you don&#8217;t have a MIDI controller? </p>
 
 
 
@@ -377,7 +377,7 @@ seo:
 
 
 
-<p>Or, if all of the above sounds a little too much like hard work, just <strong><a href="https://www.electrikjam.com/akai-professional-mpk-mini-mk3-review-all-killer-no-filler/" data-lasso-id="249653">get yourself one of these MIDI controllers</a></strong> –&nbsp;it&#8217;s cheap, it works like a dream, and it&#8217;ll save you a mountain of headaches. </p>
+<p>Or, if all of the above sounds a little too much like hard work, just <strong><a href="/akai-professional-mpk-mini-mk3-review-all-killer-no-filler/" data-lasso-id="249653">get yourself one of these MIDI controllers</a></strong> –&nbsp;it&#8217;s cheap, it works like a dream, and it&#8217;ll save you a mountain of headaches. </p>
 
 
 
@@ -393,5 +393,5 @@ seo:
 
 
 
-<p>But if you&#8217;re interested in finding out more about other options, check out our guide to the <strong><a href="https://www.electrikjam.com/best-midi-keyboards/" data-lasso-id="249815">best MIDI keyboards you can buy</a></strong> right now – we&#8217;ve included options for all budgets. </p>
+<p>But if you&#8217;re interested in finding out more about other options, check out our guide to the <strong><a href="/best-midi-keyboards/" data-lasso-id="249815">best MIDI keyboards you can buy</a></strong> right now – we&#8217;ve included options for all budgets. </p>
 

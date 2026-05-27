@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>If you would&#8217;ve asked me 25 years ago which guitar company is better between <strong><a href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="1939">Gibson</a></strong> and Epiphone&#8230;I would have told you the same thing that anyone would tell you: <em>&#8220;Get the Epiphone if you are on a budget, get the Gibson if you have money&#8221;</em>. Many other guitar specialists would have said the same thing, but that was 25 years ago!</p>
+<p>If you would&#8217;ve asked me 25 years ago which guitar company is better between <strong><a href="/gibson-guitars/" data-lasso-id="1939">Gibson</a></strong> and Epiphone&#8230;I would have told you the same thing that anyone would tell you: <em>&#8220;Get the Epiphone if you are on a budget, get the Gibson if you have money&#8221;</em>. Many other guitar specialists would have said the same thing, but that was 25 years ago!</p>
 
 
 
-<p><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" target="_blank" data-type="post" rel="noopener" data-lasso-id="1456"><strong><span style="color: #9b51e0;" class="ugb-highlight">Both companies have a long legacy</span></strong></a>, and have been sold all over the world for decades. But as the years have passed, lots of changes have been made in both companies, even though they are technically both owned by Gibson USA. Considering they are technically the same company, it may seem weird to have a &#8220;Gibson VS Epiphone&#8221; comparison. But The big differences are preference, features, and price.</p>
+<p><a href="/who-invented-the-electric-guitar/" target="_blank" data-type="post" rel="noopener" data-lasso-id="1456"><strong><span style="color: #9b51e0;" class="ugb-highlight">Both companies have a long legacy</span></strong></a>, and have been sold all over the world for decades. But as the years have passed, lots of changes have been made in both companies, even though they are technically both owned by Gibson USA. Considering they are technically the same company, it may seem weird to have a &#8220;Gibson VS Epiphone&#8221; comparison. But The big differences are preference, features, and price.</p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>Epiphone over the years have really become their own &#8220;thing&#8221;, while still being owned by Gibson. Years ago, Epiphone held the licensing to products like the <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4663">Les Paul models</a>, and other Gibson designs. This lead to Epiphone making less expensive versions of Gibson. While they still do that, Epiphone has become more than just that!</p>
+<p>Epiphone over the years have really become their own &#8220;thing&#8221;, while still being owned by Gibson. Years ago, Epiphone held the licensing to products like the <a href="/best-les-paul-copy/" data-lasso-id="4663">Les Paul models</a>, and other Gibson designs. This lead to Epiphone making less expensive versions of Gibson. While they still do that, Epiphone has become more than just that!</p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="1457"><strong><span style="color: #9b51e0;" class="ugb-highlight">There&#8217;s no doubt that we love Epiphone here at ElectrikJam</span></strong></a>. The features you get for a bargain price are hard to deny, especially with all of the models Epiphone makes these days. But Epiphone did not start out as a scion of Gibson at all. Epiphone was very much it&#8217;s own company for quite a while before <a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236475">Gibson came</a> around.</p>
+<p><a href="/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="1457"><strong><span style="color: #9b51e0;" class="ugb-highlight">There&#8217;s no doubt that we love Epiphone here at ElectrikJam</span></strong></a>. The features you get for a bargain price are hard to deny, especially with all of the models Epiphone makes these days. But Epiphone did not start out as a scion of Gibson at all. Epiphone was very much it&#8217;s own company for quite a while before <a href="/gibson-80s-explorer-review/" data-lasso-id="236475">Gibson came</a> around.</p>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<p>From 1957, until the late 70&#8217;s, Gibson and Epiphone were made in the same factory in Kalamazoo. Gibson was busy making the more modern models like the Les Paul, while Epiphone was reserved for making the more traditional <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1458">hollow body, and semi-hollow body guitars</a> that Epiphone was known for.  </p>
+<p>From 1957, until the late 70&#8217;s, Gibson and Epiphone were made in the same factory in Kalamazoo. Gibson was busy making the more modern models like the Les Paul, while Epiphone was reserved for making the more traditional <a href="/types-of-guitars-guide/" data-lasso-id="1458">hollow body, and semi-hollow body guitars</a> that Epiphone was known for.  </p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg" alt="" class="wp-image-1893" title="" srcset="/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg 1024w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-600x400.jpg 600w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-300x200.jpg 300w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-768x512.jpg 768w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132441">Epiphone and Gibson Les Paul Customs</a></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg" alt="" class="wp-image-1893" title="" srcset="/wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-1024x683.jpg 1024w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-600x400.jpg 600w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-300x200.jpg 300w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison-768x512.jpg 768w, /wp-content/uploads/2021/02/Epiphone-Les-Paul-VS-Gibson-Les-Paul-Comparison.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132441">Epiphone and Gibson Les Paul Customs</a></em></figcaption></figure>
 
 
 
@@ -139,11 +139,11 @@ seo:
 
 
 
-<p>Most of these guitars are modern reproductions of the <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review-incredible-6-and-7-string-beasts/" data-lasso-id="132346">original Epiphone</a> guitars, built very much like they were in the early 1900s. Epiphone makes these for players that want to play a piece or history, and for collectors alike. People like  <a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36076">The Beatles  favored Epiphone</a> models like the Sheraton and Casino over their Gibson counterparts.</p>
+<p>Most of these guitars are modern reproductions of the <a href="/epiphone-matt-heafy-origins-review-incredible-6-and-7-string-beasts/" data-lasso-id="132346">original Epiphone</a> guitars, built very much like they were in the early 1900s. Epiphone makes these for players that want to play a piece or history, and for collectors alike. People like  <a href="/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36076">The Beatles  favored Epiphone</a> models like the Sheraton and Casino over their Gibson counterparts.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/the-epiphone-wilshire-a-forgotten-design-gets-a-new-chance/" target="_blank" data-type="post" data-id="1531" rel="noopener" data-lasso-id="1459"><strong><span style="color: #9b51e0;" class="ugb-highlight">The Coronet and Wilshire </span></strong></a>models are modern solid body guitars that were originally only made in the late 60&#8217;s. These models were definitely out of character for the Epiphone brand, and never quite took off. In 2020, the lineup of these solid body Epiphones were rebooted, with historic features and finishes.</p>
+<p><a href="/the-epiphone-wilshire-a-forgotten-design-gets-a-new-chance/" target="_blank" data-type="post" data-id="1531" rel="noopener" data-lasso-id="1459"><strong><span style="color: #9b51e0;" class="ugb-highlight">The Coronet and Wilshire </span></strong></a>models are modern solid body guitars that were originally only made in the late 60&#8217;s. These models were definitely out of character for the Epiphone brand, and never quite took off. In 2020, the lineup of these solid body Epiphones were rebooted, with historic features and finishes.</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>Gibson <a href="https://www.electrikjam.com/where-guitars-are-made-2022/" data-lasso-id="145496">guitars are made</a> in the USA. In the beginning, most Gibson guitars were hand-made by master craftsmen in a limited run environment. But demand no longer allows this. Over the years, Gibson has streamlined this process and started to use CNC machines to cut the wood, and route the body of the guitar. </p>
+<p>Gibson <a href="/where-guitars-are-made-2022/" data-lasso-id="145496">guitars are made</a> in the USA. In the beginning, most Gibson guitars were hand-made by master craftsmen in a limited run environment. But demand no longer allows this. Over the years, Gibson has streamlined this process and started to use CNC machines to cut the wood, and route the body of the guitar. </p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p>Gibson strives to keep the instruments as close to the original models as possible. This is what gives Gibson the legacy that it has. The pickups are also made in the USA, as well as all of the electronic components that are wired by hand. The woods that are used on a Gibson are usually higher <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8784">quality than Epiphone</a> as well. Gibson does everything &#8220;in house&#8221; for the most part.</p>
+<p>Gibson strives to keep the instruments as close to the original models as possible. This is what gives Gibson the legacy that it has. The pickups are also made in the USA, as well as all of the electronic components that are wired by hand. The woods that are used on a Gibson are usually higher <a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8784">quality than Epiphone</a> as well. Gibson does everything &#8220;in house&#8221; for the most part.</p>
 
 
 
@@ -211,11 +211,11 @@ seo:
 
 
 
-<p>Recently, Epiphone has started to use name brand electronics in some of their models, <strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="1461"><span style="color: #9b51e0;" class="ugb-highlight">such as the new Prophecy Series</span></a></strong><span style="color: #9b51e0;" class="ugb-highlight"><strong>,</strong></span> or the <strong><a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="1462"><span style="color: #9b51e0;" class="ugb-highlight">new Inspired By Gibson series</span></a><span style="color: #9b51e0;" class="ugb-highlight">.</span></strong> These models are in the upper tier of the Epiphone price range because of the added cost. You also usually find name brand hardware, like tuners, on the upper tier Epiphone models.</p>
+<p>Recently, Epiphone has started to use name brand electronics in some of their models, <strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="1461"><span style="color: #9b51e0;" class="ugb-highlight">such as the new Prophecy Series</span></a></strong><span style="color: #9b51e0;" class="ugb-highlight"><strong>,</strong></span> or the <strong><a href="/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="1462"><span style="color: #9b51e0;" class="ugb-highlight">new Inspired By Gibson series</span></a><span style="color: #9b51e0;" class="ugb-highlight">.</span></strong> These models are in the upper tier of the Epiphone price range because of the added cost. You also usually find name brand hardware, like tuners, on the upper tier Epiphone models.</p>
 
 
 
-<p>The attention to final finishing touches and details is what <em>really</em> matters when it comes to Gibson VS Epiphone. The Epiphones do not receive the individual attention that most Gibson guitars do. <a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-lasso-id="15497">Does that make the Epiphone a &#8220;worse&#8221; guitar</a>? I don&#8217;t think so.</p>
+<p>The attention to final finishing touches and details is what <em>really</em> matters when it comes to Gibson VS Epiphone. The Epiphones do not receive the individual attention that most Gibson guitars do. <a href="/does-the-do-it-all-guitar-exist/" data-lasso-id="15497">Does that make the Epiphone a &#8220;worse&#8221; guitar</a>? I don&#8217;t think so.</p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg" alt="" class="wp-image-1233" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-lasso-id="103379">Epiphone Prophecy Collection</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="565" src="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg" alt="" class="wp-image-1233" title="" srcset="/wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1024x565.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-600x331.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-300x166.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-768x424.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020-1536x848.jpg 1536w, /wp-content/uploads/2020/11/Epiphone-Prophecy-Lineup-2020.jpg 1540w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/epiphone-les-paul-prophecy-colors/" data-lasso-id="103379">Epiphone Prophecy Collection</a></figcaption></figure>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<p>Gibson likes to keep things &#8220;historically accurate&#8221; when it comes to the models that are offered. <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44940">A Gibson Les Paul that you bought 20 years ago</a>, may be almost the exact same design as the one you buy this year! Gibson is a &#8220;legacy&#8221; company that does not mess with the recipe for the designs often. Gibson guitars are very consistent, and vary only slightly year to year.</p>
+<p>Gibson likes to keep things &#8220;historically accurate&#8221; when it comes to the models that are offered. <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44940">A Gibson Les Paul that you bought 20 years ago</a>, may be almost the exact same design as the one you buy this year! Gibson is a &#8220;legacy&#8221; company that does not mess with the recipe for the designs often. Gibson guitars are very consistent, and vary only slightly year to year.</p>
 
 
 
@@ -279,19 +279,19 @@ seo:
 
 
 
-<p>Epiphone also produces more &#8220;Artist&#8221; models than Gibson. These are usually tricked out to the artist&#8217;s specs, and have premium features while remaining a <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35964">budget guitar</a>. Some artists that play Epiphone include:</p>
+<p>Epiphone also produces more &#8220;Artist&#8221; models than Gibson. These are usually tricked out to the artist&#8217;s specs, and have premium features while remaining a <a href="/the-best-guitars-of-2021/" data-lasso-id="35964">budget guitar</a>. Some artists that play Epiphone include:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>Lizzy Hale</strong></li><li><a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" data-lasso-id="2660"><strong>Matt Heafy</strong></a></li><li><strong>Emily Wolfe</strong></li><li><strong>Brendon Small (Metalacolypse)</strong></li><li><strong>Nancy Wilson (Heart)</strong></li><li><strong>Vivian Campbell</strong></li><li><strong>Tommy Thayer</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Lizzy Hale</strong></li><li><a href="/matt-heafy-epiphone-mkh-origins-les-paul/" data-lasso-id="2660"><strong>Matt Heafy</strong></a></li><li><strong>Emily Wolfe</strong></li><li><strong>Brendon Small (Metalacolypse)</strong></li><li><strong>Nancy Wilson (Heart)</strong></li><li><strong>Vivian Campbell</strong></li><li><strong>Tommy Thayer</strong></li></ul>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/06/Epiphone-Ghosthorse.jpg" alt="" class="wp-image-3353" width="840" height="461" title="" srcset="/wp-content/uploads/2021/06/Epiphone-Ghosthorse.jpg 900w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-600x329.jpg 600w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-300x165.jpg 300w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-768x422.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em>Brendon Small Artist <a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170865">Signature Guitar</a></em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/06/Epiphone-Ghosthorse.jpg" alt="" class="wp-image-3353" width="840" height="461" title="" srcset="/wp-content/uploads/2021/06/Epiphone-Ghosthorse.jpg 900w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-600x329.jpg 600w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-300x165.jpg 300w, /wp-content/uploads/2021/06/Epiphone-Ghosthorse-768x422.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" /><figcaption><em>Brendon Small Artist <a href="/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170865">Signature Guitar</a></em></figcaption></figure>
 
 
 
-<p>These artist models almost always have some seriously upgraded features. They may have something like a Floyd Rose Bridge, or name brand pickups like EMG or <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="1463"><strong><span style="color: #9b51e0;" class="ugb-highlight">Fishman</span></strong></a>. These are some of the most interesting Epiphone guitars to me, as they are usually something Gibson would never make, or would only make in a limited run. Some of these are really cool, and you cannot find them anywhere else!</p>
+<p>These artist models almost always have some seriously upgraded features. They may have something like a Floyd Rose Bridge, or name brand pickups like EMG or <a href="/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="1463"><strong><span style="color: #9b51e0;" class="ugb-highlight">Fishman</span></strong></a>. These are some of the most interesting Epiphone guitars to me, as they are usually something Gibson would never make, or would only make in a limited run. Some of these are really cool, and you cannot find them anywhere else!</p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="990" height="349" src="/wp-content/uploads/2021/06/epiphone-les-paul-special-ii.jpg" alt="" class="wp-image-3354" title="" srcset="/wp-content/uploads/2021/06/epiphone-les-paul-special-ii.jpg 990w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-600x212.jpg 600w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-300x106.jpg 300w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-768x271.jpg 768w" sizes="(max-width: 990px) 100vw, 990px" /><figcaption><a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17475">Epiphone Les Paul</a> Special II</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="990" height="349" src="/wp-content/uploads/2021/06/epiphone-les-paul-special-ii.jpg" alt="" class="wp-image-3354" title="" srcset="/wp-content/uploads/2021/06/epiphone-les-paul-special-ii.jpg 990w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-600x212.jpg 600w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-300x106.jpg 300w, /wp-content/uploads/2021/06/epiphone-les-paul-special-ii-768x271.jpg 768w" sizes="(max-width: 990px) 100vw, 990px" /><figcaption><a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17475">Epiphone Les Paul</a> Special II</figcaption></figure>
 
 
 
@@ -327,7 +327,7 @@ seo:
 
 
 
-<p>Epiphone has <em>always</em> been a more budget focused brand. The <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8472">Epiphone Les Paul</a> Special II model pictured above sells <strong>brand new</strong> for under $200. Unlike Gibson, there is not as much structure to the price tiers of Epiphone models, as there are so many of them!</p>
+<p>Epiphone has <em>always</em> been a more budget focused brand. The <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8472">Epiphone Les Paul</a> Special II model pictured above sells <strong>brand new</strong> for under $200. Unlike Gibson, there is not as much structure to the price tiers of Epiphone models, as there are so many of them!</p>
 
 
 
@@ -339,7 +339,7 @@ seo:
 
 
 
-<p>Other Special Models like the 1958 Epiphone Les Paul, and the Prophecy models are at the <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7425">top of the tier because of the premium pickups</a> and hardware. All of this makes the Gibson VS Epiphone debacle a little harder to digest!</p>
+<p>Other Special Models like the 1958 Epiphone Les Paul, and the Prophecy models are at the <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7425">top of the tier because of the premium pickups</a> and hardware. All of this makes the Gibson VS Epiphone debacle a little harder to digest!</p>
 
 
 
@@ -355,11 +355,11 @@ seo:
 
 
 
-<p>The Gibson VS Epiphone debate is one that will probably never end, and that&#8217;s because different people want different things. It&#8217;s not always a question of which one is better. And &#8220;better&#8221; is not always dictated by the <a href="https://www.electrikjam.com/aio-wolf-guitars-review-2021/" data-lasso-id="21762">price tag hanging on the guitar</a>. It&#8217;s all a little more complicated than that, at least it is for me.</p>
+<p>The Gibson VS Epiphone debate is one that will probably never end, and that&#8217;s because different people want different things. It&#8217;s not always a question of which one is better. And &#8220;better&#8221; is not always dictated by the <a href="/aio-wolf-guitars-review-2021/" data-lasso-id="21762">price tag hanging on the guitar</a>. It&#8217;s all a little more complicated than that, at least it is for me.</p>
 
 
 
-<p>Personally, when it comes to Gibson VS Epiphone, I think that Epiphone wins every time for me. This is because of the huge variety of models and price tiers that Epiphone has. I have owned several of both, and I prefer an upgraded Epiphone over a Gibson almost any day. I feel like I can get a lot more <a href="https://www.electrikjam.com/sire-guitars-l7-review/" data-lasso-id="37748">guitar for my money with an Epiphone</a>.</p>
+<p>Personally, when it comes to Gibson VS Epiphone, I think that Epiphone wins every time for me. This is because of the huge variety of models and price tiers that Epiphone has. I have owned several of both, and I prefer an upgraded Epiphone over a Gibson almost any day. I feel like I can get a lot more <a href="/sire-guitars-l7-review/" data-lasso-id="37748">guitar for my money with an Epiphone</a>.</p>
 
 
 
@@ -388,7 +388,7 @@ seo:
 <h3 class="rank-math-question ">Which Epiphone Models Are the Best?</h3>
 <div class="rank-math-answer ">
 
-<p>In my opinion, the Standard series, and the Artist Series are well made Epiphones that will suit just about every guitar player&#8217;s needs. If you are a pro, the<a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" target="_blank" data-type="post" data-id="1231" rel="noreferrer noopener"> </a><strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" target="_blank" data-type="post" data-id="1231" rel="noreferrer noopener">Prophecy Series</a> </strong>is also a great option.</p>
+<p>In my opinion, the Standard series, and the Artist Series are well made Epiphones that will suit just about every guitar player&#8217;s needs. If you are a pro, the<a href="/epiphone-prophecy-2020-price-release-date-specs/" target="_blank" data-type="post" data-id="1231" rel="noreferrer noopener"> </a><strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" target="_blank" data-type="post" data-id="1231" rel="noreferrer noopener">Prophecy Series</a> </strong>is also a great option.</p>
 
 </div>
 </div>

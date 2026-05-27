@@ -42,7 +42,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-is-ableton-live/" target="_blank" data-type="post" data-id="12564" rel="noopener" data-lasso-id="248200">Ableton Live </a></strong>has been around for over 20 years now, and it has become the DAW of choice for many professional musicians. As the world of music production continues to evolve, digital audio workstations (DAWs) play a pivotal role in shaping the creative landscape.</p>
+<p><strong><a href="/what-is-ableton-live/" target="_blank" data-type="post" data-id="12564" rel="noopener" data-lasso-id="248200">Ableton Live </a></strong>has been around for over 20 years now, and it has become the DAW of choice for many professional musicians. As the world of music production continues to evolve, digital audio workstations (DAWs) play a pivotal role in shaping the creative landscape.</p>
 
 
 

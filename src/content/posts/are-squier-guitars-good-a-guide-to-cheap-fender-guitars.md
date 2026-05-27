@@ -103,7 +103,7 @@ seo:
 
 
 
-<p id="htoc-if-you-re-new-to-guitar-or-buying-for-someone-just-starting-out-a-squier-is-a-no-brainer-it-s-the-best-entry-point-into-the-fender-style-guitar-world-play-it-hard-learn-your-chops-and-upgrade-when-you-re-ready-just-don-t-expect-miracles-at-this-price-and-you-won-t-be-disappointed1">Need advice on which model to get? Read my <a href="https://www.electrikjam.com/buying-guides/squier-guitars/" data-type="buying-guides" data-id="17553"><strong>Squier Buying Guide</strong></a>; it covers everything you need to know before you pull the trigger on one. </p>
+<p id="htoc-if-you-re-new-to-guitar-or-buying-for-someone-just-starting-out-a-squier-is-a-no-brainer-it-s-the-best-entry-point-into-the-fender-style-guitar-world-play-it-hard-learn-your-chops-and-upgrade-when-you-re-ready-just-don-t-expect-miracles-at-this-price-and-you-won-t-be-disappointed1">Need advice on which model to get? Read my <a href="/buying-guides/squier-guitars/" data-type="buying-guides" data-id="17553"><strong>Squier Buying Guide</strong></a>; it covers everything you need to know before you pull the trigger on one. </p>
 
 
 </div>
@@ -113,7 +113,7 @@ seo:
 
 
 
-<p>If you want a <strong><a data-lasso-id="1660" href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532">proper Fender guitar</a></strong>, you’re going to have to drop some BIG BUCKS. Even an entry-level Fender will set you back the best part of $800. </p>
+<p>If you want a <strong><a data-lasso-id="1660" href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532">proper Fender guitar</a></strong>, you’re going to have to drop some BIG BUCKS. Even an entry-level Fender will set you back the best part of $800. </p>
 
 
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<p>Or are you better off with something like a <strong><a data-lasso-id="1661" href="https://www.electrikjam.com/new-yamaha-pacifica-612vii-models-high-end-on-a-budget/" data-type="post" data-id="1599">Yamaha Pacifica</a></strong> or <strong><a data-lasso-id="1662" href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880">something by Epiphone</a></strong>? This post will outline ALL the PROS and CONS of using Squier guitars.</p>
+<p>Or are you better off with something like a <strong><a data-lasso-id="1661" href="/new-yamaha-pacifica-612vii-models-high-end-on-a-budget/" data-type="post" data-id="1599">Yamaha Pacifica</a></strong> or <strong><a data-lasso-id="1662" href="/best-epiphone-les-paul-models/" data-type="post" data-id="880">something by Epiphone</a></strong>? This post will outline ALL the PROS and CONS of using Squier guitars.</p>
 
 
 
@@ -213,7 +213,7 @@ seo:
 
 
 
-<p>Fender makes Squier versions of its <strong>Stratocaster, Telecaster, Jaguar, <a data-lasso-id="6902" href="https://www.electrikjam.com/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/">Jazzmaster</a>, Jazz Bass, and Precision Bass</strong>. </p>
+<p>Fender makes Squier versions of its <strong>Stratocaster, Telecaster, Jaguar, <a data-lasso-id="6902" href="/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/">Jazzmaster</a>, Jazz Bass, and Precision Bass</strong>. </p>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li id="htoc-style-tone-comparison-telecaster-vs-jazzmaster-which-is-best"><strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236021">Style / Tone Comparison: Telecaster vs Jazzmaster –&nbsp;Which is Best? </a></strong></li>
+<li id="htoc-style-tone-comparison-telecaster-vs-jazzmaster-which-is-best"><strong><a href="/telecaster-vs-jazzmaster/" data-lasso-id="236021">Style / Tone Comparison: Telecaster vs Jazzmaster –&nbsp;Which is Best? </a></strong></li>
 </ul>
 
 
@@ -355,7 +355,7 @@ seo:
 
 
 
-<p>These <strong><a data-lasso-id="1667" href="https://www.electrikjam.com/types-of-guitars-guide/" data-type="post" data-id="2545">styles of guitar</a></strong> have been used by the greats for decades to produce some of the best guitar music ever recorded. With a Strat or a Tele, you’re in good company.</p>
+<p>These <strong><a data-lasso-id="1667" href="/types-of-guitars-guide/" data-type="post" data-id="2545">styles of guitar</a></strong> have been used by the greats for decades to produce some of the best guitar music ever recorded. With a Strat or a Tele, you’re in good company.</p>
 
 
 
@@ -375,7 +375,7 @@ seo:
 
 
 
-<p>Add in something like the <strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" data-type="post" data-id="2700" data-lasso-id="1670">Fender Mustang Micro</a></strong>, a small USB-powered smart amp that plugs into the guitar’s jack and connects to headphones, and you’ll be jamming out screaming solos and riffs in no time. The Fender Mustang Micro is <strong><a href="https://www.electrikjam.com/fender-mustang-micro-uk-release-date/" data-type="post" data-id="2811" data-lasso-id="1671">great for quiet practice at home</a></strong>, so if you don’t know what it is, make sure you check it out.</p>
+<p>Add in something like the <strong><a href="/fender-mustang-micro-features-price/" data-type="post" data-id="2700" data-lasso-id="1670">Fender Mustang Micro</a></strong>, a small USB-powered smart amp that plugs into the guitar’s jack and connects to headphones, and you’ll be jamming out screaming solos and riffs in no time. The Fender Mustang Micro is <strong><a href="/fender-mustang-micro-uk-release-date/" data-type="post" data-id="2811" data-lasso-id="1671">great for quiet practice at home</a></strong>, so if you don’t know what it is, make sure you check it out.</p>
 
 
 
@@ -407,7 +407,7 @@ seo:
 
 
 
-<p>And once you’ve logged your 10,000 hours of playing, you can get yourself an upgrade – a PROPER Fender, for instance, or one of <strong><a href="https://www.electrikjam.com/best-electric-guitars/" data-type="page" data-id="4928">these amazing guitars</a></strong>.</p>
+<p>And once you’ve logged your 10,000 hours of playing, you can get yourself an upgrade – a PROPER Fender, for instance, or one of <strong><a href="/best-electric-guitars/" data-type="page" data-id="4928">these amazing guitars</a></strong>.</p>
 
 
 
@@ -455,7 +455,7 @@ seo:
 
 
 
-<p>But by the time they’d gone bad, I’d already moved on to another guitar – <strong><a data-lasso-id="1673" href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491">an Epiphone SG Standard</a></strong>.</p>
+<p>But by the time they’d gone bad, I’d already moved on to another guitar – <strong><a data-lasso-id="1673" href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491">an Epiphone SG Standard</a></strong>.</p>
 
 
 
@@ -479,7 +479,7 @@ seo:
 
 
 
-<p>When you first start out playing guitar, <a data-lasso-id="1674" href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/">tuning your guitar</a> can be quite confusing. It can also take time too. </p>
+<p>When you first start out playing guitar, <a data-lasso-id="1674" href="/dgcfad-the-guitar-tuning-of-the-gods/">tuning your guitar</a> can be quite confusing. It can also take time too. </p>
 
 
 
@@ -515,7 +515,7 @@ seo:
 
 
 
-<p>But, once again, they miss the point: <strong><a data-lasso-id="1675" href="https://www.electrikjam.com/how-to-buy-expensive-guitar-for-less/" data-type="post" data-id="1708">no one starts learning on a $1000 guitar</a></strong>. And for less than $300 in most cases, a Squier guitar sounds just fine.</p>
+<p>But, once again, they miss the point: <strong><a data-lasso-id="1675" href="/how-to-buy-expensive-guitar-for-less/" data-type="post" data-id="1708">no one starts learning on a $1000 guitar</a></strong>. And for less than $300 in most cases, a Squier guitar sounds just fine.</p>
 
 
 
@@ -547,7 +547,7 @@ seo:
 
 
 
-<p>Until then, you’ll be more than good with a Squier guitar – <strong><a href="https://www.electrikjam.com/brand-of-guitar/squier/">especially when you see just how cheap they are!</a></strong></p>
+<p>Until then, you’ll be more than good with a Squier guitar – <strong><a href="/brand-of-guitar/squier/">especially when you see just how cheap they are!</a></strong></p>
 
 
 

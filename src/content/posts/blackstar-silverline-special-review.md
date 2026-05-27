@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Let me be upfront with you, I am a huge <a data-lasso-id="44126" href="https://www.electrikjam.com/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" target="_blank" data-type="post" data-id="1780" rel="noopener"><strong>Blackstar</strong></a> fan. In fact, I am notorious for changing up gear at a rapid pace. But the <a data-lasso-id="44127" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center" href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" target="_blank" data-type="lasso-urls" data-id="5946" rel="nofollow sponsored noopener"><strong>Blackstar HT40</strong> </a>became a staple of my live performance, and at one time I used it without a <a data-lasso-id="44128" href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener"><strong>pedalboard</strong></a> at all. But that&#8217;s a big <em>expensive</em> tube amp, and it&#8217;s not going to fit in everyone&#8217;s budget. But that is exactly why something like the Blackstar Silverline Special exists.</p>
+<p>Let me be upfront with you, I am a huge <a data-lasso-id="44126" href="/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" target="_blank" data-type="post" data-id="1780" rel="noopener"><strong>Blackstar</strong></a> fan. In fact, I am notorious for changing up gear at a rapid pace. But the <a data-lasso-id="44127" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center" href="/guitar-center-pxf-io-mxrezq/" target="_blank" data-type="lasso-urls" data-id="5946" rel="nofollow sponsored noopener"><strong>Blackstar HT40</strong> </a>became a staple of my live performance, and at one time I used it without a <a data-lasso-id="44128" href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener"><strong>pedalboard</strong></a> at all. But that&#8217;s a big <em>expensive</em> tube amp, and it&#8217;s not going to fit in everyone&#8217;s budget. But that is exactly why something like the Blackstar Silverline Special exists.</p>
 
 
 
@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>The appeal of the ID:Core digital amps is the sound, right out of the box. They do a lot, with minimal fuss when it comes to setting them up. They are easy to use because you essentially have a few different tones to work with as well as effects. It&#8217;s just really simple. They remind me of how easy the <strong><a href="https://www.electrikjam.com/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="44362">BOSS Katana</a> </strong>is to operate and navigate. There are tons of features, but it can also be <em><strong>simple</strong></em>.</p>
+<p>The appeal of the ID:Core digital amps is the sound, right out of the box. They do a lot, with minimal fuss when it comes to setting them up. They are easy to use because you essentially have a few different tones to work with as well as effects. It&#8217;s just really simple. They remind me of how easy the <strong><a href="/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="44362">BOSS Katana</a> </strong>is to operate and navigate. There are tons of features, but it can also be <em><strong>simple</strong></em>.</p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>The Blackstar digital amps have a pretty simple layout when it comes to patches. Unlike something like the <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener" data-lasso-id="44364"><strong>Mustang Series</strong></a>, it does not have endless banks to scroll through. The knob on the far left allows you to choose between 2 different clean tones, some crunch tones, and two overdrive tones. These are tweakable, but to be fair, they sound pretty great with the presets.</p>
+<p>The Blackstar digital amps have a pretty simple layout when it comes to patches. Unlike something like the <a href="/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener" data-lasso-id="44364"><strong>Mustang Series</strong></a>, it does not have endless banks to scroll through. The knob on the far left allows you to choose between 2 different clean tones, some crunch tones, and two overdrive tones. These are tweakable, but to be fair, they sound pretty great with the presets.</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>This thing is LOUD as hell. 50 watts usually doesn&#8217;t mean much when it comes to solid state powered amplifiers. But the Blackstar Silverline Special sounds more like 40 watts of tube power than 50 watts of solid state&#8230;if that makes sense. It will push air, for sure. The <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-lasso-id="90322">Celestion Speaker</a> is a nice addition, and it has a really &#8220;even&#8221; frequency response. This amp would have no trouble in a band situation <a href="https://www.electrikjam.com/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91580">unless your drummer is <strong>Dave</strong> Grohl</a> <strong>  </strong>.</p>
+<p>This thing is LOUD as hell. 50 watts usually doesn&#8217;t mean much when it comes to solid state powered amplifiers. But the Blackstar Silverline Special sounds more like 40 watts of tube power than 50 watts of solid state&#8230;if that makes sense. It will push air, for sure. The <a href="/the-best-celestion-speakers/" data-lasso-id="90322">Celestion Speaker</a> is a nice addition, and it has a really &#8220;even&#8221; frequency response. This amp would have no trouble in a band situation <a href="/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91580">unless your drummer is <strong>Dave</strong> Grohl</a> <strong>  </strong>.</p>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<p>That&#8217;s because it <em><strong>IS </strong></em>very simple. People who use extensive <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="44365"><strong>amp sims</strong> </a>and the like will probably be really underwhelmed with the software. You can&#8217;t deep dive into a million pedal combos or anything of the sort. But at the same time, this is a great feature for people that just want an <em><strong>amp</strong></em>. This is precisely what the Blackstar Silverline Special excels at: Being an amplifier.</p>
+<p>That&#8217;s because it <em><strong>IS </strong></em>very simple. People who use extensive <a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="44365"><strong>amp sims</strong> </a>and the like will probably be really underwhelmed with the software. You can&#8217;t deep dive into a million pedal combos or anything of the sort. But at the same time, this is a great feature for people that just want an <em><strong>amp</strong></em>. This is precisely what the Blackstar Silverline Special excels at: Being an amplifier.</p>
 
 
 
@@ -186,7 +186,7 @@ seo:
 
 
 
-<p>If your answer is &#8220;no&#8221;, then this is the amp for you. It has a simple setup that can be used from the second you plug it in the first time. The restrictions on just how much you can edit this amp is also a good thing to me. I would rather have 6 really <a href="https://www.electrikjam.com/boss-katana-sneaky-amps-guide/" data-lasso-id="67058">amazing tones</a> than 200 mediocre ones. This is exactly where Blackstar excels.</p>
+<p>If your answer is &#8220;no&#8221;, then this is the amp for you. It has a simple setup that can be used from the second you plug it in the first time. The restrictions on just how much you can edit this amp is also a good thing to me. I would rather have 6 really <a href="/boss-katana-sneaky-amps-guide/" data-lasso-id="67058">amazing tones</a> than 200 mediocre ones. This is exactly where Blackstar excels.</p>
 
 
 

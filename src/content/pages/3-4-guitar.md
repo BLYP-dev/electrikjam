@@ -114,7 +114,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" data-lasso-id="268554">Eddie Van Halen played one</a></strong>, so yeah&#8230; if they&#8217;re good enough for EVH, they&#8217;re good enough for mere mortals like you and I&#8230;</p>
+<p><strong><a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" data-lasso-id="268554">Eddie Van Halen played one</a></strong>, so yeah&#8230; if they&#8217;re good enough for EVH, they&#8217;re good enough for mere mortals like you and I&#8230;</p>
 
 
 

@@ -56,11 +56,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/every-time-i-die-guitar-tunings/" data-lasso-id="3084">They don&#8217;t use traditional 6-string guitars</a> anymore. And while there are plenty of great 6-string <strong><a href="https://www.electrikjam.com/best-guitars-for-metal/" data-type="post" data-id="906" data-lasso-id="203">guitar options for metal </a></strong>(and also<strong><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="204"> specific guitar models for doom</a></strong>), Meshuggah is 100% 8-string these days. </p>
+<p><a href="/every-time-i-die-guitar-tunings/" data-lasso-id="3084">They don&#8217;t use traditional 6-string guitars</a> anymore. And while there are plenty of great 6-string <strong><a href="/best-guitars-for-metal/" data-type="post" data-id="906" data-lasso-id="203">guitar options for metal </a></strong>(and also<strong><a href="/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="204"> specific guitar models for doom</a></strong>), Meshuggah is 100% 8-string these days. </p>
 
 
 
-<p>And that means <strong><a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" class="rank-math-link" data-lasso-id="205">lots of crazy chord extensions and voicing</a></strong>. </p>
+<p>And that means <strong><a href="/chord-voicing-extensions-for-metal/" class="rank-math-link" data-lasso-id="205">lots of crazy chord extensions and voicing</a></strong>. </p>
 
 
 
@@ -84,11 +84,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/meshuggah-meme/" data-lasso-id="104066">Meshuggah</a> used 8-string Ibanez guitars ever since. But it wasn’t until they began pre-production on <strong>OBZEN</strong> that things started to get a little more custom and a little more interesting…</p>
+<p><a href="/meshuggah-meme/" data-lasso-id="104066">Meshuggah</a> used 8-string Ibanez guitars ever since. But it wasn’t until they began pre-production on <strong>OBZEN</strong> that things started to get a little more custom and a little more interesting…</p>
 
 
 
-<p><a href="https://www.electrikjam.com/what-guitar-amps-do-meshuggah-use/" data-lasso-id="101422">Prior to the recording of <strong>OBZEN</strong></a>, Meshuggah collaborated with Ibanez to create an 8-string concept guitar for use on the record.</p>
+<p><a href="/what-guitar-amps-do-meshuggah-use/" data-lasso-id="101422">Prior to the recording of <strong>OBZEN</strong></a>, Meshuggah collaborated with Ibanez to create an 8-string concept guitar for use on the record.</p>
 
 
 
@@ -96,11 +96,11 @@ seo:
 
 
 
-<p>Hagstrom and Thordendal, <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5473">Meshuggah’s guitarists</a>, needed a guitar that was not only suitable for recording. But also for touring. They needed something durable, reliable, and something that sounded great –&nbsp;live and in the studio.</p>
+<p>Hagstrom and Thordendal, <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5473">Meshuggah’s guitarists</a>, needed a guitar that was not only suitable for recording. But also for touring. They needed something durable, reliable, and something that sounded great –&nbsp;live and in the studio.</p>
 
 
 
-<p>And the Ibanez M80M was born. <a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-lasso-id="101287">Meshuggah used the M8oM</a> while recording the OBZEN record, as well as while touring in support of its release during 2019 and 2020, before the apocalypse happened.</p>
+<p>And the Ibanez M80M was born. <a href="/meshuggah-immutable-review/" data-lasso-id="101287">Meshuggah used the M8oM</a> while recording the OBZEN record, as well as while touring in support of its release during 2019 and 2020, before the apocalypse happened.</p>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Top/back/body: Alder wing body</strong></li><li><strong><a data-lasso-id="12766" href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/">Fretboard:</a> Rosewood fretboard</strong></li><li><strong>Fret: Jumbo fretsPrestige fret edge treatment</strong></li><li><strong>Number of frets: 24</strong></li><li><strong>Bridge: FX Edge III-8 bridge</strong></li><li><strong>String space: 10.8mm</strong></li><li><strong>Bridge pickup: Lundgren Model M8 (H) bridge pickupPassive/Ceramic</strong></li><li><strong>Factory tuning: 1D#,2A#,3F#,4C#,5G#,6D#,7A#,8F</strong></li><li><strong>Strings: Dunlop</strong></li><li><strong>String gauge: .009/.011/.016/.026/.036/.046/.052/.070</strong></li><li><strong>Hardware color: Black</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Top/back/body: Alder wing body</strong></li><li><strong><a data-lasso-id="12766" href="/fretboard-hacks-that-every-beginner-should-know/">Fretboard:</a> Rosewood fretboard</strong></li><li><strong>Fret: Jumbo fretsPrestige fret edge treatment</strong></li><li><strong>Number of frets: 24</strong></li><li><strong>Bridge: FX Edge III-8 bridge</strong></li><li><strong>String space: 10.8mm</strong></li><li><strong>Bridge pickup: Lundgren Model M8 (H) bridge pickupPassive/Ceramic</strong></li><li><strong>Factory tuning: 1D#,2A#,3F#,4C#,5G#,6D#,7A#,8F</strong></li><li><strong>Strings: Dunlop</strong></li><li><strong>String gauge: .009/.011/.016/.026/.036/.046/.052/.070</strong></li><li><strong>Hardware color: Black</strong></li></ul>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<p>What something even better? Go with the <strong><a href="https://www.electrikjam.com/schecter-demon-8-8-string-electric-guitar-link/" data-type="lasso-urls" data-id="5413" data-lasso-id="14395" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Schecter Demon-8">Schecter Demon-8 ($539)</a></strong> – it is essentially one of the best entry-level 8-string guitars money can buy right now.</p>
+<p>What something even better? Go with the <strong><a href="/schecter-demon-8-8-string-electric-guitar-link/" data-type="lasso-urls" data-id="5413" data-lasso-id="14395" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Schecter Demon-8">Schecter Demon-8 ($539)</a></strong> – it is essentially one of the best entry-level 8-string guitars money can buy right now.</p>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<p>The M8M isn’t the only custom 8-string you’ll see Meshuggah playing if you watch them live or on YouTube. Thordendal also has another 8-string custom model called the <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255019">Ibanez Stoneman (AKA Ibanez FTM33)</a>.</p>
+<p>The M8M isn’t the only custom 8-string you’ll see Meshuggah playing if you watch them live or on YouTube. Thordendal also has another 8-string custom model called the <a href="/ibanez-guitars/" data-lasso-id="255019">Ibanez Stoneman (AKA Ibanez FTM33)</a>.</p>
 
 
 

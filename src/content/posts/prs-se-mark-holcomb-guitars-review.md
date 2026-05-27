@@ -53,7 +53,7 @@ seo:
 
 
 
-<p>However, they certainly don&#8217;t like the term (<em>Not that ANY of us do!</em>). In fact the new album <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218836">proudly proclaims &#8220;Djent Is Not A Genre&#8221;</a>. All of the various Periphery albums usually have a pun or funny statement, and this one is no different. However, it is impossible to deny the effect the band has had on Modern Metal. So many bands buy <a data-lasso-id="210367" href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener"><strong>7 string</strong></a> guitars and down tune now. To the point of blatant copycat bands, making Metal more&#8230; <em>homogenized</em>.</p>
+<p>However, they certainly don&#8217;t like the term (<em>Not that ANY of us do!</em>). In fact the new album <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218836">proudly proclaims &#8220;Djent Is Not A Genre&#8221;</a>. All of the various Periphery albums usually have a pun or funny statement, and this one is no different. However, it is impossible to deny the effect the band has had on Modern Metal. So many bands buy <a data-lasso-id="210367" href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener"><strong>7 string</strong></a> guitars and down tune now. To the point of blatant copycat bands, making Metal more&#8230; <em>homogenized</em>.</p>
 
 
 
@@ -61,11 +61,11 @@ seo:
 
 
 
-<p>The new PRS SE Mark Holcomb takes most of its cues <a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251738">from the original models</a>, with some subtle differences. Mainly the <a data-lasso-id="210368" href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener"><strong>Seymour Duncan Pickups</strong></a> that the guitar comes loaded with, and a brand new color. Like the original, these come in both a six and seven string models, with slightly different specs between the two.</p>
+<p>The new PRS SE Mark Holcomb takes most of its cues <a href="/prs-se-series-guitars-guide/" data-lasso-id="251738">from the original models</a>, with some subtle differences. Mainly the <a data-lasso-id="210368" href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener"><strong>Seymour Duncan Pickups</strong></a> that the guitar comes loaded with, and a brand new color. Like the original, these come in both a six and seven string models, with slightly different specs between the two.</p>
 
 
 
-<p>The PRS Mark Holcomb has been around for 5 years now, and it certainly says a lot when you see him playing both the expensive USA models,<em> as well as the SE models </em>on stage with Periphery. I have even seen Mark do a few clinics with his <a data-lasso-id="210369" data-lasso-name="PRS Custom 24 SE" href="https://www.electrikjam.com/guitar-center-pxf-io-qnvga5/" data-type="lasso-urls" data-id="6061" target="_blank" rel="nofollow sponsored noopener"><strong>SE models</strong></a>, and like most PRS artists, he seems like a proud father when he shows these guitars off. <strong>John Mayer</strong> is the same way with his<a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" target="_blank" data-type="post" data-id="6543" rel="noopener" data-lasso-id="210997"> <strong>Silver Sky SE</strong></a>.</p>
+<p>The PRS Mark Holcomb has been around for 5 years now, and it certainly says a lot when you see him playing both the expensive USA models,<em> as well as the SE models </em>on stage with Periphery. I have even seen Mark do a few clinics with his <a data-lasso-id="210369" data-lasso-name="PRS Custom 24 SE" href="/guitar-center-pxf-io-qnvga5/" data-type="lasso-urls" data-id="6061" target="_blank" rel="nofollow sponsored noopener"><strong>SE models</strong></a>, and like most PRS artists, he seems like a proud father when he shows these guitars off. <strong>John Mayer</strong> is the same way with his<a href="/prs-se-silver-sky-review-2022/" target="_blank" data-type="post" data-id="6543" rel="noopener" data-lasso-id="210997"> <strong>Silver Sky SE</strong></a>.</p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>The new PT Cort Factory that has been manufacturing the newer PRS SE guitars is making some huge waves in the industry. The sheer quality of these instruments is catching up quickly with other import companies, like<a href="https://www.electrikjam.com/where-guitars-are-made-2022/" target="_blank" data-type="post" data-id="8621" rel="noopener" data-lasso-id="210998"> <strong>World Music in Korea</strong></a>. But like we usually say, it doesn&#8217;t matter how well a guitar is made if it doesn&#8217;t feel great to play. So let&#8217;s dive in!</p>
+<p>The new PT Cort Factory that has been manufacturing the newer PRS SE guitars is making some huge waves in the industry. The sheer quality of these instruments is catching up quickly with other import companies, like<a href="/where-guitars-are-made-2022/" target="_blank" data-type="post" data-id="8621" rel="noopener" data-lasso-id="210998"> <strong>World Music in Korea</strong></a>. But like we usually say, it doesn&#8217;t matter how well a guitar is made if it doesn&#8217;t feel great to play. So let&#8217;s dive in!</p>
 
 
 
@@ -167,11 +167,11 @@ seo:
 
 
 
-<p>Well, &#8220;Out Of The Box&#8221; is not exactly fair when we are talking about PRS SE, since they come with a SOLID gig bag. Personally, I think every guitar over $1000 should come with a quality gig bag, and this is one of my main gripes with other companies. Not only does it <em>ship better</em>, and is more protected getting to the customer, but it is also great to have a case with a higher quality guitar. <a data-lasso-id="210370" href="https://www.electrikjam.com/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener"><strong>Hey Schecte</strong>r</a>, I am talking to you!</p>
+<p>Well, &#8220;Out Of The Box&#8221; is not exactly fair when we are talking about PRS SE, since they come with a SOLID gig bag. Personally, I think every guitar over $1000 should come with a quality gig bag, and this is one of my main gripes with other companies. Not only does it <em>ship better</em>, and is more protected getting to the customer, but it is also great to have a case with a higher quality guitar. <a data-lasso-id="210370" href="/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener"><strong>Hey Schecte</strong>r</a>, I am talking to you!</p>
 
 
 
-<p>These are really nice gig bags and both of the PRS SE Mark Holcomb models come with one. The front pocket has room for pens and pencils, as well as a spot for your picks. I know its just a gig bag but it <em>feels</em> more like a <em>quality product</em> when you take it out of the box. And if you plan on gigging, <a data-lasso-id="210371" href="https://www.electrikjam.com/the-best-gig-bags/" data-type="post" data-id="6566" target="_blank" rel="noopener"><strong>gig bags</strong></a> are great choices over a hard case.</p>
+<p>These are really nice gig bags and both of the PRS SE Mark Holcomb models come with one. The front pocket has room for pens and pencils, as well as a spot for your picks. I know its just a gig bag but it <em>feels</em> more like a <em>quality product</em> when you take it out of the box. And if you plan on gigging, <a data-lasso-id="210371" href="/the-best-gig-bags/" data-type="post" data-id="6566" target="_blank" rel="noopener"><strong>gig bags</strong></a> are great choices over a hard case.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p>The Ebony fretboard was a little dry, but that is expected this time of year. I have always liked the plain white birds over the pearl/abalone birds on PRS. The neck feels almost identical to the original, with the &#8220;Wide Thin&#8221; profile. This is somewhere in between a C shape and a U shape when it comes to necks. The flat radius makes it very easy to <a data-lasso-id="210372" href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener"><strong>shred</strong></a>.</p>
+<p>The Ebony fretboard was a little dry, but that is expected this time of year. I have always liked the plain white birds over the pearl/abalone birds on PRS. The neck feels almost identical to the original, with the &#8220;Wide Thin&#8221; profile. This is somewhere in between a C shape and a U shape when it comes to necks. The flat radius makes it very easy to <a data-lasso-id="210372" href="/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener"><strong>shred</strong></a>.</p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p>The first thing I really gave any attention to was the nut, and it was cut perfectly on <em>this</em> guitar. Once we had it tuned up, it stayed that way and there was almost zero fret buzz. This one had a perfectly straight neck right out of the box, and the low B string was sitting right at 1.80mm. I would do absolutely nothing to this guitar as far as the setup goes. It was even <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="210999"><strong>intonated</strong></a> well, and plays perfectly.</p>
+<p>The first thing I really gave any attention to was the nut, and it was cut perfectly on <em>this</em> guitar. Once we had it tuned up, it stayed that way and there was almost zero fret buzz. This one had a perfectly straight neck right out of the box, and the low B string was sitting right at 1.80mm. I would do absolutely nothing to this guitar as far as the setup goes. It was even <a href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="210999"><strong>intonated</strong></a> well, and plays perfectly.</p>
 
 
 
@@ -255,15 +255,15 @@ seo:
 
 
 
-<p>The PRS SE Mark Holcomb plays like a<em> much more</em> expensive instrument, which is why I am okay with overlooking some of my gripes. I spent most of my time with the SVN version, since it is exactly my style! I  <em>adore</em> 7 string guitars with a baritone scale and they have become my weapon of choice. It seems like 26.5 is just about <em>perfect </em>for most 7 string guitars when it comes to string tension. <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="211000"><strong>Schecter</strong></a> is famous for using this recipe, and it<em> just works</em>!</p>
+<p>The PRS SE Mark Holcomb plays like a<em> much more</em> expensive instrument, which is why I am okay with overlooking some of my gripes. I spent most of my time with the SVN version, since it is exactly my style! I  <em>adore</em> 7 string guitars with a baritone scale and they have become my weapon of choice. It seems like 26.5 is just about <em>perfect </em>for most 7 string guitars when it comes to string tension. <a href="/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="211000"><strong>Schecter</strong></a> is famous for using this recipe, and it<em> just works</em>!</p>
 
 
 
-<p>The ultra-flat radius makes playing chords<em> and </em>solos very easy, and the string spacing is <em>perfect</em> on the Holcomb. It certainly does not feel like a 6 string guitar, but it is one of the most comfortable 7 string guitars I have ever played, on par with the Schecter KM7 MKIII. The neck is in between ESP and an <strong><a href="https://www.electrikjam.com/ibanez-tod10-tim-henson-signature-electric-guitar-guitar-center/" data-type="lasso-urls" data-id="10289" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="211001" data-lasso-name="Ibanez TOD10 Tim Henson Signature Electric Guitar">Ibanez</a></strong>, which means there is a little bit of wood on the back, that<em> fills out</em> your hand. You have full access to the upper frets.</p>
+<p>The ultra-flat radius makes playing chords<em> and </em>solos very easy, and the string spacing is <em>perfect</em> on the Holcomb. It certainly does not feel like a 6 string guitar, but it is one of the most comfortable 7 string guitars I have ever played, on par with the Schecter KM7 MKIII. The neck is in between ESP and an <strong><a href="/ibanez-tod10-tim-henson-signature-electric-guitar-guitar-center/" data-type="lasso-urls" data-id="10289" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="211001" data-lasso-name="Ibanez TOD10 Tim Henson Signature Electric Guitar">Ibanez</a></strong>, which means there is a little bit of wood on the back, that<em> fills out</em> your hand. You have full access to the upper frets.</p>
 
 
 
-<p>The PRS SE Mark Holcomb was tuned to standard when we got it, or at least it was close. I tuned it to <a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="211002"><strong>Drop A</strong></a>, and it has great tension at this scale for drop tuning. I think Mark and Periphery go lower than that, and with a .65 as the bottom string you can go a <em>little lower</em> without getting floppy. Seriously, this guitar is a joy to play and I tried it out on several amps.</p>
+<p>The PRS SE Mark Holcomb was tuned to standard when we got it, or at least it was close. I tuned it to <a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="211002"><strong>Drop A</strong></a>, and it has great tension at this scale for drop tuning. I think Mark and Periphery go lower than that, and with a .65 as the bottom string you can go a <em>little lower</em> without getting floppy. Seriously, this guitar is a joy to play and I tried it out on several amps.</p>
 
 
 
@@ -299,7 +299,7 @@ seo:
 
 
 
-<p>Mark likes to set the <strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" data-lasso-id="211003">pickup position</a></strong> in the middle with the coil split turned on for his clean tone, and it provides a beautiful, glassy tone. I added some reverb and delay with the <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="211004"><strong>BOSS Katana</strong></a> on the clean channel and it sounds<em> incredible</em>. It<em> almost</em> sounds like a Stratocaster, with the high end seriously tamed. Of course, it also works for that &#8220;scratchy&#8221; djent tone that we all know with the bridge pickup under some high gain.</p>
+<p>Mark likes to set the <strong><a href="/guitar-pickup-positions/" data-type="post" data-id="7941" data-lasso-id="211003">pickup position</a></strong> in the middle with the coil split turned on for his clean tone, and it provides a beautiful, glassy tone. I added some reverb and delay with the <a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="211004"><strong>BOSS Katana</strong></a> on the clean channel and it sounds<em> incredible</em>. It<em> almost</em> sounds like a Stratocaster, with the high end seriously tamed. Of course, it also works for that &#8220;scratchy&#8221; djent tone that we all know with the bridge pickup under some high gain.</p>
 
 
 
@@ -355,7 +355,7 @@ seo:
 
 
 
-<p>The PRS SE line gets closer and closer to the Core Line every year, and definitely closer to the<a href="https://www.electrikjam.com/guitar-center-pxf-io-ao27gr/" data-type="lasso-urls" data-id="5441" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="211005" data-lasso-name="PRS S2 Standard 22"><strong> S2</strong> </a>Line. I think PRS has finally realized that the SE line is extremely popular. Now the Core Lineup will always be there, along with the Wood Library and Private Stock for those that can afford it. But we will eventually see the S2 Line Phase out? I mean, the new SE models are <em>VERY</em> close.</p>
+<p>The PRS SE line gets closer and closer to the Core Line every year, and definitely closer to the<a href="/guitar-center-pxf-io-ao27gr/" data-type="lasso-urls" data-id="5441" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="211005" data-lasso-name="PRS S2 Standard 22"><strong> S2</strong> </a>Line. I think PRS has finally realized that the SE line is extremely popular. Now the Core Lineup will always be there, along with the Wood Library and Private Stock for those that can afford it. But we will eventually see the S2 Line Phase out? I mean, the new SE models are <em>VERY</em> close.</p>
 
 
 

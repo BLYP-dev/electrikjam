@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Guitar amps have only <em>really</em> been around for a short time compared to the timeline of guitars in general. Electric guitars only became popular in the last <a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="149179"><strong>70 years</strong></a>. So while guitar may have roots that go all the way back to medieval times, amplifiers are a relatively<em> new</em> addition to the pantheon.</p>
+<p>Guitar amps have only <em>really</em> been around for a short time compared to the timeline of guitars in general. Electric guitars only became popular in the last <a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="149179"><strong>70 years</strong></a>. So while guitar may have roots that go all the way back to medieval times, amplifiers are a relatively<em> new</em> addition to the pantheon.</p>
 
 
 
@@ -48,11 +48,11 @@ seo:
 
 
 
-<p>My first guitar amp had 6 knobs on it, and those knobs were pretty self-explanatory. But when we look at amps these days, it can get confusing really fast. Take something like the <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="149180"><strong>BOSS Katana</strong></a> that we love here at EJ. The Katana is &#8220;easy&#8221; for experienced users, but the myriad of knobs can be <em>daunting</em> for beginners.</p>
+<p>My first guitar amp had 6 knobs on it, and those knobs were pretty self-explanatory. But when we look at amps these days, it can get confusing really fast. Take something like the <a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="149180"><strong>BOSS Katana</strong></a> that we love here at EJ. The Katana is &#8220;easy&#8221; for experienced users, but the myriad of knobs can be <em>daunting</em> for beginners.</p>
 
 
 
-<p>I see forum questions on reddit all the time about &#8220;What does X Knob do?&#8221;. Guitar amp controls can be really confusing for someone new to guitar and gear. Especially an amp that has built-in effects (Katana), or even <a href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener" data-lasso-id="149181"><strong>amp sims</strong></a> that mimic different real-life guitar amp controls.  </p>
+<p>I see forum questions on reddit all the time about &#8220;What does X Knob do?&#8221;. Guitar amp controls can be really confusing for someone new to guitar and gear. Especially an amp that has built-in effects (Katana), or even <a href="/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener" data-lasso-id="149181"><strong>amp sims</strong></a> that mimic different real-life guitar amp controls.  </p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<p>Your amplifier may only have a few of these controls, or maybe it has all of them! <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-lasso-id="154619">Guitar amplifiers</a> come in all kinds of layouts. So today, we are going to look at the most important features, and why they may be important to YOU as a guitarist.</p>
+<p>Your amplifier may only have a few of these controls, or maybe it has all of them! <a href="/choosing-a-guitar-amplifier/" data-lasso-id="154619">Guitar amplifiers</a> come in all kinds of layouts. So today, we are going to look at the most important features, and why they may be important to YOU as a guitarist.</p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>During the early days of electric guitar the only type of amps that you could find were <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="149182"><strong>powered by tubes</strong></a>. <strong>Solid state</strong> technology was right around the corner, but we were <em>not quite</em> there. Early guitar amps were <em>all over the</em> <em>place</em> when it came to design.</p>
+<p>During the early days of electric guitar the only type of amps that you could find were <a href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="149182"><strong>powered by tubes</strong></a>. <strong>Solid state</strong> technology was right around the corner, but we were <em>not quite</em> there. Early guitar amps were <em>all over the</em> <em>place</em> when it came to design.</p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="149183"><strong>Leo Fender</strong></a> is famous for making<strong> <a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="149184">Fender</a> </strong>guitars, and inventing the first mass-produced solid body electric guitar with the Telecaster. Fender also made <a href="https://www.electrikjam.com/pxf-63/" data-type="lasso-urls" data-id="8522" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="149185" data-lasso-name="Fender Blues Junior IV 15W 1x12 Tube Guitar Combo Amplifier"><strong>guitar amps</strong></a>, and the <strong>Standby switch</strong> starts with Leo Fender. </p>
+<p><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="149183"><strong>Leo Fender</strong></a> is famous for making<strong> <a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="149184">Fender</a> </strong>guitars, and inventing the first mass-produced solid body electric guitar with the Telecaster. Fender also made <a href="/pxf-63/" data-type="lasso-urls" data-id="8522" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="149185" data-lasso-name="Fender Blues Junior IV 15W 1x12 Tube Guitar Combo Amplifier"><strong>guitar amps</strong></a>, and the <strong>Standby switch</strong> starts with Leo Fender. </p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p>People looked at this &#8220;Standby&#8221; switch as a &#8220;Mute&#8221; <a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212783">option for the guitar amp</a> controls. It would make sense right? You want your amp&#8217;s tubes to stay warm and ready on stage, but not have any sound coming out of the amp during a break. But that is <em>not at all</em> what Leo Fender intended.</p>
+<p>People looked at this &#8220;Standby&#8221; switch as a &#8220;Mute&#8221; <a href="/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212783">option for the guitar amp</a> controls. It would make sense right? You want your amp&#8217;s tubes to stay warm and ready on stage, but not have any sound coming out of the amp during a break. But that is <em>not at all</em> what Leo Fender intended.</p>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<p>One of the most important guitar amp controls is the <strong>Channel Selection</strong>. These may be a button on your amp, a sliding switch, or it may be controlled only with a footswitch (as shown above). Some digital amps like the<strong> <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="149187">Katana</a></strong> or <a href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="149188"><strong>Catalyst</strong></a> have <em>several</em> channels. While some tube amps may have only <em>one single channel</em>!</p>
+<p>One of the most important guitar amp controls is the <strong>Channel Selection</strong>. These may be a button on your amp, a sliding switch, or it may be controlled only with a footswitch (as shown above). Some digital amps like the<strong> <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="149187">Katana</a></strong> or <a href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="149188"><strong>Catalyst</strong></a> have <em>several</em> channels. While some tube amps may have only <em>one single channel</em>!</p>
 
 
 
@@ -232,11 +232,11 @@ seo:
 
 
 
-<p>This is also why some guitar amp controls are extended to a footswitch. The footswitch allows you to instantly switch between channels on your amp. This is useful if you are playing on stage, and a necessity for most<strong> <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="149189">live rigs</a></strong>. Being able to change the channel mid-song is<em> crucial </em>to many guitarists.</p>
+<p>This is also why some guitar amp controls are extended to a footswitch. The footswitch allows you to instantly switch between channels on your amp. This is useful if you are playing on stage, and a necessity for most<strong> <a href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="149189">live rigs</a></strong>. Being able to change the channel mid-song is<em> crucial </em>to many guitarists.</p>
 
 
 
-<p>The famous <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="149190"><strong>EVH 5150</strong></a> Amplifier was known for having three distinct channels! This gives the user a clean channel, dirty, and full-on distortion. Each channel on the 5150 also had its own EQ and this gave you three<em> totally distinct</em> tones.</p>
+<p>The famous <a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="149190"><strong>EVH 5150</strong></a> Amplifier was known for having three distinct channels! This gives the user a clean channel, dirty, and full-on distortion. Each channel on the 5150 also had its own EQ and this gave you three<em> totally distinct</em> tones.</p>
 
 
 
@@ -336,7 +336,7 @@ seo:
 
 
 
-<p>For most guitarists, dialing in the EQ is going to be a matter of taste. If you listen to <a href="https://www.electrikjam.com/pantera-reunion-tour/" data-type="post" data-id="8463" target="_blank" rel="noopener" data-lasso-id="149191"><strong>Pantera</strong></a>, you will hear a great example of a guitar with the mid knob turned almost all the way down. Modern bands like <a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" target="_blank" rel="noopener" data-lasso-id="149192"><strong>Mastodon</strong></a> on the other hand, dial in a<em> lot</em> of midrange on their amps. <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="149193"><strong>7 string</strong></a> players often use a lot of midrange as well, to compensate for the low tuning.</p>
+<p>For most guitarists, dialing in the EQ is going to be a matter of taste. If you listen to <a href="/pantera-reunion-tour/" data-type="post" data-id="8463" target="_blank" rel="noopener" data-lasso-id="149191"><strong>Pantera</strong></a>, you will hear a great example of a guitar with the mid knob turned almost all the way down. Modern bands like <a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" target="_blank" rel="noopener" data-lasso-id="149192"><strong>Mastodon</strong></a> on the other hand, dial in a<em> lot</em> of midrange on their amps. <a href="/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="149193"><strong>7 string</strong></a> players often use a lot of midrange as well, to compensate for the low tuning.</p>
 
 
 
@@ -356,11 +356,11 @@ seo:
 
 
 
-<p>I decided to throw this in for beginners, since so many amps these days have built-in effects. Something like the<a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="149194"><strong> BOSS Katana</strong></a> or <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="149195"><strong>Fender Mustang</strong></a> are both great examples of digital amps with effects. This is one of the biggest appeals of these types of amps. They are an &#8220;all in one&#8221; solution.</p>
+<p>I decided to throw this in for beginners, since so many amps these days have built-in effects. Something like the<a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="149194"><strong> BOSS Katana</strong></a> or <a href="/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="149195"><strong>Fender Mustang</strong></a> are both great examples of digital amps with effects. This is one of the biggest appeals of these types of amps. They are an &#8220;all in one&#8221; solution.</p>
 
 
 
-<p>Most tube amps will NOT have any kind of built-in effects, and if they do-it is usually just a digital or spring <strong>reverb</strong>. This will usually be controlled with a single knob, after the EQ section. Most tube amp owners use <strong><a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-type="post" data-id="8150" target="_blank" rel="noopener" data-lasso-id="149196">pedals</a> </strong>to create the effects they need for<strong> <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="149197">recording</a></strong>, or playing on stage.</p>
+<p>Most tube amps will NOT have any kind of built-in effects, and if they do-it is usually just a digital or spring <strong>reverb</strong>. This will usually be controlled with a single knob, after the EQ section. Most tube amp owners use <strong><a href="/the-pedals-jack-white-used-to-make-elephant/" data-type="post" data-id="8150" target="_blank" rel="noopener" data-lasso-id="149196">pedals</a> </strong>to create the effects they need for<strong> <a href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="149197">recording</a></strong>, or playing on stage.</p>
 
 
 

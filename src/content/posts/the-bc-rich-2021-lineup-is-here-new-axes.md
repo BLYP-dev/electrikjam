@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>To go along with the extreme image that these famous players were rocking, they needed some very extreme looking guitars to compliment the look! This is where BC Rich stepped in. We have already seen some great <a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="820">Metal-oriented brands release their 2021 offerings</a>, and today we take a look at the new BC Rich 2021 lineup &#8220;Extreme&#8221; Series!</p>
+<p>To go along with the extreme image that these famous players were rocking, they needed some very extreme looking guitars to compliment the look! This is where BC Rich stepped in. We have already seen some great <a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" class="rank-math-link" data-lasso-id="820">Metal-oriented brands release their 2021 offerings</a>, and today we take a look at the new BC Rich 2021 lineup &#8220;Extreme&#8221; Series!</p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<p>I think this new Ironbird Exotic is gorgeous with the Abalone Binding, but I understand that is a matter of taste. Almost all of the Extreme Series comes with <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="822">Fishman Pickups</a> right out of the box, also.</p>
+<p>I think this new Ironbird Exotic is gorgeous with the Abalone Binding, but I understand that is a matter of taste. Almost all of the Extreme Series comes with <a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="822">Fishman Pickups</a> right out of the box, also.</p>
 
 
 
@@ -216,11 +216,11 @@ seo:
 
 
 
-<p>When you think of extended range instruments, BC Rich is probably not one of the first names that comes to mind. But the Bc Rich 2021 Lineup sets out to change that with the Shredzilla 7 and <a href="https://www.electrikjam.com/cheap-8-string-guitar/" data-lasso-id="823">8 string guitars</a>.</p>
+<p>When you think of extended range instruments, BC Rich is probably not one of the first names that comes to mind. But the Bc Rich 2021 Lineup sets out to change that with the Shredzilla 7 and <a href="/cheap-8-string-guitar/" data-lasso-id="823">8 string guitars</a>.</p>
 
 
 
-<p>The 7 string features differ only in scale length. The 7 string sits at 25.5&#8221; scale, while the 8 string variant is <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="824">baritone</a> scale at 27&#8221;. Otherwise, both guitars share very similar features when it comes to construction.</p>
+<p>The 7 string features differ only in scale length. The 7 string sits at 25.5&#8221; scale, while the 8 string variant is <a href="/types-of-guitars-guide/" data-lasso-id="824">baritone</a> scale at 27&#8221;. Otherwise, both guitars share very similar features when it comes to construction.</p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<p>The only complaint I can see from extended range players is the scale length on the 7 string variant. The 25.5&#8221; scale is just fine for <a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-lasso-id="12177">standard tuning</a>. But if you&#8217;re looking to tune lower than say, A Standard, then the 7 string is not ideal.</p>
+<p>The only complaint I can see from extended range players is the scale length on the 7 string variant. The 25.5&#8221; scale is just fine for <a href="/most-common-guitar-tunings/" data-lasso-id="12177">standard tuning</a>. But if you&#8217;re looking to tune lower than say, A Standard, then the 7 string is not ideal.</p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p>That depends on <em>you.</em> personally, I feel like you are getting a ton of features for the price tag, as every single component is basically a full upgrade. It seems like the BC Rich 2021 Lineup is taking some cues from other companies, like<a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="825"> ESP/LTD when it comes to features.</a> </p>
+<p>That depends on <em>you.</em> personally, I feel like you are getting a ton of features for the price tag, as every single component is basically a full upgrade. It seems like the BC Rich 2021 Lineup is taking some cues from other companies, like<a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="825"> ESP/LTD when it comes to features.</a> </p>
 
 
 

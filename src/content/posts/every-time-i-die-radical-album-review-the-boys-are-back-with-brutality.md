@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>Every Time I Die is one of those rare bands that have somehow done everything right in the Hardcore/Metalcore scene. They are often spoken about in the same conversations that include<strong><a data-lasso-id="12035" href="https://www.electrikjam.com/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" target="_blank" data-type="post" data-id="4732" rel="noopener"> Converge</a></strong>, <strong>Norma Jean</strong>, and <strong>Dillinger Escape Plan</strong>. I have never heard <em>anyone</em> say anything negative about ETID, and their career spans 9 albums and over two decades. It&#8217;s almost unheard of for a band these days to not only hold that kind of legacy, but also that kind of <em>longevity</em>.</p>
+<p>Every Time I Die is one of those rare bands that have somehow done everything right in the Hardcore/Metalcore scene. They are often spoken about in the same conversations that include<strong><a data-lasso-id="12035" href="/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" target="_blank" data-type="post" data-id="4732" rel="noopener"> Converge</a></strong>, <strong>Norma Jean</strong>, and <strong>Dillinger Escape Plan</strong>. I have never heard <em>anyone</em> say anything negative about ETID, and their career spans 9 albums and over two decades. It&#8217;s almost unheard of for a band these days to not only hold that kind of legacy, but also that kind of <em>longevity</em>.</p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p>So let&#8217;s give credit where credit is due, and check out the new album! Radical&#8221; is a 16 <a href="https://www.electrikjam.com/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234409">track double album</a> that clocks in at just under an hour. That&#8217;s pretty hefty for a band that usually produces three-minute bursts of metallic energy. But this album is different in a lot of ways. I mean&#8230;it&#8217;s<em> really</em> different.</p>
+<p>So let&#8217;s give credit where credit is due, and check out the new album! Radical&#8221; is a 16 <a href="/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234409">track double album</a> that clocks in at just under an hour. That&#8217;s pretty hefty for a band that usually produces three-minute bursts of metallic energy. But this album is different in a lot of ways. I mean&#8230;it&#8217;s<em> really</em> different.</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>&#8220;<strong>Radical&#8221; </strong>kicks off with the track <strong>Dark Distance</strong>. As far as album openers go, Every Time I Die know how to kick an album off right. This song could be a sequel to<strong> Roman Holiday</strong> off of <strong>&#8220;New Junk Aesthetic&#8221;</strong>. It throws you right into the thick of the classic ETID sound, with a crazy heavy <a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" target="_blank" data-type="post" data-id="4496" rel="noopener" data-lasso-id="12037"><strong>Drop A</strong></a> riff and Keith Buckley sounding like he has completely blown out his voice, in a good way. It is intense and a little claustrophobic. The first lyrics we hear set the tone for the rest of the album.</p>
+<p>&#8220;<strong>Radical&#8221; </strong>kicks off with the track <strong>Dark Distance</strong>. As far as album openers go, Every Time I Die know how to kick an album off right. This song could be a sequel to<strong> Roman Holiday</strong> off of <strong>&#8220;New Junk Aesthetic&#8221;</strong>. It throws you right into the thick of the classic ETID sound, with a crazy heavy <a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" target="_blank" data-type="post" data-id="4496" rel="noopener" data-lasso-id="12037"><strong>Drop A</strong></a> riff and Keith Buckley sounding like he has completely blown out his voice, in a good way. It is intense and a little claustrophobic. The first lyrics we hear set the tone for the rest of the album.</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>Just being honest here, but the rest of the second half of the album tries a lot of things that work, and a lot that kind of fall flat for me. That is not at all to say that the rest of <strong>&#8220;Radical&#8221;</strong> is <em>bad</em>. But the band does experiment with some <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69760">new sounds and techniques</a> that work most of the time, and sometimes are&#8230; <em>just ok</em>.</p>
+<p>Just being honest here, but the rest of the second half of the album tries a lot of things that work, and a lot that kind of fall flat for me. That is not at all to say that the rest of <strong>&#8220;Radical&#8221;</strong> is <em>bad</em>. But the band does experiment with some <a href="/guitar-muting-techniques/" data-lasso-id="69760">new sounds and techniques</a> that work most of the time, and sometimes are&#8230; <em>just ok</em>.</p>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<p>By the time we get to <strong>&#8220;White Void&#8221;</strong> you are ready to hear something different, and that is <em>exactly</em> what you get. You get a chuggy southern rock riff and vocal melody (a staple of ETID) that soon turns into&#8230; something totally different.  It sounds like the band has been listening to the <strong><a data-lasso-id="12038" href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" target="_blank" data-type="post" data-id="637" rel="noopener">Deftones</a></strong>, and I don&#8217;t mean that with any malice or venom. It is a departure and something new we have not heard before. Does it work? <strong><em>Sometim</em>e</strong><em><strong>s</strong>..</em>.</p>
+<p>By the time we get to <strong>&#8220;White Void&#8221;</strong> you are ready to hear something different, and that is <em>exactly</em> what you get. You get a chuggy southern rock riff and vocal melody (a staple of ETID) that soon turns into&#8230; something totally different.  It sounds like the band has been listening to the <strong><a data-lasso-id="12038" href="/steph-carpenters-9-string-esp-guitar/" target="_blank" data-type="post" data-id="637" rel="noopener">Deftones</a></strong>, and I don&#8217;t mean that with any malice or venom. It is a departure and something new we have not heard before. Does it work? <strong><em>Sometim</em>e</strong><em><strong>s</strong>..</em>.</p>
 
 
 

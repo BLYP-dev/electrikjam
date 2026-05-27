@@ -34,7 +34,7 @@ seo:
 ---
 
 
-<p><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2602">Epiphone</a> has always been the affordable option to Gibson for decades now, and every year they seem to get better when it comes to quality. Today, we will look at the top 5 models, spanning all of the price points.</strong></p>
+<p><strong><a href="/epiphone-guitars/" data-lasso-id="2602">Epiphone</a> has always been the affordable option to Gibson for decades now, and every year they seem to get better when it comes to quality. Today, we will look at the top 5 models, spanning all of the price points.</strong></p>
 
 
 
@@ -42,11 +42,11 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" data-lasso-id="217" href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/">The Gibson Les Paul</a></strong> is an iconic guitar, and the single-cut design has been around since the dawn of the electric guitar. The Les Paul is the choice of so many guitarists, mostly because of its history and sound. I personally favored them for years!</p>
+<p><strong><a class="rank-math-link" data-lasso-id="217" href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/">The Gibson Les Paul</a></strong> is an iconic guitar, and the single-cut design has been around since the dawn of the electric guitar. The Les Paul is the choice of so many guitarists, mostly because of its history and sound. I personally favored them for years!</p>
 
 
 
-<p>But there are PLENTY of <strong><a href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" data-lasso-id="5787">excellent Gibson Les Paul alternatives</a></strong> around, providing you know what to look for. </p>
+<p>But there are PLENTY of <strong><a href="/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" data-lasso-id="5787">excellent Gibson Les Paul alternatives</a></strong> around, providing you know what to look for. </p>
 
 
 
@@ -54,11 +54,11 @@ seo:
 
 
 
-<p>And this applies to its <strong><a class="rank-math-link" data-lasso-id="220" href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/">ever-popular range of SG guitars</a></strong> too. <meta charset="utf-8">And if you&#8217;re more of an SG man, take a look at <strong><a class="rank-math-link" data-lasso-id="222" href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/">how the Les Paul compares to the Epiphone SG</a></strong> instead. </p>
+<p>And this applies to its <strong><a class="rank-math-link" data-lasso-id="220" href="/epiphone-sg-standard-vs-epiphone-sg-custom/">ever-popular range of SG guitars</a></strong> too. <meta charset="utf-8">And if you&#8217;re more of an SG man, take a look at <strong><a class="rank-math-link" data-lasso-id="222" href="/epiphone-sg-vs-epiphone-les-paul/">how the Les Paul compares to the Epiphone SG</a></strong> instead. </p>
 
 
 
-<p>Not everyone can shell out a couple of grand for a <strong><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="90325">Gibson Les Paul</a></strong> in the beginning&#8230;or ever. Luckily, Epiphone has got you covered no matter what your price point!</p>
+<p>Not everyone can shell out a couple of grand for a <strong><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="90325">Gibson Les Paul</a></strong> in the beginning&#8230;or ever. Luckily, Epiphone has got you covered no matter what your price point!</p>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<p>I’ve owned a couple of modern Epiphone Les Paul guitars since then –&nbsp;the Classic and the Prophecy –&nbsp;and both have been incredible instruments, easily on a par –&nbsp;although not quite as good –&nbsp;as my <strong><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="73657">Gibson Les Paul Standard</a></strong>. And this is massively significant, as well as a huge boon for Epiphone, given the price difference between an Epiphone Les Paul and a Gibson Les Paul.</p>
+<p>I’ve owned a couple of modern Epiphone Les Paul guitars since then –&nbsp;the Classic and the Prophecy –&nbsp;and both have been incredible instruments, easily on a par –&nbsp;although not quite as good –&nbsp;as my <strong><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="73657">Gibson Les Paul Standard</a></strong>. And this is massively significant, as well as a huge boon for Epiphone, given the price difference between an Epiphone Les Paul and a Gibson Les Paul.</p>
 
 
 
@@ -106,11 +106,11 @@ seo:
 
 
 
-<p>I’d also argue that a post-2018 Epiphone Les Paul is a near-perfect guitar for intermediate players that are looking to upgrade from a cheaper model, something like a Squier or <a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189581" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">Harley Benton</a>. The difference in quality, electronics, and overall playability, as well as tone and the pickups, will be a huge step up from these cheaper models.</p>
+<p>I’d also argue that a post-2018 Epiphone Les Paul is a near-perfect guitar for intermediate players that are looking to upgrade from a cheaper model, something like a Squier or <a href="/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189581" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">Harley Benton</a>. The difference in quality, electronics, and overall playability, as well as tone and the pickups, will be a huge step up from these cheaper models.</p>
 
 
 
-<p><strong>For a more detailed overview of each of our recommended <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17467">Epiphone Les Paul</a> models, read on below&#8230;</strong></p>
+<p><strong>For a more detailed overview of each of our recommended <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17467">Epiphone Les Paul</a> models, read on below&#8230;</strong></p>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<p>The <a data-lasso-id="223" href="https://www.electrikjam.com/types-of-guitars-guide/">Les Paul Studio LT</a> is a brand new model for 2020, and it is the most proper Les Paul ever released at this price point! This model has every feature that its bigger brothers have, at a fraction of the cost.</p>
+<p>The <a data-lasso-id="223" href="/types-of-guitars-guide/">Les Paul Studio LT</a> is a brand new model for 2020, and it is the most proper Les Paul ever released at this price point! This model has every feature that its bigger brothers have, at a fraction of the cost.</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>This is obviously a re-design from their beginner <a data-lasso-id="224" href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505">models from previous years</a>. But instead of dialing back the features, Epiphone has only added them! This is a ton of bang for your buck!</p>
+<p>This is obviously a re-design from their beginner <a data-lasso-id="224" href="/best-guitar-for-beginners/" data-type="post" data-id="505">models from previous years</a>. But instead of dialing back the features, Epiphone has only added them! This is a ton of bang for your buck!</p>
 
 
 
@@ -166,11 +166,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li>Inspired by Gibson</li><li>22 Frets</li><li>Mahogany Body</li><li>Indian laurel fretboard</li><li>Single <a href="https://www.electrikjam.com/what-are-p90-pickups-good-for-lets-find-out/" data-lasso-id="24907">p90 &#8220;Dog Ear&#8221; Pickup</a></li><li>Vintage inspired tuning machines</li></ul>
+<ul class="wp-block-list"><li>Inspired by Gibson</li><li>22 Frets</li><li>Mahogany Body</li><li>Indian laurel fretboard</li><li>Single <a href="/what-are-p90-pickups-good-for-lets-find-out/" data-lasso-id="24907">p90 &#8220;Dog Ear&#8221; Pickup</a></li><li>Vintage inspired tuning machines</li></ul>
 
 
 
-<p>If &#8220;simple, yet effective&#8221; is your motto; This is the Les Paul for you. Many <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5454">famous guitarists</a> prefer the single pickup simplicity, like Phil X, Billie Joe Armstrong, and Joan Jett.</p>
+<p>If &#8220;simple, yet effective&#8221; is your motto; This is the Les Paul for you. Many <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5454">famous guitarists</a> prefer the single pickup simplicity, like Phil X, Billie Joe Armstrong, and Joan Jett.</p>
 
 
 
@@ -194,11 +194,11 @@ seo:
 
 
 
-<p>Also new for 2020, is the &#8220;Classic&#8221; series. These are satin finish models that are <em>very </em>close to the Gibson specs. All of the <a href="https://www.electrikjam.com/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-lasso-id="227">new Epiphone guitars for 2020</a> are exciting to me, but this one takes the cake!</p>
+<p>Also new for 2020, is the &#8220;Classic&#8221; series. These are satin finish models that are <em>very </em>close to the Gibson specs. All of the <a href="/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-lasso-id="227">new Epiphone guitars for 2020</a> are exciting to me, but this one takes the cake!</p>
 
 
 
-<p>This new <a href="https://www.electrikjam.com/the-line-6-hx-stomp/" data-lasso-id="5267">addition to the Epiphone line</a> has several different &#8220;worn&#8221; satin finishes. Some of the colors are limited edition, or they are limited to a specific vendor.</p>
+<p>This new <a href="/the-line-6-hx-stomp/" data-lasso-id="5267">addition to the Epiphone line</a> has several different &#8220;worn&#8221; satin finishes. Some of the colors are limited edition, or they are limited to a specific vendor.</p>
 
 
 
@@ -210,7 +210,7 @@ seo:
 
 
 
-<p>I got to try these out at the local shop, and I cannot believe this is a <a data-lasso-id="19871" href="https://www.electrikjam.com/electrikjam-link/" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">&#8220;budget&#8221; guitar</a>. The cool thing about these different satin finishes is they will eventually &#8220;wear away&#8221; the more you play. Like their expensive Gibson counterparts!</p>
+<p>I got to try these out at the local shop, and I cannot believe this is a <a data-lasso-id="19871" href="/electrikjam-link/" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">&#8220;budget&#8221; guitar</a>. The cool thing about these different satin finishes is they will eventually &#8220;wear away&#8221; the more you play. Like their expensive Gibson counterparts!</p>
 
 
 
@@ -234,7 +234,7 @@ seo:
 
 
 
-<p>Epiphone took <a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132443">the classic Les Paul design</a>, and tweaked it&#8230;a lot! The new &#8220;Muse&#8221; series doesn&#8217;t have much in common with a classic Les Paul outside of the shape.</p>
+<p>Epiphone took <a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132443">the classic Les Paul design</a>, and tweaked it&#8230;a lot! The new &#8220;Muse&#8221; series doesn&#8217;t have much in common with a classic Les Paul outside of the shape.</p>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<p>This is the most radical departure from the <a data-lasso-id="229" href="https://www.electrikjam.com/how-many-frets-are-on-a-les-paul-epiphone/">traditional Les Paul</a> that Epiphone has ever made. I really want to pick one of these up for myself! For the affordable price, I may actually grab <em>two</em>.</p>
+<p>This is the most radical departure from the <a data-lasso-id="229" href="/how-many-frets-are-on-a-les-paul-epiphone/">traditional Les Paul</a> that Epiphone has ever made. I really want to pick one of these up for myself! For the affordable price, I may actually grab <em>two</em>.</p>
 
 
 
@@ -266,7 +266,7 @@ seo:
 
 
 
-<p>At the top of our list is the <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4656">new beautiful Les Paul Modern</a>. At this point, Epiphone is just showing off.</p>
+<p>At the top of our list is the <a href="/best-les-paul-copy/" data-lasso-id="4656">new beautiful Les Paul Modern</a>. At this point, Epiphone is just showing off.</p>
 
 
 
@@ -282,7 +282,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li>Mahogany Body</li><li>AAA Flame Maple wood top</li><li>Ebony fretboard</li><li>Ergonomic tapered neck joint</li><li>22 medium jumbo frets</li><li>Graphtech Bone Nut</li><li><a href="https://www.electrikjam.com/what-kind-of-pickups-are-in-a-les-paul-epiphone/" data-type="post" data-id="756" data-lasso-id="231">Probucker</a> pickups</li><li>Locktone ABR bridge</li><li>Grover locking machine heads</li><li>Gibson styled inlays</li></ul>
+<ul class="wp-block-list"><li>Mahogany Body</li><li>AAA Flame Maple wood top</li><li>Ebony fretboard</li><li>Ergonomic tapered neck joint</li><li>22 medium jumbo frets</li><li>Graphtech Bone Nut</li><li><a href="/what-kind-of-pickups-are-in-a-les-paul-epiphone/" data-type="post" data-id="756" data-lasso-id="231">Probucker</a> pickups</li><li>Locktone ABR bridge</li><li>Grover locking machine heads</li><li>Gibson styled inlays</li></ul>
 
 
 
@@ -306,11 +306,11 @@ seo:
 
 
 
-<p>All of the <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8786">Epiphone Les Paul</a> models listed above are great for metal and hard rock, as well as pretty much any other style of music. But for modern metal, <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8469">Epiphone has a specific Les Paul</a> tailored to the needs of modern metal guitarists.</p>
+<p>All of the <a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8786">Epiphone Les Paul</a> models listed above are great for metal and hard rock, as well as pretty much any other style of music. But for modern metal, <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8469">Epiphone has a specific Les Paul</a> tailored to the needs of modern metal guitarists.</p>
 
 
 
-<p>That guitar is the <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" data-lasso-id="5907">Epiphone Les Paul Prophecy</a> and it is by far one of our favorite guitars on the market right now. Unlike ALL of the models listed above, the Epiphone Les Paul Prophecy runs <strong><a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="5788">Fishman Fluence pickups</a></strong> which are hum and noise-free making the Prophecy ideal for creating insane heavy but super-clear guitar tones.</p>
+<p>That guitar is the <a href="/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" data-lasso-id="5907">Epiphone Les Paul Prophecy</a> and it is by far one of our favorite guitars on the market right now. Unlike ALL of the models listed above, the Epiphone Les Paul Prophecy runs <strong><a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="5788">Fishman Fluence pickups</a></strong> which are hum and noise-free making the Prophecy ideal for creating insane heavy but super-clear guitar tones.</p>
 
 
 
@@ -318,7 +318,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-lasso-id="103384">The Prophecy is also way lighter</a> than Epiphone’s other models too, thanks to Epiphone’s focus on weight-relief inside the guitar. The end result, combined with the myriad of specs and features included inside the guitar, makes for one of the <strong><a href="https://www.electrikjam.com/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="5789" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">best guitars under $1000 on the market</a></strong> right now.</p>
+<p><a href="/epiphone-les-paul-prophecy-colors/" data-lasso-id="103384">The Prophecy is also way lighter</a> than Epiphone’s other models too, thanks to Epiphone’s focus on weight-relief inside the guitar. The end result, combined with the myriad of specs and features included inside the guitar, makes for one of the <strong><a href="/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="5789" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">best guitars under $1000 on the market</a></strong> right now.</p>
 
 
 
@@ -332,7 +332,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
 </div></div>
 
 

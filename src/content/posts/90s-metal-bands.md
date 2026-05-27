@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Please note, however, <strong>this is just MY pick</strong>. It is not based on anything but my own personal music tastes. This is not a best ‘90s metal band list. If it were, you’d see bands like <strong><em><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="2775">Pantera</a>, <a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" data-lasso-id="2776">Metallica</a>, and Slayer</em></strong>. Instead, this list focuses on smaller, less well-known but equally influential 90s metal and rock bands.</p>
+<p>Please note, however, <strong>this is just MY pick</strong>. It is not based on anything but my own personal music tastes. This is not a best ‘90s metal band list. If it were, you’d see bands like <strong><em><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="2775">Pantera</a>, <a href="/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" data-lasso-id="2776">Metallica</a>, and Slayer</em></strong>. Instead, this list focuses on smaller, less well-known but equally influential 90s metal and rock bands.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="2777">Fronted by Buzz Osborne</a></strong>, the Melvins have been making records and touring since the early 1980s. And they’re still going strong today. Arguably one of the most influential bands in metal, the Melvins are still relatively unknown compared to other, lesser bands from the era.</p>
+<p><strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="2777">Fronted by Buzz Osborne</a></strong>, the Melvins have been making records and touring since the early 1980s. And they’re still going strong today. Arguably one of the most influential bands in metal, the Melvins are still relatively unknown compared to other, lesser bands from the era.</p>
 
 
 
@@ -66,7 +66,7 @@ seo:
 		
 
 
-<p>Without the Melvins, we probably wouldn’t have <strong><a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="2778">Nirvana</a></strong>. Buzz was Kurt’s hero and friend during Nirvana’s formative years when they were starting out in Aberdeen. Buzz is a legend. He basically invented modern sludge metal. And he’s an all-around lovely chap.</p>
+<p>Without the Melvins, we probably wouldn’t have <strong><a href="/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="2778">Nirvana</a></strong>. Buzz was Kurt’s hero and friend during Nirvana’s formative years when they were starting out in Aberdeen. Buzz is a legend. He basically invented modern sludge metal. And he’s an all-around lovely chap.</p>
 
 
 
@@ -82,15 +82,15 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16010">Everybody knows Queens of The Stone Age</a>, but before Queens Josh was the guitar player in a band called Kyuss. <a href="https://www.electrikjam.com/how-to-souond-like-kyuss/" data-lasso-id="90401">Kyuss produced four records</a> in its short-lived career but its influence and legacy lives on, thanks to its legion of dedicated fans.</p>
+<p><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-lasso-id="16010">Everybody knows Queens of The Stone Age</a>, but before Queens Josh was the guitar player in a band called Kyuss. <a href="/how-to-souond-like-kyuss/" data-lasso-id="90401">Kyuss produced four records</a> in its short-lived career but its influence and legacy lives on, thanks to its legion of dedicated fans.</p>
 
 
 
-<p>KYUSS disbanded in 1995, following creative differences between band members –&nbsp;notably Homme and Bjork. Homme and Oliveri went on to form <a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84780">Queens of The Stone Age</a>, while Brant Bjork did his own solo stuff which is also well worth checking out.</p>
+<p>KYUSS disbanded in 1995, following creative differences between band members –&nbsp;notably Homme and Bjork. Homme and Oliveri went on to form <a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84780">Queens of The Stone Age</a>, while Brant Bjork did his own solo stuff which is also well worth checking out.</p>
 
 
 
-<p>Formed in the Palm Desert, KYUSS was made up of <strong><a href="https://www.electrikjam.com/what-pickups-does-josh-homme-use/" data-lasso-id="88452">Josh Homme</a>, Brant Bjork, John Garcia, and Nick Oliveri</strong>. The band was a big hit in LA and on the festival circuit, cementing them as one of the best stoner rock bands of the era. And, yes, KYUSS pretty much invented stoner rock, so if you’re into that kind of thing they’re <a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-lasso-id="36113">essential listening</a>.</p>
+<p>Formed in the Palm Desert, KYUSS was made up of <strong><a href="/what-pickups-does-josh-homme-use/" data-lasso-id="88452">Josh Homme</a>, Brant Bjork, John Garcia, and Nick Oliveri</strong>. The band was a big hit in LA and on the festival circuit, cementing them as one of the best stoner rock bands of the era. And, yes, KYUSS pretty much invented stoner rock, so if you’re into that kind of thing they’re <a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-lasso-id="36113">essential listening</a>.</p>
 
 
 
@@ -152,7 +152,7 @@ https://www.youtube.com/watch?v=tJMmeMwKg7w
 
 
 
-<p>Best OPETH album to start with? <a href="https://www.electrikjam.com/new-opeth-album-release-date/" data-lasso-id="67074"><strong><em>Blackwater Park – OPETH</em></strong></a></p>
+<p>Best OPETH album to start with? <a href="/new-opeth-album-release-date/" data-lasso-id="67074"><strong><em>Blackwater Park – OPETH</em></strong></a></p>
 
 
 
@@ -168,7 +168,7 @@ https://www.youtube.com/watch?v=tJMmeMwKg7w
 
 
 
-<p>At The Gates have broken up and reformed multiple times. The first time the band broke up, the ashes have birth to The Haunted which featured drummer <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5474">Adrian Erlandsson, bassist Jonas Björler, and guitarist Anders Björler</a>.</p>
+<p>At The Gates have broken up and reformed multiple times. The first time the band broke up, the ashes have birth to The Haunted which featured drummer <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5474">Adrian Erlandsson, bassist Jonas Björler, and guitarist Anders Björler</a>.</p>
 
 
 
@@ -210,7 +210,7 @@ https://www.youtube.com/watch?v=tJMmeMwKg7w
 
 
 
-<p>Best <a href="https://www.electrikjam.com/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="8212">Converge album</a> to start with? <strong><em>Jane Doe – Converge</em></strong></p>
+<p>Best <a href="/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="8212">Converge album</a> to start with? <strong><em>Jane Doe – Converge</em></strong></p>
 
 
 
@@ -236,7 +236,7 @@ https://www.youtube.com/watch?v=tJMmeMwKg7w
 
 
 
-<p>The band never made it into the big leagues, but they did a tour with <a href="https://www.electrikjam.com/pantera-reunion-tour/" data-lasso-id="140268">Pantera</a> in the late-1990s – this is how I found out about them. Sadly, the OG Will Haven disbanded in 2003. They did reform in 2007 but they never managed to capture the kinetic energy of their first incarnation.</p>
+<p>The band never made it into the big leagues, but they did a tour with <a href="/pantera-reunion-tour/" data-lasso-id="140268">Pantera</a> in the late-1990s – this is how I found out about them. Sadly, the OG Will Haven disbanded in 2003. They did reform in 2007 but they never managed to capture the kinetic energy of their first incarnation.</p>
 
 
 
@@ -260,7 +260,7 @@ https://www.youtube.com/watch?v=tJMmeMwKg7w
 
 
 
-<p><a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5817">If you like doom metal</a> and slow, riffs drenched in fuzz, Electric Wizard will be right up your street. The band took its name from two <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="2779">Black Sabbath songs</a></strong> – The Wizard and Electric Funeral – and has been active and touring since 1990.</p>
+<p><a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5817">If you like doom metal</a> and slow, riffs drenched in fuzz, Electric Wizard will be right up your street. The band took its name from two <strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="2779">Black Sabbath songs</a></strong> – The Wizard and Electric Funeral – and has been active and touring since 1990.</p>
 
 
 
@@ -276,7 +276,7 @@ https://www.youtube.com/watch?v=tJMmeMwKg7w
 
 
 
-<p>The <a href="https://www.electrikjam.com/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104035">Dillinger Escape Plan</a> somehow managed to become one of the most well-known and best-loved metal bands of the last 15 years. And considering their sound, this is a very impressive feat.</p>
+<p>The <a href="/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104035">Dillinger Escape Plan</a> somehow managed to become one of the most well-known and best-loved metal bands of the last 15 years. And considering their sound, this is a very impressive feat.</p>
 
 
 

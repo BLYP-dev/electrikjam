@@ -76,7 +76,7 @@ seo:
 
 
 
-<p><strong>The Gretsch Vintage Select ’89 Jet is expected to get a release during March 2021</strong>. The current RRP is $2599, making it a rather pricey setup. If you want something from Gretsch that still packs a punch but retails for a fraction of the cost, we’re MASSIVE fans of the Gretsch G2655 Streamliner – <strong><a href="https://www.electrikjam.com/recommends/gretsch-g2655-streamliner/" class="rank-math-link" data-lasso-id="698">you can grab one for $499.99 via Sam Ash</a></strong> and it is great for metal/doom/sludge.</p>
+<p><strong>The Gretsch Vintage Select ’89 Jet is expected to get a release during March 2021</strong>. The current RRP is $2599, making it a rather pricey setup. If you want something from Gretsch that still packs a punch but retails for a fraction of the cost, we’re MASSIVE fans of the Gretsch G2655 Streamliner – <strong><a href="/recommends/gretsch-g2655-streamliner/" class="rank-math-link" data-lasso-id="698">you can grab one for $499.99 via Sam Ash</a></strong> and it is great for metal/doom/sludge.</p>
 
 
 
@@ -88,5 +88,5 @@ seo:
 
 
 
-<p>If you’re on a budget, also check out our guide to the <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="699">best affordable electric guitars</a></strong> (that are nearly as good as $1000+ models).</p>
+<p>If you’re on a budget, also check out our guide to the <strong><a href="/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="699">best affordable electric guitars</a></strong> (that are nearly as good as $1000+ models).</p>
 

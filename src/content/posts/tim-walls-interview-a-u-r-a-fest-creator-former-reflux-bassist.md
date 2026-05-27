@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Tim and his friends found away around the lack of all-ages shows. They created their own shows, and their own scene. Over the years, A.U.R.A. Fest brought big bands to underage fans. Tim has booked tons of big acts over the years like Mastadon, <a href="https://www.electrikjam.com/every-time-i-die-guitar-tunings/" data-lasso-id="3076">Every Time I Die</a>, ZAO, Alexisonfire, As I lay Dying, and Fit For an Autopsy.</p>
+<p>Tim and his friends found away around the lack of all-ages shows. They created their own shows, and their own scene. Over the years, A.U.R.A. Fest brought big bands to underage fans. Tim has booked tons of big acts over the years like Mastadon, <a href="/every-time-i-die-guitar-tunings/" data-lasso-id="3076">Every Time I Die</a>, ZAO, Alexisonfire, As I lay Dying, and Fit For an Autopsy.</p>
 
 
 
@@ -64,11 +64,11 @@ seo:
 
 
 
-<p>Def Leppard was my first band I really loved and I had their whole discography, VHS tapes, etc. I can&#8217;t say it was them, but I was very motivated to learn stuff from &#8220;Hysteria&#8221; after I had <a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="110">my first guitar lesson</a>. </p>
+<p>Def Leppard was my first band I really loved and I had their whole discography, VHS tapes, etc. I can&#8217;t say it was them, but I was very motivated to learn stuff from &#8220;Hysteria&#8221; after I had <a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="110">my first guitar lesson</a>. </p>
 
 
 
-<p>Then it was <a href="https://www.electrikjam.com/new-smashing-pumpkins-album-atum/" data-lasso-id="169492">Smashing Pumpkins for the mid 90&#8217;s</a>. At that point I was playing guitar nonstop. I knew most of their songs, especially the album &#8220;Siamese Dream&#8221;. My first real concert was seeing them with Garbage in 1996.&nbsp;</p>
+<p>Then it was <a href="/new-smashing-pumpkins-album-atum/" data-lasso-id="169492">Smashing Pumpkins for the mid 90&#8217;s</a>. At that point I was playing guitar nonstop. I knew most of their songs, especially the album &#8220;Siamese Dream&#8221;. My first real concert was seeing them with Garbage in 1996.&nbsp;</p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2553">Mastodon</a> was probably it for me, back in 2003. This was right before they released &#8220;Leviathan&#8221; which became a classic in the Metal world. It was very cool seeing them before such a huge moment in their career. </p>
+<p><a href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2553">Mastodon</a> was probably it for me, back in 2003. This was right before they released &#8220;Leviathan&#8221; which became a classic in the Metal world. It was very cool seeing them before such a huge moment in their career. </p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>Man, Tosin was just super down to earth all the time. We had a bit in common with music. We were both into stuff like <a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="111">Deftones</a>, Glassjaw, as well as some trip hop like Esthero, and prog metal like Dream Theater and Meshuggah. </p>
+<p>Man, Tosin was just super down to earth all the time. We had a bit in common with music. We were both into stuff like <a href="/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="111">Deftones</a>, Glassjaw, as well as some trip hop like Esthero, and prog metal like Dream Theater and Meshuggah. </p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5459">As a guitarist</a>, he was a machine, always practicing and coming up with amazing riffs. The cool thing is when I see an interview with him now, he&#8217;s the same guy. I think he&#8217;s on another level musically and has learned so much, but he is the same down to earth dude who loves what he does and is still being creative on his on terms.&nbsp;</p>
+<p><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5459">As a guitarist</a>, he was a machine, always practicing and coming up with amazing riffs. The cool thing is when I see an interview with him now, he&#8217;s the same guy. I think he&#8217;s on another level musically and has learned so much, but he is the same down to earth dude who loves what he does and is still being creative on his on terms.&nbsp;</p>
 
 
 

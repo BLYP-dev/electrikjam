@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>Over the years, the Iron Label has become something else entirely. It is still meant to appeal to <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5477">Metal guitarists</a> by and large, but they models have expanded to become the &#8220;mid-priced&#8221; versions of the more expensive Ibanez models. This includes tons of RG models, RGD, and other popular series. The Iron Label is made in Indonesia, which saves on the manufacturing cost, while maintaining some name brand features.</p>
+<p>Over the years, the Iron Label has become something else entirely. It is still meant to appeal to <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5477">Metal guitarists</a> by and large, but they models have expanded to become the &#8220;mid-priced&#8221; versions of the more expensive Ibanez models. This includes tons of RG models, RGD, and other popular series. The Iron Label is made in Indonesia, which saves on the manufacturing cost, while maintaining some name brand features.</p>
 
 
 
@@ -71,19 +71,19 @@ seo:
 
 
 
-<p>I personally tried to find one of the original 7 string Iceman models on the used market, but the people that had them were often <a href="https://www.electrikjam.com/aio-wolf-guitars-review-2021/" data-lasso-id="21760">price gouging for a guitar</a> that originally sold for under $700. At the time, I played Ibanez exclusively, and even reached out to the company for one, to no avail. </p>
+<p>I personally tried to find one of the original 7 string Iceman models on the used market, but the people that had them were often <a href="/aio-wolf-guitars-review-2021/" data-lasso-id="21760">price gouging for a guitar</a> that originally sold for under $700. At the time, I played Ibanez exclusively, and even reached out to the company for one, to no avail. </p>
 
 
 
-<p>In the past years, the 7 string Iceman has been something of a legend. <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255024">Ibanez fans</a> have been asking for this model to make a comeback for quite some time. I believe there was even a petition started at one point to bring back the 7 string Iceman. Well Ibanez Fan Boys, you finally get your wish!</p>
+<p>In the past years, the 7 string Iceman has been something of a legend. <a href="/ibanez-guitars/" data-lasso-id="255024">Ibanez fans</a> have been asking for this model to make a comeback for quite some time. I believe there was even a petition started at one point to bring back the 7 string Iceman. Well Ibanez Fan Boys, you finally get your wish!</p>
 
 
 
-<p><a href="https://www.electrikjam.com/new-ibanez-2021-lineup-new-spins-on-classical-designs/" target="_blank" data-type="post" data-id="1679" rel="noopener" data-lasso-id="1533"><strong><span style="color: #9b51e0;" class="ugb-highlight">The 2021 Ibanez lineup</span></strong></a> has been released already, but it seems like the Japanese company still has a few tricks up their sleeve for this year. We finally get a look at the new 7 string Iceman, and all of it&#8217;s new features:</p>
+<p><a href="/new-ibanez-2021-lineup-new-spins-on-classical-designs/" target="_blank" data-type="post" data-id="1679" rel="noopener" data-lasso-id="1533"><strong><span style="color: #9b51e0;" class="ugb-highlight">The 2021 Ibanez lineup</span></strong></a> has been released already, but it seems like the Japanese company still has a few tricks up their sleeve for this year. We finally get a look at the new 7 string Iceman, and all of it&#8217;s new features:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>Matte Black Finish</strong></li><li><strong>Okoume Body</strong></li><li><strong>5 piece Maple/Walnut Neck</strong></li><li><strong>Neck thru Construction</strong></li><li><strong>Dimarzio D-Activator </strong><a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8162">Pickups</a></li><li><strong>Ebony Fretboard</strong></li><li><strong>No Inlays</strong></li><li><strong>Gotoh Locking Tuners</strong></li><li><strong>24 Frets</strong></li><li><strong>25.5 Scale</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Matte Black Finish</strong></li><li><strong>Okoume Body</strong></li><li><strong>5 piece Maple/Walnut Neck</strong></li><li><strong>Neck thru Construction</strong></li><li><strong>Dimarzio D-Activator </strong><a href="/what-are-active-pickups/" data-lasso-id="8162">Pickups</a></li><li><strong>Ebony Fretboard</strong></li><li><strong>No Inlays</strong></li><li><strong>Gotoh Locking Tuners</strong></li><li><strong>24 Frets</strong></li><li><strong>25.5 Scale</strong></li></ul>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>I do not have much experience with the newer Mono Rail bridge system, but it seems that having individual saddles would make it easier to intonate the guitar, and keep it in tune. You see these types of bridges pretty often on <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1534">headless guitars</a>, and being able to have each string be independent seems like a good idea. Again though, I do not have much experience with these, other than just seeing them. These are just a square version of the usual tube ones? Or maybe this is just what Ibanez is calling their fixed bridges now.</p>
+<p>I do not have much experience with the newer Mono Rail bridge system, but it seems that having individual saddles would make it easier to intonate the guitar, and keep it in tune. You see these types of bridges pretty often on <a href="/types-of-guitars-guide/" data-lasso-id="1534">headless guitars</a>, and being able to have each string be independent seems like a good idea. Again though, I do not have much experience with these, other than just seeing them. These are just a square version of the usual tube ones? Or maybe this is just what Ibanez is calling their fixed bridges now.</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p>This is yet another Ibanez model that got pushed to the wayside years ago, and has been asked for by fans for <em>years</em>. The original series <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="1535">Xiphos 6 and 7 string guitars</a> were also highly sought after, long since production ended (Like the Iceman). The originals were a part of the standard lineup (Like the Iceman) and people would usually replace the stock features with mods. </p>
+<p>This is yet another Ibanez model that got pushed to the wayside years ago, and has been asked for by fans for <em>years</em>. The original series <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="1535">Xiphos 6 and 7 string guitars</a> were also highly sought after, long since production ended (Like the Iceman). The originals were a part of the standard lineup (Like the Iceman) and people would usually replace the stock features with mods. </p>
 
 
 
@@ -131,11 +131,11 @@ seo:
 
 
 
-<p>Look, I get it. The Xiphos is a &#8220;love it or hate it&#8221; kind of guitar. Its&#8230; extreme to say the least. I had the chance to play one of the <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review-incredible-6-and-7-string-beasts/" data-lasso-id="132345">original 7 string</a> models (and in retrospect, I should have bought it) and it&#8217;s a very comfortable shape to play despite it&#8217;s &#8220;pointy&#8221; look. The original also had the standard Wizard II 7 string neck that I was familiar with. The Iron label model has made some big changes though, in features:</p>
+<p>Look, I get it. The Xiphos is a &#8220;love it or hate it&#8221; kind of guitar. Its&#8230; extreme to say the least. I had the chance to play one of the <a href="/epiphone-matt-heafy-origins-review-incredible-6-and-7-string-beasts/" data-lasso-id="132345">original 7 string</a> models (and in retrospect, I should have bought it) and it&#8217;s a very comfortable shape to play despite it&#8217;s &#8220;pointy&#8221; look. The original also had the standard Wizard II 7 string neck that I was familiar with. The Iron label model has made some big changes though, in features:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>Okoume Body</strong></li><li><strong>Wizard II Maple/Walnut 5 Piece Neck</strong></li><li><strong>Ebony Fretboard</strong></li><li><strong>Matte Black Finish</strong></li><li><strong>Edge Trem</strong></li><li><strong>Locking Nut</strong></li><li><strong>Dimarzio D-Activator </strong><a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8163">Pickups</a></li><li><strong>Jumbo Frets</strong></li><li><strong>24 Frets</strong></li><li><strong>No Inlays</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Okoume Body</strong></li><li><strong>Wizard II Maple/Walnut 5 Piece Neck</strong></li><li><strong>Ebony Fretboard</strong></li><li><strong>Matte Black Finish</strong></li><li><strong>Edge Trem</strong></li><li><strong>Locking Nut</strong></li><li><strong>Dimarzio D-Activator </strong><a href="/what-are-active-pickups/" data-lasso-id="8163">Pickups</a></li><li><strong>Jumbo Frets</strong></li><li><strong>24 Frets</strong></li><li><strong>No Inlays</strong></li></ul>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>Both of these <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14303">models have been highly requested by the guitar</a> community, and it looks like Ibanez has heard you! Both guitars a beloved Ibanez originals that have had many forms over the years, and we finally get to see them updated. No more looking on Ebay for a used model of these classics!</p>
+<p>Both of these <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14303">models have been highly requested by the guitar</a> community, and it looks like Ibanez has heard you! Both guitars a beloved Ibanez originals that have had many forms over the years, and we finally get to see them updated. No more looking on Ebay for a used model of these classics!</p>
 
 
 

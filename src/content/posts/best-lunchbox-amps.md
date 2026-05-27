@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>So I tried my best over the past two days to find out just who started the trend of the Lunchbox Amp. There have been so many over the past 8-10 years that it was hard to pin down who started this. From what I can tell, it <em>may</em> have been <a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36080">Vox</a> with it&#8217;s Pathfinder series.</p>
+<p>So I tried my best over the past two days to find out just who started the trend of the Lunchbox Amp. There have been so many over the past 8-10 years that it was hard to pin down who started this. From what I can tell, it <em>may</em> have been <a href="/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36080">Vox</a> with it&#8217;s Pathfinder series.</p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<p>You also have more <strong><a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" class="rank-math-link" data-lasso-id="473">modern interpretations now in the form of the Spark Amp</a></strong> which leverages your iPhone or Android phone to run different tones and effects. </p>
+<p>You also have more <strong><a href="/killer-guitar-tone-without-hardware/" class="rank-math-link" data-lasso-id="473">modern interpretations now in the form of the Spark Amp</a></strong> which leverages your iPhone or Android phone to run different tones and effects. </p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<p>My band hated me. They never said it. But I know they couldn&#8217;t stand lugging around an aircraft carrier of an <a href="https://www.electrikjam.com/the-5-best-cheap-amps-you-can-gig-with/" data-lasso-id="54181">amp rig to gigs</a>.</p>
+<p>My band hated me. They never said it. But I know they couldn&#8217;t stand lugging around an aircraft carrier of an <a href="/the-5-best-cheap-amps-you-can-gig-with/" data-lasso-id="54181">amp rig to gigs</a>.</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>This not only made my bandmates happy, it also got me on much better terms with the sound team at clubs and venues. Not to mention how much easier it is to <a href="https://www.electrikjam.com/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176455">record a tube amp</a> at lower power. When recording, a cranked <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-lasso-id="62709">amp sounds great as the tubes</a> get hotter and the distortion gets meaner.</p>
+<p>This not only made my bandmates happy, it also got me on much better terms with the sound team at clubs and venues. Not to mention how much easier it is to <a href="/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176455">record a tube amp</a> at lower power. When recording, a cranked <a href="/the-best-budget-tube-amps/" data-lasso-id="62709">amp sounds great as the tubes</a> get hotter and the distortion gets meaner.</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p>Let me say, that these are going to be in no particular order. They all have different applications. Some may be great for practice or recording. Some of the others can easily be used on the stage with your <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" class="rank-math-link" data-lasso-id="474">pedalboard rig</a>.</p>
+<p>Let me say, that these are going to be in no particular order. They all have different applications. Some may be great for practice or recording. Some of the others can easily be used on the stage with your <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" class="rank-math-link" data-lasso-id="474">pedalboard rig</a>.</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/orange-micro-dark/" data-lasso-id="475">> VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/orange-micro-dark/" data-lasso-id="475">> VIEW PRICES</a></strong></p>
 
 
 
@@ -174,7 +174,7 @@ seo:
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/11/Marshall-DSL-MINI-1024x1024.jpg" alt="" class="wp-image-1461" title="" srcset="/wp-content/uploads/2020/11/Marshall-DSL-MINI-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-300x300.jpg 300w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-100x100.jpg 100w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-600x600.jpg 600w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-150x150.jpg 150w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-768x768.jpg 768w, /wp-content/uploads/2020/11/Marshall-DSL-MINI-1536x1536.jpg 1536w, /wp-content/uploads/2020/11/Marshall-DSL-MINI.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
-<p>We recently talked about the Marshall DSL series in <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" class="rank-math-link" data-lasso-id="476">our guide to Doom Metal amps.</a> The reason it made that list, was because it was so versatile. The DSL series can give you classic Marshall distortion tones, or it can be a blank slate for your pedal combos.</p>
+<p>We recently talked about the Marshall DSL series in <a href="/the-5-best-amps-for-doom-metal-in-2020/" class="rank-math-link" data-lasso-id="476">our guide to Doom Metal amps.</a> The reason it made that list, was because it was so versatile. The DSL series can give you classic Marshall distortion tones, or it can be a blank slate for your pedal combos.</p>
 
 
 
@@ -186,7 +186,7 @@ seo:
 
 
 
-<p>Unlike the Orange Micro, this is a full tube amp! You may be thinking that 1 watt isn&#8217;t enough power for anything. But I can assure you, this is the perfect amp for <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="477">recording purposes</a>. You can crank it all the way up! I think this would power a single 12&#8221; or 15&#8221; speaker <em>VERY</em> well.</p>
+<p>Unlike the Orange Micro, this is a full tube amp! You may be thinking that 1 watt isn&#8217;t enough power for anything. But I can assure you, this is the perfect amp for <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="477">recording purposes</a>. You can crank it all the way up! I think this would power a single 12&#8221; or 15&#8221; speaker <em>VERY</em> well.</p>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/marshall-dsl-1/" data-lasso-id="478">> VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/marshall-dsl-1/" data-lasso-id="478">> VIEW PRICES</a></strong></p>
 
 
 
@@ -214,11 +214,11 @@ seo:
 
 
 
-<p>The Spirit series are tiny solid state version of some of H&amp;K&#8217;s larger amps. While they may be small, they aren&#8217;t lacking in tone. I don&#8217;t know if I would recommend these for recording or playing live, but they make a <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="479">fantastic practice amp</a>!</p>
+<p>The Spirit series are tiny solid state version of some of H&amp;K&#8217;s larger amps. While they may be small, they aren&#8217;t lacking in tone. I don&#8217;t know if I would recommend these for recording or playing live, but they make a <a href="/boss-katana-50-reviews/" data-lasso-id="479">fantastic practice amp</a>!</p>
 
 
 
-<p>The features on this amp are for people not willing to settle for a <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="480">regular practice amp.</a> These are features usually found in much more expensive offerings.</p>
+<p>The features on this amp are for people not willing to settle for a <a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="480">regular practice amp.</a> These are features usually found in much more expensive offerings.</p>
 
 
 
@@ -226,7 +226,7 @@ seo:
 
 
 
-<p>You could certainly use this amp for recording if you really wanted to. The Emulated output will <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4474">simulate a speaker cabinet</a> for you. But if you ask me, a tube amp will do this better than the solid state amp. However that is all just personal choice. I am positive you could get some good tones out of the Hughes and Kettner Spirit.</p>
+<p>You could certainly use this amp for recording if you really wanted to. The Emulated output will <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4474">simulate a speaker cabinet</a> for you. But if you ask me, a tube amp will do this better than the solid state amp. However that is all just personal choice. I am positive you could get some good tones out of the Hughes and Kettner Spirit.</p>
 
 
 
@@ -273,7 +273,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/joyo-mjolnir/" data-lasso-id="481">> VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/joyo-mjolnir/" data-lasso-id="481">> VIEW PRICES</a></strong></p>
 
 
 
@@ -320,7 +320,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/prs-mt-15/" data-lasso-id="483">> VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/prs-mt-15/" data-lasso-id="483">> VIEW PRICES</a></strong></p>
 
 
 
@@ -355,7 +355,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/joyo-zombie-2/" data-lasso-id="485">> VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/joyo-zombie-2/" data-lasso-id="485">> VIEW PRICES</a></strong></p>
 
 
 
@@ -386,7 +386,7 @@ seo:
 
 
 
-<p>The peavey Invective is a collaboration between the Peavey USA amp designers and <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218843">Misha Mansoor from  Periphery</a>. This is the signature amp that Misha uses in the studio these days, and it sounds massive!</p>
+<p>The peavey Invective is a collaboration between the Peavey USA amp designers and <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218843">Misha Mansoor from  Periphery</a>. This is the signature amp that Misha uses in the studio these days, and it sounds massive!</p>
 
 
 
@@ -394,7 +394,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/peavey-invective-mh/" data-lasso-id="486">> VIEW PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/peavey-invective-mh/" data-lasso-id="486">> VIEW PRICES</a></strong></p>
 
 
 

@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>I mean, look at the guitar he is most famous for using during The White Stripes. Made from plastic, hard to play, ugly. The red and white 1964&nbsp;Valco Airline (AKA the “JB Hutto”) is well regarded as a colossal piece of crap. <strong><a href="https://www.electrikjam.com/jack-white-loves-horrible-difficult-guitars-heres-why/" data-type="post" data-id="8093" data-lasso-id="125559">Jack has even said as much in interviews</a></strong> about why he decided to use it for The White Stripes. The point was to make his life harder, make him REALLY work for the sounds he created. And I freakin’ love him for this.</p>
+<p>I mean, look at the guitar he is most famous for using during The White Stripes. Made from plastic, hard to play, ugly. The red and white 1964&nbsp;Valco Airline (AKA the “JB Hutto”) is well regarded as a colossal piece of crap. <strong><a href="/jack-white-loves-horrible-difficult-guitars-heres-why/" data-type="post" data-id="8093" data-lasso-id="125559">Jack has even said as much in interviews</a></strong> about why he decided to use it for The White Stripes. The point was to make his life harder, make him REALLY work for the sounds he created. And I freakin’ love him for this.</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/jack-white-guitar-tuning/" data-type="post" data-id="8102" data-lasso-id="125562">Jack plays in standard tuning</a></strong> most of the time, but with the Digitech Whammy pedal, he was able to lower the tone of what he was playing dramatically or, alternatively, play fairly low up the neck, but raise the octave to make the notes sound much higher. He used this trick on many of his solos –&nbsp;this is what gives them that screeching, odd quality.</p>
+<p><strong><a href="/jack-white-guitar-tuning/" data-type="post" data-id="8102" data-lasso-id="125562">Jack plays in standard tuning</a></strong> most of the time, but with the Digitech Whammy pedal, he was able to lower the tone of what he was playing dramatically or, alternatively, play fairly low up the neck, but raise the octave to make the notes sound much higher. He used this trick on many of his solos –&nbsp;this is what gives them that screeching, odd quality.</p>
 
 
 
@@ -99,9 +99,9 @@ seo:
 
 
 
-<p>Jack White is a blues guy. Always has been. The White Stripes is a pure blues-based rock band. They called themselves garage rock, but really his playing is completely steeped in blues with heavy Led Zeppelin and punk influences. To play like Jack, you’ll want to focus on catchy, single note-based riffs, the blues, and <strong><a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-type="post" data-id="5271" data-lasso-id="125563">pentatonic scales</a></strong>, creating melodies within them, and liberal use of <strong><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" data-lasso-id="125564">open chords and power chords</a></strong>. Think The Ramones meets Led Zeppelin meets Black Flag.</p>
+<p>Jack White is a blues guy. Always has been. The White Stripes is a pure blues-based rock band. They called themselves garage rock, but really his playing is completely steeped in blues with heavy Led Zeppelin and punk influences. To play like Jack, you’ll want to focus on catchy, single note-based riffs, the blues, and <strong><a href="/fretboard-hacks-that-every-beginner-should-know/" data-type="post" data-id="5271" data-lasso-id="125563">pentatonic scales</a></strong>, creating melodies within them, and liberal use of <strong><a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" data-lasso-id="125564">open chords and power chords</a></strong>. Think The Ramones meets Led Zeppelin meets Black Flag.</p>
 
 
 
-<p>At the core of his playing, however, is an essentially otherworldly ability to create insanely catchy licks and riffs from just a few simple notes. Seven Nation Army is a brilliant example of this. Ditto Blue Orchid, Icky Thump, and Black Math. For the open chord-style stuff check out Hotel Yorba, it is made up of a <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196509">simple chord progression</a> that every beginner guitarist already knows but in the hands of Jack White it sounds, well… iconic. That’s the guy’s genius: <strong>making simple sound iconic</strong>. If you can do that, and look cool doing it, you’ll make yourself a million bucks.</p>
+<p>At the core of his playing, however, is an essentially otherworldly ability to create insanely catchy licks and riffs from just a few simple notes. Seven Nation Army is a brilliant example of this. Ditto Blue Orchid, Icky Thump, and Black Math. For the open chord-style stuff check out Hotel Yorba, it is made up of a <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196509">simple chord progression</a> that every beginner guitarist already knows but in the hands of Jack White it sounds, well… iconic. That’s the guy’s genius: <strong>making simple sound iconic</strong>. If you can do that, and look cool doing it, you’ll make yourself a million bucks.</p>
 

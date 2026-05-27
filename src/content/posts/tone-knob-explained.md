@@ -43,19 +43,19 @@ seo:
 
 
 
-<p>There are so many myths when it comes to guitar playing. These myths were already pretty bad in the 80&#8217;s and 90&#8217;s and yet with the advent of the internet they got even<em> worse</em>. Some arguments hold a little bit of truth, while others are flat out lies. I can get into the whole controversy of tone wood for instance, but that is a conversation for another time. Then there are so many amp debates, when the most important part of your amp is definitely the <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="106690"><strong>speaker</strong></a>. Guitarists will believe just about anything, in my experience.</p>
+<p>There are so many myths when it comes to guitar playing. These myths were already pretty bad in the 80&#8217;s and 90&#8217;s and yet with the advent of the internet they got even<em> worse</em>. Some arguments hold a little bit of truth, while others are flat out lies. I can get into the whole controversy of tone wood for instance, but that is a conversation for another time. Then there are so many amp debates, when the most important part of your amp is definitely the <a href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="106690"><strong>speaker</strong></a>. Guitarists will believe just about anything, in my experience.</p>
 
 
 
-<p>Some people have a lot of fun with this, like <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="106691"><strong>Eddie Van Halen</strong></a>. He was arguably the first guy to ever &#8220;troll&#8221; the guitar community, by telling people his equipment was &#8220;special&#8221; and secretive. When the real secret was Eddie was just a great guitar player! Of course this is hilarious in retrospect, but all kind of myths still get spread every day on the internet. I&#8217;ve seen guitarists put their guitar in the freezer because someone told them to do it on a forum post.</p>
+<p>Some people have a lot of fun with this, like <a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="106691"><strong>Eddie Van Halen</strong></a>. He was arguably the first guy to ever &#8220;troll&#8221; the guitar community, by telling people his equipment was &#8220;special&#8221; and secretive. When the real secret was Eddie was just a great guitar player! Of course this is hilarious in retrospect, but all kind of myths still get spread every day on the internet. I&#8217;ve seen guitarists put their guitar in the freezer because someone told them to do it on a forum post.</p>
 
 
 
-<p>Some of them are actually really funny, like the idea that<a href="https://www.electrikjam.com/is-spark-amp-worth-it/" data-type="post" data-id="1924" target="_blank" rel="noopener" data-lasso-id="106692"> <strong>modeling</strong></a> technology can&#8217;t compete with a<a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="106693"> <strong>tube amp</strong></a>. When in reality, if you were blindfolded, you would be hard pressed to tell the difference. I know I would have a hard time telling the difference on a recording.<a href="https://www.electrikjam.com/what-guitar-amps-do-meshuggah-use/" data-type="post" data-id="7561" target="_blank" rel="noopener" data-lasso-id="106694"><strong> Meshuggah</strong></a> have used this tech for years, and no one is complaining. I have heard stuff like Eric Johnson can hear the difference in his pedal&#8217;s batteries. These tall tales are everywhere, and the biggest takeaway is the audience doesn&#8217;t care what you use. The audience only cares if you <em>sound good</em>.</p>
+<p>Some of them are actually really funny, like the idea that<a href="/is-spark-amp-worth-it/" data-type="post" data-id="1924" target="_blank" rel="noopener" data-lasso-id="106692"> <strong>modeling</strong></a> technology can&#8217;t compete with a<a href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="106693"> <strong>tube amp</strong></a>. When in reality, if you were blindfolded, you would be hard pressed to tell the difference. I know I would have a hard time telling the difference on a recording.<a href="/what-guitar-amps-do-meshuggah-use/" data-type="post" data-id="7561" target="_blank" rel="noopener" data-lasso-id="106694"><strong> Meshuggah</strong></a> have used this tech for years, and no one is complaining. I have heard stuff like Eric Johnson can hear the difference in his pedal&#8217;s batteries. These tall tales are everywhere, and the biggest takeaway is the audience doesn&#8217;t care what you use. The audience only cares if you <em>sound good</em>.</p>
 
 
 
-<p>But one that I see often, is that you should just <strong>remove the tone knob from your guitar </strong>if you plan on using high gain, or playing metal. The tone knob is apparently superfluous, and as a metal player it will only cause your signal to be less bright. Your muddy tone is all apparently the fault of tone knob. It couldn&#8217;t possibly be your <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" target="_blank" rel="noopener" data-lasso-id="106695"><strong>pickup</strong>s</a> right? Or your amp? Your settings?</p>
+<p>But one that I see often, is that you should just <strong>remove the tone knob from your guitar </strong>if you plan on using high gain, or playing metal. The tone knob is apparently superfluous, and as a metal player it will only cause your signal to be less bright. Your muddy tone is all apparently the fault of tone knob. It couldn&#8217;t possibly be your <a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" target="_blank" rel="noopener" data-lasso-id="106695"><strong>pickup</strong>s</a> right? Or your amp? Your settings?</p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p><strong>The tone knob is a potentiometer like your volume control that dials in frequency, or removes it from the sound spectrum. The tone knob usually dials in/out treble frequencies on an <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211333">electric guitar.</a> The lower you set the tone knob, the more the high frequencies are cut out from your guitar signal to your amp.</strong></p>
+<p><strong>The tone knob is a potentiometer like your volume control that dials in frequency, or removes it from the sound spectrum. The tone knob usually dials in/out treble frequencies on an <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211333">electric guitar.</a> The lower you set the tone knob, the more the high frequencies are cut out from your guitar signal to your amp.</strong></p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>That&#8217;s probably the easiest way to describe what a tone knob does for your <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-lasso-id="164568">electric guitar</a>. If you want to dig deep into the science, and where the idea came from, check out the<a href="https://en.wikipedia.org/wiki/Electric_guitar" target="_blank" rel="nofollow noopener" data-lasso-id="106696"> <strong>wiki</strong> </a>on electric guitars. But essentially, it does exactly what the name suggests. It changes the tone of your guitar and it can be set to brighten, or a darken your overall tone. There are several different variations of the tone knob, and depending on the guitar it can be vastly different designs.<strong> But what does the tone knob actually do?</strong></p>
+<p>That&#8217;s probably the easiest way to describe what a tone knob does for your <a href="/the-top-7-electric-guitar-myths/" data-lasso-id="164568">electric guitar</a>. If you want to dig deep into the science, and where the idea came from, check out the<a href="https://en.wikipedia.org/wiki/Electric_guitar" target="_blank" rel="nofollow noopener" data-lasso-id="106696"> <strong>wiki</strong> </a>on electric guitars. But essentially, it does exactly what the name suggests. It changes the tone of your guitar and it can be set to brighten, or a darken your overall tone. There are several different variations of the tone knob, and depending on the guitar it can be vastly different designs.<strong> But what does the tone knob actually do?</strong></p>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<p>The image above is an EQ program I use to mix and master albums in the studio. This is a great example of just how much treble a low pass filter can dial out. Your guitar&#8217;s tone knob does exactly what the picture above demonstrates to the<strong> frequency spectrum</strong>. It is pulling out the treble, or the &#8220;highs&#8221; in the mix. This leaves the bass, and low midrange still present in the spectrum. The tone knob does this with your guitar signal by dialing out the frequencies of the pickups. <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="106697"><strong>Active pickups</strong></a> work the same way as passive ones when it comes to tone knob control.</p>
+<p>The image above is an EQ program I use to mix and master albums in the studio. This is a great example of just how much treble a low pass filter can dial out. Your guitar&#8217;s tone knob does exactly what the picture above demonstrates to the<strong> frequency spectrum</strong>. It is pulling out the treble, or the &#8220;highs&#8221; in the mix. This leaves the bass, and low midrange still present in the spectrum. The tone knob does this with your guitar signal by dialing out the frequencies of the pickups. <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="106697"><strong>Active pickups</strong></a> work the same way as passive ones when it comes to tone knob control.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>Not all tone pots are created equal! Potentiometers have different resistance values. Most humbucker guitars for example have a 500k volume/tone knob resistance since they are not as bright as single coils. Most<strong> <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="106698">Fender</a></strong> guitars and other single coil designs use a 250k resistance for the potentiometers. So using different resistance values is one way to make a tone knob or volume knob more/less responsive. But you also have other ways to shape your guitar&#8217;s EQ even <em>further</em>.</p>
+<p>Not all tone pots are created equal! Potentiometers have different resistance values. Most humbucker guitars for example have a 500k volume/tone knob resistance since they are not as bright as single coils. Most<strong> <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="106698">Fender</a></strong> guitars and other single coil designs use a 250k resistance for the potentiometers. So using different resistance values is one way to make a tone knob or volume knob more/less responsive. But you also have other ways to shape your guitar&#8217;s EQ even <em>further</em>.</p>
 
 
 
@@ -133,7 +133,7 @@ seo:
 
 
 
-<p>All a capacitor is doing, in layman&#8217;s terms is changing the EQ curve that your tone knob controls. So while a tone knob with no capacitor will dial out the high frequencies, it may make the sound more <strong>muddy</strong>. You will usually see cheaper guitars and budget guitars not using a capacitor on the tone pot. It is extra work, and most <a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="106699"><strong>budget guitars</strong></a> have the bare bones when it comes to wiring features. But a good capacitor can make a huge difference in the way your tone knob responds when you turn it up/down. </p>
+<p>All a capacitor is doing, in layman&#8217;s terms is changing the EQ curve that your tone knob controls. So while a tone knob with no capacitor will dial out the high frequencies, it may make the sound more <strong>muddy</strong>. You will usually see cheaper guitars and budget guitars not using a capacitor on the tone pot. It is extra work, and most <a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="106699"><strong>budget guitars</strong></a> have the bare bones when it comes to wiring features. But a good capacitor can make a huge difference in the way your tone knob responds when you turn it up/down. </p>
 
 
 
@@ -165,11 +165,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/are-reverend-guitars-any-good/" data-type="post" data-id="5550" target="_blank" rel="noopener" data-lasso-id="106700"><strong> Reverend Guitars</strong></a> are famous for having a special tone control on all of the models the company makes. Fender also has a version of this on some of its models. But having special wiring is more of a luxury feature, even though we<em> do see</em> some budget models using filters and No Load pots on guitars. The <a href="https://www.electrikjam.com/ibanez-az-essentials-review/" data-type="post" data-id="6366" target="_blank" rel="noopener" data-lasso-id="106701"><strong>Ibanez AZ Essentials</strong></a> has a version of this. Having a No Load Pot, high pass filter, or low pass filter is not a <em>new</em> idea. But you can have a No Load pot installed on any guitar, and it is a popular &#8220;mod&#8221; for lots of players.</p>
+<p><a href="/are-reverend-guitars-any-good/" data-type="post" data-id="5550" target="_blank" rel="noopener" data-lasso-id="106700"><strong> Reverend Guitars</strong></a> are famous for having a special tone control on all of the models the company makes. Fender also has a version of this on some of its models. But having special wiring is more of a luxury feature, even though we<em> do see</em> some budget models using filters and No Load pots on guitars. The <a href="/ibanez-az-essentials-review/" data-type="post" data-id="6366" target="_blank" rel="noopener" data-lasso-id="106701"><strong>Ibanez AZ Essentials</strong></a> has a version of this. Having a No Load Pot, high pass filter, or low pass filter is not a <em>new</em> idea. But you can have a No Load pot installed on any guitar, and it is a popular &#8220;mod&#8221; for lots of players.</p>
 
 
 
-<p><strong>Set the knob on a No Load to 10 and it will have<em> zero </em>effect on the signal, making it nonexistent in the</strong> <strong>chain</strong>. But even turned down just a tiny bit, say to the 9 position&#8230; it acts just like a regular tone knob. This doesn&#8217;t mean that a No Load tone pot is <em>better</em>, since sound is so subjective. But it is a great option for players that feel like their pickups are not giving the full sound spectrum they are designed to produce. Tone is totally subjective, and No Load is the same idea as a &#8220;true bypass&#8221; <strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="106702">pedal</a></strong> in its function.</p>
+<p><strong>Set the knob on a No Load to 10 and it will have<em> zero </em>effect on the signal, making it nonexistent in the</strong> <strong>chain</strong>. But even turned down just a tiny bit, say to the 9 position&#8230; it acts just like a regular tone knob. This doesn&#8217;t mean that a No Load tone pot is <em>better</em>, since sound is so subjective. But it is a great option for players that feel like their pickups are not giving the full sound spectrum they are designed to produce. Tone is totally subjective, and No Load is the same idea as a &#8220;true bypass&#8221; <strong><a href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="106702">pedal</a></strong> in its function.</p>
 
 
 
@@ -185,11 +185,11 @@ seo:
 
 
 
-<p>This function is going to vary <em>wildly</em> from player to player. But I can tell you how some famous guitarists and people like myself use the tone knob. Every guitar is different though, and you may even have more than one tone knob! A <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="106703"><strong>Les Paul</strong></a> style guitar generally has two volume/two tone controls as a standard setup making a total of four knobs. This means that you have a volume <em>and</em> tone control for each pickup.</p>
+<p>This function is going to vary <em>wildly</em> from player to player. But I can tell you how some famous guitarists and people like myself use the tone knob. Every guitar is different though, and you may even have more than one tone knob! A <a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener" data-lasso-id="106703"><strong>Les Paul</strong></a> style guitar generally has two volume/two tone controls as a standard setup making a total of four knobs. This means that you have a volume <em>and</em> tone control for each pickup.</p>
 
 
 
-<p>Other guitars may just have two knobs or three total, with one being the master volume for both pickups and the other knob is the master tone control. A <a href="https://www.electrikjam.com/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="106704"><strong>Fender Stratocaster</strong></a> has three pickups, and the different models have different control layouts. But every Fender has at least one <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246490">tone control</a> that is either wired to the bridge pickup, or as a master tone control for two of the pickups.</p>
+<p>Other guitars may just have two knobs or three total, with one being the master volume for both pickups and the other knob is the master tone control. A <a href="/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="106704"><strong>Fender Stratocaster</strong></a> has three pickups, and the different models have different control layouts. But every Fender has at least one <a href="/parts-of-an-electric-guitar/" data-lasso-id="246490">tone control</a> that is either wired to the bridge pickup, or as a master tone control for two of the pickups.</p>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<p>Jazz players use the tone knob to smooth out the sound of BOTH pickups usually. This is an essential part of jazz guitar tone, and most players love to turn the tone down a little bit to get a fatter, warmer sound. Country players famously like to play <a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="106705"><strong>Telecasters</strong></a>, and use the tone knob to dial down the &#8220;twang&#8221; for rhythm playing, and they <em>dial it back in</em> for twangy, biting solos. Newer players like <strong>Tim Henson</strong> dial back the tone knob for tapping, solos, and harmonic licks.</p>
+<p>Jazz players use the tone knob to smooth out the sound of BOTH pickups usually. This is an essential part of jazz guitar tone, and most players love to turn the tone down a little bit to get a fatter, warmer sound. Country players famously like to play <a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="106705"><strong>Telecasters</strong></a>, and use the tone knob to dial down the &#8220;twang&#8221; for rhythm playing, and they <em>dial it back in</em> for twangy, biting solos. Newer players like <strong>Tim Henson</strong> dial back the tone knob for tapping, solos, and harmonic licks.</p>
 
 
 

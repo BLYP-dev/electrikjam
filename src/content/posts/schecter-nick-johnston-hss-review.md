@@ -39,15 +39,15 @@ seo:
 <h2 class="wp-block-heading" id="htoc-schecter-nick-johnston-hss-a-classic-redefined">Schecter Nick Johnston HSS: A Classic Redefined!</h2>
 
 
-<p>It may seem like a silly statement, and may seem like an arbitrary thing to say but I am going to say it;<strong> Every professional guitarist, no matter what level you are at, needs a &#8220;S&#8221; type guitar. </strong>It doesn&#8217;t matter if you play the heaviest of Death Metal, you<em> need</em> a Strat style guitar. There are a lot of reasons for this, and that topic can be a whole article, and <a data-lasso-id="39781" href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener"><strong>we covered</strong> </a>this before.</p>
+<p>It may seem like a silly statement, and may seem like an arbitrary thing to say but I am going to say it;<strong> Every professional guitarist, no matter what level you are at, needs a &#8220;S&#8221; type guitar. </strong>It doesn&#8217;t matter if you play the heaviest of Death Metal, you<em> need</em> a Strat style guitar. There are a lot of reasons for this, and that topic can be a whole article, and <a data-lasso-id="39781" href="/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener"><strong>we covered</strong> </a>this before.</p>
 
 
 
-<p>But one reason, is a Strat style guitar sounds <em>amazing</em> clean. It has a very particular sound that no other guitar can really attain, even with coil splits on a <a data-lasso-id="39782" href="https://www.electrikjam.com/seymour-duncan-pearly-gates-reviews/" target="_blank" data-type="post" data-id="5085" rel="noopener"><strong>humbucker</strong></a>. For <a data-lasso-id="39783" href="https://www.electrikjam.com/must-have-for-recording-guitar/" target="_blank" data-type="post" data-id="4877" rel="noopener"><strong>recording</strong></a> in particular, it is essential to have a Strat in the studio, and every big studio I have ever been in had at least one. But another reason is that a Strat is<em> very</em> unforgiving when it comes to playing. If you make a mistake on a Strat, <em>everyone</em> hears it.</p>
+<p>But one reason, is a Strat style guitar sounds <em>amazing</em> clean. It has a very particular sound that no other guitar can really attain, even with coil splits on a <a data-lasso-id="39782" href="/seymour-duncan-pearly-gates-reviews/" target="_blank" data-type="post" data-id="5085" rel="noopener"><strong>humbucker</strong></a>. For <a data-lasso-id="39783" href="/must-have-for-recording-guitar/" target="_blank" data-type="post" data-id="4877" rel="noopener"><strong>recording</strong></a> in particular, it is essential to have a Strat in the studio, and every big studio I have ever been in had at least one. But another reason is that a Strat is<em> very</em> unforgiving when it comes to playing. If you make a mistake on a Strat, <em>everyone</em> hears it.</p>
 
 
 
-<p>But the Schecter Nick Johnston HSS is a somewhat different beast than your usual <a href="https://www.electrikjam.com/https-guitar-center-pxf-io-rnrged/" target="_blank" data-type="lasso-urls" data-id="6075" rel="nofollow sponsored noopener" data-lasso-id="40146" data-lasso-name="Fender Player Series HSS"><strong>Fender</strong></a>. Over the years, I have owned a <em>plethora</em> of Fender guitars, and they were never a good fit for me. Once every couple of years, I buy a Fender Strat – or <a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-lasso-id="213188">something completely different like the Fender Meteora</a> – and try it out for a while&#8230; and end up selling it. I am used to playing more &#8220;shreddy&#8221; style guitars, and the vintage feel of a Fender just never &#8220;did it&#8221; for me. </p>
+<p>But the Schecter Nick Johnston HSS is a somewhat different beast than your usual <a href="/https-guitar-center-pxf-io-rnrged/" target="_blank" data-type="lasso-urls" data-id="6075" rel="nofollow sponsored noopener" data-lasso-id="40146" data-lasso-name="Fender Player Series HSS"><strong>Fender</strong></a>. Over the years, I have owned a <em>plethora</em> of Fender guitars, and they were never a good fit for me. Once every couple of years, I buy a Fender Strat – or <a href="/fender-meteora-players-plus-review-2022/" data-lasso-id="213188">something completely different like the Fender Meteora</a> – and try it out for a while&#8230; and end up selling it. I am used to playing more &#8220;shreddy&#8221; style guitars, and the vintage feel of a Fender just never &#8220;did it&#8221; for me. </p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>Which is a shame, because an HSS Strat is what we call a <strong>&#8220;<a data-lasso-id="39784" href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" target="_blank" data-type="post" data-id="5415" rel="noopener">Do it all</a></strong>&#8221; guitar. There is so much <a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" data-lasso-id="180622">versatility to be had with these guitars</a>, and I have just never found one that I love. Over the years, I have learned the hard way not to buy a guitar that you don&#8217;t<em> LOVE</em>. When it comes to Fender I think this has a lot to do with the features for me, like the neck radius and fret size. When you are playing super flat necks like a <a href="https://www.electrikjam.com/pxf-8/" target="_blank" data-type="lasso-urls" data-id="6298" rel="nofollow sponsored noopener" data-lasso-id="40147" data-lasso-name="Schecter Hellraiser FRS"><strong>Schecter Hellraiser</strong></a> every day, you get accustomed to that &#8220;feel&#8221;. </p>
+<p>Which is a shame, because an HSS Strat is what we call a <strong>&#8220;<a data-lasso-id="39784" href="/does-the-do-it-all-guitar-exist/" target="_blank" data-type="post" data-id="5415" rel="noopener">Do it all</a></strong>&#8221; guitar. There is so much <a href="/charvel-pro-mod-dk24-review/" data-lasso-id="180622">versatility to be had with these guitars</a>, and I have just never found one that I love. Over the years, I have learned the hard way not to buy a guitar that you don&#8217;t<em> LOVE</em>. When it comes to Fender I think this has a lot to do with the features for me, like the neck radius and fret size. When you are playing super flat necks like a <a href="/pxf-8/" target="_blank" data-type="lasso-urls" data-id="6298" rel="nofollow sponsored noopener" data-lasso-id="40147" data-lasso-name="Schecter Hellraiser FRS"><strong>Schecter Hellraiser</strong></a> every day, you get accustomed to that &#8220;feel&#8221;. </p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>The people at <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247832">Schecter Guitars</a> managed to make something that Fender could make, but they don&#8217;t, and probably never will. Fender make &#8220;heritage&#8221; instruments for the most part and it takes risks with the<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-5bkynl/" target="_blank" data-type="lasso-urls" data-id="6283" rel="nofollow sponsored noopener" data-lasso-id="40148" data-lasso-name="Squier Contemporary Telecaster RH">Squier</a></strong> line. The Schecter Nick Johnston HSS that I just bought (Merry Christmas to me!) has some interesting features that you will not see on a Fender.</p>
+<p>The people at <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247832">Schecter Guitars</a> managed to make something that Fender could make, but they don&#8217;t, and probably never will. Fender make &#8220;heritage&#8221; instruments for the most part and it takes risks with the<strong> <a href="/guitar-center-pxf-io-5bkynl/" target="_blank" data-type="lasso-urls" data-id="6283" rel="nofollow sponsored noopener" data-lasso-id="40148" data-lasso-name="Squier Contemporary Telecaster RH">Squier</a></strong> line. The Schecter Nick Johnston HSS that I just bought (Merry Christmas to me!) has some interesting features that you will not see on a Fender.</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 <figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" width="471" height="450" src="/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS.jpg" alt="Schecter Nick Johnston HSS" class="wp-image-6318" title="" srcset="/wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS.jpg 471w, /wp-content/uploads/2021/12/Schecter-Nick-Johnston-HSS-300x287.jpg 300w" sizes="(max-width: 471px) 100vw, 471px" /><figcaption class="wp-element-caption"><strong>Several Colors That Are Available</strong></figcaption></figure>
 
 
-<p>I know what you&#8217;re thinking right now, looking at that picture above. <em>This thing looks just like a Fender Strat</em>. So what is the difference? And better yet, could the differences<em> really </em>be big enough for it to<em> matter</em>? The answer to these questions lie not in the appearance, but in the subtle differences in the features. The <a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-lasso-id="158757">Schecter</a> has a lot going on &#8220;behind the scenes&#8221; that you will not notice until you&#8217;ve played one&#8230;</p>
+<p>I know what you&#8217;re thinking right now, looking at that picture above. <em>This thing looks just like a Fender Strat</em>. So what is the difference? And better yet, could the differences<em> really </em>be big enough for it to<em> matter</em>? The answer to these questions lie not in the appearance, but in the subtle differences in the features. The <a href="/schecter-omen-elite-2022-review/" data-lasso-id="158757">Schecter</a> has a lot going on &#8220;behind the scenes&#8221; that you will not notice until you&#8217;ve played one&#8230;</p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>For those of you new to Schecter, the Diamond Series is the middle/lower-high end when it comes to pricing. These are usually amazing guitars that <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-lasso-id="102922">play way</a> above the price point. Along with my new Schecter Nick Johnston HSS, <em>all</em> of my guitars are from the Diamond Series. <em><strong>&#8220;Diamond Series&#8221; just means &#8220;mass produced&#8221;</strong></em> instead of the sometimes one off guitars you see from the Custom Shop. There&#8217;s <em>tons</em> of Diamond Series guitars, and you can see them<strong> <a href="https://www.schecterguitars.com/" data-lasso-id="40149" target="_blank" rel="noopener noreferrer nofollow">here</a></strong>.</p>
+<p>For those of you new to Schecter, the Diamond Series is the middle/lower-high end when it comes to pricing. These are usually amazing guitars that <a href="/beginner-music-theory-for-guitarists/" data-lasso-id="102922">play way</a> above the price point. Along with my new Schecter Nick Johnston HSS, <em>all</em> of my guitars are from the Diamond Series. <em><strong>&#8220;Diamond Series&#8221; just means &#8220;mass produced&#8221;</strong></em> instead of the sometimes one off guitars you see from the Custom Shop. There&#8217;s <em>tons</em> of Diamond Series guitars, and you can see them<strong> <a href="https://www.schecterguitars.com/" data-lasso-id="40149" target="_blank" rel="noopener noreferrer nofollow">here</a></strong>.</p>
 
 
 
@@ -156,11 +156,11 @@ seo:
 
 
 
-<p>Out of the box, the guitar was setup and ready to play, as is Schecter&#8217;s motto. I made some adjustments that are personal like lowering the action, and setting up the bridge. The fretwork was decent and all of the frets were level. I did have some rough edges on both sides that I suppose are due to weather changes. I filed the fret ends, and it was no problem. The rest of the <a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-lasso-id="198728">Schecter</a> Nick Johnston HSS was immaculate, and I have come to hold Schecter Guitars to a much higher standard than other companies.</p>
+<p>Out of the box, the guitar was setup and ready to play, as is Schecter&#8217;s motto. I made some adjustments that are personal like lowering the action, and setting up the bridge. The fretwork was decent and all of the frets were level. I did have some rough edges on both sides that I suppose are due to weather changes. I filed the fret ends, and it was no problem. The rest of the <a href="/schecter-jack-fowler-traditional-review/" data-lasso-id="198728">Schecter</a> Nick Johnston HSS was immaculate, and I have come to hold Schecter Guitars to a much higher standard than other companies.</p>
 
 
 
-<p>The <a href="https://www.electrikjam.com/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199528">Schecter</a> Nick Johnston HSS has the perfect neck for people like myself. I love a flat radius and larger frets. The Schecter has a 14&#8221; radius, so it is flat without being <em>too </em>flat. The neck is also a familiar C shape, that sits somewhere between my Hellraiser, and a more vintage size. It&#8217;s incredibly comfortable to play but if you are a longtime Fender player, it will definitely feel&#8230; weird. </p>
+<p>The <a href="/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199528">Schecter</a> Nick Johnston HSS has the perfect neck for people like myself. I love a flat radius and larger frets. The Schecter has a 14&#8221; radius, so it is flat without being <em>too </em>flat. The neck is also a familiar C shape, that sits somewhere between my Hellraiser, and a more vintage size. It&#8217;s incredibly comfortable to play but if you are a longtime Fender player, it will definitely feel&#8230; weird. </p>
 
 
 
@@ -184,11 +184,11 @@ seo:
 
 
 
-<p>The dual action truss rod is at the heel of the neck. I know <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44681">Charvel and Fender</a> have been doing this for quite a while but it&#8217;s always a welcome feature for me. Nothing is more frustrating than having to remove a truss rod cover under the strings to make a quick adjustment. Although Roasted Maple is pretty stable, and shouldn&#8217;t need much adjustment.</p>
+<p>The dual action truss rod is at the heel of the neck. I know <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44681">Charvel and Fender</a> have been doing this for quite a while but it&#8217;s always a welcome feature for me. Nothing is more frustrating than having to remove a truss rod cover under the strings to make a quick adjustment. Although Roasted Maple is pretty stable, and shouldn&#8217;t need much adjustment.</p>
 
 
 
-<p>The Schecter Nick Johnston HSS body shape next to the Fender is <em>almost</em> identical. The size, shape, and weight are pretty much the same. I think the Schecter body is slightly heavier, but if so, it is only <em>maybe</em> half a pound. I got the &#8220;Atomic Coral&#8221; color because all of my guitars are black or white. The pink color is great, and stands out. All of the <a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="249002">Schecter Nick Johnston HSS guitar colors are pretty unique</a> pastels, but there is a regular black/white model if you prefer.</p>
+<p>The Schecter Nick Johnston HSS body shape next to the Fender is <em>almost</em> identical. The size, shape, and weight are pretty much the same. I think the Schecter body is slightly heavier, but if so, it is only <em>maybe</em> half a pound. I got the &#8220;Atomic Coral&#8221; color because all of my guitars are black or white. The pink color is great, and stands out. All of the <a href="/schecter-sunset-triad-review/" data-lasso-id="249002">Schecter Nick Johnston HSS guitar colors are pretty unique</a> pastels, but there is a regular black/white model if you prefer.</p>
 
 
 
@@ -242,7 +242,7 @@ seo:
 
 
 
-<p>But it doesn&#8217;t play like those other guitars at all. This was exactly what I was looking for, and it fills a space that has been empty in my guitar arsenal for a while. I love my <a data-lasso-id="40150" href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener"><strong>other Schecter</strong></a> guitars, but those are all geared towards Metal styles. I was missing a classic sound when it came to recording, and I now I have it!</p>
+<p>But it doesn&#8217;t play like those other guitars at all. This was exactly what I was looking for, and it fills a space that has been empty in my guitar arsenal for a while. I love my <a data-lasso-id="40150" href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener"><strong>other Schecter</strong></a> guitars, but those are all geared towards Metal styles. I was missing a classic sound when it came to recording, and I now I have it!</p>
 
 
 

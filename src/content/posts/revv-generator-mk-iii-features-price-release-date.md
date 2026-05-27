@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>REVV is <strong>THE</strong> premier Canadian amplifier company. The Winnipeg based company has been making some <strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="391">seriously impressive amps</a></strong> for years. But only lately have they been trying to change the game completely. These <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="392">Metal-focused amps</a> have been the talk of the guitar community for a while.</p>
+<p>REVV is <strong>THE</strong> premier Canadian amplifier company. The Winnipeg based company has been making some <strong><a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="391">seriously impressive amps</a></strong> for years. But only lately have they been trying to change the game completely. These <a href="/boss-katana-50-reviews/" data-lasso-id="392">Metal-focused amps</a> have been the talk of the guitar community for a while.</p>
 
 
 
@@ -56,11 +56,11 @@ seo:
 
 
 
-<p>The company has branched out beyond just amplification, and started <a href="https://www.electrikjam.com/best-guitar-pedals-for-metal-our-top-choices-for-2020/" data-type="post" data-id="1126" data-lasso-id="393">designing pedals over the past two years</a>, to critical acclaim. But the duo of <strong>Dan Trudeau </strong>and <strong>Derek Eastveld </strong>continue to experiment, and push the boundaries of what can be done with traditional guitar gear.</p>
+<p>The company has branched out beyond just amplification, and started <a href="/best-guitar-pedals-for-metal-our-top-choices-for-2020/" data-type="post" data-id="1126" data-lasso-id="393">designing pedals over the past two years</a>, to critical acclaim. But the duo of <strong>Dan Trudeau </strong>and <strong>Derek Eastveld </strong>continue to experiment, and push the boundaries of what can be done with traditional guitar gear.</p>
 
 
 
-<p>With so many people <a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" data-lasso-id="394">creating home studios these days</a>, it has become impractical to have a half-stack amp setup to record with. Not only are they big and bulky, they are <em>loud</em> as Hell. I know my neighbors are never happy to hear a cranked up tube amp, regardless of the time of day.</p>
+<p>With so many people <a href="/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" data-lasso-id="394">creating home studios these days</a>, it has become impractical to have a half-stack amp setup to record with. Not only are they big and bulky, they are <em>loud</em> as Hell. I know my neighbors are never happy to hear a cranked up tube amp, regardless of the time of day.</p>
 
 
 
@@ -80,23 +80,23 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Direct <a href="https://www.electrikjam.com/line-6-helix-recording-techniques-the-1-guide-to-getting-started/" data-lasso-id="4153">Line output for recording</a>, featuring Two Notes Torpedo Stereo XLR </strong></li><li><strong>Virtual Cabs, Microphones, Impulse Responses, Effects and Reverbs</strong></li><li><strong>Fully programmable through MIDI, and Two Notes Editing</strong></li><li><strong>Powered by 5 12AX7 preamp tubes, and 4 6L6 power tubes</strong></li><li><strong>4 innovative amp channels with independent EQ</strong></li><li><strong>New Clean &#8220;Blue&#8221; channel, and three &#8220;Green&#8221; crunch channels</strong></li><li><strong>Updated &#8220;Purple&#8221; high gain channel</strong></li><li><strong>Built in noise gate/noise reduction</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Direct <a href="/line-6-helix-recording-techniques-the-1-guide-to-getting-started/" data-lasso-id="4153">Line output for recording</a>, featuring Two Notes Torpedo Stereo XLR </strong></li><li><strong>Virtual Cabs, Microphones, Impulse Responses, Effects and Reverbs</strong></li><li><strong>Fully programmable through MIDI, and Two Notes Editing</strong></li><li><strong>Powered by 5 12AX7 preamp tubes, and 4 6L6 power tubes</strong></li><li><strong>4 innovative amp channels with independent EQ</strong></li><li><strong>New Clean &#8220;Blue&#8221; channel, and three &#8220;Green&#8221; crunch channels</strong></li><li><strong>Updated &#8220;Purple&#8221; high gain channel</strong></li><li><strong>Built in noise gate/noise reduction</strong></li></ul>
 
 
 
-<p>The standout feature is the Two Notes powered output for home studio use. This uses &#8220;Reactive Load Technology&#8221; which means you should be able to get that cranked, saturated <a href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/" data-lasso-id="395">tube amp sound in your bedroom</a>. The output goes directly into your interface, and like most Two Notes products, you can customize the output.</p>
+<p>The standout feature is the Two Notes powered output for home studio use. This uses &#8220;Reactive Load Technology&#8221; which means you should be able to get that cranked, saturated <a href="/the-best-guitar-amps-under-100-bucks/" data-lasso-id="395">tube amp sound in your bedroom</a>. The output goes directly into your interface, and like most Two Notes products, you can customize the output.</p>
 
 
 
-<p><a href="https://www.facebook.com/RevvAmplification/" data-lasso-id="396" target="_blank" rel="noopener noreferrer nofollow">REVV Amplification</a> will be hosting a live stream on November 12th, discussing all of the features and showing the amp in more detail. I honestly can&#8217;t wait to see what they have in store for us guitarists that need a new <a href="https://www.electrikjam.com/headrush-prime-first-look/" data-lasso-id="220103">solution for home recording</a>. Because right now, we are limited to amp sims and <a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-lasso-id="88577">guitar processors</a> for direct input, in most cases.</p>
+<p><a href="https://www.facebook.com/RevvAmplification/" data-lasso-id="396" target="_blank" rel="noopener noreferrer nofollow">REVV Amplification</a> will be hosting a live stream on November 12th, discussing all of the features and showing the amp in more detail. I honestly can&#8217;t wait to see what they have in store for us guitarists that need a new <a href="/headrush-prime-first-look/" data-lasso-id="220103">solution for home recording</a>. Because right now, we are limited to amp sims and <a href="/guitarists-that-use-axe-fx/" data-lasso-id="88577">guitar processors</a> for direct input, in most cases.</p>
 
 
 
-<p>Or&#8230; you could buy an expensive load box, attenuator,  or interface. Then you could use your fully cranked <a href="https://www.electrikjam.com/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176456">tube amp at home</a>. But wouldn&#8217;t it be nice just to have the whole package in one amp? An all-in-one option that allows you to become a chameleon when it comes to transitioning from stage to studio?</p>
+<p>Or&#8230; you could buy an expensive load box, attenuator,  or interface. Then you could use your fully cranked <a href="/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176456">tube amp at home</a>. But wouldn&#8217;t it be nice just to have the whole package in one amp? An all-in-one option that allows you to become a chameleon when it comes to transitioning from stage to studio?</p>
 
 
 
-<p>It would be refreshing to be able to get that ear-pleasing, cranked to 11 <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5824">tube amp</a> sound without having the cops show up to my house for yet another noise complaint. The other interesting aspect of the REVV MK III is the possibility of the amp being a solution for stage as well.</p>
+<p>It would be refreshing to be able to get that ear-pleasing, cranked to 11 <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5824">tube amp</a> sound without having the cops show up to my house for yet another noise complaint. The other interesting aspect of the REVV MK III is the possibility of the amp being a solution for stage as well.</p>
 
 
 
@@ -120,11 +120,11 @@ seo:
 
 
 
-<p>REVV amps are hand-made in Canada by some real pros, and tested before they leave the shop and REVV stands behind every product. These are professional amps meant to be used in a serious studio/stage setting. Make no mistake, this is a high end tube amp with some extra <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="397">features tailored for recording</a>.</p>
+<p>REVV amps are hand-made in Canada by some real pros, and tested before they leave the shop and REVV stands behind every product. These are professional amps meant to be used in a serious studio/stage setting. Make no mistake, this is a high end tube amp with some extra <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="397">features tailored for recording</a>.</p>
 
 
 
-<p>But if you are a <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5458">professional guitarist</a>, this could be an end-stage solution to having two tons of gear (like myself) that make up different &#8220;setups&#8221; for studio applications, and live playing alike. I&#8217;m very interested in the idea of having a real tube tone, with a built-in load box. </p>
+<p>But if you are a <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5458">professional guitarist</a>, this could be an end-stage solution to having two tons of gear (like myself) that make up different &#8220;setups&#8221; for studio applications, and live playing alike. I&#8217;m very interested in the idea of having a real tube tone, with a built-in load box. </p>
 
 
 

@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>When it comes to value for money, you’d be hard pressed to find a better value guitar than something from the <strong><a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-type="post" data-id="12961" data-lasso-id="260867">PRS’ SE range of guitars</a></strong>. Like the Fender Player series, these models are stripped-down, non-custom-shop versions of their more expensive stablemates. </p>
+<p>When it comes to value for money, you’d be hard pressed to find a better value guitar than something from the <strong><a href="/prs-se-series-guitars-guide/" data-type="post" data-id="12961" data-lasso-id="260867">PRS’ SE range of guitars</a></strong>. Like the Fender Player series, these models are stripped-down, non-custom-shop versions of their more expensive stablemates. </p>
 
 
 
@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>Well, hold onto your butts: things just got even better. <strong><a href="https://www.electrikjam.com/guitar-brands/prs-guitars/" data-type="guitar-brands" data-id="14028" data-lasso-id="260868">PRS</a></strong> has just announced a brand new guitar in its SE range – the PRS SE CE 24 Standard Satin. </p>
+<p>Well, hold onto your butts: things just got even better. <strong><a href="/guitar-brands/prs-guitars/" data-type="guitar-brands" data-id="14028" data-lasso-id="260868">PRS</a></strong> has just announced a brand new guitar in its SE range – the PRS SE CE 24 Standard Satin. </p>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<p>If you’re in the market for one of these SE guitars, the PRS SE CE 24 Standard could be a good place to start your journey. Or, if you’ve got slightly deeper pockets, <strong><a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" data-lasso-id="260870">John Mayer’s signature PRS SE Silversky</a></strong>. </p>
+<p>If you’re in the market for one of these SE guitars, the PRS SE CE 24 Standard could be a good place to start your journey. Or, if you’ve got slightly deeper pockets, <strong><a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" data-lasso-id="260870">John Mayer’s signature PRS SE Silversky</a></strong>. </p>
 
 
 

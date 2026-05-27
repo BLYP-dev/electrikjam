@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>Although most of his most notable work was done in the 1990s, Dimebag’s legacy lives on today. Pantera still sounds as fresh today as it did two decades ago – and that applies of <strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="215933">all of Pantera&#8217;s albums</a></strong>.</p>
+<p>Although most of his most notable work was done in the 1990s, Dimebag’s legacy lives on today. Pantera still sounds as fresh today as it did two decades ago – and that applies of <strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="215933">all of Pantera&#8217;s albums</a></strong>.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/what-guitar-does-dimebag-darrell-use/" data-lasso-id="254816">Dimebag Darrell was a huge part of Pantera’s sound</a>, arguably the most important component. Without his riffs, his ear for tone, and his devastatingly accurate rhythm and lead, Pantera would have been just <em>another</em> metal band. </p>
+<p><a href="/what-guitar-does-dimebag-darrell-use/" data-lasso-id="254816">Dimebag Darrell was a huge part of Pantera’s sound</a>, arguably the most important component. Without his riffs, his ear for tone, and his devastatingly accurate rhythm and lead, Pantera would have been just <em>another</em> metal band. </p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p>One of Dimebag&#8217;s most famous pedals was the Noise Gate. This pedal is used to reduce any unwanted noise that may be created when playing <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216547">electric guitar</a>.</p>
+<p>One of Dimebag&#8217;s most famous pedals was the Noise Gate. This pedal is used to reduce any unwanted noise that may be created when playing <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216547">electric guitar</a>.</p>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="215937">The Boss Katana 100 comes with ALL of Boss’ pedals</a></strong> installed inside it, so that’d be a great option <strong><a href="https://www.electrikjam.com/pxf-53/" data-type="lasso-urls" data-id="8362" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="215938" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">(and it retails for around $300)</a></strong>.</p>
+<p><strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="215937">The Boss Katana 100 comes with ALL of Boss’ pedals</a></strong> installed inside it, so that’d be a great option <strong><a href="/pxf-53/" data-type="lasso-urls" data-id="8362" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="215938" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">(and it retails for around $300)</a></strong>.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>If you can get your hands on these pedals – or use digital equivalents inside software like <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="215939">Positive Grid’s BIAS FX 2</a></strong> – you’ll be well on your way to unlocking the secrets of Dimebag Darrell’s iconic guitar tone.</p>
+<p>If you can get your hands on these pedals – or use digital equivalents inside software like <strong><a href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="215939">Positive Grid’s BIAS FX 2</a></strong> – you’ll be well on your way to unlocking the secrets of Dimebag Darrell’s iconic guitar tone.</p>
 
 
 
@@ -210,12 +210,12 @@ seo:
 
 
 
-<li><strong><a href="https://www.electrikjam.com/pxf-53/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="215944" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">Boss Katana 100</a></strong></li>
+<li><strong><a href="/pxf-53/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="215944" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">Boss Katana 100</a></strong></li>
 </ul>
 
 
 
-<p>If you need any help building out your first pedalboard, check out our <strong><a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="215945">beginner&#8217;s guide to building your first pedalboard</a></strong> – it covers everything you need to know to get started. </p>
+<p>If you need any help building out your first pedalboard, check out our <strong><a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="215945">beginner&#8217;s guide to building your first pedalboard</a></strong> – it covers everything you need to know to get started. </p>
 
 
 

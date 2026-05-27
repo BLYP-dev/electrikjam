@@ -297,7 +297,7 @@ seo:
 
 
 
-<p>These pickups were one of the main reasons <strong><a href="https://www.electrikjam.com/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" data-type="post" data-id="18174">why I fell in love with the Fender American Ultra 2 Stratocaster</a></strong> earlier this year. They sound incredible, and that guitar plays like it was designed by god himself. </p>
+<p>These pickups were one of the main reasons <strong><a href="/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" data-type="post" data-id="18174">why I fell in love with the Fender American Ultra 2 Stratocaster</a></strong> earlier this year. They sound incredible, and that guitar plays like it was designed by god himself. </p>
 
 
 
@@ -322,7 +322,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/fender-player-ii-stratocaster-reviews/" data-type="post" data-id="18238">Player Plus Strat HSS</a></strong>
+<li><strong><a href="/fender-player-ii-stratocaster-reviews/" data-type="post" data-id="18238">Player Plus Strat HSS</a></strong>
 <ul class="wp-block-list">
 <li>Noiseless neck/mid, powerful bridge humbucker</li>
 
@@ -338,7 +338,7 @@ seo:
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" data-type="post" data-id="18174">American Ultra HSS</a></strong>
+<li><strong><a href="/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" data-type="post" data-id="18174">American Ultra HSS</a></strong>
 <ul class="wp-block-list">
 <li>Ultra Noiseless Hot pickups + upgraded hardware</li>
 
@@ -364,7 +364,7 @@ seo:
 
 
 
-<p>On a Tele, <strong><a href="https://www.electrikjam.com/fender-player-ii-telecaster-hh-reviews/" data-type="post" data-id="18086">a straight-up HH setup is great for rock and metal </a></strong>but a HS gives your more  options and also that quintessential Tele twang. </p>
+<p>On a Tele, <strong><a href="/fender-player-ii-telecaster-hh-reviews/" data-type="post" data-id="18086">a straight-up HH setup is great for rock and metal </a></strong>but a HS gives your more  options and also that quintessential Tele twang. </p>
 
 
 
@@ -385,7 +385,7 @@ seo:
 
 
 
-<li>Best option? <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Fender Player II Stratocaster" href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster/" data-shortcode="true">Fender Player II Stratocaster </a></strong></li>
+<li>Best option? <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Fender Player II Stratocaster" href="/recommends/fender-player-ii-stratocaster/" data-shortcode="true">Fender Player II Stratocaster </a></strong></li>
 </ul>
 
 
@@ -425,7 +425,7 @@ seo:
 
 
 
-<li>Best option?<strong> <a class="thirstylink" rel="nofollow" target="_blank" title="Fender American Ultra II HSS Stratocaster" href="https://www.electrikjam.com/recommends/fender-american-ultra-ii-hss-stratocaster/" data-shortcode="true">Fender American Ultra 2 Stratocaster</a></strong></li>
+<li>Best option?<strong> <a class="thirstylink" rel="nofollow" target="_blank" title="Fender American Ultra II HSS Stratocaster" href="/recommends/fender-american-ultra-ii-hss-stratocaster/" data-shortcode="true">Fender American Ultra 2 Stratocaster</a></strong></li>
 </ul>
 
 
@@ -494,7 +494,7 @@ seo:
 <div class="wp-block-query alignfull is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-18238 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars tag-fender-stratocaster-model">
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/fender-player-ii-stratocaster-reviews/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender Player II Stratocaster Review: Is It Worth It?" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg 1200w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><a href="/fender-player-ii-stratocaster-reviews/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender Player II Stratocaster Review: Is It Worth It?" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews.jpg 1200w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-Player-II-stratocaster-reviews-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
 
 <p style="color:#ff3399; font-style:normal;font-weight:800;" class="field-guitar_rating_out_of_10 wp-elements-1dab0b1237c8080ce5a23970d601065d wp-block-acf-field-blocks-acf-text has-text-color has-x-small-font-size"><span class="prefix">Score: </span><span class="value">9</span><span class="suffix">/10</span></p></div>
 
@@ -502,7 +502,7 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-6c531013 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-5e466b7e9ab54d7caa8a90e07a114840 wp-block-post-title has-text-color has-main-color has-medium-font-size has-narrow-font-family"><a href="https://www.electrikjam.com/fender-player-ii-stratocaster-reviews/" target="_self">Fender Player II Stratocaster Review: Is It Worth It?</a></h3></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-6c531013 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-5e466b7e9ab54d7caa8a90e07a114840 wp-block-post-title has-text-color has-main-color has-medium-font-size has-narrow-font-family"><a href="/fender-player-ii-stratocaster-reviews/" target="_self">Fender Player II Stratocaster Review: Is It Worth It?</a></h3></div>
 
 
 <p class="field-the_electrikjam_verdict wp-block-acf-field-blocks-acf-text has-small-font-size"><span class="value">They gave us the fast radius, the premium tuners, and the rolled edges that make a neck truly comfortable. Fender listened, basically. It punches well above its weight class. You get a high-performance Strat that feels like an old friend and handles any genre you throw at it. This is the new standard.</span></p>
@@ -523,7 +523,7 @@ seo:
 </li><li class="wp-block-post post-8313 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars tag-fender tag-fender-stratocaster-model">
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender Player Stratocaster Reviews: Still #1 After All These Years?" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster.jpg 1200w, /wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><a href="/fender-player-stratocaster-reviews/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender Player Stratocaster Reviews: Still #1 After All These Years?" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster.jpg 1200w, /wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-Player-Series-Stratocaster-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
 
 <p style="color:#ff3399; font-style:normal;font-weight:800;" class="field-guitar_rating_out_of_10 wp-elements-1dab0b1237c8080ce5a23970d601065d wp-block-acf-field-blocks-acf-text has-text-color has-x-small-font-size"><span class="prefix">Score: </span><span class="value">8</span><span class="suffix">/10</span></p></div>
 
@@ -531,7 +531,7 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-6c531013 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-5e466b7e9ab54d7caa8a90e07a114840 wp-block-post-title has-text-color has-main-color has-medium-font-size has-narrow-font-family"><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" target="_self">Fender Player Stratocaster Reviews: Still #1 After All These Years?</a></h3></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-6c531013 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-5e466b7e9ab54d7caa8a90e07a114840 wp-block-post-title has-text-color has-main-color has-medium-font-size has-narrow-font-family"><a href="/fender-player-stratocaster-reviews/" target="_self">Fender Player Stratocaster Reviews: Still #1 After All These Years?</a></h3></div>
 
 
 <p class="field-the_electrikjam_verdict wp-block-acf-field-blocks-acf-text has-small-font-size"><span class="value">I have rarely seen a professional studio without at least one good MIM Stratocaster on the guitar rack, and that tells you something. It doesn&#039;t matter if you are a bare-bones beginner, or a seasoned pro. I think the Fender Player Stratocaster is worth the price, and the new models are leaps and bounds better than what we had 20 years ago.</span></p>
@@ -552,7 +552,7 @@ seo:
 </li><li class="wp-block-post post-18174 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars tag-fender-stratocaster-model">
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender American Ultra II HSS Stratocaster Reviews: God&#8217;s Guitar&#8230;" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1.jpg 1200w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%"><figure class="wp-block-post-featured-image"><a href="/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender American Ultra II HSS Stratocaster Reviews: God&#8217;s Guitar&#8230;" style="border-top-right-radius:17px;border-bottom-left-radius:20px;object-fit:cover;" srcset="/wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1.jpg 1200w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1-600x400.jpg 600w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1-300x200.jpg 300w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Fender-American-Ultra-II-HSS-Stratocaster-Reviews-1-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
 
 <p style="color:#ff3399; font-style:normal;font-weight:800;" class="field-guitar_rating_out_of_10 wp-elements-1dab0b1237c8080ce5a23970d601065d wp-block-acf-field-blocks-acf-text has-text-color has-x-small-font-size"><span class="prefix">Score: </span><span class="value">10</span><span class="suffix">/10</span></p></div>
 
@@ -560,7 +560,7 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-6c531013 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-5e466b7e9ab54d7caa8a90e07a114840 wp-block-post-title has-text-color has-main-color has-medium-font-size has-narrow-font-family"><a href="https://www.electrikjam.com/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" target="_self">Fender American Ultra II HSS Stratocaster Reviews: God&#8217;s Guitar&#8230;</a></h3></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-6c531013 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-5e466b7e9ab54d7caa8a90e07a114840 wp-block-post-title has-text-color has-main-color has-medium-font-size has-narrow-font-family"><a href="/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" target="_self">Fender American Ultra II HSS Stratocaster Reviews: God&#8217;s Guitar&#8230;</a></h3></div>
 
 
 <p class="field-the_electrikjam_verdict wp-block-acf-field-blocks-acf-text has-small-font-size"><span class="value">This is an expensive guitar that is built for professional or professional aspiring players. If you have your own recording studio setup, either in your bedroom or your garage or an actual building, and you need a do-it-all workhorse that can handle anything, this is the guitar you need.</span></p>
@@ -625,7 +625,7 @@ seo:
 <h3 class="rank-math-question "><strong>Which Strat should I buy for metal?</strong></h3>
 <div class="rank-math-answer ">
 
-<p>Look at models like the <strong><a href="https://www.electrikjam.com/fender-player-ii-stratocaster-vs-american-ultra-ii-stratocaster/" data-type="post" data-id="18262">Player Plus HSS or American Ultra HSS</a></strong> for the best blend of tone, versatility, and low noise.</p>
+<p>Look at models like the <strong><a href="/fender-player-ii-stratocaster-vs-american-ultra-ii-stratocaster/" data-type="post" data-id="18262">Player Plus HSS or American Ultra HSS</a></strong> for the best blend of tone, versatility, and low noise.</p>
 
 </div>
 </div>

@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Drop tunings –&nbsp;<strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="69676">like Drop D</a></strong> – make your guitar’s tuning lower (obviously) and this, in turn, makes the overall tone sound heavier which is why it is used predominantly by metal and rock bands. With Drop D, <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99327">your lowest string is tuned down</a> a whole step from E to D. The rest of the strings remain the same as normal.</p>
+<p>Drop tunings –&nbsp;<strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="69676">like Drop D</a></strong> – make your guitar’s tuning lower (obviously) and this, in turn, makes the overall tone sound heavier which is why it is used predominantly by metal and rock bands. With Drop D, <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99327">your lowest string is tuned down</a> a whole step from E to D. The rest of the strings remain the same as normal.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>With Drop D tuning, you lower the bottom string down a whole step, so you go from EADGEB to DADGBE. This change makes your guitar sound lower overall and it makes <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="84712">playing power chords A LOT easier</a>, as you can now play them with just one finger which makes playing faster riffs easier. This is why bands like Lamb of God use Drop D and Drop C.</p>
+<p>With Drop D tuning, you lower the bottom string down a whole step, so you go from EADGEB to DADGBE. This change makes your guitar sound lower overall and it makes <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="84712">playing power chords A LOT easier</a>, as you can now play them with just one finger which makes playing faster riffs easier. This is why bands like Lamb of God use Drop D and Drop C.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>Other bands that use Drop D tuning include the <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="69677">Melvins</a></strong> and <strong><a href="https://www.electrikjam.com/new-tool-album-release-date/" data-type="post" data-id="6381" data-lasso-id="69678">TOOL</a></strong>. Early Deftones from the <strong><a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-type="post" data-id="3419" data-lasso-id="69679">Around The Fur era was tuned down to Drop D#</a></strong> –&nbsp;so, down a step and a half –&nbsp;although it still sounds fine when turned to Drop D.</p>
+<p>Other bands that use Drop D tuning include the <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="69677">Melvins</a></strong> and <strong><a href="/new-tool-album-release-date/" data-type="post" data-id="6381" data-lasso-id="69678">TOOL</a></strong>. Early Deftones from the <strong><a href="/deftones-songs-in-drop-d-a-complete-list/" data-type="post" data-id="3419" data-lasso-id="69679">Around The Fur era was tuned down to Drop D#</a></strong> –&nbsp;so, down a step and a half –&nbsp;although it still sounds fine when turned to Drop D.</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p><strong>In order to tune down to Drop C, you <a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-lasso-id="86086">need to first tune your guitar to D Standard tuning</a> (DGCFAD) and then drop the bottom string down another whole step to C which gives you the following tuning: CGCFAD. </strong></p>
+<p><strong>In order to tune down to Drop C, you <a href="/bands-that-play-in-d-standard/" data-lasso-id="86086">need to first tune your guitar to D Standard tuning</a> (DGCFAD) and then drop the bottom string down another whole step to C which gives you the following tuning: CGCFAD. </strong></p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" data-lasso-id="69680">Drop C tuning</a></strong> sounds darker and heavier than Drop D tuning, so if you’re going for a particularly heavy sound, Drop C tuning could be just the tone you’ve been looking for. It will also be nice and low for your singer as well, so there’s less straining for them on the higher notes. <strong><a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" data-lasso-id="69681">Plenty of bands use Drop C tuning</a></strong> these days, including Lamb of God, High on Fire, Mastodon, Deftones, and Stoned Jesus.</p>
+<p><strong><a href="/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" data-lasso-id="69680">Drop C tuning</a></strong> sounds darker and heavier than Drop D tuning, so if you’re going for a particularly heavy sound, Drop C tuning could be just the tone you’ve been looking for. It will also be nice and low for your singer as well, so there’s less straining for them on the higher notes. <strong><a href="/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" data-lasso-id="69681">Plenty of bands use Drop C tuning</a></strong> these days, including Lamb of God, High on Fire, Mastodon, Deftones, and Stoned Jesus.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>My personal favorite strings for Drop C tuning (and lower) are <strong><a href="https://www.electrikjam.com/exl-117/" data-type="lasso-urls" data-id="4497" data-lasso-id="69682" rel="nofollow noopener" target="_blank" data-lasso-name="D&#039;Addario EXL117">D&#8217;Addario EXL117</a></strong>. They give your amazing tension and they hold up great, even if you thrash the crap outta them. If you’re playing metal, sludge, or doom, you’ll want to ensure you have the correct strings. And after 20+ years of playing, <strong><a href="https://www.electrikjam.com/exl-117/" data-type="lasso-urls" data-id="4497" data-lasso-id="69683" rel="nofollow noopener" target="_blank" data-lasso-name="D&#039;Addario EXL117">the D&#8217;Addario EXL117 are the ones I use most</a></strong>.</p>
+<p>My personal favorite strings for Drop C tuning (and lower) are <strong><a href="/exl-117/" data-type="lasso-urls" data-id="4497" data-lasso-id="69682" rel="nofollow noopener" target="_blank" data-lasso-name="D&#039;Addario EXL117">D&#8217;Addario EXL117</a></strong>. They give your amazing tension and they hold up great, even if you thrash the crap outta them. If you’re playing metal, sludge, or doom, you’ll want to ensure you have the correct strings. And after 20+ years of playing, <strong><a href="/exl-117/" data-type="lasso-urls" data-id="4497" data-lasso-id="69683" rel="nofollow noopener" target="_blank" data-lasso-name="D&#039;Addario EXL117">the D&#8217;Addario EXL117 are the ones I use most</a></strong>.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>There’s an endless debate that says ALL <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142228">new guitarists should learn in standard tuning</a>, not alternate tunings like Drop D and Drop C. I’m inclined to agree that new players should cut their teeth with standard tuning first because this will allow you to get a proper grasp of how the <a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-lasso-id="73653">guitar and its fretboard</a> works.</p>
+<p>There’s an endless debate that says ALL <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142228">new guitarists should learn in standard tuning</a>, not alternate tunings like Drop D and Drop C. I’m inclined to agree that new players should cut their teeth with standard tuning first because this will allow you to get a proper grasp of how the <a href="/guitar-fretboard-notes-learn/" data-lasso-id="73653">guitar and its fretboard</a> works.</p>
 
 
 
@@ -119,15 +119,15 @@ seo:
 
 
 
-<p>Most musical theory, at least on guitar, is focused on <a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221305">the guitar being set up with standard tuning</a>. Things like the CAGED system are done with standard tuning in mind. You’ll also be able to understand and play different types of scales <a href="https://www.electrikjam.com/jack-white-guitar-tuning/" data-lasso-id="120981">with your guitar in standard tuning</a>. For this reason, <strong>I would ALWAYS advise new guitarists to learn in standard.</strong></p>
+<p>Most musical theory, at least on guitar, is focused on <a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221305">the guitar being set up with standard tuning</a>. Things like the CAGED system are done with standard tuning in mind. You’ll also be able to understand and play different types of scales <a href="/jack-white-guitar-tuning/" data-lasso-id="120981">with your guitar in standard tuning</a>. For this reason, <strong>I would ALWAYS advise new guitarists to learn in standard.</strong></p>
 
 
 
-<p>As for whether it is easier to learn on an <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211328">electric guitar</a> versus and acoustic, this isn’t too important. An acoustic guitar is harder to play for obvious <a href="https://www.electrikjam.com/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225988">reasons</a> but I don’t have any issues with new players learning solely on an electric guitar. In fact, if you want to play rock and metal it is probably advantageous to learn on an electric from day one.</p>
+<p>As for whether it is easier to learn on an <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211328">electric guitar</a> versus and acoustic, this isn’t too important. An acoustic guitar is harder to play for obvious <a href="/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225988">reasons</a> but I don’t have any issues with new players learning solely on an electric guitar. In fact, if you want to play rock and metal it is probably advantageous to learn on an electric from day one.</p>
 
 
 
-<p>Just don’t go breaking the bank with your first guitar; there are tons of <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" data-lasso-id="69699">brilliant, affordable electric guitars</a></strong> available that are perfect for beginner guitarists. My current favorite would have to be the <strong><a data-lasso-id="69684" data-lasso-name="Squier Bullet Stratocaster HSS" href="https://www.electrikjam.com/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" target="_blank" rel="nofollow noopener">Squier Bullet Stratocaster with HSS pickups</a></strong> – it’s an absolute monster for the money.</p>
+<p>Just don’t go breaking the bank with your first guitar; there are tons of <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" data-lasso-id="69699">brilliant, affordable electric guitars</a></strong> available that are perfect for beginner guitarists. My current favorite would have to be the <strong><a data-lasso-id="69684" data-lasso-name="Squier Bullet Stratocaster HSS" href="/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" target="_blank" rel="nofollow noopener">Squier Bullet Stratocaster with HSS pickups</a></strong> – it’s an absolute monster for the money.</p>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<p>And don’t go thinking that you NEED to tune down to sound heavy. This just isn’t true. Plenty of bands use standard tuning and sound heavy as heck. <strong><a href="https://www.electrikjam.com/new-opeth-album-release-date/" data-type="post" data-id="6695" data-lasso-id="69685">99% of OPETH –&nbsp;both old and new –&nbsp;is in standard tuning</a></strong>. <a href="https://www.electrikjam.com/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104034">The Dillinger Escape Plan</a> is all in standard. And most of <strong><a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="69686">Metallica’s back catalog</a></strong> is in standard tuning too. Ditto Black Sabbath.</p>
+<p>And don’t go thinking that you NEED to tune down to sound heavy. This just isn’t true. Plenty of bands use standard tuning and sound heavy as heck. <strong><a href="/new-opeth-album-release-date/" data-type="post" data-id="6695" data-lasso-id="69685">99% of OPETH –&nbsp;both old and new –&nbsp;is in standard tuning</a></strong>. <a href="/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104034">The Dillinger Escape Plan</a> is all in standard. And most of <strong><a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" data-lasso-id="69686">Metallica’s back catalog</a></strong> is in standard tuning too. Ditto Black Sabbath.</p>
 
 
 

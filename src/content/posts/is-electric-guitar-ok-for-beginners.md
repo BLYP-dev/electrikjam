@@ -40,15 +40,15 @@ seo:
 
 
 
-<p>There is a weird myth going around that to play guitar, you should start out on an <a href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" target="_blank" data-type="post" data-id="10133" rel="noopener" data-lasso-id="211308"><strong>acoustic guitar</strong></a>. I have heard this myth since I first picked up a guitar in 1993! You often hear this from parents and instructors alike. But where does this myth come from, and how did it originate?</p>
+<p>There is a weird myth going around that to play guitar, you should start out on an <a href="/best-acoustic-guitars-for-metal/" target="_blank" data-type="post" data-id="10133" rel="noopener" data-lasso-id="211308"><strong>acoustic guitar</strong></a>. I have heard this myth since I first picked up a guitar in 1993! You often hear this from parents and instructors alike. But where does this myth come from, and how did it originate?</p>
 
 
 
-<p>Like most myths, it is rooted in some bit of truth. I give private lessons myself, and while most of my students have moved on to <a href="https://www.electrikjam.com/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217650">electric guitars</a>, some of the brand-new students have acoustic guitars. There are a few reasons why this happens, but if you are wondering is electric <a href="https://www.electrikjam.com/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211724">guitar ok for beginners</a>? <strong>The answer is yes, absolutely.</strong></p>
+<p>Like most myths, it is rooted in some bit of truth. I give private lessons myself, and while most of my students have moved on to <a href="/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217650">electric guitars</a>, some of the brand-new students have acoustic guitars. There are a few reasons why this happens, but if you are wondering is electric <a href="/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211724">guitar ok for beginners</a>? <strong>The answer is yes, absolutely.</strong></p>
 
 
 
-<p>But let&#8217;s look at why so many parents and instructors seem to <em>insist</em> on beginners starting with an acoustic guitar. Then, we will go over the best <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216536">electric guitars</a> for beginners, since there are a few caveats to take into consideration. We will quickly go over the very specific features you should look for when choosing a first <a href="https://www.electrikjam.com/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218269">electric guitar</a>.</p>
+<p>But let&#8217;s look at why so many parents and instructors seem to <em>insist</em> on beginners starting with an acoustic guitar. Then, we will go over the best <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216536">electric guitars</a> for beginners, since there are a few caveats to take into consideration. We will quickly go over the very specific features you should look for when choosing a first <a href="/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218269">electric guitar</a>.</p>
 
 
 
@@ -92,12 +92,12 @@ seo:
 
 
 
-<p>So is electric guitar OK for beginners? Yes, but it is a slightly higher<em> initial </em>investment, since you need an <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener" data-lasso-id="211309"><strong>amp</strong></a> and accessories like <a href="https://www.electrikjam.com/are-expensive-guitar-cables-worth-it-top-5-cables/" data-type="post" data-id="1742" target="_blank" rel="noopener" data-lasso-id="211310"><strong>cables</strong></a> to get started. But the reality is that <a href="https://www.electrikjam.com/is-learning-electric-guitar-hard/" data-lasso-id="215685">electric guitar is probably going to be <strong>easier to learn</a> on</strong>, when it comes to the basics. There are a few factors that go into this:</p>
+<p>So is electric guitar OK for beginners? Yes, but it is a slightly higher<em> initial </em>investment, since you need an <a href="/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener" data-lasso-id="211309"><strong>amp</strong></a> and accessories like <a href="/are-expensive-guitar-cables-worth-it-top-5-cables/" data-type="post" data-id="1742" target="_blank" rel="noopener" data-lasso-id="211310"><strong>cables</strong></a> to get started. But the reality is that <a href="/is-learning-electric-guitar-hard/" data-lasso-id="215685">electric guitar is probably going to be <strong>easier to learn</a> on</strong>, when it comes to the basics. There are a few factors that go into this:</p>
 
 
 
 <ul class="wp-block-list">
-<li><a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" data-lasso-id="215701"><strong>Electric guitars</a> have slimmer necks that are easier to play</strong> <strong>(Even for small hands)</strong>.</li>
+<li><a href="/what-is-the-best-electric-guitar-brand/" data-lasso-id="215701"><strong>Electric guitars</a> have slimmer necks that are easier to play</strong> <strong>(Even for small hands)</strong>.</li>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<p>Acoustic guitars have a shorter <a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="211311"><strong>scale length</strong></a>, but a higher string tension. This means that it is harder to press the strings down, and fret a note. Electric guitars are made to have a longer scale length, but it is easier to fret a note. For a first-time beginner, this can be a night and day difference!</p>
+<p>Acoustic guitars have a shorter <a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="211311"><strong>scale length</strong></a>, but a higher string tension. This means that it is harder to press the strings down, and fret a note. Electric guitars are made to have a longer scale length, but it is easier to fret a note. For a first-time beginner, this can be a night and day difference!</p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<li><strong>Look for a guitar that is aimed at beginners, we have a list <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" target="_blank" rel="noopener" data-lasso-id="211312">HERE</a>.</strong></li>
+<li><strong>Look for a guitar that is aimed at beginners, we have a list <a href="/best-guitar-for-beginners/" data-type="post" data-id="505" target="_blank" rel="noopener" data-lasso-id="211312">HERE</a>.</strong></li>
 
 
 
@@ -155,16 +155,16 @@ seo:
 
 
 
-<li><strong>Make sure you get a <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246506">&#8220;fixed bridge&#8221; guitar</a> (more below)</strong>.</li>
+<li><strong>Make sure you get a <a href="/parts-of-an-electric-guitar/" data-lasso-id="246506">&#8220;fixed bridge&#8221; guitar</a> (more below)</strong>.</li>
 </ul>
 
 
 
-<p>It can be very tempting to buy something online with a super low price tag. But<em> you get what you pay for</em>, and you should stay away from the cheap &#8220;imitation&#8221; guitars. Sticking to a brand name will yield the best results for beginner guitarists. Brands like <a data-lasso-id="211313" href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener"><strong>Epiphone</strong></a> and <strong><a data-lasso-id="211314" href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" target="_blank" rel="noopener">Squier</a></strong> have some great &#8220;Starter Packs&#8221; that come with <em>everything you need</em>. Is Electric guitar ok for beginners? A <em>decent one</em> is, yes!</p>
+<p>It can be very tempting to buy something online with a super low price tag. But<em> you get what you pay for</em>, and you should stay away from the cheap &#8220;imitation&#8221; guitars. Sticking to a brand name will yield the best results for beginner guitarists. Brands like <a data-lasso-id="211313" href="/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener"><strong>Epiphone</strong></a> and <strong><a data-lasso-id="211314" href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" target="_blank" rel="noopener">Squier</a></strong> have some great &#8220;Starter Packs&#8221; that come with <em>everything you need</em>. Is Electric guitar ok for beginners? A <em>decent one</em> is, yes!</p>
 
 
 
-<p>When we mention a &#8220;fixed bridge&#8221; this is just a suggestion, but it will be much easier for beginners. A fixed bridge guitar does not have a &#8220;whammy bar&#8221;. These are called <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="211315"><strong>Tremolo Systems</strong></a>, and they are better avoided when it comes to a beginner guitar since they require<em> a lot</em> of maintenance. A &#8220;fixed bridge guitar&#8221; will be overall easier for new guitarists. Below are some of our resources for beginner electric guitars that we have tested personally.</p>
+<p>When we mention a &#8220;fixed bridge&#8221; this is just a suggestion, but it will be much easier for beginners. A fixed bridge guitar does not have a &#8220;whammy bar&#8221;. These are called <a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="211315"><strong>Tremolo Systems</strong></a>, and they are better avoided when it comes to a beginner guitar since they require<em> a lot</em> of maintenance. A &#8220;fixed bridge guitar&#8221; will be overall easier for new guitarists. Below are some of our resources for beginner electric guitars that we have tested personally.</p>
 
 
 
@@ -173,15 +173,15 @@ seo:
 
 
 <ol class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="211316">The Best Beginner Electric Guitars: Our #1 Picks</a></strong></li>
+<li><strong><a href="/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="211316">The Best Beginner Electric Guitars: Our #1 Picks</a></strong></li>
 
 
 
-<li><a href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="211317"><strong>Our Favorite Beginner Electric Model</strong></a></li>
+<li><a href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="211317"><strong>Our Favorite Beginner Electric Model</strong></a></li>
 
 
 
-<li><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="211318"><strong>The Best Budget Guitars You Can Buy</strong></a></li>
+<li><a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="211318"><strong>The Best Budget Guitars You Can Buy</strong></a></li>
 </ol>
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212781">Electric guitar is a great way to start your journey with guitar playing</a>. They can be much easier than acoustic guitars, especially for people with smaller hands. Many of my personal students <em>prefer</em> an electric guitar to start out with, and there is <em>nothing</em> wrong with that! They are just <em>easier to play</em> for beginners of all ages, and easier to <em>maintain</em>!</p>
+<p><a href="/do-you-need-an-amp-to-play-electric-guitar/" data-lasso-id="212781">Electric guitar is a great way to start your journey with guitar playing</a>. They can be much easier than acoustic guitars, especially for people with smaller hands. Many of my personal students <em>prefer</em> an electric guitar to start out with, and there is <em>nothing</em> wrong with that! They are just <em>easier to play</em> for beginners of all ages, and easier to <em>maintain</em>!</p>
 
 
 

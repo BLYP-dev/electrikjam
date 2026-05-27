@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>So you&#8217;re into Pallbearer, huh? That <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="259698">doom metal</a></strong> sound with the melodic riffs and haunting vocals that just send shivers down your spine. </p>
+<p>So you&#8217;re into Pallbearer, huh? That <strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="259698">doom metal</a></strong> sound with the melodic riffs and haunting vocals that just send shivers down your spine. </p>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<li><strong>Live Experience:</strong> <strong><a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="259699">YOB&#8217;s performances are immersive rituals</a></strong>, where each note and chord is felt viscerally, making their concerts unforgettable spiritual gatherings.</li>
+<li><strong>Live Experience:</strong> <strong><a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="259699">YOB&#8217;s performances are immersive rituals</a></strong>, where each note and chord is felt viscerally, making their concerts unforgettable spiritual gatherings.</li>
 </ul>
 
 

@@ -72,7 +72,7 @@ seo:
 
 
 
-<p>FRFR speakers, <strong>or <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="218929">Full Range Flat Response speakers</a></strong>, have become increasingly popular among musicians in recent years.</p>
+<p>FRFR speakers, <strong>or <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="218929">Full Range Flat Response speakers</a></strong>, have become increasingly popular among musicians in recent years.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>You&#8217;ll need to know <strong><a data-lasso-id="218923" href="https://www.electrikjam.com/frfr-speaker-impedance-explained-understanding-the-basics/">what kind of speaker impedance you want</a></strong> but once you know this choosing an FRFR speaker is a breeze. </p>
+<p>You&#8217;ll need to know <strong><a data-lasso-id="218923" href="/frfr-speaker-impedance-explained-understanding-the-basics/">what kind of speaker impedance you want</a></strong> but once you know this choosing an FRFR speaker is a breeze. </p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>Plus, there&#8217;s <strong><a data-lasso-id="218924" href="https://www.electrikjam.com/best-frfr-speaker/">loads of great and affordable FRFR speakers</a></strong> available right now. </p>
+<p>Plus, there&#8217;s <strong><a data-lasso-id="218924" href="/best-frfr-speaker/">loads of great and affordable FRFR speakers</a></strong> available right now. </p>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<p>And here&#8217;s a list of the three <strong><a href="https://www.electrikjam.com/best-frfr-speaker/" data-lasso-id="218925">best FRFR speakers you can buy right now.</a></strong> </p>
+<p>And here&#8217;s a list of the three <strong><a href="/best-frfr-speaker/" data-lasso-id="218925">best FRFR speakers you can buy right now.</a></strong> </p>
 
 
 

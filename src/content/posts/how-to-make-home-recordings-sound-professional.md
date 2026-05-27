@@ -68,15 +68,15 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265186"><img decoding="async" src="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide-642x1024.png" alt="ELECTRIKJAM Mastering 101 The Complete Beginner&#039;s Guide" class="wp-image-14681" title=""></a></figure>
+<figure class="wp-block-image aligncenter size-large"><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265186"><img decoding="async" src="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide-642x1024.png" alt="ELECTRIKJAM Mastering 101 The Complete Beginner&#039;s Guide" class="wp-image-14681" title=""></a></figure>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/audio-mastering/" data-type="post" data-id="14779" data-lasso-id="265187">Mastering is the secret-sauce</a></strong> that takes home-recorded music from sounding like, well… home recorded music to professional-grade, major record label-style quality. </p>
+<p><strong><a href="/audio-mastering/" data-type="post" data-id="14779" data-lasso-id="265187">Mastering is the secret-sauce</a></strong> that takes home-recorded music from sounding like, well… home recorded music to professional-grade, major record label-style quality. </p>
 
 
 
-<p>I know this because I am a professional mastering engineer. I’ve done it for 20+ years and my <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265188">Mastering 101 Framework</a></strong> is a template that literally ANYONE can follow – the entire process is laid out, step by step. </p>
+<p>I know this because I am a professional mastering engineer. I’ve done it for 20+ years and my <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265188">Mastering 101 Framework</a></strong> is a template that literally ANYONE can follow – the entire process is laid out, step by step. </p>
 
 
 
@@ -170,9 +170,9 @@ seo:
 
 
 
-<p>Then it&#8217;s time to invest in yourself and your music with our <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265190">Mastering 101 Framework</a></strong>. This ain&#8217;t your average &#8220;how-to&#8221; guide – this is the real deal, straight from a pro who&#8217;s been in the trenches.</p>
+<p>Then it&#8217;s time to invest in yourself and your music with our <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265190">Mastering 101 Framework</a></strong>. This ain&#8217;t your average &#8220;how-to&#8221; guide – this is the real deal, straight from a pro who&#8217;s been in the trenches.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265191">Head over to our store and grab your copy now</a></strong>. Your future fans (and your eardrums) will thank you. Let&#8217;s make some music magic together!</p>
+<p><strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265191">Head over to our store and grab your copy now</a></strong>. Your future fans (and your eardrums) will thank you. Let&#8217;s make some music magic together!</p>
 

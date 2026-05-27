@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>Even the great Billy Gibbons has disdain for this hard-to-play barre chord, calling it a “pain in the ass”, and while there are <strong><a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-type="post" data-id="6946" data-lasso-id="270314">other (easier ways) to play the F Chord</a></strong>, perseverance pays dividends.</p>
+<p>Even the great Billy Gibbons has disdain for this hard-to-play barre chord, calling it a “pain in the ass”, and while there are <strong><a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-type="post" data-id="6946" data-lasso-id="270314">other (easier ways) to play the F Chord</a></strong>, perseverance pays dividends.</p>
 
 
 

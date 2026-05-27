@@ -185,7 +185,7 @@ seo:
 
 
 
-<p>I’m the same with TOOL, Slipknot, Deftones, OPETH, <a data-lasso-id="17574" href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/">Metallica</a>. But I do know that every band, <a data-lasso-id="195395" href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/">like Ghost</a>, for instance, has the potential to completely outdo its previous best efforts. </p>
+<p>I’m the same with TOOL, Slipknot, Deftones, OPETH, <a data-lasso-id="17574" href="/new-metallica-album-release-date-new-songs-update/">Metallica</a>. But I do know that every band, <a data-lasso-id="195395" href="/13-ghost-the-band-facts-you-probably-didnt-know/">like Ghost</a>, for instance, has the potential to completely outdo its previous best efforts. </p>
 
 
 
@@ -209,11 +209,11 @@ seo:
 
 
 
-<p>Troy has gone from what can best be described as a low-end growler to one of the most unique-sounding metal and/or rock vocalists working today. His range has tripled, seemingly, and the overall effect of this adds a dynamic to <strong>Hushed and Grim</strong> that hasn’t been present on any of the band’s earlier albums. I would have loved to hear more from <strong><a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="14321">Brent Hinds</a></strong> on the vocal front, but I think he has stepped back to focus on his guitar playing. And that’s cool; his solo work on <strong>Hushed and Grim</strong> is frankly ridiculous.</p>
+<p>Troy has gone from what can best be described as a low-end growler to one of the most unique-sounding metal and/or rock vocalists working today. His range has tripled, seemingly, and the overall effect of this adds a dynamic to <strong>Hushed and Grim</strong> that hasn’t been present on any of the band’s earlier albums. I would have loved to hear more from <strong><a href="/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="14321">Brent Hinds</a></strong> on the vocal front, but I think he has stepped back to focus on his guitar playing. And that’s cool; his solo work on <strong>Hushed and Grim</strong> is frankly ridiculous.</p>
 
 
 
-<p>All of the guys sound like they’re playing for their lives on this record. It has an urgency that, for me personally, just hasn’t been present on anything <strong>post-Blood Mountain</strong>. The record is heavy, yes, and it is technical. But it could also be described as some of Mastodon’s most accessible work to date. There are soaring choruses left, right, and center, catchy riffs and licks, and <a href="https://www.electrikjam.com/mastodon-hushed-and-grim-lyrics/" data-lasso-id="15525">great lyrics on nearly all the tracks</a>.</p>
+<p>All of the guys sound like they’re playing for their lives on this record. It has an urgency that, for me personally, just hasn’t been present on anything <strong>post-Blood Mountain</strong>. The record is heavy, yes, and it is technical. But it could also be described as some of Mastodon’s most accessible work to date. There are soaring choruses left, right, and center, catchy riffs and licks, and <a href="/mastodon-hushed-and-grim-lyrics/" data-lasso-id="15525">great lyrics on nearly all the tracks</a>.</p>
 
 
 
@@ -221,7 +221,7 @@ seo:
 
 
 
-<p>I actually enjoyed every track on this album. I didn&#8217;t think any sounded like filler. Each track stands on its own. And that is an impressive feat on a double album that spans 90 minutes. A couple of my favorite tracks, however, would be <strong><a data-lasso-id="15527" href="https://www.electrikjam.com/mastodon-hushed-and-grim-lyrics/" data-type="post" data-id="5485">Pain With An Anchor, The Crux, Gigantium, Savage Lands, Had It All and Pushing The Tides</a></strong>. </p>
+<p>I actually enjoyed every track on this album. I didn&#8217;t think any sounded like filler. Each track stands on its own. And that is an impressive feat on a double album that spans 90 minutes. A couple of my favorite tracks, however, would be <strong><a data-lasso-id="15527" href="/mastodon-hushed-and-grim-lyrics/" data-type="post" data-id="5485">Pain With An Anchor, The Crux, Gigantium, Savage Lands, Had It All and Pushing The Tides</a></strong>. </p>
 
 
 
@@ -241,7 +241,7 @@ seo:
 
 
 
-<p>The record is ballsy as hell. Whereas a lot of Mastodon’s work has been heavily reliant on <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="14322">guitars</a>, this record ditches guitar almost completely in some tracks and instead uses vocal melodies to lead the way. The guitars are there, of course, but they’re used for texture, not the thing that leads and moves the song forward. And this is a first for Mastodon.</p>
+<p>The record is ballsy as hell. Whereas a lot of Mastodon’s work has been heavily reliant on <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="14322">guitars</a>, this record ditches guitar almost completely in some tracks and instead uses vocal melodies to lead the way. The guitars are there, of course, but they’re used for texture, not the thing that leads and moves the song forward. And this is a first for Mastodon.</p>
 
 
 
@@ -281,7 +281,7 @@ seo:
 
 
 
-<p>Check out <strong><a data-lasso-id="15528" href="https://www.electrikjam.com/mastodon-hushed-and-grim-lyrics/" data-type="post" data-id="5485">ALL the lyrics to Hushed and Grim</a></strong> here. And this awesome post on <strong><a data-lasso-id="216613" href="https://www.electrikjam.com/how-to-sound-like-mastodon/">how to sound like Mastodon (without breaking the bank). </a></strong></p>
+<p>Check out <strong><a data-lasso-id="15528" href="/mastodon-hushed-and-grim-lyrics/" data-type="post" data-id="5485">ALL the lyrics to Hushed and Grim</a></strong> here. And this awesome post on <strong><a data-lasso-id="216613" href="/how-to-sound-like-mastodon/">how to sound like Mastodon (without breaking the bank). </a></strong></p>
 
 
 
@@ -384,7 +384,7 @@ seo:
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>After over twenty years of working together, Mastodon know each other inside out and Producer David Bottrill (<a href="https://www.electrikjam.com/new-tool-album-release-date/" data-lasso-id="44149">Tool</a>, King Crimson) really lets this shine through. Whether its the vocal performances, Dailor hitting the powerful higher notes while Sanders and Brent Hinds respond with their own specific type of gravel, the octopoid drumming, the beautifully fluid guitar solos or how Bill Kelliher makes even the trickiest of riffs seem effortless, each musician is able to bring their unique personality to the table no matter what form each particular song might take.</strong></p>
+<p><strong>After over twenty years of working together, Mastodon know each other inside out and Producer David Bottrill (<a href="/new-tool-album-release-date/" data-lasso-id="44149">Tool</a>, King Crimson) really lets this shine through. Whether its the vocal performances, Dailor hitting the powerful higher notes while Sanders and Brent Hinds respond with their own specific type of gravel, the octopoid drumming, the beautifully fluid guitar solos or how Bill Kelliher makes even the trickiest of riffs seem effortless, each musician is able to bring their unique personality to the table no matter what form each particular song might take.</strong></p>
 
 
 
@@ -495,7 +495,7 @@ seo:
 
 
 
-<p>Me? I think it is the band&#8217;s best work since Crack The Skye. A fine return to form. I cannot wait to see what Mastodon have in store for us next. Spoiler alert: <strong><a href="https://www.electrikjam.com/new-mastodon-album/" data-type="post" data-id="10681" data-lasso-id="264341">Bill Kelliher says it is going to be A LOT HEAVIER. </a></strong></p>
+<p>Me? I think it is the band&#8217;s best work since Crack The Skye. A fine return to form. I cannot wait to see what Mastodon have in store for us next. Spoiler alert: <strong><a href="/new-mastodon-album/" data-type="post" data-id="10681" data-lasso-id="264341">Bill Kelliher says it is going to be A LOT HEAVIER. </a></strong></p>
 
 
 

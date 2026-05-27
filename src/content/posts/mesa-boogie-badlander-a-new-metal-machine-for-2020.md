@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>This is a completely <strong>new</strong> design to add to the Rectifier line, made popular by so many Metal musicians over the years. Mesa Boogie has a huge reputation in the Metal Community. Bands like <strong>Korn</strong>, <a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-lasso-id="440">Metallica</a>, and countless others have made Mesa Boogie the staple of their crushing, brutal tone. So what is the Mesa Boogie Badlander all about?</p>
+<p>This is a completely <strong>new</strong> design to add to the Rectifier line, made popular by so many Metal musicians over the years. Mesa Boogie has a huge reputation in the Metal Community. Bands like <strong>Korn</strong>, <a href="/metallica-guitar-tunings-over-the-years/" data-lasso-id="440">Metallica</a>, and countless others have made Mesa Boogie the staple of their crushing, brutal tone. So what is the Mesa Boogie Badlander all about?</p>
 
 
 
@@ -76,11 +76,11 @@ seo:
 
 
 
-<p>It could be easy to dismiss the Mesa Boogie Badlander as just another <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5820">Rectifier-style amp</a> that is capitalizing off the original design. Let&#8217;s be fair&#8230;Mesa<em> does do this</em> to us! But that definitely doesn&#8217;t seem the case, this time. In fact, it reminds me of the <strong>much more </strong>expensive <a href="https://www.electrikjam.com/revv-generator-mk-iii-features-price-release-date/" class="rank-math-link" data-lasso-id="441">REVV Generator we discussed last week</a>!</p>
+<p>It could be easy to dismiss the Mesa Boogie Badlander as just another <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5820">Rectifier-style amp</a> that is capitalizing off the original design. Let&#8217;s be fair&#8230;Mesa<em> does do this</em> to us! But that definitely doesn&#8217;t seem the case, this time. In fact, it reminds me of the <strong>much more </strong>expensive <a href="/revv-generator-mk-iii-features-price-release-date/" class="rank-math-link" data-lasso-id="441">REVV Generator we discussed last week</a>!</p>
 
 
 
-<p>While it may not have a Two Note Torpedo built into the output, The Mesa Boogie Badlander DOES have a <a href="https://www.mesaboogie.com/cabinets--simulators/guitar-cabinets--simulators/guitar-cabinet-simulator/cabclone-ir.html" class="rank-math-link" data-lasso-id="442" target="_blank" rel="noopener noreferrer nofollow">CabClone IR system </a>built in. This is Mesa&#8217;s own system that recreates 12-14 of the <a href="https://www.electrikjam.com/best-selling-guitars/" data-lasso-id="19194">most popular</a> cabinets made by Mesa over the years. Each channel is totally independent, and can have a different Cab Sim loaded on each one.</p>
+<p>While it may not have a Two Note Torpedo built into the output, The Mesa Boogie Badlander DOES have a <a href="https://www.mesaboogie.com/cabinets--simulators/guitar-cabinets--simulators/guitar-cabinet-simulator/cabclone-ir.html" class="rank-math-link" data-lasso-id="442" target="_blank" rel="noopener noreferrer nofollow">CabClone IR system </a>built in. This is Mesa&#8217;s own system that recreates 12-14 of the <a href="/best-selling-guitars/" data-lasso-id="19194">most popular</a> cabinets made by Mesa over the years. Each channel is totally independent, and can have a different Cab Sim loaded on each one.</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>If you were playing a gig, and wanted to use the Mesa Boogie Badlander without a cab, you could use one of the many cabinet IR sims and send your signal to the front mixing board. This could seriously lighten your load when it comes to your live <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-lasso-id="142275">guitar rig</a>!</p>
+<p>If you were playing a gig, and wanted to use the Mesa Boogie Badlander without a cab, you could use one of the many cabinet IR sims and send your signal to the front mixing board. This could seriously lighten your load when it comes to your live <a href="/gigging-on-a-budget/" data-lasso-id="142275">guitar rig</a>!</p>
 
 
 
@@ -112,11 +112,11 @@ seo:
 
 
 
-<p>I can&#8217;t help but think the influx of these &#8220;hybrid&#8221; amps is a response to the all of the <a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" class="rank-math-link" data-lasso-id="443">amp modelers</a> that have taken over the guitar <em>universe</em> over the past decade. Or even to a point, Amp Sims on <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="444">your computer&#8217;s DAW</a>. Real amplifiers have been mostly replaced.</p>
+<p>I can&#8217;t help but think the influx of these &#8220;hybrid&#8221; amps is a response to the all of the <a href="/mooer-ge150-vs-zoom-a1x/" class="rank-math-link" data-lasso-id="443">amp modelers</a> that have taken over the guitar <em>universe</em> over the past decade. Or even to a point, Amp Sims on <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="444">your computer&#8217;s DAW</a>. Real amplifiers have been mostly replaced.</p>
 
 
 
-<p>While &#8220;real&#8221; tube amps remained large and cumbersome, <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4477">AxeFX, Line 6 and Kemper</a> were small and compact. Modeling tech has come so far, that many professionals have even swapped to a modeler. Big name bands are choosing AxeFX over a traditional amplifier while touring.</p>
+<p>While &#8220;real&#8221; tube amps remained large and cumbersome, <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4477">AxeFX, Line 6 and Kemper</a> were small and compact. Modeling tech has come so far, that many professionals have even swapped to a modeler. Big name bands are choosing AxeFX over a traditional amplifier while touring.</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p>It is very nice to see these <a href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/" data-lasso-id="445">&#8220;crossover&#8221; amps coming out</a>, and making it easier to use tube amps again, regardless of your setting. It looks like <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2520">amp manufacturers are fighting back against the Helix</a>, and Kemper. But is the new tech enough?</p>
+<p>It is very nice to see these <a href="/the-best-guitar-amps-under-100-bucks/" data-lasso-id="445">&#8220;crossover&#8221; amps coming out</a>, and making it easier to use tube amps again, regardless of your setting. It looks like <a href="/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2520">amp manufacturers are fighting back against the Helix</a>, and Kemper. But is the new tech enough?</p>
 
 
 

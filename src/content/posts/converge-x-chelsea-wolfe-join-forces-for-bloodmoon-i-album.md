@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>Converge has been pumping out <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="8208">amazing albums</a></strong> back to back since the beginning of the 1990s. They’re one of the hardest working, most uncompromising, and constant bands working today.</p>
+<p>Converge has been pumping out <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="8208">amazing albums</a></strong> back to back since the beginning of the 1990s. They’re one of the hardest working, most uncompromising, and constant bands working today.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>As always, the new album was produced by Converge’s <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="8211">Kurt Ballou</a></strong>, a producer that needs ZERO introduction. Having worked with all kinds of artists in the past couple of decades, Kurt is a legend in the metal scene. He produced all of Converge’s albums to date and his work is usually instantly recognizable: it sounds huge, organic, and very alive.</p>
+<p>As always, the new album was produced by Converge’s <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="8211">Kurt Ballou</a></strong>, a producer that needs ZERO introduction. Having worked with all kinds of artists in the past couple of decades, Kurt is a legend in the metal scene. He produced all of Converge’s albums to date and his work is usually instantly recognizable: it sounds huge, organic, and very alive.</p>
 
 
 
@@ -121,7 +121,7 @@ seo:
 
 
 
-<p>In fact, I think this is one of the albums I’m looking forward to most this year. And, yes, I do know that <a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-lasso-id="9126">Mastodon</a> is about to release a new album too.</p>
+<p>In fact, I think this is one of the albums I’m looking forward to most this year. And, yes, I do know that <a href="/what-guitars-do-mastodon-use/" data-lasso-id="9126">Mastodon</a> is about to release a new album too.</p>
 
 
 

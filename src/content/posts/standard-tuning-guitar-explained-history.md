@@ -137,7 +137,7 @@ seo:
 
 
 
-<p>Since way back when, guitars –&nbsp;both acoustic and electric – are played, for the most part, in Standard Tuning, so EADGBE. The reason? It’s comfortable to play, <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251765">it lets players use familiar patterns up and down the neck, and it is easy to play open chords</a>.</p>
+<p>Since way back when, guitars –&nbsp;both acoustic and electric – are played, for the most part, in Standard Tuning, so EADGBE. The reason? It’s comfortable to play, <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251765">it lets players use familiar patterns up and down the neck, and it is easy to play open chords</a>.</p>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong>Simplicity</strong>: Standard tuning is relatively easy to learn and understand. The intervals between the strings are mostly perfect fourths (except for the major third between the G and B strings), which creates a simple, consistent pattern. This makes it easier for beginners to learn <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246465">the guitar and for experienced players to navigate the fretboard</a>.</li>
+<li><strong>Simplicity</strong>: Standard tuning is relatively easy to learn and understand. The intervals between the strings are mostly perfect fourths (except for the major third between the G and B strings), which creates a simple, consistent pattern. This makes it easier for beginners to learn <a href="/parts-of-an-electric-guitar/" data-lasso-id="246465">the guitar and for experienced players to navigate the fretboard</a>.</li>
 
 
 
@@ -193,15 +193,15 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="221297">Josh Homme of Queens of The Stone Age</a></strong> and KYUSS has been rocking in C Standard since day one. It’s part of his guitar sound and it is one of the main reasons why nearly all stoner rock bands tune down to either D Standard or C Standard.</p>
+<p><strong><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="221297">Josh Homme of Queens of The Stone Age</a></strong> and KYUSS has been rocking in C Standard since day one. It’s part of his guitar sound and it is one of the main reasons why nearly all stoner rock bands tune down to either D Standard or C Standard.</p>
 
 
 
-<p>Hendrix liked to tune down half a step too, although was done because he liked to play Fender Strats and <strong><a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-type="post" data-id="10787" data-lasso-id="221298">Strats work better when tuned down half a step</a></strong> (no, really – it’s actually pretty interesting why they do as well).</p>
+<p>Hendrix liked to tune down half a step too, although was done because he liked to play Fender Strats and <strong><a href="/why-did-hendrix-play-in-e-flat-tuning/" data-type="post" data-id="10787" data-lasso-id="221298">Strats work better when tuned down half a step</a></strong> (no, really – it’s actually pretty interesting why they do as well).</p>
 
 
 
-<p>Similarly, <strong><a data-lasso-id="221299" href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048">Jimmy Page experimented with a myriad of guitar tunings</a></strong> during his time with Led Zeppelin. Moving from Standard <a data-lasso-id="237986" href="https://www.electrikjam.com/a-beginners-guide-to-dadgad-tuning/">Tuning to DADGAD</a> to really obscure ones that I wouldn’t even know where to begin with…</p>
+<p>Similarly, <strong><a data-lasso-id="221299" href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048">Jimmy Page experimented with a myriad of guitar tunings</a></strong> during his time with Led Zeppelin. Moving from Standard <a data-lasso-id="237986" href="/a-beginners-guide-to-dadgad-tuning/">Tuning to DADGAD</a> to really obscure ones that I wouldn’t even know where to begin with…</p>
 
 
 
@@ -217,7 +217,7 @@ seo:
 
 
 
-<p>But even with lower, alternative tunings like C Standard and D Standard, the same principles that Standard Tuning is based on apply, meaning all the patterns and chord shapes remain the same (although the notes and chords will be different), so you can take what you learned in Standard Tuning and use it in <strong>C Standard</strong> and <strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="221300">D Standard</a></strong>.</p>
+<p>But even with lower, alternative tunings like C Standard and D Standard, the same principles that Standard Tuning is based on apply, meaning all the patterns and chord shapes remain the same (although the notes and chords will be different), so you can take what you learned in Standard Tuning and use it in <strong>C Standard</strong> and <strong><a href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="221300">D Standard</a></strong>.</p>
 
 
 
@@ -225,7 +225,7 @@ seo:
 
 
 
-<p>This is why some metal bands, say, Mastodon, tend to <strong><a href="https://www.electrikjam.com/bands-that-play-in-d-standard/" data-type="post" data-id="7040" data-lasso-id="221301">prefer to play in D Standard</a></strong> instead of Standard Tuning. And others, like YOB, go even lower with B Standard. You also have drop tunings to consider too, like <strong>Drop D, Drop C, and Drop B, and Drop A</strong>.</p>
+<p>This is why some metal bands, say, Mastodon, tend to <strong><a href="/bands-that-play-in-d-standard/" data-type="post" data-id="7040" data-lasso-id="221301">prefer to play in D Standard</a></strong> instead of Standard Tuning. And others, like YOB, go even lower with B Standard. You also have drop tunings to consider too, like <strong>Drop D, Drop C, and Drop B, and Drop A</strong>.</p>
 
 
 

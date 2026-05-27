@@ -66,11 +66,11 @@ seo:
 
 
 
-<p>These amps are made especially for guitar, and the 50 watt variant is meant for the stage. These are a great budget option for guitarists that want an affordable solid-state amp, but without all of the added features and <strong><a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" target="_blank" data-type="post" data-id="8477" rel="noopener" data-lasso-id="231144">effects of the Katana</a></strong> or <strong><a data-lasso-id="230657" href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener">Line 6 Catalyst</a></strong>. GAMMA is <strong>totally analog</strong>, which is rare these days.</p>
+<p>These amps are made especially for guitar, and the 50 watt variant is meant for the stage. These are a great budget option for guitarists that want an affordable solid-state amp, but without all of the added features and <strong><a href="/recording-with-the-boss-katana-explained/" target="_blank" data-type="post" data-id="8477" rel="noopener" data-lasso-id="231144">effects of the Katana</a></strong> or <strong><a data-lasso-id="230657" href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener">Line 6 Catalyst</a></strong>. GAMMA is <strong>totally analog</strong>, which is rare these days.</p>
 
 
 
-<p>Unlike<strong><a data-lasso-id="230658" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"> something like the BOSS Katana</a></strong>, there are no USB ports or updates with the GAMMA Amp series. The Gamma Series is simple, offering you plenty of power with an amazing &#8220;True Blue&#8221; speaker. Acoustic realizes that <strong><a data-lasso-id="230659" href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener">most of the tone from your amp relies on the speaker</a></strong>, so that is where the design really shines.</p>
+<p>Unlike<strong><a data-lasso-id="230658" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"> something like the BOSS Katana</a></strong>, there are no USB ports or updates with the GAMMA Amp series. The Gamma Series is simple, offering you plenty of power with an amazing &#8220;True Blue&#8221; speaker. Acoustic realizes that <strong><a data-lasso-id="230659" href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener">most of the tone from your amp relies on the speaker</a></strong>, so that is where the design really shines.</p>
 
 
 
@@ -114,11 +114,11 @@ seo:
 
 
 
-<p>I can really appreciate simplicity these days. While I think <strong><a href="https://www.electrikjam.com/line-6-guide/" data-type="post" data-id="9935" target="_blank" rel="noopener" data-lasso-id="230660">gadgets like the Line 6 Helix </a></strong>are great, and can be valuable studio tools, sometimes it is nice to just have a few great sounding pedals and an amplifier. We recently talked about <strong><a href="https://www.electrikjam.com/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-type="post" data-id="11344" target="_blank" rel="noopener" data-lasso-id="230661">how there is some intangible, mystical appeal to analog gear</a></strong>, and clearly there is some truth to that.</p>
+<p>I can really appreciate simplicity these days. While I think <strong><a href="/line-6-guide/" data-type="post" data-id="9935" target="_blank" rel="noopener" data-lasso-id="230660">gadgets like the Line 6 Helix </a></strong>are great, and can be valuable studio tools, sometimes it is nice to just have a few great sounding pedals and an amplifier. We recently talked about <strong><a href="/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-type="post" data-id="11344" target="_blank" rel="noopener" data-lasso-id="230661">how there is some intangible, mystical appeal to analog gear</a></strong>, and clearly there is some truth to that.</p>
 
 
 
-<p>Don&#8217;t get me wrong, I like just about <em>any </em>tool that can be used to get guitar tones. If a pedal does it for me in the moment, then so be it. The same can be said when it comes to amp sims, and even &#8220;capturing&#8221; <strong><a data-lasso-id="230662" href="https://www.electrikjam.com/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener">gear like the Neural Amp Modeler</a></strong>. I will use just about <em>anything </em>to get the sound I hear in my head.</p>
+<p>Don&#8217;t get me wrong, I like just about <em>any </em>tool that can be used to get guitar tones. If a pedal does it for me in the moment, then so be it. The same can be said when it comes to amp sims, and even &#8220;capturing&#8221; <strong><a data-lasso-id="230662" href="/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener">gear like the Neural Amp Modeler</a></strong>. I will use just about <em>anything </em>to get the sound I hear in my head.</p>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<p>If you have the <strong><a href="https://www.electrikjam.com/gamma-g50-amplifier-review/" data-lasso-id="232768">GAMMA G25</strong> or <strong>G50 </strong>amplifier</a>, then you know that those amps are built for being a perfect pedal platform. Finally, we have simple and affordable pedals that are meant to work well with the GAMMA amplifiers! </p>
+<p>If you have the <strong><a href="/gamma-g50-amplifier-review/" data-lasso-id="232768">GAMMA G25</strong> or <strong>G50 </strong>amplifier</a>, then you know that those amps are built for being a perfect pedal platform. Finally, we have simple and affordable pedals that are meant to work well with the GAMMA amplifiers! </p>
 
 
 
@@ -206,7 +206,7 @@ seo:
 
 
 
-<p>The Boost will make the difference here. With the boost off, sure, you can use <strong><a href="https://www.electrikjam.com/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="231145">it in front of your 5150 </a></strong>or Mesa to clean up the bass frequencies. But I think using it as a stand-alone OD with the boot is a much better option. Let me explain&#8230;</p>
+<p>The Boost will make the difference here. With the boost off, sure, you can use <strong><a href="/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="231145">it in front of your 5150 </a></strong>or Mesa to clean up the bass frequencies. But I think using it as a stand-alone OD with the boot is a much better option. Let me explain&#8230;</p>
 
 
 
@@ -262,7 +262,7 @@ seo:
 
 
 
-<p>Level and Drive control and three knob EQs allows you to carve your ideal sound — from death-and-doom to hyper-speed shred. The EQ has plenty of mid sweep to get <strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" target="_blank" data-type="post" data-id="3542" rel="noopener" data-lasso-id="231146">that classic Pantera sound</a></strong>, all the way <strong><a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" target="_blank" data-type="post" data-id="10952" rel="noopener" data-lasso-id="231147">to modern Djent</a></strong>.</p>
+<p>Level and Drive control and three knob EQs allows you to carve your ideal sound — from death-and-doom to hyper-speed shred. The EQ has plenty of mid sweep to get <strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" target="_blank" data-type="post" data-id="3542" rel="noopener" data-lasso-id="231146">that classic Pantera sound</a></strong>, all the way <strong><a href="/periphery-djent-is-not-a-genre-album-review/" target="_blank" data-type="post" data-id="10952" rel="noopener" data-lasso-id="231147">to modern Djent</a></strong>.</p>
 
 
 
@@ -418,7 +418,7 @@ seo:
 
 
 
-<p>Likewise, if you already have the <strong><a href="https://www.electrikjam.com/gamma-g50-50w-1x12-guitar-combo-amplifier-guitar-center/" data-type="lasso-urls" data-id="11565" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="231149" data-lasso-name="GAMMA G50 50W 1x12 Guitar Combo Amplifier">GAMMA G50 guitar amp</a></strong>, any of these pedals can be used to really fill out your tones. That amp was made for gigging, and using pedals<em> specifically</em>. Acoustic Control has really put a lot of though into rebranding into GAMMA.</p>
+<p>Likewise, if you already have the <strong><a href="/gamma-g50-50w-1x12-guitar-combo-amplifier-guitar-center/" data-type="lasso-urls" data-id="11565" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="231149" data-lasso-name="GAMMA G50 50W 1x12 Guitar Combo Amplifier">GAMMA G50 guitar amp</a></strong>, any of these pedals can be used to really fill out your tones. That amp was made for gigging, and using pedals<em> specifically</em>. Acoustic Control has really put a lot of though into rebranding into GAMMA.</p>
 
 
 

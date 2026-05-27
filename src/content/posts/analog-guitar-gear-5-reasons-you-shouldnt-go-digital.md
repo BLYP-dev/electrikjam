@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>We recently <strong><a data-lasso-id="225294" href="https://www.electrikjam.com/digital-guitar-rigs-5-reasons/" data-type="post" data-id="11294" target="_blank" rel="noopener">looked at 5 reasons why you should go completely digital with your guitar rig</a></strong>. While there are a lot of pros to that approach, there are also some limitations. So today we look at the analog guitar gear approach, and look at the &#8220;pros&#8221; only, and the limitations of digital.</p>
+<p>We recently <strong><a data-lasso-id="225294" href="/digital-guitar-rigs-5-reasons/" data-type="post" data-id="11294" target="_blank" rel="noopener">looked at 5 reasons why you should go completely digital with your guitar rig</a></strong>. While there are a lot of pros to that approach, there are also some limitations. So today we look at the analog guitar gear approach, and look at the &#8220;pros&#8221; only, and the limitations of digital.</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>I know this, because I am one of these people. For years, I collected little bits and pieces of gear and amps. I used to have a roomful of gear that I thought I would never sell or give away, but I did downsize in the end. I have<em> almost </em>made the switch to totally digital gear, and <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="225971">my solid state BOSS Katana</a></strong>.</p>
+<p>I know this, because I am one of these people. For years, I collected little bits and pieces of gear and amps. I used to have a roomful of gear that I thought I would never sell or give away, but I did downsize in the end. I have<em> almost </em>made the switch to totally digital gear, and <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="225971">my solid state BOSS Katana</a></strong>.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p>That is a lot to take in, and I would often just take a preset that was &#8220;close&#8221; to the sound that I wanted, and then dial it in for my guitar. I <a href="https://www.electrikjam.com/top-5-underrated-guitarists/" data-lasso-id="233857">think a lot of guitarists</a> use this technique too, and it does make it a little easier.</p>
+<p>That is a lot to take in, and I would often just take a preset that was &#8220;close&#8221; to the sound that I wanted, and then dial it in for my guitar. I <a href="/top-5-underrated-guitarists/" data-lasso-id="233857">think a lot of guitarists</a> use this technique too, and it does make it a little easier.</p>
 
 
 
@@ -119,11 +119,11 @@ seo:
 
 
 
-<p>All of this takes time, while analog guitar gear is usually more limited. For me, this is a GOOD thing, since I seem to work better with some limitations. The last time I toured/gigged, <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="225972" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center">I used a Blackstar HT40</a></strong> and a couple of effects pedals.</p>
+<p>All of this takes time, while analog guitar gear is usually more limited. For me, this is a GOOD thing, since I seem to work better with some limitations. The last time I toured/gigged, <strong><a href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="225972" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center">I used a Blackstar HT40</a></strong> and a couple of effects pedals.</p>
 
 
 
-<p>This minimalistic setup forced me to think about which guitar I should use, and how I should use the guitar knobs <strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="225973">and pickup positions</a></strong> to get different tones. I like that kind of simplicity, and I often received compliments after the show about how good my rig sounded.</p>
+<p>This minimalistic setup forced me to think about which guitar I should use, and how I should use the guitar knobs <strong><a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="225973">and pickup positions</a></strong> to get different tones. I like that kind of simplicity, and I often received compliments after the show about how good my rig sounded.</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>This may be a small one to some people, but that depends on your personality type. Many guitarists that are famous are known for sticking with one brand, <strong><a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="225974">like Steve Vai</a></strong>. These guitarists find a brand, and stick with them for their entire career.</p>
+<p>This may be a small one to some people, but that depends on your personality type. Many guitarists that are famous are known for sticking with one brand, <strong><a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="225974">like Steve Vai</a></strong>. These guitarists find a brand, and stick with them for their entire career.</p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>So if you are that type of person and you like to chase tones, then selling and trading are probably something you need to consider. Analog guitar hear holds its value much better than digital gear. I have a Line 6 POD HD that is basically worthless when it comes to re-sale value, <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-6bvzme/" target="_blank" data-type="lasso-urls" data-id="5954" rel="nofollow sponsored noopener" data-lasso-id="225975" data-lasso-name="Marshall DSL40CR 40W 1x12">while my Marshall</a></strong> JVM will probably always be valuable.</p>
+<p>So if you are that type of person and you like to chase tones, then selling and trading are probably something you need to consider. Analog guitar hear holds its value much better than digital gear. I have a Line 6 POD HD that is basically worthless when it comes to re-sale value, <strong><a href="/guitar-center-pxf-io-6bvzme/" target="_blank" data-type="lasso-urls" data-id="5954" rel="nofollow sponsored noopener" data-lasso-id="225975" data-lasso-name="Marshall DSL40CR 40W 1x12">while my Marshall</a></strong> JVM will probably always be valuable.</p>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<p>Okay this one is entirely subjective right? Modeling tech has become <em>so close </em>to the real thing, <strong><a href="https://www.electrikjam.com/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener" data-lasso-id="225977">like the recent NAM Plugin</a></strong>. These new amp captures are VERY close to the sound of a tube amp with a mic in front of it. Nearly identical, in fact, and modeling has finally caught up.</p>
+<p>Okay this one is entirely subjective right? Modeling tech has become <em>so close </em>to the real thing, <strong><a href="/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener" data-lasso-id="225977">like the recent NAM Plugin</a></strong>. These new amp captures are VERY close to the sound of a tube amp with a mic in front of it. Nearly identical, in fact, and modeling has finally caught up.</p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p>Look, I cannot explain just how a tube amp just sometimes&#8230; saves the day when you are recording. Sometimes <strong><a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" target="_blank" data-type="post" data-id="8817" rel="noopener" data-lasso-id="225978">a Shure mic in front of a cabinet </a></strong>gets you a sound that you just can&#8217;t get from a modeler. The speakers pushing air from a loud amp just sometimes works better.</p>
+<p>Look, I cannot explain just how a tube amp just sometimes&#8230; saves the day when you are recording. Sometimes <strong><a href="/how-to-mic-a-guitar-amp/" target="_blank" data-type="post" data-id="8817" rel="noopener" data-lasso-id="225978">a Shure mic in front of a cabinet </a></strong>gets you a sound that you just can&#8217;t get from a modeler. The speakers pushing air from a loud amp just sometimes works better.</p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p>Just like when <strong><a href="https://www.electrikjam.com/digital-guitar-rigs-5-reasons/" data-type="post" data-id="11294" target="_blank" rel="noopener" data-lasso-id="225979">we looked at the reasons to go completely digital</a></strong>, there is a case for keeping some analog guitar gear around. Just like I said in the aforementioned article, there is a case for using both. There is no &#8220;right&#8221; answer when it comes to tone, and it is really a personal thing.</p>
+<p>Just like when <strong><a href="/digital-guitar-rigs-5-reasons/" data-type="post" data-id="11294" target="_blank" rel="noopener" data-lasso-id="225979">we looked at the reasons to go completely digital</a></strong>, there is a case for keeping some analog guitar gear around. Just like I said in the aforementioned article, there is a case for using both. There is no &#8220;right&#8221; answer when it comes to tone, and it is really a personal thing.</p>
 
 
 
@@ -307,7 +307,7 @@ seo:
 
 
 
-<p>There are some stages/venues where digital would not be an option, and that can be a problem. You can always <strong><a href="https://www.electrikjam.com/best-frfr-speaker/" data-type="post" data-id="11014" target="_blank" rel="noopener" data-lasso-id="225980">bring along an FRFR speaker for venues</a></strong> that do not have a great sound system. But that almost ruins the whole idea of downsizing in the first place, right?</p>
+<p>There are some stages/venues where digital would not be an option, and that can be a problem. You can always <strong><a href="/best-frfr-speaker/" data-type="post" data-id="11014" target="_blank" rel="noopener" data-lasso-id="225980">bring along an FRFR speaker for venues</a></strong> that do not have a great sound system. But that almost ruins the whole idea of downsizing in the first place, right?</p>
 
 
 

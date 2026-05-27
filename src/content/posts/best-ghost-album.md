@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>Ghost is a pretty big deal these days. The band’s latest album, <strong><em><a data-lasso-id="91789" href="https://www.electrikjam.com/ghost-impera-review/" data-type="post" data-id="7242">IMPERA</a></em></strong>, is now official, picking up where 2018’s <strong><em>Prequelle</em></strong> left off. </p>
+<p>Ghost is a pretty big deal these days. The band’s latest album, <strong><em><a data-lasso-id="91789" href="/ghost-impera-review/" data-type="post" data-id="7242">IMPERA</a></em></strong>, is now official, picking up where 2018’s <strong><em>Prequelle</em></strong> left off. </p>
 
 
 
@@ -316,11 +316,11 @@ https://www.youtube.com/watch?v=lOmPLS6P4i8
 
 
 
-<p>One of the things I love most about <strong><em>Opus Eponymous</em></strong> is <strong><a href="https://www.electrikjam.com/what-guitars-do-ghost-use-a-ghoulish-guide/" data-type="post" data-id="7274" data-lasso-id="91790">the guitar tone the band used</a></strong> on the album. You have to remember, back in 2010, Ghost was not a big band –&nbsp;it was basically unknown. This meant budget constraints when recording the album. It lacked the polish of the band’s later work, but I’d argue this only adds to its caliber as a record.</p>
+<p>One of the things I love most about <strong><em>Opus Eponymous</em></strong> is <strong><a href="/what-guitars-do-ghost-use-a-ghoulish-guide/" data-type="post" data-id="7274" data-lasso-id="91790">the guitar tone the band used</a></strong> on the album. You have to remember, back in 2010, Ghost was not a big band –&nbsp;it was basically unknown. This meant budget constraints when recording the album. It lacked the polish of the band’s later work, but I’d argue this only adds to its caliber as a record.</p>
 
 
 
-<p><strong><a data-lasso-id="91791" href="https://www.electrikjam.com/what-guitars-do-ghost-use-a-ghoulish-guide/" data-type="post" data-id="7274">The band used Gibson SG guitars</a></strong> to record all the guitar parts – <strong><a data-lasso-id="91792" href="https://www.electrikjam.com/what-guitar-tuning-do-ghost-use/" data-type="post" data-id="7230">always tuned down to D Standard</a></strong> – and, in order to nail that classic 1970s heavy metal sound, they opted for Orange Thunderverb 50 amps with the gain cranked up as high as humanly possible to get that more traditional-sounding metal tone. It worked great too; I think <strong><a data-lasso-id="91793" data-lasso-name="Hagstrom Fantomen Electric Guitar" href="https://www.electrikjam.com/hagstrom-fantomen-guitar/" data-type="lasso-urls" data-id="7276" target="_blank" rel="nofollow sponsored noopener">Ghost’s guitars</a></strong> have never sounded better than on this record.</p>
+<p><strong><a data-lasso-id="91791" href="/what-guitars-do-ghost-use-a-ghoulish-guide/" data-type="post" data-id="7274">The band used Gibson SG guitars</a></strong> to record all the guitar parts – <strong><a data-lasso-id="91792" href="/what-guitar-tuning-do-ghost-use/" data-type="post" data-id="7230">always tuned down to D Standard</a></strong> – and, in order to nail that classic 1970s heavy metal sound, they opted for Orange Thunderverb 50 amps with the gain cranked up as high as humanly possible to get that more traditional-sounding metal tone. It worked great too; I think <strong><a data-lasso-id="91793" data-lasso-name="Hagstrom Fantomen Electric Guitar" href="/hagstrom-fantomen-guitar/" data-type="lasso-urls" data-id="7276" target="_blank" rel="nofollow sponsored noopener">Ghost’s guitars</a></strong> have never sounded better than on this record.</p>
 
 
 
@@ -396,7 +396,7 @@ https://www.youtube.com/watch?v=lOmPLS6P4i8
 
 
 
-<p><strong><em>Meliora</em></strong> is also home to one of the best bass lines ever created; the opening to From The Pinnacle To The Pit. You also have a killer opening <a href="https://www.electrikjam.com/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234407">track on the album</a>, courtesy of Spirit. On <strong><em>Meliora</em></strong>, the guitars and drums sound truly immense; they’re more polished than on <strong><em>Opus Eponymous</em></strong>, more “produced”, but they still retain that heavy, organic 1970s heavy metal tone.</p>
+<p><strong><em>Meliora</em></strong> is also home to one of the best bass lines ever created; the opening to From The Pinnacle To The Pit. You also have a killer opening <a href="/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234407">track on the album</a>, courtesy of Spirit. On <strong><em>Meliora</em></strong>, the guitars and drums sound truly immense; they’re more polished than on <strong><em>Opus Eponymous</em></strong>, more “produced”, but they still retain that heavy, organic 1970s heavy metal tone.</p>
 
 
 
@@ -404,7 +404,7 @@ https://www.youtube.com/watch?v=lOmPLS6P4i8
 
 
 
-<p>I also knew that this would be the album that would propel <a data-lasso-id="195394" href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/">Ghost</a> from an obscure niche band to a stadium-filling mega band. And this is exactly what happened. Ghost toured with Metallica, grew its fan base, sold a mountain of records, and, as of 2022, is one of the biggest bands on the planet. And given its back catalog of music, I think it has every right to be in the position it is in today.</p>
+<p>I also knew that this would be the album that would propel <a data-lasso-id="195394" href="/13-ghost-the-band-facts-you-probably-didnt-know/">Ghost</a> from an obscure niche band to a stadium-filling mega band. And this is exactly what happened. Ghost toured with Metallica, grew its fan base, sold a mountain of records, and, as of 2022, is one of the biggest bands on the planet. And given its back catalog of music, I think it has every right to be in the position it is in today.</p>
 
 
 
@@ -570,5 +570,5 @@ https://www.youtube.com/watch?v=lOmPLS6P4i8
 
 
 
-<p>Check out ELECTRIKJAM&#8217;s picks for the <strong><a href="https://www.electrikjam.com/the-best-metal-albums-of-2023/" data-type="post" data-id="13693" data-lasso-id="258788">best metal albums for 2023</a></strong>. </p>
+<p>Check out ELECTRIKJAM&#8217;s picks for the <strong><a href="/the-best-metal-albums-of-2023/" data-type="post" data-id="13693" data-lasso-id="258788">best metal albums for 2023</a></strong>. </p>
 

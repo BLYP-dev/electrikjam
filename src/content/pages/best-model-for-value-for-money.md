@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>For years, the Mexican-made Fender Player series has been the reliable workhorse for serious guitarists. But with the launch of the new <strong><a href="https://www.electrikjam.com/fender-player-ii-stratocaster-reviews/" data-type="post" data-id="18238">Fender Player II Stratocaster</a></strong>, the intermediate market has fundamentally changed.</p>
+<p>For years, the Mexican-made Fender Player series has been the reliable workhorse for serious guitarists. But with the launch of the new <strong><a href="/fender-player-ii-stratocaster-reviews/" data-type="post" data-id="18238">Fender Player II Stratocaster</a></strong>, the intermediate market has fundamentally changed.</p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>The Fender Player II Stratocaster actively challenges the necessity of spending double the price on an American model like the obviously <strong><a href="https://www.electrikjam.com/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" data-type="post" data-id="18174">outstanding American Ultra 2 Stratocaster</a></strong> which I had the pleasure of testing not so long ago. </p>
+<p>The Fender Player II Stratocaster actively challenges the necessity of spending double the price on an American model like the obviously <strong><a href="/fender-american-ultra-ii-hss-stratocaster-reviews-gods-guitar/" data-type="post" data-id="18174">outstanding American Ultra 2 Stratocaster</a></strong> which I had the pleasure of testing not so long ago. </p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p>If you are looking for the best performance-to-dollar ratio in the entire Fender lineup, <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Fender Player II Stratocaster" href="https://www.electrikjam.com/recommends/fender-player-ii-stratocaster/" data-shortcode="true">the Fender Player II Stratocaster is your gold standard.</a></strong></p>
+<p>If you are looking for the best performance-to-dollar ratio in the entire Fender lineup, <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Fender Player II Stratocaster" href="/recommends/fender-player-ii-stratocaster/" data-shortcode="true">the Fender Player II Stratocaster is your gold standard.</a></strong></p>
 </div>
 
 

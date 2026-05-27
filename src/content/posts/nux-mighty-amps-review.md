@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>If you have been paying attention over the last few years, NUX has been putting out all kinds of affordable <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="159853"><strong>multi-effects</strong></a> units. NUX also makes some cheap pedals that sound <em>great</em>. It was only a matter of time before NUX expanded into amp territory.</p>
+<p>If you have been paying attention over the last few years, NUX has been putting out all kinds of affordable <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="159853"><strong>multi-effects</strong></a> units. NUX also makes some cheap pedals that sound <em>great</em>. It was only a matter of time before NUX expanded into amp territory.</p>
 
 
 
@@ -51,11 +51,11 @@ seo:
 
 
 
-<p>NUX seems to focus fire on beginner guitarists that are on a <a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="159854"><strong>budget</strong></a>. While some products are more advanced, the majority seem to be aimed at younger, beginner guitarists. Most of the mini amps that NUX has released remind me of the <a href="https://www.electrikjam.com/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-type="post" data-id="3446" target="_blank" rel="noopener" data-lasso-id="159855"><strong>Blackstar FLY </strong></a>series, with Bluetooth technology built in to control the amp and effects.</p>
+<p>NUX seems to focus fire on beginner guitarists that are on a <a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="159854"><strong>budget</strong></a>. While some products are more advanced, the majority seem to be aimed at younger, beginner guitarists. Most of the mini amps that NUX has released remind me of the <a href="/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-type="post" data-id="3446" target="_blank" rel="noopener" data-lasso-id="159855"><strong>Blackstar FLY </strong></a>series, with Bluetooth technology built in to control the amp and effects.</p>
 
 
 
-<p>But sometimes you want to plug in, and just be LOUD. You want to really <em>feel</em> what you are playing, and maybe jam along to your favorite songs at <em>full blast</em>. The NUX mini amps are not going to cut it in that situation. You need an actual<a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="159856"> <strong>combo amp</strong></a>, at the very least.</p>
+<p>But sometimes you want to plug in, and just be LOUD. You want to really <em>feel</em> what you are playing, and maybe jam along to your favorite songs at <em>full blast</em>. The NUX mini amps are not going to cut it in that situation. You need an actual<a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="159856"> <strong>combo amp</strong></a>, at the very least.</p>
 
 
 
@@ -91,11 +91,11 @@ seo:
 
 
 
-<p>If you are familiar with the original <strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" data-type="post" data-id="2700" target="_blank" rel="noopener" data-lasso-id="159857">Fender Mustang</a> </strong>or the<strong> <a href="https://www.electrikjam.com/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" target="_blank" data-type="post" data-id="1780" rel="noopener" data-lasso-id="159858">Blackstar ID</a></strong><a href="https://www.electrikjam.com/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" target="_blank" data-type="post" data-id="1780" rel="noopener" data-lasso-id="159859"> </a>series, then the NUX Mighty 20 and 40 will be very familiar to you. The top panel has the main controls for the amp, with a dedicated section for effects. Each amp style preset has two different variations, and you can save your own presets once you dial them in.</p>
+<p>If you are familiar with the original <strong><a href="/fender-mustang-micro-features-price/" data-type="post" data-id="2700" target="_blank" rel="noopener" data-lasso-id="159857">Fender Mustang</a> </strong>or the<strong> <a href="/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" target="_blank" data-type="post" data-id="1780" rel="noopener" data-lasso-id="159858">Blackstar ID</a></strong><a href="/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" target="_blank" data-type="post" data-id="1780" rel="noopener" data-lasso-id="159859"> </a>series, then the NUX Mighty 20 and 40 will be very familiar to you. The top panel has the main controls for the amp, with a dedicated section for effects. Each amp style preset has two different variations, and you can save your own presets once you dial them in.</p>
 
 
 
-<p>The cool part, is unlike the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="159860"><strong>BOSS Katana</strong></a> or <strong><a href="https://www.electrikjam.com/https-guitar-center-pxf-io-qo0q2o/" data-type="lasso-urls" data-id="6353" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="159861" data-lasso-name="Fender Mustang GTX 100 100W 1x12 Guitar Combo Amp">Mustang GTX</a>,</strong> you can dial in everything you need just using the <strong>top panel</strong>. You can use the app, of course, if you want. But for the technologically impaired people, or those that don&#8217;t want to fuss with an app, the top panel does it all.</p>
+<p>The cool part, is unlike the <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="159860"><strong>BOSS Katana</strong></a> or <strong><a href="/https-guitar-center-pxf-io-qo0q2o/" data-type="lasso-urls" data-id="6353" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="159861" data-lasso-name="Fender Mustang GTX 100 100W 1x12 Guitar Combo Amp">Mustang GTX</a>,</strong> you can dial in everything you need just using the <strong>top panel</strong>. You can use the app, of course, if you want. But for the technologically impaired people, or those that don&#8217;t want to fuss with an app, the top panel does it all.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>20 watt, or 40 watt models available</strong></li><li><strong>8 inch speaker (20) or 10 inch speaker (40)</strong></li><li><strong>4 Channels (Clean, Overdrive, Metal, Lead) Each channel has 2 presets</strong></li><li><strong><a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246497">Gain and Master Volume Control</a> </strong></li><li><strong>3 Band EQ section</strong></li><li><strong>9 types of effects (Chorus, Phaser, Tremolo, Vibe, Delay, and Reverb)</strong></li><li><strong>3 Types of Delay</strong></li><li><strong>Tap tempo delay control</strong></li><li><strong>3mm AUX input and headphone out</strong></li><li><strong>Built in tuner (40 only)</strong></li></ul>
+<ul class="wp-block-list"><li><strong>20 watt, or 40 watt models available</strong></li><li><strong>8 inch speaker (20) or 10 inch speaker (40)</strong></li><li><strong>4 Channels (Clean, Overdrive, Metal, Lead) Each channel has 2 presets</strong></li><li><strong><a href="/parts-of-an-electric-guitar/" data-lasso-id="246497">Gain and Master Volume Control</a> </strong></li><li><strong>3 Band EQ section</strong></li><li><strong>9 types of effects (Chorus, Phaser, Tremolo, Vibe, Delay, and Reverb)</strong></li><li><strong>3 Types of Delay</strong></li><li><strong>Tap tempo delay control</strong></li><li><strong>3mm AUX input and headphone out</strong></li><li><strong>Built in tuner (40 only)</strong></li></ul>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>If you are familiar with any of the <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254832">popular modeling amps</a>, the the NUX Mighty Amps will all be pretty easy to figure out. These are perfect amps for anyone that is limited to a small space for practicing. Even the 40 watt version is compact.</p>
+<p>If you are familiar with any of the <a href="/neural-amp-modeler/" data-lasso-id="254832">popular modeling amps</a>, the the NUX Mighty Amps will all be pretty easy to figure out. These are perfect amps for anyone that is limited to a small space for practicing. Even the 40 watt version is compact.</p>
 
 
 
@@ -183,11 +183,11 @@ seo:
 
 
 
-<p>Personally, I think the app is a valuable tool for beginners that do not have access to a <a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="159863"><strong>DAW</strong></a> yet. The drum loops and backing tracks are perfect for making sure you are on beat when you are playing. The NUX Mighty Amps are great practice buddies.</p>
+<p>Personally, I think the app is a valuable tool for beginners that do not have access to a <a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="159863"><strong>DAW</strong></a> yet. The drum loops and backing tracks are perfect for making sure you are on beat when you are playing. The NUX Mighty Amps are great practice buddies.</p>
 
 
 
-<p>So while the NUX Mighty series might not be as in-depth as something like the <strong><a href="https://www.electrikjam.com/pxf-53/" data-type="lasso-urls" data-id="8362" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="159864" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">BOSS Katana</a> </strong>when it comes to tones, the simple interface is perfect for beginners. Especially guitarists that are just now starting to understand effects and amp types. Sometimes the simple route is better, and the NUX Mighty Amps<em> nail </em>simple!</p>
+<p>So while the NUX Mighty series might not be as in-depth as something like the <strong><a href="/pxf-53/" data-type="lasso-urls" data-id="8362" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="159864" data-lasso-name="BOSS Katana-100 MkII 100W 1x12 Guitar Combo Amp">BOSS Katana</a> </strong>when it comes to tones, the simple interface is perfect for beginners. Especially guitarists that are just now starting to understand effects and amp types. Sometimes the simple route is better, and the NUX Mighty Amps<em> nail </em>simple!</p>
 
 
 

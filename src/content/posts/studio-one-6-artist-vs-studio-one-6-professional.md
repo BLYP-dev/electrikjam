@@ -61,7 +61,7 @@ seo:
 
 
 
-<p>There are <strong><a data-lasso-id="250467" href="https://www.electrikjam.com/how-much-does-studio-one-cost/" data-type="post" data-id="12666" target="_blank" rel="noopener">three different versions of Studio One</a></strong>, and each one offers different features, with the lower priced options like the Artist Edition having certain restrictions. These limitations can be tracking inputs, as well as usable virtual instruments and plugins. Studio One 6 Artist vs Studio One 6 Professional will come down to the fine details.<strong> Both versions support 3rd party plugins.</strong></p>
+<p>There are <strong><a data-lasso-id="250467" href="/how-much-does-studio-one-cost/" data-type="post" data-id="12666" target="_blank" rel="noopener">three different versions of Studio One</a></strong>, and each one offers different features, with the lower priced options like the Artist Edition having certain restrictions. These limitations can be tracking inputs, as well as usable virtual instruments and plugins. Studio One 6 Artist vs Studio One 6 Professional will come down to the fine details.<strong> Both versions support 3rd party plugins.</strong></p>
 
 
 
@@ -177,7 +177,7 @@ seo:
 
 
 
-<p>However, it does limit the amount of <strong><a data-lasso-id="250468" href="https://www.electrikjam.com/best-midi-keyboards/" data-type="post" data-id="12719" target="_blank" rel="noopener">MIDI tracks </a></strong>you can have at one time, as well as regular audio tracks. You also get less plugins and instruments to use, which can be a big deal if you work within certain genres like EDM or industrial music styles.</p>
+<p>However, it does limit the amount of <strong><a data-lasso-id="250468" href="/best-midi-keyboards/" data-type="post" data-id="12719" target="_blank" rel="noopener">MIDI tracks </a></strong>you can have at one time, as well as regular audio tracks. You also get less plugins and instruments to use, which can be a big deal if you work within certain genres like EDM or industrial music styles.</p>
 
 
 

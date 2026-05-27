@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>The band kicks off into the first song of the set, and the effect is really<em> bombastic</em>. This is how you do <a data-lasso-id="128522" href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/" data-type="post" data-id="3374" target="_blank" rel="noopener"><strong>stage</strong> <strong>presence</strong></a>, something that seems like a lost art these days in Metal. You can catch some of these performances on their <a data-lasso-id="128523" href="https://www.facebook.com/voltreus" target="_blank" rel="noopener noreferrer nofollow"><strong>Facebook page</strong></a>, where they have been playing show after show over the Spring and early Summer. But Voltreus has some bigger plans than <em>just</em> conquering the local scene.</p>
+<p>The band kicks off into the first song of the set, and the effect is really<em> bombastic</em>. This is how you do <a data-lasso-id="128522" href="/starting-a-band-and-getting-your-first-gigs/" data-type="post" data-id="3374" target="_blank" rel="noopener"><strong>stage</strong> <strong>presence</strong></a>, something that seems like a lost art these days in Metal. You can catch some of these performances on their <a data-lasso-id="128523" href="https://www.facebook.com/voltreus" target="_blank" rel="noopener noreferrer nofollow"><strong>Facebook page</strong></a>, where they have been playing show after show over the Spring and early Summer. But Voltreus has some bigger plans than <em>just</em> conquering the local scene.</p>
 
 
 

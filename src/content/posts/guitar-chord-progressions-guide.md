@@ -234,7 +234,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" data-lasso-id="266339">The Circle of Fifths</a></strong>: This is a visual tool that shows relationships between keys. Chords next to each other on the circle often sound good together.</p>
+<p><strong><a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" data-lasso-id="266339">The Circle of Fifths</a></strong>: This is a visual tool that shows relationships between keys. Chords next to each other on the circle often sound good together.</p>
 
 
 
@@ -378,7 +378,7 @@ seo:
 
 
 
-<p>Personally, <strong><a data-lasso-id="250188" href="https://www.electrikjam.com/best-midi-keyboards/" data-type="post" data-id="12719">I like to work in Ableton with a MIDI keyboard</a></strong> to do this. I mess around with different notes and chords and progressions until I find something that sounds good, and then I&#8217;ll sit down with my guitar and transpose it.</p>
+<p>Personally, <strong><a data-lasso-id="250188" href="/best-midi-keyboards/" data-type="post" data-id="12719">I like to work in Ableton with a MIDI keyboard</a></strong> to do this. I mess around with different notes and chords and progressions until I find something that sounds good, and then I&#8217;ll sit down with my guitar and transpose it.</p>
 
 
 
@@ -404,27 +404,27 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-type="post" data-id="8057" data-lasso-id="250189">10 Beautiful Chord Progressions For Guitar – No Theory Required!</a></strong></li>
+<li><strong><a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-type="post" data-id="8057" data-lasso-id="250189">10 Beautiful Chord Progressions For Guitar – No Theory Required!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/memorizing-guitar-scales-101/" data-type="post" data-id="12227" data-lasso-id="250190">Memorizing Guitar Scales 101: Awesome Tools For Beginner Guitarists</a></strong></li>
+<li><strong><a href="/memorizing-guitar-scales-101/" data-type="post" data-id="12227" data-lasso-id="250190">Memorizing Guitar Scales 101: Awesome Tools For Beginner Guitarists</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/most-commonly-used-chord-progressions-rock-music/" data-type="post" data-id="11079" data-lasso-id="250191">The 5 Most Commonly Used Chord Progressions In Rock</a></strong></li>
+<li><strong><a href="/most-commonly-used-chord-progressions-rock-music/" data-type="post" data-id="11079" data-lasso-id="250191">The 5 Most Commonly Used Chord Progressions In Rock</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-intervals-for-beginners/" data-type="post" data-id="8221" data-lasso-id="250192">Intervals For Beginners: The #1 Way To Unlock The ENTIRE Fretboard!</a></strong></li>
+<li><strong><a href="/guitar-intervals-for-beginners/" data-type="post" data-id="8221" data-lasso-id="250192">Intervals For Beginners: The #1 Way To Unlock The ENTIRE Fretboard!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" data-lasso-id="250193">Minor Scale &amp; 6th Mode Explained: Guitar Theory For Beginners</a></strong></li>
+<li><strong><a href="/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" data-lasso-id="250193">Minor Scale &amp; 6th Mode Explained: Guitar Theory For Beginners</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" data-lasso-id="250194">Beginner Music Theory For Guitarists: The #1 Way To Level Up Your Playing!</a></strong></li>
+<li><strong><a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" data-lasso-id="250194">Beginner Music Theory For Guitarists: The #1 Way To Level Up Your Playing!</a></strong></li>
 </ul>
 </div></div>
 

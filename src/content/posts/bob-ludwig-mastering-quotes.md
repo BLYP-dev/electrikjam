@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>If you want to <strong><a href="https://www.electrikjam.com/audio-mastering/" data-type="post" data-id="14779" data-lasso-id="265703">learn how to get good at mastering</a></strong>, you need to study Bob Ludwig’s approach to the process, learn about how he approaches sound, and his ability to swing across myriad different genres – from metal to EDM to country and pop. </p>
+<p>If you want to <strong><a href="/audio-mastering/" data-type="post" data-id="14779" data-lasso-id="265703">learn how to get good at mastering</a></strong>, you need to study Bob Ludwig’s approach to the process, learn about how he approaches sound, and his ability to swing across myriad different genres – from metal to EDM to country and pop. </p>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png" alt="audio mastering 101" class="wp-image-14781" title="" srcset="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png 1024w, /wp-content/uploads/2024/04/audio-mastering-101-1-600x400.png 600w, /wp-content/uploads/2024/04/audio-mastering-101-1-300x200.png 300w, /wp-content/uploads/2024/04/audio-mastering-101-1-768x512.png 768w, /wp-content/uploads/2024/04/audio-mastering-101-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265705">Learn The Basics of Mastering In A Week</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png" alt="audio mastering 101" class="wp-image-14781" title="" srcset="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png 1024w, /wp-content/uploads/2024/04/audio-mastering-101-1-600x400.png 600w, /wp-content/uploads/2024/04/audio-mastering-101-1-300x200.png 300w, /wp-content/uploads/2024/04/audio-mastering-101-1-768x512.png 768w, /wp-content/uploads/2024/04/audio-mastering-101-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265705">Learn The Basics of Mastering In A Week</a></strong></figcaption></figure>
 
 
 
@@ -252,7 +252,7 @@ seo:
 
 
 
-<p>I&#8217;ve worked as a professional mastering engineer for 20+ years and my guide – <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265706">Mastering 101: A Complete Framework For Beginners</a></strong> – condenses everything I learned working in studios in LA over two decades into a single, step-by-step process that anyone can implement. </p>
+<p>I&#8217;ve worked as a professional mastering engineer for 20+ years and my guide – <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265706">Mastering 101: A Complete Framework For Beginners</a></strong> – condenses everything I learned working in studios in LA over two decades into a single, step-by-step process that anyone can implement. </p>
 
 
 

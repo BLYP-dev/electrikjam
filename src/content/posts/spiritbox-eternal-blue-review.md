@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Unless you have been living under a rock for the past two years, you have probably come across<strong> Spiritbox</strong> once or twice. The Vancouver, Canada band has been <a href="https://www.electrikjam.com/voltreus-release-1st-new-single-2022/" data-lasso-id="128961">releasing singles</a> for a couple of years now, usually with a music video. The band comes from the demise of another band:<em><strong> Iwrestledabearonce.</strong></em></p>
+<p>Unless you have been living under a rock for the past two years, you have probably come across<strong> Spiritbox</strong> once or twice. The Vancouver, Canada band has been <a href="/voltreus-release-1st-new-single-2022/" data-lasso-id="128961">releasing singles</a> for a couple of years now, usually with a music video. The band comes from the demise of another band:<em><strong> Iwrestledabearonce.</strong></em></p>
 
 
 
@@ -48,7 +48,7 @@ seo:
 
 
 
-<p><strong>I<em>wrestledabearonce</em></strong> had elements of what Spiritbox would eventually become. You could <a href="https://www.electrikjam.com/brand-new-sinaro-playthrough-2021/" data-lasso-id="21757">tell that the band</a> was on to&#8230;<em>something</em>. It just wasn&#8217;t perfected and polished yet. After taking a couple of years off from being a band, vocalist Courtney LaPlante and Mike Stringer (now husband and wife) turned to woodshedding ideas for a while. Developing a unique sound for Spiritbox.</p>
+<p><strong>I<em>wrestledabearonce</em></strong> had elements of what Spiritbox would eventually become. You could <a href="/brand-new-sinaro-playthrough-2021/" data-lasso-id="21757">tell that the band</a> was on to&#8230;<em>something</em>. It just wasn&#8217;t perfected and polished yet. After taking a couple of years off from being a band, vocalist Courtney LaPlante and Mike Stringer (now husband and wife) turned to woodshedding ideas for a while. Developing a unique sound for Spiritbox.</p>
 
 
 
@@ -56,11 +56,11 @@ seo:
 
 
 
-<p>That new sound mixed progressive metal with electronic ambience. It was exactly what my ears needed to cleanse my palate the first time I heard Spiritbox. The last few years have seen literally everyone taking a stab at prog metal. To the point of <em>ad nauseum</em>. I am literally sick to my stomach whenever I see <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="5741"><strong>7 string guitars </strong></a>and hear a polyrhythm, it triggers my gag reflex&#8230;it makes my brain completely shut down these days. Because it&#8217;s<em> not special</em> anymore, when <em><strong>everyone</strong></em> is doing it.</p>
+<p>That new sound mixed progressive metal with electronic ambience. It was exactly what my ears needed to cleanse my palate the first time I heard Spiritbox. The last few years have seen literally everyone taking a stab at prog metal. To the point of <em>ad nauseum</em>. I am literally sick to my stomach whenever I see <a href="/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="5741"><strong>7 string guitars </strong></a>and hear a polyrhythm, it triggers my gag reflex&#8230;it makes my brain completely shut down these days. Because it&#8217;s<em> not special</em> anymore, when <em><strong>everyone</strong></em> is doing it.</p>
 
 
 
-<p>So how do you approach prog metal after bands like <strong>Architects </strong>and  <a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218840">Periphery  have already perfected it</a>? </p>
+<p>So how do you approach prog metal after bands like <strong>Architects </strong>and  <a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218840">Periphery  have already perfected it</a>? </p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>The album opens with an absolute banger that highlights <em>everything</em> this band is about. The <a href="https://www.electrikjam.com/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234405">track <strong>&#8220;Sun Killer&#8221;</strong> kicks off the album</a> with a brooding electronic pulse, that gives way to Courtney&#8217;s ethereal vocals. The slow pace and plodding tempo reflect something <strong>big</strong> is coming. Courtney&#8217;s lyrics reflect this as well:</p>
+<p>The album opens with an absolute banger that highlights <em>everything</em> this band is about. The <a href="/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234405">track <strong>&#8220;Sun Killer&#8221;</strong> kicks off the album</a> with a brooding electronic pulse, that gives way to Courtney&#8217;s ethereal vocals. The slow pace and plodding tempo reflect something <strong>big</strong> is coming. Courtney&#8217;s lyrics reflect this as well:</p>
 
 
 
@@ -184,11 +184,11 @@ seo:
 
 
 
-<p>This mood continues on with the next track, <strong>&#8220;We Live In A Strange World&#8221;.</strong> The entire basis of this song is a glitched-out Trap beat, that seems like another band&#8230; at first. Spiritbox is the master of catching you by surprise, though. Once the guitars kick in, we get one of the prettiest vocal performances on the album, with an almost <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="120218">triumphant sounding chord progression</a>. The song tells us not to give up, never let &#8220;those bastards get you down&#8221;.</p>
+<p>This mood continues on with the next track, <strong>&#8220;We Live In A Strange World&#8221;.</strong> The entire basis of this song is a glitched-out Trap beat, that seems like another band&#8230; at first. Spiritbox is the master of catching you by surprise, though. Once the guitars kick in, we get one of the prettiest vocal performances on the album, with an almost <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="120218">triumphant sounding chord progression</a>. The song tells us not to give up, never let &#8220;those bastards get you down&#8221;.</p>
 
 
 
-<p><strong>&#8220;Halcyon&#8221;</strong> keeps the same ballad vibe, until the very end of the track. <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69751">The hard palm mutes</a> and staccato rhythm over Courtney&#8217;s screams, closes out the otherwise melodic song. <strong>&#8220;Halcyon&#8221;</strong> bleeds right into the next track,<strong> &#8220;Circle With Me&#8221;.</strong></p>
+<p><strong>&#8220;Halcyon&#8221;</strong> keeps the same ballad vibe, until the very end of the track. <a href="/guitar-muting-techniques/" data-lasso-id="69751">The hard palm mutes</a> and staccato rhythm over Courtney&#8217;s screams, closes out the otherwise melodic song. <strong>&#8220;Halcyon&#8221;</strong> bleeds right into the next track,<strong> &#8220;Circle With Me&#8221;.</strong></p>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<p>Being a musician and producer though, puts me into a weird predicament. I <em>need </em>to hear something <em>NEW</em>. I like to listen to <a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-lasso-id="36114">music that catches me off guard</a>, and makes me wonder how it was made. Something&#8230;striking. Most modern Metal just doesn&#8217;t have that anymore, to my ears.</p>
+<p>Being a musician and producer though, puts me into a weird predicament. I <em>need </em>to hear something <em>NEW</em>. I like to listen to <a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-lasso-id="36114">music that catches me off guard</a>, and makes me wonder how it was made. Something&#8230;striking. Most modern Metal just doesn&#8217;t have that anymore, to my ears.</p>
 
 
 

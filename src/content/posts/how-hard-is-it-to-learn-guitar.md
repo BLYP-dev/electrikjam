@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Even the greats like Dimebag and <strong><a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" class="rank-math-link" data-lasso-id="1344">Matt Pike</a></strong> and Jimmy Page were once mere mortals like you, looking at a guitar and wondering how it all works.</p>
+<p>Even the greats like Dimebag and <strong><a href="/matt-pike-dopesmoker-sleep/" class="rank-math-link" data-lasso-id="1344">Matt Pike</a></strong> and Jimmy Page were once mere mortals like you, looking at a guitar and wondering how it all works.</p>
 
 
 
@@ -63,11 +63,11 @@ seo:
 
 
 
-<p>And with guitar, you’re never finished. And, please, for the love of riffs, do not be that guy that <strong><a class="rank-math-link" href="https://www.electrikjam.com/best-guitar-gear/" data-lasso-id="1345">buys all the best gear and the most expensive guitars</a></strong>, only to quit 12 months later. </p>
+<p>And with guitar, you’re never finished. And, please, for the love of riffs, do not be that guy that <strong><a class="rank-math-link" href="/best-guitar-gear/" data-lasso-id="1345">buys all the best gear and the most expensive guitars</a></strong>, only to quit 12 months later. </p>
 
 
 
-<p>If you&#8217;re brand new, start simple and get into the habit of daily practice. If you can do that for 12 months, then feel free to <strong><a href="https://www.electrikjam.com/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="1346">treat yourself to an expensive guitar. </a></strong></p>
+<p>If you&#8217;re brand new, start simple and get into the habit of daily practice. If you can do that for 12 months, then feel free to <strong><a href="/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="1346">treat yourself to an expensive guitar. </a></strong></p>
 
 
 
@@ -91,11 +91,11 @@ seo:
 
 
 
-<p>And if you’re brand new to the guitar, my advice would be to start with lessons or, if you’d prefer to learn online and at your own pace, we recommend guitar veteran Nick Minnion –&nbsp;<strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/learn-guitar-online-course/" data-lasso-id="1347">his course is freakin&#8217; amazing</a></strong>.</p>
+<p>And if you’re brand new to the guitar, my advice would be to start with lessons or, if you’d prefer to learn online and at your own pace, we recommend guitar veteran Nick Minnion –&nbsp;<strong><a class="rank-math-link" href="/recommends/learn-guitar-online-course/" data-lasso-id="1347">his course is freakin&#8217; amazing</a></strong>.</p>
 
 
 
-<p>The instructor, Nick Minnion, has over forty <a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216929">years of playing</a> and teaching experience. The course itself is cheaper than lessons, has everything a beginner needs to know, and you can even get a free trial to see if it works for you –&nbsp;<strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/learn-guitar-online-course/" data-lasso-id="1348">you can get the free trial here</a></strong>.</p>
+<p>The instructor, Nick Minnion, has over forty <a href="/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216929">years of playing</a> and teaching experience. The course itself is cheaper than lessons, has everything a beginner needs to know, and you can even get a free trial to see if it works for you –&nbsp;<strong><a class="rank-math-link" href="/recommends/learn-guitar-online-course/" data-lasso-id="1348">you can get the free trial here</a></strong>.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p>I’ve subsequently gone through Nick Minnion’s guitar program to brush up on aspects of my playing; things like finger-picking and jazz playing. And I learned a lot in the process. <strong><a href="https://www.electrikjam.com/recommends/learn-guitar-online-course/" class="rank-math-link" data-lasso-id="1349">It was totally worth $12 a month!</a></strong></p>
+<p>I’ve subsequently gone through Nick Minnion’s guitar program to brush up on aspects of my playing; things like finger-picking and jazz playing. And I learned a lot in the process. <strong><a href="/recommends/learn-guitar-online-course/" class="rank-math-link" data-lasso-id="1349">It was totally worth $12 a month!</a></strong></p>
 
 
 
@@ -127,11 +127,11 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="980" height="653" src="/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="" class="wp-image-2820" title="" srcset="/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, /wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, /wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, /wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, /wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /><figcaption><a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-lasso-id="1350"><strong>Matt Pike</a> Dropping A BOMB&#8230;</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="980" height="653" src="/wp-content/uploads/2021/04/Matt-Pike.jpg" alt="" class="wp-image-2820" title="" srcset="/wp-content/uploads/2021/04/Matt-Pike.jpg 980w, /wp-content/uploads/2021/04/Matt-Pike-600x400.jpg 600w, /wp-content/uploads/2021/04/Matt-Pike-300x200.jpg 300w, /wp-content/uploads/2021/04/Matt-Pike-768x512.jpg 768w, /wp-content/uploads/2021/04/Matt-Pike-360x240.jpg 360w" sizes="(max-width: 980px) 100vw, 980px" /><figcaption><a href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-lasso-id="1350"><strong>Matt Pike</a> Dropping A BOMB&#8230;</strong></figcaption></figure>
 
 
 
-<p>You can learn songs, experiment with tunings and effects, or just strum away on an <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1351">acoustic</a>. Most people start out by learning a few simple songs, Smoke on The Water, for instance. Or Hotel California by The Eagles.</p>
+<p>You can learn songs, experiment with tunings and effects, or just strum away on an <a href="/types-of-guitars-guide/" data-lasso-id="1351">acoustic</a>. Most people start out by learning a few simple songs, Smoke on The Water, for instance. Or Hotel California by The Eagles.</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>How long? I’d say at least 12 months of regular playing. After 12 months, you’ll be able to play a bunch of songs, you will know the basic scales, and your dexterity will have improved to the point where <a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="1352">switching between notes and chords</a> is no longer a chore.</p>
+<p>How long? I’d say at least 12 months of regular playing. After 12 months, you’ll be able to play a bunch of songs, you will know the basic scales, and your dexterity will have improved to the point where <a href="/chord-voicing-extensions-for-metal/" data-lasso-id="1352">switching between notes and chords</a> is no longer a chore.</p>
 
 
 
@@ -167,11 +167,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/is-learning-electric-guitar-hard/" data-lasso-id="215684">Learning to play the guitar is not hard</a>, but it does require quite a time commitment. On top of that, you’ll need good instruction too –&nbsp;either from a teacher in person or via an online instructor.</p>
+<p><a href="/is-learning-electric-guitar-hard/" data-lasso-id="215684">Learning to play the guitar is not hard</a>, but it does require quite a time commitment. On top of that, you’ll need good instruction too –&nbsp;either from a teacher in person or via an online instructor.</p>
 
 
 
-<p>If you’re on a budget, Nick Minnion’s course offers a free trial –&nbsp;and it is brilliant – and if you stay <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/learn-guitar-online-course/" data-lasso-id="1353">the course it only costs $12 a month.</a></strong></p>
+<p>If you’re on a budget, Nick Minnion’s course offers a free trial –&nbsp;and it is brilliant – and if you stay <strong><a class="rank-math-link" href="/recommends/learn-guitar-online-course/" data-lasso-id="1353">the course it only costs $12 a month.</a></strong></p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69754">Advanced techniques</a> and even basic strumming patterns and scales, for the absolute beginner, will seem hard. But after a few months of diligent work and practice, they’ll get easier.</p>
+<p><a href="/guitar-muting-techniques/" data-lasso-id="69754">Advanced techniques</a> and even basic strumming patterns and scales, for the absolute beginner, will seem hard. But after a few months of diligent work and practice, they’ll get easier.</p>
 
 
 
@@ -201,7 +201,7 @@ seo:
 
 
 
-<p>A toddler does not know about context, tense, complex phrases, just as you do not know about advanced scales, the location of notes on the <a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12762">fretboard</a>, or how chord progressions work.</p>
+<p>A toddler does not know about context, tense, complex phrases, just as you do not know about advanced scales, the location of notes on the <a href="/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12762">fretboard</a>, or how chord progressions work.</p>
 
 
 
@@ -245,7 +245,7 @@ seo:
 
 
 
-<p>It is much the same with guitar: <strong>you have to focus on correct technique, things like strumming, holding the pick correctly, and <a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-lasso-id="1354">knowing the fretboard</a>. You have to work on your hand synchronization</strong>. You have to work on your dexterity. And you have to understand rhythm.</p>
+<p>It is much the same with guitar: <strong>you have to focus on correct technique, things like strumming, holding the pick correctly, and <a href="/how-to-find-fretboard-notes-guitar/" data-lasso-id="1354">knowing the fretboard</a>. You have to work on your hand synchronization</strong>. You have to work on your dexterity. And you have to understand rhythm.</p>
 
 
 
@@ -257,7 +257,7 @@ seo:
 
 
 
-<p>Having goals gives you direction, things to work towards. <strong><a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" class="rank-math-link" data-lasso-id="1355">If your goal is to play like James Hetfield</a>,</strong> you’ll need to focus on your rhythm, improving your speed, and mastering things like the minor pentatonic scale.</p>
+<p>Having goals gives you direction, things to work towards. <strong><a href="/what-guitar-pick-does-james-hetfield-use/" class="rank-math-link" data-lasso-id="1355">If your goal is to play like James Hetfield</a>,</strong> you’ll need to focus on your rhythm, improving your speed, and mastering things like the minor pentatonic scale.</p>
 
 
 
@@ -277,7 +277,7 @@ seo:
 
 
 
-<p>And you do this for years and years and years. Over time, providing you don’t quit because you’re not ripping through riffs like <a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-lasso-id="9124">Brent Hinds</a> inside of six months, you will slowly and steadily improve.</p>
+<p>And you do this for years and years and years. Over time, providing you don’t quit because you’re not ripping through riffs like <a href="/what-guitars-do-mastodon-use/" data-lasso-id="9124">Brent Hinds</a> inside of six months, you will slowly and steadily improve.</p>
 
 
 
@@ -297,7 +297,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Great For Coordination</strong> –&nbsp;You will suck horribly at the guitar for the first few months. It will be horrible and you’ll hate every moment of it. But during this period, you are evolving. Your mind is developing algorithms and creating new connections. After some time, you’ll get better and this is because you’ve developed new mind-muscle connections.</li><li><strong>Meditative –</strong>&nbsp;There is a little thing called the flow state; it is basically when you’re doing something you love and you get lost in it, time kind of goes away. After a year or so of playing, the guitar can become a meditation tool, a thing you use to relax, problem solve, or just switch off. This is one of my favorite things about playing guitar.</li><li><strong>Improves Creativity </strong><a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-lasso-id="73655">– Learning to play the guitar</a> will challenge you to think creatively; it will force your mind to think outside its comfort zone. You will find and create things that seem to come from nowhere. Do this often enough and you become a songwriter. And it all just happens too, you don’t need to force it, just let the creative process do its thing.</li><li><strong>You Can Create Art</strong> –&nbsp;Thanks to phones and computers, it has never been easier to create music. You can create studio-grade music for next to nothing these days. And that means, once you’ve got your skills locked down, you can start making your own music.</li><li><strong>You Can Make Money With It</strong> –&nbsp;Once you’re an accomplished player, you can start making your own music and selling it. You can write tunes and publish them, or you could join a band. If you’re very good, you could become a session musician (this is how <a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="1356">Jimmy Page</a> made a living before Zeppelin).</li></ul>
+<ul class="wp-block-list"><li><strong>Great For Coordination</strong> –&nbsp;You will suck horribly at the guitar for the first few months. It will be horrible and you’ll hate every moment of it. But during this period, you are evolving. Your mind is developing algorithms and creating new connections. After some time, you’ll get better and this is because you’ve developed new mind-muscle connections.</li><li><strong>Meditative –</strong>&nbsp;There is a little thing called the flow state; it is basically when you’re doing something you love and you get lost in it, time kind of goes away. After a year or so of playing, the guitar can become a meditation tool, a thing you use to relax, problem solve, or just switch off. This is one of my favorite things about playing guitar.</li><li><strong>Improves Creativity </strong><a href="/guitar-fretboard-notes-learn/" data-lasso-id="73655">– Learning to play the guitar</a> will challenge you to think creatively; it will force your mind to think outside its comfort zone. You will find and create things that seem to come from nowhere. Do this often enough and you become a songwriter. And it all just happens too, you don’t need to force it, just let the creative process do its thing.</li><li><strong>You Can Create Art</strong> –&nbsp;Thanks to phones and computers, it has never been easier to create music. You can create studio-grade music for next to nothing these days. And that means, once you’ve got your skills locked down, you can start making your own music.</li><li><strong>You Can Make Money With It</strong> –&nbsp;Once you’re an accomplished player, you can start making your own music and selling it. You can write tunes and publish them, or you could join a band. If you’re very good, you could become a session musician (this is how <a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="1356">Jimmy Page</a> made a living before Zeppelin).</li></ul>
 
 
 
@@ -321,7 +321,7 @@ seo:
 
 
 
-<p>What about if you’re older? <strong>Even if you’re 40 years old, <a href="https://www.electrikjam.com/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211729">learning to play the guitar</a> comes with myriad benefits.</strong> Again, you’re testing and forcing your brain to adapt and evolve –&nbsp;this is good, you want to be doing this.</p>
+<p>What about if you’re older? <strong>Even if you’re 40 years old, <a href="/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211729">learning to play the guitar</a> comes with myriad benefits.</strong> Again, you’re testing and forcing your brain to adapt and evolve –&nbsp;this is good, you want to be doing this.</p>
 
 
 
@@ -345,7 +345,7 @@ seo:
 
 
 
-<p>However, it is extremely rare. Even players like <a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-lasso-id="1358">Jimmy Page</a>, Hendrix, and Steve Vai, while all having masses of organic talent, still had to put the hours in day in day out; in this respect, there is no way around it.</p>
+<p>However, it is extremely rare. Even players like <a href="/jimmy-page-favorite-guitar/" data-lasso-id="1358">Jimmy Page</a>, Hendrix, and Steve Vai, while all having masses of organic talent, still had to put the hours in day in day out; in this respect, there is no way around it.</p>
 
 
 
@@ -373,11 +373,11 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong><a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251810">Notes and chords have become my second language</a> and, more often than not, that vocabulary expresses what I feel when language fails meSlash</cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong><a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251810">Notes and chords have become my second language</a> and, more often than not, that vocabulary expresses what I feel when language fails meSlash</cite></blockquote>
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>If you want to be a rock star or just be famous, then run down the street naked, you’ll make the news or something. But if you want music to be your livelihood, then play, play, play and play! And eventually, you’ll get to where you want to be </strong><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195345">Eddie Van Halen</a></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>If you want to be a rock star or just be famous, then run down the street naked, you’ll make the news or something. But if you want music to be your livelihood, then play, play, play and play! And eventually, you’ll get to where you want to be </strong><a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195345">Eddie Van Halen</a></cite></blockquote>
 
 
 
@@ -389,7 +389,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>Whenever I get down on my playing, I just bend a note, shake it and listen. What I hear sound so great it makes me realize that even a rut doesn’t suck </strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="1359">Dimebag Darrell</a></cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>Whenever I get down on my playing, I just bend a note, shake it and listen. What I hear sound so great it makes me realize that even a rut doesn’t suck </strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="1359">Dimebag Darrell</a></cite></blockquote>
 
 
 
@@ -405,7 +405,7 @@ seo:
 
 
 
-<p>As noted earlier, if you’re committed to taking on the study of the guitar, of getting good, of understanding the basics, and progressing on a month-by-month basis, you should <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/learn-guitar-online-course/" data-lasso-id="1360">100% check out Nick Minnion’s incredible online guitar school.</a></strong></p>
+<p>As noted earlier, if you’re committed to taking on the study of the guitar, of getting good, of understanding the basics, and progressing on a month-by-month basis, you should <strong><a class="rank-math-link" href="/recommends/learn-guitar-online-course/" data-lasso-id="1360">100% check out Nick Minnion’s incredible online guitar school.</a></strong></p>
 
 
 
@@ -413,7 +413,7 @@ seo:
 
 
 
-<p>Nick will also be happy to speak with your via email and video calls too. And if none of that was enough to tempt you, you can even <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/learn-guitar-online-course/" data-lasso-id="1361">get a free trial of the course</a></strong> to see if it’s a good fit for you.</p>
+<p>Nick will also be happy to speak with your via email and video calls too. And if none of that was enough to tempt you, you can even <strong><a class="rank-math-link" href="/recommends/learn-guitar-online-course/" data-lasso-id="1361">get a free trial of the course</a></strong> to see if it’s a good fit for you.</p>
 
 
 

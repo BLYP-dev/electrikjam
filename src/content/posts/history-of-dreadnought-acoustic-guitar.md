@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>And that is why most of the acoustic guitars inside our <strong><a href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" data-type="post" data-id="10133" data-lasso-id="258991">Best Acoustic Guitars For Metal</a></strong> are, you guessed it: <strong>DREADNOUGHTS</strong>.  </p>
+<p>And that is why most of the acoustic guitars inside our <strong><a href="/best-acoustic-guitars-for-metal/" data-type="post" data-id="10133" data-lasso-id="258991">Best Acoustic Guitars For Metal</a></strong> are, you guessed it: <strong>DREADNOUGHTS</strong>.  </p>
 
 
 

@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>These new <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255015">Ibanez 7 string guitars</a> were the first mass produced solid body guitars of their kind. Vai did some interesting things with them, but soon abandoned them. </p>
+<p>These new <a href="/ibanez-guitars/" data-lasso-id="255015">Ibanez 7 string guitars</a> were the first mass produced solid body guitars of their kind. Vai did some interesting things with them, but soon abandoned them. </p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="251839">Bands like  Periphery</a></strong>  breathed new life into the instrument, putting the 7 string guitar right back where it started: <strong>in the hands of technical players and Progressive Rock/Metal virtuosos. </strong></p>
+<p><strong><a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="251839">Bands like  Periphery</a></strong>  breathed new life into the instrument, putting the 7 string guitar right back where it started: <strong>in the hands of technical players and Progressive Rock/Metal virtuosos. </strong></p>
 
 
 
@@ -245,7 +245,7 @@ seo:
 
 
 
-<p>Companies like <a data-lasso-id="1528" href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" data-type="post" data-id="3029" target="_blank" rel="noopener"><strong><span class="ugb-highlight" style="color: #9b51e0;">Schecter</span></strong></a>, Ibanez, and<a data-lasso-id="1529" href="https://www.electrikjam.com/dean-guitars-2021-lineup-tons-of-awesome-new-models-and-classic-redesign/" data-type="post" data-id="1832" target="_blank" rel="noopener"> <strong><span class="ugb-highlight" style="color: #9b51e0;">Dean</span></strong> </a>make tons of 7 string models every year and they continue to sell extremely well. </p>
+<p>Companies like <a data-lasso-id="1528" href="/new-schecter-red-reign-e-series-2021/" data-type="post" data-id="3029" target="_blank" rel="noopener"><strong><span class="ugb-highlight" style="color: #9b51e0;">Schecter</span></strong></a>, Ibanez, and<a data-lasso-id="1529" href="/dean-guitars-2021-lineup-tons-of-awesome-new-models-and-classic-redesign/" data-type="post" data-id="1832" target="_blank" rel="noopener"> <strong><span class="ugb-highlight" style="color: #9b51e0;">Dean</span></strong> </a>make tons of 7 string models every year and they continue to sell extremely well. </p>
 
 
 
@@ -351,7 +351,7 @@ seo:
 
 
 
-<p>Some <strong><a href="https://www.electrikjam.com/the-top-3-alternate-guitar-tunings/" data-type="post" data-id="12074" data-lasso-id="251840">popular alternate tunings</a></strong> for the 7 string guitar include:</p>
+<p>Some <strong><a href="/the-top-3-alternate-guitar-tunings/" data-type="post" data-id="12074" data-lasso-id="251840">popular alternate tunings</a></strong> for the 7 string guitar include:</p>
 
 
 
@@ -381,7 +381,7 @@ seo:
 
 
 
-<p>When selecting strings for a 7 string guitar, it&#8217;s crucial to <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" data-lasso-id="251841">choose a set designed for the extended range</a></strong>. The low B string, in particular, needs to be thick enough to produce a clear tone without being too floppy.</p>
+<p>When selecting strings for a 7 string guitar, it&#8217;s crucial to <strong><a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" data-lasso-id="251841">choose a set designed for the extended range</a></strong>. The low B string, in particular, needs to be thick enough to produce a clear tone without being too floppy.</p>
 
 
 
@@ -393,7 +393,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="251842"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png" alt="Schecter Sunset Triad" class="wp-image-12621" title="" srcset="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png 1024w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-600x400.png 600w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-300x200.png 300w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-768x512.png 768w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-type="post" data-id="12617" data-lasso-id="251843">The Schecter Sunset Triad</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/schecter-sunset-triad-review/" data-lasso-id="251842"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png" alt="Schecter Sunset Triad" class="wp-image-12621" title="" srcset="/wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-1024x683.png 1024w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-600x400.png 600w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-300x200.png 300w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3-768x512.png 768w, /wp-content/uploads/2023/08/Schecter-Sunset-Triad-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong><a href="/schecter-sunset-triad-review/" data-type="post" data-id="12617" data-lasso-id="251843">The Schecter Sunset Triad</a></strong></figcaption></figure>
 
 
 
@@ -401,7 +401,7 @@ seo:
 
 
 
-<p>A lot of people get really intimidated by the idea of 7 strings, but there are tons of ways to utilize the extra string. Most players these days tune down, and that&#8217;s <em>one</em> way to use them. With the advent of <a data-lasso-id="1530" href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" data-type="post" data-id="1797" target="_blank" rel="noopener"><strong><span class="ugb-highlight" style="color: #9b51e0;">Fan-Fret 7</span></strong></a> strings, it&#8217;s never been easier to tune down really low.</p>
+<p>A lot of people get really intimidated by the idea of 7 strings, but there are tons of ways to utilize the extra string. Most players these days tune down, and that&#8217;s <em>one</em> way to use them. With the advent of <a data-lasso-id="1530" href="/cort-multi-scale-guitars-new-beautiful-models-for-2021/" data-type="post" data-id="1797" target="_blank" rel="noopener"><strong><span class="ugb-highlight" style="color: #9b51e0;">Fan-Fret 7</span></strong></a> strings, it&#8217;s never been easier to tune down really low.</p>
 
 
 
@@ -409,7 +409,7 @@ seo:
 
 
 
-<p>This is personally how I like to use my 7 string. Standard tuning gives you not only lower range, but it also gives you different <a data-lasso-id="125934" href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/">ways to play scales and modes</a>. </p>
+<p>This is personally how I like to use my 7 string. Standard tuning gives you not only lower range, but it also gives you different <a data-lasso-id="125934" href="/basic-music-theory-for-guitarists-major-scale/">ways to play scales and modes</a>. </p>
 
 
 
@@ -425,7 +425,7 @@ seo:
 
 
 
-<p>No matter how you want to use it, the 7 string guitar definitely opens up different possibilities! This can boost your creativity, <a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" target="_blank" data-type="post" data-id="1491" rel="noopener" data-lasso-id="1531"><strong><span style="color: #9b51e0;" class="ugb-highlight">as I have said before regarding tunings.</span></strong></a> I use the 7 string as a different &#8220;color&#8221; for my instrumental palate. I think this is a huge advantage!</p>
+<p>No matter how you want to use it, the 7 string guitar definitely opens up different possibilities! This can boost your creativity, <a href="/doom-metal-tunings-the-top-5-best/" target="_blank" data-type="post" data-id="1491" rel="noopener" data-lasso-id="1531"><strong><span style="color: #9b51e0;" class="ugb-highlight">as I have said before regarding tunings.</span></strong></a> I use the 7 string as a different &#8220;color&#8221; for my instrumental palate. I think this is a huge advantage!</p>
 
 
 
@@ -441,7 +441,7 @@ seo:
 
 
 
-<p>That&#8217;s why plenty of 7-stringers move on to 8-string and <strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="251844">even 9-string guitars</a></strong> – they get hooked on that extended range of tonal options. </p>
+<p>That&#8217;s why plenty of 7-stringers move on to 8-string and <strong><a href="/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="251844">even 9-string guitars</a></strong> – they get hooked on that extended range of tonal options. </p>
 
 
 
@@ -489,19 +489,19 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-type="post" data-id="12617" data-lasso-id="251845">Schecter Sunset Triad Review: Unique 6 &amp; 7 String Behemoths!</a></strong></li>
+<li><strong><a href="/schecter-sunset-triad-review/" data-type="post" data-id="12617" data-lasso-id="251845">Schecter Sunset Triad Review: Unique 6 &amp; 7 String Behemoths!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-type="post" data-id="8912" data-lasso-id="251846">Schecter Omen Elite 2022 Review: Revamped 6,7 and 8 Strings Ready To Shred!</a></strong></li>
+<li><strong><a href="/schecter-omen-elite-2022-review/" data-type="post" data-id="8912" data-lasso-id="251846">Schecter Omen Elite 2022 Review: Revamped 6,7 and 8 Strings Ready To Shred!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" data-lasso-id="251847">Epiphone Matt Heafy Origins Review: Incredible 6 And 7 String BEASTS!</a></strong></li>
+<li><strong><a href="/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" data-lasso-id="251847">Epiphone Matt Heafy Origins Review: Incredible 6 And 7 String BEASTS!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" data-lasso-id="251848">Schecter Demon 7 Review: The BEST 7 String Guitar Under $500?</a></strong></li>
+<li><strong><a href="/schecter-demon-7-review/" data-type="post" data-id="5811" data-lasso-id="251848">Schecter Demon 7 Review: The BEST 7 String Guitar Under $500?</a></strong></li>
 </ul>
 </div></div>
 

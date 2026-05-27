@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p>Renowned for their unconventional approach to music, the Melvins have once again pushed the boundaries of creativity with their latest album, <strong><a href="https://www.electrikjam.com/melvins-tarantula-heart-review/" data-type="post" data-id="14823" data-lasso-id="265137">Tarantula Heart</a></strong>. </p>
+<p>Renowned for their unconventional approach to music, the Melvins have once again pushed the boundaries of creativity with their latest album, <strong><a href="/melvins-tarantula-heart-review/" data-type="post" data-id="14823" data-lasso-id="265137">Tarantula Heart</a></strong>. </p>
 
 
 
@@ -89,7 +89,7 @@ seo:
 
 
 <p>“The majority of&nbsp;Melvins&nbsp;<em>Tarantula Heart</em>&nbsp;has dual drum parts,” adds long-time Melvins drummer Dale Crover. “We invited Roy Mayorga from Ministry to come record with us. Roy is an amazing drummer! We would discuss what we would do pattern wise, then we’d just go for it! Improvising riffs and trading off on drum fills.”</p>
-<cite><a href="https://www.electrikjam.com/melvins-tarantula-heart-review/" data-type="post" data-id="14823" data-lasso-id="265138">Notes From Our Review of Tarantula Heart</a></cite></blockquote>
+<cite><a href="/melvins-tarantula-heart-review/" data-type="post" data-id="14823" data-lasso-id="265138">Notes From Our Review of Tarantula Heart</a></cite></blockquote>
 
 
 

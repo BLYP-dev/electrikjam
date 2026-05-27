@@ -42,7 +42,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/slayer-new-shows/" data-type="post" data-id="14285" data-lasso-id="260881">Slayer are reuniting in 2024 for a series of shows</a></strong> in the USA. The band famously called it quits back in 2019. But the guys missed doing Slayer live, so Kerry and Tom decided to get the band back together, although there is no word about a new album – it might just be a few shows.</p>
+<p><strong><a href="/slayer-new-shows/" data-type="post" data-id="14285" data-lasso-id="260881">Slayer are reuniting in 2024 for a series of shows</a></strong> in the USA. The band famously called it quits back in 2019. But the guys missed doing Slayer live, so Kerry and Tom decided to get the band back together, although there is no word about a new album – it might just be a few shows.</p>
 
 
 

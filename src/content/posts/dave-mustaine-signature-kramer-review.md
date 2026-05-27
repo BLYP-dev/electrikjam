@@ -48,11 +48,11 @@ seo:
 
 
 
-<p>It is rare to find an artist in the heavy metal scene as polarizing as Dave Mustaine. Whether you love him or hate him, there is no denying that he had an immense impact on the California Thrash Metal scene. The new Dave Mustaine Signature Kramer is the affordable version of his<strong><a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-type="post" data-id="12054" target="_blank" rel="noopener" data-lasso-id="243146"> new Gibson signature</a></strong> lineup.</p>
+<p>It is rare to find an artist in the heavy metal scene as polarizing as Dave Mustaine. Whether you love him or hate him, there is no denying that he had an immense impact on the California Thrash Metal scene. The new Dave Mustaine Signature Kramer is the affordable version of his<strong><a href="/the-gibson-brand-may-be-in-trouble/" data-type="post" data-id="12054" target="_blank" rel="noopener" data-lasso-id="243146"> new Gibson signature</a></strong> lineup.</p>
 
 
 
-<p>Born on September 13, 1961, in La Mesa, California, Dave Mustaine&#8217;s journey to stardom was nothing short of a rollercoaster ride. He began his musical career as the<strong><a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" target="_blank" data-type="post" data-id="3522" rel="noopener" data-lasso-id="243147"> lead guitarist for Metallica</a></strong>, one of the most influential bands in heavy metal history. Mustaine&#8217;s explosive guitar skills contributed to the creation of Metallica&#8217;s early sound, helping shape their groundbreaking debut album, <strong>&#8220;Kill &#8216;Em All.&#8221;</strong></p>
+<p>Born on September 13, 1961, in La Mesa, California, Dave Mustaine&#8217;s journey to stardom was nothing short of a rollercoaster ride. He began his musical career as the<strong><a href="/metallica-songs-complete-list-inc-covers-rarities/" target="_blank" data-type="post" data-id="3522" rel="noopener" data-lasso-id="243147"> lead guitarist for Metallica</a></strong>, one of the most influential bands in heavy metal history. Mustaine&#8217;s explosive guitar skills contributed to the creation of Metallica&#8217;s early sound, helping shape their groundbreaking debut album, <strong>&#8220;Kill &#8216;Em All.&#8221;</strong></p>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<p>Over the years, Dave has made many different endorsement deals, <strong><a href="https://www.electrikjam.com/jackson-2021-artist-models-new-old-and-unexpected/" data-type="post" data-id="1846" target="_blank" rel="noopener" data-lasso-id="243149">famously with Jackson Guitars</a></strong>. When he left Jackson he moved on to Dean Guitars, but the design never changed much regardless of the company he endorsed. He likes extreme shapes and designs, and you will probably never see him play something as pedestrian as a Strat!</p>
+<p>Over the years, Dave has made many different endorsement deals, <strong><a href="/jackson-2021-artist-models-new-old-and-unexpected/" data-type="post" data-id="1846" target="_blank" rel="noopener" data-lasso-id="243149">famously with Jackson Guitars</a></strong>. When he left Jackson he moved on to Dean Guitars, but the design never changed much regardless of the company he endorsed. He likes extreme shapes and designs, and you will probably never see him play something as pedestrian as a Strat!</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<p>But we have a unique situation with the new Dave Mustaine Signature models. We do have an <strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" target="_blank" rel="noopener" data-lasso-id="243150">Epiphone Prophecy model </a></strong>with Dave&#8217;s name attached to it. But we also have a Kramer version, that is just a little bit meaner and angular compared to the softer Gibson/Epiphone models.</p>
+<p>But we have a unique situation with the new Dave Mustaine Signature models. We do have an <strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" target="_blank" rel="noopener" data-lasso-id="243150">Epiphone Prophecy model </a></strong>with Dave&#8217;s name attached to it. But we also have a Kramer version, that is just a little bit meaner and angular compared to the softer Gibson/Epiphone models.</p>
 
 
 
@@ -266,7 +266,7 @@ seo:
 
 
 
-<p>We decided to <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="243151">use the BOSS Katana 100 </a></strong>for testing this guitar, since it is a popular amp that can do just about any tone. The &#8220;brown&#8221; channel should be perfect for playing some heavy riffs. Also, this is an amp that people buying this guitar would maybe own.</p>
+<p>We decided to <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="243151">use the BOSS Katana 100 </a></strong>for testing this guitar, since it is a popular amp that can do just about any tone. The &#8220;brown&#8221; channel should be perfect for playing some heavy riffs. Also, this is an amp that people buying this guitar would maybe own.</p>
 
 
 
@@ -278,7 +278,7 @@ seo:
 
 
 
-<p>The neck is a little too thin for my usual taste, and it is very close to <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255038">feeling like an Ibanez</a> or Jackson. It gets really flat past the 9th fret, which is fantastic for playing fast runs. I have massive hands, so I prefer a little more &#8220;meat&#8221; on the neck.</p>
+<p>The neck is a little too thin for my usual taste, and it is very close to <a href="/ibanez-guitars/" data-lasso-id="255038">feeling like an Ibanez</a> or Jackson. It gets really flat past the 9th fret, which is fantastic for playing fast runs. I have massive hands, so I prefer a little more &#8220;meat&#8221; on the neck.</p>
 
 
 
@@ -322,7 +322,7 @@ seo:
 
 
 
-<p>The pickups are a custom set, and I thought both would be a &#8220;Dave Mustaine Signature&#8221;. But the neck pickup is the<strong><a href="https://www.electrikjam.com/seymour-duncan-hyper-switch-review/" data-type="post" data-id="11904" target="_blank" rel="noopener" data-lasso-id="243152"> SH1 from Seymour Duncan</a></strong>. The bridge is the signature &#8220;Thrash Factor&#8221; pickup, and it is HOT when it comes to output (17K).</p>
+<p>The pickups are a custom set, and I thought both would be a &#8220;Dave Mustaine Signature&#8221;. But the neck pickup is the<strong><a href="/seymour-duncan-hyper-switch-review/" data-type="post" data-id="11904" target="_blank" rel="noopener" data-lasso-id="243152"> SH1 from Seymour Duncan</a></strong>. The bridge is the signature &#8220;Thrash Factor&#8221; pickup, and it is HOT when it comes to output (17K).</p>
 
 
 
@@ -354,7 +354,7 @@ seo:
 
 
 
-<p>Both pickups sound fantastic for their specific applications, which is what you expect from Duncan. The clarity from the bridge pickup will work well <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="243153">if you plan on tuning down</a></strong>, but even<strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" target="_blank" rel="noopener" data-lasso-id="243154"> in standard tuning </a></strong>the sound is punchy and heavy. You can hear every note in a big chord, even under high gain, despite the Thrash Factor being <em>rowdy as hell</em>.</p>
+<p>Both pickups sound fantastic for their specific applications, which is what you expect from Duncan. The clarity from the bridge pickup will work well <strong><a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="243153">if you plan on tuning down</a></strong>, but even<strong><a href="/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" target="_blank" rel="noopener" data-lasso-id="243154"> in standard tuning </a></strong>the sound is punchy and heavy. You can hear every note in a big chord, even under high gain, despite the Thrash Factor being <em>rowdy as hell</em>.</p>
 
 
 
@@ -406,7 +406,7 @@ seo:
 
 
 
-<p>Kramer seems to be getting a second chance as of late, with tons of guitarists experimenting with the 80s Metal style. Back then, Kramer was one of the most popular brands and <strong><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="243155">even had Eddie Van Halen</a></strong> as an artist for a while. I am glad that the company is making a comeback with quality guitars.</p>
+<p>Kramer seems to be getting a second chance as of late, with tons of guitarists experimenting with the 80s Metal style. Back then, Kramer was one of the most popular brands and <strong><a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="243155">even had Eddie Van Halen</a></strong> as an artist for a while. I am glad that the company is making a comeback with quality guitars.</p>
 
 
 

@@ -60,19 +60,19 @@ seo:
 
 
 
-<p>I don&#8217;t think it is any secret that <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="511">we love Black sabbath</a> here at Electrikjam. Sabbath is often called the pioneers of Metal and Doom. There is absolutely no argument in that from me, as I believe <strong>Tony Iommi</strong> is a living legend amongst every guitarist that plays heavy music. The most impressive thing about Tony is his sound.</p>
+<p>I don&#8217;t think it is any secret that <a href="/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="511">we love Black sabbath</a> here at Electrikjam. Sabbath is often called the pioneers of Metal and Doom. There is absolutely no argument in that from me, as I believe <strong>Tony Iommi</strong> is a living legend amongst every guitarist that plays heavy music. The most impressive thing about Tony is his sound.</p>
 
 
 
-<p>We know how easy it is to get an evil, distorted tone these days. <a href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="512">There are multitudes of pedals</a> and amplifiers that will give you just about any sound you could want. But in 1970, it was a little more difficult.</p>
+<p>We know how easy it is to get an evil, distorted tone these days. <a href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="512">There are multitudes of pedals</a> and amplifiers that will give you just about any sound you could want. But in 1970, it was a little more difficult.</p>
 
 
 
-<p>Tony got his sound for the famous first three Black sabbath albums using unconventional methods for the time. Because there were no Peavey 5150 amps back then, he had to improvise and think on his feet. There are many components that make up <a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-lasso-id="513">the unique sound of Sabbath, but the guitar tone is just as center stage</a> as Ozzy&#8217;s voice in my opinion.</p>
+<p>Tony got his sound for the famous first three Black sabbath albums using unconventional methods for the time. Because there were no Peavey 5150 amps back then, he had to improvise and think on his feet. There are many components that make up <a href="/killer-guitar-tone-without-hardware/" data-lasso-id="513">the unique sound of Sabbath, but the guitar tone is just as center stage</a> as Ozzy&#8217;s voice in my opinion.</p>
 
 
 
-<p>Tony got his now classic tone using cranked up Laney amps that had a few mods. The Laney amps had a treble booster circuit built in. This kept his tone clean even though it was <em>heavily</em> distorted. Later, he would run an <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5822">overdrive along with the cranked amps</a> to achieve his tone. The rest is history, as they say.</p>
+<p>Tony got his now classic tone using cranked up Laney amps that had a few mods. The Laney amps had a treble booster circuit built in. This kept his tone clean even though it was <em>heavily</em> distorted. Later, he would run an <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5822">overdrive along with the cranked amps</a> to achieve his tone. The rest is history, as they say.</p>
 
 
 

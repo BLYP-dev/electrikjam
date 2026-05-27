@@ -68,7 +68,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="252784">Fender Jazzmaster</a></strong> isn&#8217;t just another guitar; it&#8217;s a full-blown legend in the music scene with a deep history that dates back to the late 1950s. </p>
+<p>The <strong><a href="/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="252784">Fender Jazzmaster</a></strong> isn&#8217;t just another guitar; it&#8217;s a full-blown legend in the music scene with a deep history that dates back to the late 1950s. </p>
 
 
 
@@ -198,7 +198,7 @@ seo:
 
 
 
-<p>The build quality? Solid. The sound? Exceptional. It&#8217;s no wonder musicians from various genres gravitate toward it. The unique body shape is another win; it&#8217;s just more comfortable to play than other classics like the <strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="252785">Telecaster or Stratocaster.</a></strong></p>
+<p>The build quality? Solid. The sound? Exceptional. It&#8217;s no wonder musicians from various genres gravitate toward it. The unique body shape is another win; it&#8217;s just more comfortable to play than other classics like the <strong><a href="/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="252785">Telecaster or Stratocaster.</a></strong></p>
 
 
 
@@ -266,7 +266,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-type="post" data-id="13094" data-lasso-id="252786">Take Jim Root of Slipknot</a></strong>, for example. </p>
+<p><strong><a href="/jim-root-signature-guitars/" data-type="post" data-id="13094" data-lasso-id="252786">Take Jim Root of Slipknot</a></strong>, for example. </p>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<li><strong>American Professional II Jazzmaster</strong>: This is a modern take on the classic, featuring <strong><a href="https://www.electrikjam.com/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/" data-type="post" data-id="4546" data-lasso-id="252787">V-Mod II Jazzmaster single-coil pickups</a></strong> and a “Deep C”-shaped neck profile. It&#8217;s designed for the demands of contemporary players.</li>
+<li><strong>American Professional II Jazzmaster</strong>: This is a modern take on the classic, featuring <strong><a href="/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/" data-type="post" data-id="4546" data-lasso-id="252787">V-Mod II Jazzmaster single-coil pickups</a></strong> and a “Deep C”-shaped neck profile. It&#8217;s designed for the demands of contemporary players.</li>
 
 
 
@@ -385,19 +385,19 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong>Squier Classic Vibe &#8217;60s Jazzmaster</strong>: <strong><a href="https://www.electrikjam.com/squier-classic-vibe-60s-jazzmaster-limited-edition-electric-guitar-daphne-blue-guitar-center/" data-type="lasso-urls" data-id="13177" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252788" data-lasso-name="Squier Classic Vibe &#039;60s Jazzmaster Limited-Edition Electric Guitar Daphne Blue | Guitar Center">A budget-friendly choice at around $400</a></strong>. It sports a poplar body, maple neck, and rosewood fingerboard. Equipped with two Fender-designed alnico single-coil pickups, this model delivers that classic Jazzmaster tone.</li>
+<li><strong>Squier Classic Vibe &#8217;60s Jazzmaster</strong>: <strong><a href="/squier-classic-vibe-60s-jazzmaster-limited-edition-electric-guitar-daphne-blue-guitar-center/" data-type="lasso-urls" data-id="13177" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252788" data-lasso-name="Squier Classic Vibe &#039;60s Jazzmaster Limited-Edition Electric Guitar Daphne Blue | Guitar Center">A budget-friendly choice at around $400</a></strong>. It sports a poplar body, maple neck, and rosewood fingerboard. Equipped with two Fender-designed alnico single-coil pickups, this model delivers that classic Jazzmaster tone.</li>
 
 
 
-<li><strong>Squier J Mascis Jazzmaster</strong>: <strong><a href="https://www.electrikjam.com/squier-j-mascis-jazzmaster-electric-guitar-vintage-white-guitar-center/" data-type="lasso-urls" data-id="13178" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252789" data-lasso-name="Squier J Mascis Jazzmaster Electric Guitar Vintage White | Guitar Center">Priced at approximately $500</a></strong>, this model offers a unique look and sound. It features a basswood body, maple neck, and rosewood fingerboard. The two single-coil Jazzmaster pickups provide a warm and rich tone.</li>
+<li><strong>Squier J Mascis Jazzmaster</strong>: <strong><a href="/squier-j-mascis-jazzmaster-electric-guitar-vintage-white-guitar-center/" data-type="lasso-urls" data-id="13178" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252789" data-lasso-name="Squier J Mascis Jazzmaster Electric Guitar Vintage White | Guitar Center">Priced at approximately $500</a></strong>, this model offers a unique look and sound. It features a basswood body, maple neck, and rosewood fingerboard. The two single-coil Jazzmaster pickups provide a warm and rich tone.</li>
 
 
 
-<li><strong>Fender Player Jazzmaster</strong>: <strong><a href="https://www.electrikjam.com/fender-player-jazzmaster-pau-ferro-fingerboard-electric-guitar-polar-white-guitar-center/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252790" data-lasso-name="Fender Player Jazzmaster Pau Ferro Fingerboard Electric Guitar Polar White | Guitar Center">A mid-range option available for around $800</a></strong>. It has a modern twist with an alder body, maple neck, and pau ferro fingerboard. The guitar comes with two humbucking pickups, offering a powerful and versatile tone.</li>
+<li><strong>Fender Player Jazzmaster</strong>: <strong><a href="/fender-player-jazzmaster-pau-ferro-fingerboard-electric-guitar-polar-white-guitar-center/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252790" data-lasso-name="Fender Player Jazzmaster Pau Ferro Fingerboard Electric Guitar Polar White | Guitar Center">A mid-range option available for around $800</a></strong>. It has a modern twist with an alder body, maple neck, and pau ferro fingerboard. The guitar comes with two humbucking pickups, offering a powerful and versatile tone.</li>
 
 
 
-<li><strong>Fender Vintera &#8217;60s Jazzmaster</strong>: <strong><a href="https://www.electrikjam.com/fender-vintera-60s-jazzmaster-modified-electric-guitar-surf-green-guitar-center/" data-type="lasso-urls" data-id="13180" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252791" data-lasso-name="Fender Vintera &#039;60s Jazzmaster Modified Electric Guitar Surf Green | Guitar Center">On the higher end at about $1,200</a></strong>. This model offers a vintage look and sound with an alder body, maple neck, and pau ferro fingerboard. It features two vintage-style single-coil Jazzmaster pickups for that classic tone.</li>
+<li><strong>Fender Vintera &#8217;60s Jazzmaster</strong>: <strong><a href="/fender-vintera-60s-jazzmaster-modified-electric-guitar-surf-green-guitar-center/" data-type="lasso-urls" data-id="13180" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="252791" data-lasso-name="Fender Vintera &#039;60s Jazzmaster Modified Electric Guitar Surf Green | Guitar Center">On the higher end at about $1,200</a></strong>. This model offers a vintage look and sound with an alder body, maple neck, and pau ferro fingerboard. It features two vintage-style single-coil Jazzmaster pickups for that classic tone.</li>
 </ul>
 
 

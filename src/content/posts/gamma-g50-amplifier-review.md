@@ -38,7 +38,7 @@ seo:
 
 
 
-<p>Last week <strong><a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-type="post" data-id="11544" target="_blank" rel="noopener" data-lasso-id="232758">we checked out the new GAMMA Guitar pedals</a></strong> lineup, where we briefly mentioned the GAMMA G50 amplifier. Today, we are going to take a good look at what makes this amp so special, and why it might be a great amp for gigging.</p>
+<p>Last week <strong><a href="/gamma-guitar-pedals-review/" data-type="post" data-id="11544" target="_blank" rel="noopener" data-lasso-id="232758">we checked out the new GAMMA Guitar pedals</a></strong> lineup, where we briefly mentioned the GAMMA G50 amplifier. Today, we are going to take a good look at what makes this amp so special, and why it might be a great amp for gigging.</p>
 
 
 
@@ -54,11 +54,11 @@ seo:
 
 
 
-<p>So GAMMA actually comes from a long line of <strong><a data-lasso-id="232760" href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener">fantastic solid state amplifiers</a></strong>. In fact, I used an Acoustic guitar amp head as a backup on tour for years! It certainly came in handy more than once, and I am happy to see them rebooted as GAMMA, with the same budget-friendly price tag.</p>
+<p>So GAMMA actually comes from a long line of <strong><a data-lasso-id="232760" href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener">fantastic solid state amplifiers</a></strong>. In fact, I used an Acoustic guitar amp head as a backup on tour for years! It certainly came in handy more than once, and I am happy to see them rebooted as GAMMA, with the same budget-friendly price tag.</p>
 
 
 
-<p>The GAMMA G50 is quite unassuming at first glance, but it may just be the antithesis of o<strong><a data-lasso-id="232761" href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener">ther amps like the Line 6 Catalyst or BOSS Katana</a></strong>. While those are great solid state amps as well, and are popular for gigging, they both have on-board effects as their focus. You won&#8217;t find any effects on the G20 or G50 amps.</p>
+<p>The GAMMA G50 is quite unassuming at first glance, but it may just be the antithesis of o<strong><a data-lasso-id="232761" href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener">ther amps like the Line 6 Catalyst or BOSS Katana</a></strong>. While those are great solid state amps as well, and are popular for gigging, they both have on-board effects as their focus. You won&#8217;t find any effects on the G20 or G50 amps.</p>
 
 
 
@@ -66,11 +66,11 @@ seo:
 
 
 
-<p>But <strong><a data-lasso-id="232762" href="https://www.electrikjam.com/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-type="post" data-id="11344" target="_blank" rel="noopener">we also just recently talked about how some guitarists prefer &#8220;all analog&#8221; </a></strong>when it comes to guitar gear. While built-in effects are popular, I don&#8217;t see physical pedals and pedalboards dying out anytime soon. Sometimes a pedal offers an effect or sound that just cannot be replicated digitally, especially fuzz.</p>
+<p>But <strong><a data-lasso-id="232762" href="/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-type="post" data-id="11344" target="_blank" rel="noopener">we also just recently talked about how some guitarists prefer &#8220;all analog&#8221; </a></strong>when it comes to guitar gear. While built-in effects are popular, I don&#8217;t see physical pedals and pedalboards dying out anytime soon. Sometimes a pedal offers an effect or sound that just cannot be replicated digitally, especially fuzz.</p>
 
 
 
-<p>So for guitarists that are pedal-junkies, the GAMMA G50 might be right up your alley. The amp was designed from the ground up as a dedicated pedal platform, with the speaker being the main focus. Honestly, more companies should take note s<strong><a href="https://www.electrikjam.com/the-best-celestion-speakers/" target="_blank" data-type="post" data-id="7105" rel="noopener" data-lasso-id="232763">ince the speaker matters, a LOT</a></strong>.</p>
+<p>So for guitarists that are pedal-junkies, the GAMMA G50 might be right up your alley. The amp was designed from the ground up as a dedicated pedal platform, with the speaker being the main focus. Honestly, more companies should take note s<strong><a href="/the-best-celestion-speakers/" target="_blank" data-type="post" data-id="7105" rel="noopener" data-lasso-id="232763">ince the speaker matters, a LOT</a></strong>.</p>
 
 
 
@@ -90,11 +90,11 @@ seo:
 
 
 
-<p>Taking a quick look at the G50, it looks very simple. In fact, it almost looks like a practice amp that you probably owned <strong><a href="https://www.electrikjam.com/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="232784">20 years ago by Peavey</a></strong> or another similar brand. While it is simple, the GAMMA G50 is built that way on purpose.</p>
+<p>Taking a quick look at the G50, it looks very simple. In fact, it almost looks like a practice amp that you probably owned <strong><a href="/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="232784">20 years ago by Peavey</a></strong> or another similar brand. While it is simple, the GAMMA G50 is built that way on purpose.</p>
 
 
 
-<p>But to be honest, it is nice to see this kind of layout after the last 5 years or so of amplifiers that I have reviewed. With <strong><a href="https://www.electrikjam.com/https-guitar-center-pxf-io-qo0q2o/" data-type="lasso-urls" data-id="6353" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="232764" data-lasso-name="Fender Mustang GTX 100 100W 1x12 Guitar Combo Amp">amps like the Fender Mustang</a></strong>, that have a literal computer screen built-in, it can be a little daunting to new players. But while it may be complex to beginners, it sometimes comes off as &#8220;not enough&#8221; for experienced guitarists.</p>
+<p>But to be honest, it is nice to see this kind of layout after the last 5 years or so of amplifiers that I have reviewed. With <strong><a href="/https-guitar-center-pxf-io-qo0q2o/" data-type="lasso-urls" data-id="6353" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="232764" data-lasso-name="Fender Mustang GTX 100 100W 1x12 Guitar Combo Amp">amps like the Fender Mustang</a></strong>, that have a literal computer screen built-in, it can be a little daunting to new players. But while it may be complex to beginners, it sometimes comes off as &#8220;not enough&#8221; for experienced guitarists.</p>
 
 
 
@@ -232,7 +232,7 @@ seo:
 
 
 
-<p>So while the GAMMA G50 will undoubtedly appeal to pedal enthusiasts, it can also be used with a <strong><a href="https://www.electrikjam.com/line-6-guide/" data-type="post" data-id="9935" target="_blank" rel="noopener" data-lasso-id="232785">multi-effects unit like the Line 6 Helix as well</a></strong>. This isn&#8217;t to say that the G50 will work <strong><a href="https://www.electrikjam.com/best-frfr-speaker/" target="_blank" data-type="post" data-id="11014" rel="noopener" data-lasso-id="232786">like an FRFR cabinet</a></strong>, though, as it will color your tone. I just wanted to point out that like the Katana, it is an option to be a &#8220;Power In&#8221; type of amp.</p>
+<p>So while the GAMMA G50 will undoubtedly appeal to pedal enthusiasts, it can also be used with a <strong><a href="/line-6-guide/" data-type="post" data-id="9935" target="_blank" rel="noopener" data-lasso-id="232785">multi-effects unit like the Line 6 Helix as well</a></strong>. This isn&#8217;t to say that the G50 will work <strong><a href="/best-frfr-speaker/" target="_blank" data-type="post" data-id="11014" rel="noopener" data-lasso-id="232786">like an FRFR cabinet</a></strong>, though, as it will color your tone. I just wanted to point out that like the Katana, it is an option to be a &#8220;Power In&#8221; type of amp.</p>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<p>Don&#8217;t get me wrong, <strong><a data-lasso-id="232765" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener">I love my BOSS Katana </a></strong>with my entire little black heart. But there&#8217;s something about an old-school amp that doesn&#8217;t do anything but be LOUD. The Katana takes pedals well too, but the G50 is literally designed to be a pedal-friendly amp.</p>
+<p>Don&#8217;t get me wrong, <strong><a data-lasso-id="232765" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener">I love my BOSS Katana </a></strong>with my entire little black heart. But there&#8217;s something about an old-school amp that doesn&#8217;t do anything but be LOUD. The Katana takes pedals well too, but the G50 is literally designed to be a pedal-friendly amp.</p>
 
 
 

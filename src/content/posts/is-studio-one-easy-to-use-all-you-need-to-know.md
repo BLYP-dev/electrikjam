@@ -50,7 +50,7 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="250515" href="https://www.electrikjam.com/what-is-presonus-studio-one/" data-type="post" data-id="12646" target="_blank" rel="noopener">Studio One</a></strong> has several different price tiers, and <strong><a data-lasso-id="250516" href="https://www.electrikjam.com/how-much-does-studio-one-cost/" data-type="post" data-id="12666" target="_blank" rel="noopener">three different editions of the DAW</a></strong>. All have a trial period, but since the 6th Edition update, there is no longer a free &#8220;Prime&#8221; version of studio One. That being said, the Artist Edition starts at only $99.</p>
+<p><strong><a data-lasso-id="250515" href="/what-is-presonus-studio-one/" data-type="post" data-id="12646" target="_blank" rel="noopener">Studio One</a></strong> has several different price tiers, and <strong><a data-lasso-id="250516" href="/how-much-does-studio-one-cost/" data-type="post" data-id="12666" target="_blank" rel="noopener">three different editions of the DAW</a></strong>. All have a trial period, but since the 6th Edition update, there is no longer a free &#8220;Prime&#8221; version of studio One. That being said, the Artist Edition starts at only $99.</p>
 
 
 
@@ -210,7 +210,7 @@ seo:
 
 
 
-<p>All you really need to get started on your musical journey is a <strong><a href="https://www.electrikjam.com/best-midi-keyboards/" data-type="post" data-id="12719" target="_blank" rel="noopener" data-lasso-id="250590">MIDI controller</a></strong>, since you have a large cache of instruments and sounds built in to Studio One. If you are a guitarist, then you have a full suite of amplifier and cabinet simulators to dial in your perfect tone.</p>
+<p>All you really need to get started on your musical journey is a <strong><a href="/best-midi-keyboards/" data-type="post" data-id="12719" target="_blank" rel="noopener" data-lasso-id="250590">MIDI controller</a></strong>, since you have a large cache of instruments and sounds built in to Studio One. If you are a guitarist, then you have a full suite of amplifier and cabinet simulators to dial in your perfect tone.</p>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p>These are just a few of the plugins, instruments and effects that you have at your disposal. While Studio One does work well with <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254847">3rd party plugins like amp sims</a>, PreSonus made sure to include a bit of everything built-in to the DAW. That way, you can keep your entire project within the Studio One ecosystem.</p>
+<p>These are just a few of the plugins, instruments and effects that you have at your disposal. While Studio One does work well with <a href="/neural-amp-modeler/" data-lasso-id="254847">3rd party plugins like amp sims</a>, PreSonus made sure to include a bit of everything built-in to the DAW. That way, you can keep your entire project within the Studio One ecosystem.</p>
 
 
 

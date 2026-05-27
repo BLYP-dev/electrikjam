@@ -50,11 +50,11 @@ seo:
 
 
 
-<p>But like I said, Paul is an interesting guy, and while guitar innovation is definitely on his radar, he has so many <em>other</em> interests. One of those interests is outboard <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="200800"><strong>recording</strong></a> gear, and he has spent years tearing down pedals and gear. He has tons of vintage compressors, and pedals that he has studied.</p>
+<p>But like I said, Paul is an interesting guy, and while guitar innovation is definitely on his radar, he has so many <em>other</em> interests. One of those interests is outboard <a href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="200800"><strong>recording</strong></a> gear, and he has spent years tearing down pedals and gear. He has tons of vintage compressors, and pedals that he has studied.</p>
 
 
 
-<p>In a <a href="https://youtu.be/5e1R5bWC1jg" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="200790"><strong>recent interview</strong></a> with <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="200791"><strong>Steve Vai</strong></a>, he even expressed an interest in<em> X-ray technology</em>. Some of the things that go on in the PRS Factory in Maryland is also next-level. Watch a video tour of the factory, and you will be surprised at how much work goes into the guitars. Paul obviously likes to innovate. So when the PRS <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231152">Guitar Pedals</a> were announced, it didn&#8217;t surprise me at all.</p>
+<p>In a <a href="https://youtu.be/5e1R5bWC1jg" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="200790"><strong>recent interview</strong></a> with <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="200791"><strong>Steve Vai</strong></a>, he even expressed an interest in<em> X-ray technology</em>. Some of the things that go on in the PRS Factory in Maryland is also next-level. Watch a video tour of the factory, and you will be surprised at how much work goes into the guitars. Paul obviously likes to innovate. So when the PRS <a href="/gamma-guitar-pedals-review/" data-lasso-id="231152">Guitar Pedals</a> were announced, it didn&#8217;t surprise me at all.</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>This was not an easy task though, because the pedal business is<strong> very oversaturated</strong>. The pedal business is essentially sink or swim these days, and while leaders like <a href="https://www.electrikjam.com/boss-gt-1-guitar-multi-effects-processor-guitar-center/" data-type="lasso-urls" data-id="9476" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="200792" data-lasso-name="BOSS GT-1 Guitar Multi-Effects Processor"><strong>BOSS </strong></a>never have any problems, smaller companies struggle to break into the game. But PRS is no small company, is it?</p>
+<p>This was not an easy task though, because the pedal business is<strong> very oversaturated</strong>. The pedal business is essentially sink or swim these days, and while leaders like <a href="/boss-gt-1-guitar-multi-effects-processor-guitar-center/" data-type="lasso-urls" data-id="9476" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="200792" data-lasso-name="BOSS GT-1 Guitar Multi-Effects Processor"><strong>BOSS </strong></a>never have any problems, smaller companies struggle to break into the game. But PRS is no small company, is it?</p>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<p>Blending it with the crunch channel of a <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="200793"><strong>5150</strong></a>, you get that same full sound, just with more bite. It gives you a second EQ channel for your gain, or you can add more gain to the crunch for a solo tone. There is a LOT you can do with pedal. And it costs a fraction of the other options that I see on eBay all the time.</p>
+<p>Blending it with the crunch channel of a <a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="200793"><strong>5150</strong></a>, you get that same full sound, just with more bite. It gives you a second EQ channel for your gain, or you can add more gain to the crunch for a solo tone. There is a LOT you can do with pedal. And it costs a fraction of the other options that I see on eBay all the time.</p>
 
 
 

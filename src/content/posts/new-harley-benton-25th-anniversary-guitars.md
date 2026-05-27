@@ -42,15 +42,15 @@ seo:
 
 
 
-<p>It may be hard to believe that it has been 25 years since the release are Harley Benton as a brand. <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" target="_blank" rel="noopener" data-lasso-id="227541">We recently did a deep dive into the history of Harley Benton</a></strong>, and it really does go back that far! The brand that people know and love have only recently come into its own, but it started in 1997!</p>
+<p>It may be hard to believe that it has been 25 years since the release are Harley Benton as a brand. <strong><a href="/harley-benton-guitars-guide/" target="_blank" rel="noopener" data-lasso-id="227541">We recently did a deep dive into the history of Harley Benton</a></strong>, and it really does go back that far! The brand that people know and love have only recently come into its own, but it started in 1997!</p>
 
 
 
-<p>Most guitarists are probably scratching their heads at the Harley Benton 25th Anniversary, since the brand only recently gained notoriety and became a <strong><a data-lasso-id="227542" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener">popular option for budget guitars</a></strong>. But the brand actually started <em>without</em> a proper name in 1997!</p>
+<p>Most guitarists are probably scratching their heads at the Harley Benton 25th Anniversary, since the brand only recently gained notoriety and became a <strong><a data-lasso-id="227542" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener">popular option for budget guitars</a></strong>. But the brand actually started <em>without</em> a proper name in 1997!</p>
 
 
 
-<p>Those first &#8220;unbranded&#8221; models in 1997 really didn&#8217;t take off, and the <a href="https://www.electrikjam.com/thomann-usa-shipping-times-costs-a-complete-guide/" data-lasso-id="251554">Thomann Music</a> &#8220;house brand&#8221; wasn&#8217;t popular until the &#8220;Harley Benton&#8221; moniker was applied in 1998. The idea was to have a fully in-house brand for Thomann, for customers on a slim budget.</p>
+<p>Those first &#8220;unbranded&#8221; models in 1997 really didn&#8217;t take off, and the <a href="/thomann-usa-shipping-times-costs-a-complete-guide/" data-lasso-id="251554">Thomann Music</a> &#8220;house brand&#8221; wasn&#8217;t popular until the &#8220;Harley Benton&#8221; moniker was applied in 1998. The idea was to have a fully in-house brand for Thomann, for customers on a slim budget.</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>This corporate shift changed where <a href="https://www.electrikjam.com/harley-benton-dc-fat-p90-guitars-review/" data-lasso-id="235139">Harley Benton guitars</a> were made, as well as the features that were offered. We started to see Roasted Maple necks, locking tuners, and even stainless steel frets on the higher end models. <strong>And by &#8220;higher end&#8221; I mean $350-$400.</strong></p>
+<p>This corporate shift changed where <a href="/harley-benton-dc-fat-p90-guitars-review/" data-lasso-id="235139">Harley Benton guitars</a> were made, as well as the features that were offered. We started to see Roasted Maple necks, locking tuners, and even stainless steel frets on the higher end models. <strong>And by &#8220;higher end&#8221; I mean $350-$400.</strong></p>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<p>Harley Benton is certainly a trail-blazer when it comes to <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231161">budget guitars</a>, and this new lineup is proof of just how much guitar you can get for your money. The Harley Benton 25th Anniversary guitars are a &#8220;run&#8221; like usual, <strong>so they will be limited</strong>.</p>
+<p>Harley Benton is certainly a trail-blazer when it comes to <a href="/gamma-guitar-pedals-review/" data-lasso-id="231161">budget guitars</a>, and this new lineup is proof of just how much guitar you can get for your money. The Harley Benton 25th Anniversary guitars are a &#8220;run&#8221; like usual, <strong>so they will be limited</strong>.</p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/electrikjam-link/" data-type="post" data-id="5767" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="227723" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Harley Benton Fusion Series </a></strong>has been hugely popular, and these are some of <em>my </em>personal favorites from the brand. The Fusion series is designed to cover all kinds of music, and be a versatile workhorse. The whole idea is to balance traditional design, with modern appointments.</p>
+<p>The <strong><a href="/electrikjam-link/" data-type="post" data-id="5767" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="227723" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Harley Benton Fusion Series </a></strong>has been hugely popular, and these are some of <em>my </em>personal favorites from the brand. The Fusion series is designed to cover all kinds of music, and be a versatile workhorse. The whole idea is to balance traditional design, with modern appointments.</p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<p>The Harley Benton 25th Anniversary Series certainly didn&#8217;t forget about the more classic styled guitars. But there is a huge difference <strong><a href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" target="_blank" rel="noopener" data-lasso-id="227724">between the Standard Series designs</a></strong>, and the Anniversary Series, due to some really cool upgrades.</p>
+<p>The Harley Benton 25th Anniversary Series certainly didn&#8217;t forget about the more classic styled guitars. But there is a huge difference <strong><a href="/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" target="_blank" rel="noopener" data-lasso-id="227724">between the Standard Series designs</a></strong>, and the Anniversary Series, due to some really cool upgrades.</p>
 
 
 
@@ -716,11 +716,11 @@ seo:
 
 
 
-<p>This bass has absolutely everything, and can be used to get all kinds of tones. But starting with the hardware, the Wilkinson tuners and SK4 bridge will not only keep you in tune, but provide precise <strong><a data-lasso-id="227550" href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener">intonation for each string</a></strong>.</p>
+<p>This bass has absolutely everything, and can be used to get all kinds of tones. But starting with the hardware, the Wilkinson tuners and SK4 bridge will not only keep you in tune, but provide precise <strong><a data-lasso-id="227550" href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener">intonation for each string</a></strong>.</p>
 
 
 
-<p>I think the string retainer looks really cool, and unique. It is a full bar across the 3 higher strings, a<strong><a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="227725">lmost like a Floyd Rose retainer</a></strong>. I think this is a very neat detail, that adds some character. I don&#8217;t think I have ever seen anything like that before.</p>
+<p>I think the string retainer looks really cool, and unique. It is a full bar across the 3 higher strings, a<strong><a href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="227725">lmost like a Floyd Rose retainer</a></strong>. I think this is a very neat detail, that adds some character. I don&#8217;t think I have ever seen anything like that before.</p>
 
 
 
@@ -796,7 +796,7 @@ seo:
 
 
 
-<p>But at the same time, any of the Harley Benton 25th Anniversary guitars would make a <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254490">GREAT beginner&#8217;s guitar</a>. In fact, this would be a guitar that can grow with the beginner, since there are features that the pros are looking for like locking tuners and stainless steel frets. </p>
+<p>But at the same time, any of the Harley Benton 25th Anniversary guitars would make a <a href="/best-guitar-for-beginners/" data-lasso-id="254490">GREAT beginner&#8217;s guitar</a>. In fact, this would be a guitar that can grow with the beginner, since there are features that the pros are looking for like locking tuners and stainless steel frets. </p>
 
 
 

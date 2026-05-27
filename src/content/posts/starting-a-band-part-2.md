@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Last year, I<strong> <a href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/?fbclid=IwAR1zcfZDMJWP5Mjkbt1bfUsrarx7B-zYUermhW-rRLRAr_iMW4ibRULTGUs" target="_blank" rel="noopener" data-lasso-id="73624">wrote an article</a></strong><a href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/?fbclid=IwAR1zcfZDMJWP5Mjkbt1bfUsrarx7B-zYUermhW-rRLRAr_iMW4ibRULTGUs" target="_blank" rel="noopener" data-lasso-id="73625"> </a>about starting an original band, and I had an<em> inbox full of comments</em> asking about topics about what comes next. If you click that link, you will see that absolute basics of starting from scratch, and for a lot of people that may be where you are at in the process. But after all of the comments that I got, I figured it is time to tackle some of the <em>harder</em> parts of being in a band. Because starting a band is not easy and there is no instruction manual. Until now!</p>
+<p>Last year, I<strong> <a href="/starting-a-band-and-getting-your-first-gigs/?fbclid=IwAR1zcfZDMJWP5Mjkbt1bfUsrarx7B-zYUermhW-rRLRAr_iMW4ibRULTGUs" target="_blank" rel="noopener" data-lasso-id="73624">wrote an article</a></strong><a href="/starting-a-band-and-getting-your-first-gigs/?fbclid=IwAR1zcfZDMJWP5Mjkbt1bfUsrarx7B-zYUermhW-rRLRAr_iMW4ibRULTGUs" target="_blank" rel="noopener" data-lasso-id="73625"> </a>about starting an original band, and I had an<em> inbox full of comments</em> asking about topics about what comes next. If you click that link, you will see that absolute basics of starting from scratch, and for a lot of people that may be where you are at in the process. But after all of the comments that I got, I figured it is time to tackle some of the <em>harder</em> parts of being in a band. Because starting a band is not easy and there is no instruction manual. Until now!</p>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<p>No, this isn&#8217;t an &#8220;Old Man Yells At Clouds&#8221; moment. But there are tons of bands that getting five minutes of fame, and have no longevity <em><strong>because they sound like everyone else</strong></em>. Like I said, we have to talk <strong>real</strong> here. If you sound<em> just like another band</em>, then go back to step one. The same goes for finding the right band members. Do you have a person in your band that you know for sure is going to be a problem, as Tobias Forge discovered with his <a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-lasso-id="195396">Ghost band</a>, down the road? You need to fix that like, yesterday. One bad member can ruin it for everyone.</p>
+<p>No, this isn&#8217;t an &#8220;Old Man Yells At Clouds&#8221; moment. But there are tons of bands that getting five minutes of fame, and have no longevity <em><strong>because they sound like everyone else</strong></em>. Like I said, we have to talk <strong>real</strong> here. If you sound<em> just like another band</em>, then go back to step one. The same goes for finding the right band members. Do you have a person in your band that you know for sure is going to be a problem, as Tobias Forge discovered with his <a href="/13-ghost-the-band-facts-you-probably-didnt-know/" data-lasso-id="195396">Ghost band</a>, down the road? You need to fix that like, yesterday. One bad member can ruin it for everyone.</p>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<p>Oh, and please don&#8217;t pick some 8 minute long epic song that belongs in a Lord of The Rings movie. Pick something short and sweet, that will grab the listener&#8217;s attention <em>immediately</em>. No one is going to listen to a 4 minute long <a href="https://www.electrikjam.com/the-7-best-guitar-solos-of-all-time/" data-lasso-id="77652">guitar solo</a> after the piano intro and wait for the first verse to start 6 minutes into the track. Well, maybe <strong>Tool</strong> fans will listen to that&#8230;but <strong>you</strong> aren&#8217;t Tool. Get it? Got it? Good!</p>
+<p>Oh, and please don&#8217;t pick some 8 minute long epic song that belongs in a Lord of The Rings movie. Pick something short and sweet, that will grab the listener&#8217;s attention <em>immediately</em>. No one is going to listen to a 4 minute long <a href="/the-7-best-guitar-solos-of-all-time/" data-lasso-id="77652">guitar solo</a> after the piano intro and wait for the first verse to start 6 minutes into the track. Well, maybe <strong>Tool</strong> fans will listen to that&#8230;but <strong>you</strong> aren&#8217;t Tool. Get it? Got it? Good!</p>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<p>I like to have a meeting with the studio beforehand, and discuss what <em>you want to get out of the recording</em>. Tell the staff there what you have in mind for your song. Talk about the schedule, and express how long you think it will take to get everyone&#8217;s parts done. You can even bring some examples of other bands that you like, and use them for &#8220;reference tracks&#8221;. If you want a sound like a certain song or album, now is the time to bring it up. <a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104744">Have drum sound examples</a>, the guitar tones you have in mind, and an overall  tonal outline that you can show to the studio.</p>
+<p>I like to have a meeting with the studio beforehand, and discuss what <em>you want to get out of the recording</em>. Tell the staff there what you have in mind for your song. Talk about the schedule, and express how long you think it will take to get everyone&#8217;s parts done. You can even bring some examples of other bands that you like, and use them for &#8220;reference tracks&#8221;. If you want a sound like a certain song or album, now is the time to bring it up. <a href="/ezdrummer-2-worth-it/" data-lasso-id="104744">Have drum sound examples</a>, the guitar tones you have in mind, and an overall  tonal outline that you can show to the studio.</p>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p>Have all of your gear ready to rock. This means everything needs to be dialed in for the song before you show up. Tweak your <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="73626"><strong>Line 6 </strong></a>patches, tune your drums, changes your strings&#8230;all before you walk through the door. That being said, also know your parts backwards and forwards. You just spent a week practicing before going to the studio, so you should all have your parts down perfectly. If the studio charges by the hour, this is even more important, because you don&#8217;t need anyone wasting valuable time doing take after take after take. </p>
+<p>Have all of your gear ready to rock. This means everything needs to be dialed in for the song before you show up. Tweak your <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="73626"><strong>Line 6 </strong></a>patches, tune your drums, changes your strings&#8230;all before you walk through the door. That being said, also know your parts backwards and forwards. You just spent a week practicing before going to the studio, so you should all have your parts down perfectly. If the studio charges by the hour, this is even more important, because you don&#8217;t need anyone wasting valuable time doing take after take after take. </p>
 
 
 
@@ -252,7 +252,7 @@ seo:
 
 
 
-<p>The studio may have some really wicked high end gear that is available to use, and the producer may let you use some of it. Expensive drums and <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="73627"><strong>amplifiers</strong>,</a> or good microphones. If they let you use anything, then treat it with care, and let the engineer dial it in for you. It might not sound good alone, but they know how to dial it into a mix and make it sound great. Be extra careful with all of the studio equipment they let you use, and respect it!</p>
+<p>The studio may have some really wicked high end gear that is available to use, and the producer may let you use some of it. Expensive drums and <a href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="73627"><strong>amplifiers</strong>,</a> or good microphones. If they let you use anything, then treat it with care, and let the engineer dial it in for you. It might not sound good alone, but they know how to dial it into a mix and make it sound great. Be extra careful with all of the studio equipment they let you use, and respect it!</p>
 
 
 

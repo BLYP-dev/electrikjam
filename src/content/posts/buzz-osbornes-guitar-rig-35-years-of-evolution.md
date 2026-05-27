@@ -36,7 +36,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="/wp-content/uploads/2020/12/king-buzzo.jpg" alt="" class="wp-image-1566" title="" srcset="/wp-content/uploads/2020/12/king-buzzo.jpg 1024w, /wp-content/uploads/2020/12/king-buzzo-600x403.jpg 600w, /wp-content/uploads/2020/12/king-buzzo-300x201.jpg 300w, /wp-content/uploads/2020/12/king-buzzo-768x515.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>King Buzzo with his <a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="539">70&#8217;s Gibson Les Paul</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="/wp-content/uploads/2020/12/king-buzzo.jpg" alt="" class="wp-image-1566" title="" srcset="/wp-content/uploads/2020/12/king-buzzo.jpg 1024w, /wp-content/uploads/2020/12/king-buzzo-600x403.jpg 600w, /wp-content/uploads/2020/12/king-buzzo-300x201.jpg 300w, /wp-content/uploads/2020/12/king-buzzo-768x515.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>King Buzzo with his <a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="539">70&#8217;s Gibson Les Paul</a></figcaption></figure>
 
 
 
@@ -48,15 +48,15 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2800">The Melvins</a> are a hard band to describe, as they certainly don&#8217;t wear their influences on their sleeve. Buzz has stated many times that <strong>Black Sabbath</strong>, <strong>KISS</strong>, and <strong>Led Zepplin</strong> were huge influences, but it was hardcore and punk music that made him want to take the stage.</p>
+<p><a href="/90s-metal-bands/" data-lasso-id="2800">The Melvins</a> are a hard band to describe, as they certainly don&#8217;t wear their influences on their sleeve. Buzz has stated many times that <strong>Black Sabbath</strong>, <strong>KISS</strong>, and <strong>Led Zepplin</strong> were huge influences, but it was hardcore and punk music that made him want to take the stage.</p>
 
 
 
-<p>The Washington State band has been around for a long time, and have cemented their spot in Metal history. Their sound has inspired <a href="https://www.electrikjam.com/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="540">Doom Metal and Sludge bands</a> for decades now. But they came about during the time of the Seattle Scene explosion, and are often thought of as &#8220;one of those bands&#8221;.</p>
+<p>The Washington State band has been around for a long time, and have cemented their spot in Metal history. Their sound has inspired <a href="/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="540">Doom Metal and Sludge bands</a> for decades now. But they came about during the time of the Seattle Scene explosion, and are often thought of as &#8220;one of those bands&#8221;.</p>
 
 
 
-<p>The Melvins often get unfairly lumped in with &#8220;Seattle Scene&#8221; of the late 80&#8217;s and early 90&#8217;s. It&#8217;s easy to see why, since the Melvins often associated with those people, like Matt Lukin, Kurt Cobain, and <a href="https://www.electrikjam.com/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91579">Dave Grohl</a>. But being geographically from that area didn&#8217;t make them a part of that scene. </p>
+<p>The Melvins often get unfairly lumped in with &#8220;Seattle Scene&#8221; of the late 80&#8217;s and early 90&#8217;s. It&#8217;s easy to see why, since the Melvins often associated with those people, like Matt Lukin, Kurt Cobain, and <a href="/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91579">Dave Grohl</a>. But being geographically from that area didn&#8217;t make them a part of that scene. </p>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" data-lasso-id="2011">Kurt Cobain</a> eventually helped them get a record deal with Atlantic Records in 1991. They recorded three now legendary albums in the 90&#8217;s while signed to the major label.</p>
+<p><a href="/fender-jaguar-kurt-cobain/" data-lasso-id="2011">Kurt Cobain</a> eventually helped them get a record deal with Atlantic Records in 1991. They recorded three now legendary albums in the 90&#8217;s while signed to the major label.</p>
 
 
 
@@ -92,19 +92,19 @@ seo:
 
 
 
-<p>Buzz Osborne&#8217;s <a href="https://www.electrikjam.com/digital-guitar-rigs-5-reasons/" data-lasso-id="223255">guitar rig</a> was pretty interesting from the beginning. Strangely enough, Buzz seemed to always shy away from tube amplifiers, using pedals to craft his tone. Their major label debut, unfortunately doesn&#8217;t  lend much info about how they came up with tones.</p>
+<p>Buzz Osborne&#8217;s <a href="/digital-guitar-rigs-5-reasons/" data-lasso-id="223255">guitar rig</a> was pretty interesting from the beginning. Strangely enough, Buzz seemed to always shy away from tube amplifiers, using pedals to craft his tone. Their major label debut, unfortunately doesn&#8217;t  lend much info about how they came up with tones.</p>
 
 
 
-<p>Buzz also tends to stick with what works, having said many times he knows nothing about <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="541">production or sound design</a>. </p>
+<p>Buzz also tends to stick with what works, having said many times he knows nothing about <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="541">production or sound design</a>. </p>
 
 
 
-<p><em><strong>&nbsp;&#8220;I just did this interview for this guitar magazine, and they ask me about my technique. And I say, &#8216;technique? <a href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="542">I don&#8217;t have any technique</a>, I just play.'&#8221; </strong></em></p>
+<p><em><strong>&nbsp;&#8220;I just did this interview for this guitar magazine, and they ask me about my technique. And I say, &#8216;technique? <a href="/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="542">I don&#8217;t have any technique</a>, I just play.'&#8221; </strong></em></p>
 
 
 
-<p><a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-lasso-id="106854">Kurt Cobain</a> was set to be the producer for &#8220;Houdini&#8221;, recorded at Razor&#8217;s Edge Studios in San Francisco. This was unfortunately at the height of Kurt&#8217;s drug problem, often showing up too drugged out to make any real contribution. </p>
+<p><a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-lasso-id="106854">Kurt Cobain</a> was set to be the producer for &#8220;Houdini&#8221;, recorded at Razor&#8217;s Edge Studios in San Francisco. This was unfortunately at the height of Kurt&#8217;s drug problem, often showing up too drugged out to make any real contribution. </p>
 
 
 
@@ -116,11 +116,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Sunn Beta Lead Amplifier</strong></li><li><strong>Black &#8217;69 Les Paul Custom ( The one with the KISS sticker)</strong></li><li><strong>Proco Rat Distortion Pedal</strong></li><li><strong>Gibson Les Paul Standard</strong></li><li><strong>Hi Watt 4&#215;12</strong></li><li><a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7423"><strong>Duncan JB Pickup</a> in the Bridge</strong></li><li><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195419"><strong>Gibson Les Paul Custom</a> from the mid-70&#8217;s black with inlays like the Les Paul artisan ( Seen in The Picture) </strong></li><li><strong>BOSS Bass Overdrive (Yellow)</strong></li><li><strong>MXR Blue Box Octave Fuzz</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Sunn Beta Lead Amplifier</strong></li><li><strong>Black &#8217;69 Les Paul Custom ( The one with the KISS sticker)</strong></li><li><strong>Proco Rat Distortion Pedal</strong></li><li><strong>Gibson Les Paul Standard</strong></li><li><strong>Hi Watt 4&#215;12</strong></li><li><a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7423"><strong>Duncan JB Pickup</a> in the Bridge</strong></li><li><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195419"><strong>Gibson Les Paul Custom</a> from the mid-70&#8217;s black with inlays like the Les Paul artisan ( Seen in The Picture) </strong></li><li><strong>BOSS Bass Overdrive (Yellow)</strong></li><li><strong>MXR Blue Box Octave Fuzz</strong></li></ul>
 
 
 
-<p>Buzz <a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="543">tunes his guitars to drop D</a>. Since the Sunn Beta Amps only really have one channel, Buzz started using the switch on his Les Paul to control his stage volume. Using the neck pickup for cleaner, quieter tones and the bridge pickup for full on distortion. He has the switches modified to go left to right, instead of up/down.</p>
+<p>Buzz <a href="/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="543">tunes his guitars to drop D</a>. Since the Sunn Beta Amps only really have one channel, Buzz started using the switch on his Les Paul to control his stage volume. Using the neck pickup for cleaner, quieter tones and the bridge pickup for full on distortion. He has the switches modified to go left to right, instead of up/down.</p>
 
 
 
@@ -132,15 +132,15 @@ seo:
 
 
 
-<p>The studio had several <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5821">Marshall JCM amps</a>, that may have been used recording Houdini, and Buzz owns a few Marshalls himself. It is really hard to say what was used, and what wasn&#8217;t. </p>
+<p>The studio had several <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5821">Marshall JCM amps</a>, that may have been used recording Houdini, and Buzz owns a few Marshalls himself. It is really hard to say what was used, and what wasn&#8217;t. </p>
 
 
 
-<p>But this is definitely the live Buzz Osborne guitar rig from the era. Funnily enough, a lot of these items show up on our<a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="544"> guides for Doom Metal.</a> </p>
+<p>But this is definitely the live Buzz Osborne guitar rig from the era. Funnily enough, a lot of these items show up on our<a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="544"> guides for Doom Metal.</a> </p>
 
 
 
-<p>This remained the rig that Buzz used for the majority of the 90&#8217;s. The recording of &#8220;Stoner Witch&#8221; and &#8220;Hag&#8221; made no change in the rig. Looking at artists that followed, you can tell that Buzz Osborne&#8217;s guitar rig was a huge inspiration. His setup in the 90&#8217;s is basically the blueprint for modern <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="545">Doom Metal</a>.</p>
+<p>This remained the rig that Buzz used for the majority of the 90&#8217;s. The recording of &#8220;Stoner Witch&#8221; and &#8220;Hag&#8221; made no change in the rig. Looking at artists that followed, you can tell that Buzz Osborne&#8217;s guitar rig was a huge inspiration. His setup in the 90&#8217;s is basically the blueprint for modern <a href="/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="545">Doom Metal</a>.</p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p>Buzz Osborne&#8217;s <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-lasso-id="142272">guitar rig</a> went through a few changes, but it was switched so often that it&#8217;s pretty hard to keep up. There was a stint with Marshall Amplifiers, and a few boutique experiments.</p>
+<p>Buzz Osborne&#8217;s <a href="/gigging-on-a-budget/" data-lasso-id="142272">guitar rig</a> went through a few changes, but it was switched so often that it&#8217;s pretty hard to keep up. There was a stint with Marshall Amplifiers, and a few boutique experiments.</p>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<p>Buzz Osborne&#8217;s guitar rig changed because of <em>convenience</em>. Look, touring is tough on your instruments. A guitar is made of wood, and wood can be temperamental, even when you&#8217;re playing an <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4668">expensive Les Paul Custom</a>. This makes the guitar tech&#8217;s job harder, and the guitar player&#8217;s life harder as well.</p>
+<p>Buzz Osborne&#8217;s guitar rig changed because of <em>convenience</em>. Look, touring is tough on your instruments. A guitar is made of wood, and wood can be temperamental, even when you&#8217;re playing an <a href="/best-les-paul-copy/" data-lasso-id="4668">expensive Les Paul Custom</a>. This makes the guitar tech&#8217;s job harder, and the guitar player&#8217;s life harder as well.</p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<p>Buzz Osborne&#8217;s guitar rig changed forever once he started working with Kevin Burkett. The King Buzzo Standard models are all aluminum, with an extra skinny neck that could never be possible with wood. Buzz uses the same pickups his beloved <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="548">Les Paul</a> comes with, the 490T. The rest of the instrument is all aluminum.</p>
+<p>Buzz Osborne&#8217;s guitar rig changed forever once he started working with Kevin Burkett. The King Buzzo Standard models are all aluminum, with an extra skinny neck that could never be possible with wood. Buzz uses the same pickups his beloved <a href="/types-of-guitars-guide/" data-lasso-id="548">Les Paul</a> comes with, the 490T. The rest of the instrument is all aluminum.</p>
 
 
 
@@ -292,7 +292,7 @@ seo:
 
 
 
-<p>As far as recording goes, Buzz Osborne&#8217;s <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9527">guitar rig is the same for most of the recording</a> duties these days. It seems he is finally content with his rig.</p>
+<p>As far as recording goes, Buzz Osborne&#8217;s <a href="/must-have-for-recording-guitar/" data-lasso-id="9527">guitar rig is the same for most of the recording</a> duties these days. It seems he is finally content with his rig.</p>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<p>I think a lot can be said about going against the grain with your guitar rig. While we have so many <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254842">people turning to modeling amps</a> and complicated processor setups, there is something to be said about keeping it simple. Buzz Osborne&#8217;s guitar rig has seen multiple incarnations over the years, but it has also stayed the same in one aspect.</p>
+<p>I think a lot can be said about going against the grain with your guitar rig. While we have so many <a href="/neural-amp-modeler/" data-lasso-id="254842">people turning to modeling amps</a> and complicated processor setups, there is something to be said about keeping it simple. Buzz Osborne&#8217;s guitar rig has seen multiple incarnations over the years, but it has also stayed the same in one aspect.</p>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<p>The internet has bred some kind of hive-mind idea that everyone needs X+Y to play Metal, usually Celestion Vintage 30&#8217;s and a <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-lasso-id="104675">Peavey 5150</a>. This just isn&#8217;t true. Buzz Osborne&#8217;s guitar rig is a great example of this. Sometimes you need to think outside the box, and more importantly&#8230; outside of internet opinions.</p>
+<p>The internet has bred some kind of hive-mind idea that everyone needs X+Y to play Metal, usually Celestion Vintage 30&#8217;s and a <a href="/the-peavey-5150-history/" data-lasso-id="104675">Peavey 5150</a>. This just isn&#8217;t true. Buzz Osborne&#8217;s guitar rig is a great example of this. Sometimes you need to think outside the box, and more importantly&#8230; outside of internet opinions.</p>
 
 
 

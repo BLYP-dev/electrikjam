@@ -36,7 +36,7 @@ seo:
 
 
 
-<p>The Dillinger Escape Plan was one of the <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104023">most innovative and brilliant bands</a></strong> to emerge on the metal scene in the last 20 years. I can still remember the first time I heard <strong>Sugar Coated Sour</strong>. It blew my mind; I’d never heard anything quite like it. And even today it still sounds as fresh and bonkers as it did in 1999.</p>
+<p>The Dillinger Escape Plan was one of the <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="104023">most innovative and brilliant bands</a></strong> to emerge on the metal scene in the last 20 years. I can still remember the first time I heard <strong>Sugar Coated Sour</strong>. It blew my mind; I’d never heard anything quite like it. And even today it still sounds as fresh and bonkers as it did in 1999.</p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<p>Since the early days of the Dillinger Escape Plan, Weinman has always been a <strong><a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-type="post" data-id="7710" data-lasso-id="104027">fan of ESP guitars</a></strong>. Between 1997 and the mid-to-late-2000s, Weinman used a range of ESP LTD guitars, including but not limited to the following models:</p>
+<p>Since the early days of the Dillinger Escape Plan, Weinman has always been a <strong><a href="/esp-vs-ltd-whats-the-difference/" data-type="post" data-id="7710" data-lasso-id="104027">fan of ESP guitars</a></strong>. Between 1997 and the mid-to-late-2000s, Weinman used a range of ESP LTD guitars, including but not limited to the following models:</p>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<p>Visually, the ESP BW-1 EverTune is just about one of the most beautiful guitars I have ever clapped eyes on. It has a kind of Les Paul thing going on, just with a slight twist. The finish –&nbsp;SEE THRU BLACK –&nbsp;is other-worldly and i<strong><a href="https://www.electrikjam.com/the-top-5-guitars-evertune-bridge/" data-type="post" data-id="2640" data-lasso-id="104024">ts EverTune bridge</a></strong> means that it will hold its tune indefinitely, regardless of what you do it (ideal for someone like Ben that smashes his guitars around).</p>
+<p>Visually, the ESP BW-1 EverTune is just about one of the most beautiful guitars I have ever clapped eyes on. It has a kind of Les Paul thing going on, just with a slight twist. The finish –&nbsp;SEE THRU BLACK –&nbsp;is other-worldly and i<strong><a href="/the-top-5-guitars-evertune-bridge/" data-type="post" data-id="2640" data-lasso-id="104024">ts EverTune bridge</a></strong> means that it will hold its tune indefinitely, regardless of what you do it (ideal for someone like Ben that smashes his guitars around).</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>Weinman helped design this guitar with ESP, adding his own tweaks and adjustments to the standard ESP XTONE PS-1 design. He insisted on it having an <strong><a href="https://www.electrikjam.com/what-is-an-evertune-bridge-the-1-guide/" data-type="post" data-id="2630" data-lasso-id="104025">EverTune bridge</a></strong>, for obvious reasons, and also made a bunch of additional adjustments to his own personal models that he uses in live situations such as adding in wireless receivers so he could play without wires live.</p>
+<p>Weinman helped design this guitar with ESP, adding his own tweaks and adjustments to the standard ESP XTONE PS-1 design. He insisted on it having an <strong><a href="/what-is-an-evertune-bridge-the-1-guide/" data-type="post" data-id="2630" data-lasso-id="104025">EverTune bridge</a></strong>, for obvious reasons, and also made a bunch of additional adjustments to his own personal models that he uses in live situations such as adding in wireless receivers so he could play without wires live.</p>
 
 
 

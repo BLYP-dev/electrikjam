@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>While it is nice to find some new guitars, we also found some great deals on studio gear. If you really want to <strong><a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="228850">dive into recording guitar at home</a></strong>, you&#8217;re going to need <strong><a href="https://www.electrikjam.com/universal-audio-volt-276-interface-review/" data-type="post" data-id="10229" target="_blank" rel="noopener" data-lasso-id="228851">some gear like interfaces to get started</a></strong>. We found some great deals on studio gear that will get you started!</p>
+<p>While it is nice to find some new guitars, we also found some great deals on studio gear. If you really want to <strong><a href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="228850">dive into recording guitar at home</a></strong>, you&#8217;re going to need <strong><a href="/universal-audio-volt-276-interface-review/" data-type="post" data-id="10229" target="_blank" rel="noopener" data-lasso-id="228851">some gear like interfaces to get started</a></strong>. We found some great deals on studio gear that will get you started!</p>
 
 
 
@@ -207,11 +207,11 @@ seo:
 
 
 
-<p>The <strong>IK Multimedia TONEX EX</strong> Plugin is also a fantastic way to record guitar, or to have on-the-go with your laptop. This can capture your amps at home like the<strong><a href="https://www.electrikjam.com/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener" data-lasso-id="229709"> new NAM Plugin </a></strong>and the <strong><a href="https://www.electrikjam.com/headrush-prime-first-look/" data-type="post" data-id="11193" target="_blank" rel="noopener" data-lasso-id="229710">Headrush PRIME floor pedal.</a></strong> Virtually any amp or pedal can be captured in 5 minutes, and the TONEX community has tons of presets for you to download.</p>
+<p>The <strong>IK Multimedia TONEX EX</strong> Plugin is also a fantastic way to record guitar, or to have on-the-go with your laptop. This can capture your amps at home like the<strong><a href="/neural-amp-modeler/" data-type="post" data-id="11218" target="_blank" rel="noopener" data-lasso-id="229709"> new NAM Plugin </a></strong>and the <strong><a href="/headrush-prime-first-look/" data-type="post" data-id="11193" target="_blank" rel="noopener" data-lasso-id="229710">Headrush PRIME floor pedal.</a></strong> Virtually any amp or pedal can be captured in 5 minutes, and the TONEX community has tons of presets for you to download.</p>
 
 
 
-<p>Finally, the <strong>KRK Classic Monitors</strong> are famous for being really great speakers for mixing. I have seen these in big Hollywood studios, as well as my own home studio! These are great for mixing, and especially good for playing guitar through your interface<strong><a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="229711"> with an amp sim</a></strong>.</p>
+<p>Finally, the <strong>KRK Classic Monitors</strong> are famous for being really great speakers for mixing. I have seen these in big Hollywood studios, as well as my own home studio! These are great for mixing, and especially good for playing guitar through your interface<strong><a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="229711"> with an amp sim</a></strong>.</p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p>If you get all of these products, you have a great setup for recording at home. You can get some really professional results, without breaking the bank. The whole setup can have you recording professional sounding mixes for under $500, especially if you use <strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="229712">something like Reaper DAW</a></strong> already.</p>
+<p>If you get all of these products, you have a great setup for recording at home. You can get some really professional results, without breaking the bank. The whole setup can have you recording professional sounding mixes for under $500, especially if you use <strong><a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener" data-lasso-id="229712">something like Reaper DAW</a></strong> already.</p>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<p>The <strong>Shure SM57</strong> is probably one of the most famous microphones when it comes to recording. This mic <strong><a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="229713">can be used for guitars</a></strong>, vocals, and even be used for room mics in the studio. This mic has a legendary history, and now is the perfect time to stock up!</p>
+<p>The <strong>Shure SM57</strong> is probably one of the most famous microphones when it comes to recording. This mic <strong><a href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="229713">can be used for guitars</a></strong>, vocals, and even be used for room mics in the studio. This mic has a legendary history, and now is the perfect time to stock up!</p>
 
 
 

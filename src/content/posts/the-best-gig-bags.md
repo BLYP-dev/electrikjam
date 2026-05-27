@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Believe me when I say I have heard it <em>all</em> before. So let me state my case (sorry). Yes, a hard shell <a data-lasso-id="49047" href="https://www.electrikjam.com/best-cases-for-epiphone-les-paul/" target="_blank" data-type="post" data-id="2559" rel="noopener"><strong>case</strong> </a>is a great way to protect your guitar when you are on the go. In fact, a hard shell case is also a means of <em>storing</em> your guitar(s) when not in use. When I first started playing shows, I thought it was <em>imperative</em> to have a hard case for my guitar, especially since that&#8217;s what all of the rock stars have when they go on tour.</p>
+<p>Believe me when I say I have heard it <em>all</em> before. So let me state my case (sorry). Yes, a hard shell <a data-lasso-id="49047" href="/best-cases-for-epiphone-les-paul/" target="_blank" data-type="post" data-id="2559" rel="noopener"><strong>case</strong> </a>is a great way to protect your guitar when you are on the go. In fact, a hard shell case is also a means of <em>storing</em> your guitar(s) when not in use. When I first started playing shows, I thought it was <em>imperative</em> to have a hard case for my guitar, especially since that&#8217;s what all of the rock stars have when they go on tour.</p>
 
 
 
@@ -48,11 +48,11 @@ seo:
 
 
 
-<p>But going on long tours is simply not the reality for<em> most</em> guitarists. The guitarists that I know are usually playing local gigs on the weekends, or they have studio gigs. These local gigs usually mean that you load your amp and<a data-lasso-id="49048" href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener"><strong> two guitars</strong></a> into your personal vehicle and drive to the gig. This is a case of having the <strong>right tools for the job</strong>, and having a big hard shell case is actually <em>harder</em> to transport in a small car.</p>
+<p>But going on long tours is simply not the reality for<em> most</em> guitarists. The guitarists that I know are usually playing local gigs on the weekends, or they have studio gigs. These local gigs usually mean that you load your amp and<a data-lasso-id="49048" href="/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener"><strong> two guitars</strong></a> into your personal vehicle and drive to the gig. This is a case of having the <strong>right tools for the job</strong>, and having a big hard shell case is actually <em>harder</em> to transport in a small car.</p>
 
 
 
-<p><a data-lasso-id="49049" href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" target="_blank" data-type="post" data-id="6543" rel="noopener"><strong>Paul Reed Smith</strong></a> talks a lot about why his guitars usually come with a gig bag instead of a hard shell case. He makes a pretty solid case for using gig bags over a hard shell, even with an expensive guitar. Most of us are not loading our guitars on planes, and traveling internationally. Paul says that most people just need a gig bag to transport their guitar to and from the local show. I tend to agree with him! I absolutely love how <em>easy</em> gig bags are to use.</p>
+<p><a data-lasso-id="49049" href="/prs-se-silver-sky-review-2022/" target="_blank" data-type="post" data-id="6543" rel="noopener"><strong>Paul Reed Smith</strong></a> talks a lot about why his guitars usually come with a gig bag instead of a hard shell case. He makes a pretty solid case for using gig bags over a hard shell, even with an expensive guitar. Most of us are not loading our guitars on planes, and traveling internationally. Paul says that most people just need a gig bag to transport their guitar to and from the local show. I tend to agree with him! I absolutely love how <em>easy</em> gig bags are to use.</p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<p>The MONO M80 has the Headlock patented system. The headlock is made of durable, shock absorbing EVA rubber that protects the neck and headstock of your guitar. This is the guitar&#8217;s weakest point, and I am sure you have heard horror stories about broken headstocks, especially when it comes to <a data-lasso-id="49231" href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" target="_blank" data-type="post" data-id="6456" rel="noopener"><strong>Gibson</strong></a> guitars. The headstock and neck rests securely on the EVA rubber once you zip the bag up.</p>
+<p>The MONO M80 has the Headlock patented system. The headlock is made of durable, shock absorbing EVA rubber that protects the neck and headstock of your guitar. This is the guitar&#8217;s weakest point, and I am sure you have heard horror stories about broken headstocks, especially when it comes to <a data-lasso-id="49231" href="/is-a-gibson-les-paul-worth-it-my-2-cents/" target="_blank" data-type="post" data-id="6456" rel="noopener"><strong>Gibson</strong></a> guitars. The headstock and neck rests securely on the EVA rubber once you zip the bag up.</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<p>The Roadrunner Avenue is designed for light travel to gigs, and it&#8217;s meant to be compact and comfortable to use/wear. The straps are fully padded and adjustable, and the side handle is <em>solid</em>. The Roadrunner Avenue will fit just about any Strat shaped guitar, and they even fit <a data-lasso-id="49234" href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener"><strong>7 and 8 string</strong></a> guitars too.</p>
+<p>The Roadrunner Avenue is designed for light travel to gigs, and it&#8217;s meant to be compact and comfortable to use/wear. The straps are fully padded and adjustable, and the side handle is <em>solid</em>. The Roadrunner Avenue will fit just about any Strat shaped guitar, and they even fit <a data-lasso-id="49234" href="/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener"><strong>7 and 8 string</strong></a> guitars too.</p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>Just like the MONO M80, the Roadrunner has a few tricks up it&#8217;s sleeve when it comes to features. One of my favorites is the huge outside compartment. You can easily fit a laptop, cables, tablet, or extra strings in the pouch. This means you&#8217;ll never get caught with your pants down at a gig. In fact, the one I tried could hold an <a data-lasso-id="49235" href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" target="_blank" data-type="post" data-id="4918" rel="noopener"><strong>HX Stomp</strong></a>. Not to mention, you can store long patch cables if you roll them properly.</p>
+<p>Just like the MONO M80, the Roadrunner has a few tricks up it&#8217;s sleeve when it comes to features. One of my favorites is the huge outside compartment. You can easily fit a laptop, cables, tablet, or extra strings in the pouch. This means you&#8217;ll never get caught with your pants down at a gig. In fact, the one I tried could hold an <a data-lasso-id="49235" href="/is-line-6-hx-stomp-worth-it/" target="_blank" data-type="post" data-id="4918" rel="noopener"><strong>HX Stomp</strong></a>. Not to mention, you can store long patch cables if you roll them properly.</p>
 
 
 
@@ -230,7 +230,7 @@ seo:
 
 
 
-<p>Finally, the storage capacity is massive on this thing! The front pocket can easily hold a laptop <em>and </em>all of your cables. It has a flip-over messenger bag style, and it expands outward quite a bit. I imagine you could also fit a small pedalboard in this pocket, or something like a <a href="https://www.electrikjam.com/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="51410"><strong>Line 6</strong></a> Stomp processor.</p>
+<p>Finally, the storage capacity is massive on this thing! The front pocket can easily hold a laptop <em>and </em>all of your cables. It has a flip-over messenger bag style, and it expands outward quite a bit. I imagine you could also fit a small pedalboard in this pocket, or something like a <a href="/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="51410"><strong>Line 6</strong></a> Stomp processor.</p>
 
 
 
@@ -258,11 +258,11 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="51411"><strong>BOSS</strong></a> B-EG10 <em>almost</em> made it on the list, and to be fair&#8230; it <em>almost</em> made the #1 spot! This is one of the best gig bags, if you are just looking for a super-solid way to transport your guitar. The reason it did not make it on the list, is the lack of storage compartments. Storage was one of the biggest factors when I started this list, and I wanted to offer you options that have the best storage, along with other great features. The list is more for &#8220;<a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" target="_blank" data-type="post" data-id="5415" rel="noopener" data-lasso-id="51412"><strong>do it all</strong></a>&#8221; types of gig bags.</p>
+<p>The <a href="/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="51411"><strong>BOSS</strong></a> B-EG10 <em>almost</em> made it on the list, and to be fair&#8230; it <em>almost</em> made the #1 spot! This is one of the best gig bags, if you are just looking for a super-solid way to transport your guitar. The reason it did not make it on the list, is the lack of storage compartments. Storage was one of the biggest factors when I started this list, and I wanted to offer you options that have the best storage, along with other great features. The list is more for &#8220;<a href="/does-the-do-it-all-guitar-exist/" target="_blank" data-type="post" data-id="5415" rel="noopener" data-lasso-id="51412"><strong>do it all</strong></a>&#8221; types of gig bags.</p>
 
 
 
-<p>This BOSS gig bag is very utilitarian, but <em>that is exactly why I love it</em>. I use this for my <a href="https://www.electrikjam.com/pxf-8/" target="_blank" data-type="lasso-urls" data-id="6298" rel="nofollow sponsored noopener" data-lasso-id="51413" data-lasso-name="Schecter Hellraiser FRS"><strong>Schecter Hellraiser</strong></a>, and it fits perfectly snug. The lack of storage compartments doesn&#8217;t matter to me because I have a separate bag that holds all of my cables, strings, and other items I need for a gig. So the need for storage on the bag itself isn&#8217;t there for me, and maybe that&#8217;s your situation as well!</p>
+<p>This BOSS gig bag is very utilitarian, but <em>that is exactly why I love it</em>. I use this for my <a href="/pxf-8/" target="_blank" data-type="lasso-urls" data-id="6298" rel="nofollow sponsored noopener" data-lasso-id="51413" data-lasso-name="Schecter Hellraiser FRS"><strong>Schecter Hellraiser</strong></a>, and it fits perfectly snug. The lack of storage compartments doesn&#8217;t matter to me because I have a separate bag that holds all of my cables, strings, and other items I need for a gig. So the need for storage on the bag itself isn&#8217;t there for me, and maybe that&#8217;s your situation as well!</p>
 
 
 
@@ -322,7 +322,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-5bqnqn/" data-type="lasso-urls" data-id="6597" data-lasso-id="51414" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Gruv Gear GigBlade Guitar Case">The GigB</a><a href="https://www.electrikjam.com/guitar-center-pxf-io-5bqnqn/" target="_blank" data-type="lasso-urls" data-id="6597" rel="nofollow sponsored noopener" data-lasso-id="51415" data-lasso-name="Gruv Gear GigBlade Guitar Case">lade is pricey.</a> But if you need something this versatile, then it may be worth the money. Speaking of money&#8230;</strong></p>
+<p><strong><a href="/guitar-center-pxf-io-5bqnqn/" data-type="lasso-urls" data-id="6597" data-lasso-id="51414" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Gruv Gear GigBlade Guitar Case">The GigB</a><a href="/guitar-center-pxf-io-5bqnqn/" target="_blank" data-type="lasso-urls" data-id="6597" rel="nofollow sponsored noopener" data-lasso-id="51415" data-lasso-name="Gruv Gear GigBlade Guitar Case">lade is pricey.</a> But if you need something this versatile, then it may be worth the money. Speaking of money&#8230;</strong></p>
 
 
 
@@ -348,7 +348,7 @@ seo:
 
 
 
-<p>Everything on the Gator Economy bag is just <em>solid.</em> The outside is durable polyester, and the inside of the bag is nice and soft to protect your guitar finish. It has enough padding to save your guitar from dings and scratches, as well as accidental falls. The pocket is big enough to carry some extra packs of <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" target="_blank" data-type="post" data-id="5499" rel="noopener" data-lasso-id="51416"><strong>strings</strong></a>, and some picks.</p>
+<p>Everything on the Gator Economy bag is just <em>solid.</em> The outside is durable polyester, and the inside of the bag is nice and soft to protect your guitar finish. It has enough padding to save your guitar from dings and scratches, as well as accidental falls. The pocket is big enough to carry some extra packs of <a href="/which-guitar-strings-last-longest/" target="_blank" data-type="post" data-id="5499" rel="noopener" data-lasso-id="51416"><strong>strings</strong></a>, and some picks.</p>
 
 
 
@@ -356,11 +356,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-a1lxgr/" target="_blank" data-type="lasso-urls" data-id="6591" rel="nofollow sponsored noopener" data-lasso-id="51417" data-lasso-name="Gator GBE-ELECT Eco Gig Bag">Right now, you can get these for only $29.00!</a> This is a steal, and it beats all of the other &#8220;economy&#8221; gig bags. Don&#8217;t get ripped off by the cheap gig bags that are garbage.</strong></p>
+<p><strong><a href="/guitar-center-pxf-io-a1lxgr/" target="_blank" data-type="lasso-urls" data-id="6591" rel="nofollow sponsored noopener" data-lasso-id="51417" data-lasso-name="Gator GBE-ELECT Eco Gig Bag">Right now, you can get these for only $29.00!</a> This is a steal, and it beats all of the other &#8220;economy&#8221; gig bags. Don&#8217;t get ripped off by the cheap gig bags that are garbage.</strong></p>
 
 
 
-<p>This brings us to the #1 pick! I tried about 17 different bags while at my local Guitar Center. The store had a pretty wide selection, but I wanted something that is perfect not only in <em>design</em>, but also in <em>value</em>. If money is not an issue, then go out and get a <a href="https://www.electrikjam.com/guitar-center-pxf-io-jw5l6p/" target="_blank" data-type="lasso-urls" data-id="6593" rel="nofollow sponsored noopener" data-lasso-id="51418" data-lasso-name="MONO M80 Dual Gig Bag"><strong>MONO</strong></a> <a href="https://www.electrikjam.com/guitar-center-pxf-io-jw5l6p/" target="_blank" data-type="lasso-urls" data-id="6593" rel="nofollow sponsored noopener" data-lasso-id="51419" data-lasso-name="MONO M80 Dual Gig Bag"><strong>right now</strong></a>, because they are <em>by far</em> the best. But you will be paying quite a bit of money for MONO. If you want the best features for the best value, our choice is:</p>
+<p>This brings us to the #1 pick! I tried about 17 different bags while at my local Guitar Center. The store had a pretty wide selection, but I wanted something that is perfect not only in <em>design</em>, but also in <em>value</em>. If money is not an issue, then go out and get a <a href="/guitar-center-pxf-io-jw5l6p/" target="_blank" data-type="lasso-urls" data-id="6593" rel="nofollow sponsored noopener" data-lasso-id="51418" data-lasso-name="MONO M80 Dual Gig Bag"><strong>MONO</strong></a> <a href="/guitar-center-pxf-io-jw5l6p/" target="_blank" data-type="lasso-urls" data-id="6593" rel="nofollow sponsored noopener" data-lasso-id="51419" data-lasso-name="MONO M80 Dual Gig Bag"><strong>right now</strong></a>, because they are <em>by far</em> the best. But you will be paying quite a bit of money for MONO. If you want the best features for the best value, our choice is:</p>
 
 
 
@@ -388,7 +388,7 @@ seo:
 
 
 
-<p>This is one of the best gig bags because it has literally every feature I would want for transporting my expensive guitars around. The bag isn&#8217;t too big, and it has tons of space inside and out. The exterior is a strong polyester that feels like the &#8220;rip proof&#8221; fabric that you find on camping gear. It is shaped to fit most designs, even <a href="https://www.electrikjam.com/jim-root-fender-jazzmaster-v4/" target="_blank" data-type="lasso-urls" data-id="4550" rel="nofollow noopener" data-lasso-id="51420" data-lasso-name="Fender Jim Root Jazzmaster"><strong>offset guitars</strong></a>. The exterior also has treadplate style rubber guards where it matters most, ensuring your guitar doesn&#8217;t get dings (See Pic).</p>
+<p>This is one of the best gig bags because it has literally every feature I would want for transporting my expensive guitars around. The bag isn&#8217;t too big, and it has tons of space inside and out. The exterior is a strong polyester that feels like the &#8220;rip proof&#8221; fabric that you find on camping gear. It is shaped to fit most designs, even <a href="/jim-root-fender-jazzmaster-v4/" target="_blank" data-type="lasso-urls" data-id="4550" rel="nofollow noopener" data-lasso-id="51420" data-lasso-name="Fender Jim Root Jazzmaster"><strong>offset guitars</strong></a>. The exterior also has treadplate style rubber guards where it matters most, ensuring your guitar doesn&#8217;t get dings (See Pic).</p>
 
 
 

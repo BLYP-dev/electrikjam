@@ -36,15 +36,15 @@ seo:
 <h2 class="wp-block-heading" id="htoc-charvel-pro-mod-dk24-where-have-i-been">Charvel Pro Mod DK24:<em> Where Have I Been</em>?</h2>
 
 
-<p>I guess when you&#8217;re a guitarist, it can be easy to get myopic about certain things. I mean, if you play <a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="180107"><strong>Epiphone</strong></a> for example, then you probably only really keep up with what Epiphone does as a company. I know I am that way with <a href="https://www.electrikjam.com/schecter-guitars/" target="_blank" data-type="page" data-id="6499" rel="noopener" data-lasso-id="180108"><strong>Schecte</strong>r</a>, since that&#8217;s all I play these days.</p>
+<p>I guess when you&#8217;re a guitarist, it can be easy to get myopic about certain things. I mean, if you play <a href="/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="180107"><strong>Epiphone</strong></a> for example, then you probably only really keep up with what Epiphone does as a company. I know I am that way with <a href="/schecter-guitars/" target="_blank" data-type="page" data-id="6499" rel="noopener" data-lasso-id="180108"><strong>Schecte</strong>r</a>, since that&#8217;s all I play these days.</p>
 
 
 
-<p>I had a blast with the<a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" target="_blank" data-type="post" data-id="9214" rel="noopener" data-lasso-id="180109"><strong> Jim Root Pro Mod</strong> </a>that I got to try out a few weeks ago, and that was a pretty amazing guitar for the price. It made me familiarize myself with Charvel again. Since Charvel was absorbed by Fender, I often forget about the brand.</p>
+<p>I had a blast with the<a href="/jim-root-charvel-pro-mod-guitar-review/" target="_blank" data-type="post" data-id="9214" rel="noopener" data-lasso-id="180109"><strong> Jim Root Pro Mod</strong> </a>that I got to try out a few weeks ago, and that was a pretty amazing guitar for the price. It made me familiarize myself with Charvel again. Since Charvel was absorbed by Fender, I often forget about the brand.</p>
 
 
 
-<p>I have been reminded that Wayne Charvel was actually a pioneer for guitarists that wanted guitar mods. He and <a data-lasso-id="180110" href="https://www.electrikjam.com/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener"><strong>Grover Jackson </strong></a>did a lot of work back in the day to create what we know now as a &#8220;Super Strat&#8221;. <a data-lasso-id="180111" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>Eddie Van Halen</strong></a> famously bought one of Wayne&#8217;s &#8220;B-stock&#8221; guitar bodies to make the FrankenStrat that we all know and love.</p>
+<p>I have been reminded that Wayne Charvel was actually a pioneer for guitarists that wanted guitar mods. He and <a data-lasso-id="180110" href="/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener"><strong>Grover Jackson </strong></a>did a lot of work back in the day to create what we know now as a &#8220;Super Strat&#8221;. <a data-lasso-id="180111" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>Eddie Van Halen</strong></a> famously bought one of Wayne&#8217;s &#8220;B-stock&#8221; guitar bodies to make the FrankenStrat that we all know and love.</p>
 
 
 
@@ -52,15 +52,15 @@ seo:
 
 
 
-<p>Fender had a few missteps when it came to the re-launch of Charvel guitars. The <strong><a href="https://en.wikipedia.org/wiki/Charvel" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="180112">Desolation Series</a> </strong>was a total failure, even though I owned one and<em> loved it</em>. It wasn&#8217;t until Fender decided to bring back the original models. like the <a href="https://www.electrikjam.com/charvel-pro-mod-san-dimas-style-1-2h-fr-electric-guitar-chlorine-burst-guitar-center/" data-type="lasso-urls" data-id="9319" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="180113" data-lasso-name="Charvel Pro Mod San Dimas Style 1 2H FR Electric Guitar"><strong>San Dimas</strong></a>, that the Charvel moniker started to see success. People wanted the <em>old-school </em>Charvel guitars, not some total redesign.</p>
+<p>Fender had a few missteps when it came to the re-launch of Charvel guitars. The <strong><a href="https://en.wikipedia.org/wiki/Charvel" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="180112">Desolation Series</a> </strong>was a total failure, even though I owned one and<em> loved it</em>. It wasn&#8217;t until Fender decided to bring back the original models. like the <a href="/charvel-pro-mod-san-dimas-style-1-2h-fr-electric-guitar-chlorine-burst-guitar-center/" data-type="lasso-urls" data-id="9319" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="180113" data-lasso-name="Charvel Pro Mod San Dimas Style 1 2H FR Electric Guitar"><strong>San Dimas</strong></a>, that the Charvel moniker started to see success. People wanted the <em>old-school </em>Charvel guitars, not some total redesign.</p>
 
 
 
-<p>The Charvel Pro Mod DK24 is a little bit of everything, past and present. I regret overlooking these guitars, because they are pretty amazing, and they fit the bill for a &#8220;<a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" target="_blank" rel="noopener" data-lasso-id="180114"><strong>Do it All</strong></a>&#8221; type of guitar. These are a blend of modern features, with classic designs that cross-pollenate between Charvel, Jackson, and even Fender guitars!</p>
+<p>The Charvel Pro Mod DK24 is a little bit of everything, past and present. I regret overlooking these guitars, because they are pretty amazing, and they fit the bill for a &#8220;<a href="/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" target="_blank" rel="noopener" data-lasso-id="180114"><strong>Do it All</strong></a>&#8221; type of guitar. These are a blend of modern features, with classic designs that cross-pollenate between Charvel, Jackson, and even Fender guitars!</p>
 
 
 
-<p>Lots of big name virtuosos have been flocking to Charvel lately, and now I can see why. People like <strong>Angel</strong> <strong>Vivaldi</strong>,<strong> Joe from Gojira</strong>, and <strong>Guthrie Govan</strong> have been playing Charvel for a few years. These are <a href="https://www.electrikjam.com/top-5-underrated-guitarists/" data-lasso-id="233861">modern players</a> that need all kinds of different tones, and now that I have been able to check these guitars out,<strong> I <em>totally</em> understand.</strong></p>
+<p>Lots of big name virtuosos have been flocking to Charvel lately, and now I can see why. People like <strong>Angel</strong> <strong>Vivaldi</strong>,<strong> Joe from Gojira</strong>, and <strong>Guthrie Govan</strong> have been playing Charvel for a few years. These are <a href="/top-5-underrated-guitarists/" data-lasso-id="233861">modern players</a> that need all kinds of different tones, and now that I have been able to check these guitars out,<strong> I <em>totally</em> understand.</strong></p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>The intention is pretty clear when you read the press release material, this is a guitar that blends the traditional looks and &#8220;basic&#8221; appearance, with a<strong> ton of mods</strong> that you will often find on a<strong> <a data-lasso-id="180115" href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener">shredder-style</a></strong> guitar. Its like a Porsche 911 that is disguised as a Honda sedan. &#8220;Made for the progressive guitarist&#8221;.</p>
+<p>The intention is pretty clear when you read the press release material, this is a guitar that blends the traditional looks and &#8220;basic&#8221; appearance, with a<strong> ton of mods</strong> that you will often find on a<strong> <a data-lasso-id="180115" href="/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener">shredder-style</a></strong> guitar. Its like a Porsche 911 that is disguised as a Honda sedan. &#8220;Made for the progressive guitarist&#8221;.</p>
 
 
 
@@ -177,7 +177,7 @@ seo:
 
 
 
-<p>If the whole idea behind the Charvel Pro Mod DK24 is to have a mass-produced guitar that &#8220;feels&#8221; like a custom shop piece, then Charvel<em> nailed it</em>. Things like a <a href="https://www.electrikjam.com/tone-knob-explained/" data-type="post" data-id="7879" target="_blank" rel="noopener" data-lasso-id="180614"><strong>no-load tone</strong></a> pot and the<a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="180615"> <strong>Seymour Duncan</strong></a> Pickups make it feel like a guitar that started out &#8220;stock&#8221;, but has<em> been to the mod bench a few times</em>.</p>
+<p>If the whole idea behind the Charvel Pro Mod DK24 is to have a mass-produced guitar that &#8220;feels&#8221; like a custom shop piece, then Charvel<em> nailed it</em>. Things like a <a href="/tone-knob-explained/" data-type="post" data-id="7879" target="_blank" rel="noopener" data-lasso-id="180614"><strong>no-load tone</strong></a> pot and the<a href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="180615"> <strong>Seymour Duncan</strong></a> Pickups make it feel like a guitar that started out &#8220;stock&#8221;, but has<em> been to the mod bench a few times</em>.</p>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<p><strong>We tested the Charvel Pro Mod DK24 guitars through our trusty <a data-lasso-id="180116" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener">BOSS Katana</a>, since that amp has so many sounds already dialed in and <em>ready to go</em>. When it comes to recording, and the sound samples that you will hear later, its the Katana straight into <a data-lasso-id="180117" href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener">Reaper</a></strong> <strong>via USB.</strong></p>
+<p><strong>We tested the Charvel Pro Mod DK24 guitars through our trusty <a data-lasso-id="180116" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener">BOSS Katana</a>, since that amp has so many sounds already dialed in and <em>ready to go</em>. When it comes to recording, and the sound samples that you will hear later, its the Katana straight into <a data-lasso-id="180117" href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener">Reaper</a></strong> <strong>via USB.</strong></p>
 
 
 
@@ -205,11 +205,11 @@ seo:
 
 
 
-<p>The Alder body Charvel DK24 is a very lightweight guitar, and the two that I have in front of me weigh in at about 7.5lbs. So about the same as your<a data-lasso-id="180118" data-lasso-name="Fender American Professional II Stratocaster" href="https://www.electrikjam.com/pxf-39/" data-type="lasso-urls" data-id="7502" target="_blank" rel="nofollow sponsored noopener"> <strong>American Strat</strong></a>, or a similar guitar like the<a data-lasso-id="180119" href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"> <strong>Schecter NJ Traditional</strong></a>. Out of the box there were zero issues: No sharp frets, no paint scuffs, bridge was almost perfectly level with the body.</p>
+<p>The Alder body Charvel DK24 is a very lightweight guitar, and the two that I have in front of me weigh in at about 7.5lbs. So about the same as your<a data-lasso-id="180118" data-lasso-name="Fender American Professional II Stratocaster" href="/pxf-39/" data-type="lasso-urls" data-id="7502" target="_blank" rel="nofollow sponsored noopener"> <strong>American Strat</strong></a>, or a similar guitar like the<a data-lasso-id="180119" href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"> <strong>Schecter NJ Traditional</strong></a>. Out of the box there were zero issues: No sharp frets, no paint scuffs, bridge was almost perfectly level with the body.</p>
 
 
 
-<p>It took a few minutes to set up, but that is going to be the case with<em> just about</em> any guitar that you get. Right out of the box, most guitars are going to need a tweak here and there. Learning how to do this <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="180616"><strong>yourself</strong></a> is easy, and will save you money in the long run.</p>
+<p>It took a few minutes to set up, but that is going to be the case with<em> just about</em> any guitar that you get. Right out of the box, most guitars are going to need a tweak here and there. Learning how to do this <a href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener" data-lasso-id="180616"><strong>yourself</strong></a> is easy, and will save you money in the long run.</p>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p>But once we hit the clean channel, that changed. Jazz and Blues licks are just as comfortable as playing crazy shred solos. The flat radius makes barre chords and more <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196519">complex Jazz chords</a> very easy to play all the way up to the 12th fret. The rounded back of the neck avoids any hand cramping while forming chords.</p>
+<p>But once we hit the clean channel, that changed. Jazz and Blues licks are just as comfortable as playing crazy shred solos. The flat radius makes barre chords and more <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196519">complex Jazz chords</a> very easy to play all the way up to the 12th fret. The rounded back of the neck avoids any hand cramping while forming chords.</p>
 
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<p>I have been very familiar with Gotoh bridges, especially the<a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="180120"> </a><strong><a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="180121">Floyd Rose</a> </strong>style. I used to put them on all of my <a class="wpil_keyword_link" href="https://www.electrikjam.com/ibanez-guitars/" title="Ibanez Guitars" data-wpil-keyword-link="linked" data-lasso-id="255011">Ibanez Guitars</a> back in the day. But I had never played with a Gotoh 510 bridge until the Charvel Pro Mod DK24, and this is an <em>outstanding bridge</em>.</p>
+<p>I have been very familiar with Gotoh bridges, especially the<a href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="180120"> </a><strong><a href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener" data-lasso-id="180121">Floyd Rose</a> </strong>style. I used to put them on all of my <a class="wpil_keyword_link" href="/ibanez-guitars/" title="Ibanez Guitars" data-wpil-keyword-link="linked" data-lasso-id="255011">Ibanez Guitars</a> back in the day. But I had never played with a Gotoh 510 bridge until the Charvel Pro Mod DK24, and this is an <em>outstanding bridge</em>.</p>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<p>The Charvel branded locking tuners are great, and they hold everything in place. The TUSQ XL nut also helps you stay in tune, since that&#8217;s where<a href="https://www.electrikjam.com/how-to-tune-a-guitar/" target="_blank" data-type="post" data-id="441" rel="noopener" data-lasso-id="180617"> <strong>most tuning</strong> </a>issues start. But when you put the locking tuners and the nut together with the Gotoh 510 bridge, you are in <em>trem heaven</em>.</p>
+<p>The Charvel branded locking tuners are great, and they hold everything in place. The TUSQ XL nut also helps you stay in tune, since that&#8217;s where<a href="/how-to-tune-a-guitar/" target="_blank" data-type="post" data-id="441" rel="noopener" data-lasso-id="180617"> <strong>most tuning</strong> </a>issues start. But when you put the locking tuners and the nut together with the Gotoh 510 bridge, you are in <em>trem heaven</em>.</p>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<p>The only other guitar I know of that has a 2 point tremolo system that can handle this kind of abuse is my <strong><a data-lasso-id="180123" data-lasso-name="Schecter Nick Johnston HSS" href="https://www.electrikjam.com/guitar-center-pxf-io-xxo79y/" data-type="lasso-urls" data-id="5447" target="_blank" rel="nofollow sponsored noopener">Nick Johnston HSS</a>,</strong> although the bridge is not recessed. I compared both of the bridges, and it seems like Schecter took some notes from Gotoh (Sorry to call you out Schecter, but its true!).</p>
+<p>The only other guitar I know of that has a 2 point tremolo system that can handle this kind of abuse is my <strong><a data-lasso-id="180123" data-lasso-name="Schecter Nick Johnston HSS" href="/guitar-center-pxf-io-xxo79y/" data-type="lasso-urls" data-id="5447" target="_blank" rel="nofollow sponsored noopener">Nick Johnston HSS</a>,</strong> although the bridge is not recessed. I compared both of the bridges, and it seems like Schecter took some notes from Gotoh (Sorry to call you out Schecter, but its true!).</p>
 
 
 

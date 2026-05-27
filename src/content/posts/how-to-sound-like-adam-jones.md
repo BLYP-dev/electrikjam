@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>You can learn tabs and, if you’ve got the chops, work out most TOOL riffs with relative ease. <strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="260127">Jones plays in Drop D most of the time</a></strong> and his compositions are never too complex, making them an ideal learning tool for aspiring guitarists.&nbsp;</p>
+<p>You can learn tabs and, if you’ve got the chops, work out most TOOL riffs with relative ease. <strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="260127">Jones plays in Drop D most of the time</a></strong> and his compositions are never too complex, making them an ideal learning tool for aspiring guitarists.&nbsp;</p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>Want something similar for a fraction of the cost, go with his custom Epiphone model: <strong>The Epiphone Adam Jones Les Paul Custom Art Collection</strong> –<a data-lasso-id="260128" data-lasso-name="Epiphone Adam Jones Les Paul Custom Art" href="https://www.electrikjam.com/epiphone-adam-jones-les-paul-custom-art-collection-julie-heffernans-self-portrait-as-not-dead-yet-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14069" target="_blank" rel="nofollow sponsored noopener"> <strong>you can get one of these for $1,299.00</strong></a>. </p>
+<p>Want something similar for a fraction of the cost, go with his custom Epiphone model: <strong>The Epiphone Adam Jones Les Paul Custom Art Collection</strong> –<a data-lasso-id="260128" data-lasso-name="Epiphone Adam Jones Les Paul Custom Art" href="/epiphone-adam-jones-les-paul-custom-art-collection-julie-heffernans-self-portrait-as-not-dead-yet-electric-guitar-antique-silverburst-guitar-center/" data-type="lasso-urls" data-id="14069" target="_blank" rel="nofollow sponsored noopener"> <strong>you can get one of these for $1,299.00</strong></a>. </p>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<p>Or, if that&#8217;s still too much, grab yourself an <strong><a data-lasso-id="260129" href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880">Epiphone Les Paul Studio</a></strong> – <strong><a data-lasso-id="260130" data-lasso-name="Epiphone Les Paul Studio" href="https://www.electrikjam.com/guitar-center-pxf-io-xxgly5/" data-type="lasso-urls" data-id="5591" target="_blank" rel="nofollow sponsored noopener">these run from $699.99</a></strong> and are exceptional guitars for intermediate and even advanced players. </p>
+<p>Or, if that&#8217;s still too much, grab yourself an <strong><a data-lasso-id="260129" href="/best-epiphone-les-paul-models/" data-type="post" data-id="880">Epiphone Les Paul Studio</a></strong> – <strong><a data-lasso-id="260130" data-lasso-name="Epiphone Les Paul Studio" href="/guitar-center-pxf-io-xxgly5/" data-type="lasso-urls" data-id="5591" target="_blank" rel="nofollow sponsored noopener">these run from $699.99</a></strong> and are exceptional guitars for intermediate and even advanced players. </p>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<p>For nearly all of Jones&#8217; career, he has used Seymour Duncan&#8217;s SH-6B Distortion Humbucker <strong><a href="https://www.electrikjam.com/seymour-duncan-duncan-distortion-pickup-seymour-duncan/" data-type="lasso-urls" data-id="14072" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260131" data-lasso-name="Seymour Duncan SH-6B Distortion Humbucker">(snag a pair yourself for $99)</a></strong> which is designed for a more aggressive tone, ideal for metal, compared to the Les Paul Custom&#8217;s stock pickups.  </p>
+<p>For nearly all of Jones&#8217; career, he has used Seymour Duncan&#8217;s SH-6B Distortion Humbucker <strong><a href="/seymour-duncan-duncan-distortion-pickup-seymour-duncan/" data-type="lasso-urls" data-id="14072" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260131" data-lasso-name="Seymour Duncan SH-6B Distortion Humbucker">(snag a pair yourself for $99)</a></strong> which is designed for a more aggressive tone, ideal for metal, compared to the Les Paul Custom&#8217;s stock pickups.  </p>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<p>For most players, you can create pretty much any tone you like with software these days. <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="260133">I really like STL Tones&#8217; AmpHub software</a></strong>. It is brilliant, features every amp and cab you can think of, and it is very inexpensive to run –&nbsp;like $10 a month. </p>
+<p>For most players, you can create pretty much any tone you like with software these days. <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="260133">I really like STL Tones&#8217; AmpHub software</a></strong>. It is brilliant, features every amp and cab you can think of, and it is very inexpensive to run –&nbsp;like $10 a month. </p>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p>Another great option would be <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="260134">Positive Grid&#8217;s BIAS FX 2</a></strong>. </p>
+<p>Another great option would be <strong><a href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="260134">Positive Grid&#8217;s BIAS FX 2</a></strong>. </p>
 
 
 
@@ -325,7 +325,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/ernie-ball-2215-nickel-skinny-top-heavy-bottom-electric-guitar-strings-guitar-center/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="260135" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom">Ernie Ball Skinny Top Heavy Bottom Slinky Guitar Strings (10-52)</a></strong>: Jones prefers these strings for their combination of flexibility and robust bottom end, accommodating his dynamic playing style.</li>
+<li><strong><a href="/ernie-ball-2215-nickel-skinny-top-heavy-bottom-electric-guitar-strings-guitar-center/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="260135" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom">Ernie Ball Skinny Top Heavy Bottom Slinky Guitar Strings (10-52)</a></strong>: Jones prefers these strings for their combination of flexibility and robust bottom end, accommodating his dynamic playing style.</li>
 
 
 

@@ -32,7 +32,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/gibson-sg-standard-61-reviews/" data-type="post" data-id="18119">Gibson SG Standard &#8217;61 </a></strong>is a <strong>fundamental rock machine</strong> that redefined speed and tone when it replaced the Les Paul in 1961. For many, it&#8217;s the true sound of the 1960s. </p>
+<p>The <strong><a href="/gibson-sg-standard-61-reviews/" data-type="post" data-id="18119">Gibson SG Standard &#8217;61 </a></strong>is a <strong>fundamental rock machine</strong> that redefined speed and tone when it replaced the Les Paul in 1961. For many, it&#8217;s the true sound of the 1960s. </p>
 
 
 
@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Here are <strong>15 Reasons</strong> the SG Standard &#8217;61 remains one of the greatest guitars ever made, and why I&#8217;d use one of these over a <strong><a href="https://www.electrikjam.com/gibson-les-paul-standard-60s-review/" data-type="post" data-id="18106">Gibson Les Paul</a></strong> any day of the week (and twice on a Sunday). </p>
+<p>Here are <strong>15 Reasons</strong> the SG Standard &#8217;61 remains one of the greatest guitars ever made, and why I&#8217;d use one of these over a <strong><a href="/gibson-les-paul-standard-60s-review/" data-type="post" data-id="18106">Gibson Les Paul</a></strong> any day of the week (and twice on a Sunday). </p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>Sold? You bloody well should be. This reissue is a brilliant guitar; it plays beautifully, thanks to its slim neck and the pickups run super-hot. <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Gibson SG Standard &#039;61" href="https://www.electrikjam.com/recommends/gibson-sg-standard-61/" data-shortcode="true">It is expensive</a></strong> (not insane money but the kind that&#8217;ll make you pause and think about your spouse). </p>
+<p>Sold? You bloody well should be. This reissue is a brilliant guitar; it plays beautifully, thanks to its slim neck and the pickups run super-hot. <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Gibson SG Standard &#039;61" href="/recommends/gibson-sg-standard-61/" data-shortcode="true">It is expensive</a></strong> (not insane money but the kind that&#8217;ll make you pause and think about your spouse). </p>
 
 
 
@@ -144,5 +144,5 @@ seo:
 
 
 
-<p>And if you&#8217;d like to know what I thought when I played one, <strong><a href="https://www.electrikjam.com/gibson-sg-standard-61-reviews/" data-type="post" data-id="18119">check out my Gibson SG Standard &#8217;61 review for the full picture. </a></strong></p>
+<p>And if you&#8217;d like to know what I thought when I played one, <strong><a href="/gibson-sg-standard-61-reviews/" data-type="post" data-id="18119">check out my Gibson SG Standard &#8217;61 review for the full picture. </a></strong></p>
 

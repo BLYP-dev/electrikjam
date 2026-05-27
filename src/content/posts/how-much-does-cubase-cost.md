@@ -39,15 +39,15 @@ seo:
 
 
 
-<p>If you&#8217;re stepping into the world of music production, you&#8217;ve probably heard of <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="243171">Cubase</a></strong>. It&#8217;s a popular music-making software (AKA DAW) used by beginners and professionals alike. </p>
+<p>If you&#8217;re stepping into the world of music production, you&#8217;ve probably heard of <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="243171">Cubase</a></strong>. It&#8217;s a popular music-making software (AKA DAW) used by beginners and professionals alike. </p>
 
 
 
-<p>But how much does Cubase cost? Well, it depends on which version you choose. Cubase comes in three different versions: <strong>Elements, Artist, and Pro</strong>. And <strong><a href="https://www.electrikjam.com/cubase-ai/" data-type="post" data-id="12275" data-lasso-id="243172">there&#8217;s also Cubase AI </a></strong>which is a free version of the software aimed at beginners just getting started with music production. </p>
+<p>But how much does Cubase cost? Well, it depends on which version you choose. Cubase comes in three different versions: <strong>Elements, Artist, and Pro</strong>. And <strong><a href="/cubase-ai/" data-type="post" data-id="12275" data-lasso-id="243172">there&#8217;s also Cubase AI </a></strong>which is a free version of the software aimed at beginners just getting started with music production. </p>
 
 
 
-<p>Each version has more features and sounds than the one before it, and they all cost different amounts. But <strong><a href="https://www.electrikjam.com/is-cubase-free/" data-lasso-id="243250">none of Steinberg&#8217;s main versions of Cubase are free</a></strong>. </p>
+<p>Each version has more features and sounds than the one before it, and they all cost different amounts. But <strong><a href="/is-cubase-free/" data-lasso-id="243250">none of Steinberg&#8217;s main versions of Cubase are free</a></strong>. </p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251756">Cubase Elements</a> is the simplest version of Cubase. It&#8217;s perfect for those who are just starting out in music production. Priced at $99.99, it&#8217;s an affordable way to get your hands on a professional digital audio workstation.</p>
+<p><a href="/what-is-cubase/" data-lasso-id="251756">Cubase Elements</a> is the simplest version of Cubase. It&#8217;s perfect for those who are just starting out in music production. Priced at $99.99, it&#8217;s an affordable way to get your hands on a professional digital audio workstation.</p>
 
 
 
@@ -135,5 +135,5 @@ seo:
 
 
 
-<p>If you&#8217;re just starting out, Cubase Elements is a great choice. It has all the basic features you need to start making music. Once you&#8217;re more comfortable, you can <strong><a href="https://www.electrikjam.com/steinberg-cubase-pro-12-thomann-united-states/" data-type="lasso-urls" data-id="12301" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="243251" data-lasso-name="Steinberg Cubase Pro 12">upgrade to Artist or Pro</a></strong> to access more advanced features.</p>
+<p>If you&#8217;re just starting out, Cubase Elements is a great choice. It has all the basic features you need to start making music. Once you&#8217;re more comfortable, you can <strong><a href="/steinberg-cubase-pro-12-thomann-united-states/" data-type="lasso-urls" data-id="12301" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="243251" data-lasso-name="Steinberg Cubase Pro 12">upgrade to Artist or Pro</a></strong> to access more advanced features.</p>
 

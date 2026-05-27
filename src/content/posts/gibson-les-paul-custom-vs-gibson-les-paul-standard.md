@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong><a href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="1942">Gibson’s Les Paul </a>line of guitars is easily its most popular. But what is the difference between the Gibson Les Paul Standard and the Gibson Les Paul Custom besides the price? Let’s find out..</strong></p>
+<p><strong><a href="/gibson-guitars/" data-lasso-id="1942">Gibson’s Les Paul </a>line of guitars is easily its most popular. But what is the difference between the Gibson Les Paul Standard and the Gibson Les Paul Custom besides the price? Let’s find out..</strong></p>
 
 
 
@@ -39,11 +39,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/gibson-vs-epiphone-2021-which-is-best/" class="rank-math-link" data-lasso-id="1009">If you buy a Gibson Les Paul</a></strong> this year it’ll be one of the best things you ever buy. You’ll be joining a pantheon of players, dating back to the 1950s, that have used and abused Les Pauls to create some of the most iconic-sounding music ever recorded. </p>
+<p><strong><a href="/gibson-vs-epiphone-2021-which-is-best/" class="rank-math-link" data-lasso-id="1009">If you buy a Gibson Les Paul</a></strong> this year it’ll be one of the best things you ever buy. You’ll be joining a pantheon of players, dating back to the 1950s, that have used and abused Les Pauls to create some of the most iconic-sounding music ever recorded. </p>
 
 
 
-<p>From jazz players to <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1010">doom rockers</a></strong>, everybody loves themselves a Gibson Les Paul. And right now, the Standard and Custom model of Gibson’s Les Paul are two of its biggest sellers.</p>
+<p>From jazz players to <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1010">doom rockers</a></strong>, everybody loves themselves a Gibson Les Paul. And right now, the Standard and Custom model of Gibson’s Les Paul are two of its biggest sellers.</p>
 
 
 
@@ -51,11 +51,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong><a href="https://www.electrikjam.com/best-cases-for-epiphone-les-paul/" class="rank-math-link" data-lasso-id="1011">Best Cases For Les Paul Guitars –&nbsp;Our #1 Picks</a></strong></li><li><a class="rank-math-link" href="https://www.electrikjam.com/what-are-chibson-guitars/" data-lasso-id="1012"><strong>What The HELL Are Chibson Guitars?</strong> </a></li></ul>
+<ul class="wp-block-list"><li><strong><a href="/best-cases-for-epiphone-les-paul/" class="rank-math-link" data-lasso-id="1011">Best Cases For Les Paul Guitars –&nbsp;Our #1 Picks</a></strong></li><li><a class="rank-math-link" href="/what-are-chibson-guitars/" data-lasso-id="1012"><strong>What The HELL Are Chibson Guitars?</strong> </a></li></ul>
 
 
 
-<p>But what is the difference between these two models? <strong>How is the <a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132439">Les Paul Custom</a> different from the Les Paul Standard? </strong></p>
+<p>But what is the difference between these two models? <strong>How is the <a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132439">Les Paul Custom</a> different from the Les Paul Standard? </strong></p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>Gibson went to work and the end result was the Gibson Les Paul Custom, a smarter-looking version of its then-new Les Paul. <strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="1013">The Standard model came to be during the late 50s</a></strong>. And the rest, as they say, is history.</p>
+<p>Gibson went to work and the end result was the Gibson Les Paul Custom, a smarter-looking version of its then-new Les Paul. <strong><a href="/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="1013">The Standard model came to be during the late 50s</a></strong>. And the rest, as they say, is history.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-46 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1000" height="695" src="/wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model.png" alt="" data-id="2463" data-full-url="/wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model.png" data-link="https://www.electrikjam.com/?attachment_id=2463" class="wp-image-2463" title="" srcset="/wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model.png 1000w, /wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model-600x417.png 600w, /wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model-300x209.png 300w, /wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model-768x534.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="535" src="/wp-content/uploads/2021/03/gibson-les-paul-standard-1024x535.png" alt="" data-id="2464" data-full-url="/wp-content/uploads/2021/03/gibson-les-paul-standard.png" data-link="https://www.electrikjam.com/?attachment_id=2464" class="wp-image-2464" title="" srcset="/wp-content/uploads/2021/03/gibson-les-paul-standard-1024x535.png 1024w, /wp-content/uploads/2021/03/gibson-les-paul-standard-600x313.png 600w, /wp-content/uploads/2021/03/gibson-les-paul-standard-300x157.png 300w, /wp-content/uploads/2021/03/gibson-les-paul-standard-768x401.png 768w, /wp-content/uploads/2021/03/gibson-les-paul-standard-1080x564.png 1080w, /wp-content/uploads/2021/03/gibson-les-paul-standard.png 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption"><strong>Gibson Les Paul Custom (<a href="https://www.electrikjam.com/what-pickups-does-adam-jones-use/" data-lasso-id="9571">Adam Jones</a>) vs Gibson Les Paul Standard (Right)</strong></figcaption></figure>
+<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-46 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1000" height="695" src="/wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model.png" alt="" data-id="2463" data-full-url="/wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model.png" data-link="https://www.electrikjam.com/?attachment_id=2463" class="wp-image-2463" title="" srcset="/wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model.png 1000w, /wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model-600x417.png 600w, /wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model-300x209.png 300w, /wp-content/uploads/2021/03/gibson-les-paul-custom-adam-jones-signature-model-768x534.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="535" src="/wp-content/uploads/2021/03/gibson-les-paul-standard-1024x535.png" alt="" data-id="2464" data-full-url="/wp-content/uploads/2021/03/gibson-les-paul-standard.png" data-link="https://www.electrikjam.com/?attachment_id=2464" class="wp-image-2464" title="" srcset="/wp-content/uploads/2021/03/gibson-les-paul-standard-1024x535.png 1024w, /wp-content/uploads/2021/03/gibson-les-paul-standard-600x313.png 600w, /wp-content/uploads/2021/03/gibson-les-paul-standard-300x157.png 300w, /wp-content/uploads/2021/03/gibson-les-paul-standard-768x401.png 768w, /wp-content/uploads/2021/03/gibson-les-paul-standard-1080x564.png 1080w, /wp-content/uploads/2021/03/gibson-les-paul-standard.png 1456w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption"><strong>Gibson Les Paul Custom (<a href="/what-pickups-does-adam-jones-use/" data-lasso-id="9571">Adam Jones</a>) vs Gibson Les Paul Standard (Right)</strong></figcaption></figure>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>On top of this, the Gibson Les Paul Custom is quite a bit heavier than the Les Paul Standard. The Les Paul Custom uses <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" data-lasso-id="5909">Gibson’s traditional 9-hole weight relief system</a> as part of its design, whereas the Standard uses a more modern version of this weight-relief system.</p>
+<p>On top of this, the Gibson Les Paul Custom is quite a bit heavier than the Les Paul Standard. The Les Paul Custom uses <a href="/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" data-lasso-id="5909">Gibson’s traditional 9-hole weight relief system</a> as part of its design, whereas the Standard uses a more modern version of this weight-relief system.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>I’m talking, of course, about its coil-splitting feature that allows the player to <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="1014">switch the humbuckers to single-coil mode</a> which helps create a thinner sound. </p>
+<p>I’m talking, of course, about its coil-splitting feature that allows the player to <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="1014">switch the humbuckers to single-coil mode</a> which helps create a thinner sound. </p>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<p>This is why <strong><a class="rank-math-link" href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-lasso-id="1016">the Les Paul Custom has been a mainstay in metal and doom for so long</a></strong> –&nbsp;no other guitar can produce tones quite like it. And professional players can and will pay to access this now-almost-mythical sound. If you’re not a pro, however, the Standard model will more than suffice –&nbsp;it still sounds like a monster, just not quite as monstrous as its Custom brother.</p>
+<p>This is why <strong><a class="rank-math-link" href="/matt-pike-dopesmoker-sleep/" data-lasso-id="1016">the Les Paul Custom has been a mainstay in metal and doom for so long</a></strong> –&nbsp;no other guitar can produce tones quite like it. And professional players can and will pay to access this now-almost-mythical sound. If you’re not a pro, however, the Standard model will more than suffice –&nbsp;it still sounds like a monster, just not quite as monstrous as its Custom brother.</p>
 
 
 
@@ -207,15 +207,15 @@ seo:
 
 
 
-<p>Gibson Les Paul guitars –&nbsp;both <a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145776">the Standard and Custom – have been the benchmark for electric guitars</a> for almost six decades now. The <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237992">Gibson brand</a>, like Apple in the tech space, is synonymous with quality and premium build materials.</p>
+<p>Gibson Les Paul guitars –&nbsp;both <a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145776">the Standard and Custom – have been the benchmark for electric guitars</a> for almost six decades now. The <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237992">Gibson brand</a>, like Apple in the tech space, is synonymous with quality and premium build materials.</p>
 
 
 
-<p>How much do <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44929">Gibson Les Paul guitars</a> cost? You’ll pay in and around $2000 for a Gibson Les Paul Standard and well over $4000 for a Gibson Les Paul Custom. And the reason the Custom is so much more expensive is because it hand-crafted by Gibson in Nashville and features more premium electronics and build materials.</p>
+<p>How much do <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44929">Gibson Les Paul guitars</a> cost? You’ll pay in and around $2000 for a Gibson Les Paul Standard and well over $4000 for a Gibson Les Paul Custom. And the reason the Custom is so much more expensive is because it hand-crafted by Gibson in Nashville and features more premium electronics and build materials.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="626" src="/wp-content/uploads/2021/03/Adam-Jones-Gibson-Les-Paul-Custom-1979-Model-1024x626.png" alt="" class="wp-image-2466" title=""><figcaption><a href="https://www.electrikjam.com/adam-jones-names-the-guitarists-that-influenced-him-most/" data-lasso-id="10865"><strong>Adam Jones</a> w/ His Custom Silver Burst Les Paul Custom</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="626" src="/wp-content/uploads/2021/03/Adam-Jones-Gibson-Les-Paul-Custom-1979-Model-1024x626.png" alt="" class="wp-image-2466" title=""><figcaption><a href="/adam-jones-names-the-guitarists-that-influenced-him-most/" data-lasso-id="10865"><strong>Adam Jones</a> w/ His Custom Silver Burst Les Paul Custom</strong></figcaption></figure>
 
 
 
@@ -227,7 +227,7 @@ seo:
 
 
 
-<p>Think of it this way: <strong>the Les <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17479">Paul Custom is like buying</a> an original piece of artwork from Banksy.</strong> It is unique, hand-crafted, and it will hold and gain value as time progresses.</p>
+<p>Think of it this way: <strong>the Les <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17479">Paul Custom is like buying</a> an original piece of artwork from Banksy.</strong> It is unique, hand-crafted, and it will hold and gain value as time progresses.</p>
 
 
 
@@ -235,7 +235,7 @@ seo:
 
 
 
-<p>It is also why certain Gibson Les Paul Custom models will readily fetch <a href="https://www.whatsellsbest.com/news-stories/2012/01/pawn-stars-les-paul-guitar.php" target="_blank" aria-label="north of $100,000 in auctions (opens in a new tab)" rel="nofollow noopener" class="rank-math-link" data-lasso-id="1017">north of $100,000 in auctions</a>. They’re not just <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1018">great guitars</a>, they’re artefacts from bygone era that is now lost forever. When you buy a Custom, you’re buying yourself a piece of history now and that piece of history, in a decade or two, will be worth a lot more than it is right now.</p>
+<p>It is also why certain Gibson Les Paul Custom models will readily fetch <a href="https://www.whatsellsbest.com/news-stories/2012/01/pawn-stars-les-paul-guitar.php" target="_blank" aria-label="north of $100,000 in auctions (opens in a new tab)" rel="nofollow noopener" class="rank-math-link" data-lasso-id="1017">north of $100,000 in auctions</a>. They’re not just <a href="/types-of-guitars-guide/" data-lasso-id="1018">great guitars</a>, they’re artefacts from bygone era that is now lost forever. When you buy a Custom, you’re buying yourself a piece of history now and that piece of history, in a decade or two, will be worth a lot more than it is right now.</p>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<p>This one <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/gibson-lp-57-black-beauty/" data-lasso-id="1019">costs over $6000! </a></strong></p>
+<p>This one <strong><a class="rank-math-link" href="/recommends/gibson-lp-57-black-beauty/" data-lasso-id="1019">costs over $6000! </a></strong></p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p>If you’re a serious player, or want to be, then the Les Paul Standard by Gibson is doable –&nbsp;but you’ll have to do some pretty aggressive saving. You can pick up a Gibson Les Paul Standard for <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/gibson-les-paul-standard-range-full/" data-lasso-id="1020">around $2000 to $2500,</a></strong> depending on the model.</p>
+<p>If you’re a serious player, or want to be, then the Les Paul Standard by Gibson is doable –&nbsp;but you’ll have to do some pretty aggressive saving. You can pick up a Gibson Les Paul Standard for <strong><a class="rank-math-link" href="/recommends/gibson-les-paul-standard-range-full/" data-lasso-id="1020">around $2000 to $2500,</a></strong> depending on the model.</p>
 
 
 
@@ -263,11 +263,11 @@ seo:
 
 
 
-<p>Have a look at Epiphone’s Les Paul range. <strong><a href="https://www.electrikjam.com/recommends/epiphone-les-paul-standard-60s/" class="rank-math-link" data-lasso-id="1021">They’re around 50% less</a></strong> and, in most cases, just as good as Gibson’s Standard range. You can pick up Epiphone Les Paul’s at a bunch of competitive price ranges – from ultra-cheap to over $1000.</p>
+<p>Have a look at Epiphone’s Les Paul range. <strong><a href="/recommends/epiphone-les-paul-standard-60s/" class="rank-math-link" data-lasso-id="1021">They’re around 50% less</a></strong> and, in most cases, just as good as Gibson’s Standard range. You can pick up Epiphone Les Paul’s at a bunch of competitive price ranges – from ultra-cheap to over $1000.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg" alt="epiphone-inspired-by-gibson" class="wp-image-1896" title="" srcset="/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg 1024w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-600x315.jpg 600w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-300x158.jpg 300w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-768x404.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Epiphone&#8217;s Inspired By Gibson Range – <a class="rank-math-link" href="https://www.electrikjam.com/recommends/epiphone-inspired-by-gibson-range/" data-lasso-id="1022">View Latest Prices &amp; Models</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg" alt="epiphone-inspired-by-gibson" class="wp-image-1896" title="" srcset="/wp-content/uploads/2021/02/epiphone-inspired-by-gibson.jpg 1024w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-600x315.jpg 600w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-300x158.jpg 300w, /wp-content/uploads/2021/02/epiphone-inspired-by-gibson-768x404.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Epiphone&#8217;s Inspired By Gibson Range – <a class="rank-math-link" href="/recommends/epiphone-inspired-by-gibson-range/" data-lasso-id="1022">View Latest Prices &amp; Models</a></strong></figcaption></figure>
 
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<p>Basically, <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="1023">Epiphone has a Les Paul for all budgets</a></strong>. I’m a big fan of Epiphone too. I use both an <strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="1024">Epiphone Les Paul and an Epiphone SG Standard</a></strong> and they’re both killer guitars with amazing spec and tone. </p>
+<p>Basically, <strong><a href="/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="1023">Epiphone has a Les Paul for all budgets</a></strong>. I’m a big fan of Epiphone too. I use both an <strong><a class="rank-math-link" href="/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="1024">Epiphone Les Paul and an Epiphone SG Standard</a></strong> and they’re both killer guitars with amazing spec and tone. </p>
 
 
 
@@ -283,5 +283,5 @@ seo:
 
 
 
-<p>The new <a href="https://www.electrikjam.com/how-many-frets-are-on-a-les-paul-epiphone/" data-lasso-id="1025">Epiphone Les Paul Prophecy</a> models are utterly stunning as well and are perfect guitars for metal and rock players –&nbsp;and <strong>they’re quite a bit less than $1000 too.</ta></strong></p>
+<p>The new <a href="/how-many-frets-are-on-a-les-paul-epiphone/" data-lasso-id="1025">Epiphone Les Paul Prophecy</a> models are utterly stunning as well and are perfect guitars for metal and rock players –&nbsp;and <strong>they’re quite a bit less than $1000 too.</ta></strong></p>
 

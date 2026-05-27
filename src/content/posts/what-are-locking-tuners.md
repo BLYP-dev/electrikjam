@@ -47,11 +47,11 @@ seo:
 
 
 
-<p>Locking tuners that come stock on a brand new guitar is seen as a type of luxury, and to be honest they really <em>are</em>. This means it&#8217;s one less thing you need to get for your guitar to take it up to pro specs. We will get into why professionals use them a little later on, but there is a good reason they are considered &#8220;pro spec&#8221;. Companies like <strong><a href="https://www.electrikjam.com/schecter-solo-ii-series-link/" target="_blank" data-type="lasso-urls" data-id="4251" rel="nofollow noopener" data-lasso-id="28663" data-lasso-name="Schecter Solo II Series">Schecter</a> </strong>are known to include upgraded tuners on the more expensive models.</p>
+<p>Locking tuners that come stock on a brand new guitar is seen as a type of luxury, and to be honest they really <em>are</em>. This means it&#8217;s one less thing you need to get for your guitar to take it up to pro specs. We will get into why professionals use them a little later on, but there is a good reason they are considered &#8220;pro spec&#8221;. Companies like <strong><a href="/schecter-solo-ii-series-link/" target="_blank" data-type="lasso-urls" data-id="4251" rel="nofollow noopener" data-lasso-id="28663" data-lasso-name="Schecter Solo II Series">Schecter</a> </strong>are known to include upgraded tuners on the more expensive models.</p>
 
 
 
-<p>There are a ton of different types of locking tuners, and we are going to try and tackle which ones might be the best for you today, depending on your instrument. Most <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="28677">guitars</a> have a standardized measurement when it comes to tuning pegs. This means that more than one tuner brand will probably fit your guitar, so the choice is going to be more about budget and quality.</p>
+<p>There are a ton of different types of locking tuners, and we are going to try and tackle which ones might be the best for you today, depending on your instrument. Most <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="28677">guitars</a> have a standardized measurement when it comes to tuning pegs. This means that more than one tuner brand will probably fit your guitar, so the choice is going to be more about budget and quality.</p>
 
 
 
@@ -71,15 +71,15 @@ seo:
 
 
 
-<p>I see posts all the times on<strong><a href="https://www.reddit.com/r/guitars/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="28664"> reddit</a> </strong>talking about guitars that just won&#8217;t stay in tune. These <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-lasso-id="102924">beginner guitarists</a> have tried absolutely everything to get their guitars to stay in tune. They have changed the brand of strings they use. They make sure the strings are stretched properly. But still, there are tuning issues across the board, and it seems like a hopeless endeavor.</p>
+<p>I see posts all the times on<strong><a href="https://www.reddit.com/r/guitars/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="28664"> reddit</a> </strong>talking about guitars that just won&#8217;t stay in tune. These <a href="/beginner-music-theory-for-guitarists/" data-lasso-id="102924">beginner guitarists</a> have tried absolutely everything to get their guitars to stay in tune. They have changed the brand of strings they use. They make sure the strings are stretched properly. But still, there are tuning issues across the board, and it seems like a hopeless endeavor.</p>
 
 
 
-<p>Someone in the comment section almost always says that the person with the tuning issue &#8221; Should buy locking tuners for the guitar&#8221;. This isn&#8217;t awful advice, as they may help the situation&#8230; <em>a little bit</em>. But the biggest myth about locking tuners is the idea that your tuning is more stable. <em>It is</em>, but only by a tiny, inconsequential, minute amount. Your <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="28665"><strong>intonation</strong></a> (click the link for our guide) is going to be a <em>much</em> bigger factor than your tuning machines.</p>
+<p>Someone in the comment section almost always says that the person with the tuning issue &#8221; Should buy locking tuners for the guitar&#8221;. This isn&#8217;t awful advice, as they may help the situation&#8230; <em>a little bit</em>. But the biggest myth about locking tuners is the idea that your tuning is more stable. <em>It is</em>, but only by a tiny, inconsequential, minute amount. Your <a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="28665"><strong>intonation</strong></a> (click the link for our guide) is going to be a <em>much</em> bigger factor than your tuning machines.</p>
 
 
 
-<p>The reality is the guitar tuners, even locking ones, are not<em> that big</em> of a deal when it comes to staying in tune. The nut, and the intonation of your <a href="https://www.electrikjam.com/effects-of-weather-on-your-guitar/" data-lasso-id="194014">guitar are going to be the biggest factors</a> when it comes to keeping your tuning as stable as possible. In fact, one of the biggest culprits for messed up tuning is usually the nut! </p>
+<p>The reality is the guitar tuners, even locking ones, are not<em> that big</em> of a deal when it comes to staying in tune. The nut, and the intonation of your <a href="/effects-of-weather-on-your-guitar/" data-lasso-id="194014">guitar are going to be the biggest factors</a> when it comes to keeping your tuning as stable as possible. In fact, one of the biggest culprits for messed up tuning is usually the nut! </p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>You can easily fix this by changing the nut. Companies like<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-wd2mgm/" target="_blank" data-type="lasso-urls" data-id="5980" rel="nofollow sponsored noopener" data-lasso-id="28666" data-lasso-name="Graph Tech TUSQ Nut">Graph Tech</a></strong> make bone and graphite nuts that allows the strings to move freely. The problem with your tuning can be as easy as replacing the nut for $10. But your intonation could just as easily be at fault. You will know if it&#8217;s an intonation issue if you tune your guitar to pitch, and <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99329">each string is perfectly in tune</a>, but when you play a chord it sounds wrong. Again,<strong> <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="28667">our guide</a></strong> can walk you through this.</p>
+<p>You can easily fix this by changing the nut. Companies like<strong> <a href="/guitar-center-pxf-io-wd2mgm/" target="_blank" data-type="lasso-urls" data-id="5980" rel="nofollow sponsored noopener" data-lasso-id="28666" data-lasso-name="Graph Tech TUSQ Nut">Graph Tech</a></strong> make bone and graphite nuts that allows the strings to move freely. The problem with your tuning can be as easy as replacing the nut for $10. But your intonation could just as easily be at fault. You will know if it&#8217;s an intonation issue if you tune your guitar to pitch, and <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99329">each string is perfectly in tune</a>, but when you play a chord it sounds wrong. Again,<strong> <a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="28667">our guide</a></strong> can walk you through this.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>This comes in handy in the <strong><a href="https://www.electrikjam.com/must-have-for-recording-guitar/" target="_blank" data-type="post" data-id="4877" rel="noopener" data-lasso-id="28668">studio</a>,</strong> or if you <a href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener" data-lasso-id="28669"><strong>gig</strong></a> regularly. When I play shows on a tour, no matter how long it is, I will change my strings after every single show. This not only ensures that your strings will sound their best, but it also lowers the chances of a string breaking in the middle of a set. In the studio, we sometimes change strings multiple times<em> a day</em>.</p>
+<p>This comes in handy in the <strong><a href="/must-have-for-recording-guitar/" target="_blank" data-type="post" data-id="4877" rel="noopener" data-lasso-id="28668">studio</a>,</strong> or if you <a href="/starting-a-band-and-getting-your-first-gigs/" target="_blank" data-type="post" data-id="3374" rel="noopener" data-lasso-id="28669"><strong>gig</strong></a> regularly. When I play shows on a tour, no matter how long it is, I will change my strings after every single show. This not only ensures that your strings will sound their best, but it also lowers the chances of a string breaking in the middle of a set. In the studio, we sometimes change strings multiple times<em> a day</em>.</p>
 
 
 
@@ -127,11 +127,11 @@ seo:
 
 
 
-<p>They just make everything <em>easier</em>. This is especially true for people like me, who have multiple guitars that need string changes often. I like to do 3 or 4 <a href="https://www.electrikjam.com/the-7-best-guitar-solos-of-all-time/" data-lasso-id="77653">guitars at a time</a> when I am changing strings. It takes a lot less time if I am not sitting there winding and unwinding strings with one of those fiddly plastic guitar winders. I <em>abhor</em> these things almost as much as the act of changing strings.</p>
+<p>They just make everything <em>easier</em>. This is especially true for people like me, who have multiple guitars that need string changes often. I like to do 3 or 4 <a href="/the-7-best-guitar-solos-of-all-time/" data-lasso-id="77653">guitars at a time</a> when I am changing strings. It takes a lot less time if I am not sitting there winding and unwinding strings with one of those fiddly plastic guitar winders. I <em>abhor</em> these things almost as much as the act of changing strings.</p>
 
 
 
-<p>So do you<em> need </em>locking tuners? This answer depends on your situation, but it certainly makes life a whole lot easier. I put them on all of my fixed bridge guitars, since the ones with a <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-lasso-id="168257">Floyd Rose</a> system are already locked at the nut. There are a lot of different brands out there, so let&#8217;s take a look at the big ones that are most common for mainstream/popular styled guitars.</p>
+<p>So do you<em> need </em>locking tuners? This answer depends on your situation, but it certainly makes life a whole lot easier. I put them on all of my fixed bridge guitars, since the ones with a <a href="/floyd-rose-bridge-setup-beginners/" data-lasso-id="168257">Floyd Rose</a> system are already locked at the nut. There are a lot of different brands out there, so let&#8217;s take a look at the big ones that are most common for mainstream/popular styled guitars.</p>
 
 
 
@@ -165,7 +165,7 @@ seo:
 
 
 
-<p>No matter what the brand, you need to first identify what kind of headstock you have. If you have a <a href="https://www.electrikjam.com/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="28671"><strong>Fender</strong></a> style headstock, then you will need &#8220;<strong>6 inline</strong>&#8221; sets of tuners. This is because all 6 tuners are in a straight line on your headstock. Something like a Gibson headstock would be a 3X3, because there are 3 <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246469">tuning pegs</a> on each side of the headstock. <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44678">Schecter is an outlier here</a>, and sometimes Schecter guitars have an odd number of tuners on each side, but the same rule applies. In my picture above of my white 7 string, the setup is 3X4. So when buying a set of locking tuners, make sure you are buying the <em>right ones </em>for your model of guitar.</p>
+<p>No matter what the brand, you need to first identify what kind of headstock you have. If you have a <a href="/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="28671"><strong>Fender</strong></a> style headstock, then you will need &#8220;<strong>6 inline</strong>&#8221; sets of tuners. This is because all 6 tuners are in a straight line on your headstock. Something like a Gibson headstock would be a 3X3, because there are 3 <a href="/parts-of-an-electric-guitar/" data-lasso-id="246469">tuning pegs</a> on each side of the headstock. <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44678">Schecter is an outlier here</a>, and sometimes Schecter guitars have an odd number of tuners on each side, but the same rule applies. In my picture above of my white 7 string, the setup is 3X4. So when buying a set of locking tuners, make sure you are buying the <em>right ones </em>for your model of guitar.</p>
 
 
 
@@ -173,7 +173,7 @@ seo:
 
 
 
-<p><a href="https://grotro.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="28672"><strong>Grover</strong></a> is also a trusted brand when it comes to tuning machines, and they come stock on most <a href="https://www.electrikjam.com/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="28673"><strong>Epiphone</strong></a> guitars, especially <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" target="_blank" data-type="post" data-id="5585" rel="noopener" data-lasso-id="28674"><strong>Les Paul</strong></a> models. While Grover&#8217;s standard tuners are absolutely great, the locking versions are<em> even better</em>. These are a direct fit for most guitars that are made overseas. This is why you see them on Epiphone, <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91772">ESP</a>, and Schecter guitars so often. They come in metric sizes, but they also come in standard sizes for American made instruments.</p>
+<p><a href="https://grotro.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="28672"><strong>Grover</strong></a> is also a trusted brand when it comes to tuning machines, and they come stock on most <a href="/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="28673"><strong>Epiphone</strong></a> guitars, especially <a href="/what-epiphone-les-paul-should-i-buy/" target="_blank" data-type="post" data-id="5585" rel="noopener" data-lasso-id="28674"><strong>Les Paul</strong></a> models. While Grover&#8217;s standard tuners are absolutely great, the locking versions are<em> even better</em>. These are a direct fit for most guitars that are made overseas. This is why you see them on Epiphone, <a href="/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91772">ESP</a>, and Schecter guitars so often. They come in metric sizes, but they also come in standard sizes for American made instruments.</p>
 
 
 
@@ -181,7 +181,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99505">For the years that I played Fender guitars</a>, I always upgraded the tuners to the Fender locking brand. These were super easy to install, and it there was no guesswork involved when it came to getting the right set. These comes in a ton of different color options as well, to match your Fender guitar&#8217;s hardware<em> exactly</em>. Sometimes, the easiest solution turns out to be the best one! Not to mention the price for these locking tuners! These are <em>super affordable</em> tuners, and they have always been around $50-$60&#8230; which is a <em>steal</em> because they are worth every penny.</p>
+<p><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99505">For the years that I played Fender guitars</a>, I always upgraded the tuners to the Fender locking brand. These were super easy to install, and it there was no guesswork involved when it came to getting the right set. These comes in a ton of different color options as well, to match your Fender guitar&#8217;s hardware<em> exactly</em>. Sometimes, the easiest solution turns out to be the best one! Not to mention the price for these locking tuners! These are <em>super affordable</em> tuners, and they have always been around $50-$60&#8230; which is a <em>steal</em> because they are worth every penny.</p>
 
 
 

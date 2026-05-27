@@ -36,7 +36,7 @@ seo:
 
 
 
-<p>Electric Wizard, hailing from Dorset, England, aren&#8217;t just a band: they&#8217;re an institution. Known for low-end fuzz, massive riffs, and a penchant for all things grim, the band has been a <strong><a href="https://www.electrikjam.com/best-doom-albums/" data-type="post" data-id="13764" data-lasso-id="263304">staple of the doom/stoner scene</a></strong> for decades. </p>
+<p>Electric Wizard, hailing from Dorset, England, aren&#8217;t just a band: they&#8217;re an institution. Known for low-end fuzz, massive riffs, and a penchant for all things grim, the band has been a <strong><a href="/best-doom-albums/" data-type="post" data-id="13764" data-lasso-id="263304">staple of the doom/stoner scene</a></strong> for decades. </p>
 
 
 

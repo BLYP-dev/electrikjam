@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>Gibson’s signature series guitars are ALWAYS expensive, but the new <strong><a href="https://www.electrikjam.com/gibson-jimmy-page-signature-guitars/" data-type="post" data-id="14305" data-lasso-id="262249">Jimmy Page EDS-1275 Doubleneck signature model</a></strong> takes things to a whole other level – <strong>it costs $50,000</strong>.</p>
+<p>Gibson’s signature series guitars are ALWAYS expensive, but the new <strong><a href="/gibson-jimmy-page-signature-guitars/" data-type="post" data-id="14305" data-lasso-id="262249">Jimmy Page EDS-1275 Doubleneck signature model</a></strong> takes things to a whole other level – <strong>it costs $50,000</strong>.</p>
 
 
 
@@ -70,7 +70,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-brands/gibson-electric-guitars/" data-type="guitar-brands" data-id="14296" data-lasso-id="262250">Gibson&#8217;s recreation process</a></strong> involved advanced 3D scanning technology to capture the precise details of Page&#8217;s guitar.</p>
+<p><strong><a href="/guitar-brands/gibson-electric-guitars/" data-type="guitar-brands" data-id="14296" data-lasso-id="262250">Gibson&#8217;s recreation process</a></strong> involved advanced 3D scanning technology to capture the precise details of Page&#8217;s guitar.</p>
 
 
 
@@ -106,7 +106,7 @@ seo:
 
 
 
-<p>It&#8217;s so eye-wateringly expensive it makes <strong><a href="https://www.electrikjam.com/adam-jones-gibson-les-paul-custom/" data-type="post" data-id="14080" data-lasso-id="262251">Adam Jones&#8217; signature Gibson model</a></strong> look like a <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="262252">Harley Benton</a></strong>. </p>
+<p>It&#8217;s so eye-wateringly expensive it makes <strong><a href="/adam-jones-gibson-les-paul-custom/" data-type="post" data-id="14080" data-lasso-id="262251">Adam Jones&#8217; signature Gibson model</a></strong> look like a <strong><a href="/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="262252">Harley Benton</a></strong>. </p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>Johnny Depp, a well known actor and guitar player, has <strong><a href="https://www.electrikjam.com/johnny-depp-guitar-collection/" data-type="post" data-id="7895" data-lasso-id="262253">spent millions of dollars on guitars over the years</a></strong>, so he’d be a likely candidate for something like this guess. Other than that, I literally have no idea. Collectors collect, I get that. But surely most could not stretch to $50,000 for one?</p>
+<p>Johnny Depp, a well known actor and guitar player, has <strong><a href="/johnny-depp-guitar-collection/" data-type="post" data-id="7895" data-lasso-id="262253">spent millions of dollars on guitars over the years</a></strong>, so he’d be a likely candidate for something like this guess. Other than that, I literally have no idea. Collectors collect, I get that. But surely most could not stretch to $50,000 for one?</p>
 
 
 

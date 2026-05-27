@@ -46,15 +46,15 @@ seo:
 
 
 
-<p>The<a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="158731"> <strong>Schecter</strong></a> Omen series has always been a great budget-focused lineup that gives you a &#8220;taste&#8221; of what high end Schecter guitars are like. The Omen guitars have usually been the familiar<strong> <a href="https://www.electrikjam.com/schecter-cr6-review/" data-type="post" data-id="6827" target="_blank" rel="noopener" data-lasso-id="158732">C1</a></strong> Super-Strat shape from Schecter, with some great upgrades that take these models away from the &#8220;basic&#8221; category.</p>
+<p>The<a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="158731"> <strong>Schecter</strong></a> Omen series has always been a great budget-focused lineup that gives you a &#8220;taste&#8221; of what high end Schecter guitars are like. The Omen guitars have usually been the familiar<strong> <a href="/schecter-cr6-review/" data-type="post" data-id="6827" target="_blank" rel="noopener" data-lasso-id="158732">C1</a></strong> Super-Strat shape from Schecter, with some great upgrades that take these models away from the &#8220;basic&#8221; category.</p>
 
 
 
-<p>Most of the upgrades of an Omen model can be found in the finishes that feature Flame Maple veneers, and full size maple caps. The older Omen &#8220;Extreme&#8221; models also had bolt on construction, and <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="158733"><strong>Duncan</strong></a> Designed pickups with a coil tap feature. If you go way back (2008-2012), some had <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="158734"><strong>EMG pickups</strong></a>.</p>
+<p>Most of the upgrades of an Omen model can be found in the finishes that feature Flame Maple veneers, and full size maple caps. The older Omen &#8220;Extreme&#8221; models also had bolt on construction, and <a href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="158733"><strong>Duncan</strong></a> Designed pickups with a coil tap feature. If you go way back (2008-2012), some had <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="158734"><strong>EMG pickups</strong></a>.</p>
 
 
 
-<p>The whole point of the<strong> new</strong> <strong>Schecter Omen Elite</strong> lineup is to show you what an &#8220;upgraded&#8221; guitar experience is like, when you move on from your beginner guitar. This could be one of your first &#8220;forever&#8221; guitars, because they are also easy to modify and upgrade yourself. The <a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-lasso-id="198730">Schecter</a> Omen Elite is a guitar that can &#8220;grow&#8221; with you!</p>
+<p>The whole point of the<strong> new</strong> <strong>Schecter Omen Elite</strong> lineup is to show you what an &#8220;upgraded&#8221; guitar experience is like, when you move on from your beginner guitar. This could be one of your first &#8220;forever&#8221; guitars, because they are also easy to modify and upgrade yourself. The <a href="/schecter-jack-fowler-traditional-review/" data-lasso-id="198730">Schecter</a> Omen Elite is a guitar that can &#8220;grow&#8221; with you!</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>Today we are going to take a look at what all of the models have in common, along with the 7 string model that I received to review. Like most Schecter guitars that I get for review,<em> I am keeping the damn</em> <em>thing</em>. Just like the <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="158735"><strong>Demon 7 that I reviewed last year</strong></a>,<em> I fell in love almost instantly</em> with the Schecter Omen Elite 7.</p>
+<p>Today we are going to take a look at what all of the models have in common, along with the 7 string model that I received to review. Like most Schecter guitars that I get for review,<em> I am keeping the damn</em> <em>thing</em>. Just like the <a href="/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="158735"><strong>Demon 7 that I reviewed last year</strong></a>,<em> I fell in love almost instantly</em> with the Schecter Omen Elite 7.</p>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<p>The Omen Elite series has several variants when it comes to strings, bridges, and fretboard designs. Yet all of the models have the same <strong>core features</strong>. Schecter does this with all of its <a data-lasso-id="158736" href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-type="post" data-id="8124" target="_blank" rel="noopener"><strong>current lineups</strong></a>, to be consistent across the different models. Shared features, but completely different <em>designs</em>.</p>
+<p>The Omen Elite series has several variants when it comes to strings, bridges, and fretboard designs. Yet all of the models have the same <strong>core features</strong>. Schecter does this with all of its <a data-lasso-id="158736" href="/new-schecter-rob-scallon-guitars-review/" data-type="post" data-id="8124" target="_blank" rel="noopener"><strong>current lineups</strong></a>, to be consistent across the different models. Shared features, but completely different <em>designs</em>.</p>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<p>Each model shares these same core features, but there are several different options for layouts. Schecter made different models to fit pretty much any player&#8217;s style. I got the <a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="248992">Schecter Omen Elite 7 string</a> model for review, but the other options are all pretty surprising given the price point of these instruments.</p>
+<p>Each model shares these same core features, but there are several different options for layouts. Schecter made different models to fit pretty much any player&#8217;s style. I got the <a href="/schecter-sunset-triad-review/" data-lasso-id="248992">Schecter Omen Elite 7 string</a> model for review, but the other options are all pretty surprising given the price point of these instruments.</p>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<p><strong>All models </strong>come in the three available colors, and all have the same pickups and 5 way switch. The Multi-Scale models have the neutral fret at the 7th, which is something we discussed about the <a data-lasso-id="158737" href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-type="post" data-id="8124" target="_blank" rel="noopener"><strong>Rob Scallon</strong></a> model. This creates a more natural feel when it comes to Multi-Scale in my opinion, since the fan is extremely slight on the lower frets.</p>
+<p><strong>All models </strong>come in the three available colors, and all have the same pickups and 5 way switch. The Multi-Scale models have the neutral fret at the 7th, which is something we discussed about the <a data-lasso-id="158737" href="/new-schecter-rob-scallon-guitars-review/" data-type="post" data-id="8124" target="_blank" rel="noopener"><strong>Rob Scallon</strong></a> model. This creates a more natural feel when it comes to Multi-Scale in my opinion, since the fan is extremely slight on the lower frets.</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p><strong>The Floyd Rose</strong> models feature the &#8220;Hot Rod Special&#8221; bridges that are made especially for Schecter. You can see these bridges on the <a data-lasso-id="158738" data-lasso-name="Schecter Sun Valley Super Shredder" href="https://www.electrikjam.com/guitar-center-pxf-io-vyy2lj/" data-type="lasso-urls" data-id="4840" target="_blank" rel="nofollow noopener"><strong>Sun Valley Super Shredder</strong></a> guitars as well. These are real Floyd Rose Special models, with upgraded parts. The stainless steel upgrades take the place of the &#8220;pot metal&#8221; parts that usually wear down and break on the lower-end Floyd models, so you don&#8217;t have to worry about these set screws stripping out!</p>
+<p><strong>The Floyd Rose</strong> models feature the &#8220;Hot Rod Special&#8221; bridges that are made especially for Schecter. You can see these bridges on the <a data-lasso-id="158738" data-lasso-name="Schecter Sun Valley Super Shredder" href="/guitar-center-pxf-io-vyy2lj/" data-type="lasso-urls" data-id="4840" target="_blank" rel="nofollow noopener"><strong>Sun Valley Super Shredder</strong></a> guitars as well. These are real Floyd Rose Special models, with upgraded parts. The stainless steel upgrades take the place of the &#8220;pot metal&#8221; parts that usually wear down and break on the lower-end Floyd models, so you don&#8217;t have to worry about these set screws stripping out!</p>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<p>This gives you a ton of tonal options to choose from, and gives you some coil-tapped tones without using the push/pull knob style. I don&#8217;t usually have a problem with the push/pull style, but the 5 way switch is just&#8230; easier to deal with.<a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="158739"><strong> Ibanez started this trend with the JEM</strong></a> way back in the 80&#8217;s, and it is great to see it on a Schecter!</p>
+<p>This gives you a ton of tonal options to choose from, and gives you some coil-tapped tones without using the push/pull knob style. I don&#8217;t usually have a problem with the push/pull style, but the 5 way switch is just&#8230; easier to deal with.<a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="158739"><strong> Ibanez started this trend with the JEM</strong></a> way back in the 80&#8217;s, and it is great to see it on a Schecter!</p>
 
 
 
@@ -162,11 +162,11 @@ seo:
 
 
 
-<p>Electrikjam is in the middle of moving to a new studio, and the Schecter Omen Elite had been on my radar for since I saw their release at <a data-lasso-id="158740" href="https://www.electrikjam.com/summer-namm-2022-our-1-picks-new-gear/" data-type="post" data-id="8246" target="_blank" rel="noopener"><strong>NAMM</strong></a>. So with the new studio, I needed a new guitar from <a href="https://www.electrikjam.com/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199529">Schecter</a>! I have spent the last two weeks<em> really</em> putting it through the wringer.</p>
+<p>Electrikjam is in the middle of moving to a new studio, and the Schecter Omen Elite had been on my radar for since I saw their release at <a data-lasso-id="158740" href="/summer-namm-2022-our-1-picks-new-gear/" data-type="post" data-id="8246" target="_blank" rel="noopener"><strong>NAMM</strong></a>. So with the new studio, I needed a new guitar from <a href="/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199529">Schecter</a>! I have spent the last two weeks<em> really</em> putting it through the wringer.</p>
 
 
 
-<p>The only amp that have at my disposal right now, since we are remodeling is my <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="158741"><strong>BOSS Katana 100</strong></a>. But I am sure that comes as no surprise to our regular readers! This is actually one of the most often used amps that we test guitars with anyway, so the Schecter Omen Elite 7<em> isn&#8217;t getting any special treatment</em>.</p>
+<p>The only amp that have at my disposal right now, since we are remodeling is my <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="158741"><strong>BOSS Katana 100</strong></a>. But I am sure that comes as no surprise to our regular readers! This is actually one of the most often used amps that we test guitars with anyway, so the Schecter Omen Elite 7<em> isn&#8217;t getting any special treatment</em>.</p>
 
 
 
@@ -186,11 +186,11 @@ seo:
 
 
 
-<p>The <a data-lasso-id="158742" data-lasso-name="Schecter KM-7 Lambo Green" href="https://www.electrikjam.com/guitar-center-pxf-io-mxgqjk/" data-type="lasso-urls" data-id="6065" target="_blank" rel="nofollow sponsored noopener"><strong>KM Series</strong></a> saw Schecter trying out new things with their 7 string necks. This slimmer design has spilled over to models like the Schecter Omen Elite. Like all Schecter 7 strings, the neck is a <strong><a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-lasso-id="234011">26.5 baritone scale</a> </strong>. This can be a deal breaker for some guitarists, but I actually<em> prefer it</em>. You can use lighter strings and get the same tension as a <strong><a data-lasso-id="158743" href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener">25.5 scale</a> </strong>guitar.</p>
+<p>The <a data-lasso-id="158742" data-lasso-name="Schecter KM-7 Lambo Green" href="/guitar-center-pxf-io-mxgqjk/" data-type="lasso-urls" data-id="6065" target="_blank" rel="nofollow sponsored noopener"><strong>KM Series</strong></a> saw Schecter trying out new things with their 7 string necks. This slimmer design has spilled over to models like the Schecter Omen Elite. Like all Schecter 7 strings, the neck is a <strong><a href="/best-baritone-guitars-for-metal/" data-lasso-id="234011">26.5 baritone scale</a> </strong>. This can be a deal breaker for some guitarists, but I actually<em> prefer it</em>. You can use lighter strings and get the same tension as a <strong><a data-lasso-id="158743" href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener">25.5 scale</a> </strong>guitar.</p>
 
 
 
-<p>The &#8220;thin c shape&#8221; neck is super comfortable to play. Compared to my <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="158744"><strong>Demon 7 </strong></a>it is much thinner all around. The C shape fits your hand shape perfectly, and the higher up the neck you go, the more it flattens out. This makes playing chords easy at the lower end of the neck, but also easy to reach the upper frets with total fluidity.</p>
+<p>The &#8220;thin c shape&#8221; neck is super comfortable to play. Compared to my <a href="/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="158744"><strong>Demon 7 </strong></a>it is much thinner all around. The C shape fits your hand shape perfectly, and the higher up the neck you go, the more it flattens out. This makes playing chords easy at the lower end of the neck, but also easy to reach the upper frets with total fluidity.</p>
 
 
 
@@ -202,11 +202,11 @@ seo:
 
 
 
-<p>All together, the construction is as solid as the higher end Schecter models<a href="https://www.electrikjam.com/where-guitars-are-made-2022/" target="_blank" data-type="post" data-id="8621" rel="noopener" data-lasso-id="158745"><strong> from Korea</strong></a>. The lightweight mahogany body was quite a surprise. I am used to Schecter being more on the heavy side, but the Omen Elite series is deceptively light! There were no finish issues, and all of the electronics worked great right out of the box.</p>
+<p>All together, the construction is as solid as the higher end Schecter models<a href="/where-guitars-are-made-2022/" target="_blank" data-type="post" data-id="8621" rel="noopener" data-lasso-id="158745"><strong> from Korea</strong></a>. The lightweight mahogany body was quite a surprise. I am used to Schecter being more on the heavy side, but the Omen Elite series is deceptively light! There were no finish issues, and all of the electronics worked great right out of the box.</p>
 
 
 
-<p>The back of the guitar is like the popular<a data-lasso-id="158746" href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" data-type="post" data-id="3029" target="_blank" rel="noopener"> <strong>Apocalypse</strong> </a>models, with a light &#8220;ashy&#8221; black matte stain. I personally <em>love</em> this look. Also similar to the Apocalypse models is the Heretic pickups. These have see-thru bobbins just like the Apocalypse Custom Shop pickups. <strong>These are Alnico V pickups, with a lower ceramic magnet stack.</strong></p>
+<p>The back of the guitar is like the popular<a data-lasso-id="158746" href="/new-schecter-red-reign-e-series-2021/" data-type="post" data-id="3029" target="_blank" rel="noopener"> <strong>Apocalypse</strong> </a>models, with a light &#8220;ashy&#8221; black matte stain. I personally <em>love</em> this look. Also similar to the Apocalypse models is the Heretic pickups. These have see-thru bobbins just like the Apocalypse Custom Shop pickups. <strong>These are Alnico V pickups, with a lower ceramic magnet stack.</strong></p>
 
 
 
@@ -222,19 +222,19 @@ seo:
 
 
 
-<p>The &#8220;in between&#8221; modes are both really great as well, but they never quite get that &#8220;real single coil&#8221; sound. I have actually never found coil splits to sound quite <em>authentic</em>, which is why I suggest every studio to have a <a data-lasso-id="158748" href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"><strong>Strat laying around</strong></a>! The tones are usable though, and sound <em>great</em> clean. Just don&#8217;t expect them to pass for a Strat or Tele single coil sound.</p>
+<p>The &#8220;in between&#8221; modes are both really great as well, but they never quite get that &#8220;real single coil&#8221; sound. I have actually never found coil splits to sound quite <em>authentic</em>, which is why I suggest every studio to have a <a data-lasso-id="158748" href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"><strong>Strat laying around</strong></a>! The tones are usable though, and sound <em>great</em> clean. Just don&#8217;t expect them to pass for a Strat or Tele single coil sound.</p>
 
 
 
-<p>Overall, the sound of the Schecter Omen Elite 7 is much closer to some of the <a href="https://www.electrikjam.com/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="158749"><strong>Custom Shop</strong></a> options when it comes to pickups. Unfortunately, they don&#8217;t really hit the spot when it comes to the <a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="158750"><strong>coil-tapped</strong> <strong>positions</strong></a>. But I really don&#8217;t see myself using this guitar for clean Blues solos, so the tapped positions are just an added bonus.</p>
+<p>Overall, the sound of the Schecter Omen Elite 7 is much closer to some of the <a href="/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="158749"><strong>Custom Shop</strong></a> options when it comes to pickups. Unfortunately, they don&#8217;t really hit the spot when it comes to the <a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="158750"><strong>coil-tapped</strong> <strong>positions</strong></a>. But I really don&#8217;t see myself using this guitar for clean Blues solos, so the tapped positions are just an added bonus.</p>
 
 
 
-<p>The Schecter Omen Elite 7 really shines when it is in its element; loud and under high gain. The articulation of the Heretic humbuckers is very surprising. These are not pickups that you would usually find on a<a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="158751"><strong> budget guitar</strong></a>. In fact, the overall product is pretty far from feeling &#8220;budget&#8221;.</p>
+<p>The Schecter Omen Elite 7 really shines when it is in its element; loud and under high gain. The articulation of the Heretic humbuckers is very surprising. These are not pickups that you would usually find on a<a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="158751"><strong> budget guitar</strong></a>. In fact, the overall product is pretty far from feeling &#8220;budget&#8221;.</p>
 
 
 
-<p>But that&#8217;s the thing, <a href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-lasso-id="192592">budget guitars</a> are really much better these days. So every company is bringing the absolute best &#8220;A-Game&#8221; possible recently. This truly is the &#8220;Golden Age&#8221; for guitars. <strong>It seems like no matter what your budget is, there is <em>something</em> out there for you.</strong></p>
+<p>But that&#8217;s the thing, <a href="/harley-benton-standard-series-guitar-review/" data-lasso-id="192592">budget guitars</a> are really much better these days. So every company is bringing the absolute best &#8220;A-Game&#8221; possible recently. This truly is the &#8220;Golden Age&#8221; for guitars. <strong>It seems like no matter what your budget is, there is <em>something</em> out there for you.</strong></p>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p>Schecter got rid of the budget SGR Series a few years back, which was like the Schecter version of <a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="158752"><strong>Squier</strong></a>. They still make the C1 shaped guitars at low price points, but everything is part of the Diamond series now. This makes more sense as a business model, and causes less confusion for the customer <a href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener" data-lasso-id="158753"><strong>(Hope you&#8217;re paying attention, Fender).</strong></a></p>
+<p>Schecter got rid of the budget SGR Series a few years back, which was like the Schecter version of <a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="158752"><strong>Squier</strong></a>. They still make the C1 shaped guitars at low price points, but everything is part of the Diamond series now. This makes more sense as a business model, and causes less confusion for the customer <a href="/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener" data-lasso-id="158753"><strong>(Hope you&#8217;re paying attention, Fender).</strong></a></p>
 
 
 
@@ -266,7 +266,7 @@ seo:
 
 
 
-<p>The Schecter Omen Elite models appeal to intermediate guitarists just as much as the seasoned pros. These guitars are meant to be the &#8220;step up&#8221; from your <a href="https://www.electrikjam.com/nux-mighty-amps-review/" data-lasso-id="159868">beginner model</a>. Schecter knocked it out of the park again, and these models are great across the board. The new design is modern and simple, making it perfect for mods.</p>
+<p>The Schecter Omen Elite models appeal to intermediate guitarists just as much as the seasoned pros. These guitars are meant to be the &#8220;step up&#8221; from your <a href="/nux-mighty-amps-review/" data-lasso-id="159868">beginner model</a>. Schecter knocked it out of the park again, and these models are great across the board. The new design is modern and simple, making it perfect for mods.</p>
 
 
 

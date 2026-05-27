@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>When looking at Beginner Guitars, there are a <em>ton</em> of options out there. So many, if fact, it can be a little overwhelming to anyone just getting started. Today we take a look at one of my top picks for the best beginner guitars, and surprise&#8230;it&#8217;s an <a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2584">Epiphone</a>!.</strong></p>
+<p><strong>When looking at Beginner Guitars, there are a <em>ton</em> of options out there. So many, if fact, it can be a little overwhelming to anyone just getting started. Today we take a look at one of my top picks for the best beginner guitars, and surprise&#8230;it&#8217;s an <a href="/epiphone-guitars/" data-lasso-id="2584">Epiphone</a>!.</strong></p>
 
 
 
@@ -47,19 +47,19 @@ seo:
 
 
 
-<p>Most people don&#8217;t want to spend thousands of dollars right out the gate. Especially if you&#8217;re not entirely sure if you will be sticking to playing the guitar. More often than not, I have seen people buy their gear and try it out&#8230;only to hang it up and never use it again. Which is a little sad, <a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" target="_blank" data-type="post" data-id="2958" rel="noopener" data-lasso-id="1500"><span style="" class="ugb-highlight"><font color="#9b51e0"><b>but </b></font></span><strong><span style="color: #9b51e0;" class="ugb-highlight">I understand that guitar is not for everyone</span></strong></a>. Guitar is a rewarding hobby, but it is <em>also tough</em> at the beginning.</p>
+<p>Most people don&#8217;t want to spend thousands of dollars right out the gate. Especially if you&#8217;re not entirely sure if you will be sticking to playing the guitar. More often than not, I have seen people buy their gear and try it out&#8230;only to hang it up and never use it again. Which is a little sad, <a href="/how-hard-is-it-to-learn-guitar/" target="_blank" data-type="post" data-id="2958" rel="noopener" data-lasso-id="1500"><span style="" class="ugb-highlight"><font color="#9b51e0"><b>but </b></font></span><strong><span style="color: #9b51e0;" class="ugb-highlight">I understand that guitar is not for everyone</span></strong></a>. Guitar is a rewarding hobby, but it is <em>also tough</em> at the beginning.</p>
 
 
 
-<p>The consensus for <a href="https://www.electrikjam.com/guitar-string-gauges-guide/" data-lasso-id="218959">beginner guitars</a> is that you should spend a small amount of money, and try to get the most bang for your buck. This is why <a href="https://www.electrikjam.com/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="1501"><strong><span style="color: #9b51e0;" class="ugb-highlight">we created the guides that we have here</span></strong></a>, to help you <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="1502"><strong><span style="color: #9b51e0;" class="ugb-highlight">choose a beginner setup</span></strong></a>. You can get a <a href="https://www.electrikjam.com/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="1503">perfectly good guitar and amp</a> for a modest price. Beginner guitars don&#8217;t have to be expensive or fancy!</p>
+<p>The consensus for <a href="/guitar-string-gauges-guide/" data-lasso-id="218959">beginner guitars</a> is that you should spend a small amount of money, and try to get the most bang for your buck. This is why <a href="/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="1501"><strong><span style="color: #9b51e0;" class="ugb-highlight">we created the guides that we have here</span></strong></a>, to help you <a href="/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="1502"><strong><span style="color: #9b51e0;" class="ugb-highlight">choose a beginner setup</span></strong></a>. You can get a <a href="/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="1503">perfectly good guitar and amp</a> for a modest price. Beginner guitars don&#8217;t have to be expensive or fancy!</p>
 
 
 
-<p>The climate for beginner guitars has also changed in recent years due to the way they are produced. The quality is more consistent than ever before. When I first started playing guitar in the 90&#8217;s, <a href="https://www.electrikjam.com/yamaha-revstar-standard-review/" data-lasso-id="97628">beginner</a> guitars were hit or miss. They were either potential <em>firewood</em>, or a great instrument to learn on. Thanks to modern technology, almost all of the <a href="https://www.electrikjam.com/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211722">beginner guitars</a> that come from East Asia are about the same these days.</p>
+<p>The climate for beginner guitars has also changed in recent years due to the way they are produced. The quality is more consistent than ever before. When I first started playing guitar in the 90&#8217;s, <a href="/yamaha-revstar-standard-review/" data-lasso-id="97628">beginner</a> guitars were hit or miss. They were either potential <em>firewood</em>, or a great instrument to learn on. Thanks to modern technology, almost all of the <a href="/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211722">beginner guitars</a> that come from East Asia are about the same these days.</p>
 
 
 
-<p>One of those beginner guitars that<a href="https://www.electrikjam.com/learning-guitar-guide-what-to-expect/" target="_blank" data-type="post" data-id="737" rel="noopener" data-lasso-id="1504"><strong><span style="color: #9b51e0;" class="ugb-highlight"> I had when I was young</span></strong></a>, was The Epiphone Les Paul Special 2. It was a fantastic guitar, and I think I paid maybe $200 for it. I used it for quite a while before I finally upgraded to a nicer model, because it suited all of my needs at the time. But that was 25 years ago. What about nowadays?</p>
+<p>One of those beginner guitars that<a href="/learning-guitar-guide-what-to-expect/" target="_blank" data-type="post" data-id="737" rel="noopener" data-lasso-id="1504"><strong><span style="color: #9b51e0;" class="ugb-highlight"> I had when I was young</span></strong></a>, was The Epiphone Les Paul Special 2. It was a fantastic guitar, and I think I paid maybe $200 for it. I used it for quite a while before I finally upgraded to a nicer model, because it suited all of my needs at the time. But that was 25 years ago. What about nowadays?</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/epiphone-les-paul-special-2/" target="_blank" rel="noopener" data-lasso-id="1505"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></strong></a></p>
+<p><a href="/recommends/epiphone-les-paul-special-2/" target="_blank" rel="noopener" data-lasso-id="1505"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></strong></a></p>
 
 
 
@@ -79,15 +79,15 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/06/IMG_20210617_104938720-1024x768.jpg" alt="beginner guitars" class="wp-image-3404" title="" srcset="/wp-content/uploads/2021/06/IMG_20210617_104938720-1024x768.jpg 1024w, /wp-content/uploads/2021/06/IMG_20210617_104938720-scaled-600x450.jpg 600w, /wp-content/uploads/2021/06/IMG_20210617_104938720-300x225.jpg 300w, /wp-content/uploads/2021/06/IMG_20210617_104938720-768x576.jpg 768w, /wp-content/uploads/2021/06/IMG_20210617_104938720-1536x1152.jpg 1536w, /wp-content/uploads/2021/06/IMG_20210617_104938720-2048x1536.jpg 2048w, /wp-content/uploads/2021/06/IMG_20210617_104938720-510x382.jpg 510w, /wp-content/uploads/2021/06/IMG_20210617_104938720-1080x810.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8794"><strong>Epiphone Les Paul</a> Special 2 Sunburst</strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/06/IMG_20210617_104938720-1024x768.jpg" alt="beginner guitars" class="wp-image-3404" title="" srcset="/wp-content/uploads/2021/06/IMG_20210617_104938720-1024x768.jpg 1024w, /wp-content/uploads/2021/06/IMG_20210617_104938720-scaled-600x450.jpg 600w, /wp-content/uploads/2021/06/IMG_20210617_104938720-300x225.jpg 300w, /wp-content/uploads/2021/06/IMG_20210617_104938720-768x576.jpg 768w, /wp-content/uploads/2021/06/IMG_20210617_104938720-1536x1152.jpg 1536w, /wp-content/uploads/2021/06/IMG_20210617_104938720-2048x1536.jpg 2048w, /wp-content/uploads/2021/06/IMG_20210617_104938720-510x382.jpg 510w, /wp-content/uploads/2021/06/IMG_20210617_104938720-1080x810.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8794"><strong>Epiphone Les Paul</a> Special 2 Sunburst</strong></em></figcaption></figure>
 
 
 
-<p>We absolutely <a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" target="_blank" data-type="post" data-id="3350" rel="noopener" data-lasso-id="1506"><strong><span style="color: #9b51e0;" class="ugb-highlight">adore Epiphone </span></strong></a>here at Electrikjam. Epiphone not only makes great beginner guitars, but they have higher end models that have professional specs and features. The higher end guitars that Epiphone makes are usually fantastic quality and to me, they play like <em>much more </em>expensive instruments. The <a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="1507"><strong><span style="color: #9b51e0;" class="ugb-highlight">new &#8220;Inspired By Gibson</span></strong>&#8220;</a> lineup is a testament to Epiphone&#8217;s quality and attention to detail.</p>
+<p>We absolutely <a href="/gibson-vs-epiphone-in-2021/" target="_blank" data-type="post" data-id="3350" rel="noopener" data-lasso-id="1506"><strong><span style="color: #9b51e0;" class="ugb-highlight">adore Epiphone </span></strong></a>here at Electrikjam. Epiphone not only makes great beginner guitars, but they have higher end models that have professional specs and features. The higher end guitars that Epiphone makes are usually fantastic quality and to me, they play like <em>much more </em>expensive instruments. The <a href="/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="1507"><strong><span style="color: #9b51e0;" class="ugb-highlight">new &#8220;Inspired By Gibson</span></strong>&#8220;</a> lineup is a testament to Epiphone&#8217;s quality and attention to detail.</p>
 
 
 
-<p>But these high end Epiphone <a href="https://www.electrikjam.com/aio-wolf-guitars-review-2021/" data-lasso-id="21764">guitars sit in the $500-$900 price</a> bracket, and that can be a bit of a stretch for a beginner, especially a teenager. The <strong>Epiphone Les Paul Special Series </strong>is much more affordable than that. The one I have right now can be bought <em>brand new</em> for $150-$200. That&#8217;s a pretty big difference in price, <em>so what&#8217;s the catch</em>?</p>
+<p>But these high end Epiphone <a href="/aio-wolf-guitars-review-2021/" data-lasso-id="21764">guitars sit in the $500-$900 price</a> bracket, and that can be a bit of a stretch for a beginner, especially a teenager. The <strong>Epiphone Les Paul Special Series </strong>is much more affordable than that. The one I have right now can be bought <em>brand new</em> for $150-$200. That&#8217;s a pretty big difference in price, <em>so what&#8217;s the catch</em>?</p>
 
 
 
@@ -95,7 +95,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Poplar Body</strong></li><li><strong>Mahogany Neck</strong></li><li><strong>60&#8217;s Slim Taper D Profile Neck</strong></li><li><strong>Rosewood </strong><a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12774">Fretboard</a></li><li><strong>22 Medium Frets</strong></li><li><strong>24.75&#8221; Scale Length</strong></li><li><strong>3 Way pickup Selector</strong></li><li><strong>Bolt On Construction</strong></li><li><strong>700T/650R Open-Coil Humbuckers</strong></li><li><strong>Stop Bar Tailpiece</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Poplar Body</strong></li><li><strong>Mahogany Neck</strong></li><li><strong>60&#8217;s Slim Taper D Profile Neck</strong></li><li><strong>Rosewood </strong><a href="/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12774">Fretboard</a></li><li><strong>22 Medium Frets</strong></li><li><strong>24.75&#8221; Scale Length</strong></li><li><strong>3 Way pickup Selector</strong></li><li><strong>Bolt On Construction</strong></li><li><strong>700T/650R Open-Coil Humbuckers</strong></li><li><strong>Stop Bar Tailpiece</strong></li></ul>
 
 
 
@@ -103,19 +103,19 @@ seo:
 
 
 
-<p>The three way switch position is also different. usually, the three way switch is located on the upper bout of a Les Paul, and it has held this design feature for <em>over 60 years</em>. The <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17466">Epiphone Les Paul</a> Special 2 has the switch between the volume/tone controls. Personally, I like this feature on the Special 2, as the switch is more &#8220;out of the way&#8221; when you are playing.</p>
+<p>The three way switch position is also different. usually, the three way switch is located on the upper bout of a Les Paul, and it has held this design feature for <em>over 60 years</em>. The <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17466">Epiphone Les Paul</a> Special 2 has the switch between the volume/tone controls. Personally, I like this feature on the Special 2, as the switch is more &#8220;out of the way&#8221; when you are playing.</p>
 
 
 
-<p>The Les Paul Special 2 also lacks the famous cream binding that you find on the models that are Standard and above. This is purely an aesthetic choice, but it also cuts the cost of labor, as it is one less step in the construction of the guitar. The famous Les Paul pickguard is also missing from the Special 2. Most beginner <a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170863">guitars have stripped down features</a> like this, and the cost-cutting is reflected in your consumer price.</p>
+<p>The Les Paul Special 2 also lacks the famous cream binding that you find on the models that are Standard and above. This is purely an aesthetic choice, but it also cuts the cost of labor, as it is one less step in the construction of the guitar. The famous Les Paul pickguard is also missing from the Special 2. Most beginner <a href="/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170863">guitars have stripped down features</a> like this, and the cost-cutting is reflected in your consumer price.</p>
 
 
 
-<p>The other big difference is the body of the Les Paul Special 2. <em>Most Les Paul <a href="https://www.electrikjam.com/where-guitars-are-made-2022/" data-lasso-id="145499">guitars are made</a> completely out of Mahogany, with a carved Maple top. The Special 2 skips the Maple top completely, and the body is made out of Poplar wood. You&#8217;ll also notice that the Special 2 does not have a fancy carve to the body, the top is completely flat. For reference, her is a picture of a Les Paul Standard model:</p>
+<p>The other big difference is the body of the Les Paul Special 2. <em>Most Les Paul <a href="/where-guitars-are-made-2022/" data-lasso-id="145499">guitars are made</a> completely out of Mahogany, with a carved Maple top. The Special 2 skips the Maple top completely, and the body is made out of Poplar wood. You&#8217;ll also notice that the Special 2 does not have a fancy carve to the body, the top is completely flat. For reference, her is a picture of a Les Paul Standard model:</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="361" src="/wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-1024x361.jpg" alt="" class="wp-image-3405" title="" srcset="/wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-1024x361.jpg 1024w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-scaled-600x211.jpg 600w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-300x106.jpg 300w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-768x271.jpg 768w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-1536x541.jpg 1536w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-2048x721.jpg 2048w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-1080x380.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>For Comparison: <a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="7883">Epiphone Les Paul Standard</a> </strong></em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="361" src="/wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-1024x361.jpg" alt="" class="wp-image-3405" title="" srcset="/wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-1024x361.jpg 1024w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-scaled-600x211.jpg 600w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-300x106.jpg 300w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-768x271.jpg 768w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-1536x541.jpg 1536w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-2048x721.jpg 2048w, /wp-content/uploads/2021/06/epiphone-les-paul-standard-50s-vintage-sunburst-1080x380.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em><strong>For Comparison: <a href="/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="7883">Epiphone Les Paul Standard</a> </strong></em></figcaption></figure>
 
 
 
@@ -135,15 +135,15 @@ seo:
 
 
 
-<p>Looking at this from a beginner&#8217;s standpoint, the Les Paul Special 2 is a simple, no frills guitar. This is a great example of &#8220;function over fashion&#8221;. The Special 2 isn&#8217;t winning any beauty pageants with it&#8217;s laid back design. But don&#8217;t let your eyes deceive you, this thing plays <em>amazingly</em>. Which is exactly what counts, when it comes to <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-lasso-id="154613">beginner guitars</a>.</p>
+<p>Looking at this from a beginner&#8217;s standpoint, the Les Paul Special 2 is a simple, no frills guitar. This is a great example of &#8220;function over fashion&#8221;. The Special 2 isn&#8217;t winning any beauty pageants with it&#8217;s laid back design. But don&#8217;t let your eyes deceive you, this thing plays <em>amazingly</em>. Which is exactly what counts, when it comes to <a href="/choosing-a-guitar-amplifier/" data-lasso-id="154613">beginner guitars</a>.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="1509"><strong><span style="color: #9b51e0;" class="ugb-highlight">The scale length is probably the best feature</span></strong> </a>when it comes to what makes the Special 2 a great choice for beginners. <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4655">Most Les Paul models</a> (Even the Expensive Gibson ones) have a short scale length of 24.75&#8221;. Combine that with the narrow frets on the Special 2, and you have a huge advantage as a beginner. The neck is small, fast, and easy to play. No matter what size your hands are, or what skill level you are, this neck is a <em>joy</em> to play.</p>
+<p><a href="/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="1509"><strong><span style="color: #9b51e0;" class="ugb-highlight">The scale length is probably the best feature</span></strong> </a>when it comes to what makes the Special 2 a great choice for beginners. <a href="/best-les-paul-copy/" data-lasso-id="4655">Most Les Paul models</a> (Even the Expensive Gibson ones) have a short scale length of 24.75&#8221;. Combine that with the narrow frets on the Special 2, and you have a huge advantage as a beginner. The neck is small, fast, and easy to play. No matter what size your hands are, or what skill level you are, this neck is a <em>joy</em> to play.</p>
 
 
 
-<p>The neck has a flat 14&#8221; radius as well. This will help out beginners when they start learning how to <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196545">put together riffs and chords</a>. But more importantly, I find a nice, flat neck to be easier to practice scales and solos. It may be a small feature, but bends are easier to achieve with a flat radius.</p>
+<p>The neck has a flat 14&#8221; radius as well. This will help out beginners when they start learning how to <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196545">put together riffs and chords</a>. But more importantly, I find a nice, flat neck to be easier to practice scales and solos. It may be a small feature, but bends are easier to achieve with a flat radius.</p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>The Poplar body is much lighter than your traditional Les Paul as well. <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1510">Les Paul guitars</a> are notorious for being heavy, because of the Mahogany wood that is used to construct them. My last Gibson Les Paul weighed almost <em>9 lbs</em>. If you are standing up and playing, weight like that can start to irritate your shoulder unless you have a wide strap. The Les Paul Special 2 is lightweight whether you are sitting it in your lap, or standing up with a strap.</p>
+<p>The Poplar body is much lighter than your traditional Les Paul as well. <a href="/types-of-guitars-guide/" data-lasso-id="1510">Les Paul guitars</a> are notorious for being heavy, because of the Mahogany wood that is used to construct them. My last Gibson Les Paul weighed almost <em>9 lbs</em>. If you are standing up and playing, weight like that can start to irritate your shoulder unless you have a wide strap. The Les Paul Special 2 is lightweight whether you are sitting it in your lap, or standing up with a strap.</p>
 
 
 
@@ -159,11 +159,11 @@ seo:
 
 
 
-<p>The pickups in <a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1511">beginner guitars</a> are famous for being pretty cheap quality, and lacking character. The Les <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8646">Paul Special 2 has a set of Epiphone</a> humbuckers loaded in it. The neck is the 650R model, and the bridge is the 700T. These are based on <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44932">Gibson Les Paul Custom Shop</a> models like the famous 490T. Are they any good?</p>
+<p>The pickups in <a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1511">beginner guitars</a> are famous for being pretty cheap quality, and lacking character. The Les <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8646">Paul Special 2 has a set of Epiphone</a> humbuckers loaded in it. The neck is the 650R model, and the bridge is the 700T. These are based on <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44932">Gibson Les Paul Custom Shop</a> models like the famous 490T. Are they any good?</p>
 
 
 
-<p>I think these are <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11598">extremely versatile pickups</a> for an affordable guitar. Remember earlier when I said you should learn how to utilize the volume and <a href="https://www.electrikjam.com/tone-knob-explained/" data-lasso-id="106708">tone knobs</a>? Well, that&#8217;s where these pickups really shine. I was surprised at the way they react to distortion, and you can go from full chug to AC/DC-like crunch tones by using the volume knob. Likewise, the tone knob is also functional, and sounds great on the neck <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7422">pickup for creamy lead tones</a>.</p>
+<p>I think these are <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11598">extremely versatile pickups</a> for an affordable guitar. Remember earlier when I said you should learn how to utilize the volume and <a href="/tone-knob-explained/" data-lasso-id="106708">tone knobs</a>? Well, that&#8217;s where these pickups really shine. I was surprised at the way they react to distortion, and you can go from full chug to AC/DC-like crunch tones by using the volume knob. Likewise, the tone knob is also functional, and sounds great on the neck <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7422">pickup for creamy lead tones</a>.</p>
 
 
 
@@ -187,19 +187,19 @@ seo:
 
 
 
-<p>For older players like myself, beginner guitars have long had a bad reputation. The <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211326">beginner guitars</a> we had available 20-something years ago were built much cheaper, and were very unreliable. I&#8217;m happy to see that scion companies like Epiphone and Squire are making great instruments for an affordable price.</p>
+<p>For older players like myself, beginner guitars have long had a bad reputation. The <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211326">beginner guitars</a> we had available 20-something years ago were built much cheaper, and were very unreliable. I&#8217;m happy to see that scion companies like Epiphone and Squire are making great instruments for an affordable price.</p>
 
 
 
-<p>It&#8217;s never been easier to get started when it comes to playing guitar. There lower echelon of<a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="1512"><strong><span style="color: #9b51e0;" class="ugb-highlight"> tons of inexpensive gear </span></strong></a>available functions well, and sounds <em>great</em>. Years ago, it would be hard to get started playing guitar for under $500. But these days there are tons of options to get you going on your journey. </p>
+<p>It&#8217;s never been easier to get started when it comes to playing guitar. There lower echelon of<a href="/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="1512"><strong><span style="color: #9b51e0;" class="ugb-highlight"> tons of inexpensive gear </span></strong></a>available functions well, and sounds <em>great</em>. Years ago, it would be hard to get started playing guitar for under $500. But these days there are tons of options to get you going on your journey. </p>
 
 
 
-<p>I also think that guitars like the Les Paul Special 2 work well for<em> experienced</em> players on a budget. I&#8217;ve been playing guitar longer than I haven&#8217;t (I&#8217;m OLD), and if my <a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-lasso-id="69614">budget only allowed me to choose from beginner guitars..</a>. I think I would be pretty content with the Les Paul Special 2. In fact, this <em>very same</em> guitar served me well for years as a teen. The only thing I would change would be the plastic nut, and that&#8217;s a $10 fix.</p>
+<p>I also think that guitars like the Les Paul Special 2 work well for<em> experienced</em> players on a budget. I&#8217;ve been playing guitar longer than I haven&#8217;t (I&#8217;m OLD), and if my <a href="/new-squier-40th-anniversary-guitars/" data-lasso-id="69614">budget only allowed me to choose from beginner guitars..</a>. I think I would be pretty content with the Les Paul Special 2. In fact, this <em>very same</em> guitar served me well for years as a teen. The only thing I would change would be the plastic nut, and that&#8217;s a $10 fix.</p>
 
 
 
-<p>So if you have always wanted to get serious about playing, and you have a limited budget&#8230;there has never been a better time to start playing! The stigma behind budget guitars is slowly going away, and you even see less expensive models being <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5468">used by pros and Instagram guitarists</a> these days.</p>
+<p>So if you have always wanted to get serious about playing, and you have a limited budget&#8230;there has never been a better time to start playing! The stigma behind budget guitars is slowly going away, and you even see less expensive models being <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5468">used by pros and Instagram guitarists</a> these days.</p>
 
 
 

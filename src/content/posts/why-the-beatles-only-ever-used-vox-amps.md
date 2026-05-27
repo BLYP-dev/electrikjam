@@ -42,11 +42,11 @@ seo:
 
 
 
-<p>Few other bands have as much lore as The Beatles. As one of the greatest and biggest bands to ever walk the planet, The Beatles are known the globe-over and influenced everyone <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="36068">from Oasis to Buzz Osborne</a></strong>. The Beatles were and remain a big deal for music fans.</p>
+<p>Few other bands have as much lore as The Beatles. As one of the greatest and biggest bands to ever walk the planet, The Beatles are known the globe-over and influenced everyone <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="36068">from Oasis to Buzz Osborne</a></strong>. The Beatles were and remain a big deal for music fans.</p>
 
 
 
-<p>But when it comes to <a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-lasso-id="84758">the gear used by The Beatles</a>, there are a few interesting stories. And we’re not just talking about their choice of guitars, either – <strong><a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-type="post" data-id="4807" data-lasso-id="36069">John Lennon used Epiphone guitars</a></strong>, not Gibson, for instance, but this was before Gibson bought Epiphone. Back when Epiphone guitars were as expensive as Gibson models.</p>
+<p>But when it comes to <a href="/why-the-beatles-used-epiphone-not-gibson/" data-lasso-id="84758">the gear used by The Beatles</a>, there are a few interesting stories. And we’re not just talking about their choice of guitars, either – <strong><a href="/what-is-the-best-quality-epiphone-les-paul/" data-type="post" data-id="4807" data-lasso-id="36069">John Lennon used Epiphone guitars</a></strong>, not Gibson, for instance, but this was before Gibson bought Epiphone. Back when Epiphone guitars were as expensive as Gibson models.</p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-lasso-id="133511">The Beatles</a> also knew that The Shadows used Vox amps. The Shadows were a known influence of The Beatles. Paul and John, as well as Epstein, knew that the Vox amps could produce the sound they wanted. And with a deal in place, they’d get all the gear they needed plus maintenance for no cost to the band.</p>
+<p><a href="/beatles-albums-in-order/" data-lasso-id="133511">The Beatles</a> also knew that The Shadows used Vox amps. The Shadows were a known influence of The Beatles. Paul and John, as well as Epstein, knew that the Vox amps could produce the sound they wanted. And with a deal in place, they’d get all the gear they needed plus maintenance for no cost to the band.</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>This agreement worked great for the band, however, as none of them – if you’ve seen the new Let it Be documentary by Peter Jackson – were what you’d call <strong><a href="https://www.electrikjam.com/best-electric-guitars/" data-lasso-id="36070">gear-heads</a></strong>. The Vox amps worked great, sounded good, and didn’t cost the band anymore. Epstein also likely made a fair bit of cash from the deal too, as any good manager would.</p>
+<p>This agreement worked great for the band, however, as none of them – if you’ve seen the new Let it Be documentary by Peter Jackson – were what you’d call <strong><a href="/best-electric-guitars/" data-lasso-id="36070">gear-heads</a></strong>. The Vox amps worked great, sounded good, and didn’t cost the band anymore. Epstein also likely made a fair bit of cash from the deal too, as any good manager would.</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>In the <strong><em>Let It Be</em></strong> video, The Beatles use Fender amps, an <strong><a href="https://www.guitarcenter.com/Fender/Bassman-800-Hybrid-800W-Bass-Amp-Head.gc?rNtt=American%20Fender%20Bassman&#038;index=2&#038;irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="36071">American Fender Bassman</a></strong> and <strong><a href="https://www.guitarcenter.com/Fender/Vintage-Reissue-65-Twin-Reverb-85W-2x12-Guitar-Combo-Amp.gc?rNtt=fender%20Twin%20Reverb%20amps&#038;index=2&#038;irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="36072">Twin Reverb amps</a></strong>. The Beatles also used these <a href="https://www.electrikjam.com/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176458">amps to record</a> during the Let It Be sessions. And if you listen to that album, as well as the live performance on the roof, you can hear the difference – Fender amps sound a lot different to Vox amps.</p>
+<p>In the <strong><em>Let It Be</em></strong> video, The Beatles use Fender amps, an <strong><a href="https://www.guitarcenter.com/Fender/Bassman-800-Hybrid-800W-Bass-Amp-Head.gc?rNtt=American%20Fender%20Bassman&#038;index=2&#038;irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="36071">American Fender Bassman</a></strong> and <strong><a href="https://www.guitarcenter.com/Fender/Vintage-Reissue-65-Twin-Reverb-85W-2x12-Guitar-Combo-Amp.gc?rNtt=fender%20Twin%20Reverb%20amps&#038;index=2&#038;irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="36072">Twin Reverb amps</a></strong>. The Beatles also used these <a href="/best-low-wattage-tube-amps-reviewed/" data-lasso-id="176458">amps to record</a> during the Let It Be sessions. And if you listen to that album, as well as the live performance on the roof, you can hear the difference – Fender amps sound a lot different to Vox amps.</p>
 
 
 

@@ -43,15 +43,15 @@ seo:
 
 
 
-<p>Let me get this out of the way, before we start talking about the new Schecter Red Reign E Series: This whole article is going to be super biased! <a href="https://www.electrikjam.com/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" class="rank-math-link" data-lasso-id="1402"><strong><span style="color: #9b51e0;" class="ugb-highlight">My main axe is a Schecter E1 and I absolutely adore it. </span></strong></a>So with that out of the way, let me sit here and gush about these amazing new models.</p>
+<p>Let me get this out of the way, before we start talking about the new Schecter Red Reign E Series: This whole article is going to be super biased! <a href="/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" class="rank-math-link" data-lasso-id="1402"><strong><span style="color: #9b51e0;" class="ugb-highlight">My main axe is a Schecter E1 and I absolutely adore it. </span></strong></a>So with that out of the way, let me sit here and gush about these amazing new models.</p>
 
 
 
-<p>Schecter is slowly, but surely, releasing the 2021 lineup. There were definitely delays and the fans of <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247828">Schecter guitars</a> were at a loss when 2021 NAMM came and went with absolutely zero announcements from the company.<strong><span style="color: #9b51e0;" class="ugb-highlight"> </span><a href="https://www.electrikjam.com/new-schecter-svss-exotic-models/" target="_blank" data-type="post" data-id="3004" rel="noopener" class="rank-math-link" data-lasso-id="1403"><span style="color: #9b51e0;" class="ugb-highlight">Eventually, the new SVSS models started to show up.</span></a></strong> This was a good sign, for sure.</p>
+<p>Schecter is slowly, but surely, releasing the 2021 lineup. There were definitely delays and the fans of <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247828">Schecter guitars</a> were at a loss when 2021 NAMM came and went with absolutely zero announcements from the company.<strong><span style="color: #9b51e0;" class="ugb-highlight"> </span><a href="/new-schecter-svss-exotic-models/" target="_blank" data-type="post" data-id="3004" rel="noopener" class="rank-math-link" data-lasso-id="1403"><span style="color: #9b51e0;" class="ugb-highlight">Eventually, the new SVSS models started to show up.</span></a></strong> This was a good sign, for sure.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/schecter-traditional-van-nuys/" target="_blank" data-type="post" data-id="3017" rel="noopener" class="rank-math-link" data-lasso-id="1404"><strong><span style="color: #9b51e0;" class="ugb-highlight">Next we got a look at the Van Nuys models that are based on the famous California Custom Shop</span></strong></a> models from back in the day. These are definitely more&#8230;shall we say reserved? Schecter is known primarily for<strong><span style="color: #9b51e0;" class="ugb-highlight"> </span></strong><span style="color: #9b51e0;" class="ugb-highlight"><strong><a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" target="_blank" data-type="post" data-id="1608" rel="noopener" class="rank-math-link" data-lasso-id="1405">being a sister company of ESP</a></strong> </span>and for making guitars ready for metal. The new Van Nuys guitars are exactly the opposite of that, but still a welcome addition to a growing roster.</p>
+<p><a href="/schecter-traditional-van-nuys/" target="_blank" data-type="post" data-id="3017" rel="noopener" class="rank-math-link" data-lasso-id="1404"><strong><span style="color: #9b51e0;" class="ugb-highlight">Next we got a look at the Van Nuys models that are based on the famous California Custom Shop</span></strong></a> models from back in the day. These are definitely more&#8230;shall we say reserved? Schecter is known primarily for<strong><span style="color: #9b51e0;" class="ugb-highlight"> </span></strong><span style="color: #9b51e0;" class="ugb-highlight"><strong><a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" target="_blank" data-type="post" data-id="1608" rel="noopener" class="rank-math-link" data-lasso-id="1405">being a sister company of ESP</a></strong> </span>and for making guitars ready for metal. The new Van Nuys guitars are exactly the opposite of that, but still a welcome addition to a growing roster.</p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p>But when the Red Reign guitars started popping up, I couldn&#8217;t help but notice that something was missing from the fold. The E Series, my favorite Schecter model, was disappointingly not in the lineup. <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44673">Schecter</a> is known as a company that listens to the customers, though.</p>
+<p>But when the Red Reign guitars started popping up, I couldn&#8217;t help but notice that something was missing from the fold. The E Series, my favorite Schecter model, was disappointingly not in the lineup. <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44673">Schecter</a> is known as a company that listens to the customers, though.</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>As I mentioned at the beginning of the article, I absolutely adore &#8220;E Style&#8221; guitars. I don&#8217;t know if its because of <a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="1406">James Hetfield</a>, or the myriad of other guitarists that have played Explorer shapes over the years. <strong><span style="color: #9b51e0;" class="ugb-highlight"><a href="https://www.schecterguitars.com/guitars/e-1-custom-vintage-sunburst-detail" target="_blank" rel="noopener noreferrer nofollow" class="rank-math-link" data-lasso-id="1407">The E-1 Series</a></span></strong> has been somewhat of a mystery with Schecter. They do not often make these models, but when they do&#8230;they are <em>stellar</em>.</p>
+<p>As I mentioned at the beginning of the article, I absolutely adore &#8220;E Style&#8221; guitars. I don&#8217;t know if its because of <a href="/what-guitar-pick-does-james-hetfield-use/" data-lasso-id="1406">James Hetfield</a>, or the myriad of other guitarists that have played Explorer shapes over the years. <strong><span style="color: #9b51e0;" class="ugb-highlight"><a href="https://www.schecterguitars.com/guitars/e-1-custom-vintage-sunburst-detail" target="_blank" rel="noopener noreferrer nofollow" class="rank-math-link" data-lasso-id="1407">The E-1 Series</a></span></strong> has been somewhat of a mystery with Schecter. They do not often make these models, but when they do&#8230;they are <em>stellar</em>.</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>This year, we get two models in the Red reign series. a 6 string version and a 7 string version. The only difference is the baritone scale length on the <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1408">7 string</a>. Both models share all of the same features:</p>
+<p>This year, we get two models in the Red reign series. a 6 string version and a 7 string version. The only difference is the baritone scale length on the <a href="/types-of-guitars-guide/" data-lasso-id="1408">7 string</a>. Both models share all of the same features:</p>
 
 
 
@@ -95,15 +95,15 @@ seo:
 
 
 
-<p>If you&#8217;re thinking that those are a ton of features for <a href="https://www.electrikjam.com/are-reverend-guitars-any-good/" data-lasso-id="16622">ANY guitar</a>, then you would be right. There is not a single aspect of the new Schecter Red Reign series that has not been upgraded somehow. You get name brand hardware d<em>own to the knobs</em>, and all premium woods.</p>
+<p>If you&#8217;re thinking that those are a ton of features for <a href="/are-reverend-guitars-any-good/" data-lasso-id="16622">ANY guitar</a>, then you would be right. There is not a single aspect of the new Schecter Red Reign series that has not been upgraded somehow. You get name brand hardware d<em>own to the knobs</em>, and all premium woods.</p>
 
 
 
-<p>Like most of the upper-tier <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22596">Schecter Guitars</a>, you also get stainless steel frets. If you read any of my other articles, you will notice I <em>always </em>make a huge deal out this, and for very good reason. Stainless frets never have to be polished or maintained. They will probably outlive you, so there&#8217;s no need to get a re-fret on your favorite guitar. These are no fuss, and make life easier.</p>
+<p>Like most of the upper-tier <a href="/schecter-demon-7-review/" data-lasso-id="22596">Schecter Guitars</a>, you also get stainless steel frets. If you read any of my other articles, you will notice I <em>always </em>make a huge deal out this, and for very good reason. Stainless frets never have to be polished or maintained. They will probably outlive you, so there&#8217;s no need to get a re-fret on your favorite guitar. These are no fuss, and make life easier.</p>
 
 
 
-<p>The same could be said about the hardware on the <a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" data-lasso-id="158763">Schecter</a> Red Reign series. Every piece of hardware is name brand. The Tonepros locking bridge makes string changes way easier than your normal stop bar tailpiece. Add to that, the <a href="https://www.electrikjam.com/what-are-locking-tuners/" data-lasso-id="28683">locking tuners</a> and Graph Tech nut and you have seriously stable instrument that will last for years. I also love the Hipshot knobs that have a grippy o-ring on them, for easy volume swells or tone tweaking.</p>
+<p>The same could be said about the hardware on the <a href="/schecter-omen-elite-2022-review/" data-lasso-id="158763">Schecter</a> Red Reign series. Every piece of hardware is name brand. The Tonepros locking bridge makes string changes way easier than your normal stop bar tailpiece. Add to that, the <a href="/what-are-locking-tuners/" data-lasso-id="28683">locking tuners</a> and Graph Tech nut and you have seriously stable instrument that will last for years. I also love the Hipshot knobs that have a grippy o-ring on them, for easy volume swells or tone tweaking.</p>
 
 
 
@@ -123,11 +123,11 @@ seo:
 
 
 
-<p>Last but definitely not least is the &#8220;Apocalypse IV&#8221; pickups. These are awesome looking and have semi-transparent bobbins that allow you to see the insides of the pickup. This is a simple aesthetic feature, but it goes a long way to me. The wire wraps on the inside are red, to match the <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-lasso-id="40161">Schecter</a> Red Reign Theme, and I think they look <strong>awesome</strong>.</p>
+<p>Last but definitely not least is the &#8220;Apocalypse IV&#8221; pickups. These are awesome looking and have semi-transparent bobbins that allow you to see the insides of the pickup. This is a simple aesthetic feature, but it goes a long way to me. The wire wraps on the inside are red, to match the <a href="/schecter-nick-johnston-hss-review/" data-lasso-id="40161">Schecter</a> Red Reign Theme, and I think they look <strong>awesome</strong>.</p>
 
 
 
-<p>The Apocalypse <a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-lasso-id="39711">pickups sound really amazing</a> as well. Both the neck and the bridge <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11604">pickup are pretty high output and work great for Metal</a>, as well as just about any other genre you throw at them. Both pickups are also coils-splitable with the volume and <a href="https://www.electrikjam.com/tone-knob-explained/" data-lasso-id="106710">tone knobs</a> so you can get a passable single coil sound. I do have to mention, though.. these are not the best in <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="1409">single coil mode</a> to my ears. I can tell the difference, but you are not getting that full bodied Fender-esque sound with the these. </p>
+<p>The Apocalypse <a href="/sustainiac-pickup-fixes/" data-lasso-id="39711">pickups sound really amazing</a> as well. Both the neck and the bridge <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11604">pickup are pretty high output and work great for Metal</a>, as well as just about any other genre you throw at them. Both pickups are also coils-splitable with the volume and <a href="/tone-knob-explained/" data-lasso-id="106710">tone knobs</a> so you can get a passable single coil sound. I do have to mention, though.. these are not the best in <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="1409">single coil mode</a> to my ears. I can tell the difference, but you are not getting that full bodied Fender-esque sound with the these. </p>
 
 
 

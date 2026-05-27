@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>Ever since <strong><a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="67">Meshuggah first started using 8 string guitars</a></strong> way back when, plenty of bands have followed suit, journeying down the rabbit hole of sound that additional strings bring to the party.</p>
+<p>Ever since <strong><a href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="67">Meshuggah first started using 8 string guitars</a></strong> way back when, plenty of bands have followed suit, journeying down the rabbit hole of sound that additional strings bring to the party.</p>
 
 
 
@@ -47,7 +47,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/cheap-8-string-guitar/" data-lasso-id="68">Both use eight-string guitars</a></strong>, albeit in completely different ways, and both are fairly well known in the rock/metal scene.</p>
+<p><strong><a class="rank-math-link" href="/cheap-8-string-guitar/" data-lasso-id="68">Both use eight-string guitars</a></strong>, albeit in completely different ways, and both are fairly well known in the rock/metal scene.</p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p>According to Steph’s actual Instagram, he is now the proud owner of a custom 9-string ESP guitar. The 9-stringer <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104006">ESP</a> was made in Japan to Steph’s exact specifications, though the main event is obviously the addition of a ninth string for even more low-end rumble.</p>
+<p>According to Steph’s actual Instagram, he is now the proud owner of a custom 9-string ESP guitar. The 9-stringer <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104006">ESP</a> was made in Japan to Steph’s exact specifications, though the main event is obviously the addition of a ninth string for even more low-end rumble.</p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>This custom guitar, a one-off built to Stef&#8217;s specifications, has nine strings. Yes, nine. As most ESP players are well aware, <a data-lasso-id="70" href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/">Deftones guitarist</a> and co-founder Stephen Carpenter has been part of the ESP artist family for a very long time, going back almost 25 years since he first started playing our guitars. Stephen is tremendously influential as a guitarist, with thousands of players who&#8217;ve been inspired by his textured sounds that often stem from guitars with extended range.</strong></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>This custom guitar, a one-off built to Stef&#8217;s specifications, has nine strings. Yes, nine. As most ESP players are well aware, <a data-lasso-id="70" href="/deftones-songs-in-drop-d-a-complete-list/">Deftones guitarist</a> and co-founder Stephen Carpenter has been part of the ESP artist family for a very long time, going back almost 25 years since he first started playing our guitars. Stephen is tremendously influential as a guitarist, with thousands of players who&#8217;ve been inspired by his textured sounds that often stem from guitars with extended range.</strong></p></blockquote>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>Steph also confirmed that he used a pair of <a data-lasso-id="8225" href="https://www.electrikjam.com/what-are-active-pickups/">custom Fishman pickups</a> on the 9 string ESP custom guitar. These pickups were used on the new Ohms LP and will almost certainly be used when the band goes back on the road in 2021 to support the album.</p>
+<p>Steph also confirmed that he used a pair of <a data-lasso-id="8225" href="/what-are-active-pickups/">custom Fishman pickups</a> on the 9 string ESP custom guitar. These pickups were used on the new Ohms LP and will almost certainly be used when the band goes back on the road in 2021 to support the album.</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>I know, I know –&nbsp;many of you will probably think 9 <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22592">string guitars</a> are heresy, that they shouldn’t exist, or that they make bass guitars more or less redundant.</p>
+<p>I know, I know –&nbsp;many of you will probably think 9 <a href="/schecter-demon-7-review/" data-lasso-id="22592">string guitars</a> are heresy, that they shouldn’t exist, or that they make bass guitars more or less redundant.</p>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Extended Range –</strong>&nbsp;The #1 reason why guitarists like Steph from the Deftones are using 9 string guitars is simple: extended range. A nine-string guitar has WAY more tonal range than a <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="72">6 string guitar and even a 7 string guitar</a>. If you know what you’re doing, you can create some pretty unique sounding stuff –&nbsp;check out Animals as Leaders for more examples of this kind of thing.</li></ul>
+<ul class="wp-block-list"><li><strong>Extended Range –</strong>&nbsp;The #1 reason why guitarists like Steph from the Deftones are using 9 string guitars is simple: extended range. A nine-string guitar has WAY more tonal range than a <a href="/types-of-guitars-guide/" data-lasso-id="72">6 string guitar and even a 7 string guitar</a>. If you know what you’re doing, you can create some pretty unique sounding stuff –&nbsp;check out Animals as Leaders for more examples of this kind of thing.</li></ul>
 
 
 
@@ -129,11 +129,11 @@ seo:
 
 
 
-<p>You also cannot buy Steph’s 9-string guitar, either. In fact, you’ll struggle to find ANY guitars anywhere with 9-strings. ESP doesn’t appear to have any plans on releasing Steph’s <a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-lasso-id="73651">guitar</a> as a signature model –&nbsp;at least just yet, anyway. And even if it did, it’d be HELLA expensive. Way more than $3000 most likely.</p>
+<p>You also cannot buy Steph’s 9-string guitar, either. In fact, you’ll struggle to find ANY guitars anywhere with 9-strings. ESP doesn’t appear to have any plans on releasing Steph’s <a href="/guitar-fretboard-notes-learn/" data-lasso-id="73651">guitar</a> as a signature model –&nbsp;at least just yet, anyway. And even if it did, it’d be HELLA expensive. Way more than $3000 most likely.</p>
 
 
 
-<p>If you do fancy trying a 9-string guitar, one of the only options on the market right now is the Legator LM-9 Lucas Mann Ninja. It comes with EMG 909X pickups, a Strat-style body, and, of course, 9 strings. The guitar is a monster and at $1600 it is relatively affordable compared to what you’d pay for a <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91767">signature ESP model</a>.</p>
+<p>If you do fancy trying a 9-string guitar, one of the only options on the market right now is the Legator LM-9 Lucas Mann Ninja. It comes with EMG 909X pickups, a Strat-style body, and, of course, 9 strings. The guitar is a monster and at $1600 it is relatively affordable compared to what you’d pay for a <a href="/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91767">signature ESP model</a>.</p>
 
 
 
@@ -145,11 +145,11 @@ seo:
 
 
 
-<p>Still, the Legator LM-9 Lucas Mann Ninja ain’t cheap. But if you’re in the market for a 9 stringer, it is just about the only option in town right now. When it comes to 8-string guitars, you have way more options –&nbsp;and some are pretty affordable too, like the <strong><a href="https://www.electrikjam.com/schecter-demon-8-8-string-electric-guitar-link/" data-type="lasso-urls" data-id="5413" data-lasso-id="14387" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Schecter Demon-8">Schecter Demon 8 ($549)</a></strong> and the <strong><a href="https://www.electrikjam.com/ibanez-rg8-8-string-electric-guitar/" data-type="lasso-urls" data-id="5409" data-lasso-id="14388" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Ibanez RG8 8-String Electric Guitar">Ibanez RG8 ($399.99)</a></strong>.</p>
+<p>Still, the Legator LM-9 Lucas Mann Ninja ain’t cheap. But if you’re in the market for a 9 stringer, it is just about the only option in town right now. When it comes to 8-string guitars, you have way more options –&nbsp;and some are pretty affordable too, like the <strong><a href="/schecter-demon-8-8-string-electric-guitar-link/" data-type="lasso-urls" data-id="5413" data-lasso-id="14387" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Schecter Demon-8">Schecter Demon 8 ($549)</a></strong> and the <strong><a href="/ibanez-rg8-8-string-electric-guitar/" data-type="lasso-urls" data-id="5409" data-lasso-id="14388" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Ibanez RG8 8-String Electric Guitar">Ibanez RG8 ($399.99)</a></strong>.</p>
 
 
 
-<p>Or, if you want to dial in that Meshuggah chug, you can pick up the <strong><a href="https://www.electrikjam.com/ibanez-m80m-8-string-meshuggah-signature-link/" data-type="lasso-urls" data-id="5411" data-lasso-id="14389" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Ibanez M80M 8-String Meshuggah Signature">Ibanez M80M for $1499.99</a></strong> –&nbsp;this is the model used by the guys in Meshuggah. It is glorious looking and has all the electronics and tweaks you’ll ever need to djent your pants off. Me? <strong><a href="https://www.electrikjam.com/schecter-demon-8-8-string-electric-guitar-link/" data-type="lasso-urls" data-id="5413" data-lasso-id="14390" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Schecter Demon-8">I’d take the Schecter Demon 8 ($549)</a></strong> of it any day of the week –&nbsp;it’s around 50% cheaper and just as good.</p>
+<p>Or, if you want to dial in that Meshuggah chug, you can pick up the <strong><a href="/ibanez-m80m-8-string-meshuggah-signature-link/" data-type="lasso-urls" data-id="5411" data-lasso-id="14389" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Ibanez M80M 8-String Meshuggah Signature">Ibanez M80M for $1499.99</a></strong> –&nbsp;this is the model used by the guys in Meshuggah. It is glorious looking and has all the electronics and tweaks you’ll ever need to djent your pants off. Me? <strong><a href="/schecter-demon-8-8-string-electric-guitar-link/" data-type="lasso-urls" data-id="5413" data-lasso-id="14390" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Schecter Demon-8">I’d take the Schecter Demon 8 ($549)</a></strong> of it any day of the week –&nbsp;it’s around 50% cheaper and just as good.</p>
 
 
 

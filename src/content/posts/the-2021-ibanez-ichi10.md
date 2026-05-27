@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>It&#8217;s easy to look at Ibanez at strictly a &#8220;Metal Guitar Company&#8221;. Believe me, I know that I sometimes unfairly lump them into that category. I mean, we <em><strong>are</strong></em> talking about the company that <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="1654"><strong><span class="has-inline-color has-vivid-purple-color">made the first incarnations of the 7 string guitar.</span></strong></a> So it is very easy to look back the legacy of Ibanez, and discount them for what they once were.</p>
+<p>It&#8217;s easy to look at Ibanez at strictly a &#8220;Metal Guitar Company&#8221;. Believe me, I know that I sometimes unfairly lump them into that category. I mean, we <em><strong>are</strong></em> talking about the company that <a href="/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="1654"><strong><span class="has-inline-color has-vivid-purple-color">made the first incarnations of the 7 string guitar.</span></strong></a> So it is very easy to look back the legacy of Ibanez, and discount them for what they once were.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>But one of the things that <a href="https://www.electrikjam.com/ibanez-vs-jackson/" data-lasso-id="166813">Ibanez likes to do more than anything else, is get virtuosos to endorse the Ibanez brand</a>. If you take a look at the roster, you will be surprised at how many guitar players that are regarded as some of the best of all time. This started in the 80&#8217;s for Ibanez, with <strong>Steve Vai</strong>.</p>
+<p>But one of the things that <a href="/ibanez-vs-jackson/" data-lasso-id="166813">Ibanez likes to do more than anything else, is get virtuosos to endorse the Ibanez brand</a>. If you take a look at the roster, you will be surprised at how many guitar players that are regarded as some of the best of all time. This started in the 80&#8217;s for Ibanez, with <strong>Steve Vai</strong>.</p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p>Ichika Nito has been playing Ibanez for a while now, preferring single coil style guitars <a href="https://www.electrikjam.com/ibanez-iron-label-2021/" target="_blank" data-type="post" data-id="3438" rel="noopener" data-lasso-id="1656"><strong><span class="has-inline-color has-vivid-purple-color">over the shreddy RG Series.</span></strong></a> This is because he works mostly with clean tones, or slightly overdriven ones. His tone and technique are honestly in a league of their own:</p>
+<p>Ichika Nito has been playing Ibanez for a while now, preferring single coil style guitars <a href="/ibanez-iron-label-2021/" target="_blank" data-type="post" data-id="3438" rel="noopener" data-lasso-id="1656"><strong><span class="has-inline-color has-vivid-purple-color">over the shreddy RG Series.</span></strong></a> This is because he works mostly with clean tones, or slightly overdriven ones. His tone and technique are honestly in a league of their own:</p>
 
 
 
@@ -105,7 +105,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em>I<strong>banez and guitarist Ichika proudly announce his new signature model guitar. Internet sensation and renowned Guitarist Ichika, gained his global following and reputation through a unique <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69757">combination of complex techniques</a> and an easily identifiable signature sound. </strong></em></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em>I<strong>banez and guitarist Ichika proudly announce his new signature model guitar. Internet sensation and renowned Guitarist Ichika, gained his global following and reputation through a unique <a href="/guitar-muting-techniques/" data-lasso-id="69757">combination of complex techniques</a> and an easily identifiable signature sound. </strong></em></p></blockquote>
 
 
 
@@ -117,7 +117,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" target="_blank" data-type="post" data-id="2129" rel="noopener" data-lasso-id="1657"><span class="has-inline-color has-vivid-purple-color">Ibanez</span></a> </strong>is known for using Basswood bodies, but recent models have had more exotic woods. Nyatoh is not an American wood by any means, but it supposedly a good substitute for other tones woods, such as Mahogany. It is pretty cool, seeing Ibanez trying new things like this!</p>
+<p><strong><a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" target="_blank" data-type="post" data-id="2129" rel="noopener" data-lasso-id="1657"><span class="has-inline-color has-vivid-purple-color">Ibanez</span></a> </strong>is known for using Basswood bodies, but recent models have had more exotic woods. Nyatoh is not an American wood by any means, but it supposedly a good substitute for other tones woods, such as Mahogany. It is pretty cool, seeing Ibanez trying new things like this!</p>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<p>The three single coil pickups is very much like a<a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="1658"><strong><span class="has-inline-color has-vivid-purple-color"> Fender</span></strong></a>, and is quite traditional for such a modern looking guitar. But I guess that&#8217;s exactly what the Ibanez ICHI10 is going for. It aims to blend traditional with modern, and keep it classy! These pickups are especially designed to work well with the sonic differences that a headless instrument provides.</p>
+<p>The three single coil pickups is very much like a<a href="/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="1658"><strong><span class="has-inline-color has-vivid-purple-color"> Fender</span></strong></a>, and is quite traditional for such a modern looking guitar. But I guess that&#8217;s exactly what the Ibanez ICHI10 is going for. It aims to blend traditional with modern, and keep it classy! These pickups are especially designed to work well with the sonic differences that a headless instrument provides.</p>
 
 
 
@@ -163,5 +163,5 @@ seo:
 
 
 
-<blockquote class="wp-block-quote has-text-align-center is-layout-flow wp-block-quote-is-layout-flow"><p><a href="https://www.electrikjam.com/recommends/ibanez-ichi10/" target="_blank" rel="noopener" data-lasso-id="1659"><strong><span class="has-inline-color has-vivid-purple-color">The Ibanez ICHI10 Is now in Stock! FREE Shipping!</span></strong></a></p><cite>From Thomann!</cite></blockquote>
+<blockquote class="wp-block-quote has-text-align-center is-layout-flow wp-block-quote-is-layout-flow"><p><a href="/recommends/ibanez-ichi10/" target="_blank" rel="noopener" data-lasso-id="1659"><strong><span class="has-inline-color has-vivid-purple-color">The Ibanez ICHI10 Is now in Stock! FREE Shipping!</span></strong></a></p><cite>From Thomann!</cite></blockquote>
 

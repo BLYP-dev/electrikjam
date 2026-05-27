@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>Not to mention that PreSonus was made up of Steinberg employees, the very same people that had already <strong><a data-lasso-id="249168" href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener">brought Cubase to life </a></strong>years earlier. Studio One definitely had the upper hand when it comes to design, but what makes this DAW so different?</p>
+<p>Not to mention that PreSonus was made up of Steinberg employees, the very same people that had already <strong><a data-lasso-id="249168" href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener">brought Cubase to life </a></strong>years earlier. Studio One definitely had the upper hand when it comes to design, but what makes this DAW so different?</p>
 
 
 

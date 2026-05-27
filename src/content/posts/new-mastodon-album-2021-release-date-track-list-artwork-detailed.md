@@ -42,11 +42,11 @@ seo:
 
 
 
-<p>The new Mastodon album for 2021 is called <strong><em><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-lasso-id="11163">Hushed and Grim</a></em></strong> and it will get a release date on October 29. The album, which the band describes as its “fullest and biggest sounding record” to date, has been in planning since the start of 2020’s lockdown.</p>
+<p>The new Mastodon album for 2021 is called <strong><em><a href="/mastodon-hushed-and-grim-review/" data-lasso-id="11163">Hushed and Grim</a></em></strong> and it will get a release date on October 29. The album, which the band describes as its “fullest and biggest sounding record” to date, has been in planning since the start of 2020’s lockdown.</p>
 
 
 
-<p>The release of <a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-lasso-id="9125">Mastodon</a>’s new record was under some doubt, given that touring schedules have been ruined by COVID, leading to speculation that the release would be shelved until 2022 when Mastodon could tour properly again.</p>
+<p>The release of <a href="/what-guitars-do-mastodon-use/" data-lasso-id="9125">Mastodon</a>’s new record was under some doubt, given that touring schedules have been ruined by COVID, leading to speculation that the release would be shelved until 2022 when Mastodon could tour properly again.</p>
 
 
 
@@ -78,7 +78,7 @@ seo:
 
 
 
-<p>Hushed And Grim will be Mastodon’s eighth studio record since its formation in 2000. The new album will pick up where 2017’s Emperor of Sand left off. Bill Kelliher <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5456">–&nbsp;Mastodon’s guitarist</a> –&nbsp;has noted the new record is “different” and “special”, indicating that new styles and ideas will almost certainly be present on the album.</p>
+<p>Hushed And Grim will be Mastodon’s eighth studio record since its formation in 2000. The new album will pick up where 2017’s Emperor of Sand left off. Bill Kelliher <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5456">–&nbsp;Mastodon’s guitarist</a> –&nbsp;has noted the new record is “different” and “special”, indicating that new styles and ideas will almost certainly be present on the album.</p>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<p>Mastodon has used a raft of producers over the years –&nbsp;from Mike Elizondo on <strong><em>The Hunter</em></strong> to Brendan O’Brien on <strong><em>Emperor of Sand</em></strong>. The new Mastodon album, however, was produced by David Bottrill, a dude that worked on <strong><a href="https://www.electrikjam.com/matt-bellamy-guitar-cort-manson-mbc-1/" data-type="post" data-id="2383" data-lasso-id="2548">MUSE</a>,&nbsp;DREAM THEATER,&nbsp;and&nbsp;<a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="2549">TOOL</a></strong> records.</p>
+<p>Mastodon has used a raft of producers over the years –&nbsp;from Mike Elizondo on <strong><em>The Hunter</em></strong> to Brendan O’Brien on <strong><em>Emperor of Sand</em></strong>. The new Mastodon album, however, was produced by David Bottrill, a dude that worked on <strong><a href="/matt-bellamy-guitar-cort-manson-mbc-1/" data-type="post" data-id="2383" data-lasso-id="2548">MUSE</a>,&nbsp;DREAM THEATER,&nbsp;and&nbsp;<a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="2549">TOOL</a></strong> records.</p>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<p>Mastodon stayed local in its beloved Atlanta to record <strong><em><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-lasso-id="11164">Hushed And Grim</a></em></strong>. The new record, produced by David Bottrill, was recorded at West End Sound, Ember City – this is where Mastodon has its practice facilities.</p>
+<p>Mastodon stayed local in its beloved Atlanta to record <strong><em><a href="/mastodon-hushed-and-grim-review/" data-lasso-id="11164">Hushed And Grim</a></em></strong>. The new record, produced by David Bottrill, was recorded at West End Sound, Ember City – this is where Mastodon has its practice facilities.</p>
 
 
 
@@ -150,7 +150,7 @@ seo:
 
 
 
-<p>The first single from <strong><em>Hushed And Grim</em></strong> is <strong><em>Pushing The Tides</em></strong>. <a href="https://www.electrikjam.com/mastodon-setlist-for-upcoming-2021-tour-revealed/" data-lasso-id="18354">Mastodon</a> released an official music video for <strong><em>Pushing The Tides,</em></strong> complete with live performances supporting cinematic footage of a man running around with a balaclava on. You can watch the full video for <strong><em>Pushing The Tides</em></strong> below</p>
+<p>The first single from <strong><em>Hushed And Grim</em></strong> is <strong><em>Pushing The Tides</em></strong>. <a href="/mastodon-setlist-for-upcoming-2021-tour-revealed/" data-lasso-id="18354">Mastodon</a> released an official music video for <strong><em>Pushing The Tides,</em></strong> complete with live performances supporting cinematic footage of a man running around with a balaclava on. You can watch the full video for <strong><em>Pushing The Tides</em></strong> below</p>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<p>As always, Mastodon will be releasing <a href="https://www.electrikjam.com/mastodon-hushed-and-grim-lyrics/" data-lasso-id="15526">Hushed And Grim</a> on vinyl. The LP will be a double album and it will be available from October 29, with <strong><a href="https://www.impericon.com/au/mastodon-hushed-and-grim-2-lp.html" target="_blank" rel="nofollow noopener" data-lasso-id="2550">pre-orders starting on the 22nd</a></strong>. Hushed And Grim on vinyl will <strong><a href="https://www.impericon.com/au/mastodon-hushed-and-grim-2-lp.html" target="_blank" rel="nofollow noopener" data-lasso-id="2551">retail for $58.95</a></strong>.</p>
+<p>As always, Mastodon will be releasing <a href="/mastodon-hushed-and-grim-lyrics/" data-lasso-id="15526">Hushed And Grim</a> on vinyl. The LP will be a double album and it will be available from October 29, with <strong><a href="https://www.impericon.com/au/mastodon-hushed-and-grim-2-lp.html" target="_blank" rel="nofollow noopener" data-lasso-id="2550">pre-orders starting on the 22nd</a></strong>. Hushed And Grim on vinyl will <strong><a href="https://www.impericon.com/au/mastodon-hushed-and-grim-2-lp.html" target="_blank" rel="nofollow noopener" data-lasso-id="2551">retail for $58.95</a></strong>.</p>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<p>Check out the first <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-lasso-id="11165">reviews for Hushed and Grim here</a></strong>&#8230;</p>
+<p>Check out the first <strong><a href="/mastodon-hushed-and-grim-review/" data-lasso-id="11165">reviews for Hushed and Grim here</a></strong>&#8230;</p>
 
 
 

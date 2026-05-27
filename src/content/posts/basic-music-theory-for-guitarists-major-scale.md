@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>We have talked about basic<strong> <a data-lasso-id="125928" href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener">music theory</a></strong> here a few times. But those discussions were just surface level, and an<em> introduction</em>. You can always dive a lot deeper, because you can study guitar <strong>forever</strong>, technically. You will never know<em> everything </em>when it comes to music, and guitar <em>especially</em>. Surely though, its never too late to get started when it comes to basic music theory. Whether you are just starting as a <a data-lasso-id="125929" href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" target="_blank" rel="noopener"><strong>beginner</strong></a>, or you&#8217;ve played for 20 years!</p>
+<p>We have talked about basic<strong> <a data-lasso-id="125928" href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener">music theory</a></strong> here a few times. But those discussions were just surface level, and an<em> introduction</em>. You can always dive a lot deeper, because you can study guitar <strong>forever</strong>, technically. You will never know<em> everything </em>when it comes to music, and guitar <em>especially</em>. Surely though, its never too late to get started when it comes to basic music theory. Whether you are just starting as a <a data-lasso-id="125929" href="/best-guitar-for-beginners/" data-type="post" data-id="505" target="_blank" rel="noopener"><strong>beginner</strong></a>, or you&#8217;ve played for 20 years!</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>Looking at the fretboard as a series of numbered Intervals can take some getting used to, just like learning the <a data-lasso-id="125931" href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener"><strong>notes of the fretboard</strong></a>. I know, it seems like more work since you already learned the notes and NOW they have numbers too! But as you dive into more basic music theory, it will start to become almost second nature when you look at scales. You will start to hear the subtle difference adding a Perfect Fourth, for instance, makes when building chords and scales.</p>
+<p>Looking at the fretboard as a series of numbered Intervals can take some getting used to, just like learning the <a data-lasso-id="125931" href="/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener"><strong>notes of the fretboard</strong></a>. I know, it seems like more work since you already learned the notes and NOW they have numbers too! But as you dive into more basic music theory, it will start to become almost second nature when you look at scales. You will start to hear the subtle difference adding a Perfect Fourth, for instance, makes when building chords and scales.</p>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<p>Modes are important, and in future tutorials, we will go over each one and talk about <em>when</em> to use them. Obviously, Ionian is used over a Major Key composition. But as guitarists, we very rarely stick to one mode for an entire solo. For instance, Ionian may be used over a <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196512">Major 7th chord</a> until the song changes. Then you <em>may</em> move over to Lydian, depending on the chords being played. </p>
+<p>Modes are important, and in future tutorials, we will go over each one and talk about <em>when</em> to use them. Obviously, Ionian is used over a Major Key composition. But as guitarists, we very rarely stick to one mode for an entire solo. For instance, Ionian may be used over a <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196512">Major 7th chord</a> until the song changes. Then you <em>may</em> move over to Lydian, depending on the chords being played. </p>
 
 
 
@@ -275,5 +275,5 @@ seo:
 
 
 
-<p class="has-text-align-center"><a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" target="_blank" rel="noopener" data-lasso-id="127896"><strong>Why don&#8217;t you check out our next lesson? Check out MINOR SCALES!</strong></a></p>
+<p class="has-text-align-center"><a href="/theory-for-guitarists-the-minor-scale/" target="_blank" rel="noopener" data-lasso-id="127896"><strong>Why don&#8217;t you check out our next lesson? Check out MINOR SCALES!</strong></a></p>
 

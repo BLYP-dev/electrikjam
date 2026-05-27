@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>I think most of us guitarists have at least experimented a little bit with <strong><a data-lasso-id="220174" href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener">the world of amp sims</a></strong>. There are so many that have popped up over the last two years or so, it can be a<strong> very deep rabbit hole</strong>.</p>
+<p>I think most of us guitarists have at least experimented a little bit with <strong><a data-lasso-id="220174" href="/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener">the world of amp sims</a></strong>. There are so many that have popped up over the last two years or so, it can be a<strong> very deep rabbit hole</strong>.</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p>But that is just one type of amp modeling, and this past year has seen the <strong><a data-lasso-id="221243" href="https://www.electrikjam.com/headrush-prime-first-look/" data-type="post" data-id="11193" target="_blank" rel="noopener">launch of the Headrush Prime</a></strong> and the TONEX, which can basically clone your physical amps at home. </p>
+<p>But that is just one type of amp modeling, and this past year has seen the <strong><a data-lasso-id="221243" href="/headrush-prime-first-look/" data-type="post" data-id="11193" target="_blank" rel="noopener">launch of the Headrush Prime</a></strong> and the TONEX, which can basically clone your physical amps at home. </p>
 
 
 
@@ -178,7 +178,7 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="220175" href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener">I started using STL Tones AmpHub </a></strong>a year ago in the studio, and I have been incredibly impressed with the sounds I am able to get using only my computer. <strong><a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="221244">Helix Native from Line 6 </a></strong>is also very popular, and I have used that in the studio as well.</p>
+<p><strong><a data-lasso-id="220175" href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener">I started using STL Tones AmpHub </a></strong>a year ago in the studio, and I have been incredibly impressed with the sounds I am able to get using only my computer. <strong><a href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="221244">Helix Native from Line 6 </a></strong>is also very popular, and I have used that in the studio as well.</p>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<p>We even tried out <strong><a data-lasso-id="220176" href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener">the &#8220;best&#8221; free amp sims </a></strong>a year or two ago. You could technically make a full song with those free sims, and no one would know that you didn&#8217;t <strong><a data-lasso-id="220177" href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener">mic up an amplifier </a></strong>to get the result. </p>
+<p>We even tried out <strong><a data-lasso-id="220176" href="/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener">the &#8220;best&#8221; free amp sims </a></strong>a year or two ago. You could technically make a full song with those free sims, and no one would know that you didn&#8217;t <strong><a data-lasso-id="220177" href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener">mic up an amplifier </a></strong>to get the result. </p>
 
 
 
@@ -226,7 +226,7 @@ seo:
 
 
 
-<p>With the new <strong><a href="https://www.electrikjam.com/headrush-prime-first-look/" data-type="post" data-id="11193" target="_blank" rel="noopener" data-lasso-id="221245">Headrush Prime </a></strong>or TONEX, it takes a &#8220;capture&#8221; of your amp. This is a lot like taking a screenshot on your computer and then turning it into a picture. You plug up the amp, and get a &#8220;copy&#8221; of whatever the amp tone is, at the time.</p>
+<p>With the new <strong><a href="/headrush-prime-first-look/" data-type="post" data-id="11193" target="_blank" rel="noopener" data-lasso-id="221245">Headrush Prime </a></strong>or TONEX, it takes a &#8220;capture&#8221; of your amp. This is a lot like taking a screenshot on your computer and then turning it into a picture. You plug up the amp, and get a &#8220;copy&#8221; of whatever the amp tone is, at the time.</p>
 
 
 
@@ -330,7 +330,7 @@ seo:
 
 
 
-<p>In fact, the community has even made some Neural Amp Modeler profiles of OTHER amp modelers, like the <strong><a href="https://www.electrikjam.com/what-is-the-neural-dsp-quad-cortex-an-exclusive-first-look/" target="_blank" data-type="post" data-id="1859" rel="noopener" data-lasso-id="221248">Quad Cortex</a></strong>. NAM can take a tonal snapshot of just about any source, and there are some good bass amps as well.</p>
+<p>In fact, the community has even made some Neural Amp Modeler profiles of OTHER amp modelers, like the <strong><a href="/what-is-the-neural-dsp-quad-cortex-an-exclusive-first-look/" target="_blank" data-type="post" data-id="1859" rel="noopener" data-lasso-id="221248">Quad Cortex</a></strong>. NAM can take a tonal snapshot of just about any source, and there are some good bass amps as well.</p>
 
 
 

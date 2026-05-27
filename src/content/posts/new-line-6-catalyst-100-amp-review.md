@@ -46,19 +46,19 @@ seo:
 
 
 
-<p>I don&#8217;t think that its a secret that we love <a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="81945"><strong>Line 6</strong></a> around here. The company went from being a joke with the original POD series, to being the leader in the industry of professional effects units. The <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="81946"><strong>Helix</strong></a> is definitely the flagship model, and it has been used on stages and studios around the world. The sounds are almost limitless when it comes to <a href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener" data-lasso-id="81947"><strong>HX</strong></a> technology these days, and can <a href="https://www.electrikjam.com/what-is-line-6-edit/" data-type="post" data-id="5701" target="_blank" rel="noopener" data-lasso-id="81948"><strong>edit </strong></a>and program almost any sound you hear in your head. HX technology is absolutely amazing, and full of potential.</p>
+<p>I don&#8217;t think that its a secret that we love <a href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="81945"><strong>Line 6</strong></a> around here. The company went from being a joke with the original POD series, to being the leader in the industry of professional effects units. The <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="81946"><strong>Helix</strong></a> is definitely the flagship model, and it has been used on stages and studios around the world. The sounds are almost limitless when it comes to <a href="/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener" data-lasso-id="81947"><strong>HX</strong></a> technology these days, and can <a href="/what-is-line-6-edit/" data-type="post" data-id="5701" target="_blank" rel="noopener" data-lasso-id="81948"><strong>edit </strong></a>and program almost any sound you hear in your head. HX technology is absolutely amazing, and full of potential.</p>
 
 
 
-<p>But Line 6 has stuck with the tried and true formula when it comes to amplifier products. The company has released a new Spyder series amp every few years, with new upgrades and features. The Spyder series used to get a lot of flack as well, since they were notorious for being REALLY bad. But then we took a look at the <em>newest models</em>, and found the Spyder to be totally useable! <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxk9kn/" data-type="lasso-urls" data-id="6617" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="81949" data-lasso-name="Line 6 Spyder MKV 120 Watt Combo"><strong>Our review </strong></a>of the Spyder showed that Line 6 was doing much better with its amp tech. But where is the HX amp?</p>
+<p>But Line 6 has stuck with the tried and true formula when it comes to amplifier products. The company has released a new Spyder series amp every few years, with new upgrades and features. The Spyder series used to get a lot of flack as well, since they were notorious for being REALLY bad. But then we took a look at the <em>newest models</em>, and found the Spyder to be totally useable! <a href="/guitar-center-pxf-io-mxk9kn/" data-type="lasso-urls" data-id="6617" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="81949" data-lasso-name="Line 6 Spyder MKV 120 Watt Combo"><strong>Our review </strong></a>of the Spyder showed that Line 6 was doing much better with its amp tech. But where is the HX amp?</p>
 
 
 
-<p>Well it looks like we finally have the closest thing to an Helix amp that we will ever get. But the big elephant in the room when it comes to modeling amps is the <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="81950"><strong>BOSS Katana</strong></a>. The <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-lasso-id="195489">Katana series</a> came out of nowhere a few years ago, and took over the modeling amp world. Every guitar forum on the planet has recommendations for the Katana, whether you&#8217;re a beginner or a seasoned pro that&#8217;s gigging on the weekends.</p>
+<p>Well it looks like we finally have the closest thing to an Helix amp that we will ever get. But the big elephant in the room when it comes to modeling amps is the <a href="/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="81950"><strong>BOSS Katana</strong></a>. The <a href="/boss-katana-100-mkii-review/" data-lasso-id="195489">Katana series</a> came out of nowhere a few years ago, and took over the modeling amp world. Every guitar forum on the planet has recommendations for the Katana, whether you&#8217;re a beginner or a seasoned pro that&#8217;s gigging on the weekends.</p>
 
 
 
-<p>The thing about the Katana, is that it is a rare product that actually lives up to the hype. When in the studio, I have been using the Katana <strong>a lot</strong>. I have some great presets for every guitar that I own and there are multiple ways to record the Katana. I use <a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="81951"><strong>STL</strong> <strong>Tones for a lot</strong> </a>of studio sounds, but the Katana is just so <em>easy</em> to use. This is the secret of the Katana&#8217;s popularity; It can be very in depth&#8230; or it can be as <em>easy</em> as you want. I record with a mic, and with the line out, and both sound great!</p>
+<p>The thing about the Katana, is that it is a rare product that actually lives up to the hype. When in the studio, I have been using the Katana <strong>a lot</strong>. I have some great presets for every guitar that I own and there are multiple ways to record the Katana. I use <a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="81951"><strong>STL</strong> <strong>Tones for a lot</strong> </a>of studio sounds, but the Katana is just so <em>easy</em> to use. This is the secret of the Katana&#8217;s popularity; It can be very in depth&#8230; or it can be as <em>easy</em> as you want. I record with a mic, and with the line out, and both sound great!</p>
 
 
 
@@ -66,7 +66,7 @@ seo:
 
 
 
-<p>The BOSS Katana has sold more units than <em>any other modeling amp</em>. The reason for this I think, is the ease of use combined with a model for everyone. The 100 watt and 50 watt models are perfect for a band situation, while the smaller versions are great <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" target="_blank" rel="noopener" data-lasso-id="81952"><strong>practice amps.</strong></a> Combine this with how easy it is to dial in a killer tone, and its easy to see why BOSS is the king. While the BOSS Katana<strong> is</strong> a modeler, it is primarily a <strong>guitar amp</strong>. That&#8217;s the whole appeal of the product: Amp first, modeler second.</p>
+<p>The BOSS Katana has sold more units than <em>any other modeling amp</em>. The reason for this I think, is the ease of use combined with a model for everyone. The 100 watt and 50 watt models are perfect for a band situation, while the smaller versions are great <a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" target="_blank" rel="noopener" data-lasso-id="81952"><strong>practice amps.</strong></a> Combine this with how easy it is to dial in a killer tone, and its easy to see why BOSS is the king. While the BOSS Katana<strong> is</strong> a modeler, it is primarily a <strong>guitar amp</strong>. That&#8217;s the whole appeal of the product: Amp first, modeler second.</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<p>I&#8217;m sorry if that sounds confusing, but I have a point. What it comes down to, is that I just don&#8217;t want to travel with a tube amp anymore. Especially not a stack. The Katana, and the Line 6 Catalyst 100 are both affordable modeling amps and they sound like it. Neither will replace a real <strong><a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="81953">tube amp</a> </strong>and a pedalboard. <strong>But I no longer try to impress other guitarists with gear, I do it with my playing.</strong> The audience doesn&#8217;t care what amp I bring to the gig, they just want to see me play.</p>
+<p>I&#8217;m sorry if that sounds confusing, but I have a point. What it comes down to, is that I just don&#8217;t want to travel with a tube amp anymore. Especially not a stack. The Katana, and the Line 6 Catalyst 100 are both affordable modeling amps and they sound like it. Neither will replace a real <strong><a href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="81953">tube amp</a> </strong>and a pedalboard. <strong>But I no longer try to impress other guitarists with gear, I do it with my playing.</strong> The audience doesn&#8217;t care what amp I bring to the gig, they just want to see me play.</p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>I always knew that one day, there would be an amp that would rival the Katana. <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="81954"><strong>Fende</strong></a><strong><a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="81955">r</a> </strong>tried to do it, and so did <strong><a href="https://www.electrikjam.com/blackstar-silverline-special-review/" data-type="post" data-id="6376" target="_blank" rel="noopener" data-lasso-id="81956">Blackstar</a>.</strong> Both companies did a great job, and I gave both of those amps a great review. But they just didn&#8217;t have the same mojo that the Katana had, and while I am sure those amps have sold well&#8230;BOSS remains the top choice among the masses.</p>
+<p>I always knew that one day, there would be an amp that would rival the Katana. <a href="/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="81954"><strong>Fende</strong></a><strong><a href="/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="81955">r</a> </strong>tried to do it, and so did <strong><a href="/blackstar-silverline-special-review/" data-type="post" data-id="6376" target="_blank" rel="noopener" data-lasso-id="81956">Blackstar</a>.</strong> Both companies did a great job, and I gave both of those amps a great review. But they just didn&#8217;t have the same mojo that the Katana had, and while I am sure those amps have sold well&#8230;BOSS remains the top choice among the masses.</p>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<p><strong>Edit: I have decided to do a separate &#8220;Versus&#8221; article against the Katana which will have a link <a href="https://www.electrikjam.com/line-6-catalyst-vs-boss-katana/" target="_blank" rel="noopener" data-lasso-id="84700">here</a> when I finish it. There was just too much to talk about when comparing the two!</strong> <strong>So we will just review the Line 6 Catalyst 100 alone today.</strong></p>
+<p><strong>Edit: I have decided to do a separate &#8220;Versus&#8221; article against the Katana which will have a link <a href="/line-6-catalyst-vs-boss-katana/" target="_blank" rel="noopener" data-lasso-id="84700">here</a> when I finish it. There was just too much to talk about when comparing the two!</strong> <strong>So we will just review the Line 6 Catalyst 100 alone today.</strong></p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>The FX loop is designed to be used along with the <strong><a href="https://www.electrikjam.com/line-6-helix-stomp-pedal/" data-type="lasso-urls" data-id="4345" target="_blank" rel="nofollow noopener" data-lasso-id="81957" data-lasso-name="Line 6 HX Stomp">HX Stomp</a> </strong>pedals, or any other favorite pedals that you may own. I tried out the aux in with my phone, but since this is not an<a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" target="_blank" data-type="post" data-id="6902" rel="noopener" data-lasso-id="81958"> <strong>FRFR </strong></a>speaker it was kind of muddy on the playback. But the aux in sounds fine through headphones if you want to jam with backing tracks or your favorite songs.</p>
+<p>The FX loop is designed to be used along with the <strong><a href="/line-6-helix-stomp-pedal/" data-type="lasso-urls" data-id="4345" target="_blank" rel="nofollow noopener" data-lasso-id="81957" data-lasso-name="Line 6 HX Stomp">HX Stomp</a> </strong>pedals, or any other favorite pedals that you may own. I tried out the aux in with my phone, but since this is not an<a href="/best-frfr-guitar-speaker-under-300/" target="_blank" data-type="post" data-id="6902" rel="noopener" data-lasso-id="81958"> <strong>FRFR </strong></a>speaker it was kind of muddy on the playback. But the aux in sounds fine through headphones if you want to jam with backing tracks or your favorite songs.</p>
 
 
 
@@ -194,11 +194,11 @@ seo:
 
 
 
-<p>The <strong>Boutique</strong> sound is a little <em>beefier</em> than the Clean setting, and by default it has a good bit of gain dialed in. But I found that if you turn down the gain on this channel, you have a great new clean option. It is a lot thicker sounding than the clean, and this is another good <a href="https://www.electrikjam.com/gamma-g50-amplifier-review/" data-lasso-id="232770">platform for pedals</a>, or HX effects. Boutique amps are usually single channel, and the gain is controlled by volume, and this channel works like that. Turn the gain up for crunchy tones, and down for heavier cleans. With single coils, the sound really blooms in the low end. It is THICK.</p>
+<p>The <strong>Boutique</strong> sound is a little <em>beefier</em> than the Clean setting, and by default it has a good bit of gain dialed in. But I found that if you turn down the gain on this channel, you have a great new clean option. It is a lot thicker sounding than the clean, and this is another good <a href="/gamma-g50-amplifier-review/" data-lasso-id="232770">platform for pedals</a>, or HX effects. Boutique amps are usually single channel, and the gain is controlled by volume, and this channel works like that. Turn the gain up for crunchy tones, and down for heavier cleans. With single coils, the sound really blooms in the low end. It is THICK.</p>
 
 
 
-<p><strong>Chime</strong> is another clean-like tone that does exactly what you expect. It mimics a lot of the qualities that a VOX AC15 would have, and with single coils, this sounds great. I dialed in a pretty good blues tone using my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="81959"><strong>Schecter NJ HSS</strong></a> on the neck pickup, with the boost function engaged. With a little bit of reverb, this sounds great for arpeggiated chords. It really does the VOX thing well, and I like this better than the other clean tones. Turn the boost up more, and you get an amazing <strong>Brian May</strong> tone, think the solo from &#8220;Bohemian Rhapsody&#8221;. This is a rounder tone than the other two so far.</p>
+<p><strong>Chime</strong> is another clean-like tone that does exactly what you expect. It mimics a lot of the qualities that a VOX AC15 would have, and with single coils, this sounds great. I dialed in a pretty good blues tone using my <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="81959"><strong>Schecter NJ HSS</strong></a> on the neck pickup, with the boost function engaged. With a little bit of reverb, this sounds great for arpeggiated chords. It really does the VOX thing well, and I like this better than the other clean tones. Turn the boost up more, and you get an amazing <strong>Brian May</strong> tone, think the solo from &#8220;Bohemian Rhapsody&#8221;. This is a rounder tone than the other two so far.</p>
 
 
 
@@ -210,7 +210,7 @@ seo:
 
 
 
-<p><strong>High Gain</strong> is of course my favorite channel by a mile. I used my <a href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="81960" data-lasso-name="Schecter Hellraiser FRS"><strong>Hellraiser</strong></a> with EMG pickups and a <a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener" data-lasso-id="81961"><strong>Sust</strong></a><strong><a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener" data-lasso-id="81962">ainiac</a> </strong>for this setting. I knew that the Line 6 Catalyst 100 would deliver with this setting, and it does. With the midrange turned down, you get that heavy Mesa Boogie scooped tone&#8230; and if you add in the midrange you get a <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-lasso-id="104673">Peavey 5150</a> tone. So this setting can be really versatile if you want. Cranked up, the high gain channel definitely pushes some air from the speaker, and it has good bass response.</p>
+<p><strong>High Gain</strong> is of course my favorite channel by a mile. I used my <a href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="81960" data-lasso-name="Schecter Hellraiser FRS"><strong>Hellraiser</strong></a> with EMG pickups and a <a href="/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener" data-lasso-id="81961"><strong>Sust</strong></a><strong><a href="/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener" data-lasso-id="81962">ainiac</a> </strong>for this setting. I knew that the Line 6 Catalyst 100 would deliver with this setting, and it does. With the midrange turned down, you get that heavy Mesa Boogie scooped tone&#8230; and if you add in the midrange you get a <a href="/the-peavey-5150-history/" data-lasso-id="104673">Peavey 5150</a> tone. So this setting can be really versatile if you want. Cranked up, the high gain channel definitely pushes some air from the speaker, and it has good bass response.</p>
 
 
 
@@ -350,11 +350,11 @@ seo:
 
 
 
-<p>So you <a href="https://www.electrikjam.com/line-6-3-5-update-explained/" data-lasso-id="197571">need the editor for setting up patches on the Line</a> 6 Catalyst 100, but then you have the common Line 6 problem: Too many options, and some options that really don&#8217;t matter. If the editor was more simplistic and focused on the tones and effects alone, this would be perfect. You can delete the whole section with cabs, mics, and bias in my opinion&#8230;if you&#8217;re listening to me, Line 6!</p>
+<p>So you <a href="/line-6-3-5-update-explained/" data-lasso-id="197571">need the editor for setting up patches on the Line</a> 6 Catalyst 100, but then you have the common Line 6 problem: Too many options, and some options that really don&#8217;t matter. If the editor was more simplistic and focused on the tones and effects alone, this would be perfect. You can delete the whole section with cabs, mics, and bias in my opinion&#8230;if you&#8217;re listening to me, Line 6!</p>
 
 
 
-<p>Finally, the Line 6 Catalyst 100 absolutely needs a dedicated footswitch. Line 6 needs to design a footswitch that will work with this <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149210">amp to control</a> all functions. The two button Line 6 footswitch will work in a bind, as it will control the channels and effects just fine for an &#8220;on/off&#8221; situation. But this amp has more features than older Line 6 amps, and a special footswitch would make this amp a monster for live gigs!</p>
+<p>Finally, the Line 6 Catalyst 100 absolutely needs a dedicated footswitch. Line 6 needs to design a footswitch that will work with this <a href="/guitar-amp-controls-explained/" data-lasso-id="149210">amp to control</a> all functions. The two button Line 6 footswitch will work in a bind, as it will control the channels and effects just fine for an &#8220;on/off&#8221; situation. But this amp has more features than older Line 6 amps, and a special footswitch would make this amp a monster for live gigs!</p>
 
 
 
@@ -394,7 +394,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong>Is it better than a <a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155691">BOSS Katana?</a> Is it equal to the Katana? We will see over the weekend as I have more time with both, back to back with each other. Stay tuned for the most interesting &#8220;Versus&#8221; match in a long time</strong>!</p>
+<p class="has-text-align-center"><strong>Is it better than a <a href="/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155691">BOSS Katana?</a> Is it equal to the Katana? We will see over the weekend as I have more time with both, back to back with each other. Stay tuned for the most interesting &#8220;Versus&#8221; match in a long time</strong>!</p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

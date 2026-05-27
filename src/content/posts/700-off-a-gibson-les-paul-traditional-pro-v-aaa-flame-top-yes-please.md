@@ -36,7 +36,7 @@ seo:
 
 
 
-<p>The <strong>Gibson Les Paul Traditional Pro V AAA Flame Top</strong> in stunning <em>Dark Purple Burst</em> is currently <strong>$700 off</strong>, slashing the price to <strong><a href="https://www.electrikjam.com/recommends/gibson-les-paul-traditional-pro-v-aaa-flame-top/" data-lasso-id="270325">$2,299 (down from $2,999)</a></strong>. </p>
+<p>The <strong>Gibson Les Paul Traditional Pro V AAA Flame Top</strong> in stunning <em>Dark Purple Burst</em> is currently <strong>$700 off</strong>, slashing the price to <strong><a href="/recommends/gibson-les-paul-traditional-pro-v-aaa-flame-top/" data-lasso-id="270325">$2,299 (down from $2,999)</a></strong>. </p>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/gibson-les-paul-traditional-pro-v-aaa-flame-top/" data-lasso-id="270326"><strong>Click here to check it out and make it yours!</strong></a></p>
+<p><a href="/recommends/gibson-les-paul-traditional-pro-v-aaa-flame-top/" data-lasso-id="270326"><strong>Click here to check it out and make it yours!</strong></a></p>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 <div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-289c189c wp-block-group-is-layout-flex">
-<p class="has-primary-color has-text-color has-link-color wp-elements-4ebb58c78cd18a912f5e7e9e10c64803" style="text-decoration:underline"><strong><a href="https://www.electrikjam.com/category/gear/guitars/gibson/" data-lasso-id="270327">Latest Gibson News</a></strong></p>
+<p class="has-primary-color has-text-color has-link-color wp-elements-4ebb58c78cd18a912f5e7e9e10c64803" style="text-decoration:underline"><strong><a href="/category/gear/guitars/gibson/" data-lasso-id="270327">Latest Gibson News</a></strong></p>
 </div>
 </div>
 </div>

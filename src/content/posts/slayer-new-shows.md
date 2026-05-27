@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>Just make sure you <strong><a href="https://www.electrikjam.com/loop-earplugs/" data-type="page" data-id="14130" data-lasso-id="260874">get some decent earplugs</a></strong>. </p>
+<p>Just make sure you <strong><a href="/loop-earplugs/" data-type="page" data-id="14130" data-lasso-id="260874">get some decent earplugs</a></strong>. </p>
 
 
 

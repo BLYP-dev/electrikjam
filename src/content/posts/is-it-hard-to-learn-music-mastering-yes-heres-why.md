@@ -58,7 +58,7 @@ seo:
 
 
 
-<p>But here&#8217;s the thing: <strong><a href="https://www.electrikjam.com/mastering-101-beginners-guide/" data-type="page" data-id="14680" data-lasso-id="265269">mastering is an art form</a></strong>. </p>
+<p>But here&#8217;s the thing: <strong><a href="/mastering-101-beginners-guide/" data-type="page" data-id="14680" data-lasso-id="265269">mastering is an art form</a></strong>. </p>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<p>But here&#8217;s the thing: <strong><a href="https://www.electrikjam.com/is-ai-mastering-worth-it/" data-type="post" data-id="14799" data-lasso-id="265275">you can&#8217;t rely on AI tools</a> or YouTube tutorials to get you there. </strong></p>
+<p>But here&#8217;s the thing: <strong><a href="/is-ai-mastering-worth-it/" data-type="post" data-id="14799" data-lasso-id="265275">you can&#8217;t rely on AI tools</a> or YouTube tutorials to get you there. </strong></p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>And if you want a real roadmap to mastering success, check out my <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265270">Mastering 101 Framework</a></strong>. </p>
+<p>And if you want a real roadmap to mastering success, check out my <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265270">Mastering 101 Framework</a></strong>. </p>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<p>I know this because I am a professional mastering engineer. I’ve done it for 20+ years and <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265271">my Mastering 101 Framework is a template</a></strong> that distils down what it took me nearly two decades to figure out.&nbsp;</p>
+<p>I know this because I am a professional mastering engineer. I’ve done it for 20+ years and <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265271">my Mastering 101 Framework is a template</a></strong> that distils down what it took me nearly two decades to figure out.&nbsp;</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>So, what are you waiting for? <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265273">Grab your copy today and start your journey</a></strong> to mastering greatness. It won&#8217;t be easy, but trust me, it&#8217;ll be worth it and with this framework anyone can do it. </p>
+<p>So, what are you waiting for? <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265273">Grab your copy today and start your journey</a></strong> to mastering greatness. It won&#8217;t be easy, but trust me, it&#8217;ll be worth it and with this framework anyone can do it. </p>
 
 
 

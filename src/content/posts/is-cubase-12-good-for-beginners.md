@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>While it can be daunting at first glance, learning a DAW like <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="245039">Cubase </a></strong>can be an easy experience. Focusing on how to do simple functions like pull up your plugins, and creating a new track are simple and rewarding. You should absolutely approach something like <a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251751">Cubase</a> as an instrument, one that will take time and practice.</p>
+<p>While it can be daunting at first glance, learning a DAW like <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="245039">Cubase </a></strong>can be an easy experience. Focusing on how to do simple functions like pull up your plugins, and creating a new track are simple and rewarding. You should absolutely approach something like <a href="/what-is-cubase/" data-lasso-id="251751">Cubase</a> as an instrument, one that will take time and practice.</p>
 
 
 
@@ -58,7 +58,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/cubase-version-history/" data-type="post" data-id="12384" target="_blank" rel="noopener" data-lasso-id="245040">Cubase has been around for a long time</a></strong>, and is one of the first DAW programs to ever exist. Over the last 30 years, Steinberg&#8217;s Cubase DAW has been updated according to the user&#8217;s needs. It can be as simple as recording a few tracks for a demo, or as complex as mixing/mastering an entire professional album.</p>
+<p><strong><a href="/cubase-version-history/" data-type="post" data-id="12384" target="_blank" rel="noopener" data-lasso-id="245040">Cubase has been around for a long time</a></strong>, and is one of the first DAW programs to ever exist. Over the last 30 years, Steinberg&#8217;s Cubase DAW has been updated according to the user&#8217;s needs. It can be as simple as recording a few tracks for a demo, or as complex as mixing/mastering an entire professional album.</p>
 
 
 

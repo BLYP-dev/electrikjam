@@ -81,7 +81,7 @@ seo:
 
 
 
-<p><strong>➡️ <a href="https://www.electrikjam.com/akai-professional-mpk-mini-mk3-keyboard-controller-grey-guitar-center/" data-type="lasso-urls" data-id="12698" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="249656" data-lasso-name="Akai Professional MPK Mini MK3">CHECK LATEST PRICES</a></strong></p>
+<p><strong>➡️ <a href="/akai-professional-mpk-mini-mk3-keyboard-controller-grey-guitar-center/" data-type="lasso-urls" data-id="12698" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="249656" data-lasso-name="Akai Professional MPK Mini MK3">CHECK LATEST PRICES</a></strong></p>
 </div></div>
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>At the end, you&#8217;ll understand why it made our <strong><a href="https://www.electrikjam.com/best-midi-keyboards/" data-lasso-id="249816">2023 list of the best MIDI controllers</a></strong>. Let&#8217;s dig in and get down to the details&#8230;</p>
+<p>At the end, you&#8217;ll understand why it made our <strong><a href="/best-midi-keyboards/" data-lasso-id="249816">2023 list of the best MIDI controllers</a></strong>. Let&#8217;s dig in and get down to the details&#8230;</p>
 
 
 
@@ -370,7 +370,7 @@ seo:
 
 
 
-<p>The MPK Mini MK3 does offer some DAW control, but it&#8217;s clear that <strong><a href="https://www.electrikjam.com/what-is-ableton-live/" data-type="post" data-id="12564" data-lasso-id="249657">Ableton users will get the most out of it </a></strong>right out of the box. </p>
+<p>The MPK Mini MK3 does offer some DAW control, but it&#8217;s clear that <strong><a href="/what-is-ableton-live/" data-type="post" data-id="12564" data-lasso-id="249657">Ableton users will get the most out of it </a></strong>right out of the box. </p>
 
 
 

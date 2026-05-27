@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>But it just has far too many QC issues to recommend over the similarly priced and <a href="https://www.electrikjam.com/who-plays-fender-thinline-telecaster/" data-lasso-id="252365">vastly more reliable Fender Telecaster</a>.&nbsp;</p>
+<p>But it just has far too many QC issues to recommend over the similarly priced and <a href="/who-plays-fender-thinline-telecaster/" data-lasso-id="252365">vastly more reliable Fender Telecaster</a>.&nbsp;</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>If you want my advice, as someone that owns both, save yourself some headaches and <strong><a href="https://www.electrikjam.com/fender-player-tele/" data-type="lasso-urls" data-id="8293" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="250037" data-lasso-name="Fender Player Telecaster">go with the Fender Telecaster.&nbsp;</a></strong></p>
+<p>If you want my advice, as someone that owns both, save yourself some headaches and <strong><a href="/fender-player-tele/" data-type="lasso-urls" data-id="8293" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="250037" data-lasso-name="Fender Player Telecaster">go with the Fender Telecaster.&nbsp;</a></strong></p>
 
 
 
@@ -93,7 +93,7 @@ seo:
 
 
 
-<p>Today, however, we&#8217;re diving deep into a head-to-head comparison between the newer and fancier-looking <strong><a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="250038">Fender Meteora</a></strong> and the iconic, tried-n-tested <strong><a href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="250039">Fender Telecaster</a></strong>. </p>
+<p>Today, however, we&#8217;re diving deep into a head-to-head comparison between the newer and fancier-looking <strong><a href="/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="250038">Fender Meteora</a></strong> and the iconic, tried-n-tested <strong><a href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="250039">Fender Telecaster</a></strong>. </p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/fender-player-tele/" data-type="lasso-urls" data-id="8293" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="250040" data-lasso-name="Fender Player Telecaster">Priced at approximately $600</a></strong>, the Telecaster is a great mid-range option for more experienced players that are looking for something a little more upmarket. </p>
+<p><strong><a href="/fender-player-tele/" data-type="lasso-urls" data-id="8293" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="250040" data-lasso-name="Fender Player Telecaster">Priced at approximately $600</a></strong>, the Telecaster is a great mid-range option for more experienced players that are looking for something a little more upmarket. </p>
 
 
 
@@ -225,7 +225,7 @@ seo:
 
 
 
-<p>Priced in the same ballpark as the Telecaster <strong><a href="https://www.electrikjam.com/pxf-41/" data-type="lasso-urls" data-id="7516" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="250041" data-lasso-name="Fender Player Plus Meteora HH Maple Fingerboard">(around $600)</a></strong>, the Meteora presents itself as a potentially great alternative for those seeking something different. </p>
+<p>Priced in the same ballpark as the Telecaster <strong><a href="/pxf-41/" data-type="lasso-urls" data-id="7516" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="250041" data-lasso-name="Fender Player Plus Meteora HH Maple Fingerboard">(around $600)</a></strong>, the Meteora presents itself as a potentially great alternative for those seeking something different. </p>
 
 
 
@@ -396,23 +396,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="250043">Telecaster vs Jazzmaster: History, Legacy &amp; Differences Compared</a></strong></li>
+<li><strong><a href="/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="250043">Telecaster vs Jazzmaster: History, Legacy &amp; Differences Compared</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="250044">Fender Meteora Player Plus Review: Looks Can Be Deceiving In 2022!</a></strong></li>
+<li><strong><a href="/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="250044">Fender Meteora Player Plus Review: Looks Can Be Deceiving In 2022!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-stratocaster-price-guide/" data-type="post" data-id="10939" data-lasso-id="250045">Fender Stratocaster Price Guide: All Models &amp; Series Compared</a></strong></li>
+<li><strong><a href="/fender-stratocaster-price-guide/" data-type="post" data-id="10939" data-lasso-id="250045">Fender Stratocaster Price Guide: All Models &amp; Series Compared</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="250046">Fender Player Stratocaster Reviews: Still #1 After All These Years?</a></strong></li>
+<li><strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="250046">Fender Player Stratocaster Reviews: Still #1 After All These Years?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="250047">Fender Player Telecaster Reviews: All Killer, No Filler?</a></strong></li>
+<li><strong><a href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="250047">Fender Player Telecaster Reviews: All Killer, No Filler?</a></strong></li>
 </ul>
 
 

@@ -39,15 +39,15 @@ seo:
 
 
 
-<p>When it comes to metal, sounding heavy isn’t just about down-tuning your guitars. It helps, sure, but it won’t make your riffs sound better if they’re not very good to begin with. Plus, plenty of amazing metal bands play in standard tuning –&nbsp;bands like Metallica, Opeth, and <a href="https://www.electrikjam.com/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104033">The Dillinger Escape Plan</a>.</p>
+<p>When it comes to metal, sounding heavy isn’t just about down-tuning your guitars. It helps, sure, but it won’t make your riffs sound better if they’re not very good to begin with. Plus, plenty of amazing metal bands play in standard tuning –&nbsp;bands like Metallica, Opeth, and <a href="/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104033">The Dillinger Escape Plan</a>.</p>
 
 
 
-<p>Starting in the 1990s, the trend of down-tuning guitars became very popular. As did the use and <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251949">proliferation of 7 string guitars</a>. The vast majority of nu-metal, for instance, was down-tuned – <strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="86067">Drop D or Drop C or B Standard</a></strong>. But there are plenty of bands and guitarists that prefer the sound and feel of D Standard tuning.</p>
+<p>Starting in the 1990s, the trend of down-tuning guitars became very popular. As did the use and <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251949">proliferation of 7 string guitars</a>. The vast majority of nu-metal, for instance, was down-tuned – <strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="86067">Drop D or Drop C or B Standard</a></strong>. But there are plenty of bands and guitarists that prefer the sound and feel of D Standard tuning.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="86068">D Standard tuning differs from Drop D</a></strong> tuning in that ALL of the strings on your guitar are dropped down one, whole step. With Drop D tuning, you only drop the low E string down one step to D – everything else stays the same as it is in standard tuning. For this reason, D Standard tuning tends to sound heavier and darker which, of course, lends itself wonderfully to metal and rock music.</p>
+<p><strong><a href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="86068">D Standard tuning differs from Drop D</a></strong> tuning in that ALL of the strings on your guitar are dropped down one, whole step. With Drop D tuning, you only drop the low E string down one step to D – everything else stays the same as it is in standard tuning. For this reason, D Standard tuning tends to sound heavier and darker which, of course, lends itself wonderfully to metal and rock music.</p>
 
 
 
@@ -65,7 +65,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="86069">Mastodon</a></strong> use A LOT of tunings on their records, including drop tunings, but one of Bill and Brent’s favorite guitar tunings is D Standard. Plenty of Mastodon’s most well-known songs, including tracks like Blood and Thunder, Crusher Destroyer, and Megalodon are all in D Standard tuning.</p>
+<p><strong><a href="/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="86069">Mastodon</a></strong> use A LOT of tunings on their records, including drop tunings, but one of Bill and Brent’s favorite guitar tunings is D Standard. Plenty of Mastodon’s most well-known songs, including tracks like Blood and Thunder, Crusher Destroyer, and Megalodon are all in D Standard tuning.</p>
 
 
 
@@ -73,7 +73,7 @@ seo:
 
 
 
-<p>You cannot talk about D Standard tuning without talking about <strong><a href="https://www.electrikjam.com/what-is-the-neural-dsp-quad-cortex-an-exclusive-first-look/" data-type="post" data-id="1859" data-lasso-id="86070">Gojira</a></strong>, AKA the best thing to come out of France since red wine. Gojira use D Standard tuning A LOT. In fact, this tuning is one of the core components of the band’s sound – it is lower and darker and gives the band way more dynamics to play with than, say, <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99331">a dropped tuning like Drop D</a>.</p>
+<p>You cannot talk about D Standard tuning without talking about <strong><a href="/what-is-the-neural-dsp-quad-cortex-an-exclusive-first-look/" data-type="post" data-id="1859" data-lasso-id="86070">Gojira</a></strong>, AKA the best thing to come out of France since red wine. Gojira use D Standard tuning A LOT. In fact, this tuning is one of the core components of the band’s sound – it is lower and darker and gives the band way more dynamics to play with than, say, <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99331">a dropped tuning like Drop D</a>.</p>
 
 
 
@@ -81,11 +81,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="86071">Chelsea Wolfe</a></strong> isn’t necessarily a metal artist, but she does have a fairly doom-laden sound. And in my book, doom is most definitely part of the metal world, hence her inclusion on this list. Chelsea Wolf is a gifted guitar player and songwriter. And she learned to play in D Standard. That’s how Ms. Wolf rolls. And we’re 100% down with that.</p>
+<p><strong><a href="/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-lasso-id="86071">Chelsea Wolfe</a></strong> isn’t necessarily a metal artist, but she does have a fairly doom-laden sound. And in my book, doom is most definitely part of the metal world, hence her inclusion on this list. Chelsea Wolf is a gifted guitar player and songwriter. And she learned to play in D Standard. That’s how Ms. Wolf rolls. And we’re 100% down with that.</p>
 
 
 
-<p>I also love that use plays a <strong><a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" data-lasso-id="86072">Gibson ES</a></strong> too. The semi-hollow Gibson combined with D Standard tuning gives her a massive, organic tone that is heavy but with loads of dynamic range. Wolf usually always plays in D Standard, although she has been down to drop down even lower to C Standard on occasion too.</p>
+<p>I also love that use plays a <strong><a href="/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" data-lasso-id="86072">Gibson ES</a></strong> too. The semi-hollow Gibson combined with D Standard tuning gives her a massive, organic tone that is heavy but with loads of dynamic range. Wolf usually always plays in D Standard, although she has been down to drop down even lower to C Standard on occasion too.</p>
 
 
 
@@ -93,11 +93,11 @@ seo:
 
 
 
-<p>A lot of <strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="86073">Pantera</a></strong> is in Eb tuning, so half a step down from standard tuning. This is the same tuning that <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99500">Jimi Hendrix popularised in the 1970s</a>. It sounds lower and <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142226">more aggressive than standard tuning</a>, but retains all the clarity and dynamic range of standard. It delivers the best of both worlds, essentially.</p>
+<p>A lot of <strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="86073">Pantera</a></strong> is in Eb tuning, so half a step down from standard tuning. This is the same tuning that <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99500">Jimi Hendrix popularised in the 1970s</a>. It sounds lower and <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142226">more aggressive than standard tuning</a>, but retains all the clarity and dynamic range of standard. It delivers the best of both worlds, essentially.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/pantera-reunion-tour/" data-lasso-id="140274">Pantera</a> uses Eb tuning A LOT but the band also uses D Standard as well as C Standard. You can still, of course, play all of Pantera’s songs in standard tuning but if you want to sound exactly like it does on the record, you will need to mess around with different tunings – usually Eb, D Standard, and C Standard.</p>
+<p><a href="/pantera-reunion-tour/" data-lasso-id="140274">Pantera</a> uses Eb tuning A LOT but the band also uses D Standard as well as C Standard. You can still, of course, play all of Pantera’s songs in standard tuning but if you want to sound exactly like it does on the record, you will need to mess around with different tunings – usually Eb, D Standard, and C Standard.</p>
 
 
 
@@ -105,11 +105,11 @@ seo:
 
 
 
-<p>The vast, vast majority of Nirvana songs were recorded and played in Eb tuning. But <strong><a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="86074">Kurt Cobain</a></strong> did use D Standard tuning on a few songs on Nevermind. Come As You Are, Lithium, and Drain You were all recorded in D Standard, for instance, so if you want to sound just like Kurt does on the record, you’ll need to <a href="https://www.electrikjam.com/what-guitar-tuning-do-ghost-use/" data-lasso-id="90471">tune your guitar down one whole step</a> to D Standard.</p>
+<p>The vast, vast majority of Nirvana songs were recorded and played in Eb tuning. But <strong><a href="/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="86074">Kurt Cobain</a></strong> did use D Standard tuning on a few songs on Nevermind. Come As You Are, Lithium, and Drain You were all recorded in D Standard, for instance, so if you want to sound just like Kurt does on the record, you’ll need to <a href="/what-guitar-tuning-do-ghost-use/" data-lasso-id="90471">tune your guitar down one whole step</a> to D Standard.</p>
 
 
 
-<p>Beyond this, Kurt did on occasion use Drop D tuning. Most of the time, however, Kurt Cobain had his <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101453">guitar tuned to Eb</a>, so half a step down from standard tuning.</p>
+<p>Beyond this, Kurt did on occasion use Drop D tuning. Most of the time, however, Kurt Cobain had his <a href="/jimi-hendrix-guitar-tuning/" data-lasso-id="101453">guitar tuned to Eb</a>, so half a step down from standard tuning.</p>
 
 
 
@@ -117,7 +117,7 @@ seo:
 
 
 
-<p>Dream Theater has used a gazillion and one tunings over the years. The band has also used a range of different styles of guitars too – from seven-string guitars to six-string guitars. But plenty of the band&#8217;s songs were written in D Standard like A Rite of Passage and Lost Not Forgotten. Most, however, are in <a href="https://www.electrikjam.com/7-string-guitar-tuning/" data-lasso-id="251938">standard tuning of BEADGBE</a> when 7 string guitars are in play.</p>
+<p>Dream Theater has used a gazillion and one tunings over the years. The band has also used a range of different styles of guitars too – from seven-string guitars to six-string guitars. But plenty of the band&#8217;s songs were written in D Standard like A Rite of Passage and Lost Not Forgotten. Most, however, are in <a href="/7-string-guitar-tuning/" data-lasso-id="251938">standard tuning of BEADGBE</a> when 7 string guitars are in play.</p>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<p>As bands go, they really get any heavier or more hard-working than <strong><a href="https://www.electrikjam.com/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-type="post" data-id="4732" data-lasso-id="86075">Converge</a></strong>. The band has been ripping peoples’ faces off since the mid-1990s. And since then, they have used a range of guitar tunings from standard to D Standard to Drop C.</p>
+<p>As bands go, they really get any heavier or more hard-working than <strong><a href="/converge-x-chelsea-wolfe-join-forces-for-bloodmoon-i-album/" data-type="post" data-id="4732" data-lasso-id="86075">Converge</a></strong>. The band has been ripping peoples’ faces off since the mid-1990s. And since then, they have used a range of guitar tunings from standard to D Standard to Drop C.</p>
 
 
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<p>Children of Bodom have been around in one form or another for decades. Arguably one of the most well-known metal bands on the planet, Children of Bodom has used a range of <a href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-lasso-id="120183">guitar</a> tunings over the years. But a big, solid chunk of the band&#8217;s output was in D Standard tuning.</p>
+<p>Children of Bodom have been around in one form or another for decades. Arguably one of the most well-known metal bands on the planet, Children of Bodom has used a range of <a href="/22-frets-vs-24-frets-explained/" data-lasso-id="120183">guitar</a> tunings over the years. But a big, solid chunk of the band&#8217;s output was in D Standard tuning.</p>
 
 
 
@@ -165,9 +165,9 @@ seo:
 
 
 
-<p>Keep in mind that if you want to tune your guitar lower, you&#8217;ll need to get some <strong><a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" data-type="post" data-id="3389" data-lasso-id="86076">strings that are designed for lower tunings.</a></strong> </p>
+<p>Keep in mind that if you want to tune your guitar lower, you&#8217;ll need to get some <strong><a href="/the-3-best-strings-for-drop-c-tuning/" data-type="post" data-id="3389" data-lasso-id="86076">strings that are designed for lower tunings.</a></strong> </p>
 
 
 
-<p>For more information on different guitar tunings, check out our dedicated <strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="86077">Guitar Tunings Resource Page</a></strong> as well as our guide to the <strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="86078">most commonly used guitar tunings</a></strong> for rock and metal.</p>
+<p>For more information on different guitar tunings, check out our dedicated <strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="86077">Guitar Tunings Resource Page</a></strong> as well as our guide to the <strong><a href="/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="86078">most commonly used guitar tunings</a></strong> for rock and metal.</p>
 

@@ -45,7 +45,7 @@ seo:
 
 
 
-<p>Drop D tuning is an immensely popular guitar tuning used by loads of players in quite a few different genres of music – Drop D ain’t just for nu-metal bands, kids! Plenty of classic rock – from The Beatles to Led Zeppelin – and country is in Drop D. And, of course, nearly all <strong><a href="https://www.electrikjam.com/new-tool-album-release-date/" data-type="post" data-id="6381" data-lasso-id="99309">TOOL songs</a></strong> are as well.</p>
+<p>Drop D tuning is an immensely popular guitar tuning used by loads of players in quite a few different genres of music – Drop D ain’t just for nu-metal bands, kids! Plenty of classic rock – from The Beatles to Led Zeppelin – and country is in Drop D. And, of course, nearly all <strong><a href="/new-tool-album-release-date/" data-type="post" data-id="6381" data-lasso-id="99309">TOOL songs</a></strong> are as well.</p>
 
 
 
@@ -61,11 +61,11 @@ seo:
 
 
 
-<p>However, if you plan on keeping your guitar – or one of your guitars – tuned to Drop D, it might be advantageous to use a new, different set of strings on that guitar. You only have to think about one string, the low E string, now in D, with respect to tension and this makes it a lot easier to deal with than, say, <strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="99310">D Standard</a></strong> where ALL of your strings are dropped down a whole step.</p>
+<p>However, if you plan on keeping your guitar – or one of your guitars – tuned to Drop D, it might be advantageous to use a new, different set of strings on that guitar. You only have to think about one string, the low E string, now in D, with respect to tension and this makes it a lot easier to deal with than, say, <strong><a href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="99310">D Standard</a></strong> where ALL of your strings are dropped down a whole step.</p>
 
 
 
-<p>It also makes choosing a set of strings less of a headache. You can use similar gauge strings as you would for standard tuning, for instance. <strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="99311">I used to play in Drop D</a></strong> A LOT and when I did I used <strong><a href="https://www.electrikjam.com/10-52-ernie-ball-strings/" data-type="lasso-urls" data-id="7412" data-lasso-id="99312" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom">Ernie Ball Skinny Top Heavy Bottom 10-52s predominantly</a></strong>. These strings gave me a great overall tone, ensured the guitar was supremely playable, especially on the higher, thinner strings but also gave my low D string plenty of tension.</p>
+<p>It also makes choosing a set of strings less of a headache. You can use similar gauge strings as you would for standard tuning, for instance. <strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="99311">I used to play in Drop D</a></strong> A LOT and when I did I used <strong><a href="/10-52-ernie-ball-strings/" data-type="lasso-urls" data-id="7412" data-lasso-id="99312" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom">Ernie Ball Skinny Top Heavy Bottom 10-52s predominantly</a></strong>. These strings gave me a great overall tone, ensured the guitar was supremely playable, especially on the higher, thinner strings but also gave my low D string plenty of tension.</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 		
 
 
-<p>And don’t just take my advice, either. <strong><a href="https://www.electrikjam.com/adam-jones-names-the-guitarists-that-influenced-him-most/" data-type="post" data-id="5098" data-lasso-id="99313">Adam Jones from TOOL</a></strong> uses Ernie Ball Skinny Top Heavy Bottom 10-52, and if there is a guitarist on earth that knows more about Drop D than Adam, then I’ll eat my shoes. Adam has used Drop D for the best part of nearly three decades, <strong><a href="https://www.electrikjam.com/10-52-ernie-ball-strings/" data-lasso-id="99314" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom">and if these strings</a></strong> are good enough for Adam, they&#8217;re definitely good enough for mere mortals like you and me&#8230;</p>
+<p>And don’t just take my advice, either. <strong><a href="/adam-jones-names-the-guitarists-that-influenced-him-most/" data-type="post" data-id="5098" data-lasso-id="99313">Adam Jones from TOOL</a></strong> uses Ernie Ball Skinny Top Heavy Bottom 10-52, and if there is a guitarist on earth that knows more about Drop D than Adam, then I’ll eat my shoes. Adam has used Drop D for the best part of nearly three decades, <strong><a href="/10-52-ernie-ball-strings/" data-lasso-id="99314" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Ernie Ball 2215 Nickel Skinny Top/Heavy Bottom">and if these strings</a></strong> are good enough for Adam, they&#8217;re definitely good enough for mere mortals like you and me&#8230;</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>I also dig that these stings will happily switch between standard tuning and Drop D. You get a nice low-end crunch on the low E string in <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142225">standard tuning which is great for rock and metal</a>. If I didn’t play in lower tunings – <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="99315">I use C Standard, mostly, these days</a></strong> – I’d be using these strings 24/7 as they’re perfect for standard tuning and Drop D.</p>
+<p>I also dig that these stings will happily switch between standard tuning and Drop D. You get a nice low-end crunch on the low E string in <a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142225">standard tuning which is great for rock and metal</a>. If I didn’t play in lower tunings – <strong><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="99315">I use C Standard, mostly, these days</a></strong> – I’d be using these strings 24/7 as they’re perfect for standard tuning and Drop D.</p>
 
 
 
@@ -99,5 +99,5 @@ seo:
 
 
 
-<p>If you need more advice on guitar tuning, make sure you check out our <strong><a href="https://electrikjam.com/guitar-tuning/" data-lasso-id="99316" target="_blank" rel="noopener noreferrer nofollow">Guitar Tuning Resource Center</a></strong> – it covers literally everything you could ever want to know about alternate tunings from standard tuning down to things like <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" data-lasso-id="99317">Drop A and Drop B</a></strong>.</p>
+<p>If you need more advice on guitar tuning, make sure you check out our <strong><a href="/guitar-tuning/" data-lasso-id="99316" target="_blank" rel="noopener noreferrer nofollow">Guitar Tuning Resource Center</a></strong> – it covers literally everything you could ever want to know about alternate tunings from standard tuning down to things like <strong><a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" data-lasso-id="99317">Drop A and Drop B</a></strong>.</p>
 

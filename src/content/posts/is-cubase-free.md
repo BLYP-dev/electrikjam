@@ -41,7 +41,7 @@ seo:
 
 
 
-<p>Or, if you don&#8217;t want to do that use <strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991">Reaper</a></strong> – it&#8217;s basically free (and just as good). This is what I use in my <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024">Mastering Music 101 Course.</a></strong> </p>
+<p>Or, if you don&#8217;t want to do that use <strong><a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991">Reaper</a></strong> – it&#8217;s basically free (and just as good). This is what I use in my <strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024">Mastering Music 101 Course.</a></strong> </p>
 
 
 
@@ -85,7 +85,7 @@ seo:
 
 
 
-<p>Steinberg offers <strong><a href="https://www.electrikjam.com/cubase-ai/" data-type="post" data-id="12275">Cubase AI</a></strong>, a stripped-down version you can get <em>for free</em>, but only if you buy specific hardware (like an audio interface or controller) that bundles it in. </p>
+<p>Steinberg offers <strong><a href="/cubase-ai/" data-type="post" data-id="12275">Cubase AI</a></strong>, a stripped-down version you can get <em>for free</em>, but only if you buy specific hardware (like an audio interface or controller) that bundles it in. </p>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<p id="htoc-perfect-for-intermediate-producers-ready-to-level-up"><strong>Perfect for</strong>: Intermediate producers ready to level up; if you&#8217;re looking for something that&#8217;ll grow with you as you learn, <strong><a href="https://www.electrikjam.com/recommends/cubase-14-artist/">Artist is a brilliant base to work up from. </a></strong></p>
+<p id="htoc-perfect-for-intermediate-producers-ready-to-level-up"><strong>Perfect for</strong>: Intermediate producers ready to level up; if you&#8217;re looking for something that&#8217;ll grow with you as you learn, <strong><a href="/recommends/cubase-14-artist/">Artist is a brilliant base to work up from. </a></strong></p>
 
 
 
@@ -315,7 +315,7 @@ seo:
 
 
 
-<p>Cubase is great. We rate it highly (I much prefer it to Ableton, for instance) and at <strong><a href="https://www.electrikjam.com/recommends/cubase-14-artist/" data-type="lasso-urls" data-id="13773">the Artists package</a></strong> gives you everything you need to get started. Side bonus: it&#8217;s more advanced than the basic version, so you&#8217;ll grow into it over time. </p>
+<p>Cubase is great. We rate it highly (I much prefer it to Ableton, for instance) and at <strong><a href="/recommends/cubase-14-artist/" data-type="lasso-urls" data-id="13773">the Artists package</a></strong> gives you everything you need to get started. Side bonus: it&#8217;s more advanced than the basic version, so you&#8217;ll grow into it over time. </p>
 
 
 

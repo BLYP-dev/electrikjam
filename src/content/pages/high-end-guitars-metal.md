@@ -65,32 +65,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/fender/" rel="tag">Fender</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/fender/" rel="tag">Fender</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/professional/" rel="tag">Professional</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/professional/" rel="tag">Professional</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/08/Fender-American-Ultra-II-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender American Ultra II Stratocaster HSS" style="object-fit:cover;" srcset="/wp-content/uploads/2025/08/Fender-American-Ultra-II-1.jpg 1200w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-1-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-1-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-1-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-1-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/08/Fender-American-Ultra-II-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender American Ultra II Stratocaster HSS" style="object-fit:cover;" srcset="/wp-content/uploads/2025/08/Fender-American-Ultra-II-1.jpg 1200w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-1-600x400.jpg 600w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-1-300x200.jpg 300w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-1-1024x683.jpg 1024w, /wp-content/uploads/2025/08/Fender-American-Ultra-II-1-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" target="_self">Fender American Ultra II Stratocaster HSS</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/fender-american-ultra-ii-stratocaster-hss/" target="_self">Fender American Ultra II Stratocaster HSS</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The Fender American Ultra II Stratocaster HSS is Fender’s new flagship “modern Strat,” designed for players who want maximum versatility, flawless build quality, and next-level comfort without losing the classic Fender soul. Built in Corona, California, it features cutting-edge hardware, stainless steel frets, noiseless pickups, and refined ergonomics that make it a true top-tier workhorse for the stage or studio.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -113,32 +113,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/fender/" rel="tag">Fender</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/fender/" rel="tag">Fender</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/professional/" rel="tag">Professional</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/professional/" rel="tag">Professional</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/fender-jack-white-triplecaster-telecaster/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender Jack White Triplecaster Telecaster " style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1.jpg 1200w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-600x400.jpg 600w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-300x200.jpg 300w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/fender-jack-white-triplecaster-telecaster/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender Jack White Triplecaster Telecaster " style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1.jpg 1200w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-600x400.jpg 600w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-300x200.jpg 300w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Fender-Jack-White-Triplecaster-Telecaster-1-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/fender-jack-white-triplecaster-telecaster/" target="_self">Fender Jack White Triplecaster Telecaster </a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/fender-jack-white-triplecaster-telecaster/" target="_self">Fender Jack White Triplecaster Telecaster </a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The Fender Jack White Triplecaster Telecaster is what happens when a classic Tele gets dragged through a Third Man Records time vortex. Built as a true signature for Jack White’s genre-bending style, this limited-edition guitar fuses old-school Tele craftsmanship with wild electronics, unique visuals, and some seriously experimental firepower. If you want a traditional Tele, this ain’t it. If you want inspiration in solid-body form? You’ve found it.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -161,32 +161,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/gibson/" rel="tag">Gibson</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/gibson/" rel="tag">Gibson</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/professional/" rel="tag">Professional</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/professional/" rel="tag">Professional</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/gibson-les-paul-standard-60s-double-trouble/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Gibson Les Paul Standard &#8217;60s Double Trouble" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst.jpg 1200w, /wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst-600x400.jpg 600w, /wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst-300x200.jpg 300w, /wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/gibson-les-paul-standard-60s-double-trouble/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Gibson Les Paul Standard &#8217;60s Double Trouble" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst.jpg 1200w, /wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst-600x400.jpg 600w, /wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst-300x200.jpg 300w, /wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Gibson-Les-Paul-Standard-60s-Double-Trouble-Electric-Guitar-Vintage-Cherry-Sunburst-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/gibson-les-paul-standard-60s-double-trouble/" target="_self">Gibson Les Paul Standard &#8217;60s Double Trouble</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/gibson-les-paul-standard-60s-double-trouble/" target="_self">Gibson Les Paul Standard &#8217;60s Double Trouble</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The Gibson Les Paul Standard &#8217;60s Double Trouble is a limited-run stunner that adds a collectible flair to an already iconic model. With only 500 units per color made worldwide, this U.S.-built beauty combines classic Les Paul construction with unique vintage-style details like double-white uncovered humbuckers and hand-sprayed faded nitro finishes. It’s a guitar that screams old-school cool while delivering the tone and feel that made the Les Paul a legend.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -209,32 +209,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/evh/" rel="tag">EVH</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/evh/" rel="tag">EVH</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/professional/" rel="tag">Professional</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/professional/" rel="tag">Professional</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/evh-sa-126-special-limited-editon-satin-shell-pink/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="EVH SA-126 Special Limited-Edition" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition.jpg 1200w, /wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition-600x400.jpg 600w, /wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition-300x200.jpg 300w, /wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition-1024x683.jpg 1024w, /wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/evh-sa-126-special-limited-editon-satin-shell-pink/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="EVH SA-126 Special Limited-Edition" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition.jpg 1200w, /wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition-600x400.jpg 600w, /wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition-300x200.jpg 300w, /wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition-1024x683.jpg 1024w, /wp-content/uploads/2025/06/EVH-SA-126-Special-Limited-Edition-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/evh-sa-126-special-limited-editon-satin-shell-pink/" target="_self">EVH SA-126 Special Limited-Edition</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/evh-sa-126-special-limited-editon-satin-shell-pink/" target="_self">EVH SA-126 Special Limited-Edition</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The EVH SA-126 Special Limited-Edition is Wolfgang Van Halen’s first official signature guitar, and it’s not messing around. Designed to mix the warmth and resonance of a semi-hollow with the power and attack of a solid-body, the SA-126 is a genre-bending beast with a look that turns heads. Think traditional vibes with a modern twist and yeah, it really delivers.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/semi-hollow/" rel="tag">Semi-Hollow</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/semi-hollow/" rel="tag">Semi-Hollow</a></div>
 
 
 <p>|</p>
@@ -271,7 +271,7 @@ seo:
 
 
 
-<p>Perfect for absolute beginners or anyone interested in learning guitar. <strong><a href="https://www.electrikjam.com/best-electric-guitars/best-budget-guitars/" data-lasso-id="269087">These budget / affordable electric guitars seriously impressed us</a></strong> with their playability, tone, and general quality…</p>
+<p>Perfect for absolute beginners or anyone interested in learning guitar. <strong><a href="/best-electric-guitars/best-budget-guitars/" data-lasso-id="269087">These budget / affordable electric guitars seriously impressed us</a></strong> with their playability, tone, and general quality…</p>
 
 
 </div>
@@ -289,7 +289,7 @@ seo:
 
 
 
-<p>You’ve learnt the basics, and now you want a better instrument. Exciting times. <strong><a href="https://www.electrikjam.com/best-electric-guitars/best-mid-range-electric-guitars/" data-lasso-id="269089">These guitars all offer exceptional playability and specs</a></strong> built for studio work and life on the road.</p>
+<p>You’ve learnt the basics, and now you want a better instrument. Exciting times. <strong><a href="/best-electric-guitars/best-mid-range-electric-guitars/" data-lasso-id="269089">These guitars all offer exceptional playability and specs</a></strong> built for studio work and life on the road.</p>
 
 
 </div>

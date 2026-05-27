@@ -71,7 +71,7 @@ seo:
 
 
 <ol class="wp-block-list">
-<li><strong>Playing Technique: </strong>Electric guitars are typically played by plucking or strumming the strings using a pick or fingers. This technique involves <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251803">mastering techniques such as chords</a>, scales, and bending notes to create melodies and solos.</li>
+<li><strong>Playing Technique: </strong>Electric guitars are typically played by plucking or strumming the strings using a pick or fingers. This technique involves <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="251803">mastering techniques such as chords</a>, scales, and bending notes to create melodies and solos.</li>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p>Is Electric Guitar Easier than Piano? I would say YES, since it takes much more time to actually learn to form chords and <strong><a href="https://www.electrikjam.com/guitar-chord-progressions-guide/" data-lasso-id="250197">understand chord progressions</a></strong>. There is no TAB for piano, you have to know how to read music to play a song. With guitar, there is tab for every song you can imagine.</p>
+<p>Is Electric Guitar Easier than Piano? I would say YES, since it takes much more time to actually learn to form chords and <strong><a href="/guitar-chord-progressions-guide/" data-lasso-id="250197">understand chord progressions</a></strong>. There is no TAB for piano, you have to know how to read music to play a song. With guitar, there is tab for every song you can imagine.</p>
 
 
 

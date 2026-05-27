@@ -39,7 +39,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048" class="rank-math-link" data-lasso-id="1437">Jimmy Page</a></strong> played in an era before million-pound endorsements, signature models, and YouTube. During the 1960s and 70s, plenty of guitarists, even those of Page’s stature, bought their own gear.</p>
+<p><strong><a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048" class="rank-math-link" data-lasso-id="1437">Jimmy Page</a></strong> played in an era before million-pound endorsements, signature models, and YouTube. During the 1960s and 70s, plenty of guitarists, even those of Page’s stature, bought their own gear.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>Sure, they got freebies from <strong><a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-type="post" data-id="1938" class="rank-math-link" data-lasso-id="1438">guitar and gear companies</a></strong>, but many of the greats, including Hendrix, Page, and Hetfield, all started out like the rest of us –&nbsp;<strong>they bought their own gear.</strong></p>
+<p>Sure, they got freebies from <strong><a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-type="post" data-id="1938" class="rank-math-link" data-lasso-id="1438">guitar and gear companies</a></strong>, but many of the greats, including Hendrix, Page, and Hetfield, all started out like the rest of us –&nbsp;<strong>they bought their own gear.</strong></p>
 
 
 
@@ -75,11 +75,11 @@ seo:
 
 
 
-<p>Interested in a <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1439">hollow body</a>? Ask around your mates, see if they know any players in bands that are behind on their rent and would be willing to sell a <a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-lasso-id="84762">hollow body guitar</a>.</p>
+<p>Interested in a <a href="/types-of-guitars-guide/" data-lasso-id="1439">hollow body</a>? Ask around your mates, see if they know any players in bands that are behind on their rent and would be willing to sell a <a href="/why-the-beatles-used-epiphone-not-gibson/" data-lasso-id="84762">hollow body guitar</a>.</p>
 
 
 
-<p>Without the internet, <strong><a href="https://www.electrikjam.com/best-guitar-gear/" class="rank-math-link" data-lasso-id="1440">finding new guitars and gear</a></strong> –&nbsp;especially if you moved around as much as Page –&nbsp;was no way near as simple as it was now. Even more so if you were operating on a budget.</p>
+<p>Without the internet, <strong><a href="/best-guitar-gear/" class="rank-math-link" data-lasso-id="1440">finding new guitars and gear</a></strong> –&nbsp;especially if you moved around as much as Page –&nbsp;was no way near as simple as it was now. Even more so if you were operating on a budget.</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>And this, interestingly, is how <strong>Jimmy Page acquired his favorite guitar of all time, a <a href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="1940">1959 Gibson Les Paul Standard</a> with a sunburst finish</strong>. Page bought the guitar off Joe Walsh for $500 – a snip by today’s standards.</p>
+<p>And this, interestingly, is how <strong>Jimmy Page acquired his favorite guitar of all time, a <a href="/gibson-guitars/" data-lasso-id="1940">1959 Gibson Les Paul Standard</a> with a sunburst finish</strong>. Page bought the guitar off Joe Walsh for $500 – a snip by today’s standards.</p>
 
 
 
@@ -129,7 +129,7 @@ https://www.youtube.com/watch?v=zTbbYk0ezeM
 
 
 
-<p>Keep in mind that at this point, Jimmy Page had A LOT of guitars. The ones we know about –&nbsp;the Danelectro 3021, the <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" class="rank-math-link" data-lasso-id="1441">Fender Telecaster</a></strong>, the Gibson Les Paul Deluxe, and the double-neck Gibson EDS-1275 –&nbsp;were all used live and in the studio.</p>
+<p>Keep in mind that at this point, Jimmy Page had A LOT of guitars. The ones we know about –&nbsp;the Danelectro 3021, the <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" class="rank-math-link" data-lasso-id="1441">Fender Telecaster</a></strong>, the Gibson Les Paul Deluxe, and the double-neck Gibson EDS-1275 –&nbsp;were all used live and in the studio.</p>
 
 
 
@@ -137,9 +137,9 @@ https://www.youtube.com/watch?v=zTbbYk0ezeM
 
 
 
-<p>But <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44945">the only one out of all his guitars to be referred to as “number one” was the 1959 Gibson Les Paul Standard</a>. It took pride of place in his arsenal of <a href="https://www.electrikjam.com/johnny-depp-guitar-collection/" data-lasso-id="106808">amazing guitars</a>.</p>
+<p>But <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44945">the only one out of all his guitars to be referred to as “number one” was the 1959 Gibson Les Paul Standard</a>. It took pride of place in his arsenal of <a href="/johnny-depp-guitar-collection/" data-lasso-id="106808">amazing guitars</a>.</p>
 
 
 
-<p>And that should probably tell you everything you need to know about the 1959 Gibson Les Paul Standard<strong>.</strong> And if you cannot afford $5000-$7000 for the Gibson model, <strong><a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" data-type="post" data-id="1336" class="rank-math-link" data-lasso-id="1442">Epiphone has a killer version of it that is about 1000% cheaper. </a></strong></p>
+<p>And that should probably tell you everything you need to know about the 1959 Gibson Les Paul Standard<strong>.</strong> And if you cannot afford $5000-$7000 for the Gibson model, <strong><a href="/new-for-2020-epiphone-59-les-paul/" data-type="post" data-id="1336" class="rank-math-link" data-lasso-id="1442">Epiphone has a killer version of it that is about 1000% cheaper. </a></strong></p>
 

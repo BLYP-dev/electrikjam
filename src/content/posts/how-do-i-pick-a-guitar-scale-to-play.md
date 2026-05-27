@@ -117,7 +117,7 @@ seo:
 
 
 
-<p>Before diving into scale selection, it&#8217;s crucial to understand the relationship between keys and notes. <strong><a href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" target="_blank" data-type="post" data-id="8193" rel="noopener" data-lasso-id="243413">In music theory</a></strong>, a key refers to a specific set of notes that form the foundation of a composition or a section of music. Each key has a root note, also known as the tonic, which serves as the central pitch from which the key is derived.</p>
+<p>Before diving into scale selection, it&#8217;s crucial to understand the relationship between keys and notes. <strong><a href="/theory-for-guitarists-the-minor-scale/" target="_blank" data-type="post" data-id="8193" rel="noopener" data-lasso-id="243413">In music theory</a></strong>, a key refers to a specific set of notes that form the foundation of a composition or a section of music. Each key has a root note, also known as the tonic, which serves as the central pitch from which the key is derived.</p>
 
 
 
@@ -129,7 +129,7 @@ seo:
 
 
 
-<p>It is also important to <strong><a data-lasso-id="243414" href="https://www.electrikjam.com/guitar-intervals-for-beginners/" data-type="post" data-id="8221" target="_blank" rel="noopener">know how intervals work</a></strong>, since the scales are just one part of the formula. Picking the right scale for a chord progression starts with the key of the chord progression being played. After you know the key you can start to work out the scale pattern, and know which intervals in the scale that can be used.</p>
+<p>It is also important to <strong><a data-lasso-id="243414" href="/guitar-intervals-for-beginners/" data-type="post" data-id="8221" target="_blank" rel="noopener">know how intervals work</a></strong>, since the scales are just one part of the formula. Picking the right scale for a chord progression starts with the key of the chord progression being played. After you know the key you can start to work out the scale pattern, and know which intervals in the scale that can be used.</p>
 
 
 
@@ -157,11 +157,11 @@ seo:
 
 
 
-<p>A good example of a major scale solo that really uses almost every note available is the first solo  <strong>&#8220;Comfortably Numb&#8221; by Pink Floyd</strong>. In this song, David is using the major scale in an expressive way, moving from sustained notes to beautiful bends throughout the solo. This is <strong><a href="https://www.electrikjam.com/the-7-best-guitar-solos-of-all-time/" target="_blank" data-type="post" data-id="6884" rel="noopener" data-lasso-id="243511">one of the best solos of all time </a></strong>for a reason, and it is a great example of exploring the major scale.</p>
+<p>A good example of a major scale solo that really uses almost every note available is the first solo  <strong>&#8220;Comfortably Numb&#8221; by Pink Floyd</strong>. In this song, David is using the major scale in an expressive way, moving from sustained notes to beautiful bends throughout the solo. This is <strong><a href="/the-7-best-guitar-solos-of-all-time/" target="_blank" data-type="post" data-id="6884" rel="noopener" data-lasso-id="243511">one of the best solos of all time </a></strong>for a reason, and it is a great example of exploring the major scale.</p>
 
 
 
-<p><strong>What about if the song is in a minor key?</strong> Well, you just shift over to <strong><a data-lasso-id="243415" href="https://www.electrikjam.com/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" target="_blank" rel="noopener">using the harmonic minor scale</a></strong>. The minor scale is sometimes looked at as boring, just like the major scale. But again, the second solo in &#8220;Comfortably Numb&#8221; is<em> another</em> great example of using the minor scale to its full potential.</p>
+<p><strong>What about if the song is in a minor key?</strong> Well, you just shift over to <strong><a data-lasso-id="243415" href="/theory-for-guitarists-the-minor-scale/" data-type="post" data-id="8193" target="_blank" rel="noopener">using the harmonic minor scale</a></strong>. The minor scale is sometimes looked at as boring, just like the major scale. But again, the second solo in &#8220;Comfortably Numb&#8221; is<em> another</em> great example of using the minor scale to its full potential.</p>
 
 
 
@@ -229,7 +229,7 @@ seo:
 
 
 
-<p>That&#8217;s right, <strong><a data-lasso-id="243416" href="https://www.electrikjam.com/memorizing-guitar-scales-101/" data-type="post" data-id="12227" target="_blank" rel="noopener">the pentatonic scale </a></strong>is our final answer to &#8220;How do I pick a guitar scale to play?&#8221;. The thing about the pentatonic scale, is that it is often &#8220;looked down on&#8221; by guitarists since so many people use it. I am sure you have seen some memes about it online. But this is the trick to using the pentatonic scale in an effective way:</p>
+<p>That&#8217;s right, <strong><a data-lasso-id="243416" href="/memorizing-guitar-scales-101/" data-type="post" data-id="12227" target="_blank" rel="noopener">the pentatonic scale </a></strong>is our final answer to &#8220;How do I pick a guitar scale to play?&#8221;. The thing about the pentatonic scale, is that it is often &#8220;looked down on&#8221; by guitarists since so many people use it. I am sure you have seen some memes about it online. But this is the trick to using the pentatonic scale in an effective way:</p>
 
 
 
@@ -265,7 +265,7 @@ seo:
 
 
 
-<p>But so many guitarists use this technique to great effect. One of my f<strong><a href="https://www.electrikjam.com/top-5-underrated-guitarists/" target="_blank" data-type="post" data-id="11654" rel="noopener" data-lasso-id="243513">avorite guitarists is Nick Johnston</a></strong>, whom we have covered here several times. He uses his scale knowledge to the maximum potential, but he also crafts simple melodies that act as a &#8220;hook&#8221; for all of his songs.</p>
+<p>But so many guitarists use this technique to great effect. One of my f<strong><a href="/top-5-underrated-guitarists/" target="_blank" data-type="post" data-id="11654" rel="noopener" data-lasso-id="243513">avorite guitarists is Nick Johnston</a></strong>, whom we have covered here several times. He uses his scale knowledge to the maximum potential, but he also crafts simple melodies that act as a &#8220;hook&#8221; for all of his songs.</p>
 
 
 

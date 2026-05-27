@@ -48,11 +48,11 @@ seo:
 
 
 
-<p>Just like the <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="550">Katana Amplifiers</a>, the GT1000 series has all of the effects you are looking for. The original BOSS GT1000 has tons of processing power too, running at 32-bit/96kHz. The USB connection allowed for deep editing of all of your patches through your computer, and like other processors of it&#8217;s ilk, worked as an audio interface as well.</p>
+<p>Just like the <a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="550">Katana Amplifiers</a>, the GT1000 series has all of the effects you are looking for. The original BOSS GT1000 has tons of processing power too, running at 32-bit/96kHz. The USB connection allowed for deep editing of all of your patches through your computer, and like other processors of it&#8217;s ilk, worked as an audio interface as well.</p>
 
 
 
-<p>But the original is pretty large, and has a built-in expression pedal. It is certainly more suited for the floor than your desktop. The GT1000 was designed for the stage, without a doubt. What if you just want the <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="223250">amp models</a> and effects?</p>
+<p>But the original is pretty large, and has a built-in expression pedal. It is certainly more suited for the floor than your desktop. The GT1000 was designed for the stage, without a doubt. What if you just want the <a href="/neural-amp-modeler/" data-lasso-id="223250">amp models</a> and effects?</p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>We have seen <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2522">Line 6 do this with their<strong> Helix</strong></a> series. They essentially shrunk the Helix down to a compact size that can fit on your <a href="https://www.electrikjam.com/the-line-6-hx-stomp/" data-lasso-id="5268">pedalboard with the <strong>Helix Stomp</strong></a> and <strong>Helix LT</strong>. The problem is the loss of processing power, and DSP that comes with minimizing the size.</p>
+<p>We have seen <a href="/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2522">Line 6 do this with their<strong> Helix</strong></a> series. They essentially shrunk the Helix down to a compact size that can fit on your <a href="/the-line-6-hx-stomp/" data-lasso-id="5268">pedalboard with the <strong>Helix Stomp</strong></a> and <strong>Helix LT</strong>. The problem is the loss of processing power, and DSP that comes with minimizing the size.</p>
 
 
 
@@ -120,15 +120,15 @@ seo:
 
 
 
-<p>This means that every patch you design will sound the same no matter what your application. You can use the same patches you use for the studio at your next gig, and vice versa. AIRD Output Select types let you tailor the sound for any destination, whether it’s a guitar <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18330">amp input, a power amp driving guitar</a> speakers, or a full-range monitoring system—or all of them at once!</p>
+<p>This means that every patch you design will sound the same no matter what your application. You can use the same patches you use for the studio at your next gig, and vice versa. AIRD Output Select types let you tailor the sound for any destination, whether it’s a guitar <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18330">amp input, a power amp driving guitar</a> speakers, or a full-range monitoring system—or all of them at once!</p>
 
 
 
-<p>Boss uses this same technology in the <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="551">Katana</a>, and the Roland Cube amplifier series. AIRD is meant to make your setup sound as natural as possible, no matter what path you choose.</p>
+<p>Boss uses this same technology in the <a href="/boss-katana-50-reviews/" data-lasso-id="551">Katana</a>, and the Roland Cube amplifier series. AIRD is meant to make your setup sound as natural as possible, no matter what path you choose.</p>
 
 
 
-<p>With the AIRD technology comes tons of amp models and classic BOSS effects. The amp models cover everything from vintage tube amps, to <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5818">modern high gain amps</a>. But the coolest part, is the BOSS effects that you get.</p>
+<p>With the AIRD technology comes tons of amp models and classic BOSS effects. The amp models cover everything from vintage tube amps, to <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5818">modern high gain amps</a>. But the coolest part, is the BOSS effects that you get.</p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/the_hub_of_your_home_studio-1024x576.jpg" alt="" class="wp-image-1579" title="" srcset="/wp-content/uploads/2020/12/the_hub_of_your_home_studio-1024x576.jpg 1024w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-600x338.jpg 600w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-300x169.jpg 300w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-768x432.jpg 768w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio.jpg 1180w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140950">BOSS Tone Studio</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/12/the_hub_of_your_home_studio-1024x576.jpg" alt="" class="wp-image-1579" title="" srcset="/wp-content/uploads/2020/12/the_hub_of_your_home_studio-1024x576.jpg 1024w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-600x338.jpg 600w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-300x169.jpg 300w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio-768x432.jpg 768w, /wp-content/uploads/2020/12/the_hub_of_your_home_studio.jpg 1180w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140950">BOSS Tone Studio</a></figcaption></figure>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p>Even better is all of the Waza Craft BOSS pedals at your disposal. Some may look down on the idea of replacing their beloved pedals, but as we saw with the Katana series, the engineers at <a href="https://www.electrikjam.com/boss-hm2-pedal-finally-confirmed-new-for-2021/" data-lasso-id="553">BOSS</a> have actually captured all of their pedals not only in essence, but actual frequency. With the included software, you can do just about anything.</p>
+<p>Even better is all of the Waza Craft BOSS pedals at your disposal. Some may look down on the idea of replacing their beloved pedals, but as we saw with the Katana series, the engineers at <a href="/boss-hm2-pedal-finally-confirmed-new-for-2021/" data-lasso-id="553">BOSS</a> have actually captured all of their pedals not only in essence, but actual frequency. With the included software, you can do just about anything.</p>
 
 
 

@@ -56,11 +56,11 @@ seo:
 
 
 
-<p>But for the absolute first-timer, the best option on this list right now is the <strong><a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" data-lasso-id="233989">Squier Classic Vibe Baritone Custom Telecaster</a></strong>.</p>
+<p>But for the absolute first-timer, the best option on this list right now is the <strong><a href="/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" data-lasso-id="233989">Squier Classic Vibe Baritone Custom Telecaster</a></strong>.</p>
 
 
 
-<p>Why? Simple:&nbsp;<strong><a href="https://www.electrikjam.com/squier-classic-vibe-baritone-custom-telecaster-electric-guitar-black-guitar-center/" data-type="lasso-urls" data-id="9385" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="233990" data-lasso-name="Squier Classic Vibe Baritone Custom Telecaster">it&#8217;s relatively cheap</a></strong> (compared to the other options), is great for modding, and it plays beautifully. </p>
+<p>Why? Simple:&nbsp;<strong><a href="/squier-classic-vibe-baritone-custom-telecaster-electric-guitar-black-guitar-center/" data-type="lasso-urls" data-id="9385" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="233990" data-lasso-name="Squier Classic Vibe Baritone Custom Telecaster">it&#8217;s relatively cheap</a></strong> (compared to the other options), is great for modding, and it plays beautifully. </p>
 
 
 
@@ -452,7 +452,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255037">Ibanez Iron Label RGIB21</a> is a beast of a baritone guitar that&#8217;s perfect for metal guitarists who want maximum power and aggression. This guitar features a 28&#8243; scale length and a neck-through-body design for maximum sustain and stability.</p>
+<p>The <a href="/ibanez-guitars/" data-lasso-id="255037">Ibanez Iron Label RGIB21</a> is a beast of a baritone guitar that&#8217;s perfect for metal guitarists who want maximum power and aggression. This guitar features a 28&#8243; scale length and a neck-through-body design for maximum sustain and stability.</p>
 
 
 
@@ -544,7 +544,7 @@ seo:
 
 
 
-<p>The neck is made from <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246510">maple and has a rosewood fretboard</a> with 22 medium jumbo frets.</p>
+<p>The neck is made from <a href="/parts-of-an-electric-guitar/" data-lasso-id="246510">maple and has a rosewood fretboard</a> with 22 medium jumbo frets.</p>
 
 
 

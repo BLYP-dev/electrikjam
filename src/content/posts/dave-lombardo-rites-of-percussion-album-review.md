@@ -70,7 +70,7 @@ seo:
 
 
 
-<p>This would be amidst the years-long, on/off relationship with Slayer for Dave Lombardo. But it also allowed him to explore tons of side projects, including ones with <strong>Mike Patton</strong> and <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" target="_blank" rel="noopener" data-lasso-id="234400">Buzz Osborne as</a></strong> the super-group<strong> Fantomas</strong>.</p>
+<p>This would be amidst the years-long, on/off relationship with Slayer for Dave Lombardo. But it also allowed him to explore tons of side projects, including ones with <strong>Mike Patton</strong> and <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" target="_blank" rel="noopener" data-lasso-id="234400">Buzz Osborne as</a></strong> the super-group<strong> Fantomas</strong>.</p>
 
 
 

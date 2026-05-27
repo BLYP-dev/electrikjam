@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>The history of the Fender Jaguar isn’t pretty. The guitar was meant to be a successor model to the <strong><a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" data-lasso-id="1998">Fender Stratocaster,</a></strong> picking up where it left off with a newer, more modern design and improved electronics.</p>
+<p>The history of the Fender Jaguar isn’t pretty. The guitar was meant to be a successor model to the <strong><a href="/fender/" data-type="page" data-id="3818" data-lasso-id="1998">Fender Stratocaster,</a></strong> picking up where it left off with a newer, more modern design and improved electronics.</p>
 
 
 
@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>The idea with the Jaguar was to pull players away from <strong><a href="https://www.electrikjam.com/gibson-guitars/" data-type="page" data-id="3878" data-lasso-id="1999">Gibson’s ever-expanding range of guitars</a></strong> which –&nbsp;by the early 1960s – included iconic numbers like the <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="2000">Les Paul</a></strong>, SG, Explorer, and the Flying V. And that was fine, innovation is important. But many felt the Jaguar was needlessly “over-designed”.</p>
+<p>The idea with the Jaguar was to pull players away from <strong><a href="/gibson-guitars/" data-type="page" data-id="3878" data-lasso-id="1999">Gibson’s ever-expanding range of guitars</a></strong> which –&nbsp;by the early 1960s – included iconic numbers like the <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="2000">Les Paul</a></strong>, SG, Explorer, and the Flying V. And that was fine, innovation is important. But many felt the Jaguar was needlessly “over-designed”.</p>
 
 
 
@@ -91,16 +91,16 @@ seo:
 
 
 
-<p>The Jaguar wasn’t totally original, though; it borrowed heavily from the <strong><a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" data-lasso-id="2001">Fender Mustang</a></strong> with its &#8220;offset waist&#8221; body and vibrato unit. Physically, the two guitars are similar to look at, although I’d argue the Jaguar is the better-looking of the two.</p>
+<p>The Jaguar wasn’t totally original, though; it borrowed heavily from the <strong><a href="/fender/" data-type="page" data-id="3818" data-lasso-id="2001">Fender Mustang</a></strong> with its &#8220;offset waist&#8221; body and vibrato unit. Physically, the two guitars are similar to look at, although I’d argue the Jaguar is the better-looking of the two.</p>
 
 
 
-<p>Aesthetics aside, Fender did bring quite a few changes to the Jaguar such as its shorter 24-inch scale and a 22-fret neck. <a href="https://www.electrikjam.com/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/" data-lasso-id="6908">Fender also updated the pickups</a>, using a smaller design and improved RF shielding which ensured a cleaner sound, free from interference.</p>
+<p>Aesthetics aside, Fender did bring quite a few changes to the Jaguar such as its shorter 24-inch scale and a 22-fret neck. <a href="/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/" data-lasso-id="6908">Fender also updated the pickups</a>, using a smaller design and improved RF shielding which ensured a cleaner sound, free from interference.</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>The Jaguar’s lead circuit was more complex, with three slide switches on a chrome plate on the lower horn (compared to <a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236044">the Jazzmaster’s single toggle switch</a>). The first two were on-off switches for each pickup; the third engaged a capacitor that served as a low-end filter, producing a more cutting treble tone (informally known as the “strangle” switch). The Jaguar’s rhythm circuit consisted of a single slide switch on the upper horn that delivered a more bass-heavy neck-pickup-only sound, with its own adjacent volume and inset tone wheels (all mounted to, of course, a chrome plate).</strong></p>
+<p><strong>The Jaguar’s lead circuit was more complex, with three slide switches on a chrome plate on the lower horn (compared to <a href="/telecaster-vs-jazzmaster/" data-lasso-id="236044">the Jazzmaster’s single toggle switch</a>). The first two were on-off switches for each pickup; the third engaged a capacitor that served as a low-end filter, producing a more cutting treble tone (informally known as the “strangle” switch). The Jaguar’s rhythm circuit consisted of a single slide switch on the upper horn that delivered a more bass-heavy neck-pickup-only sound, with its own adjacent volume and inset tone wheels (all mounted to, of course, a chrome plate).</strong></p>
 <cite><strong><a href="https://web.archive.org/web/20120417021415/https://www.fender.com/news/index.php?display_article=851" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="2002">Fender</a></strong></cite></blockquote>
 
 
@@ -113,7 +113,7 @@ seo:
 
 
 
-<p>And that’s never a good thing, especially on a <a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-lasso-id="200811">guitar that was marketed</a> as being “better” than the Fender Tele and the Strat. And a guitar that cost more than both of <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="2003">Fender’s most-loved guitars</a></strong>. But that’s just the beginning of the Jaguar’s turbulent birth and history…</p>
+<p>And that’s never a good thing, especially on a <a href="/prs-guitar-pedals-reviewed/" data-lasso-id="200811">guitar that was marketed</a> as being “better” than the Fender Tele and the Strat. And a guitar that cost more than both of <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="2003">Fender’s most-loved guitars</a></strong>. But that’s just the beginning of the Jaguar’s turbulent birth and history…</p>
 
 
 
@@ -133,7 +133,7 @@ seo:
 
 
 
-<p>The Fender Jaguar’s intended audience, Gibson players, didn’t bite, however, and stuck with their <strong><a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-type="post" data-id="2416" data-lasso-id="2004">SG and Les Paul models</a></strong>. It’s also worth noting that during this era, the Flying V and <a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236478">Gibson Explorer</a> were in production. And the ES, of course.</p>
+<p>The Fender Jaguar’s intended audience, Gibson players, didn’t bite, however, and stuck with their <strong><a href="/epiphone-sg-vs-epiphone-les-paul/" data-type="post" data-id="2416" data-lasso-id="2004">SG and Les Paul models</a></strong>. It’s also worth noting that during this era, the Flying V and <a href="/gibson-80s-explorer-review/" data-lasso-id="236478">Gibson Explorer</a> were in production. And the ES, of course.</p>
 
 
 
@@ -153,15 +153,15 @@ seo:
 
 
 
-<p>Starting in the late-1980s and the early 1990s, the Fender Jaguar’s popularity started to skyrocket. The Jaguar was used by a bunch of prominent new wave and grunge guitarists; <a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-lasso-id="106851">Kurt Cobain used a Fender Jaguar</a> and is largely responsible for its resurgence and enduring popularity.</p>
+<p>Starting in the late-1980s and the early 1990s, the Fender Jaguar’s popularity started to skyrocket. The Jaguar was used by a bunch of prominent new wave and grunge guitarists; <a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-lasso-id="106851">Kurt Cobain used a Fender Jaguar</a> and is largely responsible for its resurgence and enduring popularity.</p>
 
 
 
-<p>Who else played Fender Jaguar guitars? The list is long and distinguished and includes: <strong>Kevin Shields, Black Francis, J Mascis, Brian Molko, Rowland S. Howard, Thurston Moore, <a href="https://www.electrikjam.com/john-frusciante-explains-how-to-play-cant-stop-properly/" data-lasso-id="103267">John Frusciante</a>, Will Sergeant, and Johnny Marr.</strong></p>
+<p>Who else played Fender Jaguar guitars? The list is long and distinguished and includes: <strong>Kevin Shields, Black Francis, J Mascis, Brian Molko, Rowland S. Howard, Thurston Moore, <a href="/john-frusciante-explains-how-to-play-cant-stop-properly/" data-lasso-id="103267">John Frusciante</a>, Will Sergeant, and Johnny Marr.</strong></p>
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="850" height="638" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg" alt="" class="wp-image-3940" title="" srcset="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg 850w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-600x450.jpg 600w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-300x225.jpg 300w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-768x576.jpg 768w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-510x382.jpg 510w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption"><a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-lasso-id="106928"><strong>Kurt Cobain With His Fender Jaguar</strong></a><strong> </strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="850" height="638" src="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg" alt="" class="wp-image-3940" title="" srcset="/wp-content/uploads/2021/09/fender-jaguar-kurt-cobain.jpg 850w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-600x450.jpg 600w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-300x225.jpg 300w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-768x576.jpg 768w, /wp-content/uploads/2021/09/fender-jaguar-kurt-cobain-510x382.jpg 510w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption"><a href="/kurt-cobain-pickups/" data-lasso-id="106928"><strong>Kurt Cobain With His Fender Jaguar</strong></a><strong> </strong></figcaption></figure>
 
 
 
@@ -185,7 +185,7 @@ seo:
 
 
 
-<p>The Jag-Stang hit production in the mid-1990s and was available from Fender Japan and <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11255">Fender’s budget brand, Squier</a>. The Jag-Stang remained in production for close to a decade and sold very well, again, thanks to the popularity of Cobain and Nirvana, especially after Cobain’s untimely passing in 1994.</p>
+<p>The Jag-Stang hit production in the mid-1990s and was available from Fender Japan and <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11255">Fender’s budget brand, Squier</a>. The Jag-Stang remained in production for close to a decade and sold very well, again, thanks to the popularity of Cobain and Nirvana, especially after Cobain’s untimely passing in 1994.</p>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/the-new-199-squier-sonic-series/" data-lasso-id="228759">Fender Japan also made and released</a> Jaguar models too; these were cheaper than US and Mexican Jaguars. The Fender Japan Jaguar was cheaper and used inferior components compared to the US-made versions. But the models proved popular with casual players both in Japan and the US and elsewhere.</p>
+<p><a href="/the-new-199-squier-sonic-series/" data-lasso-id="228759">Fender Japan also made and released</a> Jaguar models too; these were cheaper than US and Mexican Jaguars. The Fender Japan Jaguar was cheaper and used inferior components compared to the US-made versions. But the models proved popular with casual players both in Japan and the US and elsewhere.</p>
 
 
 
@@ -205,7 +205,7 @@ seo:
 
 
 
-<p>From the 1990s onwards, the Fender Jaguar has been a great seller for Fender. The model features inside its <strong><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="2005">Squier brand</a></strong> too, allowing players to pick up cheaper, more affordable versions of the guitar. Production of the Jaguar continues today with <strong>Kurt Cobain signature models, a Player Edition, a ‘60s reissue, and a 2019 Limited Edition MIJ Traditional model</strong> to name just a few.</p>
+<p>From the 1990s onwards, the Fender Jaguar has been a great seller for Fender. The model features inside its <strong><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="2005">Squier brand</a></strong> too, allowing players to pick up cheaper, more affordable versions of the guitar. Production of the Jaguar continues today with <strong>Kurt Cobain signature models, a Player Edition, a ‘60s reissue, and a 2019 Limited Edition MIJ Traditional model</strong> to name just a few.</p>
 
 
 
@@ -213,5 +213,5 @@ seo:
 
 
 
-<p>But the Jaguar’s enduring popularity is all down to one man: <strong>Kurt Cobain</strong>. His use of the guitar resurrected the model, <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5469">inspired other guitarists to use it</a>, and helped Fender sell A LOT of guitars. And ironically, it was Fender’s insistence on adding in features that were considered overkill at the time of its initial release that eventually made the Fender Jaguar so popular with grunge bands like <strong><em>Nirvana</em></strong> and <strong><em>Sonic Youth</em></strong>, as well as more modern bands like <strong><em>Arcade Fire</em></strong>, <strong><em>Wilco</em></strong>, and <strong><em>Placebo</em></strong>.</p>
+<p>But the Jaguar’s enduring popularity is all down to one man: <strong>Kurt Cobain</strong>. His use of the guitar resurrected the model, <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5469">inspired other guitarists to use it</a>, and helped Fender sell A LOT of guitars. And ironically, it was Fender’s insistence on adding in features that were considered overkill at the time of its initial release that eventually made the Fender Jaguar so popular with grunge bands like <strong><em>Nirvana</em></strong> and <strong><em>Sonic Youth</em></strong>, as well as more modern bands like <strong><em>Arcade Fire</em></strong>, <strong><em>Wilco</em></strong>, and <strong><em>Placebo</em></strong>.</p>
 

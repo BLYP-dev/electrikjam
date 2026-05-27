@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>Line 6 has absolutely killed the game with the <a data-lasso-id="6192" href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" target="_blank" data-type="post" data-id="3927" rel="noopener"><strong>Helix</strong></a> Series. There is something for <em>everyone</em> with the lineup, whether you want the full-featured and versatile <strong>Helix Floor</strong> model, or you just need something for effects like the <a data-lasso-id="6193" href="https://www.electrikjam.com/the-line-6-hx-stomp/" target="_blank" data-type="post" data-id="4221" rel="noopener"><strong>HX Sto</strong></a><strong><a data-lasso-id="6194" href="https://www.electrikjam.com/the-line-6-hx-stomp/" target="_blank" data-type="post" data-id="4221" rel="noopener">mp</a>.</strong> But, both of those models are pretty far apart in terms of size, price, and features. What about something <em>right in the middle?</em><br><br>That&#8217;s exactly where the <a href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-lasso-id="6831">Line 6 Helix</a> LT comes in. This is still a full-featured Helix unit, but it is missing a few of the bells and whistles that the original Helix comes standard with. If you put the units side by side, it&#8217;s&#8230; actually hard to tell the difference between the Helix LT and the flagship Helix Floor. But there are a few <em>minor </em>differences between the two.<br><br>The main difference, is that the Helix LT has less features when it comes to input/output routing on the rear of the unit. While the rear of the Line 6 Helix LT has less routing options than it&#8217;s big brother, it still has <em>tons</em> of ways to record or set up the unit for a live performance. Technically, it may actually be less confusing to use the Helix LT for someone just getting started with &#8220;all in one&#8221; processors.</p>
+<p>Line 6 has absolutely killed the game with the <a data-lasso-id="6192" href="/line-6-helix-reviews-is-it-worth-it/" target="_blank" data-type="post" data-id="3927" rel="noopener"><strong>Helix</strong></a> Series. There is something for <em>everyone</em> with the lineup, whether you want the full-featured and versatile <strong>Helix Floor</strong> model, or you just need something for effects like the <a data-lasso-id="6193" href="/the-line-6-hx-stomp/" target="_blank" data-type="post" data-id="4221" rel="noopener"><strong>HX Sto</strong></a><strong><a data-lasso-id="6194" href="/the-line-6-hx-stomp/" target="_blank" data-type="post" data-id="4221" rel="noopener">mp</a>.</strong> But, both of those models are pretty far apart in terms of size, price, and features. What about something <em>right in the middle?</em><br><br>That&#8217;s exactly where the <a href="/line-6-pod-go-reviews/" data-lasso-id="6831">Line 6 Helix</a> LT comes in. This is still a full-featured Helix unit, but it is missing a few of the bells and whistles that the original Helix comes standard with. If you put the units side by side, it&#8217;s&#8230; actually hard to tell the difference between the Helix LT and the flagship Helix Floor. But there are a few <em>minor </em>differences between the two.<br><br>The main difference, is that the Helix LT has less features when it comes to input/output routing on the rear of the unit. While the rear of the Line 6 Helix LT has less routing options than it&#8217;s big brother, it still has <em>tons</em> of ways to record or set up the unit for a live performance. Technically, it may actually be less confusing to use the Helix LT for someone just getting started with &#8220;all in one&#8221; processors.</p>
 
 
 
-<p>There is also a slight difference in build quality, as the original Helix Floor unit is built like a Sherman tank! On the other hand, the <a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-lasso-id="8624">Line 6 Helix</a> LT isn&#8217;t exactly made out of cardboard. There is just a tiny difference between the two models when it comes to the materials that are used, making the Helix LT a little lighter with a smaller footprint. </p>
+<p>There is also a slight difference in build quality, as the original Helix Floor unit is built like a Sherman tank! On the other hand, the <a href="/is-line-6-helix-easy-to-use/" data-lasso-id="8624">Line 6 Helix</a> LT isn&#8217;t exactly made out of cardboard. There is just a tiny difference between the two models when it comes to the materials that are used, making the Helix LT a little lighter with a smaller footprint. </p>
 
 
 
@@ -75,11 +75,11 @@ seo:
 
 
 
-<p>We spoke earlier about the main difference in features between The Helix Floor, and the Helix LT, and the big one is the routing options. You can still use the Helix LT with the amazing <a data-lasso-id="6195" href="https://line6.com/" target="_blank" rel="noopener noreferrer nofollow"><strong>HX Edit </strong></a>software, as well as edit all of your patches without <em>ever</em> touching a physical button. You can also use the Helix LT in a live situation, with an<a data-lasso-id="6196" href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener"><strong> FRFR</strong> </a>Cab or plugged directly into the sound board/DI Box. As far as the other features go&#8230;the Helix LT is <em>loaded</em>:</p>
+<p>We spoke earlier about the main difference in features between The Helix Floor, and the Helix LT, and the big one is the routing options. You can still use the Helix LT with the amazing <a data-lasso-id="6195" href="https://line6.com/" target="_blank" rel="noopener noreferrer nofollow"><strong>HX Edit </strong></a>software, as well as edit all of your patches without <em>ever</em> touching a physical button. You can also use the Helix LT in a live situation, with an<a data-lasso-id="6196" href="/what-is-an-frfr-speaker-cabinet-pros-cons/" target="_blank" data-type="post" data-id="4226" rel="noopener"><strong> FRFR</strong> </a>Cab or plugged directly into the sound board/DI Box. As far as the other features go&#8230;the Helix LT is <em>loaded</em>:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>Dual DSP-powered HX modeling engine</strong></li><li><strong>Over 300 amp, cab, mic, and <a href="https://www.electrikjam.com/boss-gx-100-review/" data-lasso-id="94402">effects</a> models</strong></li><li><strong>World-class polyphonic pitch-shifting effects</strong></li><li><strong>6.2&#8243; LCD display</strong></li><li><strong>12 touch-sensitive footswitches for editing</strong></li><li><strong>2 mono/1 stereo FX Loop</strong></li><li><strong>8-in/8-out USB audio interface</strong></li><li><strong>Expression pedal outs</strong></li><li><strong>AES/EBU, and L6 Link digital outputs</strong></li><li><strong>Capacitive touch-sensitive switches for parameter recall</strong></li><li><strong>Preset or stompbox modes</strong></li><li><strong>Integrated looper</strong></li><li><strong>Tour-grade footswitches</strong></li><li><strong>Supports third-party impulse responses (IRs)</strong></li><li><strong>True preset spillover</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Dual DSP-powered HX modeling engine</strong></li><li><strong>Over 300 amp, cab, mic, and <a href="/boss-gx-100-review/" data-lasso-id="94402">effects</a> models</strong></li><li><strong>World-class polyphonic pitch-shifting effects</strong></li><li><strong>6.2&#8243; LCD display</strong></li><li><strong>12 touch-sensitive footswitches for editing</strong></li><li><strong>2 mono/1 stereo FX Loop</strong></li><li><strong>8-in/8-out USB audio interface</strong></li><li><strong>Expression pedal outs</strong></li><li><strong>AES/EBU, and L6 Link digital outputs</strong></li><li><strong>Capacitive touch-sensitive switches for parameter recall</strong></li><li><strong>Preset or stompbox modes</strong></li><li><strong>Integrated looper</strong></li><li><strong>Tour-grade footswitches</strong></li><li><strong>Supports third-party impulse responses (IRs)</strong></li><li><strong>True preset spillover</strong></li></ul>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p>If you check out all of the reviews, you will see a common thread regarding the Helix LT: Nothing really was sacrificed in the smaller, more affordable design. Sure, you have to route things a <em>little</em> differently than you would with the Helix Floor unit. But if you take a look at the rear of the <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-lasso-id="10426">Line 6 Helix</a> LT, you can see there is still a vast amount of ways to utilize the inputs and outputs.</p>
+<p>If you check out all of the reviews, you will see a common thread regarding the Helix LT: Nothing really was sacrificed in the smaller, more affordable design. Sure, you have to route things a <em>little</em> differently than you would with the Helix Floor unit. But if you take a look at the rear of the <a href="/what-is-a-line-6-helix/" data-lasso-id="10426">Line 6 Helix</a> LT, you can see there is still a vast amount of ways to utilize the inputs and outputs.</p>
 
 
 
@@ -111,11 +111,11 @@ seo:
 
 
 
-<p>With the inputs and outputs being the biggest worry for some users, it&#8217;s nice to see that the Helix LT is only missing a few options from the original Helix. You can still turn off the <a href="https://www.electrikjam.com/nux-mighty-amps-review/" data-lasso-id="159871">amp models</a>, and use the Line 6 Helix LT strictly as an effects unit. You can also run the Helix LT in stereo through the XLR ports, so there is no affect on the different stereo delays and chorus patches.<br></p>
+<p>With the inputs and outputs being the biggest worry for some users, it&#8217;s nice to see that the Helix LT is only missing a few options from the original Helix. You can still turn off the <a href="/nux-mighty-amps-review/" data-lasso-id="159871">amp models</a>, and use the Line 6 Helix LT strictly as an effects unit. You can also run the Helix LT in stereo through the XLR ports, so there is no affect on the different stereo delays and chorus patches.<br></p>
 
 
 
-<p>For most people, the options you have with the Helix LT is going to be <em>more</em> than enough. There is still the USB option, that allows you to edit your patches in real time, or use the Helix LT as a full-on <a data-lasso-id="6231" href="https://www.electrikjam.com/line-6-helix-recording-techniques/" target="_blank" data-type="post" data-id="4209" rel="noopener"><strong>recording interface</strong></a>. The USB functions are so in-depth, I honestly don&#8217;t even understand them all myself! I tried to learn all of the different options you have with USB, but the choices are so many&#8230; I got a little lost!</p>
+<p>For most people, the options you have with the Helix LT is going to be <em>more</em> than enough. There is still the USB option, that allows you to edit your patches in real time, or use the Helix LT as a full-on <a data-lasso-id="6231" href="/line-6-helix-recording-techniques/" target="_blank" data-type="post" data-id="4209" rel="noopener"><strong>recording interface</strong></a>. The USB functions are so in-depth, I honestly don&#8217;t even understand them all myself! I tried to learn all of the different options you have with USB, but the choices are so many&#8230; I got a little lost!</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong><a href="https://www.electrikjam.com/line-6-3-50-update-explained/" target="_blank" rel="noopener" data-lasso-id="197576">As of November 3rd 2022, the Line 6 3.50 Update is LIVE! This changes a lot about the Helix LT. Check it out!</a></strong></p>
+<p class="has-text-align-center"><strong><a href="/line-6-3-50-update-explained/" target="_blank" rel="noopener" data-lasso-id="197576">As of November 3rd 2022, the Line 6 3.50 Update is LIVE! This changes a lot about the Helix LT. Check it out!</a></strong></p>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<p>Personally, I think the Line 6 Helix LT is for the people that need an all in one solution in a pedalboard, but are not quite ready to shell out the high price for the Helix Floor. In fact, the main complaint against the Helix Floor upon it&#8217;s release, was how expensive it was. It was the most expensive product Line 6 had ever made, but it was also the most advanced, competing with Kemper, and <a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-lasso-id="88571">Axe FX</a>.</p>
+<p>Personally, I think the Line 6 Helix LT is for the people that need an all in one solution in a pedalboard, but are not quite ready to shell out the high price for the Helix Floor. In fact, the main complaint against the Helix Floor upon it&#8217;s release, was how expensive it was. It was the most expensive product Line 6 had ever made, but it was also the most advanced, competing with Kemper, and <a href="/guitarists-that-use-axe-fx/" data-lasso-id="88571">Axe FX</a>.</p>
 
 
 
@@ -143,5 +143,5 @@ seo:
 
 
 
-<p>The Line 6 Helix LT opens up a whole new arena of possibilities for guitarists that are on a budget, but want the highest quality sounds, amp models, and effects possible. Make no mistake, the <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18321">Line 6</a> Helix LT is not the &#8220;toy&#8221; version of the Helix. This is still a serious, <strong>professional </strong>piece of gear that can change the <a href="https://www.electrikjam.com/the-best-gig-bags/" data-lasso-id="51429">way you gig</a> and record!</p>
+<p>The Line 6 Helix LT opens up a whole new arena of possibilities for guitarists that are on a budget, but want the highest quality sounds, amp models, and effects possible. Make no mistake, the <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18321">Line 6</a> Helix LT is not the &#8220;toy&#8221; version of the Helix. This is still a serious, <strong>professional </strong>piece of gear that can change the <a href="/the-best-gig-bags/" data-lasso-id="51429">way you gig</a> and record!</p>
 

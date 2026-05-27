@@ -47,15 +47,15 @@ seo:
 
 
 <ul class="wp-block-list is-style-list-check">
-<li><a href="https://www.electrikjam.com/recommends/elixir-nano-web-guitar-strings/"><strong>Elixir Nano-Web lasted the longest (6 weeks),</strong> </a>great for backup or acoustic guitars, but lacked brightness</li>
+<li><a href="/recommends/elixir-nano-web-guitar-strings/"><strong>Elixir Nano-Web lasted the longest (6 weeks),</strong> </a>great for backup or acoustic guitars, but lacked brightness</li>
 
 
 
-<li><a href="https://www.electrikjam.com/recommends/daddario-nyxl-strings/"><strong>D’Addario NYXL held tuning better</strong> </a>and delivered a noticeable midrange punch, ideal for studio recording</li>
+<li><a href="/recommends/daddario-nyxl-strings/"><strong>D’Addario NYXL held tuning better</strong> </a>and delivered a noticeable midrange punch, ideal for studio recording</li>
 
 
 
-<li><a href="https://www.electrikjam.com/recommends/ernie-ball-paradigm/"><strong>🏆 Editor&#8217;s Choice Ernie Ball Paradigm topped the list </strong></a>with long life, stable tuning, and solid tone even after weeks of heavy play</li>
+<li><a href="/recommends/ernie-ball-paradigm/"><strong>🏆 Editor&#8217;s Choice Ernie Ball Paradigm topped the list </strong></a>with long life, stable tuning, and solid tone even after weeks of heavy play</li>
 </ul>
 
 
@@ -141,7 +141,7 @@ seo:
 
 
 
-<p>Scale length is described as the distance the string travels between the <a href="https://www.electrikjam.com/anatomy-of-the-electric-guitar-guide/" data-type="post" data-id="450" data-lasso-id="173"><strong>nut and the bridge</strong>.</a> This effects the tension of the strings, and the space between frets as well. </p>
+<p>Scale length is described as the distance the string travels between the <a href="/anatomy-of-the-electric-guitar-guide/" data-type="post" data-id="450" data-lasso-id="173"><strong>nut and the bridge</strong>.</a> This effects the tension of the strings, and the space between frets as well. </p>
 
 
 
@@ -149,7 +149,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44931">Gibson Les Paul&#8217;s</a> ship with a brand new with a set of .009- .046 gauge strings. But that doesn&#8217;t mean that you have to use that set of strings with your Gibson Les Paul. In fact, that is not the most popular gauge.</p>
+<p><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44931">Gibson Les Paul&#8217;s</a> ship with a brand new with a set of .009- .046 gauge strings. But that doesn&#8217;t mean that you have to use that set of strings with your Gibson Les Paul. In fact, that is not the most popular gauge.</p>
 
 
 
@@ -165,7 +165,7 @@ seo:
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center"><strong>Product</strong></th><th><strong>Why It Works</strong></th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/recommends/ernie-ball-paradigm/">Ernie Ball Regular Slinky (10-46)</a></strong></td><td>My personal favorite. These feel great on a Les Paul thanks to the short scale and tighter tension.</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://amzn.to/4mJh6Qj" target="_blank" rel="noreferrer noopener nofollow">D’Addario EXL110 (10-46)</a></strong></td><td>Same gauge as the Ernie Balls, but some players (me included) switch to these purely out of habit or availability. Super reliable, with a slightly different feel.</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://amzn.to/4oCU67n" target="_blank" rel="noreferrer noopener nofollow">Elixir Polyweb Coated (9-42)</a></strong></td><td>The wildcard pick. Lighter gauge, longer life. These feel super slick thanks to the coating—no need for string cleaner. Great for people who want strings to last for weeks, not days.</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center"><strong>Product</strong></th><th><strong>Why It Works</strong></th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong><a href="/recommends/ernie-ball-paradigm/">Ernie Ball Regular Slinky (10-46)</a></strong></td><td>My personal favorite. These feel great on a Les Paul thanks to the short scale and tighter tension.</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://amzn.to/4mJh6Qj" target="_blank" rel="noreferrer noopener nofollow">D’Addario EXL110 (10-46)</a></strong></td><td>Same gauge as the Ernie Balls, but some players (me included) switch to these purely out of habit or availability. Super reliable, with a slightly different feel.</td></tr><tr><td class="has-text-align-center" data-align="center"><strong><a href="https://amzn.to/4oCU67n" target="_blank" rel="noreferrer noopener nofollow">Elixir Polyweb Coated (9-42)</a></strong></td><td>The wildcard pick. Lighter gauge, longer life. These feel super slick thanks to the coating—no need for string cleaner. Great for people who want strings to last for weeks, not days.</td></tr></tbody></table></figure>
 
 
 
@@ -177,7 +177,7 @@ seo:
 
 
 
-<p>The Ernie Ball 10-46 gauge strings are <strong><a href="https://www.electrikjam.com/recommends/ernie-ball-regular-10-46/" data-lasso-id="174">my absolute favorite</a></strong> for a Les Paul guitar. They are one step up in tension from the strings that come on a Les Paul from the factory.</p>
+<p>The Ernie Ball 10-46 gauge strings are <strong><a href="/recommends/ernie-ball-regular-10-46/" data-lasso-id="174">my absolute favorite</a></strong> for a Les Paul guitar. They are one step up in tension from the strings that come on a Les Paul from the factory.</p>
 
 
 
@@ -227,15 +227,15 @@ seo:
 
 
 
-<p>Elixir is a <strong>coated</strong> string. This provides more longevity to each set of strings. While a regular set of strings may only last a couple of weeks, <strong><a data-lasso-id="177" href="https://www.electrikjam.com/recommends/elixir-polyweb-9-42/">Elixir is known for lasting for a month</a></strong> or more!</p>
+<p>Elixir is a <strong>coated</strong> string. This provides more longevity to each set of strings. While a regular set of strings may only last a couple of weeks, <strong><a data-lasso-id="177" href="/recommends/elixir-polyweb-9-42/">Elixir is known for lasting for a month</a></strong> or more!</p>
 
 
 
-<p>The other difference Elixir offers is <em>feel</em>. Some people use <a href="https://www.electrikjam.com/how-to-clean-your-guitar-like-a-pro-our-1-top-tips/" data-type="post" data-id="655" data-lasso-id="178">string cleaner</a> on their strings after playing. You do not need to do this with Elixir, since they are already coated with a proprietary blend.</p>
+<p>The other difference Elixir offers is <em>feel</em>. Some people use <a href="/how-to-clean-your-guitar-like-a-pro-our-1-top-tips/" data-type="post" data-id="655" data-lasso-id="178">string cleaner</a> on their strings after playing. You do not need to do this with Elixir, since they are already coated with a proprietary blend.</p>
 
 
 
-<p>This is also the only set on the list that is in the 9-42 range when it comes to gauge. That is because Elixir seems to have a different feel and tension when you use them on a <a data-lasso-id="179" href="https://www.electrikjam.com/types-of-guitars-guide/">Gibson Les Paul</a>.</p>
+<p>This is also the only set on the list that is in the 9-42 range when it comes to gauge. That is because Elixir seems to have a different feel and tension when you use them on a <a data-lasso-id="179" href="/types-of-guitars-guide/">Gibson Les Paul</a>.</p>
 
 
 <p></div>
@@ -250,7 +250,7 @@ seo:
 
 
 
-<p>I always say that <strong><a href="https://www.electrikjam.com/learning-guitar-guide-what-to-expect/" data-type="post" data-id="737" data-lasso-id="181">newer players should experiment</a></strong>, and see what they like. Some people play with a lighter touch (Billy Gibbons, for one) and can get away with a very skinny gauge. At the same time, you may prefer a heavier gauge.</p>
+<p>I always say that <strong><a href="/learning-guitar-guide-what-to-expect/" data-type="post" data-id="737" data-lasso-id="181">newer players should experiment</a></strong>, and see what they like. Some people play with a lighter touch (Billy Gibbons, for one) and can get away with a very skinny gauge. At the same time, you may prefer a heavier gauge.</p>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p>Playing guitar is 50% experimentation! Find out what works best for your Gibson Les Paul. Me? <strong><a href="https://www.electrikjam.com/recommends/ernie-ball-paradigm/" target="_blank" data-type="lasso-urls" data-id="4372" rel="noreferrer noopener nofollow">I love my Ernie Ball strings</a></strong>. Always have done. They&#8217;re cheap, they&#8217;re excellent quality, and they play brilliantly every time.</p>
+<p>Playing guitar is 50% experimentation! Find out what works best for your Gibson Les Paul. Me? <strong><a href="/recommends/ernie-ball-paradigm/" target="_blank" data-type="lasso-urls" data-id="4372" rel="noreferrer noopener nofollow">I love my Ernie Ball strings</a></strong>. Always have done. They&#8217;re cheap, they&#8217;re excellent quality, and they play brilliantly every time.</p>
 
 
 

@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>So what is the Holy Grail of <a href="https://www.electrikjam.com/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217645">electric guitars</a>? There are a few models that cost more than your house, and are very rare! Today we take a look at the greatest, and talk about why they are so coveted.</strong></p>
+<p><strong>So what is the Holy Grail of <a href="/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217645">electric guitars</a>? There are a few models that cost more than your house, and are very rare! Today we take a look at the greatest, and talk about why they are so coveted.</strong></p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>So what is the Holy Grail of <a href="https://www.electrikjam.com/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217708">electric guitars</a>? Is there one axe to rule them all? There is, but there are a couple of other honorable mentions that we should talk about. These 3 guitars are the rarest and most sought after guitars <em>in the world</em> that we could find. So let&#8217;s dive in!</p>
+<p>So what is the Holy Grail of <a href="/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217708">electric guitars</a>? Is there one axe to rule them all? There is, but there are a couple of other honorable mentions that we should talk about. These 3 guitars are the rarest and most sought after guitars <em>in the world</em> that we could find. So let&#8217;s dive in!</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>What is the Holy Grail of <a href="https://www.electrikjam.com/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218275">electric guitars</a>? It is by far the<strong> 1959 Les Paul</strong>, and specifically&#8230; a <em>very special</em> one called &#8220;Greeny&#8221; that has been in the hands of many legends. The 1959 Les Paul Standard was again, not very popular when it was released. It took a few years for it to really take off with guitarists. Fender was dominating the electric guitar market, yet Gibson <em>finally</em> became popular.</p>
+<p>What is the Holy Grail of <a href="/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218275">electric guitars</a>? It is by far the<strong> 1959 Les Paul</strong>, and specifically&#8230; a <em>very special</em> one called &#8220;Greeny&#8221; that has been in the hands of many legends. The 1959 Les Paul Standard was again, not very popular when it was released. It took a few years for it to really take off with guitarists. Fender was dominating the electric guitar market, yet Gibson <em>finally</em> became popular.</p>
 
 
 
@@ -199,7 +199,7 @@ seo:
 
 
 
-<p>Kirk has also used Greeny in the studio on <strong>Metallica</strong> albums, especially when he is writing solos. He says that the guitar &#8220;is full of mojo, and <a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-lasso-id="252358">while I love my signature guitars</a>, there is something special with Greeny. I agree, and the Gibson replicas of the famous guitar have every scratch and defect that the original gained over time. But they can get <em>pricey</em>, otherwise I would have bought the replica Greeny I was lucky enough to play!</p>
+<p>Kirk has also used Greeny in the studio on <strong>Metallica</strong> albums, especially when he is writing solos. He says that the guitar &#8220;is full of mojo, and <a href="/jim-root-signature-guitars/" data-lasso-id="252358">while I love my signature guitars</a>, there is something special with Greeny. I agree, and the Gibson replicas of the famous guitar have every scratch and defect that the original gained over time. But they can get <em>pricey</em>, otherwise I would have bought the replica Greeny I was lucky enough to play!</p>
 
 
 

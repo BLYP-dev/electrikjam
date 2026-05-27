@@ -44,11 +44,11 @@ seo:
 
 
 
-<p>Creating and developing guitar tone is an art form in itself, a process that requires specialist knowledge, study, and near-constant testing and tweaking. For instance, I can use the Spark Amp to create a tone similar to <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="6919">what Adam Jones</a></strong> uses on TOOL’s Lateralus album.</p>
+<p>Creating and developing guitar tone is an art form in itself, a process that requires specialist knowledge, study, and near-constant testing and tweaking. For instance, I can use the Spark Amp to create a tone similar to <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="6919">what Adam Jones</a></strong> uses on TOOL’s Lateralus album.</p>
 
 
 
-<p>Will it sound like it? Yes, it’ll be similar. Will it sound as good? No, not even close – Jones uses an array of tube amps, effects, and a beautiful <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="6936">Gibson Les Paul Custom</a></strong>. He’s also a fantastic player. All of these <a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" data-lasso-id="48148">things help Jones create his guitar</a> tone.</p>
+<p>Will it sound like it? Yes, it’ll be similar. Will it sound as good? No, not even close – Jones uses an array of tube amps, effects, and a beautiful <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="6936">Gibson Les Paul Custom</a></strong>. He’s also a fantastic player. All of these <a href="/guitar-prices-going-up-in-2022/" data-lasso-id="48148">things help Jones create his guitar</a> tone.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>Professional guitarists, guys like <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="6920">James Hetfield</a></strong> or <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="6921">Buzz Osbourne</a></strong>, for instance, have been working on their tone for years, sometimes decades. And in more successful bands, <a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17581">like Metallica</a>, they’ll have a team of guitar techs constantly working on and evolving their guitar rig for a bigger and better tone.</p>
+<p>Professional guitarists, guys like <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="6920">James Hetfield</a></strong> or <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="6921">Buzz Osbourne</a></strong>, for instance, have been working on their tone for years, sometimes decades. And in more successful bands, <a href="/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17581">like Metallica</a>, they’ll have a team of guitar techs constantly working on and evolving their guitar rig for a bigger and better tone.</p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>The “tone” can change, of course, but many guitarists have unique and unmistakable tones –&nbsp;dudes like <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="6922">Angus Young</a></strong>, for instance. Or <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="6923">Dimebag Darrell</a></strong>.</p>
+<p>The “tone” can change, of course, but many guitarists have unique and unmistakable tones –&nbsp;dudes like <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="6922">Angus Young</a></strong>, for instance. Or <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="6923">Dimebag Darrell</a></strong>.</p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-lasso-id="164565">electric guitar</a> is made up of so many different parts. Every part of the guitar affects the tone in one way or another. But what makes it sound <em>good</em>?</p>
+<p>The <a href="/the-top-7-electric-guitar-myths/" data-lasso-id="164565">electric guitar</a> is made up of so many different parts. Every part of the guitar affects the tone in one way or another. But what makes it sound <em>good</em>?</p>
 
 
 
@@ -92,11 +92,11 @@ seo:
 
 
 
-<p>Pickups are the &#8220;microphone&#8221; of your <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211330">electric guitar</a>. Lots of other factors play a part in tone, but pickups are the front line. Pickups use a magnet to pick up the sound of your <a href="https://www.electrikjam.com/best-strings-for-a-gibson-les-paul/" data-lasso-id="5803">guitar strings</a>.</p>
+<p>Pickups are the &#8220;microphone&#8221; of your <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211330">electric guitar</a>. Lots of other factors play a part in tone, but pickups are the front line. Pickups use a magnet to pick up the sound of your <a href="/best-strings-for-a-gibson-les-paul/" data-lasso-id="5803">guitar strings</a>.</p>
 
 
 
-<p>The magnets take the sound of your strings and turn them into a signal that travels to your amplifier. The <strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="6924">type of pickup used</a></strong> will drastically change the tone and sound. The different styles all produce different sounds.</p>
+<p>The magnets take the sound of your strings and turn them into a signal that travels to your amplifier. The <strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="6924">type of pickup used</a></strong> will drastically change the tone and sound. The different styles all produce different sounds.</p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>These use a single magnet. Probably the most famous guitar that uses single-coil pickups, is the <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="6925">Fender Stratocaster</a></strong>. But many different guitars use them!</p>
+<p>These use a single magnet. Probably the most famous guitar that uses single-coil pickups, is the <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="6925">Fender Stratocaster</a></strong>. But many different guitars use them!</p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>This can be a good thing! Some people really like the sound of single coils and use the noise to their advantage. Single coils are lower output than most other pickups. <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99501">Jimi Hendrix</a> certainly had no problem making them sound powerful, though!</p>
+<p>This can be a good thing! Some people really like the sound of single coils and use the noise to their advantage. Single coils are lower output than most other pickups. <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99501">Jimi Hendrix</a> certainly had no problem making them sound powerful, though!</p>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<p>Humbuckers get their name from what they accomplish: they get rid of the hum and noise that a regular single coil would have. Single coils are subject to what we call &#8220;60 Cycle Hum&#8221; which is a distortion of the <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5823">signal sent to your amp</a>.</p>
+<p>Humbuckers get their name from what they accomplish: they get rid of the hum and noise that a regular single coil would have. Single coils are subject to what we call &#8220;60 Cycle Hum&#8221; which is a distortion of the <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5823">signal sent to your amp</a>.</p>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8168">Active pickups</a> can look like a single coil or a humbucker. The difference is the active pickups use a power source, usually a 9V battery, to run special circuitry connected to the pickup.</p>
+<p><a href="/what-are-active-pickups/" data-lasso-id="8168">Active pickups</a> can look like a single coil or a humbucker. The difference is the active pickups use a power source, usually a 9V battery, to run special circuitry connected to the pickup.</p>
 
 
 
@@ -204,11 +204,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong><a href="https://www.guitarcenter.com/EMG/EMG-81-Humbucking-Active-Guitar-Pickup.gc?rNtt=EMG%20pickups&#038;index=13&#038;irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="6926">EMG</a></strong></li><li><strong><a href="https://www.electrikjam.com/seymour-duncan-blackouts/" data-type="lasso-urls" data-id="4416" data-lasso-id="6927" rel="nofollow noopener" target="_blank" data-lasso-name="Seymour Duncan Blackouts">Seymour Duncan</a></strong></li><li><strong><a href="https://www.electrikjam.com/fishman-fluence-modern-link/" data-type="lasso-urls" data-id="4413" data-lasso-id="6928" rel="nofollow noopener" target="_blank" data-lasso-name="Fishman Fluence Modern">Fishman Fluence</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong><a href="https://www.guitarcenter.com/EMG/EMG-81-Humbucking-Active-Guitar-Pickup.gc?rNtt=EMG%20pickups&#038;index=13&#038;irclickid=&#038;irpid=3004829&#038;irmpname=&#038;source=4ACJWXX2&#038;irgwc=1" target="_blank" rel="nofollow noopener" data-lasso-id="6926">EMG</a></strong></li><li><strong><a href="/seymour-duncan-blackouts/" data-type="lasso-urls" data-id="4416" data-lasso-id="6927" rel="nofollow noopener" target="_blank" data-lasso-name="Seymour Duncan Blackouts">Seymour Duncan</a></strong></li><li><strong><a href="/fishman-fluence-modern-link/" data-type="lasso-urls" data-id="4413" data-lasso-id="6928" rel="nofollow noopener" target="_blank" data-lasso-name="Fishman Fluence Modern">Fishman Fluence</a></strong></li></ul>
 
 
 
-<p>If <strong><a href="https://www.electrikjam.com/what-kind-of-pickups-are-in-a-les-paul-epiphone/" class="rank-math-link" data-lasso-id="58">pickups</a></strong> are the basis of your tone, then what are some other factors? Keep in mind that some of these are subjective. Just like tone itself!</p>
+<p>If <strong><a href="/what-kind-of-pickups-are-in-a-les-paul-epiphone/" class="rank-math-link" data-lasso-id="58">pickups</a></strong> are the basis of your tone, then what are some other factors? Keep in mind that some of these are subjective. Just like tone itself!</p>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<p>There are three basic <a data-lasso-id="59" href="https://www.electrikjam.com/types-of-guitars-guide/">types of guitar</a> amps that dominate the market. Let&#8217;s take a look at the features, pros, and cons of each:</p>
+<p>There are three basic <a data-lasso-id="59" href="/types-of-guitars-guide/">types of guitar</a> amps that dominate the market. Let&#8217;s take a look at the features, pros, and cons of each:</p>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<p>Another factor that is neutral in my opinion is the price tag on <a data-lasso-id="60" href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/">tube amps</a>. They are definitely the most expensive of the three types of amps we are discussing. They can cost anywhere from <strong><a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-type="post" data-id="1408" data-lasso-id="6929">$500 to $5000</a></strong>. That is pretty steep for players on a budget.</p>
+<p>Another factor that is neutral in my opinion is the price tag on <a data-lasso-id="60" href="/the-best-guitar-amps-under-100-bucks/">tube amps</a>. They are definitely the most expensive of the three types of amps we are discussing. They can cost anywhere from <strong><a href="/the-5-best-amps-for-doom-metal-in-2020/" data-type="post" data-id="1408" data-lasso-id="6929">$500 to $5000</a></strong>. That is pretty steep for players on a budget.</p>
 
 
 
@@ -328,7 +328,7 @@ seo:
 
 
 
-<p>Most &#8220;beginner amps&#8221; that you see are usually solid-state or transistor technology. These use complex circuitry to <a data-lasso-id="61" href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/">create your guitar tone</a>. They do not use tubes and are known to be more reliable.</p>
+<p>Most &#8220;beginner amps&#8221; that you see are usually solid-state or transistor technology. These use complex circuitry to <a data-lasso-id="61" href="/killer-guitar-tone-without-hardware/">create your guitar tone</a>. They do not use tubes and are known to be more reliable.</p>
 
 
 
@@ -336,11 +336,11 @@ seo:
 
 
 
-<p>The disadvantages reside in the sound. Most of the <strong><a href="https://www.electrikjam.com/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-type="post" data-id="3446" data-lasso-id="6930">best solid-state amps</a></strong> are &#8220;one-trick ponies&#8221;. Meaning they make one sound, and they usually do it pretty well. But they certainly do not have the same type of sound that you get from a tube amp. They lack versatility.</p>
+<p>The disadvantages reside in the sound. Most of the <strong><a href="/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-type="post" data-id="3446" data-lasso-id="6930">best solid-state amps</a></strong> are &#8220;one-trick ponies&#8221;. Meaning they make one sound, and they usually do it pretty well. But they certainly do not have the same type of sound that you get from a tube amp. They lack versatility.</p>
 
 
 
-<p>Many famous guitarists are known for using solid-state, <a data-lasso-id="62" href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/">like Dimebag Darrell</a>. Some people simply prefer the tone you get from them. They work especially well for a good clean tone. It is only really in the distortion channels where they lack versatility. </p>
+<p>Many famous guitarists are known for using solid-state, <a data-lasso-id="62" href="/pantera-albums-ranked-in-order-of-heaviness/">like Dimebag Darrell</a>. Some people simply prefer the tone you get from them. They work especially well for a good clean tone. It is only really in the distortion channels where they lack versatility. </p>
 
 
 
@@ -364,11 +364,11 @@ seo:
 
 
 
-<p>These days the technology has definitely progressed beyond its bumpy entry to the market. <strong><a href="https://www.electrikjam.com/line-6-helix-recording-techniques/" data-type="post" data-id="4209" data-lasso-id="6931">They are even used by professionals</a></strong>. However, the professional models usually come at the same price point as a tube amp.</p>
+<p>These days the technology has definitely progressed beyond its bumpy entry to the market. <strong><a href="/line-6-helix-recording-techniques/" data-type="post" data-id="4209" data-lasso-id="6931">They are even used by professionals</a></strong>. However, the professional models usually come at the same price point as a tube amp.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/how-heavy-is-the-spark-amp-lets-find-out/" data-type="post" data-id="4459" data-lasso-id="6932">Professionals use digital amps</a></strong> these days because they are reliable, and can replicate any sound the artist has used over the years. This can be a big advantage for the artists with multiple albums and tones. </p>
+<p><strong><a href="/how-heavy-is-the-spark-amp-lets-find-out/" data-type="post" data-id="4459" data-lasso-id="6932">Professionals use digital amps</a></strong> these days because they are reliable, and can replicate any sound the artist has used over the years. This can be a big advantage for the artists with multiple albums and tones. </p>
 
 
 
@@ -424,7 +424,7 @@ seo:
 
 
 
-<p>Guitarists that prefer a fixed bridge usually do so because of the ease of use. There is really only one downside, and that is the versatility. To change note pitch, <a href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="64">you have to do it with your fretting hand</a> by using bends.</p>
+<p>Guitarists that prefer a fixed bridge usually do so because of the ease of use. There is really only one downside, and that is the versatility. To change note pitch, <a href="/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="64">you have to do it with your fretting hand</a> by using bends.</p>
 
 
 
@@ -440,7 +440,7 @@ seo:
 
 
 
-<p>A standard trem is the same idea as a fixed bridge, but it moves in a subtle back and forth motion. This allows you to bend notes and change pitch. The most popular example is the <a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-lasso-id="65">Fender Stratocaster</a>.</p>
+<p>A standard trem is the same idea as a fixed bridge, but it moves in a subtle back and forth motion. This allows you to bend notes and change pitch. The most popular example is the <a href="/the-best-fender-strat-alternative-in-2021/" data-lasso-id="65">Fender Stratocaster</a>.</p>
 
 
 
@@ -472,7 +472,7 @@ seo:
 
 
 
-<p>They also affect the tone of your guitar since this bridge makes the least contact with the body of the guitar. It basically floats in place pivoted by screws and <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99324">the tension of the strings</a>.</p>
+<p>They also affect the tone of your guitar since this bridge makes the least contact with the body of the guitar. It basically floats in place pivoted by screws and <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99324">the tension of the strings</a>.</p>
 
 
 
@@ -516,7 +516,7 @@ seo:
 
 
 
-<p>All I know is I watched <a href="https://www.electrikjam.com/jack-white-loves-horrible-difficult-guitars-heres-why/" data-lasso-id="120934">Jack White</a> put a pickup on a scrap piece of wood from his yard. He threw some strings on it and started playing it. That scrap wood sounded pretty awesome.</p>
+<p>All I know is I watched <a href="/jack-white-loves-horrible-difficult-guitars-heres-why/" data-lasso-id="120934">Jack White</a> put a pickup on a scrap piece of wood from his yard. He threw some strings on it and started playing it. That scrap wood sounded pretty awesome.</p>
 
 
 
@@ -540,7 +540,7 @@ seo:
 
 
 
-<p>The best thing to do is get out there and <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="66">try as many guitars as you can!</a></strong> Preferences come with time also, and experience. What you start with liking, is subject to change. Just like anything else, you will eventually develop your own taste.</p>
+<p>The best thing to do is get out there and <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="66">try as many guitars as you can!</a></strong> Preferences come with time also, and experience. What you start with liking, is subject to change. Just like anything else, you will eventually develop your own taste.</p>
 
 
 

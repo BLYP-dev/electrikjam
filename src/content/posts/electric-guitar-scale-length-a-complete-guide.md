@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>Guitar Scale length is determined by the distance between the bridge and the nut at the guitar<strong><span style="color: #9b51e0;" class="ugb-highlight">.<a href="https://www.electrikjam.com/anatomy-of-the-electric-guitar-guide/" target="_blank" data-type="post" data-id="450" rel="noopener" data-lasso-id="1470"> </a></span><a href="https://www.electrikjam.com/anatomy-of-the-electric-guitar-guide/" target="_blank" data-type="post" data-id="450" rel="noopener" data-lasso-id="1471"><span style="color: #9b51e0;" class="ugb-highlight">If you take a look at out post on guitar anatomy</span></a></strong>, you&#8217;ll see which parts of the guitar we are talking about. In the USA, we measure this by inches, while in most other countries this is measured by millimeters. Today, we will be looking at guitars measured in inches, for convenience, as most websites will list guitars this way.</p>
+<p>Guitar Scale length is determined by the distance between the bridge and the nut at the guitar<strong><span style="color: #9b51e0;" class="ugb-highlight">.<a href="/anatomy-of-the-electric-guitar-guide/" target="_blank" data-type="post" data-id="450" rel="noopener" data-lasso-id="1470"> </a></span><a href="/anatomy-of-the-electric-guitar-guide/" target="_blank" data-type="post" data-id="450" rel="noopener" data-lasso-id="1471"><span style="color: #9b51e0;" class="ugb-highlight">If you take a look at out post on guitar anatomy</span></a></strong>, you&#8217;ll see which parts of the guitar we are talking about. In the USA, we measure this by inches, while in most other countries this is measured by millimeters. Today, we will be looking at guitars measured in inches, for convenience, as most websites will list guitars this way.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>The 24 inch scale length made it easier for young people and new students to play the guitar. Over the years, people like <strong><a data-lasso-id="2009" href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/">Kurt Cobain</a> </strong>made these guitars famous again, for professional use. Kurt said in many interviews that these student guitars were more comfortable for him to use on stage.</p>
+<p>The 24 inch scale length made it easier for young people and new students to play the guitar. Over the years, people like <strong><a data-lasso-id="2009" href="/fender-jaguar-kurt-cobain/">Kurt Cobain</a> </strong>made these guitars famous again, for professional use. Kurt said in many interviews that these student guitars were more comfortable for him to use on stage.</p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>This &#8220;in between scale&#8221; is one of the many things that sets<a href="https://www.electrikjam.com/prs-2021-lineup-some-absolutely-lovely-additions/" data-type="post" data-id="1814" data-lasso-id="234417"><strong><span class="ugb-highlight" style="color: #9b51e0;"> PRS Guitars </span></strong></a>aside from the competition. PRS definitely marches to their own beat when it comes to design.</p>
+<p>This &#8220;in between scale&#8221; is one of the many things that sets<a href="/prs-2021-lineup-some-absolutely-lovely-additions/" data-type="post" data-id="1814" data-lasso-id="234417"><strong><span class="ugb-highlight" style="color: #9b51e0;"> PRS Guitars </span></strong></a>aside from the competition. PRS definitely marches to their own beat when it comes to design.</p>
 
 
 
@@ -175,11 +175,11 @@ seo:
 
 
 
-<p><strong><span class="ugb-highlight" style="color: #9b51e0;"><a data-lasso-id="1475" href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-type="post" data-id="2129" target="_blank" rel="noopener">I</a></span><a data-lasso-id="1476" href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-type="post" data-id="2129" target="_blank" rel="noopener"><span class="ugb-highlight" style="color: #9b51e0;">banez designed the &#8220;super shredder&#8221; guitars</span></a><span class="ugb-highlight" style="color: #9b51e0;"> </span></strong>after Fender models in the 80&#8217;s and so far, this scale length has stuck for the vast majority of guitars on the market.<strong><span class="ugb-highlight" style="color: #9b51e0;"> </span></strong></p>
+<p><strong><span class="ugb-highlight" style="color: #9b51e0;"><a data-lasso-id="1475" href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-type="post" data-id="2129" target="_blank" rel="noopener">I</a></span><a data-lasso-id="1476" href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-type="post" data-id="2129" target="_blank" rel="noopener"><span class="ugb-highlight" style="color: #9b51e0;">banez designed the &#8220;super shredder&#8221; guitars</span></a><span class="ugb-highlight" style="color: #9b51e0;"> </span></strong>after Fender models in the 80&#8217;s and so far, this scale length has stuck for the vast majority of guitars on the market.<strong><span class="ugb-highlight" style="color: #9b51e0;"> </span></strong></p>
 
 
 
-<p><strong><span class="ugb-highlight" style="color: #9b51e0;"><a data-lasso-id="1477" href="https://www.electrikjam.com/new-schecter-svss-exotic-models/" data-type="post" data-id="3004" target="_blank" rel="noopener">The Super Shredder guitars</a></span></strong><a data-lasso-id="1478" href="https://www.electrikjam.com/new-schecter-svss-exotic-models/" data-type="post" data-id="3004" target="_blank" rel="noopener"><span class="ugb-highlight" style="color: #9b51e0;"> </span></a>were meant for fast lead playing, which was exactly what Leo Fender had in mind!</p>
+<p><strong><span class="ugb-highlight" style="color: #9b51e0;"><a data-lasso-id="1477" href="/new-schecter-svss-exotic-models/" data-type="post" data-id="3004" target="_blank" rel="noopener">The Super Shredder guitars</a></span></strong><a data-lasso-id="1478" href="/new-schecter-svss-exotic-models/" data-type="post" data-id="3004" target="_blank" rel="noopener"><span class="ugb-highlight" style="color: #9b51e0;"> </span></a>were meant for fast lead playing, which was exactly what Leo Fender had in mind!</p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p>The 25.5 scale guitars are also great for doing <a data-lasso-id="1479" href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/">D standard tuning</a>, Drop C, and Drop B tunings. However, once you get to drop B, you&#8217;ll need pretty thick strings.</p>
+<p>The 25.5 scale guitars are also great for doing <a data-lasso-id="1479" href="/d-standard-tuning-guide-how-to/">D standard tuning</a>, Drop C, and Drop B tunings. However, once you get to drop B, you&#8217;ll need pretty thick strings.</p>
 
 
 
@@ -211,11 +211,11 @@ seo:
 
 
 
-<p>Danelectro Guitars introduced the idea of a <a data-lasso-id="234010" href="https://www.electrikjam.com/best-baritone-guitars-for-metal/">baritone guitar</a> back in the 1950&#8217;s. Shortly thereafter, Fender jumped on the baritone bandwagon also. Since the 1950&#8217;s almost every guitar company makes a few baritone models, usually in small batches since the demand is not as high.<a data-lasso-id="1481" href="https://www.ibanez.com/usa/products/model/rgd/" target="_blank" rel="noopener noreferrer nofollow"> </a></p>
+<p>Danelectro Guitars introduced the idea of a <a data-lasso-id="234010" href="/best-baritone-guitars-for-metal/">baritone guitar</a> back in the 1950&#8217;s. Shortly thereafter, Fender jumped on the baritone bandwagon also. Since the 1950&#8217;s almost every guitar company makes a few baritone models, usually in small batches since the demand is not as high.<a data-lasso-id="1481" href="https://www.ibanez.com/usa/products/model/rgd/" target="_blank" rel="noopener noreferrer nofollow"> </a></p>
 
 
 
-<p class="has-black-color has-text-color"><strong><span class="ugb-highlight" style="color: #9b51e0;">Ibanez </span></strong>and <a data-lasso-id="1482" href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" data-type="post" data-id="3029" target="_blank" rel="noopener"><strong><span class="ugb-highlight" style="color: #9b51e0;">Schecter</span></strong></a> are the two companies that consistently make large batches of baritone guitars. </p>
+<p class="has-black-color has-text-color"><strong><span class="ugb-highlight" style="color: #9b51e0;">Ibanez </span></strong>and <a data-lasso-id="1482" href="/new-schecter-red-reign-e-series-2021/" data-type="post" data-id="3029" target="_blank" rel="noopener"><strong><span class="ugb-highlight" style="color: #9b51e0;">Schecter</span></strong></a> are the two companies that consistently make large batches of baritone guitars. </p>
 
 
 
@@ -232,15 +232,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-type="post" data-id="11706" data-lasso-id="234418">Best Baritone Guitars For Metal</a></strong></li>
+<li><strong><a href="/best-baritone-guitars-for-metal/" data-type="post" data-id="11706" data-lasso-id="234418">Best Baritone Guitars For Metal</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/baritone-guitar-tuning-guide/" data-type="post" data-id="11702" data-lasso-id="234419">The Ultimate Guide To Baritone Guitar Tuning</a></strong></li>
+<li><strong><a href="/baritone-guitar-tuning-guide/" data-type="post" data-id="11702" data-lasso-id="234419">The Ultimate Guide To Baritone Guitar Tuning</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" data-lasso-id="234420">The Best Cheap Baritone Guitar Money Can Buy</a></strong></li>
+<li><strong><a href="/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" data-lasso-id="234420">The Best Cheap Baritone Guitar Money Can Buy</a></strong></li>
 </ul>
 
 
@@ -249,7 +249,7 @@ seo:
 
 
 
-<p>A six string baritone is often tuned B to B, if the scale length is 26.5-27 inches. However, some of the early adopters of baritone guitar used an even longer scale length to use the baritone guitar like a &#8220;six string bass&#8221; essentially. This means the tuning was standard E tuning, but just a whole octave lower! In the 1960&#8217;s, you can hear these <strong><a data-lasso-id="1483" href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/">low tuned guitars</a> </strong>on tons of Country Western albums.</p>
+<p>A six string baritone is often tuned B to B, if the scale length is 26.5-27 inches. However, some of the early adopters of baritone guitar used an even longer scale length to use the baritone guitar like a &#8220;six string bass&#8221; essentially. This means the tuning was standard E tuning, but just a whole octave lower! In the 1960&#8217;s, you can hear these <strong><a data-lasso-id="1483" href="/dgcfad-the-guitar-tuning-of-the-gods/">low tuned guitars</a> </strong>on tons of Country Western albums.</p>
 
 
 
@@ -261,15 +261,15 @@ seo:
 
 
 
-<p>But it&#8217;s not just six stringed guitars that get the baritone treatment these days. When <a data-lasso-id="1484" href="https://www.electrikjam.com/types-of-guitars-guide/" data-type="post" data-id="2545" target="_blank" rel="noopener"><strong><span class="ugb-highlight" style="color: #9b51e0;">Ibanez made the first production 7 string</span></strong></a>, the designers made it to <strong>Steve Vai&#8217;s</strong> specs, so these 7 strings were the standard guitar scale length: <strong>25.5. </strong></p>
+<p>But it&#8217;s not just six stringed guitars that get the baritone treatment these days. When <a data-lasso-id="1484" href="/types-of-guitars-guide/" data-type="post" data-id="2545" target="_blank" rel="noopener"><strong><span class="ugb-highlight" style="color: #9b51e0;">Ibanez made the first production 7 string</span></strong></a>, the designers made it to <strong>Steve Vai&#8217;s</strong> specs, so these 7 strings were the standard guitar scale length: <strong>25.5. </strong></p>
 
 
 
-<p>Now this works fine if you keep the <a href="https://www.electrikjam.com/7-string-guitar-tuning/" data-lasso-id="251941">7 string in standard tuning</a>. But lately, when it comes to Metal, guitarists are tuning down <em>much</em> lower than that. It&#8217;s popular nowadays to tune all the way down to F# on a 7 string guitar!</p>
+<p>Now this works fine if you keep the <a href="/7-string-guitar-tuning/" data-lasso-id="251941">7 string in standard tuning</a>. But lately, when it comes to Metal, guitarists are tuning down <em>much</em> lower than that. It&#8217;s popular nowadays to tune all the way down to F# on a 7 string guitar!</p>
 
 
 
-<p>Companies like Schecter only make <strong><a data-lasso-id="1485" href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/">7 string guitars</a> </strong>with a 26.5 scale these days. Ibanez also followed suit, and now produce tons of models with a baritone length with the RGD Series. This allows the 7 string guitars to be tuned standard, or lower much more easily. Baritone length really shines with 7 string guitars, and I am happy to see so many companies adopt it.</p>
+<p>Companies like Schecter only make <strong><a data-lasso-id="1485" href="/the-complete-guide-to-7-string-guitar/">7 string guitars</a> </strong>with a 26.5 scale these days. Ibanez also followed suit, and now produce tons of models with a baritone length with the RGD Series. This allows the 7 string guitars to be tuned standard, or lower much more easily. Baritone length really shines with 7 string guitars, and I am happy to see so many companies adopt it.</p>
 
 
 
@@ -293,7 +293,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>A <a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" target="_blank" data-type="post" data-id="1797" rel="noopener" data-lasso-id="1486">Cort </a>Multi Scale 8 String</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="449" src="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg" alt="" class="wp-image-1669" title="" srcset="/wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-1024x449.jpg 1024w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-600x263.jpg 600w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-300x132.jpg 300w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1-768x337.jpg 768w, /wp-content/uploads/2020/12/cort-kx508ms-8-string-electric-guitar-00-1140x500-1.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>A <a href="/cort-multi-scale-guitars-new-beautiful-models-for-2021/" target="_blank" data-type="post" data-id="1797" rel="noopener" data-lasso-id="1486">Cort </a>Multi Scale 8 String</em></figcaption></figure>
 
 
 
@@ -349,7 +349,7 @@ seo:
 
 
 
-<p>This is why <strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236024">Fender&#8217;s are often used for their bright tonality</a></strong> and Gibson Les Paul&#8217;s for their darker, more aggressive tone.</p>
+<p>This is why <strong><a href="/telecaster-vs-jazzmaster/" data-lasso-id="236024">Fender&#8217;s are often used for their bright tonality</a></strong> and Gibson Les Paul&#8217;s for their darker, more aggressive tone.</p>
 
 
 
@@ -362,15 +362,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="234421">Best Fender Guitars For Metal</a></strong></li>
+<li><strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="234421">Best Fender Guitars For Metal</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="234422">Is A Gibson Les Paul Really Worth All That Money? </a></strong></li>
+<li><strong><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="234422">Is A Gibson Les Paul Really Worth All That Money? </a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-type="post" data-id="3350" data-lasso-id="234423">Gibson vs Epiphone: Is Gibson Really That Much Better? </a></strong></li>
+<li><strong><a href="/gibson-vs-epiphone-in-2021/" data-type="post" data-id="3350" data-lasso-id="234423">Gibson vs Epiphone: Is Gibson Really That Much Better? </a></strong></li>
 </ul>
 
 
@@ -408,7 +408,7 @@ seo:
 
 
 
-<li><strong><a href="https://www.electrikjam.com/who-plays-fender-jazzmaster/" data-lasso-id="252797">Fender Jazzmaster:</a> 25.5 inches</strong></li>
+<li><strong><a href="/who-plays-fender-jazzmaster/" data-lasso-id="252797">Fender Jazzmaster:</a> 25.5 inches</strong></li>
 
 
 
@@ -438,7 +438,7 @@ seo:
 
 
 
-<li><a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236476"><strong>Gibson Explorer:</a> 24.75 inches</strong></li>
+<li><a href="/gibson-80s-explorer-review/" data-lasso-id="236476"><strong>Gibson Explorer:</a> 24.75 inches</strong></li>
 
 
 

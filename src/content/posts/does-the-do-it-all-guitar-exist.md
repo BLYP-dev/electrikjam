@@ -40,15 +40,15 @@ seo:
 
 
 
-<p>A lot of guitarists have spent years chasing a particular sound. Some people have had a tone that they desire and they have gone to great lengths to find the gear that makes<em> that </em>tone. You probably see this behavior in some of your guitar heroes. Take <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99496">Jimi Hendrix</a> for example&#8230;</p>
+<p>A lot of guitarists have spent years chasing a particular sound. Some people have had a tone that they desire and they have gone to great lengths to find the gear that makes<em> that </em>tone. You probably see this behavior in some of your guitar heroes. Take <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-lasso-id="99496">Jimi Hendrix</a> for example&#8230;</p>
 
 
 
-<p>Jimi was known to play a<strong> <a href="https://www.electrikjam.com/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="15476">Fender</a></strong> Stratocaster, and his sound and image are almost <em>synonymous</em> with that guitar. But Jimi certainly played other <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="15502">guitars</a>! He had<strong> <a href="https://www.electrikjam.com/gibson-guitars/" target="_blank" data-type="page" data-id="3878" rel="noopener" data-lasso-id="15477">Gibson</a></strong> guitars, and a few <a href="https://www.electrikjam.com/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="15478"><strong>Epiphone</strong></a> guitars. But he favored the Fender, and used it the most because it helped to define his sound. </p>
+<p>Jimi was known to play a<strong> <a href="/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="15476">Fender</a></strong> Stratocaster, and his sound and image are almost <em>synonymous</em> with that guitar. But Jimi certainly played other <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="15502">guitars</a>! He had<strong> <a href="/gibson-guitars/" target="_blank" data-type="page" data-id="3878" rel="noopener" data-lasso-id="15477">Gibson</a></strong> guitars, and a few <a href="/epiphone-guitars/" target="_blank" data-type="page" data-id="4039" rel="noopener" data-lasso-id="15478"><strong>Epiphone</strong></a> guitars. But he favored the Fender, and used it the most because it helped to define his sound. </p>
 
 
 
-<p>But the thing you have to remember about guitar, is that it is different for <em>every single player</em> out there. What I think is the perfect guitar, may be the exact<em> opposite</em> of what you are looking for.<strong> Guitars are tools first and foremost</strong>, and should be treated as such. You wouldn&#8217;t bring a hammer to cut down a tree would you? Just like I wouldn&#8217;t bring a Fender Strat to play <a href="https://www.electrikjam.com/cheap-8-string-guitar/" target="_blank" data-type="post" data-id="2516" rel="noopener" data-lasso-id="15479"><strong>Djent </strong></a>Metal.</p>
+<p>But the thing you have to remember about guitar, is that it is different for <em>every single player</em> out there. What I think is the perfect guitar, may be the exact<em> opposite</em> of what you are looking for.<strong> Guitars are tools first and foremost</strong>, and should be treated as such. You wouldn&#8217;t bring a hammer to cut down a tree would you? Just like I wouldn&#8217;t bring a Fender Strat to play <a href="/cheap-8-string-guitar/" target="_blank" data-type="post" data-id="2516" rel="noopener" data-lasso-id="15479"><strong>Djent </strong></a>Metal.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Have several guitars for each tuning and genre that you want to play. Like a <a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" target="_blank" data-type="post" data-id="5301" rel="noopener" data-lasso-id="15480">Schecter</a> for Metal, A Gibson for Rock, and a Fender for Blues. Each guitar can have it&#8217;s own setup and tunings.</strong></li><li><strong>You can have a do it all guitar</strong>. <strong>A guitar that can cover all kinds of sounds, tones, and genres.</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Have several guitars for each tuning and genre that you want to play. Like a <a href="/schecter-demon-6-worth-it-specs-price/" target="_blank" data-type="post" data-id="5301" rel="noopener" data-lasso-id="15480">Schecter</a> for Metal, A Gibson for Rock, and a Fender for Blues. Each guitar can have it&#8217;s own setup and tunings.</strong></li><li><strong>You can have a do it all guitar</strong>. <strong>A guitar that can cover all kinds of sounds, tones, and genres.</strong></li></ul>
 
 
 
@@ -76,11 +76,11 @@ seo:
 
 
 
-<p>A Fender HSS Strat is the first thing that comes to mind when I think about a do it all guitar. I have owned quite a few of these models, and I can definitely speak on why they are versatile. The Stratocaster has been around since the <strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" target="_blank" data-type="post" data-id="583" rel="noopener" data-lasso-id="15481">invention</a> </strong>of the solid body guitar, and it remains a viable contender to this day for a lot of reasons.</p>
+<p>A Fender HSS Strat is the first thing that comes to mind when I think about a do it all guitar. I have owned quite a few of these models, and I can definitely speak on why they are versatile. The Stratocaster has been around since the <strong><a href="/who-invented-the-electric-guitar/" target="_blank" data-type="post" data-id="583" rel="noopener" data-lasso-id="15481">invention</a> </strong>of the solid body guitar, and it remains a viable contender to this day for a lot of reasons.</p>
 
 
 
-<p>The HSS in the name means &#8220;Humbucker, Single, Single&#8221;. This means that you have two single coil pickups like you would have on a regular Strat, but the humbucker in the bridge is what makes this guitar a game changer. While most people wouldn&#8217;t think that a Fender is great for playing heavy music, <a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-lasso-id="252359">Jim Root</a> and <strong>Iron Maiden</strong> would disagree with you.</p>
+<p>The HSS in the name means &#8220;Humbucker, Single, Single&#8221;. This means that you have two single coil pickups like you would have on a regular Strat, but the humbucker in the bridge is what makes this guitar a game changer. While most people wouldn&#8217;t think that a Fender is great for playing heavy music, <a href="/jim-root-signature-guitars/" data-lasso-id="252359">Jim Root</a> and <strong>Iron Maiden</strong> would disagree with you.</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>But this is where the humbucker comes in. The humbucker in the bridge can do all kinds of awesome tones that are good for heavier music. First and foremost, it is less noisy. You can crank up the gain and start <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69749">chugging with some palm mutes</a>. The bridge humbucker is also good for shred lead playing. Basically, anything high gain can be done with the humbucker in the bridge.</p>
+<p>But this is where the humbucker comes in. The humbucker in the bridge can do all kinds of awesome tones that are good for heavier music. First and foremost, it is less noisy. You can crank up the gain and start <a href="/guitar-muting-techniques/" data-lasso-id="69749">chugging with some palm mutes</a>. The bridge humbucker is also good for shred lead playing. Basically, anything high gain can be done with the humbucker in the bridge.</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>These can easily be a do it all guitar, and I think they beat the <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-lasso-id="40154">HSS Stratocaster</a> <strong>by a longshot</strong>. The PRS hardware makes all the difference here. You have a fully functional tremolo that can handle anything you throw at it. You also have a graphite nut and <a href="https://www.electrikjam.com/what-are-locking-tuners/" data-lasso-id="28685">locking tuners</a>. These stay in tune without any problems.</p>
+<p>These can easily be a do it all guitar, and I think they beat the <a href="/schecter-nick-johnston-hss-review/" data-lasso-id="40154">HSS Stratocaster</a> <strong>by a longshot</strong>. The PRS hardware makes all the difference here. You have a fully functional tremolo that can handle anything you throw at it. You also have a graphite nut and <a href="/what-are-locking-tuners/" data-lasso-id="28685">locking tuners</a>. These stay in tune without any problems.</p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p>Charvel has been around a long time and created a legacy for themselves that<em> usually</em> revolves around Metal. The last few years, Charvel has been about making some of the most versatile <a href="https://www.electrikjam.com/electrikjam-link/" data-lasso-id="19874" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">guitars on the market</a>, putting these models high on the list of do it all guitars. The best in my opinion, is the Charvel Dk24.</p>
+<p>Charvel has been around a long time and created a legacy for themselves that<em> usually</em> revolves around Metal. The last few years, Charvel has been about making some of the most versatile <a href="/electrikjam-link/" data-lasso-id="19874" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">guitars on the market</a>, putting these models high on the list of do it all guitars. The best in my opinion, is the Charvel Dk24.</p>
 
 
 
@@ -160,11 +160,11 @@ seo:
 
 
 
-<p>But even more impressive, is the pickups. The DK24 comes loaded with <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="15483"><strong>Seymour Duncan</strong> </a>Alnico II pickups. These pickups sit right in the middle when it comes to being hot and heavy. This gives you a versatile humbucker sound that can be used for any genre. The series switch allows you to put the pickups in series or parallel, giving you 3 more options for tones.</p>
+<p>But even more impressive, is the pickups. The DK24 comes loaded with <a href="/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="15483"><strong>Seymour Duncan</strong> </a>Alnico II pickups. These pickups sit right in the middle when it comes to being hot and heavy. This gives you a versatile humbucker sound that can be used for any genre. The series switch allows you to put the pickups in series or parallel, giving you 3 more options for tones.</p>
 
 
 
-<p>Charvel has been making so great doi it all guitars over the last few years. So don&#8217;t just think that Charvel means &#8220;pointy <a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189579" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">metal guitar&#8221;</a>&#8220;. These can be both beauty and the beast with the new features Charvel has to offer!</p>
+<p>Charvel has been making so great doi it all guitars over the last few years. So don&#8217;t just think that Charvel means &#8220;pointy <a href="/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189579" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">metal guitar&#8221;</a>&#8220;. These can be both beauty and the beast with the new features Charvel has to offer!</p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p>If you have not heard of <a href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-lasso-id="131022">Nick Johnston</a>, then it might be time to look up some of his music. Nick is one of the craziest players of the new generation, and with his innovative playing he needed a<em> hybrid </em>guitar. He needed a <a href="https://www.electrikjam.com/ibanez-tod10-tim-henson-guitar-review/" data-lasso-id="210149">guitar with classic looks and modern</a> appointments. A do it it all player, needs a do it all guitar, right?</p>
+<p>If you have not heard of <a href="/schecter-nick-johnston-pt-2022/" data-lasso-id="131022">Nick Johnston</a>, then it might be time to look up some of his music. Nick is one of the craziest players of the new generation, and with his innovative playing he needed a<em> hybrid </em>guitar. He needed a <a href="/ibanez-tod10-tim-henson-guitar-review/" data-lasso-id="210149">guitar with classic looks and modern</a> appointments. A do it it all player, needs a do it all guitar, right?</p>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<p>You also have modern features like a roasted maple neck, one tone/volume knob setup, and a <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246484">heel spoke truss rod</a>. These are all features that you will only find on a Fender that costs thousands of dollars. But Schecter managed to pull it off and remain in budget territory! This is the best do it all guitar you can get for under $1000.</p>
+<p>You also have modern features like a roasted maple neck, one tone/volume knob setup, and a <a href="/parts-of-an-electric-guitar/" data-lasso-id="246484">heel spoke truss rod</a>. These are all features that you will only find on a Fender that costs thousands of dollars. But Schecter managed to pull it off and remain in budget territory! This is the best do it all guitar you can get for under $1000.</p>
 
 
 
@@ -232,15 +232,15 @@ seo:
 
 
 
-<p>This is<em><strong> the</strong></em> do it all <a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-lasso-id="69616">guitar for people on a budget</a>. The Yamaha Pacifica has everything you need in a do it all guitar. It has quality hardware, pickups, and construction. So how do you get so much value for such a great price? The thing is, <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254480">Yamaha has always made great guitars for beginners</a>.<strong> Most guitarists have no idea that Yamaha makes professional guitars as well!</strong></p>
+<p>This is<em><strong> the</strong></em> do it all <a href="/new-squier-40th-anniversary-guitars/" data-lasso-id="69616">guitar for people on a budget</a>. The Yamaha Pacifica has everything you need in a do it all guitar. It has quality hardware, pickups, and construction. So how do you get so much value for such a great price? The thing is, <a href="/best-guitar-for-beginners/" data-lasso-id="254480">Yamaha has always made great guitars for beginners</a>.<strong> Most guitarists have no idea that Yamaha makes professional guitars as well!</strong></p>
 
 
 
-<p>In fact,<em> I had no idea myself</em> until I started really researching the guitars that Yamaha has to offer. This is a<em> mean </em>machine for under $700, and I am really tempted to buy one for myself. You get a Wilkinson Trem system, that will never give you any tuning issues. You also get a guitar that is loaded with <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-lasso-id="120193">Seymour Duncan pickups</a>. It&#8217;s a no brainer at this price!</p>
+<p>In fact,<em> I had no idea myself</em> until I started really researching the guitars that Yamaha has to offer. This is a<em> mean </em>machine for under $700, and I am really tempted to buy one for myself. You get a Wilkinson Trem system, that will never give you any tuning issues. You also get a guitar that is loaded with <a href="/new-seymour-duncan-pickups-announced/" data-lasso-id="120193">Seymour Duncan pickups</a>. It&#8217;s a no brainer at this price!</p>
 
 
 
-<p>If you are looking for a do it all guitar, that comes way under the <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35973">budget of most guitars</a> on this list&#8230; the Yamaha Pacifica 612VII is the perfect guitar for guitarists of any style or genre. I am kind of stunned at the features you get for such a bargain price.</p>
+<p>If you are looking for a do it all guitar, that comes way under the <a href="/the-best-guitars-of-2021/" data-lasso-id="35973">budget of most guitars</a> on this list&#8230; the Yamaha Pacifica 612VII is the perfect guitar for guitarists of any style or genre. I am kind of stunned at the features you get for such a bargain price.</p>
 
 
 
@@ -260,9 +260,9 @@ seo:
 
 
 
-<p>The guitars on this list are for a special breed of guitarist that<em> likes to have options</em>. Any guitar on this list would be good for a studio musician for example, who never knows what kind of music they have to play next. Any guitarist in a cover <a href="https://www.electrikjam.com/brand-new-sinaro-playthrough-2021/" data-lasso-id="21758">band will tell</a> you that you need a lot of tonal options on stage as well.</p>
+<p>The guitars on this list are for a special breed of guitarist that<em> likes to have options</em>. Any guitar on this list would be good for a studio musician for example, who never knows what kind of music they have to play next. Any guitarist in a cover <a href="/brand-new-sinaro-playthrough-2021/" data-lasso-id="21758">band will tell</a> you that you need a lot of tonal options on stage as well.</p>
 
 
 
-<p>My #1 choice for a do it all guitar is <em>always</em> going to be a <strong>Core PRS</strong>. PRS is designed to be the king of do it all guitars! But not everyone has that kind of money to <a href="https://www.electrikjam.com/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211727">spend on a guitar</a> (some cost as much as my car!). I hope these guitars give you some ideas of what you can do on a more limited budget. The best do it all guitar for <em><strong>you</strong></em>, might be on this list!</p>
+<p>My #1 choice for a do it all guitar is <em>always</em> going to be a <strong>Core PRS</strong>. PRS is designed to be the king of do it all guitars! But not everyone has that kind of money to <a href="/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211727">spend on a guitar</a> (some cost as much as my car!). I hope these guitars give you some ideas of what you can do on a more limited budget. The best do it all guitar for <em><strong>you</strong></em>, might be on this list!</p>
 

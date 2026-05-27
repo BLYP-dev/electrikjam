@@ -69,7 +69,7 @@ seo:
 
 
 
-<p>Hell, <strong><a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" data-lasso-id="260489">Mike Rutherford used a Squier Bullet Strat</a></strong> on the most recent Genesis tour and that dude has more money than pretty much every single person who will ever read this article. </p>
+<p>Hell, <strong><a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" data-lasso-id="260489">Mike Rutherford used a Squier Bullet Strat</a></strong> on the most recent Genesis tour and that dude has more money than pretty much every single person who will ever read this article. </p>
 
 
 
@@ -105,7 +105,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-brands/squier-electric-guitars/" data-type="guitar-brands" data-id="14164" data-lasso-id="260490">We have a ton of Squier reviews on the site</a></strong>, from the awesome Contemporary and Paranormal series to the Artist and Bullet Series, and Chris and I have been massively impressed by them nearly all of them which is why we constantly recommend the brand both on the site and on the podcast. </p>
+<p><strong><a href="/guitar-brands/squier-electric-guitars/" data-type="guitar-brands" data-id="14164" data-lasso-id="260490">We have a ton of Squier reviews on the site</a></strong>, from the awesome Contemporary and Paranormal series to the Artist and Bullet Series, and Chris and I have been massively impressed by them nearly all of them which is why we constantly recommend the brand both on the site and on the podcast. </p>
 
 
 
@@ -113,7 +113,7 @@ seo:
 
 
 
-<p>And for better than <strong><a href="https://www.electrikjam.com/squier-electric-guitars-guitar-center/" data-type="lasso-urls" data-id="14167" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260491" data-lasso-name="Squier Electric Guitars">70% less than the price of a standard Fender</a></strong> model, that’s awesome whichever you slice it. For value for money, <strong><a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" data-lasso-id="260492">the higher-end Squier models</a></strong> are outstanding for beginners, intermediate players, and even touring / professional musicians. </p>
+<p>And for better than <strong><a href="/squier-electric-guitars-guitar-center/" data-type="lasso-urls" data-id="14167" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260491" data-lasso-name="Squier Electric Guitars">70% less than the price of a standard Fender</a></strong> model, that’s awesome whichever you slice it. For value for money, <strong><a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" data-lasso-id="260492">the higher-end Squier models</a></strong> are outstanding for beginners, intermediate players, and even touring / professional musicians. </p>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<p>Squier’s current range is really going after modern players too – guys and gals that like getting low and heavy – with its <strong><a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" data-lasso-id="260493">epic Contemporary Series</a></strong>. That means Jazzmaster, Teles and Strats with HH configuration pickups that are perfect for djent, doom, sludge, and metal. All for less than $500. </p>
+<p>Squier’s current range is really going after modern players too – guys and gals that like getting low and heavy – with its <strong><a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" data-lasso-id="260493">epic Contemporary Series</a></strong>. That means Jazzmaster, Teles and Strats with HH configuration pickups that are perfect for djent, doom, sludge, and metal. All for less than $500. </p>
 
 
 
@@ -273,7 +273,7 @@ seo:
 
 
 
-<p>But I am absolutely smitten with <strong><a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" data-lasso-id="260494">Squier Classic Vibe Baritone Custom</a></strong>. It’s $399.99, so fairly approachable price-wise, it has that classic Tele styling, and it runs dual Fender Designed Alnico Single-Coil pickups. </p>
+<p>But I am absolutely smitten with <strong><a href="/squier-baritone-telecaster-custom-review/" data-type="post" data-id="9377" data-lasso-id="260494">Squier Classic Vibe Baritone Custom</a></strong>. It’s $399.99, so fairly approachable price-wise, it has that classic Tele styling, and it runs dual Fender Designed Alnico Single-Coil pickups. </p>
 
 
 
@@ -285,7 +285,7 @@ seo:
 
 
 
-<p>Need more information on Squier? Check out our <strong><a href="https://www.electrikjam.com/guitar-brands/squier-electric-guitars/" data-type="guitar-brands" data-id="14164" data-lasso-id="260495">dedicated Squier Electric Guitar brand page</a></strong> – it covers literally everything you need to know. </p>
+<p>Need more information on Squier? Check out our <strong><a href="/guitar-brands/squier-electric-guitars/" data-type="guitar-brands" data-id="14164" data-lasso-id="260495">dedicated Squier Electric Guitar brand page</a></strong> – it covers literally everything you need to know. </p>
 
 
 

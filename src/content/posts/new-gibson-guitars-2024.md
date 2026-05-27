@@ -184,11 +184,11 @@ seo:
 
 
 
-<p>And the Gibson Les Paul Modern Lite in Pelham Blue, one of my own personal favorite hues for a guitar. This model is also the cheapest of the range with <strong><a href="https://www.electrikjam.com/gibson-les-paul-modern-lite-electric-guitar-cardinal-red-satin-guitar-center/" data-type="lasso-urls" data-id="14203" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260547" data-lasso-name="Gibson Les Paul Modern Lite">prices starting at $1449 / £1449. </a></strong></p>
+<p>And the Gibson Les Paul Modern Lite in Pelham Blue, one of my own personal favorite hues for a guitar. This model is also the cheapest of the range with <strong><a href="/gibson-les-paul-modern-lite-electric-guitar-cardinal-red-satin-guitar-center/" data-type="lasso-urls" data-id="14203" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260547" data-lasso-name="Gibson Les Paul Modern Lite">prices starting at $1449 / £1449. </a></strong></p>
 
 
 
-<p>It’s still pricey, but that’s just the way Gibson roles –&nbsp;if you want or need something cheaper, my advice would be to <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="260548">pick up one of these Epiphone Les Paul models</a></strong> –&nbsp;they&#8217;re monstrously good.&nbsp;</p>
+<p>It’s still pricey, but that’s just the way Gibson roles –&nbsp;if you want or need something cheaper, my advice would be to <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="260548">pick up one of these Epiphone Les Paul models</a></strong> –&nbsp;they&#8217;re monstrously good.&nbsp;</p>
 
 
 

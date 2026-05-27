@@ -47,11 +47,11 @@ seo:
 
 
 
-<p>HX Edit is used to program your <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener" data-lasso-id="18641"><strong>Helix</strong>,</a> <a href="https://www.electrikjam.com/line-6-helix-lt-reviews/" target="_blank" data-type="post" data-id="4472" rel="noopener" data-lasso-id="18642"><strong>Helix LT</strong></a>, or<a href="https://www.electrikjam.com/line-6-pod-go-reviews/" target="_blank" data-type="post" data-id="4469" rel="noopener" data-lasso-id="18643"><strong> Pod GO</strong></a> units. Now, of course you can program these units with the onboard screen and knobs. But if you plug the unit up via USB, you can change your patches around in real time with HX Edit on your computer. This can be a huge advantage if you are recording. You can bring up the editor right in your DAW. </p>
+<p>HX Edit is used to program your <a href="/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener" data-lasso-id="18641"><strong>Helix</strong>,</a> <a href="/line-6-helix-lt-reviews/" target="_blank" data-type="post" data-id="4472" rel="noopener" data-lasso-id="18642"><strong>Helix LT</strong></a>, or<a href="/line-6-pod-go-reviews/" target="_blank" data-type="post" data-id="4469" rel="noopener" data-lasso-id="18643"><strong> Pod GO</strong></a> units. Now, of course you can program these units with the onboard screen and knobs. But if you plug the unit up via USB, you can change your patches around in real time with HX Edit on your computer. This can be a huge advantage if you are recording. You can bring up the editor right in your DAW. </p>
 
 
 
-<p>The <a class="wpil_keyword_link" href="https://www.electrikjam.com/line-6/" title="Line 6" data-wpil-keyword-link="linked" data-lasso-id="18647">Line 6</a> edit functions are much more intuitive than you think, and today we are going to walk you through how I build a patch myself! I have had my fair share of problems with <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="18644"><strong>Amp Sims</strong>.</a> My problem was that there are too many options. But if you go into the edit process with a specific intention, it makes things much easier!</p>
+<p>The <a class="wpil_keyword_link" href="/line-6/" title="Line 6" data-wpil-keyword-link="linked" data-lasso-id="18647">Line 6</a> edit functions are much more intuitive than you think, and today we are going to walk you through how I build a patch myself! I have had my fair share of problems with <a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="18644"><strong>Amp Sims</strong>.</a> My problem was that there are too many options. But if you go into the edit process with a specific intention, it makes things much easier!</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong><a href="https://www.electrikjam.com/line-6-3-50-update-explained/" target="_blank" rel="noopener" data-lasso-id="197574">Line 6 3.50 Update Explained: All You Need To Know!</a></strong></p>
+<p class="has-text-align-center"><strong><a href="/line-6-3-50-update-explained/" target="_blank" rel="noopener" data-lasso-id="197574">Line 6 3.50 Update Explained: All You Need To Know!</a></strong></p>
 
 
 
@@ -147,11 +147,11 @@ seo:
 
 
 
-<p>An impulse response (or IR) is a <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140955">recorded measurement of the sound and tones</a> of a speaker, room, or microphone in relation to a sound source. So this can be any type of cabinet. This is the final touch to building your patch, usually. Just like real speaker cabinets, you can choose:</p>
+<p>An impulse response (or IR) is a <a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140955">recorded measurement of the sound and tones</a> of a speaker, room, or microphone in relation to a sound source. So this can be any type of cabinet. This is the final touch to building your patch, usually. Just like real speaker cabinets, you can choose:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>1X12</strong></li><li><strong>1X15</strong></li><li><strong>2X12</strong></li><li><strong>2X15</strong></li><li><strong>4X12</strong></li><li><strong>4X15</strong></li><li><strong>Full Range, or <a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-lasso-id="77729">FRFR Cabinet</a> </strong></li></ul>
+<ul class="wp-block-list"><li><strong>1X12</strong></li><li><strong>1X15</strong></li><li><strong>2X12</strong></li><li><strong>2X15</strong></li><li><strong>4X12</strong></li><li><strong>4X15</strong></li><li><strong>Full Range, or <a href="/best-frfr-guitar-speaker-under-300/" data-lasso-id="77729">FRFR Cabinet</a> </strong></li></ul>
 
 
 

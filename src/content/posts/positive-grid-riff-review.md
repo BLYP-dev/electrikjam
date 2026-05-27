@@ -43,15 +43,15 @@ seo:
 
 
 
-<p>I have a good friend that recently decided to set up his home computer to record using <strong><a data-lasso-id="120834" href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener">amp sims</a>,</strong> and a <a data-lasso-id="120835" href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener"><strong>simple interface</strong></a>. Now I have been recording for 20 something years, both analog and digital. So I think I really took for granted how much knowledge I have. Because what I thought was super easy&#8230;my friend was<em> totally lost </em>when it came to home recording. So there has to be an easy way to get set up and recording guitar, right?</p>
+<p>I have a good friend that recently decided to set up his home computer to record using <strong><a data-lasso-id="120834" href="/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener">amp sims</a>,</strong> and a <a data-lasso-id="120835" href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener"><strong>simple interface</strong></a>. Now I have been recording for 20 something years, both analog and digital. So I think I really took for granted how much knowledge I have. Because what I thought was super easy&#8230;my friend was<em> totally lost </em>when it came to home recording. So there has to be an easy way to get set up and recording guitar, right?</p>
 
 
 
-<p>Positive Grid had a pretty big hit with the<a data-lasso-id="120836" href="https://www.electrikjam.com/is-spark-amp-worth-it/" data-type="post" data-id="1924" target="_blank" rel="noopener"> <strong>Spark Amp</strong></a>. We had a great time trying out the Spark Amp, and the only problem I had with it was how much bass it was capable of producing. I found a solution to that with EQ, but overall the<a data-lasso-id="120837" href="https://www.electrikjam.com/spark-amp-amp-list/" data-type="post" data-id="7858" target="_blank" rel="noopener"> <strong>Spark Amp</strong></a> had a little bit of everything. Positive Grid definitely nailed the perfect beginner&#8217;s amp, and The Spark could be as complex or easy as you wanted. After i dialed out the annoying bass, it sounded great for a practice amp.</p>
+<p>Positive Grid had a pretty big hit with the<a data-lasso-id="120836" href="/is-spark-amp-worth-it/" data-type="post" data-id="1924" target="_blank" rel="noopener"> <strong>Spark Amp</strong></a>. We had a great time trying out the Spark Amp, and the only problem I had with it was how much bass it was capable of producing. I found a solution to that with EQ, but overall the<a data-lasso-id="120837" href="/spark-amp-amp-list/" data-type="post" data-id="7858" target="_blank" rel="noopener"> <strong>Spark Amp</strong></a> had a little bit of everything. Positive Grid definitely nailed the perfect beginner&#8217;s amp, and The Spark could be as complex or easy as you wanted. After i dialed out the annoying bass, it sounded great for a practice amp.</p>
 
 
 
-<p>Positive Grid got its start from making <a data-lasso-id="120838" href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" target="_blank" rel="noopener"><strong>Bias FX</strong></a>, which allows you to do all kinds of stuff when it comes to <strong>amp simulation</strong>. It not only has tons of amps and pedals to choose from, but it also has great speaker choices for impulse responses. But the most impressive thing it does is the &#8220;guitar modeling&#8221; feature called <strong>Guitar Match</strong>. You can make your guitar sound like a Strat, <a data-lasso-id="120839" href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener"><strong>Les Paul</strong></a>, or so many other choices. This was groundbreaking, and Bias FX is used all over the world in bedrooms <em>and</em> studios.</p>
+<p>Positive Grid got its start from making <a data-lasso-id="120838" href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" target="_blank" rel="noopener"><strong>Bias FX</strong></a>, which allows you to do all kinds of stuff when it comes to <strong>amp simulation</strong>. It not only has tons of amps and pedals to choose from, but it also has great speaker choices for impulse responses. But the most impressive thing it does is the &#8220;guitar modeling&#8221; feature called <strong>Guitar Match</strong>. You can make your guitar sound like a Strat, <a data-lasso-id="120839" href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener"><strong>Les Paul</strong></a>, or so many other choices. This was groundbreaking, and Bias FX is used all over the world in bedrooms <em>and</em> studios.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>All in all, the RIFF checks all of the boxes to not only <strong>start recording</strong> but to also do some serious production later on. It is clearly designed to &#8220;grow&#8221; with you as you learn more about recording. It also works with every DAW that I have at my disposal, including <a data-lasso-id="120842" href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener"><strong>REAPER</strong></a>. But if you have no experience with a DAW, it comes with <strong>PreSonus Studio One </strong><a href="https://www.electrikjam.com/headrush-prime-first-look/" data-lasso-id="220104">Prime recording</a> software. This is pretty basic DAW software, but it will get you recording in no time!</p>
+<p>All in all, the RIFF checks all of the boxes to not only <strong>start recording</strong> but to also do some serious production later on. It is clearly designed to &#8220;grow&#8221; with you as you learn more about recording. It also works with every DAW that I have at my disposal, including <a data-lasso-id="120842" href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener"><strong>REAPER</strong></a>. But if you have no experience with a DAW, it comes with <strong>PreSonus Studio One </strong><a href="/headrush-prime-first-look/" data-lasso-id="220104">Prime recording</a> software. This is pretty basic DAW software, but it will get you recording in no time!</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>Again, the Lite Package is everything you need to get going. This is basically just paying for the interface, with a limited version of Bias FX 2. But for only <a data-lasso-id="120843" data-lasso-name="Positive Grid RIFF Package" href="https://www.electrikjam.com/sjv-4/" data-type="lasso-urls" data-id="8088" target="_blank" rel="nofollow sponsored noopener"><strong>$99</strong></a>, this is one of the cheapest interfaces on the market, period. Not to mention that it is small and portable, so you can take it just about anywhere. This is the perfect option for experienced players that already have a DAW that they prefer.</p>
+<p>Again, the Lite Package is everything you need to get going. This is basically just paying for the interface, with a limited version of Bias FX 2. But for only <a data-lasso-id="120843" data-lasso-name="Positive Grid RIFF Package" href="/sjv-4/" data-type="lasso-urls" data-id="8088" target="_blank" rel="nofollow sponsored noopener"><strong>$99</strong></a>, this is one of the cheapest interfaces on the market, period. Not to mention that it is small and portable, so you can take it just about anywhere. This is the perfect option for experienced players that already have a DAW that they prefer.</p>
 
 
 
@@ -253,7 +253,7 @@ seo:
 
 
 
-<p>So I whole heartedly recommend Positive Grid RIFF for beginner guitarists,<strong> or</strong> intermediate guitarists. You have everything you need to learn about tones, and even dissect songs. But I also can say that RIFF is great for guitarists on a budget that want an interface to <em>start recording</em>. You can get the RIFF device and then use any <a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="120925"><strong>free amp sims </strong></a>to craft your own songs. RIFF is totally versatile for every guitarist.</p>
+<p>So I whole heartedly recommend Positive Grid RIFF for beginner guitarists,<strong> or</strong> intermediate guitarists. You have everything you need to learn about tones, and even dissect songs. But I also can say that RIFF is great for guitarists on a budget that want an interface to <em>start recording</em>. You can get the RIFF device and then use any <a href="/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="120925"><strong>free amp sims </strong></a>to craft your own songs. RIFF is totally versatile for every guitarist.</p>
 
 
 
@@ -278,7 +278,7 @@ seo:
 <h3 class="rank-math-question ">Is the Positive Grid RIFF a real recording interface?</h3>
 <div class="rank-math-answer ">
 
-<p>While the Positive Grid RIFF works specifically well with Bias FX 2, it can also be used in &#8220;direct&#8221; mode as a zero latency recording interface. It works with most DAW programs, including <a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" target="_blank" data-type="post" data-id="7991" rel="noreferrer noopener"><strong>REAPER</strong></a>.</p>
+<p>While the Positive Grid RIFF works specifically well with Bias FX 2, it can also be used in &#8220;direct&#8221; mode as a zero latency recording interface. It works with most DAW programs, including <a href="/getting-started-with-reaper-daw/" target="_blank" data-type="post" data-id="7991" rel="noreferrer noopener"><strong>REAPER</strong></a>.</p>
 
 </div>
 </div>

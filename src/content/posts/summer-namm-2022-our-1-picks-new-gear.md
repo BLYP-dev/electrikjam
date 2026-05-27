@@ -61,7 +61,7 @@ seo:
 
 
 
-<p><strong>Something that irked me about the Summer NAMM 2022 show, that usually wouldn&#8217;t bother me, but I wanted to note it: Almost everything at the show was an &#8220;Artist Model&#8221; or Signature Model.</strong> I don&#8217;t have a problem with this really, but it is <em>overwhelmingly obvious </em>this year. Maybe guitar companies are chasing the success that<strong> PRS</strong> had with the <a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" target="_blank" data-type="post" data-id="6543" rel="noopener" data-lasso-id="128850"><strong>Silver Sky</strong></a>?</p>
+<p><strong>Something that irked me about the Summer NAMM 2022 show, that usually wouldn&#8217;t bother me, but I wanted to note it: Almost everything at the show was an &#8220;Artist Model&#8221; or Signature Model.</strong> I don&#8217;t have a problem with this really, but it is <em>overwhelmingly obvious </em>this year. Maybe guitar companies are chasing the success that<strong> PRS</strong> had with the <a href="/prs-se-silver-sky-review-2022/" target="_blank" data-type="post" data-id="6543" rel="noopener" data-lasso-id="128850"><strong>Silver Sky</strong></a>?</p>
 
 
 
@@ -85,7 +85,7 @@ seo:
 
 
 
-<p>This was one that we all saw coming from a mile away, but it is hard not to be excited about any new <strong><a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="128679">Schecter</a> </strong>guitar. There has been a much more expensive USA version of the Schecter NJ PT for a while now, so it was only logical that we eventually get a Diamond Series release. If you love the other <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="128680"><strong>Schecter Nick Johnston Signature</strong></a> as much as I do, you&#8217;re going to be blown away by this axe.</p>
+<p>This was one that we all saw coming from a mile away, but it is hard not to be excited about any new <strong><a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="128679">Schecter</a> </strong>guitar. There has been a much more expensive USA version of the Schecter NJ PT for a while now, so it was only logical that we eventually get a Diamond Series release. If you love the other <a href="/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="128680"><strong>Schecter Nick Johnston Signature</strong></a> as much as I do, you&#8217;re going to be blown away by this axe.</p>
 
 
 
@@ -93,7 +93,7 @@ seo:
 
 
 
-<p>The new <a href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-lasso-id="131019">Schecter Nick Johnston PT</a> is no different, and it even features the same design features as the &#8220;Strat&#8221; version. This model has been teased for a few months<em> before </em>NAMM 2022, so we knew it was coming. I got to play one, and I will have a review up ASAP. But until then, the features really speak for themselves:</p>
+<p>The new <a href="/schecter-nick-johnston-pt-2022/" data-lasso-id="131019">Schecter Nick Johnston PT</a> is no different, and it even features the same design features as the &#8220;Strat&#8221; version. This model has been teased for a few months<em> before </em>NAMM 2022, so we knew it was coming. I got to play one, and I will have a review up ASAP. But until then, the features really speak for themselves:</p>
 
 
 
@@ -117,19 +117,19 @@ seo:
 
 
 
-<p>We have had a LOT of fun over the last year with the <a data-lasso-id="128681" href="https://www.electrikjam.com/is-spark-amp-worth-it/" data-type="post" data-id="1924" target="_blank" rel="noopener"><strong>Positive Grid Spark Amp</strong></a>, and it looks like this year we get to have all of the same features in a <em>much</em> smaller package. Positive Grid must have kept a tight lid on the <strong>Spark MINI </strong>because no one knew it was coming until NAMM 2022! But it is a welcome surprise, especially if you&#8217;re <strong>new</strong> to Positive Grid!</p>
+<p>We have had a LOT of fun over the last year with the <a data-lasso-id="128681" href="/is-spark-amp-worth-it/" data-type="post" data-id="1924" target="_blank" rel="noopener"><strong>Positive Grid Spark Amp</strong></a>, and it looks like this year we get to have all of the same features in a <em>much</em> smaller package. Positive Grid must have kept a tight lid on the <strong>Spark MINI </strong>because no one knew it was coming until NAMM 2022! But it is a welcome surprise, especially if you&#8217;re <strong>new</strong> to Positive Grid!</p>
 
 
 
-<p>Over the Winter NAMM 2022, we saw Positive Grid upgrade everything for the release of the new <a href="https://www.electrikjam.com/positive-grid-riff-review/" data-type="post" data-id="8083" target="_blank" rel="noopener" data-lasso-id="128682"><strong>RIFF</strong></a> device. The good news, is that the Spark MINI also has some overhauls that make a huge difference in the way you may look at a &#8220;<a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" target="_blank" rel="noopener" data-lasso-id="128683"><strong>practice amp</strong></a>&#8220;. This is far from being your typical mini-style amp on so many levels! The best part, is the Spark MINI can <em>fit in the palm of your hand</em>!</p>
+<p>Over the Winter NAMM 2022, we saw Positive Grid upgrade everything for the release of the new <a href="/positive-grid-riff-review/" data-type="post" data-id="8083" target="_blank" rel="noopener" data-lasso-id="128682"><strong>RIFF</strong></a> device. The good news, is that the Spark MINI also has some overhauls that make a huge difference in the way you may look at a &#8220;<a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" target="_blank" rel="noopener" data-lasso-id="128683"><strong>practice amp</strong></a>&#8220;. This is far from being your typical mini-style amp on so many levels! The best part, is the Spark MINI can <em>fit in the palm of your hand</em>!</p>
 
 
 
-<p>The <strong><a data-lasso-id="128684" href="https://youtu.be/tQp9fFeMa1U" target="_blank" rel="noopener noreferrer nofollow">Smart Jam</a></strong> Feature is one of the coolest things I have experienced in <em>a while</em>. Now&#8230; while it had a<em> few</em> bugs when it first came out, Smart Jam has been updated and it is way more responsive! You play <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196551">8 bars of chords</a>, and it automatically creates a backing track (with drums and bass) for you to jam along to. The updated Smart Jam gets the &#8220;feel&#8221; a little bit better than before. Overall, it just works a whole lot better than before, so if you were let down, try out the update!</p>
+<p>The <strong><a data-lasso-id="128684" href="https://youtu.be/tQp9fFeMa1U" target="_blank" rel="noopener noreferrer nofollow">Smart Jam</a></strong> Feature is one of the coolest things I have experienced in <em>a while</em>. Now&#8230; while it had a<em> few</em> bugs when it first came out, Smart Jam has been updated and it is way more responsive! You play <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196551">8 bars of chords</a>, and it automatically creates a backing track (with drums and bass) for you to jam along to. The updated Smart Jam gets the &#8220;feel&#8221; a little bit better than before. Overall, it just works a whole lot better than before, so if you were let down, try out the update!</p>
 
 
 
-<p>That being said, it still has the same <a data-lasso-id="128685" href="https://www.electrikjam.com/positive-grid-riff-review/" data-type="post" data-id="8083" target="_blank" rel="noopener"><strong>Auto Chord</strong></a> function that we have went over in depth with before. It also has tons of other backing tracks that you can use, and thousands of tones to download. It does everything that the original Spark Amp does, just in a smaller package! The Spark MINI is also <strong>battery</strong> powered, and the battery life is<strong> INSANE</strong>. You get a full day out of a charge, with moderate use.</p>
+<p>That being said, it still has the same <a data-lasso-id="128685" href="/positive-grid-riff-review/" data-type="post" data-id="8083" target="_blank" rel="noopener"><strong>Auto Chord</strong></a> function that we have went over in depth with before. It also has tons of other backing tracks that you can use, and thousands of tones to download. It does everything that the original Spark Amp does, just in a smaller package! The Spark MINI is also <strong>battery</strong> powered, and the battery life is<strong> INSANE</strong>. You get a full day out of a charge, with moderate use.</p>
 
 
 
@@ -157,7 +157,7 @@ seo:
 
 
 
-<p>The new HT Pickups are made with &#8220;Heat Treated&#8221; technology. There is a Mini Humbucker in the neck, and a full size Humbucker in the bridge. Apparently, this makes the pickup have a more clear sound. The bridge pickup is similar to the <a href="https://www.electrikjam.com/p90-pickups-guide/" data-lasso-id="145604">Mariposa models, and is a narrow field almost P90 pickup</a>. While the bridge is voiced for clear clean tones, it is also optimized for heavy distortion. The HT pickups are apparently the best of<strong> ALL</strong> worlds.</p>
+<p>The new HT Pickups are made with &#8220;Heat Treated&#8221; technology. There is a Mini Humbucker in the neck, and a full size Humbucker in the bridge. Apparently, this makes the pickup have a more clear sound. The bridge pickup is similar to the <a href="/p90-pickups-guide/" data-lasso-id="145604">Mariposa models, and is a narrow field almost P90 pickup</a>. While the bridge is voiced for clear clean tones, it is also optimized for heavy distortion. The HT pickups are apparently the best of<strong> ALL</strong> worlds.</p>
 
 
 
@@ -189,7 +189,7 @@ seo:
 
 
 
-<p>Two Notes is a company that is no stranger to doing <a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="128806"><strong>amp sims</strong></a> and cabinet effects for your studio. But this time, we have something that is not only a piece of physical hardware, but it is<strong> completely analog</strong>. Two Notes dropped the REVOLT on us at Summer NAMM 2022 and we had no idea that it was coming. This is an amazing new pedal that can do a lot, and maybe replace your amp setup if you have an <a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" target="_blank" data-type="post" data-id="6902" rel="noopener" data-lasso-id="128807"><strong>FRFR speaker.</strong></a></p>
+<p>Two Notes is a company that is no stranger to doing <a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="128806"><strong>amp sims</strong></a> and cabinet effects for your studio. But this time, we have something that is not only a piece of physical hardware, but it is<strong> completely analog</strong>. Two Notes dropped the REVOLT on us at Summer NAMM 2022 and we had no idea that it was coming. This is an amazing new pedal that can do a lot, and maybe replace your amp setup if you have an <a href="/best-frfr-guitar-speaker-under-300/" target="_blank" data-type="post" data-id="6902" rel="noopener" data-lasso-id="128807"><strong>FRFR speaker.</strong></a></p>
 
 
 
@@ -225,11 +225,11 @@ seo:
 
 
 
-<p>As much as I would love to talk about every single one of these models, I honestly can&#8217;t go through all of them. These aren&#8217;t really &#8220;<strong><em>NEW</em></strong>&#8221; per se, but they are<em> new takes</em> on existing signature models. These are all really cool designs that have been &#8220;refreshed&#8221; for Summer NAMM 2022. The most obvious one is the new <a href="https://www.electrikjam.com/the-ibanez-jem-777/" target="_blank" data-type="post" data-id="7392" rel="noopener" data-lasso-id="128808"><strong>Steve Vai</strong> </a><a href="https://www.electrikjam.com/guitar-center-pxf-io-vnxavo/" target="_blank" data-type="lasso-urls" data-id="5339" rel="nofollow noopener" data-lasso-id="128809" data-lasso-name="Ibanez PIA3761"><strong>PIA</strong></a>, which is now available in Baby Blue.</p>
+<p>As much as I would love to talk about every single one of these models, I honestly can&#8217;t go through all of them. These aren&#8217;t really &#8220;<strong><em>NEW</em></strong>&#8221; per se, but they are<em> new takes</em> on existing signature models. These are all really cool designs that have been &#8220;refreshed&#8221; for Summer NAMM 2022. The most obvious one is the new <a href="/the-ibanez-jem-777/" target="_blank" data-type="post" data-id="7392" rel="noopener" data-lasso-id="128808"><strong>Steve Vai</strong> </a><a href="/guitar-center-pxf-io-vnxavo/" target="_blank" data-type="lasso-urls" data-id="5339" rel="nofollow noopener" data-lasso-id="128809" data-lasso-name="Ibanez PIA3761"><strong>PIA</strong></a>, which is now available in Baby Blue.</p>
 
 
 
-<p>But you also see models from <strong>Nita Strauss</strong>, <strong>Tom Quayle</strong>, <strong><a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218838">Jake</strong> from <strong>Periphery</strong></a>, and of course the big golden elephant in the picture&#8230;<strong>Joe Satriani</strong>. These are all very cool guitars that we are familiar with, and it is neat to see them in new colors. Ibanez is just expanding the Signature lineup a little this year, and I think that&#8217;s pretty cool. There is just too much to cover with all of these! If you are already familiar with these models, most are just aesthetic changes.</p>
+<p>But you also see models from <strong>Nita Strauss</strong>, <strong>Tom Quayle</strong>, <strong><a href="/periphery-djent-is-not-a-genre-album-review/" data-lasso-id="218838">Jake</strong> from <strong>Periphery</strong></a>, and of course the big golden elephant in the picture&#8230;<strong>Joe Satriani</strong>. These are all very cool guitars that we are familiar with, and it is neat to see them in new colors. Ibanez is just expanding the Signature lineup a little this year, and I think that&#8217;s pretty cool. There is just too much to cover with all of these! If you are already familiar with these models, most are just aesthetic changes.</p>
 
 
 
@@ -253,15 +253,15 @@ seo:
 
 
 
-<p>The Soldano SLO Mini is a 30 watt powerhouse that has all of the original tones that made the big boy famous, just in a much smaller package. The<strong> <a data-lasso-id="128810" href="https://www.electrikjam.com/best-lunchbox-amps/" data-type="post" data-id="1455" target="_blank" rel="noopener">Lunchbox Amp</a> </strong>craze is far from over, and I see plenty of these types of amps at gigs all the time. I had a great time with the JOYO amps I have tried, and the Soldano is a step above those for sure!</p>
+<p>The Soldano SLO Mini is a 30 watt powerhouse that has all of the original tones that made the big boy famous, just in a much smaller package. The<strong> <a data-lasso-id="128810" href="/best-lunchbox-amps/" data-type="post" data-id="1455" target="_blank" rel="noopener">Lunchbox Amp</a> </strong>craze is far from over, and I see plenty of these types of amps at gigs all the time. I had a great time with the JOYO amps I have tried, and the Soldano is a step above those for sure!</p>
 
 
 
-<p>Basically, this is a lot like most affordable mini amps. They took an SLO emulator, and made it solid state with a class D power design. <a href="https://www.electrikjam.com/new-joyo-bantamp-models-for-2022/" target="_blank" data-type="post" data-id="6997" rel="noopener" data-lasso-id="128851"><strong>JOYO</strong></a> does this, and I think that&#8217;s why the <a href="https://www.electrikjam.com/new-joyo-bantamp-models-for-2022/" target="_blank" data-type="post" data-id="6997" rel="noopener" data-lasso-id="128852"><strong>Bantamp</strong></a> series sells so well. This might sound like a bad thing to some people, but it actually sounds great hooked up to a 1X12 cab.<strong> <a href="https://youtu.be/YMtceGgh1CU" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="128853">Phillip McKnight</a> </strong>did a test, and he absolutely loved it, both in the room and recording!</p>
+<p>Basically, this is a lot like most affordable mini amps. They took an SLO emulator, and made it solid state with a class D power design. <a href="/new-joyo-bantamp-models-for-2022/" target="_blank" data-type="post" data-id="6997" rel="noopener" data-lasso-id="128851"><strong>JOYO</strong></a> does this, and I think that&#8217;s why the <a href="/new-joyo-bantamp-models-for-2022/" target="_blank" data-type="post" data-id="6997" rel="noopener" data-lasso-id="128852"><strong>Bantamp</strong></a> series sells so well. This might sound like a bad thing to some people, but it actually sounds great hooked up to a 1X12 cab.<strong> <a href="https://youtu.be/YMtceGgh1CU" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="128853">Phillip McKnight</a> </strong>did a test, and he absolutely loved it, both in the room and recording!</p>
 
 
 
-<p>So while it might not be the huge stack that I always wanted back in the day, the SLO Mini might fill a gap for me and thousands of of other guitarists! The best thing about this little guy, is the price. Considering this is less money than a <a data-lasso-id="128811" data-lasso-name="BOSS Katana 100 MKII" href="https://www.electrikjam.com/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener"><strong>BOSS Katana</strong></a>, it may be hard to believe! I&#8217;m coming for you, <strong>David Gilmour</strong>, and I have the tone!</p>
+<p>So while it might not be the huge stack that I always wanted back in the day, the SLO Mini might fill a gap for me and thousands of of other guitarists! The best thing about this little guy, is the price. Considering this is less money than a <a data-lasso-id="128811" data-lasso-name="BOSS Katana 100 MKII" href="/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener"><strong>BOSS Katana</strong></a>, it may be hard to believe! I&#8217;m coming for you, <strong>David Gilmour</strong>, and I have the tone!</p>
 
 
 

@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>Jimmy Page is one of the greatest guitarists to ever walk the earth, and over the years Mr. Page used an array of alternate <a href="https://www.electrikjam.com/guitar-tuning/" data-lasso-id="1706">guitar tunings </a>on Led Zeppelin records. Here&#8217;s a complete list of ALL OF THEM&#8230;</strong></p>
+<p><strong>Jimmy Page is one of the greatest guitarists to ever walk the earth, and over the years Mr. Page used an array of alternate <a href="/guitar-tuning/" data-lasso-id="1706">guitar tunings </a>on Led Zeppelin records. Here&#8217;s a complete list of ALL OF THEM&#8230;</strong></p>
 
 
 
@@ -51,19 +51,19 @@ seo:
 
 
 
-<p>Over the years, from its first album, <strong><em>Led Zeppelin, to Led Zeppelin II, Led Zeppelin III, IV, and Physical Graffiti, Houses of The Holy and Presence</em></strong>, Jimmy Page used a wide range of <strong><a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" class="rank-math-link" data-lasso-id="1413">alternative tunings.</a></strong></p>
+<p>Over the years, from its first album, <strong><em>Led Zeppelin, to Led Zeppelin II, Led Zeppelin III, IV, and Physical Graffiti, Houses of The Holy and Presence</em></strong>, Jimmy Page used a wide range of <strong><a href="/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" class="rank-math-link" data-lasso-id="1413">alternative tunings.</a></strong></p>
 
 
 
-<p>Most of Led Zeppelin’s classic songs –&nbsp;<strong><em>Whole Lotta Love, Black Dog, Rock &amp; Roll, Stairway To Heaven</em></strong> –&nbsp;are in <strong><a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" class="rank-math-link" data-lasso-id="1414">standard tuning</a></strong>. </p>
+<p>Most of Led Zeppelin’s classic songs –&nbsp;<strong><em>Whole Lotta Love, Black Dog, Rock &amp; Roll, Stairway To Heaven</em></strong> –&nbsp;are in <strong><a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" class="rank-math-link" data-lasso-id="1414">standard tuning</a></strong>. </p>
 
 
 
-<p>But Page liked to experiment with <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1415">alternate tunings</a> too.</p>
+<p>But Page liked to experiment with <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1415">alternate tunings</a> too.</p>
 
 
 
-<p>Here’s a complete list of ALL the alternative tunings used by <a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-lasso-id="1416">Jimmy Page:</a></p>
+<p>Here’s a complete list of ALL the alternative tunings used by <a href="/jimmy-page-favorite-guitar/" data-lasso-id="1416">Jimmy Page:</a></p>
 
 
 
@@ -109,7 +109,7 @@ seo:
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Jimmy Page | Full Address and Q&amp;A at The Oxford Union" width="500" height="281" src="https://www.youtube.com/embed/vVi6rMo2Ppo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div><figcaption>Jimmy Page on <a href="https://www.electrikjam.com/the-forbidden-riff/" data-lasso-id="86009">Led Zeppelin&#8217;s History</a>, Roots &amp; Influences</figcaption></figure>
+</div><figcaption>Jimmy Page on <a href="/the-forbidden-riff/" data-lasso-id="86009">Led Zeppelin&#8217;s History</a>, Roots &amp; Influences</figcaption></figure>
 
 
 
@@ -141,5 +141,5 @@ seo:
 
 
 
-<p><strong>Next Up: <a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" class="rank-math-link" data-lasso-id="1417">Metallica&#8217;s Guitar Tunings Over The Years&#8230;</a></strong></p>
+<p><strong>Next Up: <a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" class="rank-math-link" data-lasso-id="1417">Metallica&#8217;s Guitar Tunings Over The Years&#8230;</a></strong></p>
 

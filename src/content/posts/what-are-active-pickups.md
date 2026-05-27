@@ -36,15 +36,15 @@ seo:
 
 
 
-<p>There are tons of <strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="8217">different types of pickups</a></strong> out there. There are all kinds of different models, price points, and companies. The truth is, they all <em>definitely</em> make different sounds, and you want to make sure that your pickups are suited for whatever sound you are going for. Some people will tell you that pickups aren&#8217;t <em>that</em> important to your tone, but I tend to disagree.</p>
+<p>There are tons of <strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="8217">different types of pickups</a></strong> out there. There are all kinds of different models, price points, and companies. The truth is, they all <em>definitely</em> make different sounds, and you want to make sure that your pickups are suited for whatever sound you are going for. Some people will tell you that pickups aren&#8217;t <em>that</em> important to your tone, but I tend to disagree.</p>
 
 
 
-<p>For example, I probably wouldn&#8217;t choose <a data-lasso-id="8157" href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener"><strong>Fishman Fluence Modern</strong></a> pickups to play Country music. Sure, you could technically use them for anything you want, but almost every pickup has a specific use and function. For example, Fishman Fluence Modern are ceramic-based pickups made for handling distortion, making them <em>not </em>the first choice for Country guitar playing.</p>
+<p>For example, I probably wouldn&#8217;t choose <a data-lasso-id="8157" href="/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener"><strong>Fishman Fluence Modern</strong></a> pickups to play Country music. Sure, you could technically use them for anything you want, but almost every pickup has a specific use and function. For example, Fishman Fluence Modern are ceramic-based pickups made for handling distortion, making them <em>not </em>the first choice for Country guitar playing.</p>
 
 
 
-<p>Active pickups have become synonymous with metal these days, and I can see why they are chosen over passive pickups. Companies like EMG and <strong><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="8158">Seymour Duncan</a> </strong>have tailored the design of their active pickup towards Metal, and Hard Rock. Even though, active pickups were originally made for&#8230;believe it or not, <em>JAZZ</em>! There were also used for acoustic guitars too!</p>
+<p>Active pickups have become synonymous with metal these days, and I can see why they are chosen over passive pickups. Companies like EMG and <strong><a href="/seymour-duncan-jb-reviews/" target="_blank" data-type="post" data-id="4673" rel="noopener" data-lasso-id="8158">Seymour Duncan</a> </strong>have tailored the design of their active pickup towards Metal, and Hard Rock. Even though, active pickups were originally made for&#8230;believe it or not, <em>JAZZ</em>! There were also used for acoustic guitars too!</p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="656" src="/wp-content/uploads/2021/09/Seymour-Duncan-BLACKOUTS-Pickups-1024x656.png" alt="Seymour Duncan BLACKOUTS Pickups" class="wp-image-4638" title=""><figcaption><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11596">Seymour Duncan Blackout Active Pickup</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="656" src="/wp-content/uploads/2021/09/Seymour-Duncan-BLACKOUTS-Pickups-1024x656.png" alt="Seymour Duncan BLACKOUTS Pickups" class="wp-image-4638" title=""><figcaption><a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11596">Seymour Duncan Blackout Active Pickup</a></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<p>So basically, and active pickup can completely change the sound of your whole rig. Something like a <a href="https://www.electrikjam.com/what-is-a-trembucker/" data-lasso-id="11091">Seymour Duncan</a> Blackout hits the gain stage of your amp much harder than a passive pickup and causes it to distort smoother, and faster. I have used EMG for years, and I am used to having to turn the gain <em>way </em>down on my amp.</p>
+<p>So basically, and active pickup can completely change the sound of your whole rig. Something like a <a href="/what-is-a-trembucker/" data-lasso-id="11091">Seymour Duncan</a> Blackout hits the gain stage of your amp much harder than a passive pickup and causes it to distort smoother, and faster. I have used EMG for years, and I am used to having to turn the gain <em>way </em>down on my amp.</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<p>Whether you play a <a href="https://www.electrikjam.com/les-paul-prophecy-guitar-center/" target="_blank" data-type="lasso-urls" data-id="3897" rel="nofollow noopener" data-lasso-id="8160" data-lasso-name="Epiphone Les Paul Prophecy"><strong>Les Paul</strong></a>, or a Flying V&#8230; most actives are going to sound the same no matter what guitar you put them in. The preamp handles your tone, while passive pickups rely more on the <em>wood and construction</em> of a guitar to achieve a specific tone. I have had an EMG 81 pickups in 3 totally different types of guitars, and they all sound relatively the same. But this consistency can also seem like a disadvantage.</p>
+<p>Whether you play a <a href="/les-paul-prophecy-guitar-center/" target="_blank" data-type="lasso-urls" data-id="3897" rel="nofollow noopener" data-lasso-id="8160" data-lasso-name="Epiphone Les Paul Prophecy"><strong>Les Paul</strong></a>, or a Flying V&#8230; most actives are going to sound the same no matter what guitar you put them in. The preamp handles your tone, while passive pickups rely more on the <em>wood and construction</em> of a guitar to achieve a specific tone. I have had an EMG 81 pickups in 3 totally different types of guitars, and they all sound relatively the same. But this consistency can also seem like a disadvantage.</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p>People who have a lot of pedals, or need a lot of cable/lead on stage then active pickups are absolutely for you! The thing about having a long signal chain, is that your signal will definitely be affected in a negative way. You will lose &#8220;top end&#8221; in your overall sound, even if your pedals are &#8220;<a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" target="_blank" data-type="post" data-id="8983" rel="noopener" data-lasso-id="194022"><strong>true bypass</strong></a>&#8220;.</p>
+<p>People who have a lot of pedals, or need a lot of cable/lead on stage then active pickups are absolutely for you! The thing about having a long signal chain, is that your signal will definitely be affected in a negative way. You will lose &#8220;top end&#8221; in your overall sound, even if your pedals are &#8220;<a href="/the-top-7-electric-guitar-myths/" target="_blank" data-type="post" data-id="8983" rel="noopener" data-lasso-id="194022"><strong>true bypass</strong></a>&#8220;.</p>
 
 
 
@@ -149,7 +149,7 @@ seo:
 
 
 <div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="853" src="/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp" alt="Best Seymour Duncan Pickups For Metal" class="wp-image-4646 size-full" title="" srcset="/wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1024x853.webp 1024w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-600x500.webp 600w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-300x250.webp 300w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-768x640.webp 768w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal-1080x900.webp 1080w, /wp-content/uploads/2021/09/Best-Seymour-Duncan-Pickups-For-Metal.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="90442">Best Seymour Duncan Pickups For Metal</a></strong></h3>
+<h3 class="has-text-align-center has-text-color wp-block-heading" style="color:#000000"><strong><a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="90442">Best Seymour Duncan Pickups For Metal</a></strong></h3>
 
 
 
@@ -157,7 +157,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="90443">READ OUR TOP PICKS FOR 2021 ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="90443">READ OUR TOP PICKS FOR 2021 ↗</a></strong></p>
 </div></div>
 
 

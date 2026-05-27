@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Wylde graduated high school in 1985. His first band was called <strong><em>Stone Henge</em></strong>, a local Jersey band. He then formed another band called <strong><em>Zyris</em></strong>. His big break, however, came when he landed lead guitar in <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="1569">Ozzy Osbourne’s band</a></strong>, replacing Brad Gillis, who had previously replaced the legendary Randy Rhodes.</p>
+<p>Wylde graduated high school in 1985. His first band was called <strong><em>Stone Henge</em></strong>, a local Jersey band. He then formed another band called <strong><em>Zyris</em></strong>. His big break, however, came when he landed lead guitar in <strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="1569">Ozzy Osbourne’s band</a></strong>, replacing Brad Gillis, who had previously replaced the legendary Randy Rhodes.</p>
 
 
 
@@ -94,7 +94,7 @@ seo:
 		
 
 
-<p>Zakk Wylde is a very interesting guy. He’s a brilliant, creative guitarist. <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69756">He has amazing technique</a> and a killer ear for tone and melody, as well as a near-supernatural skill at creating crushing riffs. And he’s an actor and former alcoholic too, who describes himself as a &#8220;soldier of Christ&#8221;. </p>
+<p>Zakk Wylde is a very interesting guy. He’s a brilliant, creative guitarist. <a href="/guitar-muting-techniques/" data-lasso-id="69756">He has amazing technique</a> and a killer ear for tone and melody, as well as a near-supernatural skill at creating crushing riffs. And he’s an actor and former alcoholic too, who describes himself as a &#8220;soldier of Christ&#8221;. </p>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>“If I&#8217;m playing with Ozzy it&#8217;s just a <a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" data-lasso-id="48143">guitar thing.</a> But with the vocals I feel like I&#8217;m studying for the SATs.”</strong></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>“If I&#8217;m playing with Ozzy it&#8217;s just a <a href="/guitar-prices-going-up-in-2022/" data-lasso-id="48143">guitar thing.</a> But with the vocals I feel like I&#8217;m studying for the SATs.”</strong></p></blockquote>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>“Without a doubt, <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195323">Eddie Van Halen is the greatest guitar player</a> who has ever lived.” </strong></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>“Without a doubt, <a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195323">Eddie Van Halen is the greatest guitar player</a> who has ever lived.” </strong></p></blockquote>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<p>Zakk Wylde’s most iconic guitar is, of course, his <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="1570">Gibson Les Paul Custom</a></strong>, dubbed The Grail. If you’ve ever seen Zakk play, chances are he has The Grail strapped around his neck. You’ll know it&#8217;s The Grail because of its black and white bullseye paintwork.</p>
+<p>Zakk Wylde’s most iconic guitar is, of course, his <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="1570">Gibson Les Paul Custom</a></strong>, dubbed The Grail. If you’ve ever seen Zakk play, chances are he has The Grail strapped around his neck. You’ll know it&#8217;s The Grail because of its black and white bullseye paintwork.</p>
 
 
 
@@ -170,13 +170,13 @@ seo:
 
 
 
-<p>But The Grail isn’t the only guitar Wylde uses or has used; in fact, like any professional guitarist, he has amassed a pretty extensive <strong><a href="https://www.electrikjam.com/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="1572">collection of guitars</a></strong> during his going-on-forty-year career. Here’s a full list of Zakk Wylde’s guitars:</p>
+<p>But The Grail isn’t the only guitar Wylde uses or has used; in fact, like any professional guitarist, he has amassed a pretty extensive <strong><a href="/jimmy-page-favorite-guitar/" data-type="post" data-id="3320" data-lasso-id="1572">collection of guitars</a></strong> during his going-on-forty-year career. Here’s a full list of Zakk Wylde’s guitars:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>1980s Gibson SG Firebrand Deluxe</strong></li><li><strong>1980s Gibson Les Paul Goldtop</strong></li><li><strong>1981 Gibson Les Paul Custom “The Grail”</strong></li><li><strong>1980s Gibson Les Paul Standard “Shattered Glass”</strong></li><li><strong>1989 Gibson Les Paul Custom “The Rebel”</strong></li><li><strong>1957 Gibson Les Paul Junior</strong></li><li><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195402"><strong>1980s Gibson Les Paul Standard “Red Bullseye”</a> </strong></li><li><strong>The Glory Guitar by Andy Beech</strong></li><li><strong>Gibson Les Paul Custom “Mirror”</strong></li><li><strong>1978 Gibson Les Paul Custom “Camo”</strong></li><li><strong>Gibson Les Paul Custom Pelham Blue</strong></li><li><strong>Gibson Les Paul Custom “Buzzsaw”</strong></li><li><strong>Gibson Bullseye Flying V</strong></li><li><strong>Gibson EDS-1275 Double Neck Guitar</strong></li><li><strong>Gibson/Epiphone ZV</strong></li><li><strong>Epiphone Graveyard Disciple</strong></li><li><strong>Karl Sandoval Polka Dot Flying V</strong></li><li><strong>Dean Razorback</strong></li><li><strong>Gibson Chet Atkins SST</strong></li><li><strong>Gibson Dove</strong></li><li><strong>Alvarez 12 string Acoustic Guitar</strong></li><li><strong>Loucin Guitars Zakk Wylde “Fiddle of Doom”</strong></li><li><strong>Epiphone Masterbilt EF-500RCCE</strong></li></ul>
+<ul class="wp-block-list"><li><strong>1980s Gibson SG Firebrand Deluxe</strong></li><li><strong>1980s Gibson Les Paul Goldtop</strong></li><li><strong>1981 Gibson Les Paul Custom “The Grail”</strong></li><li><strong>1980s Gibson Les Paul Standard “Shattered Glass”</strong></li><li><strong>1989 Gibson Les Paul Custom “The Rebel”</strong></li><li><strong>1957 Gibson Les Paul Junior</strong></li><li><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195402"><strong>1980s Gibson Les Paul Standard “Red Bullseye”</a> </strong></li><li><strong>The Glory Guitar by Andy Beech</strong></li><li><strong>Gibson Les Paul Custom “Mirror”</strong></li><li><strong>1978 Gibson Les Paul Custom “Camo”</strong></li><li><strong>Gibson Les Paul Custom Pelham Blue</strong></li><li><strong>Gibson Les Paul Custom “Buzzsaw”</strong></li><li><strong>Gibson Bullseye Flying V</strong></li><li><strong>Gibson EDS-1275 Double Neck Guitar</strong></li><li><strong>Gibson/Epiphone ZV</strong></li><li><strong>Epiphone Graveyard Disciple</strong></li><li><strong>Karl Sandoval Polka Dot Flying V</strong></li><li><strong>Dean Razorback</strong></li><li><strong>Gibson Chet Atkins SST</strong></li><li><strong>Gibson Dove</strong></li><li><strong>Alvarez 12 string Acoustic Guitar</strong></li><li><strong>Loucin Guitars Zakk Wylde “Fiddle of Doom”</strong></li><li><strong>Epiphone Masterbilt EF-500RCCE</strong></li></ul>
 
 
 
-<p>And if you’re in search of a new guitar? Make sure you check out our <strong><a href="https://www.electrikjam.com/best-guitar-pedals-for-metal-our-top-choices-for-2020/" data-type="post" data-id="1126" data-lasso-id="1573">guide to the best guitars for metalheads</a></strong> –&nbsp;it covers every possible budget and all the guitars listed are freaking amazing.</p>
+<p>And if you’re in search of a new guitar? Make sure you check out our <strong><a href="/best-guitar-pedals-for-metal-our-top-choices-for-2020/" data-type="post" data-id="1126" data-lasso-id="1573">guide to the best guitars for metalheads</a></strong> –&nbsp;it covers every possible budget and all the guitars listed are freaking amazing.</p>
 

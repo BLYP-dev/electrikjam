@@ -47,11 +47,11 @@ seo:
 
 
 
-<p>The problem is, guitar tuning issues rarely stem from just once source. The guitar is only as good as the sum of its parts. Guitars work as a system, with each part being incredibly important. We have talked about the<a href="https://www.electrikjam.com/anatomy-of-the-electric-guitar-guide/" data-type="post" data-id="450" target="_blank" rel="noopener" data-lasso-id="209649"> <strong>anatomy</strong> </a>of the guitar before, and if you are not familiar with those terms for the parts, give <a href="https://www.electrikjam.com/anatomy-of-the-electric-guitar-guide/" data-type="post" data-id="450" target="_blank" rel="noopener" data-lasso-id="209650"><strong>this</strong></a> a quick read.</p>
+<p>The problem is, guitar tuning issues rarely stem from just once source. The guitar is only as good as the sum of its parts. Guitars work as a system, with each part being incredibly important. We have talked about the<a href="/anatomy-of-the-electric-guitar-guide/" data-type="post" data-id="450" target="_blank" rel="noopener" data-lasso-id="209649"> <strong>anatomy</strong> </a>of the guitar before, and if you are not familiar with those terms for the parts, give <a href="/anatomy-of-the-electric-guitar-guide/" data-type="post" data-id="450" target="_blank" rel="noopener" data-lasso-id="209650"><strong>this</strong></a> a quick read.</p>
 
 
 
-<p>Most beginner guitars fall into the <a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="209651"><strong>affordable</strong></a> category. These modern budget guitars are better than they were just a decade ago. This means better quality, and better parts at lower prices. No matter the price of your guitar, it should<em> at least</em> stay in tune. The bar is pretty low for any guitar really, it just needs to stay in tune and make sound right?</p>
+<p>Most beginner guitars fall into the <a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="209651"><strong>affordable</strong></a> category. These modern budget guitars are better than they were just a decade ago. This means better quality, and better parts at lower prices. No matter the price of your guitar, it should<em> at least</em> stay in tune. The bar is pretty low for any guitar really, it just needs to stay in tune and make sound right?</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p><strong>The first thing you probably think of when it comes to guitar tuning issues, would be the tuners themselves. Some people may tell you that you need <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246505">locking tuners.</a> But this is usually not the problem. Unless the tuners are broken, they should hold tune just fine. </strong></p>
+<p><strong>The first thing you probably think of when it comes to guitar tuning issues, would be the tuners themselves. Some people may tell you that you need <a href="/parts-of-an-electric-guitar/" data-lasso-id="246505">locking tuners.</a> But this is usually not the problem. Unless the tuners are broken, they should hold tune just fine. </strong></p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p>That being said, there are some simple troubleshooting tips that can spare you a lot of pain and frustration.<strong> </strong>Not to mention the most important factor<strong>:<em> TIME.</em></strong> Today we are going to look at the top <a href="https://www.electrikjam.com/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225987">reasons why your guitar</a> might be having a problem staying in tune. </p>
+<p>That being said, there are some simple troubleshooting tips that can spare you a lot of pain and frustration.<strong> </strong>Not to mention the most important factor<strong>:<em> TIME.</em></strong> Today we are going to look at the top <a href="/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225987">reasons why your guitar</a> might be having a problem staying in tune. </p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>This one is often overlooked, even by some professionals! It can be an easy step to miss when you restring your guitar! You should always stretch your strings, and there are quite a few different methods. It doesn&#8217;t matter what kind of guitar you have, or what kind of bridge your guitar features. Even a <strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="209652">Floyd Rose </a></strong>equipped guitar needs the strings stretched.</p>
+<p>This one is often overlooked, even by some professionals! It can be an easy step to miss when you restring your guitar! You should always stretch your strings, and there are quite a few different methods. It doesn&#8217;t matter what kind of guitar you have, or what kind of bridge your guitar features. Even a <strong><a href="/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="209652">Floyd Rose </a></strong>equipped guitar needs the strings stretched.</p>
 
 
 
@@ -157,7 +157,7 @@ seo:
 
 
 
-<p>Temperature fluctuations can wreak havoc on both <a href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" data-type="post" data-id="10133" target="_blank" rel="noopener" data-lasso-id="209653"><strong>acoustic</strong></a> and electric guitars. Most guitars are made out of wood, and this means that temp changes can make the wood shift. This can cause all kinds of guitar tuning issues. The Winter can be an especially bad time, since you run a heater of some sort. This can dry out the air, and make the humidity drop significantly.</p>
+<p>Temperature fluctuations can wreak havoc on both <a href="/best-acoustic-guitars-for-metal/" data-type="post" data-id="10133" target="_blank" rel="noopener" data-lasso-id="209653"><strong>acoustic</strong></a> and electric guitars. Most guitars are made out of wood, and this means that temp changes can make the wood shift. This can cause all kinds of guitar tuning issues. The Winter can be an especially bad time, since you run a heater of some sort. This can dry out the air, and make the humidity drop significantly.</p>
 
 
 
@@ -177,7 +177,7 @@ seo:
 
 
 
-<p>This can be a complicated one, so if you are unsure, you should always take your guitar to a tech. Many guitar tuning issues are just because the guitar isn&#8217;t <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="209654"><strong>setup</strong></a> properly. Although some of these things you can definitely do at home. We have talked about how easy it is to set your<a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="209655"><strong> intonation</strong> </a>with simple tools.</p>
+<p>This can be a complicated one, so if you are unsure, you should always take your guitar to a tech. Many guitar tuning issues are just because the guitar isn&#8217;t <a href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener" data-lasso-id="209654"><strong>setup</strong></a> properly. Although some of these things you can definitely do at home. We have talked about how easy it is to set your<a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="209655"><strong> intonation</strong> </a>with simple tools.</p>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<p>I would say that 9 times out of 10, when a customer has guitar tuning issues, a new nut will <em>usually</em> fix the problem. Not all nuts are created equal, either. You want to avoid cheap, plastic nuts. <a href="https://www.electrikjam.com/guitar-center-pxf-io-wd2mgm/" data-type="lasso-urls" data-id="5980" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="209657" data-lasso-name="Graph Tech TUSQ Nut"><strong>TUSQ</strong></a> is the industry standard, and these are made out of graphite or composite materials that &#8220;self lubricate&#8221; and allow the string to move <em>freely </em>in the slots.</p>
+<p>I would say that 9 times out of 10, when a customer has guitar tuning issues, a new nut will <em>usually</em> fix the problem. Not all nuts are created equal, either. You want to avoid cheap, plastic nuts. <a href="/guitar-center-pxf-io-wd2mgm/" data-type="lasso-urls" data-id="5980" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="209657" data-lasso-name="Graph Tech TUSQ Nut"><strong>TUSQ</strong></a> is the industry standard, and these are made out of graphite or composite materials that &#8220;self lubricate&#8221; and allow the string to move <em>freely </em>in the slots.</p>
 
 
 
@@ -307,7 +307,7 @@ seo:
 
 
 
-<p>Most tuning issues are going to be easy to diagnose at home, using this list. It can be incredibly frustrating for a <a href="https://www.electrikjam.com/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211725">beginner when a guitar</a> doesn&#8217;t hold tune. But there is usually an easy fix, and it usually starts at the nut. <strong>Not the tuners themselves</strong>. Although over the years, I have seen some seriously damaged machine heads on older guitars.</p>
+<p>Most tuning issues are going to be easy to diagnose at home, using this list. It can be incredibly frustrating for a <a href="/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211725">beginner when a guitar</a> doesn&#8217;t hold tune. But there is usually an easy fix, and it usually starts at the nut. <strong>Not the tuners themselves</strong>. Although over the years, I have seen some seriously damaged machine heads on older guitars.</p>
 
 
 

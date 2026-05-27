@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>A Sustainiac Pickup is almost always installed in the neck position of your guitar. What it does, is it acts sort of like an <strong><a data-lasso-id="39700" data-lasso-name="Ebow Plus" href="https://www.electrikjam.com/guitar-center-pxf-io-7mdkdd/" target="_blank" data-type="lasso-urls" data-id="6301" rel="nofollow sponsored noopener">Ebow Device</a>.</strong>  The <strong>Sustainiac Pickup Sustainers</strong> make <em>controlled</em> <em>feedback sustain</em>. It&#8217;s like playing in front of a loud high gain amplifier: If you hold your guitar near the speakers, the intense sound will blast the vibrating strings of your guitar. </p>
+<p>A Sustainiac Pickup is almost always installed in the neck position of your guitar. What it does, is it acts sort of like an <strong><a data-lasso-id="39700" data-lasso-name="Ebow Plus" href="/guitar-center-pxf-io-7mdkdd/" target="_blank" data-type="lasso-urls" data-id="6301" rel="nofollow sponsored noopener">Ebow Device</a>.</strong>  The <strong>Sustainiac Pickup Sustainers</strong> make <em>controlled</em> <em>feedback sustain</em>. It&#8217;s like playing in front of a loud high gain amplifier: If you hold your guitar near the speakers, the intense sound will blast the vibrating strings of your guitar. </p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>The best <a href="https://www.electrikjam.com/what-are-power-amp-pedals-explained/" data-lasso-id="200813">way to explain</a> it, is to just show you. This is a great video that shows <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxgqjk/" target="_blank" data-type="lasso-urls" data-id="6065" rel="nofollow sponsored noopener" data-lasso-id="39701" data-lasso-name="Schecter KM-7 Lambo Green"><strong>Schecter Guitars </strong></a>with Pete Thorn doing the demo and explaining how the Sustainiac pickup works. He shows you the different modes, and all of the cool tricks that you can perform with this pickup. <strong>Schecter <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="Guitars" data-wpil-keyword-link="linked" data-lasso-id="39707">Guitars</a> make the <em>most</em> guitars that come stock with the Sustainiac pickup installed</strong>, <strong>and they are the #1 brand that has this feature for budget prices!</strong></p>
+<p>The best <a href="/what-are-power-amp-pedals-explained/" data-lasso-id="200813">way to explain</a> it, is to just show you. This is a great video that shows <a href="/guitar-center-pxf-io-mxgqjk/" target="_blank" data-type="lasso-urls" data-id="6065" rel="nofollow sponsored noopener" data-lasso-id="39701" data-lasso-name="Schecter KM-7 Lambo Green"><strong>Schecter Guitars </strong></a>with Pete Thorn doing the demo and explaining how the Sustainiac pickup works. He shows you the different modes, and all of the cool tricks that you can perform with this pickup. <strong>Schecter <a class="wpil_keyword_link" href="/best-electric-guitars/" title="Guitars" data-wpil-keyword-link="linked" data-lasso-id="39707">Guitars</a> make the <em>most</em> guitars that come stock with the Sustainiac pickup installed</strong>, <strong>and they are the #1 brand that has this feature for budget prices!</strong></p>
 
 
 
@@ -77,7 +77,7 @@ seo:
 
 
 
-<p>Lots of guitarists use the Sustainiac Pickup, and they all use them in different ways. Someone like <strong><a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" target="_blank" data-type="post" data-id="5321" rel="noopener" data-lasso-id="39702">Steve Vai</a></strong> uses them in his &#8220;FLO&#8221; guitar to lightly accentuate his solos, and also crank up the harmonics when he lets a note ring out. He often will blow on the guitar strings as he hits the switch, and this little trick makes the crowd go totally wild! He also uses it for his famous &#8220;liquid legato&#8221; style runs that are a signature part of his sound.</p>
+<p>Lots of guitarists use the Sustainiac Pickup, and they all use them in different ways. Someone like <strong><a href="/the-best-signature-guitars-in-2021/" target="_blank" data-type="post" data-id="5321" rel="noopener" data-lasso-id="39702">Steve Vai</a></strong> uses them in his &#8220;FLO&#8221; guitar to lightly accentuate his solos, and also crank up the harmonics when he lets a note ring out. He often will blow on the guitar strings as he hits the switch, and this little trick makes the crowd go totally wild! He also uses it for his famous &#8220;liquid legato&#8221; style runs that are a signature part of his sound.</p>
 
 
 
@@ -85,11 +85,11 @@ seo:
 
 
 
-<p><strong>Kenny Hickey</strong> from <strong>Type O Negative</strong> also had a special edition custom <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-lasso-id="40162">Schecter</a> that he had made in the early 2000&#8217;s to tour with. These models are super rare, as they were not very popular when Schecter first released them. They sell on the used market, but new ones have not been made in quite a while. If you can find one of these models, scoop it up! Even if you don&#8217;t want it, you can sell it to me!</p>
+<p><strong>Kenny Hickey</strong> from <strong>Type O Negative</strong> also had a special edition custom <a href="/schecter-nick-johnston-hss-review/" data-lasso-id="40162">Schecter</a> that he had made in the early 2000&#8217;s to tour with. These models are super rare, as they were not very popular when Schecter first released them. They sell on the used market, but new ones have not been made in quite a while. If you can find one of these models, scoop it up! Even if you don&#8217;t want it, you can sell it to me!</p>
 
 
 
-<p>Usually, you only see a Sustainiac Pickup on a guitar that has a <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167817">Floyd Rose bridge</a>, since the possibilities of that combo is huge. But the KH Schecter model had a <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246486">fixed bridge</a>, and special green inlays. It also had a Duncan Pickup installed in the bridge to help the Sustainiac under high gain tones that Type O Negative was known for.</p>
+<p>Usually, you only see a Sustainiac Pickup on a guitar that has a <a href="/floyd-rose-bridge-explained/" data-lasso-id="167817">Floyd Rose bridge</a>, since the possibilities of that combo is huge. But the KH Schecter model had a <a href="/parts-of-an-electric-guitar/" data-lasso-id="246486">fixed bridge</a>, and special green inlays. It also had a Duncan Pickup installed in the bridge to help the Sustainiac under high gain tones that Type O Negative was known for.</p>
 
 
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Always use a regular alkaline battery, by a known manufacturer. <em>Do not use a rechargeable battery </em>for the Sustainiac Pickup. It <em>does not</em> provide enough electrical current.</strong></li><li><strong>Always unplug your guitar when you are done playing. Like<a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="39704"> active pickups</a>, the circuit for the pickup is activated when you plug up the guitar. You can easily leave it on and not realize it!</strong></li><li><strong>Make sure the battery compartment is fully closed, so the battery is making full contact with the terminals.</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Always use a regular alkaline battery, by a known manufacturer. <em>Do not use a rechargeable battery </em>for the Sustainiac Pickup. It <em>does not</em> provide enough electrical current.</strong></li><li><strong>Always unplug your guitar when you are done playing. Like<a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="39704"> active pickups</a>, the circuit for the pickup is activated when you plug up the guitar. You can easily leave it on and not realize it!</strong></li><li><strong>Make sure the battery compartment is fully closed, so the battery is making full contact with the terminals.</strong></li></ul>
 
 
 
@@ -153,7 +153,7 @@ seo:
 
 
 
-<p>This one seems like a no brainer too, but you would be surprised! Most of the <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247833">Schecter Guitars</a> come from the factory already set up, and this includes the pickup height. But everyone makes mistakes, and this can easily be overlooked. There is unfortunately <em>no exact measurement</em> for the Sustainiac Pickup, as everyone is different when it comes to taste.</p>
+<p>This one seems like a no brainer too, but you would be surprised! Most of the <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247833">Schecter Guitars</a> come from the factory already set up, and this includes the pickup height. But everyone makes mistakes, and this can easily be overlooked. There is unfortunately <em>no exact measurement</em> for the Sustainiac Pickup, as everyone is different when it comes to taste.</p>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<p><strong>Important</strong>! <strong>When you go to adjust these:</strong> Have your guitar plugged into your amp, or an<a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="39705"><strong> amp sim</strong></a> <em>after</em> you have opened the back panel. Turn on your Sustainiac Pickup on a <strong>clean channel</strong>, so you can hear the changes easier and clearer.<strong> <em>Turn the screws 1/4 turn at a time, and no more.</em></strong> The blue screws are very sensitive to any adjustment, so go <em>very slow</em> while you try to optimize the tone you are looking for.</p>
+<p><strong>Important</strong>! <strong>When you go to adjust these:</strong> Have your guitar plugged into your amp, or an<a href="/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="39705"><strong> amp sim</strong></a> <em>after</em> you have opened the back panel. Turn on your Sustainiac Pickup on a <strong>clean channel</strong>, so you can hear the changes easier and clearer.<strong> <em>Turn the screws 1/4 turn at a time, and no more.</em></strong> The blue screws are very sensitive to any adjustment, so go <em>very slow</em> while you try to optimize the tone you are looking for.</p>
 
 
 

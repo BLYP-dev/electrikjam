@@ -49,15 +49,15 @@ seo:
 
 
 
-<p>The Schecter Jack Fowler Traditional was a bit of a surprise this year. If you are not familiar, <strong>Jack Fowler </strong><em>was</em> the lead guitarist of<strong> Sleeping With Sirens</strong> up until this year. Jack had been with the band since 2011, and had played PRS guitars for a while. He signed on with <a data-lasso-id="198644" href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter</strong></a> this past year, and worked out this new signature guitar.</p>
+<p>The Schecter Jack Fowler Traditional was a bit of a surprise this year. If you are not familiar, <strong>Jack Fowler </strong><em>was</em> the lead guitarist of<strong> Sleeping With Sirens</strong> up until this year. Jack had been with the band since 2011, and had played PRS guitars for a while. He signed on with <a data-lasso-id="198644" href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener"><strong>Schecter</strong></a> this past year, and worked out this new signature guitar.</p>
 
 
 
-<p>So what is Jack doing now? I think he could maybe be joining another band, or maybe starting a solo project. Schecter seems to really like solo project guitarists lately, with the <a data-lasso-id="198645" href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"><strong>Nick Johnston </strong></a>models being best-sellers, giving the <a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="198717"><strong>Big F</strong></a> a run for the money.</p>
+<p>So what is Jack doing now? I think he could maybe be joining another band, or maybe starting a solo project. Schecter seems to really like solo project guitarists lately, with the <a data-lasso-id="198645" href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener"><strong>Nick Johnston </strong></a>models being best-sellers, giving the <a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="198717"><strong>Big F</strong></a> a run for the money.</p>
 
 
 
-<p>The Nick Johnston Series has been incredibly important for a lot of reasons. One of the biggest reasons is that the guitar sheds some new light on what <a href="https://www.electrikjam.com/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199524">Schecter</a> is capable of. The Schecter Jack Fowler Traditional is the newest in a series that shows that Schecter is not the &#8220;edgy Metal brand&#8221;. This is an image issue that the company has tried to fight for a while.</p>
+<p>The Nick Johnston Series has been incredibly important for a lot of reasons. One of the biggest reasons is that the guitar sheds some new light on what <a href="/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199524">Schecter</a> is capable of. The Schecter Jack Fowler Traditional is the newest in a series that shows that Schecter is not the &#8220;edgy Metal brand&#8221;. This is an image issue that the company has tried to fight for a while.</p>
 
 
 
@@ -65,11 +65,11 @@ seo:
 
 
 
-<p>But <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247839">Schecter has quite the reputation in the guitar</a> community. <strong>Most guitarists will agree that they are great guitars, especially for the money.</strong> The quality that you get for the price you pay is phenomenal, and no one denies that. Almost every guitarist that plays a Schecter at least once will agree about the <strong>quality</strong>.</p>
+<p>But <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247839">Schecter has quite the reputation in the guitar</a> community. <strong>Most guitarists will agree that they are great guitars, especially for the money.</strong> The quality that you get for the price you pay is phenomenal, and no one denies that. Almost every guitarist that plays a Schecter at least once will agree about the <strong>quality</strong>.</p>
 
 
 
-<p>The other side of that reputation is the sometimes garish designs. The <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231844">Schecter Hellraiser is still one of the flagship models</a>, and it is covered in abalone. Likewise, the Avenged Sevenfold  models have also received some criticism. My Damien Platinum model has bats on the fretboard, and I get a lot of &#8220;comments&#8221; about that guitar.</p>
+<p>The other side of that reputation is the sometimes garish designs. The <a href="/schecter-mv-6-review/" data-lasso-id="231844">Schecter Hellraiser is still one of the flagship models</a>, and it is covered in abalone. Likewise, the Avenged Sevenfold  models have also received some criticism. My Damien Platinum model has bats on the fretboard, and I get a lot of &#8220;comments&#8221; about that guitar.</p>
 
 
 
@@ -77,7 +77,7 @@ seo:
 
 
 
-<p>Lately we have not only seen Schecter in a return to form with the two different<a data-lasso-id="198646" href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener"><strong> Nick Johnston</strong></a> models, but also the beautiful<a data-lasso-id="198647" href="https://www.electrikjam.com/schecter-traditional-van-nuys/" data-type="post" data-id="3017" target="_blank" rel="noopener"> </a><strong><a data-lasso-id="198648" href="https://www.electrikjam.com/schecter-traditional-van-nuys/" data-type="post" data-id="3017" target="_blank" rel="noopener">Van Nuys</a> </strong>guitars. The Schecter Jack Fowler Traditional fits right in with those guitars, as a hot-rodded style guitar that looks <em>very traditional</em>. But we assure you, it is <strong><em>NOT</em></strong> like every other S-type guitar.</p>
+<p>Lately we have not only seen Schecter in a return to form with the two different<a data-lasso-id="198646" href="/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener"><strong> Nick Johnston</strong></a> models, but also the beautiful<a data-lasso-id="198647" href="/schecter-traditional-van-nuys/" data-type="post" data-id="3017" target="_blank" rel="noopener"> </a><strong><a data-lasso-id="198648" href="/schecter-traditional-van-nuys/" data-type="post" data-id="3017" target="_blank" rel="noopener">Van Nuys</a> </strong>guitars. The Schecter Jack Fowler Traditional fits right in with those guitars, as a hot-rodded style guitar that looks <em>very traditional</em>. But we assure you, it is <strong><em>NOT</em></strong> like every other S-type guitar.</p>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<p>This is one of the features that set the Traditional Series that sets it apart from other guitars of its ilk. The 14&#8221; radius and jumbo frets feel alien on a Strat style guitar, and make it feel much more like &#8220;<a href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener" data-lasso-id="198649"><strong>Shredder</strong></a>&#8221; guitar. This is where the comparison to SUHR Guitars come from.</p>
+<p>This is one of the features that set the Traditional Series that sets it apart from other guitars of its ilk. The 14&#8221; radius and jumbo frets feel alien on a Strat style guitar, and make it feel much more like &#8220;<a href="/evh-the-5-best-budget-shredder-guitars/" data-type="post" data-id="9301" target="_blank" rel="noopener" data-lasso-id="198649"><strong>Shredder</strong></a>&#8221; guitar. This is where the comparison to SUHR Guitars come from.</p>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<p><strong>The different bridge options will depend on the player, but I prefer the trem version. This trem on the Schecter Jack Fowler Traditional is the same that you find on the Nick Johnston models. It stays in tune perfectly when doing big dives, and rivals the <a data-lasso-id="198650" href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" data-type="post" data-id="9398" target="_blank" rel="noopener">Charvel</a> Gotoh 510 bridges.</strong></p>
+<p><strong>The different bridge options will depend on the player, but I prefer the trem version. This trem on the Schecter Jack Fowler Traditional is the same that you find on the Nick Johnston models. It stays in tune perfectly when doing big dives, and rivals the <a data-lasso-id="198650" href="/charvel-pro-mod-dk24-review/" data-type="post" data-id="9398" target="_blank" rel="noopener">Charvel</a> Gotoh 510 bridges.</strong></p>
 
 
 

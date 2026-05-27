@@ -43,7 +43,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="414">The most sought-after Les Paul models</a></strong> on the planet are from the 1959 series. These guitars are collector&#8217;s items because they are a piece of history, but also because of their legendary design. These fetch for upwards of $100,000 for a &#8220;okay&#8221; condition model!</p>
+<p><strong><a class="rank-math-link" href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="414">The most sought-after Les Paul models</a></strong> on the planet are from the 1959 series. These guitars are collector&#8217;s items because they are a piece of history, but also because of their legendary design. These fetch for upwards of $100,000 for a &#8220;okay&#8221; condition model!</p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong><a href="https://www.electrikjam.com/epiphone-slash-signature-series/" class="rank-math-link" data-lasso-id="415">Epiphone CONFIRMS Slash Signature Series!</a></strong></li><li><strong><a href="https://www.electrikjam.com/gretsch-vintage-select-89-jet-reissue/" class="rank-math-link" data-lasso-id="416">Gretsch Vintage Select ’89 Jet (AKA Black Hole Sun Guitar) Set For March 2021 Release</a></strong></li><li><strong><a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" class="rank-math-link" data-lasso-id="417">Epiphone Les Paul vs Epiphone SG –&nbsp;The Ultimate Question&#8230;</a></strong></li><li><strong><a class="rank-math-link" href="https://www.electrikjam.com/best-cases-for-epiphone-les-paul/" data-lasso-id="418">Best Epiphone Les Paul Cases: From Budget To Touring Options</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong><a href="/epiphone-slash-signature-series/" class="rank-math-link" data-lasso-id="415">Epiphone CONFIRMS Slash Signature Series!</a></strong></li><li><strong><a href="/gretsch-vintage-select-89-jet-reissue/" class="rank-math-link" data-lasso-id="416">Gretsch Vintage Select ’89 Jet (AKA Black Hole Sun Guitar) Set For March 2021 Release</a></strong></li><li><strong><a href="/epiphone-sg-vs-epiphone-les-paul/" class="rank-math-link" data-lasso-id="417">Epiphone Les Paul vs Epiphone SG –&nbsp;The Ultimate Question&#8230;</a></strong></li><li><strong><a class="rank-math-link" href="/best-cases-for-epiphone-les-paul/" data-lasso-id="418">Best Epiphone Les Paul Cases: From Budget To Touring Options</a></strong></li></ul>
 
 
 
@@ -63,11 +63,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="419">Epiphone</a> has always made their version of the Les Paul, based on Gibson specs, with a bit of a twist. However, 2020 has seen the &#8220;Inspired By Gibson&#8221; <a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="420">lineup of guitars as a brand new offering </a>to critical acclaim. This year, Epiphone takes a shot at recreating the original 1959 masterpiece, with a little help.</p>
+<p><a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="419">Epiphone</a> has always made their version of the Les Paul, based on Gibson specs, with a bit of a twist. However, 2020 has seen the &#8220;Inspired By Gibson&#8221; <a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="420">lineup of guitars as a brand new offering </a>to critical acclaim. This year, Epiphone takes a shot at recreating the original 1959 masterpiece, with a little help.</p>
 
 
 
-<p>And <strong><a class="rank-math-link" href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" data-lasso-id="421">when it comes to Gibson Les Paul alternatives</a></strong>, well, Epiphone&#8217;s are some of the best in the business. </p>
+<p>And <strong><a class="rank-math-link" href="/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" data-lasso-id="421">when it comes to Gibson Les Paul alternatives</a></strong>, well, Epiphone&#8217;s are some of the best in the business. </p>
 
 
 
@@ -75,11 +75,11 @@ seo:
 
 
 
-<p>There have been rumors this year surrounding <strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2596">Epiphone</a></strong> and the possibility of a collaboration with it&#8217;s big brother, Gibson. Today Gibson/Epiphone announced the &#8220;Vintage For All&#8221; catchphrase, marking their first collaboration with the Gibson Custom Shop.</p>
+<p>There have been rumors this year surrounding <strong><a href="/epiphone-guitars/" data-lasso-id="2596">Epiphone</a></strong> and the possibility of a collaboration with it&#8217;s big brother, Gibson. Today Gibson/Epiphone announced the &#8220;Vintage For All&#8221; catchphrase, marking their first collaboration with the Gibson Custom Shop.</p>
 
 
 
-<p>What does &#8220;Vintage For All&#8221; mean? It means that Gibson has designed these <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44949">new Les Pauls</a> to be up to spec with their custom shop &#8217;59 editions for an affordable price. The features are straight from the Gibson workbench:</p>
+<p>What does &#8220;Vintage For All&#8221; mean? It means that Gibson has designed these <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44949">new Les Pauls</a> to be up to spec with their custom shop &#8217;59 editions for an affordable price. The features are straight from the Gibson workbench:</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>Many of Epiphone&#8217;s models come with a Flame Maple top of some sort. Sometimes it is actually a full-size cap, sometimes it&#8217;s just a thin veneer. The <a href="https://www.electrikjam.com/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-lasso-id="422">new Epiphone &#8217;59 Les Paul</a> is REAL Flame Maple.</p>
+<p>Many of Epiphone&#8217;s models come with a Flame Maple top of some sort. Sometimes it is actually a full-size cap, sometimes it&#8217;s just a thin veneer. The <a href="/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-lasso-id="422">new Epiphone &#8217;59 Les Paul</a> is REAL Flame Maple.</p>
 
 
 
@@ -99,11 +99,11 @@ seo:
 
 
 
-<p>The new <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8798">Epiphone &#8217;59 Les Paul</a> has many period-correct aesthetics that I noticed while looking at the promo pictures. Such as the cream binding around the entire guitar. The pickguard is also the original style, without a bevel. Top it all off with matching cream plastic parts, and you have the closest thing <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17481">Epiphone has ever made to a historic Les Paul</a>.</p>
+<p>The new <a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8798">Epiphone &#8217;59 Les Paul</a> has many period-correct aesthetics that I noticed while looking at the promo pictures. Such as the cream binding around the entire guitar. The pickguard is also the original style, without a bevel. Top it all off with matching cream plastic parts, and you have the closest thing <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17481">Epiphone has ever made to a historic Les Paul</a>.</p>
 
 
 
-<p>This of course makes me wonder if they will collaborate with Gibson on more of their models. With the way Epiphone is doing business this year, I can imagine that anything is possible. Will we see an <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="423">SG model or a Flying V</a> to custom shop specs?</p>
+<p>This of course makes me wonder if they will collaborate with Gibson on more of their models. With the way Epiphone is doing business this year, I can imagine that anything is possible. Will we see an <a href="/types-of-guitars-guide/" data-lasso-id="423">SG model or a Flying V</a> to custom shop specs?</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p><em>&#8220;Our product development teams from <a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-lasso-id="425">Epiphone and Gibson Custom Shop</a> are proud to have collaborated on these fantastic Les Paul models inspired by our iconic 1959 Les Paul Historic reissues,” says Mat Koehler, Head of Product Development of Gibson Custom Shop.</em></p>
+<p><em>&#8220;Our product development teams from <a href="/gibson-vs-epiphone-in-2021/" data-lasso-id="425">Epiphone and Gibson Custom Shop</a> are proud to have collaborated on these fantastic Les Paul models inspired by our iconic 1959 Les Paul Historic reissues,” says Mat Koehler, Head of Product Development of Gibson Custom Shop.</em></p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>The beautiful new <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8473">Epiphone &#8217;59 Les Paul</a> comes in two different finishes for now; Aged Dark Burst, and Aged Dark Cherry Burst. The latter being the closest to the historic models. The original <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4660">1959 Les Paul</a> had a finish that is pretty close to these two colors combined.</p>
+<p>The beautiful new <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8473">Epiphone &#8217;59 Les Paul</a> comes in two different finishes for now; Aged Dark Burst, and Aged Dark Cherry Burst. The latter being the closest to the historic models. The original <a href="/best-les-paul-copy/" data-lasso-id="4660">1959 Les Paul</a> had a finish that is pretty close to these two colors combined.</p>
 
 
 
@@ -155,11 +155,11 @@ seo:
 
 
 
-<p>There has been some chatter about Epiphone&#8217;s quality control with this year&#8217;s brand new lineup. I like to think they are working out the kinks in the <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="426">production process</a>. Plus, Epiphone stands by their products, proudly sporting a Lifetime-Limited Warranty with <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35981">every guitar</a>.</p>
+<p>There has been some chatter about Epiphone&#8217;s quality control with this year&#8217;s brand new lineup. I like to think they are working out the kinks in the <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="426">production process</a>. Plus, Epiphone stands by their products, proudly sporting a Lifetime-Limited Warranty with <a href="/the-best-guitars-of-2021/" data-lasso-id="35981">every guitar</a>.</p>
 
 
 
-<p>Epiphone has leveled the playing field this year across all of their offerings. I can&#8217;t wait to see what they continue to come out with! <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="427">We already loved you Epiphone</a>, no need to be so <em>extra</em>! Although, it may hurt my wallet pretty bad I am glad to see a company making the moves to improve and innovate.</p>
+<p>Epiphone has leveled the playing field this year across all of their offerings. I can&#8217;t wait to see what they continue to come out with! <a href="/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="427">We already loved you Epiphone</a>, no need to be so <em>extra</em>! Although, it may hurt my wallet pretty bad I am glad to see a company making the moves to improve and innovate.</p>
 
 
 

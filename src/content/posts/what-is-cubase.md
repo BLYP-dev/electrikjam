@@ -56,7 +56,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong>What</strong>: A top-tier <strong><a href="https://www.electrikjam.com/category/daws" data-lasso-id="258849">digital audio workstation (DAW)</a></strong> by Steinberg.</li>
+<li><strong>What</strong>: A top-tier <strong><a href="/category/daws" data-lasso-id="258849">digital audio workstation (DAW)</a></strong> by Steinberg.</li>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>The latest version of Cubase is <strong><a href="https://www.electrikjam.com/cubase-13-release-date-new-features-rumors/" data-type="post" data-id="12744" data-lasso-id="258850">Cubase 13</a></strong>. It picks up where Cubase 12 left off, <strong><a href="#What_is_The_Latest_Version_of_Cubase?_">adding in a raft of new features</a></strong> and capabilities. </p>
+<p>The latest version of Cubase is <strong><a href="/cubase-13-release-date-new-features-rumors/" data-type="post" data-id="12744" data-lasso-id="258850">Cubase 13</a></strong>. It picks up where Cubase 12 left off, <strong><a href="#What_is_The_Latest_Version_of_Cubase?_">adding in a raft of new features</a></strong> and capabilities. </p>
 
 
 
@@ -166,15 +166,15 @@ seo:
 
 <li><strong>Pricing</strong>:
 <ul class="wp-block-list">
-<li>Elements: <strong><a href="https://www.electrikjam.com/steinberg-dac-cubase-elements-13-guitar-center/" data-type="lasso-urls" data-id="13786" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="258851" data-lasso-name="Cubase 13 Elements">$99.99 (Beginners/Home Studios).</a></strong></li>
+<li>Elements: <strong><a href="/steinberg-dac-cubase-elements-13-guitar-center/" data-type="lasso-urls" data-id="13786" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="258851" data-lasso-name="Cubase 13 Elements">$99.99 (Beginners/Home Studios).</a></strong></li>
 
 
 
-<li>Artist: <strong><a href="https://www.electrikjam.com/steinberg-cubase-pro-13-thomann-uk/" data-type="lasso-urls" data-id="13785" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="258852" data-lasso-name="Steinberg Cubase Pro 13">$239 (Intermediate Users).</a></strong></li>
+<li>Artist: <strong><a href="/steinberg-cubase-pro-13-thomann-uk/" data-type="lasso-urls" data-id="13785" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="258852" data-lasso-name="Steinberg Cubase Pro 13">$239 (Intermediate Users).</a></strong></li>
 
 
 
-<li>Pro: <strong><a href="https://www.electrikjam.com/steinberg-cubase-pro-13-thomann-uk/" data-type="lasso-urls" data-id="13785" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="258853" data-lasso-name="Steinberg Cubase Pro 13">$579 (Professional Producers/Studios).</a></strong></li>
+<li>Pro: <strong><a href="/steinberg-cubase-pro-13-thomann-uk/" data-type="lasso-urls" data-id="13785" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="258853" data-lasso-name="Steinberg Cubase Pro 13">$579 (Professional Producers/Studios).</a></strong></li>
 </ul>
 </li>
 </ul>
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>Cubase is a <strong><a href="https://www.electrikjam.com/category/daws" data-lasso-id="251748">digital audio workstation (DAW)</a></strong> developed by the German company Steinberg. It provides tools for recording, editing, and mixing music and audio, and is used by musicians, sound engineers, and producers worldwide. </p>
+<p>Cubase is a <strong><a href="/category/daws" data-lasso-id="251748">digital audio workstation (DAW)</a></strong> developed by the German company Steinberg. It provides tools for recording, editing, and mixing music and audio, and is used by musicians, sound engineers, and producers worldwide. </p>
 
 
 
@@ -630,7 +630,7 @@ seo:
 
 
 
-<p>There’s <strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" data-lasso-id="251750">plenty of competing DAW platforms</a></strong>, of course, but Cubase has remained one of the most trusted brands in the market and is used by a whole host of famous artists and producers, as you can see below.&nbsp;</p>
+<p>There’s <strong><a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" data-lasso-id="251750">plenty of competing DAW platforms</a></strong>, of course, but Cubase has remained one of the most trusted brands in the market and is used by a whole host of famous artists and producers, as you can see below.&nbsp;</p>
 
 
 
@@ -704,7 +704,7 @@ seo:
 
 
 
-<p>Basically, it is about as versatile as a DAW can get, so if you&#8217;re in the market for a rock-solid DAW that is not only trusted by some of the most famous musicians and composers currently working the planet but is also constantly evolving with new features, you might want to <strong><a data-lasso-id="243177" data-lasso-name="Steinberg Cubase Pro 12" href="https://www.electrikjam.com/steinberg-cubase-pro-12-thomann-united-states/" data-type="lasso-urls" data-id="12301" target="_blank" rel="nofollow sponsored noopener">check it out for your recording projects</a></strong>. </p>
+<p>Basically, it is about as versatile as a DAW can get, so if you&#8217;re in the market for a rock-solid DAW that is not only trusted by some of the most famous musicians and composers currently working the planet but is also constantly evolving with new features, you might want to <strong><a data-lasso-id="243177" data-lasso-name="Steinberg Cubase Pro 12" href="/steinberg-cubase-pro-12-thomann-united-states/" data-type="lasso-urls" data-id="12301" target="_blank" rel="nofollow sponsored noopener">check it out for your recording projects</a></strong>. </p>
 
 
 
@@ -752,7 +752,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/cubase-ai/" data-type="post" data-id="12275" data-lasso-id="264080">Cubase AI is another lite version of Cubase</a></strong>, similar to Cubase LE but with some differences in features and licensing. It&#8217;s also often bundled with certain music hardware products. It provides a streamlined set of tools and functions ideal for those new to music production.</p>
+<p><strong><a href="/cubase-ai/" data-type="post" data-id="12275" data-lasso-id="264080">Cubase AI is another lite version of Cubase</a></strong>, similar to Cubase LE but with some differences in features and licensing. It&#8217;s also often bundled with certain music hardware products. It provides a streamlined set of tools and functions ideal for those new to music production.</p>
 
 
 

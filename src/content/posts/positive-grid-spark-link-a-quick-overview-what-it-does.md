@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>The Spark Link is a wireless guitar system created by Positive Grid to provide cable-free playing with their <strong><a href="https://www.electrikjam.com/is-spark-amp-worth-it/" data-type="post" data-id="1924" data-lasso-id="260958">Spark amplifier range</a></strong>. It also works with any other amplifier, making high-quality wireless functionality accessible to all guitarists.</p>
+<p>The Spark Link is a wireless guitar system created by Positive Grid to provide cable-free playing with their <strong><a href="/is-spark-amp-worth-it/" data-type="post" data-id="1924" data-lasso-id="260958">Spark amplifier range</a></strong>. It also works with any other amplifier, making high-quality wireless functionality accessible to all guitarists.</p>
 
 
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/spark-link-positive-grid/" data-type="lasso-urls" data-id="14315" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260959" data-lasso-name="Positive Grid Spark LINK">The device is priced at $129 </a></strong>which isn&#8217;t exactly cheap but for what it does, in the right hands, it could be pretty useful. </p>
+<p><strong><a href="/spark-link-positive-grid/" data-type="lasso-urls" data-id="14315" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260959" data-lasso-name="Positive Grid Spark LINK">The device is priced at $129 </a></strong>which isn&#8217;t exactly cheap but for what it does, in the right hands, it could be pretty useful. </p>
 
 
 
@@ -216,7 +216,7 @@ seo:
 
 
 
-<p>If you want to try out the Spark Link, you can pick one up <strong><a href="https://www.electrikjam.com/spark-link-positive-grid/" data-type="lasso-urls" data-id="14315" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260960" data-lasso-name="Positive Grid Spark LINK">direct from Positive Grid&#8217;s web store. </a></strong></p>
+<p>If you want to try out the Spark Link, you can pick one up <strong><a href="/spark-link-positive-grid/" data-type="lasso-urls" data-id="14315" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260960" data-lasso-name="Positive Grid Spark LINK">direct from Positive Grid&#8217;s web store. </a></strong></p>
 
 
 

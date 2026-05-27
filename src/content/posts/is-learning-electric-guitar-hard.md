@@ -28,7 +28,7 @@ seo:
 ---
 
 
-<p><strong>Is learning <a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" data-lasso-id="215697">electric guitar</a> hard to do? Well, it really depends on a lot of factors and there is no simple answer. Today we go over why it CAN be hard, but also<em> easy</em>!</strong></p>
+<p><strong>Is learning <a href="/what-is-the-best-electric-guitar-brand/" data-lasso-id="215697">electric guitar</a> hard to do? Well, it really depends on a lot of factors and there is no simple answer. Today we go over why it CAN be hard, but also<em> easy</em>!</strong></p>
 
 
 
@@ -40,11 +40,11 @@ seo:
 
 
 
-<p>I think everyone that is <em>thinking</em> about playing guitar has probably started by wondering how difficult the journey might be. Music to some people seems like a big, mysterious subject. But electric guitar is pretty cool, and the allure is still there after 7 decades of them existing.<em> Is learning <a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" data-lasso-id="215698">electric guitar</a> hard. though?</em> </p>
+<p>I think everyone that is <em>thinking</em> about playing guitar has probably started by wondering how difficult the journey might be. Music to some people seems like a big, mysterious subject. But electric guitar is pretty cool, and the allure is still there after 7 decades of them existing.<em> Is learning <a href="/what-is-the-best-electric-guitar-brand/" data-lasso-id="215698">electric guitar</a> hard. though?</em> </p>
 
 
 
-<p>That is a really tough question to answer even from someone like me, that teaches. It can depend on a lot of factors, but<strong><a href="https://www.electrikjam.com/is-it-too-late-to-learn-guitar/" data-type="post" data-id="10519" target="_blank" rel="noopener" data-lasso-id="215522"> I think that anyone can learn guitar.</a></strong> I think it really just takes time, and <em>honest</em> practice. Sure, <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216534">electric guitar</a> is a very fun hobby. But actually taking the time to learn takes a lot of effort.</p>
+<p>That is a really tough question to answer even from someone like me, that teaches. It can depend on a lot of factors, but<strong><a href="/is-it-too-late-to-learn-guitar/" data-type="post" data-id="10519" target="_blank" rel="noopener" data-lasso-id="215522"> I think that anyone can learn guitar.</a></strong> I think it really just takes time, and <em>honest</em> practice. Sure, <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216534">electric guitar</a> is a very fun hobby. But actually taking the time to learn takes a lot of effort.</p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<p><strong>Learning <a href="https://www.electrikjam.com/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217648">electric guitar</a> is a lifelong journey, no matter when you may start playing. Learning guitar is going to be totally dependent on how much time you have to dedicate to the instrument. Setting time aside, for practice is paramount. Learning guitar can be a lot of fun, and not a hard process at all!</strong></p>
+<p><strong>Learning <a href="/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217648">electric guitar</a> is a lifelong journey, no matter when you may start playing. Learning guitar is going to be totally dependent on how much time you have to dedicate to the instrument. Setting time aside, for practice is paramount. Learning guitar can be a lot of fun, and not a hard process at all!</strong></p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>Personally, I think that <strong><a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-type="post" data-id="10336" target="_blank" rel="noopener" data-lasso-id="215523">learning on electric guitar has some advantages over acoustic </a></strong>guitar. There is a big myth that beginners should always start with an acoustic guitar. I disagree, and I think that <a href="https://www.electrikjam.com/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218267">electric guitar</a> holds some serious advantages that will make learning much easier.</p>
+<p>Personally, I think that <strong><a href="/is-electric-guitar-ok-for-beginners/" data-type="post" data-id="10336" target="_blank" rel="noopener" data-lasso-id="215523">learning on electric guitar has some advantages over acoustic </a></strong>guitar. There is a big myth that beginners should always start with an acoustic guitar. I disagree, and I think that <a href="/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218267">electric guitar</a> holds some serious advantages that will make learning much easier.</p>
 
 
 
@@ -102,11 +102,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246508">The main takeaway here, is that the neck of the electric guitar is slimmer</a> and easier to get &#8220;comfortable&#8221; with. So if you are looking to start with electric guitar, then you might have an <em>easier</em> time getting started. Especially if you want to use headphones to be quiet.</p>
+<p><a href="/parts-of-an-electric-guitar/" data-lasso-id="246508">The main takeaway here, is that the neck of the electric guitar is slimmer</a> and easier to get &#8220;comfortable&#8221; with. So if you are looking to start with electric guitar, then you might have an <em>easier</em> time getting started. Especially if you want to use headphones to be quiet.</p>
 
 
 
-<p>But learning electric guitar is going to depend entirely on you! We have t<strong><a href="https://www.electrikjam.com/how-many-years-does-it-take-to-learn-guitar/" data-type="post" data-id="10376" target="_blank" rel="noopener" data-lasso-id="215524">alked about how long it can take to lean how to play guitar</a></strong>. In that article we talked about how <a href="https://www.electrikjam.com/how-do-you-practice-scales/" data-lasso-id="215788">important it is to have a <strong>practice</a> routine</strong>. That gives you a little bit of a timeline, or an idea as to how long it might take you to learn guitar.</p>
+<p>But learning electric guitar is going to depend entirely on you! We have t<strong><a href="/how-many-years-does-it-take-to-learn-guitar/" data-type="post" data-id="10376" target="_blank" rel="noopener" data-lasso-id="215524">alked about how long it can take to lean how to play guitar</a></strong>. In that article we talked about how <a href="/how-do-you-practice-scales/" data-lasso-id="215788">important it is to have a <strong>practice</a> routine</strong>. That gives you a little bit of a timeline, or an idea as to how long it might take you to learn guitar.</p>
 
 
 
@@ -115,15 +115,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" target="_blank" rel="noopener" data-lasso-id="215525">Is Electric Guitar OK For Beginners?</a></strong></li>
+<li><strong><a href="/is-electric-guitar-ok-for-beginners/" target="_blank" rel="noopener" data-lasso-id="215525">Is Electric Guitar OK For Beginners?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/is-it-too-late-to-learn-guitar/" target="_blank" rel="noopener" data-lasso-id="215526">Is It Too Late To Learn Guitar?</a></strong></li>
+<li><strong><a href="/is-it-too-late-to-learn-guitar/" target="_blank" rel="noopener" data-lasso-id="215526">Is It Too Late To Learn Guitar?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" target="_blank" rel="noopener" data-lasso-id="215527">Do You Need An Amp To Play Electric Guitar?</a></strong></li>
+<li><strong><a href="/do-you-need-an-amp-to-play-electric-guitar/" target="_blank" rel="noopener" data-lasso-id="215527">Do You Need An Amp To Play Electric Guitar?</a></strong></li>
 </ul>
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>So learning electric guitar always has some &#8220;growing pains&#8221; in the beginning, but after you start learning your first chords , <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251767">especially the tricky F Chord</a>, you will want to practice even more! Because after you get down how to play chords, you will move on to learning songs!</p>
+<p>So learning electric guitar always has some &#8220;growing pains&#8221; in the beginning, but after you start learning your first chords , <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251767">especially the tricky F Chord</a>, you will want to practice even more! Because after you get down how to play chords, you will move on to learning songs!</p>
 
 
 

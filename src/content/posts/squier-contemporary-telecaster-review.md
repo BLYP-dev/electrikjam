@@ -273,7 +273,7 @@ seo:
 
 
 <div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-289c189c wp-block-group-is-layout-flex">
-<p class="has-primary-color has-text-color has-link-color has-small-font-size wp-elements-fcaeb38a988a69d62dd2c0d6381cb48c" style="text-decoration:underline"><strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-5bkynl/" data-type="lasso-urls" data-id="6283" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260509" data-lasso-name="Squier Contemporary Telecaster RH">CHECK LATEST PRICES</a></strong></p>
+<p class="has-primary-color has-text-color has-link-color has-small-font-size wp-elements-fcaeb38a988a69d62dd2c0d6381cb48c" style="text-decoration:underline"><strong><a href="/guitar-center-pxf-io-5bkynl/" data-type="lasso-urls" data-id="6283" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260509" data-lasso-name="Squier Contemporary Telecaster RH">CHECK LATEST PRICES</a></strong></p>
 </div>
 </div>
 
@@ -300,16 +300,16 @@ seo:
 
 
 
-<p>This was the Squier that I grew up with, a <strong><a data-lasso-id="236018" href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-type="post" data-id="11873">budget guitar brand for beginners</a></strong>. The company was just a low cost version of Fender<strong> </strong>guitars and it was aimed solely at first time players.  </p>
+<p>This was the Squier that I grew up with, a <strong><a data-lasso-id="236018" href="/best-harley-benton-telecaster/" data-type="post" data-id="11873">budget guitar brand for beginners</a></strong>. The company was just a low cost version of Fender<strong> </strong>guitars and it was aimed solely at first time players.  </p>
 
 
 
-<p>Although, I had also seen<a data-lasso-id="39277" href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener"><strong> some pros </strong></a>take a Squier guitar and mod it to play on stage, and some of these people were pretty famous! I have also seen professionals have a Squier as a backup guitar at gigs, in case something happens to their main Fender guitar on stage.</p>
+<p>Although, I had also seen<a data-lasso-id="39277" href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener"><strong> some pros </strong></a>take a Squier guitar and mod it to play on stage, and some of these people were pretty famous! I have also seen professionals have a Squier as a backup guitar at gigs, in case something happens to their main Fender guitar on stage.</p>
 
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236019">Tele vs Jazzmaster: How They&#8217;re Different (And Why It Matters)</a></strong></li>
+<li><strong><a href="/telecaster-vs-jazzmaster/" data-lasso-id="236019">Tele vs Jazzmaster: How They&#8217;re Different (And Why It Matters)</a></strong></li>
 </ul>
 
 
@@ -318,15 +318,15 @@ seo:
 
 
 
-<p>But a few years ago, Squier started making some higher priced instruments, that had some <em>amazing</em> specs. These started with the <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-152yrb/" target="_blank" data-type="lasso-urls" data-id="6279" rel="nofollow sponsored noopener" data-lasso-id="39278" data-lasso-name="Squier Classic Vibe 60&#039;s Stratocaster">Classic Vibe Series</a>,</strong> which sold extremely well, and was universally praised by reviewers <em>and</em> players alike. I owned one of these amazing guitars, and I used it to record several tracks in 2012. The studio engineer asked me about it, and after he played it, he bought <em>three</em> for his studio. But these were styled after classic guitars from 50 years ago, but for a budget price.</p>
+<p>But a few years ago, Squier started making some higher priced instruments, that had some <em>amazing</em> specs. These started with the <strong><a href="/guitar-center-pxf-io-152yrb/" target="_blank" data-type="lasso-urls" data-id="6279" rel="nofollow sponsored noopener" data-lasso-id="39278" data-lasso-name="Squier Classic Vibe 60&#039;s Stratocaster">Classic Vibe Series</a>,</strong> which sold extremely well, and was universally praised by reviewers <em>and</em> players alike. I owned one of these amazing guitars, and I used it to record several tracks in 2012. The studio engineer asked me about it, and after he played it, he bought <em>three</em> for his studio. But these were styled after classic guitars from 50 years ago, but for a budget price.</p>
 
 
 
-<p>Squier began making the Contemporary Series to &#8220;compliment&#8221; the Classic Vibe Guitars. There was a twist with the new Contemporary series: Instead of being based on classic guitars, these would be more futuristic, and aimed at playing heavy music. Some models feature <a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="39279"><strong>active pickups</strong></a>, and every model sports a wild new modern finish. These have amazing specs, while still remaining in budget price territory.</p>
+<p>Squier began making the Contemporary Series to &#8220;compliment&#8221; the Classic Vibe Guitars. There was a twist with the new Contemporary series: Instead of being based on classic guitars, these would be more futuristic, and aimed at playing heavy music. Some models feature <a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="39279"><strong>active pickups</strong></a>, and every model sports a wild new modern finish. These have amazing specs, while still remaining in budget price territory.</p>
 
 
 
-<p>The Squier Contemporary Telecaster is one of the newer additions to the lineup, and it has all kinds of <em>insane</em> features for the price. But instead of looking through the lens of &#8220;this is a <a href="https://www.electrikjam.com/schecter-cr6-review/" data-lasso-id="72857">budget guitar&#8221;</a> that usually ends up with me saying &#8220;this is good for the money&#8221;&#8230; I forgot about price and just played the guitar. The results were&#8230;different.</p>
+<p>The Squier Contemporary Telecaster is one of the newer additions to the lineup, and it has all kinds of <em>insane</em> features for the price. But instead of looking through the lens of &#8220;this is a <a href="/schecter-cr6-review/" data-lasso-id="72857">budget guitar&#8221;</a> that usually ends up with me saying &#8220;this is good for the money&#8221;&#8230; I forgot about price and just played the guitar. The results were&#8230;different.</p>
 
 
 
@@ -342,7 +342,7 @@ seo:
 
 
 
-<p>There is a lot to talk about when it comes to the Squier Contemporary Telecaster, and I am going to try and sum up my experience with it over three days. If you are looking for a classic &#8220;Tele Twang&#8221; type of guitar, you will be sorely disappointed with this axe! Squier has plenty of <a href="https://www.fender.com/en-US/squier-electric-guitars/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="39280"><strong>throwback models</strong></a>, and this is <em>not</em> one of them.This Tele has all kinds of modern features that Fender doesn&#8217;t usually offer outside of the <a href="https://www.electrikjam.com/jim-root-fender-jazzmaster-v4/" target="_blank" data-type="lasso-urls" data-id="4550" rel="nofollow noopener" data-lasso-id="39281" data-lasso-name="Fender Jim Root Jazzmaster"><strong>Jim Root Models</strong></a>.</p>
+<p>There is a lot to talk about when it comes to the Squier Contemporary Telecaster, and I am going to try and sum up my experience with it over three days. If you are looking for a classic &#8220;Tele Twang&#8221; type of guitar, you will be sorely disappointed with this axe! Squier has plenty of <a href="https://www.fender.com/en-US/squier-electric-guitars/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="39280"><strong>throwback models</strong></a>, and this is <em>not</em> one of them.This Tele has all kinds of modern features that Fender doesn&#8217;t usually offer outside of the <a href="/jim-root-fender-jazzmaster-v4/" target="_blank" data-type="lasso-urls" data-id="4550" rel="nofollow noopener" data-lasso-id="39281" data-lasso-name="Fender Jim Root Jazzmaster"><strong>Jim Root Models</strong></a>.</p>
 
 
 
@@ -396,11 +396,11 @@ seo:
 
 
 
-<p>Starting with the construction, this thing does not feel like a Squier guitar <em>at all</em>. First of all, it is a little heavier than you would expect. Now I don&#8217;t mean it&#8217;s like an 8lbs<a href="https://www.electrikjam.com/https-guitar-center-pxf-io-p0bvkr/" target="_blank" data-type="lasso-urls" data-id="6222" rel="nofollow sponsored noopener" data-lasso-id="39282" data-lasso-name="Epiphone 1959 Les Paul Special Edition"><strong> Les Paul</strong></a> or anything, but it is definitely heavier than I expected, at about 6.8lbs. The roasted maple neck looks great, and everything is built very stable. The nut and tuners are on the cheap side, but they do their jobs.</p>
+<p>Starting with the construction, this thing does not feel like a Squier guitar <em>at all</em>. First of all, it is a little heavier than you would expect. Now I don&#8217;t mean it&#8217;s like an 8lbs<a href="/https-guitar-center-pxf-io-p0bvkr/" target="_blank" data-type="lasso-urls" data-id="6222" rel="nofollow sponsored noopener" data-lasso-id="39282" data-lasso-name="Epiphone 1959 Les Paul Special Edition"><strong> Les Paul</strong></a> or anything, but it is definitely heavier than I expected, at about 6.8lbs. The roasted maple neck looks great, and everything is built very stable. The nut and tuners are on the cheap side, but they do their jobs.</p>
 
 
 
-<p>If you are a regular Fender player, this neck is going to throw you off a little bit. The flat 12&#8221; radius is much different than what you usually find on a Tele <em>(9.5 is standard)</em>. The Squier Contemporary Telecaster was obviously made for shredding, and this thin/flat neck is a dream to play on. Fast runs and legato are easy, as well as big bends. You also have a full sized 22 fret neck, instead of the 21 that you usually get with a Squier. It feels <em>a lot</em> like a <a href="https://www.electrikjam.com/pxf-2/" target="_blank" data-type="lasso-urls" data-id="5444" rel="nofollow sponsored noopener" data-lasso-id="39283" data-lasso-name="Charvel Pro Mod DK24"><strong>Charvel</strong></a> neck to me, which happens to <em>also be a Fender brand</em>&#8230;Hmm&#8230;I wonder&#8230;</p>
+<p>If you are a regular Fender player, this neck is going to throw you off a little bit. The flat 12&#8221; radius is much different than what you usually find on a Tele <em>(9.5 is standard)</em>. The Squier Contemporary Telecaster was obviously made for shredding, and this thin/flat neck is a dream to play on. Fast runs and legato are easy, as well as big bends. You also have a full sized 22 fret neck, instead of the 21 that you usually get with a Squier. It feels <em>a lot</em> like a <a href="/pxf-2/" target="_blank" data-type="lasso-urls" data-id="5444" rel="nofollow sponsored noopener" data-lasso-id="39283" data-lasso-name="Charvel Pro Mod DK24"><strong>Charvel</strong></a> neck to me, which happens to <em>also be a Fender brand</em>&#8230;Hmm&#8230;I wonder&#8230;</p>
 
 
 
@@ -412,7 +412,7 @@ seo:
 
 
 
-<p>The matte black hardware looks really awesome on all three models, and it fits the whole theme of the guitar while bringing everything together, visually. It not only matches the binding, but also the tuners and the nut making the whole look of the guitar very cohesive. The bridge is Fender Modern style with six individual saddles, like a <a href="https://www.electrikjam.com/https-guitar-center-pxf-io-rnrged/" target="_blank" data-type="lasso-urls" data-id="6075" rel="nofollow sponsored noopener" data-lasso-id="39284" data-lasso-name="Fender Player Series HSS"><strong>Stratocaster</strong></a>. This makes it <em>so much </em>easier to intonate and set the string height compared to the vintage Tele bridge.</p>
+<p>The matte black hardware looks really awesome on all three models, and it fits the whole theme of the guitar while bringing everything together, visually. It not only matches the binding, but also the tuners and the nut making the whole look of the guitar very cohesive. The bridge is Fender Modern style with six individual saddles, like a <a href="/https-guitar-center-pxf-io-rnrged/" target="_blank" data-type="lasso-urls" data-id="6075" rel="nofollow sponsored noopener" data-lasso-id="39284" data-lasso-name="Fender Player Series HSS"><strong>Stratocaster</strong></a>. This makes it <em>so much </em>easier to intonate and set the string height compared to the vintage Tele bridge.</p>
 
 
 
@@ -436,7 +436,7 @@ seo:
 
 
 
-<p>The next thing you notice is the murdered-out pickups. You have a full sized humbucker in the neck with the SQR logo. But the coolest feature is the Rail-style humbucker in the bridge! This may look like a single coil, but this is a stacked humbucker like <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="39285"><strong>Duncan</strong></a> is known for, and Dimarzio. This is a crazy combo for a Telecaster, and definitely brings this guitar up to more &#8220;Metal&#8221; specs.</p>
+<p>The next thing you notice is the murdered-out pickups. You have a full sized humbucker in the neck with the SQR logo. But the coolest feature is the Rail-style humbucker in the bridge! This may look like a single coil, but this is a stacked humbucker like <a href="/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener" data-lasso-id="39285"><strong>Duncan</strong></a> is known for, and Dimarzio. This is a crazy combo for a Telecaster, and definitely brings this guitar up to more &#8220;Metal&#8221; specs.</p>
 
 
 
@@ -444,7 +444,7 @@ seo:
 
 
 
-<p>More surprising, is the SQR bridge rail humbucker. This thing <em><strong>RIPS</strong></em>! I was so surprised when I tuned down to <a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" target="_blank" data-type="post" data-id="5202" rel="noopener" data-lasso-id="39286"><strong>drop D</strong></a> and started chugging, and using more<a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" target="_blank" data-type="post" data-id="2151" rel="noopener" data-lasso-id="39287"> <strong>complex </strong></a>chords. You can hear every note through high gain, and this pickup is very midrange heavy so it <em>cuts</em> surprisingly well. Usually stock pickups are kind of &#8220;boomy&#8221; and have too much bass, but this SQR Rail Humbucker doesn&#8217;t have that problem at all. In fact, I had to add a little bass on the <a href="https://www.electrikjam.com/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="39288"><strong>Katana</strong></a> amp EQ that I was playing the guitar through.</p>
+<p>More surprising, is the SQR bridge rail humbucker. This thing <em><strong>RIPS</strong></em>! I was so surprised when I tuned down to <a href="/drop-d-tuning-guitar-guide/" target="_blank" data-type="post" data-id="5202" rel="noopener" data-lasso-id="39286"><strong>drop D</strong></a> and started chugging, and using more<a href="/chord-voicing-extensions-for-metal/" target="_blank" data-type="post" data-id="2151" rel="noopener" data-lasso-id="39287"> <strong>complex </strong></a>chords. You can hear every note through high gain, and this pickup is very midrange heavy so it <em>cuts</em> surprisingly well. Usually stock pickups are kind of &#8220;boomy&#8221; and have too much bass, but this SQR Rail Humbucker doesn&#8217;t have that problem at all. In fact, I had to add a little bass on the <a href="/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="39288"><strong>Katana</strong></a> amp EQ that I was playing the guitar through.</p>
 
 
 
@@ -456,7 +456,7 @@ seo:
 
 
 
-<p>The Squier Contemporary Telecaster is really impressive when it comes to the pickups. I was expecting them to sound <em>good</em>, since the <a data-lasso-id="39289" data-lasso-name="Squier Contemporary Active Jazzmaster" href="https://www.electrikjam.com/guitar-center-pxf-io-x9onv3/" data-type="lasso-urls" data-id="6056" target="_blank" rel="nofollow sponsored noopener"><strong>Jazzmaster</strong></a> from the Contemporary series has some unbelievably good active pickups. But the SQR passives are a humongous surprise, mainly because of the clarity they provide under high gain. <a data-lasso-id="39713" href="https://www.electrikjam.com/sustainiac-pickup-fixes/">This is something you usually only get with premium pickups</a> that are aftermarket and expensive. The neck pickup is good, but the bridge pickup is <em>great</em>.</p>
+<p>The Squier Contemporary Telecaster is really impressive when it comes to the pickups. I was expecting them to sound <em>good</em>, since the <a data-lasso-id="39289" data-lasso-name="Squier Contemporary Active Jazzmaster" href="/guitar-center-pxf-io-x9onv3/" data-type="lasso-urls" data-id="6056" target="_blank" rel="nofollow sponsored noopener"><strong>Jazzmaster</strong></a> from the Contemporary series has some unbelievably good active pickups. But the SQR passives are a humongous surprise, mainly because of the clarity they provide under high gain. <a data-lasso-id="39713" href="/sustainiac-pickup-fixes/">This is something you usually only get with premium pickups</a> that are aftermarket and expensive. The neck pickup is good, but the bridge pickup is <em>great</em>.</p>
 
 
 
@@ -468,11 +468,11 @@ seo:
 
 
 
-<p>Squier and Fender both aren&#8217;t exactly known for making guitars for metal and Rock music but that seems to be changing, at least with the Squier models. I think it&#8217;s easier to make these models under the Squier brand name, because Fender is all about historical legacy. Epiphone does the same thing by making models like<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-qo0k1x/" target="_blank" data-type="lasso-urls" data-id="6059" rel="nofollow sponsored noopener" data-lasso-id="39290" data-lasso-name="Epiphone Les Paul Prophecy Electric Guitar">The Prophecy </a></strong>series, something that Gibson would probably <em>never</em> do.</p>
+<p>Squier and Fender both aren&#8217;t exactly known for making guitars for metal and Rock music but that seems to be changing, at least with the Squier models. I think it&#8217;s easier to make these models under the Squier brand name, because Fender is all about historical legacy. Epiphone does the same thing by making models like<strong> <a href="/guitar-center-pxf-io-qo0k1x/" target="_blank" data-type="lasso-urls" data-id="6059" rel="nofollow sponsored noopener" data-lasso-id="39290" data-lasso-name="Epiphone Les Paul Prophecy Electric Guitar">The Prophecy </a></strong>series, something that Gibson would probably <em>never</em> do.</p>
 
 
 
-<p>In the same vein as Epiphone, it appears that Squier has become it&#8217;s &#8220;own thing&#8221; now and is taking more risks with design. I am a huge fan of these kinds of designs because I love Fender guitars and all of the body styles that Fender makes. But Fender is usually not very friendly when it comes to Metal. I mean, it can be done&#8230; but why fight a Tele when you can buy a <strong><a href="https://www.electrikjam.com/https-guitar-center-pxf-io-ry2jry/" target="_blank" data-type="lasso-urls" data-id="6034" rel="nofollow sponsored noopener" data-lasso-id="39291" data-lasso-name="Schecter Sun Valley Super Shredder Exotic Hardtail">Schecter</a> </strong>that was designed to shred?</p>
+<p>In the same vein as Epiphone, it appears that Squier has become it&#8217;s &#8220;own thing&#8221; now and is taking more risks with design. I am a huge fan of these kinds of designs because I love Fender guitars and all of the body styles that Fender makes. But Fender is usually not very friendly when it comes to Metal. I mean, it can be done&#8230; but why fight a Tele when you can buy a <strong><a href="/https-guitar-center-pxf-io-ry2jry/" target="_blank" data-type="lasso-urls" data-id="6034" rel="nofollow sponsored noopener" data-lasso-id="39291" data-lasso-name="Schecter Sun Valley Super Shredder Exotic Hardtail">Schecter</a> </strong>that was designed to shred?</p>
 
 
 
@@ -505,7 +505,7 @@ seo:
 
 
 <div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-289c189c wp-block-group-is-layout-flex">
-<p class="has-primary-color has-text-color has-link-color has-small-font-size wp-elements-083882f692937967e48e67fdb359f701" style="text-decoration:underline"><strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-5bkynl/" data-type="lasso-urls" data-id="6283" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260510" data-lasso-name="Squier Contemporary Telecaster RH">CHECK LATEST PRICES</a></strong></p>
+<p class="has-primary-color has-text-color has-link-color has-small-font-size wp-elements-083882f692937967e48e67fdb359f701" style="text-decoration:underline"><strong><a href="/guitar-center-pxf-io-5bkynl/" data-type="lasso-urls" data-id="6283" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260510" data-lasso-name="Squier Contemporary Telecaster RH">CHECK LATEST PRICES</a></strong></p>
 </div>
 </div>
 </div>

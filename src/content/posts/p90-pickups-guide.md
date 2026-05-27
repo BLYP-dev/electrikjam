@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>In 1957, <strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="145590">the humbucker was invented</a></strong>, bringing with it significantly greater output than the P90 and, importantly, less hum.</p>
+<p>In 1957, <strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="145590">the humbucker was invented</a></strong>, bringing with it significantly greater output than the P90 and, importantly, less hum.</p>
 
 
 
@@ -79,11 +79,11 @@ seo:
 
 
 
-<p>But it was guitarists like Johnny Thunders, Mick Jones of The Clash, and Steve Jones of The Sex Pistols that put the P90 back on the map, following the popularity of <strong><a href="https://www.electrikjam.com/epiphone-les-paul-jr-link/" data-type="lasso-urls" data-id="4400" rel="nofollow noopener" target="_blank" data-lasso-id="145591" data-lasso-name="Epiphone Les Paul Junior">cheaper Gibson Les Paul Junior models</a></strong>.</p>
+<p>But it was guitarists like Johnny Thunders, Mick Jones of The Clash, and Steve Jones of The Sex Pistols that put the P90 back on the map, following the popularity of <strong><a href="/epiphone-les-paul-jr-link/" data-type="lasso-urls" data-id="4400" rel="nofollow noopener" target="_blank" data-lasso-id="145591" data-lasso-name="Epiphone Les Paul Junior">cheaper Gibson Les Paul Junior models</a></strong>.</p>
 
 
 
-<p>Johnny Thunders of The New York Dolls used a Les Paul Junior equipped with P90 pickups. It was a huge part of the band’s overall sound. And Thunders was a major influence on Mick Jones (The Clash) and Steve Jones (The Sex Pistols). And this in turn led to the <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195401">Gibson Les Paul Junior</a> becoming the guitar of choice for 1970 punk bands.</p>
+<p>Johnny Thunders of The New York Dolls used a Les Paul Junior equipped with P90 pickups. It was a huge part of the band’s overall sound. And Thunders was a major influence on Mick Jones (The Clash) and Steve Jones (The Sex Pistols). And this in turn led to the <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195401">Gibson Les Paul Junior</a> becoming the guitar of choice for 1970 punk bands.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-are-p90-pickups-good-for-lets-find-out/" data-type="post" data-id="5912" data-lasso-id="145592">The magic with P90 pickups</a></strong> happens in the middle and lower end, and this is what really separates them from single coil pickups and humbuckers. P90 pickups kind of occupy a middle ground, having plenty of “thickness” but also lots of clarity and detail at the high end.</p>
+<p><strong><a href="/what-are-p90-pickups-good-for-lets-find-out/" data-type="post" data-id="5912" data-lasso-id="145592">The magic with P90 pickups</a></strong> happens in the middle and lower end, and this is what really separates them from single coil pickups and humbuckers. P90 pickups kind of occupy a middle ground, having plenty of “thickness” but also lots of clarity and detail at the high end.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>You essentially get the traditional <strong><a href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="145593">twanginess of a single coil pickup</a></strong> with added layers of warmth and thickness that isn’t usually present on standard single coil pickups used on <strong><a href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" data-lasso-id="145594">Telecasters and Strats</a></strong>. In this respect, the P90 is kind of a single-coil/humbucker hybrid, having elements of both pickups in its tonal range.</p>
+<p>You essentially get the traditional <strong><a href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="145593">twanginess of a single coil pickup</a></strong> with added layers of warmth and thickness that isn’t usually present on standard single coil pickups used on <strong><a href="/fender-price-tiers-explained/" data-type="post" data-id="7446" data-lasso-id="145594">Telecasters and Strats</a></strong>. In this respect, the P90 is kind of a single-coil/humbucker hybrid, having elements of both pickups in its tonal range.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>A lot of guitarists love P90 pickups. Carlos Santana was a huge advocate of the P90. Ditto Rick Beato. But there is a certain type of music that is definitely not suited to guitars that run P90 pickups. I’m talking, of course, about the greatest and highest form of music ever created: <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="145595">METAL</a></strong>.</p>
+<p>A lot of guitarists love P90 pickups. Carlos Santana was a huge advocate of the P90. Ditto Rick Beato. But there is a certain type of music that is definitely not suited to guitars that run P90 pickups. I’m talking, of course, about the greatest and highest form of music ever created: <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="145595">METAL</a></strong>.</p>
 
 
 
@@ -179,11 +179,11 @@ seo:
 
 
 
-<p>This is why Fender’s guitars that are designed for metal – like <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="145596">Jim Root of Slipknot’s signature models</a></strong> – run humbucker pickups. Humbuckers are DESIGNED to handle things like high-gain and distortion. They also eliminate hum too, so you get that heavy sound without losing any clarity.</p>
+<p>This is why Fender’s guitars that are designed for metal – like <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="145596">Jim Root of Slipknot’s signature models</a></strong> – run humbucker pickups. Humbuckers are DESIGNED to handle things like high-gain and distortion. They also eliminate hum too, so you get that heavy sound without losing any clarity.</p>
 
 
 
-<p>Bottom line? If you want to play metal, use a guitar that runs humbucker pickups. And make sure you check out our guide to <strong><a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-type="post" data-id="6031" data-lasso-id="145597">the best guitars you can buy right now.</a></strong> </p>
+<p>Bottom line? If you want to play metal, use a guitar that runs humbucker pickups. And make sure you check out our guide to <strong><a href="/the-best-guitars-of-2021/" data-type="post" data-id="6031" data-lasso-id="145597">the best guitars you can buy right now.</a></strong> </p>
 
 
 

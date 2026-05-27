@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Pedals can be a blessing when it comes to finding your own sound. <strong><a href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" class="rank-math-link" data-lasso-id="303">There are thousands of pedals out there</a></strong>, and hundreds of companies. Some are mass-produced, inexpensive, and used widely. Then there are limited edition boutique pedals that can be awfully expensive.</p>
+<p>Pedals can be a blessing when it comes to finding your own sound. <strong><a href="/the-best-guitar-pedals-1968-2021/" class="rank-math-link" data-lasso-id="303">There are thousands of pedals out there</a></strong>, and hundreds of companies. Some are mass-produced, inexpensive, and used widely. Then there are limited edition boutique pedals that can be awfully expensive.</p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p>This is all going to be very subjective, because <a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125570">everyone has a different taste in pedals</a> and brands. But we can definitely break down which pedals your board should have, based on the types of pedals. There are many different types of pedals that provide different effects:</p>
+<p>This is all going to be very subjective, because <a href="/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125570">everyone has a different taste in pedals</a> and brands. But we can definitely break down which pedals your board should have, based on the types of pedals. There are many different types of pedals that provide different effects:</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>Another good way to choose pedals, is to look at what some other guitarists are using. It&#8217;s easy to look up what <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5471">your favorite guitarists</a> have as part of their rig. If there is a specific sound you want to achieve, there&#8217;s nothing wrong with looking to your guitar heroes.</p>
+<p>Another good way to choose pedals, is to look at what some other guitarists are using. It&#8217;s easy to look up what <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5471">your favorite guitarists</a> have as part of their rig. If there is a specific sound you want to achieve, there&#8217;s nothing wrong with looking to your guitar heroes.</p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>If you have a<a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="304"> digital amp</a> like some of the ones on out beginner list, then maybe you don&#8217;t need pedals at all! Not only do these not usually take pedals very well, but you have pretty much every effect you need at your fingertips.</p>
+<p>If you have a<a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="304"> digital amp</a> like some of the ones on out beginner list, then maybe you don&#8217;t need pedals at all! Not only do these not usually take pedals very well, but you have pretty much every effect you need at your fingertips.</p>
 
 
 
@@ -132,11 +132,11 @@ seo:
 
 
 
-<p>While most pedals are not exactly essential, the tuner is the exception unless you have another means, like a <a href="https://www.electrikjam.com/best-electric-guitar-tuners/" data-type="post" data-id="862" data-lasso-id="305">clip-on tuner.</a> Either way, a tuner is absolutely key. These usually go first in your signal chain (more on that later).</p>
+<p>While most pedals are not exactly essential, the tuner is the exception unless you have another means, like a <a href="/best-electric-guitar-tuners/" data-type="post" data-id="862" data-lasso-id="305">clip-on tuner.</a> Either way, a tuner is absolutely key. These usually go first in your signal chain (more on that later).</p>
 
 
 
-<p>There are many brands of tuners out there, I personally like the<a href="https://www.electrikjam.com/recommends/korg-pitchblack-tuner/" data-lasso-id="306"> Korg Pitchblack</a>, since it has a large display that can seen easily on stage or in the studio.</p>
+<p>There are many brands of tuners out there, I personally like the<a href="/recommends/korg-pitchblack-tuner/" data-lasso-id="306"> Korg Pitchblack</a>, since it has a large display that can seen easily on stage or in the studio.</p>
 
 
 
@@ -152,11 +152,11 @@ seo:
 
 
 
-<p>You can also use a distortion pedal <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2521">together with your amp&#8217;s</a> distortion. This can add midrange or boost the highs, to &#8220;color&#8221; the distortion tone. Sometimes the only way to get the tone you want is by blending different types of distortion.</p>
+<p>You can also use a distortion pedal <a href="/line-6-helix-reviews-is-it-worth-it/" data-lasso-id="2521">together with your amp&#8217;s</a> distortion. This can add midrange or boost the highs, to &#8220;color&#8221; the distortion tone. Sometimes the only way to get the tone you want is by blending different types of distortion.</p>
 
 
 
-<p>Fuzz works the same way, to color your sound. <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="307">Doom Metal </a>is usually based around a good distortion sound that is colored with fuzz, in varying degrees.</p>
+<p>Fuzz works the same way, to color your sound. <a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="307">Doom Metal </a>is usually based around a good distortion sound that is colored with fuzz, in varying degrees.</p>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<p>In Metal, it is often used to &#8220;tighten up&#8221; the amp&#8217;s natural distortion sound. You hear about this a lot, and it&#8217;s a <a href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="308">really cool technique</a>.</p>
+<p>In Metal, it is often used to &#8220;tighten up&#8221; the amp&#8217;s natural distortion sound. You hear about this a lot, and it&#8217;s a <a href="/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="308">really cool technique</a>.</p>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<p>The trick with modulation effects is to use them sparingly and tastefully. Personally, beyond delay and reverb, I really don&#8217;t use any of these other effects anymore. I find it hard to use flange, as all I hear is <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195344">Eddie Van Halen</a> when I turn it on. Flange was a key part of his sound.</p>
+<p>The trick with modulation effects is to use them sparingly and tastefully. Personally, beyond delay and reverb, I really don&#8217;t use any of these other effects anymore. I find it hard to use flange, as all I hear is <a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195344">Eddie Van Halen</a> when I turn it on. Flange was a key part of his sound.</p>
 
 
 
@@ -260,11 +260,11 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/the-5-best-wah-pedals-for-metal-review/" data-lasso-id="169477">Wah Wah pedal</a> is one of the most popular pedals ever invented. They are still used today by artists everywhere, for good reason. They have an unmistakable, sweet sound.</p>
+<p>The <a href="/the-5-best-wah-pedals-for-metal-review/" data-lasso-id="169477">Wah Wah pedal</a> is one of the most popular pedals ever invented. They are still used today by artists everywhere, for good reason. They have an unmistakable, sweet sound.</p>
 
 
 
-<p>While <strong>Jimi Hendrix </strong>certainly made the Wah popular, many other guitarists over the years have used it to color their <a href="https://www.electrikjam.com/the-7-best-guitar-solos-of-all-time/" data-lasso-id="77654">guitar solos</a>, and make them sound epic.</p>
+<p>While <strong>Jimi Hendrix </strong>certainly made the Wah popular, many other guitarists over the years have used it to color their <a href="/the-7-best-guitar-solos-of-all-time/" data-lasso-id="77654">guitar solos</a>, and make them sound epic.</p>
 
 
 
@@ -312,7 +312,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/voodolab-power-supply/" data-lasso-id="309">> CHECK LATEST PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/voodolab-power-supply/" data-lasso-id="309">> CHECK LATEST PRICES</a></strong></p>
 
 
 
@@ -380,11 +380,11 @@ seo:
 
 
 
-<p>So the more you have, the better. Treat them like <a href="https://www.electrikjam.com/best-picks-for-metal/" data-type="post" data-id="453" data-lasso-id="311">guitar picks</a>. have some hanging out wherever you play!</p>
+<p>So the more you have, the better. Treat them like <a href="/best-picks-for-metal/" data-type="post" data-id="453" data-lasso-id="311">guitar picks</a>. have some hanging out wherever you play!</p>
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/harley-benton-patch-cable/" data-lasso-id="312">> CHECK LATEST PRICES</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/harley-benton-patch-cable/" data-lasso-id="312">> CHECK LATEST PRICES</a></strong></p>
 
 
 
@@ -472,7 +472,7 @@ seo:
 
 
 
-<p>While there are plenty of <a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" data-lasso-id="314">digital units</a> out there, there is something satisfying about creating your own sounds with analog pedals. It&#8217;s like the difference between listening to an MP3 vs. a vinyl record. They both do the same thing, but one seems more personal and organic.</p>
+<p>While there are plenty of <a href="/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" data-lasso-id="314">digital units</a> out there, there is something satisfying about creating your own sounds with analog pedals. It&#8217;s like the difference between listening to an MP3 vs. a vinyl record. They both do the same thing, but one seems more personal and organic.</p>
 
 
 
@@ -488,5 +488,5 @@ seo:
 
 
 
-<p>Now that you know how to build out a pedalboard, you&#8217;re going to need some actual pedals. Check out our guide to <strong><a class="rank-math-link" href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-lasso-id="315">the best and most iconic guitar pedals ever created</a></strong> – from 1968 to 2021. </p>
+<p>Now that you know how to build out a pedalboard, you&#8217;re going to need some actual pedals. Check out our guide to <strong><a class="rank-math-link" href="/the-best-guitar-pedals-1968-2021/" data-lasso-id="315">the best and most iconic guitar pedals ever created</a></strong> – from 1968 to 2021. </p>
 

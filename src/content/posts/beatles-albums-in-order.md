@@ -454,11 +454,11 @@ seo:
 
 
 
-<p>With respect to <strong><a href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" data-lasso-id="133508">The Beatles’ enduring influence and popularity</a></strong>, the reason they remain so consistently popular is that nearly all of the most well-known bands and artists – from <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="133509">Black Sabbath</a></strong> to Bruno Mars – cite The Beatles as one of their core influences. That and the fact that their songs and melodies have a timelessness to them that seems to transcend time and space.</p>
+<p>With respect to <strong><a href="/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" data-lasso-id="133508">The Beatles’ enduring influence and popularity</a></strong>, the reason they remain so consistently popular is that nearly all of the most well-known bands and artists – from <strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="133509">Black Sabbath</a></strong> to Bruno Mars – cite The Beatles as one of their core influences. That and the fact that their songs and melodies have a timelessness to them that seems to transcend time and space.</p>
 
 
 
-<p>Tracks like Hey Jude, Get Back, Eleanor Rigby, and Back in The USSR sound as fresh today as they did fifty or even sixty years ago. And a lot of that is down to the fact that The Beatles was comprised of three of the best songwriters in history –&nbsp;<strong><a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="133510">Paul McCartney, John Lennon, and George Harrison</a></strong>. But also because, during the latter part of the band&#8217;s career, they stopped touring and simply became a recording band –&nbsp;this was when The Beatles got REALLY experimental.</p>
+<p>Tracks like Hey Jude, Get Back, Eleanor Rigby, and Back in The USSR sound as fresh today as they did fifty or even sixty years ago. And a lot of that is down to the fact that The Beatles was comprised of three of the best songwriters in history –&nbsp;<strong><a href="/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="133510">Paul McCartney, John Lennon, and George Harrison</a></strong>. But also because, during the latter part of the band&#8217;s career, they stopped touring and simply became a recording band –&nbsp;this was when The Beatles got REALLY experimental.</p>
 
 
 
@@ -1103,7 +1103,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><a data-lasso-id="135453" href="https://www.electrikjam.com/john-lennons-least-favorite-beatles-album-will-surprise-you/"><strong>John Lennon’s favorite Beatles album</strong></a><strong> was The White Album</strong></li>
+<li><a data-lasso-id="135453" href="/john-lennons-least-favorite-beatles-album-will-surprise-you/"><strong>John Lennon’s favorite Beatles album</strong></a><strong> was The White Album</strong></li>
 
 
 

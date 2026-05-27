@@ -46,11 +46,11 @@ seo:
 
 
 
-<p>The new Epiphone Power Players Series is designed for beginner guitarists of any age, and <em>any size</em>. While mini guitars have taken off in popularity, Epiphone has taken that concept much more seriously, and designed a<em> real instrument</em> for beginners at a <a data-lasso-id="156473" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>budget</strong></a> price.</p>
+<p>The new Epiphone Power Players Series is designed for beginner guitarists of any age, and <em>any size</em>. While mini guitars have taken off in popularity, Epiphone has taken that concept much more seriously, and designed a<em> real instrument</em> for beginners at a <a data-lasso-id="156473" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener"><strong>budget</strong></a> price.</p>
 
 
 
-<p>We have a real appreciation for<a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="156474"> </a><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="156475">Epiphone</a> </strong>here at Electrikjam. I have personally owned quite a few models over the years, and even used them in professional settings. My first <a href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="156476"><strong>&#8220;</strong></a><strong><a href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="156477">real&#8221; guitar</a> </strong>was an <a href="https://www.electrikjam.com/guitar-center-pxf-io-xxgly5/" data-type="lasso-urls" data-id="5591" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="156478" data-lasso-name="Epiphone Les Paul Studio"><strong>Epiphone Les Paul</strong></a>, and I have used many models on stage for backup guitars during my career.</p>
+<p>We have a real appreciation for<a href="/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="156474"> </a><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener" data-lasso-id="156475">Epiphone</a> </strong>here at Electrikjam. I have personally owned quite a few models over the years, and even used them in professional settings. My first <a href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="156476"><strong>&#8220;</strong></a><strong><a href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="156477">real&#8221; guitar</a> </strong>was an <a href="/guitar-center-pxf-io-xxgly5/" data-type="lasso-urls" data-id="5591" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="156478" data-lasso-name="Epiphone Les Paul Studio"><strong>Epiphone Les Paul</strong></a>, and I have used many models on stage for backup guitars during my career.</p>
 
 
 
@@ -58,15 +58,15 @@ seo:
 
 
 
-<p>Epiphone also has its own models, like the <a href="https://www.electrikjam.com/epiphone-casino-link/" data-type="lasso-urls" data-id="6963" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="156627" data-lasso-name="Epiphone Casino"><strong>Casino</strong></a> that have been famously used by tons of <a data-lasso-id="156479" href="https://www.electrikjam.com/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" target="_blank" rel="noopener"><strong>artists like The Beatles</strong></a>. <strong>Matt Heafy</strong> from <strong>Trivium</strong> has his <a data-lasso-id="156480" href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" target="_blank" rel="noopener">o<strong>wn signature Epiphone</strong></a> lineup, and he plays those on stage 200 days a year! Gary Clarke Jr is another guitarist that just prefers the feel of an Epiphone.</p>
+<p>Epiphone also has its own models, like the <a href="/epiphone-casino-link/" data-type="lasso-urls" data-id="6963" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="156627" data-lasso-name="Epiphone Casino"><strong>Casino</strong></a> that have been famously used by tons of <a data-lasso-id="156479" href="/why-the-beatles-used-epiphone-not-gibson/" data-type="post" data-id="6962" target="_blank" rel="noopener"><strong>artists like The Beatles</strong></a>. <strong>Matt Heafy</strong> from <strong>Trivium</strong> has his <a data-lasso-id="156480" href="/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" target="_blank" rel="noopener">o<strong>wn signature Epiphone</strong></a> lineup, and he plays those on stage 200 days a year! Gary Clarke Jr is another guitarist that just prefers the feel of an Epiphone.</p>
 
 
 
-<p>So when I saw the Epiphone Power Players lineup, I was a little confused. I mean, Epiphone is already one of the best choices for beginners. Not only do most Epiphone guitars fit the price range for a beginner, these guitars are also <a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="156481"><strong>&#8220;short scale&#8221; like Gibson</strong></a>.</p>
+<p>So when I saw the Epiphone Power Players lineup, I was a little confused. I mean, Epiphone is already one of the best choices for beginners. Not only do most Epiphone guitars fit the price range for a beginner, these guitars are also <a href="/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="156481"><strong>&#8220;short scale&#8221; like Gibson</strong></a>.</p>
 
 
 
-<p>The Epiphone Power Players lineup takes the <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254477">concept of a beginner guitar</a>, and makes it even easier to get started playing. The first thing you think of is the shorter scale, and that is definitely a feature to talk about. But there are several other features that makes these guitars perfect for <em>anyone</em>, at <em><a data-lasso-id="156628" href="https://youtu.be/luyg1pSG1oo" target="_blank" rel="noopener noreferrer nofollow"><strong>any age</strong></a></em>.</p>
+<p>The Epiphone Power Players lineup takes the <a href="/best-guitar-for-beginners/" data-lasso-id="254477">concept of a beginner guitar</a>, and makes it even easier to get started playing. The first thing you think of is the shorter scale, and that is definitely a feature to talk about. But there are several other features that makes these guitars perfect for <em>anyone</em>, at <em><a data-lasso-id="156628" href="https://youtu.be/luyg1pSG1oo" target="_blank" rel="noopener noreferrer nofollow"><strong>any age</strong></a></em>.</p>
 
 
 
@@ -94,11 +94,11 @@ seo:
 
 
 
-<p>When it comes to iconic guitar designs, the <a href="https://www.electrikjam.com/epiphone-sg-standard-link/" data-type="lasso-urls" data-id="6259" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="156705" data-lasso-name="Epiphone SG Standard"><strong>SG</strong></a> and<a data-lasso-id="156629" href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-type="post" data-id="7671" target="_blank" rel="noopener"> <strong>Les Paul</strong></a> definitely fit the bill, so I can see why Epiphone chose these two models for this lineup. Both are going to be the type of guitar that a kid will ask for, since <strong>so many famous players use these legendary guitars</strong>.</p>
+<p>When it comes to iconic guitar designs, the <a href="/epiphone-sg-standard-link/" data-type="lasso-urls" data-id="6259" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="156705" data-lasso-name="Epiphone SG Standard"><strong>SG</strong></a> and<a data-lasso-id="156629" href="/epiphone-les-paul-prophecy-colors/" data-type="post" data-id="7671" target="_blank" rel="noopener"> <strong>Les Paul</strong></a> definitely fit the bill, so I can see why Epiphone chose these two models for this lineup. Both are going to be the type of guitar that a kid will ask for, since <strong>so many famous players use these legendary guitars</strong>.</p>
 
 
 
-<p>These are both also models that mom or dad might have laying around the house! If you have kids, I am sure you don&#8217;t want them having any accidents with your<a data-lasso-id="156630" data-lasso-name="Gibson Les Paul Standard &#039;60s" href="https://www.electrikjam.com/gibson-les-paul-standard-link/" data-type="lasso-urls" data-id="6443" target="_blank" rel="nofollow noopener"> <strong>Gibson</strong></a>. So they not only<em> look like</em> the guitars that their<em> heroes </em>might play, but also like the ones their<em> parents </em>might have!</p>
+<p>These are both also models that mom or dad might have laying around the house! If you have kids, I am sure you don&#8217;t want them having any accidents with your<a data-lasso-id="156630" data-lasso-name="Gibson Les Paul Standard &#039;60s" href="/gibson-les-paul-standard-link/" data-type="lasso-urls" data-id="6443" target="_blank" rel="nofollow noopener"> <strong>Gibson</strong></a>. So they not only<em> look like</em> the guitars that their<em> heroes </em>might play, but also like the ones their<em> parents </em>might have!</p>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>Mahogany Neck</strong></li><li><strong>22.73&#8221; Scale Length</strong></li><li><strong>Bolt On Construction</strong></li><li><strong>Trapezoid Inlays</strong></li><li><strong><a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246496">Slim Taper D Neck Profile</a> </strong></li><li><strong>Indian Laurel Fretboard</strong></li><li><strong>22 Frets</strong></li><li><strong>Dual Epiphone Humbuckers (Medium Output)</strong></li><li><strong>Three Way Pickup Selector</strong></li><li><strong>Individual Volume And Tone Knobs For Each Pickup</strong></li><li><strong>Cream Binding</strong> <strong>(Body and Neck)</strong></li><li><strong>Nickel Hardware</strong></li><li><strong>Ice Blue And Lava Red Finishes</strong></li><li><strong>Includes Gig Bag, Strap, And Picks</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>Mahogany Neck</strong></li><li><strong>22.73&#8221; Scale Length</strong></li><li><strong>Bolt On Construction</strong></li><li><strong>Trapezoid Inlays</strong></li><li><strong><a href="/parts-of-an-electric-guitar/" data-lasso-id="246496">Slim Taper D Neck Profile</a> </strong></li><li><strong>Indian Laurel Fretboard</strong></li><li><strong>22 Frets</strong></li><li><strong>Dual Epiphone Humbuckers (Medium Output)</strong></li><li><strong>Three Way Pickup Selector</strong></li><li><strong>Individual Volume And Tone Knobs For Each Pickup</strong></li><li><strong>Cream Binding</strong> <strong>(Body and Neck)</strong></li><li><strong>Nickel Hardware</strong></li><li><strong>Ice Blue And Lava Red Finishes</strong></li><li><strong>Includes Gig Bag, Strap, And Picks</strong></li></ul>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p><strong>We can start with the neck, since that is the most obvious feature.</strong> Both models feature a 22.73&#8221; scale length, which doesn&#8217;t really feel weird at all until you get further up the neck. This makes <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196575">playing basic chords</a> super easy, without feeling &#8220;crowded&#8221; like some mini guitars. The slim taper neck is a little flatter than most Epiphone guitars, making it easy for smaller hands to grip.</p>
+<p><strong>We can start with the neck, since that is the most obvious feature.</strong> Both models feature a 22.73&#8221; scale length, which doesn&#8217;t really feel weird at all until you get further up the neck. This makes <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196575">playing basic chords</a> super easy, without feeling &#8220;crowded&#8221; like some mini guitars. The slim taper neck is a little flatter than most Epiphone guitars, making it easy for smaller hands to grip.</p>
 
 
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<p>The mahogany body on both Epiphone Power Players models is just <em>slightly</em> smaller than the real deal. I held the <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195423">Les Paul</a> up to a regular Gibson model, and they are extremely close, with the Power Player being maybe 8/10ths of the &#8220;normal&#8221; size. So these <em>are not</em> the usual 3/4 &#8220;mini guitars&#8221; where everything is just <em>shrunk</em>.</p>
+<p>The mahogany body on both Epiphone Power Players models is just <em>slightly</em> smaller than the real deal. I held the <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="195423">Les Paul</a> up to a regular Gibson model, and they are extremely close, with the Power Player being maybe 8/10ths of the &#8220;normal&#8221; size. So these <em>are not</em> the usual 3/4 &#8220;mini guitars&#8221; where everything is just <em>shrunk</em>.</p>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<p>The humbuckers are a total surprise here, as I expected them to be &#8220;usable&#8221;. But both pickups actually sound<strong> really great</strong> through the <a data-lasso-id="156631" href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener"><strong>Fender Blues Jr</strong></a> and <a data-lasso-id="156632" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong>BOSS Katana</strong></a> amplifiers that I played these guitars through. You can get some LEGIT tones out of these guitars!</p>
+<p>The humbuckers are a total surprise here, as I expected them to be &#8220;usable&#8221;. But both pickups actually sound<strong> really great</strong> through the <a data-lasso-id="156631" href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener"><strong>Fender Blues Jr</strong></a> and <a data-lasso-id="156632" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong>BOSS Katana</strong></a> amplifiers that I played these guitars through. You can get some LEGIT tones out of these guitars!</p>
 
 
 
@@ -174,7 +174,7 @@ seo:
 
 
 
-<p>I mean, let&#8217;s be honest here:  Some beginner guitars have some really awful, muddy sounding humbuckers. While the Epiphone Power Players are priced a little higher than some <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" target="_blank" data-type="post" data-id="6031" rel="noopener" data-lasso-id="156706"><strong>beginner</strong></a> guitars, this is obviously where some of the money went. Epiphone went above and beyond to have some decent &#8216;pups in these guitars.</p>
+<p>I mean, let&#8217;s be honest here:  Some beginner guitars have some really awful, muddy sounding humbuckers. While the Epiphone Power Players are priced a little higher than some <a href="/the-best-guitars-of-2021/" target="_blank" data-type="post" data-id="6031" rel="noopener" data-lasso-id="156706"><strong>beginner</strong></a> guitars, this is obviously where some of the money went. Epiphone went above and beyond to have some decent &#8216;pups in these guitars.</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>The Epiphone Power Players series both come with a simple wrap-around bridge. This means changing strings is<em> a breeze</em>. These are a lot like <a href="https://www.electrikjam.com/prs-se-245-les-paul/" data-type="lasso-urls" data-id="4255" target="_blank" rel="nofollow noopener" data-lasso-id="156707" data-lasso-name="PRS SE 245"><strong>PRS</strong></a> wrap-around bridges that are &#8220;pre-intonated&#8221;. That is one less factor in the maintenance of this guitar, so kids can learn how to change strings <em>EASY</em>.</p>
+<p>The Epiphone Power Players series both come with a simple wrap-around bridge. This means changing strings is<em> a breeze</em>. These are a lot like <a href="/prs-se-245-les-paul/" data-type="lasso-urls" data-id="4255" target="_blank" rel="nofollow noopener" data-lasso-id="156707" data-lasso-name="PRS SE 245"><strong>PRS</strong></a> wrap-around bridges that are &#8220;pre-intonated&#8221;. That is one less factor in the maintenance of this guitar, so kids can learn how to change strings <em>EASY</em>.</p>
 
 
 
@@ -190,15 +190,15 @@ seo:
 
 
 
-<p>Likewise, you could also use the Epiphone Power Players for a <strong>travel guitar</strong>. These are smaller, and easier to haul around than a full size guitar. Not to mention, if you are on a trip, bringing an <a href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174806">expensive guitar</a> in case is probably not the wisest option. I played both models, with my big hands, without any problems at all.</p>
+<p>Likewise, you could also use the Epiphone Power Players for a <strong>travel guitar</strong>. These are smaller, and easier to haul around than a full size guitar. Not to mention, if you are on a trip, bringing an <a href="/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174806">expensive guitar</a> in case is probably not the wisest option. I played both models, with my big hands, without any problems at all.</p>
 
 
 
-<p>The usefulness of the Epiphone Power <a href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" data-lasso-id="202449">Players guitars</a> is pretty limitless. Both models are solid right out of the box and they sound great. Add to that the ease of maintenance and I think Epiphone has a winner here.</p>
+<p>The usefulness of the Epiphone Power <a href="/best-acoustic-guitars-for-metal/" data-lasso-id="202449">Players guitars</a> is pretty limitless. Both models are solid right out of the box and they sound great. Add to that the ease of maintenance and I think Epiphone has a winner here.</p>
 
 
 
-<p>The included accessories are all good as well. You get a decent gig bag, amp cable, a strap, and some picks to get you started. There is also an assortment of fun Epiphone stickers in the box, along with an Allen key for truss rod adjustments. You have everything you need to get started, <a data-lasso-id="156633" href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener"><strong>minus an amp</strong></a>.</p>
+<p>The included accessories are all good as well. You get a decent gig bag, amp cable, a strap, and some picks to get you started. There is also an assortment of fun Epiphone stickers in the box, along with an Allen key for truss rod adjustments. You have everything you need to get started, <a data-lasso-id="156633" href="/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener"><strong>minus an amp</strong></a>.</p>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<p>You can probably find a lot of mini, or &#8220;kid-sized&#8221; guitars out there for a lower price point. I know <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255032">Ibanez</a> and Squier both make cheaper options. But I think Epiphone made it a point for these to not be as disposable as those other models. Yes, they are small&#8230; but the quality of the components is leagues ahead of the competition.</p>
+<p>You can probably find a lot of mini, or &#8220;kid-sized&#8221; guitars out there for a lower price point. I know <a href="/ibanez-guitars/" data-lasso-id="255032">Ibanez</a> and Squier both make cheaper options. But I think Epiphone made it a point for these to not be as disposable as those other models. Yes, they are small&#8230; but the quality of the components is leagues ahead of the competition.</p>
 
 
 

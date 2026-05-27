@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>I came to this realization <strong><a href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="240303">after owning a cheap Epiphone for a while</a></strong>, and it just didn&#8217;t sound &#8220;right&#8221; anymore. It was my first &#8220;real&#8221; guitar, and it sounded great for the first 6 months! So what went wrong with my guitar?</p>
+<p>I came to this realization <strong><a href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="240303">after owning a cheap Epiphone for a while</a></strong>, and it just didn&#8217;t sound &#8220;right&#8221; anymore. It was my first &#8220;real&#8221; guitar, and it sounded great for the first 6 months! So what went wrong with my guitar?</p>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/the-ultimate-guitarists-toolkit/" data-type="post" data-id="12186" target="_blank" rel="noopener" data-lasso-id="240304">Everyone has a different &#8220;guitarist&#8217;s toolkit&#8221; at home</a></strong>, with varying different levels of tools and  experience. Personally, I think basic guitar maintenance is part of being a guitarist. You should know how you like your guitar to be setup, play, and feel.</p>
+<p><strong><a href="/the-ultimate-guitarists-toolkit/" data-type="post" data-id="12186" target="_blank" rel="noopener" data-lasso-id="240304">Everyone has a different &#8220;guitarist&#8217;s toolkit&#8221; at home</a></strong>, with varying different levels of tools and  experience. Personally, I think basic guitar maintenance is part of being a guitarist. You should know how you like your guitar to be setup, play, and feel.</p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<p>When it comes to <strong>optimal playability</strong>, this part is probably the most important. Have you ever tried to play a guitar with sky-high action? It can be pretty difficult if the guitar isn&#8217;t setup well. Likewise, details like <strong><a data-lasso-id="240305" href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener">intonation ensures your guitar always sounds good</a></strong>.</p>
+<p>When it comes to <strong>optimal playability</strong>, this part is probably the most important. Have you ever tried to play a guitar with sky-high action? It can be pretty difficult if the guitar isn&#8217;t setup well. Likewise, details like <strong><a data-lasso-id="240305" href="/how-do-i-set-my-intonation-guitar/" data-type="post" data-id="673" target="_blank" rel="noopener">intonation ensures your guitar always sounds good</a></strong>.</p>
 
 
 
@@ -226,7 +226,7 @@ seo:
 
 
 
-<p>There are a ton of different brands out there that make <strong>polish and fretboard conditioner</strong>, and <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-do5103/" data-type="lasso-urls" data-id="6006" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="240306" data-lasso-name="Music Nomad String Fuel">I personally like Music Nomad products</a></strong>. But I always wipe down the fretboard, and make sure it is properly hydrated during a string change.</p>
+<p>There are a ton of different brands out there that make <strong>polish and fretboard conditioner</strong>, and <strong><a href="/guitar-center-pxf-io-do5103/" data-type="lasso-urls" data-id="6006" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="240306" data-lasso-name="Music Nomad String Fuel">I personally like Music Nomad products</a></strong>. But I always wipe down the fretboard, and make sure it is properly hydrated during a string change.</p>
 
 
 
@@ -234,7 +234,7 @@ seo:
 
 
 
-<p>It only takes a few minutes to <strong>check your intonation</strong> on the 12th fret after you have the new strings on the guitar. This is a great time to check, after your strings are stretched. Intonation is usually stable if you <strong><a href="https://www.electrikjam.com/guitar-string-gauges-guide/" target="_blank" data-type="post" data-id="11115" rel="noopener" data-lasso-id="240307">stick with the same string gauge</a></strong>, but it is always good to check.</p>
+<p>It only takes a few minutes to <strong>check your intonation</strong> on the 12th fret after you have the new strings on the guitar. This is a great time to check, after your strings are stretched. Intonation is usually stable if you <strong><a href="/guitar-string-gauges-guide/" target="_blank" data-type="post" data-id="11115" rel="noopener" data-lasso-id="240307">stick with the same string gauge</a></strong>, but it is always good to check.</p>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<p>We already <strong><a href="https://www.electrikjam.com/the-ultimate-guitarists-toolkit/" data-type="post" data-id="12186" target="_blank" rel="noopener" data-lasso-id="240677">went in depth with the guitarist&#8217;s toolkit article</a></strong>. But we can still take a moment to go over the basic tools you will need to do guitar maintenance at home. </p>
+<p>We already <strong><a href="/the-ultimate-guitarists-toolkit/" data-type="post" data-id="12186" target="_blank" rel="noopener" data-lasso-id="240677">went in depth with the guitarist&#8217;s toolkit article</a></strong>. But we can still take a moment to go over the basic tools you will need to do guitar maintenance at home. </p>
 
 
 
@@ -358,7 +358,7 @@ seo:
 
 
 
-<p>The cost upfront may seem high when you are looking at tools, but it will pay for itself many times over. Plus learning how guitars work give you a deep appreciation of the instrument<strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="240679">. I am amazed at how a Floyd Rose works</a></strong>, and the simple electronics of most guitars.</p>
+<p>The cost upfront may seem high when you are looking at tools, but it will pay for itself many times over. Plus learning how guitars work give you a deep appreciation of the instrument<strong><a href="/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="240679">. I am amazed at how a Floyd Rose works</a></strong>, and the simple electronics of most guitars.</p>
 
 
 
@@ -379,43 +379,43 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="240680">How To Set Your Intonation Like A Pro</a></strong></li>
+<li><strong><a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="240680">How To Set Your Intonation Like A Pro</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/the-ultimate-guitarists-toolkit/" target="_blank" data-type="post" data-id="12186" rel="noopener" data-lasso-id="240681">Building Your Guitarist&#8217;s Toolkit</a></strong></li>
+<li><strong><a href="/the-ultimate-guitarists-toolkit/" target="_blank" data-type="post" data-id="12186" rel="noopener" data-lasso-id="240681">Building Your Guitarist&#8217;s Toolkit</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/glarry-mods-can-glarry-guitars-be-upgraded/" target="_blank" data-type="post" data-id="11330" rel="noopener" data-lasso-id="240682">Cheap And Easy Mods You Can Do To Your Guitar</a></strong></li>
+<li><strong><a href="/glarry-mods-can-glarry-guitars-be-upgraded/" target="_blank" data-type="post" data-id="11330" rel="noopener" data-lasso-id="240682">Cheap And Easy Mods You Can Do To Your Guitar</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/glarry-guitars-and-basses-quality-vs-price/" target="_blank" data-type="post" data-id="11372" rel="noopener" data-lasso-id="240683">Inexpensive Guitars You can Learn To Work On</a></strong></li>
+<li><strong><a href="/glarry-guitars-and-basses-quality-vs-price/" target="_blank" data-type="post" data-id="11372" rel="noopener" data-lasso-id="240683">Inexpensive Guitars You can Learn To Work On</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-string-gauges-guide/" target="_blank" data-type="post" data-id="11115" rel="noopener" data-lasso-id="240684">Guitar String Gauge Guide</a></strong></li>
+<li><strong><a href="/guitar-string-gauges-guide/" target="_blank" data-type="post" data-id="11115" rel="noopener" data-lasso-id="240684">Guitar String Gauge Guide</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/what-are-the-three-types-of-electric-guitars/" target="_blank" data-type="post" data-id="10906" rel="noopener" data-lasso-id="240685">The Three Types Of Electric Guitar</a></strong></li>
+<li><strong><a href="/what-are-the-three-types-of-electric-guitars/" target="_blank" data-type="post" data-id="10906" rel="noopener" data-lasso-id="240685">The Three Types Of Electric Guitar</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/solving-guitar-tuning-issues-tutorial/" target="_blank" data-type="post" data-id="10273" rel="noopener" data-lasso-id="240686">Solving Guitar Tuning Issues</a></strong></li>
+<li><strong><a href="/solving-guitar-tuning-issues-tutorial/" target="_blank" data-type="post" data-id="10273" rel="noopener" data-lasso-id="240686">Solving Guitar Tuning Issues</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="240687">Setting Up A Floating Bridge</a></strong></li>
+<li><strong><a href="/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="240687">Setting Up A Floating Bridge</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" target="_blank" data-type="post" data-id="7941" rel="noopener" data-lasso-id="240688">Explaining Guitar Pickups</a></strong></li>
+<li><strong><a href="/guitar-pickup-positions/" target="_blank" data-type="post" data-id="7941" rel="noopener" data-lasso-id="240688">Explaining Guitar Pickups</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/what-are-locking-tuners/" target="_blank" data-type="post" data-id="5971" rel="noopener" data-lasso-id="240689">Installing Locking Tuners: How They Work</a></strong></li>
+<li><strong><a href="/what-are-locking-tuners/" target="_blank" data-type="post" data-id="5971" rel="noopener" data-lasso-id="240689">Installing Locking Tuners: How They Work</a></strong></li>
 </ul>
 
 

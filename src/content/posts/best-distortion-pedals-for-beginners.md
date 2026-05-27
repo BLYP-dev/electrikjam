@@ -36,11 +36,11 @@ seo:
 
 
 
-<p>So you have a <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="1026">beginner guitar that you love</a></strong>, and <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1027"><strong>maybe a good practice amp</strong></a>. The natural progression usually will lead you down the rabbit hole of buying some pedals. This can be very confusing at first, as there are hundreds of pedal companies that make great distortion pedals.</p>
+<p>So you have a <strong><a href="/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="1026">beginner guitar that you love</a></strong>, and <a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1027"><strong>maybe a good practice amp</strong></a>. The natural progression usually will lead you down the rabbit hole of buying some pedals. This can be very confusing at first, as there are hundreds of pedal companies that make great distortion pedals.</p>
 
 
 
-<ul class="wp-block-list"><li><strong><a href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" class="rank-math-link" data-lasso-id="1028">RELATED: The All-Time Greatest Guitar Pedals</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong><a href="/the-best-guitar-pedals-1968-2021/" class="rank-math-link" data-lasso-id="1028">RELATED: The All-Time Greatest Guitar Pedals</a></strong></li></ul>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>So we wont be going into any deep-dives, or any complex pedals that can do everything. We will only be checking out pedals that do <em>one thing </em>really well, and are easy to use. If you are looking into <strong><a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" class="rank-math-link" data-lasso-id="1029">building your first pedalboard</a></strong>, then this is a great place to start!!</p>
+<p>So we wont be going into any deep-dives, or any complex pedals that can do everything. We will only be checking out pedals that do <em>one thing </em>really well, and are easy to use. If you are looking into <strong><a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" class="rank-math-link" data-lasso-id="1029">building your first pedalboard</a></strong>, then this is a great place to start!!</p>
 
 
 
@@ -72,11 +72,11 @@ seo:
 
 
 
-<p>The only way to start would be to look into the past. Some of the best distortion pedals for beginners are the classics! These pedals are not only easy to use, but also <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-lasso-id="104677">create an iconic</a> sound that many of the greatest guitarists have used over the years!</p>
+<p>The only way to start would be to look into the past. Some of the best distortion pedals for beginners are the classics! These pedals are not only easy to use, but also <a href="/the-peavey-5150-history/" data-lasso-id="104677">create an iconic</a> sound that many of the greatest guitarists have used over the years!</p>
 
 
 
-<p><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1030"><strong>Many digital amps have tried to &#8220;model&#8221; these classic pedals</strong></a>, for good reason!</p>
+<p><a href="/best-practice-amps-for-beginners/" class="rank-math-link" data-lasso-id="1030"><strong>Many digital amps have tried to &#8220;model&#8221; these classic pedals</strong></a>, for good reason!</p>
 
 
 
@@ -96,11 +96,11 @@ seo:
 
 
 
-<p>The original BOSS &#8220;Orange&#8221; was released first in 1978, and BOSS sought out to make an inexpensive <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231159">guitar pedal</a> for the working musician. From the <a href="https://www.boss.info/us/products/ds-1/" class="rank-math-link" data-lasso-id="1031" target="_blank" rel="noopener noreferrer nofollow"><strong>BOSS guitar website</strong></a>:</p>
+<p>The original BOSS &#8220;Orange&#8221; was released first in 1978, and BOSS sought out to make an inexpensive <a href="/gamma-guitar-pedals-review/" data-lasso-id="231159">guitar pedal</a> for the working musician. From the <a href="https://www.boss.info/us/products/ds-1/" class="rank-math-link" data-lasso-id="1031" target="_blank" rel="noopener noreferrer nofollow"><strong>BOSS guitar website</strong></a>:</p>
 
 
 
-<p><em>The DS-1 Distortion is a true icon in the world of <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184899">guitar effects</a>. Introduced in 1978, BOSS’s first distortion pedal defined a bold new sound, delivering hard-edged attack and smooth sustain that’s been a staple of players for generations. </em></p>
+<p><em>The DS-1 Distortion is a true icon in the world of <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184899">guitar effects</a>. Introduced in 1978, BOSS’s first distortion pedal defined a bold new sound, delivering hard-edged attack and smooth sustain that’s been a staple of players for generations. </em></p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p>The BOSS DS-1 is the most <a href="https://www.electrikjam.com/boss-hm2-pedal-finally-confirmed-new-for-2021/" data-lasso-id="1032">best selling distortion pedal</a> of all time, and it has been used by literally everyone.</em> If you listen to anything recorded in the 1980&#8217;s you will probably hear the DS-1 somewhere in the mix!</p>
+<p>The BOSS DS-1 is the most <a href="/boss-hm2-pedal-finally-confirmed-new-for-2021/" data-lasso-id="1032">best selling distortion pedal</a> of all time, and it has been used by literally everyone.</em> If you listen to anything recorded in the 1980&#8217;s you will probably hear the DS-1 somewhere in the mix!</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>It would be impossible to mention the best distortion pedals for beginners without talking about the Tube Screamer. This is yet another pedal that has been used for so long, it is a staple of almost every <a href="https://www.electrikjam.com/5-best-christmas-presents-for-guitar-players/" data-lasso-id="29816">guitar player&#8217;s</a> pedalboard.</p>
+<p>It would be impossible to mention the best distortion pedals for beginners without talking about the Tube Screamer. This is yet another pedal that has been used for so long, it is a staple of almost every <a href="/5-best-christmas-presents-for-guitar-players/" data-lasso-id="29816">guitar player&#8217;s</a> pedalboard.</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<p>If you turn the gain knob all the way down, and the volume all the way up in front of your amp&#8217;s distortion, you boost the signal of your amp. This makes your distortion tone perfect for low chugs, and <a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="1033">big power chords</a>.</p>
+<p>If you turn the gain knob all the way down, and the volume all the way up in front of your amp&#8217;s distortion, you boost the signal of your amp. This makes your distortion tone perfect for low chugs, and <a href="/chord-voicing-extensions-for-metal/" data-lasso-id="1033">big power chords</a>.</p>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<p>People eventually caught on to the rather &#8220;mild&#8221; sound of the MXR, usually <a href="https://www.electrikjam.com/boss-tone-bender-an-epic-collaboration-for-2020/" class="rank-math-link" data-lasso-id="1034"><strong>blending it with fuzz</strong></a> to create a heavy and clear metal sound. The MXR Distortion works so well <a href="https://www.electrikjam.com/fuzz-vs-distortion/" data-lasso-id="36499">with fuzz pedals</a>, because the circuitry is very similar. Like a traditional fuzz pedal, The pedal uses a single op-amp and a pair of&nbsp;germanium diodes&nbsp;to ground (parallel-push) for clipping in a very simple configuration with only Output and Distortion controls, no tone control; the pedal uses no discrete&nbsp;transistors.</p>
+<p>People eventually caught on to the rather &#8220;mild&#8221; sound of the MXR, usually <a href="/boss-tone-bender-an-epic-collaboration-for-2020/" class="rank-math-link" data-lasso-id="1034"><strong>blending it with fuzz</strong></a> to create a heavy and clear metal sound. The MXR Distortion works so well <a href="/fuzz-vs-distortion/" data-lasso-id="36499">with fuzz pedals</a>, because the circuitry is very similar. Like a traditional fuzz pedal, The pedal uses a single op-amp and a pair of&nbsp;germanium diodes&nbsp;to ground (parallel-push) for clipping in a very simple configuration with only Output and Distortion controls, no tone control; the pedal uses no discrete&nbsp;transistors.</p>
 
 
 
@@ -204,7 +204,7 @@ seo:
 
 
 
-<p>To me, the MXR has a Marshall Amplifier distortion sound, without having to crank up a 100 watt amp to sound good! It works great if you are looking for that &#8220;scooped mid&#8221; sound, like <a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="1035"><strong>Pantera</strong></a>. But it also blooms with the mid knob turned up, providing an almost &#8220;Djent&#8221; like tone.</p>
+<p>To me, the MXR has a Marshall Amplifier distortion sound, without having to crank up a 100 watt amp to sound good! It works great if you are looking for that &#8220;scooped mid&#8221; sound, like <a href="/pantera-albums-ranked-in-order-of-heaviness/" data-lasso-id="1035"><strong>Pantera</strong></a>. But it also blooms with the mid knob turned up, providing an almost &#8220;Djent&#8221; like tone.</p>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<p>But just because they are a <a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="1036">budget pedal company</a> does not mean that they are junk. The Joyo Extreme is actually quite the opposite!</p>
+<p>But just because they are a <a href="/the-5-best-guitar-pedals-under-50-bucks/" data-lasso-id="1036">budget pedal company</a> does not mean that they are junk. The Joyo Extreme is actually quite the opposite!</p>
 
 
 

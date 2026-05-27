@@ -43,11 +43,11 @@ seo:
 
 
 
-<p><br>While we have reached out to musicians <a data-lasso-id="27812" href="https://www.electrikjam.com/evan-hope-interview-the-reddit-shredder/" target="_blank" data-type="post" data-id="776" rel="noopener"><strong>before</strong></a>, it&#8217;s time that we made it official!<strong> &#8220;Underexposed&#8221; is a brand new series of articles that focuses on underground/indie Metal artists that are making big waves in the scene.</strong> We have been really excited about this project, and we love giving back to the community! Hopefully, each week, we will have a new artist for you to explore, with their latest single.</p>
+<p><br>While we have reached out to musicians <a data-lasso-id="27812" href="/evan-hope-interview-the-reddit-shredder/" target="_blank" data-type="post" data-id="776" rel="noopener"><strong>before</strong></a>, it&#8217;s time that we made it official!<strong> &#8220;Underexposed&#8221; is a brand new series of articles that focuses on underground/indie Metal artists that are making big waves in the scene.</strong> We have been really excited about this project, and we love giving back to the community! Hopefully, each week, we will have a new artist for you to explore, with their latest single.</p>
 
 
 
-<p>While it has never been easier to<a href="https://www.electrikjam.com/must-have-for-recording-guitar/" target="_blank" data-type="post" data-id="4877" rel="noopener" data-lasso-id="27813"> <strong>record</strong> </a>your music and get it out there these days, this comes as a double edged sword. It may be <em>easy</em> to get your music recorded and sounding great even at the home level these days, with <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="27814"><strong>various tools</strong></a> that are producer quality, yet available to the general public. But the hard part, is <em>gaining an audience</em> in such a saturated market, especially when it comes to metal. Electrikjam hopes that it can shine a spotlight on these newer bands, and generate a new audience for them.</p>
+<p>While it has never been easier to<a href="/must-have-for-recording-guitar/" target="_blank" data-type="post" data-id="4877" rel="noopener" data-lasso-id="27813"> <strong>record</strong> </a>your music and get it out there these days, this comes as a double edged sword. It may be <em>easy</em> to get your music recorded and sounding great even at the home level these days, with <a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="27814"><strong>various tools</strong></a> that are producer quality, yet available to the general public. But the hard part, is <em>gaining an audience</em> in such a saturated market, especially when it comes to metal. Electrikjam hopes that it can shine a spotlight on these newer bands, and generate a new audience for them.</p>
 
 
 
@@ -81,7 +81,7 @@ seo:
 
 
 
-<p>There are a lot of <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69761">sophisticated guitar techniques</a> going on throughout the whole song. Between tapping, lead alternate picking, and ambient sounds&#8230;it&#8217;s a lot to take in from one player. I know I heard a lot of influences, and I knew video games was going to fit in there somewhere, and I was right! So we caught up with Hoomzeh, and asked him all of the important questions!</p>
+<p>There are a lot of <a href="/guitar-muting-techniques/" data-lasso-id="69761">sophisticated guitar techniques</a> going on throughout the whole song. Between tapping, lead alternate picking, and ambient sounds&#8230;it&#8217;s a lot to take in from one player. I know I heard a lot of influences, and I knew video games was going to fit in there somewhere, and I was right! So we caught up with Hoomzeh, and asked him all of the important questions!</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p>When I started playing guitar in high school I eventually decided to revisit Joe Satriani’s music on my own, and it blew my mind. He was the first of many guitarists that would inspire me to sit and practice for hours and hours at a time. About a year after that, two of my best friends <a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-lasso-id="101288">introduced me to Meshuggah</a>, Animals as Leaders, and Periphery. That experience completely shattered my perception of what guitar playing and music could be (as a bonus, Periphery’s song “Have A Blast” introduced me to the otherworldly playing of Guthrie Govan). That was my gateway into this new world of modern, progressive, guitar-based instrumental music. Before I knew it I was nonstop listening to artists like Plini, CHON, David Maxim Micic, Intervals, Sithu Aye, Owane, Polyphia, Arch Echo, and so many more.</p>
+<p>When I started playing guitar in high school I eventually decided to revisit Joe Satriani’s music on my own, and it blew my mind. He was the first of many guitarists that would inspire me to sit and practice for hours and hours at a time. About a year after that, two of my best friends <a href="/meshuggah-immutable-review/" data-lasso-id="101288">introduced me to Meshuggah</a>, Animals as Leaders, and Periphery. That experience completely shattered my perception of what guitar playing and music could be (as a bonus, Periphery’s song “Have A Blast” introduced me to the otherworldly playing of Guthrie Govan). That was my gateway into this new world of modern, progressive, guitar-based instrumental music. Before I knew it I was nonstop listening to artists like Plini, CHON, David Maxim Micic, Intervals, Sithu Aye, Owane, Polyphia, Arch Echo, and so many more.</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p>I own two Ibanez <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="36013">guitars</a> (s670qm and ART420). I run these into Logic through a Scarlett Solo interface and primarily rely on NeuralDSP for guitar tones, GetGoodDrums <a href="https://www.electrikjam.com/ezdrummer-2-worth-it/" data-lasso-id="104752">plugins for drums</a>, and Submission Audio plugins for bass. Everything else is done using stock Logic sounds.</p>
+<p>I own two Ibanez <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="36013">guitars</a> (s670qm and ART420). I run these into Logic through a Scarlett Solo interface and primarily rely on NeuralDSP for guitar tones, GetGoodDrums <a href="/ezdrummer-2-worth-it/" data-lasso-id="104752">plugins for drums</a>, and Submission Audio plugins for bass. Everything else is done using stock Logic sounds.</p>
 
 
 

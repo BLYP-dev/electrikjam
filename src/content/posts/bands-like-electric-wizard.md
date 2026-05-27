@@ -150,7 +150,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong>Sound Description:</strong> <strong><a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="259723">Yob offers a unique take on doom</a></strong> with their blend of crushing riffs and contemplative, almost meditative compositions that touch on themes of spirituality and existentialism.</li>
+<li><strong>Sound Description:</strong> <strong><a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-type="post" data-id="6180" data-lasso-id="259723">Yob offers a unique take on doom</a></strong> with their blend of crushing riffs and contemplative, almost meditative compositions that touch on themes of spirituality and existentialism.</li>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>Electric Wizard draws inspiration from horror movies, witchcraft, and the darker sides of psychedelia. With albums like &#8220;Dopethrone,&#8221; widely hailed as one of the <strong><a href="https://www.electrikjam.com/best-doom-albums/" data-type="post" data-id="13764" data-lasso-id="259724">greatest stoner doom records ever made</a></strong>, they&#8217;ve cemented their place in the annals of heavy music history.</p>
+<p>Electric Wizard draws inspiration from horror movies, witchcraft, and the darker sides of psychedelia. With albums like &#8220;Dopethrone,&#8221; widely hailed as one of the <strong><a href="/best-doom-albums/" data-type="post" data-id="13764" data-lasso-id="259724">greatest stoner doom records ever made</a></strong>, they&#8217;ve cemented their place in the annals of heavy music history.</p>
 
 
 
@@ -277,7 +277,7 @@ seo:
 
 
 
-<p>Also <strong><a href="https://www.electrikjam.com/bands-like-eyehategod/" data-type="post" data-id="13847" data-lasso-id="259725">check out EYEHATEGOD and similar artists</a></strong>. </p>
+<p>Also <strong><a href="/bands-like-eyehategod/" data-type="post" data-id="13847" data-lasso-id="259725">check out EYEHATEGOD and similar artists</a></strong>. </p>
 
 
 

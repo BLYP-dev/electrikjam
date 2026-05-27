@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>I imagine that it was a lot like Seattle in the late 80s, on a smaller scale. We knew that <em>something</em> was brewing, but it was impossible to know where our bands would end up. The early 2000s were amazing in Savannah, and we experienced<strong> ZAO</strong>, <strong><a data-lasso-id="249385" href="https://www.electrikjam.com/every-time-i-die-radical-album-review-the-boys-are-back-with-brutality/" data-type="post" data-id="5181" target="_blank" rel="noopener">Every Time I Die</a></strong>, <strong>Baroness</strong>, <strong>Kylesa</strong>, <strong>Black Tusk</strong>, <strong>Jucifer</strong>, <strong>Weedeater</strong>, <strong>Skeleton</strong> <strong>Witch</strong>, <strong>Norma Jean</strong>, <strong>The Unpersons, GAM</strong> and many other bands that blended rock, hardcore, and doom metal&#8230; with a tinge of southern swagger.</p>
+<p>I imagine that it was a lot like Seattle in the late 80s, on a smaller scale. We knew that <em>something</em> was brewing, but it was impossible to know where our bands would end up. The early 2000s were amazing in Savannah, and we experienced<strong> ZAO</strong>, <strong><a data-lasso-id="249385" href="/every-time-i-die-radical-album-review-the-boys-are-back-with-brutality/" data-type="post" data-id="5181" target="_blank" rel="noopener">Every Time I Die</a></strong>, <strong>Baroness</strong>, <strong>Kylesa</strong>, <strong>Black Tusk</strong>, <strong>Jucifer</strong>, <strong>Weedeater</strong>, <strong>Skeleton</strong> <strong>Witch</strong>, <strong>Norma Jean</strong>, <strong>The Unpersons, GAM</strong> and many other bands that blended rock, hardcore, and doom metal&#8230; with a tinge of southern swagger.</p>
 
 
 

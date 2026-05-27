@@ -163,7 +163,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="259439">At the heart of Ghost&#8217;s lineup is Tobias Forge</a></strong>, who performs under various stage names like &#8220;Papa Emeritus&#8221; and &#8220;Cardinal Copia&#8221;. He&#8217;s the mastermind behind the band’s lore and music, serving as its lead vocalist and principal songwriter. The other members are known as &#8220;Nameless Ghouls&#8221;, each representing one of the classical elements – fire, water, air, earth – plus ether for good measure.</p>
+<p><strong><a href="/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="259439">At the heart of Ghost&#8217;s lineup is Tobias Forge</a></strong>, who performs under various stage names like &#8220;Papa Emeritus&#8221; and &#8220;Cardinal Copia&#8221;. He&#8217;s the mastermind behind the band’s lore and music, serving as its lead vocalist and principal songwriter. The other members are known as &#8220;Nameless Ghouls&#8221;, each representing one of the classical elements – fire, water, air, earth – plus ether for good measure.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>Over time Ghost has evolved both musically and visually. <strong><a href="https://www.electrikjam.com/best-ghost-album/" data-type="post" data-id="7312" data-lasso-id="259440">Albums like &#8216;Infestissumam&#8217; and &#8216;Meliora&#8217;</a></strong> have shown they&#8217;re not afraid to push boundaries while still keeping those addictive hooks that fans can&#8217;t get enough of. And let me tell you about their live shows! They are full-blown spectacles that feel part ritual part rock concert.</p>
+<p>Over time Ghost has evolved both musically and visually. <strong><a href="/best-ghost-album/" data-type="post" data-id="7312" data-lasso-id="259440">Albums like &#8216;Infestissumam&#8217; and &#8216;Meliora&#8217;</a></strong> have shown they&#8217;re not afraid to push boundaries while still keeping those addictive hooks that fans can&#8217;t get enough of. And let me tell you about their live shows! They are full-blown spectacles that feel part ritual part rock concert.</p>
 
 
 
@@ -195,7 +195,7 @@ seo:
 
 
 
-<p>Their songs often feature distorted guitar riffs, thunderous drumming, and elaborate stage theatrics reminiscent of classic acts like <strong><a href="https://www.electrikjam.com/best-doom-albums/" data-type="post" data-id="13764" data-lasso-id="259441">Black Sabbath</a></strong> and <strong>Blue Öyster Cult</strong>.</p>
+<p>Their songs often feature distorted guitar riffs, thunderous drumming, and elaborate stage theatrics reminiscent of classic acts like <strong><a href="/best-doom-albums/" data-type="post" data-id="13764" data-lasso-id="259441">Black Sabbath</a></strong> and <strong>Blue Öyster Cult</strong>.</p>
 
 
 
@@ -459,7 +459,7 @@ seo:
 
 
 
-<p>Sticking with the theme of Ghost, here&#8217;s ELECTRIKJAM&#8217;s guide to the <strong><a href="https://www.electrikjam.com/best-ghost-album/" data-type="post" data-id="7312" data-lasso-id="259442">best Ghost albums, ranked from best to worst. </a></strong></p>
+<p>Sticking with the theme of Ghost, here&#8217;s ELECTRIKJAM&#8217;s guide to the <strong><a href="/best-ghost-album/" data-type="post" data-id="7312" data-lasso-id="259442">best Ghost albums, ranked from best to worst. </a></strong></p>
 
 
 

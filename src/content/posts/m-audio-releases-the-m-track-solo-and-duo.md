@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Look, recording your guitar can be super complicated for those that are uninitiated. There are tons of things you have to know, whether its <a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="572">just the basics,</a> or it is plug-ins and other gear. It all gets really confusing.</p>
+<p>Look, recording your guitar can be super complicated for those that are uninitiated. There are tons of things you have to know, whether its <a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="572">just the basics,</a> or it is plug-ins and other gear. It all gets really confusing.</p>
 
 
 
@@ -68,7 +68,7 @@ seo:
 
 
 
-<p>Both models have a similar feature set, the only real difference between the two is the amount of available inputs. Really, to <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="573">record your guitar</a>, you only need one input. So the M-Track Solo might be up your alley. If you want to record two tracks at once, the M-Track Duo is where it&#8217;s at.</p>
+<p>Both models have a similar feature set, the only real difference between the two is the amount of available inputs. Really, to <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="573">record your guitar</a>, you only need one input. So the M-Track Solo might be up your alley. If you want to record two tracks at once, the M-Track Duo is where it&#8217;s at.</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<p>This means you can use your favorite <a href="https://www.electrikjam.com/guitarists-that-use-axe-fx/" data-lasso-id="88574">guitar processor</a>, amp sim, or you can even use a microphone to capture your guitar signal. The options are really limitless and you can be sure to get a clear sound. M-Audio explains the Crystal preamp:</p>
+<p>This means you can use your favorite <a href="/guitarists-that-use-axe-fx/" data-lasso-id="88574">guitar processor</a>, amp sim, or you can even use a microphone to capture your guitar signal. The options are really limitless and you can be sure to get a clear sound. M-Audio explains the Crystal preamp:</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>Yes, Metal enthusiasts&#8230; there are some great high gain amp models included! The <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4473">speaker cabinet options</a> are a little limited, but you can always load your own IR, if you are into that kind of thing. The vintage models are great for clean tones.</p>
+<p>Yes, Metal enthusiasts&#8230; there are some great high gain amp models included! The <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4473">speaker cabinet options</a> are a little limited, but you can always load your own IR, if you are into that kind of thing. The vintage models are great for clean tones.</p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p>For a DAW, you get the M-Audio version of Pro-Tools. This is a &#8220;special&#8221; edition that is light on features compared to the more expensive version. But it honestly has everything you need to get started <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9525">recording your guitar</a>. The streamlined features make it more &#8220;plug and play&#8221; than other DAW programs.</p>
+<p>For a DAW, you get the M-Audio version of Pro-Tools. This is a &#8220;special&#8221; edition that is light on features compared to the more expensive version. But it honestly has everything you need to get started <a href="/must-have-for-recording-guitar/" data-lasso-id="9525">recording your guitar</a>. The streamlined features make it more &#8220;plug and play&#8221; than other DAW programs.</p>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<p>The reverbs are particularly good. But all of the effects are meant to be used in tandem with the <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="223247">amp models and cab sims</a>. You can also use them on vocal tracks! This is basically a virtual pedalboard for your guitar.</p>
+<p>The reverbs are particularly good. But all of the effects are meant to be used in tandem with the <a href="/neural-amp-modeler/" data-lasso-id="223247">amp models and cab sims</a>. You can also use them on vocal tracks! This is basically a virtual pedalboard for your guitar.</p>
 
 
 

@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>Getting a signature model with Fender is a bit like getting an endorsement deal with Nike if you’re an athlete. It’s a big deal, figuratively and literally. Fender is one of – if not THE – <strong><a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-type="post" data-id="6405" data-lasso-id="102985">biggest guitar brands</a></strong> on the planet. It commands respect and its guitars are used and beloved by the greats, both new and old.</p>
+<p>Getting a signature model with Fender is a bit like getting an endorsement deal with Nike if you’re an athlete. It’s a big deal, figuratively and literally. Fender is one of – if not THE – <strong><a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-type="post" data-id="6405" data-lasso-id="102985">biggest guitar brands</a></strong> on the planet. It commands respect and its guitars are used and beloved by the greats, both new and old.</p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p>As splits go, Mayer leaving Fender was the guitar world’s equivalent of an A-Lister’s divorce. It was very public and piqued the interest of a lot of people. You DON’T just LEAVE, Fender. People were shocked and taken aback when Mayer confirmed he was leaving Fender and switching over to PRS. Most Fender guitarists remain Fender guitarists for life – <strong><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="102986">like Jimi Hendrix</a></strong>.</p>
+<p>As splits go, Mayer leaving Fender was the guitar world’s equivalent of an A-Lister’s divorce. It was very public and piqued the interest of a lot of people. You DON’T just LEAVE, Fender. People were shocked and taken aback when Mayer confirmed he was leaving Fender and switching over to PRS. Most Fender guitarists remain Fender guitarists for life – <strong><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="102986">like Jimi Hendrix</a></strong>.</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>For whatever reason, Fender just wouldn’t listen to Mayer’s ideas. Fender has fixed ways of doing things, things it does, and things it DEFINITELY will not do. It doesn’t budge for anyone and it certainly doesn’t do anything too drastic to its darlings – <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="102987">the Strat and Tele</a></strong>. These guitars are the company’s sacred fruit. You can tweak them a bit – make small, incremental changes here and there – but you do not mess with the core design and setup. For Fender, that was just too close to heresy.</p>
+<p>For whatever reason, Fender just wouldn’t listen to Mayer’s ideas. Fender has fixed ways of doing things, things it does, and things it DEFINITELY will not do. It doesn’t budge for anyone and it certainly doesn’t do anything too drastic to its darlings – <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="102987">the Strat and Tele</a></strong>. These guitars are the company’s sacred fruit. You can tweak them a bit – make small, incremental changes here and there – but you do not mess with the core design and setup. For Fender, that was just too close to heresy.</p>
 
 
 
@@ -113,7 +113,7 @@ seo:
 		
 
 
-<p><strong><a href="https://www.electrikjam.com/prs-2021-lineup-some-absolutely-lovely-additions/" data-type="post" data-id="1814" data-lasso-id="102988">PRS is a much smaller company</a></strong> than Fender too. It also operates in a far more “friendly” manner, seemingly, as Mayer was able to talk at length on the phone to Paul Reed Smith, the guy who owns PRS guitars. Mayer and Paul Reed Smith spent hours discussing Mayer’s ideas for a <strong><em>“modern Strat guitar”</em></strong> a guitar that would go on, in Mayer’s mind, to become the <strong><em>“future”</em></strong> of Strat-style guitars.</p>
+<p><strong><a href="/prs-2021-lineup-some-absolutely-lovely-additions/" data-type="post" data-id="1814" data-lasso-id="102988">PRS is a much smaller company</a></strong> than Fender too. It also operates in a far more “friendly” manner, seemingly, as Mayer was able to talk at length on the phone to Paul Reed Smith, the guy who owns PRS guitars. Mayer and Paul Reed Smith spent hours discussing Mayer’s ideas for a <strong><em>“modern Strat guitar”</em></strong> a guitar that would go on, in Mayer’s mind, to become the <strong><em>“future”</em></strong> of Strat-style guitars.</p>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<p>Despite leaving Fender for PRS, John Mayer is still a big Fender fan. He still recommends that ALL PRS Silver Sky users run the guitar through Fender amps. In Mayer’s mind, the PRS <a href="https://www.electrikjam.com/prs-launches-beautiful-new-silver-sky/" data-lasso-id="241636">Silver Sky was designed</a> to co-exist with Fender amps. Between 2018 and 2022, Mayer and PRS worked on a new model of his signature Silver Sky – <strong><a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" data-lasso-id="102989">the PRS SE Silver Sky</a></strong>. </p>
+<p>Despite leaving Fender for PRS, John Mayer is still a big Fender fan. He still recommends that ALL PRS Silver Sky users run the guitar through Fender amps. In Mayer’s mind, the PRS <a href="/prs-launches-beautiful-new-silver-sky/" data-lasso-id="241636">Silver Sky was designed</a> to co-exist with Fender amps. Between 2018 and 2022, Mayer and PRS worked on a new model of his signature Silver Sky – <strong><a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" data-lasso-id="102989">the PRS SE Silver Sky</a></strong>. </p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-n1aexr/" data-type="lasso-urls" data-id="6552" data-lasso-id="102991" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="PRS SE Silver Sky">The new PRS SE Silver Sky is more affordable</a></strong> than Mayer’s original PRS model too, making it an ideal choice for players that are looking for a high-end Strat-like guitar at a more affordable price. The guitar itself is beautiful. I was lucky enough to play on at launch and it blew me away. For the money, there isn’t a better Strat-style guitar on the market right now. The PRS SE Silver Sky is a heavenly piece of kit that is well worth its asking price.</p>
+<p><strong><a href="/guitar-center-pxf-io-n1aexr/" data-type="lasso-urls" data-id="6552" data-lasso-id="102991" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="PRS SE Silver Sky">The new PRS SE Silver Sky is more affordable</a></strong> than Mayer’s original PRS model too, making it an ideal choice for players that are looking for a high-end Strat-like guitar at a more affordable price. The guitar itself is beautiful. I was lucky enough to play on at launch and it blew me away. For the money, there isn’t a better Strat-style guitar on the market right now. The PRS SE Silver Sky is a heavenly piece of kit that is well worth its asking price.</p>
 
 
 

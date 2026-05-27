@@ -38,11 +38,11 @@ seo:
 
 
 
-<p>***<strong>Fender has now updated the OG Player Stratocaster; read <a href="https://www.electrikjam.com/fender-player-ii-stratocaster-reviews/">my full review of the Fender Player II Stratocaster </a>and find out why the new series is so much better&#8230;</strong></p>
+<p>***<strong>Fender has now updated the OG Player Stratocaster; read <a href="/fender-player-ii-stratocaster-reviews/">my full review of the Fender Player II Stratocaster </a>and find out why the new series is so much better&#8230;</strong></p>
 
 
 
-<p>Over the years, the &#8220;Made In Mexico&#8221; Fender guitars have been looked at as the best value for a genuine Fender. Guitarists have always flocked to the <a data-lasso-id="131241" href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287" target="_blank" rel="noopener">MIM Fenders</a> as &#8220;workhorse guitars&#8221; that are great for the stage and studio. </p>
+<p>Over the years, the &#8220;Made In Mexico&#8221; Fender guitars have been looked at as the best value for a genuine Fender. Guitarists have always flocked to the <a data-lasso-id="131241" href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287" target="_blank" rel="noopener">MIM Fenders</a> as &#8220;workhorse guitars&#8221; that are great for the stage and studio. </p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>It is not a coincidence either that after the change, Fender had <a data-lasso-id="131328" href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-type="post" data-id="1475" target="_blank" rel="noopener"><strong>record breaking sales</strong></a>. Now of course this also had a lot to do with lockdowns, but the sales figures actually started <em>before</em> the pandemic. </p>
+<p>It is not a coincidence either that after the change, Fender had <a data-lasso-id="131328" href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-type="post" data-id="1475" target="_blank" rel="noopener"><strong>record breaking sales</strong></a>. Now of course this also had a lot to do with lockdowns, but the sales figures actually started <em>before</em> the pandemic. </p>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<p>The few times that <a data-lasso-id="213186" href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/">I have sprung for a USA Fender</a>, I didn&#8217;t feel like it was worth the price. </p>
+<p>The few times that <a data-lasso-id="213186" href="/fender-meteora-players-plus-review-2022/">I have sprung for a USA Fender</a>, I didn&#8217;t feel like it was worth the price. </p>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<p>The Player Series is still the workhorse guitar that will be great for playing shows, studio work, and even <a data-lasso-id="131243" href="https://www.electrikjam.com/guitar-intervals-for-beginners/" data-type="post" data-id="8221" target="_blank" rel="noopener"><strong>beginners</strong></a>. </p>
+<p>The Player Series is still the workhorse guitar that will be great for playing shows, studio work, and even <a data-lasso-id="131243" href="/guitar-intervals-for-beginners/" data-type="post" data-id="8221" target="_blank" rel="noopener"><strong>beginners</strong></a>. </p>
 
 
 
@@ -252,7 +252,7 @@ seo:
 
 
 
-<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>100</h3></div><div class="abduldev-review-meta"><div><h2>Guitar World</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>This is a great place to start for those who want an authentic, yet upgraded Stratocaster. It’s reliable enough to be your main guitar, and even if you want to upgrade the pickups in the future to something more high-class, you’re already starting with a heck of a guitar.</p><p>The hardware includes a two-point synchronised tremolo with bent steel saddles – a nice compromise between performance and tradition – with standard cast/sealed tuners, three-ply parchment pickguard and parchment knobs and pickup selector switch tip. </p><p>Another nice touch is the ‘F’ stamped neck plate. It may be a simple thing, but having that iconic Fender ‘F’ on the neck plate instead of nothing feels like that extra little bit of effort that elevates this guitar above its Standard ancestor.</p></p></div><div class="abduldev-review-actions"><div><a href="https://www.electrikjam.com/https-guitar-center-pxf-io-rnrged/" data-lasso-id="131244" data-lasso-name="Fender Player Series HSS" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://www.guitarworld.com/reviews/fender-player-stratocaster-review" data-lasso-id="131245" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
+<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>100</h3></div><div class="abduldev-review-meta"><div><h2>Guitar World</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>This is a great place to start for those who want an authentic, yet upgraded Stratocaster. It’s reliable enough to be your main guitar, and even if you want to upgrade the pickups in the future to something more high-class, you’re already starting with a heck of a guitar.</p><p>The hardware includes a two-point synchronised tremolo with bent steel saddles – a nice compromise between performance and tradition – with standard cast/sealed tuners, three-ply parchment pickguard and parchment knobs and pickup selector switch tip. </p><p>Another nice touch is the ‘F’ stamped neck plate. It may be a simple thing, but having that iconic Fender ‘F’ on the neck plate instead of nothing feels like that extra little bit of effort that elevates this guitar above its Standard ancestor.</p></p></div><div class="abduldev-review-actions"><div><a href="/https-guitar-center-pxf-io-rnrged/" data-lasso-id="131244" data-lasso-name="Fender Player Series HSS" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://www.guitarworld.com/reviews/fender-player-stratocaster-review" data-lasso-id="131245" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>90</h3></div><div class="abduldev-review-meta"><div><h2>Music Radar</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>Strats are Strats and thus can never outrun their past; they will always pay homage to former glories, but what is great about the Player Series model is that it references tones from across the Strat&#8217;s history and bring&#8217;s them right up to date.</p><p>The new two-point vibrato is neat. It&#8217;s one of the smoothest-operating systems we’ve used at this price, returning perfectly to pitch. You might find that old familiar problem with the whammy bar coming loose in the socket problem but a little bit of tape around the thread will fix it. </p><p>Fender&#8217;s Player Series has been a resounding success and this Strat is quite possibly the best they have ever put together for the price. Looking for a mid-price Strat? This is a good deal.</p></p></div><div class="abduldev-review-actions"><div><a href="https://www.electrikjam.com/https-guitar-center-pxf-io-rnrged/" data-lasso-id="131246" data-lasso-name="Fender Player Series HSS" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://www.musicradar.com/reviews/fender-player-stratocaster" data-lasso-id="131247" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
+<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>90</h3></div><div class="abduldev-review-meta"><div><h2>Music Radar</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>Strats are Strats and thus can never outrun their past; they will always pay homage to former glories, but what is great about the Player Series model is that it references tones from across the Strat&#8217;s history and bring&#8217;s them right up to date.</p><p>The new two-point vibrato is neat. It&#8217;s one of the smoothest-operating systems we’ve used at this price, returning perfectly to pitch. You might find that old familiar problem with the whammy bar coming loose in the socket problem but a little bit of tape around the thread will fix it. </p><p>Fender&#8217;s Player Series has been a resounding success and this Strat is quite possibly the best they have ever put together for the price. Looking for a mid-price Strat? This is a good deal.</p></p></div><div class="abduldev-review-actions"><div><a href="/https-guitar-center-pxf-io-rnrged/" data-lasso-id="131246" data-lasso-name="Fender Player Series HSS" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://www.musicradar.com/reviews/fender-player-stratocaster" data-lasso-id="131247" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>90</h3></div><div class="abduldev-review-meta"><div><h2>Old Time Music</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>When Leo Fender designed the Stratocaster, he wanted it to have a unique sound. He designed it with three single-coil pickups. He was successful. It sounded like no other guitar at the time, even with that hum. It didn’t take long for some guitarists to realize that you could play with the pickup selector. Position it halfway between one and two, and two and three, you got a different sound. They called it the Fender Strat ‘quack’.</p><p>Nowadays, there is a five-position selector so we can all ‘quack’ as much as we like. All those lovely sounds are now at the flick of a switch. All the sounds of the modern Strat are here. Many of which define what this guitar is all about. A great top end and some warm bottom end with a gutsy mid-range. It is a unique sound. It might not be what it was, but it still beats the competition.</p></p></div><div class="abduldev-review-actions"><div><a href="https://www.electrikjam.com/pxf-37/" data-lasso-id="131248" data-lasso-name="Fender Player Plus Stratocaster" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://oldtimemusic.com/fender-player-stratocaster/" data-lasso-id="131249" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
+<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>90</h3></div><div class="abduldev-review-meta"><div><h2>Old Time Music</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>When Leo Fender designed the Stratocaster, he wanted it to have a unique sound. He designed it with three single-coil pickups. He was successful. It sounded like no other guitar at the time, even with that hum. It didn’t take long for some guitarists to realize that you could play with the pickup selector. Position it halfway between one and two, and two and three, you got a different sound. They called it the Fender Strat ‘quack’.</p><p>Nowadays, there is a five-position selector so we can all ‘quack’ as much as we like. All those lovely sounds are now at the flick of a switch. All the sounds of the modern Strat are here. Many of which define what this guitar is all about. A great top end and some warm bottom end with a gutsy mid-range. It is a unique sound. It might not be what it was, but it still beats the competition.</p></p></div><div class="abduldev-review-actions"><div><a href="/pxf-37/" data-lasso-id="131248" data-lasso-name="Fender Player Plus Stratocaster" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://oldtimemusic.com/fender-player-stratocaster/" data-lasso-id="131249" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>90</h3></div><div class="abduldev-review-meta"><div><h2>Guitar Player Magazine</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>Introduced this past July at the Summer NAMM show, the new Player series guitars seek to lure younger guitarists to authentic Fender sound and vibe. To make the gateway as appealing as possible, they include some thoughtful updates, such as modern C-shape necks carrying 22 frets, Alnico 5-magnet pickups (some models have Alnico 2 or Alnico 3 magnets), and sleek bodies that are hand shaped as per “original specifications.”</p><p>Fender knows the audience it’s aiming for with the Player series, and based on the performance of our review Stratocaster, it’s hit the bull’s-eye. Sure, there will be those who’ll knock some of the non-1950s aspects of this guitar, but I say try it before you deny it.</p></p></div><div class="abduldev-review-actions"><div><a href="https://www.electrikjam.com/pxf-37/" data-lasso-id="131250" data-lasso-name="Fender Player Plus Stratocaster" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://www.guitarplayer.com/reviews/fender-player-series-stratocaster-review" data-lasso-id="131251" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
+<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>90</h3></div><div class="abduldev-review-meta"><div><h2>Guitar Player Magazine</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>Introduced this past July at the Summer NAMM show, the new Player series guitars seek to lure younger guitarists to authentic Fender sound and vibe. To make the gateway as appealing as possible, they include some thoughtful updates, such as modern C-shape necks carrying 22 frets, Alnico 5-magnet pickups (some models have Alnico 2 or Alnico 3 magnets), and sleek bodies that are hand shaped as per “original specifications.”</p><p>Fender knows the audience it’s aiming for with the Player series, and based on the performance of our review Stratocaster, it’s hit the bull’s-eye. Sure, there will be those who’ll knock some of the non-1950s aspects of this guitar, but I say try it before you deny it.</p></p></div><div class="abduldev-review-actions"><div><a href="/pxf-37/" data-lasso-id="131250" data-lasso-name="Fender Player Plus Stratocaster" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://www.guitarplayer.com/reviews/fender-player-series-stratocaster-review" data-lasso-id="131251" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>95</h3></div><div class="abduldev-review-meta"><div><h2>Guitar Fella</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>Even by Fender&#8217;s standards, the Stratocaster has become an unbelievably popular guitar. The instrument&#8217;s beveled curves and three single-coil pickups have made it the favorite axe of players in every genre imaginable, from country and rock and roll to funk, indie, and even metal.  The Player Series Stratocaster is a perfect example of the series as a whole — it&#8217;s focused and thoughtful, staying true to the heritage of the instrument while including a couple of exceptional modern touches. </p><p>Fender&#8217;s Player Series Stratocaster is a triumph for beginners and players on a budget alike. It delivers plenty of Fender character while sounding so good it could easily be mistaken for a much more expensive axe. </p></p></div><div class="abduldev-review-actions"><div><a href="https://www.electrikjam.com/pxf-37/" data-lasso-id="131252" data-lasso-name="Fender Player Plus Stratocaster" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://www.guitarfella.com/fender-player-series-stratocaster-review/" data-lasso-id="131253" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
+<div class="abduldev-container"><div class="abduldev-reviews-block"><div class="abduldev-review"><div class="abduldev-review-header"><div class="abduldev-review-score"><h3>95</h3></div><div class="abduldev-review-meta"><div><h2>Guitar Fella</h2></div><div><p></p></div></div></div><div class="abduldev-review-footer"><div class="abduldev-review-content"><p class="wp-block-create-block-abdul-review-block"><p>Even by Fender&#8217;s standards, the Stratocaster has become an unbelievably popular guitar. The instrument&#8217;s beveled curves and three single-coil pickups have made it the favorite axe of players in every genre imaginable, from country and rock and roll to funk, indie, and even metal.  The Player Series Stratocaster is a perfect example of the series as a whole — it&#8217;s focused and thoughtful, staying true to the heritage of the instrument while including a couple of exceptional modern touches. </p><p>Fender&#8217;s Player Series Stratocaster is a triumph for beginners and players on a budget alike. It delivers plenty of Fender character while sounding so good it could easily be mistaken for a much more expensive axe. </p></p></div><div class="abduldev-review-actions"><div><a href="/pxf-37/" data-lasso-id="131252" data-lasso-name="Fender Player Plus Stratocaster" target="_blank" rel="nofollow sponsored noopener">Check Deals</a></div><div><a href="https://www.guitarfella.com/fender-player-series-stratocaster-review/" data-lasso-id="131253" target="_blank" rel="noopener noreferrer nofollow">Full Review</a></div></div></div></div></div></div>
 
 
 
@@ -478,7 +478,7 @@ seo:
 
 
 
-<p>You often hear the same thing about the <strong><a data-lasso-id="217877" href="https://www.electrikjam.com/squier-bullet-stratocaster-review/" data-type="post" data-id="5184">budget-friendly Squier line</a></strong>, and those are <em>great</em> <strong>beginner</strong> guitars, for sure. </p>
+<p>You often hear the same thing about the <strong><a data-lasso-id="217877" href="/squier-bullet-stratocaster-review/" data-type="post" data-id="5184">budget-friendly Squier line</a></strong>, and those are <em>great</em> <strong>beginner</strong> guitars, for sure. </p>
 
 
 
@@ -494,7 +494,7 @@ seo:
 
 
 
-<p>The <a data-lasso-id="131331" data-lasso-name="Fender Player Plus Stratocaster" href="https://www.electrikjam.com/pxf-37/" data-type="lasso-urls" data-id="7494" target="_blank" rel="nofollow sponsored noopener"><strong>Player Plus</strong></a> series is an even better deal, and you get a flatter fretboard and locking tuners. </p>
+<p>The <a data-lasso-id="131331" data-lasso-name="Fender Player Plus Stratocaster" href="/pxf-37/" data-type="lasso-urls" data-id="7494" target="_blank" rel="nofollow sponsored noopener"><strong>Player Plus</strong></a> series is an even better deal, and you get a flatter fretboard and locking tuners. </p>
 
 
 
@@ -518,7 +518,7 @@ seo:
 <h3 class="wp-block-heading" id="how-much-is-a-fender-stratocaster">How much is a Fender Stratocaster?</h3>
 
 
-<p>The price of a Fender Stratocaster varies widely based on the model, year, and condition. New Fender Stratocasters range from <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-hss-plus-top-maple-fingerboard-limited-edition-electric-guitar-blue-burst-guitar-center/" data-type="lasso-urls" data-id="11483" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="258709" data-lasso-name="Fender Player Stratocaster HSS Plus Top">around $700 for entry-level models</a></strong> to over $2,000 for higher-end and signature models. Vintage or special edition Stratocasters can command much higher prices, often reaching into several thousands of dollars.</p>
+<p>The price of a Fender Stratocaster varies widely based on the model, year, and condition. New Fender Stratocasters range from <strong><a href="/fender-player-stratocaster-hss-plus-top-maple-fingerboard-limited-edition-electric-guitar-blue-burst-guitar-center/" data-type="lasso-urls" data-id="11483" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="258709" data-lasso-name="Fender Player Stratocaster HSS Plus Top">around $700 for entry-level models</a></strong> to over $2,000 for higher-end and signature models. Vintage or special edition Stratocasters can command much higher prices, often reaching into several thousands of dollars.</p>
 
 
 <h3 class="wp-block-heading" id="how-much-does-a-fender-stratocaster-weigh">How much does a Fender Stratocaster weigh?</h3>
@@ -561,7 +561,7 @@ seo:
 <h3 class="wp-block-heading" id="how-many-frets-does-a-fender-stratocaster-have">How many frets does a Fender Stratocaster have?</h3>
 
 
-<p>Most Fender Stratocasters come with 21 or 22 frets. However, <strong><a href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-type="post" data-id="8013" data-lasso-id="258710">some modern models offer 24 frets</a></strong>, providing extended range for players.</p>
+<p>Most Fender Stratocasters come with 21 or 22 frets. However, <strong><a href="/22-frets-vs-24-frets-explained/" data-type="post" data-id="8013" data-lasso-id="258710">some modern models offer 24 frets</a></strong>, providing extended range for players.</p>
 
 
 <h3 class="wp-block-heading" id="how-many-springs-should-a-fender-stratocaster-have">How many springs should a Fender Stratocaster have?</h3>

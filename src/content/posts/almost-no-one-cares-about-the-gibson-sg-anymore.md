@@ -57,7 +57,7 @@ seo:
 
 
 
-<p>But in 2024 – and for the past several years or more – the SG appears to be dying. No one is searching for it online, you don’t really see anyone playing them anymore, and despite the plethora of <strong><a href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491" data-lasso-id="265351">awesome (and affordable) Epiphone SG models</a></strong> available, it would appear that guitarists have now moved on from the SG. </p>
+<p>But in 2024 – and for the past several years or more – the SG appears to be dying. No one is searching for it online, you don’t really see anyone playing them anymore, and despite the plethora of <strong><a href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491" data-lasso-id="265351">awesome (and affordable) Epiphone SG models</a></strong> available, it would appear that guitarists have now moved on from the SG. </p>
 
 
 

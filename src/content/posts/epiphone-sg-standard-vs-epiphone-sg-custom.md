@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>The Gibson SG is an iconic rock guitar. But what is the difference between the <a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2589">Epiphone</a> SG Custom and the Epiphone SG Standard? Let&#8217;s take a look and find out!</strong></p>
+<p><strong>The Gibson SG is an iconic rock guitar. But what is the difference between the <a href="/epiphone-guitars/" data-lasso-id="2589">Epiphone</a> SG Custom and the Epiphone SG Standard? Let&#8217;s take a look and find out!</strong></p>
 
 
 
@@ -43,7 +43,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link" data-lasso-id="1037"><strong>We have already taken a look at the difference between the famous Les Paul Models</strong></a>, earlier this month. But the Epiphone SG is a completely different animal in the echelon of Gibson-inspired guitars. The SG had pretty humble roots, though.</p>
+<p><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" class="rank-math-link" data-lasso-id="1037"><strong>We have already taken a look at the difference between the famous Les Paul Models</strong></a>, earlier this month. But the Epiphone SG is a completely different animal in the echelon of Gibson-inspired guitars. The SG had pretty humble roots, though.</p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>What could have been a disaster for Gibson, became a blessing. The SG took off with Gibson fans everywhere, and everyone from <a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="1039">Jimmy Page</a>, to <strong>Eric Clapton </strong>picked one up to try it out.</p>
+<p>What could have been a disaster for Gibson, became a blessing. The SG took off with Gibson fans everywhere, and everyone from <a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="1039">Jimmy Page</a>, to <strong>Eric Clapton </strong>picked one up to try it out.</p>
 
 
 
@@ -63,11 +63,11 @@ seo:
 
 
 
-<p>Gibson acquired Epiphone in a merger and began making Epiphone the &#8220;affordable <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237991">Gibson&#8221; brand</a>. Even better, Epiphone started making the <a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="1040"><strong>Inspired By Gibson Series in 2020</strong></a>, and these guitars have been blowing our minds! </p>
+<p>Gibson acquired Epiphone in a merger and began making Epiphone the &#8220;affordable <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237991">Gibson&#8221; brand</a>. Even better, Epiphone started making the <a href="/new-for-2020-epiphone-59-les-paul/" class="rank-math-link" data-lasso-id="1040"><strong>Inspired By Gibson Series in 2020</strong></a>, and these guitars have been blowing our minds! </p>
 
 
 
-<p>But there are slight differences between the myriad of different models, and today we are going to check out the difference between the <a href="https://www.electrikjam.com/epiphone-sg-colors/" data-lasso-id="3500">Epiphone SG Standard</a>, and the Epiphone SG Custom.</p>
+<p>But there are slight differences between the myriad of different models, and today we are going to check out the difference between the <a href="/epiphone-sg-colors/" data-lasso-id="3500">Epiphone SG Standard</a>, and the Epiphone SG Custom.</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="495" src="/wp-content/uploads/2021/03/SG-Custom-2-1024x495.jpg" alt="" class="wp-image-2496" title="" srcset="/wp-content/uploads/2021/03/SG-Custom-2-1024x495.jpg 1024w, /wp-content/uploads/2021/03/SG-Custom-2-600x290.jpg 600w, /wp-content/uploads/2021/03/SG-Custom-2-300x145.jpg 300w, /wp-content/uploads/2021/03/SG-Custom-2-768x371.jpg 768w, /wp-content/uploads/2021/03/SG-Custom-2-1536x742.jpg 1536w, /wp-content/uploads/2021/03/SG-Custom-2-2048x989.jpg 2048w, /wp-content/uploads/2021/03/SG-Custom-2-1080x522.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1041"><strong>SG Custom (Left) and SG Standard (Right)</a> </strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="495" src="/wp-content/uploads/2021/03/SG-Custom-2-1024x495.jpg" alt="" class="wp-image-2496" title="" srcset="/wp-content/uploads/2021/03/SG-Custom-2-1024x495.jpg 1024w, /wp-content/uploads/2021/03/SG-Custom-2-600x290.jpg 600w, /wp-content/uploads/2021/03/SG-Custom-2-300x145.jpg 300w, /wp-content/uploads/2021/03/SG-Custom-2-768x371.jpg 768w, /wp-content/uploads/2021/03/SG-Custom-2-1536x742.jpg 1536w, /wp-content/uploads/2021/03/SG-Custom-2-2048x989.jpg 2048w, /wp-content/uploads/2021/03/SG-Custom-2-1080x522.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/types-of-guitars-guide/" data-lasso-id="1041"><strong>SG Custom (Left) and SG Standard (Right)</a> </strong></figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/Epi-SG-1024x576.jpg" alt="" class="wp-image-2497" title="" srcset="/wp-content/uploads/2021/03/Epi-SG-1024x576.jpg 1024w, /wp-content/uploads/2021/03/Epi-SG-600x338.jpg 600w, /wp-content/uploads/2021/03/Epi-SG-300x169.jpg 300w, /wp-content/uploads/2021/03/Epi-SG-768x432.jpg 768w, /wp-content/uploads/2021/03/Epi-SG-1536x864.jpg 1536w, /wp-content/uploads/2021/03/Epi-SG-1080x608.jpg 1080w, /wp-content/uploads/2021/03/Epi-SG.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1042"><strong>SG Custom (Left) and SG Standard (Right)</a> </strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2021/03/Epi-SG-1024x576.jpg" alt="" class="wp-image-2497" title="" srcset="/wp-content/uploads/2021/03/Epi-SG-1024x576.jpg 1024w, /wp-content/uploads/2021/03/Epi-SG-600x338.jpg 600w, /wp-content/uploads/2021/03/Epi-SG-300x169.jpg 300w, /wp-content/uploads/2021/03/Epi-SG-768x432.jpg 768w, /wp-content/uploads/2021/03/Epi-SG-1536x864.jpg 1536w, /wp-content/uploads/2021/03/Epi-SG-1080x608.jpg 1080w, /wp-content/uploads/2021/03/Epi-SG.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/types-of-guitars-guide/" data-lasso-id="1042"><strong>SG Custom (Left) and SG Standard (Right)</a> </strong></figcaption></figure>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>Mahogany Neck</strong></li><li><strong>Graph Tech Nut</strong></li><li><strong>22 Frets</strong></li><li><strong>24.75&#8221; Scale length/628.65mm</strong></li><li><strong>Lock Tone Bridge by Epiphone</strong></li><li><strong><a class="rank-math-link" href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="1043">Alnico Classic PRO Pickups</a></strong></li><li><strong>Slim Taper Neck</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>Mahogany Neck</strong></li><li><strong>Graph Tech Nut</strong></li><li><strong>22 Frets</strong></li><li><strong>24.75&#8221; Scale length/628.65mm</strong></li><li><strong>Lock Tone Bridge by Epiphone</strong></li><li><strong><a class="rank-math-link" href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="1043">Alnico Classic PRO Pickups</a></strong></li><li><strong>Slim Taper Neck</strong></li></ul>
 
 
 
@@ -135,11 +135,11 @@ seo:
 
 
 
-<p>While both guitars have <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246477">the &#8220;Slim Taper&#8221; neck profile</a>, and the carve on both is very much similar, the SG Custom is slightly different. The SG Custom has the classic cream binding, and that certainly changes the feel of the neck just a little. The SG Custom has always felt like a chunkier neck in my hands.</p>
+<p>While both guitars have <a href="/parts-of-an-electric-guitar/" data-lasso-id="246477">the &#8220;Slim Taper&#8221; neck profile</a>, and the carve on both is very much similar, the SG Custom is slightly different. The SG Custom has the classic cream binding, and that certainly changes the feel of the neck just a little. The SG Custom has always felt like a chunkier neck in my hands.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="1044"><strong>If you read up on my personal preferences</strong></a>, you&#8217;ll know that I actually prefer a slightly chunkier neck. I feel like a slightly wider and fatter neck is easier for me to play. But your experience may differ, and maybe you like the slimmest neck possible.</p>
+<p><a href="/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="1044"><strong>If you read up on my personal preferences</strong></a>, you&#8217;ll know that I actually prefer a slightly chunkier neck. I feel like a slightly wider and fatter neck is easier for me to play. But your experience may differ, and maybe you like the slimmest neck possible.</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>But maybe these details really don&#8217;t mean anything to you, and a more <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-lasso-id="120194">modern design</a> is what appeals to you. If this is the case, then I think you are better suited to the SG Standard.</p>
+<p>But maybe these details really don&#8217;t mean anything to you, and a more <a href="/new-seymour-duncan-pickups-announced/" data-lasso-id="120194">modern design</a> is what appeals to you. If this is the case, then I think you are better suited to the SG Standard.</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>The best thing you can do, is check out both of the Epiphone SG Models:<a href="https://www.electrikjam.com/recommends/epiphone-sg-full-range/" class="rank-math-link" data-lasso-id="1045"><strong> View Models And Latest Prices.</strong></a></p>
+<p>The best thing you can do, is check out both of the Epiphone SG Models:<a href="/recommends/epiphone-sg-full-range/" class="rank-math-link" data-lasso-id="1045"><strong> View Models And Latest Prices.</strong></a></p>
 
 
 
@@ -183,9 +183,9 @@ seo:
 
 
 
-<p>But between you and I, you cannot go wrong with either one of these great guitars! The SG has become a<a href="https://www.electrikjam.com/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="1046"><strong> staple of Doom Metal</strong></a> and many other rock genres. It has an iconic look, feel, and sound. I think either model will be a great addition to your arsenal!</p>
+<p>But between you and I, you cannot go wrong with either one of these great guitars! The SG has become a<a href="/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="1046"><strong> staple of Doom Metal</strong></a> and many other rock genres. It has an iconic look, feel, and sound. I think either model will be a great addition to your arsenal!</p>
 
 
 
-<p>Me personally? <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Epiphone SG Custom" href="https://www.electrikjam.com/recommends/epiphone-sg-custom/" data-shortcode="true">I would most likely get this one. </a></strong></p>
+<p>Me personally? <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Epiphone SG Custom" href="/recommends/epiphone-sg-custom/" data-shortcode="true">I would most likely get this one. </a></strong></p>
 

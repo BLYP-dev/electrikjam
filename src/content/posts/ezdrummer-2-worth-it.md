@@ -90,7 +90,7 @@ seo:
 
 
 
-<p>This is where the magic starts to happen. From here, with my riffs and ideas organized, I can actually start to critique them, figure out what works, and what needs adding. From this perspective, it is so much easier to work on and create an actual song. This is why <strong><a href="https://www.electrikjam.com/meshuggah-immutable-review/" data-type="post" data-id="7528" data-lasso-id="104735">bands like Meshuggah</a></strong> often start with programmed drums first; it acts as the foundation for the song. And if you have a solid foundation, you can build anything.</p>
+<p>This is where the magic starts to happen. From here, with my riffs and ideas organized, I can actually start to critique them, figure out what works, and what needs adding. From this perspective, it is so much easier to work on and create an actual song. This is why <strong><a href="/meshuggah-immutable-review/" data-type="post" data-id="7528" data-lasso-id="104735">bands like Meshuggah</a></strong> often start with programmed drums first; it acts as the foundation for the song. And if you have a solid foundation, you can build anything.</p>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<p>Once you have EZdrummer 2 downloaded, you can work inside EZdrummer 2 itself, using its sequencer and settings menus, and you can link it with a <strong><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" data-lasso-id="104736">DAW like Cubase, Reaper, Ableton</a></strong>, or whatever music recording software you use. This means you can also record using EZdrummer 2. In fact, if you’re making demos or even albums, EZdrummer 2 will be all you need for percussion.</p>
+<p>Once you have EZdrummer 2 downloaded, you can work inside EZdrummer 2 itself, using its sequencer and settings menus, and you can link it with a <strong><a href="/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" data-lasso-id="104736">DAW like Cubase, Reaper, Ableton</a></strong>, or whatever music recording software you use. This means you can also record using EZdrummer 2. In fact, if you’re making demos or even albums, EZdrummer 2 will be all you need for percussion.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>From here, if I want to record it, I can then add EZdrummer 2 as a virtual instrument inside <a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-lasso-id="114906">Reaper</a>, my DAW of choice, and begin recording a proper demo of the track. After the guitars and drums are done, I can add bass and any other things I like synths, vocals, and any additional sound effects that are required.</p>
+<p>From here, if I want to record it, I can then add EZdrummer 2 as a virtual instrument inside <a href="/getting-started-with-reaper-daw/" data-lasso-id="114906">Reaper</a>, my DAW of choice, and begin recording a proper demo of the track. After the guitars and drums are done, I can add bass and any other things I like synths, vocals, and any additional sound effects that are required.</p>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>But what I like most about EZdrummer 2, aside from how good it sounds, is that you don’t have to know ZIP about programming drums to use it. You can just use its preprogrammed loops, add them in, and craft your <a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238701">songs that way</a>. The end result, whether you’re designing your own patterns or using loops, is always the same, however: <strong>a KILLER-sounding drum track.</strong></p>
+<p>But what I like most about EZdrummer 2, aside from how good it sounds, is that you don’t have to know ZIP about programming drums to use it. You can just use its preprogrammed loops, add them in, and craft your <a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238701">songs that way</a>. The end result, whether you’re designing your own patterns or using loops, is always the same, however: <strong>a KILLER-sounding drum track.</strong></p>
 
 
 

@@ -164,7 +164,7 @@ seo:
 
 
 
-<p>I had no idea that ReValver even existed until recently. We have often pushed the HeadRush products, especially <strong><a data-lasso-id="263893" href="https://www.electrikjam.com/best-frfr-speaker/" data-type="post" data-id="11014">the FRFR cabinets</a></strong> since the quality is outstanding for the price.</p>
+<p>I had no idea that ReValver even existed until recently. We have often pushed the HeadRush products, especially <strong><a data-lasso-id="263893" href="/best-frfr-speaker/" data-type="post" data-id="11014">the FRFR cabinets</a></strong> since the quality is outstanding for the price.</p>
 
 
 
@@ -176,7 +176,7 @@ seo:
 
 
 
-<p>But we have also often recommended the <strong><a href="https://www.electrikjam.com/headrush-prime-first-look/" data-type="post" data-id="11193" data-lasso-id="263894">HeadRush FX units</a></strong> as well, since each unit has been a great alternative to the <strong><a href="https://www.electrikjam.com/line-6-guide/" data-type="post" data-id="9935" data-lasso-id="263895">bigger brands like Line 6</a></strong>. HeadRush offers similar quality, at a better price.</p>
+<p>But we have also often recommended the <strong><a href="/headrush-prime-first-look/" data-type="post" data-id="11193" data-lasso-id="263894">HeadRush FX units</a></strong> as well, since each unit has been a great alternative to the <strong><a href="/line-6-guide/" data-type="post" data-id="9935" data-lasso-id="263895">bigger brands like Line 6</a></strong>. HeadRush offers similar quality, at a better price.</p>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p>The thing is, there are a lot of amp sim programs these days. The most popular is probably Neural DSP, <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="263896">followed by STL Tones</a></strong>. Beyond those two, <strong><a href="https://www.electrikjam.com/positive-grid-riff-review/" data-type="post" data-id="8083" data-lasso-id="263897">you have Positive Grid</a></strong> as well.</p>
+<p>The thing is, there are a lot of amp sim programs these days. The most popular is probably Neural DSP, <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" data-lasso-id="263896">followed by STL Tones</a></strong>. Beyond those two, <strong><a href="/positive-grid-riff-review/" data-type="post" data-id="8083" data-lasso-id="263897">you have Positive Grid</a></strong> as well.</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p>But actually, you can trace the roots back further to Eleven Rack, which was made by Avid Tech. The same company that <strong><a href="https://www.electrikjam.com/what-is-pro-tools/" data-type="post" data-id="13202" data-lasso-id="264025">makes Pro Tools</a></strong>. I know producers that still swear by the Eleven Rack units!</p>
+<p>But actually, you can trace the roots back further to Eleven Rack, which was made by Avid Tech. The same company that <strong><a href="/what-is-pro-tools/" data-type="post" data-id="13202" data-lasso-id="264025">makes Pro Tools</a></strong>. I know producers that still swear by the Eleven Rack units!</p>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<p>I have often said that <strong><a data-lasso-id="264026" href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892">STL Tones AmpHub </a></strong>is my go-to modeling program, but I have been using ReValver almost exclusively for two weeks. This has a lot of legit amps that you cannot find elsewhere.</p>
+<p>I have often said that <strong><a data-lasso-id="264026" href="/stl-amphub-review/" data-type="post" data-id="5892">STL Tones AmpHub </a></strong>is my go-to modeling program, but I have been using ReValver almost exclusively for two weeks. This has a lot of legit amps that you cannot find elsewhere.</p>
 
 
 

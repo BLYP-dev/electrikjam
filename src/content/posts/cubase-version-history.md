@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>We have been exploring the rich history of <strong><a data-lasso-id="244719" href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener">Cubase</a></strong> lately, as it is one of the most popular DAW systems on the market. <a href="https://www.electrikjam.com/what-is-cubase/" data-lasso-id="251752">I started recording in the 90s and I remember artists discussing Cubase</a>, and how it could possibly replace tape and ADAT recordings at some point.</p>
+<p>We have been exploring the rich history of <strong><a data-lasso-id="244719" href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener">Cubase</a></strong> lately, as it is one of the most popular DAW systems on the market. <a href="/what-is-cubase/" data-lasso-id="251752">I started recording in the 90s and I remember artists discussing Cubase</a>, and how it could possibly replace tape and ADAT recordings at some point.</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>The Cubase version history is rather long, so we are going to look at the biggest highlights today. As of 2023, we are using Cubase 12, or a <strong><a href="https://www.electrikjam.com/is-cubase-elements-worth-it/" data-type="post" data-id="12351" target="_blank" rel="noopener" data-lasso-id="244720">particular version of the 12th edition</a></strong>. The Cubase DAW has been consistently updated with features that keep up with the times and the needs of users.</p>
+<p>The Cubase version history is rather long, so we are going to look at the biggest highlights today. As of 2023, we are using Cubase 12, or a <strong><a href="/is-cubase-elements-worth-it/" data-type="post" data-id="12351" target="_blank" rel="noopener" data-lasso-id="244720">particular version of the 12th edition</a></strong>. The Cubase DAW has been consistently updated with features that keep up with the times and the needs of users.</p>
 
 
 

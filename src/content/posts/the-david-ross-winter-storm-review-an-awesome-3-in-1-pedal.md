@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>We have a ton of fun when it comes to<strong><a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-type="post" data-id="10030" target="_blank" rel="noopener" data-lasso-id="215362"> reviewing different pedals</a></strong>. We especially like<strong><a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" target="_blank" rel="noopener" data-lasso-id="215363"> playing with fuzz </a></strong>and overdrive here at EJ. I recently retired most of my analog pedals to use both the <strong><a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="215364">Helix for effects</a></strong>, and some of the <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="215365">STL Tones sim pedals</a></strong>. But there are some sounds that <em>none </em>of the digital stuff can really replicate. I may be a pedal heretic, but <em>I know my limits</em>.</p>
+<p>We have a ton of fun when it comes to<strong><a href="/prs-guitar-pedals-reviewed/" data-type="post" data-id="10030" target="_blank" rel="noopener" data-lasso-id="215362"> reviewing different pedals</a></strong>. We especially like<strong><a href="/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" target="_blank" rel="noopener" data-lasso-id="215363"> playing with fuzz </a></strong>and overdrive here at EJ. I recently retired most of my analog pedals to use both the <strong><a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="215364">Helix for effects</a></strong>, and some of the <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="215365">STL Tones sim pedals</a></strong>. But there are some sounds that <em>none </em>of the digital stuff can really replicate. I may be a pedal heretic, but <em>I know my limits</em>.</p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>On the other end of that spectrum, I used a TS9 and a <strong><a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="215366">5150 amp for Metal</a></strong> bands I played with. If you are looking for your typical distortion, or super high gain circuit then the Winter Storm is <em>not for you</em>. However, <em>it can add</em> to you high gain sounds in a <em>very</em> interesting way.</p>
+<p>On the other end of that spectrum, I used a TS9 and a <strong><a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="215366">5150 amp for Metal</a></strong> bands I played with. If you are looking for your typical distortion, or super high gain circuit then the Winter Storm is <em>not for you</em>. However, <em>it can add</em> to you high gain sounds in a <em>very</em> interesting way.</p>
 
 
 
@@ -258,7 +258,7 @@ seo:
 
 
 
-<p>I tried the Winter Storm with a traditional amplifier, as well as<strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="215369"> my BOSS Katana amplifier</a></strong>. I got the most use out of it with amp sims, surprisingly! The Winter Storm even works well<strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="215370"> with STL Tones AmpHub</a></strong>. What a totally unique pedal that David has created. I hope we see a whole lot more from David Ross Musical Instruments, with the same thought, precision, and <em>practicality</em> that the Winter Storm exudes.</p>
+<p>I tried the Winter Storm with a traditional amplifier, as well as<strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="215369"> my BOSS Katana amplifier</a></strong>. I got the most use out of it with amp sims, surprisingly! The Winter Storm even works well<strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="215370"> with STL Tones AmpHub</a></strong>. What a totally unique pedal that David has created. I hope we see a whole lot more from David Ross Musical Instruments, with the same thought, precision, and <em>practicality</em> that the Winter Storm exudes.</p>
 
 
 

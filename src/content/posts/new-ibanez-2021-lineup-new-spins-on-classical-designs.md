@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong><a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" class="rank-math-link" data-lasso-id="596">Ibanez is no stranger in the Metal world</a> and the Ibanez 2021 lineup has just been made available to the public. We have a lot to look forward to, as there are some very cool new models, and even some old ones!</strong></p>
+<p><strong><a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" class="rank-math-link" data-lasso-id="596">Ibanez is no stranger in the Metal world</a> and the Ibanez 2021 lineup has just been made available to the public. We have a lot to look forward to, as there are some very cool new models, and even some old ones!</strong></p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>Ibanez is almost synonymous with Metal guitar players, and they frequently make our own <a href="https://www.electrikjam.com/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="597">&#8220;best of&#8221; lists.</a></p>
+<p>Ibanez is almost synonymous with Metal guitar players, and they frequently make our own <a href="/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="597">&#8220;best of&#8221; lists.</a></p>
 
 
 
@@ -135,7 +135,7 @@ seo:
 
 
 
-<p>The PWM20 is Paul Waggoner&#8217;s main axe this year. The guitar virtuoso from the <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2795">popular Metal band  Between The Buried And Me</a>  takes the Ibanez &#8220;S&#8221; shape and adds some of his own personal touches.</p>
+<p>The PWM20 is Paul Waggoner&#8217;s main axe this year. The guitar virtuoso from the <a href="/90s-metal-bands/" data-lasso-id="2795">popular Metal band  Between The Buried And Me</a>  takes the Ibanez &#8220;S&#8221; shape and adds some of his own personal touches.</p>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="599">Fishman Fluence Modern</a> pickups have really taken off over the past year, so it&#8217;s no surprise to see Ibanez jumping on the bandwagon. This Top of the line model came with EMG pickups at one time.</p>
+<p><a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="599">Fishman Fluence Modern</a> pickups have really taken off over the past year, so it&#8217;s no surprise to see Ibanez jumping on the bandwagon. This Top of the line model came with EMG pickups at one time.</p>
 
 
 
@@ -219,7 +219,7 @@ seo:
 
 
 
-<p><strong>We are going to list it here, but we have already discussed the RG565 is full, and you can find that <a href="https://www.electrikjam.com/ibanez-rg565-reinventing-a-classic-shredders-dream-guitar/" class="rank-math-link" data-lasso-id="600">article here</a>.</strong></p>
+<p><strong>We are going to list it here, but we have already discussed the RG565 is full, and you can find that <a href="/ibanez-rg565-reinventing-a-classic-shredders-dream-guitar/" class="rank-math-link" data-lasso-id="600">article here</a>.</strong></p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p>This is the latest <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="601">8 string model from Ibanez</a>, who just happen to be the people that made the first production 8 string! Like all of the Ibanez 2021 Lineup, it has tons of upgraded features:</p>
+<p>This is the latest <a href="/types-of-guitars-guide/" data-lasso-id="601">8 string model from Ibanez</a>, who just happen to be the people that made the first production 8 string! Like all of the Ibanez 2021 Lineup, it has tons of upgraded features:</p>
 
 
 
@@ -315,7 +315,7 @@ seo:
 
 
 
-<p>These are cryogenically treated frets. So while they are still your standard Nickle fretwire, it lasts 30% longer. This is great to see on the <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255021">more affordable models of the Ibanez 2021 Lineup</a>.</p>
+<p>These are cryogenically treated frets. So while they are still your standard Nickle fretwire, it lasts 30% longer. This is great to see on the <a href="/ibanez-guitars/" data-lasso-id="255021">more affordable models of the Ibanez 2021 Lineup</a>.</p>
 
 
 
@@ -399,7 +399,7 @@ seo:
 
 
 
-<p>Another addition to the popular AXION series, the RGD61ALA has all of the features that come with the Ibanez 2021 Lineup. It has the lightweight Ash body, Mono Rail bridge, and <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8223">Fishman Fluence Modern Pickups</a>.</p>
+<p>Another addition to the popular AXION series, the RGD61ALA has all of the features that come with the Ibanez 2021 Lineup. It has the lightweight Ash body, Mono Rail bridge, and <a href="/what-are-active-pickups/" data-lasso-id="8223">Fishman Fluence Modern Pickups</a>.</p>
 
 
 
@@ -435,7 +435,7 @@ seo:
 
 
 
-<p>The 7521/7421 series was a popular base model of <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="602">7 string guitars</a> that launched almost two decades ago. This year it gets a makeover in the RGD series, with all new features:</p>
+<p>The 7521/7421 series was a popular base model of <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="602">7 string guitars</a> that launched almost two decades ago. This year it gets a makeover in the RGD series, with all new features:</p>
 
 
 
@@ -487,7 +487,7 @@ seo:
 
 
 
-<p>Ibanez has finally started adding stainless steel frets, and many other features that companies like <a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="603"><strong>ESP</strong></a> and <strong><a href="https://www.electrikjam.com/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="604">Schecter</a></strong> have already had in their lineups for years. It&#8217;s nice to see Ibanez coming around.</p>
+<p>Ibanez has finally started adding stainless steel frets, and many other features that companies like <a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="603"><strong>ESP</strong></a> and <strong><a href="/schecter-e1-koa-review/" class="rank-math-link" data-lasso-id="604">Schecter</a></strong> have already had in their lineups for years. It&#8217;s nice to see Ibanez coming around.</p>
 
 
 

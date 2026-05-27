@@ -82,7 +82,7 @@ seo:
 
 
 
-<p>We have featured a lot of<a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="211713"> <strong>budget guitars</strong> </a>on our site, and I think most of them have been really good! But there are definitely some things to take into consideration when it comes to your first guitar. Price should definitely be a factor, but keep in mind that you often <em>get what you pay for</em>! We DO have some good suggestions for you:</p>
+<p>We have featured a lot of<a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="211713"> <strong>budget guitars</strong> </a>on our site, and I think most of them have been really good! But there are definitely some things to take into consideration when it comes to your first guitar. Price should definitely be a factor, but keep in mind that you often <em>get what you pay for</em>! We DO have some good suggestions for you:</p>
 
 
 
@@ -91,19 +91,19 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" target="_blank" data-type="post" data-id="10336" rel="noopener" data-lasso-id="211714">Electric Is Ok For Beginners!</a></strong></li>
+<li><strong><a href="/is-electric-guitar-ok-for-beginners/" target="_blank" data-type="post" data-id="10336" rel="noopener" data-lasso-id="211714">Electric Is Ok For Beginners!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="211715">Best Budget Guitars</a></strong></li>
+<li><strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="211715">Best Budget Guitars</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" target="_blank" data-type="post" data-id="9652" rel="noopener" data-lasso-id="211716">Harley Benton Guitars (A Great Deal!)</a></strong></li>
+<li><strong><a href="/harley-benton-guitars-guide/" target="_blank" data-type="post" data-id="9652" rel="noopener" data-lasso-id="211716">Harley Benton Guitars (A Great Deal!)</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="211717">Best Beginner Guitars</a></strong></li>
+<li><strong><a href="/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="211717">Best Beginner Guitars</a></strong></li>
 </ul>
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>We like to stick to brands that we have actually tested when it comes to beginner guitars. There are plenty of budget guitars like <a href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" target="_blank" rel="noopener" data-lasso-id="211718"><strong>Harley Benton</strong></a>, <a href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="211719"><strong>Epiphone</strong></a>, and<a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="211720"> <strong>Squier</strong></a> that are light on the wallet, but made of <strong>quality components</strong>. These brands have been around for a long time, and they make some really great guitars.</p>
+<p>We like to stick to brands that we have actually tested when it comes to beginner guitars. There are plenty of budget guitars like <a href="/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" target="_blank" rel="noopener" data-lasso-id="211718"><strong>Harley Benton</strong></a>, <a href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener" data-lasso-id="211719"><strong>Epiphone</strong></a>, and<a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="211720"> <strong>Squier</strong></a> that are light on the wallet, but made of <strong>quality components</strong>. These brands have been around for a long time, and they make some really great guitars.</p>
 
 
 
@@ -166,7 +166,7 @@ seo:
 
 
 
-<p>The number one thing I tell new guitarists, is they should avoid anything with a whammy bar. In guitar, we call these Tremolo Bridges, or just &#8220;trems&#8221;. These will be very difficult for you to deal with as a beginner, so they are best avoided. Yes, they are very cool, but beginners should probably stick to a <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246507">&#8220;fixed bridge&#8221; guitar</a>.</p>
+<p>The number one thing I tell new guitarists, is they should avoid anything with a whammy bar. In guitar, we call these Tremolo Bridges, or just &#8220;trems&#8221;. These will be very difficult for you to deal with as a beginner, so they are best avoided. Yes, they are very cool, but beginners should probably stick to a <a href="/parts-of-an-electric-guitar/" data-lasso-id="246507">&#8220;fixed bridge&#8221; guitar</a>.</p>
 
 
 

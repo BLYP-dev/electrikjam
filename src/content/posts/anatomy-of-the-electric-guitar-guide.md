@@ -28,7 +28,7 @@ seo:
 ---
 
 
-<p><strong>The electric guitar has come a long way since the 50s, when it was<a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" data-lasso-id="98"> invented</a>. But the basic parts have always remained the same, no matter how many times the guitar&#8217;s design has been changed. Today we take a look at how many different parts makeup what we know as the electric guitar.</strong></p>
+<p><strong>The electric guitar has come a long way since the 50s, when it was<a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" data-lasso-id="98"> invented</a>. But the basic parts have always remained the same, no matter how many times the guitar&#8217;s design has been changed. Today we take a look at how many different parts makeup what we know as the electric guitar.</strong></p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>Tuning machines come in different brands and styles. Your headstock may also have a <strong>string tree</strong> near the tuning machines. The string tree is for straight angled headstocks (<a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="99">like Fender</a>) and creates a &#8220;break angle&#8221; for your strings.</p>
+<p>Tuning machines come in different brands and styles. Your headstock may also have a <strong>string tree</strong> near the tuning machines. The string tree is for straight angled headstocks (<a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="99">like Fender</a>) and creates a &#8220;break angle&#8221; for your strings.</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-neck-1024x536.jpg" alt="" class="wp-image-682" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-neck-1024x536.jpg 1024w, /wp-content/uploads/2020/10/Guitar-neck-600x314.jpg 600w, /wp-content/uploads/2020/10/Guitar-neck-300x157.jpg 300w, /wp-content/uploads/2020/10/Guitar-neck-768x402.jpg 768w, /wp-content/uploads/2020/10/Guitar-neck.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12759">Guitar Neck and maple Fretboard</a>.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-neck-1024x536.jpg" alt="" class="wp-image-682" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-neck-1024x536.jpg 1024w, /wp-content/uploads/2020/10/Guitar-neck-600x314.jpg 600w, /wp-content/uploads/2020/10/Guitar-neck-300x157.jpg 300w, /wp-content/uploads/2020/10/Guitar-neck-768x402.jpg 768w, /wp-content/uploads/2020/10/Guitar-neck.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/fretboard-hacks-that-every-beginner-should-know/" data-lasso-id="12759">Guitar Neck and maple Fretboard</a>.</figcaption></figure>
 
 
 
@@ -168,7 +168,7 @@ seo:
 
 
 
-<p><strong>Frets:</strong> Frets are the raised metal pieces hammered into your <a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-lasso-id="100">fretboard</a>. Like everything else in the world of guitar, they come in many different sizes and shapes.</p>
+<p><strong>Frets:</strong> Frets are the raised metal pieces hammered into your <a href="/how-to-find-fretboard-notes-guitar/" data-lasso-id="100">fretboard</a>. Like everything else in the world of guitar, they come in many different sizes and shapes.</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p>The body of the guitar is where the rest of the magic happens.  It holds all of the things that make an <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-lasso-id="164563">electric guitar</a> work. These can come in any shape and color. </p>
+<p>The body of the guitar is where the rest of the magic happens.  It holds all of the things that make an <a href="/the-top-7-electric-guitar-myths/" data-lasso-id="164563">electric guitar</a> work. These can come in any shape and color. </p>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>The finish can be natural wood, or it can be painted, Finish is a very personal choice as well. The finish will dictate how you <a href="https://www.electrikjam.com/how-to-clean-your-guitar-like-a-pro-our-1-top-tips/" data-type="post" data-id="655" data-lasso-id="101">take care of your guitar.</a></p>
+<p>The finish can be natural wood, or it can be painted, Finish is a very personal choice as well. The finish will dictate how you <a href="/how-to-clean-your-guitar-like-a-pro-our-1-top-tips/" data-type="post" data-id="655" data-lasso-id="101">take care of your guitar.</a></p>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-body-1024x768.jpg" alt="" class="wp-image-686" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-body-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Guitar-body-600x450.jpg 600w, /wp-content/uploads/2020/10/Guitar-body-300x225.jpg 300w, /wp-content/uploads/2020/10/Guitar-body-768x576.jpg 768w, /wp-content/uploads/2020/10/Guitar-body.jpg 1124w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" data-lasso-id="12844">My Schecter 7 string</a> body</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2020/10/Guitar-body-1024x768.jpg" alt="" class="wp-image-686" width="1000" title="" srcset="/wp-content/uploads/2020/10/Guitar-body-1024x768.jpg 1024w, /wp-content/uploads/2020/10/Guitar-body-600x450.jpg 600w, /wp-content/uploads/2020/10/Guitar-body-300x225.jpg 300w, /wp-content/uploads/2020/10/Guitar-body-768x576.jpg 768w, /wp-content/uploads/2020/10/Guitar-body.jpg 1124w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/schecter-demon-6-worth-it-specs-price/" data-lasso-id="12844">My Schecter 7 string</a> body</figcaption></figure>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<p>There are as many variants of pickups as there are guitars! And they all sound different. Check out our guide if you want to know more about the <a href="https://www.electrikjam.com/what-makes-an-electric-guitar-sound-good-the-theory-of-tone/" data-type="post" data-id="568" data-lasso-id="102">types of pickups.</a></p>
+<p>There are as many variants of pickups as there are guitars! And they all sound different. Check out our guide if you want to know more about the <a href="/what-makes-an-electric-guitar-sound-good-the-theory-of-tone/" data-type="post" data-id="568" data-lasso-id="102">types of pickups.</a></p>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/tone-knob-explained/" data-lasso-id="106707">tone knob</a> changes the frequency output of your guitar. Most <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125935">guitarists use it in a subtle way</a> to dial out high frequencies. These days, it is often overlooked when playing, but it can have a huge effect on your sound.</p>
+<p>The <a href="/tone-knob-explained/" data-lasso-id="106707">tone knob</a> changes the frequency output of your guitar. Most <a href="/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125935">guitarists use it in a subtle way</a> to dial out high frequencies. These days, it is often overlooked when playing, but it can have a huge effect on your sound.</p>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<p>The bridge secures your <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" data-lasso-id="15997">strings in the body of the guitar</a>. And you guessed it&#8230;there are many types of bridges that all do different things. But today we are sticking to just a standard fixed bridge.</p>
+<p>The bridge secures your <a href="/which-guitar-strings-last-longest/" data-lasso-id="15997">strings in the body of the guitar</a>. And you guessed it&#8230;there are many types of bridges that all do different things. But today we are sticking to just a standard fixed bridge.</p>
 
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<p>Most bridges are fully adjustable so you can set the height of your strings. They also set <a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="103">the intonation, which affects the overall length of strings and the tuning of the guitar</a>.</p>
+<p>Most bridges are fully adjustable so you can set the height of your strings. They also set <a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-lasso-id="103">the intonation, which affects the overall length of strings and the tuning of the guitar</a>.</p>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<p><strong>The control cavity/electronics:</strong> <a href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-lasso-id="39709">This is the final destination for your pickups</a> and their wiring. The control cavity is usually on the back of your guitar and covered with a plate.</p>
+<p><strong>The control cavity/electronics:</strong> <a href="/sustainiac-pickup-fixes/" data-lasso-id="39709">This is the final destination for your pickups</a> and their wiring. The control cavity is usually on the back of your guitar and covered with a plate.</p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p>Whew! I think that just about covers all the <a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145772">major parts of an electric guitar</a>. As I stated in the beginning, all of these parts work in harmony with each other to make up the guitar.</p>
+<p>Whew! I think that just about covers all the <a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145772">major parts of an electric guitar</a>. As I stated in the beginning, all of these parts work in harmony with each other to make up the guitar.</p>
 
 
 

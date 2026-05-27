@@ -86,7 +86,7 @@ seo:
 
 
 <div class="wp-block-ultimate-post-button-group ultp-block-265310"><div class="ultp-button-wrapper ultp-anim-none">
-<div class="wp-block-ultimate-post-button ultp-block-8e6b15 ultp-button-layout1"><div class="ultp-btnIcon-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48"><g><path d="M24 4.1A19.9 19.9 0 1 1 4.1 24 19.922 19.922 0 0 1 24 4.1M24 0a24 24 0 1 0 24 24A24 24 0 0 0 24 0"></path><path stroke="rgba(0,0,0,0)" stroke-miterlimit="10" d="M22.551 34.324a2.048 2.048 0 0 1 0-2.9l5.376-5.377H15.125a2.05 2.05 0 0 1 0-4.1h12.8l-5.374-5.373a2.05 2.05 0 1 1 2.9-2.9l8.845 8.843.063.062 1.416 1.42-1.422 1.422-.055.055-8.849 8.848a2.047 2.047 0 0 1-2.9 0Z"></path></g></svg></div><div class="ultp-button-text"><a href="https://www.electrikjam.com/guitar-center-pxf-io-kjz590/" data-type="lasso-urls" data-id="5502" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260687" data-lasso-name="Ernie Ball Paradigm">GET YOURS HERE</a></div></div>
+<div class="wp-block-ultimate-post-button ultp-block-8e6b15 ultp-button-layout1"><div class="ultp-btnIcon-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48"><g><path d="M24 4.1A19.9 19.9 0 1 1 4.1 24 19.922 19.922 0 0 1 24 4.1M24 0a24 24 0 1 0 24 24A24 24 0 0 0 24 0"></path><path stroke="rgba(0,0,0,0)" stroke-miterlimit="10" d="M22.551 34.324a2.048 2.048 0 0 1 0-2.9l5.376-5.377H15.125a2.05 2.05 0 0 1 0-4.1h12.8l-5.374-5.373a2.05 2.05 0 1 1 2.9-2.9l8.845 8.843.063.062 1.416 1.42-1.422 1.422-.055.055-8.849 8.848a2.047 2.047 0 0 1-2.9 0Z"></path></g></svg></div><div class="ultp-button-text"><a href="/guitar-center-pxf-io-kjz590/" data-type="lasso-urls" data-id="5502" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260687" data-lasso-name="Ernie Ball Paradigm">GET YOURS HERE</a></div></div>
 </div></div>
 </div></div>
 
@@ -100,11 +100,11 @@ seo:
 
 
 
-<p>With a price tag 2-3 times higher than <strong><a href="https://www.electrikjam.com/best-ernie-ball-strings-for-metal/" data-type="post" data-id="14240" data-lasso-id="260688">regular Ernie Ball strings</a></strong>, plenty of players – myself included – were obviously a little unsure about whether or not these &#8220;premium&#8221; strings were worth the money. </p>
+<p>With a price tag 2-3 times higher than <strong><a href="/best-ernie-ball-strings-for-metal/" data-type="post" data-id="14240" data-lasso-id="260688">regular Ernie Ball strings</a></strong>, plenty of players – myself included – were obviously a little unsure about whether or not these &#8220;premium&#8221; strings were worth the money. </p>
 
 
 
-<p>But after extensive testing over 6 months, I was surprised by what I discovered. I also <strong><a href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-type="post" data-id="9267" data-lasso-id="260655">compared them to other, premium-price strings from D’Addario and Elixir. </a></strong></p>
+<p>But after extensive testing over 6 months, I was surprised by what I discovered. I also <strong><a href="/expensive-guitar-strings-reviewed-worth-it/" data-type="post" data-id="9267" data-lasso-id="260655">compared them to other, premium-price strings from D’Addario and Elixir. </a></strong></p>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-full"><a href="https://www.electrikjam.com/guitar-center-pxf-io-kjz590/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260689" data-lasso-name="Ernie Ball Paradigm"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2024/02/ernie-ball-paradigm.webp" alt="" class="wp-image-14223" title="" srcset="/wp-content/uploads/2024/02/ernie-ball-paradigm.webp 600w, /wp-content/uploads/2024/02/ernie-ball-paradigm-300x300.webp 300w, /wp-content/uploads/2024/02/ernie-ball-paradigm-100x100.webp 100w, /wp-content/uploads/2024/02/ernie-ball-paradigm-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="/guitar-center-pxf-io-kjz590/" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260689" data-lasso-name="Ernie Ball Paradigm"><img decoding="async" width="600" height="600" src="/wp-content/uploads/2024/02/ernie-ball-paradigm.webp" alt="" class="wp-image-14223" title="" srcset="/wp-content/uploads/2024/02/ernie-ball-paradigm.webp 600w, /wp-content/uploads/2024/02/ernie-ball-paradigm-300x300.webp 300w, /wp-content/uploads/2024/02/ernie-ball-paradigm-100x100.webp 100w, /wp-content/uploads/2024/02/ernie-ball-paradigm-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 
 
 
@@ -196,7 +196,7 @@ seo:
 
 
 
-<p>You can test out a set for yourself and see what I mean – <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-kjz590/" data-type="lasso-urls" data-id="5502" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260690" data-lasso-name="Ernie Ball Paradigm">they&#8217;re $14.99 a pack. </a></strong></p>
+<p>You can test out a set for yourself and see what I mean – <strong><a href="/guitar-center-pxf-io-kjz590/" data-type="lasso-urls" data-id="5502" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="260690" data-lasso-name="Ernie Ball Paradigm">they&#8217;re $14.99 a pack. </a></strong></p>
 
 
 

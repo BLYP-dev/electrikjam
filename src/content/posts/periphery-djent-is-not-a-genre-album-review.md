@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>Misha for example, has <strong>Horizon Devices</strong> and <strong><a data-lasso-id="218503" href="https://www.getgooddrums.com/" target="_blank" rel="noopener noreferrer nofollow">GetGood Drums</a></strong> as business ventures with Nolly. Jake and Spencer both have musical side projects unrelated to Periphery and endorsement deals. Mark has a very <strong><a data-lasso-id="218504" href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" data-type="post" data-id="10308" target="_blank" rel="noopener">successful signature guitar with PRS Guitars</a></strong>. With all of these different opportunities, there are promotions, interviews, guitar clinics, and video content.</p>
+<p>Misha for example, has <strong>Horizon Devices</strong> and <strong><a data-lasso-id="218503" href="https://www.getgooddrums.com/" target="_blank" rel="noopener noreferrer nofollow">GetGood Drums</a></strong> as business ventures with Nolly. Jake and Spencer both have musical side projects unrelated to Periphery and endorsement deals. Mark has a very <strong><a data-lasso-id="218504" href="/prs-se-mark-holcomb-guitars-review/" data-type="post" data-id="10308" target="_blank" rel="noopener">successful signature guitar with PRS Guitars</a></strong>. With all of these different opportunities, there are promotions, interviews, guitar clinics, and video content.</p>
 
 
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p>I think everyone has heard the first single released, <strong>&#8220;Wildfire&#8221;.</strong> This is the first <a href="https://www.electrikjam.com/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234404">track on the album</a> and it really sets the tone for the rest of the album. The <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251948">pounding, heavy 7 string guitars</a> dance around Matt&#8217;s drums just as we would expect. Spencer Sotelo has never sounded better, and his vocal delivery is <em>angry</em>. The &#8220;hook&#8221; comes around a couple of times, Misha plays his self professed &#8220;Meshuggah rip-off solo&#8221; before the entire band just&#8230; stops.</p>
+<p>I think everyone has heard the first single released, <strong>&#8220;Wildfire&#8221;.</strong> This is the first <a href="/dave-lombardo-rites-of-percussion-album-review/" data-lasso-id="234404">track on the album</a> and it really sets the tone for the rest of the album. The <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251948">pounding, heavy 7 string guitars</a> dance around Matt&#8217;s drums just as we would expect. Spencer Sotelo has never sounded better, and his vocal delivery is <em>angry</em>. The &#8220;hook&#8221; comes around a couple of times, Misha plays his self professed &#8220;Meshuggah rip-off solo&#8221; before the entire band just&#8230; stops.</p>
 
 
 

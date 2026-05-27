@@ -39,7 +39,7 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="247281" href="https://davidrossmusicalinstruments.com/" target="_blank" rel="noopener noreferrer nofollow">David Ross Musical Instruments</a></strong> really impressed us with the <strong><a data-lasso-id="247282" href="https://www.electrikjam.com/the-david-ross-winter-storm-review-an-awesome-3-in-1-pedal/" data-type="post" data-id="10528" target="_blank" rel="noopener">Winter Strom Pedal </a></strong>just a few months ago. This was an overdrive pedal that was deceptively simple in design, and I honestly though it was just another OD pedal for the &#8220;Blues Dad&#8221; crowd chasing the KLON Centaur sound. But I was dead wrong, and it had multiple applications that you can read about in my review.</p>
+<p><strong><a data-lasso-id="247281" href="https://davidrossmusicalinstruments.com/" target="_blank" rel="noopener noreferrer nofollow">David Ross Musical Instruments</a></strong> really impressed us with the <strong><a data-lasso-id="247282" href="/the-david-ross-winter-storm-review-an-awesome-3-in-1-pedal/" data-type="post" data-id="10528" target="_blank" rel="noopener">Winter Strom Pedal </a></strong>just a few months ago. This was an overdrive pedal that was deceptively simple in design, and I honestly though it was just another OD pedal for the &#8220;Blues Dad&#8221; crowd chasing the KLON Centaur sound. But I was dead wrong, and it had multiple applications that you can read about in my review.</p>
 
 
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<p>If you are into synth-wave music, then you are familiar with a saw wave sound. The big, distorted sound that most artists like Carpenter Brut uses is called a &#8220;super saw&#8221; and it is a devastating sound. <strong><a href="https://www.electrikjam.com/fuzz-vs-distortion/" target="_blank" data-type="post" data-id="6200" rel="noopener" data-lasso-id="247805">This is why fuzz is unique from distortion</a></strong>. Fuzz changes the fundamental <em>shape </em>of the guitar tone, while distortion is based on tube break-up.</p>
+<p>If you are into synth-wave music, then you are familiar with a saw wave sound. The big, distorted sound that most artists like Carpenter Brut uses is called a &#8220;super saw&#8221; and it is a devastating sound. <strong><a href="/fuzz-vs-distortion/" target="_blank" data-type="post" data-id="6200" rel="noopener" data-lasso-id="247805">This is why fuzz is unique from distortion</a></strong>. Fuzz changes the fundamental <em>shape </em>of the guitar tone, while distortion is based on tube break-up.</p>
 
 
 
@@ -161,7 +161,7 @@ seo:
 
 
 
-<p><strong>Mode 1 </strong>probably sounds the &#8220;cleanest&#8221; to me, and it doesn&#8217;t glitch out as much with the lower strings on your guitar. If you tune down, you will get some really cool effects from Mode 1. Likewise, the other two modes also sound pretty cool with<strong><a href="https://www.electrikjam.com/baritone-guitar-tuning-guide/" target="_blank" data-type="post" data-id="11702" rel="noopener" data-lasso-id="247806"> my guitar in Drop A tuning</a></strong>, glitching out to the ringing note when I let the lowest string ring out.</p>
+<p><strong>Mode 1 </strong>probably sounds the &#8220;cleanest&#8221; to me, and it doesn&#8217;t glitch out as much with the lower strings on your guitar. If you tune down, you will get some really cool effects from Mode 1. Likewise, the other two modes also sound pretty cool with<strong><a href="/baritone-guitar-tuning-guide/" target="_blank" data-type="post" data-id="11702" rel="noopener" data-lasso-id="247806"> my guitar in Drop A tuning</a></strong>, glitching out to the ringing note when I let the lowest string ring out.</p>
 
 
 

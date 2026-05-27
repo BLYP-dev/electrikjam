@@ -82,7 +82,7 @@ seo:
 
 
 
-<p>Personally, I honestly do not think there is a better intermediate guitar series on the market now that it is better than <strong><a href="https://www.electrikjam.com/fender-player-ii-series/" data-type="post" data-id="15565" data-lasso-id="268996">Fender’s Player Series II</a></strong> –&nbsp;it’s so damn close to a custom shop model it’s crazy.&nbsp;</p>
+<p>Personally, I honestly do not think there is a better intermediate guitar series on the market now that it is better than <strong><a href="/fender-player-ii-series/" data-type="post" data-id="15565" data-lasso-id="268996">Fender’s Player Series II</a></strong> –&nbsp;it’s so damn close to a custom shop model it’s crazy.&nbsp;</p>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<p>Of course, if you want or need something cheaper there is always the chug-monster itself, the <a data-lasso-id="268997" href="https://www.electrikjam.com/squier-contemporary-telecaster-review/"><strong>Squier Contemporary</strong> <strong>Telecaster</strong></a>. It’s around $400 and it is a metal machine with insanely hot pickups and a modern reimagining of the classic Tele design. </p>
+<p>Of course, if you want or need something cheaper there is always the chug-monster itself, the <a data-lasso-id="268997" href="/squier-contemporary-telecaster-review/"><strong>Squier Contemporary</strong> <strong>Telecaster</strong></a>. It’s around $400 and it is a metal machine with insanely hot pickups and a modern reimagining of the classic Tele design. </p>
 
 
 

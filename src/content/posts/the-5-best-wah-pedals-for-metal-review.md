@@ -40,7 +40,7 @@ seo:
 
 
 
-<p><strong>In the beginning, there was nothing but darkness</strong>. But then, in the late 60&#8217;s, <a data-lasso-id="169463" href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener"><strong>Saint Hendrix</strong></a> graced us with the sounds of &#8220;Voodoo Child (Slight Return)&#8221;. </p>
+<p><strong>In the beginning, there was nothing but darkness</strong>. But then, in the late 60&#8217;s, <a data-lasso-id="169463" href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener"><strong>Saint Hendrix</strong></a> graced us with the sounds of &#8220;Voodoo Child (Slight Return)&#8221;. </p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>The wah pedal was an integral part of <strong><a href="https://www.electrikjam.com/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-type="post" data-id="10630" data-lasso-id="215946">Dimebag Darrell&#8217;s pedalboard.</a></strong> </p>
+<p>The wah pedal was an integral part of <strong><a href="/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-type="post" data-id="10630" data-lasso-id="215946">Dimebag Darrell&#8217;s pedalboard.</a></strong> </p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<p>I combed several retail sites, and you would be surprised that there is a pretty solid consensus among the people who <em>actually use</em> the pedals. Professional reviews can sometimes be paid for, or biased (Ask us about the<a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-type="post" data-id="8846" target="_blank" rel="noopener" data-lasso-id="169485"> <strong>Katana</strong></a>). But consumers will usually be pretty honest about their experience with a product, especially if it is<strong> bad</strong>.</p>
+<p>I combed several retail sites, and you would be surprised that there is a pretty solid consensus among the people who <em>actually use</em> the pedals. Professional reviews can sometimes be paid for, or biased (Ask us about the<a href="/boss-ga-fc-ex-footswitch-new/" data-type="post" data-id="8846" target="_blank" rel="noopener" data-lasso-id="169485"> <strong>Katana</strong></a>). But consumers will usually be pretty honest about their experience with a product, especially if it is<strong> bad</strong>.</p>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p>As usual, we are going to try to keep our choices in <a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="169465"><strong>budget territory</strong></a>. There are some amazing boutique Wah pedals out there that would be great for Metal players. But I really want to keep these choices in a price range where just about any guitarist can buy one. Especially the <a href="https://www.electrikjam.com/epiphone-power-players-guitar-review/" target="_blank" data-type="post" data-id="8878" rel="noopener" data-lasso-id="169466"><strong>beginners</strong></a>!</p>
+<p>As usual, we are going to try to keep our choices in <a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="169465"><strong>budget territory</strong></a>. There are some amazing boutique Wah pedals out there that would be great for Metal players. But I really want to keep these choices in a price range where just about any guitarist can buy one. Especially the <a href="/epiphone-power-players-guitar-review/" target="_blank" data-type="post" data-id="8878" rel="noopener" data-lasso-id="169466"><strong>beginners</strong></a>!</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p>I think we all know who designed this pedal with Morley, and it has been a huge hit over the years. <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="169467"><strong>Steve Va</strong>i</a> and Morley created the Bad Horsie Wah back in the 90&#8217;s. If you listen to the song &#8220;Bad Horsie&#8221; by Steve Vai, you can hear the incredible sweep that this pedal is capable of.</p>
+<p>I think we all know who designed this pedal with Morley, and it has been a huge hit over the years. <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="169467"><strong>Steve Va</strong>i</a> and Morley created the Bad Horsie Wah back in the 90&#8217;s. If you listen to the song &#8220;Bad Horsie&#8221; by Steve Vai, you can hear the incredible sweep that this pedal is capable of.</p>
 
 
 
@@ -136,11 +136,11 @@ seo:
 
 
 
-<p>The Morley is also outfitted with an optical sensor, which means you don&#8217;t have to &#8220;click&#8221; the Wah pedal on. The pedal comes on the moment you interact with it! This can take a minute to get used to, but I really appreciate an optical pedal these days. The 20/20 series is also compact, so it will physically fit any <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" target="_blank" rel="noopener" data-lasso-id="169468"><strong>pedalboard </strong></a>setup.</p>
+<p>The Morley is also outfitted with an optical sensor, which means you don&#8217;t have to &#8220;click&#8221; the Wah pedal on. The pedal comes on the moment you interact with it! This can take a minute to get used to, but I really appreciate an optical pedal these days. The 20/20 series is also compact, so it will physically fit any <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" target="_blank" rel="noopener" data-lasso-id="169468"><strong>pedalboard </strong></a>setup.</p>
 
 
 
-<p>The amazing options that you have makes the Morley Bad Horsie one of the best Wah pedals for Metal. You have control over all of the parameters so you can tailor the sound to fit into <a href="https://www.electrikjam.com/doom-metal-rig/" data-type="post" data-id="9018" target="_blank" rel="noopener" data-lasso-id="169469"><strong>any rig</strong></a>. This Wah was created by one of the most innovative Metal guitarists out there! This thing is<em> designed</em> to handle high gain madness!</p>
+<p>The amazing options that you have makes the Morley Bad Horsie one of the best Wah pedals for Metal. You have control over all of the parameters so you can tailor the sound to fit into <a href="/doom-metal-rig/" data-type="post" data-id="9018" target="_blank" rel="noopener" data-lasso-id="169469"><strong>any rig</strong></a>. This Wah was created by one of the most innovative Metal guitarists out there! This thing is<em> designed</em> to handle high gain madness!</p>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<p>While most people would associate <strong><a href="https://www.electrikjam.com/pantera-reunion-tour/" data-type="post" data-id="8463" target="_blank" rel="noopener" data-lasso-id="169470">Dime and Pantera</a> </strong>with the Digitech Whammy pedal, the Cry baby was also an integral part of Dime&#8217;s rig. The amount of control you have on this pedal is <em>massive</em>, making it one of the best Wah pedals for Metal.</p>
+<p>While most people would associate <strong><a href="/pantera-reunion-tour/" data-type="post" data-id="8463" target="_blank" rel="noopener" data-lasso-id="169470">Dime and Pantera</a> </strong>with the Digitech Whammy pedal, the Cry baby was also an integral part of Dime&#8217;s rig. The amount of control you have on this pedal is <em>massive</em>, making it one of the best Wah pedals for Metal.</p>
 
 
 
@@ -204,11 +204,11 @@ seo:
 
 
 
-<p>I know it can be a meme at this point, because it does<em> seem</em> like Kirk<em> suddenly</em> started using the Wah pedal around 1990. But that isn&#8217;t the truth at all. <strong>He actually used the Cry Baby on EVERY<a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" target="_blank" rel="noopener" data-lasso-id="169471"> Metallica</a> album at some point.</strong> He even lists favorite songs on the bottom of the pedal, where he used the <em>original </em>Cry Baby to record the solos. </p>
+<p>I know it can be a meme at this point, because it does<em> seem</em> like Kirk<em> suddenly</em> started using the Wah pedal around 1990. But that isn&#8217;t the truth at all. <strong>He actually used the Cry Baby on EVERY<a href="/metallica-guitar-tunings-over-the-years/" data-type="post" data-id="2988" target="_blank" rel="noopener" data-lasso-id="169471"> Metallica</a> album at some point.</strong> He even lists favorite songs on the bottom of the pedal, where he used the <em>original </em>Cry Baby to record the solos. </p>
 
 
 
-<p>While Kirk used a regular Cry Baby for<a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" target="_blank" rel="noopener" data-lasso-id="169472"> <strong>those famous solos</strong></a>, his signature pedal has some improvements. The KH95 has a little more sweep, and a lot more <strong>top end</strong> than a stock Dunlop. This is essentially a &#8220;hot rod&#8221; version of the original Cry Baby.</p>
+<p>While Kirk used a regular Cry Baby for<a href="/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" target="_blank" rel="noopener" data-lasso-id="169472"> <strong>those famous solos</strong></a>, his signature pedal has some improvements. The KH95 has a little more sweep, and a lot more <strong>top end</strong> than a stock Dunlop. This is essentially a &#8220;hot rod&#8221; version of the original Cry Baby.</p>
 
 
 

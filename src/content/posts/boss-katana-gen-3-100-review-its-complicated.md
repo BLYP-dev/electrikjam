@@ -168,11 +168,11 @@ seo:
 
 
 
-<p>We have written <strong><a data-lasso-id="266078" href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477">guides about Tone Studio</a></strong>, and even wrote a big<strong><a data-lasso-id="266079" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377"> &#8220;One Year Tested&#8221; review</a></strong> about the Katana. I know the Katana inside and out, using it in the studio and writing these guides.</p>
+<p>We have written <strong><a data-lasso-id="266078" href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477">guides about Tone Studio</a></strong>, and even wrote a big<strong><a data-lasso-id="266079" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377"> &#8220;One Year Tested&#8221; review</a></strong> about the Katana. I know the Katana inside and out, using it in the studio and writing these guides.</p>
 
 
 
-<p>The<strong><a data-lasso-id="266080" href="https://www.electrikjam.com/boss-katana-3/" data-type="post" data-id="15080"> BOSS Katana Gen 3</a></strong> was announced a little over a month ago to thunderous, internet excitement. Where many speculated a complete overhaul, many thought that the amp would receive modest tweaks.</p>
+<p>The<strong><a data-lasso-id="266080" href="/boss-katana-3/" data-type="post" data-id="15080"> BOSS Katana Gen 3</a></strong> was announced a little over a month ago to thunderous, internet excitement. Where many speculated a complete overhaul, many thought that the amp would receive modest tweaks.</p>
 
 
 
@@ -408,7 +408,7 @@ seo:
 
 
 
-<p>The most important part of the Katana series remains intact; <a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" data-lasso-id="266965"><strong>the Class A/B power section</strong></a>. This feature is why the Katana shines on stage, where other solid-state amps (Class D) will usually fail to keep up.</p>
+<p>The most important part of the Katana series remains intact; <a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" data-lasso-id="266965"><strong>the Class A/B power section</strong></a>. This feature is why the Katana shines on stage, where other solid-state amps (Class D) will usually fail to keep up.</p>
 
 
 
@@ -436,7 +436,7 @@ seo:
 
 
 
-<p>Unfortunately, we could not get the<strong><a href="https://www.electrikjam.com/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" data-lasso-id="266966"> famous Sneaky Amps</a></strong> to work with the Katana Gen 3. I think that BOSS has closed that loop for a reason.</p>
+<p>Unfortunately, we could not get the<strong><a href="/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" data-lasso-id="266966"> famous Sneaky Amps</a></strong> to work with the Katana Gen 3. I think that BOSS has closed that loop for a reason.</p>
 
 
 

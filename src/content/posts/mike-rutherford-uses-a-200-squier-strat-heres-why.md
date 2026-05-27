@@ -46,15 +46,15 @@ seo:
 
 
 
-<p>You’d probably go out and buy the most expensive and/or rarest Fender Strat you could get your hands on, right? Maybe pick up <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101451">Jimi Hendrix’s</a> or something? If money is no object, as it clearly isn’t in Mike Rutherford’s case, why on earth would you pass up these more expensive models and use a $200 Squier Strat?</p>
+<p>You’d probably go out and buy the most expensive and/or rarest Fender Strat you could get your hands on, right? Maybe pick up <a href="/jimi-hendrix-guitar-tuning/" data-lasso-id="101451">Jimi Hendrix’s</a> or something? If money is no object, as it clearly isn’t in Mike Rutherford’s case, why on earth would you pass up these more expensive models and use a $200 Squier Strat?</p>
 
 
 
-<p>Plus, <strong><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="11243">Fender’s Squier brand of Strats and Teles</a></strong>, for the most part, are designed for beginners and first-time guitar players. Little to no professional players use them, preferring instead to go with Fender’s custom shop models. But not Mike Rutherford. He has different ideas.</p>
+<p>Plus, <strong><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="11243">Fender’s Squier brand of Strats and Teles</a></strong>, for the most part, are designed for beginners and first-time guitar players. Little to no professional players use them, preferring instead to go with Fender’s custom shop models. But not Mike Rutherford. He has different ideas.</p>
 
 
 
-<p>Despite having millions in the bank, and probably a massively extensive guitar collection, Mike Rutherford is now playing a $200 Squier Strat 24/7 – he’s even using it live for Genesis’ reunion tour. And Mike isn’t even using a higher-end Squier guitar – he literally uses one of the cheapest, <strong><a href="https://www.electrikjam.com/recommends/squier-bullet-stratocaster/" data-lasso-id="11244">the Squier Bullet Stratocaster</a></strong>.</p>
+<p>Despite having millions in the bank, and probably a massively extensive guitar collection, Mike Rutherford is now playing a $200 Squier Strat 24/7 – he’s even using it live for Genesis’ reunion tour. And Mike isn’t even using a higher-end Squier guitar – he literally uses one of the cheapest, <strong><a href="/recommends/squier-bullet-stratocaster/" data-lasso-id="11244">the Squier Bullet Stratocaster</a></strong>.</p>
 
 
 
@@ -66,12 +66,12 @@ seo:
 
 
 
-<p>So what did Mike do? He went to a local music store in Cape Town and <strong><a href="https://www.electrikjam.com/recommends/squier-bullet-stratocaster/" data-lasso-id="11245">picked up two Squier Bullet Stratocasters for around $200 each</a></strong>. He then holed up back at his abode with the <a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145771">cheaper electric guitars</a> and a small Blackstar practice amp to relearn all of Genesis’ biggest hits.</p>
+<p>So what did Mike do? He went to a local music store in Cape Town and <strong><a href="/recommends/squier-bullet-stratocaster/" data-lasso-id="11245">picked up two Squier Bullet Stratocasters for around $200 each</a></strong>. He then holed up back at his abode with the <a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145771">cheaper electric guitars</a> and a small Blackstar practice amp to relearn all of Genesis’ biggest hits.</p>
 
 
 
 			
-			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="575" src="/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp" alt="" class="wp-image-5139" title="" srcset="/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp 1024w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-600x337.webp 600w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-300x168.webp 300w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-768x431.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/recommends/squier-bullet-stratocaster/" data-lasso-id="11246">This is The Exact Model He Uses – It Costs $149!</a></strong></figcaption></figure>
+			<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1024" height="575" src="/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp" alt="" class="wp-image-5139" title="" srcset="/wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat.webp 1024w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-600x337.webp 600w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-300x168.webp 300w, /wp-content/uploads/2021/10/Mike-Rutherford-Uses-A-200-Squier-Strat-768x431.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="/recommends/squier-bullet-stratocaster/" data-lasso-id="11246">This is The Exact Model He Uses – It Costs $149!</a></strong></figcaption></figure>
 			
 		
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>I&#8217;ve got my main Strat but here&#8217;s a funny thing: last year, I went to Cape Town for two weeks and got stuck there in lockdown for two months because there were no flights. And just prior to lockdown, I thought: ‘Christ, I haven&#8217;t got an electric guitar…’ So I went to a music shop there and I bought two <a href="https://www.electrikjam.com/the-new-199-squier-sonic-series/" data-lasso-id="228752">Squier Bullet</a> Strats. You know, Indonesian-made, standard spec… and one of them I just love.</strong></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong>I&#8217;ve got my main Strat but here&#8217;s a funny thing: last year, I went to Cape Town for two weeks and got stuck there in lockdown for two months because there were no flights. And just prior to lockdown, I thought: ‘Christ, I haven&#8217;t got an electric guitar…’ So I went to a music shop there and I bought two <a href="/the-new-199-squier-sonic-series/" data-lasso-id="228752">Squier Bullet</a> Strats. You know, Indonesian-made, standard spec… and one of them I just love.</strong></p></blockquote>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<p>And for the record, Mike has a legion of ACTUAL <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="11248">Fender Strats</a></strong> but he is now so enamored with his Indonesian-made $200 Squier Stratocasters that they’re now basically collecting dust in one of the rooms of his mansion. And that does bring a smile to my face. It shows that <strong>you really DO NOT need an <a href="https://www.electrikjam.com/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174800">expensive guitar</a> to play professionally</strong>, a point I like to make quite a lot.</p>
+<p>And for the record, Mike has a legion of ACTUAL <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="11248">Fender Strats</a></strong> but he is now so enamored with his Indonesian-made $200 Squier Stratocasters that they’re now basically collecting dust in one of the rooms of his mansion. And that does bring a smile to my face. It shows that <strong>you really DO NOT need an <a href="/expensive-guitar-strings-reviewed-worth-it/" data-lasso-id="174800">expensive guitar</a> to play professionally</strong>, a point I like to make quite a lot.</p>
 
 
 
@@ -112,11 +112,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="11249">Even Van Halen’s iconic guitar</a></strong>, the one you see him play live and in most music videos, probably only cost around $500. And we’re talking about <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195324">Eddie Van Halen</a> here. Similarly, <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="11250">Brian May’s guitar</a></strong> was handmade by him and his father – it cost next to nothing to build. I’ve also seen Jack White play absolute pieces of sh*t and make them scream like a <strong><a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="11251">$3000 Gibson Les Paul.</a></strong></p>
+<p><strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="11249">Even Van Halen’s iconic guitar</a></strong>, the one you see him play live and in most music videos, probably only cost around $500. And we’re talking about <a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195324">Eddie Van Halen</a> here. Similarly, <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="11250">Brian May’s guitar</a></strong> was handmade by him and his father – it cost next to nothing to build. I’ve also seen Jack White play absolute pieces of sh*t and make them scream like a <strong><a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-type="post" data-id="2454" data-lasso-id="11251">$3000 Gibson Les Paul.</a></strong></p>
 
 
 
-<p>Moral of the story? Don’t be a guitar snob. Mike Rutherford is more successful than 99.9% of guitarists walking the earth today. If <a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-lasso-id="69609">Squier guitars</a> are good enough for him, why are you financially ruining yourself by trying to buy $1000 or $2000 guitars? Maybe just do what Mike did and ditch the expensive gear and try out one of <strong><a href="https://www.electrikjam.com/recommends/squier-bullet-stratocaster/" data-lasso-id="11252">Fender’s Squier models?</a></strong></p>
+<p>Moral of the story? Don’t be a guitar snob. Mike Rutherford is more successful than 99.9% of guitarists walking the earth today. If <a href="/new-squier-40th-anniversary-guitars/" data-lasso-id="69609">Squier guitars</a> are good enough for him, why are you financially ruining yourself by trying to buy $1000 or $2000 guitars? Maybe just do what Mike did and ditch the expensive gear and try out one of <strong><a href="/recommends/squier-bullet-stratocaster/" data-lasso-id="11252">Fender’s Squier models?</a></strong></p>
 
 
 
@@ -124,7 +124,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/squier-affinity-telecaster-hh/" data-lasso-id="11253">This one is my personal favorite right now</a></strong> – it&#8217;s outstanding for metal and hard rock. </p>
+<p><strong><a href="/recommends/squier-affinity-telecaster-hh/" data-lasso-id="11253">This one is my personal favorite right now</a></strong> – it&#8217;s outstanding for metal and hard rock. </p>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
 </div></div>
 
 

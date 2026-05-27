@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>But we did not forget any of the smaller bands either, and any genre of Metal/Rock is up for grabs. Metal has too many sub-genres to even list here, so we have included <strong><a data-lasso-id="258247" href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926">everything from Doom</a></strong> to Thrash. If it rocks, we added it to the list!</p>
+<p>But we did not forget any of the smaller bands either, and any genre of Metal/Rock is up for grabs. Metal has too many sub-genres to even list here, so we have included <strong><a data-lasso-id="258247" href="/best-guitars-for-doom-metal/" data-type="post" data-id="926">everything from Doom</a></strong> to Thrash. If it rocks, we added it to the list!</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>We already <strong><a href="https://www.electrikjam.com/baroness-stone-review/" data-type="post" data-id="12680" data-lasso-id="258248">covered the newest album from Baroness in-depth</a></strong>. But this was a huge departure for the Sludge legends, and I think it worked in their favor. The spoken-word passages weave a story in between the dueling guitars that blend heaviness with psychedelia perfectly. </p>
+<p>We already <strong><a href="/baroness-stone-review/" data-type="post" data-id="12680" data-lasso-id="258248">covered the newest album from Baroness in-depth</a></strong>. But this was a huge departure for the Sludge legends, and I think it worked in their favor. The spoken-word passages weave a story in between the dueling guitars that blend heaviness with psychedelia perfectly. </p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p>The band has a whole &#8220;lore&#8221; behind it, <strong><a data-lasso-id="258249" href="https://www.electrikjam.com/best-ghost-album/" data-type="post" data-id="7312">a lot like Ghost</a></strong>, using costumes and theatrics. But there is also a whole story behind the band, with the singer &#8220;Vessel&#8221; at the helm. The lyrics refer to the lore of the band, but they also work as artistic statements on their own.</p>
+<p>The band has a whole &#8220;lore&#8221; behind it, <strong><a data-lasso-id="258249" href="/best-ghost-album/" data-type="post" data-id="7312">a lot like Ghost</a></strong>, using costumes and theatrics. But there is also a whole story behind the band, with the singer &#8220;Vessel&#8221; at the helm. The lyrics refer to the lore of the band, but they also work as artistic statements on their own.</p>
 
 
 
@@ -263,7 +263,7 @@ seo:
 
 
 
-<p>This is <strong><a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-type="post" data-id="10952" data-lasso-id="258250">another album that we already reviewed</a></strong>, but Periphery certainly needs no introduction. The boys that put Djent on the map have returned with an album that is literally all over the place. There are brutal riffs, odd time signatures, growling vocals, and&#8230;synthpop melodies?</p>
+<p>This is <strong><a href="/periphery-djent-is-not-a-genre-album-review/" data-type="post" data-id="10952" data-lasso-id="258250">another album that we already reviewed</a></strong>, but Periphery certainly needs no introduction. The boys that put Djent on the map have returned with an album that is literally all over the place. There are brutal riffs, odd time signatures, growling vocals, and&#8230;synthpop melodies?</p>
 
 
 
@@ -291,7 +291,7 @@ seo:
 
 
 
-<p>We have <strong><a href="https://www.electrikjam.com/better-lovers-album-review/" data-type="post" data-id="13700" data-lasso-id="258705">already gave this album a thorough review</a></strong>, but it really needs to mentioned here. I was quite sad to see two of my favorite bands dissolve, so close together, for different reasons. But both bands were still at their peak, and had more to offer.</p>
+<p>We have <strong><a href="/better-lovers-album-review/" data-type="post" data-id="13700" data-lasso-id="258705">already gave this album a thorough review</a></strong>, but it really needs to mentioned here. I was quite sad to see two of my favorite bands dissolve, so close together, for different reasons. But both bands were still at their peak, and had more to offer.</p>
 
 
 
@@ -466,9 +466,9 @@ seo:
 
 
 <div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-14962 post type-post status-publish format-standard has-post-thumbnail hentry category-mastering">
-<h2 class="wp-block-post-title"><a href="https://www.electrikjam.com/how-important-is-mastering-music/" target="_self">Mastering Music At Home: Why It Matters (And How To Do It)</a></h2>
+<h2 class="wp-block-post-title"><a href="/how-important-is-mastering-music/" target="_self">Mastering Music At Home: Why It Matters (And How To Do It)</a></h2>
 
-<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/how-important-is-mastering-music/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Mastering Music At Home: Why It Matters (And How To Do It)" style="object-fit:cover;" srcset="/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png 1200w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-600x400.png 600w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-300x200.png 300w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-1024x683.png 1024w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
+<figure class="alignwide wp-block-post-featured-image"><a href="/how-important-is-mastering-music/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Mastering Music At Home: Why It Matters (And How To Do It)" style="object-fit:cover;" srcset="/wp-content/uploads/2024/04/How-Important-is-Mastering-Music.png 1200w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-600x400.png 600w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-300x200.png 300w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-1024x683.png 1024w, /wp-content/uploads/2024/04/How-Important-is-Mastering-Music-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
 
 <div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Can You Master Music At Home? Mastering is the final stage of music production, and for most independent artists, it&#8217;s also the most overlooked. You can spend weeks on a mix — carving frequencies, printing automation, getting the drums to sit just right — and still end up with a track that sounds small, flat,&hellip; </p></div>
 
@@ -478,9 +478,9 @@ seo:
 
 <div class="wp-block-post-date"><time datetime="2026-04-14T06:30:23+00:00">April 14, 2026</time></div>
 </li><li class="wp-block-post post-6288 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars category-reviews tag-schecter">
-<h2 class="wp-block-post-title"><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_self">Schecter Nick Johnston HSS Review: The Strat I&#8217;ve Always Wanted&#8230;</a></h2>
+<h2 class="wp-block-post-title"><a href="/schecter-nick-johnston-hss-review/" target="_self">Schecter Nick Johnston HSS Review: The Strat I&#8217;ve Always Wanted&#8230;</a></h2>
 
-<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_self"><img decoding="async" width="768" height="576" src="/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Schecter Nick Johnston HSS Review: The Strat I&#8217;ve Always Wanted&#8230;" style="object-fit:cover;" srcset="/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg 768w, /wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS-600x450.jpg 600w, /wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS-300x225.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" title=""></a></figure>
+<figure class="alignwide wp-block-post-featured-image"><a href="/schecter-nick-johnston-hss-review/" target="_self"><img decoding="async" width="768" height="576" src="/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Schecter Nick Johnston HSS Review: The Strat I&#8217;ve Always Wanted&#8230;" style="object-fit:cover;" srcset="/wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS.jpg 768w, /wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS-600x450.jpg 600w, /wp-content/uploads/2021/12/me-and-my-Schecter-Nick-Johnston-HSS-300x225.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" title=""></a></figure>
 
 <div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Verdict 9.2 Neck Comfort &#038; Feel 9.9 The &#8220;NJ C&#8221; roasted maple neck is widely considered one of the best profiles in its class. Dynamic Range 9.4 Sub Atomic pickups offer a &#8220;vintage-plus&#8221; voice that cleans up beautifully with the volume knob. Hardware &#038; Specs 8.9 Locking tuners and a smooth 2-point trem; 10th-anniversary models&hellip; </p></div>
 
@@ -490,9 +490,9 @@ seo:
 
 <div class="wp-block-post-date"><time datetime="2026-01-16T10:11:31+00:00">January 16, 2026</time></div>
 </li><li class="wp-block-post post-9398 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars category-reviews">
-<h2 class="wp-block-post-title"><a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" target="_self">Charvel Pro Mod DK24 Review: The #1 Guitar For Versatility?</a></h2>
+<h2 class="wp-block-post-title"><a href="/charvel-pro-mod-dk24-review/" target="_self">Charvel Pro Mod DK24 Review: The #1 Guitar For Versatility?</a></h2>
 
-<figure class="alignwide wp-block-post-featured-image"><a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Charvel Pro Mod DK24 Review: The #1 Guitar For Versatility?" style="object-fit:cover;" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png 1200w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
+<figure class="alignwide wp-block-post-featured-image"><a href="/charvel-pro-mod-dk24-review/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Charvel Pro Mod DK24 Review: The #1 Guitar For Versatility?" style="object-fit:cover;" srcset="/wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover.png 1200w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-600x400.png 600w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-300x200.png 300w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-1024x683.png 1024w, /wp-content/uploads/2022/10/Charvel-Pro-Mod-DK24-cover-768x512.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure>
 
 <div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Verdict 9.4 Playability &#038; Neck 9.8 Caramelized maple with a 12&#8243;-16&#8243; compound radius; the gold standard for &#8220;fast&#8221; necks. Sonic Versatility 9.7 Custom Seymour Duncan sets and &#8220;Super Blade&#8221; switching offer everything from glass cleans to high-gain djent. Hardware Quality 9.0 Gotoh 510 tremolo and locking tuners provide Floyd-level stability without the setup headache. Value&hellip; </p></div>
 

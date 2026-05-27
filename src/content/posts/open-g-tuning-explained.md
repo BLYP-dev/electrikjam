@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>Have you ever been curious about <strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="233899">alternative guitar tunings</a></strong>? Ever wondered what is open G tuning guitar? You&#8217;re in for a treat! Open G tuning is an exciting and versatile approach to playing the guitar that can open up a world of possibilities for your musical expression. </p>
+<p>Have you ever been curious about <strong><a href="/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="233899">alternative guitar tunings</a></strong>? Ever wondered what is open G tuning guitar? You&#8217;re in for a treat! Open G tuning is an exciting and versatile approach to playing the guitar that can open up a world of possibilities for your musical expression. </p>
 
 
 
@@ -66,7 +66,7 @@ seo:
 
 
 
-<p>Musicians seeking to create unique sounds and <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251764">simplify chord shapes</a> started experimenting with alternative tunings. Open G tuning soon became a favorite among blues musicians, particularly slide guitarists, due to its rich, resonant sound.</p>
+<p>Musicians seeking to create unique sounds and <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="251764">simplify chord shapes</a> started experimenting with alternative tunings. Open G tuning soon became a favorite among blues musicians, particularly slide guitarists, due to its rich, resonant sound.</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<p>Fast forward to the 1960s and 1970s, open G tuning guitar experienced a surge in popularity thanks to iconic rock bands like <strong><a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048" data-lasso-id="233900">The Rolling Stones and Led Zeppelin</a></strong>. </p>
+<p>Fast forward to the 1960s and 1970s, open G tuning guitar experienced a surge in popularity thanks to iconic rock bands like <strong><a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048" data-lasso-id="233900">The Rolling Stones and Led Zeppelin</a></strong>. </p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>In a nutshell, open G tuning is an alternative tuning method for the guitar, where the strings are tuned to the notes of a G major chord: G, B, and D. The <strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="233901">standard tuning for a six-string guitar</a></strong> (from lowest to highest) is E, A, D, G, B, and E. </p>
+<p>In a nutshell, open G tuning is an alternative tuning method for the guitar, where the strings are tuned to the notes of a G major chord: G, B, and D. The <strong><a href="/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="233901">standard tuning for a six-string guitar</a></strong> (from lowest to highest) is E, A, D, G, B, and E. </p>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<p>Here&#8217;s a step-by-step <a href="https://www.electrikjam.com/a-beginners-guide-to-dadgad-tuning/" data-lasso-id="237985">guide on how to tune</a> your guitar to open G:</p>
+<p>Here&#8217;s a step-by-step <a href="/a-beginners-guide-to-dadgad-tuning/" data-lasso-id="237985">guide on how to tune</a> your guitar to open G:</p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<p>That&#8217;s it! Your guitar is now tuned to open G. Don&#8217;t forget to double-check the tuning of each string with your <strong><a href="https://www.electrikjam.com/best-electric-guitar-tuners/" data-type="post" data-id="862" data-lasso-id="233902">chromatic tuner</a></strong> to ensure accuracy.</p>
+<p>That&#8217;s it! Your guitar is now tuned to open G. Don&#8217;t forget to double-check the tuning of each string with your <strong><a href="/best-electric-guitar-tuners/" data-type="post" data-id="862" data-lasso-id="233902">chromatic tuner</a></strong> to ensure accuracy.</p>
 
 
 

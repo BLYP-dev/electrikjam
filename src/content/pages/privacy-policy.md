@@ -28,7 +28,7 @@ seo:
 
 
 
-<p>Your privacy is important to us. It is NEW WORD ORDER&#8217;s policy to respect your privacy regarding any information we may collect from you across our website,&nbsp;<a data-lasso-id="1" href="https://www.electrikjam.com/?post_type=thirstylink&#038;p=5059">https://www.www.electrikjam.com</a>, and other sites we own and operate.</p>
+<p>Your privacy is important to us. It is NEW WORD ORDER&#8217;s policy to respect your privacy regarding any information we may collect from you across our website,&nbsp;<a data-lasso-id="1" href="/?post_type=thirstylink&#038;p=5059">https://www.www.electrikjam.com</a>, and other sites we own and operate.</p>
 
 
 

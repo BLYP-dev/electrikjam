@@ -53,7 +53,7 @@ seo:
 
 
 
-<p>So if you&#8217;re bank account wasn&#8217;t completely scorched by <strong><a href="https://www.electrikjam.com/adam-jones-gibson-les-paul-custom/" data-type="post" data-id="14080" data-lasso-id="260927">Adam Jones&#8217; 1979 Gibson Les Paul</a></strong> and you&#8217;re a fan of Page, get your wallet (and second mortgage) ready because the first model coming is a real doozy. </p>
+<p>So if you&#8217;re bank account wasn&#8217;t completely scorched by <strong><a href="/adam-jones-gibson-les-paul-custom/" data-type="post" data-id="14080" data-lasso-id="260927">Adam Jones&#8217; 1979 Gibson Les Paul</a></strong> and you&#8217;re a fan of Page, get your wallet (and second mortgage) ready because the first model coming is a real doozy. </p>
 
 
 

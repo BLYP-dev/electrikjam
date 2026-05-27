@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>This is a valid point too; there is a difference in sound and tone between <a href="https://www.electrikjam.com/what-guitar-amps-do-meshuggah-use/" data-lasso-id="101424">Axe FX going direct into a PA system</a> versus a wall of tube amps that are captured using microphones (i.e. how it used to be done). But we now live in 2022, things have moved on, and systems like Axe FX allow touring bands to turn out the same tone night after a night with no unexpected headaches.</p>
+<p>This is a valid point too; there is a difference in sound and tone between <a href="/what-guitar-amps-do-meshuggah-use/" data-lasso-id="101424">Axe FX going direct into a PA system</a> versus a wall of tube amps that are captured using microphones (i.e. how it used to be done). But we now live in 2022, things have moved on, and systems like Axe FX allow touring bands to turn out the same tone night after a night with no unexpected headaches.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png" alt="15 Guitarists That Use Axe FX" class="wp-image-7106" title="" srcset="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png 1024w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-600x400.png 600w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-300x200.png 300w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-768x512.png 768w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1080x720.png 1080w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Nameless Ghoul From <a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="88564">The Band Ghost</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png" alt="15 Guitarists That Use Axe FX" class="wp-image-7106" title="" srcset="/wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1024x683.png 1024w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-600x400.png 600w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-300x200.png 300w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-768x512.png 768w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX-1080x720.png 1080w, /wp-content/uploads/2022/03/15-Guitarists-That-Use-Axe-FX.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A Nameless Ghoul From <a href="/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="88564">The Band Ghost</a></strong></figcaption></figure>
 
 
 
@@ -59,11 +59,11 @@ seo:
 
 
 
-<p>With something Axe FX, the guitar tech or guitarist knows the EXACT tone they will get, regardless of where they are or what climate they’re playing in. <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="223246">Digital</a> guitar processors are more reliable which is why more and more big-name, touring bands like Metallica have switched over to using them.</p>
+<p>With something Axe FX, the guitar tech or guitarist knows the EXACT tone they will get, regardless of where they are or what climate they’re playing in. <a href="/neural-amp-modeler/" data-lasso-id="223246">Digital</a> guitar processors are more reliable which is why more and more big-name, touring bands like Metallica have switched over to using them.</p>
 
 
 
-<p>Plenty of hobbyist players use Axe FX too. <strong><a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" data-lasso-id="88565">I’m more of a Line 6 kinda guy</a></strong>, though, as that’s more my speed with respect to price. But if you’re interested to know which of your favourite metal guitarists use Axe FX, read on –&nbsp;I guarantee some of them will really surprise you…</p>
+<p>Plenty of hobbyist players use Axe FX too. <strong><a href="/line-6/" data-type="page" data-id="4586" data-lasso-id="88565">I’m more of a Line 6 kinda guy</a></strong>, though, as that’s more my speed with respect to price. But if you’re interested to know which of your favourite metal guitarists use Axe FX, read on –&nbsp;I guarantee some of them will really surprise you…</p>
 
 
 
@@ -75,11 +75,11 @@ seo:
 
 
 
-<p>As you can see, that’s a pretty diverse list. You have everybody from the grandmaster of fret-wanking himself, Steve Vai, to newer artists like Tosin Abasi and Misha Mansoor, as well the old guard like <strong><a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="88566">James Hetfield of Metallica </a></strong>and the guys from Meshuggah.</p>
+<p>As you can see, that’s a pretty diverse list. You have everybody from the grandmaster of fret-wanking himself, Steve Vai, to newer artists like Tosin Abasi and Misha Mansoor, as well the old guard like <strong><a href="/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="88566">James Hetfield of Metallica </a></strong>and the guys from Meshuggah.</p>
 
 
 
-<p>Most of the guys listed above have been using Fractal Audio’s gear for years. <strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="88567">Steph from the Deftones</a></strong> and the guys from <strong><a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="88568">Meshuggah</a></strong> even released their own sets of presets for Axe FX II and Axe FX III, so you can get their exact sound in your bedroom or wherever you play the guitar.</p>
+<p>Most of the guys listed above have been using Fractal Audio’s gear for years. <strong><a href="/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="88567">Steph from the Deftones</a></strong> and the guys from <strong><a href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="88568">Meshuggah</a></strong> even released their own sets of presets for Axe FX II and Axe FX III, so you can get their exact sound in your bedroom or wherever you play the guitar.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>But it does go to show that, while some people still turn their noses up at guitar processors, most of the world has now moved on. Even Metallica, one of the oldest and hardest working bands on the planet. And if it&#8217;s good enough for Papa Het, it should damnwell be good enough for you too. And if you don&#8217;t have Poppa Het&#8217;s money, most don&#8217;t, <strong><a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" data-lasso-id="88569">I&#8217;d go with a Line 6 Helix instead</a></strong> –&nbsp;they&#8217;re properly impressive guitar processors. </p>
+<p>But it does go to show that, while some people still turn their noses up at guitar processors, most of the world has now moved on. Even Metallica, one of the oldest and hardest working bands on the planet. And if it&#8217;s good enough for Papa Het, it should damnwell be good enough for you too. And if you don&#8217;t have Poppa Het&#8217;s money, most don&#8217;t, <strong><a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" data-lasso-id="88569">I&#8217;d go with a Line 6 Helix instead</a></strong> –&nbsp;they&#8217;re properly impressive guitar processors. </p>
 
 
 

@@ -179,7 +179,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/history-of-dreadnought-acoustic-guitar/" data-type="post" data-id="13810" data-lasso-id="259044">The dreadnought acoustic guitar</a></strong> has an immensely rich history, dating all the way back to the 1930s. It grew to prominence in post-war era America, where everybody from Johnny Cash to Elvis played one. </p>
+<p><strong><a href="/history-of-dreadnought-acoustic-guitar/" data-type="post" data-id="13810" data-lasso-id="259044">The dreadnought acoustic guitar</a></strong> has an immensely rich history, dating all the way back to the 1930s. It grew to prominence in post-war era America, where everybody from Johnny Cash to Elvis played one. </p>
 
 
 
@@ -481,5 +481,5 @@ seo:
 
 
 
-<p>So strum on, dreadnought warriors, and may your chords always be in tune and your riffs forever catchy. Here&#8217;s to the icons that have fretted their way into our hearts! And if you want to learn more about these guitars, check out our <strong><a href="https://www.electrikjam.com/history-of-dreadnought-acoustic-guitar/" data-type="post" data-id="13810" data-lasso-id="259045">history of the dreadnought acoustic guitar</a></strong>. </p>
+<p>So strum on, dreadnought warriors, and may your chords always be in tune and your riffs forever catchy. Here&#8217;s to the icons that have fretted their way into our hearts! And if you want to learn more about these guitars, check out our <strong><a href="/history-of-dreadnought-acoustic-guitar/" data-type="post" data-id="13810" data-lasso-id="259045">history of the dreadnought acoustic guitar</a></strong>. </p>
 

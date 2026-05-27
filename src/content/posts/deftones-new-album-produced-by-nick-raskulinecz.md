@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>As for a release date, the band have confirmed that the new as-yet-untitled album will be <strong><a href="https://www.electrikjam.com/new-deftones-album/" data-type="post" data-id="14660" data-lasso-id="265753">arriving during the Summer of 2024</a></strong> (which is now basically upon us, so it could be any time soon). </p>
+<p>As for a release date, the band have confirmed that the new as-yet-untitled album will be <strong><a href="/new-deftones-album/" data-type="post" data-id="14660" data-lasso-id="265753">arriving during the Summer of 2024</a></strong> (which is now basically upon us, so it could be any time soon). </p>
 
 
 

@@ -218,7 +218,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1021" height="1024" src="/wp-content/uploads/2024/04/Best-audio-mastering-plugins-1021x1024.png" alt="" class="wp-image-14688" title="" srcset="/wp-content/uploads/2024/04/Best-audio-mastering-plugins-1021x1024.png 1021w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-300x300.png 300w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-100x100.png 100w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-600x602.png 600w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-150x150.png 150w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-768x771.png 768w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-1531x1536.png 1531w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins.png 1790w" sizes="(max-width: 1021px) 100vw, 1021px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265760">A Snippet From My Mastering 101 Framework</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1021" height="1024" src="/wp-content/uploads/2024/04/Best-audio-mastering-plugins-1021x1024.png" alt="" class="wp-image-14688" title="" srcset="/wp-content/uploads/2024/04/Best-audio-mastering-plugins-1021x1024.png 1021w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-300x300.png 300w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-100x100.png 100w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-600x602.png 600w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-150x150.png 150w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-768x771.png 768w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins-1531x1536.png 1531w, /wp-content/uploads/2024/04/Best-audio-mastering-plugins.png 1790w" sizes="(max-width: 1021px) 100vw, 1021px" /><figcaption class="wp-element-caption"><strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265760">A Snippet From My Mastering 101 Framework</a></strong></figcaption></figure>
 
 
 
@@ -264,7 +264,7 @@ seo:
 
 
 
-<p>However, be warned: <strong><a href="https://www.electrikjam.com/how-much-does-music-mastering-cost-is-it-worth-it/" data-type="post" data-id="14787" data-lasso-id="264441">mastering is NOT cheap</a></strong>. </p>
+<p>However, be warned: <strong><a href="/how-much-does-music-mastering-cost-is-it-worth-it/" data-type="post" data-id="14787" data-lasso-id="264441">mastering is NOT cheap</a></strong>. </p>
 
 
 
@@ -272,11 +272,11 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="636" src="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png" alt="" class="wp-image-14686" title="" srcset="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png 1024w, /wp-content/uploads/2024/04/Mastering-techniques-600x373.png 600w, /wp-content/uploads/2024/04/Mastering-techniques-300x186.png 300w, /wp-content/uploads/2024/04/Mastering-techniques-768x477.png 768w, /wp-content/uploads/2024/04/Mastering-techniques-1536x955.png 1536w, /wp-content/uploads/2024/04/Mastering-techniques-2048x1273.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265761">A Snippet From My Mastering 101 Framework</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="636" src="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png" alt="" class="wp-image-14686" title="" srcset="/wp-content/uploads/2024/04/Mastering-techniques-1024x636.png 1024w, /wp-content/uploads/2024/04/Mastering-techniques-600x373.png 600w, /wp-content/uploads/2024/04/Mastering-techniques-300x186.png 300w, /wp-content/uploads/2024/04/Mastering-techniques-768x477.png 768w, /wp-content/uploads/2024/04/Mastering-techniques-1536x955.png 1536w, /wp-content/uploads/2024/04/Mastering-techniques-2048x1273.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265761">A Snippet From My Mastering 101 Framework</a></strong></figcaption></figure>
 
 
 
-<p>The top guys working in the mastering industry charge five figures and up, so my advice, if you’re just starting out, is simple: <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265762">learn how to master your own music</a> –&nbsp;it’ll pay dividends in the short, medium and long term.</strong>&nbsp;</p>
+<p>The top guys working in the mastering industry charge five figures and up, so my advice, if you’re just starting out, is simple: <strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265762">learn how to master your own music</a> –&nbsp;it’ll pay dividends in the short, medium and long term.</strong>&nbsp;</p>
 
 
 
@@ -292,7 +292,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/-p646887146" data-lasso-id="264403"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Mastering-101-1024x683.png" alt="Mastering 101" class="wp-image-14685" title="" srcset="/wp-content/uploads/2024/04/Mastering-101-1024x683.png 1024w, /wp-content/uploads/2024/04/Mastering-101-600x400.png 600w, /wp-content/uploads/2024/04/Mastering-101-300x200.png 300w, /wp-content/uploads/2024/04/Mastering-101-768x512.png 768w, /wp-content/uploads/2024/04/Mastering-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image aligncenter size-large"><a href="/mastering-101-your-pathway-to-professional-sounding-music/-p646887146" data-lasso-id="264403"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/Mastering-101-1024x683.png" alt="Mastering 101" class="wp-image-14685" title="" srcset="/wp-content/uploads/2024/04/Mastering-101-1024x683.png 1024w, /wp-content/uploads/2024/04/Mastering-101-600x400.png 600w, /wp-content/uploads/2024/04/Mastering-101-300x200.png 300w, /wp-content/uploads/2024/04/Mastering-101-768x512.png 768w, /wp-content/uploads/2024/04/Mastering-101.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -316,7 +316,7 @@ seo:
 
 
 
-<p>And if you’re serious about being a working musician and you want your music to standout from the crowd, you’ll focus some time and energy into <strong><a href="https://www.electrikjam.com/mastering-101-beginners-guide/" data-type="page" data-id="14680" data-lasso-id="264404">learning how to master like a pro</a></strong>.&nbsp;</p>
+<p>And if you’re serious about being a working musician and you want your music to standout from the crowd, you’ll focus some time and energy into <strong><a href="/mastering-101-beginners-guide/" data-type="page" data-id="14680" data-lasso-id="264404">learning how to master like a pro</a></strong>.&nbsp;</p>
 
 
 

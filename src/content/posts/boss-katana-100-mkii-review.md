@@ -43,7 +43,7 @@ seo:
 
 
 
-<p><strong>Editor&#8217;s Note: Before we begin, right after I published this article, BOSS updated the Tone Studio Software. This makes the features I mention even MORE versatile! Check it out <a href="https://www.electrikjam.com/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140254">HERE</a>.</strong></p>
+<p><strong>Editor&#8217;s Note: Before we begin, right after I published this article, BOSS updated the Tone Studio Software. This makes the features I mention even MORE versatile! Check it out <a href="/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140254">HERE</a>.</strong></p>
 
 
 
@@ -51,19 +51,19 @@ seo:
 
 
 
-<p>It has been just a little over a year since I bought a BOSS Katana 100 MKII. I spent a lot of time researching the amp before I ever considered buying one. When I say a lot of time, I mean I think I looked at every video on the internet. I read every review, and I tried it out at the store for a couple of weeks before I pulled the trigger. Which is a little silly, considering how <strong><a data-lasso-id="133539" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener">budget-friendly</a> </strong>these amps are.</p>
+<p>It has been just a little over a year since I bought a BOSS Katana 100 MKII. I spent a lot of time researching the amp before I ever considered buying one. When I say a lot of time, I mean I think I looked at every video on the internet. I read every review, and I tried it out at the store for a couple of weeks before I pulled the trigger. Which is a little silly, considering how <strong><a data-lasso-id="133539" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener">budget-friendly</a> </strong>these amps are.</p>
 
 
 
-<p><strong>So if you are looking for a basic review, and rundown of specs, you can click <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="135423">here</a>, or <a href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-type="post" data-id="8354" target="_blank" rel="noopener" data-lasso-id="135424">here</a>. </strong>This review is about the finer details and things you don&#8217;t really notice until you have spent some <em>considerable time</em> with the Katana. I have played a lot of amps in my almost 30 years of guitar. None of them have quite been this&#8230; unique.</p>
+<p><strong>So if you are looking for a basic review, and rundown of specs, you can click <a href="/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="135423">here</a>, or <a href="/boss-katana-50-watt-vs-100-watt/" data-type="post" data-id="8354" target="_blank" rel="noopener" data-lasso-id="135424">here</a>. </strong>This review is about the finer details and things you don&#8217;t really notice until you have spent some <em>considerable time</em> with the Katana. I have played a lot of amps in my almost 30 years of guitar. None of them have quite been this&#8230; unique.</p>
 
 
 
-<p>The thing is, I had played<a data-lasso-id="133540" href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener"> <strong>tube amps </strong></a>for my entire adult life. My favorite amp ever made was the <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="135425" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>Blackstar</strong> <strong>HT40</strong></a>, and I used that amp for gigging over<em> three different bands</em>. It was so versatile, that I was playing Blues-Rock, Metal, and even a little Jazz with the Blackstar. So to say that the BOSS Katana 100 MKII had a lot of competition when it came to impressing me,<em> is an understatement</em>. It had to do everything the Blackstar did <em>and more</em>, to get <em>me </em>to buy it.</p>
+<p>The thing is, I had played<a data-lasso-id="133540" href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener"> <strong>tube amps </strong></a>for my entire adult life. My favorite amp ever made was the <a href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="135425" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>Blackstar</strong> <strong>HT40</strong></a>, and I used that amp for gigging over<em> three different bands</em>. It was so versatile, that I was playing Blues-Rock, Metal, and even a little Jazz with the Blackstar. So to say that the BOSS Katana 100 MKII had a lot of competition when it came to impressing me,<em> is an understatement</em>. It had to do everything the Blackstar did <em>and more</em>, to get <em>me </em>to buy it.</p>
 
 
 
-<p>Because versatility and usefulness is paramount when it comes to <em>my</em> gear, and my interests in music are varied. I might play Blues as often as I play progressive Metal, and my gear reflects this. I certainly wasn&#8217;t new to modeling technology. I had been a <a data-lasso-id="133541" href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"><strong>Line 6</strong> </a>user for years, and I even recorded with Line 6 stuff all of the time. I have also used AxeFX and <a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" target="_blank" rel="noopener" data-lasso-id="135426"><strong>MOOER</strong></a> in the studio. But the studio is different in application when it comes to real life amps.</p>
+<p>Because versatility and usefulness is paramount when it comes to <em>my</em> gear, and my interests in music are varied. I might play Blues as often as I play progressive Metal, and my gear reflects this. I certainly wasn&#8217;t new to modeling technology. I had been a <a data-lasso-id="133541" href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"><strong>Line 6</strong> </a>user for years, and I even recorded with Line 6 stuff all of the time. I have also used AxeFX and <a href="/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" target="_blank" rel="noopener" data-lasso-id="135426"><strong>MOOER</strong></a> in the studio. But the studio is different in application when it comes to real life amps.</p>
 
 
 
@@ -99,11 +99,11 @@ seo:
 
 
 
-<p>We recently covered why you would want the Katana 100 over the 50 watt version. You can click <a data-lasso-id="133542" href="https://www.electrikjam.com/boss-katana-50-watt-vs-100-watt/" data-type="post" data-id="8354" target="_blank" rel="noopener"><strong>here</strong></a> to see all of those <em>very important</em> reasons why one is better than the other for<em> some</em> players. So I will revisit those features, but only briefly since it was covered in so much detail in the other article. But we can take a look at what I have discovered over the last year, that might make this review a little different than what you would find in other places.</p>
+<p>We recently covered why you would want the Katana 100 over the 50 watt version. You can click <a data-lasso-id="133542" href="/boss-katana-50-watt-vs-100-watt/" data-type="post" data-id="8354" target="_blank" rel="noopener"><strong>here</strong></a> to see all of those <em>very important</em> reasons why one is better than the other for<em> some</em> players. So I will revisit those features, but only briefly since it was covered in so much detail in the other article. But we can take a look at what I have discovered over the last year, that might make this review a little different than what you would find in other places.</p>
 
 
 
-<p>The BOSS Katana 100 MKII has been my main source of guitar tones for the last year. Sure, I use <a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="135427"><strong>STL</strong> <strong>Tones</strong></a> and some <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="135428"><strong>Line 6 Helix</strong></a> stuff when I am recording. But when I want to just pick up my guitar and play, I go for the Katana. On paper, it literally sounds just like <em>every other</em> modeling amp:</p>
+<p>The BOSS Katana 100 MKII has been my main source of guitar tones for the last year. Sure, I use <a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="135427"><strong>STL</strong> <strong>Tones</strong></a> and some <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="135428"><strong>Line 6 Helix</strong></a> stuff when I am recording. But when I want to just pick up my guitar and play, I go for the Katana. On paper, it literally sounds just like <em>every other</em> modeling amp:</p>
 
 
 
@@ -131,7 +131,7 @@ seo:
 
 
 
-<p>Like I said, it seems like every other modeling amp when you just list the features. What makes it so different from the <a href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="135429"><strong>Line 6 Catalyst</strong></a>? Well, we went over that <a href="https://www.electrikjam.com/line-6-catalyst-vs-boss-katana/" data-type="post" data-id="6934" target="_blank" rel="noopener" data-lasso-id="135430"><strong>whole fiasco</strong></a> too. The thing is, BOSS even used some<a href="https://www.electrikjam.com/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" target="_blank" rel="noopener" data-lasso-id="135431"> <em><strong>older tech</strong></em></a> to model the sounds that the Katana is known for. There really shouldn&#8217;t be anything remarkable about this amp, <em>but there is</em>. <strong>So that is what we are going to talk about today, since other reviews cover the basics.</strong></p>
+<p>Like I said, it seems like every other modeling amp when you just list the features. What makes it so different from the <a href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="135429"><strong>Line 6 Catalyst</strong></a>? Well, we went over that <a href="/line-6-catalyst-vs-boss-katana/" data-type="post" data-id="6934" target="_blank" rel="noopener" data-lasso-id="135430"><strong>whole fiasco</strong></a> too. The thing is, BOSS even used some<a href="/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" target="_blank" rel="noopener" data-lasso-id="135431"> <em><strong>older tech</strong></em></a> to model the sounds that the Katana is known for. There really shouldn&#8217;t be anything remarkable about this amp, <em>but there is</em>. <strong>So that is what we are going to talk about today, since other reviews cover the basics.</strong></p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>It can be hard to break down exactly what separates the Katana from every other modeling amp on the market. <strong>Blackstar</strong> had a big hit with the<strong> <a href="https://www.electrikjam.com/blackstar-silverline-special-review/" data-type="post" data-id="6376" target="_blank" rel="noopener" data-lasso-id="135433">Silverline</a></strong>, <strong>Line 6</strong> has the <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxk9kn/" data-type="lasso-urls" data-id="6617" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="135434" data-lasso-name="Line 6 Spyder MKV 120 Watt Combo"><strong>Spyder</strong></a> and <a href="https://www.electrikjam.com/pxf-23/" data-type="lasso-urls" data-id="6930" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="135435" data-lasso-name="Line 6 Catalyst 100"><strong>Catalyst</strong></a>, <strong>Fender</strong> has the popular <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="135436"><strong>Mustang Series</strong></a>. These are all great modeling amps that will get the job done in most cases, and they have a ton of great features as well. So why is the Katana so special?</p>
+<p>It can be hard to break down exactly what separates the Katana from every other modeling amp on the market. <strong>Blackstar</strong> had a big hit with the<strong> <a href="/blackstar-silverline-special-review/" data-type="post" data-id="6376" target="_blank" rel="noopener" data-lasso-id="135433">Silverline</a></strong>, <strong>Line 6</strong> has the <a href="/guitar-center-pxf-io-mxk9kn/" data-type="lasso-urls" data-id="6617" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="135434" data-lasso-name="Line 6 Spyder MKV 120 Watt Combo"><strong>Spyder</strong></a> and <a href="/pxf-23/" data-type="lasso-urls" data-id="6930" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="135435" data-lasso-name="Line 6 Catalyst 100"><strong>Catalyst</strong></a>, <strong>Fender</strong> has the popular <a href="/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" target="_blank" rel="noopener" data-lasso-id="135436"><strong>Mustang Series</strong></a>. These are all great modeling amps that will get the job done in most cases, and they have a ton of great features as well. So why is the Katana so special?</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>The choice to make the <a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155687">BOSS Katana</a> 100 MKII, and the series as a whole, a Class A/B amp has more impact than you would think. Most modeling amps use Class D because it is easy, and some would say that solid state amps don&#8217;t really benefit from having a different power section. But the power section IS an important factor. Ask anyone that works on amps, of any kind.</p>
+<p>The choice to make the <a href="/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155687">BOSS Katana</a> 100 MKII, and the series as a whole, a Class A/B amp has more impact than you would think. Most modeling amps use Class D because it is easy, and some would say that solid state amps don&#8217;t really benefit from having a different power section. But the power section IS an important factor. Ask anyone that works on amps, of any kind.</p>
 
 
 
@@ -215,11 +215,11 @@ seo:
 
 
 
-<p>Recording with the BOSS Katana 100 MKII has been an absolute joy, and I use it quite often for overdubs to get a<em> different guitar frequency </em>in the mix. Now, surely you can do a whole mix with <a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="135437"><strong>Amp Sim</strong></a> software if you really wanted to, but I always hear<em> something missing </em>in the frequency spectrum when using sims alone. Sometimes you just need something to fill the gaps when recording guitar. Sometimes this means using a different guitar, but most of the time it means using a different amp/sound source.</p>
+<p>Recording with the BOSS Katana 100 MKII has been an absolute joy, and I use it quite often for overdubs to get a<em> different guitar frequency </em>in the mix. Now, surely you can do a whole mix with <a href="/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="135437"><strong>Amp Sim</strong></a> software if you really wanted to, but I always hear<em> something missing </em>in the frequency spectrum when using sims alone. Sometimes you just need something to fill the gaps when recording guitar. Sometimes this means using a different guitar, but most of the time it means using a different amp/sound source.</p>
 
 
 
-<p>Now the obvious answer with the Katana is to just use the USB into your computer, and we have talked about to<a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" target="_blank" rel="noopener" data-lasso-id="135438"> <strong>record guitar </strong></a>at home with this method. Then of course, you also the &#8220;Line Out&#8221; method from the back of the amp. I often use the line out option when I need to get something down quickly. Both the line out and the USB are great options if you cant be loud, since both options turn the speaker off by default.</p>
+<p>Now the obvious answer with the Katana is to just use the USB into your computer, and we have talked about to<a href="/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" target="_blank" rel="noopener" data-lasso-id="135438"> <strong>record guitar </strong></a>at home with this method. Then of course, you also the &#8220;Line Out&#8221; method from the back of the amp. I often use the line out option when I need to get something down quickly. Both the line out and the USB are great options if you cant be loud, since both options turn the speaker off by default.</p>
 
 
 
@@ -231,11 +231,11 @@ seo:
 
 
 
-<p>Note: You can now save up to 3 Global EQ settings with the BOSS Tone Studio update! This update happened right after I wrote this review, so the Global EQ is even MORE important now! To check out the new features, you can read all about the BOSS Katana MKII V2 Software<strong> <a href="https://www.electrikjam.com/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140255">HERE</a></strong>.</p>
+<p>Note: You can now save up to 3 Global EQ settings with the BOSS Tone Studio update! This update happened right after I wrote this review, so the Global EQ is even MORE important now! To check out the new features, you can read all about the BOSS Katana MKII V2 Software<strong> <a href="/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140255">HERE</a></strong>.</p>
 
 
 
-<p>The speaker was designed to work perfectly with the Katana, and I know some people <a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="135439"><strong>change the speaker</strong></a> for live use/recording. Usually, I will preach about how important the speaker is to your overall tone, and upgrading is the easiest way to get a better sound. But the Katana speaker works just fine, and after throwing a Celestion in mine, I didn&#8217;t notice any considerable difference. Maybe the Celestion made it a little more clear, but the results were negligible.</p>
+<p>The speaker was designed to work perfectly with the Katana, and I know some people <a href="/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="135439"><strong>change the speaker</strong></a> for live use/recording. Usually, I will preach about how important the speaker is to your overall tone, and upgrading is the easiest way to get a better sound. But the Katana speaker works just fine, and after throwing a Celestion in mine, I didn&#8217;t notice any considerable difference. Maybe the Celestion made it a little more clear, but the results were negligible.</p>
 
 
 
@@ -291,7 +291,7 @@ seo:
 
 
 
-<p>There are also some amazing BOSS effects not accessible from the &#8220;Panel&#8221; initially, accessible in the <a href="https://www.electrikjam.com/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" target="_blank" rel="noopener" data-lasso-id="135440"><strong>Sneaky Amps</strong></a> app. Over all, the theme here is <strong>customization</strong>. You have so much control over your tone, and it is <em>never overwhelming</em>. I usually get lost with Line 6 products when it comes to the myriad of options, but the Katana is very user-friendly. Most of the menus are easy &#8220;drop down&#8221; style, and all of the controls are like having a physical knob on a pedal. The whole Katana is basically &#8220;idiot-proof&#8221;.</p>
+<p>There are also some amazing BOSS effects not accessible from the &#8220;Panel&#8221; initially, accessible in the <a href="/boss-katana-sneaky-amps-guide/" data-type="post" data-id="6672" target="_blank" rel="noopener" data-lasso-id="135440"><strong>Sneaky Amps</strong></a> app. Over all, the theme here is <strong>customization</strong>. You have so much control over your tone, and it is <em>never overwhelming</em>. I usually get lost with Line 6 products when it comes to the myriad of options, but the Katana is very user-friendly. Most of the menus are easy &#8220;drop down&#8221; style, and all of the controls are like having a physical knob on a pedal. The whole Katana is basically &#8220;idiot-proof&#8221;.</p>
 
 
 
@@ -323,7 +323,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong>Make sure to download the newest version of Tone Studio, as it expands everything I loved about the Katana! Read about it</strong><a href="https://www.electrikjam.com/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140256"> <strong>here!</strong></a></p>
+<p class="has-text-align-center"><strong>Make sure to download the newest version of Tone Studio, as it expands everything I loved about the Katana! Read about it</strong><a href="/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener" data-lasso-id="140256"> <strong>here!</strong></a></p>
 
 
 

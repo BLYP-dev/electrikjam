@@ -48,7 +48,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="586">Once you understand things like chord voicing</a></strong> and picking patterns, a good palm muting technique can really elevate not only your playing, but also your entire sound. </p>
+<p><strong><a class="rank-math-link" href="/chord-voicing-extensions-for-metal/" data-lasso-id="586">Once you understand things like chord voicing</a></strong> and picking patterns, a good palm muting technique can really elevate not only your playing, but also your entire sound. </p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<p>Palm Muting is exactly what it sounds like. You use your palm to mute the strings. This is in some ways, a universal technique. It is not just used in Metal music, but literally every genre. Learning how to palm mute is something that <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69746">every guitarist eventually learns</a>.</p>
+<p>Palm Muting is exactly what it sounds like. You use your palm to mute the strings. This is in some ways, a universal technique. It is not just used in Metal music, but literally every genre. Learning how to palm mute is something that <a href="/guitar-muting-techniques/" data-lasso-id="69746">every guitarist eventually learns</a>.</p>
 
 
 
@@ -72,15 +72,15 @@ seo:
 
 
 
-<p>Palm muting is primarily a left hand technique (or right handed if you play left handed). People often think that guitar <a href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="587">is all about your fretting hand</a> when it comes to technique. This makes sense, because you should focus on your fretting hand. This is how you fret notes, after all!</p>
+<p>Palm muting is primarily a left hand technique (or right handed if you play left handed). People often think that guitar <a href="/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="587">is all about your fretting hand</a> when it comes to technique. This makes sense, because you should focus on your fretting hand. This is how you fret notes, after all!</p>
 
 
 
-<p>But your right hand technique is just as important as your fretting hand. The way you <a href="https://www.electrikjam.com/best-strings-for-a-gibson-les-paul/" data-lasso-id="5801">pick the strings</a> can change your entire sound. Likewise, <em>where</em> you pick the strings can also change the sound. </p>
+<p>But your right hand technique is just as important as your fretting hand. The way you <a href="/best-strings-for-a-gibson-les-paul/" data-lasso-id="5801">pick the strings</a> can change your entire sound. Likewise, <em>where</em> you pick the strings can also change the sound. </p>
 
 
 
-<p><a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="588">Different guitars</a>, will have a different sound when palm muting. You can check out our picks for the <a href="https://www.electrikjam.com/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="589">best guitars for metal.</a> Different pickups configurations and placement will certainly have an effect. We have tons of options here at <a href="https://www.electrikjam.com/?post_type=thirstylink&#038;p=5059" class="rank-math-link" data-lasso-id="590">Electrikjam.</a></p>
+<p><a href="/types-of-guitars-guide/" data-lasso-id="588">Different guitars</a>, will have a different sound when palm muting. You can check out our picks for the <a href="/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="589">best guitars for metal.</a> Different pickups configurations and placement will certainly have an effect. We have tons of options here at <a href="/?post_type=thirstylink&#038;p=5059" class="rank-math-link" data-lasso-id="590">Electrikjam.</a></p>
 
 
 
@@ -134,11 +134,11 @@ seo:
 
 
 
-<p>It&#8217;s easy to hear this sound when you listen to <a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-lasso-id="591">bands like Metallica</a>. You can also hear it in almost all of <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="592">Doom Metal</a>. This palm muting position is widely used. In the words of Ola Englund, this is how you &#8220;chug&#8221;.</p>
+<p>It&#8217;s easy to hear this sound when you listen to <a href="/metallica-guitar-tunings-over-the-years/" data-lasso-id="591">bands like Metallica</a>. You can also hear it in almost all of <a href="/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="592">Doom Metal</a>. This palm muting position is widely used. In the words of Ola Englund, this is how you &#8220;chug&#8221;.</p>
 
 
 
-<p>This bass-heavy approach to palm muting works great for power chords. It&#8217;s easy to see why this is the &#8220;default&#8221; way to learn how to palm mute. Most <a href="https://www.electrikjam.com/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="593">Metal bands</a> use this technique. Power chords seem to be <em>invented</em> for this method!</p>
+<p>This bass-heavy approach to palm muting works great for power chords. It&#8217;s easy to see why this is the &#8220;default&#8221; way to learn how to palm mute. Most <a href="/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="593">Metal bands</a> use this technique. Power chords seem to be <em>invented</em> for this method!</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="595">Learning how to palm mute</a> is hugely important to your technique, and overall sound. It is a staple of Metal guitar playing and has many uses. Different methods of muting can change a riff that uses the same notes and chords. But which way is right for you? </p>
+<p><a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="595">Learning how to palm mute</a> is hugely important to your technique, and overall sound. It is a staple of Metal guitar playing and has many uses. Different methods of muting can change a riff that uses the same notes and chords. But which way is right for you? </p>
 
 
 

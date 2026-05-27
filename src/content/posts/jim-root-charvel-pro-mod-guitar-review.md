@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>We have talked a lot about the <a href="https://www.electrikjam.com/jim-root-fender-jazzmaster-v4/" data-type="lasso-urls" data-id="4550" target="_blank" rel="nofollow noopener" data-lasso-id="170772" data-lasso-name="Fender Jim Root Jazzmaster"><strong>Jim Root Signature </strong></a>guitars from<a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="170773"> <strong>Fender</strong></a> over the years. Mostly because everyone here at ElectrikJam<em> really wanted one</em>. They always appealed to me because these were stripped-down versions of Classic Fender guitars. Throw in a thin, flat neck and <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="170774"><strong>EMG pickups</strong></a> and you have me completely sold.</p>
+<p>We have talked a lot about the <a href="/jim-root-fender-jazzmaster-v4/" data-type="lasso-urls" data-id="4550" target="_blank" rel="nofollow noopener" data-lasso-id="170772" data-lasso-name="Fender Jim Root Jazzmaster"><strong>Jim Root Signature </strong></a>guitars from<a href="/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="170773"> <strong>Fender</strong></a> over the years. Mostly because everyone here at ElectrikJam<em> really wanted one</em>. They always appealed to me because these were stripped-down versions of Classic Fender guitars. Throw in a thin, flat neck and <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="170774"><strong>EMG pickups</strong></a> and you have me completely sold.</p>
 
 
 
@@ -52,11 +52,11 @@ seo:
 
 
 
-<p>Not only would a classic Fender <em>look </em>out of place, it would also lack the features that a shredder like Jim Root <em>needs</em>. I&#8217;m not saying that you can&#8217;t use a <a data-lasso-id="170775" href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" target="_blank" rel="noopener"><strong>Telecaster for Metal</strong></a>, but it would not be the <em>first</em> choice for<em> most</em> guitarists. Single coil pickups and chunky neck profiles are not usually &#8220;shred friendly&#8221;.</p>
+<p>Not only would a classic Fender <em>look </em>out of place, it would also lack the features that a shredder like Jim Root <em>needs</em>. I&#8217;m not saying that you can&#8217;t use a <a data-lasso-id="170775" href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" target="_blank" rel="noopener"><strong>Telecaster for Metal</strong></a>, but it would not be the <em>first</em> choice for<em> most</em> guitarists. Single coil pickups and chunky neck profiles are not usually &#8220;shred friendly&#8221;.</p>
 
 
 
-<p>The new Jim Root Charvel Pro Mod San Dimas guitars are not really that different from the previous Fender models. Jim has moved maybe five inches over on the &#8220;metal scale&#8221; for guitars when it comes to brands. Charvel is one of the companies that is <a href="https://www.electrikjam.com/where-guitars-are-made-2022/" data-type="post" data-id="8621" target="_blank" rel="noopener" data-lasso-id="170776"><strong>owned by Fender</strong></a>, so this is not some huge change for Jim.</p>
+<p>The new Jim Root Charvel Pro Mod San Dimas guitars are not really that different from the previous Fender models. Jim has moved maybe five inches over on the &#8220;metal scale&#8221; for guitars when it comes to brands. Charvel is one of the companies that is <a href="/where-guitars-are-made-2022/" data-type="post" data-id="8621" target="_blank" rel="noopener" data-lasso-id="170776"><strong>owned by Fender</strong></a>, so this is not some huge change for Jim.</p>
 
 
 
@@ -76,19 +76,19 @@ seo:
 
 
 
-<p>For such a simple guitar, there is a lot to talk about with the Jim Root <a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" data-lasso-id="180621">Charvel Pro Mod guitars</a>. There is also a little bit of a story that comes with these, and I can understand why Jim went in this direction. Charvel has recently made a huge comeback, for a myriad of reasons, but mostly for being what Charvel was known for.</p>
+<p>For such a simple guitar, there is a lot to talk about with the Jim Root <a href="/charvel-pro-mod-dk24-review/" data-lasso-id="180621">Charvel Pro Mod guitars</a>. There is also a little bit of a story that comes with these, and I can understand why Jim went in this direction. Charvel has recently made a huge comeback, for a myriad of reasons, but mostly for being what Charvel was known for.</p>
 
 
 
-<p>Wayne Charvel started his company on the basis of making Fender instruments that were out of warranty <em>better</em>. His repair shop became legendary. <a href="https://www.electrikjam.com/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener" data-lasso-id="170855"><strong>Wayne even worked alongside Grover Jackson</strong></a>, making his own models under the Charvel namesake in the 70&#8217;s and 80&#8217;s.</p>
+<p>Wayne Charvel started his company on the basis of making Fender instruments that were out of warranty <em>better</em>. His repair shop became legendary. <a href="/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener" data-lasso-id="170855"><strong>Wayne even worked alongside Grover Jackson</strong></a>, making his own models under the Charvel namesake in the 70&#8217;s and 80&#8217;s.</p>
 
 
 
-<p>Since Charvel has been a part of Fender (2002), the company has <em>flourished </em>by going back to its roots (no pun intended). I always associate Charvel with <a data-lasso-id="170777" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>Eddie Van Halen</strong></a>, and the whole &#8220;Custom Shop Hot Rod&#8221; mentality that Charvel offers. Charvel is known for making the &#8220;Super Strat&#8221; that dominated the market in the 80&#8217;s.</p>
+<p>Since Charvel has been a part of Fender (2002), the company has <em>flourished </em>by going back to its roots (no pun intended). I always associate Charvel with <a data-lasso-id="170777" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>Eddie Van Halen</strong></a>, and the whole &#8220;Custom Shop Hot Rod&#8221; mentality that Charvel offers. Charvel is known for making the &#8220;Super Strat&#8221; that dominated the market in the 80&#8217;s.</p>
 
 
 
-<p>While Fender may own Charvel now, the attitude remains the same behind the company. The whole idea is to have a Super Strat with options that make you <em>feel</em> like you have a custom guitar. Charvel offers so many <a href="https://www.charvel.com/gear/guitars" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="170778"><strong>different models</strong></a> that I have a hard time even keeping up with them. But I <a href="https://www.electrikjam.com/do-guitarists-know-every-scale/" data-lasso-id="216527">know that every</a> Charvel I have played in the last 10 years or so, has been excellent.</p>
+<p>While Fender may own Charvel now, the attitude remains the same behind the company. The whole idea is to have a Super Strat with options that make you <em>feel</em> like you have a custom guitar. Charvel offers so many <a href="https://www.charvel.com/gear/guitars" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="170778"><strong>different models</strong></a> that I have a hard time even keeping up with them. But I <a href="/do-guitarists-know-every-scale/" data-lasso-id="216527">know that every</a> Charvel I have played in the last 10 years or so, has been excellent.</p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<p>Keeping signature <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184896">guitars in budget</a> territory has always been a part of Jim&#8217;s philosophy. His <a href="https://www.electrikjam.com/jim-root-fender-jazzmaster-v4/" data-type="lasso-urls" data-id="4550" target="_blank" rel="nofollow noopener" data-lasso-id="170779" data-lasso-name="Fender Jim Root Jazzmaster"><strong>Fender</strong></a> and Squier models were both reasonably priced. Jim also steers away from over-branding, and likes to keep the guitars simple. The Jim Root Charvel Pro Mod follows in this tradition, and maybe even <em>beats</em> his Fender models in a few categories.</p>
+<p>Keeping signature <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184896">guitars in budget</a> territory has always been a part of Jim&#8217;s philosophy. His <a href="/jim-root-fender-jazzmaster-v4/" data-type="lasso-urls" data-id="4550" target="_blank" rel="nofollow noopener" data-lasso-id="170779" data-lasso-name="Fender Jim Root Jazzmaster"><strong>Fender</strong></a> and Squier models were both reasonably priced. Jim also steers away from over-branding, and likes to keep the guitars simple. The Jim Root Charvel Pro Mod follows in this tradition, and maybe even <em>beats</em> his Fender models in a few categories.</p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p>I have a personal build project with <strong><a data-lasso-id="170780" href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener">Schecter</a> </strong>that is almost identical to this guitar, so it was an absolute <em>delight</em> to play. There is beauty in simplicity, and I think the Jim Root Charvel Pro Mod is a great example of how <strong>simple can be effective</strong>.</p>
+<p>I have a personal build project with <strong><a data-lasso-id="170780" href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener">Schecter</a> </strong>that is almost identical to this guitar, so it was an absolute <em>delight</em> to play. There is beauty in simplicity, and I think the Jim Root Charvel Pro Mod is a great example of how <strong>simple can be effective</strong>.</p>
 
 
 
@@ -172,11 +172,11 @@ seo:
 
 
 
-<p>The 22 jumbo frets makes bends effortless, and the back of the neck has a familiar &#8220;Thin C&#8221; shape. It is almost like if you took a Stratocaster neck, and shaved off a few millimeters on the back. It doesn&#8217;t flatten out like an <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="170781"><strong>Ibanez</strong></a> or a <a href="https://www.electrikjam.com/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener" data-lasso-id="170782"><strong>Jackson</strong></a>. If you have ever played an ESP guitar, you know this shape.</p>
+<p>The 22 jumbo frets makes bends effortless, and the back of the neck has a familiar &#8220;Thin C&#8221; shape. It is almost like if you took a Stratocaster neck, and shaved off a few millimeters on the back. It doesn&#8217;t flatten out like an <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="170781"><strong>Ibanez</strong></a> or a <a href="/ibanez-vs-jackson/" data-type="post" data-id="9044" target="_blank" rel="noopener" data-lasso-id="170782"><strong>Jackson</strong></a>. If you have ever played an ESP guitar, you know this shape.</p>
 
 
 
-<p>Like I said, I had forgotten how nice a compound radius neck can be, and playing above the 12th fret was smooth and easy. Having such a wide radius also allows you to keep the action set really low. This neck reminds me a lot of the <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="170783"><strong>Nick Johnston Schecter</strong></a> models, and I fell in love with those immediately (I even kept a demo model!).</p>
+<p>Like I said, I had forgotten how nice a compound radius neck can be, and playing above the 12th fret was smooth and easy. Having such a wide radius also allows you to keep the action set really low. This neck reminds me a lot of the <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="170783"><strong>Nick Johnston Schecter</strong></a> models, and I fell in love with those immediately (I even kept a demo model!).</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p><strong>The Floyd Rose 1500</strong> is a brand new edition for <a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-lasso-id="252356">Jim Root&#8217;s signature guitars</a>. His other Fender models all had a fixed bridge setup, similar to a <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" target="_blank" data-type="post" data-id="880" rel="noopener" data-lasso-id="170856"><strong>Les Paul</strong></a>. This is going to be a feature that divides players as well, as you either love a Floyd Rose. or you<em> hate it</em>. I love them, and recently explained <a data-lasso-id="170784" href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener"><strong>how easy they can be to setup</strong></a>.</p>
+<p><strong>The Floyd Rose 1500</strong> is a brand new edition for <a href="/jim-root-signature-guitars/" data-lasso-id="252356">Jim Root&#8217;s signature guitars</a>. His other Fender models all had a fixed bridge setup, similar to a <a href="/best-epiphone-les-paul-models/" target="_blank" data-type="post" data-id="880" rel="noopener" data-lasso-id="170856"><strong>Les Paul</strong></a>. This is going to be a feature that divides players as well, as you either love a Floyd Rose. or you<em> hate it</em>. I love them, and recently explained <a data-lasso-id="170784" href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener"><strong>how easy they can be to setup</strong></a>.</p>
 
 
 
@@ -228,7 +228,7 @@ seo:
 
 
 
-<p>Jim Root has been known to use the famous EMG 81/60 combo for most of his career. This classic EMG set has been used by <strong>Metallica</strong>, <strong>Slayer</strong>, and countless other heavy bands for decades. I have used this combo myself for years, but I have since switched to the <a href="https://www.electrikjam.com/pxf-3/" target="_blank" data-type="lasso-urls" data-id="5816" rel="nofollow sponsored noopener" data-lasso-id="170857" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG 57/66</strong></a> set.</p>
+<p>Jim Root has been known to use the famous EMG 81/60 combo for most of his career. This classic EMG set has been used by <strong>Metallica</strong>, <strong>Slayer</strong>, and countless other heavy bands for decades. I have used this combo myself for years, but I have since switched to the <a href="/pxf-3/" target="_blank" data-type="lasso-urls" data-id="5816" rel="nofollow sponsored noopener" data-lasso-id="170857" data-lasso-name="EMG 57/66 Pickup Set"><strong>EMG 57/66</strong></a> set.</p>
 
 
 
@@ -288,11 +288,11 @@ seo:
 
 
 
-<p>The small detail like the truss rod adjustment, the locking tuners, and the contoured cutaway are all things that get overlooked sometimes. You almost <em>never</em> see locking tuners on a Floyd Rose-equipped guitar, yet  Charvel thought of that. Guitarists that plan on <a data-lasso-id="170793" href="https://www.electrikjam.com/doom-metal-rig/" data-type="post" data-id="9018" target="_blank" rel="noopener"><strong>gigging</strong></a> and recording with this guitar will appreciate these small touches.</p>
+<p>The small detail like the truss rod adjustment, the locking tuners, and the contoured cutaway are all things that get overlooked sometimes. You almost <em>never</em> see locking tuners on a Floyd Rose-equipped guitar, yet  Charvel thought of that. Guitarists that plan on <a data-lasso-id="170793" href="/doom-metal-rig/" data-type="post" data-id="9018" target="_blank" rel="noopener"><strong>gigging</strong></a> and recording with this guitar will appreciate these small touches.</p>
 
 
 
-<p>This may be a <a href="https://www.electrikjam.com/ibanez-tod10-tim-henson-guitar-review/" data-lasso-id="210146">signature guitar</a>, but it also has the feeling of an &#8220;off the rack&#8221; Charvel. Jim just added a few features that make it unique to his style. So I think that Charvel fans, as well as Slipknot fans can both find something to like here.</p>
+<p>This may be a <a href="/ibanez-tod10-tim-henson-guitar-review/" data-lasso-id="210146">signature guitar</a>, but it also has the feeling of an &#8220;off the rack&#8221; Charvel. Jim just added a few features that make it unique to his style. So I think that Charvel fans, as well as Slipknot fans can both find something to like here.</p>
 
 
 

@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>I think a lot of us got into guitar <strong><a data-lasso-id="240841" href="https://www.electrikjam.com/the-7-best-guitar-solos-of-all-time/" data-type="post" data-id="6884" target="_blank" rel="noopener">because we heard an amazing guitar solo</a></strong>. Maybe it was just the idea of the guitar itself for others, but I can remember the exact moment that I decided I would be a guitarist. That defining moment that has given me 30 years of learning enjoyment.</p>
+<p>I think a lot of us got into guitar <strong><a data-lasso-id="240841" href="/the-7-best-guitar-solos-of-all-time/" data-type="post" data-id="6884" target="_blank" rel="noopener">because we heard an amazing guitar solo</a></strong>. Maybe it was just the idea of the guitar itself for others, but I can remember the exact moment that I decided I would be a guitarist. That defining moment that has given me 30 years of learning enjoyment.</p>
 
 
 
@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>Later on, it was <strong>Slash</strong> from <strong>Guns N&#8217; Roses</strong> that had me transfixed to the screen, as he played in the desert for the music video for &#8220;November Rain&#8221;.  It was another year or two <strong><a data-lasso-id="240842" href="https://www.electrikjam.com/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener">before I would finally get a guitar</a></strong> myself, but it was worth the wait.</p>
+<p>Later on, it was <strong>Slash</strong> from <strong>Guns N&#8217; Roses</strong> that had me transfixed to the screen, as he played in the desert for the music video for &#8220;November Rain&#8221;.  It was another year or two <strong><a data-lasso-id="240842" href="/one-of-the-best-beginner-guitars-epiphone-les-paul-special-2/" data-type="post" data-id="3402" target="_blank" rel="noopener">before I would finally get a guitar</a></strong> myself, but it was worth the wait.</p>
 
 
 
@@ -70,7 +70,7 @@ seo:
 
 
 
-<p>Learning scales is not just for playing solos, however. Scales break down the individual notes that make <strong><a href="https://www.electrikjam.com/guitar-intervals-for-beginners/" data-type="post" data-id="8221" target="_blank" rel="noopener" data-lasso-id="240843">chords and triads</a></strong>, which is essential to understand, <strong><a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="240844">as it is basic music theory</a></strong>. pretty soon, the fretboard really starts to open up, and the guitar makes sense.</p>
+<p>Learning scales is not just for playing solos, however. Scales break down the individual notes that make <strong><a href="/guitar-intervals-for-beginners/" data-type="post" data-id="8221" target="_blank" rel="noopener" data-lasso-id="240843">chords and triads</a></strong>, which is essential to understand, <strong><a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="240844">as it is basic music theory</a></strong>. pretty soon, the fretboard really starts to open up, and the guitar makes sense.</p>
 
 
 
@@ -262,7 +262,7 @@ seo:
 
 
 
-<p>This is an important part of memorizing guitar scales, since these notes also help you <strong><a href="https://www.electrikjam.com/guitar-chord-progressions-guide/" data-lasso-id="250196">understand how chords work</a></strong>. Let&#8217;s use the minor scale as an example, and then you can go back and check the major scale on your own.</p>
+<p>This is an important part of memorizing guitar scales, since these notes also help you <strong><a href="/guitar-chord-progressions-guide/" data-lasso-id="250196">understand how chords work</a></strong>. Let&#8217;s use the minor scale as an example, and then you can go back and check the major scale on your own.</p>
 
 
 
@@ -282,7 +282,7 @@ seo:
 
 
 
-<p>This works with any chord, so maybe try something other than the key of E. You will notice that the same notes that make a chord major or minor, also make a scale major/minor! It is all relative, and once you learn that these note repeat. Suddenly, <strong><a data-lasso-id="241218" href="https://www.electrikjam.com/fretboard-hacks-that-every-beginner-should-know/" data-type="post" data-id="5271" target="_blank" rel="noopener">the fretboard, and memorizing guitar scales seems a whole lot less intimidating!</a></strong></p>
+<p>This works with any chord, so maybe try something other than the key of E. You will notice that the same notes that make a chord major or minor, also make a scale major/minor! It is all relative, and once you learn that these note repeat. Suddenly, <strong><a data-lasso-id="241218" href="/fretboard-hacks-that-every-beginner-should-know/" data-type="post" data-id="5271" target="_blank" rel="noopener">the fretboard, and memorizing guitar scales seems a whole lot less intimidating!</a></strong></p>
 
 
 
@@ -358,7 +358,7 @@ seo:
 
 
 
-<p>Eventually, you can train your ear to recognize these sounds and the different timbres the strings make across the entire fretboard. This is <strong><a data-lasso-id="241219" href="https://www.electrikjam.com/22-frets-vs-24-frets-explained/" data-type="post" data-id="8013" target="_blank" rel="noopener">why some players prefer 24 frets</a></strong> over the standard 22.</p>
+<p>Eventually, you can train your ear to recognize these sounds and the different timbres the strings make across the entire fretboard. This is <strong><a data-lasso-id="241219" href="/22-frets-vs-24-frets-explained/" data-type="post" data-id="8013" target="_blank" rel="noopener">why some players prefer 24 frets</a></strong> over the standard 22.</p>
 
 
 

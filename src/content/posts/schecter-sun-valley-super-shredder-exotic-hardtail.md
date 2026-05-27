@@ -43,7 +43,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/new-schecter-red-reign-e-series-2021/" target="_blank" data-type="post" data-id="3029" rel="noopener" data-lasso-id="9086"><strong>Schecter</strong></a> definitely has a reputation as a &#8220;Metal&#8221; guitar company. This has been the bread and butter of the company for the last 25 years, often releasing guitars most suited for heavy music. <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247829">Schecter makes 7 and 8 string guitars</a> pretty regularly, and the <strong>Hellraiser</strong> Series is the &#8220;quintessential Metal guitar. Schecter makes guitars for <a href="https://www.electrikjam.com/schecter-traditional-van-nuys/" target="_blank" data-type="post" data-id="3017" rel="noopener" data-lasso-id="9087"><strong>other genres</strong></a> too, but let&#8217;s not kid ourselves here, Schecter is very METAL. When the original SVSS hit the stores a couple years ago, it was a massive hit.</p>
+<p><a href="/new-schecter-red-reign-e-series-2021/" target="_blank" data-type="post" data-id="3029" rel="noopener" data-lasso-id="9086"><strong>Schecter</strong></a> definitely has a reputation as a &#8220;Metal&#8221; guitar company. This has been the bread and butter of the company for the last 25 years, often releasing guitars most suited for heavy music. <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247829">Schecter makes 7 and 8 string guitars</a> pretty regularly, and the <strong>Hellraiser</strong> Series is the &#8220;quintessential Metal guitar. Schecter makes guitars for <a href="/schecter-traditional-van-nuys/" target="_blank" data-type="post" data-id="3017" rel="noopener" data-lasso-id="9087"><strong>other genres</strong></a> too, but let&#8217;s not kid ourselves here, Schecter is very METAL. When the original SVSS hit the stores a couple years ago, it was a massive hit.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>The SVSS series also had the new Retro-Active EMG pickup sets installed, and boasted some <em>insane</em> color options that screamed 80&#8217;s aesthetic. I got to <a href="https://www.electrikjam.com/new-schecter-svss-exotic-models/" target="_blank" data-type="post" data-id="3004" rel="noopener" data-lasso-id="9088"><strong>check them</strong></a> out when the Sun Valley Super Shredder was first released, and I absolutely loved everything about these guitars. The best part, was the price! These shred machines come way under $1000, and for all of the features&#8230;this is a STEAL.</p>
+<p>The SVSS series also had the new Retro-Active EMG pickup sets installed, and boasted some <em>insane</em> color options that screamed 80&#8217;s aesthetic. I got to <a href="/new-schecter-svss-exotic-models/" target="_blank" data-type="post" data-id="3004" rel="noopener" data-lasso-id="9088"><strong>check them</strong></a> out when the Sun Valley Super Shredder was first released, and I absolutely loved everything about these guitars. The best part, was the price! These shred machines come way under $1000, and for all of the features&#8230;this is a STEAL.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>After the original line of <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-lasso-id="40163">Schecter</a> SVSS came out, an updated &#8220;Exotic&#8221; edition was released. These models retained most of the same features of the original SVSS, but got a <em>huge</em> upgrade in wood choices. These exotic woods were accentuated by not having any color finish applied, and instead went completely natural. I think the SVSS Exotic looks classy! But the complaints remained&#8230;it was <em>only </em>available with a Floyd Rose.</p>
+<p>After the original line of <a href="/schecter-nick-johnston-hss-review/" data-lasso-id="40163">Schecter</a> SVSS came out, an updated &#8220;Exotic&#8221; edition was released. These models retained most of the same features of the original SVSS, but got a <em>huge</em> upgrade in wood choices. These exotic woods were accentuated by not having any color finish applied, and instead went completely natural. I think the SVSS Exotic looks classy! But the complaints remained&#8230;it was <em>only </em>available with a Floyd Rose.</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>The new Schecter Sun Valley Super Shredder Exotic Hardtail has all the same great features that the original version had, minus the <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167815">Floyd Rose bridge</a>. There are two different models to choose from, using Zircote wood for one model. The other model uses a gorgeous Black Limba wood. Both are a natural, matte finish.</p>
+<p>The new Schecter Sun Valley Super Shredder Exotic Hardtail has all the same great features that the original version had, minus the <a href="/floyd-rose-bridge-explained/" data-lasso-id="167815">Floyd Rose bridge</a>. There are two different models to choose from, using Zircote wood for one model. The other model uses a gorgeous Black Limba wood. Both are a natural, matte finish.</p>
 
 
 
@@ -95,11 +95,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Bolt-on wenge neck with Thin C profile</strong></li><li><strong>Ebony fingerboard with 24 extra-jumbo frets</strong></li><li><strong><a href="https://www.electrikjam.com/schecter-sunset-triad-review/" data-lasso-id="248999">Schecter USA Custom Shop Sunset</a> Strip humbucking bridge pickup</strong></li><li><strong>Pasadena humbucking neck pickup</strong></li><li><strong>Fretboard</strong> <strong>Material: Ebony</strong></li><li><strong>Radius: Compound</strong> <strong>12-16</strong></li><li><strong>Fret size: Extra-jumbo</strong></li><li><strong>Number of frets: 24</strong></li><li><strong>Nut width: 1.62&#8243;</strong></li><li><strong>Fixed Bridge</strong></li><li><strong>Locking Tuners</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Bolt-on wenge neck with Thin C profile</strong></li><li><strong>Ebony fingerboard with 24 extra-jumbo frets</strong></li><li><strong><a href="/schecter-sunset-triad-review/" data-lasso-id="248999">Schecter USA Custom Shop Sunset</a> Strip humbucking bridge pickup</strong></li><li><strong>Pasadena humbucking neck pickup</strong></li><li><strong>Fretboard</strong> <strong>Material: Ebony</strong></li><li><strong>Radius: Compound</strong> <strong>12-16</strong></li><li><strong>Fret size: Extra-jumbo</strong></li><li><strong>Number of frets: 24</strong></li><li><strong>Nut width: 1.62&#8243;</strong></li><li><strong>Fixed Bridge</strong></li><li><strong>Locking Tuners</strong></li></ul>
 
 
 
-<p>I have talked before about the Sunset Strip/Pasadena pickup combo, but just to reiterate, and refresh your memory&#8230; These are not just <a href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125521">&#8220;Schecter in-house&#8221; pickups</a>. These are made in the USA in the <a href="https://www.electrikjam.com/schecter-jack-fowler-traditional-review/" data-lasso-id="198731">Schecter</a> Custom Shop and they retail for about $300! I rarely like a passive pickup over<strong> <a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="9090">EMG actives</a></strong>, but Schecter had me sold with how versatile this pickup set is. It&#8217;s a hot set, but it also cleans up nicely. I have this set in another Schecter guitar model, <a href="https://www.electrikjam.com/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="9091"><strong>the E-1</strong></a> that I reviewed last year.</p>
+<p>I have talked before about the Sunset Strip/Pasadena pickup combo, but just to reiterate, and refresh your memory&#8230; These are not just <a href="/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125521">&#8220;Schecter in-house&#8221; pickups</a>. These are made in the USA in the <a href="/schecter-jack-fowler-traditional-review/" data-lasso-id="198731">Schecter</a> Custom Shop and they retail for about $300! I rarely like a passive pickup over<strong> <a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="9090">EMG actives</a></strong>, but Schecter had me sold with how versatile this pickup set is. It&#8217;s a hot set, but it also cleans up nicely. I have this set in another Schecter guitar model, <a href="/schecter-e1-koa-review/" target="_blank" data-type="post" data-id="1039" rel="noopener" data-lasso-id="9091"><strong>the E-1</strong></a> that I reviewed last year.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>The entire construction of the Schecter Sun Valley Super Shredder Exotic Hardtail feels really solid. Unlike most of the <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231840">Schecter models</a> made in South Korea, this is not a neck-through. This is a bolt-on, and a lot of players prefer the &#8220;snappiness&#8221; that a bolt-on can provide, tone wise. This is also congruent with the &#8220;80&#8217;s Vibe&#8221; of the guitars.</p>
+<p>The entire construction of the Schecter Sun Valley Super Shredder Exotic Hardtail feels really solid. Unlike most of the <a href="/schecter-mv-6-review/" data-lasso-id="231840">Schecter models</a> made in South Korea, this is not a neck-through. This is a bolt-on, and a lot of players prefer the &#8220;snappiness&#8221; that a bolt-on can provide, tone wise. This is also congruent with the &#8220;80&#8217;s Vibe&#8221; of the guitars.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>Schecter uses only the most premium hardware on the more expensive models, and the Sun Valley Super Shredder Exotic Hardtail is no exception. You have locking tuners, and a Hipshot hardtail bridge that should be stable as a rock. I have never had a tuning issue with any <a href="https://www.electrikjam.com/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199531">Schecter</a> guitar, and the new SVSS Exotic is up there with the best of them.</p>
+<p>Schecter uses only the most premium hardware on the more expensive models, and the Sun Valley Super Shredder Exotic Hardtail is no exception. You have locking tuners, and a Hipshot hardtail bridge that should be stable as a rock. I have never had a tuning issue with any <a href="/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199531">Schecter</a> guitar, and the new SVSS Exotic is up there with the best of them.</p>
 
 
 
@@ -135,11 +135,11 @@ seo:
 
 
 
-<p>Anything after about $1500 when it comes to guitars is going to be based on aesthetics and rare wood choices. This is also the price point where <a href="https://www.electrikjam.com/where-guitars-are-made-2022/" data-lasso-id="145498">guitars that are Made</a> in the USA start. So is the Schecter Sun Valley Super Shredder Exotic Hardtail expensive?</p>
+<p>Anything after about $1500 when it comes to guitars is going to be based on aesthetics and rare wood choices. This is also the price point where <a href="/where-guitars-are-made-2022/" data-lasso-id="145498">guitars that are Made</a> in the USA start. So is the Schecter Sun Valley Super Shredder Exotic Hardtail expensive?</p>
 
 
 
-<p>Not really, for what it is! You are getting premium woods, hardware, pickups, and construction. I would put this <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22594">Schecter against any USA made guitar</a> in the same price range, and the Schecter would come out on top, for sure. If you re looking for a classy Metal machine with a fixed bridge, the Schecter Sun Valley Super Shredder Exotic Hardtail is the perfect choice. It oozes &#8220;high class&#8221; while retaining the ability to be absolutely brutal!</p>
+<p>Not really, for what it is! You are getting premium woods, hardware, pickups, and construction. I would put this <a href="/schecter-demon-7-review/" data-lasso-id="22594">Schecter against any USA made guitar</a> in the same price range, and the Schecter would come out on top, for sure. If you re looking for a classy Metal machine with a fixed bridge, the Schecter Sun Valley Super Shredder Exotic Hardtail is the perfect choice. It oozes &#8220;high class&#8221; while retaining the ability to be absolutely brutal!</p>
 
 
 

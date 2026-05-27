@@ -39,7 +39,7 @@ seo:
 
 
 
-<p>I owned (and loved) the original Player Stratocaster, you can <strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313">read my full Fender Player Stratocaster review</a></strong> for more details. I saw the new model launch and I knew I was going to get one. Why? Because Fender properly pushed the boat out with upgrades and tweaks.</p>
+<p>I owned (and loved) the original Player Stratocaster, you can <strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313">read my full Fender Player Stratocaster review</a></strong> for more details. I saw the new model launch and I knew I was going to get one. Why? Because Fender properly pushed the boat out with upgrades and tweaks.</p>
 
 
 

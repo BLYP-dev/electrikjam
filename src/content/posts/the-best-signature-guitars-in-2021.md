@@ -44,11 +44,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-lasso-id="15489">Think about how many times you have seen a guitar</a> being played by one of your favorite artists. You have probably seen it and thought it was really cool and unique. Maybe you have only heard the artist before on an album, and wondered what guitar they play on recordings. You in turn, buy the signature guitar and the artist and the brand make a profit, while you get a really cool guitar.</p>
+<p><a href="/does-the-do-it-all-guitar-exist/" data-lasso-id="15489">Think about how many times you have seen a guitar</a> being played by one of your favorite artists. You have probably seen it and thought it was really cool and unique. Maybe you have only heard the artist before on an album, and wondered what guitar they play on recordings. You in turn, buy the signature guitar and the artist and the brand make a profit, while you get a really cool guitar.</p>
 
 
 
-<p>These signature <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="14299">guitars</a> usually have the same specs as the artist models that are played on stage. So you get the same custom<strong> <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" target="_blank" data-type="post" data-id="5114" rel="noopener" data-lasso-id="14282">pickups</a></strong>, and other high end features that a touring guitarist needs to get the job done. These can be modifications to popular body shapes, different bridges, or custom paint jobs. </p>
+<p>These signature <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="14299">guitars</a> usually have the same specs as the artist models that are played on stage. So you get the same custom<strong> <a href="/seymour-duncan-invader-pickup-reviews/" target="_blank" data-type="post" data-id="5114" rel="noopener" data-lasso-id="14282">pickups</a></strong>, and other high end features that a touring guitarist needs to get the job done. These can be modifications to popular body shapes, different bridges, or custom paint jobs. </p>
 
 
 
@@ -60,15 +60,15 @@ seo:
 
 
 
-<p>So it seems like a lot of people automatically disregard signature guitars because these guitars are usually the ideas of another artist. Sometimes, it is very subtle when it comes to the features and designs, like with <a href="https://www.electrikjam.com/new-solar-guitars-check-out-these-bolt-on-beauties/" target="_blank" data-type="post" data-id="1443" rel="noopener" data-lasso-id="14283"><strong>Solar Guitars.</strong></a> The Solar brand was designed by Ola Englund for himself, and a few other artists. </p>
+<p>So it seems like a lot of people automatically disregard signature guitars because these guitars are usually the ideas of another artist. Sometimes, it is very subtle when it comes to the features and designs, like with <a href="/new-solar-guitars-check-out-these-bolt-on-beauties/" target="_blank" data-type="post" data-id="1443" rel="noopener" data-lasso-id="14283"><strong>Solar Guitars.</strong></a> The Solar brand was designed by Ola Englund for himself, and a few other artists. </p>
 
 
 
-<p>Then, there are some signature models that are so distinct, that there is now doubt about who plays that signature model. There are tons of them out there from every brand you can imagine. You may not think much about it, but technically the Gibson<a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="14284"><strong> Les Paul</strong></a> is one of the best signature guitars ever made! </p>
+<p>Then, there are some signature models that are so distinct, that there is now doubt about who plays that signature model. There are tons of them out there from every brand you can imagine. You may not think much about it, but technically the Gibson<a href="/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="14284"><strong> Les Paul</strong></a> is one of the best signature guitars ever made! </p>
 
 
 
-<p>So today we are going to take a look at the best signature guitars, that be affordable for people on any kind of budget. As usual, we are going to be taking a look at the ones that are best for Rock/Metal, but <a href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" data-lasso-id="175508">remember that any guitar</a> can be used for any purpose. It&#8217;s totally up to you as a player!</p>
+<p>So today we are going to take a look at the best signature guitars, that be affordable for people on any kind of budget. As usual, we are going to be taking a look at the ones that are best for Rock/Metal, but <a href="/evh-the-5-best-budget-shredder-guitars/" data-lasso-id="175508">remember that any guitar</a> can be used for any purpose. It&#8217;s totally up to you as a player!</p>
 
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<p>The problem for a lot of people, is the<strong> <a href="https://www.ibanez.com/na/products/detail/pia3761_00_01.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="14285">Ibanez Jem</a></strong> is usually a very expensive investment. Ibanez realized that not everyone had two or three grand laying around to buy a Jem. So the Jem JR was made, as a <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231837">budget model</a>. But just because it is &#8220;budget&#8221; priced doesn&#8217;t mean the quality took a dip. The Jem JR has tons of features:</p>
+<p>The problem for a lot of people, is the<strong> <a href="https://www.ibanez.com/na/products/detail/pia3761_00_01.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="14285">Ibanez Jem</a></strong> is usually a very expensive investment. Ibanez realized that not everyone had two or three grand laying around to buy a Jem. So the Jem JR was made, as a <a href="/schecter-mv-6-review/" data-lasso-id="231837">budget model</a>. But just because it is &#8220;budget&#8221; priced doesn&#8217;t mean the quality took a dip. The Jem JR has tons of features:</p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p>The Ibanez Jem JR is one of the best signature <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35963">guitars you can buy on a budget</a>. These are priced at <a href="https://www.electrikjam.com/guitar-center-pxf-io-zdba6z/" data-lasso-id="14286" rel="nofollow noopener" target="_blank" data-lasso-name="Ibanez Jem JR"><strong>only $499</strong></a>, and this is a lot of guitar for the money! I have spent a good amount of time with the Jem JR, as I am a <em>huge</em> fan of Vai and everything he does. This is not only one of the best signature guitars, but one of the least expensive ones ever made by Ibanez.</p>
+<p>The Ibanez Jem JR is one of the best signature <a href="/the-best-guitars-of-2021/" data-lasso-id="35963">guitars you can buy on a budget</a>. These are priced at <a href="/guitar-center-pxf-io-zdba6z/" data-lasso-id="14286" rel="nofollow noopener" target="_blank" data-lasso-name="Ibanez Jem JR"><strong>only $499</strong></a>, and this is a lot of guitar for the money! I have spent a good amount of time with the Jem JR, as I am a <em>huge</em> fan of Vai and everything he does. This is not only one of the best signature guitars, but one of the least expensive ones ever made by Ibanez.</p>
 
 
 
@@ -132,7 +132,7 @@ seo:
 
 
 
-<p>We absolutely love <a href="https://www.electrikjam.com/cort-multi-scale-guitars-new-beautiful-models-for-2021/" target="_blank" data-type="post" data-id="1797" rel="noopener" data-lasso-id="14287"><strong>Cort Guitars</strong></a> here at Electrikjam since they are a bargain brand that have amazing features for the money you are investing. If you haven&#8217;t heard of <strong>Matt Bellamy</strong>, then it&#8217;s time to go listen to his band, <strong>MUSE</strong>. Matt is a highly creative guitarist, and he uses crazy effects blended with mountains of heavy distortion to craft a massive tone. To do that, he uses one of the best signature guitars on the market. </p>
+<p>We absolutely love <a href="/cort-multi-scale-guitars-new-beautiful-models-for-2021/" target="_blank" data-type="post" data-id="1797" rel="noopener" data-lasso-id="14287"><strong>Cort Guitars</strong></a> here at Electrikjam since they are a bargain brand that have amazing features for the money you are investing. If you haven&#8217;t heard of <strong>Matt Bellamy</strong>, then it&#8217;s time to go listen to his band, <strong>MUSE</strong>. Matt is a highly creative guitarist, and he uses crazy effects blended with mountains of heavy distortion to craft a massive tone. To do that, he uses one of the best signature guitars on the market. </p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p>So if you are looking for a guitar that can do a little bit of everything, the Cort MBM-1 is a great place to start. I am surprised that this <a href="https://www.electrikjam.com/aio-wolf-guitars-review-2021/" data-lasso-id="21761">guitar falls in the price</a> bracket that it does, with all of the premium features it carries. Cort makes some of the <a href="https://www.electrikjam.com/cort-g300-pro-a-take-on-affordable-boutique/" target="_blank" data-type="post" data-id="1949" rel="noopener" data-lasso-id="14289"><strong>best quality</strong></a> guitars on the planet, and this is no exception!</p>
+<p>So if you are looking for a guitar that can do a little bit of everything, the Cort MBM-1 is a great place to start. I am surprised that this <a href="/aio-wolf-guitars-review-2021/" data-lasso-id="21761">guitar falls in the price</a> bracket that it does, with all of the premium features it carries. Cort makes some of the <a href="/cort-g300-pro-a-take-on-affordable-boutique/" target="_blank" data-type="post" data-id="1949" rel="noopener" data-lasso-id="14289"><strong>best quality</strong></a> guitars on the planet, and this is no exception!</p>
 
 
 
@@ -172,11 +172,11 @@ seo:
 
 
 
-<p>I don&#8217;t think anyone needs to be introduced to <a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17572">Metallica</a>. Over the past 40 years, they have made their mark on the world, with countless tours and albums under their belts. <strong>Kirk Hammet </strong>has been playing some blistering solos for the band since 1984, and when he was approached by <a href="https://www.electrikjam.com/esp-deluxe-les-paul/" target="_blank" data-type="lasso-urls" data-id="4253" rel="nofollow noopener" data-lasso-id="14290" data-lasso-name="ESP LTD Deluxe"><strong>ESP guitars</strong></a> he knew exactly what he had in mind.</p>
+<p>I don&#8217;t think anyone needs to be introduced to <a href="/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17572">Metallica</a>. Over the past 40 years, they have made their mark on the world, with countless tours and albums under their belts. <strong>Kirk Hammet </strong>has been playing some blistering solos for the band since 1984, and when he was approached by <a href="/esp-deluxe-les-paul/" target="_blank" data-type="lasso-urls" data-id="4253" rel="nofollow noopener" data-lasso-id="14290" data-lasso-name="ESP LTD Deluxe"><strong>ESP guitars</strong></a> he knew exactly what he had in mind.</p>
 
 
 
-<p>While it may look like your standard issue all-black <a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189578" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">&#8220;Metal guitar&#8221;</a>, the ESP/LTD Kirk Hammet model is one of the best signature guitars around, when it comes to quality vs. budget. This is THE guitar that Kirk plays in the famous &#8220;<strong>Enter</strong> <strong>Sandman</strong>&#8221; video, but that&#8217;s not what you are paying for. You get all premium features on the KH-602:</p>
+<p>While it may look like your standard issue all-black <a href="/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189578" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">&#8220;Metal guitar&#8221;</a>, the ESP/LTD Kirk Hammet model is one of the best signature guitars around, when it comes to quality vs. budget. This is THE guitar that Kirk plays in the famous &#8220;<strong>Enter</strong> <strong>Sandman</strong>&#8221; video, but that&#8217;s not what you are paying for. You get all premium features on the KH-602:</p>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p>Look, there is really not a lot that I can say about this guitar. It is absolutely <em>awesome</em>, and has everything the intermediate shredder needs. The EMG pickups are great <strong><a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="14291">active pickups</a> </strong>that are built for getting the best chugging tones. The neck is like most of ESP/LTD and <strong><a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" target="_blank" data-type="post" data-id="5301" rel="noopener" data-lasso-id="14292">Schecter</a> </strong>guitars. It is thin, and super fast to play.</p>
+<p>Look, there is really not a lot that I can say about this guitar. It is absolutely <em>awesome</em>, and has everything the intermediate shredder needs. The EMG pickups are great <strong><a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="14291">active pickups</a> </strong>that are built for getting the best chugging tones. The neck is like most of ESP/LTD and <strong><a href="/schecter-demon-6-worth-it-specs-price/" target="_blank" data-type="post" data-id="5301" rel="noopener" data-lasso-id="14292">Schecter</a> </strong>guitars. It is thin, and super fast to play.</p>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<p>If you haven&#8217;t heard of <strong>Tim Henson</strong>, or his band <strong>Polyphia</strong>&#8230;.it is probably time to look them up on YouTube and have your <em>mind blown</em>. Tim might have started his career as a <a href="https://www.electrikjam.com/best-acoustic-guitars-for-metal/" data-lasso-id="202450">Metal guitar player</a>, but these days he has one of the most unique styles on the planet. Tim has redefined what guitar can do, in a musical sense. He has always played <a class="wpil_keyword_link" href="https://www.electrikjam.com/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255007">Ibanez guitars</a>, but he needed something very special to get the tone right for Polyphia&#8217;s special brand of Prog.</p>
+<p>If you haven&#8217;t heard of <strong>Tim Henson</strong>, or his band <strong>Polyphia</strong>&#8230;.it is probably time to look them up on YouTube and have your <em>mind blown</em>. Tim might have started his career as a <a href="/best-acoustic-guitars-for-metal/" data-lasso-id="202450">Metal guitar player</a>, but these days he has one of the most unique styles on the planet. Tim has redefined what guitar can do, in a musical sense. He has always played <a class="wpil_keyword_link" href="/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="255007">Ibanez guitars</a>, but he needed something very special to get the tone right for Polyphia&#8217;s special brand of Prog.</p>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<p>Ibanez really knocked it out of the park with this new version of &#8220;Super Strat&#8221; guitars. You have a hot Dimarzio humbucker in the bridge that is perfect for palm-muted chords and chugging. But, you also get two hot single coil pickups that create a highly unique clean tone that rivals anything <a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="14293"><strong>Fender </strong></a>makes these days. The <a href="https://www.electrikjam.com/ibanez-signature-guitars/" data-lasso-id="255040">Ibanez THBB10</a> is one of the best signature guitars to be released in the past two years, feature-wise.</p>
+<p>Ibanez really knocked it out of the park with this new version of &#8220;Super Strat&#8221; guitars. You have a hot Dimarzio humbucker in the bridge that is perfect for palm-muted chords and chugging. But, you also get two hot single coil pickups that create a highly unique clean tone that rivals anything <a href="/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="14293"><strong>Fender </strong></a>makes these days. The <a href="/ibanez-signature-guitars/" data-lasso-id="255040">Ibanez THBB10</a> is one of the best signature guitars to be released in the past two years, feature-wise.</p>
 
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p><strong>Steve Vai </strong>still plays his famous Jem guitars all of the time. Last year, he surprised us with a new model named after his wife, Pia. This is one of the best <a href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170860">signature guitars</a> Ibanez has ever made, and it is also one of the most complex. All of the usual features of the Jem series are here, but they are softer and more delicate. This is a guitar that has a lot of beauty and class, made for a master of the instrument. It may look like a Jem a <em>little</em> bit, but the Ibanez PIA is a whole different beast.</p>
+<p><strong>Steve Vai </strong>still plays his famous Jem guitars all of the time. Last year, he surprised us with a new model named after his wife, Pia. This is one of the best <a href="/jim-root-charvel-pro-mod-guitar-review/" data-lasso-id="170860">signature guitars</a> Ibanez has ever made, and it is also one of the most complex. All of the usual features of the Jem series are here, but they are softer and more delicate. This is a guitar that has a lot of beauty and class, made for a master of the instrument. It may look like a Jem a <em>little</em> bit, but the Ibanez PIA is a whole different beast.</p>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<p>Now, the reason I currently do not own one&#8230; is the price tag. The PIA goes for a pretty high price, but you are getting the absolute best of the best Ibanez can create, here. This is not only an <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149212">amazing guitar</a> to play, but it is also a collector&#8217;s item.</p>
+<p>Now, the reason I currently do not own one&#8230; is the price tag. The PIA goes for a pretty high price, but you are getting the absolute best of the best Ibanez can create, here. This is not only an <a href="/guitar-amp-controls-explained/" data-lasso-id="149212">amazing guitar</a> to play, but it is also a collector&#8217;s item.</p>
 
 
 

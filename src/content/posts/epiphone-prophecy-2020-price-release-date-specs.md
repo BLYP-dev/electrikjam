@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong>Years ago, <a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2597">Epiphone</a> launched the Prophecy Series as an alternative to it&#8217;s more classicly styled models. The Prophecy had USA pickups and upgrades galore&#8230; but somehow lost popularity. So what have they unveiled for the 2020 lineup? </strong></p>
+<p><strong>Years ago, <a href="/epiphone-guitars/" data-lasso-id="2597">Epiphone</a> launched the Prophecy Series as an alternative to it&#8217;s more classicly styled models. The Prophecy had USA pickups and upgrades galore&#8230; but somehow lost popularity. So what have they unveiled for the 2020 lineup? </strong></p>
 
 
 
@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>A little over a decade ago, <strong><a href="https://www.electrikjam.com/epiphone-slash-signature-series/" class="rank-math-link" data-lasso-id="370">Epiphone</a></strong> launched its Prophecy line in the form of an updated, <strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="371">Metal ready Les Paul</a></strong>. Now this wasn&#8217;t a traditional Les Paul by any stretch of the means. These we &#8220;hot-rodded&#8221; in a sense, as they had enormous amounts of features found on none of the other models, such as:</p>
+<p>A little over a decade ago, <strong><a href="/epiphone-slash-signature-series/" class="rank-math-link" data-lasso-id="370">Epiphone</a></strong> launched its Prophecy line in the form of an updated, <strong><a class="rank-math-link" href="/epiphone-sg-vs-epiphone-les-paul/" data-lasso-id="371">Metal ready Les Paul</a></strong>. Now this wasn&#8217;t a traditional Les Paul by any stretch of the means. These we &#8220;hot-rodded&#8221; in a sense, as they had enormous amounts of features found on none of the other models, such as:</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>It&#8217;s still a mystery to me as to why Epiphone would suddenly discontinue such a popular model for <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="372">players on a budget</a>.  Epiphone is known for their bang-for-your-buck designs and mentality. You would think their first big foray into the Metal Guitar realm would have been a constant part of their lineup.</p>
+<p>It&#8217;s still a mystery to me as to why Epiphone would suddenly discontinue such a popular model for <a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="372">players on a budget</a>.  Epiphone is known for their bang-for-your-buck designs and mentality. You would think their first big foray into the Metal Guitar realm would have been a constant part of their lineup.</p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p>Personally, I&#8217;ve always wanted one. They sounded great and had familiar EMG pickups in half the models, while the other half had <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="373">Gibson USA humbuckers</a>. My local music store had one but before I could pull the trigger, it was picked up by someone else. Gone and forgotten&#8230;</p>
+<p>Personally, I&#8217;ve always wanted one. They sounded great and had familiar EMG pickups in half the models, while the other half had <a href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="373">Gibson USA humbuckers</a>. My local music store had one but before I could pull the trigger, it was picked up by someone else. Gone and forgotten&#8230;</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>This year, <a href="https://www.electrikjam.com/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-lasso-id="374">Epiphone not only released new models</a> under the Prophecy moniker, the lineup has been completely revamped and expanded. Now, instead just getting a fully spec&#8217;d Les Paul, you get several models in many different finishes!</p>
+<p>This year, <a href="/new-epiphone-es-models-for-2020-inspired-by-gibson/" data-lasso-id="374">Epiphone not only released new models</a> under the Prophecy moniker, the lineup has been completely revamped and expanded. Now, instead just getting a fully spec&#8217;d Les Paul, you get several models in many different finishes!</p>
 
 
 
@@ -99,11 +99,11 @@ seo:
 
 
 
-<p>&#8220;Inspired by Gibson&#8221; is all the rage at Epiphone this year, for a good reason. These guitars all almost perfect copies of their more expensive Gibson brothers. Customer have asked for <a href="https://www.electrikjam.com/gibson-vs-epiphone-in-2021/" data-lasso-id="375">Epiphone to make their guitars closer to Gibson spec</a> for years, and now you&#8217;ve finally got it!</p>
+<p>&#8220;Inspired by Gibson&#8221; is all the rage at Epiphone this year, for a good reason. These guitars all almost perfect copies of their more expensive Gibson brothers. Customer have asked for <a href="/gibson-vs-epiphone-in-2021/" data-lasso-id="375">Epiphone to make their guitars closer to Gibson spec</a> for years, and now you&#8217;ve finally got it!</p>
 
 
 
-<p>The other standout feature is definitely the Fishman Fluence Pickups. Let it be noted that these are not just your run-of-the-mill <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-100-legit/" data-type="post" data-id="716" data-lasso-id="376">Fishman Modern </a>pickups. Epiphone designed these to be proprietary for these Prophecy models specifically.</p>
+<p>The other standout feature is definitely the Fishman Fluence Pickups. Let it be noted that these are not just your run-of-the-mill <a href="/fishman-fluence-modern-review-is-the-hype-100-legit/" data-type="post" data-id="716" data-lasso-id="376">Fishman Modern </a>pickups. Epiphone designed these to be proprietary for these Prophecy models specifically.</p>
 
 
 
@@ -115,11 +115,11 @@ seo:
 
 
 
-<p>This makes for an extremely versatile sound palate across all of the Prophecy models. Not only can you get a warm PAF sound from the Fishman pickups, you can also get more extreme <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8164">active pickup</a> tones as well. Throw in the coil tap and you have what I call a &#8220;Swiss Army Guitar&#8221;. It can do anything!</p>
+<p>This makes for an extremely versatile sound palate across all of the Prophecy models. Not only can you get a warm PAF sound from the Fishman pickups, you can also get more extreme <a href="/what-are-active-pickups/" data-lasso-id="8164">active pickup</a> tones as well. Throw in the coil tap and you have what I call a &#8220;Swiss Army Guitar&#8221;. It can do anything!</p>
 
 
 
-<p>The other features like Grover tuners, Graphtech nut, Cream binding, and jumbo frets set the Prophecy apart from standard models. These are not only aesthetically pleasing features. They are full-on upgrades that ensure the <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" data-lasso-id="5908">Epiphone Prophecy 2020 lineup</a> is &#8220;future-proof&#8221;.</p>
+<p>The other features like Grover tuners, Graphtech nut, Cream binding, and jumbo frets set the Prophecy apart from standard models. These are not only aesthetically pleasing features. They are full-on upgrades that ensure the <a href="/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" data-lasso-id="5908">Epiphone Prophecy 2020 lineup</a> is &#8220;future-proof&#8221;.</p>
 
 
 
@@ -139,11 +139,11 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-lasso-id="5810">The model that started the Prophecy series</a>, the Epiphone Les Paul. These come in three different finishes: two Flame Maple and one that is solid black. This is where it all began!</p>
+<p><a href="/best-epiphone-les-paul-models/" data-lasso-id="5810">The model that started the Prophecy series</a>, the Epiphone Les Paul. These come in three different finishes: two Flame Maple and one that is solid black. This is where it all began!</p>
 
 
 
-<p>The &#8220;Red Tiger Gloss&#8221; Flame Maple finish is stunning, as well as it&#8217;s &#8220;Olive Tiger Aged Gloss&#8221; counterpart. The last finish is your standard black with cream binding that is reminiscent of a classic <a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="377">Les Paul Custom</a>.</p>
+<p>The &#8220;Red Tiger Gloss&#8221; Flame Maple finish is stunning, as well as it&#8217;s &#8220;Olive Tiger Aged Gloss&#8221; counterpart. The last finish is your standard black with cream binding that is reminiscent of a classic <a href="/best-guitars-for-doom-metal/" data-type="post" data-id="926" data-lasso-id="377">Les Paul Custom</a>.</p>
 
 
 
@@ -162,7 +162,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/epiphone-sg-colors/" data-lasso-id="3504">Epiphone SG</a> needs no introduction. This is a fantastic guitar that has been used for all types of Metal. Hell, it helped to invent Heavy Metal the day that Tony Iommi started playing an SG in <strong>Black Sabbath</strong>. The SG is still used today in all kinds of music, and is a staple in <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="379">Doom Metal.</a></p>
+<p>The <a href="/epiphone-sg-colors/" data-lasso-id="3504">Epiphone SG</a> needs no introduction. This is a fantastic guitar that has been used for all types of Metal. Hell, it helped to invent Heavy Metal the day that Tony Iommi started playing an SG in <strong>Black Sabbath</strong>. The SG is still used today in all kinds of music, and is a staple in <a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="379">Doom Metal.</a></p>
 
 
 
@@ -181,11 +181,11 @@ seo:
 
 
 
-<p>The Flying V has a long history of being a Metal guitar classic. Everyone from <a href="https://www.electrikjam.com/metallica-guitar-tunings-over-the-years/" data-lasso-id="381">Metallica</a>, to <strong>Megadeth</strong> and <strong>Anthrax</strong> has used these mean looking Heavy Metal monsters. Even people that don&#8217;t play guitar know the shape and the legacy that comes with wielding one of these uncompromising axes.</p>
+<p>The Flying V has a long history of being a Metal guitar classic. Everyone from <a href="/metallica-guitar-tunings-over-the-years/" data-lasso-id="381">Metallica</a>, to <strong>Megadeth</strong> and <strong>Anthrax</strong> has used these mean looking Heavy Metal monsters. Even people that don&#8217;t play guitar know the shape and the legacy that comes with wielding one of these uncompromising axes.</p>
 
 
 
-<p>Not only does the Flying V look the part when it comes to shredding, it<em> acts </em>the part as well. You see, Flying V guitars allow you to have access all the way up the fretboard to the final frets,<a href="https://www.electrikjam.com/best-guitars-for-metal/" data-type="post" data-id="906" data-lasso-id="382"> as we discussed before.</a> This makes the Flying V the ultimate weapon for anyone looking to blast their solos into orbit.</p>
+<p>Not only does the Flying V look the part when it comes to shredding, it<em> acts </em>the part as well. You see, Flying V guitars allow you to have access all the way up the fretboard to the final frets,<a href="/best-guitars-for-metal/" data-type="post" data-id="906" data-lasso-id="382"> as we discussed before.</a> This makes the Flying V the ultimate weapon for anyone looking to blast their solos into orbit.</p>
 
 
 
@@ -204,11 +204,11 @@ seo:
 
 
 
-<p>I think by now, we all know how I feel about Explorers. I am obsessed with them. In fact, I recently received what I <a href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" data-lasso-id="384">thought to be my dream guitar</a>. <em>But I might have made a mistake!</em></p>
+<p>I think by now, we all know how I feel about Explorers. I am obsessed with them. In fact, I recently received what I <a href="/schecter-e1-koa-review/" data-type="post" data-id="1039" data-lasso-id="384">thought to be my dream guitar</a>. <em>But I might have made a mistake!</em></p>
 
 
 
-<p>The Explorer, like the Flying V is definitely an extreme shape and it&#8217;s not made for everyone. Some of my favorite Metal players have used them for years such as <a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-lasso-id="385">Metallica</a> and <strong>Coheed and Cambria</strong>. The extreme shape can feel cumbersome to many people and it can be a hard guitar to tame.</p>
+<p>The Explorer, like the Flying V is definitely an extreme shape and it&#8217;s not made for everyone. Some of my favorite Metal players have used them for years such as <a href="/metallica-songs-complete-list-inc-covers-rarities/" data-lasso-id="385">Metallica</a> and <strong>Coheed and Cambria</strong>. The extreme shape can feel cumbersome to many people and it can be a hard guitar to tame.</p>
 
 
 
@@ -220,7 +220,7 @@ seo:
 
 
 
-<p>Just like the <a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236473">Gibson Explorer</a> models, the Prophecy Extura has a &#8220;hockey stick&#8221; headstock with a mother of pearl logo. This is a very nice touch on the Epiphone model! The control layout is the same as the <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="386">SG and Flying V</a> models, with the custom knobs and hardware.</p>
+<p>Just like the <a href="/gibson-80s-explorer-review/" data-lasso-id="236473">Gibson Explorer</a> models, the Prophecy Extura has a &#8220;hockey stick&#8221; headstock with a mother of pearl logo. This is a very nice touch on the Epiphone model! The control layout is the same as the <a href="/types-of-guitars-guide/" data-lasso-id="386">SG and Flying V</a> models, with the custom knobs and hardware.</p>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<p>Finally, even less minor is the lack of pickguards for all of the models. This was a clear design choice to not only make the guitars look more modern, but to show off the beautiful finishes. Some people like the pickguards and if you are one of those people, I am sure you can <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17482">buy one after-market from Epiphone</a>.</p>
+<p>Finally, even less minor is the lack of pickguards for all of the models. This was a clear design choice to not only make the guitars look more modern, but to show off the beautiful finishes. Some people like the pickguards and if you are one of those people, I am sure you can <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17482">buy one after-market from Epiphone</a>.</p>
 
 
 
@@ -255,11 +255,11 @@ seo:
 
 
 
-<p>For the first time in a long, long time&#8230;Epiphone isn&#8217;t just standing in the corner being the &#8220;affordable option&#8221; to other guitars. Obviously, this year is all business in an attempt to compete with brands like <strong><a href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" data-lasso-id="388">Schecter</a></strong> and LTD.</p>
+<p>For the first time in a long, long time&#8230;Epiphone isn&#8217;t just standing in the corner being the &#8220;affordable option&#8221; to other guitars. Obviously, this year is all business in an attempt to compete with brands like <strong><a href="/schecter-e1-koa-review/" data-type="post" data-id="1039" data-lasso-id="388">Schecter</a></strong> and LTD.</p>
 
 
 
-<p>Epiphone is a big favorite here at ElectrikJam and I am very happy to see the new lineup this year. I hope that Epiphone continues to innovate and <a href="https://www.electrikjam.com/best-selling-guitars/" data-lasso-id="19195">redesign popular models</a> when Winter NAAM rolls around in January.</p>
+<p>Epiphone is a big favorite here at ElectrikJam and I am very happy to see the new lineup this year. I hope that Epiphone continues to innovate and <a href="/best-selling-guitars/" data-lasso-id="19195">redesign popular models</a> when Winter NAAM rolls around in January.</p>
 
 
 
@@ -308,12 +308,12 @@ seo:
 <div class="rank-math-steps ">
 <div id="howto-step-1605542679416" class="rank-math-step">
 <h3 class="rank-math-step-title ">The Epiphone Prophecy 2020 Lineup Has A Forgotten Legacy&#8230;.</h3>
-<div class="rank-math-step-content "><img decoding="async" width="1800" height="1800" src="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg 1800w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-300x300.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-100x100.jpg 100w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-600x600.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-150x150.jpg 150w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-768x768.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1536x1536.jpg 1536w" sizes="(max-width: 1800px) 100vw, 1800px" title=""><p>These original Prophecy models sold really well and most reviews were very positive for the models. Critics and players praised the &#8220;stage ready&#8221; models and the general consensus was that the Prophecy models were some of the best <a class="wpil_keyword_link " href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked">guitars</a> Epiphone ever made.</p>
+<div class="rank-math-step-content "><img decoding="async" width="1800" height="1800" src="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/11/Epiphone-Original-Prophecy.jpg 1800w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-300x300.jpg 300w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-100x100.jpg 100w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-600x600.jpg 600w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1024x1024.jpg 1024w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-150x150.jpg 150w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-768x768.jpg 768w, /wp-content/uploads/2020/11/Epiphone-Original-Prophecy-1536x1536.jpg 1536w" sizes="(max-width: 1800px) 100vw, 1800px" title=""><p>These original Prophecy models sold really well and most reviews were very positive for the models. Critics and players praised the &#8220;stage ready&#8221; models and the general consensus was that the Prophecy models were some of the best <a class="wpil_keyword_link " href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked">guitars</a> Epiphone ever made.</p>
 </div>
 </div>
 <div id="howto-step-1605542743171" class="rank-math-step">
 <h3 class="rank-math-step-title ">Epiphone Prophecy 2020 Lineup: Amazing Features on A Budget</h3>
-<div class="rank-math-step-content "><img decoding="async" width="1200" height="550" src="/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg" class="attachment-full size-full" alt="gibson vs epiphone" srcset="/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg 1200w, /wp-content/uploads/2020/11/epiphone-2020-lineup-600x275.jpg 600w, /wp-content/uploads/2020/11/epiphone-2020-lineup-300x138.jpg 300w, /wp-content/uploads/2020/11/epiphone-2020-lineup-1024x469.jpg 1024w, /wp-content/uploads/2020/11/epiphone-2020-lineup-768x352.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""><p>This year, <a href="https://www.electrikjam.com/new-epiphone-es-models-for-2020-inspired-by-gibson/">Epiphone not only released new models</a> under the Prophecy moniker, the lineup has been completely revamped and expanded.</p>
+<div class="rank-math-step-content "><img decoding="async" width="1200" height="550" src="/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg" class="attachment-full size-full" alt="gibson vs epiphone" srcset="/wp-content/uploads/2020/11/epiphone-2020-lineup.jpg 1200w, /wp-content/uploads/2020/11/epiphone-2020-lineup-600x275.jpg 600w, /wp-content/uploads/2020/11/epiphone-2020-lineup-300x138.jpg 300w, /wp-content/uploads/2020/11/epiphone-2020-lineup-1024x469.jpg 1024w, /wp-content/uploads/2020/11/epiphone-2020-lineup-768x352.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""><p>This year, <a href="/new-epiphone-es-models-for-2020-inspired-by-gibson/">Epiphone not only released new models</a> under the Prophecy moniker, the lineup has been completely revamped and expanded.</p>
 </div>
 </div>
 <div id="howto-step-1605542834827" class="rank-math-step">

@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>We are always on the hunt for the<a href="https://www.electrikjam.com/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="19067"><strong> best beginner </strong></a>guitars. Beginner <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="19073">guitars</a> can sometimes get a bad reputation for just being unplayable and cheap. To be fair, some of them<em> are</em>. You see tons of &#8220;no name&#8221; brands that are sold in pawn shops and on Amazon. Most of these are made in China and are a disaster to try to play, even if you are <em>experienced</em>!</p>
+<p>We are always on the hunt for the<a href="/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener" data-lasso-id="19067"><strong> best beginner </strong></a>guitars. Beginner <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="19073">guitars</a> can sometimes get a bad reputation for just being unplayable and cheap. To be fair, some of them<em> are</em>. You see tons of &#8220;no name&#8221; brands that are sold in pawn shops and on Amazon. Most of these are made in China and are a disaster to try to play, even if you are <em>experienced</em>!</p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>I first saw Indio Guitars on a Youtube channel that I follow. Indio makes classic style instruments like <a href="https://www.electrikjam.com/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="19068"><strong>Fender</strong></a>, and <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="19069"><strong>Epiphone</strong></a> but the catch is&#8230;they are all very inexpensive. How inexpensive, you may ask? Under $100 for most standard models. That is&#8230; sketchy to say the least.</p>
+<p>I first saw Indio Guitars on a Youtube channel that I follow. Indio makes classic style instruments like <a href="/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="19068"><strong>Fender</strong></a>, and <a href="/what-is-the-best-quality-epiphone-les-paul/" target="_blank" data-type="post" data-id="4807" rel="noopener" data-lasso-id="19069"><strong>Epiphone</strong></a> but the catch is&#8230;they are all very inexpensive. How inexpensive, you may ask? Under $100 for most standard models. That is&#8230; sketchy to say the least.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Basswood Body</strong></li><li><strong>Rosewood/Maple Fretboards</strong></li><li><strong>Maple Neck</strong></li><li><strong>22 frets</strong></li><li><strong>Ceramic Single Coil Pickups</strong></li><li><strong>Vintage Bridge</strong></li><li><strong>Medium Jumbo Frets</strong></li><li><strong>5 Way Switch</strong></li><li><a href="https://www.electrikjam.com/the-best-gig-bags/" data-lasso-id="51428"><strong>Gig Bag</strong></a></li></ul>
+<ul class="wp-block-list"><li><strong>Basswood Body</strong></li><li><strong>Rosewood/Maple Fretboards</strong></li><li><strong>Maple Neck</strong></li><li><strong>22 frets</strong></li><li><strong>Ceramic Single Coil Pickups</strong></li><li><strong>Vintage Bridge</strong></li><li><strong>Medium Jumbo Frets</strong></li><li><strong>5 Way Switch</strong></li><li><a href="/the-best-gig-bags/" data-lasso-id="51428"><strong>Gig Bag</strong></a></li></ul>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p>This still puts the DLX Series well in the <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-lasso-id="37759">range of budget guitars</a></strong>. This is a seriously cheap <a data-lasso-id="21770" href="https://www.electrikjam.com/aio-wolf-guitars-review-2021/">price for a nice guitar</a>. Are these basic guitars? Yes, they definitely are basic. But the classics never go out of style for a reason!</p>
+<p>This still puts the DLX Series well in the <strong><a href="/best-budget-guitars/" data-lasso-id="37759">range of budget guitars</a></strong>. This is a seriously cheap <a data-lasso-id="21770" href="/aio-wolf-guitars-review-2021/">price for a nice guitar</a>. Are these basic guitars? Yes, they definitely are basic. But the classics never go out of style for a reason!</p>
 
 
 
@@ -179,11 +179,11 @@ seo:
 
 
 
-<p>With my experience with the standard model, and the video reviews I have seen, the answer is <strong>YES</strong>! These are really <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254481">great guitars for beginners</a>, intermediates, and even if you need a cheap backup guitar. I was surprised to find these, and I cannot believe how much guitar you are getting for the money.</p>
+<p>With my experience with the standard model, and the video reviews I have seen, the answer is <strong>YES</strong>! These are really <a href="/best-guitar-for-beginners/" data-lasso-id="254481">great guitars for beginners</a>, intermediates, and even if you need a cheap backup guitar. I was surprised to find these, and I cannot believe how much guitar you are getting for the money.</p>
 
 
 
-<p>Now this can also be a cool project guitar for you also! If you wanted to strip these guitars down, and replace the pickups and hardware, you could have your own &#8220;custom&#8221; guitar. You don&#8217;t always need a<a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" target="_blank" data-type="post" data-id="5136" rel="noopener" data-lasso-id="19071"> <strong>super expensive </strong></a>axe to get a good tone, and with the Indio Guitars, everything is easy to replace with aftermarket guitar parts. </p>
+<p>Now this can also be a cool project guitar for you also! If you wanted to strip these guitars down, and replace the pickups and hardware, you could have your own &#8220;custom&#8221; guitar. You don&#8217;t always need a<a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" target="_blank" data-type="post" data-id="5136" rel="noopener" data-lasso-id="19071"> <strong>super expensive </strong></a>axe to get a good tone, and with the Indio Guitars, everything is easy to replace with aftermarket guitar parts. </p>
 
 
 

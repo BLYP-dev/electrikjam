@@ -46,15 +46,15 @@ seo:
 
 
 
-<p>When it comes to <a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="91524"><strong>budget guitars</strong></a>, Yamaha has been knocking it out of the park for the last few <em>decades</em>. The company is often overlooked by guitarists, at least at the pro level. The <a data-lasso-id="90417" href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" target="_blank" rel="noopener"><strong>Yamaha Pacifica</strong></a> for example is known for being a great beginner guitar, and people forget that there is a high end Pacifica that has all kinds of amazing features. But all of the higher end offerings from Yamaha are often overlooked, unfortunately. Yamaha has a whole line of pro-level guitars that seem to get pushed to the side, but this year Yamaha is changing how we look at the brand.</p>
+<p>When it comes to <a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="91524"><strong>budget guitars</strong></a>, Yamaha has been knocking it out of the park for the last few <em>decades</em>. The company is often overlooked by guitarists, at least at the pro level. The <a data-lasso-id="90417" href="/best-guitar-for-beginners/" data-type="post" data-id="505" target="_blank" rel="noopener"><strong>Yamaha Pacifica</strong></a> for example is known for being a great beginner guitar, and people forget that there is a high end Pacifica that has all kinds of amazing features. But all of the higher end offerings from Yamaha are often overlooked, unfortunately. Yamaha has a whole line of pro-level guitars that seem to get pushed to the side, but this year Yamaha is changing how we look at the brand.</p>
 
 
 
-<p>The Yamaha Revstar series was released in 2015, and it was meant to be a professional guitar for players that wanted something different and stood out from the usual Fender and Gibson guitars. The original Revstar did rather well in the sales department, and the people that play them exclusively have sang their praises for a while. But Yamaha and <a data-lasso-id="90418" href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"><strong>Line 6 </strong></a>have become the same company, and we are seeing a totally new approach with the Yamaha Revstar Element series. This is a total reboot!</p>
+<p>The Yamaha Revstar series was released in 2015, and it was meant to be a professional guitar for players that wanted something different and stood out from the usual Fender and Gibson guitars. The original Revstar did rather well in the sales department, and the people that play them exclusively have sang their praises for a while. But Yamaha and <a data-lasso-id="90418" href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"><strong>Line 6 </strong></a>have become the same company, and we are seeing a totally new approach with the Yamaha Revstar Element series. This is a total reboot!</p>
 
 
 
-<p>It can be easy to write off the <a href="https://www.electrikjam.com/yamaha-revstar-standard-review/" data-lasso-id="97626">Yamaha Revstar</a> Element, and the entire new lineup of Revstar guitars, as an &#8220;SG Copy&#8221;. But that&#8217;s the interesting part of Yamaha&#8217;s approach; this is <em>not</em> a<strong> <a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="91525">Fender</a></strong> or Gibson, but a <em>totally unique </em>guitar that blends elements from <em>all kinds</em> of guitar models. The Revstar isn&#8217;t really comparable to<em> any</em> major guitar brand&#8217;s models, and is actually a hybrid of a few different designs while still retaining its own identity. </p>
+<p>It can be easy to write off the <a href="/yamaha-revstar-standard-review/" data-lasso-id="97626">Yamaha Revstar</a> Element, and the entire new lineup of Revstar guitars, as an &#8220;SG Copy&#8221;. But that&#8217;s the interesting part of Yamaha&#8217;s approach; this is <em>not</em> a<strong> <a href="/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="91525">Fender</a></strong> or Gibson, but a <em>totally unique </em>guitar that blends elements from <em>all kinds</em> of guitar models. The Revstar isn&#8217;t really comparable to<em> any</em> major guitar brand&#8217;s models, and is actually a hybrid of a few different designs while still retaining its own identity. </p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>The colors are not represented very well in the stock photos, if you ask me. For example, I would say that the &#8220;Swift Blue&#8221; looks like a darker &#8220;Lake Placid Blue&#8221; that photos just cannot translate. The same goes for the neon yellow color. The neon yellow is pretty amazing, and it actually has a little more green in the color. So if you&#8217;re expecting a &#8220;day glow&#8221; kind of color, the neon yellow is that&#8230;but it also has a bit of green in it as well. <a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="91526"><strong>Schecter</strong></a> had a similar color a couple yeas ago for <a href="https://www.electrikjam.com/guitar-center-pxf-io-vyy2lj/" data-type="lasso-urls" data-id="4840" target="_blank" rel="nofollow noopener" data-lasso-id="91527" data-lasso-name="Schecter Sun Valley Super Shredder"><strong>SVSS</strong></a> series, and the Yamaha Revstar Element looks more like that &#8220;Birch Green&#8221; color in person.</p>
+<p>The colors are not represented very well in the stock photos, if you ask me. For example, I would say that the &#8220;Swift Blue&#8221; looks like a darker &#8220;Lake Placid Blue&#8221; that photos just cannot translate. The same goes for the neon yellow color. The neon yellow is pretty amazing, and it actually has a little more green in the color. So if you&#8217;re expecting a &#8220;day glow&#8221; kind of color, the neon yellow is that&#8230;but it also has a bit of green in it as well. <a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="91526"><strong>Schecter</strong></a> had a similar color a couple yeas ago for <a href="/guitar-center-pxf-io-vyy2lj/" data-type="lasso-urls" data-id="4840" target="_blank" rel="nofollow noopener" data-lasso-id="91527" data-lasso-name="Schecter Sun Valley Super Shredder"><strong>SVSS</strong></a> series, and the Yamaha Revstar Element looks more like that &#8220;Birch Green&#8221; color in person.</p>
 
 
 
@@ -150,7 +150,7 @@ seo:
 
 
 
-<p><strong>Note: </strong><em>Both guitars were tested through a <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-rn06xg/" target="_blank" data-type="lasso-urls" data-id="6630" rel="nofollow sponsored noopener" data-lasso-id="91528" data-lasso-name="BOSS Katana 100 MKII">BOSS Katana 100</a>,</strong> and a <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" target="_blank" data-type="post" data-id="6641" rel="noopener" data-lasso-id="91529"><strong>PRS Archon 50</strong></a>. This felt fair, since these are budget amps that people buying this guitar might own. </em></p>
+<p><strong>Note: </strong><em>Both guitars were tested through a <strong><a href="/guitar-center-pxf-io-rn06xg/" target="_blank" data-type="lasso-urls" data-id="6630" rel="nofollow sponsored noopener" data-lasso-id="91528" data-lasso-name="BOSS Katana 100 MKII">BOSS Katana 100</a>,</strong> and a <a href="/the-best-budget-tube-amps/" target="_blank" data-type="post" data-id="6641" rel="noopener" data-lasso-id="91529"><strong>PRS Archon 50</strong></a>. This felt fair, since these are budget amps that people buying this guitar might own. </em></p>
 
 
 
@@ -158,7 +158,7 @@ seo:
 
 
 
-<p>The jumbo frets feel great, and so does the flat 14&#8221; radius neck. The neck is by far my favorite part of this guitar. If you like your necks to have more of a C shape than <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255027">something skinny like an Ibanez</a>, but you don&#8217;t get along with vintage necks either&#8230;this is a great compromise. Like Schecter/LTD, the neck is somewhere very &#8220;in between&#8221;. There is no neck dive when standing up with the guitar, which I worried about with the chambered body. The neck also has a volute, which will save your headstock should it take a fall!</p>
+<p>The jumbo frets feel great, and so does the flat 14&#8221; radius neck. The neck is by far my favorite part of this guitar. If you like your necks to have more of a C shape than <a href="/ibanez-guitars/" data-lasso-id="255027">something skinny like an Ibanez</a>, but you don&#8217;t get along with vintage necks either&#8230;this is a great compromise. Like Schecter/LTD, the neck is somewhere very &#8220;in between&#8221;. There is no neck dive when standing up with the guitar, which I worried about with the chambered body. The neck also has a volute, which will save your headstock should it take a fall!</p>
 
 
 
@@ -186,7 +186,7 @@ seo:
 
 
 
-<p>All in all, I am impressed with this pickup set, and if you told me they were name brand, I would probably believe you. If I had to compare, I would say they are similar to a<a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener" data-lasso-id="91530"> <strong>Duncan JB</strong></a>, but brighter. With a little bit of adjustment, these are <em>perfect</em>. But the Yamaha Revstar Element has a trick up its sleeve that we definitely need to discuss, because it is <strong>astonishing</strong>.</p>
+<p>All in all, I am impressed with this pickup set, and if you told me they were name brand, I would probably believe you. If I had to compare, I would say they are similar to a<a href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener" data-lasso-id="91530"> <strong>Duncan JB</strong></a>, but brighter. With a little bit of adjustment, these are <em>perfect</em>. But the Yamaha Revstar Element has a trick up its sleeve that we definitely need to discuss, because it is <strong>astonishing</strong>.</p>
 
 
 
@@ -202,11 +202,11 @@ seo:
 
 
 
-<p>I&#8217;m sure the Dry Switch has more potential than I have discovered, but these were the things that I noticed. The only other company I can think of that does something similar is <a href="https://www.electrikjam.com/are-reverend-guitars-any-good/" data-type="post" data-id="5550" target="_blank" rel="noopener" data-lasso-id="91531"><strong>Reverend</strong></a>, but even then the difference is nowhere near as prominent as it is with the Revstar. The Dry Switch can either make the pickups sound thinner like a <a href="https://www.electrikjam.com/what-are-p90-pickups-good-for-lets-find-out/" data-type="post" data-id="5912" target="_blank" rel="noopener" data-lasso-id="91532"><strong>P90</strong></a>, or it can tighten up the distortion tone if you have that woof-y bass response from your metal/high gain amp. </p>
+<p>I&#8217;m sure the Dry Switch has more potential than I have discovered, but these were the things that I noticed. The only other company I can think of that does something similar is <a href="/are-reverend-guitars-any-good/" data-type="post" data-id="5550" target="_blank" rel="noopener" data-lasso-id="91531"><strong>Reverend</strong></a>, but even then the difference is nowhere near as prominent as it is with the Revstar. The Dry Switch can either make the pickups sound thinner like a <a href="/what-are-p90-pickups-good-for-lets-find-out/" data-type="post" data-id="5912" target="_blank" rel="noopener" data-lasso-id="91532"><strong>P90</strong></a>, or it can tighten up the distortion tone if you have that woof-y bass response from your metal/high gain amp. </p>
 
 
 
-<p>I am surprised by the Yamaha Revstar Element, and I was shocked at the price. <em>But who is this guitar for</em>? I think this guitar can do just about any genre, but it will excel in rock and metal because the pickups have so much clarity, even under high gain situations. On the other hand, I think that someone more clever than me could make this guitar do all kinds of cool country and indie music tones when you factor in the Dry Switch. The Yamaha Revstar Element is a <a href="https://www.electrikjam.com/charvel-pro-mod-dk24-review/" data-lasso-id="180626">versatile guitar</a>, that lots of players will probably love.</p>
+<p>I am surprised by the Yamaha Revstar Element, and I was shocked at the price. <em>But who is this guitar for</em>? I think this guitar can do just about any genre, but it will excel in rock and metal because the pickups have so much clarity, even under high gain situations. On the other hand, I think that someone more clever than me could make this guitar do all kinds of cool country and indie music tones when you factor in the Dry Switch. The Yamaha Revstar Element is a <a href="/charvel-pro-mod-dk24-review/" data-lasso-id="180626">versatile guitar</a>, that lots of players will probably love.</p>
 
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<p>I wish that these models came with<strong> locking tuners</strong>, and I will probably say the same thing about the Standard/Professional series. Locking tuners just make life easier, and I think it should be the industry standard these days. My other gripe is the lack of a gig bag, where the other models come with a gig bag/hard case. But then again, this is a <a href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-lasso-id="192590">budget guitar</a> at the end of the day, even if it was hard to remember that when I was playing it!</p>
+<p>I wish that these models came with<strong> locking tuners</strong>, and I will probably say the same thing about the Standard/Professional series. Locking tuners just make life easier, and I think it should be the industry standard these days. My other gripe is the lack of a gig bag, where the other models come with a gig bag/hard case. But then again, this is a <a href="/harley-benton-standard-series-guitar-review/" data-lasso-id="192590">budget guitar</a> at the end of the day, even if it was hard to remember that when I was playing it!</p>
 
 
 

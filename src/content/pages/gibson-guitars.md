@@ -32,19 +32,19 @@ seo:
 
 
 
-<p>When it comes to iconic guitars, there are two names that everybody knows: <strong>Gibson and Fender.</strong> The reason for this is simple too: Gibson and Fender basically <strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" data-lasso-id="1929">invented the modern electric guitar</a></strong>, way back in the 1950s.&nbsp;</p>
+<p>When it comes to iconic guitars, there are two names that everybody knows: <strong>Gibson and Fender.</strong> The reason for this is simple too: Gibson and Fender basically <strong><a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" data-lasso-id="1929">invented the modern electric guitar</a></strong>, way back in the 1950s.&nbsp;</p>
 
 
 
-<p>The most iconic of all Gibson guitars is, of course, the Gibson Les Paul. But like Fender, Gibson isn’t a one-trick pony –&nbsp;it has other, extremely popular guitar models like its Gibson SG, the Gibson Flying V, The Gibson ES, and the Gibson <a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236477">Explorer</a> to name just a few of Gibson’s most iconic guitar lines.&nbsp;</p>
+<p>The most iconic of all Gibson guitars is, of course, the Gibson Les Paul. But like Fender, Gibson isn’t a one-trick pony –&nbsp;it has other, extremely popular guitar models like its Gibson SG, the Gibson Flying V, The Gibson ES, and the Gibson <a href="/gibson-80s-explorer-review/" data-lasso-id="236477">Explorer</a> to name just a few of Gibson’s most iconic guitar lines.&nbsp;</p>
 
 
 
-<p>Favored by famous guitarists like <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5465">Jimmy Page, Tony Iommi, Buzz Osbourne, Adam Jones</a>, and a raft of other players dating back to the 1960s, the Gibson Les Paul is just about as iconic as it gets. Les Paul and Fender’s Strat are the two most well-known and loved guitars of all time.&nbsp;</p>
+<p>Favored by famous guitarists like <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5465">Jimmy Page, Tony Iommi, Buzz Osbourne, Adam Jones</a>, and a raft of other players dating back to the 1960s, the Gibson Les Paul is just about as iconic as it gets. Les Paul and Fender’s Strat are the two most well-known and loved guitars of all time.&nbsp;</p>
 
 
 
-<p>Like <strong><a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" data-lasso-id="1930">Fender</a></strong>, Gibson has been popular since the 1950s. In this time, everybody from metal acts to pop music players has used its guitars to craft some of the best records ever committed to tape. Gibson now makes a plethora of models, custom shop editions, and various configurations of <strong><a href="https://www.electrikjam.com/epiphone-sg-vs-epiphone-les-paul/" data-type="post" data-id="2416" data-lasso-id="1931">its popular SG, Les Paul</a></strong>, and ES models.&nbsp;</p>
+<p>Like <strong><a href="/fender/" data-type="page" data-id="3818" data-lasso-id="1930">Fender</a></strong>, Gibson has been popular since the 1950s. In this time, everybody from metal acts to pop music players has used its guitars to craft some of the best records ever committed to tape. Gibson now makes a plethora of models, custom shop editions, and various configurations of <strong><a href="/epiphone-sg-vs-epiphone-les-paul/" data-type="post" data-id="2416" data-lasso-id="1931">its popular SG, Les Paul</a></strong>, and ES models.&nbsp;</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Jimmy Page</strong></li><li><strong>Buzz Osbourne</strong></li><li><strong>Matt Pike&nbsp;</strong></li><li><a href="https://www.electrikjam.com/how-tools-adam-jones-practices-guitar/" data-lasso-id="104788"><strong>Adam Jones&nbsp;</a> </strong></li><li><strong>Slash</strong></li><li><strong>Zakk Wylde&nbsp;</strong></li><li><strong>Ace Frehley</strong></li><li><strong>Bob Marley</strong></li><li><strong>Billy Gibbons</strong></li><li><strong>Doug Aldrich</strong></li><li><strong>Joe Perry</strong></li><li><a href="https://www.electrikjam.com/what-guitar-does-tony-iommi-use-a-complete-overview/" data-lasso-id="254829"><strong>Tony Iommi</strong></a></li><li><strong>Chino Moreno</strong></li><li><strong>Les Paul</strong></li><li><strong>Angus Young&nbsp;</strong></li><li><strong>Randy Rhodes&nbsp;</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Jimmy Page</strong></li><li><strong>Buzz Osbourne</strong></li><li><strong>Matt Pike&nbsp;</strong></li><li><a href="/how-tools-adam-jones-practices-guitar/" data-lasso-id="104788"><strong>Adam Jones&nbsp;</a> </strong></li><li><strong>Slash</strong></li><li><strong>Zakk Wylde&nbsp;</strong></li><li><strong>Ace Frehley</strong></li><li><strong>Bob Marley</strong></li><li><strong>Billy Gibbons</strong></li><li><strong>Doug Aldrich</strong></li><li><strong>Joe Perry</strong></li><li><a href="/what-guitar-does-tony-iommi-use-a-complete-overview/" data-lasso-id="254829"><strong>Tony Iommi</strong></a></li><li><strong>Chino Moreno</strong></li><li><strong>Les Paul</strong></li><li><strong>Angus Young&nbsp;</strong></li><li><strong>Randy Rhodes&nbsp;</strong></li></ul>
 
 
 
@@ -71,11 +71,11 @@ seo:
 
 
 
-<p>Gibson makes quite a few different styles of <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216555">electric guitar</a> but its most popular and enduring are the Gibson SG, the Gibson Flying V, The Gibson ES, and the Gibson Explorer. Let’s take a look at each in more detail.&nbsp;</p>
+<p>Gibson makes quite a few different styles of <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216555">electric guitar</a> but its most popular and enduring are the Gibson SG, the Gibson Flying V, The Gibson ES, and the Gibson Explorer. Let’s take a look at each in more detail.&nbsp;</p>
 
 
 
-<ul class="wp-block-list"><li><strong>Gibson Les Paul –</strong>&nbsp;The King. The Mac Daddy. The guitar that started it all. Gibson’s Les Paul is one of the most iconic guitars ever. Used by the greats and beautiful to play, the Gibson Les Paul first appeared in 1952 and was designed by Les Paul himself and Gibson factory manager factory manager John Huis. Available with humbuckers and P-90 pickups, the Les Paul now comes in a range of different models across a range of price points and configurations.&nbsp;</li><li><strong>Gibson SG –</strong>&nbsp;The Gibson SG was designed to take on kill off the <strong><a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-type="post" data-id="3336" data-lasso-id="1932">Fender Strat</a></strong>. It didn’t succeed, but the Gibson SG is still Gibson’s most popular solid-body electric guitar ever. The <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" data-lasso-id="5910">Gibson SG is lighter than the Les Paul</a>, great for rock and metal music, and comes with either humbuckers or P-90 picks. The SG has been in production since 1961 and is available in a range of configurations and models. It is an icon.&nbsp;</li><li><strong>Gibson Explorer –</strong>&nbsp;The Gibson Explorer made its debut in 1958. It was tone of the most eye-catching, futuristic looking <a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-lasso-id="200810">guitars on the market</a> at the time. It’s design has held up extremely well too; it still looks amazing nowadays. Available in Ebony, Cherry, Classic White, Natural, the Explorer comes with humbuckers and is popular with <a href="https://www.electrikjam.com/90s-metal-bands/" data-lasso-id="2796">hard rock and metal bands</a> for obvious reasons (it just looks mean).&nbsp;</li><li><strong>Gibson Flying V –</strong>&nbsp;The Flying V by Gibson is another iconic-looking guitar. First introduced in 1958, the Flying V was part of Gibson’s forward-looking models, alongside the Explorer. Initially, the Flying V was not popular, fewer than 100 models were sold at launch. But the Gibson Flying V became very popular in the 1980s with metal and rock bands. The Gibson Flying V was reissued in 1967, 1979, and 2007.&nbsp;</li><li><strong>Gibson ES –</strong>&nbsp;Gibson’s ES guitars are semi-acoustic guitars (AKA hollowbody) and were and continue to be a favorite of all kinds of guitarists from hard rock and metal to jazz and country and bluegrass. Josh Homme used a Gibson ES on <a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84783">Songs For The Deaf</a> which is part of the reason why that record sounds so HUGE. The first Gibson ES came out in 1949 and the ES has been in production in one form or another ever since then. It is Gibson’s longest-running production guitar. And it is an utter badass.&nbsp;</li></ul>
+<ul class="wp-block-list"><li><strong>Gibson Les Paul –</strong>&nbsp;The King. The Mac Daddy. The guitar that started it all. Gibson’s Les Paul is one of the most iconic guitars ever. Used by the greats and beautiful to play, the Gibson Les Paul first appeared in 1952 and was designed by Les Paul himself and Gibson factory manager factory manager John Huis. Available with humbuckers and P-90 pickups, the Les Paul now comes in a range of different models across a range of price points and configurations.&nbsp;</li><li><strong>Gibson SG –</strong>&nbsp;The Gibson SG was designed to take on kill off the <strong><a href="/the-best-fender-strat-alternative-in-2021/" data-type="post" data-id="3336" data-lasso-id="1932">Fender Strat</a></strong>. It didn’t succeed, but the Gibson SG is still Gibson’s most popular solid-body electric guitar ever. The <a href="/epiphone-les-paul-prophecy-weight-its-lighter-than-expected/" data-lasso-id="5910">Gibson SG is lighter than the Les Paul</a>, great for rock and metal music, and comes with either humbuckers or P-90 picks. The SG has been in production since 1961 and is available in a range of configurations and models. It is an icon.&nbsp;</li><li><strong>Gibson Explorer –</strong>&nbsp;The Gibson Explorer made its debut in 1958. It was tone of the most eye-catching, futuristic looking <a href="/prs-guitar-pedals-reviewed/" data-lasso-id="200810">guitars on the market</a> at the time. It’s design has held up extremely well too; it still looks amazing nowadays. Available in Ebony, Cherry, Classic White, Natural, the Explorer comes with humbuckers and is popular with <a href="/90s-metal-bands/" data-lasso-id="2796">hard rock and metal bands</a> for obvious reasons (it just looks mean).&nbsp;</li><li><strong>Gibson Flying V –</strong>&nbsp;The Flying V by Gibson is another iconic-looking guitar. First introduced in 1958, the Flying V was part of Gibson’s forward-looking models, alongside the Explorer. Initially, the Flying V was not popular, fewer than 100 models were sold at launch. But the Gibson Flying V became very popular in the 1980s with metal and rock bands. The Gibson Flying V was reissued in 1967, 1979, and 2007.&nbsp;</li><li><strong>Gibson ES –</strong>&nbsp;Gibson’s ES guitars are semi-acoustic guitars (AKA hollowbody) and were and continue to be a favorite of all kinds of guitarists from hard rock and metal to jazz and country and bluegrass. Josh Homme used a Gibson ES on <a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84783">Songs For The Deaf</a> which is part of the reason why that record sounds so HUGE. The first Gibson ES came out in 1949 and the ES has been in production in one form or another ever since then. It is Gibson’s longest-running production guitar. And it is an utter badass.&nbsp;</li></ul>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong><a href="https://www.electrikjam.com/recommends/gibson-guitars-all-models/" data-lasso-id="1933">VIEW PRICES &amp; DEALS FOR THE LATEST MODELS</a></strong></p>
+<p class="has-text-align-center"><strong><a href="/recommends/gibson-guitars-all-models/" data-lasso-id="1933">VIEW PRICES &amp; DEALS FOR THE LATEST MODELS</a></strong></p>
 
 
 
@@ -95,11 +95,11 @@ seo:
 
 
 
-<p>Like Fender guitars, a proper Gibson guitar costs A LOT of money. How much? You’re looking at well over $1000 for a basic model Les Paul. This is way too much for most players. So what is the <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44661">best alternative to a Gibson guitar</a>?</p>
+<p>Like Fender guitars, a proper Gibson guitar costs A LOT of money. How much? You’re looking at well over $1000 for a basic model Les Paul. This is way too much for most players. So what is the <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44661">best alternative to a Gibson guitar</a>?</p>
 
 
 
-<p>Simple: an Epiphone guitar. Epiphone is a <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237990">Gibson brand</a>. But unlike <strong><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="1934">Squire by Fender,</a></strong> Epiphone is actually a very, very good brand. And it has been since before it was owned by Gibson. Plenty of professional guitarists use Epiphone guitars, including <strong><a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" data-lasso-id="2662">Matt Heafy</a>, Tony Iommi, and even The Beatles</strong>.</p>
+<p>Simple: an Epiphone guitar. Epiphone is a <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237990">Gibson brand</a>. But unlike <strong><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="1934">Squire by Fender,</a></strong> Epiphone is actually a very, very good brand. And it has been since before it was owned by Gibson. Plenty of professional guitarists use Epiphone guitars, including <strong><a href="/matt-heafy-epiphone-mkh-origins-les-paul/" data-lasso-id="2662">Matt Heafy</a>, Tony Iommi, and even The Beatles</strong>.</p>
 
 
 
@@ -107,7 +107,7 @@ seo:
 
 
 
-<p>And right now, if you want to play metal and/or hard rock, <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="1935">the best Epiphone guitar </a></strong>you can buy is the <strong>Epiphone Les Paul Prophecy</strong>; this guitar is utterly stunning with its Fishman Fluence humbuckers, Mahogany neck, and its Graph Tech NuBone nut. If you want <strong><a href="https://www.electrikjam.com/recommends/epiphone-les-paul-prophecy-olive/" data-lasso-id="1936">quality for under $1000</a></strong>, this is the one to go for.</p>
+<p>And right now, if you want to play metal and/or hard rock, <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="1935">the best Epiphone guitar </a></strong>you can buy is the <strong>Epiphone Les Paul Prophecy</strong>; this guitar is utterly stunning with its Fishman Fluence humbuckers, Mahogany neck, and its Graph Tech NuBone nut. If you want <strong><a href="/recommends/epiphone-les-paul-prophecy-olive/" data-lasso-id="1936">quality for under $1000</a></strong>, this is the one to go for.</p>
 
 
 

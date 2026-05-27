@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Seymour Duncan was a guy that was always interested in guitars. Not only did he like to play them, but he was also very much into the physics of them. When he had a guitar that developed a pickup problem, he took the pickup apart and rewound it using a record player to rewind the wires. What he noticed, was the pickup sounded better afterward! This was when he was a teenager in the 1960s, and this experiment made <a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-lasso-id="7857">Seymour Duncan</a> very curious.</p>
+<p>Seymour Duncan was a guy that was always interested in guitars. Not only did he like to play them, but he was also very much into the physics of them. When he had a guitar that developed a pickup problem, he took the pickup apart and rewound it using a record player to rewind the wires. What he noticed, was the pickup sounded better afterward! This was when he was a teenager in the 1960s, and this experiment made <a href="/seymour-duncan-jb-reviews/" data-lasso-id="7857">Seymour Duncan</a> very curious.</p>
 
 
 
@@ -55,11 +55,11 @@ seo:
 
 
 
-<p>Seymour Duncan had a lot of competition in those early days. Gibson USA made pickups, as well as <a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="7443">Fender</a> Custom Shop, and the legendary Larry Dimarzio. But Duncan pickups offered something more than these other companies. Seymour Duncan is a known fan of Rock and Metal and has tons of <a href="https://www.electrikjam.com/summer-namm-2022-our-1-picks-new-gear/" data-lasso-id="128859">picks geared</a> specifically towards these genres. This set him apart in the industry. If you played heavy music, you probably wanted to talk to Seymour Duncan.</p>
+<p>Seymour Duncan had a lot of competition in those early days. Gibson USA made pickups, as well as <a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="7443">Fender</a> Custom Shop, and the legendary Larry Dimarzio. But Duncan pickups offered something more than these other companies. Seymour Duncan is a known fan of Rock and Metal and has tons of <a href="/summer-namm-2022-our-1-picks-new-gear/" data-lasso-id="128859">picks geared</a> specifically towards these genres. This set him apart in the industry. If you played heavy music, you probably wanted to talk to Seymour Duncan.</p>
 
 
 
-<p>If you have a <a data-lasso-id="7403" href="https://www.electrikjam.com/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener"><strong>starter guitar</strong></a>, then the weak point is probably not the guitar <em>itself</em>. It is probably the <em>components</em>. You can easily change the whole sound of your cheaper starter guitar, by swapping out the pickups! In fact, many people buy cheaper guitars all the time and mod them to their liking. You can take a basic <a data-lasso-id="7404" href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" target="_blank" data-type="post" data-id="3709" rel="noopener"><strong>Squire guitar</strong></a>, and make it a Metal machine!</p>
+<p>If you have a <a data-lasso-id="7403" href="/best-guitar-for-beginners/" target="_blank" data-type="post" data-id="505" rel="noopener"><strong>starter guitar</strong></a>, then the weak point is probably not the guitar <em>itself</em>. It is probably the <em>components</em>. You can easily change the whole sound of your cheaper starter guitar, by swapping out the pickups! In fact, many people buy cheaper guitars all the time and mod them to their liking. You can take a basic <a data-lasso-id="7404" href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" target="_blank" data-type="post" data-id="3709" rel="noopener"><strong>Squire guitar</strong></a>, and make it a Metal machine!</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p><strong>That&#8217;s a quick overview of our favorite Seymour Duncan <a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-lasso-id="88522">pickups for metal.</a> Read on for more detail on each setup below&#8230; </strong></p>
+<p><strong>That&#8217;s a quick overview of our favorite Seymour Duncan <a href="/what-pickups-does-james-hetfield-use/" data-lasso-id="88522">pickups for metal.</a> Read on for more detail on each setup below&#8230; </strong></p>
 
 
 
@@ -91,23 +91,23 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="732" src="/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg" alt="" class="wp-image-4609" title="" srcset="/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg 1024w, /wp-content/uploads/2021/09/Duncan-invader-600x429.jpg 600w, /wp-content/uploads/2021/09/Duncan-invader-300x214.jpg 300w, /wp-content/uploads/2021/09/Duncan-invader-768x549.jpg 768w, /wp-content/uploads/2021/09/Duncan-invader-1080x772.jpg 1080w, /wp-content/uploads/2021/09/Duncan-invader.jpg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11593">Seymour Duncan Invader</a> Set</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="732" src="/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg" alt="" class="wp-image-4609" title="" srcset="/wp-content/uploads/2021/09/Duncan-invader-1024x732.jpg 1024w, /wp-content/uploads/2021/09/Duncan-invader-600x429.jpg 600w, /wp-content/uploads/2021/09/Duncan-invader-300x214.jpg 300w, /wp-content/uploads/2021/09/Duncan-invader-768x549.jpg 768w, /wp-content/uploads/2021/09/Duncan-invader-1080x772.jpg 1080w, /wp-content/uploads/2021/09/Duncan-invader.jpg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11593">Seymour Duncan Invader</a> Set</figcaption></figure>
 
 
 
-<p>When it comes to the best <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-lasso-id="120188">Seymour Duncan pickups</a> for Metal, The Invader Set is probably the first that comes to mind. These high-output humbuckers even <em>look</em> intimidating! These pickups look badass, and they are uncompromising in their tone. The Invader set is one of the highest output pickup sets that Duncan has ever made, and lots of artists use them. Most famously, <strong>Avenged Seven Fold.</strong> </p>
+<p>When it comes to the best <a href="/new-seymour-duncan-pickups-announced/" data-lasso-id="120188">Seymour Duncan pickups</a> for Metal, The Invader Set is probably the first that comes to mind. These high-output humbuckers even <em>look</em> intimidating! These pickups look badass, and they are uncompromising in their tone. The Invader set is one of the highest output pickup sets that Duncan has ever made, and lots of artists use them. Most famously, <strong>Avenged Seven Fold.</strong> </p>
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em><strong>Installing an Invader <a href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211008">changes your guitar’s</a> DNA. No matter how dangerous your stock pickup claims to sound, the Invader will transform your guitar into the mean, heavy-sounding beast you always knew it could be. The Invader’s power comes from the combination of specially overwound coils, three large ceramic magnets, and its striking, oversized metal oxide pole pieces. </strong></em></p><p><em><strong>These unique pole pieces expand the overall magnetic field and widen the frequency spectrum, which is why every note played through an Invader sounds so rich and massive. The ceramic magnets add depth and clarity while the large hex caps deliver smooth string-to-string balance</strong></em>.</p><cite><a href="https://www.seymourduncan.com/single-product/invader" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="7405"><strong>Seymour Duncan</strong></a> </cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em><strong>Installing an Invader <a href="/prs-se-mark-holcomb-guitars-review/" data-lasso-id="211008">changes your guitar’s</a> DNA. No matter how dangerous your stock pickup claims to sound, the Invader will transform your guitar into the mean, heavy-sounding beast you always knew it could be. The Invader’s power comes from the combination of specially overwound coils, three large ceramic magnets, and its striking, oversized metal oxide pole pieces. </strong></em></p><p><em><strong>These unique pole pieces expand the overall magnetic field and widen the frequency spectrum, which is why every note played through an Invader sounds so rich and massive. The ceramic magnets add depth and clarity while the large hex caps deliver smooth string-to-string balance</strong></em>.</p><cite><a href="https://www.seymourduncan.com/single-product/invader" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="7405"><strong>Seymour Duncan</strong></a> </cite></blockquote>
 
 
 
-<p>Duncan Invader pickups are no joke. Because of the ceramic magnets, and over-wound coils&#8230;these things can get beastly. But while the Invader is definitely meant to be used with copious amounts of gain, they also retain some clarity. The Invader Set is perfect for guitarists that like to<strong> <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" target="_blank" data-type="post" data-id="3725" rel="noopener" data-lasso-id="7406">tune low</a></strong>, since they remain clear sounding under pressure.</p>
+<p>Duncan Invader pickups are no joke. Because of the ceramic magnets, and over-wound coils&#8230;these things can get beastly. But while the Invader is definitely meant to be used with copious amounts of gain, they also retain some clarity. The Invader Set is perfect for guitarists that like to<strong> <a href="/dgcfad-the-guitar-tuning-of-the-gods/" target="_blank" data-type="post" data-id="3725" rel="noopener" data-lasso-id="7406">tune low</a></strong>, since they remain clear sounding under pressure.</p>
 
 
 
-<p>This makes the<a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="7407"><strong> 7 string </strong></a>and 8 string Invader sets really stand out as well. A 7 string pickup can be hard to design, since the frequencies you are dealing with can be so low, sometimes into bass territory. But no matter how low you go, or how much gain you add to the Invader, the sound still remains clear and powerful. </p>
+<p>This makes the<a href="/the-complete-guide-to-7-string-guitar/" target="_blank" data-type="post" data-id="3413" rel="noopener" data-lasso-id="7407"><strong> 7 string </strong></a>and 8 string Invader sets really stand out as well. A 7 string pickup can be hard to design, since the frequencies you are dealing with can be so low, sometimes into bass territory. But no matter how low you go, or how much gain you add to the Invader, the sound still remains clear and powerful. </p>
 
 
 
@@ -135,15 +135,15 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/what-is-a-trembucker/" data-lasso-id="11089">Seymour Duncan</a> Alpha and Omega Set were designed specifically for Mark Holcomb from the band Periphery. Mark had always been a fan of Duncan pickups and jumped at the chance to work with Seymour Duncan himself when offered the opportunity. The pickup set they created had to cover a lot of different sounds, as well as be offered in a 6, 7, and 8 string variant. </p>
+<p>The <a href="/what-is-a-trembucker/" data-lasso-id="11089">Seymour Duncan</a> Alpha and Omega Set were designed specifically for Mark Holcomb from the band Periphery. Mark had always been a fan of Duncan pickups and jumped at the chance to work with Seymour Duncan himself when offered the opportunity. The pickup set they created had to cover a lot of different sounds, as well as be offered in a 6, 7, and 8 string variant. </p>
 
 
 
-<p>The Alpha and Omega set might be some of the most versatile pickups Seymour Duncan makes. These had to sound good with low tunings, regular tunings, and different string gauges. Periphery is known to use several different tunings from standard, to<a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" target="_blank" data-type="post" data-id="4496" rel="noopener" data-lasso-id="7408"> <strong>Drop A</strong></a>. They also use a combination of 6, 7, and 8 string guitars&#8230;depending on the song. So Mark had a lot of demands for his tone, and Duncan nailed it.</p>
+<p>The Alpha and Omega set might be some of the most versatile pickups Seymour Duncan makes. These had to sound good with low tunings, regular tunings, and different string gauges. Periphery is known to use several different tunings from standard, to<a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" target="_blank" data-type="post" data-id="4496" rel="noopener" data-lasso-id="7408"> <strong>Drop A</strong></a>. They also use a combination of 6, 7, and 8 string guitars&#8230;depending on the song. So Mark had a lot of demands for his tone, and Duncan nailed it.</p>
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em><strong>Working with guitarist Mark Holcomb, the Omega bridge pickup was created to provide destructive percussion and growl in the mids and low end. It’s aggressive but it also has lots of clarity and brightness, which cuts through whether you’re <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196521">playing sophisticated chords</a>, complex single-note lines or intense solos. </strong></em></p><p><em><strong>The Alpha neck pickup is unlike most traditional neck models. It was voiced to combine the best qualities of a neck and a bridge pickup, with some of that fat glassy sound but also plenty of your pick attack and fretting-hand phrasing.</strong></em></p><cite>Seymour Duncan</cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em><strong>Working with guitarist Mark Holcomb, the Omega bridge pickup was created to provide destructive percussion and growl in the mids and low end. It’s aggressive but it also has lots of clarity and brightness, which cuts through whether you’re <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196521">playing sophisticated chords</a>, complex single-note lines or intense solos. </strong></em></p><p><em><strong>The Alpha neck pickup is unlike most traditional neck models. It was voiced to combine the best qualities of a neck and a bridge pickup, with some of that fat glassy sound but also plenty of your pick attack and fretting-hand phrasing.</strong></em></p><cite>Seymour Duncan</cite></blockquote>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p> </p><p><em><strong>The Black Winter pickup is a savagely high-output passive humbucker built for extreme metal, with no less than three large ceramic magnets to ensure maximum output and sustain in all high-gain situations. The custom overwound coil design delivers incredible clarity in the mids and highs, while the low end stays controlled and focused. The Black Winter is designed to handle any tuning, no matter how low you go, and its voicing facilitates <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69752">aggressive palm mutes</a>, fluid sweep picking, and punishing lead tones. </strong></em></p><p><em><strong>Crushing distortion, vicious mids, and aggressive saturation are at your fingertips, without sacrificing string-to-string separation or sensitivity. The 7- and 8-string versions are built to handle even more extended-range low notes with ease. Pair the bridge Black Winter with the Black Winter neck model for maximum metal onslaught.</strong></em></p><cite>Seymour Duncan</cite></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p> </p><p><em><strong>The Black Winter pickup is a savagely high-output passive humbucker built for extreme metal, with no less than three large ceramic magnets to ensure maximum output and sustain in all high-gain situations. The custom overwound coil design delivers incredible clarity in the mids and highs, while the low end stays controlled and focused. The Black Winter is designed to handle any tuning, no matter how low you go, and its voicing facilitates <a href="/guitar-muting-techniques/" data-lasso-id="69752">aggressive palm mutes</a>, fluid sweep picking, and punishing lead tones. </strong></em></p><p><em><strong>Crushing distortion, vicious mids, and aggressive saturation are at your fingertips, without sacrificing string-to-string separation or sensitivity. The 7- and 8-string versions are built to handle even more extended-range low notes with ease. Pair the bridge Black Winter with the Black Winter neck model for maximum metal onslaught.</strong></em></p><cite>Seymour Duncan</cite></blockquote>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/new-opeth-album-release-date/" data-lasso-id="67075">Fredrik from  Opeth</a>  has used these pickups on a few albums, if that paints a picture of the tone you get out of these pickups. Wes from <strong>The Faceless</strong> has also used them before in the past.</p>
+<p><a href="/new-opeth-album-release-date/" data-lasso-id="67075">Fredrik from  Opeth</a>  has used these pickups on a few albums, if that paints a picture of the tone you get out of these pickups. Wes from <strong>The Faceless</strong> has also used them before in the past.</p>
 
 
 
@@ -211,7 +211,7 @@ seo:
 
 
 
-<p>Since we are talking about the best Seymour Duncan pickups for Metal, it would be impossible not to mention the Blackout Set. Blackouts were Duncan&#8217;s answer to EMG <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8167">active pickups</a>, and this set still rivals most other active pickup options. Active pickups definitely aren&#8217;t for everyone, but for people that do like actives&#8230;Blackouts are a dream!</p>
+<p>Since we are talking about the best Seymour Duncan pickups for Metal, it would be impossible not to mention the Blackout Set. Blackouts were Duncan&#8217;s answer to EMG <a href="/what-are-active-pickups/" data-lasso-id="8167">active pickups</a>, and this set still rivals most other active pickup options. Active pickups definitely aren&#8217;t for everyone, but for people that do like actives&#8230;Blackouts are a dream!</p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>This is probably why Mick Thompson from <strong>Slipknot </strong>has used them for almost 20 years, and even has his own custom set of Blackouts. <a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-lasso-id="12183">Mick tunes to Drop B, and Drop A&#8230;so</a> he needs a brighter pickup to make those low frequencies really stand out.</p>
+<p>This is probably why Mick Thompson from <strong>Slipknot </strong>has used them for almost 20 years, and even has his own custom set of Blackouts. <a href="/most-common-guitar-tunings/" data-lasso-id="12183">Mick tunes to Drop B, and Drop A&#8230;so</a> he needs a brighter pickup to make those low frequencies really stand out.</p>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<p>You will mostly see the Jazz/JB combo installed in a Les Paul guitar. But this combo also works well in <a href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9096">shredder guitars and &#8220;Super</a> Strats&#8221;. I have seen Blues guys use this combo just as often as I have seen <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" target="_blank" data-type="post" data-id="1042" rel="noopener" data-lasso-id="7409">Doom Metal</a> </strong>bands! If you are looking for a pickup upgrade from Seymour Duncan, I think the Jazz/JB set is the perfect starting place. </p>
+<p>You will mostly see the Jazz/JB combo installed in a Les Paul guitar. But this combo also works well in <a href="/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9096">shredder guitars and &#8220;Super</a> Strats&#8221;. I have seen Blues guys use this combo just as often as I have seen <strong><a href="/doom-metal-beginners-guide/" target="_blank" data-type="post" data-id="1042" rel="noopener" data-lasso-id="7409">Doom Metal</a> </strong>bands! If you are looking for a pickup upgrade from Seymour Duncan, I think the Jazz/JB set is the perfect starting place. </p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p>Lately, Seymour Duncan has been on a roll, especially with the Prog-Metal guitarists, making sets especially for 7 and 8 <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-lasso-id="22587">string guitars</a>. If you go to the Duncan website, you will see what I mean. The options are crazy!</p>
+<p>Lately, Seymour Duncan has been on a roll, especially with the Prog-Metal guitarists, making sets especially for 7 and 8 <a href="/schecter-demon-7-review/" data-lasso-id="22587">string guitars</a>. If you go to the Duncan website, you will see what I mean. The options are crazy!</p>
 
 
 
@@ -303,15 +303,15 @@ seo:
 
 
 
-<p>Lots of guitarists will tell you that aftermarket pickups make only a negligible difference in your overall tone. They will tell you that your <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="7410"><strong>amp</strong></a> is more important. To an extent, this is true. But your pickups are the &#8220;microphone&#8221; for your guitar, and I like to treat them as the first priority in my tone setup. Seymour Duncan makes such specific pickups for a reason; to help you get to your desired tone easier.</p>
+<p>Lots of guitarists will tell you that aftermarket pickups make only a negligible difference in your overall tone. They will tell you that your <a href="/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="7410"><strong>amp</strong></a> is more important. To an extent, this is true. But your pickups are the &#8220;microphone&#8221; for your guitar, and I like to treat them as the first priority in my tone setup. Seymour Duncan makes such specific pickups for a reason; to help you get to your desired tone easier.</p>
 
 
 
-<p>The best way to tell if a pickup is right for you is to try it out! <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35980">Every pickup will sound different when installed in different guitars</a>. They will also sound different through a tube amp vs. an <a data-lasso-id="7411" href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener"><strong>amp sim</strong></a>. But it&#8217;s up to<em> you</em> to try out different tools to find your perfect tone. </p>
+<p>The best way to tell if a pickup is right for you is to try it out! <a href="/the-best-guitars-of-2021/" data-lasso-id="35980">Every pickup will sound different when installed in different guitars</a>. They will also sound different through a tube amp vs. an <a data-lasso-id="7411" href="/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener"><strong>amp sim</strong></a>. But it&#8217;s up to<em> you</em> to try out different tools to find your perfect tone. </p>
 
 
 
-<p>If you want my advice about Seymour Duncan pickups for metal, <strong><a href="https://www.electrikjam.com/seymour-duncan-jb-jazz-pickup/" data-type="lasso-urls" data-id="4639" data-lasso-id="7435" rel="nofollow noopener" target="_blank" data-lasso-name="Duncan JB/Jazz Combo">just get the <meta charset="utf-8">Duncan JB/Jazz Combo</a></strong>. They are UNREAL (and also one of the cheapest from Duncan). And that&#8217;s the reason they&#8217;re one of the best-selling pickups on the planet. </p>
+<p>If you want my advice about Seymour Duncan pickups for metal, <strong><a href="/seymour-duncan-jb-jazz-pickup/" data-type="lasso-urls" data-id="4639" data-lasso-id="7435" rel="nofollow noopener" target="_blank" data-lasso-name="Duncan JB/Jazz Combo">just get the <meta charset="utf-8">Duncan JB/Jazz Combo</a></strong>. They are UNREAL (and also one of the cheapest from Duncan). And that&#8217;s the reason they&#8217;re one of the best-selling pickups on the planet. </p>
 
 
 

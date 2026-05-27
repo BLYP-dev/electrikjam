@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>And it also makes an entire slew of <strong><a href="https://www.electrikjam.com/ibanez-signature-guitars/" data-type="post" data-id="13462" data-lasso-id="255004">totally sick signature series models</a></strong> too. </p>
+<p>And it also makes an entire slew of <strong><a href="/ibanez-signature-guitars/" data-type="post" data-id="13462" data-lasso-id="255004">totally sick signature series models</a></strong> too. </p>
 
 
 
@@ -1004,7 +1004,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-type="post" data-id="2129" data-lasso-id="254985">Ibanez has established itself as a reputable brand</a></strong> known for producing a wide range of guitars that cater to various styles and skill levels. With their commitment to quality, innovative design, and versatility, Ibanez guitars are favored by many of the best players alive today.</p>
+<p><strong><a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-type="post" data-id="2129" data-lasso-id="254985">Ibanez has established itself as a reputable brand</a></strong> known for producing a wide range of guitars that cater to various styles and skill levels. With their commitment to quality, innovative design, and versatility, Ibanez guitars are favored by many of the best players alive today.</p>
 
 
 

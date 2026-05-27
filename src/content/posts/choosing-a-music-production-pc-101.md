@@ -46,11 +46,11 @@ seo:
 
 
 
-<p>I was an early adopter of digital workstations in the studio. I have a ton of info on recording here at Electrikjam, including <strong><a data-lasso-id="267619" href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/">a course to start mastering your tracks at home</a></strong>. I have no choice but to stay current with technology, to keep you informed, and to keep my studio running.</p>
+<p>I was an early adopter of digital workstations in the studio. I have a ton of info on recording here at Electrikjam, including <strong><a data-lasso-id="267619" href="/product/mastering-101-the-complete-beginner-framework/">a course to start mastering your tracks at home</a></strong>. I have no choice but to stay current with technology, to keep you informed, and to keep my studio running.</p>
 
 
 
-<p>I enjoy teaching studio tricks just as much as I enjoy giving guitar tips. Getting started with recording can be a daunting task and we have tons of <a href="https://www.electrikjam.com/how-to-make-home-recordings-sound-professional/" data-type="post" data-id="14872" data-lasso-id="267620"><strong>resources here</strong></a> to get you started.</p>
+<p>I enjoy teaching studio tricks just as much as I enjoy giving guitar tips. Getting started with recording can be a daunting task and we have tons of <a href="/how-to-make-home-recordings-sound-professional/" data-type="post" data-id="14872" data-lasso-id="267620"><strong>resources here</strong></a> to get you started.</p>
 
 
 
@@ -190,7 +190,7 @@ seo:
 
 
 
-<p>Most music production software will work with Mac. In fact, Mac products have their own<strong><a href="https://www.electrikjam.com/what-is-logic-pro/" data-type="post" data-id="13103" data-lasso-id="267622"> DAW called Logic Pro</a></strong> that is optimized for the machine. Apple seems like the easiest choice for musicians.</p>
+<p>Most music production software will work with Mac. In fact, Mac products have their own<strong><a href="/what-is-logic-pro/" data-type="post" data-id="13103" data-lasso-id="267622"> DAW called Logic Pro</a></strong> that is optimized for the machine. Apple seems like the easiest choice for musicians.</p>
 
 
 
@@ -252,7 +252,7 @@ seo:
 
 
 
-<p>There are several companies out there and the naming conventions are <strong><a data-lasso-id="267623" href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406">worse than Ibanez Guitars</a></strong> in my opinion. Right now, there are two main players in the CPU world:<strong> Intel and AMD</strong>.</p>
+<p>There are several companies out there and the naming conventions are <strong><a data-lasso-id="267623" href="/ibanez-guitars/" data-type="page" data-id="13406">worse than Ibanez Guitars</a></strong> in my opinion. Right now, there are two main players in the CPU world:<strong> Intel and AMD</strong>.</p>
 
 
 
@@ -273,7 +273,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong>Single-Core Performance:</strong> Most processors are multi-core these days, but music production software often uses a single-core for music playback. <strong><a href="https://www.electrikjam.com/" data-type="page" data-id="13959" data-lasso-id="267624">DAWs rely on single-core performance</a></strong>.</li>
+<li><strong>Single-Core Performance:</strong> Most processors are multi-core these days, but music production software often uses a single-core for music playback. <strong><a href="/" data-type="page" data-id="13959" data-lasso-id="267624">DAWs rely on single-core performance</a></strong>.</li>
 
 
 
@@ -533,28 +533,28 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" data-lasso-id="267690">Recording At Home: All You Need To Get Started</a></strong></li>
+<li><strong><a href="/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" data-lasso-id="267690">Recording At Home: All You Need To Get Started</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/m-audio-releases-the-m-track-solo-and-duo/" data-type="post" data-id="1652" data-lasso-id="267691">Best Interfaces For Home Recording</a></strong></li>
+<li><strong><a href="/m-audio-releases-the-m-track-solo-and-duo/" data-type="post" data-id="1652" data-lasso-id="267691">Best Interfaces For Home Recording</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" data-lasso-id="267692">Reaper DAW: A Cheap Option For Recording At Home</a></strong></li>
+<li><strong><a href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" data-lasso-id="267692">Reaper DAW: A Cheap Option For Recording At Home</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/what-is-pro-tools/" data-type="post" data-id="13202" data-lasso-id="267693">Pro Tools: The Industry Standard</a></strong></li>
+<li><strong><a href="/what-is-pro-tools/" data-type="post" data-id="13202" data-lasso-id="267693">Pro Tools: The Industry Standard</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" data-lasso-id="267694">Recording With the BOSS Katana Amp</a></strong></li>
+<li><strong><a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" data-lasso-id="267694">Recording With the BOSS Katana Amp</a></strong></li>
 </ul>
 
 
 
-<p>Once you get the hang of recording at home, we have<strong><a href="https://www.electrikjam.com/mastering-101-beginners-guide/" data-type="page" data-id="14680" data-lasso-id="267695"> more advanced guides</a></strong> that can get you professional results at home. Most of the tools we teach you to use are free and easy to understand.</p>
+<p>Once you get the hang of recording at home, we have<strong><a href="/mastering-101-beginners-guide/" data-type="page" data-id="14680" data-lasso-id="267695"> more advanced guides</a></strong> that can get you professional results at home. Most of the tools we teach you to use are free and easy to understand.</p>
 
 
 
@@ -570,7 +570,7 @@ seo:
 
 
 
-<p>Just a few years ago, a high-end PC was needed to run the <strong><a href="https://www.electrikjam.com/solved-why-your-amp-sim-tone-sounds-wrong/" data-type="post" data-id="13871" data-lasso-id="267696">newer plugins and amp sims</a></strong>. But these days, you do not need to have the newest, most powerful PC for music production tasks.</p>
+<p>Just a few years ago, a high-end PC was needed to run the <strong><a href="/solved-why-your-amp-sim-tone-sounds-wrong/" data-type="post" data-id="13871" data-lasso-id="267696">newer plugins and amp sims</a></strong>. But these days, you do not need to have the newest, most powerful PC for music production tasks.</p>
 
 
 

@@ -40,15 +40,15 @@ seo:
 
 
 
-<p>The Evertune bridge is actually a pretty new innovation. I started seeing them probably 8 years ago, as a custom option. Its rare to see what we can call a &#8220;totally new product&#8221; for guitar. You see, <a href="https://www.electrikjam.com/anatomy-of-the-electric-guitar-guide/" class="rank-math-link" data-lasso-id="1121"><strong>the actual anatomy of guitars</strong></a> has barely changed over the years. But why is that?</p>
+<p>The Evertune bridge is actually a pretty new innovation. I started seeing them probably 8 years ago, as a custom option. Its rare to see what we can call a &#8220;totally new product&#8221; for guitar. You see, <a href="/anatomy-of-the-electric-guitar-guide/" class="rank-math-link" data-lasso-id="1121"><strong>the actual anatomy of guitars</strong></a> has barely changed over the years. But why is that?</p>
 
 
 
-<p>The guitar has barely changed in design because<a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1122"><strong> Leo Fender </strong></a>really got it right the very first time. Why would you change something that works just fine? Most guitar bridges come in two types:</p>
+<p>The guitar has barely changed in design because<a href="/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1122"><strong> Leo Fender </strong></a>really got it right the very first time. Why would you change something that works just fine? Most guitar bridges come in two types:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>Fixed</strong>: These are your typical bridges that do not float. They are anchored to the body, and the strings run through the saddles.</li><li><strong>Floating Trem</strong>: This can be anything from the Stratocaster&#8217;s simple floating design, to the more complicated Floyd Rose. These bridges are usually held in place by springs in the back of the guitar cavity, and the string tension on the <a href="https://www.electrikjam.com/effects-of-weather-on-your-guitar/" data-lasso-id="194016">top of the guitar</a>.</li></ul>
+<ul class="wp-block-list"><li><strong>Fixed</strong>: These are your typical bridges that do not float. They are anchored to the body, and the strings run through the saddles.</li><li><strong>Floating Trem</strong>: This can be anything from the Stratocaster&#8217;s simple floating design, to the more complicated Floyd Rose. These bridges are usually held in place by springs in the back of the guitar cavity, and the string tension on the <a href="/effects-of-weather-on-your-guitar/" data-lasso-id="194016">top of the guitar</a>.</li></ul>
 
 
 
@@ -80,17 +80,17 @@ seo:
 
 
 
-<p>First, The Evertune bridge is<em> completely mechanical.</em> There are no fancy electronics inside that hold the <a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" data-lasso-id="1123">string tuning</a>. <a href="https://assets.peavey.com/category/manuals/1152_17524.pdf" class="rank-math-link" data-lasso-id="1124" target="_blank" rel="noopener noreferrer nofollow"><strong>Peavey tried this idea once</strong></a>, and the guitar was tuned by electronics built into the guitar. This was a good idea, but it did not hold up at all when it came to sound quality. Having Auto-Tune built into a guitar is a great idea, but ultimately became a novelty. There were huge issues with this Peavey guitar.</p>
+<p>First, The Evertune bridge is<em> completely mechanical.</em> There are no fancy electronics inside that hold the <a href="/the-3-best-strings-for-drop-c-tuning/" data-lasso-id="1123">string tuning</a>. <a href="https://assets.peavey.com/category/manuals/1152_17524.pdf" class="rank-math-link" data-lasso-id="1124" target="_blank" rel="noopener noreferrer nofollow"><strong>Peavey tried this idea once</strong></a>, and the guitar was tuned by electronics built into the guitar. This was a good idea, but it did not hold up at all when it came to sound quality. Having Auto-Tune built into a guitar is a great idea, but ultimately became a novelty. There were huge issues with this Peavey guitar.</p>
 
 
 
-<p>And here&#8217;s one of Evertune&#8217;s biggest fans, <a href="https://www.electrikjam.com/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104030">Ben Weinman of The Dillinger Escape Plan</a>, discussing the benefits of having an Evertone bridge installed on your guitar. </p>
+<p>And here&#8217;s one of Evertune&#8217;s biggest fans, <a href="/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104030">Ben Weinman of The Dillinger Escape Plan</a>, discussing the benefits of having an Evertone bridge installed on your guitar. </p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
 <iframe title="Rig Rundown - Dillinger Escape Plan&#039;s Ben Weinman" width="500" height="281" src="https://www.youtube.com/embed/g_YWRFdBFso?start=674&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div><figcaption>Ben Showing Off His INSANE Custom ESP Model<strong> <a href="https://www.electrikjam.com/recommends/ben-weinman-guitar-esp/" data-lasso-id="1125">(Check That Out Here)</a></strong></figcaption></figure>
+</div><figcaption>Ben Showing Off His INSANE Custom ESP Model<strong> <a href="/recommends/ben-weinman-guitar-esp/" data-lasso-id="1125">(Check That Out Here)</a></strong></figcaption></figure>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<p>If this sounds too good to be true, I assure you that it&#8217;s not! The <a href="https://www.electrikjam.com/the-top-5-guitars-evertune-bridge/" data-lasso-id="1126">Evertune bridge</a> honestly does everything it says. It does require an initial setup, however. Much like a Floyd Rose Floating bridge, you kind of have to dedicate the guitar to one tuning. Let me explain&#8230;</p>
+<p>If this sounds too good to be true, I assure you that it&#8217;s not! The <a href="/the-top-5-guitars-evertune-bridge/" data-lasso-id="1126">Evertune bridge</a> honestly does everything it says. It does require an initial setup, however. Much like a Floyd Rose Floating bridge, you kind of have to dedicate the guitar to one tuning. Let me explain&#8230;</p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" data-lasso-id="15982">guitar needs an initial setup to set the string</a> tension, and tuning. This means to get optimal use out of your Evertune, you need to <strong><a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="1127">pick the tuning you most often play in.</a></strong> You will also need to chose a set of strings that are consistent in gauge. This means a lot of dedication!</p>
+<p>The <a href="/which-guitar-strings-last-longest/" data-lasso-id="15982">guitar needs an initial setup to set the string</a> tension, and tuning. This means to get optimal use out of your Evertune, you need to <strong><a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="1127">pick the tuning you most often play in.</a></strong> You will also need to chose a set of strings that are consistent in gauge. This means a lot of dedication!</p>
 
 
 
@@ -180,11 +180,11 @@ seo:
 
 
 
-<p>On the other hand, many companies have started making their most famous guitar models with the Evertune already installed! <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91771">ESP was an early adopter</a> of this process. This makes some of the base model guitars a little more expensive. The worth in the long run will be decided by the player.</p>
+<p>On the other hand, many companies have started making their most famous guitar models with the Evertune already installed! <a href="/the-guitar-james-hetfield-could-not-live-without/" data-lasso-id="91771">ESP was an early adopter</a> of this process. This makes some of the base model guitars a little more expensive. The worth in the long run will be decided by the player.</p>
 
 
 
-<p>Evertune makes the patented bridge for 6, 7, and <a href="https://www.electrikjam.com/cheap-8-string-guitar/" data-lasso-id="1129">8 string guitar models</a>. Over the past year, we have seen many extended range guitars being outfitted with the Evertune.</p>
+<p>Evertune makes the patented bridge for 6, 7, and <a href="/cheap-8-string-guitar/" data-lasso-id="1129">8 string guitar models</a>. Over the past year, we have seen many extended range guitars being outfitted with the Evertune.</p>
 
 
 
@@ -200,11 +200,11 @@ seo:
 
 
 
-<p>For the touring/live musician the Evertune means that you rarely have to do any routine maintenence while you are on the road, and if you have ever been on the road&#8230;you know how precious time is! This can easily cut out setting up your <a href="https://www.electrikjam.com/every-time-i-die-guitar-tunings/" data-lasso-id="3082">guitars every time you go north for example</a> and the weather gets less humid. Temperature changes usually wreak havoc on an guitar&#8217;s setup. </p>
+<p>For the touring/live musician the Evertune means that you rarely have to do any routine maintenence while you are on the road, and if you have ever been on the road&#8230;you know how precious time is! This can easily cut out setting up your <a href="/every-time-i-die-guitar-tunings/" data-lasso-id="3082">guitars every time you go north for example</a> and the weather gets less humid. Temperature changes usually wreak havoc on an guitar&#8217;s setup. </p>
 
 
 
-<p>But for the studio musician, this means that your guitar is always ready to record. There are no more stops between every take, just to make sure your guitar is perfectly in tune! All you have to do is pick up the guitar and record! This makes your workflow more efficient and can save you money on studio time! It may not seem like stopping to tune would be a big deal, but it probably could save you a whole hour over the course of <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1130">recording a song</a>.</p>
+<p>But for the studio musician, this means that your guitar is always ready to record. There are no more stops between every take, just to make sure your guitar is perfectly in tune! All you have to do is pick up the guitar and record! This makes your workflow more efficient and can save you money on studio time! It may not seem like stopping to tune would be a big deal, but it probably could save you a whole hour over the course of <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1130">recording a song</a>.</p>
 
 
 

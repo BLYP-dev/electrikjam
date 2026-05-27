@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>From killer, iconic riffs to writing some of the best music of the last two decades, The Big J has done it all. But if you&#8217;re just getting started with Queens, you&#8217;re in for a treat – <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-cancel-entire-european-tour/" data-type="post" data-id="15569" data-lasso-id="267716">Josh Homme</a></strong> has been in LOADS of other bands. And you&#8217;re about to meet (and) hear them all&#8230; </p>
+<p>From killer, iconic riffs to writing some of the best music of the last two decades, The Big J has done it all. But if you&#8217;re just getting started with Queens, you&#8217;re in for a treat – <strong><a href="/queens-of-the-stone-age-cancel-entire-european-tour/" data-type="post" data-id="15569" data-lasso-id="267716">Josh Homme</a></strong> has been in LOADS of other bands. And you&#8217;re about to meet (and) hear them all&#8230; </p>
 
 
 

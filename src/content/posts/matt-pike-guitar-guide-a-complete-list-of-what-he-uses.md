@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>Wanna sound like Matt Pike? A lot of people do. Mr. Pike is responsible for some of the biggest sounding guitars ever recorded to tape. With SLEEP, Pike helped redefine <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="1574">stoner doom</a> with a slew of iconic records, including the now legendary <strong><em>DOPESMOKER</em></strong>.</p>
+<p>Wanna sound like Matt Pike? A lot of people do. Mr. Pike is responsible for some of the biggest sounding guitars ever recorded to tape. With SLEEP, Pike helped redefine <a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="1574">stoner doom</a> with a slew of iconic records, including the now legendary <strong><em>DOPESMOKER</em></strong>.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-type="post" data-id="2815" data-lasso-id="1575">Pike is an accomplished player</a>; he has a unique style that is built from his dedication to his craft. He plays guitar all the time, often taking lessons in different styles of playing from bluegrass to jazz.</p>
+<p><a href="/matt-pike-dopesmoker-sleep/" data-type="post" data-id="2815" data-lasso-id="1575">Pike is an accomplished player</a>; he has a unique style that is built from his dedication to his craft. He plays guitar all the time, often taking lessons in different styles of playing from bluegrass to jazz.</p>
 
 
 
@@ -51,15 +51,15 @@ seo:
 
 
 
-<p>Then, listen to <strong><em>DOPESMOKER</em></strong> and then try <strong><em>The Sciences</em></strong>. <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69758">The development of his technique</a>, the introduction of different styles of playing, and the different use of pedals add layers and different textures to his overall sound.</p>
+<p>Then, listen to <strong><em>DOPESMOKER</em></strong> and then try <strong><em>The Sciences</em></strong>. <a href="/guitar-muting-techniques/" data-lasso-id="69758">The development of his technique</a>, the introduction of different styles of playing, and the different use of pedals add layers and different textures to his overall sound.</p>
 
 
 
-<p>In SLEEP, Pike rarely plays fast; instead, the sound is steeped in Black Sabbath-y grooviness combined with low, <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1576">low tuning</a>. <a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="1577">Pike plays in C-Standard</a>, and this is key to achieving his earth-shattering tone. Low is heavy, so going VERY low as Pike does just adds even more volume to the bottom end of his <a href="https://www.electrikjam.com/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183501">guitar tone</a>.</p>
+<p>In SLEEP, Pike rarely plays fast; instead, the sound is steeped in Black Sabbath-y grooviness combined with low, <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="1576">low tuning</a>. <a href="/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="1577">Pike plays in C-Standard</a>, and this is key to achieving his earth-shattering tone. Low is heavy, so going VERY low as Pike does just adds even more volume to the bottom end of his <a href="/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183501">guitar tone</a>.</p>
 
 
 
-<p>But what gear does Matt Pike use? And, more importantly, how has his <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-lasso-id="142276">guitar rig</a> changed over the years? Here’s a complete breakdown of ALL of the guitars and gear used by Matt Pike over the years.</p>
+<p>But what gear does Matt Pike use? And, more importantly, how has his <a href="/gigging-on-a-budget/" data-lasso-id="142276">guitar rig</a> changed over the years? Here’s a complete breakdown of ALL of the guitars and gear used by Matt Pike over the years.</p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong><a href="https://www.electrikjam.com/gibson-guitars/" data-lasso-id="1938">Gibson Les Paul </a>Recording Guitar (Sleep)</strong></li><li><strong>Various <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44948">3-humbucker Gibson Les Paul Custom</a> and Artisan models (Sleep and HOF). </strong></li><li><strong>Dragonauts pickups in bridge and neck, and Dirty Hesher in middle.</strong></li></ul>
+<ul class="wp-block-list"><li><strong><a href="/gibson-guitars/" data-lasso-id="1938">Gibson Les Paul </a>Recording Guitar (Sleep)</strong></li><li><strong>Various <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44948">3-humbucker Gibson Les Paul Custom</a> and Artisan models (Sleep and HOF). </strong></li><li><strong>Dragonauts pickups in bridge and neck, and Dirty Hesher in middle.</strong></li></ul>
 
 
 
@@ -127,5 +127,5 @@ seo:
 
 
 
-<p>And if you want to more about the history of <strong><em>DOPESMOKER</em></strong>, check out our <strong><a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-type="post" data-id="2815" data-lasso-id="1580">full overview on how DOPESMOKER was recorded</a></strong> and why it was such a divisive record, both for fans and SLEEP’s record company…</p>
+<p>And if you want to more about the history of <strong><em>DOPESMOKER</em></strong>, check out our <strong><a href="/matt-pike-dopesmoker-sleep/" data-type="post" data-id="2815" data-lasso-id="1580">full overview on how DOPESMOKER was recorded</a></strong> and why it was such a divisive record, both for fans and SLEEP’s record company…</p>
 

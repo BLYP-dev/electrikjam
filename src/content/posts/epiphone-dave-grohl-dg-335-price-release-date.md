@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>I could talk for an hour about this guitar, the model it is based on, and why this is such a huge deal. But I&#8217;ll let the specs do the talking <strong><a href="https://www.electrikjam.com/electrikjam-podcast/" data-type="page" data-id="14335" data-lasso-id="262232">(plus, we also covered it on the podcast too). </a></strong></p>
+<p>I could talk for an hour about this guitar, the model it is based on, and why this is such a huge deal. But I&#8217;ll let the specs do the talking <strong><a href="/electrikjam-podcast/" data-type="page" data-id="14335" data-lasso-id="262232">(plus, we also covered it on the podcast too). </a></strong></p>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<p>Epiphone’s run of this model, at least initially, seems to be rather small. Guitar Center has one of the best prices I&#8217;ve seen so far, though – <strong><a href="https://www.electrikjam.com/epiphone-dave-grohl-dg-335-semi-hollow-electric-guitar-pelham-blue-guitar-center/" data-type="lasso-urls" data-id="14457" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="262233" data-lasso-name="Epiphone Dave Grohl DG-335">they&#8217;re stocking it for $1299.00</a></strong></p>
+<p>Epiphone’s run of this model, at least initially, seems to be rather small. Guitar Center has one of the best prices I&#8217;ve seen so far, though – <strong><a href="/epiphone-dave-grohl-dg-335-semi-hollow-electric-guitar-pelham-blue-guitar-center/" data-type="lasso-urls" data-id="14457" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="262233" data-lasso-name="Epiphone Dave Grohl DG-335">they&#8217;re stocking it for $1299.00</a></strong></p>
 
 
 

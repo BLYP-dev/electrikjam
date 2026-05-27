@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>Djent itself, however, is a bit of a misnomer – Meshuggah do not consider the term “cannon” nor do they endorse it. Periphery’s latest album is titled <strong><a href="https://www.electrikjam.com/periphery-djent-is-not-a-genre-album-review/" data-type="post" data-id="10952" data-lasso-id="264075">“Djent is Not A Genre”</a></strong> and most people, meaning bands and fans, use it mostly in a pejorative sense. </p>
+<p>Djent itself, however, is a bit of a misnomer – Meshuggah do not consider the term “cannon” nor do they endorse it. Periphery’s latest album is titled <strong><a href="/periphery-djent-is-not-a-genre-album-review/" data-type="post" data-id="10952" data-lasso-id="264075">“Djent is Not A Genre”</a></strong> and most people, meaning bands and fans, use it mostly in a pejorative sense. </p>
 
 
 

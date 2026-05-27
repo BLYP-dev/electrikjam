@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>After some time in the lab, <strong><a href="https://www.alabsaudio.com" data-lasso-id="255973" target="_blank" rel="noopener noreferrer nofollow">these aces </a></strong>started by making some podcast equipment in 2022. This included microphones and mixers/interfaces for people that are just <strong><a href="https://www.electrikjam.com/what-is-logic-pro/" data-type="post" data-id="13103" data-lasso-id="255974">getting into recording at home.</a></strong> These products have been a success for the brand, and put ALABS on the map.</p>
+<p>After some time in the lab, <strong><a href="https://www.alabsaudio.com" data-lasso-id="255973" target="_blank" rel="noopener noreferrer nofollow">these aces </a></strong>started by making some podcast equipment in 2022. This included microphones and mixers/interfaces for people that are just <strong><a href="/what-is-logic-pro/" data-type="post" data-id="13103" data-lasso-id="255974">getting into recording at home.</a></strong> These products have been a success for the brand, and put ALABS on the map.</p>
 
 
 
@@ -62,7 +62,7 @@ seo:
 
 
 
-<p>Probably not. Budget pedals certainly get the job done, but most of us want a pedal that speaks to us, or something that inspires us to experiment. My biggest hero, <strong><a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" data-lasso-id="255975">Eddie Van Halen often got ideas</a></strong> for songs from playing around with effects pedals. Would the intro to <strong>&#8220;Unchained&#8221;</strong> be as cool without that MXR phaser effect?</p>
+<p>Probably not. Budget pedals certainly get the job done, but most of us want a pedal that speaks to us, or something that inspires us to experiment. My biggest hero, <strong><a href="/the-peavey-5150-history/" data-type="post" data-id="7789" data-lasso-id="255975">Eddie Van Halen often got ideas</a></strong> for songs from playing around with effects pedals. Would the intro to <strong>&#8220;Unchained&#8221;</strong> be as cool without that MXR phaser effect?</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<p>Just like we associate <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="255976">fuzz effects with Doom Metal</a></strong>, pedals can be the secret ingredient to your entire tone. Everyone from <strong>Jimi Hendrix </strong>to <strong>Pink Floyd</strong> experimented with fuzz as well! Long before Doom was ever a genre.<br></p>
+<p>Just like we associate <strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="255976">fuzz effects with Doom Metal</a></strong>, pedals can be the secret ingredient to your entire tone. Everyone from <strong>Jimi Hendrix </strong>to <strong>Pink Floyd</strong> experimented with fuzz as well! Long before Doom was ever a genre.<br></p>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p>The main stomp switch can be set to GLIDE or &#8220;normal&#8221; function using the mini switch on each pedal. This allows you to do some really cool tricks with each pedal. For example, you can set the Orbital Pitch for &#8220;momentary&#8221; and change pitch for just a <a href="https://www.electrikjam.com/spiritbox-eternal-blue-review/" data-type="post" data-id="4309" data-lasso-id="255978"><strong>small part of a song like Spiritbox</strong></a> often does for heavy effects!</p>
+<p>The main stomp switch can be set to GLIDE or &#8220;normal&#8221; function using the mini switch on each pedal. This allows you to do some really cool tricks with each pedal. For example, you can set the Orbital Pitch for &#8220;momentary&#8221; and change pitch for just a <a href="/spiritbox-eternal-blue-review/" data-type="post" data-id="4309" data-lasso-id="255978"><strong>small part of a song like Spiritbox</strong></a> often does for heavy effects!</p>
 
 
 

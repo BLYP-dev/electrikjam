@@ -96,7 +96,7 @@ seo:
 
 
 
-<p>If you&#8217;re looking to buy one of these, you&#8217;ll know all about <strong><a href="https://www.electrikjam.com/advantages-frfr-speakers/" data-lasso-id="218927">the advantages of FRFR speakers</a></strong> but before you do anything you should definitely get your head around speaker impedance. </p>
+<p>If you&#8217;re looking to buy one of these, you&#8217;ll know all about <strong><a href="/advantages-frfr-speakers/" data-lasso-id="218927">the advantages of FRFR speakers</a></strong> but before you do anything you should definitely get your head around speaker impedance. </p>
 
 
 
@@ -228,5 +228,5 @@ seo:
 
 
 
-<p>And now you know that, here&#8217;s three of the <strong><a href="https://www.electrikjam.com/best-frfr-speaker/" data-type="post" data-id="11014" data-lasso-id="218928">best FRFR speakers you can buy right now (for all budgets). </a></strong></p>
+<p>And now you know that, here&#8217;s three of the <strong><a href="/best-frfr-speaker/" data-type="post" data-id="11014" data-lasso-id="218928">best FRFR speakers you can buy right now (for all budgets). </a></strong></p>
 

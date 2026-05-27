@@ -159,11 +159,11 @@ seo:
 
 
 
-<p>The most common mistake I see when it comes to describing the Katana, is that <strong><a data-lasso-id="262324" href="https://www.electrikjam.com/is-spark-amp-worth-it/" data-type="post" data-id="1924">it is a modeling amp</a></strong>. This could not be further from the truth, but I can see why people would think that. The Katana is not a modeler at all.</p>
+<p>The most common mistake I see when it comes to describing the Katana, is that <strong><a data-lasso-id="262324" href="/is-spark-amp-worth-it/" data-type="post" data-id="1924">it is a modeling amp</a></strong>. This could not be further from the truth, but I can see why people would think that. The Katana is not a modeler at all.</p>
 
 
 
-<p><strong><a data-lasso-id="262325" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377">The BOSS Katana</a></strong> is clever, since it is a <strong><a data-lasso-id="262326" href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747">solid state amp with a class A/B</a></strong> power section. The effects are all digital, but the amp itself is a tried and true solid state design. It was modeled after the famous Roland CUBE amps, which BOSS also makes.</p>
+<p><strong><a data-lasso-id="262325" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377">The BOSS Katana</a></strong> is clever, since it is a <strong><a data-lasso-id="262326" href="/guitar-amp-types-explained/" data-type="post" data-id="8747">solid state amp with a class A/B</a></strong> power section. The effects are all digital, but the amp itself is a tried and true solid state design. It was modeled after the famous Roland CUBE amps, which BOSS also makes.</p>
 
 
 
@@ -171,7 +171,7 @@ seo:
 
 
 
-<p>But the Katana has also proven useful in the studio! You can record guitar via USB, the line out jack, or <strong><a data-lasso-id="262327" href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817">by using a mic </a></strong>to capture the sound. Personally, I use all three of these options and I have never heard better feedback from my listeners.</p>
+<p>But the Katana has also proven useful in the studio! You can record guitar via USB, the line out jack, or <strong><a data-lasso-id="262327" href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817">by using a mic </a></strong>to capture the sound. Personally, I use all three of these options and I have never heard better feedback from my listeners.</p>
 
 
 
@@ -207,7 +207,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.boss.info/au/products/katana-go/" data-lasso-id="262750" target="_blank" rel="noopener noreferrer nofollow">The Katana GO</a></strong> could not be easier to set up out of the box, and the <strong><a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" data-lasso-id="262751">Tone Studio App </a></strong>will be very familiar to anyone that owns a Katana. This may be a stripped-down version, but the layout is all the same. The app can be used with tablets, computers, or smartphones.</p>
+<p><strong><a href="https://www.boss.info/au/products/katana-go/" data-lasso-id="262750" target="_blank" rel="noopener noreferrer nofollow">The Katana GO</a></strong> could not be easier to set up out of the box, and the <strong><a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" data-lasso-id="262751">Tone Studio App </a></strong>will be very familiar to anyone that owns a Katana. This may be a stripped-down version, but the layout is all the same. The app can be used with tablets, computers, or smartphones.</p>
 
 
 
@@ -301,7 +301,7 @@ seo:
 
 
 
-<p>First and foremost, I have used <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="262753">my Katana 100w amp </a></strong>for the last two years every single day for either practice, or recording. So I know the Tone Studio and amp sounds very well, and it seems that the Katana GO sounds is directly lifted from the amp itself.</p>
+<p>First and foremost, I have used <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="262753">my Katana 100w amp </a></strong>for the last two years every single day for either practice, or recording. So I know the Tone Studio and amp sounds very well, and it seems that the Katana GO sounds is directly lifted from the amp itself.</p>
 
 
 
@@ -453,7 +453,7 @@ seo:
 
 
 
-<p>I rarely dish out 5 star reviews to products, as there is almost always one or two aspects that turns me off. The GO is close to being perfect, and it solves the <strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" data-type="post" data-id="2700" data-lasso-id="262754">issues I had with the Mustang Micro</a></strong> and other headphone amps.</p>
+<p>I rarely dish out 5 star reviews to products, as there is almost always one or two aspects that turns me off. The GO is close to being perfect, and it solves the <strong><a href="/fender-mustang-micro-features-price/" data-type="post" data-id="2700" data-lasso-id="262754">issues I had with the Mustang Micro</a></strong> and other headphone amps.</p>
 
 
 

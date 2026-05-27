@@ -46,7 +46,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-is-pro-tools/" data-type="post" data-id="13202" data-lasso-id="252974">Pro Tools</a></strong> was known as the &#8220;industry standard&#8221; for many years. It was the best DAW to use in a professional setting, and it was the choice of most studios. Producers in the industry got used to the workflow, and the products that Pro Tools offered.</p>
+<p><strong><a href="/what-is-pro-tools/" data-type="post" data-id="13202" data-lasso-id="252974">Pro Tools</a></strong> was known as the &#8220;industry standard&#8221; for many years. It was the best DAW to use in a professional setting, and it was the choice of most studios. Producers in the industry got used to the workflow, and the products that Pro Tools offered.</p>
 
 
 

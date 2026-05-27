@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Beatlemania, despite the band’s insistence that it would no longer play live, was still very much in full swing. <strong><a href="https://www.electrikjam.com/john-lennons-least-favorite-beatles-album-will-surprise-you/" data-type="post" data-id="8416" data-lasso-id="152879">Sgt. Pepper&#8217;s Lonely Hearts Club Band</a></strong> sold 250,000 copies in its first week on sale, cementing it as one of the fastest-selling records of all time. Critics and music lovers alike adored the album too, calling it a “cultural event” of significant importance.</p>
+<p>Beatlemania, despite the band’s insistence that it would no longer play live, was still very much in full swing. <strong><a href="/john-lennons-least-favorite-beatles-album-will-surprise-you/" data-type="post" data-id="8416" data-lasso-id="152879">Sgt. Pepper&#8217;s Lonely Hearts Club Band</a></strong> sold 250,000 copies in its first week on sale, cementing it as one of the fastest-selling records of all time. Critics and music lovers alike adored the album too, calling it a “cultural event” of significant importance.</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>The Beatles, at this point, were still <strong><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="152880">the biggest band in the world</a></strong>, so John Phillips, singer in The Mamas and Papas and co-organizer of Woodstock, flew out to London to ask Paul McCartney if The Beatles would headline Woodstock.</p>
+<p>The Beatles, at this point, were still <strong><a href="/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="152880">the biggest band in the world</a></strong>, so John Phillips, singer in The Mamas and Papas and co-organizer of Woodstock, flew out to London to ask Paul McCartney if The Beatles would headline Woodstock.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>Hendrix, of course, accepted Phillips’ offer to headline Woodstock and the rest, as they say, is history. <strong><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="152881">Jimi Hendrix’s Woodstock performance</a></strong> is one of the most iconic and famous live shows of all time. It also served to propel Hendrix from a club-level musician to a world-famous performer, cementing him as one of the <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="152882">greatest guitarists of all time</a></strong>.</p>
+<p>Hendrix, of course, accepted Phillips’ offer to headline Woodstock and the rest, as they say, is history. <strong><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="152881">Jimi Hendrix’s Woodstock performance</a></strong> is one of the most iconic and famous live shows of all time. It also served to propel Hendrix from a club-level musician to a world-famous performer, cementing him as one of the <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="152882">greatest guitarists of all time</a></strong>.</p>
 
 
 

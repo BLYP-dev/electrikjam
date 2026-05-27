@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>There are a million different reasons to want to record your guitar, but it can get pretty complicated. Today we will take a look at the different ways to get started, and what you need to start recording for the first time. We have gone over the easy ways to get <a data-lasso-id="9159" href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" target="_blank" data-type="post" data-id="1193" rel="noopener"><strong>started recording</strong></a> before, but that article was more on the <em>technical</em> side of things. </p>
+<p>There are a million different reasons to want to record your guitar, but it can get pretty complicated. Today we will take a look at the different ways to get started, and what you need to start recording for the first time. We have gone over the easy ways to get <a data-lasso-id="9159" href="/how-to-record-electric-guitar-at-home-guide/" target="_blank" data-type="post" data-id="1193" rel="noopener"><strong>started recording</strong></a> before, but that article was more on the <em>technical</em> side of things. </p>
 
 
 
@@ -72,7 +72,7 @@ seo:
 
 
 
-<p>But as usual, technology has caught up with the standards when it comes to recording. Even your less expensive laptops come with more than enough <strong><a data-lasso-id="9160" href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" target="_blank" data-type="post" data-id="2642" rel="noopener">memory/RAM</a> </strong>to run a simple recording program. In fact, your <em>smartphone</em> probably has enough power to run your basic recording programs these days!</p>
+<p>But as usual, technology has caught up with the standards when it comes to recording. Even your less expensive laptops come with more than enough <strong><a data-lasso-id="9160" href="/is-16-gb-of-ram-enough-for-music-production/" target="_blank" data-type="post" data-id="2642" rel="noopener">memory/RAM</a> </strong>to run a simple recording program. In fact, your <em>smartphone</em> probably has enough power to run your basic recording programs these days!</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p><strong>Note:</strong> <em>Some effects processors like the Line 6 Helix can be used as an interface. <a href="https://www.electrikjam.com/line-6-helix-recording-techniques/" target="_blank" data-type="post" data-id="4209" rel="noopener" data-lasso-id="9510"><strong>Click here</strong></a> to read how to use the Helix as a stand alone interface!</em></p>
+<p><strong>Note:</strong> <em>Some effects processors like the Line 6 Helix can be used as an interface. <a href="/line-6-helix-recording-techniques/" target="_blank" data-type="post" data-id="4209" rel="noopener" data-lasso-id="9510"><strong>Click here</strong></a> to read how to use the Helix as a stand alone interface!</em></p>
 
 
 
@@ -168,19 +168,19 @@ seo:
 
 
 
-<p>The first option is to use an effects processor. Some guitarists may already have a processor that they use live, like the <a href="https://www.electrikjam.com/line-6-helix-lt-reviews/" target="_blank" data-type="post" data-id="4472" rel="noopener" data-lasso-id="9512"><strong>Li</strong></a><strong><a href="https://www.electrikjam.com/line-6-helix-lt-reviews/" target="_blank" data-type="post" data-id="4472" rel="noopener" data-lasso-id="9513">ne 6 Helix</a>,</strong> or even something like the <a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="9514"><strong>MOOER G Series</strong></a>. These work great as a basis for recording your guitar, especially if you already have patches programmed and ready to be recorded. You can just plug your processor straight into your interface, and start recording!</p>
+<p>The first option is to use an effects processor. Some guitarists may already have a processor that they use live, like the <a href="/line-6-helix-lt-reviews/" target="_blank" data-type="post" data-id="4472" rel="noopener" data-lasso-id="9512"><strong>Li</strong></a><strong><a href="/line-6-helix-lt-reviews/" target="_blank" data-type="post" data-id="4472" rel="noopener" data-lasso-id="9513">ne 6 Helix</a>,</strong> or even something like the <a href="/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="9514"><strong>MOOER G Series</strong></a>. These work great as a basis for recording your guitar, especially if you already have patches programmed and ready to be recorded. You can just plug your processor straight into your interface, and start recording!</p>
 
 
 
-<p>The second option, would be to use an amp sim. Amp sims take your dry guitar signal, and transform it, just like a processor. The difference is, amp sims are software that you download for your computer. There are lots of options out there, and they range from <a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="9515"><strong>totally free</strong></a>&#8230; to <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="9516"><strong>extremely expensive</strong></a>. These amp sims are by far the easiest way to record your guitar. All you need is your guitar, computer, and interface!</p>
+<p>The second option, would be to use an amp sim. Amp sims take your dry guitar signal, and transform it, just like a processor. The difference is, amp sims are software that you download for your computer. There are lots of options out there, and they range from <a href="/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="9515"><strong>totally free</strong></a>&#8230; to <a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="9516"><strong>extremely expensive</strong></a>. These amp sims are by far the easiest way to record your guitar. All you need is your guitar, computer, and interface!</p>
 
 
 
-<p>No matter which way you decide to create your tone, there is an easy and inexpensive way to get everything up and running. Amp sim, or processor&#8230; it has never been easier to record at home. Something like the <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-lasso-id="10423">Line 6 Helix</a>, or the <strong>POD GO</strong> has every sound you can<em> imagine</em>. Most processors are designed to work seamlessly with any USB interface. </p>
+<p>No matter which way you decide to create your tone, there is an easy and inexpensive way to get everything up and running. Amp sim, or processor&#8230; it has never been easier to record at home. Something like the <a href="/what-is-a-line-6-helix/" data-lasso-id="10423">Line 6 Helix</a>, or the <strong>POD GO</strong> has every sound you can<em> imagine</em>. Most processors are designed to work seamlessly with any USB interface. </p>
 
 
 
-<p>I personally use <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18324">Line 6</a> products, with my Focusrite Scarlett, running Reaper. <em>This is the easiest and most ideal setup I have ever used over the past 20 years!</em></p>
+<p>I personally use <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18324">Line 6</a> products, with my Focusrite Scarlett, running Reaper. <em>This is the easiest and most ideal setup I have ever used over the past 20 years!</em></p>
 
 
 
@@ -204,5 +204,5 @@ seo:
 
 
 
-<p>How you use it, is completely up to you. Not everyone is going to <a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-lasso-id="114907">use Reaper to produce an entire album</a> (even though you can!). Some people just want to hear themselves play, and there is nothing wrong with that! Hopefully we have made it clear just how <em>easy</em> it is to get started with recording your guitar today.</p>
+<p>How you use it, is completely up to you. Not everyone is going to <a href="/getting-started-with-reaper-daw/" data-lasso-id="114907">use Reaper to produce an entire album</a> (even though you can!). Some people just want to hear themselves play, and there is nothing wrong with that! Hopefully we have made it clear just how <em>easy</em> it is to get started with recording your guitar today.</p>
 

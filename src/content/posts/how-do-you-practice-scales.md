@@ -44,7 +44,7 @@ seo:
 
 
 
-<p><strong>But how do you practice scales? </strong>Well, first you need to <a href="https://www.electrikjam.com/do-guitarists-know-every-scale/" data-lasso-id="216530">know which scales</a> you need to practice. But after that, you need to <em>memorize</em> the scale pattern. Once you have the scale shape down, you should probably start to use a metronome, depending on your goals. But a metronome will never <em>hurt</em> your practice!</p>
+<p><strong>But how do you practice scales? </strong>Well, first you need to <a href="/do-guitarists-know-every-scale/" data-lasso-id="216530">know which scales</a> you need to practice. But after that, you need to <em>memorize</em> the scale pattern. Once you have the scale shape down, you should probably start to use a metronome, depending on your goals. But a metronome will never <em>hurt</em> your practice!</p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>Learning scales is very important whether you plan on becoming a &#8220;lead&#8221; guitar, or not. Scales can help you learn the notes on the fretboard, as well as teach you how to <em>build</em> chords from just a root note. <strong><a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="215787">You can learn the fretboard</a></strong> much faster if you understand how scales <em>work</em>. <strong>Learning scales can increase your entire guitar vocabulary.</strong></p>
+<p>Learning scales is very important whether you plan on becoming a &#8220;lead&#8221; guitar, or not. Scales can help you learn the notes on the fretboard, as well as teach you how to <em>build</em> chords from just a root note. <strong><a href="/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="215787">You can learn the fretboard</a></strong> much faster if you understand how scales <em>work</em>. <strong>Learning scales can increase your entire guitar vocabulary.</strong></p>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<p><strong>The whole idea is to start slow, and then work your way up to faster tempos.</strong> This gets your finger dexterity in shape, and the more you practice-the <em>faster you will get over time</em>. There really isn&#8217;t any shortcuts to becoming faster or &#8220;better&#8221; at guitar. The <a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216923">secret to playing</a> better and faster is practice.</p>
+<p><strong>The whole idea is to start slow, and then work your way up to faster tempos.</strong> This gets your finger dexterity in shape, and the more you practice-the <em>faster you will get over time</em>. There really isn&#8217;t any shortcuts to becoming faster or &#8220;better&#8221; at guitar. The <a href="/why-did-hendrix-play-in-e-flat-tuning/" data-lasso-id="216923">secret to playing</a> better and faster is practice.</p>
 
 
 

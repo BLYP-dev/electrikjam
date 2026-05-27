@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>This is a lot to deal with. You can go over <a href="https://www.electrikjam.com/anatomy-of-the-electric-guitar-guide/" class="rank-math-link" data-lasso-id="1131"><strong>all the parts of a guitar that make the tuning stable</strong></a>, and<em> still</em> have problems at the end of the day. For a person that has guitar as a hobby, this is just a small inconvenience. But if you play shows regularly as a gigging artist, this can be a<strong> huge</strong> problem.</p>
+<p>This is a lot to deal with. You can go over <a href="/anatomy-of-the-electric-guitar-guide/" class="rank-math-link" data-lasso-id="1131"><strong>all the parts of a guitar that make the tuning stable</strong></a>, and<em> still</em> have problems at the end of the day. For a person that has guitar as a hobby, this is just a small inconvenience. But if you play shows regularly as a gigging artist, this can be a<strong> huge</strong> problem.</p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>But what if you could bypass having those constant setups and problems? <a href="https://www.electrikjam.com/what-is-an-evertune-bridge-the-1-guide/" class="rank-math-link" data-lasso-id="1132"><strong>We have already talked about how The Evertune bridge system works</strong></a>,  and what an amazing innovation it is. The Evertune is fully mechanical, and has no electronic parts or gimmicks.</p>
+<p>But what if you could bypass having those constant setups and problems? <a href="/what-is-an-evertune-bridge-the-1-guide/" class="rank-math-link" data-lasso-id="1132"><strong>We have already talked about how The Evertune bridge system works</strong></a>,  and what an amazing innovation it is. The Evertune is fully mechanical, and has no electronic parts or gimmicks.</p>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<p>Framus is known for making high quality, unique designs at a very high level of proficiency. These guitars are <a href="https://www.electrikjam.com/cort-guitars-a-wonderful-high-quality-brand/" data-lasso-id="5752">usually considered &#8220;boutique&#8221;</a> since they are made in smaller batches, and often they are very expensive. Due to the popularity of this guitar, they have made a more affordable model.</p>
+<p>Framus is known for making high quality, unique designs at a very high level of proficiency. These guitars are <a href="/cort-guitars-a-wonderful-high-quality-brand/" data-lasso-id="5752">usually considered &#8220;boutique&#8221;</a> since they are made in smaller batches, and often they are very expensive. Due to the popularity of this guitar, they have made a more affordable model.</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>Flame maple Top</strong></li><li><a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246470"><strong>Set Neck Construction</strong></a></li><li><strong>Ebony Fretboard</strong></li><li><strong>25.5 Scale Length</strong></li><li><strong>22 Extra Jumbo Frets</strong></li><li><strong>Graphtech Nut</strong></li><li><strong>Fishman Fluence Pickups</strong></li><li><strong>Graphtech Locking Tuners</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Mahogany Body</strong></li><li><strong>Flame maple Top</strong></li><li><a href="/parts-of-an-electric-guitar/" data-lasso-id="246470"><strong>Set Neck Construction</strong></a></li><li><strong>Ebony Fretboard</strong></li><li><strong>25.5 Scale Length</strong></li><li><strong>22 Extra Jumbo Frets</strong></li><li><strong>Graphtech Nut</strong></li><li><strong>Fishman Fluence Pickups</strong></li><li><strong>Graphtech Locking Tuners</strong></li></ul>
 
 
 
@@ -108,7 +108,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/framus-stormbender/" class="rank-math-link" data-lasso-id="1134"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
+<p><strong><a href="/recommends/framus-stormbender/" class="rank-math-link" data-lasso-id="1134"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
 
 
 
@@ -128,11 +128,11 @@ seo:
 
 
 
-<p>ESP gained popularity in the 80&#8217;s when <a href="https://www.electrikjam.com/what-guitar-pick-does-james-hetfield-use/" class="rank-math-link" data-lasso-id="1135"><strong><span style="color: #9b51e0;" class="ugb-highlight">Metallica became an endorser </span></strong></a>of the guitars, and ESP has released several models for the band over the years. While James Hetfield has his own models and designs these days, he started off with an awesome version of the Eclipse <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14306">model for his signature guitar</a>.</p>
+<p>ESP gained popularity in the 80&#8217;s when <a href="/what-guitar-pick-does-james-hetfield-use/" class="rank-math-link" data-lasso-id="1135"><strong><span style="color: #9b51e0;" class="ugb-highlight">Metallica became an endorser </span></strong></a>of the guitars, and ESP has released several models for the band over the years. While James Hetfield has his own models and designs these days, he started off with an awesome version of the Eclipse <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14306">model for his signature guitar</a>.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" class="rank-math-link" data-lasso-id="1136"><strong>The ESP Eclipse is one of the absolute best Les Paul alternatives</strong></a>, and we have talked about them a lot here! The higher end Eclipse models come with all of the specs you would expect from <a href="https://www.electrikjam.com/esp-vs-ltd-whats-the-difference/" data-lasso-id="104008">ESP:</a></p>
+<p><a href="/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/" class="rank-math-link" data-lasso-id="1136"><strong>The ESP Eclipse is one of the absolute best Les Paul alternatives</strong></a>, and we have talked about them a lot here! The higher end Eclipse models come with all of the specs you would expect from <a href="/esp-vs-ltd-whats-the-difference/" data-lasso-id="104008">ESP:</a></p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>The ESP EC1000 series comes with several different pickup options for the models that include the Evertune Bridge. You have a choice between <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7426">Seymour Duncan</a>, EMG, and recently Fishman Fluence Modern pickups. No matter which model you choose, you have some of the best pickups in the world, and this means less upgrading down the road!</p>
+<p>The ESP EC1000 series comes with several different pickup options for the models that include the Evertune Bridge. You have a choice between <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7426">Seymour Duncan</a>, EMG, and recently Fishman Fluence Modern pickups. No matter which model you choose, you have some of the best pickups in the world, and this means less upgrading down the road!</p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/esp-ec1000et/" class="rank-math-link" data-lasso-id="1137"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
+<p><strong><a href="/recommends/esp-ec1000et/" class="rank-math-link" data-lasso-id="1137"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
 
 
 
@@ -168,11 +168,11 @@ seo:
 
 
 
-<p>We have talked a lot about<strong><a href="https://www.electrikjam.com/new-solar-guitars-check-out-these-bolt-on-beauties/" class="rank-math-link" data-lasso-id="1138"> Solar Guitars and the new AB series.</a></strong> These new models are designed by <strong>Ola Englund </strong>himself to be a huge departure from the usual Solar lineup. These beautiful guitars have a matte finish and sport different pickup options from most of the usual Solar fare. The specs are pretty awesome:</p>
+<p>We have talked a lot about<strong><a href="/new-solar-guitars-check-out-these-bolt-on-beauties/" class="rank-math-link" data-lasso-id="1138"> Solar Guitars and the new AB series.</a></strong> These new models are designed by <strong>Ola Englund </strong>himself to be a huge departure from the usual Solar lineup. These beautiful guitars have a matte finish and sport different pickup options from most of the usual Solar fare. The specs are pretty awesome:</p>
 
 
 
-<ul class="wp-block-list"><li><strong>Alder Body</strong></li><li><strong>Roasted Maple Neck</strong></li><li><strong>Bolt On Construction</strong></li><li><strong>Luminlay Side Dots</strong></li><li><strong>Slim C Neck Profile</strong></li><li><strong>Locking Tuners</strong></li><li><a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-lasso-id="106936"><strong>Duncan Pickups</a> </strong></li><li><strong>Stainless Steel Extra Jumbo Frets</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Alder Body</strong></li><li><strong>Roasted Maple Neck</strong></li><li><strong>Bolt On Construction</strong></li><li><strong>Luminlay Side Dots</strong></li><li><strong>Slim C Neck Profile</strong></li><li><strong>Locking Tuners</strong></li><li><a href="/kurt-cobain-pickups/" data-lasso-id="106936"><strong>Duncan Pickups</a> </strong></li><li><strong>Stainless Steel Extra Jumbo Frets</strong></li></ul>
 
 
 
@@ -180,11 +180,11 @@ seo:
 
 
 
-<p>Aside from the Evertune Bridge, you also get <a href="https://www.electrikjam.com/what-are-locking-tuners/" data-lasso-id="28679">locking tuners</a> to keep you assured that changing strings and staying in tune is easy, and not a chore. Every Solar guitar comes with a nicely fitted graphite nut as well.</p>
+<p>Aside from the Evertune Bridge, you also get <a href="/what-are-locking-tuners/" data-lasso-id="28679">locking tuners</a> to keep you assured that changing strings and staying in tune is easy, and not a chore. Every Solar guitar comes with a nicely fitted graphite nut as well.</p>
 
 
 
-<p>My favorite feature by far is the stainless steel frets. We have seen a plethora of <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" data-lasso-id="15985">guitar manufacturers use stainless steel over the last</a> 3 years. This is huge for a player like myself, who feels like they are constantly doing fretwork to their guitar. Whether it&#8217;s cleaning, or just plain wear to the frets, stainless holds up better and should stand up to the test of time.</p>
+<p>My favorite feature by far is the stainless steel frets. We have seen a plethora of <a href="/which-guitar-strings-last-longest/" data-lasso-id="15985">guitar manufacturers use stainless steel over the last</a> 3 years. This is huge for a player like myself, who feels like they are constantly doing fretwork to their guitar. Whether it&#8217;s cleaning, or just plain wear to the frets, stainless holds up better and should stand up to the test of time.</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/solar-ab-evertune/" class="rank-math-link" data-lasso-id="1139"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
+<p><strong><a href="/recommends/solar-ab-evertune/" class="rank-math-link" data-lasso-id="1139"><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></a></strong></p>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/the-bc-rich-2021-lineup-is-here-new-axes/" class="rank-math-link" data-lasso-id="1140"><strong><span style="color: #9b51e0;" class="ugb-highlight">We have talked a little bit about 2021 being the &#8220;comeback year&#8221; for BC Rich</span></strong></a>. The often overlooked brand has an all new lineup this year based on the classic models that made BC Rich Famous in the 80s. This year <a href="https://www.electrikjam.com/ibanez-rg570/" data-lasso-id="258060">all of the classic models are back</a> with brand new specs and features, with most models featuring the Evertune bridge:</p>
+<p><a href="/the-bc-rich-2021-lineup-is-here-new-axes/" class="rank-math-link" data-lasso-id="1140"><strong><span style="color: #9b51e0;" class="ugb-highlight">We have talked a little bit about 2021 being the &#8220;comeback year&#8221; for BC Rich</span></strong></a>. The often overlooked brand has an all new lineup this year based on the classic models that made BC Rich Famous in the 80s. This year <a href="/ibanez-rg570/" data-lasso-id="258060">all of the classic models are back</a> with brand new specs and features, with most models featuring the Evertune bridge:</p>
 
 
 
@@ -216,11 +216,11 @@ seo:
 
 
 
-<p>The BC Rich prophecy is definitely a guitar that is ready to rock the stage, no upgrades needed. The specs not only sound good on paper, they are actual upgrades that are usually aftermarket options. Like <a href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="1141">strap locks</a> and name brand pickups. pair this with the Evertune bridge system, and you have the perfect guitar for gigging.</p>
+<p>The BC Rich prophecy is definitely a guitar that is ready to rock the stage, no upgrades needed. The specs not only sound good on paper, they are actual upgrades that are usually aftermarket options. Like <a href="/how-to-hold-an-electric-guitar-properly-guide/" data-lasso-id="1141">strap locks</a> and name brand pickups. pair this with the Evertune bridge system, and you have the perfect guitar for gigging.</p>
 
 
 
-<p>The aesthetics on this beast are truly something to behold. The Poplar Burl top has a beautiful finish, and is <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4666">arched like a Les Paul style guitar</a>. The same goes for the Abalone binding that surrounds the whole guitar, and the fret inlays. </p>
+<p>The aesthetics on this beast are truly something to behold. The Poplar Burl top has a beautiful finish, and is <a href="/best-les-paul-copy/" data-lasso-id="4666">arched like a Les Paul style guitar</a>. The same goes for the Abalone binding that surrounds the whole guitar, and the fret inlays. </p>
 
 
 
@@ -244,19 +244,19 @@ seo:
 
 
 
-<p>That&#8217;s right, Solar makes the list <strong>twice</strong>! The reason being, is this may be the ultimate 7 string for anyone wanting to see the Evertune bridge at it&#8217;s full potential. Not only is Solar been proven to be a reliable company, but Ola <a href="https://www.electrikjam.com/types-of-guitars-guide/" class="rank-math-link" data-lasso-id="1143"><strong>knows a thing or two about extended range guitars a</strong></a>nd how to do them right. The specs speak for themselves:</p>
+<p>That&#8217;s right, Solar makes the list <strong>twice</strong>! The reason being, is this may be the ultimate 7 string for anyone wanting to see the Evertune bridge at it&#8217;s full potential. Not only is Solar been proven to be a reliable company, but Ola <a href="/types-of-guitars-guide/" class="rank-math-link" data-lasso-id="1143"><strong>knows a thing or two about extended range guitars a</strong></a>nd how to do them right. The specs speak for themselves:</p>
 
 
 
-<ul class="wp-block-list"><li>Alder Body</li><li>Maple neck</li><li>Ebony Fretboard</li><li>24 Jumbo Stainless Steel frets</li><li>Graphite Nut</li><li><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7451">Duncan Solar Pickup</a> Set</li><li>Locking Tuners</li><li>26.5 Baritone Scale Length</li></ul>
+<ul class="wp-block-list"><li>Alder Body</li><li>Maple neck</li><li>Ebony Fretboard</li><li>24 Jumbo Stainless Steel frets</li><li>Graphite Nut</li><li><a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7451">Duncan Solar Pickup</a> Set</li><li>Locking Tuners</li><li>26.5 Baritone Scale Length</li></ul>
 
 
 
-<p>Not only has <strong>Ola Englund </strong>been using the Evertune bridge for quite a while, he also has <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="1144">played 7 string guitars</a> for a good portion of his career. He started by <strong><span style="color: #9b51e0;" class="ugb-highlight"><a href="https://www.electrikjam.com/the-top-5-extended-range-guitars-for-2021-going-low/" class="rank-math-link" data-lasso-id="1145">using Ibanez guitars back when they were the only company that mass-produced a good 7 string guitar.</a></span></strong> </p>
+<p>Not only has <strong>Ola Englund </strong>been using the Evertune bridge for quite a while, he also has <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="1144">played 7 string guitars</a> for a good portion of his career. He started by <strong><span style="color: #9b51e0;" class="ugb-highlight"><a href="/the-top-5-extended-range-guitars-for-2021-going-low/" class="rank-math-link" data-lasso-id="1145">using Ibanez guitars back when they were the only company that mass-produced a good 7 string guitar.</a></span></strong> </p>
 
 
 
-<p>The baritone scale is perfect for standard 7 string tuning, but it&#8217;s even better <a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-lasso-id="1146">if you plan on drop tuning</a>. The biggest problem you get when it comes to<a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="1147"><strong><span style="color: #9b51e0;" class="ugb-highlight"> drop tuning </span></strong></a>is usually string tension, and staying in tune! The Evertune bridge immediately solves a lot of these problems, since it never goes out of tune, regardless of the string tension.</p>
+<p>The baritone scale is perfect for standard 7 string tuning, but it&#8217;s even better <a href="/bands-that-use-drop-c-tuning/" data-lasso-id="1146">if you plan on drop tuning</a>. The biggest problem you get when it comes to<a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="1147"><strong><span style="color: #9b51e0;" class="ugb-highlight"> drop tuning </span></strong></a>is usually string tension, and staying in tune! The Evertune bridge immediately solves a lot of these problems, since it never goes out of tune, regardless of the string tension.</p>
 
 
 
@@ -280,7 +280,7 @@ seo:
 
 
 
-<p>I wanted to include this guitar in the list, but it is certainly not for everyone. This one is a little more &#8220;out there&#8221; than the more traditional Metal guitars that we have listed here. Much like Ben&#8217;s music with The <a href="https://www.electrikjam.com/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104032">Dillinger Escape Plan</a>, this guitar will be for a specific taste. But that doesn&#8217;t mean that it&#8217;s lacking in any features:</p>
+<p>I wanted to include this guitar in the list, but it is certainly not for everyone. This one is a little more &#8220;out there&#8221; than the more traditional Metal guitars that we have listed here. Much like Ben&#8217;s music with The <a href="/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-lasso-id="104032">Dillinger Escape Plan</a>, this guitar will be for a specific taste. But that doesn&#8217;t mean that it&#8217;s lacking in any features:</p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p>The ESP BW model is intriguing since it is a Semi Hollow guitar, unlike most <a href="https://www.electrikjam.com/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189583" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">&#8220;Metal&#8221; guitars</a> that are often solid body. This gives the guitar a huge, bassy tone that gets cleaned up with the high fidelity of the<strong><span style="color: #9b51e0;" class="ugb-highlight"><a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="1148"> Fishman Fluence pickups.</a></span></strong> This guitar is definitely versatile, and in a league of it&#8217;s own.</p>
+<p>The ESP BW model is intriguing since it is a Semi Hollow guitar, unlike most <a href="/3-best-harley-benton-guitars-for-metal-review/" data-lasso-id="189583" rel="nofollow noopener" target="_blank" data-lasso-name="3 BEST Harley Benton Guitars For Metal: INSANE Deals!">&#8220;Metal&#8221; guitars</a> that are often solid body. This gives the guitar a huge, bassy tone that gets cleaned up with the high fidelity of the<strong><span style="color: #9b51e0;" class="ugb-highlight"><a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="1148"> Fishman Fluence pickups.</a></span></strong> This guitar is definitely versatile, and in a league of it&#8217;s own.</p>
 
 
 
@@ -304,7 +304,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/esp-ltd-bw/" class="rank-math-link" data-lasso-id="1149"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></strong></a></p>
+<p><a href="/recommends/esp-ltd-bw/" class="rank-math-link" data-lasso-id="1149"><strong><span style="color: #9b51e0;" class="ugb-highlight">&lt;VIEW LATEST PRICES</span></strong></a></p>
 
 
 
@@ -320,7 +320,7 @@ seo:
 
 
 
-<p>Personally, I would have loved to have my guitars outfitted with the Evertune bridge back when I was gigging. <strong><span style="color: #9b51e0;" class="ugb-highlight"><a href="https://www.electrikjam.com/learning-guitar-guide-what-to-expect/" class="rank-math-link" data-lasso-id="1150">I didn&#8217;t have a guitar tech for most of my career</a></span></strong>, so I was left to my own experience when it came to working on my equipment. This was ararely ever ideal since things seem to go wrong at the worst time! </p>
+<p>Personally, I would have loved to have my guitars outfitted with the Evertune bridge back when I was gigging. <strong><span style="color: #9b51e0;" class="ugb-highlight"><a href="/learning-guitar-guide-what-to-expect/" class="rank-math-link" data-lasso-id="1150">I didn&#8217;t have a guitar tech for most of my career</a></span></strong>, so I was left to my own experience when it came to working on my equipment. This was ararely ever ideal since things seem to go wrong at the worst time! </p>
 
 
 

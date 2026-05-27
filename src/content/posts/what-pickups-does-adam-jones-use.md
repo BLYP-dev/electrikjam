@@ -42,15 +42,15 @@ seo:
 
 
 
-<p>TOOL is one of the biggest metal bands on the planet. I say, metal, but TOOL is much more than just a metal band; it has elements of prog, arthouse, rock music, and electronica. <a href="https://www.electrikjam.com/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="111001">TOOL is TOOL</a>, basically. And one of the key elements of TOOL is the sound of <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="9560">Adam Jones’ guitar</a></strong>.</p>
+<p>TOOL is one of the biggest metal bands on the planet. I say, metal, but TOOL is much more than just a metal band; it has elements of prog, arthouse, rock music, and electronica. <a href="/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="111001">TOOL is TOOL</a>, basically. And one of the key elements of TOOL is the sound of <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="9560">Adam Jones’ guitar</a></strong>.</p>
 
 
 
-<p>Adam Jones uses a <a class="wpil_keyword_link" href="https://www.electrikjam.com/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="9567">Gibson</a> Les Paul Custom, a 1979 model in Silverburst. Jones also released his own signature model with Gibson in 2020, the <a href="https://www.electrikjam.com/adam-jones-names-the-guitarists-that-influenced-him-most/" data-lasso-id="10864">Adam Jones Gibson 1979 Les Paul Custom</a> in Antique Silverburst. And Jones is also said to be <strong><a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="9561">working on a cheaper Epiphone variant</a></strong> which is very exciting.</p>
+<p>Adam Jones uses a <a class="wpil_keyword_link" href="/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="9567">Gibson</a> Les Paul Custom, a 1979 model in Silverburst. Jones also released his own signature model with Gibson in 2020, the <a href="/adam-jones-names-the-guitarists-that-influenced-him-most/" data-lasso-id="10864">Adam Jones Gibson 1979 Les Paul Custom</a> in Antique Silverburst. And Jones is also said to be <strong><a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="9561">working on a cheaper Epiphone variant</a></strong> which is very exciting.</p>
 
 
 
-<p>But the guitar is just one component of Jones’ sound. His style of playing and choice of tuning –&nbsp;<strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="9562">he plays predominantly in Drop D</a></strong> –&nbsp;also adds to that distinctive, unmissable TOOL sound. But what pickups does Adam Jones use in his guitars? The story behind his choice is almost as interesting as TOOL’s music –&nbsp;let’s dig in, shall will?</p>
+<p>But the guitar is just one component of Jones’ sound. His style of playing and choice of tuning –&nbsp;<strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="9562">he plays predominantly in Drop D</a></strong> –&nbsp;also adds to that distinctive, unmissable TOOL sound. But what pickups does Adam Jones use in his guitars? The story behind his choice is almost as interesting as TOOL’s music –&nbsp;let’s dig in, shall will?</p>
 
 
 
@@ -58,19 +58,19 @@ seo:
 
 
 
-<p>Like most things related to TOOL and <a href="https://www.electrikjam.com/how-tools-adam-jones-practices-guitar/" data-lasso-id="104785">Adam Jones</a>, nothing about Jones’ pickups are standard. Jones took advice from Buzz Osbourne of the Melvins about how to get a killer tone from his rather unique pickup choice and installation.</p>
+<p>Like most things related to TOOL and <a href="/how-tools-adam-jones-practices-guitar/" data-lasso-id="104785">Adam Jones</a>, nothing about Jones’ pickups are standard. Jones took advice from Buzz Osbourne of the Melvins about how to get a killer tone from his rather unique pickup choice and installation.</p>
 
 
 
-<p><strong>Adam Jones uses a Seymour Duncan DDL humbucker in the bridge and a Gibson Custombucker in the neck of his 1979 Gibson Les Paul. But the twist here is that the pickups are reverse-mounted, again, this was done on the advice of <a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="9563">King Buzzo of the Melvins</a>. And the reason? It gives you a different polarity, according to Jones.</strong></p>
+<p><strong>Adam Jones uses a Seymour Duncan DDL humbucker in the bridge and a Gibson Custombucker in the neck of his 1979 Gibson Les Paul. But the twist here is that the pickups are reverse-mounted, again, this was done on the advice of <a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="9563">King Buzzo of the Melvins</a>. And the reason? It gives you a different polarity, according to Jones.</strong></p>
 
 
 
-<p>The Seymour Duncan DDL humbucker that Jones uses in the bridge is a high-output ceramic humbucker that was first introduced in the 1990s. <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11597">Seymour Duncan then discontinued the pickup</a>. But because Adam Jones is Adam Jones, and his signature guitar with Gibson was such a big deal, <a href="https://www.electrikjam.com/what-is-a-trembucker/" data-lasso-id="11093">Seymour Duncan</a> re-released the Seymour Duncan DDL humbucker for use inside the Adam Jones 1979 Custom release.</p>
+<p>The Seymour Duncan DDL humbucker that Jones uses in the bridge is a high-output ceramic humbucker that was first introduced in the 1990s. <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11597">Seymour Duncan then discontinued the pickup</a>. But because Adam Jones is Adam Jones, and his signature guitar with Gibson was such a big deal, <a href="/what-is-a-trembucker/" data-lasso-id="11093">Seymour Duncan</a> re-released the Seymour Duncan DDL humbucker for use inside the Adam Jones 1979 Custom release.</p>
 
 
 
-<p>But that’s just the beginning. Jones wanted the EXACT same pickup and he even requested the original engineer of the <strong><a href="https://www.electrikjam.com/recommends/seymour-duncan-ddl-humbucker/" data-lasso-id="9564">Seymour Duncan DDL humbucker ($89)</a></strong> to come back to recreate the pickup for use inside his signature Gibson model. Talk about attention to detail.</p>
+<p>But that’s just the beginning. Jones wanted the EXACT same pickup and he even requested the original engineer of the <strong><a href="/recommends/seymour-duncan-ddl-humbucker/" data-lasso-id="9564">Seymour Duncan DDL humbucker ($89)</a></strong> to come back to recreate the pickup for use inside his signature Gibson model. Talk about attention to detail.</p>
 
 
 
@@ -78,7 +78,7 @@ seo:
 
 
 
-<p>For instance, Jones modded his own guitar by adding a DiMarzio pot to control the DDL humbucker. He wanted this to be included in the production <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14313">model of his Gibson guitar</a>, so Gibson had to go away and talk to DiMarzio in order to source enough parts for Jones’ signature Les Paul.</p>
+<p>For instance, Jones modded his own guitar by adding a DiMarzio pot to control the DDL humbucker. He wanted this to be included in the production <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14313">model of his Gibson guitar</a>, so Gibson had to go away and talk to DiMarzio in order to source enough parts for Jones’ signature Les Paul.</p>
 
 
 
@@ -90,15 +90,15 @@ seo:
 
 
 
-<p>Gibson owns Epiphone, after all, and dropping $5000 on Jones’ signature Les Paul from Gibson just isn’t feasible for 99.9% of guitarists. An Epiphone model that <strong><a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="9565">retailed for around $800 to $1000</a></strong>, however, would be much more palatable.</p>
+<p>Gibson owns Epiphone, after all, and dropping $5000 on Jones’ signature Les Paul from Gibson just isn’t feasible for 99.9% of guitarists. An Epiphone model that <strong><a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-type="post" data-id="2979" data-lasso-id="9565">retailed for around $800 to $1000</a></strong>, however, would be much more palatable.</p>
 
 
 
-<p>And <a href="https://www.electrikjam.com/new-tool-album-release-date/" data-lasso-id="44148">given the popularity of TOOL</a> and Jones as a player, it would almost certainly go on to be one of Epiphone’s most popular signature models. I know I’d snap one up as soon as they went up for pre-order.</p>
+<p>And <a href="/new-tool-album-release-date/" data-lasso-id="44148">given the popularity of TOOL</a> and Jones as a player, it would almost certainly go on to be one of Epiphone’s most popular signature models. I know I’d snap one up as soon as they went up for pre-order.</p>
 
 
 
-<p>Epiphone has been a brilliant run these past 24 months, dropping amazing guitars left, right, and center. My current daily driver, <strong><a href="https://www.electrikjam.com/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="9566" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">the Epiphone Les Paul Prophecy</a></strong>, complete with Fishman Fluence pickups, is one of the best guitars I have ever played and owned. And it is around <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44938">80% cheaper than a Gibson Les Paul Custom</a>.</p>
+<p>Epiphone has been a brilliant run these past 24 months, dropping amazing guitars left, right, and center. My current daily driver, <strong><a href="/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="9566" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">the Epiphone Les Paul Prophecy</a></strong>, complete with Fishman Fluence pickups, is one of the best guitars I have ever played and owned. And it is around <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44938">80% cheaper than a Gibson Les Paul Custom</a>.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
 </div></div>
 
 

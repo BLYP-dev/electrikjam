@@ -50,7 +50,7 @@ seo:
 
 
 
-<p>There are thousands of different styles when it comes to tuning machines. But when it comes to <a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="40">tuning your guitar</a>, they all work the same way!</p>
+<p>There are thousands of different styles when it comes to tuning machines. But when it comes to <a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-lasso-id="40">tuning your guitar</a>, they all work the same way!</p>
 
 
 
@@ -78,7 +78,7 @@ seo:
 
 
 
-<p>Standard tuning is the most widely used and popular. If you are <a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="41">learning from a teacher</a>, they will almost always teach you how to play using standard tuning. It is the universal language of the guitar!</p>
+<p>Standard tuning is the most widely used and popular. If you are <a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="41">learning from a teacher</a>, they will almost always teach you how to play using standard tuning. It is the universal language of the guitar!</p>
 
 
 
@@ -110,7 +110,7 @@ seo:
 
 
 
-<p>The Guitar is tuned in a series of ascending (rising tone) perfect fourths and a single major third. To be specific, from low to high, <a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-lasso-id="12169">standard guitar tuning is EADGBE</a> as we discussed earlier.</p>
+<p>The Guitar is tuned in a series of ascending (rising tone) perfect fourths and a single major third. To be specific, from low to high, <a href="/most-common-guitar-tunings/" data-lasso-id="12169">standard guitar tuning is EADGBE</a> as we discussed earlier.</p>
 
 
 
@@ -118,11 +118,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li>The guitar focuses on <a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="42">chord shapes</a>, and standard tuning makes chords easier to achieve.</li><li>It makes playing leads, and learning scale patterns easy</li><li>The guitar has six strings and covers much more sonic territory than other stringed instruments.</li><li><a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142217">Standard Tuning on a guitar</a> allows you to play with any other instrument easily.</li><li>Most importantly, it minimizes the movements of your fretting hand.</li></ul>
+<ul class="wp-block-list"><li>The guitar focuses on <a href="/chord-voicing-extensions-for-metal/" data-lasso-id="42">chord shapes</a>, and standard tuning makes chords easier to achieve.</li><li>It makes playing leads, and learning scale patterns easy</li><li>The guitar has six strings and covers much more sonic territory than other stringed instruments.</li><li><a href="/10-metal-bands-that-play-in-standard-tuning/" data-lasso-id="142217">Standard Tuning on a guitar</a> allows you to play with any other instrument easily.</li><li>Most importantly, it minimizes the movements of your fretting hand.</li></ul>
 
 
 
-<p>So how do we get to these notes/pitches? Most people use an electronic tuner. Even the pros! Get into the habit of checking your <a href="https://www.electrikjam.com/every-time-i-die-guitar-tunings/" data-lasso-id="3080">tuning every single time you pick up your guitar</a> to play.</p>
+<p>So how do we get to these notes/pitches? Most people use an electronic tuner. Even the pros! Get into the habit of checking your <a href="/every-time-i-die-guitar-tunings/" data-lasso-id="3080">tuning every single time you pick up your guitar</a> to play.</p>
 
 
 
@@ -142,11 +142,11 @@ seo:
 
 
 
-<p>These come in a ton of different shapes and sizes. But they all function the same way, essentially. These tuners pick up the vibration of your <a href="https://www.electrikjam.com/best-strings-for-a-gibson-les-paul/" data-lasso-id="5805">strings</a>, to read what note is being picked up. Simply:</p>
+<p>These come in a ton of different shapes and sizes. But they all function the same way, essentially. These tuners pick up the vibration of your <a href="/best-strings-for-a-gibson-les-paul/" data-lasso-id="5805">strings</a>, to read what note is being picked up. Simply:</p>
 
 
 
-<ul class="wp-block-list"><li>Use the clip to attach the tuner to the headstock of your guitar. </li><li>Check to make sure the clip is in full contact with the wood.</li><li>Pluck the string you wish to tune.</li><li>The electronic tuner will tell you the note.</li><li>Your string may be sharp or flat. Simply use the <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246472">tuning pegs</a> to tighten or loosen the string, until it reaches desired pitch.</li><li>Pluck the open string again, to make sure it is in tune.</li></ul>
+<ul class="wp-block-list"><li>Use the clip to attach the tuner to the headstock of your guitar. </li><li>Check to make sure the clip is in full contact with the wood.</li><li>Pluck the string you wish to tune.</li><li>The electronic tuner will tell you the note.</li><li>Your string may be sharp or flat. Simply use the <a href="/parts-of-an-electric-guitar/" data-lasso-id="246472">tuning pegs</a> to tighten or loosen the string, until it reaches desired pitch.</li><li>Pluck the open string again, to make sure it is in tune.</li></ul>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<p>The last thing you want on your <a href="https://www.electrikjam.com/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125938">way to becoming a great guitarist</a> is a roadblock like bad tuning practices. Especially since it so easily avoidable these days. The less roadblocks on your journey, the better.</p>
+<p>The last thing you want on your <a href="/basic-music-theory-for-guitarists-major-scale/" data-lasso-id="125938">way to becoming a great guitarist</a> is a roadblock like bad tuning practices. Especially since it so easily avoidable these days. The less roadblocks on your journey, the better.</p>
 
 
 

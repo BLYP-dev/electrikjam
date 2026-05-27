@@ -66,7 +66,7 @@ seo:
 
 
 
-<p>PRS is kicking 2024 off with a bang, adding in new models and new colorways to its insanely popular SE line-up of <strong><a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" data-lasso-id="251220">affordable (and thoroughly excellent) guitars</a></strong>. </p>
+<p>PRS is kicking 2024 off with a bang, adding in new models and new colorways to its insanely popular SE line-up of <strong><a href="/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" data-lasso-id="251220">affordable (and thoroughly excellent) guitars</a></strong>. </p>
 
 
 
@@ -240,9 +240,9 @@ seo:
 
 
 
-<p>PRS has expanded the color palette across existing <a href="https://www.electrikjam.com/prs-se-series-guitars-guide/" data-lasso-id="251737">SE Series models</a>, with Turquoise now available on models like SE Custom 24 and SE McCarty 594, among others. Blood Orange and Charcoal are new color options for select models.</p>
+<p>PRS has expanded the color palette across existing <a href="/prs-se-series-guitars-guide/" data-lasso-id="251737">SE Series models</a>, with Turquoise now available on models like SE Custom 24 and SE McCarty 594, among others. Blood Orange and Charcoal are new color options for select models.</p>
 
 
 
-<p>Check out <strong><a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" data-lasso-id="251221">our review of the excellent PRS SE Silver Sky</a> </strong>(the cheaper model of John Mayer&#8217;s signature PRS shown above) for more details on why PRS&#8217; SE guitars are some of the best in the business right now. </p>
+<p>Check out <strong><a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" data-lasso-id="251221">our review of the excellent PRS SE Silver Sky</a> </strong>(the cheaper model of John Mayer&#8217;s signature PRS shown above) for more details on why PRS&#8217; SE guitars are some of the best in the business right now. </p>
 

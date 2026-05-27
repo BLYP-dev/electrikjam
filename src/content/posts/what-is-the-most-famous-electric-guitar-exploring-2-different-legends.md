@@ -46,11 +46,11 @@ seo:
 
 
 
-<p>That can be a tough question to answer, since there are so many famous electric guitars. There are many iconic designs that many legendary guitar players have used over the years. Some people like <strong><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" target="_blank" data-type="post" data-id="7670" rel="noopener" data-lasso-id="218830">Eddie Van Halen even made his own guitar</a></strong>, and it became famous all on its own! So what is the most famous electric guitar?</p>
+<p>That can be a tough question to answer, since there are so many famous electric guitars. There are many iconic designs that many legendary guitar players have used over the years. Some people like <strong><a href="/eddie-van-halen-innovative-guitar-gear/" target="_blank" data-type="post" data-id="7670" rel="noopener" data-lasso-id="218830">Eddie Van Halen even made his own guitar</a></strong>, and it became famous all on its own! So what is the most famous electric guitar?</p>
 
 
 
-<p>We had to really break it down to a few different <a href="https://www.electrikjam.com/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225986">reasons that a guitar</a> would be famous. We have to look at the time period that it is made, as well as how long they have been in production. Second, we had to think about how popular certain guitars are and if those guitars still sell today.</p>
+<p>We had to really break it down to a few different <a href="/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225986">reasons that a guitar</a> would be famous. We have to look at the time period that it is made, as well as how long they have been in production. Second, we had to think about how popular certain guitars are and if those guitars still sell today.</p>
 
 
 
@@ -198,7 +198,7 @@ seo:
 
 
 
-<p>There is no whammy bar on a Les Paul, and the fixed bridge requires much less maintenance compared to the Stratocaster. The dual humbuckers also provide a fatter tone compared to the Stratocaster, but you are limited to <strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" target="_blank" data-type="post" data-id="7941" rel="noopener" data-lasso-id="218832">three switch positions compared to the 5 that Fender offers</a></strong>.</p>
+<p>There is no whammy bar on a Les Paul, and the fixed bridge requires much less maintenance compared to the Stratocaster. The dual humbuckers also provide a fatter tone compared to the Stratocaster, but you are limited to <strong><a href="/guitar-pickup-positions/" target="_blank" data-type="post" data-id="7941" rel="noopener" data-lasso-id="218832">three switch positions compared to the 5 that Fender offers</a></strong>.</p>
 
 
 
@@ -206,7 +206,7 @@ seo:
 
 
 
-<p>There are some legendary<strong><a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-type="post" data-id="10708" target="_blank" rel="noopener" data-lasso-id="218833"> Les Paul guitars out there, like &#8220;Greeny&#8221; </a></strong>or the Les Paul that <strong>Jimmy Page</strong> used on stage in the 70&#8217;s. But the Les Paul, even in modern form is not to everyone&#8217;s taste. Many guitarists complain about the weight, and ergonomics. But there&#8217;s another big factor that makes these two popular guitars so different.</p>
+<p>There are some legendary<strong><a href="/what-is-the-holy-grail-of-electric-guitars/" data-type="post" data-id="10708" target="_blank" rel="noopener" data-lasso-id="218833"> Les Paul guitars out there, like &#8220;Greeny&#8221; </a></strong>or the Les Paul that <strong>Jimmy Page</strong> used on stage in the 70&#8217;s. But the Les Paul, even in modern form is not to everyone&#8217;s taste. Many guitarists complain about the weight, and ergonomics. But there&#8217;s another big factor that makes these two popular guitars so different.</p>
 
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<p>This is probably the biggest factor when it comes to the &#8220;feel&#8221; of these two famous guitars. We have <strong><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="218834">discussed what scale length is exactly in a separate tutorial</a></strong>. Gibson famously has a shorter scale length of 24.75&#8221; and 22 frets on most Les Paul guitars.</p>
+<p>This is probably the biggest factor when it comes to the &#8220;feel&#8221; of these two famous guitars. We have <strong><a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" target="_blank" rel="noopener" data-lasso-id="218834">discussed what scale length is exactly in a separate tutorial</a></strong>. Gibson famously has a shorter scale length of 24.75&#8221; and 22 frets on most Les Paul guitars.</p>
 
 
 
@@ -270,7 +270,7 @@ seo:
 
 
 
-<p>The Fender Stratocaster is still sold today, and it is even more popular than when it was first introduced. For many guitarists, the Stratocaster became the basis for their tone, and even became a part of their style as a guitarist. People like<strong><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="218835"> Jimi Hendrix</a></strong>, <strong>John Mayer</strong>, <strong>Eric Clapton</strong>, <strong>David Gilmour</strong>, and <strong>Stevie Ray Vaughn</strong> used the Fender Stratocaster as their weapon of choice. </p>
+<p>The Fender Stratocaster is still sold today, and it is even more popular than when it was first introduced. For many guitarists, the Stratocaster became the basis for their tone, and even became a part of their style as a guitarist. People like<strong><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" target="_blank" rel="noopener" data-lasso-id="218835"> Jimi Hendrix</a></strong>, <strong>John Mayer</strong>, <strong>Eric Clapton</strong>, <strong>David Gilmour</strong>, and <strong>Stevie Ray Vaughn</strong> used the Fender Stratocaster as their weapon of choice. </p>
 
 
 

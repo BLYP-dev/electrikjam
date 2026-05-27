@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>The classic <strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236016">Fender Jazzmaster’s big USP</a></strong> when it first arrived on the market back in the ‘50s was its dual-circuit design with separate volume and tone controls, whereby the lead circuit and rhythm circuit can be augmented in a more precise manner than on, say, a <strong><a data-lasso-id="6893" href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292">Tele or a Strat</a></strong>, to create deeper, more complex tones.</p>
+<p>The classic <strong><a href="/telecaster-vs-jazzmaster/" data-lasso-id="236016">Fender Jazzmaster’s big USP</a></strong> when it first arrived on the market back in the ‘50s was its dual-circuit design with separate volume and tone controls, whereby the lead circuit and rhythm circuit can be augmented in a more precise manner than on, say, a <strong><a data-lasso-id="6893" href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292">Tele or a Strat</a></strong>, to create deeper, more complex tones.</p>
 
 
 
@@ -53,7 +53,7 @@ seo:
 
 
 
-<p>With its 22-fret neck and a 9.25”-radius, the Jazzmaster is a beautiful guitar to play, possessing <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11258">elements of the Tele and the Strat</a> but with its own, unique magic that has made it a favorite of some of the most innovative guitarists of the last six decades. But what kind of pickups does the Jazzmaster have?</p>
+<p>With its 22-fret neck and a 9.25”-radius, the Jazzmaster is a beautiful guitar to play, possessing <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11258">elements of the Tele and the Strat</a> but with its own, unique magic that has made it a favorite of some of the most innovative guitarists of the last six decades. But what kind of pickups does the Jazzmaster have?</p>
 
 
 
@@ -61,7 +61,7 @@ seo:
 
 
 
-<p>I know what you’re thinking: <strong>it’s a <a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="6901">Fender</a>, it runs single-coil pickups</strong>. And you’re right, certain models do run single-coil pickups, just like most classic Fender guitars. But here’s the thing: <strong>the Jazzmaster is available with other, more modern pickups too.</strong></p>
+<p>I know what you’re thinking: <strong>it’s a <a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="6901">Fender</a>, it runs single-coil pickups</strong>. And you’re right, certain models do run single-coil pickups, just like most classic Fender guitars. But here’s the thing: <strong>the Jazzmaster is available with other, more modern pickups too.</strong></p>
 
 
 
@@ -69,11 +69,11 @@ seo:
 
 
 
-<p>Here’s a complete breakdown of all current <a href="https://www.electrikjam.com/who-plays-fender-jazzmaster/" data-lasso-id="252793">Fender Jazzmaster models</a> and the pickups they use.</p>
+<p>Here’s a complete breakdown of all current <a href="/who-plays-fender-jazzmaster/" data-lasso-id="252793">Fender Jazzmaster models</a> and the pickups they use.</p>
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">Fender Jazzmaster Model</th><th class="has-text-align-center" data-align="center">Pickups Used</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong>Player Series Jazzmaster</strong></td><td class="has-text-align-center" data-align="center"><strong>Player Series humbucking pickups</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>J Mascis Signature Jazzmaster</strong></td><td class="has-text-align-center" data-align="center"><strong>Single-coil Jazzmaster pickups</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>VINTERA &#8217;60s JAZZMASTER</strong></td><td class="has-text-align-center" data-align="center"><strong>‘60s Jazzmaster single-coil pickups</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Jim Root Jazzmaster V4</strong></td><td class="has-text-align-center" data-align="center"><strong><a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-lasso-id="252362">EMG Jim Root Signature Daemonum Pickups</a> </strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Jazzmaster Mini</strong></td><td class="has-text-align-center" data-align="center"><strong>Dual humbucking pickups</strong></td></tr></tbody></table><figcaption class="wp-element-caption"><strong>All Production Fender Jazzmaster Models + The Pickups They Use</strong></figcaption></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">Fender Jazzmaster Model</th><th class="has-text-align-center" data-align="center">Pickups Used</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong>Player Series Jazzmaster</strong></td><td class="has-text-align-center" data-align="center"><strong>Player Series humbucking pickups</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>J Mascis Signature Jazzmaster</strong></td><td class="has-text-align-center" data-align="center"><strong>Single-coil Jazzmaster pickups</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>VINTERA &#8217;60s JAZZMASTER</strong></td><td class="has-text-align-center" data-align="center"><strong>‘60s Jazzmaster single-coil pickups</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Jim Root Jazzmaster V4</strong></td><td class="has-text-align-center" data-align="center"><strong><a href="/jim-root-signature-guitars/" data-lasso-id="252362">EMG Jim Root Signature Daemonum Pickups</a> </strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Jazzmaster Mini</strong></td><td class="has-text-align-center" data-align="center"><strong>Dual humbucking pickups</strong></td></tr></tbody></table><figcaption class="wp-element-caption"><strong>All Production Fender Jazzmaster Models + The Pickups They Use</strong></figcaption></figure>
 
 
 
@@ -85,15 +85,15 @@ seo:
 
 
 
-<p>Metal requires certain things to work. As a guitarist, you need to be able to play loud, with lots of overdrive, fuzz, and gain –&nbsp;and that’s just the foundation. On top of this, you’ll need to add in things like pedals, effects, and then, most likely tune down your guitar to something like <strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="6895">Drop D or D Standard</a></strong>.</p>
+<p>Metal requires certain things to work. As a guitarist, you need to be able to play loud, with lots of overdrive, fuzz, and gain –&nbsp;and that’s just the foundation. On top of this, you’ll need to add in things like pedals, effects, and then, most likely tune down your guitar to something like <strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="6895">Drop D or D Standard</a></strong>.</p>
 
 
 
-<p>Can you do this with a traditional Fender? Yes and no; classic Fender guitars –&nbsp;like the <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="6896">Tele, Strat, and Jazzmaster</a></strong> –&nbsp;in their stock configuration with single-coil pickups aren’t really suited to metal, doom, or anything close to these genres of music.</p>
+<p>Can you do this with a traditional Fender? Yes and no; classic Fender guitars –&nbsp;like the <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="6896">Tele, Strat, and Jazzmaster</a></strong> –&nbsp;in their stock configuration with single-coil pickups aren’t really suited to metal, doom, or anything close to these genres of music.</p>
 
 
 
-<p>You can use them, of course, but you will lose out on tonal performance compared to a guitar running <strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="6897">humbuckers</a></strong>. But Fender being Fender has a novel solution for metal players that want a Jazzmaster, and it was masterminded by Slipknot’s Jim Root.</p>
+<p>You can use them, of course, but you will lose out on tonal performance compared to a guitar running <strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="6897">humbuckers</a></strong>. But Fender being Fender has a novel solution for metal players that want a Jazzmaster, and it was masterminded by Slipknot’s Jim Root.</p>
 
 
 
@@ -113,7 +113,7 @@ seo:
 
 
 
-<p>The Jim Root Jazzmaster V4 does away with the Jazzmaster’s usual complexity and single-coil pickups, replacing them with a single volume channel and a pair of <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8220">EMG Jim Root Signature Daemonum open-coil active humbucking pickups</a>.</p>
+<p>The Jim Root Jazzmaster V4 does away with the Jazzmaster’s usual complexity and single-coil pickups, replacing them with a single volume channel and a pair of <a href="/what-are-active-pickups/" data-lasso-id="8220">EMG Jim Root Signature Daemonum open-coil active humbucking pickups</a>.</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<li><strong>12” radius ebony fingerboard with 22 <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246482">jumbo frets</a> and block position inlays </strong></li>
+<li><strong>12” radius ebony fingerboard with 22 <a href="/parts-of-an-electric-guitar/" data-lasso-id="246482">jumbo frets</a> and block position inlays </strong></li>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>I’m currently in the market for a new guitar, something a little different from my usual Les Paul-style guitars, and I am giving SERIOUS consideration to picking up Jim Root’s Jazzmaster. I love the way it looks, <strong><a href="https://www.electrikjam.com/jim-root-fender-jazzmaster-v4/" data-type="lasso-urls" data-id="4550" data-lasso-id="6898" rel="nofollow noopener" target="_blank" data-lasso-name="Fender Jim Root Jazzmaster">both in Black and White</a></strong>, the colors it is available in, and I really do love Jim’s signature Daemonum pickups –&nbsp;they sound massive.</p>
+<p>I’m currently in the market for a new guitar, something a little different from my usual Les Paul-style guitars, and I am giving SERIOUS consideration to picking up Jim Root’s Jazzmaster. I love the way it looks, <strong><a href="/jim-root-fender-jazzmaster-v4/" data-type="lasso-urls" data-id="4550" data-lasso-id="6898" rel="nofollow noopener" target="_blank" data-lasso-name="Fender Jim Root Jazzmaster">both in Black and White</a></strong>, the colors it is available in, and I really do love Jim’s signature Daemonum pickups –&nbsp;they sound massive.</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>I’ve never owned a Fender before either, so this will be a first for me. I just need to get over the anxiety of <strong><a href="https://www.electrikjam.com/jim-root-fender-jazzmaster-v4/" data-type="lasso-urls" data-id="4550" data-lasso-id="6899" rel="nofollow noopener" target="_blank" data-lasso-name="Fender Jim Root Jazzmaster">dropping over $1600+ on something</a></strong>, explain it to my better half, and then pull the trigger on this sick-sounding, beautifully crafted monster. I think I’ll get the white one too, it just looks so freakin’ cool.</p>
+<p>I’ve never owned a Fender before either, so this will be a first for me. I just need to get over the anxiety of <strong><a href="/jim-root-fender-jazzmaster-v4/" data-type="lasso-urls" data-id="4550" data-lasso-id="6899" rel="nofollow noopener" target="_blank" data-lasso-name="Fender Jim Root Jazzmaster">dropping over $1600+ on something</a></strong>, explain it to my better half, and then pull the trigger on this sick-sounding, beautifully crafted monster. I think I’ll get the white one too, it just looks so freakin’ cool.</p>
 
 
 

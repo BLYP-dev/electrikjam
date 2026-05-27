@@ -44,11 +44,11 @@ seo:
 
 
 
-<p>Eddie&#8217;s <a href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/" data-lasso-id="211">Marshall amps</a> worked great for what they were. But the mods that Eddie had done to them, had the amps&#8230;umm&#8230;<strong>exploding </strong>a lot. Seriously, they blew up and overheated all the time. That can be a problem in the middle of show.</p>
+<p>Eddie&#8217;s <a href="/the-best-guitar-amps-under-100-bucks/" data-lasso-id="211">Marshall amps</a> worked great for what they were. But the mods that Eddie had done to them, had the amps&#8230;umm&#8230;<strong>exploding </strong>a lot. Seriously, they blew up and overheated all the time. That can be a problem in the middle of show.</p>
 
 
 
-<p>And while you can <strong><a class="rank-math-link" href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-lasso-id="212">get ALL of these tones from software like BIAS FX 2</a></strong>, purists still love (and swear by) their hardware. </p>
+<p>And while you can <strong><a class="rank-math-link" href="/what-is-bias-fx-2-guide/" data-lasso-id="212">get ALL of these tones from software like BIAS FX 2</a></strong>, purists still love (and swear by) their hardware. </p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>No, but it is a very close representation of the Peavey. The difference is the Bugera is a <strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="213"><em>budget</em> amp</a></strong>. But don&#8217;t let the price fool you, it has some great updated features that rivals the 5150!</p>
+<p>No, but it is a very close representation of the Peavey. The difference is the Bugera is a <strong><a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="213"><em>budget</em> amp</a></strong>. But don&#8217;t let the price fool you, it has some great updated features that rivals the 5150!</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>The Peavey 5150 got it&#8217;s start in 1992 as the signature guitar amp for <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195343">Eddie Van Halen</a>. AS mentioned before, Eddie needed something more rugged that won&#8217;t <em>blow up</em>.</p>
+<p>The Peavey 5150 got it&#8217;s start in 1992 as the signature guitar amp for <a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195343">Eddie Van Halen</a>. AS mentioned before, Eddie needed something more rugged that won&#8217;t <em>blow up</em>.</p>
 
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<p>With modeling amps, and <a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" data-lasso-id="214">pedal processors</a>, the 5150 is the most popular sound they mimic. Modern metal still uses the peavey in the studio all the time.</p>
+<p>With modeling amps, and <a href="/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" data-lasso-id="214">pedal processors</a>, the 5150 is the most popular sound they mimic. Modern metal still uses the peavey in the studio all the time.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>The 5150 is an absolute monster of an amplifier. While most tube amps never go past 100 watts, the 5150 goes to <em>120</em> watts. That is a &#8220;Spinal Tap&#8221; amount of power! The amp has a matching cabinet usually loaded with <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4475">Vintage Celestion speakers</a>.</p>
+<p>The 5150 is an absolute monster of an amplifier. While most tube amps never go past 100 watts, the 5150 goes to <em>120</em> watts. That is a &#8220;Spinal Tap&#8221; amount of power! The amp has a matching cabinet usually loaded with <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4475">Vintage Celestion speakers</a>.</p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p><strong>Fixed Bias</strong>: What does this mean? What is a bias? Do I have to have an <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-lasso-id="62711">amp biased after every tube</a> change?</p>
+<p><strong>Fixed Bias</strong>: What does this mean? What is a bias? Do I have to have an <a href="/the-best-budget-tube-amps/" data-lasso-id="62711">amp biased after every tube</a> change?</p>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p>Bugera says that they want to take <a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5813">classic amps</a> and modernize them, with added features and updates. I can get behind that!</p>
+<p>Bugera says that they want to take <a href="/the-5-best-amps-for-doom-metal-in-2020/" data-lasso-id="5813">classic amps</a> and modernize them, with added features and updates. I can get behind that!</p>
 
 
 
@@ -276,7 +276,7 @@ seo:
 
 
 
-<p><strong>POINT: </strong><a href="https://www.electrikjam.com/the-peavey-5150-history/" data-lasso-id="104672">Peavey 5150</a></p>
+<p><strong>POINT: </strong><a href="/the-peavey-5150-history/" data-lasso-id="104672">Peavey 5150</a></p>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<p>The 5150 is well known for having a&#8230;lackluster clean tone. Many people use a <a href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="215">plethora of pedals</a> to make the clean channel a little more lively. I am not saying it sounds bad, but it doesn&#8217;t sound good either.</p>
+<p>The 5150 is well known for having a&#8230;lackluster clean tone. Many people use a <a href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="215">plethora of pedals</a> to make the clean channel a little more lively. I am not saying it sounds bad, but it doesn&#8217;t sound good either.</p>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<p>If you want pretty clean tones, go for a <a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36081">Fender or a Vox</a>.</p>
+<p>If you want pretty clean tones, go for a <a href="/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36081">Fender or a Vox</a>.</p>
 
 
 
@@ -404,7 +404,7 @@ seo:
 
 
 
-<p>I think both <a href="https://www.electrikjam.com/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="216">amps have their place</a> in the guitar world. I would feel better touring with the Peavey 5150 since it is road-tested and reliable. But in the studio, I think the Bugera can be a great option for someone wanting that classic tone.</p>
+<p>I think both <a href="/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="216">amps have their place</a> in the guitar world. I would feel better touring with the Peavey 5150 since it is road-tested and reliable. But in the studio, I think the Bugera can be a great option for someone wanting that classic tone.</p>
 
 
 

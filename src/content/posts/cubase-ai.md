@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>Cubase AI is a lightweight, more accessible version of the <strong><a data-lasso-id="241647" href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265">Cubase digital audio workstation (DAW)</a></strong> developed by Steinberg. Think of it as Cubase with training wheels whereby you can learn the ropes before progressing onto the full-fat version of Cubase. </p>
+<p>Cubase AI is a lightweight, more accessible version of the <strong><a data-lasso-id="241647" href="/what-is-cubase/" data-type="post" data-id="12265">Cubase digital audio workstation (DAW)</a></strong> developed by Steinberg. Think of it as Cubase with training wheels whereby you can learn the ropes before progressing onto the full-fat version of Cubase. </p>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>But don&#8217;t worry, if you reach that point, Steinberg has you covered. You can easily <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="243166">upgrade to the full version of Cubase</a></strong>, which offers a plethora of advanced features and unlimited audio tracks. This version is designed to cater to the needs of professional music producers and can help you take your music production to the next level.</p>
+<p>But don&#8217;t worry, if you reach that point, Steinberg has you covered. You can easily <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="243166">upgrade to the full version of Cubase</a></strong>, which offers a plethora of advanced features and unlimited audio tracks. This version is designed to cater to the needs of professional music producers and can help you take your music production to the next level.</p>
 
 
 

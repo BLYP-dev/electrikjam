@@ -56,7 +56,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/electrikjam-podcast/" data-type="page" data-id="14335" data-lasso-id="261147">Guest on The ELECTRIKJAM Podcast</a>:</strong>&nbsp;Share your knowledge, experience, and passion for music by joining us as a guest on our popular podcast. Reach thousands of listeners and establish yourself as an authority in the music world.</li>
+<li><strong><a href="/electrikjam-podcast/" data-type="page" data-id="14335" data-lasso-id="261147">Guest on The ELECTRIKJAM Podcast</a>:</strong>&nbsp;Share your knowledge, experience, and passion for music by joining us as a guest on our popular podcast. Reach thousands of listeners and establish yourself as an authority in the music world.</li>
 </ul>
 
 

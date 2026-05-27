@@ -76,7 +76,7 @@ seo:
 
 
 <div class="rank-math-contact-info show-name show-organization_description show-email show-address show-hours show-phone show-additional_info show-map"><div class="rank-math-contact-section rank-math-contact-name">		<h4 class="rank-math-name">
-			<a href="https://www.electrikjam.com">ELECTRIKJAM</a>
+			<a href="/">ELECTRIKJAM</a>
 		</h4>
 		</div><div class="rank-math-contact-section rank-math-contact-organization_description"></div><div class="rank-math-contact-section rank-math-contact-email">		<div class="rank-math-email">
 			<label>Email:</label>

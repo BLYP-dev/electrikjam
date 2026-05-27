@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>I have always thought that <strong><a href="https://www.electrikjam.com/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" target="_blank" data-type="post" data-id="1780" rel="noopener" data-lasso-id="27247">Blackstar</a> </strong>is an interesting and unique company. The company exists, because it is made up of ex-Marshall employees that had a different vision than what<strong> <a href="https://www.electrikjam.com/marshall-dsl-100w/" target="_blank" data-type="lasso-urls" data-id="4383" rel="nofollow noopener" data-lasso-id="27248" data-lasso-name="Marshall DSL100HR 100W">Marshall</a></strong> wanted to achieve. The biggest attraction to buying a Marshall amp, is the idea that it has barely changed design in the last 50 years. Buying a Marshall is like buying a piece of Rock N Roll history, and many famous players have used Marshall amps over the years. Marshall is iconic!</p>
+<p>I have always thought that <strong><a href="/blackstar-idcore-v3-first-look-amazing-features-and-next-level-tone/" target="_blank" data-type="post" data-id="1780" rel="noopener" data-lasso-id="27247">Blackstar</a> </strong>is an interesting and unique company. The company exists, because it is made up of ex-Marshall employees that had a different vision than what<strong> <a href="/marshall-dsl-100w/" target="_blank" data-type="lasso-urls" data-id="4383" rel="nofollow noopener" data-lasso-id="27248" data-lasso-name="Marshall DSL100HR 100W">Marshall</a></strong> wanted to achieve. The biggest attraction to buying a Marshall amp, is the idea that it has barely changed design in the last 50 years. Buying a Marshall is like buying a piece of Rock N Roll history, and many famous players have used Marshall amps over the years. Marshall is iconic!</p>
 
 
 
@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>I gigged with a<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" target="_blank" data-type="lasso-urls" data-id="5946" rel="nofollow sponsored noopener" data-lasso-id="27249" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center">Blackstar HT40</a></strong> for years, and I absolutely <em>loved</em> that amp. It could do Metal, Clean, or dirty Blues. It had so many unique tones in it that I never had a problem dialing in my sound on stage. I played small shows, and extremely large venues with it. It took pedals well, and I never had an issue with it in the years it travelled with me. Which is rare in the world of tube amps! I think I took for granted how reliable and effective my Blackstar was.</p>
+<p>I gigged with a<strong> <a href="/guitar-center-pxf-io-mxrezq/" target="_blank" data-type="lasso-urls" data-id="5946" rel="nofollow sponsored noopener" data-lasso-id="27249" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center">Blackstar HT40</a></strong> for years, and I absolutely <em>loved</em> that amp. It could do Metal, Clean, or dirty Blues. It had so many unique tones in it that I never had a problem dialing in my sound on stage. I played small shows, and extremely large venues with it. It took pedals well, and I never had an issue with it in the years it travelled with me. Which is rare in the world of tube amps! I think I took for granted how reliable and effective my Blackstar was.</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<p>The White Blackstar DEPT 10 acts as a clean boost, but with the power of two different tube-driven gain stages. This model does not have USB features, and is not programmable. But it is very cool all on it&#8217;s own, to have so much power and EQ at the tip of your fingers. This would be a great boost pedal for people that are tired of the usual overdrives in front of the amp (like a Tube Screamer, or Maxon OD). You can read more about the White drive <a href="https://blackstaramps.com/dept10/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="27250"><strong>here</strong></a>. I bet you could throw this in front of a<a href="https://www.electrikjam.com/peavey-5150-vs-bugera-626/" target="_blank" data-type="post" data-id="803" rel="noopener" data-lasso-id="27251"> <strong>5150</strong></a>, and make it <em>sing</em> with tube responsive greatness.</p>
+<p>The White Blackstar DEPT 10 acts as a clean boost, but with the power of two different tube-driven gain stages. This model does not have USB features, and is not programmable. But it is very cool all on it&#8217;s own, to have so much power and EQ at the tip of your fingers. This would be a great boost pedal for people that are tired of the usual overdrives in front of the amp (like a Tube Screamer, or Maxon OD). You can read more about the White drive <a href="https://blackstaramps.com/dept10/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="27250"><strong>here</strong></a>. I bet you could throw this in front of a<a href="/peavey-5150-vs-bugera-626/" target="_blank" data-type="post" data-id="803" rel="noopener" data-lasso-id="27251"> <strong>5150</strong></a>, and make it <em>sing</em> with tube responsive greatness.</p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<p>Both of these pedals are driven by a real tube, and the tone is there to back it up. Both units can also be used as a &#8220;backup amp&#8221; on your <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="27252"><strong>pedalboar</strong></a><strong><a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="27253">d</a> </strong>since they are running enough power to do so. This could be a life saver at a gig where your actual amp decides to die, or break down on you. It&#8217;s also pretty cool that Blackstar throws in the power cable for you. That is one less DC adapter that I need to buy! You can still run it on a 9V if that is what you prefer.</p>
+<p>Both of these pedals are driven by a real tube, and the tone is there to back it up. Both units can also be used as a &#8220;backup amp&#8221; on your <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="27252"><strong>pedalboar</strong></a><strong><a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" target="_blank" data-type="post" data-id="1087" rel="noopener" data-lasso-id="27253">d</a> </strong>since they are running enough power to do so. This could be a life saver at a gig where your actual amp decides to die, or break down on you. It&#8217;s also pretty cool that Blackstar throws in the power cable for you. That is one less DC adapter that I need to buy! You can still run it on a 9V if that is what you prefer.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>Blackstar is calling the DEPT 10 &#8220;The most advanced <a href="https://www.electrikjam.com/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183499">guitar pedal</a> ever created&#8221;. Is that a bit of a stretch? We are going to find out, but if it is not the most advanced it is certainly the <em>most versatile</em>. The DEPT 10 pedal can be used several different ways, and I got to try each one out yesterday. I plugged the Blackstar DEPT 10 directly into the clean channel of a<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-6bvzme/" target="_blank" data-type="lasso-urls" data-id="5954" rel="nofollow sponsored noopener" data-lasso-id="27254" data-lasso-name="Marshall DSL40CR 40W 1x12">Marshall DSL40</a></strong> and I kept it all pretty much at noon, EQ wise.</p>
+<p>Blackstar is calling the DEPT 10 &#8220;The most advanced <a href="/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183499">guitar pedal</a> ever created&#8221;. Is that a bit of a stretch? We are going to find out, but if it is not the most advanced it is certainly the <em>most versatile</em>. The DEPT 10 pedal can be used several different ways, and I got to try each one out yesterday. I plugged the Blackstar DEPT 10 directly into the clean channel of a<strong> <a href="/guitar-center-pxf-io-6bvzme/" target="_blank" data-type="lasso-urls" data-id="5954" rel="nofollow sponsored noopener" data-lasso-id="27254" data-lasso-name="Marshall DSL40CR 40W 1x12">Marshall DSL40</a></strong> and I kept it all pretty much at noon, EQ wise.</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<p>Running the Blackstar DEPT 10 straight into an amp sounds pretty damn amazing. You have two totally different gain sounds to flip back and forth through, along with your <em>actual amp&#8217;s</em> sounds. If you are a guitarist that shares rhythm and lead duties, this is an<em> ideal</em> setup. You can use the second channel as your over-the-top high gain solo sound, while keeping the first channel on the pedal a more subdued crunch&#8230; all while keeping your <em>amplifier</em> on a pristine clean channel. This gives you 3 totally unique sounds to work with, 3 impressive tube driven gain stages to use. As a <strong><a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" target="_blank" data-type="post" data-id="2938" rel="noopener" data-lasso-id="27255">distortion pedal</a>,</strong> this thing is a <em>10 out of 10</em>. <strong>5 stars across the board.</strong> Get someone you love on the phone<em> right now</em>, and tell them that the Blackstar DEPT 10 just hit a home run as a distortion pedal.</p>
+<p>Running the Blackstar DEPT 10 straight into an amp sounds pretty damn amazing. You have two totally different gain sounds to flip back and forth through, along with your <em>actual amp&#8217;s</em> sounds. If you are a guitarist that shares rhythm and lead duties, this is an<em> ideal</em> setup. You can use the second channel as your over-the-top high gain solo sound, while keeping the first channel on the pedal a more subdued crunch&#8230; all while keeping your <em>amplifier</em> on a pristine clean channel. This gives you 3 totally unique sounds to work with, 3 impressive tube driven gain stages to use. As a <strong><a href="/the-5-best-guitar-pedals-under-50-bucks/" target="_blank" data-type="post" data-id="2938" rel="noopener" data-lasso-id="27255">distortion pedal</a>,</strong> this thing is a <em>10 out of 10</em>. <strong>5 stars across the board.</strong> Get someone you love on the phone<em> right now</em>, and tell them that the Blackstar DEPT 10 just hit a home run as a distortion pedal.</p>
 
 
 
@@ -170,7 +170,7 @@ seo:
 
 
 
-<p>After playing with it back and forth for a while, I managed to dial in a good crunch tone on the first channel. The high gain channel however, I couldn&#8217;t get to sound great no matter what I did. Which is a bummer, because there are tons of <a href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="27256"><strong>amp sims</strong></a> that nail this feature. Recently, I even converted to using amp sims to record with <a href="https://www.electrikjam.com/stl-amphub-review/" target="_blank" data-type="post" data-id="5892" rel="noopener" data-lasso-id="27257"><strong>STL Tones</strong>.</a> I never thought in a million years that I would ditch my<strong> <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener" data-lasso-id="27258">Line 6 Helix</a></strong>, or my real amp for a sim, but I have! The software that the Blackstar DEPT 10 uses is very easy to use and intuitive, and it probably works great with the other product that it was designed for. But just not the DEPT 10, sadly.</p>
+<p>After playing with it back and forth for a while, I managed to dial in a good crunch tone on the first channel. The high gain channel however, I couldn&#8217;t get to sound great no matter what I did. Which is a bummer, because there are tons of <a href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener" data-lasso-id="27256"><strong>amp sims</strong></a> that nail this feature. Recently, I even converted to using amp sims to record with <a href="/stl-amphub-review/" target="_blank" data-type="post" data-id="5892" rel="noopener" data-lasso-id="27257"><strong>STL Tones</strong>.</a> I never thought in a million years that I would ditch my<strong> <a href="/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener" data-lasso-id="27258">Line 6 Helix</a></strong>, or my real amp for a sim, but I have! The software that the Blackstar DEPT 10 uses is very easy to use and intuitive, and it probably works great with the other product that it was designed for. But just not the DEPT 10, sadly.</p>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<p>So if you are looking for a super versatile high gain distortion pedal that is powered by a real tube, and sounds absolutely crushing, definitely get this! However, if you are looking for a recording solution, something like the <a href="https://www.electrikjam.com/harley-benton-dnafx-review/" target="_blank" data-type="post" data-id="5922" rel="noopener" data-lasso-id="27259"><strong>Harley Benton DNAfx might be a better option, and it&#8217;s cheaper too!</strong></a> I am a big Blackstar fanboy, and I wish I could say this pedal does everything it says, but the standards for digital processing are pretty high these days, and it fell too short to be considered great, to my ears.</p>
+<p>So if you are looking for a super versatile high gain distortion pedal that is powered by a real tube, and sounds absolutely crushing, definitely get this! However, if you are looking for a recording solution, something like the <a href="/harley-benton-dnafx-review/" target="_blank" data-type="post" data-id="5922" rel="noopener" data-lasso-id="27259"><strong>Harley Benton DNAfx might be a better option, and it&#8217;s cheaper too!</strong></a> I am a big Blackstar fanboy, and I wish I could say this pedal does everything it says, but the standards for digital processing are pretty high these days, and it fell too short to be considered great, to my ears.</p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

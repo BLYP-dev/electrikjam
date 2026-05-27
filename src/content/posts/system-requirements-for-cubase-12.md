@@ -41,7 +41,7 @@ seo:
 
 
 
-<p>New to Cubase? Check out our <strong><a href="https://www.electrikjam.com/cubase-versions-compared-elements-artist-pro/">ultimate guide to getting started with Cubase.</a></strong> </p>
+<p>New to Cubase? Check out our <strong><a href="/cubase-versions-compared-elements-artist-pro/">ultimate guide to getting started with Cubase.</a></strong> </p>
 
 
 

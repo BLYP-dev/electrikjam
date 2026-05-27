@@ -43,15 +43,15 @@ seo:
 
 
 
-<p>You also have plenty of different options within each range too, from pricier flagship models to <strong><a class="rank-math-link" href="https://www.electrikjam.com/what-are-chibson-guitars/" data-lasso-id="987">lower cost, budget-friendly guitars</a></strong> that are perfect for beginner players that are just getting started.</p>
+<p>You also have plenty of different options within each range too, from pricier flagship models to <strong><a class="rank-math-link" href="/what-are-chibson-guitars/" data-lasso-id="987">lower cost, budget-friendly guitars</a></strong> that are perfect for beginner players that are just getting started.</p>
 
 
 
-<p>And unlike <strong><a class="rank-math-link" href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="988">Gibson Custom and Standard models</a></strong>, Epiphone guitars are a HELL of a lot cheaper. </p>
+<p>And unlike <strong><a class="rank-math-link" href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="988">Gibson Custom and Standard models</a></strong>, Epiphone guitars are a HELL of a lot cheaper. </p>
 
 
 
-<p>This guide will take a <strong><a class="rank-math-link" href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-lasso-id="989">broad overview of the SG</a></strong> and Les Paul from Epiphone, focussing on how they&#8217;re different and why. At the end, we&#8217;ll list all the current models and how much they cost. </p>
+<p>This guide will take a <strong><a class="rank-math-link" href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-lasso-id="989">broad overview of the SG</a></strong> and Les Paul from Epiphone, focussing on how they&#8217;re different and why. At the end, we&#8217;ll list all the current models and how much they cost. </p>
 
 
 
@@ -67,11 +67,11 @@ seo:
 
 
 
-<p>We’ll cover the different models of <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="990">Epiphone Les Paul </a></strong>and <strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" class="rank-math-link" data-lasso-id="991">Epiphone SG</a></strong> at the end. </p>
+<p>We’ll cover the different models of <strong><a href="/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="990">Epiphone Les Paul </a></strong>and <strong><a href="/what-guitar-does-chino-moreno-play/" class="rank-math-link" data-lasso-id="991">Epiphone SG</a></strong> at the end. </p>
 
 
 
-<p>First, though, we need to cover off the basic <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="992">differences between these two styles of guitar</a> – <strong>things like how they’re designed, how they feel, and how they play.</strong></p>
+<p>First, though, we need to cover off the basic <a href="/types-of-guitars-guide/" data-lasso-id="992">differences between these two styles of guitar</a> – <strong>things like how they’re designed, how they feel, and how they play.</strong></p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-35 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="946" height="812" src="/wp-content/uploads/2021/03/epiphone-les-paul.png" alt="" data-id="2418" data-full-url="/wp-content/uploads/2021/03/epiphone-les-paul.png" data-link="https://www.electrikjam.com/?attachment_id=2418" class="wp-image-2418" title="" srcset="/wp-content/uploads/2021/03/epiphone-les-paul.png 946w, /wp-content/uploads/2021/03/epiphone-les-paul-600x515.png 600w, /wp-content/uploads/2021/03/epiphone-les-paul-300x258.png 300w, /wp-content/uploads/2021/03/epiphone-les-paul-768x659.png 768w" sizes="(max-width: 946px) 100vw, 946px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="936" height="868" src="/wp-content/uploads/2021/03/epiphone-sg.png" alt="" data-id="2419" data-full-url="/wp-content/uploads/2021/03/epiphone-sg.png" data-link="https://www.electrikjam.com/?attachment_id=2419" class="wp-image-2419" title="" srcset="/wp-content/uploads/2021/03/epiphone-sg.png 936w, /wp-content/uploads/2021/03/epiphone-sg-600x556.png 600w, /wp-content/uploads/2021/03/epiphone-sg-300x278.png 300w, /wp-content/uploads/2021/03/epiphone-sg-768x712.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure></li></ul><figcaption class="blocks-gallery-caption"><a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17469"><strong>Epiphone Les Paul</a> (Left), Epiphone SG (Right)</strong></figcaption></figure>
+<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-35 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="946" height="812" src="/wp-content/uploads/2021/03/epiphone-les-paul.png" alt="" data-id="2418" data-full-url="/wp-content/uploads/2021/03/epiphone-les-paul.png" data-link="https://www.electrikjam.com/?attachment_id=2418" class="wp-image-2418" title="" srcset="/wp-content/uploads/2021/03/epiphone-les-paul.png 946w, /wp-content/uploads/2021/03/epiphone-les-paul-600x515.png 600w, /wp-content/uploads/2021/03/epiphone-les-paul-300x258.png 300w, /wp-content/uploads/2021/03/epiphone-les-paul-768x659.png 768w" sizes="(max-width: 946px) 100vw, 946px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="936" height="868" src="/wp-content/uploads/2021/03/epiphone-sg.png" alt="" data-id="2419" data-full-url="/wp-content/uploads/2021/03/epiphone-sg.png" data-link="https://www.electrikjam.com/?attachment_id=2419" class="wp-image-2419" title="" srcset="/wp-content/uploads/2021/03/epiphone-sg.png 936w, /wp-content/uploads/2021/03/epiphone-sg-600x556.png 600w, /wp-content/uploads/2021/03/epiphone-sg-300x278.png 300w, /wp-content/uploads/2021/03/epiphone-sg-768x712.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure></li></ul><figcaption class="blocks-gallery-caption"><a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17469"><strong>Epiphone Les Paul</a> (Left), Epiphone SG (Right)</strong></figcaption></figure>
 
 
 
@@ -91,11 +91,11 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-lasso-id="2590">Epiphone SG</a></strong> is a slightly different beast. First produced in 1961, the SG hasn’t changed all that much since it first hit the market. With its iconic double cutaway and lighter and slimmer chassis, the SG is the perfect option for players looking for a lighter guitar.</p>
+<p>The <strong><a href="/epiphone-guitars/" data-lasso-id="2590">Epiphone SG</a></strong> is a slightly different beast. First produced in 1961, the SG hasn’t changed all that much since it first hit the market. With its iconic double cutaway and lighter and slimmer chassis, the SG is the perfect option for players looking for a lighter guitar.</p>
 
 
 
-<p>Both are solid body guitars, but the Epiphone SG is significantly lighter and slimmer than the Les Paul. On top of this, the SG’s neck joins the body at the 22nd fret, while the Les Paul –&nbsp;on most models –&nbsp;joins at the 16th. And if you’re wondering what <a href="https://en.wikipedia.org/wiki/Gibson_SG" class="rank-math-link" data-lasso-id="993" target="_blank" rel="noopener noreferrer nofollow"><strong>“SG” stands for it means “solid guitar”</strong></a> – this name was <strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="994">created by Gibson in the 1960s</a></strong>.</p>
+<p>Both are solid body guitars, but the Epiphone SG is significantly lighter and slimmer than the Les Paul. On top of this, the SG’s neck joins the body at the 22nd fret, while the Les Paul –&nbsp;on most models –&nbsp;joins at the 16th. And if you’re wondering what <a href="https://en.wikipedia.org/wiki/Gibson_SG" class="rank-math-link" data-lasso-id="993" target="_blank" rel="noopener noreferrer nofollow"><strong>“SG” stands for it means “solid guitar”</strong></a> – this name was <strong><a href="/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="994">created by Gibson in the 1960s</a></strong>.</p>
 
 
 
@@ -103,11 +103,11 @@ seo:
 
 
 
-<p>The SG was initially designed to better compete with Fender’s lighter and slimmer <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11261">Telecasters and Strats</a>. The Les Paul is a heavy guitar. And playing long shows with a heavy guitar can soon become irritating. In fact, this is the <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="238004">reason why Deftones’ Chino Moreno uses a Gibson</a> SG Standard.</p>
+<p>The SG was initially designed to better compete with Fender’s lighter and slimmer <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11261">Telecasters and Strats</a>. The Les Paul is a heavy guitar. And playing long shows with a heavy guitar can soon become irritating. In fact, this is the <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="238004">reason why Deftones’ Chino Moreno uses a Gibson</a> SG Standard.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="837" src="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" class="rank-math-link" data-lasso-id="995">Chino Moreno&#8217;s Gibson SG</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="837" src="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png" alt="" class="wp-image-939" title="" srcset="/wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1024x837.png 1024w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-600x491.png 600w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-300x245.png 300w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-768x628.png 768w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-1536x1256.png 1536w, /wp-content/uploads/2020/10/What-Guitar-Does-Chino-Moreno-Play-2048x1674.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="/what-guitar-does-chino-moreno-play/" class="rank-math-link" data-lasso-id="995">Chino Moreno&#8217;s Gibson SG</a></strong></figcaption></figure>
 
 
 
@@ -115,11 +115,11 @@ seo:
 
 
 
-<p>Visually, both Les Paul and the SG are iconic looking guitars. Even the greenest of new players can usually spot them. In this respect, if you’re looking for a classically good-looking guitar, you cannot go wrong with either the <a href="https://www.electrikjam.com/epiphone-sg-colors/" data-lasso-id="3501">Epiphone SG</a> or the Epiphone Les Paul. </p>
+<p>Visually, both Les Paul and the SG are iconic looking guitars. Even the greenest of new players can usually spot them. In this respect, if you’re looking for a classically good-looking guitar, you cannot go wrong with either the <a href="/epiphone-sg-colors/" data-lasso-id="3501">Epiphone SG</a> or the Epiphone Les Paul. </p>
 
 
 
-<p>And you also have a myriad of color options for both too –&nbsp;from traditional black and red models, to more modern finishes like those used of <strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="996">Epiphone’s new Prophecy range</a></strong>.</p>
+<p>And you also have a myriad of color options for both too –&nbsp;from traditional black and red models, to more modern finishes like those used of <strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" class="rank-math-link" data-lasso-id="996">Epiphone’s new Prophecy range</a></strong>.</p>
 
 
 
@@ -151,7 +151,7 @@ seo:
 
 
 
-<p>As you can see, <strong>the </strong><a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8790">Epiphone SG is significantly lighter than the Epiphone Les Paul</a> –&nbsp;by 3 pounds! Both the Les Paul and SG have the same number of frets (22), although <strong>the SG has a longer scale length</strong> (24.7in vs 21.9in).</p>
+<p>As you can see, <strong>the </strong><a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8790">Epiphone SG is significantly lighter than the Epiphone Les Paul</a> –&nbsp;by 3 pounds! Both the Les Paul and SG have the same number of frets (22), although <strong>the SG has a longer scale length</strong> (24.7in vs 21.9in).</p>
 
 
 
@@ -159,7 +159,7 @@ seo:
 
 
 
-<p>Both options come with <strong><a class="rank-math-link" href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="997">the fantastic &#8220;Probucker&#8221; series of pickups</a></strong>. These are based on the classic Gibson PAF Humbuckers. Both mid-range options of the Les Paul and SG come with this pickup set.</p>
+<p>Both options come with <strong><a class="rank-math-link" href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="997">the fantastic &#8220;Probucker&#8221; series of pickups</a></strong>. These are based on the classic Gibson PAF Humbuckers. Both mid-range options of the Les Paul and SG come with this pickup set.</p>
 
 
 
@@ -187,7 +187,7 @@ seo:
 
 
 
-<p>You can check out all the <strong><a href="https://www.electrikjam.com/epiphone-sg-colors/" data-type="post" data-id="4158" data-lasso-id="3506">Epiphone SG colors</a></strong> for a wider view of what&#8217;s currently available –&nbsp;there&#8217;s loads!</p>
+<p>You can check out all the <strong><a href="/epiphone-sg-colors/" data-type="post" data-id="4158" data-lasso-id="3506">Epiphone SG colors</a></strong> for a wider view of what&#8217;s currently available –&nbsp;there&#8217;s loads!</p>
 
 
 
@@ -203,11 +203,11 @@ seo:
 
 
 
-<p>Perhaps the most famous of all SG players, notably because he plays an Epiphone SG and not a Gibson model, is <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="998">Black Sabbath’s Tony Iommi</a></strong>. Iommi is basically responsible for <a href="https://www.electrikjam.com/pallbearer-gear-guitars-guide/" data-lasso-id="106801">modern metal, doom, sludge</a>, and all of rock musics best sub-genres.</p>
+<p>Perhaps the most famous of all SG players, notably because he plays an Epiphone SG and not a Gibson model, is <strong><a href="/doom-metal-beginners-guide/" class="rank-math-link" data-lasso-id="998">Black Sabbath’s Tony Iommi</a></strong>. Iommi is basically responsible for <a href="/pallbearer-gear-guitars-guide/" data-lasso-id="106801">modern metal, doom, sludge</a>, and all of rock musics best sub-genres.</p>
 
 
 
-<p>Iommi even has a signature Epiphone SG model and it is very well priced considering it is the model the man himself uses. <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Epiphone Tony Iommi Signature" href="https://www.electrikjam.com/recommends/epiphone-tony-iommi-signature/" data-shortcode="true">You can grab one for just shy of $700</a></strong> –&nbsp;and it is a killer guitar.</p>
+<p>Iommi even has a signature Epiphone SG model and it is very well priced considering it is the model the man himself uses. <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Epiphone Tony Iommi Signature" href="/recommends/epiphone-tony-iommi-signature/" data-shortcode="true">You can grab one for just shy of $700</a></strong> –&nbsp;and it is a killer guitar.</p>
 
 
 
@@ -227,11 +227,11 @@ seo:
 
 
 
-<p>The Les Paul, usually Gibson’s model, is synonymous with metal and rock music and always has been. You have the likes of <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="6941">Jimmy Page, Slash, Pete Townsend, and Billy Gibbons</a></strong> for big-name users, and <strong><a class="rank-math-link" data-lasso-id="999" href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/">players like Buzz Osborne</a></strong>, the guys from ISIS, Adam Jones of Tool, Buckethead, Matt Heafy, Randy Rhodes, and <strong><a href="https://www.electrikjam.com/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="6942">Zakk Wylde</a></strong> to name just a few.</p>
+<p>The Les Paul, usually Gibson’s model, is synonymous with metal and rock music and always has been. You have the likes of <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="6941">Jimmy Page, Slash, Pete Townsend, and Billy Gibbons</a></strong> for big-name users, and <strong><a class="rank-math-link" data-lasso-id="999" href="/buzz-osbornes-guitar-rig-35-years-of-evolution/">players like Buzz Osborne</a></strong>, the guys from ISIS, Adam Jones of Tool, Buckethead, Matt Heafy, Randy Rhodes, and <strong><a href="/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="6942">Zakk Wylde</a></strong> to name just a few.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="/wp-content/uploads/2020/12/king-buzzo.jpg" alt="" class="wp-image-1566" title="" srcset="/wp-content/uploads/2020/12/king-buzzo.jpg 1024w, /wp-content/uploads/2020/12/king-buzzo-600x403.jpg 600w, /wp-content/uploads/2020/12/king-buzzo-300x201.jpg 300w, /wp-content/uploads/2020/12/king-buzzo-768x515.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1000">Buzz Osbourne of Melvins</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="/wp-content/uploads/2020/12/king-buzzo.jpg" alt="" class="wp-image-1566" title="" srcset="/wp-content/uploads/2020/12/king-buzzo.jpg 1024w, /wp-content/uploads/2020/12/king-buzzo-600x403.jpg 600w, /wp-content/uploads/2020/12/king-buzzo-300x201.jpg 300w, /wp-content/uploads/2020/12/king-buzzo-768x515.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" class="rank-math-link" data-lasso-id="1000">Buzz Osbourne of Melvins</a></strong></figcaption></figure>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<p>Basically, the Les Paul has been as much of a mainstay in metal music as distortion pedals and minor pentatonic scales. If you collected <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5470">all the best metal guitarists ever</a> and put them in a room together, you’d not only be able to have one hell of a party, but a good two-thirds of them would probably have brought their Les Paul with them too.</p>
+<p>Basically, the Les Paul has been as much of a mainstay in metal music as distortion pedals and minor pentatonic scales. If you collected <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="5470">all the best metal guitarists ever</a> and put them in a room together, you’d not only be able to have one hell of a party, but a good two-thirds of them would probably have brought their Les Paul with them too.</p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/epiphone-sg-full-range/" data-lasso-id="1001">&gt; VIEW ALL MODELS / LATEST DEALS</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/epiphone-sg-full-range/" data-lasso-id="1001">&gt; VIEW ALL MODELS / LATEST DEALS</a></strong></p>
 
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/epiphone-les-paul-full-range/" data-lasso-id="1002">&gt; VIEW ALL MODELS / LATEST DEALS</a></strong></p>
+<p><strong><a class="rank-math-link" href="/recommends/epiphone-les-paul-full-range/" data-lasso-id="1002">&gt; VIEW ALL MODELS / LATEST DEALS</a></strong></p>
 
 
 
@@ -295,23 +295,23 @@ seo:
 
 
 
-<p>On the other hand, the Les Paul is absolutely iconic. Sure, it is heavy. The neck is not as smooth and fast as the SG. But the look and tone are a part of history that is hard to ignore. <a data-lasso-id="1003" href="https://www.electrikjam.com/how-to-hold-an-electric-guitar-properly-guide/">If you use a wide strap</a>, it will take some of the weight off for you when playing live. </p>
+<p>On the other hand, the Les Paul is absolutely iconic. Sure, it is heavy. The neck is not as smooth and fast as the SG. But the look and tone are a part of history that is hard to ignore. <a data-lasso-id="1003" href="/how-to-hold-an-electric-guitar-properly-guide/">If you use a wide strap</a>, it will take some of the weight off for you when playing live. </p>
 
 
 
-<p>Some models,<strong><span class="ugb-highlight" style="color: #9b51e0;"><a class="rank-math-link" data-lasso-id="1004" href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/"> </a></span><a class="rank-math-link" data-lasso-id="6943" href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/"><span class="ugb-highlight" style="color: #9b51e0;">like the Prophecy</span></a>,</strong> are chambered which means they&#8217;re quite a bit lighter than traditional Les Pauls. The Epiphone Les Paul Prophecy (and the SG model) also run <strong><a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="6944">Fishman Fluence pickups</a></strong> too, so they&#8217;re incredible for metal and hard rock. </p>
+<p>Some models,<strong><span class="ugb-highlight" style="color: #9b51e0;"><a class="rank-math-link" data-lasso-id="1004" href="/epiphone-prophecy-2020-price-release-date-specs/"> </a></span><a class="rank-math-link" data-lasso-id="6943" href="/epiphone-prophecy-2020-price-release-date-specs/"><span class="ugb-highlight" style="color: #9b51e0;">like the Prophecy</span></a>,</strong> are chambered which means they&#8217;re quite a bit lighter than traditional Les Pauls. The Epiphone Les Paul Prophecy (and the SG model) also run <strong><a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="6944">Fishman Fluence pickups</a></strong> too, so they&#8217;re incredible for metal and hard rock. </p>
 
 
 
-<p>I own both, personally, and if I could only keep one, at a push, I think it&#8217;d be the Epiphone SG and the reason is threefold: <strong>1) it&#8217;s lighter 2) it sounds brighter than the <a data-lasso-id="4654" href="https://www.electrikjam.com/best-les-paul-copy/">Les Paul</a>, and 3) it has a faster neck which for metal is kinda essential. </strong></p>
+<p>I own both, personally, and if I could only keep one, at a push, I think it&#8217;d be the Epiphone SG and the reason is threefold: <strong>1) it&#8217;s lighter 2) it sounds brighter than the <a data-lasso-id="4654" href="/best-les-paul-copy/">Les Paul</a>, and 3) it has a faster neck which for metal is kinda essential. </strong></p>
 
 
 
-<p>And <a class="rank-math-link" data-lasso-id="1006" href="https://www.electrikjam.com/recommends/epiphone-sg-custom/"><strong>this is the model I have</strong> </a>–&nbsp;it is absolutely brilliant and not expensive at all for what you get. </p>
+<p>And <a class="rank-math-link" data-lasso-id="1006" href="/recommends/epiphone-sg-custom/"><strong>this is the model I have</strong> </a>–&nbsp;it is absolutely brilliant and not expensive at all for what you get. </p>
 
 
 
-<p>If you want a Les Paul-style guitar, however, just with ultra-modern pickups designed for metal and a much lighter body, you really cannot go wrong with the <a href="https://www.electrikjam.com/is-an-epiphone-a-real-les-paul/" data-lasso-id="8471">Epiphone Les Paul</a> Prophecy – it&#8217;s a freakin&#8217; monster. </p>
+<p>If you want a Les Paul-style guitar, however, just with ultra-modern pickups designed for metal and a much lighter body, you really cannot go wrong with the <a href="/is-an-epiphone-a-real-les-paul/" data-lasso-id="8471">Epiphone Les Paul</a> Prophecy – it&#8217;s a freakin&#8217; monster. </p>
 
 
 
@@ -333,7 +333,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
 </div></div>
 
 

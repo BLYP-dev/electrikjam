@@ -155,7 +155,7 @@ seo:
 
 
 
-<p>The Line 6 POD Express is the newest unit to utilize the Helix technology, after <strong><a href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" data-lasso-id="263265">products like the HX Stomp</a></strong>, and many variants of the Stomp series. But it also borrows heavily from the past.</p>
+<p>The Line 6 POD Express is the newest unit to utilize the Helix technology, after <strong><a href="/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" data-lasso-id="263265">products like the HX Stomp</a></strong>, and many variants of the Stomp series. But it also borrows heavily from the past.</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>But the Line 6 Helix was the real star, and it could <strong><a href="https://www.electrikjam.com/axe-fx-beginners-guide/" data-type="post" data-id="14260" data-lasso-id="263267">contend with AxeFX</a></strong> and Kemper with the amp modeling quality and IR options. Many guitarists <strong><a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" data-lasso-id="263268">swear by the Helix</a></strong>, and I became an evangelist for the floorboard model.</p>
+<p>But the Line 6 Helix was the real star, and it could <strong><a href="/axe-fx-beginners-guide/" data-type="post" data-id="14260" data-lasso-id="263267">contend with AxeFX</a></strong> and Kemper with the amp modeling quality and IR options. Many guitarists <strong><a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" data-lasso-id="263268">swear by the Helix</a></strong>, and I became an evangelist for the floorboard model.</p>
 
 
 
@@ -329,7 +329,7 @@ seo:
 
 
 
-<p>The headphone feature is really cool, but it really doesn&#8217;t compare to the <strong><a href="https://www.electrikjam.com/boss-katana-go-review/" data-type="post" data-id="14471" data-lasso-id="263270">new Katana GO that I recently reviewed</a></strong>. The POD Express is bulky and you still need a cable, making it a little less portable.</p>
+<p>The headphone feature is really cool, but it really doesn&#8217;t compare to the <strong><a href="/boss-katana-go-review/" data-type="post" data-id="14471" data-lasso-id="263270">new Katana GO that I recently reviewed</a></strong>. The POD Express is bulky and you still need a cable, making it a little less portable.</p>
 
 
 
@@ -401,7 +401,7 @@ seo:
 
 
 
-<p>Finally, the tuner mode is easy to read and see, but it does act a little wonky with lower tunings. I had issues<strong><a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="263290"> with B Standard and Drop C</a></strong> tunings, as the pedal just did not want to read the lower notes properly.</p>
+<p>Finally, the tuner mode is easy to read and see, but it does act a little wonky with lower tunings. I had issues<strong><a href="/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="263290"> with B Standard and Drop C</a></strong> tunings, as the pedal just did not want to read the lower notes properly.</p>
 
 
 
@@ -429,7 +429,7 @@ seo:
 
 
 
-<p>On the other hand, if you want to start recording your own guitar ideas at home, this can easily be your starter rig. The low price allows just about anyone to get one of these! All you <strong><a href="https://www.electrikjam.com/" data-type="page" data-id="13959" data-lasso-id="263277">need is a DAW </a></strong>of your choice.</p>
+<p>On the other hand, if you want to start recording your own guitar ideas at home, this can easily be your starter rig. The low price allows just about anyone to get one of these! All you <strong><a href="/" data-type="page" data-id="13959" data-lasso-id="263277">need is a DAW </a></strong>of your choice.</p>
 
 
 
@@ -445,7 +445,7 @@ seo:
 
 
 
-<p>Kudos, Line 6, for looking at the past&#8230; for ideas here in the future. I think the first batch of these will go fast, and the POD Express might be the most-important product of the year <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" data-lasso-id="263291">for budget guitarists</a></strong>.</p>
+<p>Kudos, Line 6, for looking at the past&#8230; for ideas here in the future. I think the first batch of these will go fast, and the POD Express might be the most-important product of the year <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" data-lasso-id="263291">for budget guitarists</a></strong>.</p>
 
 
 

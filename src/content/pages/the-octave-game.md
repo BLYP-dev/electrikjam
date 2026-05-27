@@ -174,7 +174,7 @@ seo:
 
 
 
-<p><strong>More Science:</strong> <strong>If it aint working, don’t try to force it. </strong>Every guitarist has bad days. I know I have bum days, and I am sure<strong> <a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-type="post" data-id="7288" data-lasso-id="268965">James Hetfield</a></strong> and <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" data-lasso-id="268966">Matt Heafy</a> do too! Some days your brain just doesn&#8217;t want to work with your fingers. That’s ok, take a day off. Or, you can come back later after a break on and try again. </p>
+<p><strong>More Science:</strong> <strong>If it aint working, don’t try to force it. </strong>Every guitarist has bad days. I know I have bum days, and I am sure<strong> <a href="/the-guitar-james-hetfield-could-not-live-without/" data-type="post" data-id="7288" data-lasso-id="268965">James Hetfield</a></strong> and <a href="/epiphone-matt-heafy-origins-review/" data-type="post" data-id="8323" data-lasso-id="268966">Matt Heafy</a> do too! Some days your brain just doesn&#8217;t want to work with your fingers. That’s ok, take a day off. Or, you can come back later after a break on and try again. </p>
 
 
 

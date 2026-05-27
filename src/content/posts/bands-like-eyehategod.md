@@ -149,7 +149,7 @@ seo:
 
 
 
-<p>In exploring the diverse landscape of sludge metal, <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="259096">one cannot ignore the impact of Melvins</a></strong>. Their slow, sludgy style set the groundwork for what the genre would become. </p>
+<p>In exploring the diverse landscape of sludge metal, <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="259096">one cannot ignore the impact of Melvins</a></strong>. Their slow, sludgy style set the groundwork for what the genre would become. </p>
 
 
 
@@ -309,7 +309,7 @@ seo:
 
 
 
-<p>Embracing the heaviness of Black Sabbath, <strong><a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-type="post" data-id="2815" data-lasso-id="259097">Sleep stands as a pillar within the doom metal community</a></strong> for their hypnotic rhythms and meditative lyrics. They&#8217;ve carved out their niche with the legendary album &#8220;Dopesmoker&#8221;, a single-track opus revered for its <strong>one-hour journey through slow-burning riffs</strong>.</p>
+<p>Embracing the heaviness of Black Sabbath, <strong><a href="/matt-pike-dopesmoker-sleep/" data-type="post" data-id="2815" data-lasso-id="259097">Sleep stands as a pillar within the doom metal community</a></strong> for their hypnotic rhythms and meditative lyrics. They&#8217;ve carved out their niche with the legendary album &#8220;Dopesmoker&#8221;, a single-track opus revered for its <strong>one-hour journey through slow-burning riffs</strong>.</p>
 
 
 

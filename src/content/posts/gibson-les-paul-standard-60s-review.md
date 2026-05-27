@@ -391,7 +391,7 @@ seo:
 
 
 
-<p>Also, if you need modern coil-splitting and phase switches, look toward the more versatile, slightly cheaper Les Paul Classic or something from <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880">Epiphone (we love its Gibson Inspired Les Paul)</a></strong></p>
+<p>Also, if you need modern coil-splitting and phase switches, look toward the more versatile, slightly cheaper Les Paul Classic or something from <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880">Epiphone (we love its Gibson Inspired Les Paul)</a></strong></p>
 
 
 

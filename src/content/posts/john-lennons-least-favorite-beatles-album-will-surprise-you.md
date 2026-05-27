@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>During the band’s all-too short career, <strong><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="135449">there were a selection of albums released</a></strong>, a film, and plenty of EPs and B-Sides. Fronted by Paul McCartney and John Lennon, the Beatles quickly took on an other-worldly status that has yet to be surpassed. They were –&nbsp;and continue to be –&nbsp;one of the biggest bands in the world. And that’s no mean feat when you consider that Paul McCartney is now 80 and the Beatles split before he turned 30.</p>
+<p>During the band’s all-too short career, <strong><a href="/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="135449">there were a selection of albums released</a></strong>, a film, and plenty of EPs and B-Sides. Fronted by Paul McCartney and John Lennon, the Beatles quickly took on an other-worldly status that has yet to be surpassed. They were –&nbsp;and continue to be –&nbsp;one of the biggest bands in the world. And that’s no mean feat when you consider that Paul McCartney is now 80 and the Beatles split before he turned 30.</p>
 
 
 
@@ -87,7 +87,7 @@ seo:
 
 
 
-<p>It was also during the writing and recording of Sgt Pepper’s Lonely Hearts Club Band that tensions between <strong><a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="135450">Lennon and McCartney</a></strong> really started to grow. Similarly, Lennon confirmed that Paul never really liked The White Album because it was mainly driven by the band members working autonomously, insinuating that Paul only liked the albums he had more control over like Sgt Pepper’s Lonely Hearts Club Band.</p>
+<p>It was also during the writing and recording of Sgt Pepper’s Lonely Hearts Club Band that tensions between <strong><a href="/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="135450">Lennon and McCartney</a></strong> really started to grow. Similarly, Lennon confirmed that Paul never really liked The White Album because it was mainly driven by the band members working autonomously, insinuating that Paul only liked the albums he had more control over like Sgt Pepper’s Lonely Hearts Club Band.</p>
 
 
 
@@ -95,5 +95,5 @@ seo:
 
 
 
-<p>It’s interesting to see which albums each member of the Beatles thought were best. Fans always debate this issue, some claim Abbey Road is the best, and others love Revolver. Me? I’m a big fan of Revolver, for instance, and Abbey Road but <strong><a href="https://www.electrikjam.com/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="135451">I do love all of the Beatles&#8217; albums</a></strong>. I do tend to listen more to their post-1965 albums, however, as I feel these albums are just more interesting and experimental.</p>
+<p>It’s interesting to see which albums each member of the Beatles thought were best. Fans always debate this issue, some claim Abbey Road is the best, and others love Revolver. Me? I’m a big fan of Revolver, for instance, and Abbey Road but <strong><a href="/beatles-albums-in-order/" data-type="post" data-id="8378" data-lasso-id="135451">I do love all of the Beatles&#8217; albums</a></strong>. I do tend to listen more to their post-1965 albums, however, as I feel these albums are just more interesting and experimental.</p>
 

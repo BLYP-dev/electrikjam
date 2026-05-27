@@ -230,9 +230,15 @@ function localizeBodyMedia(html) {
     .replace(/http:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, replacement);
 }
 
+function localizeBodyLinks(html) {
+  return html
+    .replace(/(href=["'])https?:\/\/www\.electrikjam\.com(?=\/)/gi, '$1')
+    .replace(/(href=["'])https?:\/\/electrikjam\.com(?=\/)/gi, '$1');
+}
+
 function sanitizeImportedHtml(html) {
   return stripStyledComparisonBlocks(
-    stripPluginButtonBlocks(stripPluginTocBlocks(stripInjectedVerdictBlocks(localizeBodyMedia(html))))
+    stripPluginButtonBlocks(stripPluginTocBlocks(stripInjectedVerdictBlocks(localizeBodyLinks(localizeBodyMedia(html)))))
   );
 }
 

@@ -266,7 +266,7 @@ seo:
 
 
 
-<p>This is not the first time <strong><a data-lasso-id="218890" href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" target="_blank" rel="noopener">we have talked about the HeadRush speaker before</a></strong>, and it continues to surprise us with the raw power and amplification that it provides. </p>
+<p>This is not the first time <strong><a data-lasso-id="218890" href="/best-frfr-guitar-speaker-under-300/" data-type="post" data-id="6902" target="_blank" rel="noopener">we have talked about the HeadRush speaker before</a></strong>, and it continues to surprise us with the raw power and amplification that it provides. </p>
 
 
 
@@ -357,15 +357,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong>The Kemper</strong> is great for players that need high-fidelity sounds. It has built-in impulse responses that your modeler may not feature, and this can only add to your arsenal of tone. The Celestion speaker sounds the most organic out of the 3 options. And it is <strong><a href="https://www.electrikjam.com/kemper-kabinet-frfr-speaker/" data-type="lasso-urls" data-id="4228" rel="nofollow noopener" target="_blank" data-lasso-id="218916" data-lasso-name="Kemper Kabinet">cheaper than the Line 6</a></strong>. </li>
+<li><strong>The Kemper</strong> is great for players that need high-fidelity sounds. It has built-in impulse responses that your modeler may not feature, and this can only add to your arsenal of tone. The Celestion speaker sounds the most organic out of the 3 options. And it is <strong><a href="/kemper-kabinet-frfr-speaker/" data-type="lasso-urls" data-id="4228" rel="nofollow noopener" target="_blank" data-lasso-id="218916" data-lasso-name="Kemper Kabinet">cheaper than the Line 6</a></strong>. </li>
 
 
 
-<li><strong>The Line 6 Powercab Plus</strong> is a no-brainer for anyone that is currently using a Line 6 modeler. The L6 LINK control allows you to save settings directly from your Helix through midi. However, the speaker sounds great with every modeler we have tested it with, so it has the most versatility. If you can afford the extra cash, <strong><a href="https://www.electrikjam.com/line6-powercab-112-plus/" data-type="lasso-urls" data-id="4230" rel="nofollow noopener" target="_blank" data-lasso-id="218917" data-lasso-name="Line 6 Powercab 112 Plus">this is the one to get.</a></strong> </li>
+<li><strong>The Line 6 Powercab Plus</strong> is a no-brainer for anyone that is currently using a Line 6 modeler. The L6 LINK control allows you to save settings directly from your Helix through midi. However, the speaker sounds great with every modeler we have tested it with, so it has the most versatility. If you can afford the extra cash, <strong><a href="/line6-powercab-112-plus/" data-type="lasso-urls" data-id="4230" rel="nofollow noopener" target="_blank" data-lasso-id="218917" data-lasso-name="Line 6 Powercab 112 Plus">this is the one to get.</a></strong> </li>
 
 
 
-<li><strong>The HeadRush FRFR-112</strong> is the &#8220;all-around&#8221; best FRFR speaker. You can do almost anything with the 2000-watt power limit, and the HeadRush is a <strong><a href="https://www.electrikjam.com/headrush-frfr-112-link/" data-type="lasso-urls" data-id="4232" rel="nofollow noopener" target="_blank" data-lasso-id="218918" data-lasso-name="Headrush FRFR-112">great budget option</a> </strong>for people who want to buy two speakers for stereo applications, without breaking the bank.</li>
+<li><strong>The HeadRush FRFR-112</strong> is the &#8220;all-around&#8221; best FRFR speaker. You can do almost anything with the 2000-watt power limit, and the HeadRush is a <strong><a href="/headrush-frfr-112-link/" data-type="lasso-urls" data-id="4232" rel="nofollow noopener" target="_blank" data-lasso-id="218918" data-lasso-name="Headrush FRFR-112">great budget option</a> </strong>for people who want to buy two speakers for stereo applications, without breaking the bank.</li>
 </ul>
 
 

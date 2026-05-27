@@ -66,7 +66,7 @@ seo:
 
 
 
-<p>The thing about Electrikjam, is we do not get upfront payment. I have said some negative things about <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247825">Schecter Guitars</a> in reviews&#8230; and I play Schecter exclusively! <strong>Integrity is everything in business, so if there are flaws,</strong> <strong>I point them out</strong>.</p>
+<p>The thing about Electrikjam, is we do not get upfront payment. I have said some negative things about <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247825">Schecter Guitars</a> in reviews&#8230; and I play Schecter exclusively! <strong>Integrity is everything in business, so if there are flaws,</strong> <strong>I point them out</strong>.</p>
 
 
 
@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>I LOVE reviewing budget guitars and basses, because you can get a lot for your money these days. However, I am also very realistic when it comes to <strong><a data-lasso-id="219078" href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener">budget gear</a></strong>. I know a $200 guitar will not play like my Custom Shop guitars without a lot of work.</p>
+<p>I LOVE reviewing budget guitars and basses, because you can get a lot for your money these days. However, I am also very realistic when it comes to <strong><a data-lasso-id="219078" href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener">budget gear</a></strong>. I know a $200 guitar will not play like my Custom Shop guitars without a lot of work.</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p>The specs are going to be very familiar to anyone that plays guitar already. This is a pretty typical Strat-style guitar, and the specs really reflect that iconic design. There is a reason that <strong><a href="https://www.electrikjam.com/electric-guitar-types-and-genres/" target="_blank" data-type="post" data-id="8114" rel="noopener" data-lasso-id="219708">this guitar type </a></strong>has been popular for so long!</p>
+<p>The specs are going to be very familiar to anyone that plays guitar already. This is a pretty typical Strat-style guitar, and the specs really reflect that iconic design. There is a reason that <strong><a href="/electric-guitar-types-and-genres/" target="_blank" data-type="post" data-id="8114" rel="noopener" data-lasso-id="219708">this guitar type </a></strong>has been popular for so long!</p>
 
 
 
@@ -406,7 +406,7 @@ seo:
 
 
 
-<p>The bridge was setup for &#8220;dive only&#8221; which is a good thing for beginners. This means the tuning will be more stable, and later down the road maybe you can set it up to float if you want. Beginners <strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="219709">and floating bridges </a></strong>absolutely do NOT mix.</p>
+<p>The bridge was setup for &#8220;dive only&#8221; which is a good thing for beginners. This means the tuning will be more stable, and later down the road maybe you can set it up to float if you want. Beginners <strong><a href="/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="219709">and floating bridges </a></strong>absolutely do NOT mix.</p>
 
 
 
@@ -548,7 +548,7 @@ seo:
 
 
 
-<p>The pickups are very low output, and &#8220;vintage voiced&#8221; to my ears. I used <strong><a data-lasso-id="219079" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener">my BOSS Katana 100 amplifier</a></strong> for most of the playing since that is also a budget piece of gear. Again, I was very surprised by the tones I was able to get out of this Glarry GST electric guitar!</p>
+<p>The pickups are very low output, and &#8220;vintage voiced&#8221; to my ears. I used <strong><a data-lasso-id="219079" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener">my BOSS Katana 100 amplifier</a></strong> for most of the playing since that is also a budget piece of gear. Again, I was very surprised by the tones I was able to get out of this Glarry GST electric guitar!</p>
 
 
 

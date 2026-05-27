@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>And here&#8217;s all <strong><a href="https://www.electrikjam.com/artist-gear-guides/adam-jones/" data-type="artist-gear-guides" data-id="17390">the gear Adam Jones uses to craft his guitar tone.</a></strong> </p>
+<p>And here&#8217;s all <strong><a href="/artist-gear-guides/adam-jones/" data-type="artist-gear-guides" data-id="17390">the gear Adam Jones uses to craft his guitar tone.</a></strong> </p>
 
 
 
@@ -188,7 +188,7 @@ https://www.youtube.com/watch?v=Xqjify__PWw
 
 
 
-<p>But as the band that is largely responsible for not only i<strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="262224">nventing doom metal </a></strong>but also many of the biggest metal bands we know and love today, bands like Metallica, for instance, it stands to reason that they&#8217;d have a massive pile of cash. </p>
+<p>But as the band that is largely responsible for not only i<strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="262224">nventing doom metal </a></strong>but also many of the biggest metal bands we know and love today, bands like Metallica, for instance, it stands to reason that they&#8217;d have a massive pile of cash. </p>
 
 
 
@@ -288,7 +288,7 @@ https://www.youtube.com/watch?v=Xqjify__PWw
 
 
 
-<p><strong><a href="https://www.electrikjam.com/best-slayer-albums/" data-type="post" data-id="14290" data-lasso-id="262225">Slayer</a></strong>, known for their thrash metal style and a net worth over $45 million, disbanded in 2018 but left behind a legacy of over 5 million album sales in the U.S. alone. </p>
+<p><strong><a href="/best-slayer-albums/" data-type="post" data-id="14290" data-lasso-id="262225">Slayer</a></strong>, known for their thrash metal style and a net worth over $45 million, disbanded in 2018 but left behind a legacy of over 5 million album sales in the U.S. alone. </p>
 
 
 
@@ -298,7 +298,7 @@ https://www.youtube.com/watch?v=Xqjify__PWw
 
 
 
-<p>Their final world tour contributed to their wealth, grossing around $10 million, highlighting the band&#8217;s enduring appeal. But as it turned out, this wasn&#8217;t Slayer&#8217;s final hurrah. Nope, the <strong><a href="https://www.electrikjam.com/slayer-new-shows/" data-type="post" data-id="14285" data-lasso-id="262226">Slayer has now confirmed a string of new shows</a></strong> for 2024. </p>
+<p>Their final world tour contributed to their wealth, grossing around $10 million, highlighting the band&#8217;s enduring appeal. But as it turned out, this wasn&#8217;t Slayer&#8217;s final hurrah. Nope, the <strong><a href="/slayer-new-shows/" data-type="post" data-id="14285" data-lasso-id="262226">Slayer has now confirmed a string of new shows</a></strong> for 2024. </p>
 
 
 
@@ -422,11 +422,11 @@ https://www.youtube.com/watch?v=Xqjify__PWw
 
 
 
-<p>As the front man and sole proprietor of <strong><a href="https://www.electrikjam.com/best-ghost-album/" data-type="post" data-id="7312" data-lasso-id="262227">the immensely popular band Ghost</a></strong>, Forge’s net worth is estimated by multiple sources to be anywhere between $5 million to $10 million dollars.</p>
+<p>As the front man and sole proprietor of <strong><a href="/best-ghost-album/" data-type="post" data-id="7312" data-lasso-id="262227">the immensely popular band Ghost</a></strong>, Forge’s net worth is estimated by multiple sources to be anywhere between $5 million to $10 million dollars.</p>
 
 
 
-<p>But <strong><a href="https://www.electrikjam.com/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="262228">Ghost are not your normal kind of band</a></strong>, they&#8217;ve managed to do things most modern bands can only dream of –&nbsp;and that in itself is very impressive. </p>
+<p>But <strong><a href="/13-ghost-the-band-facts-you-probably-didnt-know/" data-type="post" data-id="5396" data-lasso-id="262228">Ghost are not your normal kind of band</a></strong>, they&#8217;ve managed to do things most modern bands can only dream of –&nbsp;and that in itself is very impressive. </p>
 
 
 

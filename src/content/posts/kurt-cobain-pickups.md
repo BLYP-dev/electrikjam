@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>The SG was the outlier. Most people think of Fender when they think of Kurt and/or Nirvana. The most famous of all of Kurt’s guitars, however, was <strong><a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="106916">the Fender Mustang</a></strong>. He used this guitar A LOT, just not for the reasons you’d imagine.</p>
+<p>The SG was the outlier. Most people think of Fender when they think of Kurt and/or Nirvana. The most famous of all of Kurt’s guitars, however, was <strong><a href="/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="106916">the Fender Mustang</a></strong>. He used this guitar A LOT, just not for the reasons you’d imagine.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>But while <a href="https://www.electrikjam.com/who-plays-fender-jazzmaster/" data-lasso-id="252795">Kurt liked to play Fender guitars</a>, he was never happy with the way Fender’s pickups sounded. Rather than going with a more aggressive-sounding guitar from ESP, Ibanez, or even Gibson, Kurt did what he was famous for –&nbsp;<strong><em>he modded the crap out of his Fender guitars</em></strong>, adding in new pickups and new locking tuners.</p>
+<p>But while <a href="/who-plays-fender-jazzmaster/" data-lasso-id="252795">Kurt liked to play Fender guitars</a>, he was never happy with the way Fender’s pickups sounded. Rather than going with a more aggressive-sounding guitar from ESP, Ibanez, or even Gibson, Kurt did what he was famous for –&nbsp;<strong><em>he modded the crap out of his Fender guitars</em></strong>, adding in new pickups and new locking tuners.</p>
 
 
 
@@ -63,11 +63,11 @@ seo:
 
 
 
-<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/kurt-cobain-pickups-1024x683.png" alt="kurt cobain pickups" class="wp-image-7947" title="" srcset="/wp-content/uploads/2022/04/kurt-cobain-pickups-1024x683.png 1024w, /wp-content/uploads/2022/04/kurt-cobain-pickups-600x400.png 600w, /wp-content/uploads/2022/04/kurt-cobain-pickups-300x200.png 300w, /wp-content/uploads/2022/04/kurt-cobain-pickups-768x512.png 768w, /wp-content/uploads/2022/04/kurt-cobain-pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong> <a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="106917">Kurt Cobain used “crappy” Fender guitars</a> that he could afford to buy, scant pedals and effects, and a completely unreliable guitar rig when playing live. His sound, largely speaking, was created by his actual playing which was incredibly aggressive</strong></figcaption></figure></div>
+<div class="wp-block-image size-large"><figure class="aligncenter"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/04/kurt-cobain-pickups-1024x683.png" alt="kurt cobain pickups" class="wp-image-7947" title="" srcset="/wp-content/uploads/2022/04/kurt-cobain-pickups-1024x683.png 1024w, /wp-content/uploads/2022/04/kurt-cobain-pickups-600x400.png 600w, /wp-content/uploads/2022/04/kurt-cobain-pickups-300x200.png 300w, /wp-content/uploads/2022/04/kurt-cobain-pickups-768x512.png 768w, /wp-content/uploads/2022/04/kurt-cobain-pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong> <a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="106917">Kurt Cobain used “crappy” Fender guitars</a> that he could afford to buy, scant pedals and effects, and a completely unreliable guitar rig when playing live. His sound, largely speaking, was created by his actual playing which was incredibly aggressive</strong></figcaption></figure></div>
 
 
 
-<p>Cobain added <strong><a href="https://www.electrikjam.com/sd-hot-rails-pickup/" data-type="lasso-urls" data-id="7074" data-lasso-id="106918" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Seymour Duncan Hot Rails Pickup">Seymour Duncan’s Hot Rails</a> </strong>or <strong><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" data-lasso-id="106919">JB pickups</a></strong> to his array of Fender guitars. He had them installed in all of the guitars he used lived and the ones he used to record albums with –&nbsp;including <strong>Nevermind</strong> and <strong>Heart Shaped Box</strong>. These pickups, of course, are humbucking pickups, not the single-coil pickups that come with most Fender guitars, and they helped Cobain develop his heavier <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149204">guitar tone</a>.</p>
+<p>Cobain added <strong><a href="/sd-hot-rails-pickup/" data-type="lasso-urls" data-id="7074" data-lasso-id="106918" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Seymour Duncan Hot Rails Pickup">Seymour Duncan’s Hot Rails</a> </strong>or <strong><a href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" data-lasso-id="106919">JB pickups</a></strong> to his array of Fender guitars. He had them installed in all of the guitars he used lived and the ones he used to record albums with –&nbsp;including <strong>Nevermind</strong> and <strong>Heart Shaped Box</strong>. These pickups, of course, are humbucking pickups, not the single-coil pickups that come with most Fender guitars, and they helped Cobain develop his heavier <a href="/guitar-amp-controls-explained/" data-lasso-id="149204">guitar tone</a>.</p>
 
 
 
@@ -83,17 +83,17 @@ seo:
 
 
 
-<p><strong>As for pedals, Cobain ran a pretty spartan setup, as you’d imagine. If you check out any pictures of Nirvana playing live, or videos, you’ll see that Cobain used a <a href="https://www.electrikjam.com/recommends/boss-ds-1/" data-lasso-id="106921">BOSS DS-1</a> and DS-2 distortion pedals and a 1970s <a href="https://www.electrikjam.com/recommends/electro-harmonix-small-clone-chorus/" data-lasso-id="106922">Electro Harmonix Small Clone chorus pedal</a>. This latter pedal is what creates the wobbly sound in the intro to Come As You Are.</strong></p>
+<p><strong>As for pedals, Cobain ran a pretty spartan setup, as you’d imagine. If you check out any pictures of Nirvana playing live, or videos, you’ll see that Cobain used a <a href="/recommends/boss-ds-1/" data-lasso-id="106921">BOSS DS-1</a> and DS-2 distortion pedals and a 1970s <a href="/recommends/electro-harmonix-small-clone-chorus/" data-lasso-id="106922">Electro Harmonix Small Clone chorus pedal</a>. This latter pedal is what creates the wobbly sound in the intro to Come As You Are.</strong></p>
 
 
 
-<p>With amps, Cobain used a Mesa Boogie preamp and separate <a href="https://www.electrikjam.com/what-are-power-amp-pedals-explained/" data-lasso-id="200815">power amps</a> which, according to the band’s road crew, were about as reliable as a chocolate radiator. It caused an untold amount of headaches for the band while touring, but Kurt was pretty happy with his setup –&nbsp;the guy was definitely not a gearhead.</p>
+<p>With amps, Cobain used a Mesa Boogie preamp and separate <a href="/what-are-power-amp-pedals-explained/" data-lasso-id="200815">power amps</a> which, according to the band’s road crew, were about as reliable as a chocolate radiator. It caused an untold amount of headaches for the band while touring, but Kurt was pretty happy with his setup –&nbsp;the guy was definitely not a gearhead.</p>
 
 
 
-<p>So, to recap, <strong><a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="106923">Kurt Cobain used “crappy” Fender guitars</a></strong> that he could afford to buy, scant pedals and effects, and a completely unreliable guitar rig when playing live. His sound, largely speaking, was created by his actual playing which was incredibly aggressive. He was not a fan of finesse when it came to the guitar, he didn’t indulge in technical playing, and his focus –&nbsp;always –&nbsp;was on simple rhythms and catchy melodies.</p>
+<p>So, to recap, <strong><a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="106923">Kurt Cobain used “crappy” Fender guitars</a></strong> that he could afford to buy, scant pedals and effects, and a completely unreliable guitar rig when playing live. His sound, largely speaking, was created by his actual playing which was incredibly aggressive. He was not a fan of finesse when it came to the guitar, he didn’t indulge in technical playing, and his focus –&nbsp;always –&nbsp;was on simple rhythms and catchy melodies.</p>
 
 
 
-<p>What’s the moral of the story here? Simple: <strong>you DO NOT need masses of expensive gear, or even an expensive guitar, to write and record iconic, genre-defining music</strong>. Kurt loved cheap gear, and <strong><a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" data-lasso-id="106924">cheap guitars</a></strong>, and never bothered learning to play anything technical. He was punk rock to the core. And his legacy proves that this approach, much like punk rock, will never really die –&nbsp;it has just gotten a bit lost in the modern idea that you need certain things to make good-sounding music.</p>
+<p>What’s the moral of the story here? Simple: <strong>you DO NOT need masses of expensive gear, or even an expensive guitar, to write and record iconic, genre-defining music</strong>. Kurt loved cheap gear, and <strong><a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" data-lasso-id="106924">cheap guitars</a></strong>, and never bothered learning to play anything technical. He was punk rock to the core. And his legacy proves that this approach, much like punk rock, will never really die –&nbsp;it has just gotten a bit lost in the modern idea that you need certain things to make good-sounding music.</p>
 

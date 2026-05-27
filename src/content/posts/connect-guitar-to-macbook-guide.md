@@ -36,7 +36,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="1191">When it comes to home recording</a></strong>, things have progressed massively in the last decade or two. Not so long ago, the idea of home recording was a pipe dream for non-professional musicians.</p>
+<p><strong><a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="1191">When it comes to home recording</a></strong>, things have progressed massively in the last decade or two. Not so long ago, the idea of home recording was a pipe dream for non-professional musicians.</p>
 
 
 
@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>From Garage Band, which comes pre-installed on your MacBook and iPhone, to <strong>things like <a href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-lasso-id="114909">Reaper</a> and Pro Tools</strong>, you have plenty of options when it comes to recording software.</p>
+<p>From Garage Band, which comes pre-installed on your MacBook and iPhone, to <strong>things like <a href="/getting-started-with-reaper-daw/" data-lasso-id="114909">Reaper</a> and Pro Tools</strong>, you have plenty of options when it comes to recording software.</p>
 
 
 
@@ -56,11 +56,11 @@ seo:
 
 
 
-<p>It might seem complicated, getting a signal from your guitar into some software on your MacBook, but it is actually really simple. <strong>All you need is a <a href="https://www.electrikjam.com/m-audio-releases-the-m-track-solo-and-duo/" data-lasso-id="1192">USB audio interface</a> </strong>. This is what makes it all possible.</p>
+<p>It might seem complicated, getting a signal from your guitar into some software on your MacBook, but it is actually really simple. <strong>All you need is a <a href="/m-audio-releases-the-m-track-solo-and-duo/" data-lasso-id="1192">USB audio interface</a> </strong>. This is what makes it all possible.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" class="rank-math-link" data-lasso-id="1193">There are MANY USB audio interfaces available</a></strong>. They all range in price, although you don’t really want to bother with 90% of them – they’re just cheap, ineffective devices that sound terrible. </p>
+<p><strong><a href="/fender-mustang-micro-features-price/" class="rank-math-link" data-lasso-id="1193">There are MANY USB audio interfaces available</a></strong>. They all range in price, although you don’t really want to bother with 90% of them – they’re just cheap, ineffective devices that sound terrible. </p>
 
 
 
@@ -80,7 +80,7 @@ seo:
 
 
 
-<p>If you want to <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9519">record professional-sounding guitars</a> on your MacBook, you need a suitable and well-respected USB audio interface.</p>
+<p>If you want to <a href="/must-have-for-recording-guitar/" data-lasso-id="9519">record professional-sounding guitars</a> on your MacBook, you need a suitable and well-respected USB audio interface.</p>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>Me personally? I’ve used a bunch over the years. But my current favorite right now is the Focusrite Scarlett Solo (the third-generation model) –&nbsp;<strong><a class="rank-math-link" data-lasso-id="1194" href="https://www.electrikjam.com/recommends/focusrite-scarlett-solo-3/">it retails for just over $100</a></strong>. </p>
+<p>Me personally? I’ve used a bunch over the years. But my current favorite right now is the Focusrite Scarlett Solo (the third-generation model) –&nbsp;<strong><a class="rank-math-link" data-lasso-id="1194" href="/recommends/focusrite-scarlett-solo-3/">it retails for just over $100</a></strong>. </p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p>And the good news is you don’t have to pay the earth for one –&nbsp;you can <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/focusrite-scarlett-solo-3/" data-lasso-id="1195">pick one up for less than $100/£100</a></strong> in most places. And for that, you’re getting access to professional sounding recordings, free from latency, noise, and crackling.</p>
+<p>And the good news is you don’t have to pay the earth for one –&nbsp;you can <strong><a class="rank-math-link" href="/recommends/focusrite-scarlett-solo-3/" data-lasso-id="1195">pick one up for less than $100/£100</a></strong> in most places. And for that, you’re getting access to professional sounding recordings, free from latency, noise, and crackling.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<p>The second is that it is cheap <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/focusrite-scarlett-solo-3/" data-lasso-id="1196">(it is around $100)</a></strong> and that is excellent value for money, especially when you consider that other USB audio interfaces retail for north of $200 and $300 like the SSL 2+ 2-IN / 4-OUT USB Audio Interface.</p>
+<p>The second is that it is cheap <strong><a class="rank-math-link" href="/recommends/focusrite-scarlett-solo-3/" data-lasso-id="1196">(it is around $100)</a></strong> and that is excellent value for money, especially when you consider that other USB audio interfaces retail for north of $200 and $300 like the SSL 2+ 2-IN / 4-OUT USB Audio Interface.</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p>This is especially cool <strong><a href="https://www.electrikjam.com/the-best-amp-simulators-in-2021/" class="rank-math-link" data-lasso-id="1197">if you’re using guitar plugins or VSTs</a></strong>; you get the cleanest possible signal, free from noise or any interference, and this, in turn, makes your guitar –&nbsp;once it is hooked up to <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="1198">a plugin like BIAS FX 2</a></strong> –&nbsp;sound even better.</p>
+<p>This is especially cool <strong><a href="/the-best-amp-simulators-in-2021/" class="rank-math-link" data-lasso-id="1197">if you’re using guitar plugins or VSTs</a></strong>; you get the cleanest possible signal, free from noise or any interference, and this, in turn, makes your guitar –&nbsp;once it is hooked up to <strong><a href="/what-is-bias-fx-2-guide/" class="rank-math-link" data-lasso-id="1198">a plugin like BIAS FX 2</a></strong> –&nbsp;sound even better.</p>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<ul class="wp-block-list"><li>Take The Focusrite Scarlett Solo and the provided USB cable, connect the USB to the rear of the Focusrite Scarlett Solo and the other to a USB port on your MacBook</li><li>Your Mac will automatically recognise the Focusrite Scarlett Solo.</li><li>If you’re using a DAW –&nbsp;Ableton, <a href="https://www.electrikjam.com/what-guitar-amps-do-meshuggah-use/" data-lasso-id="101425">Cubase</a>, Reaper, or Pro Tools –&nbsp;go to the Settings Menu and look for Audio Input options. Your Mac should automatically recognise the input, however, so only do this step if it doesn’t show up.</li><li>Once everything is connected, you should see a signal inside your DAW whenever you hit a string. Now all you have to do is get your tone dialled in and start recording some riffs.</li></ul>
+<ul class="wp-block-list"><li>Take The Focusrite Scarlett Solo and the provided USB cable, connect the USB to the rear of the Focusrite Scarlett Solo and the other to a USB port on your MacBook</li><li>Your Mac will automatically recognise the Focusrite Scarlett Solo.</li><li>If you’re using a DAW –&nbsp;Ableton, <a href="/what-guitar-amps-do-meshuggah-use/" data-lasso-id="101425">Cubase</a>, Reaper, or Pro Tools –&nbsp;go to the Settings Menu and look for Audio Input options. Your Mac should automatically recognise the input, however, so only do this step if it doesn’t show up.</li><li>Once everything is connected, you should see a signal inside your DAW whenever you hit a string. Now all you have to do is get your tone dialled in and start recording some riffs.</li></ul>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="1199">You will need a DAW to record</a></strong>, however, and I would use either Pro Tools or Ableton that comes with the Focusrite Scarlett Solo.</p>
+<p><strong><a href="/how-to-record-electric-guitar-at-home-guide/" class="rank-math-link" data-lasso-id="1199">You will need a DAW to record</a></strong>, however, and I would use either Pro Tools or Ableton that comes with the Focusrite Scarlett Solo.</p>
 
 
 
@@ -188,11 +188,11 @@ seo:
 
 
 
-<p>I would also strongly recommend you <strong><a href="https://www.electrikjam.com/bias-fx-2-discount/" class="rank-math-link" data-lasso-id="1200">get yourself a guitar plugin like BIAS FX 2</a></strong> as well –&nbsp;this will give you access to thousands of amp profiles, effects, and loads of other cool stuff.</p>
+<p>I would also strongly recommend you <strong><a href="/bias-fx-2-discount/" class="rank-math-link" data-lasso-id="1200">get yourself a guitar plugin like BIAS FX 2</a></strong> as well –&nbsp;this will give you access to thousands of amp profiles, effects, and loads of other cool stuff.</p>
 
 
 
-<p>Or, if you don’t want to spend money on BIAS FX 2, you could try one of these <strong><a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" class="rank-math-link" data-lasso-id="1201">awesome free guitar plugins</a></strong> –&nbsp;we recently tested a bunch and was very surprised by how good they actually were!</p>
+<p>Or, if you don’t want to spend money on BIAS FX 2, you could try one of these <strong><a href="/the-best-free-amp-simulators-in-2021/" class="rank-math-link" data-lasso-id="1201">awesome free guitar plugins</a></strong> –&nbsp;we recently tested a bunch and was very surprised by how good they actually were!</p>
 
 
 
@@ -200,7 +200,7 @@ seo:
 
 
 
-<p>As you can see, connecting your <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-lasso-id="164566">electric guitar</a> to your MacBook is pretty darn simple. You don’t need any hardware, save for the Focusrite Scarlett Solo, and with free or paid for guitar plugins you don’t need any pedals or effects either.</p>
+<p>As you can see, connecting your <a href="/the-top-7-electric-guitar-myths/" data-lasso-id="164566">electric guitar</a> to your MacBook is pretty darn simple. You don’t need any hardware, save for the Focusrite Scarlett Solo, and with free or paid for guitar plugins you don’t need any pedals or effects either.</p>
 
 
 
@@ -208,11 +208,11 @@ seo:
 
 
 
-<p>This means, when it comes to recording, you can essentially create professional-sounding guitar and bass with little to no investment on physical hardware like <a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-lasso-id="1202">amps</a>, pedals, and the like.</p>
+<p>This means, when it comes to recording, you can essentially create professional-sounding guitar and bass with little to no investment on physical hardware like <a href="/best-practice-amps-for-beginners/" data-lasso-id="1202">amps</a>, pedals, and the like.</p>
 
 
 
-<p><strong>RELATED: <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" class="rank-math-link" data-lasso-id="1203">How Much RAM Do I Need To Record Music? </a></strong></p>
+<p><strong>RELATED: <a href="/is-16-gb-of-ram-enough-for-music-production/" class="rank-math-link" data-lasso-id="1203">How Much RAM Do I Need To Record Music? </a></strong></p>
 
 
 
@@ -224,11 +224,11 @@ seo:
 
 
 
-<p>You can even use the Focusrite Scarlett Solo for recording <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="1204">acoustic guitar</a> and vocals too – you’ll just need a decent condenser microphone.</p>
+<p>You can even use the Focusrite Scarlett Solo for recording <a href="/types-of-guitars-guide/" data-lasso-id="1204">acoustic guitar</a> and vocals too – you’ll just need a decent condenser microphone.</p>
 
 
 
-<p>With this tool, and a bit of imagination, you can basically turn your MacBook into a fully-fledged <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140953">recording studio</a>. And best of all <strong><a class="rank-math-link" href="https://www.electrikjam.com/recommends/focusrite-scarlett-solo-3/" data-lasso-id="1205">you can do ALL of the above for less than $100</a>.</strong></p>
+<p>With this tool, and a bit of imagination, you can basically turn your MacBook into a fully-fledged <a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140953">recording studio</a>. And best of all <strong><a class="rank-math-link" href="/recommends/focusrite-scarlett-solo-3/" data-lasso-id="1205">you can do ALL of the above for less than $100</a>.</strong></p>
 
 
 

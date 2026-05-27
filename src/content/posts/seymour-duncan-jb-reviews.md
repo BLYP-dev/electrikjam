@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Seymour Duncan was in all the right places at the right time in the &#8217;60s and &#8217;70s. This was the rise of innovation when it comes to electric guitar. We had some of the greatest players really making their mark on the world. <a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-lasso-id="101457">People like Jimi Hendrix</a> and Les Paul had completely changed the scope of what could be done with electric guitar. </p>
+<p>Seymour Duncan was in all the right places at the right time in the &#8217;60s and &#8217;70s. This was the rise of innovation when it comes to electric guitar. We had some of the greatest players really making their mark on the world. <a href="/jimi-hendrix-guitar-tuning/" data-lasso-id="101457">People like Jimi Hendrix</a> and Les Paul had completely changed the scope of what could be done with electric guitar. </p>
 
 
 
@@ -51,27 +51,27 @@ seo:
 
 
 
-<p>But what we rarely look at as guitarists, is what was going on behind the scenes and backstage during those years. To be fair, the history of some of the gear that was used back then is just as famous as the people that used it! Look at something like the<strong> <a data-lasso-id="7838" href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener">1959 Les Paul</a></strong>, and how these are still sought after today. It&#8217;s because of legend, and sometimes&#8230;a bit of myth mixed in.</p>
+<p>But what we rarely look at as guitarists, is what was going on behind the scenes and backstage during those years. To be fair, the history of some of the gear that was used back then is just as famous as the people that used it! Look at something like the<strong> <a data-lasso-id="7838" href="/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener">1959 Les Paul</a></strong>, and how these are still sought after today. It&#8217;s because of legend, and sometimes&#8230;a bit of myth mixed in.</p>
 
 
 
-<ul class="wp-block-list"><li><strong>RELATED: <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7878">The Best Seymour Duncan Pickups For Metal</a></strong></li></ul>
+<ul class="wp-block-list"><li><strong>RELATED: <a href="/best-seymour-duncan-pickups-for-metal/" data-lasso-id="7878">The Best Seymour Duncan Pickups For Metal</a></strong></li></ul>
 
 
 
-<p>Some of these pieces of gear can still be purchased today. A great example of this is the Seymour Duncan JB humbucker. The JB came about in a time when most guitarists used whatever pickups came in their guitar. They never really questioned the likes of manufacturers like <a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="7839"><strong>Fender</strong> </a>or<a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" target="_blank" data-type="post" data-id="880" rel="noopener" data-lasso-id="7840"> <strong>Epiphone</strong>.</a> Back then, if you had a Fender guitar, you just used the guitar as it came. </p>
+<p>Some of these pieces of gear can still be purchased today. A great example of this is the Seymour Duncan JB humbucker. The JB came about in a time when most guitarists used whatever pickups came in their guitar. They never really questioned the likes of manufacturers like <a href="/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="7839"><strong>Fender</strong> </a>or<a href="/best-epiphone-les-paul-models/" target="_blank" data-type="post" data-id="880" rel="noopener" data-lasso-id="7840"> <strong>Epiphone</strong>.</a> Back then, if you had a Fender guitar, you just used the guitar as it came. </p>
 
 
 
-<p>It wasn&#8217;t until the late &#8217;70s and early 80&#8217;s that people started to really mod their guitars. Some people had a vision for what the <a href="https://www.electrikjam.com/epiphone-power-players-guitar-review/" data-lasso-id="156639">perfect guitar</a> was, and others like Eddie van Halen&#8230; well they had a <em>wild</em> idea that had never been done before. But to mod your guitar, you needed after-market parts. This is where people like Seymour Duncan stepped in.</p>
+<p>It wasn&#8217;t until the late &#8217;70s and early 80&#8217;s that people started to really mod their guitars. Some people had a vision for what the <a href="/epiphone-power-players-guitar-review/" data-lasso-id="156639">perfect guitar</a> was, and others like Eddie van Halen&#8230; well they had a <em>wild</em> idea that had never been done before. But to mod your guitar, you needed after-market parts. This is where people like Seymour Duncan stepped in.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11594">Seymour Duncan discovered pickup</a> mods by necessity when his pickups started malfunctioning in his own guitar. He rewound the pickups himself and noticed a <em>huge</em> improvement in tone. This lead to him becoming a humble guitar tinkerer and eventually producing his own products. None as famous as The Seymour Duncan JB.</p>
+<p><a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11594">Seymour Duncan discovered pickup</a> mods by necessity when his pickups started malfunctioning in his own guitar. He rewound the pickups himself and noticed a <em>huge</em> improvement in tone. This lead to him becoming a humble guitar tinkerer and eventually producing his own products. None as famous as The Seymour Duncan JB.</p>
 
 
 
-<p>The Seymour Duncan JB gets its name from Jeff Beck. He had asked Seymour for a pickup to go with a custom-designed double-humbucker Telecaster that was being built. He <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8169">needed a pickup</a> that could cut through the mix, handle distortion, but also clean up nicely when needed. Seymour was more than up to the task.</p>
+<p>The Seymour Duncan JB gets its name from Jeff Beck. He had asked Seymour for a pickup to go with a custom-designed double-humbucker Telecaster that was being built. He <a href="/what-are-active-pickups/" data-lasso-id="8169">needed a pickup</a> that could cut through the mix, handle distortion, but also clean up nicely when needed. Seymour was more than up to the task.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>It definitely has the stereotype of &#8220;The Heavy Metal Pickup&#8221; but I think it can do a lot more than just shred. Don&#8217;t let the stigma that the JB has gained over the years fool you. Of course, Seymour Duncan is known for making pickups especially<a data-lasso-id="7872" href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener"><strong> for Metal</strong></a>, but that&#8217;s not<em> all </em>the company does. </p>
+<p>It definitely has the stereotype of &#8220;The Heavy Metal Pickup&#8221; but I think it can do a lot more than just shred. Don&#8217;t let the stigma that the JB has gained over the years fool you. Of course, Seymour Duncan is known for making pickups especially<a data-lasso-id="7872" href="/best-seymour-duncan-pickups-for-metal/" target="_blank" data-type="post" data-id="4588" rel="noopener"><strong> for Metal</strong></a>, but that&#8217;s not<em> all </em>the company does. </p>
 
 
 
@@ -143,11 +143,11 @@ seo:
 
 
 
-<p>This means that even though the <a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-lasso-id="120189">Seymour Duncan JB was once a hand-wound pickup</a>, the new CNC machines do a great job of replicating the original. So in a way, it is like buying a piece of history. In the end, you can get some classic tones without paying the high price for a truly vintage pickup. </p>
+<p>This means that even though the <a href="/new-seymour-duncan-pickups-announced/" data-lasso-id="120189">Seymour Duncan JB was once a hand-wound pickup</a>, the new CNC machines do a great job of replicating the original. So in a way, it is like buying a piece of history. In the end, you can get some classic tones without paying the high price for a truly vintage pickup. </p>
 
 
 
-<p>After all of these years, the design and specs have gone pretty much untouched, and the JB is <em>still</em> one of the best-selling pickups in the world. People from all over the place seem to be in agreeance. It&#8217;s pretty difficult to find a bad review of the Duncan JB<em> anywhere</em>. Many guitar manufacturers like <a data-lasso-id="7841" href="https://www.electrikjam.com/cort-guitars-a-wonderful-high-quality-brand/" target="_blank" data-type="post" data-id="1662" rel="noopener"><strong>Cort</strong></a> and <a data-lasso-id="7873" href="https://www.electrikjam.com/dean-guitars-2021-lineup-tons-of-awesome-new-models-and-classic-redesign/" target="_blank" data-type="post" data-id="1832" rel="noopener"><strong>Dean </strong></a>come pre-installed with the JB because it just <em>works</em>. It is usually paired with the Duncan Jazz in the neck.</p>
+<p>After all of these years, the design and specs have gone pretty much untouched, and the JB is <em>still</em> one of the best-selling pickups in the world. People from all over the place seem to be in agreeance. It&#8217;s pretty difficult to find a bad review of the Duncan JB<em> anywhere</em>. Many guitar manufacturers like <a data-lasso-id="7841" href="/cort-guitars-a-wonderful-high-quality-brand/" target="_blank" data-type="post" data-id="1662" rel="noopener"><strong>Cort</strong></a> and <a data-lasso-id="7873" href="/dean-guitars-2021-lineup-tons-of-awesome-new-models-and-classic-redesign/" target="_blank" data-type="post" data-id="1832" rel="noopener"><strong>Dean </strong></a>come pre-installed with the JB because it just <em>works</em>. It is usually paired with the Duncan Jazz in the neck.</p>
 
 
 
@@ -167,7 +167,7 @@ seo:
 
 
 
-<p>I could go on and on myself about how many guitars I have used the JB Humbucker with. Once I found out that <a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17575">Metallica</a> and Megadeth used these pickups in the &#8217;80s, I knew I had to have one in my Les Paul at the time. I went on to use the JB humbucker in a <a href="https://www.electrikjam.com/gibson-80s-explorer-review/" data-lasso-id="236467">Gibson Explorer</a>, a Les Paul, and even a Fender Strat at one point. It handled everything I ever threw at it and sounded great both live and in the studio. But don&#8217;t take my word for it!</p>
+<p>I could go on and on myself about how many guitars I have used the JB Humbucker with. Once I found out that <a href="/new-metallica-album-release-date-new-songs-update/" data-lasso-id="17575">Metallica</a> and Megadeth used these pickups in the &#8217;80s, I knew I had to have one in my Les Paul at the time. I went on to use the JB humbucker in a <a href="/gibson-80s-explorer-review/" data-lasso-id="236467">Gibson Explorer</a>, a Les Paul, and even a Fender Strat at one point. It handled everything I ever threw at it and sounded great both live and in the studio. But don&#8217;t take my word for it!</p>
 
 
 
@@ -199,11 +199,11 @@ seo:
 
 
 
-<p>When <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195327">Eddie Van Halen made his &#8220;Frakenstrat&#8221; guitars</a>, he tried to find the most suitable pickup to fit his unique style. The pickup had to be as unique as Eddie, and his guitar&#8217;s design only had<em> one single pickup</em>. Eddie found what he was looking for in the <a href="https://www.electrikjam.com/what-is-a-trembucker/" data-lasso-id="11090">Seymour Duncan</a> JB. Not to mention that the sound of 80&#8217;s Thrash Metal was largely due to the Duncan JB as well. It was used so widely because it was a vast improvement over stock pickups and could really <em>open up</em> the sound of your guitar.</p>
+<p>When <a href="/eddie-van-halen-innovative-guitar-gear/" data-lasso-id="195327">Eddie Van Halen made his &#8220;Frakenstrat&#8221; guitars</a>, he tried to find the most suitable pickup to fit his unique style. The pickup had to be as unique as Eddie, and his guitar&#8217;s design only had<em> one single pickup</em>. Eddie found what he was looking for in the <a href="/what-is-a-trembucker/" data-lasso-id="11090">Seymour Duncan</a> JB. Not to mention that the sound of 80&#8217;s Thrash Metal was largely due to the Duncan JB as well. It was used so widely because it was a vast improvement over stock pickups and could really <em>open up</em> the sound of your guitar.</p>
 
 
 
-<p>If you were ever thinking of upgrading your stock pickups, the Duncan JB is a <em>great </em>place to start. While other <strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="7879">Duncan pickups</a></strong> have more specific uses, the JB is<strong><a href="https://www.electrikjam.com/seymour-duncan-jb-jazz-pickup/" data-type="lasso-urls" data-id="4639" data-lasso-id="7880" rel="nofollow noopener" target="_blank" data-lasso-name="Duncan JB/Jazz Combo"> the best when it comes to versatility and quality</a></strong>. Throw a JB into one of your favorite guitars, or put one in a guitar that maybe never sounded <em>great </em>to you. </p>
+<p>If you were ever thinking of upgrading your stock pickups, the Duncan JB is a <em>great </em>place to start. While other <strong><a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="7879">Duncan pickups</a></strong> have more specific uses, the JB is<strong><a href="/seymour-duncan-jb-jazz-pickup/" data-type="lasso-urls" data-id="4639" data-lasso-id="7880" rel="nofollow noopener" target="_blank" data-lasso-name="Duncan JB/Jazz Combo"> the best when it comes to versatility and quality</a></strong>. Throw a JB into one of your favorite guitars, or put one in a guitar that maybe never sounded <em>great </em>to you. </p>
 
 
 

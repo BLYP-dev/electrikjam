@@ -65,32 +65,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/gretsch/" rel="tag">Gretsch</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/gretsch/" rel="tag">Gretsch</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/gretsch-g5260t-electromatic-jet-baritone-with-bigsby/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Gretsch G5260T Electromatic Jet Baritone With Bigsby" style="object-fit:cover;" srcset="/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black.jpg 1200w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-600x400.jpg 600w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-300x200.jpg 300w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/gretsch-g5260t-electromatic-jet-baritone-with-bigsby/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Gretsch G5260T Electromatic Jet Baritone With Bigsby" style="object-fit:cover;" srcset="/wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black.jpg 1200w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-600x400.jpg 600w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-300x200.jpg 300w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-1024x683.jpg 1024w, /wp-content/uploads/2025/12/Gretsch-Guitars-G5260T-Electromatic-Jet-Baritone-With-Bigsby-Black-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/gretsch-g5260t-electromatic-jet-baritone-with-bigsby/" target="_self">Gretsch G5260T Electromatic Jet Baritone With Bigsby</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/gretsch-g5260t-electromatic-jet-baritone-with-bigsby/" target="_self">Gretsch G5260T Electromatic Jet Baritone With Bigsby</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The G5260T comes loaded with Gretsch mini-humbuckers, and no, they’re not just a marketing gimmick. These things are often compared to Broad’Tron-style pickups meaning they’re hotter than vintage Filter’Trons but still cleaner than full-size humbuckers.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/baritone/" rel="tag">Baritone</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/baritone/" rel="tag">Baritone</a></div>
 
 
 <p>|</p>
@@ -113,32 +113,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/manson/" rel="tag">Manson</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/manson/" rel="tag">Manson</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/manson-meta-series-matt-bellamy-mbm-2h/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Manson Meta Series Matt Bellamy MBM-2H" style="object-fit:cover;" srcset="/wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green.jpg 1200w, /wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green-600x400.jpg 600w, /wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green-300x200.jpg 300w, /wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green-1024x683.jpg 1024w, /wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/manson-meta-series-matt-bellamy-mbm-2h/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Manson Meta Series Matt Bellamy MBM-2H" style="object-fit:cover;" srcset="/wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green.jpg 1200w, /wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green-600x400.jpg 600w, /wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green-300x200.jpg 300w, /wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green-1024x683.jpg 1024w, /wp-content/uploads/2025/07/Manson-Meta-Series-Matt-Bellamy-MBM-2H-Satin-Olive-Green-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/manson-meta-series-matt-bellamy-mbm-2h/" target="_self">Manson Meta Series Matt Bellamy MBM-2H</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/manson-meta-series-matt-bellamy-mbm-2h/" target="_self">Manson Meta Series Matt Bellamy MBM-2H</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The MBM-2H isn&#8217;t your average signature guitar; in actual fact, it&#8217;s the &#8220;lite&#8221; verson of Matt Bellamy&#8217;s actual signature Manson model. It doesn&#8217;t feature the built-in midi controller or fuzz switch. But that&#8217;s OK because what you get for a very reasonable price is massively impressive (as you&#8217;d expect from Cort). From the design to the hardware choices, it looks and feels more expensive than it is.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -161,32 +161,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/fender/" rel="tag">Fender</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/fender/" rel="tag">Fender</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/fender-standard-telecaster/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender Standard Telecaster" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard.jpg 1200w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-600x400.jpg 600w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-300x200.jpg 300w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/fender-standard-telecaster/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fender Standard Telecaster" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard.jpg 1200w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-600x400.jpg 600w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-300x200.jpg 300w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Fender-Standard-Telecaster-Maple-Fingerboard-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/fender-standard-telecaster/" target="_self">Fender Standard Telecaster</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/fender-standard-telecaster/" target="_self">Fender Standard Telecaster</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The Fender Standard Telecaster with Maple Fingerboard is one of those guitars that just works. Whether you’re stepping into the Tele world for the first time or need a reliable backup for your gig rig, this 2025 model delivers the goods. With classic looks, modern playability, and that unmistakable Tele twang, it’s easy to see why this continues to be a go-to for players across the spectrum.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -209,32 +209,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/epiphone/" rel="tag">Epiphone</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/epiphone/" rel="tag">Epiphone</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/epiphone-les-paul-custom-quilt-limited-edition/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Epiphone Les Paul Custom Quilt Limited-Edition" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition.jpg 1200w, /wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition-600x400.jpg 600w, /wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition-300x200.jpg 300w, /wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/epiphone-les-paul-custom-quilt-limited-edition/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Epiphone Les Paul Custom Quilt Limited-Edition" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition.jpg 1200w, /wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition-600x400.jpg 600w, /wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition-300x200.jpg 300w, /wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Epiphone-Les-Paul-Custom-Quilt-Limited-Edition-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/epiphone-les-paul-custom-quilt-limited-edition/" target="_self">Epiphone Les Paul Custom Quilt Limited-Edition</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/epiphone-les-paul-custom-quilt-limited-edition/" target="_self">Epiphone Les Paul Custom Quilt Limited-Edition</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The Epiphone Les Paul Custom Quilt Limited-Edition brings serious flair to the SE Les Paul lineup in 2025. With its jaw-dropping quilted mahogany top, gold hardware, and ProBucker electronics, this is Epiphone doing premium with just the right amount of flash. And while it looks like a collector’s piece, it’s built to be played. Loudly.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -257,32 +257,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/schecter/" rel="tag">Schecter</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/schecter/" rel="tag">Schecter</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/schecter-demon-6-fr-s/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Schecter Demon-6 FR-S" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S.jpg 1200w, /wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S-600x400.jpg 600w, /wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S-300x200.jpg 300w, /wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/schecter-demon-6-fr-s/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Schecter Demon-6 FR-S" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S.jpg 1200w, /wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S-600x400.jpg 600w, /wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S-300x200.jpg 300w, /wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Schecter-Guitar-Research-Demon-6-FR-S-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/schecter-demon-6-fr-s/" target="_self">Schecter Demon-6 FR-S</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/schecter-demon-6-fr-s/" target="_self">Schecter Demon-6 FR-S</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The Schecter Demon-6 FR-S is an aggressive, modern metal guitar designed for speed, punch, and tuning stability. It features active pickups, a Floyd Rose locking trem, and a slick satin black finish—all aimed at delivering pro-level features for players on a budget. Whether you’re a beginner diving into metal or a more advanced player looking for a reliable backup axe, this one brings the heat without torching your wallet.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -305,32 +305,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/prs/" rel="tag">PRS</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/prs/" rel="tag">PRS</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/prs-se-studio-standard/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="PRS SE Studio Standard" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar.jpg 1200w, /wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar-600x400.jpg 600w, /wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar-300x200.jpg 300w, /wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar-1024x683.jpg 1024w, /wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/prs-se-studio-standard/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="PRS SE Studio Standard" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar.jpg 1200w, /wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar-600x400.jpg 600w, /wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar-300x200.jpg 300w, /wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar-1024x683.jpg 1024w, /wp-content/uploads/2025/06/PRS-SE-Studio-Standard-Electric-Guitar-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/prs-se-studio-standard/" target="_self">PRS SE Studio Standard</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/prs-se-studio-standard/" target="_self">PRS SE Studio Standard</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The PRS SE Studio Standard is PRS’s latest move in making their premium features more accessible to everyday players. Released in 2025, this model combines the flexibility of the Studio lineup with a streamlined, no-nonsense design that nails tone, comfort, and reliability. Whether you&#8217;re a live performer, a recording musician, or just want a serious upgrade without emptying your wallet, this SE model hits all the right notes.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -353,32 +353,32 @@ seo:
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:15%">
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/brand-of-guitar/jackson/" rel="tag">Jackson</a></div>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-e4830150 wp-block-group-is-layout-flex"><div style="font-style:normal;font-weight:600" class="taxonomy-brand-of-guitar has-link-color is-style-default wp-elements-aebca979f9d66516622bca5aa667c661 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/brand-of-guitar/jackson/" rel="tag">Jackson</a></div>
 
 
 <p class="has-primary-color has-text-color has-link-color wp-elements-033d27da9e26e128be879bc38889686d">|</p>
 
 
-<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="https://www.electrikjam.com/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
+<div style="font-style:normal;font-weight:600" class="taxonomy-price-tier has-link-color is-style-default wp-elements-fb1ae29de9de0ecb4f1aa491a4cc9372 wp-block-post-terms has-text-color has-primary-color has-x-small-font-size"><a href="/price-tier/intermediate/" rel="tag">Intermediate</a></div></div>
 
 
-<figure class="wp-block-post-featured-image"><a href="https://www.electrikjam.com/new-guitar-releases/jackson-pro-series-signature-lee-malia-lm-87/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Jackson Pro Series Signature Lee Malia LM-87" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar.jpg 1200w, /wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar-600x400.jpg 600w, /wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar-300x200.jpg 300w, /wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
+<figure class="wp-block-post-featured-image"><a href="/new-guitar-releases/jackson-pro-series-signature-lee-malia-lm-87/" target="_self"><img decoding="async" width="1200" height="800" src="/wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Jackson Pro Series Signature Lee Malia LM-87" style="object-fit:cover;" srcset="/wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar.jpg 1200w, /wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar-600x400.jpg 600w, /wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar-300x200.jpg 300w, /wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar-1024x683.jpg 1024w, /wp-content/uploads/2025/06/Jackson-Pro-Series-Signature-Lee-Malia-LM-87-Electric-Guitar-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" title=""></a></figure></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="https://www.electrikjam.com/new-guitar-releases/jackson-pro-series-signature-lee-malia-lm-87/" target="_self">Jackson Pro Series Signature Lee Malia LM-87</a></h3>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-fe9cc265 wp-block-group-is-layout-flex"><h3 class="has-link-color wp-elements-f20687f23363ef9cbedd633ef1b74d04 wp-block-post-title has-text-color has-main-color has-medium-font-size"><a href="/new-guitar-releases/jackson-pro-series-signature-lee-malia-lm-87/" target="_self">Jackson Pro Series Signature Lee Malia LM-87</a></h3>
 
 <div class="field-brief_overview_of_the_guitar wp-block-acf-field-blocks-acf-text has-small-font-size">The Jackson Pro Series Signature Lee Malia LM-87 is a guitar that dares to be different. Inspired by the cult-favorite Surfcaster body shape but dialed in for the heavy tones of Bring Me The Horizon, this offset axe brings vintage style and modern aggression under one slick open-pore finish. Whether you&#8217;re riffing through down-tuned breakdowns or exploring ambient cleans, the LM-87 proves it’s more than just a signature model—it&#8217;s a serious player’s tool.</div>
 
 
-<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="https://www.electrikjam.com/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
+<div class="wp-block-group has-text-color has-link-color has-x-small-font-size wp-elements-75e9d58949c5d92e428075b3a23c8e0f is-nowrap is-layout-flex wp-container-core-group-is-layout-4b0a85f0 wp-block-group-is-layout-flex" style="color:#ff3399;font-style:normal;font-weight:700"><div class="taxonomy-number-of-strings wp-block-post-terms"><a href="/number-of-strings/six-strings/" rel="tag">Six Strings</a></div>
 
 
 <p>|</p>
 
 
-<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="https://www.electrikjam.com/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
+<div class="taxonomy-type-of-guitar wp-block-post-terms"><span class="wp-block-post-terms__prefix">Type: </span><a href="/type-of-guitar/solid-body/" rel="tag">Solid-Body</a></div>
 
 
 <p>|</p>
@@ -415,7 +415,7 @@ seo:
 
 
 
-<p>Perfect for absolute beginners or anyone interested in learning guitar. <strong><a href="https://www.electrikjam.com/best-electric-guitars/best-budget-guitars/" data-lasso-id="269087">These budget / affordable electric guitars seriously impressed us</a></strong> with their playability, tone, and general quality…</p>
+<p>Perfect for absolute beginners or anyone interested in learning guitar. <strong><a href="/best-electric-guitars/best-budget-guitars/" data-lasso-id="269087">These budget / affordable electric guitars seriously impressed us</a></strong> with their playability, tone, and general quality…</p>
 
 
 </div>
@@ -433,7 +433,7 @@ seo:
 
 
 
-<p>You’ve learnt the basics, and now you want a better instrument. Exciting times. <strong><a href="https://www.electrikjam.com/best-electric-guitars/best-mid-range-electric-guitars/" data-lasso-id="269089">These guitars all offer exceptional playability and specs</a></strong> built for studio work and life on the road.</p>
+<p>You’ve learnt the basics, and now you want a better instrument. Exciting times. <strong><a href="/best-electric-guitars/best-mid-range-electric-guitars/" data-lasso-id="269089">These guitars all offer exceptional playability and specs</a></strong> built for studio work and life on the road.</p>
 
 
 </div>
@@ -601,11 +601,11 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-stretch is-style-default is-layout-flow wp-block-column-is-layout-flow">
 <div class="wp-block-group is-style-column-box-shadow has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="border-radius:10px">
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/epiphone-les-paul-custom-2/" data-lasso-id="269135"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-1024x683.png" alt="Epiphone Les Paul Custom" class="wp-image-15849" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-1024x683.png 1024w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-600x400.png 600w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-300x200.png 300w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-768x512.png 768w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/epiphone-les-paul-custom-2/" data-lasso-id="269135"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-1024x683.png" alt="Epiphone Les Paul Custom" class="wp-image-15849" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-1024x683.png 1024w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-600x400.png 600w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-300x200.png 300w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-768x512.png 768w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/epiphone-les-paul-custom-2/" data-lasso-id="269136"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-1024x683.png" alt="" class="wp-image-15848" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-1024x683.png 1024w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-600x400.png 600w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-300x200.png 300w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-768x512.png 768w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/epiphone-les-paul-custom-2/" data-lasso-id="269136"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-1024x683.png" alt="" class="wp-image-15848" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-1024x683.png 1024w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-600x400.png 600w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-300x200.png 300w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white-768x512.png 768w, /wp-content/uploads/2024/09/Epiphone-Les-Paul-Custom-white.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 </div>
 </div>
@@ -729,11 +729,11 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-stretch is-style-default is-layout-flow wp-block-column-is-layout-flow">
 <div class="wp-block-group is-style-column-box-shadow has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="border-radius:10px">
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/fender-player-series-ii/" data-lasso-id="269139"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Fender-Player-Series-II-tele-1024x683.png" alt="Fender Player Series II tele" class="wp-image-15850" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Fender-Player-Series-II-tele-1024x683.png 1024w, /wp-content/uploads/2024/09/Fender-Player-Series-II-tele-600x400.png 600w, /wp-content/uploads/2024/09/Fender-Player-Series-II-tele-300x200.png 300w, /wp-content/uploads/2024/09/Fender-Player-Series-II-tele-768x512.png 768w, /wp-content/uploads/2024/09/Fender-Player-Series-II-tele.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/fender-player-series-ii/" data-lasso-id="269139"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Fender-Player-Series-II-tele-1024x683.png" alt="Fender Player Series II tele" class="wp-image-15850" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Fender-Player-Series-II-tele-1024x683.png 1024w, /wp-content/uploads/2024/09/Fender-Player-Series-II-tele-600x400.png 600w, /wp-content/uploads/2024/09/Fender-Player-Series-II-tele-300x200.png 300w, /wp-content/uploads/2024/09/Fender-Player-Series-II-tele-768x512.png 768w, /wp-content/uploads/2024/09/Fender-Player-Series-II-tele.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/fender-player-series-ii/" data-lasso-id="269140"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-1024x683.png" alt="" class="wp-image-15851" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-1024x683.png 1024w, /wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-600x400.png 600w, /wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-300x200.png 300w, /wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-768x512.png 768w, /wp-content/uploads/2024/09/Fender-Player-Series-II-Strat.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/fender-player-series-ii/" data-lasso-id="269140"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-1024x683.png" alt="" class="wp-image-15851" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-1024x683.png 1024w, /wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-600x400.png 600w, /wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-300x200.png 300w, /wp-content/uploads/2024/09/Fender-Player-Series-II-Strat-768x512.png 768w, /wp-content/uploads/2024/09/Fender-Player-Series-II-Strat.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 </div>
 </div>
@@ -861,11 +861,11 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-stretch is-style-default is-layout-flow wp-block-column-is-layout-flow">
 <div class="wp-block-group is-style-column-box-shadow has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="border-radius:10px">
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/schecter-nick-johnston-series/" data-lasso-id="269143"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1024x683.png" alt="Schecter Nick Johnston Series" class="wp-image-15853" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1024x683.png 1024w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-600x400.png 600w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-300x200.png 300w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-768x512.png 768w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/schecter-nick-johnston-series/" data-lasso-id="269143"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1024x683.png" alt="Schecter Nick Johnston Series" class="wp-image-15853" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1024x683.png 1024w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-600x400.png 600w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-300x200.png 300w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-768x512.png 768w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/schecter-nick-johnston-series/" data-lasso-id="269144"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-1024x683.png" alt="" class="wp-image-15852" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-1024x683.png 1024w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-600x400.png 600w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-300x200.png 300w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-768x512.png 768w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/schecter-nick-johnston-series/" data-lasso-id="269144"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-1024x683.png" alt="" class="wp-image-15852" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-1024x683.png 1024w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-600x400.png 600w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-300x200.png 300w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1-768x512.png 768w, /wp-content/uploads/2024/09/Schecter-Nick-Johnston-Series-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 </div>
 </div>
@@ -985,11 +985,11 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-stretch is-style-default is-layout-flow wp-block-column-is-layout-flow">
 <div class="wp-block-group is-style-column-box-shadow has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="border-radius:10px">
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/prs-se-dgt/" data-lasso-id="269147"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/PRS-SE-DGT-1024x683.png" alt="PRS SE DGT" class="wp-image-15856" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/PRS-SE-DGT-1024x683.png 1024w, /wp-content/uploads/2024/09/PRS-SE-DGT-600x400.png 600w, /wp-content/uploads/2024/09/PRS-SE-DGT-300x200.png 300w, /wp-content/uploads/2024/09/PRS-SE-DGT-768x512.png 768w, /wp-content/uploads/2024/09/PRS-SE-DGT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/prs-se-dgt/" data-lasso-id="269147"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/PRS-SE-DGT-1024x683.png" alt="PRS SE DGT" class="wp-image-15856" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/PRS-SE-DGT-1024x683.png 1024w, /wp-content/uploads/2024/09/PRS-SE-DGT-600x400.png 600w, /wp-content/uploads/2024/09/PRS-SE-DGT-300x200.png 300w, /wp-content/uploads/2024/09/PRS-SE-DGT-768x512.png 768w, /wp-content/uploads/2024/09/PRS-SE-DGT.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/prs-se-dgt/" data-lasso-id="269148"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/PRS-SE-DGT-headstock-1024x683.png" alt="" class="wp-image-15855" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/PRS-SE-DGT-headstock-1024x683.png 1024w, /wp-content/uploads/2024/09/PRS-SE-DGT-headstock-600x400.png 600w, /wp-content/uploads/2024/09/PRS-SE-DGT-headstock-300x200.png 300w, /wp-content/uploads/2024/09/PRS-SE-DGT-headstock-768x512.png 768w, /wp-content/uploads/2024/09/PRS-SE-DGT-headstock.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/prs-se-dgt/" data-lasso-id="269148"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/PRS-SE-DGT-headstock-1024x683.png" alt="" class="wp-image-15855" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/PRS-SE-DGT-headstock-1024x683.png 1024w, /wp-content/uploads/2024/09/PRS-SE-DGT-headstock-600x400.png 600w, /wp-content/uploads/2024/09/PRS-SE-DGT-headstock-300x200.png 300w, /wp-content/uploads/2024/09/PRS-SE-DGT-headstock-768x512.png 768w, /wp-content/uploads/2024/09/PRS-SE-DGT-headstock.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 </div>
 </div>
@@ -1113,11 +1113,11 @@ seo:
 
 <div class="wp-block-column is-vertically-aligned-stretch is-style-default is-layout-flow wp-block-column-is-layout-flow">
 <div class="wp-block-group is-style-column-box-shadow has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="border-radius:10px">
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/squier-contemporary-telecaster/" data-lasso-id="269151"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-1024x683.png" alt="Squier Contemporary Telecaster" class="wp-image-15857" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-1024x683.png 1024w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-600x400.png 600w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-300x200.png 300w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-768x512.png 768w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/squier-contemporary-telecaster/" data-lasso-id="269151"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-1024x683.png" alt="Squier Contemporary Telecaster" class="wp-image-15857" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-1024x683.png 1024w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-600x400.png 600w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-300x200.png 300w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-768x512.png 768w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/recommends/squier-contemporary-telecaster/" data-lasso-id="269152"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-1024x683.png" alt="" class="wp-image-15858" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-1024x683.png 1024w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-600x400.png 600w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-300x200.png 300w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-768x512.png 768w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/recommends/squier-contemporary-telecaster/" data-lasso-id="269152"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-1024x683.png" alt="" class="wp-image-15858" style="border-radius:10px" title="" srcset="/wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-1024x683.png 1024w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-600x400.png 600w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-300x200.png 300w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups-768x512.png 768w, /wp-content/uploads/2024/09/Squier-Contemporary-Telecaster-pickups.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 </div>
 </div>
@@ -1270,11 +1270,11 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-1024x683.png" alt="Fender American Professional II Telecaster" class="wp-image-15748" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-1024x683.png 1024w, /wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-600x400.png 600w, /wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-300x200.png 300w, /wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-768x512.png 768w, /wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The <strong><a href="https://www.electrikjam.com/fender-american-professional-ii-jazzmaster-vs-fender-american-professional-ii-telecaster/" data-type="post" data-id="15738" data-lasso-id="269154">Fender American Professional II Telecaster is Utterly Outstanding</a></strong> –&nbsp;It&#8217;s As Good As Any Custom Shop Model I&#8217;ve Played.</figcaption></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-1024x683.png" alt="Fender American Professional II Telecaster" class="wp-image-15748" style="border-radius:20px" title="" srcset="/wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-1024x683.png 1024w, /wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-600x400.png 600w, /wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-300x200.png 300w, /wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster-768x512.png 768w, /wp-content/uploads/2024/08/Fender-American-Professional-II-Telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The <strong><a href="/fender-american-professional-ii-jazzmaster-vs-fender-american-professional-ii-telecaster/" data-type="post" data-id="15738" data-lasso-id="269154">Fender American Professional II Telecaster is Utterly Outstanding</a></strong> –&nbsp;It&#8217;s As Good As Any Custom Shop Model I&#8217;ve Played.</figcaption></figure>
 
 
 
-<p>Or for a couple of hundred bucks less, you could get the Squier Contemporary Telecaster which, <strong><a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" data-lasso-id="269155">as I noted in my review</a></strong>, is an utter monster when it comes to metal and heavier styles of music. </p>
+<p>Or for a couple of hundred bucks less, you could get the Squier Contemporary Telecaster which, <strong><a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" data-lasso-id="269155">as I noted in my review</a></strong>, is an utter monster when it comes to metal and heavier styles of music. </p>
 
 
 

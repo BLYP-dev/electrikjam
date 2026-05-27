@@ -44,15 +44,15 @@ seo:
 
 
 
-<p>Voltreus was created in early 2020, but didn&#8217;t play live until mid-2021 due to COVID-19 concerns. After gaining quick momentum, Voltreus&#8217; first release was on September 3, 2021 with their <strong><a href="https://www.electrikjam.com/ej-underexposed-presents-voltreus/" target="_blank" data-type="post" data-id="6340" rel="noopener" data-lasso-id="213169">EP &#8216;Solace&#8217;</a></strong>. By combining various styles of inspiration by each musician, Voltreus created a sound that&#8217;s all their own. </p>
+<p>Voltreus was created in early 2020, but didn&#8217;t play live until mid-2021 due to COVID-19 concerns. After gaining quick momentum, Voltreus&#8217; first release was on September 3, 2021 with their <strong><a href="/ej-underexposed-presents-voltreus/" target="_blank" data-type="post" data-id="6340" rel="noopener" data-lasso-id="213169">EP &#8216;Solace&#8217;</a></strong>. By combining various styles of inspiration by each musician, Voltreus created a sound that&#8217;s all their own. </p>
 
 
 
-<p>All 4 songs have completely different sounds and their meanings all tell a story about hardships that people experience and how everyone can get through them. It is a serious journey, and a lot of the songs we have already<strong><a href="https://www.electrikjam.com/ej-underexposed-presents-voltreus/" data-type="post" data-id="6340" target="_blank" rel="noopener" data-lasso-id="213170"> talked about</a></strong>. But Voltreus didn&#8217;t just stop there.</p>
+<p>All 4 songs have completely different sounds and their meanings all tell a story about hardships that people experience and how everyone can get through them. It is a serious journey, and a lot of the songs we have already<strong><a href="/ej-underexposed-presents-voltreus/" data-type="post" data-id="6340" target="_blank" rel="noopener" data-lasso-id="213170"> talked about</a></strong>. But Voltreus didn&#8217;t just stop there.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/voltreus-release-1st-new-single-2022/" data-type="post" data-id="8241" target="_blank" rel="noopener" data-lasso-id="213171">We covered their last single called &#8220;Relinquish&#8221;</a></strong>, and we saw the band starting to move away from the older sound. Tyler&#8217;s vocals changed up a bit, and became way more dynamic. The guitars were still brutal, but there was more melody. The direction had started to shift a little, for the better!</p>
+<p><strong><a href="/voltreus-release-1st-new-single-2022/" data-type="post" data-id="8241" target="_blank" rel="noopener" data-lasso-id="213171">We covered their last single called &#8220;Relinquish&#8221;</a></strong>, and we saw the band starting to move away from the older sound. Tyler&#8217;s vocals changed up a bit, and became way more dynamic. The guitars were still brutal, but there was more melody. The direction had started to shift a little, for the better!</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<p><strong>Ferni Ramirez&#8217;s</strong> riffs have never sounded heavier, and the guitars in &#8220;Blur&#8221; build a TON of tension throughout the song. &#8220;Blur&#8221; is the first Voltreus song to use a <strong><a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="213173">7 string</a></strong> in<strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="213174"> Drop A,</a></strong> and it sounds <em>monstrous</em>. When you blend in new tempo dynamics? It makes an<em> audio tsunami</em> when the song picks up after the intro.</p>
+<p><strong>Ferni Ramirez&#8217;s</strong> riffs have never sounded heavier, and the guitars in &#8220;Blur&#8221; build a TON of tension throughout the song. &#8220;Blur&#8221; is the first Voltreus song to use a <strong><a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="213173">7 string</a></strong> in<strong><a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="213174"> Drop A,</a></strong> and it sounds <em>monstrous</em>. When you blend in new tempo dynamics? It makes an<em> audio tsunami</em> when the song picks up after the intro.</p>
 
 
 

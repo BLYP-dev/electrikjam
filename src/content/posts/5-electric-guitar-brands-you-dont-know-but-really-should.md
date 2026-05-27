@@ -47,19 +47,19 @@ seo:
 
 
 
-<p><strong><a class="rank-math-link" href="https://www.electrikjam.com/what-are-chibson-guitars/" data-lasso-id="790">You won&#8217;t find knock-off brands like Chibson</a></strong>, but there are some lesser known brands that you should definitely be aware of&#8230; </p>
+<p><strong><a class="rank-math-link" href="/what-are-chibson-guitars/" data-lasso-id="790">You won&#8217;t find knock-off brands like Chibson</a></strong>, but there are some lesser known brands that you should definitely be aware of&#8230; </p>
 
 
 
-<p>Of course there is nothing wrong with these brands! I mean, we love a lot of the bigger brands here at Electrikjam, especially brands like<a href="https://www.electrikjam.com/gibson-vs-epiphone-2021-which-is-best/" class="rank-math-link" data-lasso-id="791"> Epiphone</a>.  But on the same token, sometimes we are looking for something just a little.. different.</p>
+<p>Of course there is nothing wrong with these brands! I mean, we love a lot of the bigger brands here at Electrikjam, especially brands like<a href="/gibson-vs-epiphone-2021-which-is-best/" class="rank-math-link" data-lasso-id="791"> Epiphone</a>.  But on the same token, sometimes we are looking for something just a little.. different.</p>
 
 
 
-<p>I think it&#8217;s only fair to explore all of the different price brackets. Some of these guitars on the list are very affordable, while others may be a little out of most people&#8217;s price range. it just really depends on you, the player, as to which <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211325">electric guitar</a> brand you choose.</p>
+<p>I think it&#8217;s only fair to explore all of the different price brackets. Some of these guitars on the list are very affordable, while others may be a little out of most people&#8217;s price range. it just really depends on you, the player, as to which <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211325">electric guitar</a> brand you choose.</p>
 
 
 
-<p>Today we check out the top 5 <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216533">electric guitar</a> brands that you might have never checked out, but you definitely should!</p>
+<p>Today we check out the top 5 <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216533">electric guitar</a> brands that you might have never checked out, but you definitely should!</p>
 
 
 
@@ -75,19 +75,19 @@ seo:
 
 
 
-<p>This might be the only one of the <a href="https://www.electrikjam.com/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217646">electric guitar</a> brands on this list that you have already played! Cort Guitars is actually more famous for making other brands, like Epiphone and Fender. They still make certain <a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="792">Ibanez models</a> in their famous factory.</p>
+<p>This might be the only one of the <a href="/what-is-the-average-cost-of-an-electric-guitar/" data-lasso-id="217646">electric guitar</a> brands on this list that you have already played! Cort Guitars is actually more famous for making other brands, like Epiphone and Fender. They still make certain <a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" data-lasso-id="792">Ibanez models</a> in their famous factory.</p>
 
 
 
-<p>But most people have no idea that Cort makes an entire line of guitars under their name, and a lot of the models are really great. We took a look at <a href="https://www.electrikjam.com/cort-guitars-a-wonderful-high-quality-brand/" class="rank-math-link" data-lasso-id="793">the 2020 lineup already</a>, and it was impressive to say the least. They have some signature models, and many standard models to boot. </p>
+<p>But most people have no idea that Cort makes an entire line of guitars under their name, and a lot of the models are really great. We took a look at <a href="/cort-guitars-a-wonderful-high-quality-brand/" class="rank-math-link" data-lasso-id="793">the 2020 lineup already</a>, and it was impressive to say the least. They have some signature models, and many standard models to boot. </p>
 
 
 
-<p>Cort is a great brand when it comes price. You get tons of features in the upper range of the Cort line, that usually come at a much more expensive price. You can get name brand hardware, and even <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="794">Fishman pickups.</a></p>
+<p>Cort is a great brand when it comes price. You get tons of features in the upper range of the Cort line, that usually come at a much more expensive price. You can get name brand hardware, and even <a href="/fishman-fluence-modern-review-is-the-hype-legit/" class="rank-math-link" data-lasso-id="794">Fishman pickups.</a></p>
 
 
 
-<p>So if you are looking for something a little different on a budget&#8230; then <a href="https://www.electrikjam.com/cort-g300-pro-a-take-on-affordable-boutique/" data-lasso-id="795">Cort</a> might be right up your alley. They may not be hugely popular <a href="https://www.electrikjam.com/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218272">electric guitar</a> brand, but they have a lot to offer for an affordable price.</p>
+<p>So if you are looking for something a little different on a budget&#8230; then <a href="/cort-g300-pro-a-take-on-affordable-boutique/" data-lasso-id="795">Cort</a> might be right up your alley. They may not be hugely popular <a href="/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218272">electric guitar</a> brand, but they have a lot to offer for an affordable price.</p>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p>GOC Guitars is a completely new brand to even me. I just found out about them this past year, after clicking on an ad. They make several different models, but most of them are geared toward Metal, and come in 7 and 8 string variants. Turns out, they seem growing in popularity as being one of the more <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44657">affordable electric guitar brands</a>.</p>
+<p>GOC Guitars is a completely new brand to even me. I just found out about them this past year, after clicking on an ad. They make several different models, but most of them are geared toward Metal, and come in 7 and 8 string variants. Turns out, they seem growing in popularity as being one of the more <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44657">affordable electric guitar brands</a>.</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p>So if you are in the market for something like Strandberg, but you don&#8217;t have a few grand lying around to burn, maybe GOC is more up your alley! However, if you are looking to go for an electric <a href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-lasso-id="70792">guitar brand</a> that is completely custom&#8230;</p>
+<p>So if you are in the market for something like Strandberg, but you don&#8217;t have a few grand lying around to burn, maybe GOC is more up your alley! However, if you are looking to go for an electric <a href="/the-best-guitar-brands-for-lefties-2022/" data-lasso-id="70792">guitar brand</a> that is completely custom&#8230;</p>
 
 
 
@@ -139,11 +139,11 @@ seo:
 
 
 
-<p>Kiesel is not one of the household name <a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" data-lasso-id="215693">electric guitar brands</a> like they should be. They are probably the most popular custom instrument maker in the United States, and used to function under the name Carvin.</p>
+<p>Kiesel is not one of the household name <a href="/what-is-the-best-electric-guitar-brand/" data-lasso-id="215693">electric guitar brands</a> like they should be. They are probably the most popular custom instrument maker in the United States, and used to function under the name Carvin.</p>
 
 
 
-<p><a href="https://www.electrikjam.com/the-best-guitar-amps-under-100-bucks/" data-lasso-id="797">Kiesel/Carvin have made amps</a> and guitars for some big names over the years, namely <strong>Steve Vai.</strong> So while they may not be the most popular electric guitar brand, they definitely have some street cred to back up the products.</p>
+<p><a href="/the-best-guitar-amps-under-100-bucks/" data-lasso-id="797">Kiesel/Carvin have made amps</a> and guitars for some big names over the years, namely <strong>Steve Vai.</strong> So while they may not be the most popular electric guitar brand, they definitely have some street cred to back up the products.</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>Fernandes is one of those electric guitar brands that have been around forever. The company was probably most popular in the 80&#8217;s when all the major electric guitar brands made <a href="https://www.electrikjam.com/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9097">&#8220;super shredder&#8221;</a> guitars. Those original Fernandes <a href="https://www.electrikjam.com/electrikjam-link/" data-lasso-id="19876" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Guitars are still in the used market</a>, and highly sought after by collectors.</p>
+<p>Fernandes is one of those electric guitar brands that have been around forever. The company was probably most popular in the 80&#8217;s when all the major electric guitar brands made <a href="/schecter-sun-valley-super-shredder-exotic-hardtail/" data-lasso-id="9097">&#8220;super shredder&#8221;</a> guitars. Those original Fernandes <a href="/electrikjam-link/" data-lasso-id="19876" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Harley Benton Fusion-III HSH Roasted FBB">Guitars are still in the used market</a>, and highly sought after by collectors.</p>
 
 
 
@@ -191,7 +191,7 @@ seo:
 
 
 
-<p><strong>As an honorable mention:</strong> Fernandes also owns <strong>Burny Guitars</strong>, that makes almost exact replicas of <a href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="798">Gibson Les Paul guitars</a>. These are to Gibson spec, but built by Japanese craftsmen that easily rival the Gibson models. Burny is another one of those electric guitar brands that you may have never heard of, but should definitely check out!</p>
+<p><strong>As an honorable mention:</strong> Fernandes also owns <strong>Burny Guitars</strong>, that makes almost exact replicas of <a href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/" data-lasso-id="798">Gibson Les Paul guitars</a>. These are to Gibson spec, but built by Japanese craftsmen that easily rival the Gibson models. Burny is another one of those electric guitar brands that you may have never heard of, but should definitely check out!</p>
 
 
 
@@ -211,11 +211,11 @@ seo:
 
 
 
-<p>While Agile is definitely not one of the <a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145773">mainstream electric guitar brands</a>, you might have heard of them if you are in a niche group of metal guitar players.  Otherwise, I think Agile flies under most people&#8217;s radar.</p>
+<p>While Agile is definitely not one of the <a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145773">mainstream electric guitar brands</a>, you might have heard of them if you are in a niche group of metal guitar players.  Otherwise, I think Agile flies under most people&#8217;s radar.</p>
 
 
 
-<p>Agile is sold exclusively by Rondo Music in the United States. However they are made in South Korea, suspiciously in the same region as other brands like <a href="https://www.electrikjam.com/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="799">ESP/LTD</a> and Schecter. This speaks to the quality of the parts and manufacturing, for sure.</p>
+<p>Agile is sold exclusively by Rondo Music in the United States. However they are made in South Korea, suspiciously in the same region as other brands like <a href="/the-2021-esp-lineup-amazing-guitars-to-ring-in-the-new-year/" class="rank-math-link" data-lasso-id="799">ESP/LTD</a> and Schecter. This speaks to the quality of the parts and manufacturing, for sure.</p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>Out of the box, they are usually not set up. This can be a huge turn off for new <a href="https://www.electrikjam.com/5-best-christmas-presents-for-guitar-players/" data-lasso-id="29815">guitar players</a>. It never bothers me much, as i can set up most guitars the way I like them. But if you have less experience n this department, then it might be a good idea to check elsewhere. Or take it to a guitar tech!</p>
+<p>Out of the box, they are usually not set up. This can be a huge turn off for new <a href="/5-best-christmas-presents-for-guitar-players/" data-lasso-id="29815">guitar players</a>. It never bothers me much, as i can set up most guitars the way I like them. But if you have less experience n this department, then it might be a good idea to check elsewhere. Or take it to a guitar tech!</p>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<p>Agile makes all kinds of models, ranging from classic Les Paul shapes, to Extreme Metal concepts in <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="800">7 and 8 string configurations</a>. Almost <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14309">every model Agile makes is very budget</a> friendly, and you&#8217;ll be hard pressed to find something over $800. Compare this to other electric guitar brands, that offer much less.</p>
+<p>Agile makes all kinds of models, ranging from classic Les Paul shapes, to Extreme Metal concepts in <a href="/types-of-guitars-guide/" data-lasso-id="800">7 and 8 string configurations</a>. Almost <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14309">every model Agile makes is very budget</a> friendly, and you&#8217;ll be hard pressed to find something over $800. Compare this to other electric guitar brands, that offer much less.</p>
 
 
 

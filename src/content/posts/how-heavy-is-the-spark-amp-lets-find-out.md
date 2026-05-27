@@ -39,23 +39,23 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-type="post" data-id="1924" data-lasso-id="5933">Positive Grid’s Spark Amp</a></strong> pretty much blew the roof off of NAMM when it was first announced. And with good reason too: the Spark Amp has plenty of unique features, loads of cool tones and effects, and best of all you can control them all via Bluetooth on your phone.</p>
+<p><strong><a href="/killer-guitar-tone-without-hardware/" data-type="post" data-id="1924" data-lasso-id="5933">Positive Grid’s Spark Amp</a></strong> pretty much blew the roof off of NAMM when it was first announced. And with good reason too: the Spark Amp has plenty of unique features, loads of cool tones and effects, and best of all you can control them all via Bluetooth on your phone.</p>
 
 
 
-<p>I pre-ordered the Spark Amp as soon as it was available; I now use it most days to practice or demo stuff on my PC (yep, it works as an <strong><a href="https://www.electrikjam.com/connect-guitar-to-macbook-guide/" data-type="post" data-id="2722" data-lasso-id="5934">audio interface for your computer </a></strong>too). </p>
+<p>I pre-ordered the Spark Amp as soon as it was available; I now use it most days to practice or demo stuff on my PC (yep, it works as an <strong><a href="/connect-guitar-to-macbook-guide/" data-type="post" data-id="2722" data-lasso-id="5934">audio interface for your computer </a></strong>too). </p>
 
 
 
-<p><strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">I paid less than $200 for mine</a></strong> and the price hasn’t changed much since it first hit the market.</p>
+<p><strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="/recommends/spark-amp/" data-shortcode="true">I paid less than $200 for mine</a></strong> and the price hasn’t changed much since it first hit the market.</p>
 
 
 
-<p>The Spark Amp is designed to be a <strong><a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="5935">practice amp</a></strong>; it is small and doesn’t take up too much room. You can use it to record or as a smart speaker too. It’s basically the Swiss Army knife of <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18327">guitar amps</a>. </p>
+<p>The Spark Amp is designed to be a <strong><a href="/best-practice-amps-for-beginners/" data-type="post" data-id="532" data-lasso-id="5935">practice amp</a></strong>; it is small and doesn’t take up too much room. You can use it to record or as a smart speaker too. It’s basically the Swiss Army knife of <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18327">guitar amps</a>. </p>
 
 
 
-<p>But how big is the <a href="https://www.electrikjam.com/is-spark-amp-battery-powered-what-you-need-to-know/" data-lasso-id="7477">Spark Amp</a>? And how much does it weigh?</p>
+<p>But how big is the <a href="/is-spark-amp-battery-powered-what-you-need-to-know/" data-lasso-id="7477">Spark Amp</a>? And how much does it weigh?</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>Not as easy as the <strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" data-type="post" data-id="2700" data-lasso-id="5936">Fender Mustang Micro</a></strong>, of course, but that little gizmo doesn’t pack in a 50W speaker. No, the Spark Amp is designed for recording, practicing, and jamming – either with a band or its built-in AI drummer and bass player (yep, it has both of those things).</p>
+<p>Not as easy as the <strong><a href="/fender-mustang-micro-features-price/" data-type="post" data-id="2700" data-lasso-id="5936">Fender Mustang Micro</a></strong>, of course, but that little gizmo doesn’t pack in a 50W speaker. No, the Spark Amp is designed for recording, practicing, and jamming – either with a band or its built-in AI drummer and bass player (yep, it has both of those things).</p>
 
 
 
@@ -81,7 +81,7 @@ seo:
 
 
 
-<p>As for how <a href="https://www.electrikjam.com/spark-amp-amp-list/" data-lasso-id="104846">the Spark Amp</a> works, it sounds really complicated but in reality, it is really very easy. You download the Spark Amp app for your phone or tablet – it’s available for <strong>iPhone and Android</strong> – pair it with the amp, this takes like two seconds, and then you’re free to start exploring the thousands of tone options.</p>
+<p>As for how <a href="/spark-amp-amp-list/" data-lasso-id="104846">the Spark Amp</a> works, it sounds really complicated but in reality, it is really very easy. You download the Spark Amp app for your phone or tablet – it’s available for <strong>iPhone and Android</strong> – pair it with the amp, this takes like two seconds, and then you’re free to start exploring the thousands of tone options.</p>
 
 
 
@@ -97,15 +97,15 @@ seo:
 
 
 
-<p>Want to <a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-lasso-id="88521">sound like James Hetfield on  Ride The Lightning</a>? Just search <strong><a href="https://www.electrikjam.com/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" data-lasso-id="5937">James Hetfield + Ride The Lightning</a></strong>. You’ll find hundreds of options.</p>
+<p>Want to <a href="/what-pickups-does-james-hetfield-use/" data-lasso-id="88521">sound like James Hetfield on  Ride The Lightning</a>? Just search <strong><a href="/metallica-songs-complete-list-inc-covers-rarities/" data-type="post" data-id="3522" data-lasso-id="5937">James Hetfield + Ride The Lightning</a></strong>. You’ll find hundreds of options.</p>
 
 
 
-<p>If you’re a beginner, or you don’t have much money laying around for things like <strong><a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-type="post" data-id="1408" data-lasso-id="5938">tube amps</a></strong> and <strong><a href="https://www.electrikjam.com/the-5-best-guitar-pedals-under-50-bucks/" data-type="post" data-id="2938" data-lasso-id="5939">pedals</a></strong>, the Spark Amp is perhaps your best bet for exploring what’s possible with an infinite supply of pedals and amps. They’re all virtual, of course, but they sound pretty much the same and take up way less room in your house.</p>
+<p>If you’re a beginner, or you don’t have much money laying around for things like <strong><a href="/the-5-best-amps-for-doom-metal-in-2020/" data-type="post" data-id="1408" data-lasso-id="5938">tube amps</a></strong> and <strong><a href="/the-5-best-guitar-pedals-under-50-bucks/" data-type="post" data-id="2938" data-lasso-id="5939">pedals</a></strong>, the Spark Amp is perhaps your best bet for exploring what’s possible with an infinite supply of pedals and amps. They’re all virtual, of course, but they sound pretty much the same and take up way less room in your house.</p>
 
 
 
-<p>For the price – <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="https://www.electrikjam.com/recommends/spark-amp/" data-shortcode="true">around $240</a></strong> – the Spark Amp is perhaps one of the most useful and best value pieces of guitar gear on the market right now. </p>
+<p>For the price – <strong><a class="thirstylink" rel="nofollow" target="_blank" title="Spark Amp" href="/recommends/spark-amp/" data-shortcode="true">around $240</a></strong> – the Spark Amp is perhaps one of the most useful and best value pieces of guitar gear on the market right now. </p>
 
 
 

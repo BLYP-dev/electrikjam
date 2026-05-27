@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>Recently, headless guitars became popular again, and their ergonomic design has been adopted by all kinds of players. The same can be said of multi-scale guitars, which solves a myriad of problems that you run into when it comes to <strong><a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" target="_blank" data-type="post" data-id="7372" rel="noopener" data-lasso-id="218260">tuning your guitar low</a></strong>.</p>
+<p>Recently, headless guitars became popular again, and their ergonomic design has been adopted by all kinds of players. The same can be said of multi-scale guitars, which solves a myriad of problems that you run into when it comes to <strong><a href="/best-strings-for-drop-tuning/" target="_blank" data-type="post" data-id="7372" rel="noopener" data-lasso-id="218260">tuning your guitar low</a></strong>.</p>
 
 
 
@@ -94,7 +94,7 @@ seo:
 
 
 
-<p>But what are the differences between the 3 different types of guitars? All 3 have different advantages, as well as some disadvantages. Each type is also preferred but different types of players. So let&#8217;s take a look at the <strong><a href="https://www.electrikjam.com/types-of-guitars-guide/" target="_blank" data-type="post" data-id="2545" rel="noopener" data-lasso-id="218261">different types of guitars</a></strong>, and talk about what makes each one unique. </p>
+<p>But what are the differences between the 3 different types of guitars? All 3 have different advantages, as well as some disadvantages. Each type is also preferred but different types of players. So let&#8217;s take a look at the <strong><a href="/types-of-guitars-guide/" target="_blank" data-type="post" data-id="2545" rel="noopener" data-lasso-id="218261">different types of guitars</a></strong>, and talk about what makes each one unique. </p>
 
 
 
@@ -114,11 +114,11 @@ seo:
 
 
 
-<p>The solid body electric guitar is probably the most popular among <a href="https://www.electrikjam.com/top-5-underrated-guitarists/" data-lasso-id="233858">modern players</a>, but it is also the newest! Solid body guitars have only been popular for short period of time when you take into account the lineage of guitar. The solid body was a game changer, and it remains the king of electric guitars.</p>
+<p>The solid body electric guitar is probably the most popular among <a href="/top-5-underrated-guitarists/" data-lasso-id="233858">modern players</a>, but it is also the newest! Solid body guitars have only been popular for short period of time when you take into account the lineage of guitar. The solid body was a game changer, and it remains the king of electric guitars.</p>
 
 
 
-<p>Fender Guitars was the first mass-produced production solid body guitar brand. If you check out <strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="218262">our article about who invented the electric guitar</a></strong>, there were other attempts before Fender. But none of the other ideas were as <em>great</em> as what Fender accomplished.</p>
+<p>Fender Guitars was the first mass-produced production solid body guitar brand. If you check out <strong><a href="/who-invented-the-electric-guitar/" data-type="post" data-id="583" target="_blank" rel="noopener" data-lasso-id="218262">our article about who invented the electric guitar</a></strong>, there were other attempts before Fender. But none of the other ideas were as <em>great</em> as what Fender accomplished.</p>
 
 
 
@@ -222,7 +222,7 @@ seo:
 
 
 
-<p>Electric guitar is both modern, and a heritage when it comes to history. Companies like <strong><a href="https://www.electrikjam.com/history-of-fender-stratocaster/" data-type="post" data-id="10898" target="_blank" rel="noopener" data-lasso-id="218263">Fender</a></strong> and <strong><a href="https://www.electrikjam.com/gibson-guitars/" data-type="page" data-id="3878" target="_blank" rel="noopener" data-lasso-id="218264">Gibson</a></strong> still offer guitars that are built just like they were 60 years ago! These historic replicas are popular among guitarists because they are a piece of history.</p>
+<p>Electric guitar is both modern, and a heritage when it comes to history. Companies like <strong><a href="/history-of-fender-stratocaster/" data-type="post" data-id="10898" target="_blank" rel="noopener" data-lasso-id="218263">Fender</a></strong> and <strong><a href="/gibson-guitars/" data-type="page" data-id="3878" target="_blank" rel="noopener" data-lasso-id="218264">Gibson</a></strong> still offer guitars that are built just like they were 60 years ago! These historic replicas are popular among guitarists because they are a piece of history.</p>
 
 
 

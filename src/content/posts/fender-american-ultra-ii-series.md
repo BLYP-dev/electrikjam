@@ -132,7 +132,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/fender-meteora-vs-fender-telecaster-which-is-best/" data-type="post" data-id="12761" data-lasso-id="270511">Remember the Meteora</a></strong> from the Player Plus range? Well, it just got a serious upgrade. Now part of the Ultra II series, this USA-made guitar brings bold design and enhanced features to the lineup. </p>
+<p><strong><a href="/fender-meteora-vs-fender-telecaster-which-is-best/" data-type="post" data-id="12761" data-lasso-id="270511">Remember the Meteora</a></strong> from the Player Plus range? Well, it just got a serious upgrade. Now part of the Ultra II series, this USA-made guitar brings bold design and enhanced features to the lineup. </p>
 
 
 

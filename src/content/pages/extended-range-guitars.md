@@ -259,11 +259,11 @@ seo:
 
 
 
-<p>Guitars like the <strong><a href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="268504">Ibanez RG7321</a></strong> or the <a href="https://www.electrikjam.com/guitar-brands/schecter-guitars/" data-type="guitar-brands" data-id="14013" data-lasso-id="268505"><strong>Schecter Omen-8</strong> </a>are great examples of budget-friendly ERGs that deliver on both playability and tone, making them accessible for players looking to explore new sonic territories without breaking the bank. </p>
+<p>Guitars like the <strong><a href="/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="268504">Ibanez RG7321</a></strong> or the <a href="/guitar-brands/schecter-guitars/" data-type="guitar-brands" data-id="14013" data-lasso-id="268505"><strong>Schecter Omen-8</strong> </a>are great examples of budget-friendly ERGs that deliver on both playability and tone, making them accessible for players looking to explore new sonic territories without breaking the bank. </p>
 
 
 
-<p>Meanwhile, higher-end models like the <strong><a href="https://www.electrikjam.com/the-top-5-extended-range-guitars-for-2021-going-low/" data-type="post" data-id="2358" data-lasso-id="268506">Strandberg Boden 8</a></strong> offer ergonomic design and cutting-edge features for serious musicians pushing the boundaries of their craft.</p>
+<p>Meanwhile, higher-end models like the <strong><a href="/the-top-5-extended-range-guitars-for-2021-going-low/" data-type="post" data-id="2358" data-lasso-id="268506">Strandberg Boden 8</a></strong> offer ergonomic design and cutting-edge features for serious musicians pushing the boundaries of their craft.</p>
 
 
 </div>
@@ -437,7 +437,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="268511">Fredrik Thordendal from Meshuggah</a></strong> helped pioneer the use of 8-strings in djent, using models like the Ibanez M80M to create their signature polyrhythmic, downtuned sound.</p>
+<p><strong><a href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" data-lasso-id="268511">Fredrik Thordendal from Meshuggah</a></strong> helped pioneer the use of 8-strings in djent, using models like the Ibanez M80M to create their signature polyrhythmic, downtuned sound.</p>
 
 
 
@@ -521,7 +521,7 @@ seo:
 
 
 
-<p>Take <strong><a href="https://www.electrikjam.com/deftones-101-guide/" data-type="post" data-id="14645" data-lasso-id="268514">Stephen Carpenter from Deftones</a></strong>, who uses baritone guitars like the ESP SC-607B to create those signature, downtuned walls of sound that define the band’s heavier tracks. </p>
+<p>Take <strong><a href="/deftones-101-guide/" data-type="post" data-id="14645" data-lasso-id="268514">Stephen Carpenter from Deftones</a></strong>, who uses baritone guitars like the ESP SC-607B to create those signature, downtuned walls of sound that define the band’s heavier tracks. </p>
 
 
 
@@ -585,7 +585,7 @@ seo:
 
 
 
-<p>Consider the genre and style of music you’re aiming for. If you’re diving into metal or djent, a guitar with humbuckers and a fast neck is a solid choice. Brands like <strong><a href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="268516">Ibanez</a></strong> and <strong><a href="https://www.electrikjam.com/guitar-brands/schecter-guitars/" data-type="guitar-brands" data-id="14013" data-lasso-id="268517">Schecter</a></strong> offer great extended-range models that won’t drain your wallet but still deliver powerful tones.</p>
+<p>Consider the genre and style of music you’re aiming for. If you’re diving into metal or djent, a guitar with humbuckers and a fast neck is a solid choice. Brands like <strong><a href="/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="268516">Ibanez</a></strong> and <strong><a href="/guitar-brands/schecter-guitars/" data-type="guitar-brands" data-id="14013" data-lasso-id="268517">Schecter</a></strong> offer great extended-range models that won’t drain your wallet but still deliver powerful tones.</p>
 </div>
 
 
@@ -729,7 +729,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="268520">ERGs often use lower tunings</a></strong>, which can be tricky in a band setting. You’ll need to balance your sound carefully to avoid overpowering other instruments. It’s all about finding that sweet spot.</p>
+<p><strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="268520">ERGs often use lower tunings</a></strong>, which can be tricky in a band setting. You’ll need to balance your sound carefully to avoid overpowering other instruments. It’s all about finding that sweet spot.</p>
 </div>
 </div>
 

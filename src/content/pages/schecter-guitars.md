@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>But the best thing about <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247821">Schecter guitars</a> is that, like Epiphone, they have a huge range of models across a wide range of price points. Schecter caters to hobbyist players with models in the $300 to $600 range and professional players with its more expensive guitars – up to and over $1000 to $1500.</p>
+<p>But the best thing about <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247821">Schecter guitars</a> is that, like Epiphone, they have a huge range of models across a wide range of price points. Schecter caters to hobbyist players with models in the $300 to $600 range and professional players with its more expensive guitars – up to and over $1000 to $1500.</p>
 
 
 
@@ -71,7 +71,7 @@ seo:
 
 
 
-<p>For metal, a Schecter guitar is ideal. But you’re not limited to metal music. <a href="https://www.electrikjam.com/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125522">A Schecter guitar will be able to handle anything</a> you want to do –&nbsp;from blues to jazz and even pop music. To my eyes, though, Schecter’s natural home is inside the metal scene. Its guitars just have that quintessential “metal” look about them.</p>
+<p>For metal, a Schecter guitar is ideal. But you’re not limited to metal music. <a href="/new-schecter-rob-scallon-guitars-review/" data-lasso-id="125522">A Schecter guitar will be able to handle anything</a> you want to do –&nbsp;from blues to jazz and even pop music. To my eyes, though, Schecter’s natural home is inside the metal scene. Its guitars just have that quintessential “metal” look about them.</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199530">Schecter</a> makes all of its own pickups. These pickups are all hand-wound in Schecter’s custom shop too. You have an array of options as well from Schecter humbuckers to its calibrated sets and even single coil options. Schecter pickups are well known for their tone and overall quality.</p>
+<p><a href="/schecter-machine-gun-kelly-pt-review/" data-lasso-id="199530">Schecter</a> makes all of its own pickups. These pickups are all hand-wound in Schecter’s custom shop too. You have an array of options as well from Schecter humbuckers to its calibrated sets and even single coil options. Schecter pickups are well known for their tone and overall quality.</p>
 
 
 

@@ -36,7 +36,7 @@ seo:
 
 
 
-<p>When you think of a guitar, what do you see? Me, I see a Gibson Les Paul. In black. My best friend? He sees a Fender Strat. Others might think of a Telecaster. Either way, 9/10 people think of a guitar made by either Fender or <a class="wpil_keyword_link" href="https://www.electrikjam.com/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="19191">Gibson</a>.</p>
+<p>When you think of a guitar, what do you see? Me, I see a Gibson Les Paul. In black. My best friend? He sees a Fender Strat. Others might think of a Telecaster. Either way, 9/10 people think of a guitar made by either Fender or <a class="wpil_keyword_link" href="/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="19191">Gibson</a>.</p>
 
 
 
@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Earlier this week, REVERB dropped some data about the best-selling <a href="https://www.electrikjam.com/new-harley-benton-25th-anniversary-guitars/" data-lasso-id="227732">guitar models</a> from the past 12 months. The list included the 20 most popular and best-selling guitar models for 2021. And they are as follows:</p>
+<p>Earlier this week, REVERB dropped some data about the best-selling <a href="/new-harley-benton-25th-anniversary-guitars/" data-lasso-id="227732">guitar models</a> from the past 12 months. The list included the 20 most popular and best-selling guitar models for 2021. And they are as follows:</p>
 
 
 
@@ -53,92 +53,92 @@ seo:
 
 
 <ol class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="236025">Fender Player Telecaster</a></strong></li>
+<li><strong><a href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="236025">Fender Player Telecaster</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="236026">Fender Player Stratocaster</a></strong></li>
+<li><strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="236026">Fender Player Stratocaster</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-lasso-id="236027">PRS Silver Sky John Mayer Signature</a></strong></li>
+<li><strong><a href="/prs-se-silver-sky-review-2022/" data-lasso-id="236027">PRS Silver Sky John Mayer Signature</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="236028">Squier Affinity Telecaster</a></strong></li>
+<li><strong><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="236028">Squier Affinity Telecaster</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/pxf-39/" data-type="lasso-urls" data-id="7502" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="236029" data-lasso-name="Fender American Professional II Stratocaster">Fender American Professional II Stratocaster</a></strong></li>
+<li><strong><a href="/pxf-39/" data-type="lasso-urls" data-id="7502" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="236029" data-lasso-name="Fender American Professional II Stratocaster">Fender American Professional II Stratocaster</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-qnvga5/" data-type="lasso-urls" data-id="6061" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="236030" data-lasso-name="PRS Custom 24 SE">PRS SE Custom 24</a></strong></li>
+<li><strong><a href="/guitar-center-pxf-io-qnvga5/" data-type="lasso-urls" data-id="6061" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="236030" data-lasso-name="PRS Custom 24 SE">PRS SE Custom 24</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="236031">Fender American Professional II Telecaster</a></strong></li>
+<li><strong><a href="/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="236031">Fender American Professional II Telecaster</a></strong></li>
 
 
 
-<li><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44946"><strong>Gibson Les Paul Standard &#8217;60s</strong></a><strong> </strong></li>
+<li><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44946"><strong>Gibson Les Paul Standard &#8217;60s</strong></a><strong> </strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="236032">Gibson Les Paul Standard &#8217;50s</a></strong></li>
+<li><strong><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="236032">Gibson Les Paul Standard &#8217;50s</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/esp-ltd-ec-1000-baritone-electric-guitar-charcoal-metallic-satin-guitar-center/" data-type="lasso-urls" data-id="11730" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="236033" data-lasso-name="ESP LTD EC-1000">ESP LTD EC-1000</a></strong></li>
+<li><strong><a href="/esp-ltd-ec-1000-baritone-electric-guitar-charcoal-metallic-satin-guitar-center/" data-type="lasso-urls" data-id="11730" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="236033" data-lasso-name="ESP LTD EC-1000">ESP LTD EC-1000</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" data-lasso-id="236034">Squier Affinity Series Stratocaster</a></strong></li>
+<li><strong><a href="/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" data-lasso-id="236034">Squier Affinity Series Stratocaster</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="236035">Fender American Standard Stratocaster</a></strong></li>
+<li><strong><a href="/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="236035">Fender American Standard Stratocaster</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-type="post" data-id="10030" data-lasso-id="236036">PRS CE 24</a></strong></li>
+<li><strong><a href="/prs-guitar-pedals-reviewed/" data-type="post" data-id="10030" data-lasso-id="236036">PRS CE 24</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" data-lasso-id="236037">Fender American Professional Series Stratocaster</a></strong></li>
+<li><strong><a href="/fender-price-tiers-explained/" data-type="post" data-id="7446" data-lasso-id="236037">Fender American Professional Series Stratocaster</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="236038">Fender American Ultra Telecaster</a></strong></li>
+<li><strong><a href="/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="236038">Fender American Ultra Telecaster</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/" data-type="post" data-id="4546" data-lasso-id="236039">Squier J Mascis Jazzmaster</a></strong></li>
+<li><strong><a href="/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/" data-type="post" data-id="4546" data-lasso-id="236039">Squier J Mascis Jazzmaster</a></strong></li>
 
 
 
-<li><a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-lasso-id="178768"><strong>Squier Classic Vibe</strong></a><strong> &#8217;60s Jazzmaster</strong></li>
+<li><a href="/squier-baritone-telecaster-custom-review/" data-lasso-id="178768"><strong>Squier Classic Vibe</strong></a><strong> &#8217;60s Jazzmaster</strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-stratocaster-price-guide/" data-type="post" data-id="10939" data-lasso-id="236040">Fender American Standard Stratocaster (1986–2000)</a></strong></li>
+<li><strong><a href="/fender-stratocaster-price-guide/" data-type="post" data-id="10939" data-lasso-id="236040">Fender American Standard Stratocaster (1986–2000)</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="236041">Gibson Les Paul Classic</a></strong></li>
+<li><strong><a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" data-lasso-id="236041">Gibson Les Paul Classic</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="236042">Fender Standard Stratocaster (1998–2005)</a></strong></li>
+<li><strong><a href="/why-jimi-hendrix-only-played-fender-guitars/" data-type="post" data-id="7452" data-lasso-id="236042">Fender Standard Stratocaster (1998–2005)</a></strong></li>
 </ol>
 
 
 
-<p>As you can see, the best selling and most popular guitars are all <a href="https://www.electrikjam.com/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44664">made by either Fender or Gibson</a>. Fender owns Squier too, so we’re heaping those ones in with Fender. The only other non-Fender/Gibson brand to make the top 20 was PRS and ESP which is pretty surprising. I cannot believe there aren’t any Epiphone models in there.</p>
+<p>As you can see, the best selling and most popular guitars are all <a href="/6-epic-guitar-brands-that-arent-gibson-or-fender/" data-lasso-id="44664">made by either Fender or Gibson</a>. Fender owns Squier too, so we’re heaping those ones in with Fender. The only other non-Fender/Gibson brand to make the top 20 was PRS and ESP which is pretty surprising. I cannot believe there aren’t any Epiphone models in there.</p>
 
 
 
-<p>The most popular guitar of 2021 was the <strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236043">Fender Player Telecaster</a></strong>, no surprise there – it is an exceptional guitar. The second most popular guitar of 2021 was the <strong>Fender Player Stratocaster</strong>. In third place, we have <strong>PRS <a data-lasso-id="49008" href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/">Silver Sky</a> John Mayer Signature</strong>, a truly beautiful guitar that plays and looks like a dream.</p>
+<p>The most popular guitar of 2021 was the <strong><a href="/telecaster-vs-jazzmaster/" data-lasso-id="236043">Fender Player Telecaster</a></strong>, no surprise there – it is an exceptional guitar. The second most popular guitar of 2021 was the <strong>Fender Player Stratocaster</strong>. In third place, we have <strong>PRS <a data-lasso-id="49008" href="/prs-se-silver-sky-review-2022/">Silver Sky</a> John Mayer Signature</strong>, a truly beautiful guitar that plays and looks like a dream.</p>
 
 
 
@@ -158,27 +158,27 @@ seo:
 
 
 
-<p>Out of all the top 20 most popular guitars, the most popular style of guitar appears to be Les Paul, Telecaster, and Strat –&nbsp;again, nothing new here, these have been the most popular guitar shapes for decades. It is nice to see a couple of Jazzmaster models making the top 20 though in the form of the <strong><a href="https://www.electrikjam.com/recommends/squier-j-mascis-jazzmaster-electric-guitar-vintage-white/" data-lasso-id="19178">Squier J Mascis Jazzmaster</a></strong> and the <strong><a href="https://www.electrikjam.com/recommends/squier-classic-vibe-60s-jazzmaster/" data-lasso-id="19179">Squier Classic Vibe &#8217;60s Jazzmaster.</a></strong></p>
+<p>Out of all the top 20 most popular guitars, the most popular style of guitar appears to be Les Paul, Telecaster, and Strat –&nbsp;again, nothing new here, these have been the most popular guitar shapes for decades. It is nice to see a couple of Jazzmaster models making the top 20 though in the form of the <strong><a href="/recommends/squier-j-mascis-jazzmaster-electric-guitar-vintage-white/" data-lasso-id="19178">Squier J Mascis Jazzmaster</a></strong> and the <strong><a href="/recommends/squier-classic-vibe-60s-jazzmaster/" data-lasso-id="19179">Squier Classic Vibe &#8217;60s Jazzmaster.</a></strong></p>
 
 
 
-<p>I am also not surprised by the PRS CE 24 in the list either. PRS guitars are incredibly well built and play unlike anything else. And the PRS CE 24 is one of its finest and most loved models. The <strong><a href="https://www.electrikjam.com/recommends/prs-ce-24/" data-lasso-id="19180">PRS CE 24 is HELLA expensive</a></strong> but if you’re serious about guitars that not only play wonderfully but also hold their value, the PRS CE 24 is a great option.</p>
+<p>I am also not surprised by the PRS CE 24 in the list either. PRS guitars are incredibly well built and play unlike anything else. And the PRS CE 24 is one of its finest and most loved models. The <strong><a href="/recommends/prs-ce-24/" data-lasso-id="19180">PRS CE 24 is HELLA expensive</a></strong> but if you’re serious about guitars that not only play wonderfully but also hold their value, the PRS CE 24 is a great option.</p>
 
 
 
-<p>The Squier Affinity Telecaster, which came in at number 4, is also a very good affordable option. You can pick one up for next to nothing –&nbsp;<strong><a href="https://www.electrikjam.com/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" data-lasso-id="19181" rel="nofollow noopener" target="_blank" data-lasso-name="Squier Bullet Stratocaster HSS">less than $250 in most cases</a></strong> –&nbsp;and it plays like a dream. I have a couple of Squier Affinity models and they’re all superb, well-crafted, and play amazingly well –&nbsp;almost as good as my Player Series Fender Tele.</p>
+<p>The Squier Affinity Telecaster, which came in at number 4, is also a very good affordable option. You can pick one up for next to nothing –&nbsp;<strong><a href="/squier-bullet-strat-hss/" data-type="lasso-urls" data-id="5191" data-lasso-id="19181" rel="nofollow noopener" target="_blank" data-lasso-name="Squier Bullet Stratocaster HSS">less than $250 in most cases</a></strong> –&nbsp;and it plays like a dream. I have a couple of Squier Affinity models and they’re all superb, well-crafted, and play amazingly well –&nbsp;almost as good as my Player Series Fender Tele.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="19182">The upshot of using a Squier guitar</a></strong>, however, is that you get everything that makes a Fender guitar so special for a fraction of the cost – usually below $200. And you can now get plenty of <strong><a href="https://www.electrikjam.com/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" data-lasso-id="19183">Squier guitars with humbucker pickups</a></strong> which makes them perfect for metal and rock. My personal favorite right now? The Squier Affinity Series Deluxe –&nbsp;<strong><a href="https://www.fender.com/en-GB/squier-electric-guitars/telecaster/affinity-series-telecaster-deluxe/0378250566.html" target="_blank" rel="nofollow noopener" data-lasso-id="19184">it costs less than $300</a></strong> and it comes with dual humbuckers.</p>
+<p><strong><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-type="post" data-id="3709" data-lasso-id="19182">The upshot of using a Squier guitar</a></strong>, however, is that you get everything that makes a Fender guitar so special for a fraction of the cost – usually below $200. And you can now get plenty of <strong><a href="/squier-bullet-stratocaster-review/" data-type="post" data-id="5184" data-lasso-id="19183">Squier guitars with humbucker pickups</a></strong> which makes them perfect for metal and rock. My personal favorite right now? The Squier Affinity Series Deluxe –&nbsp;<strong><a href="https://www.fender.com/en-GB/squier-electric-guitars/telecaster/affinity-series-telecaster-deluxe/0378250566.html" target="_blank" rel="nofollow noopener" data-lasso-id="19184">it costs less than $300</a></strong> and it comes with dual humbuckers.</p>
 
 
 
-<p>Need more options? Check out our guides on the <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="19185">best guitars for beginners</a></strong>, the <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="19186">best Fender guitars for metal</a></strong>, and the <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="19187">best Epiphone Les Paul models</a></strong>. </p>
+<p>Need more options? Check out our guides on the <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="19185">best guitars for beginners</a></strong>, the <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="19186">best Fender guitars for metal</a></strong>, and the <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="19187">best Epiphone Les Paul models</a></strong>. </p>
 
 
 
-<p>We’re massive fans of Epiphone here at ELECTRIKJAM, so I was really surprised not to see any of its models included in the most popular guitars of 2021, especially since Epiphone has dropped <strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="19188">SO MANY good models</a></strong> this year…</p>
+<p>We’re massive fans of Epiphone here at ELECTRIKJAM, so I was really surprised not to see any of its models included in the most popular guitars of 2021, especially since Epiphone has dropped <strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="19188">SO MANY good models</a></strong> this year…</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p class="has-text-align-center has-extra-small-font-size"><strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
+<p class="has-text-align-center has-extra-small-font-size"><strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="90441">Access Epiphone Resource Hub ↗</a></strong></p>
 </div></div>
 
 

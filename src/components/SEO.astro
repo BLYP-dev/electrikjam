@@ -21,7 +21,8 @@ const {
   schema,
 } = Astro.props;
 
-const pageTitle = title === SITE_NAME ? title : `${title} | ${SITE_NAME}`;
+const normalizedTitle = title.replace(new RegExp(`\\s*\\|\\s*${SITE_NAME}\\s*$`, 'i'), '');
+const pageTitle = normalizedTitle === SITE_NAME ? normalizedTitle : `${normalizedTitle} | ${SITE_NAME}`;
 const canonical = canonicalUrl(path);
 const socialImage = image?.startsWith('/') ? new URL(image, canonical).toString() : image;
 ---

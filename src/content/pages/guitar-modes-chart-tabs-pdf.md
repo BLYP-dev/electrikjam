@@ -683,7 +683,7 @@ seo:
 
 
 
-<p>If you&#8217;ve hit the limit of what you can do with the <strong><a href="https://www.electrikjam.com/memorizing-guitar-scales-101/" data-type="post" data-id="12227" data-lasso-id="269540">pentatonic scale</a></strong>, learning modes is a sure-fire way to 10x your playing in a very short amount of time. </p>
+<p>If you&#8217;ve hit the limit of what you can do with the <strong><a href="/memorizing-guitar-scales-101/" data-type="post" data-id="12227" data-lasso-id="269540">pentatonic scale</a></strong>, learning modes is a sure-fire way to 10x your playing in a very short amount of time. </p>
 
 
 

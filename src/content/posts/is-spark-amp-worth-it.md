@@ -61,7 +61,7 @@ seo:
 
 
 
-<p>High-end amp stacks and <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="235354">premium practice amps</a></strong>, however, not only put a significant dent in your wallet, but they also consume a considerable amount of space. </p>
+<p>High-end amp stacks and <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" data-lasso-id="235354">premium practice amps</a></strong>, however, not only put a significant dent in your wallet, but they also consume a considerable amount of space. </p>
 
 
 
@@ -101,7 +101,7 @@ seo:
 
 
 
-<p>First unveiled at NAMM a few years ago, the Spark Amp was a game changer. Its creator, Positive Grid, known for <strong><a href="https://www.electrikjam.com/bias-fx-vs-bias-fx-2/" data-type="post" data-id="10651" data-lasso-id="235355">the remarkable BIAS FX software</a></strong>, has outdone itself once again.</p>
+<p>First unveiled at NAMM a few years ago, the Spark Amp was a game changer. Its creator, Positive Grid, known for <strong><a href="/bias-fx-vs-bias-fx-2/" data-type="post" data-id="10651" data-lasso-id="235355">the remarkable BIAS FX software</a></strong>, has outdone itself once again.</p>
 
 
 
@@ -117,7 +117,7 @@ seo:
 
 
 
-<p>The moment I plugged in my guitar, selected a guitar tone from ToneCloud (I chose one named Pike, modeled after <strong><a href="https://www.electrikjam.com/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" data-lasso-id="235356">Matt Pike’s guitar tone</a></strong>), I knew I was dealing with something special.</p>
+<p>The moment I plugged in my guitar, selected a guitar tone from ToneCloud (I chose one named Pike, modeled after <strong><a href="/matt-pike-guitar-guide-a-complete-list-of-what-he-uses/" data-type="post" data-id="3565" data-lasso-id="235356">Matt Pike’s guitar tone</a></strong>), I knew I was dealing with something special.</p>
 
 
 
@@ -215,7 +215,7 @@ seo:
 
 
 
-<p>But what about recording, you might ask? Well, the Spark Amp has you covered. The <strong><a href="https://www.electrikjam.com/how-to-connect-spark-amp-to-computer-a-beginners-guide/" data-type="post" data-id="11915" data-lasso-id="235357">Spark Amp easily connects to your Windows or Mac computer</a></strong> and syncs with your recording software. If you don’t have any recording software, worry not, as the Spark Amp comes with a free copy of the comprehensive PreSonus Studio One Prime recording software. </p>
+<p>But what about recording, you might ask? Well, the Spark Amp has you covered. The <strong><a href="/how-to-connect-spark-amp-to-computer-a-beginners-guide/" data-type="post" data-id="11915" data-lasso-id="235357">Spark Amp easily connects to your Windows or Mac computer</a></strong> and syncs with your recording software. If you don’t have any recording software, worry not, as the Spark Amp comes with a free copy of the comprehensive PreSonus Studio One Prime recording software. </p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>Personally, I prefer running my Spark Amp through Ableton Live, where I program some slow-paced drums and start cranking out some sludge/doom riffs. For capturing ideas swiftly, <strong><a href="https://www.electrikjam.com/how-to-use-spark-amp-as-an-audio-interface-a-beginners-guide/" data-type="post" data-id="11922" data-lasso-id="235358">the Spark Amp, coupled with a DAW</a></strong> like Ableton or PreSonus Studio One Prime, is utterly amazing.</p>
+<p>Personally, I prefer running my Spark Amp through Ableton Live, where I program some slow-paced drums and start cranking out some sludge/doom riffs. For capturing ideas swiftly, <strong><a href="/how-to-use-spark-amp-as-an-audio-interface-a-beginners-guide/" data-type="post" data-id="11922" data-lasso-id="235358">the Spark Amp, coupled with a DAW</a></strong> like Ableton or PreSonus Studio One Prime, is utterly amazing.</p>
 
 
 
@@ -495,7 +495,7 @@ seo:
 
 
 
-<p>To purchase your own Spark Amp, visit the Positive Grid website. As of now, <a href="https://www.electrikjam.com/spark-40w-smart-guitar-amp-app-positive-grid/" data-type="lasso-urls" data-id="11931" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="235359" data-lasso-name="Spark Amp"><strong>it&#8217;s priced at $255 or £196</strong>,</a> providing excellent value for its cost.</p>
+<p>To purchase your own Spark Amp, visit the Positive Grid website. As of now, <a href="/spark-40w-smart-guitar-amp-app-positive-grid/" data-type="lasso-urls" data-id="11931" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="235359" data-lasso-name="Spark Amp"><strong>it&#8217;s priced at $255 or £196</strong>,</a> providing excellent value for its cost.</p>
 
 
 
@@ -541,7 +541,7 @@ seo:
 
 
 
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-ed155009 uagb-faq-icon-row-reverse uagb-faq-layout-grid uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7654f406" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>How much does the Spark Amp cost?</strong></span></div><p class="uagb-faq-content">The Spark Amp <strong><a href="https://www.electrikjam.com/spark-40w-smart-guitar-amp-app-positive-grid/" data-type="lasso-urls" data-id="11931" class="1">priced at $255 or £196</a></strong> on the Positive Grid website. It&#8217;s a high-value investment given the range of features and functions it offers.</p></div>
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-ed155009 uagb-faq-icon-row-reverse uagb-faq-layout-grid uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7654f406" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>How much does the Spark Amp cost?</strong></span></div><p class="uagb-faq-content">The Spark Amp <strong><a href="/spark-40w-smart-guitar-amp-app-positive-grid/" data-type="lasso-urls" data-id="11931" class="1">priced at $255 or £196</a></strong> on the Positive Grid website. It&#8217;s a high-value investment given the range of features and functions it offers.</p></div>
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6cb08816" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is the Spark Amp portable?</strong></span></div><p class="uagb-faq-content">The Spark Amp is compact and weighs just 5.2 kg, making it quite portable. Its small footprint means it can fit comfortably on a desk or in a small room.</p></div></div>
 

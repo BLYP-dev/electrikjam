@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>The band is also steeped in mystery, always has been. This is part of its allure. You never really know anything about any of its members. Most fans don’t even know what <strong><a href="https://www.electrikjam.com/adam-jones-names-the-guitarists-that-influenced-him-most/" data-type="post" data-id="5098" data-lasso-id="44141">Adam Jones</a></strong> or Danny Carey look like, despite the fact TOOL is one of the biggest bands on the planet. That in itself should tell you everything you need to know about <a href="https://www.electrikjam.com/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="110997">TOOL</a>.</p>
+<p>The band is also steeped in mystery, always has been. This is part of its allure. You never really know anything about any of its members. Most fans don’t even know what <strong><a href="/adam-jones-names-the-guitarists-that-influenced-him-most/" data-type="post" data-id="5098" data-lasso-id="44141">Adam Jones</a></strong> or Danny Carey look like, despite the fact TOOL is one of the biggest bands on the planet. That in itself should tell you everything you need to know about <a href="/adam-jones-pedalboard-what-does-tool-guitarist-use/" data-lasso-id="110997">TOOL</a>.</p>
 
 
 
@@ -93,11 +93,11 @@ seo:
 
 
 
-<p>What’s most interesting about Carey’s comments is that he says there’s loads of material laying around, stuff from jam sessions and whatnot. Plus, neither Justin Chancellor (the bassist) nor <a href="https://www.electrikjam.com/how-tools-adam-jones-practices-guitar/" data-lasso-id="104786">Adam Jones</a> is in any other bands, at least full time, unlike Carey and Maynard. With this in mind, one could assume that between Chancellor and Jones there’s plenty of new ideas, riffs, and compositions knocking around.</p>
+<p>What’s most interesting about Carey’s comments is that he says there’s loads of material laying around, stuff from jam sessions and whatnot. Plus, neither Justin Chancellor (the bassist) nor <a href="/how-tools-adam-jones-practices-guitar/" data-lasso-id="104786">Adam Jones</a> is in any other bands, at least full time, unlike Carey and Maynard. With this in mind, one could assume that between Chancellor and Jones there’s plenty of new ideas, riffs, and compositions knocking around.</p>
 
 
 
-<p>Like Aphex Twin, who claimed he has enough unreleased material to produce a new album every year for the rest of his life, it feels like TOOL, now out of its old record deal, could push forwards with a renewed vigor not seen since the late-90s and early 2000s. Hell, they could even do <strong><a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="44143">what The Beatles did</a></strong> and stop touring and just produce studio records. I know I’d be cool with that, especially if it meant more new material released more often.</p>
+<p>Like Aphex Twin, who claimed he has enough unreleased material to produce a new album every year for the rest of his life, it feels like TOOL, now out of its old record deal, could push forwards with a renewed vigor not seen since the late-90s and early 2000s. Hell, they could even do <strong><a href="/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="44143">what The Beatles did</a></strong> and stop touring and just produce studio records. I know I’d be cool with that, especially if it meant more new material released more often.</p>
 
 
 
@@ -123,7 +123,7 @@ seo:
 
 
 
-<p>I mean, why wouldn’t they? Age isn’t what it used to be, especially if you have plenty of money – as ALL of TOOL do. If you can live comfortably, as they all do, and the creative drive is still there, as it clearly is, then I think TOOL’s latter years could easily become some of its most prolific and interesting. Even more so if the band decides to start releasing shorter, less time-intensive EPs like Mastodon did with the outstanding <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="44144">Cold, Dark Place</a></strong>. </p>
+<p>I mean, why wouldn’t they? Age isn’t what it used to be, especially if you have plenty of money – as ALL of TOOL do. If you can live comfortably, as they all do, and the creative drive is still there, as it clearly is, then I think TOOL’s latter years could easily become some of its most prolific and interesting. Even more so if the band decides to start releasing shorter, less time-intensive EPs like Mastodon did with the outstanding <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="44144">Cold, Dark Place</a></strong>. </p>
 
 
 

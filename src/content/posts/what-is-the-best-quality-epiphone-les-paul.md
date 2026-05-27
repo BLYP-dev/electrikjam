@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>But there are tons of <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17468">Epiphone Les Paul</a> models out there, in varying price points and degrees of quality. Considering they are all basically the &#8220;same&#8217; model, it can get real confusing as to which ones are the best. Of course, &#8220;best&#8221; is going to be subjective, depending on the guitarist and their budget.</p>
+<p>But there are tons of <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17468">Epiphone Les Paul</a> models out there, in varying price points and degrees of quality. Considering they are all basically the &#8220;same&#8217; model, it can get real confusing as to which ones are the best. Of course, &#8220;best&#8221; is going to be subjective, depending on the guitarist and their budget.</p>
 
 
 
@@ -67,11 +67,11 @@ seo:
 
 
 
-<p>We have gone over the Prophecy Series in<strong> <a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" target="_blank" data-type="post" data-id="1231" rel="noopener" data-lasso-id="8777">detail before</a></strong>. When it comes to having a fully featured Les Paul that is budget-friendly, it&#8217;s hard to beat the Prophecy. This is a slick, Metal machine that is ready for just about anything you throw at it.</p>
+<p>We have gone over the Prophecy Series in<strong> <a href="/epiphone-prophecy-2020-price-release-date-specs/" target="_blank" data-type="post" data-id="1231" rel="noopener" data-lasso-id="8777">detail before</a></strong>. When it comes to having a fully featured Les Paul that is budget-friendly, it&#8217;s hard to beat the Prophecy. This is a slick, Metal machine that is ready for just about anything you throw at it.</p>
 
 
 
-<p>The Prophecy comes stock with name brand hardware, like <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="8778"><strong>Fishman Fluence</strong></a> pickups. It comes fully loaded, so you will never have to upgrade anything. Right out of the box, the Epiphone Prophecy is ready to kick ass and take names. This is the perfect choice for guitarists that need a versatile Les Paul for heavy music. The quality of the Prophecy is out of this world when compared to it&#8217;s price!</p>
+<p>The Prophecy comes stock with name brand hardware, like <a href="/fishman-fluence-modern-review-is-the-hype-legit/" target="_blank" data-type="post" data-id="716" rel="noopener" data-lasso-id="8778"><strong>Fishman Fluence</strong></a> pickups. It comes fully loaded, so you will never have to upgrade anything. Right out of the box, the Epiphone Prophecy is ready to kick ass and take names. This is the perfect choice for guitarists that need a versatile Les Paul for heavy music. The quality of the Prophecy is out of this world when compared to it&#8217;s price!</p>
 
 
 
@@ -91,11 +91,11 @@ seo:
 
 
 
-<p>Artist Models also come with a case, accessories, and a certificate of authenticity for collectors. That is<em> a lot of stuff</em> for such an inexpensive price. Almost <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14308">every Artist Model</a> is under $1000, making it affordable to own not only a full featured guitar but also a collector&#8217;s piece. There are tons of <a href="https://www.epiphone.com/en-US/Collection/Artist" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="8779"><strong>Artist Models</strong></a>!</p>
+<p>Artist Models also come with a case, accessories, and a certificate of authenticity for collectors. That is<em> a lot of stuff</em> for such an inexpensive price. Almost <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14308">every Artist Model</a> is under $1000, making it affordable to own not only a full featured guitar but also a collector&#8217;s piece. There are tons of <a href="https://www.epiphone.com/en-US/Collection/Artist" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="8779"><strong>Artist Models</strong></a>!</p>
 
 
 
-<p>The best example of this is the <strong><a href="https://www.electrikjam.com/matt-heafy-epiphone-mkh-origins-les-paul/" target="_blank" data-type="post" data-id="4089" rel="noopener" data-lasso-id="8780">Matt Heafy Les Paul</a> </strong>Artist models. These can only be found made by Epiphone! These are also the <em>exact </em>guitars he uses on stage with his band, <strong>Trivium</strong>. So if they are good enough for a professional touring guitarist, it&#8217;s definitely good enough for the regular consumer.</p>
+<p>The best example of this is the <strong><a href="/matt-heafy-epiphone-mkh-origins-les-paul/" target="_blank" data-type="post" data-id="4089" rel="noopener" data-lasso-id="8780">Matt Heafy Les Paul</a> </strong>Artist models. These can only be found made by Epiphone! These are also the <em>exact </em>guitars he uses on stage with his band, <strong>Trivium</strong>. So if they are good enough for a professional touring guitarist, it&#8217;s definitely good enough for the regular consumer.</p>
 
 
 
@@ -107,9 +107,9 @@ seo:
 
 
 
-<p>My vote is for the Prophecy, and Artist/PRO Models. It&#8217;s hard to find any guitar brand that offers this many features at such a low price point. Epiphone is often looked down on as <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="238006">Gibson&#8217;s budget brand</a>, but these days Epiphone is knocking it out of the park!</p>
+<p>My vote is for the Prophecy, and Artist/PRO Models. It&#8217;s hard to find any guitar brand that offers this many features at such a low price point. Epiphone is often looked down on as <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="238006">Gibson&#8217;s budget brand</a>, but these days Epiphone is knocking it out of the park!</p>
 
 
 
-<p>There is <a href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44934">nothing wrong with buying a Gibson Les Paul</a> if that is something you can afford. But for guitarists on a budget, it&#8217;s hard to beat the newer offerings from Epiphone. At the end of the day, your <a href="https://www.electrikjam.com/guitar-muting-techniques/" data-lasso-id="69759">technique and practice routine</a> outweigh the gear that you play!</p>
+<p>There is <a href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-lasso-id="44934">nothing wrong with buying a Gibson Les Paul</a> if that is something you can afford. But for guitarists on a budget, it&#8217;s hard to beat the newer offerings from Epiphone. At the end of the day, your <a href="/guitar-muting-techniques/" data-lasso-id="69759">technique and practice routine</a> outweigh the gear that you play!</p>
 

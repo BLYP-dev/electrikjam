@@ -58,7 +58,7 @@ seo:
 
 
 
-<p>The thing about buying a gift for a guitarist, is that we absolutely like the kitschy things like t-shirts and bumper stickers, for sure! But if you ask me, I would much rather have something that I can <strong>USE</strong>. Sure, I love my <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="201049"><strong>EVH </strong></a>posters and other guitar-adjacent gifts. But gifts are about <em><strong>the sentiment</strong></em>.</p>
+<p>The thing about buying a gift for a guitarist, is that we absolutely like the kitschy things like t-shirts and bumper stickers, for sure! But if you ask me, I would much rather have something that I can <strong>USE</strong>. Sure, I love my <a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="201049"><strong>EVH </strong></a>posters and other guitar-adjacent gifts. But gifts are about <em><strong>the sentiment</strong></em>.</p>
 
 
 
@@ -66,7 +66,7 @@ seo:
 
 
 
-<p>There are a lot of things that we are picky about, and it can be hard to buy a great gift for a guitarist.<strong> I mean, we are talking about <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246503">people that argue over wood types.</a> </strong>Most of us have very specific preferences for strings, picks, and other accessories. So when buying a gift for a guitarist, it might be a good idea to <strong>stay away</strong> from those kinds of products. <strong>The products we are listing today are <em>universal</em>, and<em> all types</em> of guitarists use these!</strong></p>
+<p>There are a lot of things that we are picky about, and it can be hard to buy a great gift for a guitarist.<strong> I mean, we are talking about <a href="/parts-of-an-electric-guitar/" data-lasso-id="246503">people that argue over wood types.</a> </strong>Most of us have very specific preferences for strings, picks, and other accessories. So when buying a gift for a guitarist, it might be a good idea to <strong>stay away</strong> from those kinds of products. <strong>The products we are listing today are <em>universal</em>, and<em> all types</em> of guitarists use these!</strong></p>
 
 
 
@@ -126,7 +126,7 @@ seo:
 
 
 
-<p><strong>We chose the <a href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287" target="_blank" rel="noopener" data-lasso-id="201050">Fender</a> cables because these are some of the best quality when it comes to day-to-day use.</strong> Just like the clip-on tuner, there are plenty of other options that you can get, and they are much cheaper. But the quality reflects the price in this case. You get what you pay for, and <a href="https://www.fender.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="201051"><strong>Fender </strong></a>cables have rarely let me down at a show.</p>
+<p><strong>We chose the <a href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287" target="_blank" rel="noopener" data-lasso-id="201050">Fender</a> cables because these are some of the best quality when it comes to day-to-day use.</strong> Just like the clip-on tuner, there are plenty of other options that you can get, and they are much cheaper. But the quality reflects the price in this case. You get what you pay for, and <a href="https://www.fender.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="201051"><strong>Fender </strong></a>cables have rarely let me down at a show.</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>We talk a lot about Metal here at Electrikjam, and we talk a lot about <strong><a href="https://www.electrikjam.com/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener" data-lasso-id="201052">pointy guitars</a> </strong>and flying V guitars. The problem with odd or extreme shaped guitars, is that they do not fit on a normal guitar stand. You need something like this Fender Universal Stand, that holds it by the neck.<strong> It breaks my heart to see guitarists leaning a guitar up against the wall.</strong></p>
+<p>We talk a lot about Metal here at Electrikjam, and we talk a lot about <strong><a href="/harley-benton-ex-84-modern-guitar-review/" data-type="post" data-id="9509" target="_blank" rel="noopener" data-lasso-id="201052">pointy guitars</a> </strong>and flying V guitars. The problem with odd or extreme shaped guitars, is that they do not fit on a normal guitar stand. You need something like this Fender Universal Stand, that holds it by the neck.<strong> It breaks my heart to see guitarists leaning a guitar up against the wall.</strong></p>
 
 
 

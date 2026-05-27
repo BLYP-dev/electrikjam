@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>ESP is a guitar brand. <strong>ESP stands for Electric Sound Products</strong>. The company was founded in 1975 in Tokyo, Japan, by a chap called Hisatake Shibuya. Since then, ESP has grown massively. It now provides guitars to some of the biggest bands on the planet –&nbsp;bands like <strong><a href="https://www.electrikjam.com/new-metallica-album-release-date-new-songs-update/" data-type="post" data-id="5643" data-lasso-id="103987">Metallica</a></strong> and <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="103988">Mastodon</a></strong> use ESP guitars.</p>
+<p>ESP is a guitar brand. <strong>ESP stands for Electric Sound Products</strong>. The company was founded in 1975 in Tokyo, Japan, by a chap called Hisatake Shibuya. Since then, ESP has grown massively. It now provides guitars to some of the biggest bands on the planet –&nbsp;bands like <strong><a href="/new-metallica-album-release-date-new-songs-update/" data-type="post" data-id="5643" data-lasso-id="103987">Metallica</a></strong> and <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="103988">Mastodon</a></strong> use ESP guitars.</p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>This is why both James Hetfield and Mastodon’s Bill Kelliher –&nbsp;two of the best metal guitarists of all time – ditched Gibson for ESP. Steph from the Deftones is also an ESP artist; they actually made him a <strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="103989">custom 9-string guitar</a></strong> which he used on the band’s latest album, <strong><em>OHMS</em></strong>.</p>
+<p>This is why both James Hetfield and Mastodon’s Bill Kelliher –&nbsp;two of the best metal guitarists of all time – ditched Gibson for ESP. Steph from the Deftones is also an ESP artist; they actually made him a <strong><a href="/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="103989">custom 9-string guitar</a></strong> which he used on the band’s latest album, <strong><em>OHMS</em></strong>.</p>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145785">When you’re talking about guitars and how much they cost</a>, you have to remember how guitars are made. Expensive guitars – those that retail for <strong><em>thousands of dollars</em></strong> – are not the same as those that retail for less than $300. They’re made and distributed completely differently. In this respect, the quality difference is like night and day.</p>
+<p><a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145785">When you’re talking about guitars and how much they cost</a>, you have to remember how guitars are made. Expensive guitars – those that retail for <strong><em>thousands of dollars</em></strong> – are not the same as those that retail for less than $300. They’re made and distributed completely differently. In this respect, the quality difference is like night and day.</p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>One of the most important aspects of a guitar is its pickups, and whether you go with an ESP guitar or a LTD one, you’re going to get a pretty sweet deal either, pickups-wise. <strong>With ESP guitars, you’ll get either EMG or <a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="103990">Seymour Duncan pickups</a></strong> –&nbsp;both are excellent and are favored by some of the best metal guitarists working today.</p>
+<p>One of the most important aspects of a guitar is its pickups, and whether you go with an ESP guitar or a LTD one, you’re going to get a pretty sweet deal either, pickups-wise. <strong>With ESP guitars, you’ll get either EMG or <a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="103990">Seymour Duncan pickups</a></strong> –&nbsp;both are excellent and are favored by some of the best metal guitarists working today.</p>
 
 
 
@@ -128,11 +128,11 @@ seo:
 
 
 
-<p>As you go up the pricing tiers, the pickups and tone just get better and better. You can pick up James Hetfield’s signature ESP model with his <strong><a href="https://www.electrikjam.com/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="103991">signature Het Set pickups</a></strong> for instance. And <strong><a href="https://www.electrikjam.com/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="103992">Mastodon’s Bill Kelliher has his stunning ESP Sparrowhawk</a></strong> guitar, again, with his own bespoke pickups, which is based on a Gibson Explorer design.</p>
+<p>As you go up the pricing tiers, the pickups and tone just get better and better. You can pick up James Hetfield’s signature ESP model with his <strong><a href="/what-pickups-does-james-hetfield-use/" data-type="post" data-id="7086" data-lasso-id="103991">signature Het Set pickups</a></strong> for instance. And <strong><a href="/what-guitars-do-mastodon-use/" data-type="post" data-id="4856" data-lasso-id="103992">Mastodon’s Bill Kelliher has his stunning ESP Sparrowhawk</a></strong> guitar, again, with his own bespoke pickups, which is based on a Gibson Explorer design.</p>
 
 
 
-<p>These signature models ain’t cheap, though, so be warned. But if you are looking for a premium, high-end guitar and you don’t want a Gibson or a Fender, then a balls-to-the-wall ESP guitar could be just what the doctor ordered. I mean, <strong><a href="https://www.electrikjam.com/the-guitar-james-hetfield-could-not-live-without/" data-type="post" data-id="7288" data-lasso-id="103993">if they’re good enough for Papa Het</a></strong>, they’re going to be fine for mere mortals like you and me, right?</p>
+<p>These signature models ain’t cheap, though, so be warned. But if you are looking for a premium, high-end guitar and you don’t want a Gibson or a Fender, then a balls-to-the-wall ESP guitar could be just what the doctor ordered. I mean, <strong><a href="/the-guitar-james-hetfield-could-not-live-without/" data-type="post" data-id="7288" data-lasso-id="103993">if they’re good enough for Papa Het</a></strong>, they’re going to be fine for mere mortals like you and me, right?</p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>In this respect, ESP is leagues ahead of <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237997">brands like Fender and Gibson</a> which tend to be A LOT more conservative with their approach to finishes. For this reason, plenty of modern players now prefer ESP –&nbsp;or Jackson, Ibanez, and PRS –&nbsp;over the more old-guard brands like Gibson and Fender. The only thing to keep in mind is that the more exotic finishes are reserved for ESP models. LTD models do not get the same quality finishes, sadly.</p>
+<p>In this respect, ESP is leagues ahead of <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="237997">brands like Fender and Gibson</a> which tend to be A LOT more conservative with their approach to finishes. For this reason, plenty of modern players now prefer ESP –&nbsp;or Jackson, Ibanez, and PRS –&nbsp;over the more old-guard brands like Gibson and Fender. The only thing to keep in mind is that the more exotic finishes are reserved for ESP models. LTD models do not get the same quality finishes, sadly.</p>
 
 
 
@@ -156,7 +156,7 @@ seo:
 
 
 
-<p>ESP LTD guitars are designed –&nbsp;for the most part – for metal and rock music. That’s not to say you cannot use them for blues or jazz or world music; you can use them for whatever you want. But most of ESP’s big-name clients are metalheads like <a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="103994"><strong>James Hetfield, Bill Kelliher, Alexi Laiho, and Stephen Carpenter</strong>. </a></p>
+<p>ESP LTD guitars are designed –&nbsp;for the most part – for metal and rock music. That’s not to say you cannot use them for blues or jazz or world music; you can use them for whatever you want. But most of ESP’s big-name clients are metalheads like <a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="103994"><strong>James Hetfield, Bill Kelliher, Alexi Laiho, and Stephen Carpenter</strong>. </a></p>
 
 
 
@@ -164,11 +164,11 @@ seo:
 
 
 
-<p>And if you want my 2 cents on what the best, affordable ESP LTD guitar is right now, I’d say go with the ESP LTD EC-256. <strong><a href="https://www.electrikjam.com/recommends/esp-ltd-ec-256/" data-lasso-id="103995">It costs $599 and it plays amazingly well</a></strong>. It also runs two very impressive ESP humbucker pickups. The finish and fretboard are also divine; it plays so well you’ll almost think it was a proper ESP. </p>
+<p>And if you want my 2 cents on what the best, affordable ESP LTD guitar is right now, I’d say go with the ESP LTD EC-256. <strong><a href="/recommends/esp-ltd-ec-256/" data-lasso-id="103995">It costs $599 and it plays amazingly well</a></strong>. It also runs two very impressive ESP humbucker pickups. The finish and fretboard are also divine; it plays so well you’ll almost think it was a proper ESP. </p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/recommends/esp-ltd-ec-256/" data-lasso-id="103996">For less than $600</a></strong>, you’d be hard-pressed to find a better guitar.</p>
+<p><strong><a href="/recommends/esp-ltd-ec-256/" data-lasso-id="103996">For less than $600</a></strong>, you’d be hard-pressed to find a better guitar.</p>
 
 
 

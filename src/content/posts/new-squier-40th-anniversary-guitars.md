@@ -49,11 +49,11 @@ seo:
 
 
 
-<p>We have seen <a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="69587"><strong>Fender </strong></a>do lots of different things over the years. Some of the changes Fender made to its brand have been pretty substantial, but at the heart of Fender is<em><strong> legacy.</strong></em> When people want a guitar that&#8217;s close to being a vintage instrument, Fender always has multiple options for guitarists. Even a <strong><a data-lasso-id="67083" data-lasso-name="Fender Player Series HSS" href="https://www.electrikjam.com/https-guitar-center-pxf-io-rnrged/" data-type="lasso-urls" data-id="6075" target="_blank" rel="nofollow sponsored noopener">Fender Player Series</a> </strong>guitar is pretty close to being the same instrument that was invented in the 1950&#8217;s and took the world by storm as one of the most recognized and copied designs.</p>
+<p>We have seen <a href="/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="69587"><strong>Fender </strong></a>do lots of different things over the years. Some of the changes Fender made to its brand have been pretty substantial, but at the heart of Fender is<em><strong> legacy.</strong></em> When people want a guitar that&#8217;s close to being a vintage instrument, Fender always has multiple options for guitarists. Even a <strong><a data-lasso-id="67083" data-lasso-name="Fender Player Series HSS" href="/https-guitar-center-pxf-io-rnrged/" data-type="lasso-urls" data-id="6075" target="_blank" rel="nofollow sponsored noopener">Fender Player Series</a> </strong>guitar is pretty close to being the same instrument that was invented in the 1950&#8217;s and took the world by storm as one of the most recognized and copied designs.</p>
 
 
 
-<p>Most of the time when Fender wants to take a chance with designs, it will do a Squier version first. Squier makes affordable models of the most popular Fender models, but there are also some really weird models too! Something like the <a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="69588"><strong>Contemporary Series </strong></a>is <strong>not</strong> something we would usually see with Fender. These are modern takes on classic guitars and they are aimed at a specific type of player. If the Squier does well with sales, sometimes a Fender model will be produced.</p>
+<p>Most of the time when Fender wants to take a chance with designs, it will do a Squier version first. Squier makes affordable models of the most popular Fender models, but there are also some really weird models too! Something like the <a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="69588"><strong>Contemporary Series </strong></a>is <strong>not</strong> something we would usually see with Fender. These are modern takes on classic guitars and they are aimed at a specific type of player. If the Squier does well with sales, sometimes a Fender model will be produced.</p>
 
 
 
@@ -73,11 +73,11 @@ seo:
 
 
 
-<p>Which bring us up to speed with the history of Squier by Fender guitars. It&#8217;s been a long journey, but Squier has almost become it&#8217;s own brand separate from Fender. Of course, Squier is still aimed at beginners and the instruments sell at a much lower price point than their Fender brethren. The Squier 40th Anniversary guitars are a tribute to the four decades of affordable guitars, and the Squier namesake. But these are not your regular <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254484">Squier guitars that are aimed at beginners</a>.</p>
+<p>Which bring us up to speed with the history of Squier by Fender guitars. It&#8217;s been a long journey, but Squier has almost become it&#8217;s own brand separate from Fender. Of course, Squier is still aimed at beginners and the instruments sell at a much lower price point than their Fender brethren. The Squier 40th Anniversary guitars are a tribute to the four decades of affordable guitars, and the Squier namesake. But these are not your regular <a href="/best-guitar-for-beginners/" data-lasso-id="254484">Squier guitars that are aimed at beginners</a>.</p>
 
 
 
-<p>Plenty of <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener" data-lasso-id="69589"><strong>professional gui</strong>t<strong>arist</strong></a><strong><a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener" data-lasso-id="69590">s</a> </strong>play Squier guitars, albeit usually upgraded or gutted completely. But what if Squier did all of that work for you? What if you could buy an off-the-rack Squier guitar that had the upgrades that you need to gig? We are talking about a totally tricked-out Squier, with pro specs. Well it looks like Squier took that idea and ran with it. But if they don&#8217;t play well, then none of the fancy upgrades matter.</p>
+<p>Plenty of <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener" data-lasso-id="69589"><strong>professional gui</strong>t<strong>arist</strong></a><strong><a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener" data-lasso-id="69590">s</a> </strong>play Squier guitars, albeit usually upgraded or gutted completely. But what if Squier did all of that work for you? What if you could buy an off-the-rack Squier guitar that had the upgrades that you need to gig? We are talking about a totally tricked-out Squier, with pro specs. Well it looks like Squier took that idea and ran with it. But if they don&#8217;t play well, then none of the fancy upgrades matter.</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p>Nato was chosen first and foremost because it is a sustainable wood. This may seem like a strange choice for a Tele or a Strat since they are usually Poplar or Alder wood. Nato is sometimes compared to Mahogany when it comes to weight and tone since it is a dense wood. It is even known as the &#8220;Eastern Mahogany&#8221; when it comes to guitar manufacturing and <strong><a href="https://www.electrikjam.com/cort-g300-pro-a-take-on-affordable-boutique/" data-type="post" data-id="1949" target="_blank" rel="noopener" data-lasso-id="69591">Cort</a> </strong>uses this wood a lot when building guitars. These guitars definitely feel heavier, but that could be because&#8230;</p>
+<p>Nato was chosen first and foremost because it is a sustainable wood. This may seem like a strange choice for a Tele or a Strat since they are usually Poplar or Alder wood. Nato is sometimes compared to Mahogany when it comes to weight and tone since it is a dense wood. It is even known as the &#8220;Eastern Mahogany&#8221; when it comes to guitar manufacturing and <strong><a href="/cort-g300-pro-a-take-on-affordable-boutique/" data-type="post" data-id="1949" target="_blank" rel="noopener" data-lasso-id="69591">Cort</a> </strong>uses this wood a lot when building guitars. These guitars definitely feel heavier, but that could be because&#8230;</p>
 
 
 
@@ -213,11 +213,11 @@ seo:
 
 
 
-<p>I want to start with the neck on this guitar, because I tried it back-to-back with a Fender Player Strat. The neck plays great, and it feels just a tad bit slimmer than the Player&#8217;s Series. But this is a good thing, because I feel like it <a href="https://www.electrikjam.com/how-do-you-practice-scales/" data-lasso-id="215795">practically plays</a> itself! The frets have a &#8220;narrow tall&#8221; feel to them. The binding is a really nice touch that you rarely see outside of the <strong>Eric Johnson </strong>Fender Strat Models.</p>
+<p>I want to start with the neck on this guitar, because I tried it back-to-back with a Fender Player Strat. The neck plays great, and it feels just a tad bit slimmer than the Player&#8217;s Series. But this is a good thing, because I feel like it <a href="/how-do-you-practice-scales/" data-lasso-id="215795">practically plays</a> itself! The frets have a &#8220;narrow tall&#8221; feel to them. The binding is a really nice touch that you rarely see outside of the <strong>Eric Johnson </strong>Fender Strat Models.</p>
 
 
 
-<p>The Alnico V pickups sound a lot like what you get with the Classic Vibe models. These are super-bright sounding pickups, but this is a good thing if you&#8217;re using gain, or anything but a clean sound. I used two amps at the affiliate store, one was the <a href="https://www.electrikjam.com/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="69592" data-lasso-name="BOSS Katana 100 MKII"><strong>BOSS Katana </strong></a>because I love it and <em>no one can change my mind on that</em>. The other was a <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="69593"><strong>PRS Archon</strong></a>, which I recently discovered! I feel like this was a fair test, since these are popular amps that people buying this guitar might own at home.</p>
+<p>The Alnico V pickups sound a lot like what you get with the Classic Vibe models. These are super-bright sounding pickups, but this is a good thing if you&#8217;re using gain, or anything but a clean sound. I used two amps at the affiliate store, one was the <a href="/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="69592" data-lasso-name="BOSS Katana 100 MKII"><strong>BOSS Katana </strong></a>because I love it and <em>no one can change my mind on that</em>. The other was a <a href="/the-best-budget-tube-amps/" data-type="post" data-id="6641" target="_blank" rel="noopener" data-lasso-id="69593"><strong>PRS Archon</strong></a>, which I recently discovered! I feel like this was a fair test, since these are popular amps that people buying this guitar might own at home.</p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p>The Alnico V pickups deliver again through both of the test amps. While the Tele can hold its own under high gain Metal tones, that&#8217;s not where it really shines. The neck pickup sounds amazing through the Katana on the clean channel. It has a thick, warm tone that sounds very <em>distinct</em>. Tele neck pickups always have a tone that you just can&#8217;t get anywhere else. I am tempted to buy one of these and use it in the studio for clean tones (<em>Shh&#8230;Don&#8217;t tell <a href="https://www.electrikjam.com/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="69595"><strong>Schecter</strong></a> I said that!</em>)</p>
+<p>The Alnico V pickups deliver again through both of the test amps. While the Tele can hold its own under high gain Metal tones, that&#8217;s not where it really shines. The neck pickup sounds amazing through the Katana on the clean channel. It has a thick, warm tone that sounds very <em>distinct</em>. Tele neck pickups always have a tone that you just can&#8217;t get anywhere else. I am tempted to buy one of these and use it in the studio for clean tones (<em>Shh&#8230;Don&#8217;t tell <a href="/schecter-guitars/" data-type="page" data-id="6499" target="_blank" rel="noopener" data-lasso-id="69595"><strong>Schecter</strong></a> I said that!</em>)</p>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-lasso-id="99330">tuning stability</a> is great once you break the strings in, and this is totally a guitar that I would gig with. I am super particular when it comes to guitars that I would play a show with, but this Telecaster passes<em> all of the tests</em>. It stands out in appearance, and the Telecaster is so simple, yet versatile. If I were a guitarist on a budget and wanted something that screamed &#8220;Custom Shop&#8221; this would be my choice. My only complaint is I wish it featured the more modern 6 saddle bridge. Otherwise, this is <em>golden</em>.</p>
+<p>The <a href="/best-strings-for-drop-d-tuning/" data-lasso-id="99330">tuning stability</a> is great once you break the strings in, and this is totally a guitar that I would gig with. I am super particular when it comes to guitars that I would play a show with, but this Telecaster passes<em> all of the tests</em>. It stands out in appearance, and the Telecaster is so simple, yet versatile. If I were a guitarist on a budget and wanted something that screamed &#8220;Custom Shop&#8221; this would be my choice. My only complaint is I wish it featured the more modern 6 saddle bridge. Otherwise, this is <em>golden</em>.</p>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236014">The Jazzmaster, like the Tele, is sort of a chameleon</a></strong> when it comes to sounds and genre. These offset beauties were originally used by surf rock bands like <strong>The Beach Boys</strong> and <strong>Dick Dale</strong>. But when the 90&#8217;s hit us with Grunge, the Jazzmaster saw a comeback that was well deserved. It has also been associated with Dreampop/Shoegaze like <strong>My Bloody Valentine</strong> over the years because of the unique tones you can get out of the special Jazzmaster switch controls.</p>
+<p><strong><a href="/telecaster-vs-jazzmaster/" data-lasso-id="236014">The Jazzmaster, like the Tele, is sort of a chameleon</a></strong> when it comes to sounds and genre. These offset beauties were originally used by surf rock bands like <strong>The Beach Boys</strong> and <strong>Dick Dale</strong>. But when the 90&#8217;s hit us with Grunge, the Jazzmaster saw a comeback that was well deserved. It has also been associated with Dreampop/Shoegaze like <strong>My Bloody Valentine</strong> over the years because of the unique tones you can get out of the special Jazzmaster switch controls.</p>
 
 
 
@@ -347,11 +347,11 @@ seo:
 
 
 
-<p>The neck pickup isn&#8217;t as creamy and warm as the other two models, but then again, that isn&#8217;t what the Jazzmaster does. What you get is a pristine clean tone with the neck pickup. The bridge is also punchy, and while high gain sounds great, this guitar was built for <a href="https://www.electrikjam.com/fuzz-vs-distortion/" data-type="post" data-id="6200" target="_blank" rel="noopener" data-lasso-id="69596"><strong>FUZZ</strong></a>. Whether you&#8217;re more into Doom, or Psychedelic music&#8230;fuzz works perfect with the Alnico V single coils. So far, all of the Squier 40th Anniversary pickups have been surprisingly good.</p>
+<p>The neck pickup isn&#8217;t as creamy and warm as the other two models, but then again, that isn&#8217;t what the Jazzmaster does. What you get is a pristine clean tone with the neck pickup. The bridge is also punchy, and while high gain sounds great, this guitar was built for <a href="/fuzz-vs-distortion/" data-type="post" data-id="6200" target="_blank" rel="noopener" data-lasso-id="69596"><strong>FUZZ</strong></a>. Whether you&#8217;re more into Doom, or Psychedelic music&#8230;fuzz works perfect with the Alnico V single coils. So far, all of the Squier 40th Anniversary pickups have been surprisingly good.</p>
 
 
 
-<p>I cannot stress enough how important the nut upgrade is on these models. This <a href="https://www.electrikjam.com/who-plays-fender-jazzmaster/" data-lasso-id="252800">Squier 40th Anniversary Jazzmaster</a> is the first that I have ever played right out of the box where the trem system actually worked. Jazzmaster trems have always been a little wonky to deal with, but this one does subtle bends and flutters really well. You definitely won&#8217;t be doing any dive-bombs on this guitar, but that isn&#8217;t what the Jazzmaster is<em> meant for</em>. Like the Stratocaster model, the bridge works!</p>
+<p>I cannot stress enough how important the nut upgrade is on these models. This <a href="/who-plays-fender-jazzmaster/" data-lasso-id="252800">Squier 40th Anniversary Jazzmaster</a> is the first that I have ever played right out of the box where the trem system actually worked. Jazzmaster trems have always been a little wonky to deal with, but this one does subtle bends and flutters really well. You definitely won&#8217;t be doing any dive-bombs on this guitar, but that isn&#8217;t what the Jazzmaster is<em> meant for</em>. Like the Stratocaster model, the bridge works!</p>
 
 
 
@@ -371,11 +371,11 @@ seo:
 
 
 
-<p>So I imagine that these guitars are going to be pretty controversial because of the price. Now I agree that $600 seems a little steep for a Squier. This is a company that is usually a bastion of cheap/affordable instruments for beginners. But there have been<strong> <a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" data-type="post" data-id="6404" target="_blank" rel="noopener" data-lasso-id="69597">price </a></strong><a href="https://www.electrikjam.com/guitar-prices-going-up-in-2022/" data-type="post" data-id="6404" target="_blank" rel="noopener" data-lasso-id="69598"><strong>increases</strong> </a>across the board with every guitar company. If these came out a year ago, I bet they would be priced around $450. Unfortunately, this is what counts as &#8220;affordable&#8221; these days.</p>
+<p>So I imagine that these guitars are going to be pretty controversial because of the price. Now I agree that $600 seems a little steep for a Squier. This is a company that is usually a bastion of cheap/affordable instruments for beginners. But there have been<strong> <a href="/guitar-prices-going-up-in-2022/" data-type="post" data-id="6404" target="_blank" rel="noopener" data-lasso-id="69597">price </a></strong><a href="/guitar-prices-going-up-in-2022/" data-type="post" data-id="6404" target="_blank" rel="noopener" data-lasso-id="69598"><strong>increases</strong> </a>across the board with every guitar company. If these came out a year ago, I bet they would be priced around $450. Unfortunately, this is what counts as &#8220;affordable&#8221; these days.</p>
 
 
 
-<p>While the Squier 40th Anniversary guitars are priced fairly for what you get, there are also<strong> <a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="69599">budget brands</a> </strong>that offer similar features. Something like the <a href="https://www.electrikjam.com/guitar-center-pxf-io-dvblr5/" data-type="lasso-urls" data-id="6058" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="69600" data-lasso-name="Sire L7"><strong>Sire</strong></a> guitars are big competition, and I guess it comes down to which name you prefer on the headstocks. There are other companies as well, but Squier has a reputation that is backed by Fender. These are legacy instruments that have been around for decades. I guess you need to see if that matters to you, and its more than okay if it DOES matter.</p>
+<p>While the Squier 40th Anniversary guitars are priced fairly for what you get, there are also<strong> <a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="69599">budget brands</a> </strong>that offer similar features. Something like the <a href="/guitar-center-pxf-io-dvblr5/" data-type="lasso-urls" data-id="6058" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="69600" data-lasso-name="Sire L7"><strong>Sire</strong></a> guitars are big competition, and I guess it comes down to which name you prefer on the headstocks. There are other companies as well, but Squier has a reputation that is backed by Fender. These are legacy instruments that have been around for decades. I guess you need to see if that matters to you, and its more than okay if it DOES matter.</p>
 
 
 
@@ -391,7 +391,7 @@ seo:
 
 
 
-<p>That being said, these are Squier guitars that <em>you can actually gig with</em>. The usual upgrades that I would personally do to to a Squier to get it stage-ready are already done on these models. You also can&#8217;t deny that these look absolutely <em>sexy</em>. Some people may think they are a bit gaudy, and that&#8217;s ok. There is no doubt that all of these models are decked out with fancy appointments that won&#8217;t suit everyone. But these guitars aren&#8217;t for <em>everyone</em>, just like my <strong><a href="https://www.electrikjam.com/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="69601" data-lasso-name="Schecter Hellraiser FRS">Schecter Hellraiser</a> </strong>that has abalone <em>all over it</em>. Maybe I just like gaudy stuff and I am totally tasteless?</p>
+<p>That being said, these are Squier guitars that <em>you can actually gig with</em>. The usual upgrades that I would personally do to to a Squier to get it stage-ready are already done on these models. You also can&#8217;t deny that these look absolutely <em>sexy</em>. Some people may think they are a bit gaudy, and that&#8217;s ok. There is no doubt that all of these models are decked out with fancy appointments that won&#8217;t suit everyone. But these guitars aren&#8217;t for <em>everyone</em>, just like my <strong><a href="/pxf-8/" data-type="lasso-urls" data-id="6298" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="69601" data-lasso-name="Schecter Hellraiser FRS">Schecter Hellraiser</a> </strong>that has abalone <em>all over it</em>. Maybe I just like gaudy stuff and I am totally tasteless?</p>
 
 
 
@@ -399,7 +399,7 @@ seo:
 
 
 
-<p>Like the <strong><a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="69602">PRS SE Silver Sky</a>,</strong> these are under preorder status right now. If you want one, I would go ahead and order it. There are supply chain issues that could affect even the big companies like Fender. There&#8217;s a chance that there is only a certain number of these guitars in the first batch, and it may be<em> months</em> before Squier produces more. <em>Just something to think about</em>. <strong>We all need to be smart buyers this year!</strong></p>
+<p>Like the <strong><a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="69602">PRS SE Silver Sky</a>,</strong> these are under preorder status right now. If you want one, I would go ahead and order it. There are supply chain issues that could affect even the big companies like Fender. There&#8217;s a chance that there is only a certain number of these guitars in the first batch, and it may be<em> months</em> before Squier produces more. <em>Just something to think about</em>. <strong>We all need to be smart buyers this year!</strong></p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

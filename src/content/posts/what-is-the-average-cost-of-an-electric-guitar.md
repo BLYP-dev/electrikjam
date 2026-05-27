@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>I think most beginners ask this question more often than <em>anyone</em> else, and I see it all the time on guitar forums. It is a valid concern, especially since 2020 when guitar prices went up across <em>all </em>brands and types. So what is the average cost of an <a href="https://www.electrikjam.com/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218276">electric guitar</a> in 2023? It depends on <em>a lot </em>of factors.</p>
+<p>I think most beginners ask this question more often than <em>anyone</em> else, and I see it all the time on guitar forums. It is a valid concern, especially since 2020 when guitar prices went up across <em>all </em>brands and types. So what is the average cost of an <a href="/what-are-the-three-types-of-electric-guitars/" data-lasso-id="218276">electric guitar</a> in 2023? It depends on <em>a lot </em>of factors.</p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<p>Electric guitars are in what guitarists have been calling &#8220;The Golden Age&#8221;. <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254488">Beginner electric guitars have never been better</a> quality at such a low price point. A good electric guitar can cost around $200-$500 these days, even from name brand companies. </p>
+<p>Electric guitars are in what guitarists have been calling &#8220;The Golden Age&#8221;. <a href="/best-guitar-for-beginners/" data-lasso-id="254488">Beginner electric guitars have never been better</a> quality at such a low price point. A good electric guitar can cost around $200-$500 these days, even from name brand companies. </p>
 
 
 
@@ -89,19 +89,19 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="217625">Great Budget Guitars</a></strong></li>
+<li><strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="217625">Great Budget Guitars</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/electric-guitar-types-and-genres/" target="_blank" data-type="post" data-id="8114" rel="noopener" data-lasso-id="217626">Different Types Of Electric Guitars</a></strong></li>
+<li><strong><a href="/electric-guitar-types-and-genres/" target="_blank" data-type="post" data-id="8114" rel="noopener" data-lasso-id="217626">Different Types Of Electric Guitars</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" target="_blank" data-type="post" data-id="9301" rel="noopener" data-lasso-id="217627">Budget Shredder Guitars For Metal</a></strong></li>
+<li><strong><a href="/evh-the-5-best-budget-shredder-guitars/" target="_blank" data-type="post" data-id="9301" rel="noopener" data-lasso-id="217627">Budget Shredder Guitars For Metal</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" target="_blank" data-type="post" data-id="9652" rel="noopener" data-lasso-id="217628">Harley Benton Guitars: The Best Budget Series</a></strong></li>
+<li><strong><a href="/harley-benton-guitars-guide/" target="_blank" data-type="post" data-id="9652" rel="noopener" data-lasso-id="217628">Harley Benton Guitars: The Best Budget Series</a></strong></li>
 </ul>
 
 
@@ -126,11 +126,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="217630">We have a large amount of content that covers budget guitars</a></strong>, and we have personally tried these guitars. Brands and country of origin absolutely matters, and you can get a high quality electric guitar that is made by a<strong> name brand</strong> these days.</p>
+<p><strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="217630">We have a large amount of content that covers budget guitars</a></strong>, and we have personally tried these guitars. Brands and country of origin absolutely matters, and you can get a high quality electric guitar that is made by a<strong> name brand</strong> these days.</p>
 
 
 
-<p>When it comes to brand names, you can&#8217;t go wrong with companies like Squier, Fender, Epiphone, Schecter, or <a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="235280">Harley Benton</a>. These brands have a rigorous quality control process, and they come with a warranty. The cheap copies usually do not have any QC, and warranties are nowhere in sight.</p>
+<p>When it comes to brand names, you can&#8217;t go wrong with companies like Squier, Fender, Epiphone, Schecter, or <a href="/best-harley-benton-telecaster/" data-lasso-id="235280">Harley Benton</a>. These brands have a rigorous quality control process, and they come with a warranty. The cheap copies usually do not have any QC, and warranties are nowhere in sight.</p>
 
 
 
@@ -177,15 +177,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/where-guitars-are-made-2022/" target="_blank" data-type="post" data-id="8621" rel="noopener" data-lasso-id="217631">Where Are Guitars Made?</a></strong></li>
+<li><strong><a href="/where-guitars-are-made-2022/" target="_blank" data-type="post" data-id="8621" rel="noopener" data-lasso-id="217631">Where Are Guitars Made?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-price-tiers-explained/" target="_blank" data-type="post" data-id="7446" rel="noopener" data-lasso-id="217632">Fender/Squier Price Tiers And Country Of Origin</a></strong></li>
+<li><strong><a href="/fender-price-tiers-explained/" target="_blank" data-type="post" data-id="7446" rel="noopener" data-lasso-id="217632">Fender/Squier Price Tiers And Country Of Origin</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" target="_blank" data-type="post" data-id="9652" rel="noopener" data-lasso-id="217633">Where Is Harley Benton Made?</a></strong></li>
+<li><strong><a href="/harley-benton-guitars-guide/" target="_blank" data-type="post" data-id="9652" rel="noopener" data-lasso-id="217633">Where Is Harley Benton Made?</a></strong></li>
 </ul>
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<p>There are some great choices when it comes to amplifiers these days, like <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="217634">the BOSS Katana that we all use</a></strong> here at Electrikjam! But there are other ways, like headphone amps and amplifier sims. These can range from a $50 all the way to $500 for a good beginner amp.</p>
+<p>There are some great choices when it comes to amplifiers these days, like <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="217634">the BOSS Katana that we all use</a></strong> here at Electrikjam! But there are other ways, like headphone amps and amplifier sims. These can range from a $50 all the way to $500 for a good beginner amp.</p>
 
 
 
@@ -215,23 +215,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="217635">The BOSS Katana: Best Beginner Amp</a></strong></li>
+<li><strong><a href="/boss-katana-100-mkii-review/" target="_blank" data-type="post" data-id="8377" rel="noopener" data-lasso-id="217635">The BOSS Katana: Best Beginner Amp</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/nux-mighty-amps-review/" target="_blank" data-type="post" data-id="8946" rel="noopener" data-lasso-id="217636">NUX Amps: Great Budget Options</a></strong></li>
+<li><strong><a href="/nux-mighty-amps-review/" target="_blank" data-type="post" data-id="8946" rel="noopener" data-lasso-id="217636">NUX Amps: Great Budget Options</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="217637">Free Amp Sims You Can Use At Home</a></strong></li>
+<li><strong><a href="/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="217637">Free Amp Sims You Can Use At Home</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/do-you-need-an-amp-to-play-electric-guitar/" target="_blank" data-type="post" data-id="10427" rel="noopener" data-lasso-id="217638">Do You Need An Amp To Play Electric Guitar?</a></strong></li>
+<li><strong><a href="/do-you-need-an-amp-to-play-electric-guitar/" target="_blank" data-type="post" data-id="10427" rel="noopener" data-lasso-id="217638">Do You Need An Amp To Play Electric Guitar?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-mustang-micro-features-price/" target="_blank" data-type="post" data-id="2700" rel="noopener" data-lasso-id="217639">Fender Mustang Micro Headphone Amp</a></strong></li>
+<li><strong><a href="/fender-mustang-micro-features-price/" target="_blank" data-type="post" data-id="2700" rel="noopener" data-lasso-id="217639">Fender Mustang Micro Headphone Amp</a></strong></li>
 </ul>
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p>This is a big one that many people forget about when they buy an electric guitar. Most electric guitars, even the expensive ones, need a setup right out of the box. <strong><a href="https://www.electrikjam.com/schecter-demon-6-worth-it-specs-price/" target="_blank" data-type="post" data-id="5301" rel="noopener" data-lasso-id="217640">Some companies like Schecter Guitars</a></strong> are &#8220;Set Up To Play&#8221; by the company before the guitar ships out to retailers.</p>
+<p>This is a big one that many people forget about when they buy an electric guitar. Most electric guitars, even the expensive ones, need a setup right out of the box. <strong><a href="/schecter-demon-6-worth-it-specs-price/" target="_blank" data-type="post" data-id="5301" rel="noopener" data-lasso-id="217640">Some companies like Schecter Guitars</a></strong> are &#8220;Set Up To Play&#8221; by the company before the guitar ships out to retailers.</p>
 
 
 
@@ -269,19 +269,19 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="217641">How To Intonate Your Guitar</a></strong></li>
+<li><strong><a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="217641">How To Intonate Your Guitar</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="217642">Setting Up A Floating Bridge</a></strong></li>
+<li><strong><a href="/floyd-rose-bridge-setup-beginners/" target="_blank" data-type="post" data-id="9118" rel="noopener" data-lasso-id="217642">Setting Up A Floating Bridge</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/solving-guitar-tuning-issues-tutorial/" target="_blank" data-type="post" data-id="10273" rel="noopener" data-lasso-id="217643">Solving Guitar Tuning Issues: For Beginners</a></strong></li>
+<li><strong><a href="/solving-guitar-tuning-issues-tutorial/" target="_blank" data-type="post" data-id="10273" rel="noopener" data-lasso-id="217643">Solving Guitar Tuning Issues: For Beginners</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/christmas-gifts-for-guitarists-under-50/" target="_blank" data-type="post" data-id="10092" rel="noopener" data-lasso-id="217644">Best Guitar Accessories For Beginners</a></strong></li>
+<li><strong><a href="/christmas-gifts-for-guitarists-under-50/" target="_blank" data-type="post" data-id="10092" rel="noopener" data-lasso-id="217644">Best Guitar Accessories For Beginners</a></strong></li>
 </ul>
 
 
@@ -302,7 +302,7 @@ seo:
 
 
 
-<p>But budget <a href="https://www.electrikjam.com/touring-with-a-40-harley-benton/" data-lasso-id="217874">guitars like Harley Benton</a> have been a game changer over the last few years. There are some amp companies like NUX that also offer really great products for a low price. <strong>You can absolutely get everything you need these days for under $500.</strong></p>
+<p>But budget <a href="/touring-with-a-40-harley-benton/" data-lasso-id="217874">guitars like Harley Benton</a> have been a game changer over the last few years. There are some amp companies like NUX that also offer really great products for a low price. <strong>You can absolutely get everything you need these days for under $500.</strong></p>
 
 
 

@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>But when comes to <a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="235277">Harley Benton Telecasters</a>, there are A LOT of different options listed on its site. As of right now, there’s over 28 Tele models listed – and they’re all slightly different.</p>
+<p>But when comes to <a href="/best-harley-benton-telecaster/" data-lasso-id="235277">Harley Benton Telecasters</a>, there are A LOT of different options listed on its site. As of right now, there’s over 28 Tele models listed – and they’re all slightly different.</p>
 
 
 
@@ -139,55 +139,55 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62cc-lh-sfg-thomann-united-states/" data-type="lasso-urls" data-id="11818" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234472" data-lasso-name="Harley Benton TE-62CC LH SFG &ndash; Thomann United States">TE-62CC LH SFG</a></strong></li>
+<li><strong><a href="/harley-benton-te-62cc-lh-sfg-thomann-united-states/" data-type="lasso-urls" data-id="11818" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234472" data-lasso-name="Harley Benton TE-62CC LH SFG &ndash; Thomann United States">TE-62CC LH SFG</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-53kr-bl-tribute-series-thomann-united-states/" data-type="lasso-urls" data-id="11819" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234473" data-lasso-name="Harley Benton TE-53KR BL Tribute Series &ndash; Thomann United States">TE-53KR BL</a></strong></li>
+<li><strong><a href="/harley-benton-te-53kr-bl-tribute-series-thomann-united-states/" data-type="lasso-urls" data-id="11819" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234473" data-lasso-name="Harley Benton TE-53KR BL Tribute Series &ndash; Thomann United States">TE-53KR BL</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-69tl-hot-rod-nt-roasted-thomann-united-states/" data-type="lasso-urls" data-id="11820" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234474" data-lasso-name="Harley Benton TE-69TL Hot Rod NT Roasted &ndash; Thomann United States">TE-69 Hot Rod NT Roasted (Roswell TEA at the neck position only)</a></strong></li>
+<li><strong><a href="/harley-benton-te-69tl-hot-rod-nt-roasted-thomann-united-states/" data-type="lasso-urls" data-id="11820" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234474" data-lasso-name="Harley Benton TE-69TL Hot Rod NT Roasted &ndash; Thomann United States">TE-69 Hot Rod NT Roasted (Roswell TEA at the neck position only)</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62db-bk-thomann-united-states/" data-type="lasso-urls" data-id="11821" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234475" data-lasso-name="Harley Benton TE-62DB BK &ndash; Thomann United States">TE-62DB BK</a></strong></li>
+<li><strong><a href="/harley-benton-te-62db-bk-thomann-united-states/" data-type="lasso-urls" data-id="11821" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234475" data-lasso-name="Harley Benton TE-62DB BK &ndash; Thomann United States">TE-62DB BK</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62db-lpb-thomann-united-states/" data-type="lasso-urls" data-id="11822" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234476" data-lasso-name="Harley Benton TE-62DB LPB &ndash; Thomann United States">TE-62DB LPB</a></strong></li>
+<li><strong><a href="/harley-benton-te-62db-lpb-thomann-united-states/" data-type="lasso-urls" data-id="11822" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234476" data-lasso-name="Harley Benton TE-62DB LPB &ndash; Thomann United States">TE-62DB LPB</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62db-car-thomann-united-states/" data-type="lasso-urls" data-id="11823" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234477" data-lasso-name="Harley Benton TE-62DB CAR &ndash; Thomann United States">TE-62DB CAR</a></strong></li>
+<li><strong><a href="/harley-benton-te-62db-car-thomann-united-states/" data-type="lasso-urls" data-id="11823" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234477" data-lasso-name="Harley Benton TE-62DB CAR &ndash; Thomann United States">TE-62DB CAR</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62cc-dr-thomann-united-states/" data-type="lasso-urls" data-id="11824" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234478" data-lasso-name="Harley Benton TE-62CC DR &ndash; Thomann United States">TE-62CC DR</a></strong></li>
+<li><strong><a href="/harley-benton-te-62cc-dr-thomann-united-states/" data-type="lasso-urls" data-id="11824" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234478" data-lasso-name="Harley Benton TE-62CC DR &ndash; Thomann United States">TE-62CC DR</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62cc-is-thomann-united-states/" data-type="lasso-urls" data-id="11825" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234479" data-lasso-name="Harley Benton TE-62CC IS &ndash; Thomann United States">TE-62CC IS</a></strong></li>
+<li><strong><a href="/harley-benton-te-62cc-is-thomann-united-states/" data-type="lasso-urls" data-id="11825" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234479" data-lasso-name="Harley Benton TE-62CC IS &ndash; Thomann United States">TE-62CC IS</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62cc-lh-sp-thomann-united-states/" data-type="lasso-urls" data-id="11826" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234480" data-lasso-name="Harley Benton TE-62CC LH SP &ndash; Thomann United States">TE-62CC LH SP</a></strong></li>
+<li><strong><a href="/harley-benton-te-62cc-lh-sp-thomann-united-states/" data-type="lasso-urls" data-id="11826" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234480" data-lasso-name="Harley Benton TE-62CC LH SP &ndash; Thomann United States">TE-62CC LH SP</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62cc-lpb-thomann-united-states/" data-type="lasso-urls" data-id="11827" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234481" data-lasso-name="Harley Benton TE-62CC LPB &ndash; Thomann United States">TE-62CC LPB</a></strong></li>
+<li><strong><a href="/harley-benton-te-62cc-lpb-thomann-united-states/" data-type="lasso-urls" data-id="11827" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234481" data-lasso-name="Harley Benton TE-62CC LPB &ndash; Thomann United States">TE-62CC LPB</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62cc-sp-thomann-united-states/" data-type="lasso-urls" data-id="11828" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234482" data-lasso-name="Harley Benton TE-62CC SP &ndash; Thomann United States">TE-62CC SP</a></strong></li>
+<li><strong><a href="/harley-benton-te-62cc-sp-thomann-united-states/" data-type="lasso-urls" data-id="11828" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234482" data-lasso-name="Harley Benton TE-62CC SP &ndash; Thomann United States">TE-62CC SP</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62cc-cf-thomann-united-states/" data-type="lasso-urls" data-id="11829" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234483" data-lasso-name="Harley Benton TE-62CC CF &ndash; Thomann United States">TE-62CC CF</a></strong></li>
+<li><strong><a href="/harley-benton-te-62cc-cf-thomann-united-states/" data-type="lasso-urls" data-id="11829" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234483" data-lasso-name="Harley Benton TE-62CC CF &ndash; Thomann United States">TE-62CC CF</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/harley-benton-te-62cc-sfg-thomann-united-states/" data-type="lasso-urls" data-id="11830" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234484" data-lasso-name="Harley Benton TE-62CC SFG &ndash; Thomann United States">TE-62CC SFG</a></strong></li>
+<li><strong><a href="/harley-benton-te-62cc-sfg-thomann-united-states/" data-type="lasso-urls" data-id="11830" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="234484" data-lasso-name="Harley Benton TE-62CC SFG &ndash; Thomann United States">TE-62CC SFG</a></strong></li>
 </ul>
 
 
@@ -248,7 +248,7 @@ seo:
 
 
 
-<p>FilterTron pickups can be installed in a variety of electric guitars, although they are most commonly found in Gretsch guitars and other hollow or <a href="https://www.electrikjam.com/fender-telecaster-thinline-guide-history/" data-lasso-id="252026">semi-hollow body instruments</a>. They are typically mounted in the neck and bridge positions using specialized mounting hardware, which may vary depending on the specific guitar model.</p>
+<p>FilterTron pickups can be installed in a variety of electric guitars, although they are most commonly found in Gretsch guitars and other hollow or <a href="/fender-telecaster-thinline-guide-history/" data-lasso-id="252026">semi-hollow body instruments</a>. They are typically mounted in the neck and bridge positions using specialized mounting hardware, which may vary depending on the specific guitar model.</p>
 
 
 
@@ -372,5 +372,5 @@ seo:
 
 
 
-<p>Need more information on <a href="https://www.electrikjam.com/harley-benton-dc-fat-p90-guitars-review/" data-lasso-id="235140">Harley Benton guitars</a>? Check out our detailed <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="234485">Harley Benton Buyer&#8217;s Guide</a></strong> for more information – it covers literally everything you need to know</p>
+<p>Need more information on <a href="/harley-benton-dc-fat-p90-guitars-review/" data-lasso-id="235140">Harley Benton guitars</a>? Check out our detailed <strong><a href="/harley-benton-guitars-guide/" data-type="post" data-id="9652" data-lasso-id="234485">Harley Benton Buyer&#8217;s Guide</a></strong> for more information – it covers literally everything you need to know</p>
 

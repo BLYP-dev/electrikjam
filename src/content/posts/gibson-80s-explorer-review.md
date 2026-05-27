@@ -49,7 +49,7 @@ seo:
 
 
 
-<p>I think the first time I heard anything negative about Gibson was around 2007. There was a pretty big price hike, yet nothing new was offered. Now, I like Gibson Les Paul guitars since that&#8217;s <strong><a href="https://www.electrikjam.com/learning-guitar-guide-what-to-expect/" target="_blank" data-type="post" data-id="737" rel="noopener" data-lasso-id="236227">where my journey started in the 90&#8217;s</a></strong>. But I thought the price hike was a big turn off, and I had <strong><a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="236228">moved on to 7 string guitars </a></strong>anyway by that time.</p>
+<p>I think the first time I heard anything negative about Gibson was around 2007. There was a pretty big price hike, yet nothing new was offered. Now, I like Gibson Les Paul guitars since that&#8217;s <strong><a href="/learning-guitar-guide-what-to-expect/" target="_blank" data-type="post" data-id="737" rel="noopener" data-lasso-id="236227">where my journey started in the 90&#8217;s</a></strong>. But I thought the price hike was a big turn off, and I had <strong><a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="236228">moved on to 7 string guitars </a></strong>anyway by that time.</p>
 
 
 
@@ -57,11 +57,11 @@ seo:
 
 
 
-<p>Since then, Gibson has constantly been a subject of controversy in one way or another. It has become a &#8220;lifestyle&#8221; brand over the last few years, much like Harley Davidson Motorcycles. Then came the lawsuits claiming smaller <a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-lasso-id="238000">brands were &#8220;ripping off&#8221; Gibson</a> designs. This <em>really</em> bothered the guitarist community, as they viewed it as petty.</p>
+<p>Since then, Gibson has constantly been a subject of controversy in one way or another. It has become a &#8220;lifestyle&#8221; brand over the last few years, much like Harley Davidson Motorcycles. Then came the lawsuits claiming smaller <a href="/the-gibson-brand-may-be-in-trouble/" data-lasso-id="238000">brands were &#8220;ripping off&#8221; Gibson</a> designs. This <em>really</em> bothered the guitarist community, as they viewed it as petty.</p>
 
 
 
-<p>Also, there have been plenty of companies that make Gibson-style designs, and do it better! Companies like <strong><a data-lasso-id="236229" href="https://heritageguitars.com/" target="_blank" rel="noopener noreferrer nofollow">The Heritage</a></strong> even use the older Gibson factory and tools. <strong><a data-lasso-id="236230" href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener">Schecter makes Explorer-style guitars</a></strong>, as well <strong><a data-lasso-id="236231" href="https://www.electrikjam.com/schecter-solo-ii-supreme-guitar-review/" data-type="post" data-id="10173" target="_blank" rel="noopener">as the Solo II Models </a></strong>that are HALF the price of a Gibson and have modern features! </p>
+<p>Also, there have been plenty of companies that make Gibson-style designs, and do it better! Companies like <strong><a data-lasso-id="236229" href="https://heritageguitars.com/" target="_blank" rel="noopener noreferrer nofollow">The Heritage</a></strong> even use the older Gibson factory and tools. <strong><a data-lasso-id="236230" href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener">Schecter makes Explorer-style guitars</a></strong>, as well <strong><a data-lasso-id="236231" href="/schecter-solo-ii-supreme-guitar-review/" data-type="post" data-id="10173" target="_blank" rel="noopener">as the Solo II Models </a></strong>that are HALF the price of a Gibson and have modern features! </p>
 
 
 
@@ -73,7 +73,7 @@ seo:
 
 
 
-<p><strong>The Gibson 80&#8217;s Explorer has been an axe that customers have wanted for a long time.</strong> The company seems to experiment <strong><a data-lasso-id="236232" href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener">with the Epiphone side</a></strong>, and we have definitely seen this model there as the &#8220;84 EX&#8221; model featuring EMG pickups. The Epiphone lineups are always interesting, with <strong><a data-lasso-id="236233" href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" target="_blank" rel="noopener">new ideas like the Prophecy Series</a></strong>. But until now, Epiphone was the only way to get this guitar.</p>
+<p><strong>The Gibson 80&#8217;s Explorer has been an axe that customers have wanted for a long time.</strong> The company seems to experiment <strong><a data-lasso-id="236232" href="/epiphone-guitars/" data-type="page" data-id="4039" target="_blank" rel="noopener">with the Epiphone side</a></strong>, and we have definitely seen this model there as the &#8220;84 EX&#8221; model featuring EMG pickups. The Epiphone lineups are always interesting, with <strong><a data-lasso-id="236233" href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" target="_blank" rel="noopener">new ideas like the Prophecy Series</a></strong>. But until now, Epiphone was the only way to get this guitar.</p>
 
 
 
@@ -333,7 +333,7 @@ seo:
 
 
 
-<p>The bridge pickup however, is around 17K, which is more than double the output of the neck pickup. The tone is absolutely dirty as hell, even on the clean channel. It almost reminds me of <strong><a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="236460">the output of a Duncan Invader</a></strong>, and that biting tone is exactly what we need for playing heavy stuff. </p>
+<p>The bridge pickup however, is around 17K, which is more than double the output of the neck pickup. The tone is absolutely dirty as hell, even on the clean channel. It almost reminds me of <strong><a href="/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="236460">the output of a Duncan Invader</a></strong>, and that biting tone is exactly what we need for playing heavy stuff. </p>
 
 
 
@@ -349,7 +349,7 @@ seo:
 
 
 
-<p>But this does cause a bit of volume jump when switching between the bridge and neck pickups. The output difference is pretty stark. But I adjusted the pickups so they were a little more balanced when you <strong><a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="236461">use the middle position</a></strong>. If you lower the bridge pickup, then it balances without any loss of edge.</p>
+<p>But this does cause a bit of volume jump when switching between the bridge and neck pickups. The output difference is pretty stark. But I adjusted the pickups so they were a little more balanced when you <strong><a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="236461">use the middle position</a></strong>. If you lower the bridge pickup, then it balances without any loss of edge.</p>
 
 
 
@@ -377,7 +377,7 @@ seo:
 
 
 
-<p>Gibson is at the precipice of pricing itself out of the market. We <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="236463">cover budget guitars all the time</a></strong>, and it can be hard to justify a Gibson when other brands, <em>even Epiphone</em>, compete when it comes to features and specs. Younger players just don&#8217;t care about Gibson, or &#8220;lifestyle&#8221; brands in general.</p>
+<p>Gibson is at the precipice of pricing itself out of the market. We <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="236463">cover budget guitars all the time</a></strong>, and it can be hard to justify a Gibson when other brands, <em>even Epiphone</em>, compete when it comes to features and specs. Younger players just don&#8217;t care about Gibson, or &#8220;lifestyle&#8221; brands in general.</p>
 
 
 
@@ -385,7 +385,7 @@ seo:
 
 
 
-<p>The younger players are going to buy guitars that have the features they need, with the lowest price tag. I <strong><a href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener" data-lasso-id="236464">put my Schecter E1 Koa </a></strong>against the Gibson 80&#8217;s Explorer and I still prefer my guitar. The nostalgia won me over in the beginning, but the quality is better with the Schecter. In fact, the Schecter is a neck-thru construction that offers better access, and has better woods.</p>
+<p>The younger players are going to buy guitars that have the features they need, with the lowest price tag. I <strong><a href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener" data-lasso-id="236464">put my Schecter E1 Koa </a></strong>against the Gibson 80&#8217;s Explorer and I still prefer my guitar. The nostalgia won me over in the beginning, but the quality is better with the Schecter. In fact, the Schecter is a neck-thru construction that offers better access, and has better woods.</p>
 
 
 

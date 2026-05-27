@@ -86,7 +86,7 @@ seo:
 
 
 
-<p>What’s missing? <strong>Don’t expect features like locking tuners, premium tremolo systems (Floyd Rose or Edge bridges), or boutique electronics</strong> you’d find on <strong><a href="https://www.electrikjam.com/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="271328">higher-end Ibanez models</a></strong>. </p>
+<p>What’s missing? <strong>Don’t expect features like locking tuners, premium tremolo systems (Floyd Rose or Edge bridges), or boutique electronics</strong> you’d find on <strong><a href="/ibanez-guitars/" data-type="page" data-id="13406" data-lasso-id="271328">higher-end Ibanez models</a></strong>. </p>
 
 
 

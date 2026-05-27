@@ -93,7 +93,7 @@ seo:
 
 
 
-<p>This supergroup, formed in 2009, brought together three titans of rock: <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="266532">Josh Homme of Queens of the Stone Age</a></strong>, <strong><a href="https://www.electrikjam.com/dave-grohl-taylor-swift-feud/" data-type="post" data-id="15487" data-lasso-id="266533">Dave Grohl of Foo Fighters</a></strong> (and formerly Nirvana), and <strong><a href="https://www.electrikjam.com/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048" data-lasso-id="266534">John Paul Jones of Led Zeppelin</a></strong> fame.</p>
+<p>This supergroup, formed in 2009, brought together three titans of rock: <strong><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="266532">Josh Homme of Queens of the Stone Age</a></strong>, <strong><a href="/dave-grohl-taylor-swift-feud/" data-type="post" data-id="15487" data-lasso-id="266533">Dave Grohl of Foo Fighters</a></strong> (and formerly Nirvana), and <strong><a href="/led-zeppelin-guitar-tunings-alternate-tunings/" data-type="post" data-id="3048" data-lasso-id="266534">John Paul Jones of Led Zeppelin</a></strong> fame.</p>
 
 
 

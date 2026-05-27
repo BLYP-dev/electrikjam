@@ -49,15 +49,15 @@ seo:
 
 
 
-<p>I cannot remember a time that a band has caused so many divided opinions among guitar players. Maybe <strong>John Mayer</strong>, since he was shunned by guitarists for years. But<strong> <a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="208757">John eventually proved himself</a>,</strong> I guess, since he is now an accepted member of &#8220;guitar hero&#8221; status. <strong>Tim Henson</strong> however, is still waiting on that approval from the general guitar community.</p>
+<p>I cannot remember a time that a band has caused so many divided opinions among guitar players. Maybe <strong>John Mayer</strong>, since he was shunned by guitarists for years. But<strong> <a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="208757">John eventually proved himself</a>,</strong> I guess, since he is now an accepted member of &#8220;guitar hero&#8221; status. <strong>Tim Henson</strong> however, is still waiting on that approval from the general guitar community.</p>
 
 
 
-<p>Not that I mean he is consciously waiting for people to like him, Tim has made it clear that the haters don&#8217;t bother him<em> at all</em>. Especially since Polyphia <em>sells out just about every show</em>, and has a brand new album that is tearing up the charts. The new album <strong>&#8220;Remember That You Will Die&#8221;</strong> has guest appearances from <strong><a data-lasso-id="208758" href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener">Steve Vai</a></strong>, <strong>Chino</strong> From<strong> <a data-lasso-id="208759" href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-type="post" data-id="3419" target="_blank" rel="noopener">Deftones</a></strong>, and the <a data-lasso-id="208760" href="https://www.youtube.com/@Polyphia" target="_blank" rel="noopener noreferrer nofollow"><strong>Polyphia YouTube</strong></a> channel has<em> millions </em>of subscribers. </p>
+<p>Not that I mean he is consciously waiting for people to like him, Tim has made it clear that the haters don&#8217;t bother him<em> at all</em>. Especially since Polyphia <em>sells out just about every show</em>, and has a brand new album that is tearing up the charts. The new album <strong>&#8220;Remember That You Will Die&#8221;</strong> has guest appearances from <strong><a data-lasso-id="208758" href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener">Steve Vai</a></strong>, <strong>Chino</strong> From<strong> <a data-lasso-id="208759" href="/deftones-songs-in-drop-d-a-complete-list/" data-type="post" data-id="3419" target="_blank" rel="noopener">Deftones</a></strong>, and the <a data-lasso-id="208760" href="https://www.youtube.com/@Polyphia" target="_blank" rel="noopener noreferrer nofollow"><strong>Polyphia YouTube</strong></a> channel has<em> millions </em>of subscribers. </p>
 
 
 
-<p><strong>The Ibanez TOD10</strong> is Tim&#8217;s new signature electric, and takes some of the design elements from the <a data-lasso-id="208761" href="https://www.electrikjam.com/ibanez-az-essentials-review/" data-type="post" data-id="6366" target="_blank" rel="noopener"><strong>AZ Series</strong></a> as well as his<strong> <a data-lasso-id="208762" data-lasso-name="Ibanez THBB10" href="https://www.electrikjam.com/guitar-center-pxf-io-nk4q6v/" data-type="lasso-urls" data-id="5336" target="_blank" rel="nofollow noopener">original model</a></strong>. While the spartan looks and shape may look familiar, there are a lot of surprises under the hood. Tim definitely appreciates aesthetics in his guitars, but he is also utilitarian when it comes to features. <em>Versatility</em> is absolutely paramount to Tim.</p>
+<p><strong>The Ibanez TOD10</strong> is Tim&#8217;s new signature electric, and takes some of the design elements from the <a data-lasso-id="208761" href="/ibanez-az-essentials-review/" data-type="post" data-id="6366" target="_blank" rel="noopener"><strong>AZ Series</strong></a> as well as his<strong> <a data-lasso-id="208762" data-lasso-name="Ibanez THBB10" href="/guitar-center-pxf-io-nk4q6v/" data-type="lasso-urls" data-id="5336" target="_blank" rel="nofollow noopener">original model</a></strong>. While the spartan looks and shape may look familiar, there are a lot of surprises under the hood. Tim definitely appreciates aesthetics in his guitars, but he is also utilitarian when it comes to features. <em>Versatility</em> is absolutely paramount to Tim.</p>
 
 
 
@@ -65,7 +65,7 @@ seo:
 
 
 
-<p><strong>I am a little disappointed that the original Polyphia Ibanez models are being discontinued.</strong> I understand why the change is happening, and it is mainly due to the pickups. The new <a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener" data-lasso-id="210134"><strong>Fishman</strong></a> pickups are a big change for Tim Henson, as he has usually used single coils with a humbucker in the bridge. So with all that said, let&#8217;s dive in and take a look!</p>
+<p><strong>I am a little disappointed that the original Polyphia Ibanez models are being discontinued.</strong> I understand why the change is happening, and it is mainly due to the pickups. The new <a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener" data-lasso-id="210134"><strong>Fishman</strong></a> pickups are a big change for Tim Henson, as he has usually used single coils with a humbucker in the bridge. So with all that said, let&#8217;s dive in and take a look!</p>
 
 
 
@@ -81,11 +81,11 @@ seo:
 
 
 
-<p>The Ibanez TOD10 still borrows a lot from the AZ Series, and that is a good thing! The AZ Series has become a hugely popular part of the Ibanez lineup, and has taken the brand out of the &#8220;just shred&#8221; category of guitars. These <a href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" target="_blank" data-type="post" data-id="9301" rel="noopener" data-lasso-id="210135"><strong>shredder </strong></a>companies have been offering new options and branching out.</p>
+<p>The Ibanez TOD10 still borrows a lot from the AZ Series, and that is a good thing! The AZ Series has become a hugely popular part of the Ibanez lineup, and has taken the brand out of the &#8220;just shred&#8221; category of guitars. These <a href="/evh-the-5-best-budget-shredder-guitars/" target="_blank" data-type="post" data-id="9301" rel="noopener" data-lasso-id="210135"><strong>shredder </strong></a>companies have been offering new options and branching out.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener" data-lasso-id="210136">Schecter</a> </strong>for example has had a tone of success with the <a href="https://www.electrikjam.com/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener" data-lasso-id="210137"><strong>Nick Johnston</strong></a> line. The Ibanez AZ series is similar in taking a classic shape and look, yet adding more modern appointments. This whole trend of taking classic looking guitars and making them modern is something that is long overdue. So what is the Ibanez TOD10 offering?</p>
+<p><strong><a href="/schecter-reaper-elite-series-review/" data-type="post" data-id="10252" target="_blank" rel="noopener" data-lasso-id="210136">Schecter</a> </strong>for example has had a tone of success with the <a href="/schecter-nick-johnston-pt-2022/" data-type="post" data-id="8299" target="_blank" rel="noopener" data-lasso-id="210137"><strong>Nick Johnston</strong></a> line. The Ibanez AZ series is similar in taking a classic shape and look, yet adding more modern appointments. This whole trend of taking classic looking guitars and making them modern is something that is long overdue. So what is the Ibanez TOD10 offering?</p>
 
 
 
@@ -143,7 +143,7 @@ seo:
 
 
 
-<p>That being said, there is a lot to go over with this guitar. It may look like the other guitars in the AZ Series, but there are quite a few differences. I also wanted to point out how cool it is that <a href="https://www.electrikjam.com/ibanez-guitars/" data-lasso-id="255017">Ibanez</a> is pricing these below $2000 for an artist model. You get a lot of features for the price, so let&#8217;s try it out!</p>
+<p>That being said, there is a lot to go over with this guitar. It may look like the other guitars in the AZ Series, but there are quite a few differences. I also wanted to point out how cool it is that <a href="/ibanez-guitars/" data-lasso-id="255017">Ibanez</a> is pricing these below $2000 for an artist model. You get a lot of features for the price, so let&#8217;s try it out!</p>
 
 
 
@@ -155,7 +155,7 @@ seo:
 
 
 
-<p><strong>If you are unfamiliar <a href="https://www.electrikjam.com/ibanez-signature-guitars/" data-lasso-id="255039">with our review process, we always check out new guitars right out of the box. With guitars like the Ibanez TOD10</a>, this is a store sample model since these are not for sale yet. But even with sample models, we still give the guitar the &#8220;right out of the box&#8221; treatment. </strong></p>
+<p><strong>If you are unfamiliar <a href="/ibanez-signature-guitars/" data-lasso-id="255039">with our review process, we always check out new guitars right out of the box. With guitars like the Ibanez TOD10</a>, this is a store sample model since these are not for sale yet. But even with sample models, we still give the guitar the &#8220;right out of the box&#8221; treatment. </strong></p>
 
 
 
@@ -203,7 +203,7 @@ seo:
 
 
 
-<p><strong>Overall, it plays like a modern Super-Strat, but feels like a more classic guitar.</strong> The Ibanez TOD10 would be a great guitar, and a joy to play <em>without anyone&#8217;s name attached to it</em>. Playing up and down the neck is smooth, and something just feels &#8220;balanced&#8221; when it comes to the feel. The Gotoh hardware kept everything in tune, even when doing some<a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="210138"> <strong>Van Halen</strong></a> tricks.</p>
+<p><strong>Overall, it plays like a modern Super-Strat, but feels like a more classic guitar.</strong> The Ibanez TOD10 would be a great guitar, and a joy to play <em>without anyone&#8217;s name attached to it</em>. Playing up and down the neck is smooth, and something just feels &#8220;balanced&#8221; when it comes to the feel. The Gotoh hardware kept everything in tune, even when doing some<a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="210138"> <strong>Van Halen</strong></a> tricks.</p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>Fishman Fluence have really taken over the market when it comes to <a href="https://www.electrikjam.com/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="210139"><strong>active pickups</strong></a>. They are especially popular with artists, since the design allows the artist to tweak the pickups <em>as they go</em>. This is all done digitally, so if an artist wants more midrange in their pickup, Fishman can just dial that in <em>without winding a whole new set.</em></p>
+<p>Fishman Fluence have really taken over the market when it comes to <a href="/what-are-active-pickups/" target="_blank" data-type="post" data-id="4712" rel="noopener" data-lasso-id="210139"><strong>active pickups</strong></a>. They are especially popular with artists, since the design allows the artist to tweak the pickups <em>as they go</em>. This is all done digitally, so if an artist wants more midrange in their pickup, Fishman can just dial that in <em>without winding a whole new set.</em></p>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<p><strong>This gives the Ibanez TOD10 some of the most versatile <a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="210140">pickup position selections </a>I think I have ever seen on<em> any guitar.</em></strong> The humbuckers on their own sound like hot PAF pickups, to me. They have a ton of midrange dialed in, so they will cut through the mix. But they also have a good amount of bass frequencies as well, making them punchy and very &#8220;present&#8221;.</p>
+<p><strong>This gives the Ibanez TOD10 some of the most versatile <a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="210140">pickup position selections </a>I think I have ever seen on<em> any guitar.</em></strong> The humbuckers on their own sound like hot PAF pickups, to me. They have a ton of midrange dialed in, so they will cut through the mix. But they also have a good amount of bass frequencies as well, making them punchy and very &#8220;present&#8221;.</p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/top-5-underrated-guitarists/" data-lasso-id="233862">Modern players</a> are using single coils sounds more often, even in Metal. There are a lot of guitarists breaking the mold of what certain guitars can do. The old way of thinking that there are two camps; Les Paul and Stratocaster&#8230;are antiquated at this point. Players want a little bit of both, but they also want it in a classic-looking package. Unlike PRS or Parker guitars, which <em>buck the classic trends</em>.</p>
+<p><a href="/top-5-underrated-guitarists/" data-lasso-id="233862">Modern players</a> are using single coils sounds more often, even in Metal. There are a lot of guitarists breaking the mold of what certain guitars can do. The old way of thinking that there are two camps; Les Paul and Stratocaster&#8230;are antiquated at this point. Players want a little bit of both, but they also want it in a classic-looking package. Unlike PRS or Parker guitars, which <em>buck the classic trends</em>.</p>
 
 
 

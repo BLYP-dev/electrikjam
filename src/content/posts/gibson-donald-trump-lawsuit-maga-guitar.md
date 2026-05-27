@@ -78,7 +78,7 @@ seo:
 
 
 
-<p>GROTE as a brand is known for its <a href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-type="post" data-id="1175" data-lasso-id="270453">Amazon offerings</a> that we have looked at before and discussed on our podcast. The brand has guitars for every budget, starting at $200 or so. </p>
+<p>GROTE as a brand is known for its <a href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-type="post" data-id="1175" data-lasso-id="270453">Amazon offerings</a> that we have looked at before and discussed on our podcast. The brand has guitars for every budget, starting at $200 or so. </p>
 
 
 
@@ -144,7 +144,7 @@ seo:
 
 
 
-<p>Still, the company might have a hard time defending their designs against <strong><a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" data-type="post" data-id="12054" data-lasso-id="270441">Gibson’s legal team</a></strong>, who have the resources and track record to make these lawsuits stick.</p>
+<p>Still, the company might have a hard time defending their designs against <strong><a href="/the-gibson-brand-may-be-in-trouble/" data-type="post" data-id="12054" data-lasso-id="270441">Gibson’s legal team</a></strong>, who have the resources and track record to make these lawsuits stick.</p>
 
 
 

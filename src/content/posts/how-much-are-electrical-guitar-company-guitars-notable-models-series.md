@@ -71,7 +71,7 @@ seo:
 
 
 
-<p>If you want a guitar that literally no one else has, there is one brand that stands out from the crowd: The Electrical Guitar Company. Not only are its guitars made from truly unique material – aluminium and acrylic – but they’re also played by some of the best guitarists working today, from Old Man Gloom’s Aron Turner to <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="265360">King Buzzo Osbourne</a></strong>. </p>
+<p>If you want a guitar that literally no one else has, there is one brand that stands out from the crowd: The Electrical Guitar Company. Not only are its guitars made from truly unique material – aluminium and acrylic – but they’re also played by some of the best guitarists working today, from Old Man Gloom’s Aron Turner to <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="265360">King Buzzo Osbourne</a></strong>. </p>
 
 
 

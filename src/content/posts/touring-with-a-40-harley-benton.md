@@ -55,15 +55,15 @@ seo:
 
 
 
-<p>Now that&#8217;s not to say that some famous guitarists haven&#8217;t played some cheap guitars on stage. Some pretty high-profile players like <strong>Prince</strong>, <strong><a data-lasso-id="217713" href="https://www.electrikjam.com/jack-white-loves-horrible-difficult-guitars-heres-why/" data-type="post" data-id="8093" target="_blank" rel="noopener">Jack White</a></strong>, and even<strong><a data-lasso-id="217714" href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener"> Mike from Genesis</a></strong> have been seen playing some budget guitars on stage. Some guitars just have the <em>mojo</em>, no matter what the price.</p>
+<p>Now that&#8217;s not to say that some famous guitarists haven&#8217;t played some cheap guitars on stage. Some pretty high-profile players like <strong>Prince</strong>, <strong><a data-lasso-id="217713" href="/jack-white-loves-horrible-difficult-guitars-heres-why/" data-type="post" data-id="8093" target="_blank" rel="noopener">Jack White</a></strong>, and even<strong><a data-lasso-id="217714" href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener"> Mike from Genesis</a></strong> have been seen playing some budget guitars on stage. Some guitars just have the <em>mojo</em>, no matter what the price.</p>
 
 
 
-<p>Touring with a $40 <a href="https://www.electrikjam.com/new-harley-benton-25th-anniversary-guitars/" data-lasso-id="227727">Harley Benton guitar</a> is not something you would expect to see from a professional, touring guitarist. <strong>Scott Poley</strong> is a touring guitarist in the band <strong>Rumours Of Fleetwood Mac</strong>, clearly a Fleetwood mac tribute band. The group does over 100 shows a year, in <em>arenas</em> all over the place!</p>
+<p>Touring with a $40 <a href="/new-harley-benton-25th-anniversary-guitars/" data-lasso-id="227727">Harley Benton guitar</a> is not something you would expect to see from a professional, touring guitarist. <strong>Scott Poley</strong> is a touring guitarist in the band <strong>Rumours Of Fleetwood Mac</strong>, clearly a Fleetwood mac tribute band. The group does over 100 shows a year, in <em>arenas</em> all over the place!</p>
 
 
 
-<p>Personally, the whole idea of touring with a $40 <a href="https://www.electrikjam.com/harley-benton-dc-fat-p90-guitars-review/" data-lasso-id="235133">Harley Benton guitar</a> would scare me to death. Scott Poley got the Harley Benton ST-20 second hand, and he only paid 40 bucks for it. Poley says that he ended up really loving the guitar, so he took it on tour!</p>
+<p>Personally, the whole idea of touring with a $40 <a href="/harley-benton-dc-fat-p90-guitars-review/" data-lasso-id="235133">Harley Benton guitar</a> would scare me to death. Scott Poley got the Harley Benton ST-20 second hand, and he only paid 40 bucks for it. Poley says that he ended up really loving the guitar, so he took it on tour!</p>
 
 
 
@@ -83,7 +83,7 @@ seo:
 
 
 
-<p>We took a look at pretty much <strong><a data-lasso-id="217715" href="https://www.electrikjam.com/harley-benton-guitars-guide/" data-type="post" data-id="9652" target="_blank" rel="noopener">ALL of the Harley Benton guitars</a></strong> at the end of last year. The guitar in question comes from the &#8220;Standard&#8221; series that Harley Benton offers, and usually sells for right at $100 after shipping costs. </p>
+<p>We took a look at pretty much <strong><a data-lasso-id="217715" href="/harley-benton-guitars-guide/" data-type="post" data-id="9652" target="_blank" rel="noopener">ALL of the Harley Benton guitars</a></strong> at the end of last year. The guitar in question comes from the &#8220;Standard&#8221; series that Harley Benton offers, and usually sells for right at $100 after shipping costs. </p>
 
 
 
@@ -91,11 +91,11 @@ seo:
 
 
 
-<p>I mean, <em>it is exactly what it looks like</em>; a budget Strat copy. Harley Benton has made some really great guitars, but in our experience the lower end models were on par with other guitars like the <strong><a data-lasso-id="217716" data-lasso-name="Squier Affinity Series Guitars" href="https://www.electrikjam.com/squier-affinity-series-guitars/" data-type="lasso-urls" data-id="5748" target="_blank" rel="nofollow sponsored noopener">Squier Affinity Series. </a></strong> They are nice beginner guitars, with a familiar design.</p>
+<p>I mean, <em>it is exactly what it looks like</em>; a budget Strat copy. Harley Benton has made some really great guitars, but in our experience the lower end models were on par with other guitars like the <strong><a data-lasso-id="217716" data-lasso-name="Squier Affinity Series Guitars" href="/squier-affinity-series-guitars/" data-type="lasso-urls" data-id="5748" target="_blank" rel="nofollow sponsored noopener">Squier Affinity Series. </a></strong> They are nice beginner guitars, with a familiar design.</p>
 
 
 
-<p>There is one caveat to this particular guitar model. The Harley Benton ST-20 has a much different neck profile than any Stratocaster that I have played. The neck has a flatter radius 12&#8221; as well as larger frets than you would find on a Fender/Squier. This makes the guitar a little easier to play in my opinion, and the neck really stood out <strong><a href="https://www.electrikjam.com/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" target="_blank" rel="noopener" data-lasso-id="217867">in our review of the ST-20</a></strong>.</p>
+<p>There is one caveat to this particular guitar model. The Harley Benton ST-20 has a much different neck profile than any Stratocaster that I have played. The neck has a flatter radius 12&#8221; as well as larger frets than you would find on a Fender/Squier. This makes the guitar a little easier to play in my opinion, and the neck really stood out <strong><a href="/harley-benton-standard-series-guitar-review/" data-type="post" data-id="9603" target="_blank" rel="noopener" data-lasso-id="217867">in our review of the ST-20</a></strong>.</p>
 
 
 

@@ -88,7 +88,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-full"><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/"><img decoding="async" width="1410" height="2250" src="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png" alt="ELECTRIKJAM Mastering 101 The Complete Beginner&#039;s Guide" class="wp-image-14681" title="" srcset="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png 1410w, /wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide-600x957.png 600w" sizes="(max-width: 1410px) 100vw, 1410px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/product/mastering-101-the-complete-beginner-framework/"><img decoding="async" width="1410" height="2250" src="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png" alt="ELECTRIKJAM Mastering 101 The Complete Beginner&#039;s Guide" class="wp-image-14681" title="" srcset="/wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide.png 1410w, /wp-content/uploads/2024/04/ELECTRIKJAM-Mastering-101-The-Complete-Beginners-Guide-600x957.png 600w" sizes="(max-width: 1410px) 100vw, 1410px" /></a></figure>
 
 
 
@@ -202,7 +202,7 @@ seo:
 
 
 
-<p id="htoc-get-my-complete-music-mastering-101-guide-and-start-transforming-your-music">Get my complete <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024">Music Mastering 101 Guide</a></strong> and start transforming your music!</p>
+<p id="htoc-get-my-complete-music-mastering-101-guide-and-start-transforming-your-music">Get my complete <strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-type="product" data-id="15024">Music Mastering 101 Guide</a></strong> and start transforming your music!</p>
 </div>
 
 

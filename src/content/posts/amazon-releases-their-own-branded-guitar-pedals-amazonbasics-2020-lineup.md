@@ -40,7 +40,7 @@ seo:
 
 
 
-<p><strong>Well, this is awkward</strong>. This whole week I have been talking about <a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="350">guitar pedals,</a> and <a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="351">building your own pedalboard</a>. Of course many of these pedals and devices that I suggest are from <a href="https://www.electrikjam.com/cort-guitars-a-wonderful-high-quality-brand/" data-lasso-id="5753">boutique companies</a> and long-time guitar pedal companies with a big reputation.</p>
+<p><strong>Well, this is awkward</strong>. This whole week I have been talking about <a href="/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="350">guitar pedals,</a> and <a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" data-lasso-id="351">building your own pedalboard</a>. Of course many of these pedals and devices that I suggest are from <a href="/cort-guitars-a-wonderful-high-quality-brand/" data-lasso-id="5753">boutique companies</a> and long-time guitar pedal companies with a big reputation.</p>
 
 
 
@@ -48,7 +48,7 @@ seo:
 
 
 
-<p><strong>RELATED: <a class="rank-math-link" href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-lasso-id="352">The Best Types of Guitar Pedals: Fuzz, Distortion, Delay, Reverb, Chorus &amp; More…</a></strong></p>
+<p><strong>RELATED: <a class="rank-math-link" href="/the-best-guitar-pedals-1968-2021/" data-lasso-id="352">The Best Types of Guitar Pedals: Fuzz, Distortion, Delay, Reverb, Chorus &amp; More…</a></strong></p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>So it comes as a little bit of a surprise that Amazon has it&#8217;s own line of <a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-lasso-id="200803">guitar pedals</a>. But then again, not really. Not if you&#8217;ve been paying attention..</p>
+<p>So it comes as a little bit of a surprise that Amazon has it&#8217;s own line of <a href="/prs-guitar-pedals-reviewed/" data-lasso-id="200803">guitar pedals</a>. But then again, not really. Not if you&#8217;ve been paying attention..</p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>So AmazonBasics having it&#8217;s own line of <a href="https://www.electrikjam.com/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183497">guitar pedals</a> may seem a little strange at first, but if you have kept up with their inventory over the years, it really isn&#8217;t strange at all. The website has always sold off-brand, Chinese made guitar gear. <em>You just had to search for it.</em></p>
+<p>So AmazonBasics having it&#8217;s own line of <a href="/5-best-cheap-guitar-pedals-reviewed/" data-lasso-id="183497">guitar pedals</a> may seem a little strange at first, but if you have kept up with their inventory over the years, it really isn&#8217;t strange at all. The website has always sold off-brand, Chinese made guitar gear. <em>You just had to search for it.</em></p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p><strong>Aluminum Construction</strong>: That&#8217;s right, these are actual metal housings. Usually <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231158">budget pedals</a> are made of plastic that can easily break.. considering it&#8217;s made for stepping on. The housing also has no-slip rubber feet on the bottom. Each pedal also has a built-in LED indicator light that is built in.</p>
+<p><strong>Aluminum Construction</strong>: That&#8217;s right, these are actual metal housings. Usually <a href="/gamma-guitar-pedals-review/" data-lasso-id="231158">budget pedals</a> are made of plastic that can easily break.. considering it&#8217;s made for stepping on. The housing also has no-slip rubber feet on the bottom. Each pedal also has a built-in LED indicator light that is built in.</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<p><strong>True Bypass:</strong> This is a <a href="https://www.electrikjam.com/harley-benton-amarok-review/" data-lasso-id="23208">feature you usually only see on name brand</a> guitar pedals. True bypass means that when switching the circuits on and off, it creates a direct signal to your amp without degradation of the sound/tone of your guitar. Personally, I have never really cared about true bypass features, but other guitarists will disagree. Especially those that have a massive pedalboard.</p>
+<p><strong>True Bypass:</strong> This is a <a href="/harley-benton-amarok-review/" data-lasso-id="23208">feature you usually only see on name brand</a> guitar pedals. True bypass means that when switching the circuits on and off, it creates a direct signal to your amp without degradation of the sound/tone of your guitar. Personally, I have never really cared about true bypass features, but other guitarists will disagree. Especially those that have a massive pedalboard.</p>
 
 
 
@@ -152,7 +152,7 @@ seo:
 
 
 
-<p>There is some great potential here, but I have a few concerns. There is a lack of any type of <a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="355">Fuzz pedal,</a> which guitar players are fond of. Players from Classic Rock, Punk, and <a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-lasso-id="356">Doom Metal</a> use Fuzz in their rigs. </p>
+<p>There is some great potential here, but I have a few concerns. There is a lack of any type of <a href="/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="355">Fuzz pedal,</a> which guitar players are fond of. Players from Classic Rock, Punk, and <a href="/matt-pike-dopesmoker-sleep/" data-lasso-id="356">Doom Metal</a> use Fuzz in their rigs. </p>
 
 
 
@@ -184,7 +184,7 @@ seo:
 
 
 
-<p>I&#8217;ll leave you with Fluff&#8217;s review of the <a href="https://www.electrikjam.com/catalinbread-sabbra-cadabra-new/" data-lasso-id="357">overdrive pedal</a>, and let you make up your own mind.</p>
+<p>I&#8217;ll leave you with Fluff&#8217;s review of the <a href="/catalinbread-sabbra-cadabra-new/" data-lasso-id="357">overdrive pedal</a>, and let you make up your own mind.</p>
 
 
 

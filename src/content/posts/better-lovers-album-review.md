@@ -66,7 +66,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/every-time-i-die-radical-album-review-the-boys-are-back-with-brutality/" data-type="post" data-id="5181" data-lasso-id="258580">Every Time I Die was the band</a></strong> that could carry the torch. They had the same frantic energy, a versatile vocalist, thoughtful lyrics, and a seemingly endless pile of riffs. We reviewed their album &#8220;Radical&#8221; and it showcased the chaos the group was capable of, as well as the lesser-seen softer side. It was an amazing album, and it filled that gap that the fans were left with when Dillinger retired.</p>
+<p><strong><a href="/every-time-i-die-radical-album-review-the-boys-are-back-with-brutality/" data-type="post" data-id="5181" data-lasso-id="258580">Every Time I Die was the band</a></strong> that could carry the torch. They had the same frantic energy, a versatile vocalist, thoughtful lyrics, and a seemingly endless pile of riffs. We reviewed their album &#8220;Radical&#8221; and it showcased the chaos the group was capable of, as well as the lesser-seen softer side. It was an amazing album, and it filled that gap that the fans were left with when Dillinger retired.</p>
 
 
 

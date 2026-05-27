@@ -31,7 +31,7 @@ seo:
 ---
 
 
-<p><strong><a href="https://www.electrikjam.com/fender/" data-lasso-id="1812">Fender</a> launched their Parallel Universe Series a few years ago, and it has been hugely popular. These models are can be anything from modern takes on classic guitars, to being a completely new guitar that no one has ever seen. The Fender Triple Trouble is the latest model to come through the portal!</strong></p>
+<p><strong><a href="/fender/" data-lasso-id="1812">Fender</a> launched their Parallel Universe Series a few years ago, and it has been hugely popular. These models are can be anything from modern takes on classic guitars, to being a completely new guitar that no one has ever seen. The Fender Triple Trouble is the latest model to come through the portal!</strong></p>
 
 
 
@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>The people over at <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="498">Fender Guitars</a> are doing some really interesting things with their Parallel Universe lineup. Almost every model they have released over the past few years has definitely piqued my interest. These are not your traditional Fender Guitars!</p>
+<p>The people over at <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="498">Fender Guitars</a> are doing some really interesting things with their Parallel Universe lineup. Almost every model they have released over the past few years has definitely piqued my interest. These are not your traditional Fender Guitars!</p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>That&#8217;s where <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="499">these new Fenders step in</a>. Let&#8217;s get weird with the new Fender Triple Trouble!</p>
+<p>That&#8217;s where <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="499">these new Fenders step in</a>. Let&#8217;s get weird with the new Fender Triple Trouble!</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>The original Trouble Maker Telecaster was a dual humbucker, fixed bridge monster of a guitar. I think it is easy to see where the inspiration for the Trouble Maker came from; <a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="500">The Les Paul </a>.</p>
+<p>The original Trouble Maker Telecaster was a dual humbucker, fixed bridge monster of a guitar. I think it is easy to see where the inspiration for the Trouble Maker came from; <a href="/best-epiphone-les-paul-models/" class="rank-math-link" data-lasso-id="500">The Les Paul </a>.</p>
 
 
 
@@ -75,7 +75,7 @@ seo:
 
 
 
-<p>Add in <a href="https://www.electrikjam.com/who-plays-fender-thinline-telecaster/" data-lasso-id="252367">the binding, block inlays and tune-o-matic style bridge and you have all the features of a Les Paul in the shape of a Fender Telecaster</a>. It is a an interesting idea isn&#8217;t it? <em>What if </em>Fender invented this style of solid body guitar? I imagine it would look like the Trouble Maker!</p>
+<p>Add in <a href="/who-plays-fender-thinline-telecaster/" data-lasso-id="252367">the binding, block inlays and tune-o-matic style bridge and you have all the features of a Les Paul in the shape of a Fender Telecaster</a>. It is a an interesting idea isn&#8217;t it? <em>What if </em>Fender invented this style of solid body guitar? I imagine it would look like the Trouble Maker!</p>
 
 
 
@@ -91,7 +91,7 @@ seo:
 
 
 
-<p>If the original Trouble Maker is a regular <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="501">Les Paul</a>, then the Triple Trouble is the &#8220;Black Beauty&#8221; Les Paul Custom. But of course, there is a twist! Add in  a few tweaks from the Fender Custom Shop that make this guitar very special:</p>
+<p>If the original Trouble Maker is a regular <a href="/types-of-guitars-guide/" data-lasso-id="501">Les Paul</a>, then the Triple Trouble is the &#8220;Black Beauty&#8221; Les Paul Custom. But of course, there is a twist! Add in  a few tweaks from the Fender Custom Shop that make this guitar very special:</p>
 
 
 
@@ -103,7 +103,7 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-lasso-id="502">Fender Triple Trouble</a> seems like a great new alternative to those classic Black Beauties. It has the same pickup layout and Tuxedo Look, with an added Bigsby Tremolo. This makes the Fender an interesting guitar for sure.</p>
+<p>The <a href="/the-best-fender-strat-alternative-in-2021/" data-lasso-id="502">Fender Triple Trouble</a> seems like a great new alternative to those classic Black Beauties. It has the same pickup layout and Tuxedo Look, with an added Bigsby Tremolo. This makes the Fender an interesting guitar for sure.</p>
 
 
 
@@ -115,7 +115,7 @@ seo:
 
 
 
-<p>The Fender Triple Trouble has a real Bigsby tremolo mounted to the mahogany body. The Bigsby can do some really cool trem effects, including flutters. It certainly isn&#8217;t as extreme as a <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167818">Floyd Rose bridge</a>. But if you were looking for smooth half-step bends and mild flutters, then a Bigsby is perfect. Not to mention it looks <em>classy</em>.</p>
+<p>The Fender Triple Trouble has a real Bigsby tremolo mounted to the mahogany body. The Bigsby can do some really cool trem effects, including flutters. It certainly isn&#8217;t as extreme as a <a href="/floyd-rose-bridge-explained/" data-lasso-id="167818">Floyd Rose bridge</a>. But if you were looking for smooth half-step bends and mild flutters, then a Bigsby is perfect. Not to mention it looks <em>classy</em>.</p>
 
 
 
@@ -149,11 +149,11 @@ seo:
 
 
 
-<p>This is a great move for Fender. I think it is fine to continue the traditional instruments for people that want them. But there are plenty of metal and Rock players out there that would love to play Fender. But The specs just usually seem pretty unappealing for a Metal guitarist. <a href="https://www.electrikjam.com/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/" data-lasso-id="6906"><strong>Jim Root </strong>from <strong>Slipknot</a> </strong>has this exact problem, which is why Fender makes special models for him.</p>
+<p>This is a great move for Fender. I think it is fine to continue the traditional instruments for people that want them. But there are plenty of metal and Rock players out there that would love to play Fender. But The specs just usually seem pretty unappealing for a Metal guitarist. <a href="/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/" data-lasso-id="6906"><strong>Jim Root </strong>from <strong>Slipknot</a> </strong>has this exact problem, which is why Fender makes special models for him.</p>
 
 
 
-<p>I hope the Parallel Universe continues to produce some interesting models that appeal to different players. I can already imagine the Fender triple Trouble <a href="https://www.electrikjam.com/fuzz-vs-distortion/" data-lasso-id="36501">drowning in fuzz and distortion</a>!</p>
+<p>I hope the Parallel Universe continues to produce some interesting models that appeal to different players. I can already imagine the Fender triple Trouble <a href="/fuzz-vs-distortion/" data-lasso-id="36501">drowning in fuzz and distortion</a>!</p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

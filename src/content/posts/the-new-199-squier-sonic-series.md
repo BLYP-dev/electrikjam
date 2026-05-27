@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>In case you haven&#8217;t noticed, budget-friendly guitars are very popular right now. <strong><a href="https://www.electrikjam.com/new-harley-benton-25th-anniversary-guitars/" data-type="post" data-id="11382" target="_blank" rel="noopener" data-lasso-id="228739">From Harley Benton </a></strong>to the <strong><a href="https://www.electrikjam.com/glarry-guitars-and-basses-quality-vs-price/" data-type="post" data-id="11372" target="_blank" rel="noopener" data-lasso-id="228740">crazy affordable Glarry instruments</a></strong>, everyone is trying to make guitars for cheap prices. But these brands are relatively new when it comes to the public eye.</p>
+<p>In case you haven&#8217;t noticed, budget-friendly guitars are very popular right now. <strong><a href="/new-harley-benton-25th-anniversary-guitars/" data-type="post" data-id="11382" target="_blank" rel="noopener" data-lasso-id="228739">From Harley Benton </a></strong>to the <strong><a href="/glarry-guitars-and-basses-quality-vs-price/" data-type="post" data-id="11372" target="_blank" rel="noopener" data-lasso-id="228740">crazy affordable Glarry instruments</a></strong>, everyone is trying to make guitars for cheap prices. But these brands are relatively new when it comes to the public eye.</p>
 
 
 
@@ -60,7 +60,7 @@ seo:
 
 
 
-<p>The Squier Bullet was popular among beginners because of its low price. But I have also known people to take the Bullet, Standard, and<strong><a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener" data-lasso-id="228741"> Affinity Series on stage</a></strong>. In fact, I was one of those people! I used a $99 <strong>Squier</strong> <strong>51</strong> for years as a backup guitar, and never had a problem with it.</p>
+<p>The Squier Bullet was popular among beginners because of its low price. But I have also known people to take the Bullet, Standard, and<strong><a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-type="post" data-id="5136" target="_blank" rel="noopener" data-lasso-id="228741"> Affinity Series on stage</a></strong>. In fact, I was one of those people! I used a $99 <strong>Squier</strong> <strong>51</strong> for years as a backup guitar, and never had a problem with it.</p>
 
 
 
@@ -68,19 +68,19 @@ seo:
 
 
 
-<p>The Bullet Guitars lacked most of the interesting designs that other Squier guitars had to offer, and had limited color options. <strong><a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="228742">Squier is usually where Fender likes to test the more &#8220;risky&#8221; designs</a></strong>, like the <strong><a href="https://www.fender.com/en-US/squier-series/paranormal/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="228743">Paranormal Series </a></strong>that start out as Squier, but may move up to being pricier, Fender Custom Shop designs.</p>
+<p>The Bullet Guitars lacked most of the interesting designs that other Squier guitars had to offer, and had limited color options. <strong><a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="228742">Squier is usually where Fender likes to test the more &#8220;risky&#8221; designs</a></strong>, like the <strong><a href="https://www.fender.com/en-US/squier-series/paranormal/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="228743">Paranormal Series </a></strong>that start out as Squier, but may move up to being pricier, Fender Custom Shop designs.</p>
 
 
 
-<p>That was never the point of the Bullet Series, however. These were bare-bones versions of the most popular models that Fender designs. Just because they are simple, doesn&#8217;t mean they have to be boring. And <a href="https://www.electrikjam.com/top-5-underrated-guitarists/" data-lasso-id="233856">modern players</a> are anything but boring.</p>
+<p>That was never the point of the Bullet Series, however. These were bare-bones versions of the most popular models that Fender designs. Just because they are simple, doesn&#8217;t mean they have to be boring. And <a href="/top-5-underrated-guitarists/" data-lasso-id="233856">modern players</a> are anything but boring.</p>
 
 
 
-<p>I think the Squier Sonic Series is not just an overhaul of the Bullet lineup, but a response to these other budget brands that are gaining attention. The years of Squier and Epiphone being the sole choices for <a href="https://www.electrikjam.com/gamma-guitar-pedals-review/" data-lasso-id="231162">budget guitars</a> are gone, so now is the perfect time for Fender to spruce up the most affordable guitars it has to offer.</p>
+<p>I think the Squier Sonic Series is not just an overhaul of the Bullet lineup, but a response to these other budget brands that are gaining attention. The years of Squier and Epiphone being the sole choices for <a href="/gamma-guitar-pedals-review/" data-lasso-id="231162">budget guitars</a> are gone, so now is the perfect time for Fender to spruce up the most affordable guitars it has to offer.</p>
 
 
 
-<p>The new Squier Sonic Series has a lot to offer when it comes to designs, and the company definitely left some room for more experienced players to modify these guitars. While the Sonic Series may seem like <a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-lasso-id="254491">beginner guitars</a>, they make great mod platforms as well.</p>
+<p>The new Squier Sonic Series has a lot to offer when it comes to designs, and the company definitely left some room for more experienced players to modify these guitars. While the Sonic Series may seem like <a href="/best-guitar-for-beginners/" data-lasso-id="254491">beginner guitars</a>, they make great mod platforms as well.</p>
 
 
 
@@ -194,7 +194,7 @@ seo:
 
 
 
-<p>I can already see a lot of people doing some crazy mods with the single humbucker variants. Although the ceramic pickups it comes with are no slouch, throwing <strong><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener" data-lasso-id="228744">a Duncan JB </a></strong>in the bridge can turn these guitars into aggressive beasts!</p>
+<p>I can already see a lot of people doing some crazy mods with the single humbucker variants. Although the ceramic pickups it comes with are no slouch, throwing <strong><a href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" target="_blank" rel="noopener" data-lasso-id="228744">a Duncan JB </a></strong>in the bridge can turn these guitars into aggressive beasts!</p>
 
 
 
@@ -226,11 +226,11 @@ seo:
 
 
 
-<p>But then the 90&#8217;s happened, and <strong><a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener" data-lasso-id="228745">suddenly Kurt Cobain was on MTV </a></strong>playing this forgotten guitar model that he bought for a crazy-low price. But it wasn&#8217;t just Kurt that was seen playing these guitars, since many members of the Grunge scene used them. Mostly because they could be found in pawn shops for cheap prices.</p>
+<p>But then the 90&#8217;s happened, and <strong><a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener" data-lasso-id="228745">suddenly Kurt Cobain was on MTV </a></strong>playing this forgotten guitar model that he bought for a crazy-low price. But it wasn&#8217;t just Kurt that was seen playing these guitars, since many members of the Grunge scene used them. Mostly because they could be found in pawn shops for cheap prices.</p>
 
 
 
-<p>Also, <strong><a href="https://www.electrikjam.com/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener" data-lasso-id="228746">Kurt was a lefty</a></strong>, so that made it much more difficult to find guitars that suited him. Japanese-made Fenders became a little bit of an obsession for him. Eventually, the Fender Custom Shop would make him some Mustangs in Dakota Red and Lake Placid Blue. But that&#8217;s another story entirely!</p>
+<p>Also, <strong><a href="/the-best-guitar-brands-for-lefties-2022/" data-type="post" data-id="6765" target="_blank" rel="noopener" data-lasso-id="228746">Kurt was a lefty</a></strong>, so that made it much more difficult to find guitars that suited him. Japanese-made Fenders became a little bit of an obsession for him. Eventually, the Fender Custom Shop would make him some Mustangs in Dakota Red and Lake Placid Blue. But that&#8217;s another story entirely!</p>
 
 
 
@@ -258,11 +258,11 @@ seo:
 
 
 
-<p>The myriad of Amazon brands, Glarry, and <a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="235279">Harley Benton guitars have made a huge impact</a> on the guitar market. Not that I see Fender really going out of style, but when it comes to low cost options Squier was definitely lacking recently. </p>
+<p>The myriad of Amazon brands, Glarry, and <a href="/best-harley-benton-telecaster/" data-lasso-id="235279">Harley Benton guitars have made a huge impact</a> on the guitar market. Not that I see Fender really going out of style, but when it comes to low cost options Squier was definitely lacking recently. </p>
 
 
 
-<p>Not that there is anything wrong with Squier, in fact most of the newer offerings are very good. But with price hikes across the board, <strong><a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="228747">even some of the Classic Vibe Series are reaching the $500 mark</a></strong>. Which is fine, those guitars are worth it in my opinion. </p>
+<p>Not that there is anything wrong with Squier, in fact most of the newer offerings are very good. But with price hikes across the board, <strong><a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" target="_blank" rel="noopener" data-lasso-id="228747">even some of the Classic Vibe Series are reaching the $500 mark</a></strong>. Which is fine, those guitars are worth it in my opinion. </p>
 
 
 

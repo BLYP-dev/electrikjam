@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>It also highlights the ongoing debate about authenticity in live performances, something <strong><a href="https://www.electrikjam.com/electrikjam-podcast/" data-type="page" data-id="14335" data-lasso-id="266507">we&#8217;ve covered at length in the podcast </a></strong>(hello, The Eagles), where big name acts are basically miming on stage to backing tracks. </p>
+<p>It also highlights the ongoing debate about authenticity in live performances, something <strong><a href="/electrikjam-podcast/" data-type="page" data-id="14335" data-lasso-id="266507">we&#8217;ve covered at length in the podcast </a></strong>(hello, The Eagles), where big name acts are basically miming on stage to backing tracks. </p>
 
 
 
@@ -127,5 +127,5 @@ seo:
 
 
 
-<p>In the meantime, here&#8217;s something actually interesting: <strong><a href="https://www.electrikjam.com/epiphone-dave-grohl-dg-335-price-release-date/" data-type="post" data-id="14448" data-lasso-id="266508">Dave Grohl&#8217;s signature Epiphone guitar</a></strong> – it only finally bloody launched!</p>
+<p>In the meantime, here&#8217;s something actually interesting: <strong><a href="/epiphone-dave-grohl-dg-335-price-release-date/" data-type="post" data-id="14448" data-lasso-id="266508">Dave Grohl&#8217;s signature Epiphone guitar</a></strong> – it only finally bloody launched!</p>
 

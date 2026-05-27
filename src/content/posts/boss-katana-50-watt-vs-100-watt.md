@@ -46,15 +46,15 @@ seo:
 
 
 
-<p>BOSS came out of nowhere a few years ago with the Katana series. BOSS has always been known as great <a href="https://www.electrikjam.com/the-best-guitar-pedals-1968-2021/" data-type="post" data-id="2863" target="_blank" rel="noopener" data-lasso-id="133441"><strong>pedal</strong> </a>company, and over the years made some great <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="133442"><strong>multi-effects</strong> </a>units as well. But BOSS wasn&#8217;t exactly famous for making amplifiers. But the Katana came out, and it seemed like <em>every</em> review was outrageously positive. I must admit, I was a little suspect at first. I thought maybe this was just the next &#8220;big internet trend&#8221;.</p>
+<p>BOSS came out of nowhere a few years ago with the Katana series. BOSS has always been known as great <a href="/the-best-guitar-pedals-1968-2021/" data-type="post" data-id="2863" target="_blank" rel="noopener" data-lasso-id="133441"><strong>pedal</strong> </a>company, and over the years made some great <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="133442"><strong>multi-effects</strong> </a>units as well. But BOSS wasn&#8217;t exactly famous for making amplifiers. But the Katana came out, and it seemed like <em>every</em> review was outrageously positive. I must admit, I was a little suspect at first. I thought maybe this was just the next &#8220;big internet trend&#8221;.</p>
 
 
 
-<p>I discounted it so badly, I didn&#8217;t even try it in stores. I honestly believed that it was just internet hype when it came to the BOSS Katana, and nothing could replace my tube <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="133443" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>Blackstar</strong></a>. <strong>That is, until I got one myself. </strong>I was <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="133444"><strong>blown away</strong></a> with the features, and I use my Katana on pretty much a <strong>daily basis</strong> at this point. I use it to practice, record, and even use it when I give lessons. The quality is undeniable, and the fact that it remains in &#8220;budget&#8221; territory is <em>insane</em>. You get a <em>lot</em> for your money here.</p>
+<p>I discounted it so badly, I didn&#8217;t even try it in stores. I honestly believed that it was just internet hype when it came to the BOSS Katana, and nothing could replace my tube <a href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="133443" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>Blackstar</strong></a>. <strong>That is, until I got one myself. </strong>I was <a href="/boss-katana-50-reviews/" data-type="post" data-id="3601" target="_blank" rel="noopener" data-lasso-id="133444"><strong>blown away</strong></a> with the features, and I use my Katana on pretty much a <strong>daily basis</strong> at this point. I use it to practice, record, and even use it when I give lessons. The quality is undeniable, and the fact that it remains in &#8220;budget&#8221; territory is <em>insane</em>. You get a <em>lot</em> for your money here.</p>
 
 
 
-<p>But I see the question all the time about the Katana. What is the difference in the <a href="https://www.electrikjam.com/boss-katana-go-review/" data-lasso-id="262747">BOSS Katana</a> 50 Watt VS 100 Watt? The obvious answer is the amount of <strong>power</strong> you&#8217;re getting out of each unit. Both are<em> plenty</em> loud to gig with, but there are a couple of features that make one better than the other. Every guitarist has different needs, so which model<em><strong> you </strong></em>purchase will be based on how <strong>you</strong> are planning on using the Katana.</p>
+<p>But I see the question all the time about the Katana. What is the difference in the <a href="/boss-katana-go-review/" data-lasso-id="262747">BOSS Katana</a> 50 Watt VS 100 Watt? The obvious answer is the amount of <strong>power</strong> you&#8217;re getting out of each unit. Both are<em> plenty</em> loud to gig with, but there are a couple of features that make one better than the other. Every guitarist has different needs, so which model<em><strong> you </strong></em>purchase will be based on how <strong>you</strong> are planning on using the Katana.</p>
 
 
 
@@ -118,7 +118,7 @@ seo:
 
 
 
-<p>I think you will be seeing a pattern here, when it comes to the <a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155688">BOSS Katana</a> 50 watt VS 100 watt models. One was obviously more geared <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149209">towards using the amp</a> on stage. I think this was definitely done by design, but depriving the 50 watt model of so many features seems a little off to me. For the performer, the 100 watt is the obvious choice. But the 50 watt could totally be used in a band situation. I guess it just seems weird that the two models are so different.</p>
+<p>I think you will be seeing a pattern here, when it comes to the <a href="/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155688">BOSS Katana</a> 50 watt VS 100 watt models. One was obviously more geared <a href="/guitar-amp-controls-explained/" data-lasso-id="149209">towards using the amp</a> on stage. I think this was definitely done by design, but depriving the 50 watt model of so many features seems a little off to me. For the performer, the 100 watt is the obvious choice. But the 50 watt could totally be used in a band situation. I guess it just seems weird that the two models are so different.</p>
 
 
 
@@ -166,11 +166,11 @@ seo:
 
 
 
-<p>It seems like the BOSS Katana 50 Watt VS 100 Watt debate really comes down to using it live or not. Because this is a feature that I don&#8217;t think many people would use at home<em> just for giggles</em>. Both Katana models have the &#8220;Power In&#8221; feature where you can run the Katana strictly as a <strong>power amp</strong>, and this is a cool feature for people who use something like the<strong> <a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="133446">Line 6 units</a></strong>. It basically makes the Katana take the place of a <a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" target="_blank" data-type="post" data-id="6902" rel="noopener" data-lasso-id="133447"><strong>FRFR </strong></a>speaker, just with an A/B Class power section.</p>
+<p>It seems like the BOSS Katana 50 Watt VS 100 Watt debate really comes down to using it live or not. Because this is a feature that I don&#8217;t think many people would use at home<em> just for giggles</em>. Both Katana models have the &#8220;Power In&#8221; feature where you can run the Katana strictly as a <strong>power amp</strong>, and this is a cool feature for people who use something like the<strong> <a href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="133446">Line 6 units</a></strong>. It basically makes the Katana take the place of a <a href="/best-frfr-guitar-speaker-under-300/" target="_blank" data-type="post" data-id="6902" rel="noopener" data-lasso-id="133447"><strong>FRFR </strong></a>speaker, just with an A/B Class power section.</p>
 
 
 
-<p>But another curious feature that the 100 watt Katana has is the &#8220;Stereo Expand&#8221; option. You see, all of the Katana&#8217;s modulation effects can be ran in stereo. The best way to hear this is with the Ping Pong Delay with a set of headphones. That isn&#8217;t the interesting part though, since most multi-effects units can do stereo sounds. Even the<a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" target="_blank" rel="noopener" data-lasso-id="133448"> <strong>cheap ones</strong></a> do stereo delay really well these days, so what&#8217;s the big deal?</p>
+<p>But another curious feature that the 100 watt Katana has is the &#8220;Stereo Expand&#8221; option. You see, all of the Katana&#8217;s modulation effects can be ran in stereo. The best way to hear this is with the Ping Pong Delay with a set of headphones. That isn&#8217;t the interesting part though, since most multi-effects units can do stereo sounds. Even the<a href="/mooer-ge150-vs-zoom-a1x/" data-type="post" data-id="617" target="_blank" rel="noopener" data-lasso-id="133448"> <strong>cheap ones</strong></a> do stereo delay really well these days, so what&#8217;s the big deal?</p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>I wouldn&#8217;t advise doing this if you are in a two guitar band, since you would be stepping on <em>their side of the stage</em>. Then again, if the guitars are being hooked up to a mic at the venue, it would work fine! I think the original intent from BOSS was to be able to use the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-lasso-id="195470">Katana</a> for a power amp for multi-effects units. The Stereo Expand feature was just something the designers discovered afterwards, since it is the same concept.</p>
+<p>I wouldn&#8217;t advise doing this if you are in a two guitar band, since you would be stepping on <em>their side of the stage</em>. Then again, if the guitars are being hooked up to a mic at the venue, it would work fine! I think the original intent from BOSS was to be able to use the <a href="/boss-katana-100-mkii-review/" data-lasso-id="195470">Katana</a> for a power amp for multi-effects units. The Stereo Expand feature was just something the designers discovered afterwards, since it is the same concept.</p>
 
 
 
@@ -210,11 +210,11 @@ seo:
 
 
 
-<p>The same goes for any pedal you want to use in the modulation family. Sure, you can use chorus and delay through the front of the amp. But modulation sounds <em>so much better</em> running separately through the FX Loop. The main advantages of an FX Loop is that generally effects sound clearer and are more pronounced when the input signal is sent through the preamp&nbsp;prior to being affected. <strong>In addition to this, the tone of a <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-lasso-id="154620">guitar amplifier</a> is generally more defined if the effects pedal is going direct into the input of the preamplifier.</strong></p>
+<p>The same goes for any pedal you want to use in the modulation family. Sure, you can use chorus and delay through the front of the amp. But modulation sounds <em>so much better</em> running separately through the FX Loop. The main advantages of an FX Loop is that generally effects sound clearer and are more pronounced when the input signal is sent through the preamp&nbsp;prior to being affected. <strong>In addition to this, the tone of a <a href="/choosing-a-guitar-amplifier/" data-lasso-id="154620">guitar amplifier</a> is generally more defined if the effects pedal is going direct into the input of the preamplifier.</strong></p>
 
 
 
-<p><strong>So if you want to make use of a looper pedal, then the Katana 100 Watt is going to be the choice.</strong> This was the main reason I bought the 100 over the 50. I use a looper to craft solos, practice, and write melodies all the time. So taking that feature away is a deal breaker for me with ANY amp. But this is the main reason you should consider which option is right for you when it comes to the <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140949">BOSS Katana</a> 50 Watt VS 100 Watt.</p>
+<p><strong>So if you want to make use of a looper pedal, then the Katana 100 Watt is going to be the choice.</strong> This was the main reason I bought the 100 over the 50. I use a looper to craft solos, practice, and write melodies all the time. So taking that feature away is a deal breaker for me with ANY amp. But this is the main reason you should consider which option is right for you when it comes to the <a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140949">BOSS Katana</a> 50 Watt VS 100 Watt.</p>
 
 
 
@@ -255,7 +255,7 @@ seo:
 <h3 class="rank-math-question ">BOSS Katana 50 Watt VS 100 Watt: Which one has a footswitch?</h3>
 <div class="rank-math-answer ">
 
-<p>Only the 100 watt models offer the<a href="https://www.electrikjam.com/pxf-9/" data-type="lasso-urls" data-id="6627" target="_blank" rel="noreferrer noopener"><strong> GA-FC Footswitch</strong></a> option. These are sold separately. The GA-FC controls presets, and turning effects on and off. It is a super versatile accessory and a necessity for live use. </p>
+<p>Only the 100 watt models offer the<a href="/pxf-9/" data-type="lasso-urls" data-id="6627" target="_blank" rel="noreferrer noopener"><strong> GA-FC Footswitch</strong></a> option. These are sold separately. The GA-FC controls presets, and turning effects on and off. It is a super versatile accessory and a necessity for live use. </p>
 
 </div>
 </div>

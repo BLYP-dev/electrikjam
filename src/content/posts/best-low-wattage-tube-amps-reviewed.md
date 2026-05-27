@@ -40,23 +40,23 @@ seo:
 
 
 
-<p>We have been talking a lot about <a data-lasso-id="175500" href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener"><strong>amplifiers </strong></a>here lately, especially the difference between<a data-lasso-id="175501" href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener"> <strong>tubes and solid state.</strong></a> We have found <em>a ton</em> of solid state amplifiers that get<em> really close</em> to the sound and response of a tube amp. Most of the <a href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="176443"><strong>Line 6</strong></a><a data-lasso-id="175502" href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"> <strong>Helix </strong></a>stuff is amazing, along with the <a href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="176444"><strong>Catalyst</strong></a>. Our personal favorite around here, since <em>we all</em> use one, is the <a data-lasso-id="175503" href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong>BOSS Katana.</strong></a></p>
+<p>We have been talking a lot about <a data-lasso-id="175500" href="/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener"><strong>amplifiers </strong></a>here lately, especially the difference between<a data-lasso-id="175501" href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener"> <strong>tubes and solid state.</strong></a> We have found <em>a ton</em> of solid state amplifiers that get<em> really close</em> to the sound and response of a tube amp. Most of the <a href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener" data-lasso-id="176443"><strong>Line 6</strong></a><a data-lasso-id="175502" href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener"> <strong>Helix </strong></a>stuff is amazing, along with the <a href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="176444"><strong>Catalyst</strong></a>. Our personal favorite around here, since <em>we all</em> use one, is the <a data-lasso-id="175503" href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener"><strong>BOSS Katana.</strong></a></p>
 
 
 
-<p>These are all great solid state options, and they will work specifically for<a data-lasso-id="175707" href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener"> <strong>recording quietly</strong></a>. With most of the digital and solid state modeler amps, you can easily record silently with just a pair of headphones. The same goes for playing shows, as digital is taking over. Gear like the Helix have become the norm for lots of guitarists. </p>
+<p>These are all great solid state options, and they will work specifically for<a data-lasso-id="175707" href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener"> <strong>recording quietly</strong></a>. With most of the digital and solid state modeler amps, you can easily record silently with just a pair of headphones. The same goes for playing shows, as digital is taking over. Gear like the Helix have become the norm for lots of guitarists. </p>
 
 
 
-<p>I see a lot of local gigs, and so many people have switched over to using gear like the Katana and Helix because its so <em>easy</em> to get a great sound. Even better, you can get a bunch of<em> different sounds</em>. You also have a whole host of effects, so there is no need for a<a href="https://www.electrikjam.com/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" target="_blank" rel="noopener" data-lasso-id="176445"> <strong>pedalboard</strong></a> at a gig. The whole idea is the more &#8220;economical&#8221; approach.</p>
+<p>I see a lot of local gigs, and so many people have switched over to using gear like the Katana and Helix because its so <em>easy</em> to get a great sound. Even better, you can get a bunch of<em> different sounds</em>. You also have a whole host of effects, so there is no need for a<a href="/building-your-first-pedalboard-the-easy-step-by-step-guide/" data-type="post" data-id="1087" target="_blank" rel="noopener" data-lasso-id="176445"> <strong>pedalboard</strong></a> at a gig. The whole idea is the more &#8220;economical&#8221; approach.</p>
 
 
 
-<p>But sometimes, especially when it comes to recording, nothing can beat &#8220;the real thing&#8221; in my opinion. A cranked up tube amp is always going to sound different from an amp sim or modeler. <a data-lasso-id="175708" href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener"><strong>Using a mic to record</strong></a> a cranked up tube amp is very old school, but there&#8217;s a reason those old recordings <em>sound so great</em>. <strong>Tube amps fill in a part of the frequency spectrum that no modeler can attain.</strong></p>
+<p>But sometimes, especially when it comes to recording, nothing can beat &#8220;the real thing&#8221; in my opinion. A cranked up tube amp is always going to sound different from an amp sim or modeler. <a data-lasso-id="175708" href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener"><strong>Using a mic to record</strong></a> a cranked up tube amp is very old school, but there&#8217;s a reason those old recordings <em>sound so great</em>. <strong>Tube amps fill in a part of the frequency spectrum that no modeler can attain.</strong></p>
 
 
 
-<p>Lately, I have been<em> blending the two</em> sounds to great effect. I have two channels on a recording with a cranked up tube amp (<a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="176446" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>BlackstarHT40</strong></a>), and the rest is done either with my Katana or<a data-lasso-id="175709" href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener"><strong> STL Tones</strong></a>. The cranked up Blackstar amp adds a layer of depth that <em>just can&#8217;t be replicated</em>. <strong>But I also have a sound-treated room away from neighbors</strong>.</p>
+<p>Lately, I have been<em> blending the two</em> sounds to great effect. I have two channels on a recording with a cranked up tube amp (<a href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="176446" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>BlackstarHT40</strong></a>), and the rest is done either with my Katana or<a data-lasso-id="175709" href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener"><strong> STL Tones</strong></a>. The cranked up Blackstar amp adds a layer of depth that <em>just can&#8217;t be replicated</em>. <strong>But I also have a sound-treated room away from neighbors</strong>.</p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>The 12&#8221; VHT speaker is the weak point for me. Don&#8217;t get me wrong, it sounds just fine and reminds me of a vintage <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="175710"><strong>Celestion</strong></a> in feel. That being said, there are <a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="175711"><strong>tons of speakers</strong></a> that you can use to tailor the VHT to your style, and it is easy to swap since there is an included impedance switch for 6, 8, and 12 ohms.</p>
+<p>The 12&#8221; VHT speaker is the weak point for me. Don&#8217;t get me wrong, it sounds just fine and reminds me of a vintage <a href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="175710"><strong>Celestion</strong></a> in feel. That being said, there are <a href="/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="175711"><strong>tons of speakers</strong></a> that you can use to tailor the VHT to your style, and it is easy to swap since there is an included impedance switch for 6, 8, and 12 ohms.</p>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p>Now this is <strong>NOT the original DSL serie</strong>s from a few years back<em> that was received so poorly</em>. Marshall has redesigned the entire DSL lineup to cater more to the <a href="https://www.electrikjam.com/top-5-underrated-guitarists/" data-lasso-id="233860">modern guitarist</a>, with extra added features. The tone is there, but you have way more options!</p>
+<p>Now this is <strong>NOT the original DSL serie</strong>s from a few years back<em> that was received so poorly</em>. Marshall has redesigned the entire DSL lineup to cater more to the <a href="/top-5-underrated-guitarists/" data-lasso-id="233860">modern guitarist</a>, with extra added features. The tone is there, but you have way more options!</p>
 
 
 
@@ -208,11 +208,11 @@ seo:
 
 
 
-<p>The real star of the show is the second channel, where we have the classic Marshall overdrive that everyone from <strong>Slash</strong> to <a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="176447"><strong>Eddie Van Halen</strong></a> are famous for using. The &#8220;Tone Shift&#8221; knob actually gives you the option to make the amp sound a little more <em>American</em>, like a scooped Mesa Boogie. This&#8230;not for me.</p>
+<p>The real star of the show is the second channel, where we have the classic Marshall overdrive that everyone from <strong>Slash</strong> to <a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="176447"><strong>Eddie Van Halen</strong></a> are famous for using. The &#8220;Tone Shift&#8221; knob actually gives you the option to make the amp sound a little more <em>American</em>, like a scooped Mesa Boogie. This&#8230;not for me.</p>
 
 
 
-<p>The Tone Shift is cool, but what you really want is the <em>regular</em> Ultra Gain channel <em>without</em> the Tone Shift engaged. This gives you the classic midrange crunch that Marshall is known for, and it <em>sounds amazing</em>. I used my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="176448"><strong>Schecter NJ HSS</strong> </a>to try this amp out, and the tones from the 78&#8242; humbucker were <em>glorious</em>.  </p>
+<p>The Tone Shift is cool, but what you really want is the <em>regular</em> Ultra Gain channel <em>without</em> the Tone Shift engaged. This gives you the classic midrange crunch that Marshall is known for, and it <em>sounds amazing</em>. I used my <a href="/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="176448"><strong>Schecter NJ HSS</strong> </a>to try this amp out, and the tones from the 78&#8242; humbucker were <em>glorious</em>.  </p>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<p>However, if you don&#8217;t like the reverb, then the FX loop is there for all of your modulation pedals. There is a lift feature that works in +4dbv and -10dbv. The +4 option is the &#8220;professional level&#8221; which works best with modelers, but you can keep it set to -10 for regular <a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-lasso-id="200808">guitar pedals</a>. The delays and reverbs I tried all sounded fantastic.</p>
+<p>However, if you don&#8217;t like the reverb, then the FX loop is there for all of your modulation pedals. There is a lift feature that works in +4dbv and -10dbv. The +4 option is the &#8220;professional level&#8221; which works best with modelers, but you can keep it set to -10 for regular <a href="/prs-guitar-pedals-reviewed/" data-lasso-id="200808">guitar pedals</a>. The delays and reverbs I tried all sounded fantastic.</p>
 
 
 

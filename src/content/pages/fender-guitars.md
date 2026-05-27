@@ -45,23 +45,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="258713">Fender Stratocaster Review</a></strong></li>
+<li><strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="258713">Fender Stratocaster Review</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="258714">Fender Telecaster Review</a></strong></li>
+<li><strong><a href="/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="258714">Fender Telecaster Review</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="258715">Fender Meteora Review</a></strong></li>
+<li><strong><a href="/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="258715">Fender Meteora Review</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-meteora-vs-fender-telecaster-which-is-best/" data-type="post" data-id="12761" data-lasso-id="258716">Fender Meteora vs Fender Telecaster: Which Is Best?</a></strong></li>
+<li><strong><a href="/fender-meteora-vs-fender-telecaster-which-is-best/" data-type="post" data-id="12761" data-lasso-id="258716">Fender Meteora vs Fender Telecaster: Which Is Best?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="258717">Telecaster vs Jazzmaster: History, Legacy &amp; Differences Compared</a></strong></li>
+<li><strong><a href="/telecaster-vs-jazzmaster/" data-type="post" data-id="11971" data-lasso-id="258717">Telecaster vs Jazzmaster: History, Legacy &amp; Differences Compared</a></strong></li>
 </ul>
 
 
@@ -71,23 +71,23 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/how-to-set-up-fender-meteora/" data-type="post" data-id="12751" data-lasso-id="258718">How to Set Up Fender Meteora: Pro Tips &amp; Tricks</a></strong></li>
+<li><strong><a href="/how-to-set-up-fender-meteora/" data-type="post" data-id="12751" data-lasso-id="258718">How to Set Up Fender Meteora: Pro Tips &amp; Tricks</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-stratocaster-price-guide/" data-type="post" data-id="10939" data-lasso-id="258719">Fender Stratocaster Price Guide: All Models &amp; Series Compared</a></strong></li>
+<li><strong><a href="/fender-stratocaster-price-guide/" data-type="post" data-id="10939" data-lasso-id="258719">Fender Stratocaster Price Guide: All Models &amp; Series Compared</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="258720">Fender Player Stratocaster Pickups: A Complete Guide…</a></strong></li>
+<li><strong><a href="/fender-guitars/" data-type="page" data-id="11532" data-lasso-id="258720">Fender Player Stratocaster Pickups: A Complete Guide…</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" data-lasso-id="258721">Fender Price Tiers Explained: All You Need To Know</a></strong></li>
+<li><strong><a href="/fender-price-tiers-explained/" data-type="post" data-id="7446" data-lasso-id="258721">Fender Price Tiers Explained: All You Need To Know</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="258722">The Best Fender Guitars For Metal</a></strong></li>
+<li><strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="258722">The Best Fender Guitars For Metal</a></strong></li>
 </ul>
 
 
@@ -104,7 +104,7 @@ seo:
 
 
 
-<p>If you&#8217;re curious about the <a href="https://www.electrikjam.com/what-is-the-most-famous-electric-guitar-exploring-2-different-legends/" data-lasso-id="230289"><strong>most famous electric guitars</strong></a>, Fender&#8217;s Stratocaster and Telecaster models definitely top the list.</p>
+<p>If you&#8217;re curious about the <a href="/what-is-the-most-famous-electric-guitar-exploring-2-different-legends/" data-lasso-id="230289"><strong>most famous electric guitars</strong></a>, Fender&#8217;s Stratocaster and Telecaster models definitely top the list.</p>
 
 
 
@@ -116,7 +116,7 @@ seo:
 
 
 
-<figure class="wp-block-table"><table><thead><tr><th class="has-text-align-center" data-align="center">Model</th><th class="has-text-align-center" data-align="center">Pickup Options</th><th class="has-text-align-center" data-align="center">Price Range</th><th class="has-text-align-center" data-align="center">Wood Types (Body/Neck/Fretboard)</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong>Fender Stratocaster</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HSS, HSH, SSS</td><td class="has-text-align-center" data-align="center">$400 &#8211; $3,000</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Telecaster</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HH, HS</td><td class="has-text-align-center" data-align="center">$400 &#8211; $2,500</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Jazzmaster</strong></td><td class="has-text-align-center" data-align="center">Single-coil, P-90, Wide Range Humbuckers</td><td class="has-text-align-center" data-align="center">$900 &#8211; $2,300</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Jaguar</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HH, HSS</td><td class="has-text-align-center" data-align="center">$900 &#8211; $2,500</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Mustang</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HH</td><td class="has-text-align-center" data-align="center">$600 &#8211; $1,300</td><td class="has-text-align-center" data-align="center">Alder, Poplar / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Duo-Sonic</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HS</td><td class="has-text-align-center" data-align="center">$600 &#8211; $1,000</td><td class="has-text-align-center" data-align="center">Alder, Poplar / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Meteora Player Plus</strong></td><td class="has-text-align-center" data-align="center">Humbuckers, Noiseless Single-coil</td><td class="has-text-align-center" data-align="center">$1,000 &#8211; $1,500</td><td class="has-text-align-center" data-align="center"><a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246509">Alder / Maple, Rosewood, Pau Ferro</a></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Lead Series</strong></td><td class="has-text-align-center" data-align="center">Single-coil, Humbuckers</td><td class="has-text-align-center" data-align="center">$600 &#8211; $1,000</td><td class="has-text-align-center" data-align="center">Alder / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Vintera Series</strong></td><td class="has-text-align-center" data-align="center">Single-coil, P-90, Wide Range Humbuckers, HSS</td><td class="has-text-align-center" data-align="center">$900 &#8211; $1,500</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th class="has-text-align-center" data-align="center">Model</th><th class="has-text-align-center" data-align="center">Pickup Options</th><th class="has-text-align-center" data-align="center">Price Range</th><th class="has-text-align-center" data-align="center">Wood Types (Body/Neck/Fretboard)</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong>Fender Stratocaster</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HSS, HSH, SSS</td><td class="has-text-align-center" data-align="center">$400 &#8211; $3,000</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Telecaster</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HH, HS</td><td class="has-text-align-center" data-align="center">$400 &#8211; $2,500</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Jazzmaster</strong></td><td class="has-text-align-center" data-align="center">Single-coil, P-90, Wide Range Humbuckers</td><td class="has-text-align-center" data-align="center">$900 &#8211; $2,300</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Jaguar</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HH, HSS</td><td class="has-text-align-center" data-align="center">$900 &#8211; $2,500</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Mustang</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HH</td><td class="has-text-align-center" data-align="center">$600 &#8211; $1,300</td><td class="has-text-align-center" data-align="center">Alder, Poplar / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Duo-Sonic</strong></td><td class="has-text-align-center" data-align="center">Single-coil, HS</td><td class="has-text-align-center" data-align="center">$600 &#8211; $1,000</td><td class="has-text-align-center" data-align="center">Alder, Poplar / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Meteora Player Plus</strong></td><td class="has-text-align-center" data-align="center">Humbuckers, Noiseless Single-coil</td><td class="has-text-align-center" data-align="center">$1,000 &#8211; $1,500</td><td class="has-text-align-center" data-align="center"><a href="/parts-of-an-electric-guitar/" data-lasso-id="246509">Alder / Maple, Rosewood, Pau Ferro</a></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Lead Series</strong></td><td class="has-text-align-center" data-align="center">Single-coil, Humbuckers</td><td class="has-text-align-center" data-align="center">$600 &#8211; $1,000</td><td class="has-text-align-center" data-align="center">Alder / Maple, Rosewood, Pau Ferro</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fender Vintera Series</strong></td><td class="has-text-align-center" data-align="center">Single-coil, P-90, Wide Range Humbuckers, HSS</td><td class="has-text-align-center" data-align="center">$900 &#8211; $1,500</td><td class="has-text-align-center" data-align="center">Alder, Ash / Maple, Rosewood, Pau Ferro</td></tr></tbody></table></figure>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="258723">The Fender Stratocaster</a></strong> is one of the most iconic electric guitars in history, offering a versatile sound suitable for various music genres. Its sleek, contoured body and double-cutaway design ensure comfort and easy access to the upper frets. </p>
+<p><strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="258723">The Fender Stratocaster</a></strong> is one of the most iconic electric guitars in history, offering a versatile sound suitable for various music genres. Its sleek, contoured body and double-cutaway design ensure comfort and easy access to the upper frets. </p>
 
 
 
@@ -170,7 +170,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="258724">The Telecaster is known for its bright, twangy sound</a></strong>, making it a popular choice for country, blues, and rock musicians. Its single-cutaway design and simple control layout make it easy to play and maintain. </p>
+<p><strong><a href="/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="258724">The Telecaster is known for its bright, twangy sound</a></strong>, making it a popular choice for country, blues, and rock musicians. Its single-cutaway design and simple control layout make it easy to play and maintain. </p>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/who-plays-fender-jazzmaster/" data-type="post" data-id="13122" data-lasso-id="258725">Fender Jazzmaster</a></strong> is characterized by its warm, mellow tone and unique offset body design. Originally designed for jazz players, it has become popular in indie, alternative rock, and surf music. </p>
+<p>The <strong><a href="/who-plays-fender-jazzmaster/" data-type="post" data-id="13122" data-lasso-id="258725">Fender Jazzmaster</a></strong> is characterized by its warm, mellow tone and unique offset body design. Originally designed for jazz players, it has become popular in indie, alternative rock, and surf music. </p>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="258726">Fender Jaguar boasts a shorter scale length</a></strong>, making it an ideal choice for players with smaller hands or those seeking a slinkier string feel. Its offset body design and chrome control plates give it a distinct appearance. </p>
+<p>The <strong><a href="/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="258726">Fender Jaguar boasts a shorter scale length</a></strong>, making it an ideal choice for players with smaller hands or those seeking a slinkier string feel. Its offset body design and chrome control plates give it a distinct appearance. </p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="258727">The Fender Mustang is a compact, lightweight guitar</a></strong> with a shorter scale length, making it perfect for beginners or players with smaller hands. Its offset body design offers a comfortable playing experience. </p>
+<p><strong><a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" data-lasso-id="258727">The Fender Mustang is a compact, lightweight guitar</a></strong> with a shorter scale length, making it perfect for beginners or players with smaller hands. Its offset body design offers a comfortable playing experience. </p>
 
 
 
@@ -380,7 +380,7 @@ seo:
 
 
 
-<p>The <strong><a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="258728">Fender Meteora Player Plus</a></strong> features a futuristic and eye-catching body shape that sets it apart from other Fender models. Its comfortable design and modern features make it an excellent choice for contemporary musicians. </p>
+<p>The <strong><a href="/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="258728">Fender Meteora Player Plus</a></strong> features a futuristic and eye-catching body shape that sets it apart from other Fender models. Its comfortable design and modern features make it an excellent choice for contemporary musicians. </p>
 
 
 
@@ -510,11 +510,11 @@ seo:
 
 
 
-<p>Fender has a wide range of guitar models, each with its unique charm, sound, and history. The <a href="https://www.electrikjam.com/history-of-fender-stratocaster/" data-lasso-id="230290"><strong>Fender Stratocaster</strong></a> is perhaps the most iconic, known for its versatile sound and sleek design. </p>
+<p>Fender has a wide range of guitar models, each with its unique charm, sound, and history. The <a href="/history-of-fender-stratocaster/" data-lasso-id="230290"><strong>Fender Stratocaster</strong></a> is perhaps the most iconic, known for its versatile sound and sleek design. </p>
 
 
 
-<p>Check out the <a href="https://www.electrikjam.com/fender-stratocaster-price-guide/" data-lasso-id="230291"><strong>Fender Stratocaster price guide</strong></a> to find the perfect fit for your budget. Dive deeper into the <a href="https://www.electrikjam.com/fender-player-stratocaster-pickups-guide/" data-lasso-id="230292"><strong>Stratocaster&#8217;s pickups</strong></a> and read up on <a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-lasso-id="230293"><strong>Fender Player Stratocaster reviews</strong></a> to get a better understanding of the model.</p>
+<p>Check out the <a href="/fender-stratocaster-price-guide/" data-lasso-id="230291"><strong>Fender Stratocaster price guide</strong></a> to find the perfect fit for your budget. Dive deeper into the <a href="/fender-player-stratocaster-pickups-guide/" data-lasso-id="230292"><strong>Stratocaster&#8217;s pickups</strong></a> and read up on <a href="/fender-player-stratocaster-reviews/" data-lasso-id="230293"><strong>Fender Player Stratocaster reviews</strong></a> to get a better understanding of the model.</p>
 
 
 
@@ -522,7 +522,7 @@ seo:
 
 
 
-<p>Each model has its unique features and tonal qualities, as seen in the <strong><a href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-lasso-id="230294">Fender Player Telecaster</a> </strong>and the futuristic <strong><a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-lasso-id="230295">Fender Meteora Player Plus</a>.</strong></p>
+<p>Each model has its unique features and tonal qualities, as seen in the <strong><a href="/recommends/fender-player-telecaster/" data-lasso-id="230294">Fender Player Telecaster</a> </strong>and the futuristic <strong><a href="/fender-meteora-players-plus-review-2022/" data-lasso-id="230295">Fender Meteora Player Plus</a>.</strong></p>
 
 
 
@@ -534,7 +534,7 @@ seo:
 
 
 
-<p>Finding the perfect Fender guitar can be an exciting yet challenging task. This <a data-lasso-id="230296" href="https://www.electrikjam.com/fender-price-tiers-explained/"><strong>Fender price tiers explained guide</strong></a> can help you navigate the different series and models available, such as American, Mexican, and Squier models. Don&#8217;t forget to check out the <a data-lasso-id="230297" href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/"><strong>new Squier 40th Anniversary guitars</strong></a> as well!</p>
+<p>Finding the perfect Fender guitar can be an exciting yet challenging task. This <a data-lasso-id="230296" href="/fender-price-tiers-explained/"><strong>Fender price tiers explained guide</strong></a> can help you navigate the different series and models available, such as American, Mexican, and Squier models. Don&#8217;t forget to check out the <a data-lasso-id="230297" href="/new-squier-40th-anniversary-guitars/"><strong>new Squier 40th Anniversary guitars</strong></a> as well!</p>
 
 
 
@@ -543,15 +543,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="230307">Best Fender Guitar For Metal</a></strong></li>
+<li><strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" data-type="post" data-id="2532" data-lasso-id="230307">Best Fender Guitar For Metal</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-pickups-guide/" data-type="post" data-id="10892" data-lasso-id="230308">Fender Player Stratocaster Pickups: A Complete Guide…</a></strong></li>
+<li><strong><a href="/fender-player-stratocaster-pickups-guide/" data-type="post" data-id="10892" data-lasso-id="230308">Fender Player Stratocaster Pickups: A Complete Guide…</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-type="post" data-id="3336" data-lasso-id="230309">BEST Fender Strat Alternatives</a></strong></li>
+<li><strong><a href="/the-best-fender-strat-alternative-in-2021/" data-type="post" data-id="3336" data-lasso-id="230309">BEST Fender Strat Alternatives</a></strong></li>
 </ul>
 
 
@@ -561,19 +561,19 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="230298">Fender Player Stratocaster Reviews: Still #1 After All These Years?</a></strong></li>
+<li><strong><a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" data-lasso-id="230298">Fender Player Stratocaster Reviews: Still #1 After All These Years?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="230299">Fender Meteora Player Plus Review: Looks Can Be Deceiving In 2022!</a></strong></li>
+<li><strong><a href="/fender-meteora-players-plus-review-2022/" data-type="post" data-id="7444" data-lasso-id="230299">Fender Meteora Player Plus Review: Looks Can Be Deceiving In 2022!</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="230300">Fender Player Telecaster Reviews: All Killer, No Filler?</a></strong></li>
+<li><strong><a href="/recommends/fender-player-telecaster/" data-type="post" data-id="8287" data-lasso-id="230300">Fender Player Telecaster Reviews: All Killer, No Filler?</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" data-lasso-id="230301">Fender Mustang GTX 100 Review: BEST Versatile Gigging Amp Under $500!</a></strong></li>
+<li><strong><a href="/fender-mustang-gtx-100-review/" data-type="post" data-id="6350" data-lasso-id="230301">Fender Mustang GTX 100 Review: BEST Versatile Gigging Amp Under $500!</a></strong></li>
 </ul>
 
 
@@ -582,11 +582,11 @@ seo:
 
 
 
-<p>When starting your Fender guitar journey, it&#8217;s essential to choose the right model for your playing style. Begin by learning from <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="230302">famous guitarists and the guitars they use</a>. </strong></p>
+<p>When starting your Fender guitar journey, it&#8217;s essential to choose the right model for your playing style. Begin by learning from <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-lasso-id="230302">famous guitarists and the guitars they use</a>. </strong></p>
 
 
 
-<p>Some legends like <strong><a data-lasso-id="230303" href="https://www.electrikjam.com/why-jimi-hendrix-only-played-fender-guitars/">Jimi Hendrix</a> </strong>and <a data-lasso-id="230304" href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/"><strong>Kurt Cobain</strong></a> had a strong preference for Fender guitars. Discover the reasons behind <a data-lasso-id="230305" href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/"><strong>Hendrix&#8217;s E-flat tuning</strong></a> and learn about <strong><a data-lasso-id="230306" href="https://www.electrikjam.com/kurt-cobain-pickups/">Kurt Cobain&#8217;s pickups</a>.</strong></p>
+<p>Some legends like <strong><a data-lasso-id="230303" href="/why-jimi-hendrix-only-played-fender-guitars/">Jimi Hendrix</a> </strong>and <a data-lasso-id="230304" href="/why-kurt-cobain-only-played-crap-fender-guitars/"><strong>Kurt Cobain</strong></a> had a strong preference for Fender guitars. Discover the reasons behind <a data-lasso-id="230305" href="/why-did-hendrix-play-in-e-flat-tuning/"><strong>Hendrix&#8217;s E-flat tuning</strong></a> and learn about <strong><a data-lasso-id="230306" href="/kurt-cobain-pickups/">Kurt Cobain&#8217;s pickups</a>.</strong></p>
 
 
 
@@ -595,15 +595,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="230310">Standard Tuning: Why It Is Considered &#8220;The Standard&#8221;</a></strong></li>
+<li><strong><a href="/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="230310">Standard Tuning: Why It Is Considered &#8220;The Standard&#8221;</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" data-lasso-id="230311">Jimi Hendrix Guitar Tuning Guide</a></strong></li>
+<li><strong><a href="/jimi-hendrix-guitar-tuning/" data-type="post" data-id="7579" data-lasso-id="230311">Jimi Hendrix Guitar Tuning Guide</a></strong></li>
 
 
 
-<li><strong><a href="https://www.electrikjam.com/why-did-hendrix-play-in-e-flat-tuning/" data-type="post" data-id="10787" data-lasso-id="230312">Why Strats Like E-Flat Tuning –&nbsp;It&#8217;s Kind of An Interesting Story&#8230;</a></strong></li>
+<li><strong><a href="/why-did-hendrix-play-in-e-flat-tuning/" data-type="post" data-id="10787" data-lasso-id="230312">Why Strats Like E-Flat Tuning –&nbsp;It&#8217;s Kind of An Interesting Story&#8230;</a></strong></li>
 </ul>
 
 

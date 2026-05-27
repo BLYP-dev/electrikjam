@@ -147,7 +147,7 @@ seo:
 
 
 
-<p>They’re highly skilled and extremely well paid.&nbsp;And the reason? <strong><a href="https://www.electrikjam.com/is-it-hard-to-learn-music-mastering-yes-heres-why/" data-lasso-id="265276">Mastering music is hard work</a></strong> –&nbsp;it takes skill, knowledge, and practice.</p>
+<p>They’re highly skilled and extremely well paid.&nbsp;And the reason? <strong><a href="/is-it-hard-to-learn-music-mastering-yes-heres-why/" data-lasso-id="265276">Mastering music is hard work</a></strong> –&nbsp;it takes skill, knowledge, and practice.</p>
 
 
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p>This course is the <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265756">distillation of 20+ years of experience</a></strong> into one, easy to follow document. </p>
+<p>This course is the <strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265756">distillation of 20+ years of experience</a></strong> into one, easy to follow document. </p>
 
 
 
@@ -229,7 +229,7 @@ seo:
 
 
 
-<p>Or, for $35.99, you can learn to do it yourself with <strong><a href="https://www.electrikjam.com/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265757">ELECTRIKJAM&#8217;s Mastering 101: The Complete Beginner&#8217;s Guide. </a></strong></p>
+<p>Or, for $35.99, you can learn to do it yourself with <strong><a href="/product/mastering-101-the-complete-beginner-framework/" data-lasso-id="265757">ELECTRIKJAM&#8217;s Mastering 101: The Complete Beginner&#8217;s Guide. </a></strong></p>
 
 
 

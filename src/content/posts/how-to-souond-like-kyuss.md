@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>From here, you’ll need to get an overview of the type of gear that Homme used to create his sound. The good news is that Homme has never been much of a fan of expensive gear – he has been known to play <strong><a href="https://www.electrikjam.com/tag/epiphone/" data-lasso-id="90388">Epiphone guitars</a></strong> and an assortment of other boutique-brand guitars during his almost three-decade-long career.</p>
+<p>From here, you’ll need to get an overview of the type of gear that Homme used to create his sound. The good news is that Homme has never been much of a fan of expensive gear – he has been known to play <strong><a href="/tag/epiphone/" data-lasso-id="90388">Epiphone guitars</a></strong> and an assortment of other boutique-brand guitars during his almost three-decade-long career.</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>In order to get that low and dirty sound, you’ll need to tune your guitar down to <strong><a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="90389">C Standard</a></strong>. The vast majority of KYUSS and early <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="90390">Queens of The Stone Age is in C Standard</a></strong>. If you don’t know what that looks like, it looks like this: <strong>CFA#D#GC</strong> – and, yes, you’ll probably need some thicker gauge strings to do it properly. <strong><a href="https://www.electrikjam.com/the-3-best-strings-for-drop-c-tuning/" data-type="post" data-id="3389" data-lasso-id="90391">I use these ones</a></strong> – they&#8217;re awesome. </p>
+<p>In order to get that low and dirty sound, you’ll need to tune your guitar down to <strong><a href="/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" data-lasso-id="90389">C Standard</a></strong>. The vast majority of KYUSS and early <strong><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="90390">Queens of The Stone Age is in C Standard</a></strong>. If you don’t know what that looks like, it looks like this: <strong>CFA#D#GC</strong> – and, yes, you’ll probably need some thicker gauge strings to do it properly. <strong><a href="/the-3-best-strings-for-drop-c-tuning/" data-type="post" data-id="3389" data-lasso-id="90391">I use these ones</a></strong> – they&#8217;re awesome. </p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p>As for guitars, <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="90392">Homme has used all sorts</a></strong> throughout his career. <strong>He used an Epiphone Dot</strong> pretty extensively while recording Songs For The Deaf, for instance, and during his KYUSS years, he can be seen using a trio of <strong>1984 Ovation Ultra GP 1431</strong> guitars. He has a red one, a sunburst one, and a black one. During his time in KYUSS, this model of guitar was Josh’s daily driver.</p>
+<p>As for guitars, <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="90392">Homme has used all sorts</a></strong> throughout his career. <strong>He used an Epiphone Dot</strong> pretty extensively while recording Songs For The Deaf, for instance, and during his KYUSS years, he can be seen using a trio of <strong>1984 Ovation Ultra GP 1431</strong> guitars. He has a red one, a sunburst one, and a black one. During his time in KYUSS, this model of guitar was Josh’s daily driver.</p>
 
 
 
@@ -81,15 +81,15 @@ seo:
 
 
 
-<p>Back in the day, contrary to popular belief, <a href="https://www.electrikjam.com/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91578">Josh Homme</a> didn’t use many pedals at all with KYUSS. The vast majority of his guitar tone came from his amp settings. He did use a <a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125574">wah-wah pedal</a>, likely a Dunlop Cry Baby, and Boss SD-1 to push the signal for solos and lead parts but for the most part, Homme didn’t touch pedals in his KYUSS years.</p>
+<p>Back in the day, contrary to popular belief, <a href="/them-crooked-vultures-new-album-update-whats-the-deal/" data-lasso-id="91578">Josh Homme</a> didn’t use many pedals at all with KYUSS. The vast majority of his guitar tone came from his amp settings. He did use a <a href="/the-pedals-jack-white-used-to-make-elephant/" data-lasso-id="125574">wah-wah pedal</a>, likely a Dunlop Cry Baby, and Boss SD-1 to push the signal for solos and lead parts but for the most part, Homme didn’t touch pedals in his KYUSS years.</p>
 
 
 
-<p>Many reports and articles claim Homme used an <strong><a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="90393">Electro-Harmonix Big Muff</a></strong> to get his iconic sound. But this was not the case. The bulk of KYUSS’ guitar tone came from how Homme set up his amps and the style of amp he used – the dude used bass cabinets and amp heads for a lot of KYUSS’ records and when they play live. This is where ALL the low-end came from.</p>
+<p>Many reports and articles claim Homme used an <strong><a href="/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="90393">Electro-Harmonix Big Muff</a></strong> to get his iconic sound. But this was not the case. The bulk of KYUSS’ guitar tone came from how Homme set up his amps and the style of amp he used – the dude used bass cabinets and amp heads for a lot of KYUSS’ records and when they play live. This is where ALL the low-end came from.</p>
 
 
 
-<p>And most of the guitar effects featured on KYUSS records were achieved by esoteric microphone positioning, using old and unorthodox equipment, like bass amps, and a load of other stuff that is now part of the never-ending mystery of <strong><a href="https://www.electrikjam.com/what-pickups-does-josh-homme-use/" data-type="post" data-id="7070" data-lasso-id="90394">how Josh Homme gets his guitar tone</a></strong>. It is the stuff of legend. And it is stories like the one below that made Homme’s guitar tone such a talking point.</p>
+<p>And most of the guitar effects featured on KYUSS records were achieved by esoteric microphone positioning, using old and unorthodox equipment, like bass amps, and a load of other stuff that is now part of the never-ending mystery of <strong><a href="/what-pickups-does-josh-homme-use/" data-type="post" data-id="7070" data-lasso-id="90394">how Josh Homme gets his guitar tone</a></strong>. It is the stuff of legend. And it is stories like the one below that made Homme’s guitar tone such a talking point.</p>
 
 
 
@@ -105,11 +105,11 @@ seo:
 
 
 
-<p>Part of Josh’s style is that he takes things away when he plays. But <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196513">subtracting notes from power chords</a> and/or scales, he effectively creates a completely different, odd sound while still managing to keep in key with what’s going on around him. He even has his very own scale named after him –&nbsp;The Josh Homme Scale.</p>
+<p>Part of Josh’s style is that he takes things away when he plays. But <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196513">subtracting notes from power chords</a> and/or scales, he effectively creates a completely different, odd sound while still managing to keep in key with what’s going on around him. He even has his very own scale named after him –&nbsp;The Josh Homme Scale.</p>
 
 
 
-<p>Basically, he’s a very creative player. He grew up on ZZ Top, The Vaselines, The Ramones, The Misfits, and a punch of other punk and hardcore bands. These all informed how he approached guitar in his early years, helping him to develop his own, iconic sound. And it is this sound that made KYUSS so influential and it is also what turned his second band, <strong><a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-type="post" data-id="6984" data-lasso-id="90395">Queens of The Stone Age</a></strong>, into one of the biggest bands on the planet as well. </p>
+<p>Basically, he’s a very creative player. He grew up on ZZ Top, The Vaselines, The Ramones, The Misfits, and a punch of other punk and hardcore bands. These all informed how he approached guitar in his early years, helping him to develop his own, iconic sound. And it is this sound that made KYUSS so influential and it is also what turned his second band, <strong><a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-type="post" data-id="6984" data-lasso-id="90395">Queens of The Stone Age</a></strong>, into one of the biggest bands on the planet as well. </p>
 
 
 

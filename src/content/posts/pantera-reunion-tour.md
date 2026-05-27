@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>Pantera is arguably one of the greatest metal bands of all time. In the pantheon of the greats – so, <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="140264">Metallica, Iron Maiden, Slayer, Judas Priest, and Pantera</a></strong> – most would agree that Pantera is up near the top, alongside Metallica and Slayer.</p>
+<p>Pantera is arguably one of the greatest metal bands of all time. In the pantheon of the greats – so, <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="140264">Metallica, Iron Maiden, Slayer, Judas Priest, and Pantera</a></strong> – most would agree that Pantera is up near the top, alongside Metallica and Slayer.</p>
 
 
 
-<p>If you grew up in the 90s, <strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="140265">Pantera was essentially the heaviest band</a></strong> with the most badass riffs and vocals doing the rounds. And not much has changed since then. Whack on any of its records, Pantera sounds as fresh and as engaging today as it did back 20+ years ago. As Refused like to say, the classics never go outta style.</p>
+<p>If you grew up in the 90s, <strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="140265">Pantera was essentially the heaviest band</a></strong> with the most badass riffs and vocals doing the rounds. And not much has changed since then. Whack on any of its records, Pantera sounds as fresh and as engaging today as it did back 20+ years ago. As Refused like to say, the classics never go outta style.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/pantera-reunion-tour-1024x683.png" alt="pantera reunion tour" class="wp-image-8464" title="" srcset="/wp-content/uploads/2022/07/pantera-reunion-tour-1024x683.png 1024w, /wp-content/uploads/2022/07/pantera-reunion-tour-600x400.png 600w, /wp-content/uploads/2022/07/pantera-reunion-tour-300x200.png 300w, /wp-content/uploads/2022/07/pantera-reunion-tour-768x512.png 768w, /wp-content/uploads/2022/07/pantera-reunion-tour.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="140266">Pantera Albums RANKED In Order of HEAVINESS&#8230;</a></strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2022/07/pantera-reunion-tour-1024x683.png" alt="pantera reunion tour" class="wp-image-8464" title="" srcset="/wp-content/uploads/2022/07/pantera-reunion-tour-1024x683.png 1024w, /wp-content/uploads/2022/07/pantera-reunion-tour-600x400.png 600w, /wp-content/uploads/2022/07/pantera-reunion-tour-300x200.png 300w, /wp-content/uploads/2022/07/pantera-reunion-tour-768x512.png 768w, /wp-content/uploads/2022/07/pantera-reunion-tour.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="140266">Pantera Albums RANKED In Order of HEAVINESS&#8230;</a></strong></figcaption></figure>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="140267">Zakk Wylde</a> will be playing guitar during the Pantera reunion tour and he will be joined by Anthrax’s Charlie Benante on drums. This would complete the lineup with Phil Anselmo on vocals and Rex Brown on bass guitar. As lineups go for a Pantera reunion, I don’t think fans could have asked for anything better – both Wylde and Benante are exceptional musicians with decades of experience.</strong></p>
+<p><strong><a href="/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="140267">Zakk Wylde</a> will be playing guitar during the Pantera reunion tour and he will be joined by Anthrax’s Charlie Benante on drums. This would complete the lineup with Phil Anselmo on vocals and Rex Brown on bass guitar. As lineups go for a Pantera reunion, I don’t think fans could have asked for anything better – both Wylde and Benante are exceptional musicians with decades of experience.</strong></p>
 
 
 

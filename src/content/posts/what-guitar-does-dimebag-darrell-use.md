@@ -91,11 +91,11 @@ seo:
 
 
 <ul class="wp-block-list">
-<li>🔥&nbsp;<strong>The Exact Model: <a href="https://www.electrikjam.com/dean-dime-razorback-rust-electric-guitar-with-case-custom-graphic-guitar-center/" data-type="lasso-urls" data-id="13340" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254807" data-lasso-name="Dean Custom Shop Dimebolt Razorback">Dean Custom Shop Dimebolt Razorback &#8211; $3,399</a></strong></li>
+<li>🔥&nbsp;<strong>The Exact Model: <a href="/dean-dime-razorback-rust-electric-guitar-with-case-custom-graphic-guitar-center/" data-type="lasso-urls" data-id="13340" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254807" data-lasso-name="Dean Custom Shop Dimebolt Razorback">Dean Custom Shop Dimebolt Razorback &#8211; $3,399</a></strong></li>
 
 
 
-<li>✅ <strong>The Cheaper Alternative: <a href="https://www.electrikjam.com/dean-dimebag-razorback-db-electric-guitar-classic-black-guitar-center/" data-type="lasso-urls" data-id="13341" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254808" data-lasso-name="Dean Dimebag Razorback DB">Dean Dimebag Razorback DB &#8211; $449 </a></strong></li>
+<li>✅ <strong>The Cheaper Alternative: <a href="/dean-dimebag-razorback-db-electric-guitar-classic-black-guitar-center/" data-type="lasso-urls" data-id="13341" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254808" data-lasso-name="Dean Dimebag Razorback DB">Dean Dimebag Razorback DB &#8211; $449 </a></strong></li>
 </ul>
 </div></div>
 
@@ -183,7 +183,7 @@ seo:
 
 
 
-<p>Dimebag&#8217;s gear list wasn&#8217;t complete without a mention of his guitar effects. Among them, <strong><a href="https://www.electrikjam.com/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-type="post" data-id="10630" data-lasso-id="255056">the Wah and Digitech WH-1 Whammy pedals</a></strong> were significant in shaping his unique sound. </p>
+<p>Dimebag&#8217;s gear list wasn&#8217;t complete without a mention of his guitar effects. Among them, <strong><a href="/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-type="post" data-id="10630" data-lasso-id="255056">the Wah and Digitech WH-1 Whammy pedals</a></strong> were significant in shaping his unique sound. </p>
 
 
 
@@ -219,11 +219,11 @@ seo:
 
 
 
-<p>The main reason that the Dean Razorback is so special is that it was designed by <strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="254809">Dimebag Darrell</a></strong>. He worked on and helped workout every aspect of its shape, electronics, and components. Everything was built to his exact requirements. </p>
+<p>The main reason that the Dean Razorback is so special is that it was designed by <strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="254809">Dimebag Darrell</a></strong>. He worked on and helped workout every aspect of its shape, electronics, and components. Everything was built to his exact requirements. </p>
 
 
 
-<p>If you&#8217;re a fan of <strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="254810">Pantera</a></strong> or want to create something similar to Dimebag&#8217;s legendary tone, the Dean Razorback is the quickest shortcut for doing so. You&#8217;ll also need a killer amp setup and some pedals <strong><a href="https://www.electrikjam.com/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-type="post" data-id="10630" data-lasso-id="254811">(here&#8217;s the pedals used by Dimebag himself). </a></strong></p>
+<p>If you&#8217;re a fan of <strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="254810">Pantera</a></strong> or want to create something similar to Dimebag&#8217;s legendary tone, the Dean Razorback is the quickest shortcut for doing so. You&#8217;ll also need a killer amp setup and some pedals <strong><a href="/dimebag-darrell-loved-these-guitar-pedals-heres-why/" data-type="post" data-id="10630" data-lasso-id="254811">(here&#8217;s the pedals used by Dimebag himself). </a></strong></p>
 
 
 
@@ -261,7 +261,7 @@ seo:
 
 
 
-<p>Of course, the elephant in the room here is that the Dean Razorback is perhaps one of the <strong><a href="https://www.electrikjam.com/the-bc-rich-2021-lineup-is-here-new-axes/" data-type="post" data-id="2154" data-lasso-id="254812">ugliest guitars</a></strong> you&#8217;ll ever see. </p>
+<p>Of course, the elephant in the room here is that the Dean Razorback is perhaps one of the <strong><a href="/the-bc-rich-2021-lineup-is-here-new-axes/" data-type="post" data-id="2154" data-lasso-id="254812">ugliest guitars</a></strong> you&#8217;ll ever see. </p>
 
 
 
@@ -281,7 +281,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-type="post" data-id="13094" data-lasso-id="254813">Jim Root&#8217;s signature models</a></strong> (pictured above) are WAY more my style and speed. Classic designs with a modern twist and extremely hot pickups. For me, that&#8217;s the ultimate style for an electric guitar. </p>
+<p><strong><a href="/jim-root-signature-guitars/" data-type="post" data-id="13094" data-lasso-id="254813">Jim Root&#8217;s signature models</a></strong> (pictured above) are WAY more my style and speed. Classic designs with a modern twist and extremely hot pickups. For me, that&#8217;s the ultimate style for an electric guitar. </p>
 
 
 
@@ -289,7 +289,7 @@ seo:
 
 
 
-<p>Of course, the custom shop model is hella pricey. But the Dean Razorback DB is way more accessible –&nbsp;<strong><a href="https://www.electrikjam.com/dean-dimebag-razorback-db-electric-guitar-classic-black-guitar-center/" data-type="lasso-urls" data-id="13341" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254814" data-lasso-name="Dean Dimebag Razorback DB">you&#8217;re looking at in and around $450</a></strong> (and it is packing some killer specs too). </p>
+<p>Of course, the custom shop model is hella pricey. But the Dean Razorback DB is way more accessible –&nbsp;<strong><a href="/dean-dimebag-razorback-db-electric-guitar-classic-black-guitar-center/" data-type="lasso-urls" data-id="13341" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254814" data-lasso-name="Dean Dimebag Razorback DB">you&#8217;re looking at in and around $450</a></strong> (and it is packing some killer specs too). </p>
 
 
 

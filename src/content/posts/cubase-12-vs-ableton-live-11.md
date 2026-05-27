@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>We have been taking a seriously critical look at <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="246884">Cubase</a></strong> lately, and breaking down the DAW from multiple perspectives. Whether a novice or pro, choosing a DAW to work with in your production journey can be tough, as there are many options out there. New DAWs pop up from time to time, offering more tools and options.</p>
+<p>We have been taking a seriously critical look at <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="246884">Cubase</a></strong> lately, and breaking down the DAW from multiple perspectives. Whether a novice or pro, choosing a DAW to work with in your production journey can be tough, as there are many options out there. New DAWs pop up from time to time, offering more tools and options.</p>
 
 
 
@@ -90,7 +90,7 @@ seo:
 
 
 
-<p>Cubase is an industry standard in the professional recording world, and it has been a staple in big studios for decades. Cubase 12 is the latest and most powerful version we have ever seen from Steinberg, and this can be <strong><a data-lasso-id="246885" href="https://www.electrikjam.com/is-cubase-12-good-for-beginners/" data-type="post" data-id="12395" target="_blank" rel="noopener">difficult for beginners to grasp </a></strong>at first. However, it has tons of features that are user-friendly:</p>
+<p>Cubase is an industry standard in the professional recording world, and it has been a staple in big studios for decades. Cubase 12 is the latest and most powerful version we have ever seen from Steinberg, and this can be <strong><a data-lasso-id="246885" href="/is-cubase-12-good-for-beginners/" data-type="post" data-id="12395" target="_blank" rel="noopener">difficult for beginners to grasp </a></strong>at first. However, it has tons of features that are user-friendly:</p>
 
 
 
@@ -243,7 +243,7 @@ seo:
 
 
 
-<li>Higher system requirements might be a limiting factor for users with less powerful hardware. However, <strong><a href="https://www.electrikjam.com/cubase-le-vs-cubase-pro-12/" target="_blank" data-type="post" data-id="12338" rel="noopener" data-lasso-id="246933">limited versions of Cubase are available</a></strong>.</li>
+<li>Higher system requirements might be a limiting factor for users with less powerful hardware. However, <strong><a href="/cubase-le-vs-cubase-pro-12/" target="_blank" data-type="post" data-id="12338" rel="noopener" data-lasso-id="246933">limited versions of Cubase are available</a></strong>.</li>
 </ul>
 
 
@@ -282,7 +282,7 @@ seo:
 
 
 
-<p>Ultimately, I think that both of these DAWs will appeal to different types of artists. I have often seen musicians and producers use Ableton in conjunction with a more traditional DAW, and I can see why. We saw <strong><a href="https://www.electrikjam.com/cubase-vs-fruity-loops-studio/" target="_blank" data-type="post" data-id="12424" rel="noopener" data-lasso-id="246934">a similar comparison when looking at FL Studio</a></strong>.</p>
+<p>Ultimately, I think that both of these DAWs will appeal to different types of artists. I have often seen musicians and producers use Ableton in conjunction with a more traditional DAW, and I can see why. We saw <strong><a href="/cubase-vs-fruity-loops-studio/" target="_blank" data-type="post" data-id="12424" rel="noopener" data-lasso-id="246934">a similar comparison when looking at FL Studio</a></strong>.</p>
 
 
 

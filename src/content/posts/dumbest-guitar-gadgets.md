@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>I mean, look <a href="https://www.electrikjam.com/the-line-6-hx-stomp/" data-lasso-id="5749">how we treated  Line 6</a>  all of these years. Detestable!</p>
+<p>I mean, look <a href="/the-line-6-hx-stomp/" data-lasso-id="5749">how we treated  Line 6</a>  all of these years. Detestable!</p>
 
 
 
@@ -96,7 +96,7 @@ seo:
 
 
 
-<p>I don&#8217;t know&#8230; picks <strong>will</strong> fly out of your hand when you are playing. It&#8217;s a natural phenomena for every <a href="https://www.electrikjam.com/5-best-christmas-presents-for-guitar-players/" data-lasso-id="29817">guitar player</a>. It even happens to the pros. </p>
+<p>I don&#8217;t know&#8230; picks <strong>will</strong> fly out of your hand when you are playing. It&#8217;s a natural phenomena for every <a href="/5-best-christmas-presents-for-guitar-players/" data-lasso-id="29817">guitar player</a>. It even happens to the pros. </p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<p>It&#8217;s like <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="428">switching to a 7 string guitar</a>, or a baritone guitar. You may struggle at first, but in a couple of days, you will get used to it. No gimmicks needed! Your fingers will adapt all by themselves.</p>
+<p>It&#8217;s like <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="428">switching to a 7 string guitar</a>, or a baritone guitar. You may struggle at first, but in a couple of days, you will get used to it. No gimmicks needed! Your fingers will adapt all by themselves.</p>
 
 
 
@@ -172,7 +172,7 @@ seo:
 
 
 
-<p>We can even bring anatomy into this! Your fingers don&#8217;t really have a lot of muscles to begin with. If you are playing guitar properly, then you know that tendons play a much bigger role in <a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-lasso-id="429">how you approach the neck and fretboard</a>. Your fingers don&#8217;t get jacked like your arms when you hit the gym!</p>
+<p>We can even bring anatomy into this! Your fingers don&#8217;t really have a lot of muscles to begin with. If you are playing guitar properly, then you know that tendons play a much bigger role in <a href="/how-to-find-fretboard-notes-guitar/" data-lasso-id="429">how you approach the neck and fretboard</a>. Your fingers don&#8217;t get jacked like your arms when you hit the gym!</p>
 
 
 
@@ -192,7 +192,7 @@ seo:
 
 
 
-<p>There is no other solution, except to put a piece of grippy tape on your pick. You couldn&#8217;t possibly just buy a<a href="https://www.electrikjam.com/best-picks-for-metal/" class="rank-math-link" data-lasso-id="430"> pick that has a grip to it already.</a>  Could you??!!</p>
+<p>There is no other solution, except to put a piece of grippy tape on your pick. You couldn&#8217;t possibly just buy a<a href="/best-picks-for-metal/" class="rank-math-link" data-lasso-id="430"> pick that has a grip to it already.</a>  Could you??!!</p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<p>Or, you can cover your fingers in little silicone hats, and never actually get used to playing the guitar. I suppose you can carry these around in your pockets until the opportunity strikes you at a party where someone has an <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="431">acoustic guitar</a>. Then you can put on your little hats, and play &#8220;Wonderwall&#8221; for everyone.</p>
+<p>Or, you can cover your fingers in little silicone hats, and never actually get used to playing the guitar. I suppose you can carry these around in your pockets until the opportunity strikes you at a party where someone has an <a href="/types-of-guitars-guide/" data-lasso-id="431">acoustic guitar</a>. Then you can put on your little hats, and play &#8220;Wonderwall&#8221; for everyone.</p>
 
 
 
@@ -252,11 +252,11 @@ seo:
 
 
 
-<p>If you have always wanted to play guitar, but you cannot be bothered to pick one up and <a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-lasso-id="432">learn basic chords</a>, then the EZ Fret is for you. This amazing gadget does everything for you, allowing you to skip the boring parts of guitar <em>like learning</em>.</p>
+<p>If you have always wanted to play guitar, but you cannot be bothered to pick one up and <a href="/chord-voicing-extensions-for-metal/" data-lasso-id="432">learn basic chords</a>, then the EZ Fret is for you. This amazing gadget does everything for you, allowing you to skip the boring parts of guitar <em>like learning</em>.</p>
 
 
 
-<p>The EZ Fret allows you to play the guitar without any bothersome fretting of notes, or <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196548">learning actual chords</a>. This gadget turns your real guitar into a glorified Guitar Hero controller, minus the video game aspect. No visuals, so only a nightmare inducing sound coming from your guitar will comfort you.</p>
+<p>The EZ Fret allows you to play the guitar without any bothersome fretting of notes, or <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196548">learning actual chords</a>. This gadget turns your real guitar into a glorified Guitar Hero controller, minus the video game aspect. No visuals, so only a nightmare inducing sound coming from your guitar will comfort you.</p>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="433">Learning how to play an instrument</a> is such a pain, and who has time for such nonsense these days? Why do it the hard way when you can do it the EZ way? This also knocks out the money hungry middle-man that lurks in the shadows: The Guitar Teacher.</p>
+<p><a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="433">Learning how to play an instrument</a> is such a pain, and who has time for such nonsense these days? Why do it the hard way when you can do it the EZ way? This also knocks out the money hungry middle-man that lurks in the shadows: The Guitar Teacher.</p>
 
 
 
@@ -284,7 +284,7 @@ seo:
 
 
 
-<p>And believe me, there is no irony lost on my part. I am coming from years of practice and playing. I am not a beginner nor am I struggling to play guitar. But I remember those first days fondly, when I was at the very beginning. Every day I got a tiny bit better,<a href="https://www.electrikjam.com/learning-guitar-guide-what-to-expect/" class="rank-math-link" data-lasso-id="436"> and I was proud of it.</a></p>
+<p>And believe me, there is no irony lost on my part. I am coming from years of practice and playing. I am not a beginner nor am I struggling to play guitar. But I remember those first days fondly, when I was at the very beginning. Every day I got a tiny bit better,<a href="/learning-guitar-guide-what-to-expect/" class="rank-math-link" data-lasso-id="436"> and I was proud of it.</a></p>
 
 
 

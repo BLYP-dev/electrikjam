@@ -46,11 +46,11 @@ seo:
 
 
 
-<p>Well we are huge fans of the <strong><a href="https://www.electrikjam.com/headrush-mx5-compact-quad-core-multi-effects-guitar-pedal-and-amp-modeler-guitar-center/" data-type="lasso-urls" data-id="9478" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="220099" data-lasso-name="HeadRush MX5 Compact Quad-Core Multi-Effects">Headrush Series of multi-effects processors</a></strong>, and I even liked the original &#8220;Eleven Rack&#8221; that the sounds are based on, and I owned one for a while. The biggest selling point with the other units before the Prime was the interface.</p>
+<p>Well we are huge fans of the <strong><a href="/headrush-mx5-compact-quad-core-multi-effects-guitar-pedal-and-amp-modeler-guitar-center/" data-type="lasso-urls" data-id="9478" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="220099" data-lasso-name="HeadRush MX5 Compact Quad-Core Multi-Effects">Headrush Series of multi-effects processors</a></strong>, and I even liked the original &#8220;Eleven Rack&#8221; that the sounds are based on, and I owned one for a while. The biggest selling point with the other units before the Prime was the interface.</p>
 
 
 
-<p>Not only is the interface system on Headrush units easy to understand, they are also very intuitive. This is compared to<strong><a data-lasso-id="219736" href="https://www.electrikjam.com/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"> other brands like the Line 6 Helix processors</a></strong>. Headrush was just a little bit easier to get set up and programming custom patches.</p>
+<p>Not only is the interface system on Headrush units easy to understand, they are also very intuitive. This is compared to<strong><a data-lasso-id="219736" href="/line-6/" data-type="page" data-id="4586" target="_blank" rel="noopener"> other brands like the Line 6 Helix processors</a></strong>. Headrush was just a little bit easier to get set up and programming custom patches.</p>
 
 
 
@@ -58,19 +58,19 @@ seo:
 
 
 
-<p>So what makes the Headrush Prime so impressive? I mean, <strong><a data-lasso-id="219737" href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener">the Helix has pretty much reigned </a></strong>supreme for the last few years. Guitarists that couldn&#8217;t swing the cash for the Helix usually went with something <strong><a data-lasso-id="219738" href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener">like the POD GO </a></strong>instead, which is also a great unit.</p>
+<p>So what makes the Headrush Prime so impressive? I mean, <strong><a data-lasso-id="219737" href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener">the Helix has pretty much reigned </a></strong>supreme for the last few years. Guitarists that couldn&#8217;t swing the cash for the Helix usually went with something <strong><a data-lasso-id="219738" href="/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener">like the POD GO </a></strong>instead, which is also a great unit.</p>
 
 
 
-<p>We have almost reached a &#8220;singularity&#8221; when it comes to <a href="https://www.electrikjam.com/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225985">digital guitar gear</a>. I think we have started getting to the point that most digital gear is pretty equal. I can get some great tones out of budget processors, and most certainly the Helix.</p>
+<p>We have almost reached a &#8220;singularity&#8221; when it comes to <a href="/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225985">digital guitar gear</a>. I think we have started getting to the point that most digital gear is pretty equal. I can get some great tones out of budget processors, and most certainly the Helix.</p>
 
 
 
-<p>Guitarists are moving over to digital, more and more every day, and I can see why. I think this is just the next step in the evolution of electric guitar, and more people will be <strong><a data-lasso-id="219842" href="https://www.electrikjam.com/best-frfr-speaker/" data-type="post" data-id="11014" target="_blank" rel="noopener">turning to FRFR speaker setups</a></strong> and silent stages, going forward.</p>
+<p>Guitarists are moving over to digital, more and more every day, and I can see why. I think this is just the next step in the evolution of electric guitar, and more people will be <strong><a data-lasso-id="219842" href="/best-frfr-speaker/" data-type="post" data-id="11014" target="_blank" rel="noopener">turning to FRFR speaker setups</a></strong> and silent stages, going forward.</p>
 
 
 
-<p>Silent stages with &#8220;in ear&#8221; monitors have started becoming more popular. Silent stages reduce the overall volume for small venues, and can also absolutely blast a stadium. I see less and less actual tube amps on stages these days, and locally <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="220100">I see Katanas</a></strong> and the Helix on small stages.</p>
+<p>Silent stages with &#8220;in ear&#8221; monitors have started becoming more popular. Silent stages reduce the overall volume for small venues, and can also absolutely blast a stadium. I see less and less actual tube amps on stages these days, and locally <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="220100">I see Katanas</a></strong> and the Helix on small stages.</p>
 
 
 
@@ -78,7 +78,7 @@ seo:
 
 
 
-<p>So today we are going to take a look at everything the Headrush Prime does, and go over why this thing is so incredibly impressive. Just 15 years ago, <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="223249">amp modeling</a> was in its infancy. But now we have some serious contenders when it comes <strong><a href="https://www.electrikjam.com/advantages-frfr-speakers/" target="_blank" data-type="post" data-id="11002" rel="noopener" data-lasso-id="219944">to replacing your entire rig</a></strong>.</p>
+<p>So today we are going to take a look at everything the Headrush Prime does, and go over why this thing is so incredibly impressive. Just 15 years ago, <a href="/neural-amp-modeler/" data-lasso-id="223249">amp modeling</a> was in its infancy. But now we have some serious contenders when it comes <strong><a href="/advantages-frfr-speakers/" target="_blank" data-type="post" data-id="11002" rel="noopener" data-lasso-id="219944">to replacing your entire rig</a></strong>.</p>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<p>Finally, Headrush also has a cloud of amps and cabs that have been cloned by other users using ACT. This means that you can download just about any amp you can think of, from other users on the cloud. Want <strong><a data-lasso-id="219945" href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener">a 5150 tone</a></strong>? Just download someone&#8217;s amp clone of it! Download a few different ones!</p>
+<p>Finally, Headrush also has a cloud of amps and cabs that have been cloned by other users using ACT. This means that you can download just about any amp you can think of, from other users on the cloud. Want <strong><a data-lasso-id="219945" href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener">a 5150 tone</a></strong>? Just download someone&#8217;s amp clone of it! Download a few different ones!</p>
 
 
 
@@ -328,7 +328,7 @@ seo:
 
 
 
-<p>The effects have everything that <strong><a data-lasso-id="219844" href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-type="post" data-id="9465" target="_blank" rel="noopener">the other Headrush</a></strong> units already have. Headrush is known for having some great quality effects for guitar and bass. But this time we have a few added features&#8230; <em>for vocals</em>?</p>
+<p>The effects have everything that <strong><a data-lasso-id="219844" href="/budget-guitar-multi-effects-units-reviewed/" data-type="post" data-id="9465" target="_blank" rel="noopener">the other Headrush</a></strong> units already have. Headrush is known for having some great quality effects for guitar and bass. But this time we have a few added features&#8230; <em>for vocals</em>?</p>
 
 
 

@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>The new album is called ATUM, pronounced <strong><em>autumn</em></strong>, and it is said to be a sequel of sorts to <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="169489">Mellon Collie And The Infinite Sadness</a></strong> as well as <strong>Machina/The Machine of God</strong>. Once the album’s spilt release is complete, the album, when listened to as a whole, will equate to a modern rock opera, according to the band.</p>
+<p>The new album is called ATUM, pronounced <strong><em>autumn</em></strong>, and it is said to be a sequel of sorts to <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="169489">Mellon Collie And The Infinite Sadness</a></strong> as well as <strong>Machina/The Machine of God</strong>. Once the album’s spilt release is complete, the album, when listened to as a whole, will equate to a modern rock opera, according to the band.</p>
 
 
 

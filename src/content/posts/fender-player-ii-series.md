@@ -219,7 +219,7 @@ seo:
 
 
 
-<p class="has-main-accent-color has-text-color"><a href="https://www.electrikjam.com/tag/fender/" data-lasso-id="267714"><strong>View All →</strong></a></p>
+<p class="has-main-accent-color has-text-color"><a href="/tag/fender/" data-lasso-id="267714"><strong>View All →</strong></a></p>
 </div>
 
 
@@ -228,7 +228,7 @@ seo:
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained">
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-5fbedae1 wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-18262 post type-post status-publish format-standard has-post-thumbnail hentry category-fender tag-fender">
 
-<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="https://www.electrikjam.com/fender-player-ii-stratocaster-vs-american-ultra-ii-stratocaster/" target="_self">Fender Player II Stratocaster vs. American Ultra II Stratocaster</a></h2>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="/fender-player-ii-stratocaster-vs-american-ultra-ii-stratocaster/" target="_self">Fender Player II Stratocaster vs. American Ultra II Stratocaster</a></h2>
 
 <div class="wp-block-post-date has-text-color has-secondary-color has-small-font-size"><time datetime="2025-12-11T11:01:20+00:00">December 11, 2025</time></div></div>
 
@@ -238,7 +238,7 @@ seo:
 
 </li><li class="wp-block-post post-8313 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars tag-fender tag-fender-stratocaster-model">
 
-<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" target="_self">Fender Player Stratocaster Reviews: Still #1 After All These Years?</a></h2>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="/fender-player-stratocaster-reviews/" target="_self">Fender Player Stratocaster Reviews: Still #1 After All These Years?</a></h2>
 
 <div class="wp-block-post-date has-text-color has-secondary-color has-small-font-size"><time datetime="2025-12-10T13:02:07+00:00">December 10, 2025</time></div></div>
 
@@ -248,7 +248,7 @@ seo:
 
 </li><li class="wp-block-post post-18086 post type-post status-publish format-standard has-post-thumbnail hentry category-electric-guitars tag-fender">
 
-<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="https://www.electrikjam.com/fender-player-ii-telecaster-hh-reviews/" target="_self">Fender Player II Telecaster HH Reviews: Is It Worth It?</a></h2>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="/fender-player-ii-telecaster-hh-reviews/" target="_self">Fender Player II Telecaster HH Reviews: Is It Worth It?</a></h2>
 
 <div class="wp-block-post-date has-text-color has-secondary-color has-small-font-size"><time datetime="2025-12-07T12:12:06+00:00">December 7, 2025</time></div></div>
 
@@ -258,7 +258,7 @@ seo:
 
 </li><li class="wp-block-post post-17885 post type-post status-publish format-standard has-post-thumbnail hentry category-fender tag-fender">
 
-<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="https://www.electrikjam.com/why-fenders-american-ultra-luxe-telecaster-is-the-super-tele-weve-been-waiting-for/" target="_self">Why Fender’s American Ultra Luxe Telecaster Is The &#8220;Super Tele&#8221; We&#8217;ve Been Waiting For&#8230;</a></h2>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="/why-fenders-american-ultra-luxe-telecaster-is-the-super-tele-weve-been-waiting-for/" target="_self">Why Fender’s American Ultra Luxe Telecaster Is The &#8220;Super Tele&#8221; We&#8217;ve Been Waiting For&#8230;</a></h2>
 
 <div class="wp-block-post-date has-text-color has-secondary-color has-small-font-size"><time datetime="2025-08-14T05:58:04+00:00">August 14, 2025</time></div></div>
 
@@ -268,7 +268,7 @@ seo:
 
 </li><li class="wp-block-post post-7446 post type-post status-publish format-standard has-post-thumbnail hentry category-tutorials tag-fender">
 
-<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="https://www.electrikjam.com/fender-price-tiers-explained/" target="_self">Fender Price Tiers: All The Models, Series &amp; Price Changes (2025 Edition)</a></h2>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="/fender-price-tiers-explained/" target="_self">Fender Price Tiers: All The Models, Series &amp; Price Changes (2025 Edition)</a></h2>
 
 <div class="wp-block-post-date has-text-color has-secondary-color has-small-font-size"><time datetime="2025-08-13T08:42:52+00:00">August 13, 2025</time></div></div>
 
@@ -278,7 +278,7 @@ seo:
 
 </li><li class="wp-block-post post-3709 post type-post status-publish format-standard has-post-thumbnail hentry category-squier tag-fender tag-squier">
 
-<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" target="_self">Are Squier Guitars Good? A Guide To Cheap Fender Guitars</a></h2>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" target="_self">Are Squier Guitars Good? A Guide To Cheap Fender Guitars</a></h2>
 
 <div class="wp-block-post-date has-text-color has-secondary-color has-small-font-size"><time datetime="2025-07-30T17:59:51+00:00">July 30, 2025</time></div></div>
 
@@ -288,7 +288,7 @@ seo:
 
 </li><li class="wp-block-post post-15753 post type-post status-publish format-standard has-post-thumbnail hentry category-fender tag-fender">
 
-<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="https://www.electrikjam.com/fender-guitar-series-explained/" target="_self">Fender Guitar Series Explained: What You Need To Know&#8230;</a></h2>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-105570a8 wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title has-small-font-size"><a href="/fender-guitar-series-explained/" target="_self">Fender Guitar Series Explained: What You Need To Know&#8230;</a></h2>
 
 <div class="wp-block-post-date has-text-color has-secondary-color has-small-font-size"><time datetime="2024-08-28T13:23:24+00:00">August 28, 2024</time></div></div>
 

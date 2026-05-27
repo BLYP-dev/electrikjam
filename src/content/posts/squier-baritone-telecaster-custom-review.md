@@ -64,15 +64,15 @@ seo:
 
 
 
-<p>This is one reason <strong><a data-lasso-id="178749" href="https://www.electrikjam.com/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener">Fender upped its game</a>.</strong> These budget guitars were <em>out-selling the regular lineup</em>.</p>
+<p>This is one reason <strong><a data-lasso-id="178749" href="/fender-price-tiers-explained/" data-type="post" data-id="7446" target="_blank" rel="noopener">Fender upped its game</a>.</strong> These budget guitars were <em>out-selling the regular lineup</em>.</p>
 
 
 
-<p><strong>Squier was out-selling the Fender brand by a longshot for over a year.</strong> The redesigns we have seen, like the <a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="178750"><strong>Player&#8217;s Series</strong></a> has made a better distinction between the brands, and you get more for your money with Fender these days. The Player&#8217;s Series saw all kinds of upgrades over regular MIM guitars.</p>
+<p><strong>Squier was out-selling the Fender brand by a longshot for over a year.</strong> The redesigns we have seen, like the <a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="178750"><strong>Player&#8217;s Series</strong></a> has made a better distinction between the brands, and you get more for your money with Fender these days. The Player&#8217;s Series saw all kinds of upgrades over regular MIM guitars.</p>
 
 
 
-<p>That was over ten years ago, and the newest of the Squier Classic Vibe lineup is a Baritone Telecaster Custom. Now most people see a <strong><a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-type="post" data-id="11706" data-lasso-id="234013">Baritone Telecaster</a></strong> and start thinking <strong>&#8220;this is going to be great for certain country songs&#8221;</strong>. And yes, that is primarily how I have seen a Baritone Telecaster treated.</p>
+<p>That was over ten years ago, and the newest of the Squier Classic Vibe lineup is a Baritone Telecaster Custom. Now most people see a <strong><a href="/best-baritone-guitars-for-metal/" data-type="post" data-id="11706" data-lasso-id="234013">Baritone Telecaster</a></strong> and start thinking <strong>&#8220;this is going to be great for certain country songs&#8221;</strong>. And yes, that is primarily how I have seen a Baritone Telecaster treated.</p>
 
 
 
@@ -170,11 +170,11 @@ seo:
 
 
 
-<p>The frets are the Fender &#8220;Narrow Tall&#8221; style, and they really work well with the Baritone Telecaster design. The fretboard radius is also more modern, with the 9.5 radius that you usually find on modern Fenders in lieu of the vintage 7.5 style. You will not be fretting out when you play big bends, and these frets work better with the larger strings needed for a<a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="178751"><strong> baritone scale</strong></a>.</p>
+<p>The frets are the Fender &#8220;Narrow Tall&#8221; style, and they really work well with the Baritone Telecaster design. The fretboard radius is also more modern, with the 9.5 radius that you usually find on modern Fenders in lieu of the vintage 7.5 style. You will not be fretting out when you play big bends, and these frets work better with the larger strings needed for a<a href="/electric-guitar-scale-length-a-complete-guide/" target="_blank" data-type="post" data-id="3382" rel="noopener" data-lasso-id="178751"><strong> baritone scale</strong></a>.</p>
 
 
 
-<p>The Indian Laurel fretboard feels and looks a lot like the Rich-lite that <a class="wpil_keyword_link" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="234004" href="https://www.electrikjam.com/gibson-guitars/">Gibson</a> uses, but it also feels a little like Rosewood. It could easily pass for a lighter version of Rosewood, just more uniform in grain. The Pearloid dots are a great touch that also bridges the vintage style with modern appointments.</p>
+<p>The Indian Laurel fretboard feels and looks a lot like the Rich-lite that <a class="wpil_keyword_link" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="234004" href="/gibson-guitars/">Gibson</a> uses, but it also feels a little like Rosewood. It could easily pass for a lighter version of Rosewood, just more uniform in grain. The Pearloid dots are a great touch that also bridges the vintage style with modern appointments.</p>
 
 
 
@@ -186,7 +186,7 @@ seo:
 
 
 
-<p>The vintage 3 saddle bridge could be a little bit better, but it gets the job done. To be fair, I have always had trouble with a 3 saddle bridge and <a href="https://www.electrikjam.com/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="178752"><strong>intonation</strong></a>. I happen to like Fender Vintage Tuners, so these are great to me, although locking would be preferred. These are both easy mods to do.</p>
+<p>The vintage 3 saddle bridge could be a little bit better, but it gets the job done. To be fair, I have always had trouble with a 3 saddle bridge and <a href="/how-do-i-set-my-intonation-guitar/" target="_blank" data-type="post" data-id="673" rel="noopener" data-lasso-id="178752"><strong>intonation</strong></a>. I happen to like Fender Vintage Tuners, so these are great to me, although locking would be preferred. These are both easy mods to do.</p>
 
 
 
@@ -210,15 +210,15 @@ seo:
 
 
 
-<p>The middle position does the famous Telecaster &#8220;acoustic-like&#8221; sound, and both pickups together sound great. The baritone scale would usually mean &#8220;instant mud&#8221; with lower quality pickups. I am surprised that a guitar in this<a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="178753"> <strong>budget</strong> </a>range sounds so good! The alnico magnets definitely push the midrange and highs without over-doing the bass.</p>
+<p>The middle position does the famous Telecaster &#8220;acoustic-like&#8221; sound, and both pickups together sound great. The baritone scale would usually mean &#8220;instant mud&#8221; with lower quality pickups. I am surprised that a guitar in this<a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="178753"> <strong>budget</strong> </a>range sounds so good! The alnico magnets definitely push the midrange and highs without over-doing the bass.</p>
 
 
 
-<p>These are the same Alnico pickups that Squier has been using for a while now on the <a href="https://www.electrikjam.com/guitar-center-pxf-io-152yrb/" data-type="lasso-urls" data-id="6279" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="178754" data-lasso-name="Squier Classic Vibe 60&#039;s Stratocaster"><strong>Classic Vibe</strong> </a>Series, and I have yet to meet <em>anyone </em>that dislikes them. They do the &#8220;clean spank&#8221; sound without it sounding like an ice pick being jabbed into your ear. The bridge pickup was made for country chicken pickin&#8217;.</p>
+<p>These are the same Alnico pickups that Squier has been using for a while now on the <a href="/guitar-center-pxf-io-152yrb/" data-type="lasso-urls" data-id="6279" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="178754" data-lasso-name="Squier Classic Vibe 60&#039;s Stratocaster"><strong>Classic Vibe</strong> </a>Series, and I have yet to meet <em>anyone </em>that dislikes them. They do the &#8220;clean spank&#8221; sound without it sounding like an ice pick being jabbed into your ear. The bridge pickup was made for country chicken pickin&#8217;.</p>
 
 
 
-<p>The baritone Telecaster is a staple of Nashville country players because they use the bottom string to perform walking basslines. This can sound even cooler if you drop tune the bottom<strong> <a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-type="post" data-id="4496" target="_blank" rel="noopener" data-lasso-id="178755">string to A</a></strong>. This works like <a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" target="_blank" data-type="post" data-id="5202" rel="noopener" data-lasso-id="178756"><strong>drop D</strong></a> on standard guitars, but also give you extra range for walking basslines that you hear on songs like &#8220;Neon&#8221; by<strong> John Mayer</strong>.</p>
+<p>The baritone Telecaster is a staple of Nashville country players because they use the bottom string to perform walking basslines. This can sound even cooler if you drop tune the bottom<strong> <a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-type="post" data-id="4496" target="_blank" rel="noopener" data-lasso-id="178755">string to A</a></strong>. This works like <a href="/drop-d-tuning-guitar-guide/" target="_blank" data-type="post" data-id="5202" rel="noopener" data-lasso-id="178756"><strong>drop D</strong></a> on standard guitars, but also give you extra range for walking basslines that you hear on songs like &#8220;Neon&#8221; by<strong> John Mayer</strong>.</p>
 
 
 
@@ -238,7 +238,7 @@ seo:
 
 
 
-<p>Baritone guitars have become very popular these days for guitarists that want the 7 string sound without having <a href="https://www.electrikjam.com/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="178757"><strong>7 string guitars</strong></a>. The standard tuning for a baritone is the same as a <a href="https://www.electrikjam.com/7-string-guitar-tuning/" data-lasso-id="251940">7 string,  B Standard</a>. You see lots of Prog Rock bands using baritone guitars these days.</p>
+<p>Baritone guitars have become very popular these days for guitarists that want the 7 string sound without having <a href="/schecter-demon-7-review/" data-type="post" data-id="5811" target="_blank" rel="noopener" data-lasso-id="178757"><strong>7 string guitars</strong></a>. The standard tuning for a baritone is the same as a <a href="/7-string-guitar-tuning/" data-lasso-id="251940">7 string,  B Standard</a>. You see lots of Prog Rock bands using baritone guitars these days.</p>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<p>But just to prove you wrong on that front, look at <strong><a href="https://www.electrikjam.com/baroness-stone-review/" data-lasso-id="249479">Baroness</a>, Deep Purple, Iron Maiden, and Tosin Abasi!</strong> <strong>Baroness</strong> have been playing Fender for a few years now, and they definitely get heavy. Tosin uses them all the time on his 8 string. But if using examples is not enough for you, then how about a demo? </p>
+<p>But just to prove you wrong on that front, look at <strong><a href="/baroness-stone-review/" data-lasso-id="249479">Baroness</a>, Deep Purple, Iron Maiden, and Tosin Abasi!</strong> <strong>Baroness</strong> have been playing Fender for a few years now, and they definitely get heavy. Tosin uses them all the time on his 8 string. But if using examples is not enough for you, then how about a demo? </p>
 
 
 
@@ -254,7 +254,7 @@ seo:
 
 
 
-<p>My signal chain for this demo was the black Baritone Telecaster going into my<strong> <a data-lasso-id="178758" href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener">STL Tones Amp Sim</a></strong>. Because these are single coils, you are going to want a tight noise gate. So that&#8217;s exactly what I used. The rig is: <strong>Baritone Telecaster>Scarlett Solo> ISP Decimator>Laptop>STL Tones Dual Rectifier>My own IR>All into<a data-lasso-id="178760" href="https://www.electrikjam.com/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener"> Reaper</a>.</strong> <strong>The first part is the <em>neck pickup</em>, the second is the <em>bridge pickup</em>.</strong></p>
+<p>My signal chain for this demo was the black Baritone Telecaster going into my<strong> <a data-lasso-id="178758" href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener">STL Tones Amp Sim</a></strong>. Because these are single coils, you are going to want a tight noise gate. So that&#8217;s exactly what I used. The rig is: <strong>Baritone Telecaster>Scarlett Solo> ISP Decimator>Laptop>STL Tones Dual Rectifier>My own IR>All into<a data-lasso-id="178760" href="/getting-started-with-reaper-daw/" data-type="post" data-id="7991" target="_blank" rel="noopener"> Reaper</a>.</strong> <strong>The first part is the <em>neck pickup</em>, the second is the <em>bridge pickup</em>.</strong></p>
 
 
 
@@ -276,11 +276,11 @@ seo:
 
 
 
-<p><strong>But why stop at B Standard?</strong> You could easily put this baritone Telecaster into <a href="https://www.electrikjam.com/cheap-8-string-guitar/" data-type="post" data-id="2516" target="_blank" rel="noopener" data-lasso-id="178761"><strong>8 string</strong></a> territory with some heavier strings (although Fender told us these were .014-.068), and a little bit of work on the nut. The nut is cut perfectly for the string gauges it comes with, but you can easily file the nut or replace it to tune to F#.</p>
+<p><strong>But why stop at B Standard?</strong> You could easily put this baritone Telecaster into <a href="/cheap-8-string-guitar/" data-type="post" data-id="2516" target="_blank" rel="noopener" data-lasso-id="178761"><strong>8 string</strong></a> territory with some heavier strings (although Fender told us these were .014-.068), and a little bit of work on the nut. The nut is cut perfectly for the string gauges it comes with, but you can easily file the nut or replace it to tune to F#.</p>
 
 
 
-<p>The neck is<em> absolutely perfect </em>for guitarists that just can&#8217;t get used to a 7 string neck. It feels very much like a skinnier version of the Player&#8217;s Stratocaster, and the Narrow Tall frets make the &#8220;metal&#8221; experience a little unique. You would usually find jumbo frets on a <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251947">7 string or 8 string guitar</a>, so this is a slightly more <strong>traditional </strong>feeling neck.</p>
+<p>The neck is<em> absolutely perfect </em>for guitarists that just can&#8217;t get used to a 7 string neck. It feels very much like a skinnier version of the Player&#8217;s Stratocaster, and the Narrow Tall frets make the &#8220;metal&#8221; experience a little unique. You would usually find jumbo frets on a <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251947">7 string or 8 string guitar</a>, so this is a slightly more <strong>traditional </strong>feeling neck.</p>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<p>Getting used to playing a baritone is not that hard, either. You would expect the extra length between the frets to throw you off, but you get used to the feel quickly. Now <a href="https://www.electrikjam.com/evh-the-5-best-budget-shredder-guitars/" target="_blank" data-type="post" data-id="9301" rel="noopener" data-lasso-id="178762"><strong>shredding</strong></a> on one of these is a different story, but for people with long fingers like myself, I have never had a hard time playing solos on a baritone. I own two right now, and<em> use them all the time</em>.</p>
+<p>Getting used to playing a baritone is not that hard, either. You would expect the extra length between the frets to throw you off, but you get used to the feel quickly. Now <a href="/evh-the-5-best-budget-shredder-guitars/" target="_blank" data-type="post" data-id="9301" rel="noopener" data-lasso-id="178762"><strong>shredding</strong></a> on one of these is a different story, but for people with long fingers like myself, I have never had a hard time playing solos on a baritone. I own two right now, and<em> use them all the time</em>.</p>
 
 
 
@@ -324,7 +324,7 @@ seo:
 
 
 
-<p>Squier Classic Vibe has never disappointed us before, and it looks like this lineup will keep getting more and more interesting. The <a href="https://www.electrikjam.com/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="178763"><strong>Contemporary Series</strong></a> might be aimed for metal guitarists, but this Classic Vibe can chug with the best of them. I think Squier knew this, and <em>that&#8217;s why we have the black model</em>.</p>
+<p>Squier Classic Vibe has never disappointed us before, and it looks like this lineup will keep getting more and more interesting. The <a href="/squier-contemporary-telecaster-review/" data-type="post" data-id="6277" target="_blank" rel="noopener" data-lasso-id="178763"><strong>Contemporary Series</strong></a> might be aimed for metal guitarists, but this Classic Vibe can chug with the best of them. I think Squier knew this, and <em>that&#8217;s why we have the black model</em>.</p>
 
 
 

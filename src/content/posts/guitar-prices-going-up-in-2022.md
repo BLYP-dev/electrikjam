@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>January is always an exciting time for guitarists. It doesn&#8217;t matter if you are a bedroom beginner, or a professional on the stage every night. The Winter <a href="https://www.electrikjam.com/jackson-2021-artist-models-new-old-and-unexpected/" target="_blank" data-type="post" data-id="1846" rel="noopener" data-lasso-id="48118"><strong>NAMM</strong> </a>show usually presents a sample of all of the newest models that are going to be available from the major companies. This allows each company to showcase the cool new guitars and gear that are being released. The most awesome part of this is that the public gets to check it out-live and up close. Famous guitarists demo new guitars/gear at NAMM, since it is a trade show for everything music related.</p>
+<p>January is always an exciting time for guitarists. It doesn&#8217;t matter if you are a bedroom beginner, or a professional on the stage every night. The Winter <a href="/jackson-2021-artist-models-new-old-and-unexpected/" target="_blank" data-type="post" data-id="1846" rel="noopener" data-lasso-id="48118"><strong>NAMM</strong> </a>show usually presents a sample of all of the newest models that are going to be available from the major companies. This allows each company to showcase the cool new guitars and gear that are being released. The most awesome part of this is that the public gets to check it out-live and up close. Famous guitarists demo new guitars/gear at NAMM, since it is a trade show for everything music related.</p>
 
 
 
@@ -52,19 +52,19 @@ seo:
 
 
 
-<p>With Covid 19 making it&#8217;s god-awful world tour, everything ground to a sudden halt. This includes guitar/gear manufacturers all over the world. Production had to stop<em> at the least</em> for a few weeks in the beginning of the pandemic, and some factories were closed for <em>months </em>at a time. This includes parts companies, and <a href="https://www.electrikjam.com/seymour-duncan-pearly-gates-reviews/" target="_blank" data-type="post" data-id="5085" rel="noopener" data-lasso-id="48119"><strong>pickup </strong></a>companies as well. Import companies like <a href="https://www.electrikjam.com/guitar-center-pxf-io-oe09ne/" target="_blank" data-type="lasso-urls" data-id="5331" rel="nofollow noopener" data-lasso-id="48120" data-lasso-name="Cort MBM-1 Signature"><strong>Cort </strong></a>and World Music Instruments (WMI LLC) were just as affected as the USA-based companies.</p>
+<p>With Covid 19 making it&#8217;s god-awful world tour, everything ground to a sudden halt. This includes guitar/gear manufacturers all over the world. Production had to stop<em> at the least</em> for a few weeks in the beginning of the pandemic, and some factories were closed for <em>months </em>at a time. This includes parts companies, and <a href="/seymour-duncan-pearly-gates-reviews/" target="_blank" data-type="post" data-id="5085" rel="noopener" data-lasso-id="48119"><strong>pickup </strong></a>companies as well. Import companies like <a href="/guitar-center-pxf-io-oe09ne/" target="_blank" data-type="lasso-urls" data-id="5331" rel="nofollow noopener" data-lasso-id="48120" data-lasso-name="Cort MBM-1 Signature"><strong>Cort </strong></a>and World Music Instruments (WMI LLC) were just as affected as the USA-based companies.</p>
 
 
 
-<p>So if you bought a new guitar in 2021, you might have waited for a little while, depending on the model you wanted to buy. Companies like <a href="https://www.electrikjam.com/schecter-guitars/" target="_blank" data-type="page" data-id="6499" rel="noopener" data-lasso-id="48121"><strong>Schecter</strong></a> had a few weeks of lead time on certain popular models. If you didn&#8217;t mind waiting for a few weeks, the guitars were being shipped as quickly as possible. This resulted in some great sales figures for most companies. However, one company saw a<em><strong> huge</strong></em> boom that has <em><strong>never</strong></em> been seen before in it&#8217;s 70 year history!</p>
+<p>So if you bought a new guitar in 2021, you might have waited for a little while, depending on the model you wanted to buy. Companies like <a href="/schecter-guitars/" target="_blank" data-type="page" data-id="6499" rel="noopener" data-lasso-id="48121"><strong>Schecter</strong></a> had a few weeks of lead time on certain popular models. If you didn&#8217;t mind waiting for a few weeks, the guitars were being shipped as quickly as possible. This resulted in some great sales figures for most companies. However, one company saw a<em><strong> huge</strong></em> boom that has <em><strong>never</strong></em> been seen before in it&#8217;s 70 year history!</p>
 
 
 
-<p>That&#8217;s right, <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" target="_blank" data-type="post" data-id="1475" rel="noopener" data-lasso-id="48122"><strong>Fender sold more </strong></a>guitars in 2020-2021 than <em>any other year </em>in the history of the company. This is probably because people started working from home, and they had more free time to learn how to play guitar as a new hobby. Fender is at the top when it comes to &#8220;brand recognition&#8221;. If you ask me, Fender might as well be the Coca-Cola of guitar brands. Everyone knows who Fender is, and everyone knows the famous<a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="48123"> <strong>Stratocaster</strong></a>. New players trust the brand name, and Fender&#8217;s rich history.</p>
+<p>That&#8217;s right, <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" target="_blank" data-type="post" data-id="1475" rel="noopener" data-lasso-id="48122"><strong>Fender sold more </strong></a>guitars in 2020-2021 than <em>any other year </em>in the history of the company. This is probably because people started working from home, and they had more free time to learn how to play guitar as a new hobby. Fender is at the top when it comes to &#8220;brand recognition&#8221;. If you ask me, Fender might as well be the Coca-Cola of guitar brands. Everyone knows who Fender is, and everyone knows the famous<a href="/the-best-fender-strat-alternative-in-2021/" target="_blank" data-type="post" data-id="3336" rel="noopener" data-lasso-id="48123"> <strong>Stratocaster</strong></a>. New players trust the brand name, and Fender&#8217;s rich history.</p>
 
 
 
-<p>While my business partner Richard <em>loves</em> Fender and <a href="https://www.electrikjam.com/epiphone-sg-standard-link/" target="_blank" data-type="lasso-urls" data-id="6259" rel="nofollow sponsored noopener" data-lasso-id="48124" data-lasso-name="Epiphone SG Standard"><strong>Epiphone</strong></a>, I am more of a<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-vyy2lj/" target="_blank" data-type="lasso-urls" data-id="4840" rel="nofollow noopener" data-lasso-id="48125" data-lasso-name="Schecter Sun Valley Super Shredder">Schecter</a></strong> and <a href="https://www.electrikjam.com/esp-deluxe-les-paul/" target="_blank" data-type="lasso-urls" data-id="4253" rel="nofollow noopener" data-lasso-id="48126" data-lasso-name="ESP LTD Deluxe"><strong>ESP</strong></a> guy. So it came as a surprise to see the enormous sales figures for Fender guitars during the pandemic. Fender may have had a record year, but this also means that Fender is now <em>hurting bad</em> for parts. In fact, back in the beginning of 2021, Fender recognized the problems it was facing for the future:</p>
+<p>While my business partner Richard <em>loves</em> Fender and <a href="/epiphone-sg-standard-link/" target="_blank" data-type="lasso-urls" data-id="6259" rel="nofollow sponsored noopener" data-lasso-id="48124" data-lasso-name="Epiphone SG Standard"><strong>Epiphone</strong></a>, I am more of a<strong> <a href="/guitar-center-pxf-io-vyy2lj/" target="_blank" data-type="lasso-urls" data-id="4840" rel="nofollow noopener" data-lasso-id="48125" data-lasso-name="Schecter Sun Valley Super Shredder">Schecter</a></strong> and <a href="/esp-deluxe-les-paul/" target="_blank" data-type="lasso-urls" data-id="4253" rel="nofollow noopener" data-lasso-id="48126" data-lasso-name="ESP LTD Deluxe"><strong>ESP</strong></a> guy. So it came as a surprise to see the enormous sales figures for Fender guitars during the pandemic. Fender may have had a record year, but this also means that Fender is now <em>hurting bad</em> for parts. In fact, back in the beginning of 2021, Fender recognized the problems it was facing for the future:</p>
 
 
 
@@ -100,7 +100,7 @@ seo:
 
 
 
-<p>And, if recent comments made by Fender CEO Andy Mooney are anything to go by, people shouldn’t expect stock shortage issues for guitars to resolve any time soon. This also spills over to amplifiers, live sound equipment, and effects pedals. Guitar amps use all kinds of circuitry these days, especially modelers like the <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener" data-lasso-id="48129"><strong>Mustang </strong></a>amp. These computer chips and capacitors are in short supply, just like the actual guitar parts.</p>
+<p>And, if recent comments made by Fender CEO Andy Mooney are anything to go by, people shouldn’t expect stock shortage issues for guitars to resolve any time soon. This also spills over to amplifiers, live sound equipment, and effects pedals. Guitar amps use all kinds of circuitry these days, especially modelers like the <a href="/fender-mustang-gtx-100-review/" target="_blank" data-type="post" data-id="6350" rel="noopener" data-lasso-id="48129"><strong>Mustang </strong></a>amp. These computer chips and capacitors are in short supply, just like the actual guitar parts.</p>
 
 
 
@@ -136,7 +136,7 @@ seo:
 
 
 
-<p>At the beginning of 2021, there was a 10% increase across the board for guitars and guitar gear. Now this is actually pretty normal practice when it comes to guitars. We usually see a price shift at the beginning of the year, and also the middle of the year during <a href="https://www.electrikjam.com/summer-namm-2022-our-1-picks-new-gear/" data-lasso-id="128856">Summer NAMM</a>. The pricing usually varies from company to company. The 10% increase from last year is pretty standard, if not a <em>little bit </em>higher than usual. <a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fmaxcarlislemusic%2F" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="48130"><strong>Guitar Max</strong></a> (Max Carlisle), a buddy of mine, explains this really well in his most recent video:</p>
+<p>At the beginning of 2021, there was a 10% increase across the board for guitars and guitar gear. Now this is actually pretty normal practice when it comes to guitars. We usually see a price shift at the beginning of the year, and also the middle of the year during <a href="/summer-namm-2022-our-1-picks-new-gear/" data-lasso-id="128856">Summer NAMM</a>. The pricing usually varies from company to company. The 10% increase from last year is pretty standard, if not a <em>little bit </em>higher than usual. <a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fmaxcarlislemusic%2F" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="48130"><strong>Guitar Max</strong></a> (Max Carlisle), a buddy of mine, explains this really well in his most recent video:</p>
 
 
 
@@ -154,11 +154,11 @@ seo:
 
 
 
-<p>Some models have seen 20% increases, while brands like Fender have leaned more towards 30% increases. That means that a guitar that was sitting in the $799.00 price bracket is almost $1000.00 now after you pay tax. There are a few budget brands that did not raise the prices quite as much, <a href="https://www.electrikjam.com/guitar-center-pxf-io-dvblr5/" target="_blank" data-type="lasso-urls" data-id="6058" rel="nofollow sponsored noopener" data-lasso-id="48131" data-lasso-name="Sire L7"><strong>such as Sire</strong></a>.</p>
+<p>Some models have seen 20% increases, while brands like Fender have leaned more towards 30% increases. That means that a guitar that was sitting in the $799.00 price bracket is almost $1000.00 now after you pay tax. There are a few budget brands that did not raise the prices quite as much, <a href="/guitar-center-pxf-io-dvblr5/" target="_blank" data-type="lasso-urls" data-id="6058" rel="nofollow sponsored noopener" data-lasso-id="48131" data-lasso-name="Sire L7"><strong>such as Sire</strong></a>.</p>
 
 
 
-<p><strong><em>But why?</em></strong> If this seems like price gouging to you, then you are right. There is a high demand for guitars and guitar gear right now since so many people have started playing. As a business, it makes sense that guitar prices are going up. The business is selling more guitars, and as long as <em>we are willing to pay the higher price</em>, the company will continue to sell guitars at that price. <strong>Inflation</strong> has caused the prices to soar with companies like <a href="https://www.electrikjam.com/https-guitar-center-pxf-io-rnrged/" target="_blank" data-type="lasso-urls" data-id="6075" rel="nofollow sponsored noopener" data-lasso-id="48132" data-lasso-name="Fender Player Series HSS"><strong>Fender</strong></a> and <a href="https://www.electrikjam.com/gibson-les-paul-standard-link/" target="_blank" data-type="lasso-urls" data-id="6443" rel="nofollow noopener" data-lasso-id="48133" data-lasso-name="Gibson Les Paul Standard &#039;60s"><strong>Gibson</strong></a>. </p>
+<p><strong><em>But why?</em></strong> If this seems like price gouging to you, then you are right. There is a high demand for guitars and guitar gear right now since so many people have started playing. As a business, it makes sense that guitar prices are going up. The business is selling more guitars, and as long as <em>we are willing to pay the higher price</em>, the company will continue to sell guitars at that price. <strong>Inflation</strong> has caused the prices to soar with companies like <a href="/https-guitar-center-pxf-io-rnrged/" target="_blank" data-type="lasso-urls" data-id="6075" rel="nofollow sponsored noopener" data-lasso-id="48132" data-lasso-name="Fender Player Series HSS"><strong>Fender</strong></a> and <a href="/gibson-les-paul-standard-link/" target="_blank" data-type="lasso-urls" data-id="6443" rel="nofollow noopener" data-lasso-id="48133" data-lasso-name="Gibson Les Paul Standard &#039;60s"><strong>Gibson</strong></a>. </p>
 
 
 
@@ -182,7 +182,7 @@ seo:
 
 
 
-<p>As a consumer, there are a few things that you can do to counteract these price increases. The first thing you can do, is start buying things that you absolutely need <em><strong>right now</strong></em>. We have tons of great buying guides <a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="48134"><strong>right here</strong></a> on our site, with up to date prices. If you were thinking that you need a new guitar or amp for the studio, now is the time to get it. Don&#8217;t hesitate to buy, because:</p>
+<p>As a consumer, there are a few things that you can do to counteract these price increases. The first thing you can do, is start buying things that you absolutely need <em><strong>right now</strong></em>. We have tons of great buying guides <a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="48134"><strong>right here</strong></a> on our site, with up to date prices. If you were thinking that you need a new guitar or amp for the studio, now is the time to get it. Don&#8217;t hesitate to buy, because:</p>
 
 
 
@@ -190,11 +190,11 @@ seo:
 
 
 
-<p>Usually, I would tell you not to worry about it too much because the used market is always an option. To my dismay, I have seen some people price gouging <a href="https://www.electrikjam.com/new-harley-benton-25th-anniversary-guitars/" data-lasso-id="227734">guitar models</a> that are in rare supply. We saw this happen with video game consoles last year, and it sucks to see people doing the same thing with guitars. This is late-stage capitalism, supply and demand are key.</p>
+<p>Usually, I would tell you not to worry about it too much because the used market is always an option. To my dismay, I have seen some people price gouging <a href="/new-harley-benton-25th-anniversary-guitars/" data-lasso-id="227734">guitar models</a> that are in rare supply. We saw this happen with video game consoles last year, and it sucks to see people doing the same thing with guitars. This is late-stage capitalism, supply and demand are key.</p>
 
 
 
-<p>So if you were thinking about buying anything, do it sooner rather than later. You might also keep in mind that compromise might be in order as well. Maybe you want a guitar in a particular color. Personally, I would take whatever plays well, regardless of the color if I were you. Hell, I just bought a bright <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="48135"><strong>pink guitar</strong></a> for myself! I would have preferred the green version of the<strong> <a href="https://www.electrikjam.com/guitar-center-pxf-io-xxo79y/" target="_blank" data-type="lasso-urls" data-id="5447" rel="nofollow sponsored noopener" data-lasso-id="48136" data-lasso-name="Schecter Nick Johnston HSS">Schecter Nick Johnston</a></strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-xxo79y/" target="_blank" data-type="lasso-urls" data-id="5447" rel="nofollow sponsored noopener" data-lasso-id="48137" data-lasso-name="Schecter Nick Johnston HSS"> </a>model, but they were sold out. Besides, the pink has really grown on me!</p>
+<p>So if you were thinking about buying anything, do it sooner rather than later. You might also keep in mind that compromise might be in order as well. Maybe you want a guitar in a particular color. Personally, I would take whatever plays well, regardless of the color if I were you. Hell, I just bought a bright <a href="/schecter-nick-johnston-hss-review/" target="_blank" data-type="post" data-id="6288" rel="noopener" data-lasso-id="48135"><strong>pink guitar</strong></a> for myself! I would have preferred the green version of the<strong> <a href="/guitar-center-pxf-io-xxo79y/" target="_blank" data-type="lasso-urls" data-id="5447" rel="nofollow sponsored noopener" data-lasso-id="48136" data-lasso-name="Schecter Nick Johnston HSS">Schecter Nick Johnston</a></strong><a href="/guitar-center-pxf-io-xxo79y/" target="_blank" data-type="lasso-urls" data-id="5447" rel="nofollow sponsored noopener" data-lasso-id="48137" data-lasso-name="Schecter Nick Johnston HSS"> </a>model, but they were sold out. Besides, the pink has really grown on me!</p>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<p>So if you need gear, now is the time to buy it. Especially products like amps, and <a href="https://www.electrikjam.com/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="48138"><strong>Line 6</strong> </a>modeling hardware. Since these use electronic components that are in short supply, you should buy them ASAP. Anything that uses processors and microchips is going to be hard to come by this next year. If you need it, then buy it now.</p>
+<p>So if you need gear, now is the time to buy it. Especially products like amps, and <a href="/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="48138"><strong>Line 6</strong> </a>modeling hardware. Since these use electronic components that are in short supply, you should buy them ASAP. Anything that uses processors and microchips is going to be hard to come by this next year. If you need it, then buy it now.</p>
 
 
 
@@ -230,7 +230,7 @@ seo:
 
 
 
-<p>Looking on the bright side: I think it is positively awesome that so many people took to guitar during the pandemic. Guitar is already the most popular instrument by a longshot. Fender released the demographics of the people that bought all of those <a href="https://www.electrikjam.com/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211735">guitars last year</a>, and the customer&#8217;s ages were between 16 and 34. I hope that means that in the next few years we see some great new guitar-centric bands! </p>
+<p>Looking on the bright side: I think it is positively awesome that so many people took to guitar during the pandemic. Guitar is already the most popular instrument by a longshot. Fender released the demographics of the people that bought all of those <a href="/how-many-years-does-it-take-to-learn-guitar/" data-lasso-id="211735">guitars last year</a>, and the customer&#8217;s ages were between 16 and 34. I hope that means that in the next few years we see some great new guitar-centric bands! </p>
 
 
 

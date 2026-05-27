@@ -152,7 +152,7 @@ seo:
 
 
 
-<p>Yeah, Gus is a buddy of mine and we talk pretty often, but it was his <em>music </em>that originally caught my attention. <strong><a href="https://www.electrikjam.com/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-type="post" data-id="1281" target="_blank" rel="noopener" data-lasso-id="233739">We have featured his band, SINARO</a></strong> before on our &#8220;Underexposed&#8221; series, and after doing a deep dive into their catalog, I was absolutely hooked.</p>
+<p>Yeah, Gus is a buddy of mine and we talk pretty often, but it was his <em>music </em>that originally caught my attention. <strong><a href="/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-type="post" data-id="1281" target="_blank" rel="noopener" data-lasso-id="233739">We have featured his band, SINARO</a></strong> before on our &#8220;Underexposed&#8221; series, and after doing a deep dive into their catalog, I was absolutely hooked.</p>
 
 
 
@@ -274,7 +274,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="233744">The Nick Johnston Schecter Signature Model </a></strong>has been a best-seller, and a lot of people bought the guitar having no idea who Nick was as a guitarist. This sparked a whole new slew of fans trying to figure out who he is, since they bought<em> his</em> guitar!</p>
+<p><strong><a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="233744">The Nick Johnston Schecter Signature Model </a></strong>has been a best-seller, and a lot of people bought the guitar having no idea who Nick was as a guitarist. This sparked a whole new slew of fans trying to figure out who he is, since they bought<em> his</em> guitar!</p>
 
 
 
@@ -322,7 +322,7 @@ seo:
 
 
 
-<p>Nili Brosh is perhaps not only one of the most underrated guitarists of the modern era, she is criminally underrated, <em>period</em>. I first heard of Nili when she was playing with Tony MacAlpine. If you don&#8217;t know that name, Tony was <strong><a href="https://www.electrikjam.com/the-ibanez-jem-777/" target="_blank" data-type="post" data-id="7392" rel="noopener" data-lasso-id="233747">Steve Vai&#8217;s guitarist</a></strong> on stage for quite a while.</p>
+<p>Nili Brosh is perhaps not only one of the most underrated guitarists of the modern era, she is criminally underrated, <em>period</em>. I first heard of Nili when she was playing with Tony MacAlpine. If you don&#8217;t know that name, Tony was <strong><a href="/the-ibanez-jem-777/" target="_blank" data-type="post" data-id="7392" rel="noopener" data-lasso-id="233747">Steve Vai&#8217;s guitarist</a></strong> on stage for quite a while.</p>
 
 
 

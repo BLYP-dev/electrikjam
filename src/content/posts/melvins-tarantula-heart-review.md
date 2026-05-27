@@ -114,11 +114,11 @@ seo:
 
 
 
-<p>At this point, a <strong><a href="https://www.electrikjam.com/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="265110">band like the Melvins </a></strong>are literally their own genre. If you play guitar in a heavy band, you know a Melvins riff or two. Hell, they might have even taught you how to tune to Drop D!</p>
+<p>At this point, a <strong><a href="/90s-metal-bands/" data-type="post" data-id="4108" data-lasso-id="265110">band like the Melvins </a></strong>are literally their own genre. If you play guitar in a heavy band, you know a Melvins riff or two. Hell, they might have even taught you how to tune to Drop D!</p>
 
 
 
-<p>I know that was what happened to me, at the age of 16. I sat down with a copy of the underappreciated <em>Stoner Witch</em> and tuned my guitar down to <strong><a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-type="post" data-id="7410" data-lasso-id="265111">Drop D</a></strong> so I could learn the songs.</p>
+<p>I know that was what happened to me, at the age of 16. I sat down with a copy of the underappreciated <em>Stoner Witch</em> and tuned my guitar down to <strong><a href="/best-strings-for-drop-d-tuning/" data-type="post" data-id="7410" data-lasso-id="265111">Drop D</a></strong> so I could learn the songs.</p>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<p>Over time, the Melvins transcended the whole &#8220;Seattle Scene&#8221; label, and became more of a legend in the pantheon of Rock/Metal. We have covered a lot of topics about King Buzzo, <strong><a href="https://www.electrikjam.com/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="265112">starting at the beginning</a></strong>.</p>
+<p>Over time, the Melvins transcended the whole &#8220;Seattle Scene&#8221; label, and became more of a legend in the pantheon of Rock/Metal. We have covered a lot of topics about King Buzzo, <strong><a href="/buzz-osbornes-guitar-rig-35-years-of-evolution/" data-type="post" data-id="1565" data-lasso-id="265112">starting at the beginning</a></strong>.</p>
 
 
 

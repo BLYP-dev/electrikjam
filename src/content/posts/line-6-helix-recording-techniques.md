@@ -43,11 +43,11 @@ seo:
 
 
 
-<p><strong>Note: As of November 3rd 2002, the Helix has had a massive update that changes a little bit of everything! You definitely want to check out the <a href="https://www.electrikjam.com/line-6-3-50-update-explained/" target="_blank" rel="noopener" data-lasso-id="197577">Line 6 3.50 update</a>!</strong></p>
+<p><strong>Note: As of November 3rd 2002, the Helix has had a massive update that changes a little bit of everything! You definitely want to check out the <a href="/line-6-3-50-update-explained/" target="_blank" rel="noopener" data-lasso-id="197577">Line 6 3.50 update</a>!</strong></p>
 
 
 
-<p>It has officially been 4 years since the Line 6 Helix hit the market, and with several updates, it has remained one of the best options for being your<span class="has-inline-color has-vivid-purple-color"> <a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" target="_blank" data-type="post" data-id="3927" rel="noopener" data-lasso-id="4144"><strong>all in one</strong></a></span><a href="https://www.electrikjam.com/line-6-helix-reviews-is-it-worth-it/" target="_blank" data-type="post" data-id="3927" rel="noopener" data-lasso-id="4145"><strong> </strong></a>tone library. While the Helix definitely has some steep competition out from much more <strong><a href="https://www.electrikjam.com/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="4146">affordable brands</a></strong>, it still remains the <em>best</em> example of what amp modeling and effects can be.</p>
+<p>It has officially been 4 years since the Line 6 Helix hit the market, and with several updates, it has remained one of the best options for being your<span class="has-inline-color has-vivid-purple-color"> <a href="/line-6-helix-reviews-is-it-worth-it/" target="_blank" data-type="post" data-id="3927" rel="noopener" data-lasso-id="4144"><strong>all in one</strong></a></span><a href="/line-6-helix-reviews-is-it-worth-it/" target="_blank" data-type="post" data-id="3927" rel="noopener" data-lasso-id="4145"><strong> </strong></a>tone library. While the Helix definitely has some steep competition out from much more <strong><a href="/mooer-ge150-vs-zoom-a1x/" target="_blank" data-type="post" data-id="617" rel="noopener" data-lasso-id="4146">affordable brands</a></strong>, it still remains the <em>best</em> example of what amp modeling and effects can be.</p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>One of the biggest attractions of the Line 6 helix comes in the form of massive in/out options on the rear of the unit. There are several different ways to record with the Helix, and today we are going to take a look at a few of them. Some of the Line 6 Helix recording techniques are <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-lasso-id="102920">way beyond intermediate level</a>, and we will try to take a look at those as well, in the simplest way possible. Others are beyond my pay grade and knowledge.</p>
+<p>One of the biggest attractions of the Line 6 helix comes in the form of massive in/out options on the rear of the unit. There are several different ways to record with the Helix, and today we are going to take a look at a few of them. Some of the Line 6 Helix recording techniques are <a href="/beginner-music-theory-for-guitarists/" data-lasso-id="102920">way beyond intermediate level</a>, and we will try to take a look at those as well, in the simplest way possible. Others are beyond my pay grade and knowledge.</p>
 
 
 
@@ -79,7 +79,7 @@ seo:
 
 
 
-<p>If you have a home studio, you probably have an <a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" target="_blank" data-type="post" data-id="1193" rel="noopener" data-lasso-id="4147"><strong>interface</strong></a> that you use to record instruments. I personally use the <a href="https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="4148"><strong>Focusrite Scarlett 2i2</strong></a>, and I have used this interface for the last decade, almost. It has two inputs, and personally&#8230;that&#8217;s all I need. </p>
+<p>If you have a home studio, you probably have an <a href="/how-to-record-electric-guitar-at-home-guide/" target="_blank" data-type="post" data-id="1193" rel="noopener" data-lasso-id="4147"><strong>interface</strong></a> that you use to record instruments. I personally use the <a href="https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="4148"><strong>Focusrite Scarlett 2i2</strong></a>, and I have used this interface for the last decade, almost. It has two inputs, and personally&#8230;that&#8217;s all I need. </p>
 
 
 
@@ -127,11 +127,11 @@ seo:
 
 
 
-<p>The second issue, is the track that you record is just&#8230;there. It has all of the effects/amp sims running directly from your Helix. This means that you cannot re-amp a track using a dry signal. You CAN do this with the USB input method. So it is something to consider, if you often take a raw track and re-amp it with another<a data-lasso-id="4149" href="https://www.electrikjam.com/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener"> <strong>plug-in</strong></a>.</p>
+<p>The second issue, is the track that you record is just&#8230;there. It has all of the effects/amp sims running directly from your Helix. This means that you cannot re-amp a track using a dry signal. You CAN do this with the USB input method. So it is something to consider, if you often take a raw track and re-amp it with another<a data-lasso-id="4149" href="/expensive-amp-simulators/" target="_blank" data-type="post" data-id="2801" rel="noopener"> <strong>plug-in</strong></a>.</p>
 
 
 
-<p>If you are just starting out, this is my recommended method out of all of the <a href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-lasso-id="6829">Line 6 Helix</a> recording techniques. But if you want to do a deep dive, there are other ways to record with your Helix.</p>
+<p>If you are just starting out, this is my recommended method out of all of the <a href="/line-6-pod-go-reviews/" data-lasso-id="6829">Line 6 Helix</a> recording techniques. But if you want to do a deep dive, there are other ways to record with your Helix.</p>
 
 
 
@@ -151,11 +151,11 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/are-line-6-guitar-amps-bad/" data-lasso-id="18314">Line 6 Helix has tons of amp</a> sims, cabinets, effects, and different ways of programming. But this is not it&#8217;s only appeal. When Line 6 designed the Helix, it was made to be more than just a floor processor that can do a little bit of everything.</p>
+<p>The <a href="/are-line-6-guitar-amps-bad/" data-lasso-id="18314">Line 6 Helix has tons of amp</a> sims, cabinets, effects, and different ways of programming. But this is not it&#8217;s only appeal. When Line 6 designed the Helix, it was made to be more than just a floor processor that can do a little bit of everything.</p>
 
 
 
-<p><strong>The <a href="https://www.electrikjam.com/line-6-helix-lt-reviews/" data-lasso-id="6236">Line 6 Helix</a> is an audio interface, itself.</strong></p>
+<p><strong>The <a href="/line-6-helix-lt-reviews/" data-lasso-id="6236">Line 6 Helix</a> is an audio interface, itself.</strong></p>
 
 
 
@@ -223,7 +223,7 @@ seo:
 
 
 
-<p>As mentioned earlier, you can also use the <a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-lasso-id="8622">Helix as a &#8220;Line</a> In&#8221; to record vocals or keyboards. You can use either the 1/4&#8221; input, the XLR, or the AUX input to achieve this. If you want to do this, it&#8217;s pretty easy to access. Just follow these steps in your DAW with HX Edit:</p>
+<p>As mentioned earlier, you can also use the <a href="/is-line-6-helix-easy-to-use/" data-lasso-id="8622">Helix as a &#8220;Line</a> In&#8221; to record vocals or keyboards. You can use either the 1/4&#8221; input, the XLR, or the AUX input to achieve this. If you want to do this, it&#8217;s pretty easy to access. Just follow these steps in your DAW with HX Edit:</p>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<p>This way, you can record vocals or other instruments with the Helix, but totally on your own terms. Maybe you want to use the <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-lasso-id="10424">Helix to add reverb or distortion to the &#8220;Line</a> In&#8221; signal. You can do that!</p>
+<p>This way, you can record vocals or other instruments with the Helix, but totally on your own terms. Maybe you want to use the <a href="/what-is-a-line-6-helix/" data-lasso-id="10424">Helix to add reverb or distortion to the &#8220;Line</a> In&#8221; signal. You can do that!</p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p>The oldest way of <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-lasso-id="9524">recording electric guitar</a>, is taking a microphone and setting it in front of a speaker. Most people that record with physical amps do this, and it gives a different dynamic to the sound of your guitar/rig. You get not just your guitar and amp sounds, but also<strong> ambient room sounds</strong>. There are tons of techniques when it comes to mic&#8217;ing up a <a href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4472">speaker cabinet</a>. It is almost an art in itself.</p>
+<p>The oldest way of <a href="/must-have-for-recording-guitar/" data-lasso-id="9524">recording electric guitar</a>, is taking a microphone and setting it in front of a speaker. Most people that record with physical amps do this, and it gives a different dynamic to the sound of your guitar/rig. You get not just your guitar and amp sounds, but also<strong> ambient room sounds</strong>. There are tons of techniques when it comes to mic&#8217;ing up a <a href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-lasso-id="4472">speaker cabinet</a>. It is almost an art in itself.</p>
 
 
 
@@ -271,7 +271,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/frfr-speaker-impedance-explained-understanding-the-basics/" data-lasso-id="218897">FRFR stands for <strong>&#8220;Full Range and Flat Response&#8221;.</strong> This means that the speaker</a> can handle any type of frequency or tones fed into from an audio source. Think of it as a blank chalkboard, there&#8217;s nothing affecting the sound that goes into it. No preamp, and no special speaker response.</p>
+<p><a href="/frfr-speaker-impedance-explained-understanding-the-basics/" data-lasso-id="218897">FRFR stands for <strong>&#8220;Full Range and Flat Response&#8221;.</strong> This means that the speaker</a> can handle any type of frequency or tones fed into from an audio source. Think of it as a blank chalkboard, there&#8217;s nothing affecting the sound that goes into it. No preamp, and no special speaker response.</p>
 
 
 
@@ -279,11 +279,11 @@ seo:
 
 
 
-<p>The Helix comes with tons of speaker sims built in to choose from, and that&#8217;s where the FRFR cab really shines. The Helix <a href="https://www.electrikjam.com/best-frfr-guitar-speaker-under-300/" data-lasso-id="77728">connects directly to the FRFR</a>, and you don&#8217;t need any other source of power. These FRFR cabs can be <strong>250 watts </strong>of power, which is more than you<em> will ever need.</em> This little cab can sound like a 1X12 or a full Marshall stack, depending on your Helix settings for whatever patch you are using.</p>
+<p>The Helix comes with tons of speaker sims built in to choose from, and that&#8217;s where the FRFR cab really shines. The Helix <a href="/best-frfr-guitar-speaker-under-300/" data-lasso-id="77728">connects directly to the FRFR</a>, and you don&#8217;t need any other source of power. These FRFR cabs can be <strong>250 watts </strong>of power, which is more than you<em> will ever need.</em> This little cab can sound like a 1X12 or a full Marshall stack, depending on your Helix settings for whatever patch you are using.</p>
 
 
 
-<p>This makes an FRFR essential for anyone that wants to use their Line 6 Helix in a live setting with a band. It works just like a <a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-lasso-id="88404">guitar speaker</a> cab, but instead of having an amplifier, you use the Helix for all of your sounds. You can also hook the Helix up directly to the mixing board at a venue. But some venues might not have that option. This is where an FRFR cab will come in handy.</p>
+<p>This makes an FRFR essential for anyone that wants to use their Line 6 Helix in a live setting with a band. It works just like a <a href="/installing-a-speaker-upgrade/" data-lasso-id="88404">guitar speaker</a> cab, but instead of having an amplifier, you use the Helix for all of your sounds. You can also hook the Helix up directly to the mixing board at a venue. But some venues might not have that option. This is where an FRFR cab will come in handy.</p>
 
 
 
@@ -299,7 +299,7 @@ seo:
 
 
 
-<p>Line 6 really didn&#8217;t leave anything out when it designed the Helix. It can cover any genre of music, and take the place of your entire live rig. It can also be intergraded into your existing rig as an <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184901">effects unit</a>. This makes the Helix an amazing ally to anyone that plays live shows.</p>
+<p>Line 6 really didn&#8217;t leave anything out when it designed the Helix. It can cover any genre of music, and take the place of your entire live rig. It can also be intergraded into your existing rig as an <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184901">effects unit</a>. This makes the Helix an amazing ally to anyone that plays live shows.</p>
 
 
 

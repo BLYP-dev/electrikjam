@@ -61,7 +61,7 @@ seo:
 
 
 
-<p>The SG – now available in many iterations – is a rock-solid guitar for metal and any other form of rock music. Used by everyone from Angus Young to <strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" data-type="post" data-id="937" data-lasso-id="254684">Chino Moreno of the Deftones</a></strong>, the SG is a killer axe that delivers spades of tone. </p>
+<p>The SG – now available in many iterations – is a rock-solid guitar for metal and any other form of rock music. Used by everyone from Angus Young to <strong><a href="/what-guitar-does-chino-moreno-play/" data-type="post" data-id="937" data-lasso-id="254684">Chino Moreno of the Deftones</a></strong>, the SG is a killer axe that delivers spades of tone. </p>
 
 
 
@@ -83,15 +83,15 @@ seo:
 
 
 <ul class="wp-block-list">
-<li>🔥 <strong>The Exact Model:</strong> <strong><a href="https://www.electrikjam.com/gibson-tony-iommi-sg-special-electric-guitar-vintage-cherry-guitar-center/" data-type="lasso-urls" data-id="13323" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254685" data-lasso-name="Gibson Tony Iommi SG Special">1964 Gibson SG Special Reissue &#8211; $2,299</a></strong></li>
+<li>🔥 <strong>The Exact Model:</strong> <strong><a href="/gibson-tony-iommi-sg-special-electric-guitar-vintage-cherry-guitar-center/" data-type="lasso-urls" data-id="13323" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254685" data-lasso-name="Gibson Tony Iommi SG Special">1964 Gibson SG Special Reissue &#8211; $2,299</a></strong></li>
 
 
 
-<li>✅ <strong>Cheapest Alternative:</strong> <strong><a href="https://www.electrikjam.com/epiphone-sg-special-satin-e1-electric-guitar-ebony-guitar-center/" data-type="lasso-urls" data-id="13240" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254686" data-lasso-name="Epiphone SG Special">Epiphone SG Special &#8211; $179 </a></strong></li>
+<li>✅ <strong>Cheapest Alternative:</strong> <strong><a href="/epiphone-sg-special-satin-e1-electric-guitar-ebony-guitar-center/" data-type="lasso-urls" data-id="13240" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254686" data-lasso-name="Epiphone SG Special">Epiphone SG Special &#8211; $179 </a></strong></li>
 
 
 
-<li>💵 <strong>Intermediate Option: <a href="https://www.electrikjam.com/epiphone-sg-standard-electric-guitar-cherry-guitar-center/" data-type="lasso-urls" data-id="13329" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254687" data-lasso-name="Epiphone SG Standard">Epiphone SG Standard – $499</a></strong></li>
+<li>💵 <strong>Intermediate Option: <a href="/epiphone-sg-standard-electric-guitar-cherry-guitar-center/" data-type="lasso-urls" data-id="13329" rel="nofollow sponsored noopener" target="_blank" data-lasso-id="254687" data-lasso-name="Epiphone SG Standard">Epiphone SG Standard – $499</a></strong></li>
 </ul>
 </div></div>
 
@@ -163,7 +163,7 @@ seo:
 
 
 
-<p>After a <strong><a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="254688">tragic industrial accident </a></strong>that cost him the tips of two fingers, Iommi faced a daunting challenge in playing the guitar. The SG, with its thinner, sculpted body, was a game-changer for him. It&#8217;s lighter, reducing the strain on his fretting hand, which is crucial for someone adapting to such an injury.</p>
+<p>After a <strong><a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="254688">tragic industrial accident </a></strong>that cost him the tips of two fingers, Iommi faced a daunting challenge in playing the guitar. The SG, with its thinner, sculpted body, was a game-changer for him. It&#8217;s lighter, reducing the strain on his fretting hand, which is crucial for someone adapting to such an injury.</p>
 
 
 
@@ -175,7 +175,7 @@ seo:
 
 
 
-<p>The dual <strong><a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="254689">humbucker pickups</a></strong> are another key feature. They&#8217;re designed to cancel out interference and noise, providing a cleaner, richer sound. </p>
+<p>The dual <strong><a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="254689">humbucker pickups</a></strong> are another key feature. They&#8217;re designed to cancel out interference and noise, providing a cleaner, richer sound. </p>
 
 
 

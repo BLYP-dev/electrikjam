@@ -57,7 +57,7 @@ seo:
 
 
 <ul class="wp-block-list">
-<li>🎹 Ableton Live is a powerful <strong><a href="https://www.electrikjam.com/category/daws/daw-platforms/" data-lasso-id="264084">DAW</a></strong> that combines traditional audio recording with innovative production and performance features. 🎧</li>
+<li>🎹 Ableton Live is a powerful <strong><a href="/category/daws/daw-platforms/" data-lasso-id="264084">DAW</a></strong> that combines traditional audio recording with innovative production and performance features. 🎧</li>
 
 
 
@@ -197,7 +197,7 @@ seo:
 
 
 
-<p>Ableton Live saw what other companies were doing, <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="248105">like Cubase</a></strong>, and took that idea to a new level for live performance focus. In 2001, there were many options for DAW platforms that were all basically doing the same thing with virtual multitrack recording. </p>
+<p>Ableton Live saw what other companies were doing, <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="248105">like Cubase</a></strong>, and took that idea to a new level for live performance focus. In 2001, there were many options for DAW platforms that were all basically doing the same thing with virtual multitrack recording. </p>
 
 
 

@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>The Spider was released in several different forms. You had the smallest<a href="https://www.electrikjam.com/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="18301"> <strong>practice amp</strong></a> style, all the way up to a full stack setup. These had tons of built in effects and features, along with what made Line 6 famous in the first place: <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254846">Amp modeling</a>. But somewhere along the line, the Spider series became a joke. It became a huge meme that circled around the <a href="https://www.electrikjam.com/are-indio-guitars-legit/" data-lasso-id="19075">guitar communities on the internet</a>.</p>
+<p>The Spider was released in several different forms. You had the smallest<a href="/best-practice-amps-for-beginners/" target="_blank" data-type="post" data-id="532" rel="noopener" data-lasso-id="18301"> <strong>practice amp</strong></a> style, all the way up to a full stack setup. These had tons of built in effects and features, along with what made Line 6 famous in the first place: <a href="/neural-amp-modeler/" data-lasso-id="254846">Amp modeling</a>. But somewhere along the line, the Spider series became a joke. It became a huge meme that circled around the <a href="/are-indio-guitars-legit/" data-lasso-id="19075">guitar communities on the internet</a>.</p>
 
 
 
@@ -59,7 +59,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="18302"><strong>Line 6</strong></a> is the go-to brand for effects processors these days. The <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener" data-lasso-id="18303"><strong>Helix</strong></a> has redefined what a guitar processor can be, and people are ditching the old-school guitar amp setups in favor of the Helix for live use. These are pro products, and they carry a &#8220;pro pricetag&#8221;. But that&#8217;s because these are serious pieces of equipment. The whole<a href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" target="_blank" data-type="post" data-id="4918" rel="noopener" data-lasso-id="18304"> <strong>HX Series</strong></a> is serious pro gear being used on albums and in studios<em> every day.</em></p>
+<p><a href="/line-6/" target="_blank" data-type="page" data-id="4586" rel="noopener" data-lasso-id="18302"><strong>Line 6</strong></a> is the go-to brand for effects processors these days. The <a href="/what-is-a-line-6-helix/" target="_blank" data-type="post" data-id="4926" rel="noopener" data-lasso-id="18303"><strong>Helix</strong></a> has redefined what a guitar processor can be, and people are ditching the old-school guitar amp setups in favor of the Helix for live use. These are pro products, and they carry a &#8220;pro pricetag&#8221;. But that&#8217;s because these are serious pieces of equipment. The whole<a href="/is-line-6-hx-stomp-worth-it/" target="_blank" data-type="post" data-id="4918" rel="noopener" data-lasso-id="18304"> <strong>HX Series</strong></a> is serious pro gear being used on albums and in studios<em> every day.</em></p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>But are Line 6 <a href="https://www.electrikjam.com/guitar-amp-controls-explained/" data-lasso-id="149207">guitar amps</a> bad? Well, the price certainly doesn&#8217;t help the case. The Spider amps are the cheapest products in the Line 6 lineup these days. Nine times out of ten, we associate products that seem like &#8220;too good to be true&#8221; as a rip off. That&#8217;s a fair assumption. But is the Spider really as bad as everyone says it is?</p>
+<p>But are Line 6 <a href="/guitar-amp-controls-explained/" data-lasso-id="149207">guitar amps</a> bad? Well, the price certainly doesn&#8217;t help the case. The Spider amps are the cheapest products in the Line 6 lineup these days. Nine times out of ten, we associate products that seem like &#8220;too good to be true&#8221; as a rip off. That&#8217;s a fair assumption. But is the Spider really as bad as everyone says it is?</p>
 
 
 
@@ -87,11 +87,11 @@ seo:
 
 
 
-<p>The original Line 6 Spider <em>was </em>pretty bad, I can&#8217;t lie to you. These came out in the mid 2000&#8217;s and they were pretty shoddy. But you have to think,<em> all modeling </em>technology back then was pretty shoddy. It wasn&#8217;t just Line 6, it was every company in the industry trying to make it work. Even <a href="https://www.electrikjam.com/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="18305"><strong>BOSS</strong></a> put out some pretty bad products back then. So did <a href="https://www.electrikjam.com/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="18306"><strong>Fender</strong></a>!</p>
+<p>The original Line 6 Spider <em>was </em>pretty bad, I can&#8217;t lie to you. These came out in the mid 2000&#8217;s and they were pretty shoddy. But you have to think,<em> all modeling </em>technology back then was pretty shoddy. It wasn&#8217;t just Line 6, it was every company in the industry trying to make it work. Even <a href="/boss-katana-50-reviews/" target="_blank" data-type="post" data-id="3601" rel="noopener" data-lasso-id="18305"><strong>BOSS</strong></a> put out some pretty bad products back then. So did <a href="/fender/" target="_blank" data-type="page" data-id="3818" rel="noopener" data-lasso-id="18306"><strong>Fender</strong></a>!</p>
 
 
 
-<p>If you would have asked me back then, are Line 6 <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-lasso-id="155187">guitar amps</a> bad&#8230;I would have absolutely said <strong>yes.</strong> But there has been a long time between then and now, and the technology on the Line 6 Spider has been updated a lot. I think it is rather unfair to think that the current Spider V Series is the same as they were way back then.</p>
+<p>If you would have asked me back then, are Line 6 <a href="/how-to-mic-a-guitar-amp/" data-lasso-id="155187">guitar amps</a> bad&#8230;I would have absolutely said <strong>yes.</strong> But there has been a long time between then and now, and the technology on the Line 6 Spider has been updated a lot. I think it is rather unfair to think that the current Spider V Series is the same as they were way back then.</p>
 
 
 
@@ -111,7 +111,7 @@ seo:
 
 
 
-<p>You also have the usual practice amp features. There is a drum machine, and built in looper that you can use to practice with. You also have an AUX-In plug that allows you to play songs from another device to jam along to (Like your Cell Phone). These are all cool features but I think things like the<strong> <a href="https://www.electrikjam.com/best-guitar-gear/" target="_blank" data-type="page" data-id="2760" rel="noopener" data-lasso-id="18308">Spark Amp</a></strong> does it <em>way </em>better and has better options.</p>
+<p>You also have the usual practice amp features. There is a drum machine, and built in looper that you can use to practice with. You also have an AUX-In plug that allows you to play songs from another device to jam along to (Like your Cell Phone). These are all cool features but I think things like the<strong> <a href="/best-guitar-gear/" target="_blank" data-type="page" data-id="2760" rel="noopener" data-lasso-id="18308">Spark Amp</a></strong> does it <em>way </em>better and has better options.</p>
 
 
 
@@ -127,7 +127,7 @@ seo:
 
 
 
-<p>The clean tones are very rich, and you have quite a few amp styles. Included are Fender Tweed amp sounds, Modern Cleans, and more <a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36079">British focused sounds like a Vox AC30</a>. These sound really great with a little bit of reverb, and delay. Do they compare to the Helix? <em>Absolutely not</em>. They are not as varied or rich, but that is to be expected with a budget product.</p>
+<p>The clean tones are very rich, and you have quite a few amp styles. Included are Fender Tweed amp sounds, Modern Cleans, and more <a href="/why-the-beatles-only-ever-used-vox-amps/" data-lasso-id="36079">British focused sounds like a Vox AC30</a>. These sound really great with a little bit of reverb, and delay. Do they compare to the Helix? <em>Absolutely not</em>. They are not as varied or rich, but that is to be expected with a budget product.</p>
 
 
 
@@ -135,11 +135,11 @@ seo:
 
 
 
-<p>The effects are just&#8230;ok. The delays and reverbs were actually really well done, but some of the other effects are certainly lacking. Things like tremolo, and auto wah are just superfluous, since they really can&#8217;t be controlled by tap tempo without the foot pedal-that is not included. The octave effects and pitch bends are all very usable as well. Everything is pretty great actually! Even the <a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" target="_blank" data-type="post" data-id="1153" rel="noopener" data-lasso-id="18309"><strong>Fuzz </strong></a>tones, which are hard to get sounding right on a digital amp!</p>
+<p>The effects are just&#8230;ok. The delays and reverbs were actually really well done, but some of the other effects are certainly lacking. Things like tremolo, and auto wah are just superfluous, since they really can&#8217;t be controlled by tap tempo without the foot pedal-that is not included. The octave effects and pitch bends are all very usable as well. Everything is pretty great actually! Even the <a href="/best-guitar-pedals-for-doom-metal/" target="_blank" data-type="post" data-id="1153" rel="noopener" data-lasso-id="18309"><strong>Fuzz </strong></a>tones, which are hard to get sounding right on a digital amp!</p>
 
 
 
-<p>To my experienced ears, there are tons of <a href="https://www.electrikjam.com/the-5-best-cheap-amps-you-can-gig-with/" data-lasso-id="54183">tones to be found with this little amp</a>! For a beginner, you might be overwhelmed by how many cool sounds you can get out of the Line 6 Spider. This is also a great practice buddy, with lots of good presets and tools that will keep you jamming!</p>
+<p>To my experienced ears, there are tons of <a href="/the-5-best-cheap-amps-you-can-gig-with/" data-lasso-id="54183">tones to be found with this little amp</a>! For a beginner, you might be overwhelmed by how many cool sounds you can get out of the Line 6 Spider. This is also a great practice buddy, with lots of good presets and tools that will keep you jamming!</p>
 
 
 

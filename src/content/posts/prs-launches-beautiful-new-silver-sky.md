@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>PRS seems to have an interesting way of updating the main guitar lineups. For example,<strong><a href="https://www.electrikjam.com/prs-se-mark-holcomb-guitars-review/" target="_blank" data-type="post" data-id="10308" rel="noopener" data-lasso-id="241628"> PRS released the new Mark Holcomb</a></strong> earlier this year, and the only change was the finish and the pickups. However, both of those features were issues with customers.</p>
+<p>PRS seems to have an interesting way of updating the main guitar lineups. For example,<strong><a href="/prs-se-mark-holcomb-guitars-review/" target="_blank" data-type="post" data-id="10308" rel="noopener" data-lasso-id="241628"> PRS released the new Mark Holcomb</a></strong> earlier this year, and the only change was the finish and the pickups. However, both of those features were issues with customers.</p>
 
 
 
@@ -54,11 +54,11 @@ seo:
 
 
 
-<p>We even<strong><a href="https://www.electrikjam.com/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="241629"> got to review the new Silver Sky SE models</a></strong>, and I was thoroughly impressed with the guitars. It played like a much more expensive guitar, and it really blew Fender guitars in the same price range out of the water.</p>
+<p>We even<strong><a href="/prs-se-silver-sky-review-2022/" data-type="post" data-id="6543" target="_blank" rel="noopener" data-lasso-id="241629"> got to review the new Silver Sky SE models</a></strong>, and I was thoroughly impressed with the guitars. It played like a much more expensive guitar, and it really blew Fender guitars in the same price range out of the water.</p>
 
 
 
-<p>In fact, PRS has really tightened up QC by <strong><a href="https://youtu.be/LuEYe5HMyAM" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="241630">building its own section of the PT Cort plant in Indonesia</a></strong>, from the ground up. That means more attention goes into every model of the SE lineup, and the guitars really speak for themselves at this point. It <strong><a href="https://www.electrikjam.com/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="241631">may be a budget guitar</a></strong>, but it has some serious <em>class</em>.</p>
+<p>In fact, PRS has really tightened up QC by <strong><a href="https://youtu.be/LuEYe5HMyAM" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="241630">building its own section of the PT Cort plant in Indonesia</a></strong>, from the ground up. That means more attention goes into every model of the SE lineup, and the guitars really speak for themselves at this point. It <strong><a href="/best-budget-guitars/" data-type="page" data-id="6235" target="_blank" rel="noopener" data-lasso-id="241631">may be a budget guitar</a></strong>, but it has some serious <em>class</em>.</p>
 
 
 
@@ -212,7 +212,7 @@ seo:
 
 
 
-<p>Two years ago we were <strong><a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="241632">blown away by the Schecter Nick Johnston</a></strong>, and then came the new Silver Sky just a few months later. Sure, you can call these guitars a &#8220;Strat&#8221; if you want, but the price tag is much lower than a Fender. The quality is spectacular, as well. Budget guitars are catching up to the bigger companies, at a scary rate.</p>
+<p>Two years ago we were <strong><a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="241632">blown away by the Schecter Nick Johnston</a></strong>, and then came the new Silver Sky just a few months later. Sure, you can call these guitars a &#8220;Strat&#8221; if you want, but the price tag is much lower than a Fender. The quality is spectacular, as well. Budget guitars are catching up to the bigger companies, at a scary rate.</p>
 
 
 
@@ -224,7 +224,7 @@ seo:
 
 
 
-<p>The PRS Silver Sky is a killer deal for anyone that wants a Strat, but doesn&#8217;t exactly want a Fender. Some people use Fender because they are a legacy company, but these other companies are giving updated features for the same money or less.<strong><a href="https://www.electrikjam.com/the-gibson-brand-may-be-in-trouble/" target="_blank" data-type="post" data-id="12054" rel="noopener" data-lasso-id="241633"> I feel like Gibson could also take some notes</a></strong>, but that&#8217;s a different story.</p>
+<p>The PRS Silver Sky is a killer deal for anyone that wants a Strat, but doesn&#8217;t exactly want a Fender. Some people use Fender because they are a legacy company, but these other companies are giving updated features for the same money or less.<strong><a href="/the-gibson-brand-may-be-in-trouble/" target="_blank" data-type="post" data-id="12054" rel="noopener" data-lasso-id="241633"> I feel like Gibson could also take some notes</a></strong>, but that&#8217;s a different story.</p>
 
 
 

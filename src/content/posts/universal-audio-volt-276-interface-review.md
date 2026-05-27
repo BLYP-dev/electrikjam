@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>We talk about <a href="https://www.electrikjam.com/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="206546"><strong>recording guitar at home </strong></a>all the time. I use everything from<a href="https://www.electrikjam.com/line-6-guide/" data-type="post" data-id="9935" target="_blank" rel="noopener" data-lasso-id="206547"> <strong>Line 6 </strong></a>and <a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="206548"><strong>amp sims</strong></a>, to my <strong><a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="206549">5150</a> </strong>and <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="206550"><strong>BOSS Katana</strong></a>. Sometimes I go directly into the interface, but other times I <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="206551"><strong>use a mic</strong></a> to record a guitar cabinet. It really depends on what kind of tone I am going for, and what kind of &#8220;feel&#8221; the song needs.</p>
+<p>We talk about <a href="/must-have-for-recording-guitar/" data-type="post" data-id="4877" target="_blank" rel="noopener" data-lasso-id="206546"><strong>recording guitar at home </strong></a>all the time. I use everything from<a href="/line-6-guide/" data-type="post" data-id="9935" target="_blank" rel="noopener" data-lasso-id="206547"> <strong>Line 6 </strong></a>and <a href="/the-best-free-amp-simulators-in-2021/" data-type="post" data-id="2699" target="_blank" rel="noopener" data-lasso-id="206548"><strong>amp sims</strong></a>, to my <strong><a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="206549">5150</a> </strong>and <a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="206550"><strong>BOSS Katana</strong></a>. Sometimes I go directly into the interface, but other times I <a href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="206551"><strong>use a mic</strong></a> to record a guitar cabinet. It really depends on what kind of tone I am going for, and what kind of &#8220;feel&#8221; the song needs.</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>Just like so many beginner interfaces, you have pretty much everything you need in a simple package with the Universal Audio Volt 276. Now, Universal Audio also has a single input device called the Volt 1that can bee seen <a data-lasso-id="206587" data-lasso-name="Universal Audio Volt 1 USB Audio Interface" href="https://www.electrikjam.com/universal-audio-volt-1-usb-audio-interface-guitar-center/" data-type="lasso-urls" data-id="10237" target="_blank" rel="nofollow sponsored noopener"><strong>HERE</strong></a>. <strong>The Volt 1</strong> is much more streamlined and simple, so if you just need a single input, that might be more up your alley.</p>
+<p>Just like so many beginner interfaces, you have pretty much everything you need in a simple package with the Universal Audio Volt 276. Now, Universal Audio also has a single input device called the Volt 1that can bee seen <a data-lasso-id="206587" data-lasso-name="Universal Audio Volt 1 USB Audio Interface" href="/universal-audio-volt-1-usb-audio-interface-guitar-center/" data-type="lasso-urls" data-id="10237" target="_blank" rel="nofollow sponsored noopener"><strong>HERE</strong></a>. <strong>The Volt 1</strong> is much more streamlined and simple, so if you just need a single input, that might be more up your alley.</p>
 
 
 
@@ -231,7 +231,7 @@ seo:
 
 
 
-<p>While Universal Audio is definitely sponsoring this article, I also wanted to upgrade my home recording setup. Like I said, the <a href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" target="_blank" rel="noopener" data-lasso-id="208066"><strong>Scarlett 2i2</strong></a> is a<em> wonderful </em>piece of gear, and a great <em>start</em> to home recording. But it is very basic, and I feel like it might be time to move on. Universal Audio was always on my radar but the <strong><a href="https://www.uaudio.com/audio-interfaces/apollo.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="208067">Apollo Series</a></strong> was always too expensive, and it seemed very complicated.</p>
+<p>While Universal Audio is definitely sponsoring this article, I also wanted to upgrade my home recording setup. Like I said, the <a href="/how-to-record-electric-guitar-at-home-guide/" data-type="post" data-id="1193" target="_blank" rel="noopener" data-lasso-id="208066"><strong>Scarlett 2i2</strong></a> is a<em> wonderful </em>piece of gear, and a great <em>start</em> to home recording. But it is very basic, and I feel like it might be time to move on. Universal Audio was always on my radar but the <strong><a href="https://www.uaudio.com/audio-interfaces/apollo.html" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="208067">Apollo Series</a></strong> was always too expensive, and it seemed very complicated.</p>
 
 
 
@@ -247,7 +247,7 @@ seo:
 
 
 
-<p>You have all of the usual things you expect to see in a two channel audio interface. The front has two inputs for 1/4&#8221; or XLR, with 48V phantom power for <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="208070"><strong>condenser mics</strong></a>. The front also has your headphone output and volume control. But this is where things change, and why <strong>I like the Universal Audio Volt 276 over the Scarlett 2i2.</strong></p>
+<p>You have all of the usual things you expect to see in a two channel audio interface. The front has two inputs for 1/4&#8221; or XLR, with 48V phantom power for <a href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="208070"><strong>condenser mics</strong></a>. The front also has your headphone output and volume control. But this is where things change, and why <strong>I like the Universal Audio Volt 276 over the Scarlett 2i2.</strong></p>
 
 
 
@@ -259,7 +259,7 @@ seo:
 
 
 
-<p><strong>But the star of the show is the Universal Audio Compressor options.</strong> You have a simple &#8220;Vintage Preamp&#8221; button, and this gives you the great sound of the<strong> Universal Audio 610 Tube Preamp</strong>. This tube preamp has been used in studios<em> for decades</em>. The real 610 is all over all the classic albums you love like <strong><a href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="208071">Van Halen</a></strong>. It is not an actual tube preamp on the Volt 276, but it <em>emulates one very well</em>, adding warmth to your signal chain, or mic.</p>
+<p><strong>But the star of the show is the Universal Audio Compressor options.</strong> You have a simple &#8220;Vintage Preamp&#8221; button, and this gives you the great sound of the<strong> Universal Audio 610 Tube Preamp</strong>. This tube preamp has been used in studios<em> for decades</em>. The real 610 is all over all the classic albums you love like <strong><a href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener" data-lasso-id="208071">Van Halen</a></strong>. It is not an actual tube preamp on the Volt 276, but it <em>emulates one very well</em>, adding warmth to your signal chain, or mic.</p>
 
 
 
@@ -295,7 +295,7 @@ seo:
 
 
 
-<p>When it comes to recording guitar and bass, I tried a few different methods. <strong>First of all, you should just leave the &#8220;Vintage&#8221; button on pretty much<em> all the time</em>.</strong> The tube preamp emulation sounds great with every guitar tone I recorded, clean and distorted. I used my <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="208072"><strong>BOSS Katana</strong></a> with a mic, as well as<a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="208073"> <strong>STL Tones</strong></a> running direct. Both sounded better with the tube preamp engaged. Throwing a mic in front of my acoustic guitar yielded the same results so I don&#8217;t see a reason to <em>ever turn off the tube emulation</em>.</p>
+<p>When it comes to recording guitar and bass, I tried a few different methods. <strong>First of all, you should just leave the &#8220;Vintage&#8221; button on pretty much<em> all the time</em>.</strong> The tube preamp emulation sounds great with every guitar tone I recorded, clean and distorted. I used my <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="208072"><strong>BOSS Katana</strong></a> with a mic, as well as<a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="208073"> <strong>STL Tones</strong></a> running direct. Both sounded better with the tube preamp engaged. Throwing a mic in front of my acoustic guitar yielded the same results so I don&#8217;t see a reason to <em>ever turn off the tube emulation</em>.</p>
 
 
 
@@ -331,7 +331,7 @@ seo:
 
 
 
-<p>Ableton is the preferred DAW for a lot of home studios, since it comes with so many plugins already. But Ableton is also<em> streamlined </em>to work with just about any modern computer. You will not need a crazy-powerful studio <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-type="post" data-id="2642" target="_blank" rel="noopener" data-lasso-id="208074"><strong>computer setup</strong></a> to be able to record at home. Ableton is intuitive, and easy to use even for the novice producer.</p>
+<p>Ableton is the preferred DAW for a lot of home studios, since it comes with so many plugins already. But Ableton is also<em> streamlined </em>to work with just about any modern computer. You will not need a crazy-powerful studio <a href="/is-16-gb-of-ram-enough-for-music-production/" data-type="post" data-id="2642" target="_blank" rel="noopener" data-lasso-id="208074"><strong>computer setup</strong></a> to be able to record at home. Ableton is intuitive, and easy to use even for the novice producer.</p>
 
 
 
@@ -363,7 +363,7 @@ seo:
 
 
 
-<p><strong>The plugin suite that you get with the Universal Audio Volt 276 is a great deal all on its own.</strong> Some of these are free plugins that you can get online<a href="https://www.electrikjam.com/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="208075"><strong> right now</strong></a>, but some are worth more than the price of admission! This is just an <em>added bonus</em> to an already great recording package. You have all you need to get started with recording!</p>
+<p><strong>The plugin suite that you get with the Universal Audio Volt 276 is a great deal all on its own.</strong> Some of these are free plugins that you can get online<a href="/the-best-free-amp-simulators-in-2021/" target="_blank" data-type="post" data-id="2699" rel="noopener" data-lasso-id="208075"><strong> right now</strong></a>, but some are worth more than the price of admission! This is just an <em>added bonus</em> to an already great recording package. You have all you need to get started with recording!</p>
 
 
 

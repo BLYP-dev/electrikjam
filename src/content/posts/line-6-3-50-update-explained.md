@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>Line 6 has been at the top of the game for multi-effects units for the last<em> decade</em>, and it just gets better as the technology gets pushed to the limits! We have talked a lot about the <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="197541"><strong>Helix</strong></a>, and we have even <a href="https://www.electrikjam.com/line-6-helix-recording-techniques/" data-type="post" data-id="4209" target="_blank" rel="noopener" data-lasso-id="197542"><strong>done deep dives into how to record</strong></a> guitar with the Helix. I <em>thought</em> we had <a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener" data-lasso-id="197543"><strong>covered every single aspect</strong> </a>of this amazing all-in-one unit.</p>
+<p>Line 6 has been at the top of the game for multi-effects units for the last<em> decade</em>, and it just gets better as the technology gets pushed to the limits! We have talked a lot about the <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="197541"><strong>Helix</strong></a>, and we have even <a href="/line-6-helix-recording-techniques/" data-type="post" data-id="4209" target="_blank" rel="noopener" data-lasso-id="197542"><strong>done deep dives into how to record</strong></a> guitar with the Helix. I <em>thought</em> we had <a href="/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener" data-lasso-id="197543"><strong>covered every single aspect</strong> </a>of this amazing all-in-one unit.</p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<p>The new interface layout has taken some cues from the popular <a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="197545">STL Tones</a>, Archetype, and the myriad of other amp sims that offer<strong> dual cab setups</strong>. This really simplifies everything, and I<em> love</em> this interface style. So the update gives you a few new cabs, and the cabs have been consolidated into 20 guitar cabs and 4 bass cabs.</p>
+<p>The new interface layout has taken some cues from the popular <a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="197545">STL Tones</a>, Archetype, and the myriad of other amp sims that offer<strong> dual cab setups</strong>. This really simplifies everything, and I<em> love</em> this interface style. So the update gives you a few new cabs, and the cabs have been consolidated into 20 guitar cabs and 4 bass cabs.</p>
 
 
 
@@ -139,7 +139,7 @@ seo:
 
 
 
-<p>The Line 6 3.50 update gives the whole process of choosing a cab (or 2) much easier since it is more visual. Blending two cabs, or panning between two cabs is much easier for me now. Your experience may differ, but if you have been playing other <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="223253">amp sims</a> then this will seem so familiar.</p>
+<p>The Line 6 3.50 update gives the whole process of choosing a cab (or 2) much easier since it is more visual. Blending two cabs, or panning between two cabs is much easier for me now. Your experience may differ, but if you have been playing other <a href="/neural-amp-modeler/" data-lasso-id="223253">amp sims</a> then this will seem so familiar.</p>
 
 
 
@@ -151,19 +151,19 @@ seo:
 
 
 
-<p>Yes, I know that it is almost a meme at this point that a 4&#215;12 with<a data-lasso-id="197546" href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener"> </a><strong><a data-lasso-id="197547" href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener">Celestion</a> </strong>Vintage 30 speakers on it is the most overplayed sound in Metal. But that is exactly why the Line 6 3.50 Update is so cool, we have some interesting options. Some would be quite difficult to get ahold of in real life!</p>
+<p>Yes, I know that it is almost a meme at this point that a 4&#215;12 with<a data-lasso-id="197546" href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener"> </a><strong><a data-lasso-id="197547" href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener">Celestion</a> </strong>Vintage 30 speakers on it is the most overplayed sound in Metal. But that is exactly why the Line 6 3.50 Update is so cool, we have some interesting options. Some would be quite difficult to get ahold of in real life!</p>
 
 
 
-<p>Whether you play the most technical Death-Metal, or you play some sludgy<a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" data-type="post" data-id="926" target="_blank" rel="noopener" data-lasso-id="197548"><strong> Doom</strong></a> riffs, there is a cab for you! For me, the Mesa 4&#215;12 is one of my favorite cabs on the planet, and being able to pair it with a classic Marshall 1960 is an <em>amazing</em> feature! They blend so well together, and I would love to have this rig for real, on a big stage<em> in stereo</em>!</p>
+<p>Whether you play the most technical Death-Metal, or you play some sludgy<a href="/best-guitars-for-doom-metal/" data-type="post" data-id="926" target="_blank" rel="noopener" data-lasso-id="197548"><strong> Doom</strong></a> riffs, there is a cab for you! For me, the Mesa 4&#215;12 is one of my favorite cabs on the planet, and being able to pair it with a classic Marshall 1960 is an <em>amazing</em> feature! They blend so well together, and I would love to have this rig for real, on a big stage<em> in stereo</em>!</p>
 
 
 
-<p>There are 15 other cabs in the collection that might suit you better if you play another genre of music. But something like the Sunn 4&#215;12 will be a great pair with a low gain amp, and octave pedal with a ton of <a href="https://www.electrikjam.com/fuzz-vs-distortion/" data-type="post" data-id="6200" target="_blank" rel="noopener" data-lasso-id="197549"><strong>fuzz</strong></a> going through it! There are plenty of &#8220;classic&#8221; tones for people that dig that kind of thing. But for Metal? <em><strong>Exquisite</strong>.</em></p>
+<p>There are 15 other cabs in the collection that might suit you better if you play another genre of music. But something like the Sunn 4&#215;12 will be a great pair with a low gain amp, and octave pedal with a ton of <a href="/fuzz-vs-distortion/" data-type="post" data-id="6200" target="_blank" rel="noopener" data-lasso-id="197549"><strong>fuzz</strong></a> going through it! There are plenty of &#8220;classic&#8221; tones for people that dig that kind of thing. But for Metal? <em><strong>Exquisite</strong>.</em></p>
 
 
 
-<p>You also get a varied collection of <strong>12 microphones</strong>, and they will all look <em>very</em> familiar for anyone who has put a <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="197550"><strong>mic in front of a cab</strong></a>. You get a nice collection of dynamic, condenser, and ribbon mics. The famous <a href="https://www.electrikjam.com/shure-sm57-dynamic-instrument-microphone-guitar-center/" data-type="lasso-urls" data-id="8823" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="197551" data-lasso-name="Shure SM57 Dynamic Instrument Microphone"><strong>Shure SM Series</strong></a> is all there, as well as some other studio favorites. Each mic can be moved:</p>
+<p>You also get a varied collection of <strong>12 microphones</strong>, and they will all look <em>very</em> familiar for anyone who has put a <a href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="197550"><strong>mic in front of a cab</strong></a>. You get a nice collection of dynamic, condenser, and ribbon mics. The famous <a href="/shure-sm57-dynamic-instrument-microphone-guitar-center/" data-type="lasso-urls" data-id="8823" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="197551" data-lasso-name="Shure SM57 Dynamic Instrument Microphone"><strong>Shure SM Series</strong></a> is all there, as well as some other studio favorites. Each mic can be moved:</p>
 
 
 
@@ -211,15 +211,15 @@ seo:
 
 
 
-<p>The <strong>Sunn Model T</strong> is one of the most legendary amps when it comes to <strong><a href="https://www.electrikjam.com/pallbearer-gear-guitars-guide/" data-type="post" data-id="7902" target="_blank" rel="noopener" data-lasso-id="197552">Doom Metal</a></strong>. The Sunn Model T is essentially a Fender Bassman in nature. This means tons of clean headroom, which makes a perfect platform for fuzz! The pronounced midrange just begs to get distorted.</p>
+<p>The <strong>Sunn Model T</strong> is one of the most legendary amps when it comes to <strong><a href="/pallbearer-gear-guitars-guide/" data-type="post" data-id="7902" target="_blank" rel="noopener" data-lasso-id="197552">Doom Metal</a></strong>. The Sunn Model T is essentially a Fender Bassman in nature. This means tons of clean headroom, which makes a perfect platform for fuzz! The pronounced midrange just begs to get distorted.</p>
 
 
 
-<p>But it also gives you another option for <em>clean tones</em>. The Sunn Model T has a beautiful rounded clean tone that is perfect for some reverb and delay. These amps also have an interesting crunch channel that will vary depending on the pickups your guitar uses, especially<a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="197553"><strong> actives</strong></a>. But it will <em>roar</em> if you want it!</p>
+<p>But it also gives you another option for <em>clean tones</em>. The Sunn Model T has a beautiful rounded clean tone that is perfect for some reverb and delay. These amps also have an interesting crunch channel that will vary depending on the pickups your guitar uses, especially<a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="197553"><strong> actives</strong></a>. But it will <em>roar</em> if you want it!</p>
 
 
 
-<p>Speaking of roaring, the <strong>Peavey Invective</strong> is the amp that Misha from <strong>Periphery</strong> designed with the same people that helped bring the <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="197554"><strong>5150</strong></a> to life. The Invective works great with the Bogner cabs to get a full, mid-focused lead tone. Not to mention the amount of chug you can get.</p>
+<p>Speaking of roaring, the <strong>Peavey Invective</strong> is the amp that Misha from <strong>Periphery</strong> designed with the same people that helped bring the <a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="197554"><strong>5150</strong></a> to life. The Invective works great with the Bogner cabs to get a full, mid-focused lead tone. Not to mention the amount of chug you can get.</p>
 
 
 
@@ -267,7 +267,7 @@ seo:
 
 
 
-<p>The<strong> Flex-O-Vibe</strong> is also a special design made for the Line 6 3.50 update, and I am not the best person to talk to about vibrato pedals. Usually, I would never use one, but this pedal has a lot of cool options to make some &#8220;warping&#8221; sounds. I used it like <a data-lasso-id="197555" href="https://www.electrikjam.com/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>EVH</strong></a> may have, turning it on and off during certain parts of a riff. It sounds pretty cool, and you can make it as chaotic as you want!</p>
+<p>The<strong> Flex-O-Vibe</strong> is also a special design made for the Line 6 3.50 update, and I am not the best person to talk to about vibrato pedals. Usually, I would never use one, but this pedal has a lot of cool options to make some &#8220;warping&#8221; sounds. I used it like <a data-lasso-id="197555" href="/eddie-van-halen-innovative-guitar-gear/" data-type="post" data-id="7670" target="_blank" rel="noopener"><strong>EVH</strong></a> may have, turning it on and off during certain parts of a riff. It sounds pretty cool, and you can make it as chaotic as you want!</p>
 
 
 
@@ -275,7 +275,7 @@ seo:
 
 
 
-<p>The <strong>B Octave</strong> pedal is something that is <em>crazy fun</em> to play with, and I have a version of this pedal on my <strong><a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="197556">BOSS Katana</a></strong>. You can set the pedal for one octave down, or <strong>two</strong>. If you you want to really beef up a rhythm track when you are recording, add this pedal to a distortion/fuzz and be amazed! This is also great if you are the only guitarist in a band, and use the pedal live to make choruses huge!</p>
+<p>The <strong>B Octave</strong> pedal is something that is <em>crazy fun</em> to play with, and I have a version of this pedal on my <strong><a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="197556">BOSS Katana</a></strong>. You can set the pedal for one octave down, or <strong>two</strong>. If you you want to really beef up a rhythm track when you are recording, add this pedal to a distortion/fuzz and be amazed! This is also great if you are the only guitarist in a band, and use the pedal live to make choruses huge!</p>
 
 
 
@@ -283,7 +283,7 @@ seo:
 
 
 
-<p>For players that do any type of <strong>heavy music</strong>, you have some killer tools here that can do all kinds of sounds. the octave pedal can make a <a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-lasso-id="221306">guitar in standard tuning</a> sound like the nastiest thing on the planet. I always felt like the Helix had a lot of &#8220;restraint&#8221; to it, and it always seemed a little too <em>clean</em> to me. These new effects can give you a <a href="https://www.electrikjam.com/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="197557"><strong>drop tuned</strong></a> octave note that rings out<em> in a cave</em>!</p>
+<p>For players that do any type of <strong>heavy music</strong>, you have some killer tools here that can do all kinds of sounds. the octave pedal can make a <a href="/standard-tuning-guitar-explained-history/" data-lasso-id="221306">guitar in standard tuning</a> sound like the nastiest thing on the planet. I always felt like the Helix had a lot of &#8220;restraint&#8221; to it, and it always seemed a little too <em>clean</em> to me. These new effects can give you a <a href="/best-strings-for-drop-tuning/" data-type="post" data-id="7372" target="_blank" rel="noopener" data-lasso-id="197557"><strong>drop tuned</strong></a> octave note that rings out<em> in a cave</em>!</p>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<p>That&#8217;s the thing when it comes to <a data-lasso-id="197558" href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener"><strong>digital amp sims</strong></a>, they<em> should streamline</em> the process instead of <em>hindering</em> it.<strong> I think the most important feature of the Line 6 3.50 update is the ease of use when it comes to getting a good tone</strong>. If you record a lot, or even for a living, you know that <em>time is money</em>.</p>
+<p>That&#8217;s the thing when it comes to <a data-lasso-id="197558" href="/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener"><strong>digital amp sims</strong></a>, they<em> should streamline</em> the process instead of <em>hindering</em> it.<strong> I think the most important feature of the Line 6 3.50 update is the ease of use when it comes to getting a good tone</strong>. If you record a lot, or even for a living, you know that <em>time is money</em>.</p>
 
 
 
@@ -323,11 +323,11 @@ seo:
 
 
 
-<p><strong>Let&#8217;s be real</strong>, I think this update has a lot to do with all of the<em> other</em> amp sim companies out there that are computer-based like <strong><a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="197559">STL</a>,</strong> <a href="https://www.electrikjam.com/positive-grid-riff-review/" data-type="post" data-id="8083" target="_blank" rel="noopener" data-lasso-id="197560"><strong>Positive Grid</strong></a>, and the <strong>Archetype</strong> Series. These plugins all have something in common; they are simple to use but also offer <em>tons of tones</em>. Line 6 is still at the top of the game being hardware-based, but there is some <em>serious</em> competition.</p>
+<p><strong>Let&#8217;s be real</strong>, I think this update has a lot to do with all of the<em> other</em> amp sim companies out there that are computer-based like <strong><a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="197559">STL</a>,</strong> <a href="/positive-grid-riff-review/" data-type="post" data-id="8083" target="_blank" rel="noopener" data-lasso-id="197560"><strong>Positive Grid</strong></a>, and the <strong>Archetype</strong> Series. These plugins all have something in common; they are simple to use but also offer <em>tons of tones</em>. Line 6 is still at the top of the game being hardware-based, but there is some <em>serious</em> competition.</p>
 
 
 
-<p>So I think the Line 6 3.50 update deserves a huge round of applause. This was a big risk that Line 6 decided to take, and it seems like it has been well reviewed. But it means even more to people that play Metal, and all of the wonderful subgenres of Metal. Like the <a data-lasso-id="197561" href="https://www.electrikjam.com/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener"><strong>BOSS update</strong></a> that we got earlier this year, Line 6 <em>continues </em>to push the boundaries.</p>
+<p>So I think the Line 6 3.50 update deserves a huge round of applause. This was a big risk that Line 6 decided to take, and it seems like it has been well reviewed. But it means even more to people that play Metal, and all of the wonderful subgenres of Metal. Like the <a data-lasso-id="197561" href="/boss-katana-mkii-v2-software/" data-type="post" data-id="8450" target="_blank" rel="noopener"><strong>BOSS update</strong></a> that we got earlier this year, Line 6 <em>continues </em>to push the boundaries.</p>
 
 
 

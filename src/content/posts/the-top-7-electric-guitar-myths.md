@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>When I started to play guitar, there was no internet <em>at all</em>. We either learned songs by ear, or we bought the sheet music notation from the music store. There was no YouTube or free tab sheets. Now I&#8217;m not some old guy &#8220;talking about the old days&#8221; here. I&#8217;m not <em>THAT</em> old. But even back then we heard all kinds of <a href="https://www.electrikjam.com/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216537">electric guitar</a> myths.</p>
+<p>When I started to play guitar, there was no internet <em>at all</em>. We either learned songs by ear, or we bought the sheet music notation from the music store. There was no YouTube or free tab sheets. Now I&#8217;m not some old guy &#8220;talking about the old days&#8221; here. I&#8217;m not <em>THAT</em> old. But even back then we heard all kinds of <a href="/what-is-the-holy-grail-of-electric-guitars/" data-lasso-id="216537">electric guitar</a> myths.</p>
 
 
 
@@ -80,15 +80,15 @@ seo:
 
 
 
-<p>This is a big one, and as a teacher it absolutely appalls me when I hear this uttered by a guitarist. <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="164525"><strong>Music theory</strong></a> is a valuable tool that helps you understand how the guitar fretboard works. It shows you how notes harmonize, how octaves work, and building chords from root notes. These interlaced ideas try to make sense out of sound and notes, and <em>organize</em> the ideas.</p>
+<p>This is a big one, and as a teacher it absolutely appalls me when I hear this uttered by a guitarist. <a href="/beginner-music-theory-for-guitarists/" data-type="post" data-id="7596" target="_blank" rel="noopener" data-lasso-id="164525"><strong>Music theory</strong></a> is a valuable tool that helps you understand how the guitar fretboard works. It shows you how notes harmonize, how octaves work, and building chords from root notes. These interlaced ideas try to make sense out of sound and notes, and <em>organize</em> the ideas.</p>
 
 
 
-<p>I have talked about how this makes the <strong><a href="https://www.electrikjam.com/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="164526">fretboard much easier</a> </strong>to understand, and demystifies scales and patterns. Guitar theory will help you learn songs faster, and definitely make <a href="https://www.electrikjam.com/using-a-capo-a-comprehensive-guide/" data-lasso-id="238697">writing songs</a> yourself much less frustrating. Music theory is a tool, and it can make things !</p>
+<p>I have talked about how this makes the <strong><a href="/guitar-fretboard-notes-learn/" data-type="post" data-id="6848" target="_blank" rel="noopener" data-lasso-id="164526">fretboard much easier</a> </strong>to understand, and demystifies scales and patterns. Guitar theory will help you learn songs faster, and definitely make <a href="/using-a-capo-a-comprehensive-guide/" data-lasso-id="238697">writing songs</a> yourself much less frustrating. Music theory is a tool, and it can make things !</p>
 
 
 
-<p><strong>So why do <a href="https://www.electrikjam.com/top-5-underrated-guitarists/" data-lasso-id="233859">guitarists think</a> it destroys creativity?</strong></p>
+<p><strong>So why do <a href="/top-5-underrated-guitarists/" data-lasso-id="233859">guitarists think</a> it destroys creativity?</strong></p>
 
 
 
@@ -96,15 +96,15 @@ seo:
 
 
 
-<p><strong>This is where the myth comes from.</strong> So many genius guitarists <strong>play by feel</strong>. People like <a href="https://www.electrikjam.com/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener" data-lasso-id="164527"><strong>Kurt Cobain</strong></a> had a great ear for melody, and most of his work was done by trial and error. This method works for people that have that kind of talent, but it can also be tedious.</p>
+<p><strong>This is where the myth comes from.</strong> So many genius guitarists <strong>play by feel</strong>. People like <a href="/why-kurt-cobain-only-played-crap-fender-guitars/" data-type="post" data-id="7926" target="_blank" rel="noopener" data-lasso-id="164527"><strong>Kurt Cobain</strong></a> had a great ear for melody, and most of his work was done by trial and error. This method works for people that have that kind of talent, but it can also be tedious.</p>
 
 
 
-<p>But understanding how music works doesn&#8217;t &#8220;enslave your mid&#8221; or &#8220;destroy the creative process&#8221;! Knowing theory may even help you write better songs, since you know <a href="https://www.electrikjam.com/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196517">what notes and chords work</a> together. But that doesn&#8217;t mean that you&#8217;re<em> limited</em> at all. In fact, I feel like I play <em>and write </em>better now, than when I was just winging it.</p>
+<p>But understanding how music works doesn&#8217;t &#8220;enslave your mid&#8221; or &#8220;destroy the creative process&#8221;! Knowing theory may even help you write better songs, since you know <a href="/10-beautiful-chord-progressions-for-guitar-no-theory-required/" data-lasso-id="196517">what notes and chords work</a> together. But that doesn&#8217;t mean that you&#8217;re<em> limited</em> at all. In fact, I feel like I play <em>and write </em>better now, than when I was just winging it.</p>
 
 
 
-<p>A good example is<a href="https://www.electrikjam.com/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-type="post" data-id="7750" target="_blank" rel="noopener" data-lasso-id="164528"> <strong>Ben Weinman</strong></a> from <strong>Dillinger Escape Plan</strong>. Ben knows a<em> lot</em> of Jazz theory, and he puts this to use when making some of the most confusing and <em>chaotic </em>music on the planet! <a href="https://www.electrikjam.com/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="164529"><strong>Steve Vai</strong></a> knows theory too, yet he makes some really odd music that is not just technically impressive, but also soulful and beautiful. <strong>Tosin Abasi</strong>, <strong>John Petrucci</strong>, the list goes on and on&#8230;</p>
+<p>A good example is<a href="/ben-weinmans-guitar-is-utterly-stunning-heres-why/" data-type="post" data-id="7750" target="_blank" rel="noopener" data-lasso-id="164528"> <strong>Ben Weinman</strong></a> from <strong>Dillinger Escape Plan</strong>. Ben knows a<em> lot</em> of Jazz theory, and he puts this to use when making some of the most confusing and <em>chaotic </em>music on the planet! <a href="/the-ibanez-jem-777/" data-type="post" data-id="7392" target="_blank" rel="noopener" data-lasso-id="164529"><strong>Steve Vai</strong></a> knows theory too, yet he makes some really odd music that is not just technically impressive, but also soulful and beautiful. <strong>Tosin Abasi</strong>, <strong>John Petrucci</strong>, the list goes on and on&#8230;</p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p><strong>Stevie Ray Vaughan</strong> famously used heavy gauge strings, and listen to his tone! <strong><a href="https://www.electrikjam.com/the-5-best-amps-for-doom-metal-in-2020/" data-type="post" data-id="1408" target="_blank" rel="noopener" data-lasso-id="164530">Black Sabbath</a> </strong>tuned down and played heavy strings too right? Then we have<a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="164531"><strong> 7 string</strong> </a>guitars that use a thick bottom string that sounds<em> heavy</em>. Tuning down, and throwing thick strings on the guitar MUST be the answer.</p>
+<p><strong>Stevie Ray Vaughan</strong> famously used heavy gauge strings, and listen to his tone! <strong><a href="/the-5-best-amps-for-doom-metal-in-2020/" data-type="post" data-id="1408" target="_blank" rel="noopener" data-lasso-id="164530">Black Sabbath</a> </strong>tuned down and played heavy strings too right? Then we have<a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="164531"><strong> 7 string</strong> </a>guitars that use a thick bottom string that sounds<em> heavy</em>. Tuning down, and throwing thick strings on the guitar MUST be the answer.</p>
 
 
 
@@ -152,11 +152,11 @@ seo:
 
 
 
-<p><strong>But heavy strings making your <em>tone </em>heavier?</strong> No, your <strong><a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="164533">amp type</a> </strong>will have the biggest effect on your &#8220;heaviness&#8221;. <strong>Pickups also play a huge part in your tone</strong>, and even <em>the height of your pickups</em> can have an effect as well. Your technique will make the biggest difference though, and how you write your riffs.</p>
+<p><strong>But heavy strings making your <em>tone </em>heavier?</strong> No, your <strong><a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="164533">amp type</a> </strong>will have the biggest effect on your &#8220;heaviness&#8221;. <strong>Pickups also play a huge part in your tone</strong>, and even <em>the height of your pickups</em> can have an effect as well. Your technique will make the biggest difference though, and how you write your riffs.</p>
 
 
 
-<p>Strings actually have a very minimal effect on your tone. In fact, lighter gauge strings might sound<em> better</em> because they can be more defined under high gain. Look up some of your favorite guitarist&#8217;s string choice, you might be surprised! &#8220;Heavier strings sound heavy&#8221; is one of the oldest <a href="https://www.electrikjam.com/is-learning-electric-guitar-hard/" data-lasso-id="215686">electric guitar</a> myths, and can be proven wrong with a quick Google search.</p>
+<p>Strings actually have a very minimal effect on your tone. In fact, lighter gauge strings might sound<em> better</em> because they can be more defined under high gain. Look up some of your favorite guitarist&#8217;s string choice, you might be surprised! &#8220;Heavier strings sound heavy&#8221; is one of the oldest <a href="/is-learning-electric-guitar-hard/" data-lasso-id="215686">electric guitar</a> myths, and can be proven wrong with a quick Google search.</p>
 
 
 
@@ -164,11 +164,11 @@ seo:
 
 
 
-<p>I don&#8217;t think so, but <a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" target="_blank" rel="noopener" data-lasso-id="164534"><strong>tuning down</strong></a> does sometimes help to make an impact<em> due to contrast</em>. The <a href="https://www.electrikjam.com/10-metal-bands-that-play-in-standard-tuning/" data-type="post" data-id="8536" target="_blank" rel="noopener" data-lasso-id="164535"><strong>thrash bands on the 80&#8217;s</strong></a> were all heavy, but they mostly played in standard tuning, or half a step down. Sometimes I use a lower tuning to change up the way a song sounds. <strong>Metallica </strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-lasso-id="197578">did this with a few songs, like &#8220;Sad But True&#8221; where they tuned to D standard</a>. In <em>contrast</em> to the E Standard songs on the album, it <em>does</em> sound heavier!</p>
+<p>I don&#8217;t think so, but <a href="/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" target="_blank" rel="noopener" data-lasso-id="164534"><strong>tuning down</strong></a> does sometimes help to make an impact<em> due to contrast</em>. The <a href="/10-metal-bands-that-play-in-standard-tuning/" data-type="post" data-id="8536" target="_blank" rel="noopener" data-lasso-id="164535"><strong>thrash bands on the 80&#8217;s</strong></a> were all heavy, but they mostly played in standard tuning, or half a step down. Sometimes I use a lower tuning to change up the way a song sounds. <strong>Metallica </strong><a href="/d-standard-tuning-guide-how-to/" data-lasso-id="197578">did this with a few songs, like &#8220;Sad But True&#8221; where they tuned to D standard</a>. In <em>contrast</em> to the E Standard songs on the album, it <em>does</em> sound heavier!</p>
 
 
 
-<p>But you need a higher tuning first, to make a <em>contrast</em>. Constantly being tuned low works for some bands, like <a href="https://www.electrikjam.com/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" target="_blank" rel="noopener" data-lasso-id="164536"><strong>Meshuggah</strong></a>. But after that initial feeling of heaviness, it just becomes a part of the band&#8217;s sound. Heaviness is subjective, so if you think a tuning sounds heavy, then use it!</p>
+<p>But you need a higher tuning first, to make a <em>contrast</em>. Constantly being tuned low works for some bands, like <a href="/what-guitars-do-meshuggah-use/" data-type="post" data-id="843" target="_blank" rel="noopener" data-lasso-id="164536"><strong>Meshuggah</strong></a>. But after that initial feeling of heaviness, it just becomes a part of the band&#8217;s sound. Heaviness is subjective, so if you think a tuning sounds heavy, then use it!</p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p>There are guitarists that use <a href="https://www.electrikjam.com/the-pedals-jack-white-used-to-make-elephant/" data-type="post" data-id="8150" target="_blank" rel="noopener" data-lasso-id="164537"><strong>analog pedals</strong></a> exclusively, some that use a few here and there, and others that use modeling tech and <a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="164538"><strong>digital gear</strong></a>. People that use <a href="https://www.electrikjam.com/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="164539"><strong>analog pedals</strong></a> exclusively, generally have quite an opinion on the pedals they use. Here lies one of the biggest electric guitar myths, and a common one at that.</p>
+<p>There are guitarists that use <a href="/the-pedals-jack-white-used-to-make-elephant/" data-type="post" data-id="8150" target="_blank" rel="noopener" data-lasso-id="164537"><strong>analog pedals</strong></a> exclusively, some that use a few here and there, and others that use modeling tech and <a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="164538"><strong>digital gear</strong></a>. People that use <a href="/jimi-hendrix-guitar-pedals-guide/" data-type="post" data-id="7636" target="_blank" rel="noopener" data-lasso-id="164539"><strong>analog pedals</strong></a> exclusively, generally have quite an opinion on the pedals they use. Here lies one of the biggest electric guitar myths, and a common one at that.</p>
 
 
 
@@ -244,7 +244,7 @@ seo:
 
 
 
-<p>I&#8217;m sure you have seen the meme making fun of electric guitar myths. &#8220;Do you think <a href="https://www.electrikjam.com/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-type="post" data-id="8768" target="_blank" rel="noopener" data-lasso-id="164540"><strong>Jimi Hendrix</strong></a> cared about true bypass on stage at Woodstock?&#8221;. The answer is no, because he was blitzed out of his mind at Woodstock and could played a set so well we still haven&#8217;t recovered from the face melting!</p>
+<p>I&#8217;m sure you have seen the meme making fun of electric guitar myths. &#8220;Do you think <a href="/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-type="post" data-id="8768" target="_blank" rel="noopener" data-lasso-id="164540"><strong>Jimi Hendrix</strong></a> cared about true bypass on stage at Woodstock?&#8221;. The answer is no, because he was blitzed out of his mind at Woodstock and could played a set so well we still haven&#8217;t recovered from the face melting!</p>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<p>This is one that I see on forums often, and the answer is<strong> absolutely not</strong>. I don&#8217;t even know where this myth comes from, and I have heard it for a long time. I mean, you have to take all of your strings off at some point. You need to <a href="https://www.electrikjam.com/5-best-christmas-presents-for-guitar-players/" data-type="post" data-id="5999" target="_blank" rel="noopener" data-lasso-id="164541"><strong>polish your frets, and oil your fretboard</strong></a> at some point. </p>
+<p>This is one that I see on forums often, and the answer is<strong> absolutely not</strong>. I don&#8217;t even know where this myth comes from, and I have heard it for a long time. I mean, you have to take all of your strings off at some point. You need to <a href="/5-best-christmas-presents-for-guitar-players/" data-type="post" data-id="5999" target="_blank" rel="noopener" data-lasso-id="164541"><strong>polish your frets, and oil your fretboard</strong></a> at some point. </p>
 
 
 
@@ -272,7 +272,7 @@ seo:
 
 
 
-<p>Some guitarists have also said that changing strings <em>one by one</em> with a <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-lasso-id="168261">Floyd Rose</a> is the best way to change your strings. This sounds silly as well, and you should just learn how to block the trem. And again, you <em>will still need to polish the frets and get the gunk off of the fretboard at some point</em>.</p>
+<p>Some guitarists have also said that changing strings <em>one by one</em> with a <a href="/floyd-rose-bridge-setup-beginners/" data-lasso-id="168261">Floyd Rose</a> is the best way to change your strings. This sounds silly as well, and you should just learn how to block the trem. And again, you <em>will still need to polish the frets and get the gunk off of the fretboard at some point</em>.</p>
 
 
 
@@ -292,7 +292,7 @@ seo:
 
 
 
-<p>This is one of my favorite electric guitar myths, because I have some experience with this one. Ill make this story short for you. I once bought a 1960&#8217;s Fender amplifier thinking it would be the answer to all of my tone problems. It ended up being one of the biggest problems I ever had with <a href="https://www.electrikjam.com/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225989">guitar gear</a>.</p>
+<p>This is one of my favorite electric guitar myths, because I have some experience with this one. Ill make this story short for you. I once bought a 1960&#8217;s Fender amplifier thinking it would be the answer to all of my tone problems. It ended up being one of the biggest problems I ever had with <a href="/analog-guitar-gear-5-reasons-you-shouldnt-go-digital/" data-lasso-id="225989">guitar gear</a>.</p>
 
 
 
@@ -324,7 +324,7 @@ seo:
 
 
 
-<p>Vintage gear is awesome, and owning a piece of music history can be cool. But don&#8217;t let the <a href="https://www.electrikjam.com/what-is-the-best-electric-guitar-brand/" data-lasso-id="215696">electric guitar</a> myths fool you. It does NOT always equal better sound. In fact, some new gear might even sound <em>better</em> than the vintage stuff. Ask anyone into <strong>vintage cars</strong>, and they will tell you the same story!</p>
+<p>Vintage gear is awesome, and owning a piece of music history can be cool. But don&#8217;t let the <a href="/what-is-the-best-electric-guitar-brand/" data-lasso-id="215696">electric guitar</a> myths fool you. It does NOT always equal better sound. In fact, some new gear might even sound <em>better</em> than the vintage stuff. Ask anyone into <strong>vintage cars</strong>, and they will tell you the same story!</p>
 
 
 
@@ -340,7 +340,7 @@ seo:
 
 
 
-<p>Out of all of the electric guitar myths we are exploring today, this is the only one that holds some serious weight, Because 20 years ago, I would have probably agreed that <strong>tube amps are superior in every way</strong>. <a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="164542"><strong>Solid state amplifiers </strong></a>were rarely seen on stage back in the day, for very good reasons.</p>
+<p>Out of all of the electric guitar myths we are exploring today, this is the only one that holds some serious weight, Because 20 years ago, I would have probably agreed that <strong>tube amps are superior in every way</strong>. <a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="164542"><strong>Solid state amplifiers </strong></a>were rarely seen on stage back in the day, for very good reasons.</p>
 
 
 
@@ -348,15 +348,15 @@ seo:
 
 
 
-<p>But that was 20 years ago, and these days we have all kinds of technology at our disposal. We have amp <a href="https://www.electrikjam.com/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener" data-lasso-id="164543"><strong>modelers</strong></a>, <a href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener" data-lasso-id="164544"><strong>amp simulators</strong></a>, and even actual <a href="https://www.electrikjam.com/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="164545"><strong>solid state amps</strong></a> that kick all kinds of ass. Tube amps are still a good option for the stage, but it would be disingenuous to say that they are the ONLY option.</p>
+<p>But that was 20 years ago, and these days we have all kinds of technology at our disposal. We have amp <a href="/line-6-pod-go-reviews/" data-type="post" data-id="4469" target="_blank" rel="noopener" data-lasso-id="164543"><strong>modelers</strong></a>, <a href="/expensive-amp-simulators/" data-type="post" data-id="2801" target="_blank" rel="noopener" data-lasso-id="164544"><strong>amp simulators</strong></a>, and even actual <a href="/new-line-6-catalyst-100-amp-review/" data-type="post" data-id="6924" target="_blank" rel="noopener" data-lasso-id="164545"><strong>solid state amps</strong></a> that kick all kinds of ass. Tube amps are still a good option for the stage, but it would be disingenuous to say that they are the ONLY option.</p>
 
 
 
-<p>Many artists are using modeling technology on stage currently, and amps like the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="164546"><strong>BOSS Katana</strong></a> are seen on stages all the time. When it comes to the bigger artists, many either use the <a href="https://www.electrikjam.com/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener" data-lasso-id="164547"><strong>Helix</strong></a>, <a href="https://www.electrikjam.com/guitar-center-pxf-io-orylvw/" data-type="lasso-urls" data-id="5896" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="164548" data-lasso-name="Kemper Profiler Stage Amp"><strong>Kemper</strong></a>, or AxeFX these days. They may even have &#8220;dummy&#8221; amps on stage to make it <em>look </em>like they are playing a real amp.</p>
+<p>Many artists are using modeling technology on stage currently, and amps like the <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="164546"><strong>BOSS Katana</strong></a> are seen on stages all the time. When it comes to the bigger artists, many either use the <a href="/is-line-6-helix-easy-to-use/" data-type="post" data-id="4774" target="_blank" rel="noopener" data-lasso-id="164547"><strong>Helix</strong></a>, <a href="/guitar-center-pxf-io-orylvw/" data-type="lasso-urls" data-id="5896" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="164548" data-lasso-name="Kemper Profiler Stage Amp"><strong>Kemper</strong></a>, or AxeFX these days. They may even have &#8220;dummy&#8221; amps on stage to make it <em>look </em>like they are playing a real amp.</p>
 
 
 
-<p>Many artists have what we call a &#8220;silent stage&#8221;. This is because everyone in the band is running an amp sim, or some kind of <a href="https://www.electrikjam.com/digital-guitar-rigs-5-reasons/" data-lasso-id="223257">digital rig</a> straight into the mixing board. They wear in-ear monitors to hear themselves and the band mix. There are no <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="164549"><strong>cabinets</strong></a> on stage, just the PA system going out to the audience.</p>
+<p>Many artists have what we call a &#8220;silent stage&#8221;. This is because everyone in the band is running an amp sim, or some kind of <a href="/digital-guitar-rigs-5-reasons/" data-lasso-id="223257">digital rig</a> straight into the mixing board. They wear in-ear monitors to hear themselves and the band mix. There are no <a href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="164549"><strong>cabinets</strong></a> on stage, just the PA system going out to the audience.</p>
 
 
 
@@ -398,7 +398,7 @@ seo:
 
 
 
-<p>On electric guitars, the body is just where the pickups are mounted. It vibrates, but not in the same way an acoustic guitar does <em>at all</em>. Most electric guitars have a thick poly finish that kills vibration, like<strong> <a href="https://www.electrikjam.com/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="164550">Fender </a></strong>guitars and many other brands.</p>
+<p>On electric guitars, the body is just where the pickups are mounted. It vibrates, but not in the same way an acoustic guitar does <em>at all</em>. Most electric guitars have a thick poly finish that kills vibration, like<strong> <a href="/fender-player-stratocaster-reviews/" data-type="post" data-id="8313" target="_blank" rel="noopener" data-lasso-id="164550">Fender </a></strong>guitars and many other brands.</p>
 
 
 
@@ -422,15 +422,15 @@ seo:
 
 
 
-<p><strong>The most important part of your guitar tone is your <em>AMP</em></strong>. Your amplifier or whatever you plug your guitar up to is what ultimately decides the tone. You can plug a $5000 PRS up to a cheap amp, and it will <em>sound cheap</em>. Likewise, plug a Squier up to a<strong> <a href="https://www.electrikjam.com/marshall-dsl-100w/" data-type="lasso-urls" data-id="4383" target="_blank" rel="nofollow noopener" data-lasso-id="164551" data-lasso-name="Marshall DSL100HR 100W">Marshall</a> </strong>Silver Jubilee, and you&#8217;ll find the <em>reverse is true</em>.</p>
+<p><strong>The most important part of your guitar tone is your <em>AMP</em></strong>. Your amplifier or whatever you plug your guitar up to is what ultimately decides the tone. You can plug a $5000 PRS up to a cheap amp, and it will <em>sound cheap</em>. Likewise, plug a Squier up to a<strong> <a href="/marshall-dsl-100w/" data-type="lasso-urls" data-id="4383" target="_blank" rel="nofollow noopener" data-lasso-id="164551" data-lasso-name="Marshall DSL100HR 100W">Marshall</a> </strong>Silver Jubilee, and you&#8217;ll find the <em>reverse is true</em>.</p>
 
 
 
-<p><strong>Your <em>pickups</em> are the next important part of your tone.</strong> Pickups are magnets that &#8220;pick up&#8221; the frequency of the oscillating strings when you play your guitar. they are like a microphone for your strings, so they are definitely a vital part of how your guitar sounds. Different pickups have different EQs, and focus on certain frequencies. <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="164552"><strong>Active pickups</strong></a> have a built-in preamp that changes your tone.</p>
+<p><strong>Your <em>pickups</em> are the next important part of your tone.</strong> Pickups are magnets that &#8220;pick up&#8221; the frequency of the oscillating strings when you play your guitar. they are like a microphone for your strings, so they are definitely a vital part of how your guitar sounds. Different pickups have different EQs, and focus on certain frequencies. <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="164552"><strong>Active pickups</strong></a> have a built-in preamp that changes your tone.</p>
 
 
 
-<p>After your pickups, it could be a myriad of things that have an effect on your sound. <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167819">Floyd Rose Bridges</a> sound different than a fixed bridge. The nut material can also be a factor, which is why brass nuts were so popular for a while. Your strings also have a place, since older strings sound &#8220;dead&#8221; compared to new &#8220;bright&#8221; strings.</p>
+<p>After your pickups, it could be a myriad of things that have an effect on your sound. <a href="/floyd-rose-bridge-explained/" data-lasso-id="167819">Floyd Rose Bridges</a> sound different than a fixed bridge. The nut material can also be a factor, which is why brass nuts were so popular for a while. Your strings also have a place, since older strings sound &#8220;dead&#8221; compared to new &#8220;bright&#8221; strings.</p>
 
 
 
@@ -438,7 +438,7 @@ seo:
 
 
 
-<p>But tone wood? As much as I love <strong>Paul Reed Smith</strong>, I just cant get on the <a href="https://www.electrikjam.com/is-electric-guitar-ok-for-beginners/" data-lasso-id="211319">electric guitar</a> myths bandwagon with him. I think wood is very important for a <em>lot of reasons</em>, but tone just isn&#8217;t one of them.</p>
+<p>But tone wood? As much as I love <strong>Paul Reed Smith</strong>, I just cant get on the <a href="/is-electric-guitar-ok-for-beginners/" data-lasso-id="211319">electric guitar</a> myths bandwagon with him. I think wood is very important for a <em>lot of reasons</em>, but tone just isn&#8217;t one of them.</p>
 
 
 

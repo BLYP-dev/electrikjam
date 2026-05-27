@@ -46,15 +46,15 @@ seo:
 
 
 
-<p>If you go over our Schecter guide, you will know that the brand is partnered with <em>all kinds</em> of companies. From pickups like <a href="https://www.electrikjam.com/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="206413"><strong>EMG</strong></a>, to hardware like Floyd Rose and Hipshot. This has lead to some shortages, as we all try to catch up due to the global pandemic. So <a href="https://www.electrikjam.com/schecter-mv-6-review/" data-lasso-id="231846">Schecter has been releasing models</a> in 2022 as the parts and materials become available. The<strong> Schecter Solo II Supreme</strong> was one of those models, this year.</p>
+<p>If you go over our Schecter guide, you will know that the brand is partnered with <em>all kinds</em> of companies. From pickups like <a href="/what-are-active-pickups/" data-type="post" data-id="4712" target="_blank" rel="noopener" data-lasso-id="206413"><strong>EMG</strong></a>, to hardware like Floyd Rose and Hipshot. This has lead to some shortages, as we all try to catch up due to the global pandemic. So <a href="/schecter-mv-6-review/" data-lasso-id="231846">Schecter has been releasing models</a> in 2022 as the parts and materials become available. The<strong> Schecter Solo II Supreme</strong> was one of those models, this year.</p>
 
 
 
-<p>The last two years has been scattered for most companies, as usually new models are announced at NAMM, twice a year. It seems like we are getting back on track <em>now</em>, but the last two years guitar companies had to wait for parts shipments. Especially <strong>Schecter</strong>, a company that has deals with<a data-lasso-id="203504" href="https://www.electrikjam.com/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener"> <strong>Sustainiac</strong></a>, <a data-lasso-id="203505" href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener"><strong>Floyd Rose</strong></a>, Grover, EMG Pickups, <a data-lasso-id="203506" href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener"><strong>Fishman Fluence</strong></a>, Tone Pros, Hipshot, and Lundgren.</p>
+<p>The last two years has been scattered for most companies, as usually new models are announced at NAMM, twice a year. It seems like we are getting back on track <em>now</em>, but the last two years guitar companies had to wait for parts shipments. Especially <strong>Schecter</strong>, a company that has deals with<a data-lasso-id="203504" href="/sustainiac-pickup-fixes/" data-type="post" data-id="6291" target="_blank" rel="noopener"> <strong>Sustainiac</strong></a>, <a data-lasso-id="203505" href="/floyd-rose-bridge-setup-beginners/" data-type="post" data-id="9118" target="_blank" rel="noopener"><strong>Floyd Rose</strong></a>, Grover, EMG Pickups, <a data-lasso-id="203506" href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" target="_blank" rel="noopener"><strong>Fishman Fluence</strong></a>, Tone Pros, Hipshot, and Lundgren.</p>
 
 
 
-<p><strong>Being partners with all of those companies is nice, since you get deals when you buy those products in bulk, and those savings are passed on to the customer.</strong> But if <a data-lasso-id="203507" href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener"><strong>Floyd Rose</strong></a>, for instance, is backed up? Then you have to wait until the company ships the parts to finish your guitar. This isn&#8217;t even factoring in the wood that comes from various different companies needed to actually<em> build a guitar</em>!</p>
+<p><strong>Being partners with all of those companies is nice, since you get deals when you buy those products in bulk, and those savings are passed on to the customer.</strong> But if <a data-lasso-id="203507" href="/floyd-rose-bridge-explained/" data-type="post" data-id="9067" target="_blank" rel="noopener"><strong>Floyd Rose</strong></a>, for instance, is backed up? Then you have to wait until the company ships the parts to finish your guitar. This isn&#8217;t even factoring in the wood that comes from various different companies needed to actually<em> build a guitar</em>!</p>
 
 
 
@@ -66,7 +66,7 @@ seo:
 
 
 
-<p>Anyone that has played one of the older Solo II models knows that this is an <em>amazing guitar</em>. Schecter took some cues from <a data-lasso-id="203529" href="https://www.electrikjam.com/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener"><strong>Gibson</strong></a>, definitely. But it is a far cry from being a &#8220;<em>copy</em>&#8221; of a Gibson. If you want it to &#8220;do the Les Paul things&#8221; then it will definitely deliver all of those tones.<strong> But the <em>difference</em> is in the construction, features, and <em>feel</em>.</strong></p>
+<p>Anyone that has played one of the older Solo II models knows that this is an <em>amazing guitar</em>. Schecter took some cues from <a data-lasso-id="203529" href="/is-a-gibson-les-paul-worth-it-my-2-cents/" data-type="post" data-id="6456" target="_blank" rel="noopener"><strong>Gibson</strong></a>, definitely. But it is a far cry from being a &#8220;<em>copy</em>&#8221; of a Gibson. If you want it to &#8220;do the Les Paul things&#8221; then it will definitely deliver all of those tones.<strong> But the <em>difference</em> is in the construction, features, and <em>feel</em>.</strong></p>
 
 
 
@@ -119,7 +119,7 @@ seo:
 
 
 
-<li><strong>Carbon Fiber Reinforced <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246504">Two Way Truss Rod</a> </strong></li>
+<li><strong>Carbon Fiber Reinforced <a href="/parts-of-an-electric-guitar/" data-lasso-id="246504">Two Way Truss Rod</a> </strong></li>
 
 
 
@@ -204,11 +204,11 @@ seo:
 
 
 
-<p>The two models of Schecter Solo II Supreme that I got to try were the <strong>&#8220;<a href="https://www.electrikjam.com/schecter-guitar-research-solo-ii-supreme-electric-guitar-see-thru-blue-burst-guitar-center/" target="_blank" data-type="lasso-urls" data-id="10195" rel="nofollow sponsored noopener" data-lasso-id="206414" data-lasso-name="Schecter Guitar Research Solo-II Supreme See Thru Blue Burst">See Thru Blue Burst</a>&#8220;</strong> and the <strong>&#8220;<a href="https://www.electrikjam.com/schecter-guitar-research-solo-ii-supreme-electric-guitar-cats-eye-black-burst-guitar-center/" target="_blank" data-type="lasso-urls" data-id="10191" rel="nofollow sponsored noopener" data-lasso-id="206415" data-lasso-name="Schecter Guitar Research Solo-II Supreme Cat&#039;s Eye Black Burst">Cat&#8217;s Eye Black Burst</a>&#8220;</strong>. Both looked <em>really great</em> right out of the box, but I prefer the Cat&#8217;s Eye version, as it looks more classic. The gloss finish continues on the back, but the neck itself is a satin finish, a standard Schecter trademark.</p>
+<p>The two models of Schecter Solo II Supreme that I got to try were the <strong>&#8220;<a href="/schecter-guitar-research-solo-ii-supreme-electric-guitar-see-thru-blue-burst-guitar-center/" target="_blank" data-type="lasso-urls" data-id="10195" rel="nofollow sponsored noopener" data-lasso-id="206414" data-lasso-name="Schecter Guitar Research Solo-II Supreme See Thru Blue Burst">See Thru Blue Burst</a>&#8220;</strong> and the <strong>&#8220;<a href="/schecter-guitar-research-solo-ii-supreme-electric-guitar-cats-eye-black-burst-guitar-center/" target="_blank" data-type="lasso-urls" data-id="10191" rel="nofollow sponsored noopener" data-lasso-id="206415" data-lasso-name="Schecter Guitar Research Solo-II Supreme Cat&#039;s Eye Black Burst">Cat&#8217;s Eye Black Burst</a>&#8220;</strong>. Both looked <em>really great</em> right out of the box, but I prefer the Cat&#8217;s Eye version, as it looks more classic. The gloss finish continues on the back, but the neck itself is a satin finish, a standard Schecter trademark.</p>
 
 
 
-<p>The Schecter Solo II Supreme is a beefy guitar! We weighed both of the guitars that we had, and they average out to be right at 8.5lbs. The Blue one was slightly heavier, but they were <em>very close</em> in weight. <strong>This <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-type="post" data-id="2545" target="_blank" rel="noopener" data-lasso-id="206416">body style</a> is thinner than a Gibson</strong>. So you might expect it to weigh a little less, but it feels very &#8220;substantial&#8221; when you hold it. It balances well on the strap we had, with no neck dive.</p>
+<p>The Schecter Solo II Supreme is a beefy guitar! We weighed both of the guitars that we had, and they average out to be right at 8.5lbs. The Blue one was slightly heavier, but they were <em>very close</em> in weight. <strong>This <a href="/types-of-guitars-guide/" data-type="post" data-id="2545" target="_blank" rel="noopener" data-lasso-id="206416">body style</a> is thinner than a Gibson</strong>. So you might expect it to weigh a little less, but it feels very &#8220;substantial&#8221; when you hold it. It balances well on the strap we had, with no neck dive.</p>
 
 
 
@@ -236,7 +236,7 @@ seo:
 
 
 
-<p>So is it worth the price tag? Being in the higher range of the Schecter price tier, I weighed my options with other guitars that were similar value and style in the store. The <a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" target="_blank" rel="noopener" data-lasso-id="206417"><strong>Epiphone Prophecy </strong></a>was a good comparison, as well as the<a href="https://www.electrikjam.com/guitar-center-pxf-io-e4aqvz/" data-type="lasso-urls" data-id="6070" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="206418" data-lasso-name="Gibson Les Paul tribute"><strong> Gibson Les Paul Tribute</strong></a>. Both comparison guitars are very good, and built well. <strong>I feel that the Schecter is built better, and offers more features than either of the comparisons, <em>despite</em> the higher price.</strong></p>
+<p>So is it worth the price tag? Being in the higher range of the Schecter price tier, I weighed my options with other guitars that were similar value and style in the store. The <a href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" target="_blank" rel="noopener" data-lasso-id="206417"><strong>Epiphone Prophecy </strong></a>was a good comparison, as well as the<a href="/guitar-center-pxf-io-e4aqvz/" data-type="lasso-urls" data-id="6070" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="206418" data-lasso-name="Gibson Les Paul tribute"><strong> Gibson Les Paul Tribute</strong></a>. Both comparison guitars are very good, and built well. <strong>I feel that the Schecter is built better, and offers more features than either of the comparisons, <em>despite</em> the higher price.</strong></p>
 
 
 
@@ -244,11 +244,11 @@ seo:
 
 
 
-<p>It can be very hard to describe how a guitar is &#8220;built better&#8221; or how it <em>just feels nicer </em>in the hands. But if you have ever played a USA <a href="https://www.electrikjam.com/prs-guitar-pedals-reviewed/" data-type="post" data-id="10030" target="_blank" rel="noopener" data-lasso-id="206419"><strong>PRS Guitar</strong></a>, or anything from a Custom Shop? The you know what I am talking about when it comes the &#8220;feel of quality&#8221;. A lot of <em>work</em> went into both models we have of the Schecter Solo II Supreme, and it shows just how far Korean-made instruments have progressed over the years.</p>
+<p>It can be very hard to describe how a guitar is &#8220;built better&#8221; or how it <em>just feels nicer </em>in the hands. But if you have ever played a USA <a href="/prs-guitar-pedals-reviewed/" data-type="post" data-id="10030" target="_blank" rel="noopener" data-lasso-id="206419"><strong>PRS Guitar</strong></a>, or anything from a Custom Shop? The you know what I am talking about when it comes the &#8220;feel of quality&#8221;. A lot of <em>work</em> went into both models we have of the Schecter Solo II Supreme, and it shows just how far Korean-made instruments have progressed over the years.</p>
 
 
 
-<p><strong>In terms of quality, this is the best <a href="https://www.electrikjam.com/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247822">Schecter guitar</a> I have played in a while</strong>. <strong>That is saying <em>a lot</em>, since I happen to own <em>one of the best</em>, which sets the standard for all other Schecter guitars I review.</strong> It sits right up there with <a href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener" data-lasso-id="206420"><strong>my E1 Koa</strong></a>, and the<strong> KM MKIII Series</strong> in terms of build quality and features. The Schecter Solo II Supreme belongs right at the top tier of any import guitars. People say Korea is &#8220;the new Japan&#8221; when it comes to quality, <em>and I agree</em>.</p>
+<p><strong>In terms of quality, this is the best <a href="/thultimate-schecter-guitars-buyers-guide-2023/" data-lasso-id="247822">Schecter guitar</a> I have played in a while</strong>. <strong>That is saying <em>a lot</em>, since I happen to own <em>one of the best</em>, which sets the standard for all other Schecter guitars I review.</strong> It sits right up there with <a href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener" data-lasso-id="206420"><strong>my E1 Koa</strong></a>, and the<strong> KM MKIII Series</strong> in terms of build quality and features. The Schecter Solo II Supreme belongs right at the top tier of any import guitars. People say Korea is &#8220;the new Japan&#8221; when it comes to quality, <em>and I agree</em>.</p>
 
 
 
@@ -264,11 +264,11 @@ seo:
 
 
 
-<p>We tried out both models but I am not going to lie, the Cat&#8217;s Eye model appealed to me more. Some guitars just <em>speak to you</em>! So I tried out both models, but used the Cat&#8217;s Eye Burst guitar for any sound demos you will hear later. We used our trusty<a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="206421"> <strong>BOSS Katana</strong></a>,<a href="https://www.electrikjam.com/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="206422"> <strong>STL Tones Amp Hub</strong></a>, and a <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="206423"><strong>Peavey 5150 ICONIC</strong></a>. </p>
+<p>We tried out both models but I am not going to lie, the Cat&#8217;s Eye model appealed to me more. Some guitars just <em>speak to you</em>! So I tried out both models, but used the Cat&#8217;s Eye Burst guitar for any sound demos you will hear later. We used our trusty<a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="206421"> <strong>BOSS Katana</strong></a>,<a href="/stl-amphub-review/" data-type="post" data-id="5892" target="_blank" rel="noopener" data-lasso-id="206422"> <strong>STL Tones Amp Hub</strong></a>, and a <a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="206423"><strong>Peavey 5150 ICONIC</strong></a>. </p>
 
 
 
-<p>I wanted every <a href="https://www.electrikjam.com/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener" data-lasso-id="206424"><strong>type of amp</strong></a> represented for the tests. I feel like most players that will buy a Schecter Solo II Supreme should fall into one of these categories listed. Lots of guitarists use amp sims exclusively, and the BOSS Katana is very popular with all kinds of guitarists. Likewise, many people still use <a href="https://www.electrikjam.com/best-low-wattage-tube-amps-reviewed/" data-type="post" data-id="9326" target="_blank" rel="noopener" data-lasso-id="206425"><strong>tube amps</strong></a>, and the 5150 is used <em>a lot</em> in Metal.</p>
+<p>I wanted every <a href="/choosing-a-guitar-amplifier/" data-type="post" data-id="8761" target="_blank" rel="noopener" data-lasso-id="206424"><strong>type of amp</strong></a> represented for the tests. I feel like most players that will buy a Schecter Solo II Supreme should fall into one of these categories listed. Lots of guitarists use amp sims exclusively, and the BOSS Katana is very popular with all kinds of guitarists. Likewise, many people still use <a href="/best-low-wattage-tube-amps-reviewed/" data-type="post" data-id="9326" target="_blank" rel="noopener" data-lasso-id="206425"><strong>tube amps</strong></a>, and the 5150 is used <em>a lot</em> in Metal.</p>
 
 
 
@@ -288,7 +288,7 @@ seo:
 
 
 
-<p>This is a dramatic difference, and if you plan on using the Schecter Solo II Supreme for alternate tunings, then this will be easier than you have ever experienced! You really have to<em><strong> feel it </strong></em>to understand how it works. But tuned to pitch, the Solo II Supreme never needed any adjustments until I put it in<a href="https://www.electrikjam.com/best-strings-for-drop-d-tuning/" data-type="post" data-id="7410" target="_blank" rel="noopener" data-lasso-id="206426"><strong> Drop D</strong></a>. <strong>It held tuning perfectly, the entire time.</strong></p>
+<p>This is a dramatic difference, and if you plan on using the Schecter Solo II Supreme for alternate tunings, then this will be easier than you have ever experienced! You really have to<em><strong> feel it </strong></em>to understand how it works. But tuned to pitch, the Solo II Supreme never needed any adjustments until I put it in<a href="/best-strings-for-drop-d-tuning/" data-type="post" data-id="7410" target="_blank" rel="noopener" data-lasso-id="206426"><strong> Drop D</strong></a>. <strong>It held tuning perfectly, the entire time.</strong></p>
 
 
 
@@ -352,7 +352,7 @@ seo:
 
 
 
-<p>But the star of the Schecter Solo II Supreme is the <strong>Lundgren Black Heaven Pickup</strong> set. This is a <strong>calibrated set</strong>, which means they are made at the same time, and paired together after being measured electronically. This makes the set very balanced when you switch back and forth (depending on height). Have you ever had a bridge pickup that was much hotter than the neck pickup? That can be annoying when switching <a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="206427"><strong>pickup positions</strong></a>.</p>
+<p>But the star of the Schecter Solo II Supreme is the <strong>Lundgren Black Heaven Pickup</strong> set. This is a <strong>calibrated set</strong>, which means they are made at the same time, and paired together after being measured electronically. This makes the set very balanced when you switch back and forth (depending on height). Have you ever had a bridge pickup that was much hotter than the neck pickup? That can be annoying when switching <a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="206427"><strong>pickup positions</strong></a>.</p>
 
 
 
@@ -364,7 +364,7 @@ seo:
 
 
 
-<p><strong>The bridge pickup</strong> has a super tight bass response, and tons of midrange output. I did not use an overdrive at all to &#8220;tighten up&#8221; the sound of the amp. Usually a high output bridge pickup can sound shrill, and I have had this problem with <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="206428"><strong>Duncan Invaders</strong></a>. The best way to describe the sound is CLEAR and clean, not matter how much distortion or fuzz you throw at it. Harmonics and squeals just jump out at you!</p>
+<p><strong>The bridge pickup</strong> has a super tight bass response, and tons of midrange output. I did not use an overdrive at all to &#8220;tighten up&#8221; the sound of the amp. Usually a high output bridge pickup can sound shrill, and I have had this problem with <a href="/seymour-duncan-invader-pickup-reviews/" data-type="post" data-id="5114" target="_blank" rel="noopener" data-lasso-id="206428"><strong>Duncan Invaders</strong></a>. The best way to describe the sound is CLEAR and clean, not matter how much distortion or fuzz you throw at it. Harmonics and squeals just jump out at you!</p>
 
 
 
@@ -380,7 +380,7 @@ seo:
 
 
 
-<p>I originally just had individual sound samples for you to hear with the Schecter Solo II Supreme. But while that sounded good, I decided to let you hear what it sounds like in a <strong>MIX</strong>. I used the Katana, <a href="https://www.electrikjam.com/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="206429"><strong>with a mic</strong></a> for one track. The rest are STL Tones, and the 5150 with a mic in front of it. There are 6 guitar tracks total, with varying stages of gain.<em> I think it sounds immense!</em> The track is below:</p>
+<p>I originally just had individual sound samples for you to hear with the Schecter Solo II Supreme. But while that sounded good, I decided to let you hear what it sounds like in a <strong>MIX</strong>. I used the Katana, <a href="/how-to-mic-a-guitar-amp/" data-type="post" data-id="8817" target="_blank" rel="noopener" data-lasso-id="206429"><strong>with a mic</strong></a> for one track. The rest are STL Tones, and the 5150 with a mic in front of it. There are 6 guitar tracks total, with varying stages of gain.<em> I think it sounds immense!</em> The track is below:</p>
 
 
 
@@ -390,11 +390,11 @@ seo:
 
 
 
-<p><strong>While the Schecter Solo II Supreme is clearly a Metal monster, it can also be dialed back.</strong> The Lundgren Pickups are high output, but playing clean sounds great as well. Through a <a href="https://www.electrikjam.com/pxf-63/" data-type="lasso-urls" data-id="8522" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="206430" data-lasso-name="Fender Blues Junior IV 15W 1x12 Tube Guitar Combo Amplifier"><strong>Fender Blues JR</strong></a> it can pull off some <em>tasty </em>Blues tones, clean <em>and </em>overdriven. The coil split sounds a little anemic on the bridge pickup with clean tones, but the middle position and neck pickup sounds<em> great</em> with some reverb.</p>
+<p><strong>While the Schecter Solo II Supreme is clearly a Metal monster, it can also be dialed back.</strong> The Lundgren Pickups are high output, but playing clean sounds great as well. Through a <a href="/pxf-63/" data-type="lasso-urls" data-id="8522" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="206430" data-lasso-name="Fender Blues Junior IV 15W 1x12 Tube Guitar Combo Amplifier"><strong>Fender Blues JR</strong></a> it can pull off some <em>tasty </em>Blues tones, clean <em>and </em>overdriven. The coil split sounds a little anemic on the bridge pickup with clean tones, but the middle position and neck pickup sounds<em> great</em> with some reverb.</p>
 
 
 
-<p>I know that Lundgren Pickups are usually thought of as the &#8220;<a href="https://www.electrikjam.com/what-guitar-amps-do-meshuggah-use/" data-type="post" data-id="7561" target="_blank" rel="noopener" data-lasso-id="206431"><strong>Meshuggah</strong></a>&#8221; pickups, and they get lumped in with all the other &#8220;Metal&#8221; pickups. <strong>But the clarity that these produce can work for </strong><em><strong>any genre</strong>.</em> You will be sure to cut into the mix of <em>any</em> band situation, and you can even roll the tone knob down for some Jazz licks.</p>
+<p>I know that Lundgren Pickups are usually thought of as the &#8220;<a href="/what-guitar-amps-do-meshuggah-use/" data-type="post" data-id="7561" target="_blank" rel="noopener" data-lasso-id="206431"><strong>Meshuggah</strong></a>&#8221; pickups, and they get lumped in with all the other &#8220;Metal&#8221; pickups. <strong>But the clarity that these produce can work for </strong><em><strong>any genre</strong>.</em> You will be sure to cut into the mix of <em>any</em> band situation, and you can even roll the tone knob down for some Jazz licks.</p>
 
 
 
@@ -426,7 +426,7 @@ seo:
 
 
 
-<p>As this year is coming to a close, I was thinking about all of the guitars I have played this year. I have played a lot of really great guitars, and even kept the <a href="https://www.electrikjam.com/schecter-omen-elite-2022-review/" target="_blank" data-type="post" data-id="8912" rel="noopener" data-lasso-id="206432"><strong>Omen Elite</strong></a> that I reviewed. <strong>When it comes to price and features, the Schecter Solo II Supreme might be the best guitar I have played all year.</strong> I would love to see Schecter give this treatment to some of the other models, making them <em>the best they can be</em>.</p>
+<p>As this year is coming to a close, I was thinking about all of the guitars I have played this year. I have played a lot of really great guitars, and even kept the <a href="/schecter-omen-elite-2022-review/" target="_blank" data-type="post" data-id="8912" rel="noopener" data-lasso-id="206432"><strong>Omen Elite</strong></a> that I reviewed. <strong>When it comes to price and features, the Schecter Solo II Supreme might be the best guitar I have played all year.</strong> I would love to see Schecter give this treatment to some of the other models, making them <em>the best they can be</em>.</p>
 
 
 
@@ -434,7 +434,7 @@ seo:
 
 
 
-<p class="has-text-align-center"><strong>Now, I suppose <em>I am going to have to buy one</em>! Definitely the Cat&#8217;s Eye Burst model!</strong> <strong>These are in stock at <a href="https://www.electrikjam.com/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229705">Guitar Center</a>!</strong></p>
+<p class="has-text-align-center"><strong>Now, I suppose <em>I am going to have to buy one</em>! Definitely the Cat&#8217;s Eye Burst model!</strong> <strong>These are in stock at <a href="/guitar-center-guitar-a-thon-2023-best-deals/" data-lasso-id="229705">Guitar Center</a>!</strong></p>
 
 
 

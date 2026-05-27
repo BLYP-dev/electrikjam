@@ -47,7 +47,7 @@ seo:
 
 
 
-<p>Back during this era, the Deftones still used six-string guitars. <strong><a href="https://www.electrikjam.com/what-guitar-does-chino-moreno-play/" data-type="post" data-id="937" data-lasso-id="1513">Chino used (and continues to use) a Gibson SG</a></strong>, while Steph has always favored ESP guitars –&nbsp;<strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="1514">he’s even got a 9-string one now</a></strong> that he used on the band’s latest release, <strong><em>OHMS</em></strong>.</p>
+<p>Back during this era, the Deftones still used six-string guitars. <strong><a href="/what-guitar-does-chino-moreno-play/" data-type="post" data-id="937" data-lasso-id="1513">Chino used (and continues to use) a Gibson SG</a></strong>, while Steph has always favored ESP guitars –&nbsp;<strong><a href="/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="1514">he’s even got a 9-string one now</a></strong> that he used on the band’s latest release, <strong><em>OHMS</em></strong>.</p>
 
 
 
@@ -65,11 +65,11 @@ seo:
 		
 
 
-<p>Steph used Drop D# for practically all of Around The Fur. With White Pony, the band started <strong><a href="https://www.electrikjam.com/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" data-lasso-id="1515">experimenting with Drop C tuning</a></strong> as well. After this, more strings were added to Steph’s guitar and the tunings changed again, <a href="https://www.electrikjam.com/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-lasso-id="6310">bottoming out with Drop A tuning</a>.</p>
+<p>Steph used Drop D# for practically all of Around The Fur. With White Pony, the band started <strong><a href="/bands-that-use-drop-c-tuning/" data-type="post" data-id="1916" data-lasso-id="1515">experimenting with Drop C tuning</a></strong> as well. After this, more strings were added to Steph’s guitar and the tunings changed again, <a href="/aadgbe-guitar-tuning-drop-a-gettin-proper-low-n-dirty/" data-lasso-id="6310">bottoming out with Drop A tuning</a>.</p>
 
 
 
-<p>But for <a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-lasso-id="1516">Drop D</a> tunes, you have plenty to choose from. Especially if you’re a fan of classic-era Deftones. Here’s a list of all the Deftones songs you can play along with in <strong><a href="https://www.electrikjam.com/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" data-lasso-id="1517">Drop D tuning.</a></strong></p>
+<p>But for <a href="/d-standard-tuning-guide-how-to/" data-lasso-id="1516">Drop D</a> tunes, you have plenty to choose from. Especially if you’re a fan of classic-era Deftones. Here’s a list of all the Deftones songs you can play along with in <strong><a href="/electric-guitar-scale-length-a-complete-guide/" data-type="post" data-id="3382" data-lasso-id="1517">Drop D tuning.</a></strong></p>
 
 
 
@@ -93,11 +93,11 @@ seo:
 
 
 
-<p>These two albums, in my opinion, are the Deftones’ best work to date. If you want to learn to play like <strong><a href="https://www.electrikjam.com/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="1518">Steph Carpenter</a></strong>, learning some of his most iconic riffs is a great place to start.</p>
+<p>These two albums, in my opinion, are the Deftones’ best work to date. If you want to learn to play like <strong><a href="/steph-carpenters-9-string-esp-guitar/" data-type="post" data-id="637" data-lasso-id="1518">Steph Carpenter</a></strong>, learning some of his most iconic riffs is a great place to start.</p>
 
 
 
-<p>The Deftones use a lot of <strong><a href="https://www.electrikjam.com/chord-voicing-extensions-for-metal/" data-type="post" data-id="2151" data-lasso-id="1519">unusual chords</a></strong> too, so if you’re looking to bulk out your chord vocabulary you’ll learn quite a bit by getting to grips with these Deftones songs.</p>
+<p>The Deftones use a lot of <strong><a href="/chord-voicing-extensions-for-metal/" data-type="post" data-id="2151" data-lasso-id="1519">unusual chords</a></strong> too, so if you’re looking to bulk out your chord vocabulary you’ll learn quite a bit by getting to grips with these Deftones songs.</p>
 
 
 
@@ -105,7 +105,7 @@ seo:
 
 
 
-<p>And for me, this is part of the Deftones’ beauty. They create simple, emotive songs based around <strong><a href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/" data-type="post" data-id="2815" data-lasso-id="1520">killer riffs </a></strong>that lack nearly all the complexity of their peers’.</p>
+<p>And for me, this is part of the Deftones’ beauty. They create simple, emotive songs based around <strong><a href="/matt-pike-dopesmoker-sleep/" data-type="post" data-id="2815" data-lasso-id="1520">killer riffs </a></strong>that lack nearly all the complexity of their peers’.</p>
 
 
 
@@ -125,7 +125,7 @@ seo:
 
 
 
-<p>Or, if you’re more of a plug into your computer and play kinda guy (or gal), then you can pretty easily create Deftones’ iconic sound with a <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="1523">DAW like Positive Grid’s BIAS FX 2</a></strong>.</p>
+<p>Or, if you’re more of a plug into your computer and play kinda guy (or gal), then you can pretty easily create Deftones’ iconic sound with a <strong><a href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="1523">DAW like Positive Grid’s BIAS FX 2</a></strong>.</p>
 
 
 

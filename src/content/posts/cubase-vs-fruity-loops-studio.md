@@ -46,11 +46,11 @@ seo:
 
 
 
-<p>The reality, is Fruity Loops Studio is still an amazing sequencer program today, but now it is also a fully-functioning Digital Audio Workstation (DAW). Much like <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="246736">Cubase</a></strong>, it has plugins and built-in features that make it easy to create and produce songs efficiently. So what is the main difference between the two?</p>
+<p>The reality, is Fruity Loops Studio is still an amazing sequencer program today, but now it is also a fully-functioning Digital Audio Workstation (DAW). Much like <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" target="_blank" rel="noopener" data-lasso-id="246736">Cubase</a></strong>, it has plugins and built-in features that make it easy to create and produce songs efficiently. So what is the main difference between the two?</p>
 
 
 
-<p>We have already <strong><a href="https://www.electrikjam.com/cubase-12-vs-logic/" data-type="post" data-id="12374" target="_blank" rel="noopener" data-lasso-id="246737">checked out how Cubase stacks up to Logic X Pro</a></strong>, and the differences were bigger than we originally thought. Choosing the right DAW for your style and purposes is paramount, since it will reflect in your workflow. And your workflow dictates your total output, which is what we all aim to achieve.</p>
+<p>We have already <strong><a href="/cubase-12-vs-logic/" data-type="post" data-id="12374" target="_blank" rel="noopener" data-lasso-id="246737">checked out how Cubase stacks up to Logic X Pro</a></strong>, and the differences were bigger than we originally thought. Choosing the right DAW for your style and purposes is paramount, since it will reflect in your workflow. And your workflow dictates your total output, which is what we all aim to achieve.</p>
 
 
 
@@ -98,7 +98,7 @@ seo:
 
 
 
-<p>Let&#8217;s looks at the <strong><a href="https://www.electrikjam.com/cubase-version-history/" target="_blank" data-type="post" data-id="12384" rel="noopener" data-lasso-id="246738">different version histories </a></strong>of both, starting with <strong>Cubase</strong>:</p>
+<p>Let&#8217;s looks at the <strong><a href="/cubase-version-history/" target="_blank" data-type="post" data-id="12384" rel="noopener" data-lasso-id="246738">different version histories </a></strong>of both, starting with <strong>Cubase</strong>:</p>
 
 
 

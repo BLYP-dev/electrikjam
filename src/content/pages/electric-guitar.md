@@ -110,7 +110,7 @@ seo:
 
 
 
-<figure class="wp-block-image alignwide size-full"><a href="https://www.electrikjam.com/team-members/christopher-horton/" data-lasso-id="268171"><img decoding="async" width="771" height="771" src="/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="/wp-content/uploads/2020/09/christoper-horton.jpg 771w, /wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, /wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, /wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, /wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, /wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></a></figure>
+<figure class="wp-block-image alignwide size-full"><a href="/team-members/christopher-horton/" data-lasso-id="268171"><img decoding="async" width="771" height="771" src="/wp-content/uploads/2020/09/christoper-horton.jpg" alt="Christopher Horton" class="wp-image-500" title="" srcset="/wp-content/uploads/2020/09/christoper-horton.jpg 771w, /wp-content/uploads/2020/09/christoper-horton-300x300.jpg 300w, /wp-content/uploads/2020/09/christoper-horton-100x100.jpg 100w, /wp-content/uploads/2020/09/christoper-horton-600x600.jpg 600w, /wp-content/uploads/2020/09/christoper-horton-150x150.jpg 150w, /wp-content/uploads/2020/09/christoper-horton-768x768.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></a></figure>
 
 
 
@@ -618,7 +618,7 @@ seo:
 
 
 
-<p>If you’re smart, you’ll learn in Standard Tuning. Once you understand the neck, chords, scale patterns, and the notes, you can <strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="268179">experiment with alternative tunings</a></strong> like Drop D, D Standard, and more.</p>
+<p>If you’re smart, you’ll learn in Standard Tuning. Once you understand the neck, chords, scale patterns, and the notes, you can <strong><a href="/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="268179">experiment with alternative tunings</a></strong> like Drop D, D Standard, and more.</p>
 
 
 
@@ -627,7 +627,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="268180">Standard Tuning</a></strong>: Standard Tuning is what the vast majority of popular and classic guitar music is written in. Think of it as basecamp for your guitar, a place where you can build and understand how everything works.</p>
+<p><strong><a href="/standard-tuning-guitar-explained-history/" data-type="post" data-id="11231" data-lasso-id="268180">Standard Tuning</a></strong>: Standard Tuning is what the vast majority of popular and classic guitar music is written in. Think of it as basecamp for your guitar, a place where you can build and understand how everything works.</p>
 </div>
 
 
@@ -637,7 +637,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="268181">D Standard Tuning</a></strong>: D Standard Tuning is the same as Standard Tuning, except all of your strings are tuned DOWN a whole step. Standard Tuning looks like this: EADGBE, while D Standard looks like this DGCFAD.</p>
+<p><strong><a href="/d-standard-tuning-guide-how-to/" data-type="post" data-id="3692" data-lasso-id="268181">D Standard Tuning</a></strong>: D Standard Tuning is the same as Standard Tuning, except all of your strings are tuned DOWN a whole step. Standard Tuning looks like this: EADGBE, while D Standard looks like this DGCFAD.</p>
 </div>
 
 
@@ -647,7 +647,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="268182">Drop D Tuning</a></strong>: Drop D Tuning is where you turn the low e-string down a whole step to D while leaving all the other strings in Standard Tuning. This allows for one-finger power chords..</p>
+<p><strong><a href="/drop-d-tuning-guitar-guide/" data-type="post" data-id="5202" data-lasso-id="268182">Drop D Tuning</a></strong>: Drop D Tuning is where you turn the low e-string down a whole step to D while leaving all the other strings in Standard Tuning. This allows for one-finger power chords..</p>
 </div>
 
 
@@ -657,7 +657,7 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="268183">C Standard Tuning</a></strong>: C Standard Tuning is like D Standard Tuning except you’re tuning down another whole step. Josh Homme and other stoner rock bands like this tuning; it’s low and sounds incredibly heavy.</p>
+<p><strong><a href="/most-common-guitar-tunings/" data-type="post" data-id="5246" data-lasso-id="268183">C Standard Tuning</a></strong>: C Standard Tuning is like D Standard Tuning except you’re tuning down another whole step. Josh Homme and other stoner rock bands like this tuning; it’s low and sounds incredibly heavy.</p>
 </div>
 
 
@@ -1017,7 +1017,7 @@ seo:
 
 
 
-<li><a class="wpil_keyword_link" href="https://www.electrikjam.com/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="268194">Ibanez guitars</a> often feature high-output pickups great for heavy genres.</li>
+<li><a class="wpil_keyword_link" href="/ibanez-guitars/" title="Ibanez guitars" data-wpil-keyword-link="linked" data-lasso-id="268194">Ibanez guitars</a> often feature high-output pickups great for heavy genres.</li>
 
 
 
@@ -1098,7 +1098,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="268195"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" style="border-radius:20px" title="" srcset="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, /wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">This ain&#8217;t a Fender or a Squier; <strong><a href="https://www.electrikjam.com/best-harley-benton-telecaster/" data-lasso-id="268196">it&#8217;s a Harley Benton. It costs $200 and it is utterly brilliant</a></strong> – one of favorite beginner guitars on the market right now</figcaption></figure>
+<figure class="wp-block-image size-large has-custom-border"><a href="/best-harley-benton-telecaster/" data-lasso-id="268195"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png" alt="best harley benton telecaster" class="wp-image-11882" style="border-radius:20px" title="" srcset="/wp-content/uploads/2023/05/best-harley-benton-telecaster-1024x683.png 1024w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-600x400.png 600w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-300x200.png 300w, /wp-content/uploads/2023/05/best-harley-benton-telecaster-768x512.png 768w, /wp-content/uploads/2023/05/best-harley-benton-telecaster.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">This ain&#8217;t a Fender or a Squier; <strong><a href="/best-harley-benton-telecaster/" data-lasso-id="268196">it&#8217;s a Harley Benton. It costs $200 and it is utterly brilliant</a></strong> – one of favorite beginner guitars on the market right now</figcaption></figure>
 </div>
 </section>
 

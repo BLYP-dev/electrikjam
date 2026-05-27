@@ -45,7 +45,7 @@ seo:
 
 
 
-<p>And like <strong><a href="https://www.electrikjam.com/guitar-legends/adam-jones/" data-type="guitar-legends" data-id="14052" data-lasso-id="261023">Adam Jones from TOOL</a></strong>, I&#8217;m a massive fan of <strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="261024">Seymour Duncan pickups</a></strong>. Especially when I&#8217;m trying to dial-in some low-end growl on a Tele baritone.</p>
+<p>And like <strong><a href="/guitar-legends/adam-jones/" data-type="guitar-legends" data-id="14052" data-lasso-id="261023">Adam Jones from TOOL</a></strong>, I&#8217;m a massive fan of <strong><a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="261024">Seymour Duncan pickups</a></strong>. Especially when I&#8217;m trying to dial-in some low-end growl on a Tele baritone.</p>
 
 
 
@@ -74,7 +74,7 @@ seo:
 
 
 
-<li><strong>Price: <a href="https://www.electrikjam.com/seymour-duncan-black-winter-link/" target="_blank" rel="nofollow noopener" data-lasso-id="261025" data-lasso-name="Seymour Duncan Black Winter Pickup">$109.00</a></strong></li>
+<li><strong>Price: <a href="/seymour-duncan-black-winter-link/" target="_blank" rel="nofollow noopener" data-lasso-id="261025" data-lasso-name="Seymour Duncan Black Winter Pickup">$109.00</a></strong></li>
 </ul>
 
 
@@ -92,7 +92,7 @@ seo:
 
 
 
-<li><strong>Price: <a href="https://www.electrikjam.com/seymour-duncan-duncan-distortion-pickup-seymour-duncan/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="261026" data-lasso-name="Seymour Duncan SH-6B Distortion Humbucker">$99.00</a></strong></li>
+<li><strong>Price: <a href="/seymour-duncan-duncan-distortion-pickup-seymour-duncan/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="261026" data-lasso-name="Seymour Duncan SH-6B Distortion Humbucker">$99.00</a></strong></li>
 </ul>
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<li><strong>Price: <a href="https://www.electrikjam.com/seymour-duncan-jb-jazz-pickup/" target="_blank" rel="nofollow noopener" data-lasso-id="261028" data-lasso-name="Duncan JB/Jazz Combo">$99.00</a></strong></li>
+<li><strong>Price: <a href="/seymour-duncan-jb-jazz-pickup/" target="_blank" rel="nofollow noopener" data-lasso-id="261028" data-lasso-name="Duncan JB/Jazz Combo">$99.00</a></strong></li>
 </ul>
 
 
@@ -137,7 +137,7 @@ seo:
 
 
 
-<p>I&#8217;m a huge fan of the standard <strong><a href="https://www.electrikjam.com/seymour-duncan-duncan-distortion-pickup-seymour-duncan/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="261029" data-lasso-name="Seymour Duncan SH-6B Distortion Humbucker">Distortion</a></strong> and <a href="https://www.electrikjam.com/seymour-duncan-jb-jazz-pickup/" target="_blank" rel="nofollow noopener" data-lasso-id="261030" data-lasso-name="Duncan JB/Jazz Combo"><strong>JB/&#8217;59 pickups</strong>.</a> They&#8217;re relatively cheap, they sound incredible, and they deliver spades of depth to your sound. </p>
+<p>I&#8217;m a huge fan of the standard <strong><a href="/seymour-duncan-duncan-distortion-pickup-seymour-duncan/" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="261029" data-lasso-name="Seymour Duncan SH-6B Distortion Humbucker">Distortion</a></strong> and <a href="/seymour-duncan-jb-jazz-pickup/" target="_blank" rel="nofollow noopener" data-lasso-id="261030" data-lasso-name="Duncan JB/Jazz Combo"><strong>JB/&#8217;59 pickups</strong>.</a> They&#8217;re relatively cheap, they sound incredible, and they deliver spades of depth to your sound. </p>
 
 
 
@@ -175,5 +175,5 @@ seo:
 
 
 
-<p>And if you need an assist on what baritone guitar to buy, here&#8217;s my top picks for the <strong><a href="https://www.electrikjam.com/best-baritone-guitars-for-metal/" data-type="post" data-id="11706" data-lasso-id="261031">best baritone guitars of 2024</a></strong> so far. </p>
+<p>And if you need an assist on what baritone guitar to buy, here&#8217;s my top picks for the <strong><a href="/best-baritone-guitars-for-metal/" data-type="post" data-id="11706" data-lasso-id="261031">best baritone guitars of 2024</a></strong> so far. </p>
 

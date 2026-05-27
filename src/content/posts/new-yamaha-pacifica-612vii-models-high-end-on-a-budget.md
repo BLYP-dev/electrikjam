@@ -52,7 +52,7 @@ seo:
 
 
 
-<p>The Yamaha Pacifica is is one of the number one <a href="https://www.electrikjam.com/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="561">guitars for beginners.</a> The Pacifica is often recommended because it is a very versatile guitar, and has several different price points. If you are an absolute beginner, and only have $200? Yamaha has you covered.</p>
+<p>The Yamaha Pacifica is is one of the number one <a href="/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="561">guitars for beginners.</a> The Pacifica is often recommended because it is a very versatile guitar, and has several different price points. If you are an absolute beginner, and only have $200? Yamaha has you covered.</p>
 
 
 
@@ -80,11 +80,11 @@ seo:
 
 
 
-<p>The Yamaha Pacifica 612VII Series, as well as the many other Pacifica guitars, <em>does look</em> a little like a Stratocaster. But looks is where the comparison ends. These have features you would never find on a <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="563">Fender</a>. </p>
+<p>The Yamaha Pacifica 612VII Series, as well as the many other Pacifica guitars, <em>does look</em> a little like a Stratocaster. But looks is where the comparison ends. These have features you would never find on a <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="563">Fender</a>. </p>
 
 
 
-<ul class="wp-block-list"><li><strong>Flame Maple Tops</strong></li><li><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-lasso-id="7859"><strong>Seymour Duncan</a> TB-14 Custom 5 and SSL-1 single-coil pickups</strong></li><li><strong>Coil Tap for the bridge humbucker</strong></li><li><strong>Graph Tech TUSQ nut/ String trees</strong></li><li><strong>Wilkinson VS50 bridge</strong></li><li><strong>Grover Locking Tuners</strong></li><li><strong>13 3/4&#8243; Radius</strong></li><li><strong>Maple Neck/ Rosewood Fretboard</strong></li><li><strong>Alder Body</strong></li><li><strong>22 Frets</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Flame Maple Tops</strong></li><li><a href="/seymour-duncan-jb-reviews/" data-lasso-id="7859"><strong>Seymour Duncan</a> TB-14 Custom 5 and SSL-1 single-coil pickups</strong></li><li><strong>Coil Tap for the bridge humbucker</strong></li><li><strong>Graph Tech TUSQ nut/ String trees</strong></li><li><strong>Wilkinson VS50 bridge</strong></li><li><strong>Grover Locking Tuners</strong></li><li><strong>13 3/4&#8243; Radius</strong></li><li><strong>Maple Neck/ Rosewood Fretboard</strong></li><li><strong>Alder Body</strong></li><li><strong>22 Frets</strong></li></ul>
 
 
 
@@ -92,11 +92,11 @@ seo:
 
 
 
-<p>The <a href="https://www.electrikjam.com/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7416">Seymour Duncan pickups</a> are the standout feature of the Yamaha Pacifica 612VII series. The TB-14 bridge humbucker can do everything from Metal to Blues, and is the perfect compliment to a guitar that is so versatile. This bridge pickup can be coil tapped to get a single coil sound.</p>
+<p>The <a href="/the-top-5-best-seymour-duncan-pickups-for-metal/" data-lasso-id="7416">Seymour Duncan pickups</a> are the standout feature of the Yamaha Pacifica 612VII series. The TB-14 bridge humbucker can do everything from Metal to Blues, and is the perfect compliment to a guitar that is so versatile. This bridge pickup can be coil tapped to get a single coil sound.</p>
 
 
 
-<p>The Single Coil SSL-1 pickups do justice to clean tones, and distorted solos alike. These are medium-hot pickups that <a href="https://www.electrikjam.com/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11263">work great for Strat tones</a>, but can also be dialed in for a bass-ier sound, and can even sound like a P-90.</p>
+<p>The Single Coil SSL-1 pickups do justice to clean tones, and distorted solos alike. These are medium-hot pickups that <a href="/mike-rutherford-uses-a-200-squier-strat-heres-why/" data-lasso-id="11263">work great for Strat tones</a>, but can also be dialed in for a bass-ier sound, and can even sound like a P-90.</p>
 
 
 
@@ -122,11 +122,11 @@ seo:
 
 
 
-<p>The thing about the Yamaha Pacifica series (as well as <a href="https://www.electrikjam.com/yamaha-revstar-element-review/" data-lasso-id="91537">the newer and totally amazing Yamaha Revstar</a> series), is that it is a great beginner instrument that some people fall in love with. Once they become enamored with the Pacifica, they start doing upgrades to the guitar. This can add up, pretty fast.</p>
+<p>The thing about the Yamaha Pacifica series (as well as <a href="/yamaha-revstar-element-review/" data-lasso-id="91537">the newer and totally amazing Yamaha Revstar</a> series), is that it is a great beginner instrument that some people fall in love with. Once they become enamored with the Pacifica, they start doing upgrades to the guitar. This can add up, pretty fast.</p>
 
 
 
-<p>So let&#8217;s say you have the nicer <a href="https://www.electrikjam.com/yamaha-revstar-standard-review/" data-lasso-id="97630">beginner</a> Pacifica PAC112. You do <strong>all </strong>of the upgrades that come stock with the Yamaha Pacifica 612VII&#8230;</p>
+<p>So let&#8217;s say you have the nicer <a href="/yamaha-revstar-standard-review/" data-lasso-id="97630">beginner</a> Pacifica PAC112. You do <strong>all </strong>of the upgrades that come stock with the Yamaha Pacifica 612VII&#8230;</p>
 
 
 
@@ -142,7 +142,7 @@ seo:
 
 
 
-<p>So if that sounds like something that is up your alley, but you want it fully-spec&#8217;d out&#8230; then this is the guitar for you. This is also a great choice if you have outgrown your original Pacifica. These newer Pacifica models still come under the <a href="https://www.electrikjam.com/aio-wolf-guitars-review-2021/" data-lasso-id="21767">price of most guitars</a> with comparable features.</p>
+<p>So if that sounds like something that is up your alley, but you want it fully-spec&#8217;d out&#8230; then this is the guitar for you. This is also a great choice if you have outgrown your original Pacifica. These newer Pacifica models still come under the <a href="/aio-wolf-guitars-review-2021/" data-lasso-id="21767">price of most guitars</a> with comparable features.</p>
 
 
 

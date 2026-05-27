@@ -44,7 +44,7 @@ seo:
 
 
 
-<p>Brian Carstens got his start doing amp repairs at the Chicago Music Exchange. He has worked with some big names in the music industry, doing work with classic rockers like Fleetwood Mac, Billy Gibbons, and Mike Campbell. But he has also worked closely with <a href="https://www.electrikjam.com/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="504">The Deftones</a> and proud Chicago native <strong>Billy Corgan </strong>.</p>
+<p>Brian Carstens got his start doing amp repairs at the Chicago Music Exchange. He has worked with some big names in the music industry, doing work with classic rockers like Fleetwood Mac, Billy Gibbons, and Mike Campbell. But he has also worked closely with <a href="/deftones-songs-in-drop-d-a-complete-list/" data-lasso-id="504">The Deftones</a> and proud Chicago native <strong>Billy Corgan </strong>.</p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>The collaboration between Carstens and Billy Corgan started way back in 2018. Billy Corgan has always had a passion for gear, and using his gear to make unheard-of sounds. Every album has a <a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" data-lasso-id="506">distinct guitar tone</a>, and Billy will use anything to get the tone he is after. However, Billy has always struggled to recreate <a href="https://www.electrikjam.com/new-smashing-pumpkins-album-atum/" data-lasso-id="169491">the sounds of  The  Smashing Pumpkins albums</a> in a live setting.</p>
+<p>The collaboration between Carstens and Billy Corgan started way back in 2018. Billy Corgan has always had a passion for gear, and using his gear to make unheard-of sounds. Every album has a <a href="/killer-guitar-tone-without-hardware/" data-lasso-id="506">distinct guitar tone</a>, and Billy will use anything to get the tone he is after. However, Billy has always struggled to recreate <a href="/new-smashing-pumpkins-album-atum/" data-lasso-id="169491">the sounds of  The  Smashing Pumpkins albums</a> in a live setting.</p>
 
 
 
@@ -88,11 +88,11 @@ seo:
 
 
 
-<p>While on paper it sounds like Billy and Carstens just wanted to make an amplifier that is loud and obnoxious, what they really created was a <a href="https://www.electrikjam.com/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="507">guitar amp</a> that handles high gain with tons of headroom.</p>
+<p>While on paper it sounds like Billy and Carstens just wanted to make an amplifier that is loud and obnoxious, what they really created was a <a href="/the-1-best-mini-guitar-amps-money-can-buy-in-2021/" data-lasso-id="507">guitar amp</a> that handles high gain with tons of headroom.</p>
 
 
 
-<p>But what does that mean? It means that while this is a <a href="https://www.electrikjam.com/boss-katana-50-reviews/" data-lasso-id="508">high gain amp</a>, it achieves the sound without clipping too soon. All headroom is, by definition is how loud your amp gets before its starts to clip and distort. <a href="https://www.electrikjam.com/best-guitar-pedals-for-metal-our-top-choices-for-2020/" class="rank-math-link" data-lasso-id="509">Most metal amps </a>do the opposite of the Carstens Grace.</p>
+<p>But what does that mean? It means that while this is a <a href="/boss-katana-50-reviews/" data-lasso-id="508">high gain amp</a>, it achieves the sound without clipping too soon. All headroom is, by definition is how loud your amp gets before its starts to clip and distort. <a href="/best-guitar-pedals-for-metal-our-top-choices-for-2020/" class="rank-math-link" data-lasso-id="509">Most metal amps </a>do the opposite of the Carstens Grace.</p>
 
 
 
@@ -130,7 +130,7 @@ seo:
 
 
 
-<p>And he&#8217;s absolutely right. I think <a href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="510">we rely too much on pedals</a> and other wizardry these days. Actually using the volume knob to clean up your sound is a lost art. Using the knobs to manipulate your sound was the only way to get by when <a href="https://www.electrikjam.com/the-top-7-electric-guitar-myths/" data-lasso-id="164569">electric guitar</a> first took off. As metal players, we rarely ever use the controls on a guitar, <em>and that should change</em>.</p>
+<p>And he&#8217;s absolutely right. I think <a href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-lasso-id="510">we rely too much on pedals</a> and other wizardry these days. Actually using the volume knob to clean up your sound is a lost art. Using the knobs to manipulate your sound was the only way to get by when <a href="/the-top-7-electric-guitar-myths/" data-lasso-id="164569">electric guitar</a> first took off. As metal players, we rarely ever use the controls on a guitar, <em>and that should change</em>.</p>
 
 
 <div id="rank-math-faq" class="rank-math-block">

@@ -43,11 +43,11 @@ seo:
 
 
 
-<p>There are really only three types of <strong><a data-lasso-id="138" href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-100-legit/" data-type="post" data-id="716">pickups</a></strong> that Epiphone uses in their production <strong><a class="rank-math-link" data-lasso-id="139" href="https://www.electrikjam.com/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/">Les Paul guitars</a></strong>. The most popular are &#8220;Probuckers&#8221; which are designed by Gibson. </p>
+<p>There are really only three types of <strong><a data-lasso-id="138" href="/fishman-fluence-modern-review-is-the-hype-100-legit/" data-type="post" data-id="716">pickups</a></strong> that Epiphone uses in their production <strong><a class="rank-math-link" data-lasso-id="139" href="/the-best-gibson-les-paul-alternatives-a-look-at-the-other-side/">Les Paul guitars</a></strong>. The most popular are &#8220;Probuckers&#8221; which are designed by Gibson. </p>
 
 
 
-<p>These pickups come in all of <strong><a data-lasso-id="2605" href="https://www.electrikjam.com/epiphone-guitars/">Epiphone&#8217;s base model/midrange instruments</a></strong>. The other two versions of Epiphone&#8217;s pickups come in its affordable models and its custom models.</p>
+<p>These pickups come in all of <strong><a data-lasso-id="2605" href="/epiphone-guitars/">Epiphone&#8217;s base model/midrange instruments</a></strong>. The other two versions of Epiphone&#8217;s pickups come in its affordable models and its custom models.</p>
 
 
 
@@ -67,7 +67,7 @@ seo:
 
 
 
-<p>Gibson first <a data-lasso-id="140" href="https://www.electrikjam.com/who-invented-the-electric-guitar/" data-type="post" data-id="583">designed these pickups</a> in the 1950s and they have been popular ever since. Epiphone&#8217;s version is a very good replica of the original (unlike many of the <strong><a href="https://www.electrikjam.com/what-are-chibson-guitars/" data-lasso-id="90432">Chibson guitars</a></strong> you can buy online).</p>
+<p>Gibson first <a data-lasso-id="140" href="/who-invented-the-electric-guitar/" data-type="post" data-id="583">designed these pickups</a> in the 1950s and they have been popular ever since. Epiphone&#8217;s version is a very good replica of the original (unlike many of the <strong><a href="/what-are-chibson-guitars/" data-lasso-id="90432">Chibson guitars</a></strong> you can buy online).</p>
 
 
 
@@ -79,11 +79,11 @@ seo:
 
 
 
-<p>While these are usually looked at as <a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="143">being &#8220;cheap&#8221;</a> they actually work really well for a basic high output pickup. Some people like to switch them out for after-market pickups. But they work great!</p>
+<p>While these are usually looked at as <a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="143">being &#8220;cheap&#8221;</a> they actually work really well for a basic high output pickup. Some people like to switch them out for after-market pickups. But they work great!</p>
 
 
 
-<p>These come standard in all of the <a href="https://www.electrikjam.com/best-les-paul-copy/" data-lasso-id="4657">Les Paul Special</a> models. The special models are just stripped-down versions of the higher-end models, but <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="144">they are great for beginners.</a></strong></p>
+<p>These come standard in all of the <a href="/best-les-paul-copy/" data-lasso-id="4657">Les Paul Special</a> models. The special models are just stripped-down versions of the higher-end models, but <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="144">they are great for beginners.</a></strong></p>
 
 
 
@@ -95,11 +95,11 @@ seo:
 
 
 
-<p>Since Gibson owns Epiphone, they often make a special run of the <a data-lasso-id="145" href="https://www.electrikjam.com/types-of-guitars-guide/">Les Paul</a> with high-end Gibson parts. This, of course, includes the pickups! These are usually expensive models for Epiphone.</p>
+<p>Since Gibson owns Epiphone, they often make a special run of the <a data-lasso-id="145" href="/types-of-guitars-guide/">Les Paul</a> with high-end Gibson parts. This, of course, includes the pickups! These are usually expensive models for Epiphone.</p>
 
 
 
-<p>The pickups most often used for the higher-end Epiphone models are the &#8220;Burstbuckers&#8221; that come standard in many <a data-lasso-id="146" href="https://www.electrikjam.com/gibson-les-paul-custom-vs-gibson-les-paul-standard/">Gibson Les Paul instruments</a>. These are a medium output PAF style pickup that is perfect for rock and metal. </p>
+<p>The pickups most often used for the higher-end Epiphone models are the &#8220;Burstbuckers&#8221; that come standard in many <a data-lasso-id="146" href="/gibson-les-paul-custom-vs-gibson-les-paul-standard/">Gibson Les Paul instruments</a>. These are a medium output PAF style pickup that is perfect for rock and metal. </p>
 
 
 
@@ -111,11 +111,11 @@ seo:
 
 
 
-<p>One of Epiphone&#8217;s newer models, the Epiphone Les Paul Prophecy, uses Fishman Fluence pickups. It also happens to be one of our favorite guitars from the past couple of years. If you&#8217;re into metal and you don&#8217;t want to spend &#8220;Gibson Money&#8221; on a guitar, the <strong><a href="https://www.electrikjam.com/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="90433" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">Epiphone Les Paul Prophecy is very, very good.</a></strong> </p>
+<p>One of Epiphone&#8217;s newer models, the Epiphone Les Paul Prophecy, uses Fishman Fluence pickups. It also happens to be one of our favorite guitars from the past couple of years. If you&#8217;re into metal and you don&#8217;t want to spend &#8220;Gibson Money&#8221; on a guitar, the <strong><a href="/les-paul-prophecy-guitar-center/" data-type="lasso-urls" data-id="3897" data-lasso-id="90433" rel="nofollow noopener" target="_blank" data-lasso-name="Epiphone Les Paul Prophecy">Epiphone Les Paul Prophecy is very, very good.</a></strong> </p>
 
 
 
-<p>The <a href="https://www.electrikjam.com/epiphone-les-paul-prophecy-colors/" data-lasso-id="103376">Epiphone Les Paul Prophecy</a> is designed for modern metal; its Fishman Fluence pickups make it ideal for anyone that is looking for that tight, full-bodied modern metal sound. Think Lamb of God, Animals As Leaders, and whatnot. </p>
+<p>The <a href="/epiphone-les-paul-prophecy-colors/" data-lasso-id="103376">Epiphone Les Paul Prophecy</a> is designed for modern metal; its Fishman Fluence pickups make it ideal for anyone that is looking for that tight, full-bodied modern metal sound. Think Lamb of God, Animals As Leaders, and whatnot. </p>
 
 
 
@@ -123,5 +123,5 @@ seo:
 
 
 
-<p>Looking to <a href="https://www.electrikjam.com/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132440">pick up an Epiphone Les Paul</a> this year? Make sure you read ELECTRIKJAM&#8217;s <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="90434">Guide To The 5 Best Epiphone Les Paul Models</a></strong> &#8211; there are some absolute beauties in there!</p>
+<p>Looking to <a href="/adam-jones-epiphone-1979-les-paul-custom-release-date-specs/" data-lasso-id="132440">pick up an Epiphone Les Paul</a> this year? Make sure you read ELECTRIKJAM&#8217;s <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="90434">Guide To The 5 Best Epiphone Les Paul Models</a></strong> &#8211; there are some absolute beauties in there!</p>
 

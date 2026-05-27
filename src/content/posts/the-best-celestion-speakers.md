@@ -40,7 +40,7 @@ seo:
 
 
 
-<p>Lately, we have been talking about how easy it is to <a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="90304"><strong>replace your speakers</strong></a>. Not only is this a very inexpensive upgrade, it can also drastically change the way your<em> whole rig</em> sounds. Besides <strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" target="_blank" rel="noopener" data-lasso-id="90305">pickups</a>,</strong> I would say your choice of speakers is a good portion of your overall tone. Seriously, speakers are the most overlooked feature in most guitarist&#8217;s rigs. A good speaker can make a &#8220;decent&#8221; amp sound next level. Probably the most talked about company when it comes to speakers, is Celestion. <a href="https://www.electrikjam.com/epiphone-power-players-guitar-review/" data-lasso-id="156640">Guitar players</a> talk about Celestion speakers all the time, and I am sure you&#8217;ve heard the name.</p>
+<p>Lately, we have been talking about how easy it is to <a href="/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noopener" data-lasso-id="90304"><strong>replace your speakers</strong></a>. Not only is this a very inexpensive upgrade, it can also drastically change the way your<em> whole rig</em> sounds. Besides <strong><a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" target="_blank" rel="noopener" data-lasso-id="90305">pickups</a>,</strong> I would say your choice of speakers is a good portion of your overall tone. Seriously, speakers are the most overlooked feature in most guitarist&#8217;s rigs. A good speaker can make a &#8220;decent&#8221; amp sound next level. Probably the most talked about company when it comes to speakers, is Celestion. <a href="/epiphone-power-players-guitar-review/" data-lasso-id="156640">Guitar players</a> talk about Celestion speakers all the time, and I am sure you&#8217;ve heard the name.</p>
 
 
 
@@ -60,11 +60,11 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>12 Inch models only, since most guitar cabs are made for 12.</strong></li><li><strong>We used a single 12&#8221; cabinet to try these out. Made by Blackstar.</strong></li><li><strong>We used two amps: <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-lasso-id="195471">BOSS Katana 100 Head</a> and a Blackstar HT40 </strong></li><li><strong>The Celestion Vintage 30 was removed from the options.</strong></li><li><strong>All speakers were tested clean and distorted.</strong></li><li><strong>These will all work great for 1&#215;12 combo Amps.</strong></li></ul>
+<ul class="wp-block-list"><li><strong>12 Inch models only, since most guitar cabs are made for 12.</strong></li><li><strong>We used a single 12&#8221; cabinet to try these out. Made by Blackstar.</strong></li><li><strong>We used two amps: <a href="/boss-katana-100-mkii-review/" data-lasso-id="195471">BOSS Katana 100 Head</a> and a Blackstar HT40 </strong></li><li><strong>The Celestion Vintage 30 was removed from the options.</strong></li><li><strong>All speakers were tested clean and distorted.</strong></li><li><strong>These will all work great for 1&#215;12 combo Amps.</strong></li></ul>
 
 
 
-<p>It only takes a few minutes to switch the speakers out, so it was easy with a 1&#215;12 cab. I took the Vintage 30 out of the lineup because it has been used entirely too much these days, especially in metal/rock. We chose a tube amp with the <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="90306" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>Blackstar HT40</strong></a>, and we thought a <a href="https://www.electrikjam.com/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="90307" data-lasso-name="BOSS Katana 100 MKII"><strong>BOSS </strong></a>solid state modeling amp would be good too for comparison. But it is important to note that these speakers will sound different with <strong>every </strong>amp, so we will just describe the basic characteristics.</p>
+<p>It only takes a few minutes to switch the speakers out, so it was easy with a 1&#215;12 cab. I took the Vintage 30 out of the lineup because it has been used entirely too much these days, especially in metal/rock. We chose a tube amp with the <a href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="90306" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>Blackstar HT40</strong></a>, and we thought a <a href="/guitar-center-pxf-io-rn06xg/" data-type="lasso-urls" data-id="6630" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="90307" data-lasso-name="BOSS Katana 100 MKII"><strong>BOSS </strong></a>solid state modeling amp would be good too for comparison. But it is important to note that these speakers will sound different with <strong>every </strong>amp, so we will just describe the basic characteristics.</p>
 
 
 
@@ -88,11 +88,11 @@ seo:
 
 
 
-<p>This is a 50 watt, 8Ω speaker, that works well alone, or in multiples. The thing about the Rocket 50, is this speaker is a very clear, but even sounding choice. While most Celestion Speakers have some kind of EQ dialed in, the Rocket can be pretty flat in that department. This doesn&#8217;t make it bad, or bland sounding at all. I like to think of it as a &#8220;jack of all trades&#8221; kind of speaker. This is probably why you find it in so many<a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="90309"> <strong>budget</strong></a> cabinets.</p>
+<p>This is a 50 watt, 8Ω speaker, that works well alone, or in multiples. The thing about the Rocket 50, is this speaker is a very clear, but even sounding choice. While most Celestion Speakers have some kind of EQ dialed in, the Rocket can be pretty flat in that department. This doesn&#8217;t make it bad, or bland sounding at all. I like to think of it as a &#8220;jack of all trades&#8221; kind of speaker. This is probably why you find it in so many<a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="90309"> <strong>budget</strong></a> cabinets.</p>
 
 
 
-<p>When I tried it out with the <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-lasso-id="140956">Boss Katana</a>, the Rocket 50 sounds pretty good. I feel like the clean tones shine a little better than the stock BOSS speakers that come with the Katana amps. The distorted tones from the Katana sounded great too, but I feel like the bass response had a little too much &#8220;woof&#8221; in it. High gain tones might not be the Rocket&#8217;s forte, but the clean tones work fantastic.</p>
+<p>When I tried it out with the <a href="/recording-with-the-boss-katana-explained/" data-lasso-id="140956">Boss Katana</a>, the Rocket 50 sounds pretty good. I feel like the clean tones shine a little better than the stock BOSS speakers that come with the Katana amps. The distorted tones from the Katana sounded great too, but I feel like the bass response had a little too much &#8220;woof&#8221; in it. High gain tones might not be the Rocket&#8217;s forte, but the clean tones work fantastic.</p>
 
 
 
@@ -164,7 +164,7 @@ seo:
 
 
 
-<p>Some <a href="https://www.electrikjam.com/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="90310"><strong>Fender </strong></a> and VOX tube amps can be really umm&#8230;piercing. These amps have a lot of high frequencies, and that is by design. You can always take the high amounts of treble out, but it is much harder to<strong> add </strong>more treble to an amp. So if you run a Fender with the mid/treble all the way up on the clean channel, you might be a little put off with how harsh it is. Some people like these amps, but want to dial out that &#8220;twang&#8221;.</p>
+<p>Some <a href="/fender/" data-type="page" data-id="3818" target="_blank" rel="noopener" data-lasso-id="90310"><strong>Fender </strong></a> and VOX tube amps can be really umm&#8230;piercing. These amps have a lot of high frequencies, and that is by design. You can always take the high amounts of treble out, but it is much harder to<strong> add </strong>more treble to an amp. So if you run a Fender with the mid/treble all the way up on the clean channel, you might be a little put off with how harsh it is. Some people like these amps, but want to dial out that &#8220;twang&#8221;.</p>
 
 
 
@@ -180,7 +180,7 @@ seo:
 
 
 
-<p>I looked at a couple of reviews for the Celestion Hempback, and on top of taming some of the high end in amps the Hempback is supposed to handle low tunings really well. Apparently lots of guitarists pair these speakers with Orange amps for <a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" target="_blank" rel="noopener" data-lasso-id="90311"><strong>Doom</strong></a>. So I tried the Blackstar with a<strong> <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="90312">7 string</a></strong><a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="90313"> </a>guitar, and it definitely can handle the bass response of down tuned guitars. With low tunings, you need a lot of mids to come through in the mix, and the Hempback delivers without getting muddy.</p>
+<p>I looked at a couple of reviews for the Celestion Hempback, and on top of taming some of the high end in amps the Hempback is supposed to handle low tunings really well. Apparently lots of guitarists pair these speakers with Orange amps for <a href="/doom-metal-tunings-the-top-5-best/" data-type="post" data-id="1491" target="_blank" rel="noopener" data-lasso-id="90311"><strong>Doom</strong></a>. So I tried the Blackstar with a<strong> <a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="90312">7 string</a></strong><a href="/the-complete-guide-to-7-string-guitar/" data-type="post" data-id="3413" target="_blank" rel="noopener" data-lasso-id="90313"> </a>guitar, and it definitely can handle the bass response of down tuned guitars. With low tunings, you need a lot of mids to come through in the mix, and the Hempback delivers without getting muddy.</p>
 
 
 
@@ -260,7 +260,7 @@ seo:
 
 
 
-<p>That&#8217;s the point I&#8217;m trying to get across to everyone. I see people go through amp after amp because it just doesn&#8217;t do the tones that they want. We are guitarists, and can be really fickle when it comes to tones. But your <a href="https://www.electrikjam.com/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184897">guitar tone</a> relies on more than just your amp and pedals. The speaker is just as important, if not <em>more important</em> than the amp. The Celestion Gold that I tried, for example, changed the sound of both rigs dramatically.</p>
+<p>That&#8217;s the point I&#8217;m trying to get across to everyone. I see people go through amp after amp because it just doesn&#8217;t do the tones that they want. We are guitarists, and can be really fickle when it comes to tones. But your <a href="/budget-guitar-multi-effects-units-reviewed/" data-lasso-id="184897">guitar tone</a> relies on more than just your amp and pedals. The speaker is just as important, if not <em>more important</em> than the amp. The Celestion Gold that I tried, for example, changed the sound of both rigs dramatically.</p>
 
 
 
@@ -285,7 +285,7 @@ seo:
 <h3 class="rank-math-question ">Will Celestion speakers work with my amp?</h3>
 <div class="rank-math-answer ">
 
-<p>You need to check out two things when replacing your speakers. Make sure the replacement is the same ohm, and the same size as the speaker you&#8217;re replacing. We have a <a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noreferrer noopener"><strong>great guide</strong> </a>if you need help, that walks you through the basics.</p>
+<p>You need to check out two things when replacing your speakers. Make sure the replacement is the same ohm, and the same size as the speaker you&#8217;re replacing. We have a <a href="/installing-a-speaker-upgrade/" data-type="post" data-id="7054" target="_blank" rel="noreferrer noopener"><strong>great guide</strong> </a>if you need help, that walks you through the basics.</p>
 
 </div>
 </div>

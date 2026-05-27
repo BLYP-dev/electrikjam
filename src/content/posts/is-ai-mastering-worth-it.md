@@ -42,7 +42,7 @@ seo:
 
 
 
-<p>Audio mastering is the most important step in recording and producing music. It often gets looked over, and that is because <strong><a href="https://www.electrikjam.com/audio-mastering/" data-lasso-id="264542">mastering is hard and takes time to learn.</a></strong></p>
+<p>Audio mastering is the most important step in recording and producing music. It often gets looked over, and that is because <strong><a href="/audio-mastering/" data-lasso-id="264542">mastering is hard and takes time to learn.</a></strong></p>
 
 
 
@@ -102,7 +102,7 @@ seo:
 
 
 
-<p>But we are not talking about something like<strong><a href="https://www.electrikjam.com/revalver-5-review/" data-type="post" data-id="14542" data-lasso-id="264714"> amp sims</a></strong>, or compressors that circumvent audio hardware equipment that can be expensive. We are talking about an entire process! It would be like letting AI mix your song!</p>
+<p>But we are not talking about something like<strong><a href="/revalver-5-review/" data-type="post" data-id="14542" data-lasso-id="264714"> amp sims</a></strong>, or compressors that circumvent audio hardware equipment that can be expensive. We are talking about an entire process! It would be like letting AI mix your song!</p>
 
 
 
@@ -134,7 +134,7 @@ seo:
 
 
 
-<p>So why would you let it perform the most important step in production? <strong><a href="https://www.electrikjam.com/is-it-hard-to-learn-music-mastering-yes-heres-why/" data-lasso-id="265277">Mastering is the final step in production</a></strong>, meant to enhance your music for listeners.</p>
+<p>So why would you let it perform the most important step in production? <strong><a href="/is-it-hard-to-learn-music-mastering-yes-heres-why/" data-lasso-id="265277">Mastering is the final step in production</a></strong>, meant to enhance your music for listeners.</p>
 
 
 
@@ -226,7 +226,7 @@ seo:
 
 
 
-<p>Since it had been a while since I tested AI mastering, I decided to do that today with a track that I have mixed down. I have already mastered it the traditional way, <strong><a href="https://www.electrikjam.com/electrikjam-podcast/" data-lasso-id="264715">for our podcast</a></strong>.</p>
+<p>Since it had been a while since I tested AI mastering, I decided to do that today with a track that I have mixed down. I have already mastered it the traditional way, <strong><a href="/electrikjam-podcast/" data-lasso-id="264715">for our podcast</a></strong>.</p>
 
 
 

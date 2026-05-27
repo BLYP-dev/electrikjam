@@ -48,11 +48,11 @@ seo:
 
 
 
-<p>If you have read any of our <a href="https://www.electrikjam.com/starting-a-band-and-getting-your-first-gigs/" data-type="post" data-id="3374" target="_blank" rel="noopener" data-lasso-id="177583"><strong>material about gigging</strong></a>, then you know I talk about how often things can go <a href="https://www.electrikjam.com/starting-a-band-part-2/" data-type="post" data-id="6850" target="_blank" rel="noopener" data-lasso-id="177584"><strong>south on stage</strong></a>. I always took a duffle bag with me to gigs that had everything I could possibly need in case something went wrong. I had extra batteries, cables, gaffer tape, strings, a microphone, and just about anything else you could need on stage.</p>
+<p>If you have read any of our <a href="/starting-a-band-and-getting-your-first-gigs/" data-type="post" data-id="3374" target="_blank" rel="noopener" data-lasso-id="177583"><strong>material about gigging</strong></a>, then you know I talk about how often things can go <a href="/starting-a-band-part-2/" data-type="post" data-id="6850" target="_blank" rel="noopener" data-lasso-id="177584"><strong>south on stage</strong></a>. I always took a duffle bag with me to gigs that had everything I could possibly need in case something went wrong. I had extra batteries, cables, gaffer tape, strings, a microphone, and just about anything else you could need on stage.</p>
 
 
 
-<p>It is always a good idea to have a backup guitar as well. I always took two <a class="wpil_keyword_link" href="https://www.electrikjam.com/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="254834">guitars</a> to every show, since you <em>never know </em>what is going to happen. On tour, I would have an extra amp and tubes. But for local gigging, it was silly to bring along an extra amp, and just not economical.</p>
+<p>It is always a good idea to have a backup guitar as well. I always took two <a class="wpil_keyword_link" href="/best-electric-guitars/" title="guitars" data-wpil-keyword-link="linked" data-lasso-id="254834">guitars</a> to every show, since you <em>never know </em>what is going to happen. On tour, I would have an extra amp and tubes. But for local gigging, it was silly to bring along an extra amp, and just not economical.</p>
 
 
 
@@ -76,7 +76,7 @@ seo:
 
 
 
-<p>Most guitarists plug into their amplifier without thinking too much about how they actually work. Guitar amps come in <a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="177585"><strong>many different shapes and sizes</strong></a>, and they all use different types of power amps. Some of us are super nerdy about our amps, while some guitarists just play what sounds good to them.</p>
+<p>Most guitarists plug into their amplifier without thinking too much about how they actually work. Guitar amps come in <a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="177585"><strong>many different shapes and sizes</strong></a>, and they all use different types of power amps. Some of us are super nerdy about our amps, while some guitarists just play what sounds good to them.</p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p><strong>Tube-Based Power:</strong> Different brands may use different types of power tubes. British brands like Marshall use EL34 or EL84 tubes, as they break up naturally and have a natural compression effect. American brands like <a class="wpil_keyword_link" href="https://www.electrikjam.com/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="254835">Fender</a> will usually use 6L6 or 6V6 tubes in the power amp section, as these can pushed much harder without breaking up. </p>
+<p><strong>Tube-Based Power:</strong> Different brands may use different types of power tubes. British brands like Marshall use EL34 or EL84 tubes, as they break up naturally and have a natural compression effect. American brands like <a class="wpil_keyword_link" href="/fender/" title="Fender" data-wpil-keyword-link="linked" data-lasso-id="254835">Fender</a> will usually use 6L6 or 6V6 tubes in the power amp section, as these can pushed much harder without breaking up. </p>
 
 
 
@@ -120,7 +120,7 @@ seo:
 
 
 
-<p>How <em>many</em> power tubes you have in your amplifier is based on a lot of factors. &#8220;Clean&#8221; amps usually only have one or two power tubes, since the preamp is not as complicated. However, an amp with cascading amounts of gain like a<strong> <a href="https://www.electrikjam.com/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="177586">5150</a></strong>, will have more power tubes to handle the complex preamp output.</p>
+<p>How <em>many</em> power tubes you have in your amplifier is based on a lot of factors. &#8220;Clean&#8221; amps usually only have one or two power tubes, since the preamp is not as complicated. However, an amp with cascading amounts of gain like a<strong> <a href="/the-peavey-5150-history/" data-type="post" data-id="7789" target="_blank" rel="noopener" data-lasso-id="177586">5150</a></strong>, will have more power tubes to handle the complex preamp output.</p>
 
 
 
@@ -128,7 +128,7 @@ seo:
 
 
 
-<p>Some tube amps are a hybrid design, and use tubes accompanied with solid state technology, like <a href="https://www.electrikjam.com/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="177587" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>Blackstar Amplifiers</strong></a> (even if they deny it!). While hybrid amps are not as popular as they once were, some companies still use this tech to keep the cost down. These still require maintenance in most cases.</p>
+<p>Some tube amps are a hybrid design, and use tubes accompanied with solid state technology, like <a href="/guitar-center-pxf-io-mxrezq/" data-type="lasso-urls" data-id="5946" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="177587" data-lasso-name="Blackstar HT Venue Series Club 40 40W 1x12 Combo MKII Black | Guitar Center"><strong>Blackstar Amplifiers</strong></a> (even if they deny it!). While hybrid amps are not as popular as they once were, some companies still use this tech to keep the cost down. These still require maintenance in most cases.</p>
 
 
 
@@ -140,7 +140,7 @@ seo:
 
 
 
-<p>Solid state amps are usually the ones you see that have built-in effects, or modeling software. Something like the <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="177588"><strong>BOSS Katana</strong></a> is a great example of how a solid state amp works. A solid state power section does not require maintenance, and is lighter in weight. In a solid state guitar amp, the preamp is going to have to do all of the work to get distortion or breakup.</p>
+<p>Solid state amps are usually the ones you see that have built-in effects, or modeling software. Something like the <a href="/boss-katana-100-mkii-review/" data-type="post" data-id="8377" target="_blank" rel="noopener" data-lasso-id="177588"><strong>BOSS Katana</strong></a> is a great example of how a solid state amp works. A solid state power section does not require maintenance, and is lighter in weight. In a solid state guitar amp, the preamp is going to have to do all of the work to get distortion or breakup.</p>
 
 
 
@@ -148,7 +148,7 @@ seo:
 
 
 
-<p>You can read all about the differences between tube and solid state in our <a href="https://www.electrikjam.com/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="177589"><strong>big amp guide.</strong></a></p>
+<p>You can read all about the differences between tube and solid state in our <a href="/guitar-amp-types-explained/" data-type="post" data-id="8747" target="_blank" rel="noopener" data-lasso-id="177589"><strong>big amp guide.</strong></a></p>
 
 
 
@@ -184,11 +184,11 @@ seo:
 
 
 
-<p>We have already talked about it a few times on Electrikjam, but the <a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="177591"><strong>BOSS Katana</strong></a> uses a Class AB power section. This is one of the reasons the Katana sticks out in a band situation better than other solid state amps that use Class D. The fidelity that you get from Class AB is superior, and it has been the Katana&#8217;s secret weapon, even under high gain applications.</p>
+<p>We have already talked about it a few times on Electrikjam, but the <a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="177591"><strong>BOSS Katana</strong></a> uses a Class AB power section. This is one of the reasons the Katana sticks out in a band situation better than other solid state amps that use Class D. The fidelity that you get from Class AB is superior, and it has been the Katana&#8217;s secret weapon, even under high gain applications.</p>
 
 
 
-<p>So most tube amps are going to be Class A for the low wattage ones. The Katana, and most high power tube amps are Class AB. <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="254836">When it comes to modeling amps</a> like The Catalyst, Helix, or most other solid state amps&#8230;we are working with Class D power.</p>
+<p>So most tube amps are going to be Class A for the low wattage ones. The Katana, and most high power tube amps are Class AB. <a href="/neural-amp-modeler/" data-lasso-id="254836">When it comes to modeling amps</a> like The Catalyst, Helix, or most other solid state amps&#8230;we are working with Class D power.</p>
 
 
 
@@ -208,7 +208,7 @@ seo:
 
 
 
-<p>Power amp pedals can be used a few different ways, based on their feature set. Some are simple sources of power that do nothing to color your sound, while others like the <strong><a href="https://www.electrikjam.com/blackstar-dept-10-amped-1-review/" data-type="post" data-id="9246" target="_blank" rel="noopener" data-lasso-id="177592">Blackstar DEPT. 10</a> </strong>that we just reviewed can be the basis of your whole rig!</p>
+<p>Power amp pedals can be used a few different ways, based on their feature set. Some are simple sources of power that do nothing to color your sound, while others like the <strong><a href="/blackstar-dept-10-amped-1-review/" data-type="post" data-id="9246" target="_blank" rel="noopener" data-lasso-id="177592">Blackstar DEPT. 10</a> </strong>that we just reviewed can be the basis of your whole rig!</p>
 
 
 
@@ -240,7 +240,7 @@ seo:
 
 
 
-<p>Power amp pedals like the<a href="https://www.electrikjam.com/orange-amplifiers-terror-stamp-20w-tube-hybrid-pedal-amp-white-guitar-center/" data-type="lasso-urls" data-id="9371" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="177593" data-lasso-name="Orange Amplifiers Terror Stamp 20W Tube Hybrid Pedal Amp"><strong> Orange Terror Stamp</strong></a> is a full-on Class AB tube-based amplifier that can sit right on your pedalboard! It uses a single tube to act as a preamp, and solid state power to amplify it. This gives you 20 watts of hybrid tone that would not only work <em>great </em>on stage for a backup, but can easily replace your amp rig! </p>
+<p>Power amp pedals like the<a href="/orange-amplifiers-terror-stamp-20w-tube-hybrid-pedal-amp-white-guitar-center/" data-type="lasso-urls" data-id="9371" target="_blank" rel="nofollow sponsored noopener" data-lasso-id="177593" data-lasso-name="Orange Amplifiers Terror Stamp 20W Tube Hybrid Pedal Amp"><strong> Orange Terror Stamp</strong></a> is a full-on Class AB tube-based amplifier that can sit right on your pedalboard! It uses a single tube to act as a preamp, and solid state power to amplify it. This gives you 20 watts of hybrid tone that would not only work <em>great </em>on stage for a backup, but can easily replace your amp rig! </p>
 
 
 
@@ -256,7 +256,7 @@ seo:
 
 
 
-<p>Power amp pedals might be the perfect &#8220;bridge&#8221; for people that like the convenience of digital gear like the <strong><a href="https://www.electrikjam.com/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="177594">Helix</a></strong>, <em>and</em> having a traditional analog rig with analog pedals. They can work on the stage, as well as in the studio to get tones without <a href="https://www.electrikjam.com/best-low-wattage-tube-amps-reviewed/" target="_blank" data-type="post" data-id="9326" rel="noopener" data-lasso-id="177595"><strong>blasting a tube amp</strong></a>, or using amp sims. Power amp pedals are the perfect &#8220;compromise&#8221;.</p>
+<p>Power amp pedals might be the perfect &#8220;bridge&#8221; for people that like the convenience of digital gear like the <strong><a href="/what-is-a-line-6-helix/" data-type="post" data-id="4926" target="_blank" rel="noopener" data-lasso-id="177594">Helix</a></strong>, <em>and</em> having a traditional analog rig with analog pedals. They can work on the stage, as well as in the studio to get tones without <a href="/best-low-wattage-tube-amps-reviewed/" target="_blank" data-type="post" data-id="9326" rel="noopener" data-lasso-id="177595"><strong>blasting a tube amp</strong></a>, or using amp sims. Power amp pedals are the perfect &#8220;compromise&#8221;.</p>
 
 
 
@@ -308,7 +308,7 @@ seo:
 
 
 
-<p>The<a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="177596"> </a><strong><a href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="177597">Seymour Duncan</a> </strong>power amp pedal has a lot going for it as well, and can be a fully functional amp replacement from a reputable company. Like the Blackstar and Orange, it has an emulated speaker output. With a full EQ section, you could easily dial it in to sound<em> almost identical</em> to your amp.</p>
+<p>The<a href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="177596"> </a><strong><a href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener" data-lasso-id="177597">Seymour Duncan</a> </strong>power amp pedal has a lot going for it as well, and can be a fully functional amp replacement from a reputable company. Like the Blackstar and Orange, it has an emulated speaker output. With a full EQ section, you could easily dial it in to sound<em> almost identical</em> to your amp.</p>
 
 
 

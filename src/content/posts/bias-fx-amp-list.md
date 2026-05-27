@@ -42,19 +42,19 @@ seo:
 
 
 
-<p>When it comes to amp simulators, <strong><a href="https://www.electrikjam.com/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="1563">BIAS FX 2 is currently my #1 favorite software</a></strong> for my computer. It’s cheap enough for every type of player, it is simple to use, and it features a myriad of amps and effects.</p>
+<p>When it comes to amp simulators, <strong><a href="/what-is-bias-fx-2-guide/" data-type="post" data-id="1728" data-lasso-id="1563">BIAS FX 2 is currently my #1 favorite software</a></strong> for my computer. It’s cheap enough for every type of player, it is simple to use, and it features a myriad of amps and effects.</p>
 
 
 
-<p>I switched to running my guitar through my computer a couple of years back. I have all my guitar gear in my office, I don’t have anymore room for amps or pedals, so I decided to go minimal and <strong><a href="https://www.electrikjam.com/expensive-amp-simulators/" data-type="post" data-id="2801" data-lasso-id="1564">use digital amps</a></strong>.</p>
+<p>I switched to running my guitar through my computer a couple of years back. I have all my guitar gear in my office, I don’t have anymore room for amps or pedals, so I decided to go minimal and <strong><a href="/expensive-amp-simulators/" data-type="post" data-id="2801" data-lasso-id="1564">use digital amps</a></strong>.</p>
 
 
 
-<p>I use BIAS FX for recording and when I’m practicing; I just plug my headphones in – or use a pair of Bluetooth set – and I can play around with HUGE sounds from my iMac’s display. And the best part? BIAS FX 2 is really cheap to buy – <strong><a data-lasso-id="1566" href="https://www.electrikjam.com/recommends/bias-fx-2/">around $50 for the basic package.</a></strong></p>
+<p>I use BIAS FX for recording and when I’m practicing; I just plug my headphones in – or use a pair of Bluetooth set – and I can play around with HUGE sounds from my iMac’s display. And the best part? BIAS FX 2 is really cheap to buy – <strong><a data-lasso-id="1566" href="/recommends/bias-fx-2/">around $50 for the basic package.</a></strong></p>
 
 
 
-<p>We also have a guide detailing ALL the <strong><a href="https://www.electrikjam.com/bias-fx-vs-bias-fx-2/" data-type="post" data-id="10651" data-lasso-id="216012">differences between BIAS FX and BIAS FX 2</a></strong>, it&#8217;s worth a look if you&#8217;re currently using the first-gen software and are thinking about upgrading. </p>
+<p>We also have a guide detailing ALL the <strong><a href="/bias-fx-vs-bias-fx-2/" data-type="post" data-id="10651" data-lasso-id="216012">differences between BIAS FX and BIAS FX 2</a></strong>, it&#8217;s worth a look if you&#8217;re currently using the first-gen software and are thinking about upgrading. </p>
 
 
 
@@ -126,9 +126,9 @@ seo:
 
 
 
-<p>All you need is a way to <strong><a href="https://www.electrikjam.com/connect-guitar-to-macbook-guide/" data-type="post" data-id="2722" data-lasso-id="1567">connect your guitar to your computer</a></strong>; once you have that, you can start recording and sounding like you have a $1000 guitar rig. </p>
+<p>All you need is a way to <strong><a href="/connect-guitar-to-macbook-guide/" data-type="post" data-id="2722" data-lasso-id="1567">connect your guitar to your computer</a></strong>; once you have that, you can start recording and sounding like you have a $1000 guitar rig. </p>
 
 
 
-<p>As noted in the intro, BIAS FX 2 is not expensive. You can <strong><a href="https://www.electrikjam.com/recommends/bias-fx-2/" data-lasso-id="1568">download a copy for less than $50 (or £43 in the UK). </a></strong></p>
+<p>As noted in the intro, BIAS FX 2 is not expensive. You can <strong><a href="/recommends/bias-fx-2/" data-lasso-id="1568">download a copy for less than $50 (or £43 in the UK). </a></strong></p>
 

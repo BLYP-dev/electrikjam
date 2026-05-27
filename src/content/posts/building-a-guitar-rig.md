@@ -46,7 +46,7 @@ seo:
 
 
 
-<p>We have officially launched our weekly series about <a href="https://www.electrikjam.com/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="140992"><strong>Gigging On A Budget</strong></a>, and we thought we would start with something rather simple: <strong>Rock</strong>. Now, the term &#8220;Rock&#8221; is a pretty broad category when you dive in, and there are a million different subgenres. But Rock music has a few elements when it comes to guitar, that you absolutely have to have. Today we are going to break those elements down.</p>
+<p>We have officially launched our weekly series about <a href="/gigging-on-a-budget/" data-type="post" data-id="8443" target="_blank" rel="noopener" data-lasso-id="140992"><strong>Gigging On A Budget</strong></a>, and we thought we would start with something rather simple: <strong>Rock</strong>. Now, the term &#8220;Rock&#8221; is a pretty broad category when you dive in, and there are a million different subgenres. But Rock music has a few elements when it comes to guitar, that you absolutely have to have. Today we are going to break those elements down.</p>
 
 
 
@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>Out of all of the Gigging On A Budget challenges, this is going to be the hardest. The key to building a guitar rig that covers both Rock and Blues is going to be <strong>versatility</strong>. We are building a guitar rig that will be able to <a href="https://www.electrikjam.com/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" target="_blank" rel="noopener" data-lasso-id="140993"><strong>do it all,</strong></a> and that is no small feat. But we are going to look at the best choices for people on a budget, and see just how &#8220;much&#8221; guitar we can get with $1500.</p>
+<p>Out of all of the Gigging On A Budget challenges, this is going to be the hardest. The key to building a guitar rig that covers both Rock and Blues is going to be <strong>versatility</strong>. We are building a guitar rig that will be able to <a href="/does-the-do-it-all-guitar-exist/" data-type="post" data-id="5415" target="_blank" rel="noopener" data-lasso-id="140993"><strong>do it all,</strong></a> and that is no small feat. But we are going to look at the best choices for people on a budget, and see just how &#8220;much&#8221; guitar we can get with $1500.</p>
 
 
 
@@ -82,11 +82,11 @@ seo:
 
 
 
-<p>For playing <strong>Blues </strong>and <strong>Rock</strong> music, you need a guitar that can do single coil <em>and</em> <a data-lasso-id="140994" href="https://www.electrikjam.com/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener"><strong>humbucker</strong></a> tones pretty well. Luckily we have reviewed some really great budget guitars over the last two years. so I have a good idea of what would make a great guitar for gigging. Not to mention I have been playing live for over 20 years! <em>Versatility is the key here</em>!</p>
+<p>For playing <strong>Blues </strong>and <strong>Rock</strong> music, you need a guitar that can do single coil <em>and</em> <a data-lasso-id="140994" href="/new-seymour-duncan-pickups-announced/" data-type="post" data-id="8025" target="_blank" rel="noopener"><strong>humbucker</strong></a> tones pretty well. Luckily we have reviewed some really great budget guitars over the last two years. so I have a good idea of what would make a great guitar for gigging. Not to mention I have been playing live for over 20 years! <em>Versatility is the key here</em>!</p>
 
 
 
-<p>While there are some decent <a href="https://www.electrikjam.com/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211723">beginner guitars</a> out there, that come in much cheaper than the ones I chose, they just aren&#8217;t as<strong> reliable</strong>. Building a guitar rig on a budget isn&#8217;t just about picking the cheapest options. You need something with great tone, that <strong>won&#8217;t fall apart on you</strong>!</p>
+<p>While there are some decent <a href="/how-much-should-i-spend-on-my-first-guitar/" data-lasso-id="211723">beginner guitars</a> out there, that come in much cheaper than the ones I chose, they just aren&#8217;t as<strong> reliable</strong>. Building a guitar rig on a budget isn&#8217;t just about picking the cheapest options. You need something with great tone, that <strong>won&#8217;t fall apart on you</strong>!</p>
 
 
 
@@ -98,11 +98,11 @@ seo:
 
 
 
-<p><strong>The <a href="https://www.electrikjam.com/squier-baritone-telecaster-custom-review/" data-lasso-id="178767">Squier Classic Vibe</a> Series</strong> has been around for a while now, and most guitarists will agree that it is one of the best bargains that you can find. I picked this particular model because it has an<a href="https://www.electrikjam.com/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="141896"><strong> HSS </strong></a>configuration. This means you get both the single coil sweetness for cleans, and a humbucker for the dirtier sounds. These are really outstanding quality, for any price point.</p>
+<p><strong>The <a href="/squier-baritone-telecaster-custom-review/" data-lasso-id="178767">Squier Classic Vibe</a> Series</strong> has been around for a while now, and most guitarists will agree that it is one of the best bargains that you can find. I picked this particular model because it has an<a href="/guitar-pickup-positions/" data-type="post" data-id="7941" target="_blank" rel="noopener" data-lasso-id="141896"><strong> HSS </strong></a>configuration. This means you get both the single coil sweetness for cleans, and a humbucker for the dirtier sounds. These are really outstanding quality, for any price point.</p>
 
 
 
-<p>One of my favorite guitars for Blues is my <a href="https://www.electrikjam.com/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="141897"><strong>Schecter NJ Traditional</strong></a>, and it is because of the HSS versatility. Unfortunately, that guitar is going to be out of our range price-wise. But the idea remains the same, since you get the best of both words with an HSS Strat. Is it an &#8220;authentic&#8221; Fender? Well, no.</p>
+<p>One of my favorite guitars for Blues is my <a href="/schecter-nick-johnston-hss-review/" data-type="post" data-id="6288" target="_blank" rel="noopener" data-lasso-id="141897"><strong>Schecter NJ Traditional</strong></a>, and it is because of the HSS versatility. Unfortunately, that guitar is going to be out of our range price-wise. But the idea remains the same, since you get the best of both words with an HSS Strat. Is it an &#8220;authentic&#8221; Fender? Well, no.</p>
 
 
 
@@ -122,7 +122,7 @@ seo:
 
 
 
-<p>When we reviewed the <a data-lasso-id="141898" href="https://www.electrikjam.com/yamaha-revstar-standard-review/" data-type="post" data-id="7347" target="_blank" rel="noopener"><strong>Yamaha Revstar Series</strong></a>, we could not believe how amazing these guitars are, even on the cheaper end of the lineup. The &#8220;Elements&#8221; series are the most affordable of the whole line, but don&#8217;t let the price fool you. While these don&#8217;t have the versatility of an HSS Strat, the Yamaha could make building a guitar rig a LOT easier.</p>
+<p>When we reviewed the <a data-lasso-id="141898" href="/yamaha-revstar-standard-review/" data-type="post" data-id="7347" target="_blank" rel="noopener"><strong>Yamaha Revstar Series</strong></a>, we could not believe how amazing these guitars are, even on the cheaper end of the lineup. The &#8220;Elements&#8221; series are the most affordable of the whole line, but don&#8217;t let the price fool you. While these don&#8217;t have the versatility of an HSS Strat, the Yamaha could make building a guitar rig a LOT easier.</p>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<p>When I started gigging at 17, building a guitar rig was a much harder conquest. But I had a trusty Les Paul Studio made by Epiphone that saw at least 5 States and lots of venues. I really enjoyed playing that guitar, and even when I was more at a &#8220;Pro&#8221; status I used an <a data-lasso-id="141899" href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener"><strong>Epiphone</strong></a> as a backup guitar. I have had plenty of Epiphone guitars over the years, and they were all <em>great</em>.</p>
+<p>When I started gigging at 17, building a guitar rig was a much harder conquest. But I had a trusty Les Paul Studio made by Epiphone that saw at least 5 States and lots of venues. I really enjoyed playing that guitar, and even when I was more at a &#8220;Pro&#8221; status I used an <a data-lasso-id="141899" href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" target="_blank" rel="noopener"><strong>Epiphone</strong></a> as a backup guitar. I have had plenty of Epiphone guitars over the years, and they were all <em>great</em>.</p>
 
 
 
@@ -210,7 +210,7 @@ seo:
 
 
 
-<p>I wanted to have some variety here, and the amp portion of this challenge was probably the hardest to choose. There are some great <a href="https://www.electrikjam.com/the-best-budget-tube-amps/" target="_blank" data-type="post" data-id="6641" rel="noopener" data-lasso-id="141900"><strong>tube/valve</strong></a> amps that fit the bill, but there are also some great <a href="https://www.electrikjam.com/pxf-52/" target="_blank" data-type="lasso-urls" data-id="8361" rel="nofollow sponsored noopener" data-lasso-id="141901" data-lasso-name="BOSS Katana-50 MkII 50W 1x12 Guitar Combo Amplifier | Guitar Center"><strong>digital</strong></a> options. There is definitely a difference between the two, and you&#8217;ll have to decide for yourself which type of amp suits <em>you</em> the best.</p>
+<p>I wanted to have some variety here, and the amp portion of this challenge was probably the hardest to choose. There are some great <a href="/the-best-budget-tube-amps/" target="_blank" data-type="post" data-id="6641" rel="noopener" data-lasso-id="141900"><strong>tube/valve</strong></a> amps that fit the bill, but there are also some great <a href="/pxf-52/" target="_blank" data-type="lasso-urls" data-id="8361" rel="nofollow sponsored noopener" data-lasso-id="141901" data-lasso-name="BOSS Katana-50 MkII 50W 1x12 Guitar Combo Amplifier | Guitar Center"><strong>digital</strong></a> options. There is definitely a difference between the two, and you&#8217;ll have to decide for yourself which type of amp suits <em>you</em> the best.</p>
 
 
 
@@ -218,7 +218,7 @@ seo:
 
 
 
-<p>I think the first option is not going to be a surprise at all for most readers. But I also found some really great amps that I would use for building a guitar rig for myself. The amp is by far the hardest thing to choose, because it is such an important part of having a good tone. The amp, and <a href="https://www.electrikjam.com/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="141902"><strong>speakers</strong></a> are more important than the guitar to me, in most cases. Your amp is where a LOT of your tone is going to come from.</p>
+<p>I think the first option is not going to be a surprise at all for most readers. But I also found some really great amps that I would use for building a guitar rig for myself. The amp is by far the hardest thing to choose, because it is such an important part of having a good tone. The amp, and <a href="/the-best-celestion-speakers/" data-type="post" data-id="7105" target="_blank" rel="noopener" data-lasso-id="141902"><strong>speakers</strong></a> are more important than the guitar to me, in most cases. Your amp is where a LOT of your tone is going to come from.</p>
 
 
 
@@ -230,7 +230,7 @@ seo:
 
 
 
-<p>I told you this wouldn&#8217;t be a surprise! We absolutely love the <a href="https://www.electrikjam.com/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155692">BOSS Katana</a>, and when it came to building a guitar rig for myself, it was the perfect choice. I use it myself every day, and I absolutely love the amount of control you have using <a href="http://bosstonecentral.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="141903"><strong>Tone Studio</strong></a>, especially with the new<a href="https://www.electrikjam.com/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="141904"> <strong>V2 update</strong></a>! The <a href="https://www.electrikjam.com/boss-katana-100-mkii-review/" data-lasso-id="195473">BOSS Katana</a> can be the your entire rig if you want!</p>
+<p>I told you this wouldn&#8217;t be a surprise! We absolutely love the <a href="/boss-ga-fc-ex-footswitch-new/" data-lasso-id="155692">BOSS Katana</a>, and when it came to building a guitar rig for myself, it was the perfect choice. I use it myself every day, and I absolutely love the amount of control you have using <a href="http://bosstonecentral.com/" target="_blank" rel="noopener noreferrer nofollow" data-lasso-id="141903"><strong>Tone Studio</strong></a>, especially with the new<a href="/recording-with-the-boss-katana-explained/" data-type="post" data-id="8477" target="_blank" rel="noopener" data-lasso-id="141904"> <strong>V2 update</strong></a>! The <a href="/boss-katana-100-mkii-review/" data-lasso-id="195473">BOSS Katana</a> can be the your entire rig if you want!</p>
 
 
 
@@ -246,7 +246,7 @@ seo:
 
 
 
-<p>Finally, you can also use it just as a power amp, like an <a data-lasso-id="141905" href="https://www.electrikjam.com/what-is-an-frfr-speaker-cabinet-pros-cons/" data-type="post" data-id="4226" target="_blank" rel="noopener"><strong>FRFR</strong></a> speaker. This means you could use a modeling unit like the <a data-lasso-id="141906" href="https://www.electrikjam.com/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener"><strong>HX Stomp</strong></a> and have <em>any tone</em> you want. The possibilities are endless with the Katana in my opinion, and I have several Blues and Rock patches programmed on my unit. The Katana really sounds <em>well beyond its budget price</em>. But there are more simple options out there&#8230;</p>
+<p>Finally, you can also use it just as a power amp, like an <a data-lasso-id="141905" href="/what-is-an-frfr-speaker-cabinet-pros-cons/" data-type="post" data-id="4226" target="_blank" rel="noopener"><strong>FRFR</strong></a> speaker. This means you could use a modeling unit like the <a data-lasso-id="141906" href="/is-line-6-hx-stomp-worth-it/" data-type="post" data-id="4918" target="_blank" rel="noopener"><strong>HX Stomp</strong></a> and have <em>any tone</em> you want. The possibilities are endless with the Katana in my opinion, and I have several Blues and Rock patches programmed on my unit. The Katana really sounds <em>well beyond its budget price</em>. But there are more simple options out there&#8230;</p>
 
 
 
@@ -314,11 +314,11 @@ seo:
 
 
 
-<p><strong>I would put away $100 for cables and a clip-on tuner, because these are things that you absolutely are going to need.</strong> I would also make sure to have a backup for every cable you own, because if something is going to go wrong with your rig, it will be on stage! I talk about being prepared in my <a href="https://www.electrikjam.com/starting-a-band-part-2/" target="_blank" data-type="post" data-id="6850" rel="noopener" data-lasso-id="141907"><strong>&#8220;Band&#8221; advice </strong></a>articles. Clip on tuners and store brand cables are cheap enough these days to have multiples, so there is no excuse to not have them!</p>
+<p><strong>I would put away $100 for cables and a clip-on tuner, because these are things that you absolutely are going to need.</strong> I would also make sure to have a backup for every cable you own, because if something is going to go wrong with your rig, it will be on stage! I talk about being prepared in my <a href="/starting-a-band-part-2/" target="_blank" data-type="post" data-id="6850" rel="noopener" data-lasso-id="141907"><strong>&#8220;Band&#8221; advice </strong></a>articles. Clip on tuners and store brand cables are cheap enough these days to have multiples, so there is no excuse to not have them!</p>
 
 
 
-<p>There are expensive cables out there that claim to sound better, and I am not sure that<a data-lasso-id="141908" href="https://www.electrikjam.com/are-expensive-guitar-cables-worth-it-top-5-cables/" data-type="post" data-id="1742" target="_blank" rel="noopener"> <strong>they are worth it</strong></a>. We did the homework, and after testing a ton of cables, we found that the cheap ones work just as well as the expensive ones. The sound quality might matter when we get to recording, but for live use? I don&#8217;t think it matters anywhere near as much.</p>
+<p>There are expensive cables out there that claim to sound better, and I am not sure that<a data-lasso-id="141908" href="/are-expensive-guitar-cables-worth-it-top-5-cables/" data-type="post" data-id="1742" target="_blank" rel="noopener"> <strong>they are worth it</strong></a>. We did the homework, and after testing a ton of cables, we found that the cheap ones work just as well as the expensive ones. The sound quality might matter when we get to recording, but for live use? I don&#8217;t think it matters anywhere near as much.</p>
 
 
 
@@ -346,7 +346,7 @@ seo:
 
 
 
-<p>That being said, I absolute need two pedals to pull off this rig effectively. When it comes to budget brands that are really great, BOSS has taken the first prize for years. Other pedal companies like the <a href="https://www.electrikjam.com/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-type="post" data-id="1175" target="_blank" rel="noopener" data-lasso-id="141909"><strong>Amazon Basics</strong></a> are also a pretty good buy. So what are the two pedals that I think are absolutely necessary when it comes to building a guitar rig?</p>
+<p>That being said, I absolute need two pedals to pull off this rig effectively. When it comes to budget brands that are really great, BOSS has taken the first prize for years. Other pedal companies like the <a href="/amazon-releases-their-own-branded-guitar-pedals-amazonbasics-2020-lineup/" data-type="post" data-id="1175" target="_blank" rel="noopener" data-lasso-id="141909"><strong>Amazon Basics</strong></a> are also a pretty good buy. So what are the two pedals that I think are absolutely necessary when it comes to building a guitar rig?</p>
 
 
 
@@ -378,7 +378,7 @@ seo:
 
 
 
-<p>There are so many <a href="https://www.electrikjam.com/the-5-best-wah-pedals-for-metal-review/" data-lasso-id="169480">Wah pedals</a> out there these days, that it can be a little overwhelming. There are a lot of artist models that flooded the industry, and not to discredit them, but they are all very similar <em>in approach</em>. Just about any of those that you like the sound of, would get the job done.</p>
+<p>There are so many <a href="/the-5-best-wah-pedals-for-metal-review/" data-lasso-id="169480">Wah pedals</a> out there these days, that it can be a little overwhelming. There are a lot of artist models that flooded the industry, and not to discredit them, but they are all very similar <em>in approach</em>. Just about any of those that you like the sound of, would get the job done.</p>
 
 
 
@@ -406,7 +406,7 @@ seo:
 
 
 
-<p>Well, we managed to build a guitar rig for playing in a band with only $1500! This was a lot harder than i originally imagined when I came up with the idea. Budget gear is everywhere, but most of it is for playing at home. There are tons of <a href="https://www.electrikjam.com/floyd-rose-bridge-setup-beginners/" data-lasso-id="168260">beginner setups</a> that can cost as little as a few hundred bucks, but those are meant to get you started.</p>
+<p>Well, we managed to build a guitar rig for playing in a band with only $1500! This was a lot harder than i originally imagined when I came up with the idea. Budget gear is everywhere, but most of it is for playing at home. There are tons of <a href="/floyd-rose-bridge-setup-beginners/" data-lasso-id="168260">beginner setups</a> that can cost as little as a few hundred bucks, but those are meant to get you started.</p>
 
 
 
@@ -414,7 +414,7 @@ seo:
 
 
 
-<p>Playing in a band is super fun, and you don&#8217;t have to be rich to get started. We have proven today that you only need a few things to really get started on your journey. The most important part of gigging on a budget,<strong> is your playing</strong>. They say &#8220;tone is in the fingers&#8221; and I think that is mostly true.<strong> All of the expensive gear in the world won&#8217;t make you a <a href="https://www.electrikjam.com/beginner-music-theory-for-guitarists/" target="_blank" data-type="post" data-id="7596" rel="noopener" data-lasso-id="142192">better player</a>.</strong></p>
+<p>Playing in a band is super fun, and you don&#8217;t have to be rich to get started. We have proven today that you only need a few things to really get started on your journey. The most important part of gigging on a budget,<strong> is your playing</strong>. They say &#8220;tone is in the fingers&#8221; and I think that is mostly true.<strong> All of the expensive gear in the world won&#8217;t make you a <a href="/beginner-music-theory-for-guitarists/" target="_blank" data-type="post" data-id="7596" rel="noopener" data-lasso-id="142192">better player</a>.</strong></p>
 
 
 

@@ -65,7 +65,7 @@ seo:
 
 
 
-<p>Over his short career, Kurt Cobain pretty much exclusively used Fender guitars. He used Stratocasters, Mustangs, and Jaguars, as well as <strong><a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="106842">his hybrid Jagstang guitar</a></strong> that was part Mustang, part Jaguar. Now, <a href="https://www.electrikjam.com/who-plays-fender-thinline-telecaster/" data-lasso-id="252366">most modern guitarists play Fender guitars</a> because they sound great and play wonderfully. Not Kurt. No, he played them because they were, in his words, “<strong>cheap”</strong> and <strong>“sounded like crap”</strong>.</p>
+<p>Over his short career, Kurt Cobain pretty much exclusively used Fender guitars. He used Stratocasters, Mustangs, and Jaguars, as well as <strong><a href="/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="106842">his hybrid Jagstang guitar</a></strong> that was part Mustang, part Jaguar. Now, <a href="/who-plays-fender-thinline-telecaster/" data-lasso-id="252366">most modern guitarists play Fender guitars</a> because they sound great and play wonderfully. Not Kurt. No, he played them because they were, in his words, “<strong>cheap”</strong> and <strong>“sounded like crap”</strong>.</p>
 
 
 
@@ -81,7 +81,7 @@ seo:
 
 
 
-<p>As I noted earlier, Cobain played a range of Fender guitars during his Nirvana days. The one he is most well known for playing is the Fender Mustang – he had several of these in different colors, including a 1969 Fender Competition Mustang, and he customized them heavily, adding in <strong><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" data-lasso-id="106843">Seymour Duncan JB pickups</a></strong> and a Gotoh Tune-O-Matic bridge.</p>
+<p>As I noted earlier, Cobain played a range of Fender guitars during his Nirvana days. The one he is most well known for playing is the Fender Mustang – he had several of these in different colors, including a 1969 Fender Competition Mustang, and he customized them heavily, adding in <strong><a href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" data-lasso-id="106843">Seymour Duncan JB pickups</a></strong> and a Gotoh Tune-O-Matic bridge.</p>
 
 
 
@@ -97,19 +97,19 @@ seo:
 
 
 
-<p>Kurt called the Fender Mustang “cheap” and “crappy sounding”, not something you’ll ever see on Fender’s marketing material. But, yes, Fender still makes both the Mustang and the Jaguar. In fact, both of these models are extremely popular in 2022. You can pick up Squier versions of them too for a very reasonable price as well – <strong><a href="https://www.electrikjam.com/guitar-center-pxf-io-5bkynl/" data-type="lasso-urls" data-id="6283" data-lasso-id="106844" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Squier Contemporary Telecaster RH">well under $300 in most cases</a></strong>.</p>
+<p>Kurt called the Fender Mustang “cheap” and “crappy sounding”, not something you’ll ever see on Fender’s marketing material. But, yes, Fender still makes both the Mustang and the Jaguar. In fact, both of these models are extremely popular in 2022. You can pick up Squier versions of them too for a very reasonable price as well – <strong><a href="/guitar-center-pxf-io-5bkynl/" data-type="lasso-urls" data-id="6283" data-lasso-id="106844" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Squier Contemporary Telecaster RH">well under $300 in most cases</a></strong>.</p>
 
 
 
-<p>In fact, if you want to take Kurt’s ethos and approach to guitar, you should AVOID Fender’s more expensive models and go with its cheaper Squier alternatives. You can then do what Kurt liked to do and start modding the guitar with new pickups and improved locking tuners. As noted above, <a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-lasso-id="106932">Kurt used Seymour Duncan JB pickups</a> on most of his guitars.</p>
+<p>In fact, if you want to take Kurt’s ethos and approach to guitar, you should AVOID Fender’s more expensive models and go with its cheaper Squier alternatives. You can then do what Kurt liked to do and start modding the guitar with new pickups and improved locking tuners. As noted above, <a href="/kurt-cobain-pickups/" data-lasso-id="106932">Kurt used Seymour Duncan JB pickups</a> on most of his guitars.</p>
 
 
 
-<p>In fact, you can now pick up a Squier Bullet Mustang with two humbucking pickups <strong><a href="https://www.electrikjam.com/recommends/squier-bullet-mustang-hh/" data-lasso-id="106845">for just $179.99</a></strong>. That is a price Kurt would approve of, but he would probably take issue with the way the guitar plays nowadays – Squier guitars are now very, very good options. And they play and sound beautiful, <strong><a href="https://www.electrikjam.com/recommends/squier-bullet-mustang-hh/" data-lasso-id="106846">especially with double HH pickup configurations</a></strong>.</p>
+<p>In fact, you can now pick up a Squier Bullet Mustang with two humbucking pickups <strong><a href="/recommends/squier-bullet-mustang-hh/" data-lasso-id="106845">for just $179.99</a></strong>. That is a price Kurt would approve of, but he would probably take issue with the way the guitar plays nowadays – Squier guitars are now very, very good options. And they play and sound beautiful, <strong><a href="/recommends/squier-bullet-mustang-hh/" data-lasso-id="106846">especially with double HH pickup configurations</a></strong>.</p>
 
 
 
-<p>If you want the ACTUAL guitar Kurt played, you’ll need slightly deeper pockets. A proper Fender Mustang or Jaguar will set you back <strong><a href="https://www.electrikjam.com/recommends/fender-american-performer-mustang/" data-lasso-id="106847">the best part of $1400</a></strong>. But if Kurt were alive today, you know <strong><a href="https://www.electrikjam.com/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" data-lasso-id="106848">he’d be playing Squier guitars</a></strong>. </p>
+<p>If you want the ACTUAL guitar Kurt played, you’ll need slightly deeper pockets. A proper Fender Mustang or Jaguar will set you back <strong><a href="/recommends/fender-american-performer-mustang/" data-lasso-id="106847">the best part of $1400</a></strong>. But if Kurt were alive today, you know <strong><a href="/new-squier-40th-anniversary-guitars/" data-type="post" data-id="6710" data-lasso-id="106848">he’d be playing Squier guitars</a></strong>. </p>
 
 
 

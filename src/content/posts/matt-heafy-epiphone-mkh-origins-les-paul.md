@@ -39,11 +39,11 @@ seo:
 
 
 
-<p>Matt Heafy of TRIVIUM announced his new Epiphone Signature model in January 2021 and, like a lot of <strong><a href="https://www.electrikjam.com/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="2647">Epiphone’s output in 2020/21</a></strong>, the guitar is a veritable smorgasbord of awesomeness.</p>
+<p>Matt Heafy of TRIVIUM announced his new Epiphone Signature model in January 2021 and, like a lot of <strong><a href="/epiphone-guitars/" data-type="page" data-id="4039" data-lasso-id="2647">Epiphone’s output in 2020/21</a></strong>, the guitar is a veritable smorgasbord of awesomeness.</p>
 
 
 
-<p>You have a new headstock design, new pickups, and new color options. I love <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="2648">Epiphone Les Paul guitars</a></strong>, but this one is something truly special. The guitar is the follow-up to Heafy’s first collaboration with Epiphone. And this one does things a little differently…</p>
+<p>You have a new headstock design, new pickups, and new color options. I love <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="2648">Epiphone Les Paul guitars</a></strong>, but this one is something truly special. The guitar is the follow-up to Heafy’s first collaboration with Epiphone. And this one does things a little differently…</p>
 
 
 
@@ -51,7 +51,7 @@ seo:
 
 
 
-<p>Picking up where Heafy’s OG MKH Epiphone left off, the new MKH Origins Les Paul Custom switches out EMG pickups in favor of a pair of black and gold <strong><a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="2649">Fishman Fluence humbuckers</a></strong>.</p>
+<p>Picking up where Heafy’s OG MKH Epiphone left off, the new MKH Origins Les Paul Custom switches out EMG pickups in favor of a pair of black and gold <strong><a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="2649">Fishman Fluence humbuckers</a></strong>.</p>
 
 
 
@@ -69,7 +69,7 @@ seo:
 
 
 
-<p>That’s right: <strong>the MKH Origins Les Paul Custom will be available as a 7 string too</strong>. I didn’t expect this, so that is great news <a href="https://www.electrikjam.com/the-complete-guide-to-7-string-guitar/" data-lasso-id="251946">– 7 string versions of signature series guitars</a> are pretty rare. Good work, Matt!</p>
+<p>That’s right: <strong>the MKH Origins Les Paul Custom will be available as a 7 string too</strong>. I didn’t expect this, so that is great news <a href="/the-complete-guide-to-7-string-guitar/" data-lasso-id="251946">– 7 string versions of signature series guitars</a> are pretty rare. Good work, Matt!</p>
 
 
 
@@ -77,7 +77,7 @@ seo:
 
 
 
-<p>The MKH Origins Les Paul Custom features an updated headstock too; I think it looks great –&nbsp;see the video at the end for a better look at it. <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review-incredible-6-and-7-string-beasts/" data-lasso-id="132344">Heafy also confirmed that the MKH Origins</a> Les Paul Custom will ship with a guitar strap too, as well as built-in strap locks, so you can rock out without worrying about dropping the guitar.</p>
+<p>The MKH Origins Les Paul Custom features an updated headstock too; I think it looks great –&nbsp;see the video at the end for a better look at it. <a href="/epiphone-matt-heafy-origins-review-incredible-6-and-7-string-beasts/" data-lasso-id="132344">Heafy also confirmed that the MKH Origins</a> Les Paul Custom will ship with a guitar strap too, as well as built-in strap locks, so you can rock out without worrying about dropping the guitar.</p>
 
 
 
@@ -85,7 +85,7 @@ seo:
 
 
 
-<p>The MKH Origins Les Paul Custom was launched – or revealed – by Heafy in January 2021. There has not been any additional announcements about when the <meta charset="utf-8">MKH Origins Les <a href="https://www.electrikjam.com/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17476">Paul Custom will be available to buy</a>, however, although I’d assume it would be landing during Q4, 2021 – just before Christmas.</p>
+<p>The MKH Origins Les Paul Custom was launched – or revealed – by Heafy in January 2021. There has not been any additional announcements about when the <meta charset="utf-8">MKH Origins Les <a href="/what-epiphone-les-paul-should-i-buy/" data-lasso-id="17476">Paul Custom will be available to buy</a>, however, although I’d assume it would be landing during Q4, 2021 – just before Christmas.</p>
 
 
 
@@ -93,11 +93,11 @@ seo:
 
 
 
-<p>Again, as with release dates, there is no word from Heafy or <a href="https://www.electrikjam.com/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8792">Epiphone about how much the MKH Origins Les Paul</a> Custom will cost once it is available. Given the cost of some of <a href="https://www.electrikjam.com/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145784">Epiphone’s other signature series guitars</a>, though, I think it is fairly safe to assume the MKH Origins Les Paul Custom will retail for around $899, or thereabouts.</p>
+<p>Again, as with release dates, there is no word from Heafy or <a href="/what-is-the-best-quality-epiphone-les-paul/" data-lasso-id="8792">Epiphone about how much the MKH Origins Les Paul</a> Custom will cost once it is available. Given the cost of some of <a href="/how-much-do-electric-guitars-cost-guide/" data-lasso-id="145784">Epiphone’s other signature series guitars</a>, though, I think it is fairly safe to assume the MKH Origins Les Paul Custom will retail for around $899, or thereabouts.</p>
 
 
 
-<p>As we’ve seen in <a href="https://www.electrikjam.com/epiphone-matt-heafy-origins-review/" data-lasso-id="252381">this post, you’re getting quite a lot of updates with this new Matt Heafy Epiphone</a>, so it stands to reason that this will be reflected in the price. Having said that, I’d happily pay $899 for this guitar. On paper and in-person (or video), it does make one hell of an impression.</p>
+<p>As we’ve seen in <a href="/epiphone-matt-heafy-origins-review/" data-lasso-id="252381">this post, you’re getting quite a lot of updates with this new Matt Heafy Epiphone</a>, so it stands to reason that this will be reflected in the price. Having said that, I’d happily pay $899 for this guitar. On paper and in-person (or video), it does make one hell of an impression.</p>
 
 
 
@@ -119,15 +119,15 @@ seo:
 
 
 
-<p>If you cannot wait for Heafy’s Epiphone to drop, you do have plenty of other great options from Epiphone – including <strong><a href="https://www.electrikjam.com/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491" data-lasso-id="2650">its SG range</a></strong>. Signature models are ALWAYS more expensive than non-signature models, so if you’re on a tight budget, check out our guide to the <strong><a href="https://www.electrikjam.com/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="2651">best Epiphone Les Paul guitars</a></strong> you can buy right now.</p>
+<p>If you cannot wait for Heafy’s Epiphone to drop, you do have plenty of other great options from Epiphone – including <strong><a href="/epiphone-sg-standard-vs-epiphone-sg-custom/" data-type="post" data-id="2491" data-lasso-id="2650">its SG range</a></strong>. Signature models are ALWAYS more expensive than non-signature models, so if you’re on a tight budget, check out our guide to the <strong><a href="/best-epiphone-les-paul-models/" data-type="post" data-id="880" data-lasso-id="2651">best Epiphone Les Paul guitars</a></strong> you can buy right now.</p>
 
 
 
-<p>The <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14317">guitars in that list are all models</a> the team has used over the years, both to record and play live. It includes options for straight-up beginners and options for more advanced players.</p>
+<p>The <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14317">guitars in that list are all models</a> the team has used over the years, both to record and play live. It includes options for straight-up beginners and options for more advanced players.</p>
 
 
 
-<p>As of right now, if I were in the market for a new Epiphone Les Paul model, <strong><a href="https://www.electrikjam.com/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="2652">I’d be using the Epiphone Les Paul Prophecy</a></strong> – this thing blew my mind when I tested it. It’s that good that I think I’d probably take one of them over an actual Gibson Les Paul. It really is that impressive.</p>
+<p>As of right now, if I were in the market for a new Epiphone Les Paul model, <strong><a href="/epiphone-prophecy-2020-price-release-date-specs/" data-type="post" data-id="1231" data-lasso-id="2652">I’d be using the Epiphone Les Paul Prophecy</a></strong> – this thing blew my mind when I tested it. It’s that good that I think I’d probably take one of them over an actual Gibson Les Paul. It really is that impressive.</p>
 
 
 

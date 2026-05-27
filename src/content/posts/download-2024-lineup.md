@@ -406,7 +406,7 @@ seo:
 
 
 
-<p>It’s not the best line-up we’ve ever seen. But <strong><a href="https://www.electrikjam.com/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="255053">I’d go just to see Pantera again</a></strong>. And Queens are always good value. The headliners, for the most part, however, suck – sorry, Fall Out Boy is NOT headline material at DOWNLOAD. </p>
+<p>It’s not the best line-up we’ve ever seen. But <strong><a href="/pantera-albums-ranked-in-order-of-heaviness/" data-type="post" data-id="3542" data-lasso-id="255053">I’d go just to see Pantera again</a></strong>. And Queens are always good value. The headliners, for the most part, however, suck – sorry, Fall Out Boy is NOT headline material at DOWNLOAD. </p>
 
 
 

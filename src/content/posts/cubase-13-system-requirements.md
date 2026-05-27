@@ -130,7 +130,7 @@ seo:
 
 
 
-<p>To record efficiently and quickly, without lag or crashing, you need to be running a fairly decent computer, either Mac or PC, to get the best out of <strong><a href="https://www.electrikjam.com/cubase-13-release-date-new-features-rumors/" data-type="post" data-id="12744" data-lasso-id="258897">Cubase 13</a></strong>. </p>
+<p>To record efficiently and quickly, without lag or crashing, you need to be running a fairly decent computer, either Mac or PC, to get the best out of <strong><a href="/cubase-13-release-date-new-features-rumors/" data-type="post" data-id="12744" data-lasso-id="258897">Cubase 13</a></strong>. </p>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<p>Why? Here’s everything you need to know about why RAM and the CPU you use are so important when using <strong><a href="https://www.electrikjam.com/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="258898">DAWs like Cubase</a></strong>.</p>
+<p>Why? Here’s everything you need to know about why RAM and the CPU you use are so important when using <strong><a href="/what-is-cubase/" data-type="post" data-id="12265" data-lasso-id="258898">DAWs like Cubase</a></strong>.</p>
 
 
 
@@ -154,7 +154,7 @@ seo:
 
 
 
-<p>Here&#8217;s a quick overview of <strong><a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-type="post" data-id="2642" data-lasso-id="258899">why RAM is important for music production</a></strong>, what it does, and why – when it comes to memory – more is ALWAYS better. </p>
+<p>Here&#8217;s a quick overview of <strong><a href="/is-16-gb-of-ram-enough-for-music-production/" data-type="post" data-id="2642" data-lasso-id="258899">why RAM is important for music production</a></strong>, what it does, and why – when it comes to memory – more is ALWAYS better. </p>
 
 
 

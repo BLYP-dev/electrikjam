@@ -39,11 +39,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-type="post" data-id="3981" data-lasso-id="18349">Mastodon’s new album</a></strong>, Hushed and Grim, is a masterpiece and, perhaps, one of Mastodon’s finest records to date. I say, perhaps, but it is quickly becoming my favorite Mastodon record. Period. And I’m a big fan of the band’s earlier records like <strong>Blood Mountain</strong> and <strong>Leviathan</strong>.</p>
+<p><strong><a href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-type="post" data-id="3981" data-lasso-id="18349">Mastodon’s new album</a></strong>, Hushed and Grim, is a masterpiece and, perhaps, one of Mastodon’s finest records to date. I say, perhaps, but it is quickly becoming my favorite Mastodon record. Period. And I’m a big fan of the band’s earlier records like <strong>Blood Mountain</strong> and <strong>Leviathan</strong>.</p>
 
 
 
-<p>Either way, if you’re interested in my thoughts on the new record, check out the full <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="18350">Hushed and Grim review</a></strong> for a full breakdown of what makes the album tick, standout performances, and how it compares to 2017’s <strong>Emperor of Sand.</strong></p>
+<p>Either way, if you’re interested in my thoughts on the new record, check out the full <strong><a href="/mastodon-hushed-and-grim-review/" data-type="post" data-id="5124" data-lasso-id="18350">Hushed and Grim review</a></strong> for a full breakdown of what makes the album tick, standout performances, and how it compares to 2017’s <strong>Emperor of Sand.</strong></p>
 
 
 
@@ -129,7 +129,7 @@ seo:
 
 
 
-<p>As you can see, that is a monster of a setlist. It covers all the bases, from classic tracks like Blood and Thunder and Mother Thumper to newer tracks that I cannot wait to hear live like <strong><a href="https://www.electrikjam.com/mastodon-hushed-and-grim-lyrics/" data-type="post" data-id="5485" data-lasso-id="18351">The Crux, Teardrinker, Skeleton of Splendor, and Pushing The Tides.</a></strong></p>
+<p>As you can see, that is a monster of a setlist. It covers all the bases, from classic tracks like Blood and Thunder and Mother Thumper to newer tracks that I cannot wait to hear live like <strong><a href="/mastodon-hushed-and-grim-lyrics/" data-type="post" data-id="5485" data-lasso-id="18351">The Crux, Teardrinker, Skeleton of Splendor, and Pushing The Tides.</a></strong></p>
 
 
 
@@ -207,5 +207,5 @@ seo:
 
 
 
-<p><strong><a data-lasso-id="18353" href="https://www.ticketmaster.com/mastodon-tickets/artist/842079" target="_blank" rel="noopener noreferrer nofollow">Grab your tickets today</a></strong> before they sell out! And make sure you check out our guide on <strong><a href="https://www.electrikjam.com/how-to-sound-like-mastodon/" data-lasso-id="216611">how to get a guitar tone like Mastodon. </a></strong></p>
+<p><strong><a data-lasso-id="18353" href="https://www.ticketmaster.com/mastodon-tickets/artist/842079" target="_blank" rel="noopener noreferrer nofollow">Grab your tickets today</a></strong> before they sell out! And make sure you check out our guide on <strong><a href="/how-to-sound-like-mastodon/" data-lasso-id="216611">how to get a guitar tone like Mastodon. </a></strong></p>
 

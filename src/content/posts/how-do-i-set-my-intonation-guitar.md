@@ -51,11 +51,11 @@ seo:
 
 
 
-<p>Have you ever played an <a href="https://www.electrikjam.com/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="84715">open chord</a> and it seems like just one string is slightly out of tune? Of course, you check your tuning again with a tuner. All the strings are in tune! What in the <em>heck</em> is wrong?</p>
+<p>Have you ever played an <a href="/the-easy-way-to-play-an-f-chord-on-guitar/" data-lasso-id="84715">open chord</a> and it seems like just one string is slightly out of tune? Of course, you check your tuning again with a tuner. All the strings are in tune! What in the <em>heck</em> is wrong?</p>
 
 
 
-<p>So maybe your intonation is off. It seems devastating at first, especially with <strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="104">a new guitar</a></strong>. But it is an easy fix, with just a tuner, some patience, and a screwdriver.</p>
+<p>So maybe your intonation is off. It seems devastating at first, especially with <strong><a href="/best-guitar-for-beginners/" data-type="post" data-id="505" data-lasso-id="104">a new guitar</a></strong>. But it is an easy fix, with just a tuner, some patience, and a screwdriver.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p><strong>Intonation&nbsp;is how in-tune your&nbsp;guitar&nbsp;is along <a href="https://www.electrikjam.com/how-to-find-fretboard-notes-guitar/" data-lasso-id="105">the entire fretboard</a>. A&nbsp;guitar&nbsp;with a setup&nbsp;intonation&nbsp;will be in tune everywhere on the fretboard. A&nbsp;guitar&nbsp;with bad intonation&nbsp;will be out of tune in some areas of the fretboard.</p>
+<p><strong>Intonation&nbsp;is how in-tune your&nbsp;guitar&nbsp;is along <a href="/how-to-find-fretboard-notes-guitar/" data-lasso-id="105">the entire fretboard</a>. A&nbsp;guitar&nbsp;with a setup&nbsp;intonation&nbsp;will be in tune everywhere on the fretboard. A&nbsp;guitar&nbsp;with bad intonation&nbsp;will be out of tune in some areas of the fretboard.</p>
 
 
 
@@ -87,11 +87,11 @@ seo:
 
 
 
-<p>New strings are an optional thing. But I feel like I get the most accurate reading with freshly stretched, new strings. Check <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246468">the screws on your bridge</a>, and see if they are Philips or Flathead, and find the appropriate screwdriver. Otherwise,<strong><a href="https://www.electrikjam.com/how-to-tune-a-guitar/" data-type="post" data-id="441" data-lasso-id="106"> you&#8217;ll need a good tuner</a></strong>.</p>
+<p>New strings are an optional thing. But I feel like I get the most accurate reading with freshly stretched, new strings. Check <a href="/parts-of-an-electric-guitar/" data-lasso-id="246468">the screws on your bridge</a>, and see if they are Philips or Flathead, and find the appropriate screwdriver. Otherwise,<strong><a href="/how-to-tune-a-guitar/" data-type="post" data-id="441" data-lasso-id="106"> you&#8217;ll need a good tuner</a></strong>.</p>
 
 
 
-<p>No matter what kind of bridge you have, the process is the same. Whether it is a <a href="https://www.electrikjam.com/types-of-guitars-guide/" data-lasso-id="107">Stratocaster or a Les Paul</a> style bridge, all you are doing is adjusting the string length by tiny increments!</p>
+<p>No matter what kind of bridge you have, the process is the same. Whether it is a <a href="/types-of-guitars-guide/" data-lasso-id="107">Stratocaster or a Les Paul</a> style bridge, all you are doing is adjusting the string length by tiny increments!</p>
 
 
 
@@ -99,7 +99,7 @@ seo:
 
 
 
-<p>There are a lot of ways to go about this, but today we are looking at the <strong>easy</strong> way. This is <a href="https://www.electrikjam.com/how-hard-is-it-to-learn-guitar/" data-lasso-id="108">the easiest way to learn the process</a>, but you may want to try a different way, later. But you will at least <strong>understand</strong> what you&#8217;re doing by learning this method, first</p>
+<p>There are a lot of ways to go about this, but today we are looking at the <strong>easy</strong> way. This is <a href="/how-hard-is-it-to-learn-guitar/" data-lasso-id="108">the easiest way to learn the process</a>, but you may want to try a different way, later. But you will at least <strong>understand</strong> what you&#8217;re doing by learning this method, first</p>
 
 
 
@@ -179,7 +179,7 @@ seo:
 
 
 
-<p>Changing your string gauge will usually be the #1 culprit for wonky intonation. Thicker <a href="https://www.electrikjam.com/which-guitar-strings-last-longest/" data-lasso-id="15992">strings especially will offset your intonation across the whole guitar</a>.</p>
+<p>Changing your string gauge will usually be the #1 culprit for wonky intonation. Thicker <a href="/which-guitar-strings-last-longest/" data-lasso-id="15992">strings especially will offset your intonation across the whole guitar</a>.</p>
 
 
 

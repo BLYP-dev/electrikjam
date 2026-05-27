@@ -69,11 +69,11 @@ seo:
 
 
 
-<p>Since 2005, I have always had at least one or two guitars in my collection with a fat-style neck. In some cases, it was actually a Gibson Les Paul, which I used a lot on stage. <strong><a href="https://www.electrikjam.com/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener" data-lasso-id="235123">Currently, it is my Schecter E1 Koa </a></strong>that has that fat neck profile, and I play it a LOT.</p>
+<p>Since 2005, I have always had at least one or two guitars in my collection with a fat-style neck. In some cases, it was actually a Gibson Les Paul, which I used a lot on stage. <strong><a href="/schecter-e1-koa-review/" data-type="post" data-id="1039" target="_blank" rel="noopener" data-lasso-id="235123">Currently, it is my Schecter E1 Koa </a></strong>that has that fat neck profile, and I play it a LOT.</p>
 
 
 
-<p>So the <strong><a href="https://www.electrikjam.com/harley-benton-guitars-guide/" target="_blank" data-type="post" data-id="9652" rel="noopener" data-lasso-id="235124">newer run of the Harley Benton </a></strong>DC FAT guitars definitely fill a niche for players that like that baseball bat neck feel. These axes offer the same feel that a much more expensive Gibson models have, at a fraction of the price. But these DC Junior models also fill <em>another </em>gap.</p>
+<p>So the <strong><a href="/harley-benton-guitars-guide/" target="_blank" data-type="post" data-id="9652" rel="noopener" data-lasso-id="235124">newer run of the Harley Benton </a></strong>DC FAT guitars definitely fill a niche for players that like that baseball bat neck feel. These axes offer the same feel that a much more expensive Gibson models have, at a fraction of the price. But these DC Junior models also fill <em>another </em>gap.</p>
 
 
 
@@ -81,7 +81,7 @@ seo:
 
 
 
-<p>But the Junior design became a favorite for studio musicians, as well as big stars like <strong>Joan Jett</strong>. The smaller, lighter body <strong><a href="https://www.electrikjam.com/p90-pickups-guide/" target="_blank" data-type="post" data-id="8654" rel="noopener" data-lasso-id="235125">and single P90 pickup </a></strong>was preferred by tons of guitarists. One of the most famous fans of the &#8220;single pickup&#8221; design is <strong>Phil X,</strong> and he thinks it has a scientific reason!</p>
+<p>But the Junior design became a favorite for studio musicians, as well as big stars like <strong>Joan Jett</strong>. The smaller, lighter body <strong><a href="/p90-pickups-guide/" target="_blank" data-type="post" data-id="8654" rel="noopener" data-lasso-id="235125">and single P90 pickup </a></strong>was preferred by tons of guitarists. One of the most famous fans of the &#8220;single pickup&#8221; design is <strong>Phil X,</strong> and he thinks it has a scientific reason!</p>
 
 
 
@@ -239,7 +239,7 @@ seo:
 
 
 
-<p>The neck is definitely fat, but not quite the &#8220;baseball bat&#8221; that you would imagine. It definitely has a &#8220;thick C&#8221; profile, but it isn&#8217;t quite as wide as a Gibson. The back of the neck has a satin finish, and other models have a glossy finish/neck currently on <a href="https://www.electrikjam.com/thomann-usa-shipping-times-costs-a-complete-guide/" data-lasso-id="251553">Thomann&#8217;s website</a>. This is why I chose this Cherry color to review, since I like satin necks.</p>
+<p>The neck is definitely fat, but not quite the &#8220;baseball bat&#8221; that you would imagine. It definitely has a &#8220;thick C&#8221; profile, but it isn&#8217;t quite as wide as a Gibson. The back of the neck has a satin finish, and other models have a glossy finish/neck currently on <a href="/thomann-usa-shipping-times-costs-a-complete-guide/" data-lasso-id="251553">Thomann&#8217;s website</a>. This is why I chose this Cherry color to review, since I like satin necks.</p>
 
 
 
@@ -303,7 +303,7 @@ seo:
 
 
 
-<p>You can also use the volume knob like a &#8220;channel switcher&#8221;. If you turn the volume down about half way, you get an<em> almost </em>clean tone, even through the Mesa. Turn it up all the way and you have a delicious crunch tone that sounds huge. <strong><a href="https://www.electrikjam.com/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="235128">EVH was a master of this single volume technique.</a></strong></p>
+<p>You can also use the volume knob like a &#8220;channel switcher&#8221;. If you turn the volume down about half way, you get an<em> almost </em>clean tone, even through the Mesa. Turn it up all the way and you have a delicious crunch tone that sounds huge. <strong><a href="/the-peavey-5150-history/" target="_blank" data-type="post" data-id="7789" rel="noopener" data-lasso-id="235128">EVH was a master of this single volume technique.</a></strong></p>
 
 
 
@@ -311,7 +311,7 @@ seo:
 
 
 
-<p>The neck lives up to the FAT name, but not quite as much as its Gibson counterpart. This is a thicker neck than you would find on most production guitars, and I find it to be a nice middle ground between a Fender Strat &#8220;C &#8220;carve <strong><a href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="235129">and a &#8217;59 Gibson neck carve</a></strong>.</p>
+<p>The neck lives up to the FAT name, but not quite as much as its Gibson counterpart. This is a thicker neck than you would find on most production guitars, and I find it to be a nice middle ground between a Fender Strat &#8220;C &#8220;carve <strong><a href="/new-for-2020-epiphone-59-les-paul/" target="_blank" data-type="post" data-id="1336" rel="noopener" data-lasso-id="235129">and a &#8217;59 Gibson neck carve</a></strong>.</p>
 
 
 
@@ -327,7 +327,7 @@ seo:
 
 
 
-<p>Overall, I am impressed, and I wish guitars like this were available when I was just starting to play! Back in the 90&#8217;s you got what you paid for, and anything under $500 was usually terrible. Harley Benton continuously<strong><a href="https://www.electrikjam.com/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="235130"> knocks it out of the park for budget prices</a></strong>..</p>
+<p>Overall, I am impressed, and I wish guitars like this were available when I was just starting to play! Back in the 90&#8217;s you got what you paid for, and anything under $500 was usually terrible. Harley Benton continuously<strong><a href="/best-budget-guitars/" target="_blank" data-type="page" data-id="6235" rel="noopener" data-lasso-id="235130"> knocks it out of the park for budget prices</a></strong>..</p>
 
 
 

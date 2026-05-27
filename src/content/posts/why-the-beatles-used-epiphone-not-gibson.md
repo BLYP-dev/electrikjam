@@ -43,7 +43,7 @@ seo:
 
 
 
-<p>So why, then, did The Beatles tend to favor Epiphone guitars over their more expensive Gibson alternatives? <a href="https://www.electrikjam.com/john-lennons-least-favorite-beatles-album-will-surprise-you/" data-lasso-id="135452">John Lennon</a> famously loved and played his Epiphone Casino throughout The Beatles’ time as a band. But why not a Gibson ES-330 model?</p>
+<p>So why, then, did The Beatles tend to favor Epiphone guitars over their more expensive Gibson alternatives? <a href="/john-lennons-least-favorite-beatles-album-will-surprise-you/" data-lasso-id="135452">John Lennon</a> famously loved and played his Epiphone Casino throughout The Beatles’ time as a band. But why not a Gibson ES-330 model?</p>
 
 
 
@@ -55,7 +55,7 @@ seo:
 
 
 
-<p>The Casino then became an integral part of The Beatles’ live performances, alongside their <strong><a href="https://www.electrikjam.com/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="84763">VOX amps</a></strong>, and studio work. The Epiphone Casino was used during the latter – and best – part of the band’s recording work. John Lennon even used his during The Beatles’ last ever live performance.</p>
+<p>The Casino then became an integral part of The Beatles’ live performances, alongside their <strong><a href="/why-the-beatles-only-ever-used-vox-amps/" data-type="post" data-id="6138" data-lasso-id="84763">VOX amps</a></strong>, and studio work. The Epiphone Casino was used during the latter – and best – part of the band’s recording work. John Lennon even used his during The Beatles’ last ever live performance.</p>
 
 
 
@@ -63,7 +63,7 @@ seo:
 
 
 
-<p>George Harrison had an off/on relationship with his Casino. If you check out videos of The Beatles playing live or recording, you will see that George used an array of guitar models. <a href="https://www.electrikjam.com/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-lasso-id="152884">The biggest fans of the Epiphone Casino in The Beatles</a> were John and Paul –&nbsp;both used the guitar more or less exclusively on records and when playing live.</p>
+<p>George Harrison had an off/on relationship with his Casino. If you check out videos of The Beatles playing live or recording, you will see that George used an array of guitar models. <a href="/the-beatles-made-jimi-hendrix-famous-heres-how-it-happened/" data-lasso-id="152884">The biggest fans of the Epiphone Casino in The Beatles</a> were John and Paul –&nbsp;both used the guitar more or less exclusively on records and when playing live.</p>
 
 
 
@@ -113,15 +113,15 @@ https://www.youtube.com/watch?v=UvukdUZb5IY
 
 
 
-<p>The Epiphone Casino is a great guitar and is still around today –&nbsp;<strong><a href="https://www.electrikjam.com/epiphone-casino-link/" data-type="lasso-urls" data-id="6963" data-lasso-id="84749" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Epiphone Casino">you can pick one up for $699.99</a></strong>. The modern Casino is more or less identical to the one used by George and John; it comes with two P-90 picks, a SlimTaper D neck, a hollow body design, and is made from a combination of maple, basswood, and mahogany.</p>
+<p>The Epiphone Casino is a great guitar and is still around today –&nbsp;<strong><a href="/epiphone-casino-link/" data-type="lasso-urls" data-id="6963" data-lasso-id="84749" rel="nofollow sponsored noopener" target="_blank" data-lasso-name="Epiphone Casino">you can pick one up for $699.99</a></strong>. The modern Casino is more or less identical to the one used by George and John; it comes with two P-90 picks, a SlimTaper D neck, a hollow body design, and is made from a combination of maple, basswood, and mahogany.</p>
 
 
 
-<p>Because of the nature of the Casino and its use of <strong><a href="https://www.electrikjam.com/what-are-p90-pickups-good-for-lets-find-out/" data-type="post" data-id="5912" data-lasso-id="84750">P-90 pickups</a></strong>, it is predominantly used in blues and country music. It has a bright, spritely tone that lends itself beautifully to these genres. Ditto jazz music. But you could definitely use the Epiphone Casino in a slow, sludge metal setting –&nbsp;especially if you wanted some seriously massive tone.</p>
+<p>Because of the nature of the Casino and its use of <strong><a href="/what-are-p90-pickups-good-for-lets-find-out/" data-type="post" data-id="5912" data-lasso-id="84750">P-90 pickups</a></strong>, it is predominantly used in blues and country music. It has a bright, spritely tone that lends itself beautifully to these genres. Ditto jazz music. But you could definitely use the Epiphone Casino in a slow, sludge metal setting –&nbsp;especially if you wanted some seriously massive tone.</p>
 
 
 
-<p><strong><a href="https://www.electrikjam.com/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="84751">Josh Homme</a></strong> used a similar model –&nbsp;the Epiphone Dot – during the recording of <strong><a href="https://www.electrikjam.com/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="84752">Songs For The Deaf</a></strong>, and the guitar work on that record is some of the best sounding ever committed to tape. Chelsea Wolfe also loves to use hollow-body guitars <strong><a href="https://www.electrikjam.com/dgcfad-the-guitar-tuning-of-the-gods/" data-type="post" data-id="3725" data-lasso-id="84753">tuned to D Standard </a></strong>and, again, she always has a wonderful, deeply organic guitar tone.</p>
+<p><strong><a href="/famous-guitarists-the-guitars-they-use-a-big-ol-list/" data-type="post" data-id="4292" data-lasso-id="84751">Josh Homme</a></strong> used a similar model –&nbsp;the Epiphone Dot – during the recording of <strong><a href="/queens-of-the-stone-age-guitar-tuning-a-guide/" data-type="post" data-id="5551" data-lasso-id="84752">Songs For The Deaf</a></strong>, and the guitar work on that record is some of the best sounding ever committed to tape. Chelsea Wolfe also loves to use hollow-body guitars <strong><a href="/dgcfad-the-guitar-tuning-of-the-gods/" data-type="post" data-id="3725" data-lasso-id="84753">tuned to D Standard </a></strong>and, again, she always has a wonderful, deeply organic guitar tone.</p>
 
 
 

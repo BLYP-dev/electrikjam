@@ -56,7 +56,7 @@ seo:
 
 
 
-<p><strong>This “coil” picks up the vibrations of your strings (hence the name) and turns them into electrical signals.</strong> And it has been this way <strong><a href="https://www.electrikjam.com/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="1091">since the electric guitar was first invented. </a></strong></p>
+<p><strong>This “coil” picks up the vibrations of your strings (hence the name) and turns them into electrical signals.</strong> And it has been this way <strong><a href="/who-invented-the-electric-guitar/" class="rank-math-link" data-lasso-id="1091">since the electric guitar was first invented. </a></strong></p>
 
 
 
@@ -72,11 +72,11 @@ seo:
 
 
 
-<p>OK, we <a href="https://www.electrikjam.com/what-are-active-pickups/" data-lasso-id="8170">know how a guitar pickup</a> works (in a basic fashion), but there are actually more than two styles of pickup available – and they’re all slightly different.</p>
+<p>OK, we <a href="/what-are-active-pickups/" data-lasso-id="8170">know how a guitar pickup</a> works (in a basic fashion), but there are actually more than two styles of pickup available – and they’re all slightly different.</p>
 
 
 
-<p>You have <strong>single coil pickups, humbuckers, and P90 pickups</strong> – these are the most commonly used styles in <a href="https://www.electrikjam.com/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="1092">modern electric guitars</a>.</p>
+<p>You have <strong>single coil pickups, humbuckers, and P90 pickups</strong> – these are the most commonly used styles in <a href="/5-electric-guitar-brands-you-dont-know-but-really-should/" data-lasso-id="1092">modern electric guitars</a>.</p>
 
 
 
@@ -84,7 +84,7 @@ seo:
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-42 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="641" src="/wp-content/uploads/2021/03/Humbuckers-1024x641.png" alt="" data-id="2611" data-full-url="/wp-content/uploads/2021/03/Humbuckers.png" data-link="https://www.electrikjam.com/?attachment_id=2611" class="wp-image-2611" title="" srcset="/wp-content/uploads/2021/03/Humbuckers-1024x641.png 1024w, /wp-content/uploads/2021/03/Humbuckers-600x376.png 600w, /wp-content/uploads/2021/03/Humbuckers-300x188.png 300w, /wp-content/uploads/2021/03/Humbuckers-768x481.png 768w, /wp-content/uploads/2021/03/Humbuckers-400x250.png 400w, /wp-content/uploads/2021/03/Humbuckers-1080x676.png 1080w, /wp-content/uploads/2021/03/Humbuckers.png 1402w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption"><strong>HUMBUCKER</strong></figcaption></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="803" src="/wp-content/uploads/2021/03/single-coil-pickups-1024x803.png" alt="" data-id="2612" data-full-url="/wp-content/uploads/2021/03/single-coil-pickups.png" data-link="https://www.electrikjam.com/?attachment_id=2612" class="wp-image-2612" title="" srcset="/wp-content/uploads/2021/03/single-coil-pickups-1024x803.png 1024w, /wp-content/uploads/2021/03/single-coil-pickups-600x470.png 600w, /wp-content/uploads/2021/03/single-coil-pickups-300x235.png 300w, /wp-content/uploads/2021/03/single-coil-pickups-768x602.png 768w, /wp-content/uploads/2021/03/single-coil-pickups-1080x847.png 1080w, /wp-content/uploads/2021/03/single-coil-pickups.png 1296w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption"><strong>SINGLE COIL</strong></figcaption></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="730" src="/wp-content/uploads/2021/03/P90-Pickups-1024x730.png" alt="" data-id="2613" data-full-url="/wp-content/uploads/2021/03/P90-Pickups.png" data-link="https://www.electrikjam.com/?attachment_id=2613" class="wp-image-2613" title="" srcset="/wp-content/uploads/2021/03/P90-Pickups-1024x730.png 1024w, /wp-content/uploads/2021/03/P90-Pickups-600x428.png 600w, /wp-content/uploads/2021/03/P90-Pickups-300x214.png 300w, /wp-content/uploads/2021/03/P90-Pickups-768x548.png 768w, /wp-content/uploads/2021/03/P90-Pickups-400x284.png 400w, /wp-content/uploads/2021/03/P90-Pickups-1080x770.png 1080w, /wp-content/uploads/2021/03/P90-Pickups.png 1324w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption"><a href="https://www.electrikjam.com/p90-pickups-guide/" data-lasso-id="145603"><strong>P90 PICKUPS<strong>The</strong></a> Three Main Types of Guitar Pickups: Humbucker, Single Coil &amp; P90 Pickups <strong>      </strong><strong>      </strong></strong></figcaption></figure>
+<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-42 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="641" src="/wp-content/uploads/2021/03/Humbuckers-1024x641.png" alt="" data-id="2611" data-full-url="/wp-content/uploads/2021/03/Humbuckers.png" data-link="https://www.electrikjam.com/?attachment_id=2611" class="wp-image-2611" title="" srcset="/wp-content/uploads/2021/03/Humbuckers-1024x641.png 1024w, /wp-content/uploads/2021/03/Humbuckers-600x376.png 600w, /wp-content/uploads/2021/03/Humbuckers-300x188.png 300w, /wp-content/uploads/2021/03/Humbuckers-768x481.png 768w, /wp-content/uploads/2021/03/Humbuckers-400x250.png 400w, /wp-content/uploads/2021/03/Humbuckers-1080x676.png 1080w, /wp-content/uploads/2021/03/Humbuckers.png 1402w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption"><strong>HUMBUCKER</strong></figcaption></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="803" src="/wp-content/uploads/2021/03/single-coil-pickups-1024x803.png" alt="" data-id="2612" data-full-url="/wp-content/uploads/2021/03/single-coil-pickups.png" data-link="https://www.electrikjam.com/?attachment_id=2612" class="wp-image-2612" title="" srcset="/wp-content/uploads/2021/03/single-coil-pickups-1024x803.png 1024w, /wp-content/uploads/2021/03/single-coil-pickups-600x470.png 600w, /wp-content/uploads/2021/03/single-coil-pickups-300x235.png 300w, /wp-content/uploads/2021/03/single-coil-pickups-768x602.png 768w, /wp-content/uploads/2021/03/single-coil-pickups-1080x847.png 1080w, /wp-content/uploads/2021/03/single-coil-pickups.png 1296w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption"><strong>SINGLE COIL</strong></figcaption></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="730" src="/wp-content/uploads/2021/03/P90-Pickups-1024x730.png" alt="" data-id="2613" data-full-url="/wp-content/uploads/2021/03/P90-Pickups.png" data-link="https://www.electrikjam.com/?attachment_id=2613" class="wp-image-2613" title="" srcset="/wp-content/uploads/2021/03/P90-Pickups-1024x730.png 1024w, /wp-content/uploads/2021/03/P90-Pickups-600x428.png 600w, /wp-content/uploads/2021/03/P90-Pickups-300x214.png 300w, /wp-content/uploads/2021/03/P90-Pickups-768x548.png 768w, /wp-content/uploads/2021/03/P90-Pickups-400x284.png 400w, /wp-content/uploads/2021/03/P90-Pickups-1080x770.png 1080w, /wp-content/uploads/2021/03/P90-Pickups.png 1324w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption"><a href="/p90-pickups-guide/" data-lasso-id="145603"><strong>P90 PICKUPS<strong>The</strong></a> Three Main Types of Guitar Pickups: Humbucker, Single Coil &amp; P90 Pickups <strong>      </strong><strong>      </strong></strong></figcaption></figure>
 
 
 
@@ -96,11 +96,11 @@ seo:
 
 
 
-<p>Single Coil pickups are extremely popular; you’ll find them on a <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1093">Fender Stratocaster</a></strong>, for instance, and they produce a beautiful, bright tone that lends itself perfectly to everything from pop music to surfer rock (the Beach Boys) and rock music like Jimi Hendrix and The Red Hot Chilli Peppers, for example.</p>
+<p>Single Coil pickups are extremely popular; you’ll find them on a <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1093">Fender Stratocaster</a></strong>, for instance, and they produce a beautiful, bright tone that lends itself perfectly to everything from pop music to surfer rock (the Beach Boys) and rock music like Jimi Hendrix and The Red Hot Chilli Peppers, for example.</p>
 
 
 
-<p>For metal, yeah, they work, but single coil pickups aren’t great with loads of distortion which is why you don’t see many “metal” bands using guitars with single coil pickups. This is also why <strong><a href="https://www.electrikjam.com/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1094">Jim Root’s Signature Fender Telecaster has humbuckers fitted to it.</a></strong></p>
+<p>For metal, yeah, they work, but single coil pickups aren’t great with loads of distortion which is why you don’t see many “metal” bands using guitars with single coil pickups. This is also why <strong><a href="/the-best-fender-guitars-for-metal-our-1-picks/" class="rank-math-link" data-lasso-id="1094">Jim Root’s Signature Fender Telecaster has humbuckers fitted to it.</a></strong></p>
 
 
 
@@ -108,11 +108,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="1095">For bigger, heavier sounds</a></strong> you’ll want to use humbuckers. Humbucker pickups are essentially two single coil pickups working together in unison.</p>
+<p><strong><a href="/best-guitars-for-metal/" class="rank-math-link" data-lasso-id="1095">For bigger, heavier sounds</a></strong> you’ll want to use humbuckers. Humbucker pickups are essentially two single coil pickups working together in unison.</p>
 
 
 
-<p>The end result is a warmer, deeper sound which lends itself perfectly to heavier tones (meaning tones drenched in distortion). This is why many players, <strong><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="1096">from Melvins to Josh Homme</a></strong> use humbucker pickups in their guitars.</p>
+<p>The end result is a warmer, deeper sound which lends itself perfectly to heavier tones (meaning tones drenched in distortion). This is why many players, <strong><a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="1096">from Melvins to Josh Homme</a></strong> use humbucker pickups in their guitars.</p>
 
 
 
@@ -128,11 +128,11 @@ seo:
 
 
 
-<p>P90’s have a higher output that single coil pickups, but they lack the sheer gutsiness of humbucker pickups. With tone, <a href="https://www.electrikjam.com/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145648">you get a “fatter” sound from P90 pickups</a> than you do single coil pickups, but humbucker-style pickups still have the P90 beat when it comes to overall output and depth of tone.</p>
+<p>P90’s have a higher output that single coil pickups, but they lack the sheer gutsiness of humbucker pickups. With tone, <a href="/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145648">you get a “fatter” sound from P90 pickups</a> than you do single coil pickups, but humbucker-style pickups still have the P90 beat when it comes to overall output and depth of tone.</p>
 
 
 
-<p>If you want to play blues and rock, a guitar with P90 pickups will more than get the job done. <strong><a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="1097">And quite a few doom bands have used P90 pickups</a></strong> to create big sounds with plenty of feedback, so, yeah, P90 pickups, while not traditionally cannon in the metal scene, do have a place in their own right.</p>
+<p>If you want to play blues and rock, a guitar with P90 pickups will more than get the job done. <strong><a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="1097">And quite a few doom bands have used P90 pickups</a></strong> to create big sounds with plenty of feedback, so, yeah, P90 pickups, while not traditionally cannon in the metal scene, do have a place in their own right.</p>
 
 
 
@@ -144,11 +144,11 @@ seo:
 
 
 
-<p>Single coil pickups are great, and have been used by the greats for decades, but for metal players, a humbucker is just more appropriate. This is why, again, when <a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-lasso-id="252363">Jim Root designed his signature Fender Tele</a>, he removed the single coil pickups and added in some humbuckers.</p>
+<p>Single coil pickups are great, and have been used by the greats for decades, but for metal players, a humbucker is just more appropriate. This is why, again, when <a href="/jim-root-signature-guitars/" data-lasso-id="252363">Jim Root designed his signature Fender Tele</a>, he removed the single coil pickups and added in some humbuckers.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/03/jim-root-signature-strat-1024x683.jpg" alt="" class="wp-image-2614" title="" srcset="/wp-content/uploads/2021/03/jim-root-signature-strat-1024x683.jpg 1024w, /wp-content/uploads/2021/03/jim-root-signature-strat-600x400.jpg 600w, /wp-content/uploads/2021/03/jim-root-signature-strat-300x200.jpg 300w, /wp-content/uploads/2021/03/jim-root-signature-strat-768x512.jpg 768w, /wp-content/uploads/2021/03/jim-root-signature-strat-1536x1024.jpg 1536w, /wp-content/uploads/2021/03/jim-root-signature-strat-2048x1365.jpg 2048w, /wp-content/uploads/2021/03/jim-root-signature-strat-1080x720.jpg 1080w, /wp-content/uploads/2021/03/jim-root-signature-strat-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Jim Root&#8217;s Signature Strat – It&#8217;s A Monster w/ Active EMGs <a class="rank-math-link" href="https://www.electrikjam.com/recommends/fender-jim-root/" data-lasso-id="1098">(Check Latest Prices)</a></strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/03/jim-root-signature-strat-1024x683.jpg" alt="" class="wp-image-2614" title="" srcset="/wp-content/uploads/2021/03/jim-root-signature-strat-1024x683.jpg 1024w, /wp-content/uploads/2021/03/jim-root-signature-strat-600x400.jpg 600w, /wp-content/uploads/2021/03/jim-root-signature-strat-300x200.jpg 300w, /wp-content/uploads/2021/03/jim-root-signature-strat-768x512.jpg 768w, /wp-content/uploads/2021/03/jim-root-signature-strat-1536x1024.jpg 1536w, /wp-content/uploads/2021/03/jim-root-signature-strat-2048x1365.jpg 2048w, /wp-content/uploads/2021/03/jim-root-signature-strat-1080x720.jpg 1080w, /wp-content/uploads/2021/03/jim-root-signature-strat-360x240.jpg 360w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Jim Root&#8217;s Signature Strat – It&#8217;s A Monster w/ Active EMGs <a class="rank-math-link" href="/recommends/fender-jim-root/" data-lasso-id="1098">(Check Latest Prices)</a></strong></figcaption></figure>
 
 
 
@@ -160,7 +160,7 @@ seo:
 
 
 
-<p>Having said that, if you’re going for a twangy, more precise sound – especially when recording – a pair of single coil pickups can work wonders in a mix. For faster, more complex stuff, single coil pickups – even if it is just to add texture or for lead guitar – work great <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1099">when recording tracks</a>.</p>
+<p>Having said that, if you’re going for a twangy, more precise sound – especially when recording – a pair of single coil pickups can work wonders in a mix. For faster, more complex stuff, single coil pickups – even if it is just to add texture or for lead guitar – work great <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1099">when recording tracks</a>.</p>
 
 
 
@@ -172,11 +172,11 @@ seo:
 
 
 
-<p><strong><a href="https://www.electrikjam.com/what-makes-an-electric-guitar-sound-good-the-theory-of-tone/" class="rank-math-link" data-lasso-id="1100">Tone is entirely subjective</a></strong>; there are no hard and fast rules. You can create <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11602">metal guitar lines with type of pickup</a>, including single coil.</p>
+<p><strong><a href="/what-makes-an-electric-guitar-sound-good-the-theory-of-tone/" class="rank-math-link" data-lasso-id="1100">Tone is entirely subjective</a></strong>; there are no hard and fast rules. You can create <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11602">metal guitar lines with type of pickup</a>, including single coil.</p>
 
 
 
-<p>Iron Maiden uses <a href="https://www.electrikjam.com/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="1101">single coil Fender Strats</a>, for instance, and while they’re not heavy in a modern sense, they do have a great guitar tone and always have.</p>
+<p>Iron Maiden uses <a href="/fender-guitar-sales-in-2020-are-insane-more-people-playing-guitar-during-pandemic/" data-lasso-id="1101">single coil Fender Strats</a>, for instance, and while they’re not heavy in a modern sense, they do have a great guitar tone and always have.</p>
 
 
 
@@ -184,15 +184,15 @@ seo:
 
 
 
-<p>If you’re looking for a thick sounding, heavy <a href="https://www.electrikjam.com/installing-a-speaker-upgrade/" data-lasso-id="88409">guitar tone</a> and you want to tune your guitar down and run distortion, a guitar with a set of humbuckers will almost certainly sound better to your ear than one with single coil pickups.</p>
+<p>If you’re looking for a thick sounding, heavy <a href="/installing-a-speaker-upgrade/" data-lasso-id="88409">guitar tone</a> and you want to tune your guitar down and run distortion, a guitar with a set of humbuckers will almost certainly sound better to your ear than one with single coil pickups.</p>
 
 
 
-<p>This is why 98% of <a href="https://www.electrikjam.com/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="1102">metal bands</a> on the planet use humbucker pickups on their guitars – they sound big, full, and nasty. And when it comes to <strong><a href="https://www.electrikjam.com/killer-guitar-tone-without-hardware/" class="rank-math-link" data-lasso-id="1103">guitar tone in metal music</a></strong>, bigger and fatter is ALWAYS better.</p>
+<p>This is why 98% of <a href="/sinaro-interview-one-of-my-favorite-new-bands-in-2020/" data-lasso-id="1102">metal bands</a> on the planet use humbucker pickups on their guitars – they sound big, full, and nasty. And when it comes to <strong><a href="/killer-guitar-tone-without-hardware/" class="rank-math-link" data-lasso-id="1103">guitar tone in metal music</a></strong>, bigger and fatter is ALWAYS better.</p>
 
 
 
-<p>It is also why t<strong><a href="https://www.electrikjam.com/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="1104">he majority of the guitars we recommend for new players</a></strong> interested in playing rock and metal use humbucker pickups.</p>
+<p>It is also why t<strong><a href="/best-guitar-for-beginners/" class="rank-math-link" data-lasso-id="1104">he majority of the guitars we recommend for new players</a></strong> interested in playing rock and metal use humbucker pickups.</p>
 
 
 

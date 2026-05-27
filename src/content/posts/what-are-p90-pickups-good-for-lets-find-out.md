@@ -36,11 +36,11 @@ seo:
 
 
 
-<p>Whatever guitar you use, it will have some form of pickup on it. You can get guitars with a single pickup, two pickups, and even three pickups. And with types of pickup, you have three main options: <a href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="24894"><strong>humbuckers</strong>, <strong>single coil</strong></a>, and <strong>P90</strong>.</p>
+<p>Whatever guitar you use, it will have some form of pickup on it. You can get guitars with a single pickup, two pickups, and even three pickups. And with types of pickup, you have three main options: <a href="/humbuckers-vs-single-coil-pickups/" data-type="post" data-id="2609" data-lasso-id="24894"><strong>humbuckers</strong>, <strong>single coil</strong></a>, and <strong>P90</strong>.</p>
 
 
 
-<p>In this post, we’re going to do a deep dive on P90 pickups. We’re going to examine <strong>how <a href="https://www.electrikjam.com/p90-pickups-guide/" data-lasso-id="145602">P90 pickups are different from humbuckers</a> and single coil pickups, which type of music is best suited to P90 pickups, and what P90 pickups sound like in action </strong>. By the end, you’ll know everything you need to know about P90 pickups.</p>
+<p>In this post, we’re going to do a deep dive on P90 pickups. We’re going to examine <strong>how <a href="/p90-pickups-guide/" data-lasso-id="145602">P90 pickups are different from humbuckers</a> and single coil pickups, which type of music is best suited to P90 pickups, and what P90 pickups sound like in action </strong>. By the end, you’ll know everything you need to know about P90 pickups.</p>
 
 
 
@@ -48,7 +48,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145647"><strong>A P90 pickup is kind of similar to a single coil pickup;</a> they look very similar too. Although, a P90 pickup has different dimensions, thanks to its unique bobbin design. A P90 pickup is wider, for instance, than a single coil pickup and this is what gives them their unique tone. </strong></p>
+<p><a href="/best-cheap-p90-guitar-gretsch-p90-streamliner-jr-jet-club/" data-lasso-id="145647"><strong>A P90 pickup is kind of similar to a single coil pickup;</a> they look very similar too. Although, a P90 pickup has different dimensions, thanks to its unique bobbin design. A P90 pickup is wider, for instance, than a single coil pickup and this is what gives them their unique tone. </strong></p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1024x768.jpg" alt="" class="wp-image-5913" title="" srcset="/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1024x768.jpg 1024w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-600x450.jpg 600w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-300x225.jpg 300w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-768x576.jpg 768w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-510x382.jpg 510w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-1080x810.jpg 1080w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A <a class="wpil_keyword_link" href="https://www.electrikjam.com/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="24903">Gibson</a> Les Paul With P90 Pickups</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1024x768.jpg" alt="" class="wp-image-5913" title="" srcset="/wp-content/uploads/2021/12/les-paul-with-p90-pickups-1024x768.jpg 1024w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-600x450.jpg 600w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-300x225.jpg 300w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-768x576.jpg 768w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-510x382.jpg 510w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups-1080x810.jpg 1080w, /wp-content/uploads/2021/12/les-paul-with-p90-pickups.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>A <a class="wpil_keyword_link" href="/gibson-guitars/" title="Gibson" data-wpil-keyword-link="linked" data-lasso-id="24903">Gibson</a> Les Paul With P90 Pickups</strong></figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@ seo:
 
 
 
-<p>For metal, you’re always going to be better off with a humbucker pickup or something more modern like a <strong><a href="https://www.electrikjam.com/fishman-fluence-modern-link/" data-type="lasso-urls" data-id="4413" data-lasso-id="24895" rel="nofollow noopener" target="_blank" data-lasso-name="Fishman Fluence Modern">Fishman Fluence</a></strong> which is an active humbucking pickup favored by bands like <strong><a href="https://www.electrikjam.com/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="24896">Lamb of God, TRIVIUM, and Animals as Leaders</a></strong> to name just a few.</p>
+<p>For metal, you’re always going to be better off with a humbucker pickup or something more modern like a <strong><a href="/fishman-fluence-modern-link/" data-type="lasso-urls" data-id="4413" data-lasso-id="24895" rel="nofollow noopener" target="_blank" data-lasso-name="Fishman Fluence Modern">Fishman Fluence</a></strong> which is an active humbucking pickup favored by bands like <strong><a href="/fishman-fluence-modern-review-is-the-hype-legit/" data-type="post" data-id="716" data-lasso-id="24896">Lamb of God, TRIVIUM, and Animals as Leaders</a></strong> to name just a few.</p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p>Me personally? I like metal and rock music. I play with high gain and <strong><a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="24897">fuzz pedals</a></strong>, so I need humbuckers on my guitar. I have tried P90 pickups before and they’re great for more chilled stuff and things like blues and country, so if that’s your bag go with some P90s. If you want to play heavier music, however, you should ALWAYS go with humbuckers.</p>
+<p>Me personally? I like metal and rock music. I play with high gain and <strong><a href="/best-guitar-pedals-for-doom-metal/" data-type="post" data-id="1153" data-lasso-id="24897">fuzz pedals</a></strong>, so I need humbuckers on my guitar. I have tried P90 pickups before and they’re great for more chilled stuff and things like blues and country, so if that’s your bag go with some P90s. If you want to play heavier music, however, you should ALWAYS go with humbuckers.</p>
 
 
 
@@ -152,17 +152,17 @@ seo:
 		
 
 
-<p>With metal or any of its variants, a lot of guitars like to tune their guitars down to either <strong><a href="https://www.electrikjam.com/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="24898">Drop D, Drop C, or D Standard</a></strong>. They also tend to run lots of high gain, distortion, and/or fuzz pedals. Because the lower end is more focal in metal, a humbucker is obviously advantageous – it is designed to stop and noise/humming and it has better low-end performance which makes it an ideal choice for metal players.</p>
+<p>With metal or any of its variants, a lot of guitars like to tune their guitars down to either <strong><a href="/guitar-tuning/" data-type="page" data-id="3750" data-lasso-id="24898">Drop D, Drop C, or D Standard</a></strong>. They also tend to run lots of high gain, distortion, and/or fuzz pedals. Because the lower end is more focal in metal, a humbucker is obviously advantageous – it is designed to stop and noise/humming and it has better low-end performance which makes it an ideal choice for metal players.</p>
 
 
 
-<p><strong>And yet, despite all of this, plenty of famous metal albums were made using guitars with P90 pickups. Even newer bands use them too. The guitarist in Wo Fat uses P90 pickups, for instance, and his tone is HUGE. Similarly, Tony Iommi used an SG outfitted with P90 pickups on the first Black Sabbath album. <a href="https://www.electrikjam.com/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="24899">Zakk Wylde</a> also used P90 pickups to record lead parts for Ozzy Osbourne too.</strong></p>
+<p><strong>And yet, despite all of this, plenty of famous metal albums were made using guitars with P90 pickups. Even newer bands use them too. The guitarist in Wo Fat uses P90 pickups, for instance, and his tone is HUGE. Similarly, Tony Iommi used an SG outfitted with P90 pickups on the first Black Sabbath album. <a href="/zakk-wylde-quotes-about-life-guitars-black-label-society/" data-type="post" data-id="3537" data-lasso-id="24899">Zakk Wylde</a> also used P90 pickups to record lead parts for Ozzy Osbourne too.</strong></p>
 
 
 
-<p>Moral of the story? You CAN use P90 pickups for metal. But you’re always going to be better off with humbuckers. Hell, you can use single coil pickups if you want; <strong><a href="https://www.electrikjam.com/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="24900">they worked fine for Kurt Cobain</a></strong> and, more recently, Brant Bjork. The best pickup is the one that works for you and helps you get the sound that you want. Me? I like my tone low and heavy, <strong><a href="https://www.electrikjam.com/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="24901">so I use humbuckers</a></strong>.</p>
+<p>Moral of the story? You CAN use P90 pickups for metal. But you’re always going to be better off with humbuckers. Hell, you can use single coil pickups if you want; <strong><a href="/fender-jaguar-kurt-cobain/" data-type="post" data-id="3939" data-lasso-id="24900">they worked fine for Kurt Cobain</a></strong> and, more recently, Brant Bjork. The best pickup is the one that works for you and helps you get the sound that you want. Me? I like my tone low and heavy, <strong><a href="/best-seymour-duncan-pickups-for-metal/" data-type="post" data-id="4588" data-lasso-id="24901">so I use humbuckers</a></strong>.</p>
 
 
 
-<p>But, as Brant Bjork and the dude from Wo Fat, sorry, I don’t know his name, has shown numerous times, you can get amazing sounds from a P90 or single coil pickup, just so long as there isn’t too much gain on the signal. If you want lots of gain and you like to tune LOW, <strong><a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" data-lasso-id="24902">just go with a humbucker</a></strong>. You’ll have fewer problems and a better overall sound with less effort.</p>
+<p>But, as Brant Bjork and the dude from Wo Fat, sorry, I don’t know his name, has shown numerous times, you can get amazing sounds from a P90 or single coil pickup, just so long as there isn’t too much gain on the signal. If you want lots of gain and you like to tune LOW, <strong><a href="/seymour-duncan-jb-reviews/" data-type="post" data-id="4673" data-lasso-id="24902">just go with a humbucker</a></strong>. You’ll have fewer problems and a better overall sound with less effort.</p>
 

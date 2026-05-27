@@ -34,7 +34,7 @@ seo:
 ---
 
 
-<p><strong>It is pretty rare to mention <a data-lasso-id="1811" href="https://www.electrikjam.com/fender/">Fender guitars</a> for Metal music, as they are usually viewed as being a &#8220;Dad&#8221; guitar. But I assure you, they are not!</strong> <strong>Today we take a look at the models that will surprise you with their versatility!</strong></p>
+<p><strong>It is pretty rare to mention <a data-lasso-id="1811" href="/fender/">Fender guitars</a> for Metal music, as they are usually viewed as being a &#8220;Dad&#8221; guitar. But I assure you, they are not!</strong> <strong>Today we take a look at the models that will surprise you with their versatility!</strong></p>
 
 
 
@@ -42,11 +42,11 @@ seo:
 
 
 
-<p>Fender is often noted as being the first company to make what we know as the mass-produced, solid body guitar. The 1950&#8217;s held a ton of competition between guitar companies to make the ideal electric guitar.<a class="rank-math-link" data-lasso-id="1058" href="https://www.electrikjam.com/who-invented-the-electric-guitar/"> <strong>And Leo Fender got the jump on everyone!</strong></a></p>
+<p>Fender is often noted as being the first company to make what we know as the mass-produced, solid body guitar. The 1950&#8217;s held a ton of competition between guitar companies to make the ideal electric guitar.<a class="rank-math-link" data-lasso-id="1058" href="/who-invented-the-electric-guitar/"> <strong>And Leo Fender got the jump on everyone!</strong></a></p>
 
 
 
-<p>Eventually, after the release of the famous<strong> Stratocaster</strong> and <strong>Telecaster </strong>models, Fender started seeing tons of copy cat solid body electrics. Gibson was right on the heels of Fender also, <a class="rank-math-link" data-lasso-id="1059" href="https://www.electrikjam.com/new-for-2020-epiphone-59-les-paul/"><strong>perfecting their Les Paul Series</strong></a>. By the 1970&#8217;s almost every guitar company offered a solid body electric option, yet Fender still dominated the market, with Gibson right behind them.</p>
+<p>Eventually, after the release of the famous<strong> Stratocaster</strong> and <strong>Telecaster </strong>models, Fender started seeing tons of copy cat solid body electrics. Gibson was right on the heels of Fender also, <a class="rank-math-link" data-lasso-id="1059" href="/new-for-2020-epiphone-59-les-paul/"><strong>perfecting their Les Paul Series</strong></a>. By the 1970&#8217;s almost every guitar company offered a solid body electric option, yet Fender still dominated the market, with Gibson right behind them.</p>
 
 
 
@@ -54,7 +54,7 @@ seo:
 
 
 
-<p>But what about harder stuff? Like Heavy Metal and <a href="https://www.electrikjam.com/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="1061"><strong>Doom Metal</strong></a>?</p>
+<p>But what about harder stuff? Like Heavy Metal and <a href="/doom-metal-tunings-the-top-5-best/" class="rank-math-link" data-lasso-id="1061"><strong>Doom Metal</strong></a>?</p>
 
 
 
@@ -74,11 +74,11 @@ seo:
 
 
 
-<p>But some features and designs make some guitars better than others. <a href="https://www.electrikjam.com/fender-mustang-gtx-100-review/" data-lasso-id="42961">Fender is known for being versatile</a> and spanning many genres and sounds. So while Fender isn&#8217;t exactly known for Metal guitars, they can definitely be a good addition to your arsenal. I <strong><em>always</em></strong> have a Fender in the studio when recording. More on that later!</p>
+<p>But some features and designs make some guitars better than others. <a href="/fender-mustang-gtx-100-review/" data-lasso-id="42961">Fender is known for being versatile</a> and spanning many genres and sounds. So while Fender isn&#8217;t exactly known for Metal guitars, they can definitely be a good addition to your arsenal. I <strong><em>always</em></strong> have a Fender in the studio when recording. More on that later!</p>
 
 
 
-<p>Today we are going to look at our Top <a href="https://www.electrikjam.com/the-best-guitars-of-2021/" data-lasso-id="35972">Picks of Fender Guitars</a> For Metal!</p>
+<p>Today we are going to look at our Top <a href="/the-best-guitars-of-2021/" data-lasso-id="35972">Picks of Fender Guitars</a> For Metal!</p>
 
 
 
@@ -94,19 +94,19 @@ seo:
 
 
 
-<ul class="wp-block-list"><li><strong>Maple Neck</strong></li><li><strong>Alder Body</strong></li><li><strong>Humbucker/Single/Single Pickups</strong></li><li><strong>Fender two Point Trem</strong></li><li><strong>5 Way Pickup Switch </strong></li><li><strong>9.5 Radius</strong></li><li><a href="https://www.electrikjam.com/the-new-199-squier-sonic-series/" data-lasso-id="228757"><strong>Fender Bullet</a> Truss Rod</strong></li></ul>
+<ul class="wp-block-list"><li><strong>Maple Neck</strong></li><li><strong>Alder Body</strong></li><li><strong>Humbucker/Single/Single Pickups</strong></li><li><strong>Fender two Point Trem</strong></li><li><strong>5 Way Pickup Switch </strong></li><li><strong>9.5 Radius</strong></li><li><a href="/the-new-199-squier-sonic-series/" data-lasso-id="228757"><strong>Fender Bullet</a> Truss Rod</strong></li></ul>
 
 
 
-<p>The original/vintage Stratocaster design usually has <strong><a class="rank-math-link" href="https://www.electrikjam.com/humbuckers-vs-single-coil-pickups/" data-lasso-id="1062">three single coil pickups</a></strong>. This is ideal when you are playing clean passages. Unfortunately, single coil pickups can get noisy when<a href="https://www.electrikjam.com/best-distortion-pedals-for-beginners/" class="rank-math-link" data-lasso-id="1063"><strong> you add fuzz or gain </strong></a>to your signal. But The HSS Strat has a secret weapon&#8230;</p>
+<p>The original/vintage Stratocaster design usually has <strong><a class="rank-math-link" href="/humbuckers-vs-single-coil-pickups/" data-lasso-id="1062">three single coil pickups</a></strong>. This is ideal when you are playing clean passages. Unfortunately, single coil pickups can get noisy when<a href="/best-distortion-pedals-for-beginners/" class="rank-math-link" data-lasso-id="1063"><strong> you add fuzz or gain </strong></a>to your signal. But The HSS Strat has a secret weapon&#8230;</p>
 
 
 
-<p>The Humbucker in the bridge position! This allows you to get rid of the noisy hum that single coils can produce, and use as much distortion as you like. Not to mention, traditionally, <a href="https://www.electrikjam.com/kurt-cobain-pickups/" data-lasso-id="106934">the bridge pickup</a> is the best position for chugging riffs. This makes the HSS Strat one of the top <a href="https://www.electrikjam.com/the-best-fender-strat-alternative-in-2021/" data-lasso-id="1064">Fender Guitars</a> for metal, in my opinion.</p>
+<p>The Humbucker in the bridge position! This allows you to get rid of the noisy hum that single coils can produce, and use as much distortion as you like. Not to mention, traditionally, <a href="/kurt-cobain-pickups/" data-lasso-id="106934">the bridge pickup</a> is the best position for chugging riffs. This makes the HSS Strat one of the top <a href="/the-best-fender-strat-alternative-in-2021/" data-lasso-id="1064">Fender Guitars</a> for metal, in my opinion.</p>
 
 
 
-<p>You also still have the single coil pickups to use on the clean channel of your amp. These sound bright, and crystal clear! This is very useful in the studio when you are <a href="https://www.electrikjam.com/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1065">recording clean parts at home</a> or the in the studio. Nothing quite sounds like a single coil, with a gorgeous clean sound.</p>
+<p>You also still have the single coil pickups to use on the clean channel of your amp. These sound bright, and crystal clear! This is very useful in the studio when you are <a href="/is-16-gb-of-ram-enough-for-music-production/" data-lasso-id="1065">recording clean parts at home</a> or the in the studio. Nothing quite sounds like a single coil, with a gorgeous clean sound.</p>
 
 
 
@@ -114,7 +114,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/fender-hss/" class="rank-math-link" data-lasso-id="1066"><strong><span style="color: #9b51e0;" class="ugb-highlight">&gt; VIEW LATEST PRICES</span></strong></a></p>
+<p><a href="/recommends/fender-hss/" class="rank-math-link" data-lasso-id="1066"><strong><span style="color: #9b51e0;" class="ugb-highlight">&gt; VIEW LATEST PRICES</span></strong></a></p>
 
 
 
@@ -147,7 +147,7 @@ seo:
 
 
 
-<li><strong>1 <a href="https://www.electrikjam.com/seymour-duncan-jb-reviews/" data-lasso-id="7858">Seymour Duncan</a> Hot Rails Strat SHR-1B humbucker (bridge) and 2 Vintage Noiseless Strat single coils </strong></li>
+<li><strong>1 <a href="/seymour-duncan-jb-reviews/" data-lasso-id="7858">Seymour Duncan</a> Hot Rails Strat SHR-1B humbucker (bridge) and 2 Vintage Noiseless Strat single coils </strong></li>
 
 
 
@@ -172,11 +172,11 @@ seo:
 
 
 
-<p>There are a lot of features to talk about here! Let&#8217;s start with the Floyd Rose Trem. You can dive bomb all day with a Floyd and never go out of tune. Fender rarely uses <a href="https://www.electrikjam.com/floyd-rose-bridge-explained/" data-lasso-id="167811">Floyd Rose bridges</a>, so this is a special treat. The original Floyd is still as reliable as it was 40 years ago.</p>
+<p>There are a lot of features to talk about here! Let&#8217;s start with the Floyd Rose Trem. You can dive bomb all day with a Floyd and never go out of tune. Fender rarely uses <a href="/floyd-rose-bridge-explained/" data-lasso-id="167811">Floyd Rose bridges</a>, so this is a special treat. The original Floyd is still as reliable as it was 40 years ago.</p>
 
 
 
-<p>The pickup combo on this guitar is <em>insane</em>! The Duncan Hot Rail pickup in the bridge acts as a humbucker. This is perfect for heavy chugging, and high gain lead tones. But like the HSS Strat, you also get two <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11599">Duncan single coil pickups</a> that are capable of just about any sound you can think of!</p>
+<p>The pickup combo on this guitar is <em>insane</em>! The Duncan Hot Rail pickup in the bridge acts as a humbucker. This is perfect for heavy chugging, and high gain lead tones. But like the HSS Strat, you also get two <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11599">Duncan single coil pickups</a> that are capable of just about any sound you can think of!</p>
 
 
 
@@ -188,7 +188,7 @@ seo:
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/fender-tom-morello-strat/" class="rank-math-link" data-lasso-id="1067"><strong><span style="color: #9b51e0;" class="ugb-highlight">&gt;VIEW LATEST PRICES</span></strong></a></p>
+<p><a href="/recommends/fender-tom-morello-strat/" class="rank-math-link" data-lasso-id="1067"><strong><span style="color: #9b51e0;" class="ugb-highlight">&gt;VIEW LATEST PRICES</span></strong></a></p>
 
 
 
@@ -204,15 +204,15 @@ seo:
 
 
 
-<p>If there was any doubt with our other pick of Fender guitars for Metal, there is absolutely no doubt what this axe is designed for! <a href="https://www.electrikjam.com/jim-root-signature-guitars/" data-lasso-id="252357"><strong>Jim Root </strong>is the guitar player for <strong>Slipknot</a> </strong>and his guitar design choices are probably the most extreme Fender has ever made.</p>
+<p>If there was any doubt with our other pick of Fender guitars for Metal, there is absolutely no doubt what this axe is designed for! <a href="/jim-root-signature-guitars/" data-lasso-id="252357"><strong>Jim Root </strong>is the guitar player for <strong>Slipknot</a> </strong>and his guitar design choices are probably the most extreme Fender has ever made.</p>
 
 
 
-<p>The collaboration with Jim began with the <a href="https://www.fendercustomshop.com/" class="rank-math-link" data-lasso-id="1068" target="_blank" rel="noopener noreferrer nofollow"><strong>Fender Custom Shop</strong></a>, in 2009. But Jim&#8217;s guitars did not become a production model for quite a while. However, once they were released to the public, they sold out quickly! At this time, the Jim Root <a href="https://www.electrikjam.com/the-best-signature-guitars-in-2021/" data-lasso-id="14307">models are some of the best-selling signature guitars</a> Fender has ever made.</p>
+<p>The collaboration with Jim began with the <a href="https://www.fendercustomshop.com/" class="rank-math-link" data-lasso-id="1068" target="_blank" rel="noopener noreferrer nofollow"><strong>Fender Custom Shop</strong></a>, in 2009. But Jim&#8217;s guitars did not become a production model for quite a while. However, once they were released to the public, they sold out quickly! At this time, the Jim Root <a href="/the-best-signature-guitars-in-2021/" data-lasso-id="14307">models are some of the best-selling signature guitars</a> Fender has ever made.</p>
 
 
 
-<p>Of all the <a href="https://www.electrikjam.com/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1069">Fender Guitars</a> for metal, The Jim Root jazz master has the most metal-centric features. Some of these features, Fender <em>only makes for this model!</em></p>
+<p>Of all the <a href="/are-squier-guitars-good-a-guide-to-cheap-fender-guitars/" data-lasso-id="1069">Fender Guitars</a> for metal, The Jim Root jazz master has the most metal-centric features. Some of these features, Fender <em>only makes for this model!</em></p>
 
 
 
@@ -258,17 +258,17 @@ seo:
 
 
 
-<p>A lot of people would tell you that Fender Guitars for Metal either do not exist, or they are rare unicorns. But that&#8217;s not the case at all with the Jim Root series. It comes in the <a data-lasso-id="6903" href="https://www.electrikjam.com/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/">Jazzmaster</a>, Telecaster, and Stratocaster models. All of these models have the same basic features.</p>
+<p>A lot of people would tell you that Fender Guitars for Metal either do not exist, or they are rare unicorns. But that&#8217;s not the case at all with the Jim Root series. It comes in the <a data-lasso-id="6903" href="/what-pickups-do-jazzmasters-have-a-complete-guide-all-models/">Jazzmaster</a>, Telecaster, and Stratocaster models. All of these models have the same basic features.</p>
 
 
 
 <ul class="wp-block-list">
-<li><strong><a href="https://www.electrikjam.com/telecaster-vs-jazzmaster/" data-lasso-id="236017">Jazzmaster vs Telecaster: What&#8217;s The Difference? </a></strong></li>
+<li><strong><a href="/telecaster-vs-jazzmaster/" data-lasso-id="236017">Jazzmaster vs Telecaster: What&#8217;s The Difference? </a></strong></li>
 </ul>
 
 
 
-<p>The first standout feature is the jumbo frets that are usually reserved for guitars<a href="https://www.electrikjam.com/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" class="rank-math-link" data-lasso-id="1070"><strong> made by Ibanez</strong></a> rather than Fender. These jumbo frets are perfect for the flatter-than-usual radius of the neck. This makes the Jim Root Jazzmaster a full on shred machine.</p>
+<p>The first standout feature is the jumbo frets that are usually reserved for guitars<a href="/are-ibanez-guitars-any-good-a-first-time-buyers-guide/" class="rank-math-link" data-lasso-id="1070"><strong> made by Ibanez</strong></a> rather than Fender. These jumbo frets are perfect for the flatter-than-usual radius of the neck. This makes the Jim Root Jazzmaster a full on shred machine.</p>
 
 
 
@@ -276,11 +276,11 @@ seo:
 
 
 
-<p>This is a no nonsense, metal machine. <a data-lasso-id="170861" href="https://www.electrikjam.com/jim-root-charvel-pro-mod-guitar-review/">Jim Root always loved classic Fender guitars</a>, but had a tough time finding one to use on tour with Slipknot. Luckily, he struck a deal with Fender to make the most unique guitars that the company has maybe ever made!</p>
+<p>This is a no nonsense, metal machine. <a data-lasso-id="170861" href="/jim-root-charvel-pro-mod-guitar-review/">Jim Root always loved classic Fender guitars</a>, but had a tough time finding one to use on tour with Slipknot. Luckily, he struck a deal with Fender to make the most unique guitars that the company has maybe ever made!</p>
 
 
 
-<p><a href="https://www.electrikjam.com/recommends/jim-root-jazzmaster/" class="rank-math-link" data-lasso-id="1071"><strong><span style="color: #9b51e0;" class="ugb-highlight">&gt;VIEW LATEST PRICES</span></strong></a></p>
+<p><a href="/recommends/jim-root-jazzmaster/" class="rank-math-link" data-lasso-id="1071"><strong><span style="color: #9b51e0;" class="ugb-highlight">&gt;VIEW LATEST PRICES</span></strong></a></p>
 
 
 
@@ -296,7 +296,7 @@ seo:
 
 
 
-<p>That being said, these guitars that I have listed are here mainly for the features that make it <em>easier</em> to play Metal on them. Things like <a href="https://www.electrikjam.com/parts-of-an-electric-guitar/" data-lasso-id="246478">humbucking pickups and Floyd Rose bridges</a> are cornerstones when it comes to Metal guitar gear.</p>
+<p>That being said, these guitars that I have listed are here mainly for the features that make it <em>easier</em> to play Metal on them. Things like <a href="/parts-of-an-electric-guitar/" data-lasso-id="246478">humbucking pickups and Floyd Rose bridges</a> are cornerstones when it comes to Metal guitar gear.</p>
 
 
 

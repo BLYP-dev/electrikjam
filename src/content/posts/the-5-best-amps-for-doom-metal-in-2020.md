@@ -44,11 +44,11 @@ seo:
 
 
 
-<p>We have talked about Doom Metal at great length before. Whether it is <a href="https://www.electrikjam.com/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="5770">concerning its roots in the 1970s</a><a class="rank-math-link" data-lasso-id="805" href="https://www.electrikjam.com/doom-metal-beginners-guide/"> </a>or even more modern takes. Doom Metal is such an interesting genre because it is steeped in tradition, and even the newest modern artists <em>at least</em> <strong>borrow </strong>from that tradition and formula.</p>
+<p>We have talked about Doom Metal at great length before. Whether it is <a href="/doom-metal-beginners-guide/" data-type="post" data-id="1042" data-lasso-id="5770">concerning its roots in the 1970s</a><a class="rank-math-link" data-lasso-id="805" href="/doom-metal-beginners-guide/"> </a>or even more modern takes. Doom Metal is such an interesting genre because it is steeped in tradition, and even the newest modern artists <em>at least</em> <strong>borrow </strong>from that tradition and formula.</p>
 
 
 
-<p>We have talked about the <a href="https://www.electrikjam.com/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="806">best guitars</a> for Doom, and the<a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="807"> best pedals</a>. Now it&#8217;s time to tackle the most complicated ingredient of Doom, the amplifier. Why is it complicated? </p>
+<p>We have talked about the <a href="/best-guitars-for-doom-metal/" class="rank-math-link" data-lasso-id="806">best guitars</a> for Doom, and the<a href="/best-guitar-pedals-for-doom-metal/" class="rank-math-link" data-lasso-id="807"> best pedals</a>. Now it&#8217;s time to tackle the most complicated ingredient of Doom, the amplifier. Why is it complicated? </p>
 
 
 
@@ -56,7 +56,7 @@ seo:
 
 
 
-<p>The devil, as they say, is in the details. That is what makes doom metal, <strong><a class="rank-math-link" href="https://www.electrikjam.com/how-to-record-electric-guitar-at-home-guide/" data-lasso-id="808">especially if you&#8217;re recording at home</a></strong>, such an interesting niche to operate in. </p>
+<p>The devil, as they say, is in the details. That is what makes doom metal, <strong><a class="rank-math-link" href="/how-to-record-electric-guitar-at-home-guide/" data-lasso-id="808">especially if you&#8217;re recording at home</a></strong>, such an interesting niche to operate in. </p>
 
 
 
@@ -112,7 +112,7 @@ seo:
 
 
 
-<p>Orange has been the outcast of the guitar community for years. But about 15 years ago, these <a href="https://www.electrikjam.com/neural-amp-modeler/" data-lasso-id="223245">amps</a> became a staple of some big-name artist&#8217;s rigs. Now we associate Orange Amps with everyone from <strong>Slipknot</strong> to <strong>Boris</strong>.</p>
+<p>Orange has been the outcast of the guitar community for years. But about 15 years ago, these <a href="/neural-amp-modeler/" data-lasso-id="223245">amps</a> became a staple of some big-name artist&#8217;s rigs. Now we associate Orange Amps with everyone from <strong>Slipknot</strong> to <strong>Boris</strong>.</p>
 
 
 
@@ -268,7 +268,7 @@ seo:
 
 
 
-<p>One of the best amps for Doom Metal is the Marshall Superbass. This amp has been used on recordings for so many <a href="https://www.electrikjam.com/why-yob-band-is-essential-listening-for-any-music-fan/" data-lasso-id="36116">Doom bands and Sludge records</a>, you would be hard-pressed to find a band that hasn&#8217;t tried it. The problem though is the Superbass is a hard amp to come by for most people.</p>
+<p>One of the best amps for Doom Metal is the Marshall Superbass. This amp has been used on recordings for so many <a href="/why-yob-band-is-essential-listening-for-any-music-fan/" data-lasso-id="36116">Doom bands and Sludge records</a>, you would be hard-pressed to find a band that hasn&#8217;t tried it. The problem though is the Superbass is a hard amp to come by for most people.</p>
 
 
 
@@ -292,7 +292,7 @@ seo:
 
 
 
-<p>Like the other amps on this list, the distortion channels are very versatile and easy to blend with an epic fuzz tone. The Marshall DSL does not shy away from pedals at all. Mixing Marshall&#8217;s classic distortion and fuzz is how bands like <strong>The Sword</strong> and <a href="https://www.electrikjam.com/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2557">Mastodon</a> created their huge tones on their albums.</p>
+<p>Like the other amps on this list, the distortion channels are very versatile and easy to blend with an epic fuzz tone. The Marshall DSL does not shy away from pedals at all. Mixing Marshall&#8217;s classic distortion and fuzz is how bands like <strong>The Sword</strong> and <a href="/new-mastodon-album-2021-release-date-track-list-artwork-detailed/" data-lasso-id="2557">Mastodon</a> created their huge tones on their albums.</p>
 
 
 
@@ -356,7 +356,7 @@ seo:
 
 
 
-<p>The Laney AOR is made popular by a few different artists with <a data-lasso-id="817" href="https://www.electrikjam.com/matt-pike-dopesmoker-sleep/">Matt Pike</a> from <strong>High On Fire</strong> and <strong>Sleep</strong> being a big fan of the Laney. They have also been used by <strong><a href="https://www.electrikjam.com/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84784">Josh Homme</a> and Tony Iommi </strong>over the years. I think the popularity of the Laney AOR comes from the Marshall Plexi sound it creates and its simplicity. The features are pretty bare bones.</p>
+<p>The Laney AOR is made popular by a few different artists with <a data-lasso-id="817" href="/matt-pike-dopesmoker-sleep/">Matt Pike</a> from <strong>High On Fire</strong> and <strong>Sleep</strong> being a big fan of the Laney. They have also been used by <strong><a href="/new-queens-of-the-stone-age-album-release-date-latest-news/" data-lasso-id="84784">Josh Homme</a> and Tony Iommi </strong>over the years. I think the popularity of the Laney AOR comes from the Marshall Plexi sound it creates and its simplicity. The features are pretty bare bones.</p>
 
 
 
@@ -388,7 +388,7 @@ seo:
 
 
 
-<p>So that&#8217;s my choice for the best amps for Doom Metal, and I am sure not everyone will agree with me. But that&#8217;s the point. Doom <a href="https://www.electrikjam.com/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11601">Metal is so extremely</a> diverse when it comes to gear. The amp is just one part of the equation.</p>
+<p>So that&#8217;s my choice for the best amps for Doom Metal, and I am sure not everyone will agree with me. But that&#8217;s the point. Doom <a href="/seymour-duncan-invader-pickup-reviews/" data-lasso-id="11601">Metal is so extremely</a> diverse when it comes to gear. The amp is just one part of the equation.</p>
 
 
 
@@ -452,7 +452,7 @@ seo:
 <h3 class="rank-math-question ">Which pedals do I need to use with my amp for Doom Metal?</h3>
 <div class="rank-math-answer ">
 
-<p>Most Doom Metal Guitarists use a myriad of <a href="https://www.electrikjam.com/best-guitar-pedals-for-doom-metal/" class="rank-math-link">Fuzz pedals.</a> These can be used in tandem with your amplifier&#8217;s distortion, or be used as a stand alone pedal.</p>
+<p>Most Doom Metal Guitarists use a myriad of <a href="/best-guitar-pedals-for-doom-metal/" class="rank-math-link">Fuzz pedals.</a> These can be used in tandem with your amplifier&#8217;s distortion, or be used as a stand alone pedal.</p>
 
 </div>
 </div>

@@ -48,7 +48,7 @@ seo:
 
 
 
-<p>Or, pay someone that can –&nbsp;and <strong><a href="https://www.electrikjam.com/how-much-does-music-mastering-cost-is-it-worth-it/" data-type="post" data-id="14787" data-lasso-id="265215">mastering ain&#8217;t cheap</a></strong>. </p>
+<p>Or, pay someone that can –&nbsp;and <strong><a href="/how-much-does-music-mastering-cost-is-it-worth-it/" data-type="post" data-id="14787" data-lasso-id="265215">mastering ain&#8217;t cheap</a></strong>. </p>
 
 
 
@@ -64,7 +64,7 @@ seo:
 
 
 
-<p>And now, I&#8217;m ready to share my <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265216">Mastering 101 Framework</a></strong> with you.</p>
+<p>And now, I&#8217;m ready to share my <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-type="page" data-id="14712" data-lasso-id="265216">Mastering 101 Framework</a></strong> with you.</p>
 
 
 
@@ -138,7 +138,7 @@ seo:
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265218"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png" alt="audio mastering 101" class="wp-image-14781" title="" srcset="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png 1024w, /wp-content/uploads/2024/04/audio-mastering-101-1-600x400.png 600w, /wp-content/uploads/2024/04/audio-mastering-101-1-300x200.png 300w, /wp-content/uploads/2024/04/audio-mastering-101-1-768x512.png 768w, /wp-content/uploads/2024/04/audio-mastering-101-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265218"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png" alt="audio mastering 101" class="wp-image-14781" title="" srcset="/wp-content/uploads/2024/04/audio-mastering-101-1-1024x683.png 1024w, /wp-content/uploads/2024/04/audio-mastering-101-1-600x400.png 600w, /wp-content/uploads/2024/04/audio-mastering-101-1-300x200.png 300w, /wp-content/uploads/2024/04/audio-mastering-101-1-768x512.png 768w, /wp-content/uploads/2024/04/audio-mastering-101-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -146,7 +146,7 @@ seo:
 
 
 
-<p>If you&#8217;re ready to take your metal mixes to the next level, then head over to our store and grab your copy of <strong><a href="https://www.electrikjam.com/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265219">ELECTRIKJAM&#8217;s Mastering 101 Framework</a></strong> today. Trust me, your fans (and your eardrums) will thank you. Let&#8217;s melt some faces together!</p>
+<p>If you&#8217;re ready to take your metal mixes to the next level, then head over to our store and grab your copy of <strong><a href="/mastering-101-your-pathway-to-professional-sounding-music/" data-lasso-id="265219">ELECTRIKJAM&#8217;s Mastering 101 Framework</a></strong> today. Trust me, your fans (and your eardrums) will thank you. Let&#8217;s melt some faces together!</p>
 
 
 
