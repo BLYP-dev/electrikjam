@@ -16,6 +16,8 @@ const apiRoot = `${LIVE_ORIGIN}/wp-json/wp/v2`;
 const postLimit = Number(process.env.WP_IMPORT_LIMIT || 50);
 const pageLimit = Number(process.env.WP_PAGE_IMPORT_LIMIT || 50);
 const exportFile = process.env.WP_EXPORT_FILE;
+const mediaMode = process.env.WP_MEDIA_MODE || 'local';
+const mediaOrigin = process.env.WP_MEDIA_ORIGIN || LIVE_ORIGIN;
 
 if (exportFile) {
   const payload = JSON.parse(await readFile(exportFile, 'utf8'));
@@ -209,7 +211,7 @@ function localMediaPath(url) {
   try {
     const parsed = new URL(url, LIVE_ORIGIN);
     if (parsed.pathname.startsWith('/wp-content/uploads/')) {
-      return parsed.pathname;
+      return mediaMode === 'remote' ? new URL(parsed.pathname, mediaOrigin).toString() : parsed.pathname;
     }
     return normalizeLiveUrl(url);
   } catch {
@@ -218,13 +220,14 @@ function localMediaPath(url) {
 }
 
 function localizeBodyMedia(html) {
+  const replacement = mediaMode === 'remote' ? new URL('/wp-content/uploads', mediaOrigin).toString().replace(/\/$/, '') : '/wp-content/uploads';
   return normalizeBodyUrls(html)
-    .replace(/https:\/\/mk0electrikjamnqkoxh\.kinstacdn\.com\/wp-content\/uploads/g, '/wp-content/uploads')
-    .replace(/http:\/\/mk0electrikjamnqkoxh\.kinstacdn\.com\/wp-content\/uploads/g, '/wp-content/uploads')
-    .replace(/https:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, '/wp-content/uploads')
-    .replace(/http:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, '/wp-content/uploads')
-    .replace(/https:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, '/wp-content/uploads')
-    .replace(/http:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, '/wp-content/uploads');
+    .replace(/https:\/\/mk0electrikjamnqkoxh\.kinstacdn\.com\/wp-content\/uploads/g, replacement)
+    .replace(/http:\/\/mk0electrikjamnqkoxh\.kinstacdn\.com\/wp-content\/uploads/g, replacement)
+    .replace(/https:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, replacement)
+    .replace(/http:\/\/www\.electrikjam\.com\/wp-content\/uploads/g, replacement)
+    .replace(/https:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, replacement)
+    .replace(/http:\/\/staging-electrikjam\.kinsta\.cloud\/wp-content\/uploads/g, replacement);
 }
 
 function sanitizeImportedHtml(html) {

@@ -1,11 +1,13 @@
 dist/
 node_modules/
 .astro/
+.cache/
 .env
 .env.*
 wordpress-export.json
 url-inventory.csv
 parity-report.csv
+staging-coverage-report.csv
 .wordpress-media-files.txt
 .wordpress-media-files-relative.txt
 npm-debug.log*

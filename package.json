@@ -6,10 +6,13 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "npm run sync:wordpress && astro check && astro build",
+    "build:static": "astro check && astro build",
     "preview": "astro preview",
+    "sync:wordpress": "node scripts/sync-wordpress.mjs",
     "import:wordpress": "node scripts/import-wordpress.mjs",
     "audit:urls": "node scripts/audit-urls.mjs",
+    "check:staging": "node scripts/check-staging.mjs",
     "compare:parity": "node scripts/compare-parity.mjs",
     "media:collect": "node scripts/collect-wordpress-media.mjs"
   },
