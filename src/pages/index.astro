@@ -365,7 +365,8 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
   .latest-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 24px;
+    column-gap: 24px;
+    row-gap: 34px;
   }
 
   .latest-card {
@@ -374,8 +375,9 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     align-items: start;
     gap: 18px;
     min-height: 190px;
+    margin-top: 18px;
     padding: 14px;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .count {
@@ -487,9 +489,7 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
       flex-direction: column;
       gap: 12px;
       min-height: 0;
-      margin-top: 18px;
       padding: 22px 12px 14px;
-      overflow: visible;
     }
 
     .latest-card__image {
