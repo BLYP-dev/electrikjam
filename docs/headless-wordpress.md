@@ -1,84 +1,82 @@
 # Headless WordPress Setup
 
-ElectrikJam can keep WordPress as the CMS while Astro/Cloudflare Pages serves the public front end.
+ElectrikJam keeps WordPress on Kinsta as the CMS while Astro/Cloudflare Pages serves the public front end.
 
-## Model
+## Recommended Model
 
-- WordPress on Kinsta remains the editorial CMS.
-- Astro builds a static site from a WordPress JSON export.
-- Cloudflare Pages serves the front end.
-- A WordPress publish/update webhook can trigger a Cloudflare Pages deploy.
-- The public front end keeps canonicals on `https://www.electrikjam.com`.
+- WordPress remains the editorial interface.
+- A private GitHub Action connects to Kinsta over SSH.
+- The action runs the WordPress export via WP-CLI.
+- Astro imports that export into `src/content` and `src/data`.
+- The action commits the updated content snapshot back to GitHub.
+- Cloudflare Pages deploys the static Astro front end from GitHub.
 
-## Current Build Behavior
+This avoids exposing a public content export endpoint and avoids Kinsta/Cloudflare bot protection blocking Cloudflare Pages builds.
 
-`npm run build` now runs `npm run sync:wordpress` first.
+## Why Not Public REST Export?
 
-If no WordPress sync source is configured, the sync step exits cleanly and Astro builds from the committed content snapshot.
+The WordPress export plugin works inside WordPress, but the public REST endpoint is challenged by Kinsta/Cloudflare bot protection before requests reach WordPress. Because of that, the reliable production path is SSH/WP-CLI export into GitHub Actions.
 
-If `WP_EXPORT_URL` or `WP_EXPORT_FILE` is configured, the sync step imports fresh WordPress content before Astro builds.
+The plugin remains in `wordpress/electrikjam-headless-export.php` as an optional tool, but it is not required for the recommended flow.
 
-## Cloudflare Pages Environment Variables
+## GitHub Secrets
 
-Set these in Cloudflare Pages when the WordPress export endpoint is installed:
-
-```text
-WP_EXPORT_URL=https://www.electrikjam.com/wp-json/electrikjam/v1/export
-WP_EXPORT_TOKEN=<secret token>
-WP_IMPORT_LIMIT=-1
-WP_PAGE_IMPORT_LIMIT=-1
-WP_MEDIA_MODE=remote
-WP_MEDIA_ORIGIN=https://www.electrikjam.com
-```
-
-Before launch, move the WordPress CMS to a dedicated origin hostname such as `cms.electrikjam.com`, then update `WP_EXPORT_URL` and `WP_MEDIA_ORIGIN` to that hostname. Do this before `www.electrikjam.com` points to Cloudflare Pages.
-
-Use `WP_MEDIA_MODE=local` only when media is synced into `public/wp-content/uploads` before the build.
-
-## WordPress Export Endpoint
-
-Install `wordpress/electrikjam-headless-export.php` as a WordPress plugin.
-
-Configure a token in WordPress/Kinsta, preferably in `wp-config.php`:
-
-```php
-define('EJ_HEADLESS_EXPORT_TOKEN', 'replace-with-a-long-random-secret');
-```
-
-The endpoint is:
+Add these repository secrets in GitHub:
 
 ```text
-/wp-json/electrikjam/v1/export
+WP_SSH_HOST=144.24.26.68
+WP_SSH_PORT=41141
+WP_SSH_USER=electrikjam
+WP_SSH_PASSWORD=<Kinsta SSH password>
+WP_PATH=/www/electrikjam_275/public
 ```
 
-The build sends the token as:
+The workflow is:
 
 ```text
-Authorization: Bearer <secret token>
+.github/workflows/sync-wordpress.yml
 ```
 
-If Cloudflare bot protection challenges this endpoint, add a Cloudflare WAF/Custom Rule that skips bot/challenge protections only for:
+It can be run manually from GitHub Actions.
+
+## Cloudflare Pages Build
+
+Cloudflare Pages should keep using:
 
 ```text
-URI Path equals /wp-json/electrikjam/v1/export
+Build command: npm run build
+Output directory: dist
+Production branch: main
 ```
 
-Keep the WordPress token requirement in place. Do not broadly bypass protections for all of `/wp-json/`.
+Do not set WordPress SSH secrets in Cloudflare Pages. WordPress sync happens in GitHub Actions, then Cloudflare deploys the committed static snapshot.
 
-## Deployment Flow
+## Publishing Flow
 
 1. Editor publishes or updates content in WordPress.
-2. WordPress triggers a Cloudflare Pages deploy hook.
-3. Cloudflare runs `npm run build`.
-4. `sync:wordpress` fetches the export.
-5. Astro imports content and builds the static site.
-6. Cloudflare deploys the updated front end.
+2. Run the GitHub Action manually, or trigger it with a WordPress webhook later.
+3. The action exports WordPress content over SSH.
+4. The action imports content into Astro.
+5. The action verifies the Astro build.
+6. The action commits content changes to `main`.
+7. Cloudflare Pages deploys from GitHub.
+
+## Future Automation
+
+Later, add a small WordPress hook on `save_post` that triggers GitHub's `repository_dispatch` event:
+
+```text
+wordpress-content-updated
+```
+
+For now, manual action runs are safer while migration parity is still being checked.
 
 ## Launch Notes
 
 Before switching `www.electrikjam.com` to Cloudflare Pages:
 
-- Keep WordPress reachable at a CMS/admin hostname such as `cms.electrikjam.com`.
-- Keep the WordPress public front end blocked from indexing once Astro is production.
-- Make sure media URLs point either to the Astro static media copy or to the CMS media origin.
+- Keep WordPress reachable for admin/CMS work.
+- Move WordPress admin/media to a CMS hostname such as `cms.electrikjam.com`.
+- Update imported media handling once the final CMS hostname is decided.
+- Keep staging noindexed until launch.
 - Keep Kinsta available as rollback until parity checks pass.

@@ -1,0 +1,68 @@
+name: Sync WordPress Content
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types:
+      - wordpress-content-updated
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wordpress-content-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install SSH tooling
+        run: sudo apt-get update && sudo apt-get install -y sshpass rsync
+
+      - name: Fetch WordPress export over SSH
+        env:
+          WP_SSH_HOST: ${{ secrets.WP_SSH_HOST }}
+          WP_SSH_PORT: ${{ secrets.WP_SSH_PORT }}
+          WP_SSH_USER: ${{ secrets.WP_SSH_USER }}
+          WP_SSH_PASSWORD: ${{ secrets.WP_SSH_PASSWORD }}
+          WP_PATH: ${{ secrets.WP_PATH }}
+        run: |
+          sshpass -p "$WP_SSH_PASSWORD" rsync -av -e "ssh -p ${WP_SSH_PORT:-22} -o StrictHostKeyChecking=no" scripts/wp-export.php "$WP_SSH_USER@$WP_SSH_HOST:/tmp/electrikjam-wp-export.php"
+          sshpass -p "$WP_SSH_PASSWORD" ssh -p "${WP_SSH_PORT:-22}" -o StrictHostKeyChecking=no "$WP_SSH_USER@$WP_SSH_HOST" "cd ${WP_PATH:-/www/electrikjam_275/public} && WP_IMPORT_LIMIT=-1 WP_PAGE_IMPORT_LIMIT=-1 wp eval-file /tmp/electrikjam-wp-export.php" > wordpress-export.json
+
+      - name: Import WordPress export
+        env:
+          WP_EXPORT_FILE: wordpress-export.json
+          WP_IMPORT_LIMIT: -1
+          WP_PAGE_IMPORT_LIMIT: -1
+          WP_MEDIA_MODE: remote
+          WP_MEDIA_ORIGIN: https://www.electrikjam.com
+        run: npm run import:wordpress
+
+      - name: Build verification
+        run: npm run build
+
+      - name: Commit content snapshot
+        run: |
+          git config user.name "electrikjam-content-bot"
+          git config user.email "actions@github.com"
+          git add src/content src/data
+          if git diff --cached --quiet; then
+            echo "No WordPress content changes to commit."
+          else
+            git commit -m "Sync WordPress content"
+            git push
+          fi

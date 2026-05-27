@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "npm run sync:wordpress && astro check && astro build",
+    "build": "astro check && astro build",
     "build:static": "astro check && astro build",
     "preview": "astro preview",
     "sync:wordpress": "node scripts/sync-wordpress.mjs",
