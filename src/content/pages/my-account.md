@@ -43,7 +43,7 @@ seo:
 				<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 					<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Remember me</span>
 				</label>
-				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8f26ff844b" /><input type="hidden" name="_wp_http_referer" value="" />				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit wp-element-button" name="login" value="Log in">Log in</button>
+				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="3803871069" /><input type="hidden" name="_wp_http_referer" value="" />				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit wp-element-button" name="login" value="Log in">Log in</button>
 			</p>
 			<p class="woocommerce-LostPassword lost_password">
 				<a href="https://www.electrikjam.com/my-account/lost-password/">Lost your password?</a>
