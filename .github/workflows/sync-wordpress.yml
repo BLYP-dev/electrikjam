@@ -38,6 +38,13 @@ jobs:
       - name: Install SSH tooling
         run: sudo apt-get update && sudo apt-get install -y sshpass rsync
 
+      - name: Apply Kinsta SSH defaults
+        run: |
+          echo "WP_SSH_HOST=${WP_SSH_HOST:-144.24.26.68}" >> "$GITHUB_ENV"
+          echo "WP_SSH_PORT=${WP_SSH_PORT:-41141}" >> "$GITHUB_ENV"
+          echo "WP_SSH_USER=${WP_SSH_USER:-electrikjam}" >> "$GITHUB_ENV"
+          echo "WP_PATH=${WP_PATH:-/www/electrikjam_275/public}" >> "$GITHUB_ENV"
+
       - name: Validate SSH settings
         run: |
           test -n "$WP_SSH_HOST" || { echo "Missing WP_SSH_HOST"; exit 1; }
