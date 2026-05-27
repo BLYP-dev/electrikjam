@@ -459,6 +459,11 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
   }
 
   @media (max-width: 620px) {
+    .home-page,
+    .latest-section {
+      overflow-x: clip;
+    }
+
     :global(.site-header nav a) {
       font-size: 0.98rem;
     }
@@ -482,7 +487,9 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
       flex-direction: column;
       gap: 12px;
       min-height: 0;
-      padding: 18px 12px 14px;
+      margin-top: 18px;
+      padding: 22px 12px 14px;
+      overflow: visible;
     }
 
     .latest-card__image {
@@ -493,7 +500,7 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     }
 
     .latest-card h3 {
-      font-size: clamp(1.5rem, 8vw, 2.2rem);
+      font-size: clamp(1.38rem, 7vw, 1.9rem);
       line-height: 0.98;
     }
 
@@ -510,16 +517,19 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     }
 
     .count {
-      top: -13px;
+      top: -18px;
       left: 14px;
     }
 
     .section-heading {
       display: block;
+      overflow: hidden;
     }
 
     .section-heading h2 {
-      font-size: clamp(2.75rem, 14vw, 4rem);
+      max-width: 100%;
+      font-size: clamp(2.35rem, 11vw, 3.2rem);
+      overflow-wrap: break-word;
     }
   }
 </style>
