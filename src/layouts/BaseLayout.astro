@@ -162,6 +162,15 @@ const props = Astro.props;
     font-size: clamp(2.25rem, 5vw, 4.8rem);
   }
 
+  .page-title,
+  .title {
+    margin: 0;
+    font-size: clamp(1.8rem, 4.5vw, 3.1rem);
+    line-height: 1;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
   h2 {
     margin: 0 0 16px;
     font-size: clamp(1.5rem, 3vw, 2.4rem);
@@ -237,6 +246,11 @@ const props = Astro.props;
     .site-header {
       align-items: flex-start;
       flex-direction: column;
+    }
+
+    .page-title,
+    .title {
+      font-size: clamp(1.6rem, 8vw, 2.1rem);
     }
 
     nav {

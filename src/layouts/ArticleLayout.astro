@@ -23,7 +23,7 @@ const title = entry.data.seo?.title || entry.data.title;
   <article class="article-shell section">
     <header class="article-hero">
       <p class="eyebrow">Article</p>
-      <h1>{entry.data.title}</h1>
+      <h1 class="page-title">{entry.data.title}</h1>
       <p class="meta">
         {entry.data.date.toLocaleDateString('en-GB', { dateStyle: 'long' })}
         {entry.data.author && ` by ${entry.data.author}`}
@@ -71,15 +71,10 @@ const title = entry.data.seo?.title || entry.data.title;
     text-transform: uppercase;
   }
 
-  h1 {
-    margin: 0;
+  .page-title {
     font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
-    font-size: clamp(2.55rem, 6.2vw, 5.2rem);
     font-weight: 900;
-    line-height: 0.96;
     text-transform: uppercase;
-    overflow-wrap: anywhere;
-    word-break: break-word;
   }
 
   .meta {
@@ -156,10 +151,8 @@ const title = entry.data.seo?.title || entry.data.title;
       padding-top: 30px;
     }
 
-    h1 {
+    .page-title {
       max-width: calc(100vw - 56px);
-      font-size: clamp(1.02rem, 5vw, 1.24rem);
-      line-height: 1;
     }
 
     .lede {

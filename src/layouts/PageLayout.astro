@@ -21,7 +21,7 @@ const title = entry.data.seo?.title || entry.data.title;
 >
   <article class="narrow section">
     <p class="eyebrow">Page</p>
-    <h1>{entry.data.title}</h1>
+    <h1 class="page-title">{entry.data.title}</h1>
     {entry.data.featuredImage && (
       <img src={entry.data.featuredImage} alt={entry.data.featuredImageAlt || entry.data.title} />
     )}

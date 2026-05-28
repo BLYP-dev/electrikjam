@@ -16,7 +16,7 @@ const { title, seoTitle, description, path, entries } = Astro.props;
 <BaseLayout title={seoTitle || title} description={description} path={path}>
   <section class="container section">
     <p class="eyebrow">Archive</p>
-    <h1>{title}</h1>
+    <h1 class="page-title">{title}</h1>
     <p class="lede">{description}</p>
   </section>
   <section class="container section">
