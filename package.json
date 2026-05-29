@@ -14,7 +14,11 @@
     "audit:urls": "node scripts/audit-urls.mjs",
     "check:staging": "node scripts/check-staging.mjs",
     "compare:parity": "node scripts/compare-parity.mjs",
-    "media:collect": "node scripts/collect-wordpress-media.mjs"
+    "media:collect": "node scripts/collect-wordpress-media.mjs",
+    "products:filter:guitar-center": "node scripts/filter-guitar-center-feed.mjs",
+    "products:build-import-sql": "node scripts/build-product-import-sql.mjs",
+    "products:import:supabase-rpc": "node scripts/import-products-supabase-rpc.mjs",
+    "products:import:supabase": "node scripts/import-products-supabase.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.11",
