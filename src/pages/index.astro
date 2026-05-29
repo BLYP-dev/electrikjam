@@ -37,15 +37,6 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     {leadPost && (
       <section class="container front-page" aria-label="Featured articles">
         <article class="lead-story">
-          <a class="lead-story__image" href={leadPost.data.path} aria-label={leadPost.data.title}>
-            {leadPost.data.featuredImage && (
-              <img
-                src={leadPost.data.featuredImage}
-                alt={leadPost.data.featuredImageAlt || leadPost.data.title}
-                loading="eager"
-              />
-            )}
-          </a>
           <div class="lead-story__body">
             <p class="stamp">{primaryCategory(leadPost)} / {formatDate(leadPost.data.date)}</p>
             <h2><a href={leadPost.data.path}>{leadPost.data.title}</a></h2>
@@ -231,24 +222,6 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     overflow: hidden;
   }
 
-  .lead-story__image {
-    display: block;
-    width: 100%;
-    aspect-ratio: 16 / 10;
-    background: var(--ink);
-    overflow: hidden;
-  }
-
-  .lead-story__image img {
-    width: 100%;
-    height: 100%;
-    filter: grayscale(1) contrast(1.08);
-    object-fit: cover;
-    object-position: 34% center;
-    transition: filter 160ms ease, transform 160ms ease;
-  }
-
-  .lead-story:hover img,
   .latest-card:hover img {
     filter: grayscale(0) contrast(1.04);
     transform: scale(1.025);
@@ -260,7 +233,6 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     flex-direction: column;
     min-width: 0;
     padding: var(--space-6);
-    border-top: 4px solid var(--ink);
   }
 
   .stamp {
@@ -513,21 +485,15 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     }
 
     .lead-story {
-      grid-template-columns: minmax(0, 0.45fr) minmax(0, 0.55fr);
+      min-height: 100%;
     }
 
     .lead-story__body {
       padding: var(--space-8);
-      border-top: 0;
-      border-left: 4px solid var(--ink);
-    }
-
-    .lead-story__image {
-      aspect-ratio: 1 / 1;
     }
 
     .lead-story h2 {
-      font-size: clamp(1.85rem, 2.55vw, 2.8rem);
+      font-size: clamp(2.15rem, 3.4vw, 4rem);
       line-height: 0.97;
     }
 
