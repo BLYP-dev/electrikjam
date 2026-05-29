@@ -20,7 +20,7 @@ const title = entry.data.seo?.title || entry.data.title;
   type="article"
   schema={entry.data.seo?.schema}
 >
-  <article class="article-shell section">
+  <article class="article-shell mx-auto w-full max-w-3xl px-4 py-10 md:px-6 md:py-14">
     <header class="article-hero">
       <p class="eyebrow">Article</p>
       <h1 class="page-title">{entry.data.title}</h1>
@@ -37,7 +37,7 @@ const title = entry.data.seo?.title || entry.data.title;
       </figure>
     )}
 
-    <div class="content">
+    <div class="content break-words overflow-hidden">
       <slot />
     </div>
   </article>
@@ -48,19 +48,18 @@ const title = entry.data.seo?.title || entry.data.title;
     --hot: #ff3399;
     --ink: #090909;
     --muted: #5d554b;
-    width: min(860px, calc(100% - 32px));
-    margin: 0 auto;
   }
 
   .article-hero {
-    padding-bottom: clamp(22px, 4vw, 34px);
+    padding-bottom: clamp(1.5rem, 4vw, 2rem);
     border-bottom: 5px solid var(--ink);
   }
 
   .eyebrow {
     display: inline-block;
-    margin: 0 0 16px;
-    padding: 6px 9px 4px;
+    max-width: 100%;
+    margin: 0 0 1rem;
+    padding: 0.5rem 0.75rem 0.35rem;
     color: var(--ink);
     background: var(--hot);
     font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
@@ -69,33 +68,37 @@ const title = entry.data.seo?.title || entry.data.title;
     letter-spacing: 0.04em;
     line-height: 1;
     text-transform: uppercase;
+    overflow-wrap: anywhere;
   }
 
   .page-title {
     font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
     font-weight: 900;
+    line-height: 1.02;
     text-transform: uppercase;
   }
 
   .meta {
-    margin: 18px 0 0;
+    margin: 1rem 0 0;
     color: var(--muted);
     font-weight: 800;
+    overflow-wrap: anywhere;
   }
 
   .lede {
-    max-width: 720px;
-    margin: 22px 0 0;
-    padding-left: 16px;
+    max-width: 45rem;
+    margin: 1.5rem 0 0;
+    padding-left: 1rem;
     color: var(--ink);
     border-left: 6px solid var(--hot);
-    font-size: clamp(1.08rem, 2vw, 1.28rem);
+    font-size: clamp(1rem, 2vw, 1.18rem);
     font-weight: 750;
     line-height: 1.5;
+    overflow-wrap: anywhere;
   }
 
   .featured-media {
-    margin: clamp(24px, 4vw, 34px) 0;
+    margin: clamp(1.5rem, 4vw, 2rem) 0;
     background: var(--ink);
     border: 4px solid var(--ink);
     box-shadow: 8px 8px 0 var(--hot);
@@ -104,13 +107,12 @@ const title = entry.data.seo?.title || entry.data.title;
 
   .featured-media img {
     width: 100%;
-    max-height: min(62vh, 620px);
-    object-fit: cover;
+    height: auto;
   }
 
   .content {
     color: #27231f;
-    font-size: 1.06rem;
+    font-size: clamp(1rem, 1.6vw, 1.06rem);
   }
 
   .content :global(h2),
@@ -125,42 +127,30 @@ const title = entry.data.seo?.title || entry.data.title;
 
   .content :global(h2) {
     margin-top: 2.4rem;
-    font-size: clamp(1.8rem, 4.5vw, 3.1rem);
+    font-size: clamp(1.5rem, 3vw, 2.4rem);
   }
 
   .content :global(h3) {
     margin-top: 2rem;
-    font-size: clamp(1.45rem, 3vw, 2.15rem);
+    font-size: clamp(1.25rem, 2.4vw, 1.8rem);
   }
 
   .content :global(img) {
-    margin: 1.8rem auto;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 1.5rem auto;
     border: 3px solid var(--ink);
   }
 
   .content :global(blockquote) {
-    padding: 18px 20px;
+    padding: 1rem 1.25rem;
     color: var(--ink);
     background: #fff;
     border-left: 8px solid var(--hot);
   }
 
   @media (max-width: 620px) {
-    .article-shell {
-      width: min(100% - 28px, 860px);
-      padding-top: 30px;
-    }
-
-    .page-title {
-      max-width: calc(100vw - 56px);
-    }
-
-    .lede {
-      max-width: calc(100vw - 56px);
-      font-size: 0.94rem;
-      line-height: 1.45;
-    }
-
     .content :global(h2) {
       font-size: clamp(1.28rem, 6.8vw, 1.7rem);
     }

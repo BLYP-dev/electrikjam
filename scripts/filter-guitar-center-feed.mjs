@@ -1,6 +1,6 @@
 import { createReadStream } from 'node:fs';
 import { mkdir, writeFile } from 'node:fs/promises';
-import { basename, dirname, join } from 'node:path';
+import { basename, join } from 'node:path';
 import { createInterface } from 'node:readline';
 import { csvEscape } from './lib.mjs';
 
