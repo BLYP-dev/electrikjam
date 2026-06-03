@@ -15,6 +15,33 @@ const formatDate = (date: Date) => date.toLocaleDateString('en-GB', {
 });
 
 const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] || 'Gear';
+
+const guidePaths = [
+  {
+    title: 'Best Beginner Guitars',
+    href: '/best-electric-guitars/best-budget-guitars/',
+    copy: 'Cheap guitars that stay in tune, play properly, and leave enough money for strings.',
+  },
+  {
+    title: 'Intermediate Guitars',
+    href: '/best-electric-guitars/best-mid-range-electric-guitars/',
+    copy: 'The sweet spot: real hardware, better pickups, fewer compromises.',
+  },
+  {
+    title: 'Pro / High-End Guitars',
+    href: '/best-electric-guitars/high-end-guitars-metal/',
+    copy: 'When you want the good stuff and need someone to call out the expensive nonsense.',
+  },
+];
+
+const reviewDesks = [
+  { label: 'Electric Guitars', href: '/category/reviews/electric-guitars/' },
+  { label: 'Guitar Amps', href: '/category/reviews/guitar-amps/' },
+  { label: 'Amp Sims', href: '/category/reviews/amp-sims-modelers/' },
+  { label: 'Pickups', href: '/category/reviews/pickups/' },
+  { label: 'Pedals', href: '/category/reviews/pedals-effects/' },
+  { label: 'Recording Gear', href: '/category/reviews/recording-gear/' },
+];
 ---
 
 <BaseLayout title="ELECTRIKJAM" description={SITE_DESCRIPTION} path="/">
@@ -63,6 +90,38 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
       <a href="/category/amps/">Amps</a>
       <a href="/category/music-production/">Recording</a>
       <a href="/category/music/">Records</a>
+    </section>
+
+    <section class="container buyer-section" aria-labelledby="buyer-title">
+      <div class="section-heading">
+        <p class="rail-label">Buying Guides</p>
+        <h2 id="buyer-title">Find Your Next Guitar</h2>
+      </div>
+      <div class="buyer-grid">
+        {guidePaths.map((item) => (
+          <a class="buyer-card" href={item.href}>
+            <span>Guide</span>
+            <h3>{item.title}</h3>
+            <p>{item.copy}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="container desk-section" aria-labelledby="desk-title">
+      <div>
+        <p class="rail-label">Review Desks</p>
+        <h2 id="desk-title">Tested, argued over, then written up.</h2>
+      </div>
+      <div class="desk-links">
+        {reviewDesks.map((item) => <a href={item.href}>{item.label}</a>)}
+      </div>
+    </section>
+
+    <section class="container home-mailer" aria-label="Mailing list">
+      <p class="rail-label">Mailing List</p>
+      <h2>Stop wasting time scrolling. Discover one killer album or gear idea at a time.</h2>
+      <a href="/email-landing-page/">Get on the list</a>
     </section>
 
     <section class="container latest-section">
@@ -353,6 +412,12 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     padding: var(--space-4) 0 var(--space-16);
   }
 
+  .buyer-section,
+  .desk-section,
+  .home-mailer {
+    margin-bottom: var(--space-12);
+  }
+
   .section-heading {
     display: block;
     margin-bottom: var(--space-6);
@@ -377,6 +442,128 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
     grid-template-columns: minmax(0, 1fr);
     gap: var(--space-8);
     padding-top: var(--space-4);
+  }
+
+  .buyer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+    gap: var(--space-5);
+  }
+
+  .buyer-card {
+    display: grid;
+    gap: var(--space-3);
+    min-height: 100%;
+    padding: var(--space-6);
+    color: var(--ink);
+    background: #fff;
+    border: 4px solid var(--ink);
+    box-shadow: 7px 7px 0 var(--hot);
+    text-decoration: none;
+  }
+
+  .buyer-card span {
+    width: fit-content;
+    padding: var(--space-2) var(--space-3);
+    color: #fff;
+    background: var(--ink);
+    font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  .buyer-card h3,
+  .desk-section h2,
+  .home-mailer h2 {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+    line-height: 0.98;
+    text-transform: uppercase;
+    overflow-wrap: anywhere;
+  }
+
+  .buyer-card h3 {
+    font-size: clamp(1.5rem, 5vw, 2.35rem);
+  }
+
+  .buyer-card p {
+    margin: 0;
+    color: var(--muted);
+    font-weight: 750;
+  }
+
+  .buyer-card:hover {
+    color: var(--ink);
+    transform: translate(-2px, -2px);
+  }
+
+  .desk-section {
+    display: grid;
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+    gap: var(--space-6);
+    padding: var(--space-6);
+    color: #fff;
+    background: var(--ink);
+    border: 5px solid var(--ink);
+    box-shadow: 8px 8px 0 var(--hot);
+  }
+
+  .desk-section .rail-label {
+    border-bottom-color: rgba(255, 255, 255, 0.25);
+  }
+
+  .desk-section h2 {
+    font-size: clamp(2rem, 5vw, 4rem);
+  }
+
+  .desk-links {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-3);
+    align-self: center;
+  }
+
+  .desk-links a {
+    padding: var(--space-3);
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.28);
+    font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  .desk-links a:hover {
+    color: var(--ink);
+    background: var(--hot);
+  }
+
+  .home-mailer {
+    padding: var(--space-8);
+    background: #fff;
+    border: 4px solid var(--ink);
+    box-shadow: 8px 8px 0 var(--hot);
+  }
+
+  .home-mailer h2 {
+    max-width: 850px;
+    font-size: clamp(2rem, 7vw, 4.2rem);
+  }
+
+  .home-mailer a {
+    display: inline-flex;
+    margin-top: var(--space-5);
+    padding: var(--space-3) var(--space-4);
+    color: #fff;
+    background: var(--ink);
+    border: 3px solid var(--ink);
+    font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  .home-mailer a:hover {
+    color: var(--ink);
+    background: var(--hot);
   }
 
   .latest-card {
@@ -524,6 +711,18 @@ const primaryCategory = (post: typeof posts[number]) => post.data.categories[0] 
       align-items: end;
       justify-content: space-between;
       gap: var(--space-5);
+    }
+  }
+
+  @media (max-width: 760px) {
+    .desk-section,
+    .desk-links {
+      grid-template-columns: 1fr;
+    }
+
+    .home-mailer,
+    .desk-section {
+      padding: var(--space-5);
     }
   }
 

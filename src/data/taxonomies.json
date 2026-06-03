@@ -9,7 +9,7 @@
       "path": "/category/gear/accessories/",
       "description": "Optimize your setup. We highlight must-have accessories that enhance your playing and keep your gear in top shape. Small tweaks, big impact.",
       "seo": {
-        "title": "Expert Guides & Advice on Guitar Strings, Pedals & Accessories",
+        "title": "Expert Guides & Advice On Guitar Strings, Pedals & Accessories",
         "description": "Expert advice on the best electric guitar accessories on the market – from picks and plectrums, to strings, and guitar maintenance products",
         "canonical": "https://www.electrikjam.com/category/gear/accessories/"
       }
@@ -23,7 +23,7 @@
       "path": "/category/news/amp-sim-news/",
       "description": "",
       "seo": {
-        "title": "Amp Sim News",
+        "title": "Amp Sim News | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/news/amp-sim-news/"
       }
@@ -37,7 +37,7 @@
       "path": "/category/reviews/amp-sims-modelers/",
       "description": "Virtual amps, real impressions. We test-drive the latest amp simulators to find out which ones truly deliver. Your digital tone journey starts here.",
       "seo": {
-        "title": "Amp Sims",
+        "title": "Amp Sims | ELECTRIKJAM",
         "description": "Virtual amps, real impressions. We test-drive the latest amp simulators to find out which ones truly deliver. Your digital tone journey starts here.",
         "canonical": "https://www.electrikjam.com/category/reviews/amp-sims-modelers/"
       }
@@ -51,7 +51,7 @@
       "path": "/category/tutorials/software/amp-sims/",
       "description": "Silent practice, real tone. We delve into amp simulators that let you rock out without cranking up the volume. All the feel of a real amp, minus the noise complaints.",
       "seo": {
-        "title": "Amp Sims",
+        "title": "Amp Sims | ELECTRIKJAM",
         "description": "Silent practice, real tone. We delve into amp simulators that let you rock out without cranking up the volume. All the feel of a real amp, minus the noise complaints.",
         "canonical": "https://www.electrikjam.com/category/tutorials/software/amp-sims/"
       }
@@ -65,9 +65,23 @@
       "path": "/category/tutorials/guitar-amplifiers/",
       "description": "Turn up the heat on your tone. Dive deep into our amplifier guides—no nonsense, just pure insights and reviews to supercharge your sound. Your journey to louder, better, and bolder starts here.",
       "seo": {
-        "title": "Amplifiers",
+        "title": "Amplifiers | ELECTRIKJAM",
         "description": "Turn up the heat on your tone. Dive deep into our amplifier guides—no nonsense, just pure insights and reviews to supercharge your sound. Your journey to louder, better, and bolder starts here.",
         "canonical": "https://www.electrikjam.com/category/tutorials/guitar-amplifiers/"
+      }
+    },
+    {
+      "id": 379,
+      "name": "Amps",
+      "slug": "guitar-amps",
+      "taxonomy": "category",
+      "parent": 12,
+      "path": "/category/reviews/guitar-amps/",
+      "description": "Feel the power. Our amplifier reviews bring you the lowdown on the newest and greatest, helping you find the perfect match for your sound.",
+      "seo": {
+        "title": "Amps | ELECTRIKJAM",
+        "description": "Feel the power. Our amplifier reviews bring you the lowdown on the newest and greatest, helping you find the perfect match for your sound.",
+        "canonical": "https://www.electrikjam.com/category/reviews/guitar-amps/"
       }
     },
     {
@@ -85,20 +99,6 @@
       }
     },
     {
-      "id": 379,
-      "name": "Amps",
-      "slug": "guitar-amps",
-      "taxonomy": "category",
-      "parent": 12,
-      "path": "/category/reviews/guitar-amps/",
-      "description": "Feel the power. Our amplifier reviews bring you the lowdown on the newest and greatest, helping you find the perfect match for your sound.",
-      "seo": {
-        "title": "Amps",
-        "description": "Feel the power. Our amplifier reviews bring you the lowdown on the newest and greatest, helping you find the perfect match for your sound.",
-        "canonical": "https://www.electrikjam.com/category/reviews/guitar-amps/"
-      }
-    },
-    {
       "id": 368,
       "name": "Artist Gear Guides",
       "slug": "artist-gear-guides",
@@ -107,7 +107,7 @@
       "path": "/category/tutorials/artist-gear-guides/",
       "description": "Unlock the secrets of the pros. We dissect the gear setups of legendary guitarists, giving you the insider scoop to replicate those iconic sounds. Ready to play like your heroes?",
       "seo": {
-        "title": "Artist Gear Guides",
+        "title": "Artist Gear Guides | ELECTRIKJAM",
         "description": "Unlock the secrets of the pros. We dissect the gear setups of legendary guitarists, giving you the insider scoop to replicate those iconic sounds. Ready to play like your heroes?",
         "canonical": "https://www.electrikjam.com/category/tutorials/artist-gear-guides/"
       }
@@ -135,7 +135,7 @@
       "path": "/category/music/classic-albums/",
       "description": "",
       "seo": {
-        "title": "Classic Albums",
+        "title": "Classic Albums | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/music/classic-albums/"
       }
@@ -149,7 +149,7 @@
       "path": "/category/daws/daw-accessories/",
       "description": "",
       "seo": {
-        "title": "DAW Accessories",
+        "title": "DAW Accessories | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/daws/daw-accessories/"
       }
@@ -163,7 +163,7 @@
       "path": "/category/daws/daw-platforms/",
       "description": "",
       "seo": {
-        "title": "DAW Platforms",
+        "title": "DAW Platforms | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/daws/daw-platforms/"
       }
@@ -177,7 +177,7 @@
       "path": "/category/daws/daw-tutorials/",
       "description": "",
       "seo": {
-        "title": "Daw Tutorials",
+        "title": "Daw Tutorials | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/daws/daw-tutorials/"
       }
@@ -191,7 +191,7 @@
       "path": "/category/daws/",
       "description": "",
       "seo": {
-        "title": "DAWs",
+        "title": "DAWs | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/daws/"
       }
@@ -205,7 +205,7 @@
       "path": "/category/news/deals/",
       "description": "",
       "seo": {
-        "title": "Deals",
+        "title": "Deals | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/news/deals/"
       }
@@ -217,10 +217,10 @@
       "taxonomy": "category",
       "parent": 12,
       "path": "/category/reviews/electric-guitars/",
-      "description": "Find your next 6, 7, 8, or 9 string soulmate. We put the latest electric guitars through their paces, so you know what’s hot and what’s not. Let’s get you plugged in.",
+      "description": "Find your next 6, 7, 8, or 9 string soulmate. We put the latest electric guitars through their paces, so you know what's hot and what's not. Let’s get you plugged in.",
       "seo": {
-        "title": "Electric Guitars",
-        "description": "Find your next 6, 7, 8, or 9 string soulmate. We put the latest electric guitars through their paces, so you know what’s hot and what’s not. Let’s get you plugged in.",
+        "title": "Electric Guitars | ELECTRIKJAM",
+        "description": "Find your next 6, 7, 8, or 9 string soulmate. We put the latest electric guitars through their paces, so you know what's hot and what's not. Let’s get you plugged in.",
         "canonical": "https://www.electrikjam.com/category/reviews/electric-guitars/"
       }
     },
@@ -231,10 +231,10 @@
       "taxonomy": "category",
       "parent": 14,
       "path": "/category/gear/guitars/epiphone/",
-      "description": "Classic vibes, modern playability. Explore Epiphone’s range of guitars that blend heritage with innovation. Your next favorite axe awaits.",
+      "description": "Classic vibes, modern playability. Explore Epiphone's range of guitars that blend heritage with innovation. Your next favorite axe awaits.",
       "seo": {
-        "title": "Epiphone",
-        "description": "Classic vibes, modern playability. Explore Epiphone’s range of guitars that blend heritage with innovation. Your next favorite axe awaits.",
+        "title": "Epiphone | ELECTRIKJAM",
+        "description": "Classic vibes, modern playability. Explore Epiphone's range of guitars that blend heritage with innovation. Your next favorite axe awaits.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/epiphone/"
       }
     },
@@ -245,10 +245,10 @@
       "taxonomy": "category",
       "parent": 14,
       "path": "/category/gear/guitars/esp/",
-      "description": "Precision for the passionate. Dive into ESP’s lineup, designed for players who demand performance. Unleash your potential with guitars built to excel.",
+      "description": "Precision for the passionate. Dive into ESP's lineup, designed for players who demand performance. Unleash your potential with guitars built to excel.",
       "seo": {
-        "title": "ESP",
-        "description": "Precision for the passionate. Dive into ESP’s lineup, designed for players who demand performance. Unleash your potential with guitars built to excel.",
+        "title": "ESP | ELECTRIKJAM",
+        "description": "Precision for the passionate. Dive into ESP's lineup, designed for players who demand performance. Unleash your potential with guitars built to excel.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/esp/"
       }
     },
@@ -261,7 +261,7 @@
       "path": "/category/news/esp-news/",
       "description": "",
       "seo": {
-        "title": "ESP News",
+        "title": "ESP News | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/news/esp-news/"
       }
@@ -273,10 +273,10 @@
       "taxonomy": "category",
       "parent": 14,
       "path": "/category/gear/guitars/fender/",
-      "description": "Iconic sound, endless possibilities. Discover Fender’s latest offerings and timeless instruments that have shaped music history. It’s time to make your mark.",
+      "description": "Iconic sound, endless possibilities. Discover Fender's latest offerings and timeless instruments that have shaped music history. It's time to make your mark.",
       "seo": {
-        "title": "Fender",
-        "description": "Iconic sound, endless possibilities. Discover Fender’s latest offerings and timeless instruments that have shaped music history. It’s time to make your mark.",
+        "title": "Fender | ELECTRIKJAM",
+        "description": "Iconic sound, endless possibilities. Discover Fender's latest offerings and timeless instruments that have shaped music history. It's time to make your mark.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/fender/"
       }
     },
@@ -287,10 +287,10 @@
       "taxonomy": "category",
       "parent": 3,
       "path": "/category/news/fender-news/",
-      "description": "Stay in tune with Fender. We bring you the latest releases, updates, and innovations from this iconic brand. Don’t miss a beat in the Fender universe.",
+      "description": "Stay in tune with Fender. We bring you the latest releases, updates, and innovations from this iconic brand. Don't miss a beat in the Fender universe.",
       "seo": {
-        "title": "Fender News",
-        "description": "Stay in tune with Fender. We bring you the latest releases, updates, and innovations from this iconic brand. Don’t miss a beat in the Fender universe.",
+        "title": "Fender News | ELECTRIKJAM",
+        "description": "Stay in tune with Fender. We bring you the latest releases, updates, and innovations from this iconic brand. Don't miss a beat in the Fender universe.",
         "canonical": "https://www.electrikjam.com/category/news/fender-news/"
       }
     },
@@ -301,10 +301,10 @@
       "taxonomy": "category",
       "parent": 14,
       "path": "/category/gear/guitars/gibson/",
-      "description": "Where tradition meets tone. Explore Gibson’s legendary guitars, crafted for those who seek the authentic sound. Elevate your artistry with a true classic.",
+      "description": "Where tradition meets tone. Explore Gibson's legendary guitars, crafted for those who seek the authentic sound. Elevate your artistry with a true classic.",
       "seo": {
-        "title": "Gibson Guitars",
-        "description": "Where tradition meets tone. Explore Gibson’s legendary guitars, crafted for those who seek the authentic sound. Elevate your artistry with a true classic.",
+        "title": "Gibson Guitars | ELECTRIKJAM",
+        "description": "Where tradition meets tone. Explore Gibson's legendary guitars, crafted for those who seek the authentic sound. Elevate your artistry with a true classic.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/gibson/"
       }
     },
@@ -317,7 +317,7 @@
       "path": "/category/reviews/guitar-accessories-gear/",
       "description": "The little things that make a big difference. From straps to strings, our accessory reviews help you enhance every aspect of your playing experience.",
       "seo": {
-        "title": "Guitar Accessories",
+        "title": "Guitar Accessories | ELECTRIKJAM",
         "description": "The little things that make a big difference. From straps to strings, our accessory reviews help you enhance every aspect of your playing experience.",
         "canonical": "https://www.electrikjam.com/category/reviews/guitar-accessories-gear/"
       }
@@ -329,7 +329,7 @@
       "taxonomy": "category",
       "parent": 0,
       "path": "/category/gear/",
-      "description": "Your ultimate gear destination. From guitars to amps, pedals and recording gear, we cover the essentials that fuel your passion. Let’s gear up and make some music.",
+      "description": "Your ultimate gear destination. From guitars to amps, pedals and recording gear, we cover the essentials that fuel your passion. Let's gear up and make some music.",
       "seo": {
         "title": "Best Electric Guitar Gear Reviews: Pedals, Amps, Accessories & More",
         "description": "Read about the best new guitars, the latest amps, and the best accessories from the best brands – from Fender to Ibanez & PositiveGrid & More",
@@ -343,7 +343,7 @@
       "taxonomy": "category",
       "parent": 0,
       "path": "/category/news/",
-      "description": "Stay plugged in to the pulse of the guitar world with our comprehensive coverage of the latest news, trends, and headlines. Whether you’re a seasoned pro, an aspiring player, or simply a passionate enthusiast, this is your one-stop destination for everything that’s shaping the guitar landscape.",
+      "description": "Stay plugged in to the pulse of the guitar world with our comprehensive coverage of the latest news, trends, and headlines. Whether you're a seasoned pro, an aspiring player, or simply a passionate enthusiast, this is your one-stop destination for everything that's shaping the guitar landscape.",
       "seo": {
         "title": "Latest Guitar News & Trending Headlines | ELECTRIKJAM",
         "description": "All the latest guitar news with a focus on metal and big brands like Gibson, Epiphone, Ibanez and more. Plus news updates on the latest amps & pedals",
@@ -359,7 +359,7 @@
       "path": "/category/reviews/pickups/",
       "description": "Transform your tone from the core. We evaluate the latest pickups, guiding you to the ones that resonate with your style. Hear the difference quality makes.",
       "seo": {
-        "title": "Guitar Pickups",
+        "title": "Guitar Pickups | ELECTRIKJAM",
         "description": "Transform your tone from the core. We evaluate the latest pickups, guiding you to the ones that resonate with your style. Hear the difference quality makes.",
         "canonical": "https://www.electrikjam.com/category/reviews/pickups/"
       }
@@ -373,7 +373,7 @@
       "path": "/category/gear/accessories/guitar-strings/",
       "description": "",
       "seo": {
-        "title": "Guitar Strings",
+        "title": "Guitar Strings | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/gear/accessories/guitar-strings/"
       }
@@ -385,10 +385,10 @@
       "taxonomy": "category",
       "parent": 2,
       "path": "/category/tutorials/guitar-technique/",
-      "description": "Master the fretboard with finesse. From foundational skills to advanced shredding, we’re your go-to for leveling up your playing. Let’s make those fingers fly.",
+      "description": "Master the fretboard with finesse. From foundational skills to advanced shredding, we're your go-to for leveling up your playing. Let's make those fingers fly.",
       "seo": {
-        "title": "Guitar Technique",
-        "description": "Master the fretboard with finesse. From foundational skills to advanced shredding, we’re your go-to for leveling up your playing. Let’s make those fingers fly.",
+        "title": "Guitar Technique | ELECTRIKJAM",
+        "description": "Master the fretboard with finesse. From foundational skills to advanced shredding, we're your go-to for leveling up your playing. Let's make those fingers fly.",
         "canonical": "https://www.electrikjam.com/category/tutorials/guitar-technique/"
       }
     },
@@ -399,10 +399,10 @@
       "taxonomy": "category",
       "parent": 2,
       "path": "/category/tutorials/guitar-tunings/",
-      "description": "Tune in to new horizons. Explore our guides on alternate and standard tunings to expand your musical palette. It’s time to retune and redefine your sound.",
+      "description": "Tune in to new horizons. Explore our guides on alternate and standard tunings to expand your musical palette. It's time to retune and redefine your sound.",
       "seo": {
-        "title": "Guitar Tunings",
-        "description": "Tune in to new horizons. Explore our guides on alternate and standard tunings to expand your musical palette. It’s time to retune and redefine your sound.",
+        "title": "Guitar Tunings | ELECTRIKJAM",
+        "description": "Tune in to new horizons. Explore our guides on alternate and standard tunings to expand your musical palette. It's time to retune and redefine your sound.",
         "canonical": "https://www.electrikjam.com/category/tutorials/guitar-tunings/"
       }
     },
@@ -427,10 +427,10 @@
       "taxonomy": "category",
       "parent": 14,
       "path": "/category/gear/guitars/harley-benton/",
-      "description": "Quality meets affordability. Check out Harley Benton’s guitars that deliver serious bang for your buck. Because great gear shouldn’t cost a fortune.",
+      "description": "Quality meets affordability. Check out Harley Benton's guitars that deliver serious bang for your buck. Because great gear shouldn't cost a fortune.",
       "seo": {
-        "title": "Harley Benton",
-        "description": "Quality meets affordability. Check out Harley Benton’s guitars that deliver serious bang for your buck. Because great gear shouldn’t cost a fortune.",
+        "title": "Harley Benton | ELECTRIKJAM",
+        "description": "Quality meets affordability. Check out Harley Benton's guitars that deliver serious bang for your buck. Because great gear shouldn't cost a fortune.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/harley-benton/"
       }
     },
@@ -443,7 +443,7 @@
       "path": "/category/music-production/home-recording/",
       "description": "",
       "seo": {
-        "title": "Home Recording",
+        "title": "Home Recording | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/music-production/home-recording/"
       }
@@ -455,10 +455,10 @@
       "taxonomy": "category",
       "parent": 14,
       "path": "/category/gear/guitars/ibanez/",
-      "description": "Speed and style combined. We delve into Ibanez’s sleek designs and fast necks, perfect for players pushing the limits. Get ready to play without boundaries.",
+      "description": "Speed and style combined. We delve into Ibanez's sleek designs and fast necks, perfect for players pushing the limits. Get ready to play without boundaries.",
       "seo": {
-        "title": "Ibanez",
-        "description": "Speed and style combined. We delve into Ibanez’s sleek designs and fast necks, perfect for players pushing the limits. Get ready to play without boundaries.",
+        "title": "Ibanez | ELECTRIKJAM",
+        "description": "Speed and style combined. We delve into Ibanez's sleek designs and fast necks, perfect for players pushing the limits. Get ready to play without boundaries.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/ibanez/"
       }
     },
@@ -469,10 +469,10 @@
       "taxonomy": "category",
       "parent": 3,
       "path": "/category/news/epiphone-news/",
-      "description": "Catch the freshest updates from Epiphone. New models, artist collaborations, and more—delivered straight to you. Keep your finger on Epiphone’s pulse.",
+      "description": "Catch the freshest updates from Epiphone. New models, artist collaborations, and more—delivered straight to you. Keep your finger on Epiphone's pulse.",
       "seo": {
-        "title": "Latest Epiphone News",
-        "description": "Catch the freshest updates from Epiphone. New models, artist collaborations, and more—delivered straight to you. Keep your finger on Epiphone’s pulse.",
+        "title": "Latest Epiphone News | ELECTRIKJAM",
+        "description": "Catch the freshest updates from Epiphone. New models, artist collaborations, and more—delivered straight to you. Keep your finger on Epiphone's pulse.",
         "canonical": "https://www.electrikjam.com/category/news/epiphone-news/"
       }
     },
@@ -485,7 +485,7 @@
       "path": "/category/news/gear-news/",
       "description": "",
       "seo": {
-        "title": "Latest Gear News",
+        "title": "Latest Gear News | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/news/gear-news/"
       }
@@ -499,7 +499,7 @@
       "path": "/category/news/gibson-news/",
       "description": "All things Gibson, all the time. From groundbreaking guitars to exclusive releases, we’ve got the news that keeps you connected to this legendary brand.",
       "seo": {
-        "title": "Latest Gibson News",
+        "title": "Latest Gibson News | ELECTRIKJAM",
         "description": "All things Gibson, all the time. From groundbreaking guitars to exclusive releases, we’ve got the news that keeps you connected to this legendary brand.",
         "canonical": "https://www.electrikjam.com/category/news/gibson-news/"
       }
@@ -511,10 +511,10 @@
       "taxonomy": "category",
       "parent": 3,
       "path": "/category/news/harley-benton-news/",
-      "description": "Gear news that won’t break the bank. Stay updated on Harley Benton’s newest offerings, blending affordability with quality. Discover what’s new and noteworthy.",
+      "description": "Gear news that won't break the bank. Stay updated on Harley Benton's newest offerings, blending affordability with quality. Discover what's new and noteworthy.",
       "seo": {
-        "title": "Latest Harley Benton News",
-        "description": "Gear news that won’t break the bank. Stay updated on Harley Benton’s newest offerings, blending affordability with quality. Discover what’s new and noteworthy.",
+        "title": "Latest Harley Benton News | ELECTRIKJAM",
+        "description": "Gear news that won't break the bank. Stay updated on Harley Benton's newest offerings, blending affordability with quality. Discover what's new and noteworthy.",
         "canonical": "https://www.electrikjam.com/category/news/harley-benton-news/"
       }
     },
@@ -525,10 +525,10 @@
       "taxonomy": "category",
       "parent": 3,
       "path": "/category/news/ibanez-news/",
-      "description": "Shredder’s delight. Get the scoop on Ibanez’s latest guitars and gear, crafted for speed and precision. Elevate your playing with cutting-edge updates.",
+      "description": "Shredder's delight. Get the scoop on Ibanez's latest guitars and gear, crafted for speed and precision. Elevate your playing with cutting-edge updates.",
       "seo": {
-        "title": "Latest Ibanez News",
-        "description": "Shredder’s delight. Get the scoop on Ibanez’s latest guitars and gear, crafted for speed and precision. Elevate your playing with cutting-edge updates.",
+        "title": "Latest Ibanez News | ELECTRIKJAM",
+        "description": "Shredder's delight. Get the scoop on Ibanez's latest guitars and gear, crafted for speed and precision. Elevate your playing with cutting-edge updates.",
         "canonical": "https://www.electrikjam.com/category/news/ibanez-news/"
       }
     },
@@ -541,7 +541,7 @@
       "path": "/category/news/jackson/",
       "description": "",
       "seo": {
-        "title": "Latest Jackson News",
+        "title": "Latest Jackson News | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/news/jackson/"
       }
@@ -553,10 +553,10 @@
       "taxonomy": "category",
       "parent": 3,
       "path": "/category/news/prs-news/",
-      "description": "Elegance meets innovation. Stay informed about PRS’s newest creations, blending art and technology for the discerning guitarist. Experience the evolution.",
+      "description": "Elegance meets innovation. Stay informed about PRS's newest creations, blending art and technology for the discerning guitarist. Experience the evolution.",
       "seo": {
-        "title": "Latest PRS News",
-        "description": "Elegance meets innovation. Stay informed about PRS’s newest creations, blending art and technology for the discerning guitarist. Experience the evolution.",
+        "title": "Latest PRS News | ELECTRIKJAM",
+        "description": "Elegance meets innovation. Stay informed about PRS's newest creations, blending art and technology for the discerning guitarist. Experience the evolution.",
         "canonical": "https://www.electrikjam.com/category/news/prs-news/"
       }
     },
@@ -567,10 +567,10 @@
       "taxonomy": "category",
       "parent": 3,
       "path": "/category/news/schecter-news/",
-      "description": "Discover the new dark side. Schecter’s latest news brings you guitars built for bold players. Stay ahead with updates from this trailblazing brand.",
+      "description": "Discover the new dark side. Schecter's latest news brings you guitars built for bold players. Stay ahead with updates from this trailblazing brand.",
       "seo": {
-        "title": "Latest Schecter News",
-        "description": "Discover the new dark side. Schecter’s latest news brings you guitars built for bold players. Stay ahead with updates from this trailblazing brand.",
+        "title": "Latest Schecter News | ELECTRIKJAM",
+        "description": "Discover the new dark side. Schecter's latest news brings you guitars built for bold players. Stay ahead with updates from this trailblazing brand.",
         "canonical": "https://www.electrikjam.com/category/news/schecter-news/"
       }
     },
@@ -581,10 +581,10 @@
       "taxonomy": "category",
       "parent": 3,
       "path": "/category/news/squier-news/",
-      "description": "Affordable excellence alert. Keep up with Squier’s latest releases and see how they’re making waves in the guitar world without the hefty price tags.",
+      "description": "Affordable excellence alert. Keep up with Squier's latest releases and see how they're making waves in the guitar world without the hefty price tags.",
       "seo": {
-        "title": "Latest Squier News",
-        "description": "Affordable excellence alert. Keep up with Squier’s latest releases and see how they’re making waves in the guitar world without the hefty price tags.",
+        "title": "Latest Squier News | ELECTRIKJAM",
+        "description": "Affordable excellence alert. Keep up with Squier's latest releases and see how they're making waves in the guitar world without the hefty price tags.",
         "canonical": "https://www.electrikjam.com/category/news/squier-news/"
       }
     },
@@ -597,7 +597,7 @@
       "path": "/category/music-production/mastering/",
       "description": "",
       "seo": {
-        "title": "Mastering",
+        "title": "Mastering | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/music-production/mastering/"
       }
@@ -611,7 +611,7 @@
       "path": "/category/music/",
       "description": "",
       "seo": {
-        "title": "Music",
+        "title": "Music | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/music/"
       }
@@ -625,7 +625,7 @@
       "path": "/category/music-production/",
       "description": "",
       "seo": {
-        "title": "Music Production",
+        "title": "Music Production | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/music-production/"
       }
@@ -637,10 +637,10 @@
       "taxonomy": "category",
       "parent": 2,
       "path": "/category/tutorials/music-theory/",
-      "description": "Crack the code of music’s language. We break down complex theory into easy-to-digest lessons. Unlock the knowledge to elevate every note you play.",
+      "description": "Crack the code of music's language. We break down complex theory into easy-to-digest lessons. Unlock the knowledge to elevate every note you play.",
       "seo": {
-        "title": "Music Theory",
-        "description": "Crack the code of music’s language. We break down complex theory into easy-to-digest lessons. Unlock the knowledge to elevate every note you play.",
+        "title": "Music Theory | ELECTRIKJAM",
+        "description": "Crack the code of music's language. We break down complex theory into easy-to-digest lessons. Unlock the knowledge to elevate every note you play.",
         "canonical": "https://www.electrikjam.com/category/tutorials/music-theory/"
       }
     },
@@ -653,7 +653,7 @@
       "path": "/category/music/news-music/",
       "description": "",
       "seo": {
-        "title": "News",
+        "title": "News | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/music/news-music/"
       }
@@ -667,7 +667,7 @@
       "path": "/category/tutorials/pedal-effects-guides/",
       "description": "Shape your soundscape. Our in-depth pedal and effects guides help you find the perfect tools to craft your unique tone. Step up and make some noise.",
       "seo": {
-        "title": "Pedal & Effects Guides",
+        "title": "Pedal & Effects Guides | ELECTRIKJAM",
         "description": "Shape your soundscape. Our in-depth pedal and effects guides help you find the perfect tools to craft your unique tone. Step up and make some noise.",
         "canonical": "https://www.electrikjam.com/category/tutorials/pedal-effects-guides/"
       }
@@ -695,7 +695,7 @@
       "path": "/category/reviews/pedals-effects/",
       "description": "Step into sonic exploration. Our pedal reviews cover everything from classics to the cutting edge. Discover new dimensions in your sound.",
       "seo": {
-        "title": "Pedals & Effects",
+        "title": "Pedals & Effects | ELECTRIKJAM",
         "description": "Step into sonic exploration. Our pedal reviews cover everything from classics to the cutting edge. Discover new dimensions in your sound.",
         "canonical": "https://www.electrikjam.com/category/reviews/pedals-effects/"
       }
@@ -709,7 +709,7 @@
       "path": "/category/tutorials/pickups-electronics/",
       "description": "Get electrified. Dive into the world of pickups and guitar electronics to discover how subtle tweaks can revolutionize your sound. Fine-tune your axe to perfection.",
       "seo": {
-        "title": "Pickups & Electronics",
+        "title": "Pickups & Electronics | ELECTRIKJAM",
         "description": "Get electrified. Dive into the world of pickups and guitar electronics to discover how subtle tweaks can revolutionize your sound. Fine-tune your axe to perfection.",
         "canonical": "https://www.electrikjam.com/category/tutorials/pickups-electronics/"
       }
@@ -723,7 +723,7 @@
       "path": "/category/gear/guitars/prs/",
       "description": "Craftsmanship without compromise. Explore PRS guitars that offer exceptional build quality and tonal versatility. Find the guitar that resonates with you.",
       "seo": {
-        "title": "PRS",
+        "title": "PRS | ELECTRIKJAM",
         "description": "Craftsmanship without compromise. Explore PRS guitars that offer exceptional build quality and tonal versatility. Find the guitar that resonates with you.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/prs/"
       }
@@ -737,7 +737,7 @@
       "path": "/category/music/recommended-bands/",
       "description": "",
       "seo": {
-        "title": "Recommended Bands",
+        "title": "Recommended Bands | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/music/recommended-bands/"
       }
@@ -751,7 +751,7 @@
       "path": "/category/reviews/recording-gear/",
       "description": "Bring studio quality home. We review the recording gear that helps you capture your music with pro-level clarity. Record, produce, and share your sound.",
       "seo": {
-        "title": "Recording Gear",
+        "title": "Recording Gear | ELECTRIKJAM",
         "description": "Bring studio quality home. We review the recording gear that helps you capture your music with pro-level clarity. Record, produce, and share your sound.",
         "canonical": "https://www.electrikjam.com/category/reviews/recording-gear/"
       }
@@ -777,10 +777,10 @@
       "taxonomy": "category",
       "parent": 14,
       "path": "/category/gear/guitars/schecter/",
-      "description": "Innovation for the modern musician. Discover Schecter’s range of guitars built for versatility and power. Step up to instruments that inspire.",
+      "description": "Innovation for the modern musician. Discover Schecter's range of guitars built for versatility and power. Step up to instruments that inspire.",
       "seo": {
-        "title": "Schecter Guitar Research",
-        "description": "Innovation for the modern musician. Discover Schecter’s range of guitars built for versatility and power. Step up to instruments that inspire.",
+        "title": "Schecter Guitar Research | ELECTRIKJAM",
+        "description": "Innovation for the modern musician. Discover Schecter's range of guitars built for versatility and power. Step up to instruments that inspire.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/schecter/"
       }
     },
@@ -793,7 +793,7 @@
       "path": "/category/tutorials/guitar-setup-maintenance/",
       "description": "Keep your guitar in prime condition. Our expert tips on setup and maintenance ensure your instrument performs at its peak. Because great playability starts with great care.",
       "seo": {
-        "title": "Setup & Maintenance",
+        "title": "Setup & Maintenance | ELECTRIKJAM",
         "description": "Keep your guitar in prime condition. Our expert tips on setup and maintenance ensure your instrument performs at its peak. Because great playability starts with great care.",
         "canonical": "https://www.electrikjam.com/category/tutorials/guitar-setup-maintenance/"
       }
@@ -807,7 +807,7 @@
       "path": "/category/tutorials/software/",
       "description": "",
       "seo": {
-        "title": "Software & Apps",
+        "title": "Software & Apps | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/category/tutorials/software/"
       }
@@ -819,10 +819,10 @@
       "taxonomy": "category",
       "parent": 14,
       "path": "/category/gear/guitars/squier/",
-      "description": "Start strong with Squier. Offering Fender-designed instruments at accessible prices, it’s the perfect place for beginners and seasoned players alike to find their groove.",
+      "description": "Start strong with Squier. Offering Fender-designed instruments at accessible prices, it's the perfect place for beginners and seasoned players alike to find their groove.",
       "seo": {
-        "title": "Squier",
-        "description": "Start strong with Squier. Offering Fender-designed instruments at accessible prices, it’s the perfect place for beginners and seasoned players alike to find their groove.",
+        "title": "Squier | ELECTRIKJAM",
+        "description": "Start strong with Squier. Offering Fender-designed instruments at accessible prices, it's the perfect place for beginners and seasoned players alike to find their groove.",
         "canonical": "https://www.electrikjam.com/category/gear/guitars/squier/"
       }
     },
@@ -833,7 +833,7 @@
       "taxonomy": "category",
       "parent": 0,
       "path": "/category/tutorials/",
-      "description": "Elevate your playing from every angle. Our in-depth guitar tutorials cover everything you need—pedals, technique, amp sims, music theory, setup, and maintenance. Whether you’re tweaking your tone or mastering new skills, we’ve got the guidance to fuel your musical journey. Let’s unlock your full potential together.",
+      "description": "Elevate your playing from every angle. Our in-depth guitar tutorials cover everything you need—pedals, technique, amp sims, music theory, setup, and maintenance. Whether you're tweaking your tone or mastering new skills, we've got the guidance to fuel your musical journey. Let's unlock your full potential together.",
       "seo": {
         "title": "Electric Guitar & Gear Tutorials: Beginner Tips & Advice Written By Pros",
         "description": "Learn guitar from the PROS! Read tips and tutorials about setting up your guitar & how to play, practice tips & advice on how to use your gear properly",
@@ -846,12 +846,12 @@
       "id": 271,
       "name": "Ableton Live",
       "slug": "ableton-live",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/ableton-live/",
       "description": "",
       "seo": {
-        "title": "Ableton Live",
+        "title": "Ableton Live | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/ableton-live/"
       }
@@ -860,12 +860,12 @@
       "id": 297,
       "name": "Adam Jones",
       "slug": "adam-jones",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/adam-jones/",
-      "description": "Adam Thomas Jones, born January 15, 1965, is a multifaceted American artist renowned as the lead guitarist for the progressive metal band Tool. His musical prowess has earned him accolades, including being ranked 75th-greatest guitarist by Rolling Stone and 9th in Guitar World’s Top 100 Greatest Metal Guitarists. Jones’s signature sound is crafted using a 1979 Gibson Les Paul Custom Silverburst , often played through a Diezel VH4 amplifier. His pedalboard typically includes a Boss DD-3 Digital Delay, MXR Micro Amp, and a Boss BF-2 Flanger, contributing to Tool’s distinctive, atmospheric tone. Beyond music, Jones is also an accomplished animator and visual artist, having worked on films like Jurassic Park before focusing on Tool . His creative vision extends to the band’s music videos and live visuals, showcasing his diverse artistic talents.",
+      "description": "Adam Thomas Jones, born January 15, 1965, is a multifaceted American artist renowned as the lead guitarist for the progressive metal band Tool. His musical prowess has earned him accolades, including being ranked 75th-greatest guitarist by Rolling Stone and 9th in Guitar World's Top 100 Greatest Metal Guitarists. Jones's signature sound is crafted using a 1979 Gibson Les Paul Custom Silverburst , often played through a Diezel VH4 amplifier. His pedalboard typically includes a Boss DD-3 Digital Delay, MXR Micro Amp, and a Boss BF-2 Flanger, contributing to Tool's distinctive, atmospheric tone. Beyond music, Jones is also an accomplished animator and visual artist, having worked on films like Jurassic Park before focusing on Tool . His creative vision extends to the band's music videos and live visuals, showcasing his diverse artistic talents.",
       "seo": {
-        "title": "Adam Jones Latest News, Gear Guides & Bio %sep% %sitename%",
+        "title": "Adam Jones Latest News, Gear Guides & Bio | ELECTRIKJAM",
         "description": "Adam Jones, born January 15, 1965, is a multifaceted American artist renowned as the lead guitarist for the progressive metal band Tool.",
         "canonical": "https://www.electrikjam.com/tag/adam-jones/"
       }
@@ -874,12 +874,12 @@
       "id": 340,
       "name": "Album Reviews",
       "slug": "album-reviews",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/album-reviews/",
       "description": "",
       "seo": {
-        "title": "Album Reviews",
+        "title": "Album Reviews | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/album-reviews/"
       }
@@ -888,12 +888,12 @@
       "id": 304,
       "name": "Axe FX",
       "slug": "axe-fx",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/axe-fx/",
       "description": "",
       "seo": {
-        "title": "Axe FX",
+        "title": "Axe FX | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/axe-fx/"
       }
@@ -902,7 +902,7 @@
       "id": 206,
       "name": "Best New Music",
       "slug": "new-music",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/new-music/",
       "description": "All the best new music from all the best metal, sludge, rock, and doom bands in one place. Including new album updates, reviews, and new bands you should probably be listening to… Best New Music & New Album Releases",
@@ -916,12 +916,12 @@
       "id": 222,
       "name": "Boss Katana",
       "slug": "boss-katana",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/boss-katana/",
       "description": "",
       "seo": {
-        "title": "Boss Katana",
+        "title": "Boss Katana | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/boss-katana/"
       }
@@ -930,7 +930,7 @@
       "id": 192,
       "name": "Budget Guitars",
       "slug": "budget-guitars",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/budget-guitars/",
       "description": "A good guitar doesn’t have to be expensive. This is where we collate and collect all of our reviews of the best budget guitars you can buy right now – from Squire to Epiphone to Harley Benton and Indigo Guitars… Best Budget Electric Guitars",
@@ -944,10 +944,10 @@
       "id": 268,
       "name": "Cubase",
       "slug": "cubase",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/cubase/",
-      "description": "Stay on top of the latest Cubase news and updates with our comprehensive coverage. Cubase, Steinberg’s flagship digital audio workstation (DAW), continues to evolve, and we’re here to keep you informed every step of the way. From major version releases to minor tweaks, our tag page is your go-to source for all things Cubase. Discover new features, performance enhancements, and workflow improvements as they’re announced. Learn about the latest tools for music production, mixing, and mastering that Cubase brings to the table. We cover everything from MIDI improvements and audio editing advancements to new virtual instruments and effects. Whether you’re a seasoned Cubase pro or just starting your music production journey, our curated content will help you make the most of this powerful DAW. Get insights from industry experts, read user experiences, and stay informed about compatibility updates and system requirements. Don’t miss out on tips, tricks, and tutorials that can elevate your Cubase skills. From time-saving shortcuts to advanced techniques, we’ve got you covered. Stay ahead of the curve with news on integration with the latest hardware controllers and virtual instruments. Bookmark this page to keep your finger on the pulse of Cubase’s evolution. Whether it’s a game-changing update or a subtle refinement, you’ll find all the latest Cubase news and updates right here.",
+      "description": "Stay on top of the latest Cubase news and updates with our comprehensive coverage. Cubase, Steinberg's flagship digital audio workstation (DAW), continues to evolve, and we're here to keep you informed every step of the way. From major version releases to minor tweaks, our tag page is your go-to source for all things Cubase. Discover new features, performance enhancements, and workflow improvements as they're announced. Learn about the latest tools for music production, mixing, and mastering that Cubase brings to the table. We cover everything from MIDI improvements and audio editing advancements to new virtual instruments and effects. Whether you're a seasoned Cubase pro or just starting your music production journey, our curated content will help you make the most of this powerful DAW. Get insights from industry experts, read user experiences, and stay informed about compatibility updates and system requirements. Don't miss out on tips, tricks, and tutorials that can elevate your Cubase skills. From time-saving shortcuts to advanced techniques, we've got you covered. Stay ahead of the curve with news on integration with the latest hardware controllers and virtual instruments. Bookmark this page to keep your finger on the pulse of Cubase's evolution. Whether it's a game-changing update or a subtle refinement, you'll find all the latest Cubase news and updates right here.",
       "seo": {
         "title": "Latest Cubase News & Updates | ELECTRIKJAM",
         "description": "Get the inside scoop on the latest Cubase news and updates, focusing on new versions, core updates, and more...",
@@ -958,12 +958,12 @@
       "id": 308,
       "name": "Dave Grohl",
       "slug": "dave-grohl",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/dave-grohl/",
-      "description": "Dave Grohl stands as one of modern rock’s most influential and versatile figures. From his early days as the drummer for the groundbreaking grunge band Nirvana to his role as the frontman and creative force behind Foo Fighters, Grohl has left an indelible mark on the music industry. Born in 1969, Grohl’s journey through rock’s hallowed halls has been nothing short of extraordinary. After Nirvana’s tragic end in 1994, he emerged from behind the drum kit to create Foo Fighters, a band that would go on to become one of rock’s most enduring and successful acts.",
+      "description": "Dave Grohl stands as one of modern rock's most influential and versatile figures. From his early days as the drummer for the groundbreaking grunge band Nirvana to his role as the frontman and creative force behind Foo Fighters, Grohl has left an indelible mark on the music industry. Born in 1969, Grohl's journey through rock's hallowed halls has been nothing short of extraordinary. After Nirvana's tragic end in 1994, he emerged from behind the drum kit to create Foo Fighters, a band that would go on to become one of rock's most enduring and successful acts.",
       "seo": {
-        "title": "Latest Dave Grohl News & Updates %sep% %sitename%",
+        "title": "Latest Dave Grohl News & Updates | ELECTRIKJAM",
         "description": "From Nirvana to The Foo Fighters, Dave Grohl is one of the most well known and most loved musicians on the planet. Here's all the latest Dave Grohl news and updates",
         "canonical": "https://www.electrikjam.com/tag/dave-grohl/"
       }
@@ -972,12 +972,12 @@
       "id": 333,
       "name": "David Ross Pedals",
       "slug": "david-ross-pedals",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/david-ross-pedals/",
       "description": "",
       "seo": {
-        "title": "David Ross Pedals",
+        "title": "David Ross Pedals | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/david-ross-pedals/"
       }
@@ -986,12 +986,12 @@
       "id": 311,
       "name": "Deftones",
       "slug": "deftones",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/deftones/",
       "description": "",
       "seo": {
-        "title": "Deftones",
+        "title": "Deftones | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/deftones/"
       }
@@ -1000,12 +1000,12 @@
       "id": 388,
       "name": "Donald Trump",
       "slug": "donald-trump",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/donald-trump/",
       "description": "",
       "seo": {
-        "title": "Donald Trump",
+        "title": "Donald Trump | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/donald-trump/"
       }
@@ -1014,12 +1014,12 @@
       "id": 339,
       "name": "Donner",
       "slug": "donner",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/donner/",
       "description": "",
       "seo": {
-        "title": "Donner",
+        "title": "Donner | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/donner/"
       }
@@ -1028,12 +1028,12 @@
       "id": 337,
       "name": "Donner DST-600",
       "slug": "donner-dst-600",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/donner-dst-600/",
       "description": "",
       "seo": {
-        "title": "Donner DST-600",
+        "title": "Donner DST-600 | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/donner-dst-600/"
       }
@@ -1042,12 +1042,12 @@
       "id": 338,
       "name": "Donner DST-700",
       "slug": "donner-dst-700",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/donner-dst-700/",
       "description": "",
       "seo": {
-        "title": "Donner DST-700",
+        "title": "Donner DST-700 | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/donner-dst-700/"
       }
@@ -1056,12 +1056,12 @@
       "id": 318,
       "name": "Electrical Guitar Company",
       "slug": "electrical-guitar-company",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/electrical-guitar-company/",
       "description": "",
       "seo": {
-        "title": "Electrical Guitar Company",
+        "title": "Electrical Guitar Company | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/electrical-guitar-company/"
       }
@@ -1070,7 +1070,7 @@
       "id": 170,
       "name": "Epiphone Guitars",
       "slug": "epiphone",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/epiphone/",
       "description": "Your ultimate guide to Epiphone guitars. From the Epiphone Les Paul to the Epiphone SG and everything else in between. Get all the latest Epiphone news, reviews, tips, and tricks in one place… Latest Epiphone Guitars News, Reviews & Buying Guides",
@@ -1084,12 +1084,12 @@
       "id": 391,
       "name": "ESP LTD Deluxe EC-01FT",
       "slug": "esp-ltd-deluxe-ec-01ft",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/esp-ltd-deluxe-ec-01ft/",
       "description": "",
       "seo": {
-        "title": "ESP LTD Deluxe EC-01FT",
+        "title": "ESP LTD Deluxe EC-01FT | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/esp-ltd-deluxe-ec-01ft/"
       }
@@ -1098,7 +1098,7 @@
       "id": 164,
       "name": "Fender Guitars & Gear",
       "slug": "fender",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/fender/",
       "description": "Your ultimate guide to Fender guitars – from the Fender Stratocaster to the Telecaster, Jaguar, and Mustang, as well as everything else in between. Here’s all the latest Fender news, reviews, and user guides… To say that Fender is iconic would be the understatement of the century. Fender guitars have been used by the greats for over half a century now, and the company is still going strong with huge demand for its classic models like the Fender Stratocaster, Telecaster, Jazz, and Mustang . Next to Gibson , Fender was one of the first electric guitar companies. You cannot talk about the history of the guitar without talking about Leo Fender. Similarly, some of the most iconic music ever committed to tape was recorded using Fender guitars – and that still stands today. Which famous guitarists played Fender? Quite a few – Ritchie Blackmore, Jeff Beck, Eric Clapton, David Gilmore, Kurt Cobain, George Harrison, Hendrix, and Buddy Holly . In more recent years, you have players like Jim Root of Slipknot, Brant Bjork, and Rage Against The Machine’s Tom Morello. And, yes, you can use Fender guitars for metal music . Fender is so popular and has been for decades that most people cannot think about a guitar without thinking about a Fender. The Fender Stratocaster , for instance, has been one of the best-selling electric guitars since the 1960s. And in 2021, it is still flying off the shelves at music stores the globe over.",
@@ -1112,12 +1112,12 @@
       "id": 275,
       "name": "Fender Meteora",
       "slug": "fender-meteora",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/fender-meteora/",
       "description": "",
       "seo": {
-        "title": "Fender Meteora",
+        "title": "Fender Meteora | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/fender-meteora/"
       }
@@ -1126,12 +1126,12 @@
       "id": 464,
       "name": "Fender Stratocaster Model",
       "slug": "fender-stratocaster-model",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/fender-stratocaster-model/",
       "description": "",
       "seo": {
-        "title": "Fender Stratocaster Model",
+        "title": "Fender Stratocaster Model | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/fender-stratocaster-model/"
       }
@@ -1140,12 +1140,12 @@
       "id": 276,
       "name": "FL Studio",
       "slug": "fl-studio",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/fl-studio/",
       "description": "",
       "seo": {
-        "title": "FL Studio",
+        "title": "FL Studio | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/fl-studio/"
       }
@@ -1154,12 +1154,12 @@
       "id": 249,
       "name": "FRFR Speakers",
       "slug": "frfr-speakers",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/frfr-speakers/",
       "description": "",
       "seo": {
-        "title": "FRFR Speakers",
+        "title": "FRFR Speakers | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/frfr-speakers/"
       }
@@ -1168,7 +1168,7 @@
       "id": 165,
       "name": "Gibson Guitars",
       "slug": "gibson",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/gibson/",
       "description": "The ultimate guide to Gibson guitars — from the Gibson Les Paul, SG, Explorer, and ES. We cover all of Gibson’s most iconic models, guitarists that used them, as well as all the latest news and reviews When it comes to iconic guitars, there are two names that everybody knows: Gibson and Fender. The reason for this is simple too: Gibson and Fender basically invented the modern electric guitar , way back in the 1950s. The most iconic of all Gibson guitars is, of course, the Gibson Les Paul. But like Fender, Gibson isn’t a one-trick pony – it has other, extremely popular guitar models like its Gibson SG, the Gibson Flying V, The Gibson ES, and the Gibson Explorer to name just a few of Gibson’s most iconic guitar lines. Favored by famous guitarists like Jimmy Page, Tony Iommi, Buzz Osbourne, Adam Jones , and a raft of other players dating back to the 1960s, the Gibson Les Paul is just about as iconic as it gets. Les Paul and Fender’s Strat are the two most well-known and loved guitars of all time. Like Fender , Gibson has been popular since the 1950s. In this time, everybody from metal acts to pop music players has used its guitars to craft some of the best records ever committed to tape. Gibson now makes a plethora of models, custom shop editions, and various configurations of its popular SG, Les Paul , and ES models.",
@@ -1182,12 +1182,12 @@
       "id": 221,
       "name": "Gigging On A Budget",
       "slug": "gigging-on-a-budget",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/gigging-on-a-budget/",
       "description": "",
       "seo": {
-        "title": "Gigging On A Budget",
+        "title": "Gigging On A Budget | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/gigging-on-a-budget/"
       }
@@ -1196,12 +1196,12 @@
       "id": 228,
       "name": "Guitar Amps",
       "slug": "guitar-amps",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/guitar-amps/",
       "description": "",
       "seo": {
-        "title": "Guitar Amps",
+        "title": "Guitar Amps | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/guitar-amps/"
       }
@@ -1210,7 +1210,7 @@
       "id": 162,
       "name": "Guitar Tuning",
       "slug": "guitar-tuning",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/guitar-tuning/",
       "description": "Everything you need to know about guitar tuning – from drop tuning to standard tuning, as well as D Standard, half a step down, drop C, and everything else in between, including tuners and string choice… When it comes to guitar tuning, you have A LOT of options. You have standard tuning (EADGBE) , drop tunings like Drop D (DADGBE) , and alternate tunings like DADGAD , and for the real heavy stuff things like D Standard and C Standard . And they’re just the most well-known ones; there are literally hundreds more. Hundreds! Once you know the rules, you can basically tune your guitar however you like. Just ask Keith Richards or Buzzo from the Melvins. Or Jimmy Page . They’ve all used all kinds of crazy tunings over the years. And then you have tunings for extended-range guitars, 8 string guitars , 7 string guitars, and even 9 string guitars. If you’re a learner, it is a lot to take in and make sense of. But if you follow and read the guides and tutorials below, you’ll start to better understand the amazing world of guitar tunings… Guitar Tuning Guides, Tips & Actionable Advice",
@@ -1224,12 +1224,12 @@
       "id": 257,
       "name": "Harley Benton",
       "slug": "harley-benton",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/harley-benton/",
       "description": "",
       "seo": {
-        "title": "Harley Benton",
+        "title": "Harley Benton | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/harley-benton/"
       }
@@ -1238,12 +1238,12 @@
       "id": 281,
       "name": "Ibanez",
       "slug": "ibanez",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/ibanez/",
       "description": "",
       "seo": {
-        "title": "Ibanez",
+        "title": "Ibanez | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/ibanez/"
       }
@@ -1252,12 +1252,12 @@
       "id": 385,
       "name": "Jack White",
       "slug": "jack-white",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/jack-white/",
       "description": "",
       "seo": {
-        "title": "Jack White",
+        "title": "Jack White | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/jack-white/"
       }
@@ -1266,12 +1266,12 @@
       "id": 215,
       "name": "Jimi Hendrix",
       "slug": "jimi-hendrix",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/jimi-hendrix/",
       "description": "",
       "seo": {
-        "title": "Jimi Hendrix",
+        "title": "Jimi Hendrix | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/jimi-hendrix/"
       }
@@ -1280,12 +1280,12 @@
       "id": 309,
       "name": "Jimmy Page",
       "slug": "jimmy-page",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/jimmy-page/",
       "description": "",
       "seo": {
-        "title": "Jimmy Page",
+        "title": "Jimmy Page | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/jimmy-page/"
       }
@@ -1294,12 +1294,12 @@
       "id": 335,
       "name": "Josh Homme",
       "slug": "josh-homme",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/josh-homme/",
       "description": "",
       "seo": {
-        "title": "Josh Homme",
+        "title": "Josh Homme | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/josh-homme/"
       }
@@ -1308,12 +1308,12 @@
       "id": 306,
       "name": "Kerry King",
       "slug": "kerry-king",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/kerry-king/",
       "description": "",
       "seo": {
-        "title": "Kerry King",
+        "title": "Kerry King | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/kerry-king/"
       }
@@ -1322,7 +1322,7 @@
       "id": 182,
       "name": "Line 6",
       "slug": "line-6",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/line-6/",
       "description": "All the best and latest Line 6 news, reviews, and tutorials – from the Line 6 Helix to the Line 6 Stomp and Pod Go, as well as its Smart Amps Latest Line 6 News, Reviews & Tutorials",
@@ -1336,12 +1336,12 @@
       "id": 334,
       "name": "Line 6 Catalyst",
       "slug": "line-6-catalyst",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/line-6-catalyst/",
       "description": "",
       "seo": {
-        "title": "Line 6 Catalyst",
+        "title": "Line 6 Catalyst | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/line-6-catalyst/"
       }
@@ -1350,12 +1350,12 @@
       "id": 278,
       "name": "Logic Pro",
       "slug": "logic-pro",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/logic-pro/",
       "description": "",
       "seo": {
-        "title": "Logic Pro",
+        "title": "Logic Pro | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/logic-pro/"
       }
@@ -1364,12 +1364,12 @@
       "id": 313,
       "name": "Mastodon",
       "slug": "mastodon",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/mastodon/",
       "description": "",
       "seo": {
-        "title": "Mastodon",
+        "title": "Mastodon | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/mastodon/"
       }
@@ -1378,12 +1378,12 @@
       "id": 317,
       "name": "Melvins",
       "slug": "melvins",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/melvins/",
       "description": "",
       "seo": {
-        "title": "Melvins",
+        "title": "Melvins | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/melvins/"
       }
@@ -1392,12 +1392,12 @@
       "id": 316,
       "name": "Music Mastering",
       "slug": "music-mastering",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/music-mastering/",
       "description": "",
       "seo": {
-        "title": "Music Mastering",
+        "title": "Music Mastering | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/music-mastering/"
       }
@@ -1406,7 +1406,7 @@
       "id": 218,
       "name": "Music Theory",
       "slug": "music-theory",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/music-theory/",
       "description": "What is Music Theory? Usually, when most beginner players think about music theory, they panic – you think of maths, of school, that it’ll be boring. But this couldn’t be farther from the truth. Sure, it is a task learning something new but with an understanding of music theory under your belt, even a basic one, you’ll see massive gains in your understanding of the guitar. Many players avoid music theory when starting out with guitar, but this is a mistake. The faster you understand how the guitar works, how its fretboard flows, and how notes and scales go together, the quicker you can start working on creating your own music. And keep in mind, that most iconic, classic music is incredibly simple – some songs are just two chords . The music theory guides for guitar below will open up realms of new possibilities for you as a guitarist. You’ll learn how scales work, how chord progressions work, and how guitar chords are made. And once you understand this, you can start creating and writing your own music and riffs. Learning music theory for the guitar is one of the best things a beginner or experienced guitarist can do, so do yourself a favor and start the process TODAY…",
@@ -1420,12 +1420,12 @@
       "id": 466,
       "name": "Neural DSP",
       "slug": "neural-dsp",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/neural-dsp/",
       "description": "",
       "seo": {
-        "title": "Neural DSP",
+        "title": "Neural DSP | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/neural-dsp/"
       }
@@ -1434,12 +1434,12 @@
       "id": 387,
       "name": "Opeth",
       "slug": "opeth",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/opeth/",
       "description": "",
       "seo": {
-        "title": "Opeth",
+        "title": "Opeth | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/opeth/"
       }
@@ -1448,12 +1448,12 @@
       "id": 210,
       "name": "Popular",
       "slug": "popular",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/popular/",
       "description": "",
       "seo": {
-        "title": "Popular",
+        "title": "Popular | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/popular/"
       }
@@ -1462,12 +1462,12 @@
       "id": 219,
       "name": "Positive Grid",
       "slug": "positive-grid",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/positive-grid/",
       "description": "",
       "seo": {
-        "title": "Positive Grid",
+        "title": "Positive Grid | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/positive-grid/"
       }
@@ -1476,12 +1476,12 @@
       "id": 279,
       "name": "Pro Tools",
       "slug": "pro-tools",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/pro-tools/",
       "description": "",
       "seo": {
-        "title": "Pro Tools",
+        "title": "Pro Tools | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/pro-tools/"
       }
@@ -1490,12 +1490,12 @@
       "id": 214,
       "name": "PRS",
       "slug": "prs",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/prs/",
       "description": "",
       "seo": {
-        "title": "PRS",
+        "title": "PRS | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/prs/"
       }
@@ -1504,10 +1504,10 @@
       "id": 201,
       "name": "Schecter Guitars",
       "slug": "schecter",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/schecter/",
-      "description": "Stay up-to-date with the latest developments from Schecter Guitar Research, a leading name in premium electric guitars, basses, and acoustic instruments. Our comprehensive coverage keeps you informed about new Schecter models, limited editions, artist collaborations, and technological innovations. Discover the newest additions to Schecter’s diverse lineup, from sleek metal machines to versatile multi-genre instruments. Get the scoop on cutting-edge features, premium tonewoods, and state-of-the-art electronics that define Schecter’s commitment to quality and playability. Whether you’re a die-hard Schecter fan or a curious guitarist exploring your options, this tag page is your go-to resource for: New product announcements and releases In-depth gear reviews and comparisons Artist signature model unveilings Company news and industry partnerships Schecter’s presence at major music trade shows Limited run and special edition guitars Updates on Schecter’s custom shop offerings From the popular Hellraiser series to the innovative Reaper line, we cover it all. Stay informed about Schecter’s advancements in pickup technology, hardware improvements, and finish options. Don’t miss out on news about Schecter’s expanding range of price points, from budget-friendly models to high-end masterpieces. Learn how Schecter continues to push the boundaries of guitar design and cater to evolving player needs across all genres.",
+      "description": "Stay up-to-date with the latest developments from Schecter Guitar Research, a leading name in premium electric guitars, basses, and acoustic instruments. Our comprehensive coverage keeps you informed about new Schecter models, limited editions, artist collaborations, and technological innovations. Discover the newest additions to Schecter's diverse lineup, from sleek metal machines to versatile multi-genre instruments. Get the scoop on cutting-edge features, premium tonewoods, and state-of-the-art electronics that define Schecter's commitment to quality and playability. Whether you're a die-hard Schecter fan or a curious guitarist exploring your options, this tag page is your go-to resource for: New product announcements and releases In-depth gear reviews and comparisons Artist signature model unveilings Company news and industry partnerships Schecter's presence at major music trade shows Limited run and special edition guitars Updates on Schecter's custom shop offerings From the popular Hellraiser series to the innovative Reaper line, we cover it all. Stay informed about Schecter's advancements in pickup technology, hardware improvements, and finish options. Don't miss out on news about Schecter's expanding range of price points, from budget-friendly models to high-end masterpieces. Learn how Schecter continues to push the boundaries of guitar design and cater to evolving player needs across all genres.",
       "seo": {
         "title": "Latest Schecter Guitars News, Reviews & Guides + Best Models",
         "description": "All the latest Schecter guitars news, reviews, and guides in one place. If you’re looking to buy a Schecter guitar, check out all the latest models, reviews, and news and updates below…",
@@ -1518,7 +1518,7 @@
       "id": 186,
       "name": "Seymour Duncan",
       "slug": "seymour-duncan",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/seymour-duncan/",
       "description": "Seymour Duncan has been a cornerstone of the guitar pickup industry since its founding in 1976 by Seymour W. Duncan and Cathy Carter Duncan. Known for their exceptional quality and tonal versatility, Seymour Duncan pickups have become a go-to choice for guitarists across all genres and skill levels.",
@@ -1532,12 +1532,12 @@
       "id": 305,
       "name": "Slayer",
       "slug": "slayer",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/slayer/",
       "description": "",
       "seo": {
-        "title": "Slayer",
+        "title": "Slayer | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/slayer/"
       }
@@ -1546,12 +1546,12 @@
       "id": 216,
       "name": "Spark Amp",
       "slug": "spark-amp",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/spark-amp/",
       "description": "",
       "seo": {
-        "title": "Spark Amp",
+        "title": "Spark Amp | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/spark-amp/"
       }
@@ -1560,12 +1560,12 @@
       "id": 282,
       "name": "Squier",
       "slug": "squier",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/squier/",
       "description": "",
       "seo": {
-        "title": "Squier",
+        "title": "Squier | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/squier/"
       }
@@ -1574,12 +1574,12 @@
       "id": 303,
       "name": "Strings",
       "slug": "strings",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/strings/",
       "description": "",
       "seo": {
-        "title": "Strings",
+        "title": "Strings | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/strings/"
       }
@@ -1588,12 +1588,12 @@
       "id": 273,
       "name": "Studio One",
       "slug": "studio-one",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/studio-one/",
       "description": "",
       "seo": {
-        "title": "Studio One",
+        "title": "Studio One | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/studio-one/"
       }
@@ -1602,12 +1602,12 @@
       "id": 389,
       "name": "Synyster Gates",
       "slug": "synyster-gates",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/synyster-gates/",
       "description": "",
       "seo": {
-        "title": "Synyster Gates",
+        "title": "Synyster Gates | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/synyster-gates/"
       }
@@ -1616,12 +1616,12 @@
       "id": 322,
       "name": "The Beatles",
       "slug": "the-beatles",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/the-beatles/",
       "description": "",
       "seo": {
-        "title": "The Beatles",
+        "title": "The Beatles | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/the-beatles/"
       }
@@ -1630,12 +1630,12 @@
       "id": 336,
       "name": "Them Crooked Vultures",
       "slug": "them-crooked-vultures",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/them-crooked-vultures/",
       "description": "",
       "seo": {
-        "title": "Them Crooked Vultures",
+        "title": "Them Crooked Vultures | ELECTRIKJAM",
         "description": "",
         "canonical": "https://www.electrikjam.com/tag/them-crooked-vultures/"
       }
@@ -1644,7 +1644,7 @@
       "id": 199,
       "name": "Underexposed",
       "slug": "underexposed",
-      "taxonomy": "post_tag",
+      "taxonomy": "tag",
       "parent": 0,
       "path": "/tag/underexposed/",
       "description": "If you want to listen to and check out some of the best unsigned, underground metal bands right now, this is where you’ll find them. If you’d like to be featured inside ELECTRIKJAM’s Underexposed section, please make sure to drop us a line – you can do that here . Best Unsigned Metal Bands",

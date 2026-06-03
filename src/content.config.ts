@@ -6,6 +6,8 @@ const seoSchema = z
     description: z.string().optional(),
     canonical: z.string().optional(),
     schema: z.unknown().optional(),
+    robots: z.array(z.string()).optional(),
+    focusKeywords: z.array(z.string()).optional(),
   })
   .optional();
 

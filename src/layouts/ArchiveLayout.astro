@@ -11,25 +11,227 @@ interface Props {
 }
 
 const { title, seoTitle, description, path, entries } = Astro.props;
+
+const channelLinks = [
+  { label: 'Guitars', href: '/category/gear/guitars/' },
+  { label: 'Reviews', href: '/category/reviews/' },
+  { label: 'Tutorials', href: '/category/tutorials/' },
+  { label: 'Music Production', href: '/category/music-production/' },
+];
 ---
 
 <BaseLayout title={seoTitle || title} description={description} path={path}>
-  <section class="container section">
-    <p class="eyebrow">Archive</p>
-    <h1 class="page-title">{title}</h1>
-    <p class="lede">{description}</p>
+  <section class="archive-hero">
+    <div class="container archive-hero__inner">
+      <p class="eyebrow">Archive</p>
+      <h1 class="page-title">{title}</h1>
+      <p class="lede">{description}</p>
+      <div class="archive-channels" aria-label="Explore more sections">
+        {channelLinks.map((item) => <a href={item.href}>{item.label}</a>)}
+      </div>
+    </div>
   </section>
-  <section class="container section">
-    <div class="grid">
+  <section class="container archive-section">
+    <div class="archive-heading">
+      <p>{entries.length} dispatches</p>
+      <h2>Start Here</h2>
+    </div>
+    <div class="archive-grid">
       {
-        entries.map((entry) => (
-          <article class="card">
-            <h3><a href={entry.data.path}>{entry.data.title}</a></h3>
-            <p class="meta">{entry.data.date.toLocaleDateString('en-GB', { dateStyle: 'medium' })}</p>
+        entries.map((entry, index) => (
+          <article class:list={['archive-card', index === 0 && 'archive-card--lead']}>
+            {entry.data.featuredImage && (
+              <a class="archive-card__image" href={entry.data.path} aria-label={entry.data.title}>
+                <img src={entry.data.featuredImage} alt={entry.data.featuredImageAlt || entry.data.title} loading="lazy" />
+              </a>
+            )}
+            <div class="archive-card__body">
+              <p class="meta">{entry.data.date.toLocaleDateString('en-GB', { dateStyle: 'medium' })}</p>
+              <h3><a href={entry.data.path}>{entry.data.title}</a></h3>
             <p>{excerptText(entry)}</p>
+            </div>
           </article>
         ))
       }
     </div>
   </section>
+  <section class="container archive-cta" aria-label="Newsletter">
+    <p class="eyebrow">Mailing List</p>
+    <h2>Stop scrolling. Get one useful guitar hit at a time.</h2>
+    <a href="/email-landing-page/">Join the list</a>
+  </section>
 </BaseLayout>
+
+<style>
+  .archive-hero {
+    background:
+      linear-gradient(90deg, rgba(9, 9, 9, 0.05) 1px, transparent 1px) 0 0 / 18px 18px,
+      #f7f3eb;
+    border-bottom: 6px solid #090909;
+  }
+
+  .archive-hero__inner {
+    padding: clamp(2.5rem, 6vw, 5rem) 0;
+  }
+
+  .archive-hero .eyebrow,
+  .archive-heading p,
+  .archive-cta .eyebrow,
+  .archive-cta a {
+    font-family: var(--display);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .archive-hero .eyebrow {
+    display: inline-block;
+    padding: 0.5rem 0.75rem 0.38rem;
+    color: #090909;
+    background: #ff3399;
+  }
+
+  .archive-hero .page-title,
+  .archive-heading h2,
+  .archive-card h3,
+  .archive-cta h2 {
+    font-family: var(--display);
+    line-height: 0.98;
+    text-transform: uppercase;
+  }
+
+  .archive-hero .page-title {
+    max-width: 960px;
+    font-size: clamp(2.6rem, 9vw, 6rem);
+  }
+
+  .archive-hero .lede {
+    max-width: 720px;
+    font-weight: 800;
+  }
+
+  .archive-channels {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .archive-channels a,
+  .archive-cta a {
+    color: #090909;
+    background: #fff;
+    border: 3px solid #090909;
+    box-shadow: 4px 4px 0 #ff3399;
+    font-weight: 900;
+    text-decoration: none;
+  }
+
+  .archive-channels a {
+    padding: 0.55rem 0.75rem;
+  }
+
+  .archive-section {
+    padding: clamp(2rem, 5vw, 4rem) 0;
+  }
+
+  .archive-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 5px solid #090909;
+  }
+
+  .archive-heading p,
+  .archive-heading h2 {
+    margin: 0;
+  }
+
+  .archive-heading p {
+    color: #ff3399;
+    font-weight: 900;
+  }
+
+  .archive-heading h2 {
+    font-size: clamp(2.1rem, 7vw, 4rem);
+  }
+
+  .archive-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+    gap: 1.5rem;
+  }
+
+  .archive-card {
+    display: grid;
+    background: #fff;
+    border: 4px solid #090909;
+    box-shadow: 7px 7px 0 #ff3399;
+    overflow: hidden;
+  }
+
+  .archive-card--lead {
+    grid-column: 1 / -1;
+  }
+
+  .archive-card__image {
+    aspect-ratio: 16 / 9;
+    background: #090909;
+    overflow: hidden;
+  }
+
+  .archive-card__image img {
+    width: 100%;
+    height: 100%;
+    filter: grayscale(0.6) contrast(1.08);
+    object-fit: cover;
+  }
+
+  .archive-card__body {
+    min-width: 0;
+    padding: 1.2rem;
+  }
+
+  .archive-card h3 {
+    margin: 0;
+    font-size: clamp(1.35rem, 4vw, 2rem);
+  }
+
+  .archive-card p:last-child {
+    margin-bottom: 0;
+    color: #5d554b;
+    font-weight: 700;
+  }
+
+  .archive-cta {
+    margin-bottom: clamp(2rem, 5vw, 4rem);
+    padding: clamp(1.5rem, 4vw, 2.5rem);
+    color: #fff;
+    background: #090909;
+    border: 5px solid #090909;
+    box-shadow: 8px 8px 0 #ff3399;
+  }
+
+  .archive-cta h2 {
+    max-width: 760px;
+    margin: 0 0 1.25rem;
+    font-size: clamp(2rem, 6vw, 4rem);
+  }
+
+  .archive-cta a {
+    display: inline-flex;
+    padding: 0.75rem 1rem;
+  }
+
+  @media (min-width: 820px) {
+    .archive-card--lead {
+      grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+    }
+
+    .archive-card--lead .archive-card__image {
+      aspect-ratio: auto;
+      min-height: 100%;
+    }
+  }
+</style>

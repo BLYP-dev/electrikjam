@@ -16,6 +16,10 @@ const apiRoot = `${LIVE_ORIGIN}/wp-json/wp/v2`;
 const postLimit = Number(process.env.WP_IMPORT_LIMIT || 50);
 const pageLimit = Number(process.env.WP_PAGE_IMPORT_LIMIT || 50);
 const exportFile = process.env.WP_EXPORT_FILE;
+const importSource = process.env.WP_IMPORT_SOURCE || 'graphql';
+const graphqlUrl = process.env.WP_GRAPHQL_URL || `${LIVE_ORIGIN}/graphql`;
+const graphqlHost = process.env.WP_GRAPHQL_HOST || '';
+const graphqlPageSize = Math.min(Number(process.env.WP_GRAPHQL_PAGE_SIZE || 25), 100);
 const mediaMode = process.env.WP_MEDIA_MODE || 'local';
 const mediaOrigin = process.env.WP_MEDIA_ORIGIN || LIVE_ORIGIN;
 
@@ -27,6 +31,21 @@ if (exportFile) {
     ...(payload.pages || []).map((page) => writeExportEntry(page, 'page')),
   ]);
   console.log(`Imported ${(payload.posts || []).length} posts and ${(payload.pages || []).length} pages from ${exportFile}.`);
+} else if (importSource === 'graphql') {
+  const [categories, tags, posts, pages] = await Promise.all([
+    fetchGraphqlTerms('categories'),
+    fetchGraphqlTerms('tags'),
+    fetchGraphqlContent('posts', postLimit),
+    fetchGraphqlContent('pages', pageLimit),
+  ]);
+
+  await writeTaxonomyData(categories, tags);
+  await Promise.all([
+    ...posts.map((post) => writeGraphqlEntry(post, 'post')),
+    ...pages.map((page) => writeGraphqlEntry(page, 'page')),
+  ]);
+
+  console.log(`Imported ${posts.length} posts and ${pages.length} pages from WPGraphQL.`);
 } else {
   const [categories, tags, users] = await Promise.all([
     safeFetchAll(`${apiRoot}/categories`, 100, 'categories'),
@@ -50,6 +69,102 @@ if (exportFile) {
   ]);
 
   console.log(`Imported ${posts.length} posts and ${pages.length} pages from WordPress.`);
+}
+
+async function fetchGraphqlContent(connectionName, limit) {
+  const baseFields = `
+    databaseId
+    slug
+    uri
+    link
+    title
+    dateGmt
+    modifiedGmt
+    content
+    author { node { name slug } }
+    featuredImage { node { sourceUrl altText title } }
+    seo { title description canonicalUrl robots focusKeywords }
+  `;
+  const postFields = `
+    ${baseFields}
+    excerpt
+    categories { nodes { databaseId name slug uri parentDatabaseId description seo { title description canonicalUrl } } }
+    tags { nodes { databaseId name slug uri description seo { title description canonicalUrl } } }
+  `;
+  const fields = connectionName === 'posts' ? postFields : baseFields;
+  return fetchGraphqlConnection(connectionName, limit, fields, ', where: { orderby: { field: DATE, order: DESC } }');
+}
+
+async function fetchGraphqlTerms(connectionName) {
+  const fields = `
+    databaseId
+    name
+    slug
+    uri
+    description
+    ${connectionName === 'categories' ? 'parentDatabaseId' : ''}
+    seo { title description canonicalUrl }
+  `;
+  return fetchGraphqlConnection(connectionName, -1, fields);
+}
+
+async function fetchGraphqlConnection(connectionName, limit, fields, queryArgs = '') {
+  const results = [];
+  let after = null;
+
+  while (limit < 0 || results.length < limit) {
+    const remaining = limit < 0 ? graphqlPageSize : Math.max(limit - results.length, 0);
+    const first = limit < 0 ? graphqlPageSize : Math.min(graphqlPageSize, remaining);
+    if (first < 1) break;
+
+    const query = `
+      query FetchWordPressConnection($first: Int!, $after: String) {
+        ${connectionName}(first: $first, after: $after${queryArgs}) {
+          nodes {
+            ${fields}
+          }
+          pageInfo {
+            hasNextPage
+            endCursor
+          }
+        }
+      }
+    `;
+    const data = await fetchGraphQL(query, { first, after });
+    const connection = data?.[connectionName];
+    const nodes = connection?.nodes || [];
+    results.push(...nodes);
+
+    if (!connection?.pageInfo?.hasNextPage || !nodes.length) break;
+    after = connection.pageInfo.endCursor;
+  }
+
+  return limit < 0 ? results : results.slice(0, limit);
+}
+
+async function fetchGraphQL(query, variables = {}) {
+  const response = await fetch(graphqlUrl, {
+    method: 'POST',
+    headers: {
+      accept: 'application/json',
+      'content-type': 'application/json',
+      ...(graphqlHost ? { host: graphqlHost } : {}),
+    },
+    body: JSON.stringify({ query, variables }),
+  });
+  const text = await response.text();
+
+  if (!response.ok) {
+    throw new Error(`GraphQL request failed ${response.status} for ${graphqlUrl}: ${text.slice(0, 240)}`);
+  }
+
+  const payload = JSON.parse(text);
+  if (payload.errors?.length) {
+    const messages = payload.errors.map((error) => error.message).join('; ');
+    throw new Error(`GraphQL request returned errors: ${messages}`);
+  }
+
+  return payload.data;
 }
 
 async function fetchAll(endpoint, perPage) {
@@ -108,6 +223,45 @@ async function writeRestEntry(item, type, maps) {
   await writeTextFile(outputPath, `---\n${toYaml(frontmatter)}---\n\n${body}\n`);
 }
 
+async function writeGraphqlEntry(item, type) {
+  const collection = type === 'post' ? 'posts' : 'pages';
+  const outputPath = projectPath('src', 'content', collection, `${safeFileName(item)}.md`);
+  const path = normalizePath(item.uri || item.link);
+  const author = item.author?.node;
+  const media = item.featuredImage?.node;
+  const categoryTerms = item.categories?.nodes || [];
+  const tagTerms = item.tags?.nodes || [];
+  const frontmatter = {
+    id: item.databaseId,
+    type,
+    wpSlug: item.slug || slugify(path),
+    path,
+    url: item.link || new URL(path, LIVE_ORIGIN).toString(),
+    title: decodeEntities(item.title || item.slug || path),
+    excerpt: item.excerpt || '',
+    date: item.dateGmt ? `${item.dateGmt}Z` : undefined,
+    modified: item.modifiedGmt ? `${item.modifiedGmt}Z` : undefined,
+    author: author?.name || '',
+    authorSlug: author?.slug || '',
+    categories: categoryTerms.map((term) => decodeEntities(term.name)),
+    categorySlugs: categoryTerms.map((term) => term.slug),
+    categoryPaths: categoryTerms.map((term) => termPath(term, 'category')),
+    tags: tagTerms.map((term) => decodeEntities(term.name)),
+    tagSlugs: tagTerms.map((term) => term.slug),
+    tagPaths: tagTerms.map((term) => termPath(term, 'tag')),
+    featuredImage: localMediaPath(media?.sourceUrl),
+    featuredImageAlt: decodeEntities(media?.altText || media?.title || ''),
+    seo: {
+      title: decodeEntities(item.seo?.title || item.title || ''),
+      description: decodeEntities(item.seo?.description || stripHtml(item.excerpt || '')),
+      canonical: normalizeLiveUrl(item.seo?.canonicalUrl) || item.link || new URL(path, LIVE_ORIGIN).toString(),
+      robots: item.seo?.robots || [],
+      focusKeywords: item.seo?.focusKeywords || [],
+    },
+  };
+  await writeTextFile(outputPath, `---\n${toYaml(frontmatter)}---\n\n${sanitizeImportedHtml(item.content || '')}\n`);
+}
+
 async function writeExportEntry(item, type) {
   const collection = type === 'post' ? 'posts' : 'pages';
   const outputPath = projectPath('src', 'content', collection, `${safeFileName(item)}.md`);
@@ -153,29 +307,29 @@ function normalizeTerms(terms, type) {
   return terms.map((term) => {
     const path = termPath(term, type);
     return {
-      id: term.id,
+      id: term.id || term.databaseId,
       name: decodeEntities(term.name || term.slug || path),
       slug: term.slug || slugify(path),
       taxonomy: term.taxonomy || type,
-      parent: term.parent || 0,
+      parent: term.parent || term.parentDatabaseId || 0,
       path,
       description: decodeEntities(stripHtml(term.description || '')),
       seo: {
         title: decodeEntities(term.seo?.title || term.name || ''),
         description: decodeEntities(term.seo?.description || stripHtml(term.description || '')),
-        canonical: normalizeLiveUrl(term.seo?.canonical) || new URL(path, LIVE_ORIGIN).toString(),
+        canonical: normalizeLiveUrl(term.seo?.canonical || term.seo?.canonicalUrl) || new URL(path, LIVE_ORIGIN).toString(),
       },
     };
   });
 }
 
 function termPath(term, type) {
-  if (term?.path || term?.link) return normalizePath(term.path || term.link);
+  if (term?.path || term?.link || term?.uri) return normalizePath(term.path || term.link || term.uri);
   return normalizePath(`/${type === 'category' ? 'category' : 'tag'}/${term?.slug || ''}/`);
 }
 
 function safeFileName(item) {
-  const pathName = normalizePath(item.link).replace(/^\/|\/$/g, '').replace(/\//g, '--');
+  const pathName = normalizePath(item.link || item.uri).replace(/^\/|\/$/g, '').replace(/\//g, '--');
   return slugify(pathName || basename(item.slug || `wordpress-${item.id}`));
 }
 
@@ -238,7 +392,9 @@ function localizeBodyLinks(html) {
 
 function sanitizeImportedHtml(html) {
   return stripStyledComparisonBlocks(
-    stripPluginButtonBlocks(stripPluginTocBlocks(stripInjectedVerdictBlocks(localizeBodyLinks(localizeBodyMedia(html)))))
+    stripPluginSocialShareBlocks(
+      stripPluginButtonBlocks(stripPluginTocBlocks(stripInjectedVerdictBlocks(localizeBodyLinks(localizeBodyMedia(html)))))
+    )
   );
 }
 
@@ -291,6 +447,13 @@ function stripPluginButtonBlocks(html) {
   return stripAnchorElementsByClass(withoutButtonDivs, [
     'wp-block-button__link',
     'wp-block-acf-field-blocks-acf-button__link',
+  ]);
+}
+
+function stripPluginSocialShareBlocks(html) {
+  return stripDivBlocksByClass(html, [
+    'wpusb',
+    'wpusb-container-rounded',
   ]);
 }
 
@@ -403,7 +566,10 @@ function yamlValue(value, indent) {
   if (value && typeof value === 'object') {
     const entries = Object.entries(value).filter(([, entryValue]) => entryValue !== undefined);
     if (entries.length === 0) return '{}';
-    return `\n${entries.map(([key, entryValue]) => `${' '.repeat(indent + 2)}${key}: ${yamlValue(entryValue, indent + 2).trimStart()}`).join('\n')}`;
+    return `\n${entries.map(([key, entryValue]) => {
+      const rendered = yamlValue(entryValue, indent + 2);
+      return `${' '.repeat(indent + 2)}${key}:${rendered.startsWith('\n') ? rendered : ` ${rendered}`}`;
+    }).join('\n')}`;
   }
   return yamlScalar(value);
 }
